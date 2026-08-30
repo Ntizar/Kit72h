@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "sitio": "Kit72h",
+    "descripcion": "Kits de emergencia 72h basados en recomendaciones oficiales de la UE y Protección Civil",
+    "fuentes": [
+      {"nombre": "Estrategia de Preparación de la UE (marzo 2025)", "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698"},
+      {"nombre": "Protección Civil — Recomendaciones", "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"}
+    ],
+    "ultima_revision": "2026-08-30"
+  },
+  "kits": [
+    {
+      "id": "basico-72h",
+      "titulo": "Kit básico 72 horas",
+      "slug": "kit-basico-72h",
+      "icono": "🎒",
+      "resumen": "La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.",
+      "fuente": {
+        "nombre": "Estrategia de Preparación de la Unión Europea — Comunicación JOIN(2025) 90",
+        "url": "https://commission.europa.eu/topics/eu-resilience-and-security_es",
+        "fecha": "2025-03-26"
+      },
+      "guia": {
+        "antes": ["Prepara el kit con toda la familia y guardadlo en lugar conocido y accesible", "Revisa caducidades (agua, comida, pilas, medicación) cada 6 meses", "Anota teléfonos de emergencia en papel: 112, Protección Civil de tu municipio"],
+        "durante": ["Sigue solo instrucciones de fuentes oficiales (112, Protección Civil)", "Raciona agua y batería del móvil", "Mantén la radio a pilas encendida en banda FM"],
+        "despues": ["Reponer lo consumido cuanto antes", "Anota qué faltó y ajusta el kit"]
+      },
+      "secciones": [
+        {"titulo": "Agua e hidratación", "items": [
+          {"producto": "Botella o garrafa de agua (3 L por persona y día)", "afiliado": "AMAZON-URL-AGUA"},
+          {"producto": "Pastillas potabilizadoras de agua", "afiliado": "AMAZON-URL-POTABILIZADORAS"}
+        ]},
+        {"titulo": "Alimentación", "items": [
+          {"producto": "Raciones militares de emergencia (comida deshidratada)", "afiliado": "AMAZON-URL-RACIONES"},
+          {"producto": "Conservas y lata de legumbres (comida no perecedera)", "afiliado": "AMAZON-URL-CONSERVAS"},
+          {"producto": "Barritas energéticas y frutos secos", "afiliado": "AMAZON-URL-BARRITAS"}
+        ]},
+        {"titulo": "Luz y energía", "items": [
+          {"producto": "Linterna LED a pilas (con pilas de repuesto)", "afiliado": "AMAZON-URL-LINTERNA"},
+          {"producto": "Powerbank de alta capacidad (≥ 20.000 mAh)", "afiliado": "AMAZON-URL-POWERBANK"},
+          {"producto": "Pilas alcalinas surtidas (AA/AAA)", "afiliado": "AMAZON-URL-PILAS"}
+        ]},
+        {"titulo": "Información y comunicación", "items": [
+          {"producto": "Radio FM/AM a pilas o dinamo", "afiliado": "AMAZON-URL-RADIO"},
+          {"producto": "Mapa físico de tu zona (papel, no digital)", "afiliado": "AMAZON-URL-MAPA"}
+        ]},
+        {"titulo": "Documentación y dinero", "items": [
+          {"producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)", "afiliado": "AMAZON-URL-BOLSA-ESTANCA"},
+          {"producto": "Faja portadocumentos / riñonera oculta para efectivo", "afiliado": "AMAZON-URL-FAJA"}
+        ]},
+        {"titulo": "Higiene y salud", "items": [
+          {"producto": "Botiquín de primeros auxilios básico", "afiliado": "AMAZON-URL-BOTIQUIN"},
+          {"producto": "Gel hidroalcohólico y toallitas húmedas", "afiliado": "AMAZON-URL-HIGIENE"}
+        ]},
+        {"titulo": "Abrigo y refugio", "items": [
+          {"producto": "Manta térmica de emergencia", "afiliado": "AMAZON-URL-MANTA"},
+          {"producto": "Chubasquero o poncho impermeable", "afiliado": "AMAZON-URL-CHUBASQUERO"}
+        ]}
+      ]
+    },
+    {
+      "id": "dana",
+      "titulo": "Kit DANA / inundación",
+      "slug": "kit-dana",
+      "icono": "🌊",
+      "resumen": "Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las recomendaciones de Protección Civil para lluvias intensas.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante lluvias intensas",
+        "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/lluvias-intensas",
+        "fecha": "2026-08-30"
+      },
+      "guia": {
+        "antes": ["Ten a mano el kit básico 72h", "No dejes objetos sueltos en terrazas o jardines que puedan ser arrastrados", "Si vives en zona inundable, prepara sacos de arena y sal del sótano"],
+        "durante": ["No circules ni camines por zonas inundadas: 15 cm de agua arrastran a una persona", "Sube a plantas altas si el agua entra en casa; no uses ascensor", "Desconecta la electricidad si hay riesgo de contacto con el agua"],
+        "despues": ["No bebas agua del grifo hasta confirmar que es potable", "No enciendas luces ni dispositivos hasta comprobar que la instalación está seca", "Fotografía los daños para el seguro antes de retirar nada"]
+      },
+      "secciones": [
+        {"titulo": "Protección personal frente al agua", "items": [
+          {"producto": "Chubasquero impermeable con capucha", "afiliado": "AMAZON-URL-CHUBASQUERO"},
+          {"producto": "Botas de agua", "afiliado": "AMAZON-URL-BOTAS"},
+          {"producto": "Guantes impermeables", "afiliado": "AMAZON-URL-GUANTES"}
+        ]},
+        {"titulo": "Seguridad eléctrica", "items": [
+          {"producto": "Linterna LED (evita velas: riesgo de incendio)", "afiliado": "AMAZON-URL-LINTERNA"},
+          {"producto": "Tiracables con interruptor diferencial portátil", "afiliado": "AMAZON-URL-DIFERENCIAL"}
+        ]},
+        {"titulo": "Protección de la vivienda", "items": [
+          {"producto": "Sacos de arena vacíos o barreras de inundación", "afiliado": "AMAZON-URL-BARRERAS"},
+          {"producto": "Cinta y plástico para sellar ventanas", "afiliado": "AMAZON-URL-PLASTICO"}
+        ]},
+        {"titulo": "Post-DANA", "items": [
+          {"producto": "Desinfectante de superficies", "afiliado": "AMAZON-URL-DESINFECCION"},
+          {"producto": "Palas y cubos para retirar lodo", "afiliado": "AMAZON-URL-CUBOS"},
+          {"producto": "Desumidificador o sachets antihumedad", "afiliado": "AMAZON-URL-DESHUMIDIFICADOR"}
+        ]}
+      ]
+    },
+    {
+      "id": "apagon",
+      "titulo": "Kit apagón / corte eléctrico",
+      "slug": "kit-apagon",
+      "icono": "🔌",
+      "resumen": "Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.",
+      "fuente": {
+        "nombre": "Estrategia de Preparación de la UE + lecciones del apagón ibérico de abril 2025",
+        "url": "https://commission.europa.eu/topics/eu-resilience-and-security_es",
+        "fecha": "2025-04-28"
+      },
+      "guia": {
+        "antes": ["Carga móviles y powerbank diariamente si hay aviso de tensión eléctrica", "Ten efectivo en casa: los TPV no funcionan sin luz", "Un botón de gas o hornillo de camping para comer caliente"],
+        "durante": ["No uses velas como luz principal: linterna siempre", "Desconecta electrodomésticos sensibles para evitar picos al volver la luz", "Ahorra batería del móvil: solo llamadas y SMS (la red de datos puede caer)"],
+        "despues": ["Recarga todo de nuevo y repón lo gastado", "Comprueba alimentos que hayan perdido la cadena de frío"]
+      },
+      "secciones": [
+        {"titulo": "Luz", "items": [
+          {"producto": "Lámparas LED a pilas con imán (para nevera/despensa)", "afiliado": "AMAZON-URL-LAMPARA-LED"},
+          {"producto": "Linterna frontal (manos libres)", "afiliado": "AMAZON-URL-FRONTAL"},
+          {"producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)", "afiliado": "AMAZON-URL-VELAS"}
+        ]},
+        {"titulo": "Energía", "items": [
+          {"producto": "Powerbank ≥ 20.000 mAh con salida AC o USB-C PD", "afiliado": "AMAZON-URL-POWERBANK"},
+          {"producto": "Panel solar portátil 20-40 W", "afiliado": "AMAZON-URL-PANEL"},
+          {"producto": "Cargador de dinamo multiuso", "afiliado": "AMAZON-URL-DINAMO"}
+        ]},
+        {"titulo": "Cocina sin electricidad", "items": [
+          {"producto": "Hornillo de camping a gas con bombonas", "afiliado": "AMAZON-URL-HORNILLO"},
+          {"producto": "Encendedores y cerillas largas", "afiliado": "AMAZON-URL-CERILLAS"},
+          {"producto": "Nevera portátil de conservas", "afiliado": "AMAZON-URL-NEVERA"}
+        ]},
+        {"titulo": "Dinero y comunicación", "items": [
+          {"producto": "Caja fuerte pequeña portátil para efectivo", "afiliado": "AMAZON-URL-CAJA-FUERTE"},
+          {"producto": "Radio FM/AM a pilas o dinamo", "afiliado": "AMAZON-URL-RADIO"}
+        ]}
+      ]
+    },
+    {
+      "id": "coche",
+      "titulo": "Kit coche",
+      "slug": "kit-coche",
+      "icono": "🚗",
+      "resumen": "Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.",
+      "guia": {
+        "antes": ["Revisa ruedas, batería y niveles antes de viajes largos", "Comprueba el estado del kit cada cambio de estación"],
+        "durante": ["Señaliza el vehículo con triángulos y chaleco antes de salir", "No salgas del coche en nevada si hay tráfico: dentro es más seguro y más cálido"],
+        "despues": ["Repón lo usado (pilas, agua, combustible) al llegar a casa"]
+      },
+      "secciones": [
+        {"titulo": "Obligatorio en España (DGT)", "items": [
+          {"producto": "Dos triángulos de emergencia homologados", "afiliado": "AMAZON-URL-TRIANGULOS"},
+          {"producto": "Chaleco reflectante V-16 (o baliza conectada)", "afiliado": "AMAZON-URL-CHALECO"}
+        ]},
+        {"titulo": "Emergencia y supervivencia", "items": [
+          {"producto": "Botiquín de coche", "afiliado": "AMAZON-URL-BOTIQUIN-COCHE"},
+          {"producto": "Manta térmica", "afiliado": "AMAZON-URL-MANTA"},
+          {"producto": "Linterna LED con imán", "afiliado": "AMAZON-URL-LINTERNA-COCHE"},
+          {"producto": "Cadena de remolque o correa de tiro", "afiliado": "AMAZON-URL-CORREA"},
+          {"producto": "Cadenas para nieve o calcetines textiles", "afiliado": "AMAZON-URL-CADENAS"}
+        ]},
+        {"titulo": "Energía y confort", "items": [
+          {"producto": "Powerbank de coche 12V", "afiliado": "AMAZON-URL-POWERBANK-COCHE"},
+          {"producto": "Agua embotellada (renovar cada 6 meses)", "afiliado": "AMAZON-URL-AGUA"},
+          {"producto": "Barritas energéticas", "afiliado": "AMAZON-URL-BARRITAS"}
+        ]}
+      ]
+    },
+    {
+      "id": "hogar",
+      "titulo": "Kit hogar / confinamiento",
+      "slug": "kit-hogar",
+      "icono": "🏠",
+      "resumen": "Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.",
+      "guia": {
+        "antes": ["Calcula agua y comida para todas las personas de casa × 3 días", "Si hay niños, bebés o mascotas: ajusta el kit a ellos", "Ten a mano juegos o libros para mantener la moral"],
+        "durante": ["Raciona agua si el suministro se corta", "Ventila a diario si es posible", "Mantén la radio oficial encendida al menos 2 veces al día"],
+        "despues": ["Inventario de lo consumido y repuesto inmediato"]
+      },
+      "secciones": [
+        {"titulo": "Agua y comida", "items": [
+          {"producto": "Garrafas de agua 8 L (2 por persona)", "afiliado": "AMAZON-URL-GARRAFAS"},
+          {"producto": "Conservas variadas (15-20 latas)", "afiliado": "AMAZON-URL-CONSERVAS"},
+          {"producto": "Pastas, arroz y legumbres en paquetes", "afiliado": "AMAZON-URL-PASTAS"},
+          {"producto": "Comida para mascotas extra", "afiliado": "AMAZON-URL-MASCOTAS"}
+        ]},
+        {"titulo": "Higiene y limpieza", "items": [
+          {"producto": "Gel hidroalcohólico y jabón", "afiliado": "AMAZON-URL-GEL"},
+          {"producto": "Lejía y desinfectante de superficies", "afiliado": "AMAZON-URL-LEJIA"},
+          {"producto": "Papel higiénico y toallitas", "afiliado": "AMAZON-URL-PAPEL"}
+        ]},
+        {"titulo": "Salud", "items": [
+          {"producto": "Termómetro digital", "afiliado": "AMAZON-URL-TERMOMETRO"},
+          {"producto": "Paracetamol e ibuprofeno (caducidad larga)", "afiliado": "AMAZON-URL-ANALGESICOS"},
+          {"producto": "Mascarillas FFP2", "afiliado": "AMAZON-URL-MASCARILLAS"}
+        ]},
+        {"titulo": "Moral", "items": [
+          {"producto": "Juegos de mesa o cartas", "afiliado": "AMAZON-URL-JUEGOS"},
+          {"producto": "Libros de bolsillo", "afiliado": "AMAZON-URL-LIBROS"}
+        ]}
+      ]
+    },
+    {
+      "id": "montana",
+      "titulo": "Kit montaña / senderismo",
+      "slug": "kit-montana",
+      "icono": "⛰️",
+      "resumen": "Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.",
+      "guia": {
+        "antes": ["Comparte siempre ruta y hora de vuelta con alguien", "Consulta el aviso meteorológico (AEMET) antes de salir", "Descarga la app del 112 de tu comunidad autónoma"],
+        "durante": ["Si te pierdes, quédate quieto y hazte visible", "Raciona agua y no te desvíes de la ruta conocida"],
+        "despues": ["Repón y revisa el kit tras cada salida", "Anota qué te faltó para la próxima"]
+      },
+      "secciones": [
+        {"titulo": "Orientación y comunicación", "items": [
+          {"producto": "Powerbank ligero + cable USB", "afiliado": "AMAZON-URL-POWERBANK-LIGERO"},
+          {"producto": "Silbato de emergencia", "afiliado": "AMAZON-URL-SILBATO"},
+          {"producto": "Mapa y brújula físicos de la zona", "afiliado": "AMAZON-URL-BRUJULA"}
+        ]},
+        {"titulo": "Refugio y abrigo", "items": [
+          {"producto": "Manta térmica de supervivencia", "afiliado": "AMAZON-URL-MANTA-SUP"},
+          {"producto": "Chubasquero ligero", "afiliado": "AMAZON-URL-CHUBASQUERO"},
+          {"producto": "Casquete o gorro de abrigo", "afiliado": "AMAZON-URL-GORRO"}
+        ]},
+        {"titulo": "Salud y reparación", "items": [
+          {"producto": "Botiquín ligero de trekking", "afiliado": "AMAZON-URL-BOTIQUIN-TREK"},
+          {"producto": "Crema solar y labial con protección", "afiliado": "AMAZON-URL-SOLAR"},
+          {"producto": "Navaja multiuso", "afiliado": "AMAZON-URL-NAVAJA"},
+          {"producto": "Frontal con pilas de repuesto", "afiliado": "AMAZON-URL-FRONTAL"}
+        ]}
+      ]
+    },
+    {
+      "id": "calor",
+      "titulo": "Kit ola de calor",
+      "slug": "kit-calor",
+      "icono": "🔥",
+      "resumen": "España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas en casa o en el trabajo sin acabar en urgencias.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante altas temperaturas",
+        "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/altas-temperaturas",
+        "fecha": "2026-08-30"
+      },
+      "guia": {
+        "antes": ["Cierra persianas y ventanas de sol durante el día", "Bebe agua aunque no tengas sed; evita alcohol y cafeína", "Revisa vecinos mayores y personas vulnerables"],
+        "durante": ["Queda en la habitación más fresca de casa", "Duchas tibias, no frías", "Si tienes mareo, dolor de cabeza o piel seca y caliente: puede ser golpe de calor, llama al 112"],
+        "despues": ["Revisa si la medicación de alguien necesita refrigeración y ten plan B"]
+      },
+      "secciones": [
+        {"titulo": "Frescura", "items": [
+          {"producto": "Ventilador USB o a pilas", "afiliado": "AMAZON-URL-VENTILADOR"},
+          {"producto": "Toalla de enfriamiento instantáneo", "afiliado": "AMAZON-URL-TOALLA"},
+          {"producto": "Pulverizador de agua", "afiliado": "AMAZON-URL-PULVERIZADOR"}
+        ]},
+        {"titulo": "Hidratación", "items": [
+          {"producto": "Botella isotérmica de acero (mantiene frío 12-24 h)", "afiliado": "AMAZON-URL-BOTELLA"},
+          {"producto": "Sales de rehidratación oral", "afiliado": "AMAZON-URL-SALES"}
+        ]},
+        {"titulo": "Protección solar", "items": [
+          {"producto": "Protector solar SPF 50", "afiliado": "AMAZON-URL-PROTECTOR"},
+          {"producto": "Gafas de sol categoría 3-4", "afiliado": "AMAZON-URL-GAFAS"}
+        ]}
+      ]
+    },
+    {
+      "id": "evacuacion",
+      "titulo": "Mochila de evacuación",
+      "slug": "kit-evacuacion",
+      "icono": "🧳",
+      "resumen": "Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.",
+      "guia": {
+        "antes": ["Mochila en el recibidor, siempre el mismo sitio", "Copia de documentos en bolsa estanca", "Ruta de evacuación acordada con la familia"],
+        "durante": ["No vuelvas a casa por objetos olvidados", "Sigue solo la indicación de los servicios de emergencia"],
+        "despues": ["No entres en la vivienda hasta autorización oficial"]
+      },
+      "secciones": [
+        {"titulo": "Documentación esencial", "items": [
+          {"producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)", "afiliado": "AMAZON-URL-CARPETA"},
+          {"producto": "Copia digital en USB cifrado", "afiliado": "AMAZON-URL-USB"}
+        ]},
+        {"titulo": "Supervivencia 24-72 h", "items": [
+          {"producto": "Mochila de 30-40 L resistente al agua", "afiliado": "AMAZON-URL-MOCHILA"},
+          {"producto": "Botella de agua + pastillas potabilizadoras", "afiliado": "AMAZON-URL-POTABILIZADORAS"},
+          {"producto": "Ración de comida deshidratada", "afiliado": "AMAZON-URL-RACIONES"},
+          {"producto": "Manta térmica + poncho", "afiliado": "AMAZON-URL-MANTA"}
+        ]},
+        {"titulo": "Utilidad", "items": [
+          {"producto": "Linterna + batería externa", "afiliado": "AMAZON-URL-FRONTAL"},
+          {"producto": "Botiquín de bolsillo", "afiliado": "AMAZON-URL-BOTIQUIN"},
+          {"producto": "Efectivo en billetes pequeños", "afiliado": "AMAZON-URL-FAJA"}
+        ]}
+      ]
+    }
+  ],
+  "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea.",
+  "attribution": "Hecho con ❤️ por David Antizar"
+}

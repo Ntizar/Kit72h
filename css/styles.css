@@ -1,0 +1,218 @@
+/* Kit72h — estilos Mad Max: cobre oxidado, tierra y petróleo */
+:root {
+  --cobre: #c47f3e;
+  --cobre-claro: #e0a464;
+  --cobre-oscuro: #8a5524;
+  --oxido: #7a3b16;
+  --arena: #d9b384;
+  --tierra: #3d2817;
+  --petroleo: #0d0a07;
+  --humo: #b5a08a;
+  --peligro: #d43f2a;
+  --borde: rgba(196, 127, 62, .35);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: "Barlow Condensed", "Segoe UI", sans-serif;
+  color: var(--arena);
+  background: var(--petroleo);
+  line-height: 1.55;
+  font-size: 16px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* --- Fondo 3D + capas de suciedad --- */
+#fondo3d {
+  position: fixed; inset: 0; width: 100%; height: 100%;
+  z-index: 0; display: block;
+}
+.grano {
+  position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  opacity: .5; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='.35'/%3E%3C/svg%3E");
+}
+.manchas {
+  position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  background:
+    radial-gradient(ellipse 420px 180px at 12% 88%, rgba(5,4,3,.55), transparent 70%),
+    radial-gradient(ellipse 320px 140px at 85% 12%, rgba(8,5,3,.5), transparent 70%),
+    radial-gradient(ellipse 500px 220px at 60% 105%, rgba(10,6,4,.6), transparent 75%);
+}
+
+/* --- Contenido por encima del fondo --- */
+.site-header, #app, .site-footer { position: relative; z-index: 2; }
+
+.container { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+.site-header {
+  padding: 16px 0;
+  background: linear-gradient(180deg, rgba(13,10,7,.92), rgba(13,10,7,.55) 70%, transparent);
+  border-bottom: 1px solid var(--borde);
+  backdrop-filter: blur(3px);
+}
+.site-header .container { display: flex; justify-content: space-between; align-items: center; }
+.logo {
+  font-family: "Rubik Dirt", system-ui;
+  font-size: 26px; letter-spacing: 2px;
+  color: var(--cobre-claro); text-decoration: none;
+  text-shadow: 0 2px 8px rgba(0,0,0,.8), 0 0 24px rgba(196,127,62,.25);
+}
+.logo .accent { color: var(--peligro); }
+nav a {
+  margin-left: 18px; text-decoration: none; color: var(--humo);
+  font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; font-size: 13px;
+  padding-bottom: 2px; border-bottom: 1px solid transparent;
+  transition: color .15s, border-color .15s;
+}
+nav a:hover { color: var(--cobre-claro); border-color: var(--cobre); }
+
+/* --- Home --- */
+.hero { padding: 56px 0 20px; }
+.hero h1 {
+  font-family: "Rubik Dirt", system-ui;
+  font-size: clamp(34px, 6vw, 58px); font-weight: 400;
+  color: var(--cobre-claro); line-height: 1.05;
+  text-shadow: 0 3px 14px rgba(0,0,0,.85), 0 0 40px rgba(196,127,62,.18);
+}
+.hero h1 .q { color: var(--peligro); }
+.hero p { color: var(--humo); max-width: 620px; margin-top: 12px; font-size: 17px; }
+.badge-fuente {
+  display: inline-block; margin-top: 16px; padding: 6px 14px;
+  border: 1px dashed var(--borde); color: var(--cobre-claro);
+  border-radius: 4px; font-size: 13px; letter-spacing: 1px; text-transform: uppercase;
+  background: rgba(13,10,7,.6);
+}
+
+.grid-kits {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px; padding: 28px 0 48px;
+}
+.card-kit {
+  position: relative;
+  border: 1px solid var(--borde); border-radius: 6px;
+  padding: 20px 18px 18px; cursor: pointer;
+  background:
+    linear-gradient(160deg, rgba(61,40,23,.82), rgba(23,15,9,.9)),
+    radial-gradient(circle at 80% 15%, rgba(196,127,62,.18), transparent 50%);
+  box-shadow: 0 4px 16px rgba(0,0,0,.5), inset 0 1px 0 rgba(224,164,100,.15);
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s;
+  overflow: hidden;
+}
+/* salpicaduras de petróleo en esquinas */
+.card-kit::before, .card-kit::after {
+  content: ""; position: absolute; border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, rgba(0,0,0,.65), rgba(0,0,0,.35) 55%, transparent 75%);
+  filter: blur(2px);
+}
+.card-kit::before { width: 70px; height: 46px; bottom: -14px; right: -10px; transform: rotate(-12deg); }
+.card-kit::after { width: 44px; height: 30px; top: -8px; left: 14px; transform: rotate(20deg); opacity: .7; }
+.card-kit:hover {
+  transform: translateY(-4px);
+  border-color: var(--cobre);
+  box-shadow: 0 10px 26px rgba(0,0,0,.65), 0 0 30px rgba(196,127,62,.12), inset 0 1px 0 rgba(224,164,100,.25);
+}
+.card-kit .icono { font-size: 30px; filter: drop-shadow(0 2px 6px rgba(0,0,0,.6)); }
+.card-kit h2 {
+  font-size: 19px; margin: 10px 0 6px; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase; color: var(--cobre-claro);
+}
+.card-kit p { font-size: 14px; color: var(--humo); position: relative; z-index: 1; }
+.card-kit .num {
+  position: absolute; top: 10px; right: 14px;
+  font-size: 12px; color: var(--oxido); letter-spacing: 2px; font-weight: 600;
+}
+
+/* --- Ficha de kit --- */
+.ficha h1 {
+  font-family: "Rubik Dirt", system-ui;
+  font-size: clamp(26px, 4.5vw, 40px); font-weight: 400;
+  color: var(--cobre-claro); margin: 32px 0 8px;
+  text-shadow: 0 2px 12px rgba(0,0,0,.8);
+}
+.ficha .resumen { color: var(--humo); font-size: 16px; margin-bottom: 12px; max-width: 640px; }
+.ficha .fuente {
+  font-size: 13px; color: var(--arena); padding: 10px 14px;
+  background: rgba(61,40,23,.55); border-left: 3px solid var(--cobre);
+  border-radius: 0 6px 6px 0; margin-bottom: 28px;
+}
+.ficha .fuente a { color: var(--cobre-claro); }
+
+.seccion-kit { margin-bottom: 30px; }
+.seccion-kit h2 {
+  font-size: 16px; letter-spacing: 2.5px; text-transform: uppercase; font-weight: 700;
+  color: var(--cobre); margin-bottom: 12px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--borde);
+  display: flex; align-items: center; gap: 10px;
+}
+.seccion-kit h2::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, var(--borde), transparent); }
+ul.items { list-style: none; }
+ul.items li {
+  padding: 12px 4px; border-bottom: 1px dashed rgba(196,127,62,.22);
+  display: flex; justify-content: space-between; align-items: center; gap: 14px;
+}
+ul.items li:hover { background: rgba(61,40,23,.35); }
+ul.items .producto { flex: 1; font-size: 15px; color: var(--arena); }
+.btn-amazon {
+  display: inline-block; padding: 7px 16px;
+  background: linear-gradient(180deg, var(--cobre), var(--cobre-oscuro));
+  color: #1a0f06; text-decoration: none; border-radius: 4px;
+  font-size: 13px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+  white-space: nowrap; border: 1px solid rgba(224,164,100,.5);
+  box-shadow: 0 2px 8px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,220,180,.3);
+  transition: filter .15s, transform .1s;
+}
+.btn-amazon:hover { filter: brightness(1.12); transform: translateY(-1px); }
+
+.guia-kit {
+  margin-top: 36px; padding: 22px;
+  background: rgba(13,10,7,.72); border: 1px solid var(--borde); border-radius: 6px;
+  box-shadow: inset 0 0 40px rgba(0,0,0,.5);
+}
+.guia-kit h2 { font-size: 18px; letter-spacing: 2px; text-transform: uppercase; color: var(--cobre-claro); margin-bottom: 16px; }
+.guia-kit .bloque { margin-bottom: 16px; }
+.guia-kit .bloque h3 { font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--peligro); margin-bottom: 6px; }
+.guia-kit .bloque ul { margin-left: 18px; font-size: 15px; color: var(--arena); }
+.guia-kit .bloque li { margin-bottom: 4px; }
+
+.btn-accion, button {
+  display: inline-block; margin-top: 20px; padding: 10px 22px;
+  background: transparent; color: var(--cobre-claro);
+  border: 1px solid var(--cobre); border-radius: 4px;
+  font-family: inherit; font-size: 14px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+  cursor: pointer; transition: background .15s, color .15s;
+}
+.btn-accion:hover, button:hover { background: var(--cobre); color: #1a0f06; }
+
+.volver { display: inline-block; margin: 24px 0 0; color: var(--cobre); text-decoration: none; font-size: 14px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; }
+.volver:hover { color: var(--cobre-claro); }
+
+/* --- Fuentes --- */
+.fuentes-pagina { padding: 40px 0; }
+.fuentes-pagina h1 { font-family: "Rubik Dirt", system-ui; font-weight: 400; font-size: 30px; color: var(--cobre-claro); margin-bottom: 14px; }
+.fuentes-pagina p { color: var(--humo); max-width: 640px; }
+.fuentes-pagina ul { margin: 20px 0 0 18px; }
+.fuentes-pagina li { margin-bottom: 10px; font-size: 15px; }
+.fuentes-pagina a { color: var(--cobre-claro); }
+
+.site-footer { border-top: 1px solid var(--borde); padding: 26px 0 44px; margin-top: 48px; background: linear-gradient(0deg, rgba(13,10,7,.9), transparent); }
+.site-footer p { font-size: 12.5px; color: var(--humo); }
+.site-footer .attribution { margin-top: 8px; color: var(--oxido); letter-spacing: 1px; }
+
+/* --- Móvil --- */
+@media (max-width: 600px) {
+  .grid-kits { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .card-kit { padding: 14px; }
+  ul.items li { flex-direction: column; align-items: flex-start; }
+}
+@media (max-width: 420px) { .grid-kits { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) { #fondo3d { display: none; } }
+
+@media print {
+  #fondo3d, .grano, .manchas, .site-header, .site-footer, .btn-amazon, .btn-accion { display: none !important; }
+  body { background: #fff; color: #111; }
+  .card-kit, .guia-kit { border-color: #ccc; background: #fff; }
+  .card-kit h2, .ficha h1, .seccion-kit h2 { color: #111; }
+  ul.items .producto { color: #111; }
+}

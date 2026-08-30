@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kit72h — Kits de emergencia del páramo</title>
+<meta name="description" content="Kits de emergencia 72 horas basados en las recomendaciones oficiales de la UE y Protección Civil. DANA, apagón, coche, hogar, montaña y más.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚙️</text></svg>">
+</head>
+<body>
+<canvas id="fondo3d" aria-hidden="true"></canvas>
+<div class="grano" aria-hidden="true"></div>
+<div class="manchas" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="container">
+    <a href="#" class="logo" onclick="ui.irA('home')">KIT<span class="accent">72H</span></a>
+    <nav>
+      <a href="#" onclick="ui.irA('home');return false">Kits</a>
+      <a href="#" onclick="ui.irA('fuentes');return false">Fuentes oficiales</a>
+    </nav>
+  </div>
+</header>
+
+<main id="app" class="container"></main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p id="disclosure"></p>
+    <p class="attribution">Hecho con ❤️ por David Antizar</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+<script src="js/fondo.js"></script>
+<script src="js/state.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
