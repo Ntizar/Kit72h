@@ -3,8 +3,14 @@
     "sitio": "Kit72h",
     "descripcion": "Kits de emergencia 72h basados en recomendaciones oficiales de la UE y Protección Civil",
     "fuentes": [
-      {"nombre": "Estrategia de Preparación de la UE (marzo 2025)", "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698"},
-      {"nombre": "Protección Civil — Recomendaciones", "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"}
+      {
+        "nombre": "Estrategia de Preparación de la UE (marzo 2025)",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698"
+      },
+      {
+        "nombre": "Protección Civil — Recomendaciones",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+      }
     ],
     "ultima_revision": "2026-08-30"
   },
@@ -21,41 +27,169 @@
         "fecha": "2025-03-26"
       },
       "guia": {
-        "antes": ["Prepara el kit con toda la familia y guardadlo en lugar conocido y accesible", "Revisa caducidades (agua, comida, pilas, medicación) cada 6 meses", "Anota teléfonos de emergencia en papel: 112, Protección Civil de tu municipio"],
-        "durante": ["Sigue solo instrucciones de fuentes oficiales (112, Protección Civil)", "Raciona agua y batería del móvil", "Mantén la radio a pilas encendida en banda FM"],
-        "despues": ["Reponer lo consumido cuanto antes", "Anota qué faltó y ajusta el kit"]
+        "antes": [
+          "Prepara el kit con toda la familia y guardadlo en lugar conocido y accesible",
+          "Revisa caducidades (agua, comida, pilas, medicación) cada 6 meses",
+          "Anota teléfonos de emergencia en papel: 112, Protección Civil de tu municipio"
+        ],
+        "durante": [
+          "Sigue solo instrucciones de fuentes oficiales (112, Protección Civil)",
+          "Raciona agua y batería del móvil",
+          "Mantén la radio a pilas encendida en banda FM"
+        ],
+        "despues": [
+          "Reponer lo consumido cuanto antes",
+          "Anota qué faltó y ajusta el kit"
+        ]
       },
       "secciones": [
-        {"titulo": "Agua e hidratación", "items": [
-          {"producto": "Botella o garrafa de agua (3 L por persona y día)", "afiliado": "AMAZON-URL-AGUA"},
-          {"producto": "Pastillas potabilizadoras de agua", "afiliado": "AMAZON-URL-POTABILIZADORAS"}
-        ]},
-        {"titulo": "Alimentación", "items": [
-          {"producto": "Raciones militares de emergencia (comida deshidratada)", "afiliado": "AMAZON-URL-RACIONES"},
-          {"producto": "Conservas y lata de legumbres (comida no perecedera)", "afiliado": "AMAZON-URL-CONSERVAS"},
-          {"producto": "Barritas energéticas y frutos secos", "afiliado": "AMAZON-URL-BARRITAS"}
-        ]},
-        {"titulo": "Luz y energía", "items": [
-          {"producto": "Linterna LED a pilas (con pilas de repuesto)", "afiliado": "AMAZON-URL-LINTERNA"},
-          {"producto": "Powerbank de alta capacidad (≥ 20.000 mAh)", "afiliado": "AMAZON-URL-POWERBANK"},
-          {"producto": "Pilas alcalinas surtidas (AA/AAA)", "afiliado": "AMAZON-URL-PILAS"}
-        ]},
-        {"titulo": "Información y comunicación", "items": [
-          {"producto": "Radio FM/AM a pilas o dinamo", "afiliado": "AMAZON-URL-RADIO"},
-          {"producto": "Mapa físico de tu zona (papel, no digital)", "afiliado": "AMAZON-URL-MAPA"}
-        ]},
-        {"titulo": "Documentación y dinero", "items": [
-          {"producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)", "afiliado": "AMAZON-URL-BOLSA-ESTANCA"},
-          {"producto": "Faja portadocumentos / riñonera oculta para efectivo", "afiliado": "AMAZON-URL-FAJA"}
-        ]},
-        {"titulo": "Higiene y salud", "items": [
-          {"producto": "Botiquín de primeros auxilios básico", "afiliado": "AMAZON-URL-BOTIQUIN"},
-          {"producto": "Gel hidroalcohólico y toallitas húmedas", "afiliado": "AMAZON-URL-HIGIENE"}
-        ]},
-        {"titulo": "Abrigo y refugio", "items": [
-          {"producto": "Manta térmica de emergencia", "afiliado": "AMAZON-URL-MANTA"},
-          {"producto": "Chubasquero o poncho impermeable", "afiliado": "AMAZON-URL-CHUBASQUERO"}
-        ]}
+        {
+          "titulo": "Agua e hidratación",
+          "items": [
+            {
+              "producto": "Botella o garrafa de agua (3 L por persona y día)",
+              "afiliado": "AMAZON-URL-AGUA",
+              "descripcion": "Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pastillas potabilizadoras de agua",
+              "afiliado": "AMAZON-URL-POTABILIZADORAS",
+              "descripcion": "Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Alimentación",
+          "items": [
+            {
+              "producto": "Raciones militares de emergencia (comida deshidratada)",
+              "afiliado": "AMAZON-URL-RACIONES",
+              "descripcion": "Comida deshidratada con 2 años de vida útil. Solo necesita agua caliente.",
+              "precio_aprox": "8-12 €/ud",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Conservas y lata de legumbres (comida no perecedera)",
+              "afiliado": "AMAZON-URL-CONSERVAS",
+              "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
+              "precio_aprox": "1-3 €/lata",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Barritas energéticas y frutos secos",
+              "afiliado": "AMAZON-URL-BARRITAS",
+              "descripcion": "Energía rápida en formato compacto. 400-500 kcal por barrita.",
+              "precio_aprox": "10-15 €/pack",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Luz y energía",
+          "items": [
+            {
+              "producto": "Linterna LED a pilas (con pilas de repuesto)",
+              "afiliado": "AMAZON-URL-LINTERNA",
+              "descripcion": "Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Powerbank de alta capacidad (≥ 20.000 mAh)",
+              "afiliado": "AMAZON-URL-POWERBANK",
+              "descripcion": "Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pilas alcalinas surtidas (AA/AAA)",
+              "afiliado": "AMAZON-URL-PILAS",
+              "descripcion": "Surtido AA/AAA. Los aparatos del kit mueren sin pilas de repuesto.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Información y comunicación",
+          "items": [
+            {
+              "producto": "Radio FM/AM a pilas o dinamo",
+              "afiliado": "AMAZON-URL-RADIO",
+              "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Mapa físico de tu zona (papel, no digital)",
+              "afiliado": "AMAZON-URL-MAPA",
+              "descripcion": "Papel, no digital. El GPS puede caerse; el papel no.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Documentación y dinero",
+          "items": [
+            {
+              "producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+              "afiliado": "AMAZON-URL-BOLSA-ESTANCA",
+              "descripcion": "Bolsa de cierre zip de grado militar: DNI, pólizas y recetas secos siempre.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Faja portadocumentos / riñonera oculta para efectivo",
+              "afiliado": "AMAZON-URL-FAJA",
+              "descripcion": "Riñonera oculta bajo la ropa para llevar efectivo y documentación encima.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y salud",
+          "items": [
+            {
+              "producto": "Botiquín de primeros auxilios básico",
+              "afiliado": "AMAZON-URL-BOTIQUIN",
+              "descripcion": "Vendas, antiséptico, gasas, tijeras y guantes. Base de cualquier kit.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Gel hidroalcohólico y toallitas húmedas",
+              "afiliado": "AMAZON-URL-HIGIENE",
+              "descripcion": "Higiene sin agua. Fundamental cuando falla el suministro.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Abrigo y refugio",
+          "items": [
+            {
+              "producto": "Manta térmica de emergencia",
+              "afiliado": "AMAZON-URL-MANTA",
+              "descripcion": "Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Chubasquero o poncho impermeable",
+              "afiliado": "AMAZON-URL-CHUBASQUERO",
+              "descripcion": "Impermeable ligero reutilizable. Mantente seco = mantente caliente.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        }
       ]
     },
     {
@@ -70,29 +204,113 @@
         "fecha": "2026-08-30"
       },
       "guia": {
-        "antes": ["Ten a mano el kit básico 72h", "No dejes objetos sueltos en terrazas o jardines que puedan ser arrastrados", "Si vives en zona inundable, prepara sacos de arena y sal del sótano"],
-        "durante": ["No circules ni camines por zonas inundadas: 15 cm de agua arrastran a una persona", "Sube a plantas altas si el agua entra en casa; no uses ascensor", "Desconecta la electricidad si hay riesgo de contacto con el agua"],
-        "despues": ["No bebas agua del grifo hasta confirmar que es potable", "No enciendas luces ni dispositivos hasta comprobar que la instalación está seca", "Fotografía los daños para el seguro antes de retirar nada"]
+        "antes": [
+          "Ten a mano el kit básico 72h",
+          "No dejes objetos sueltos en terrazas o jardines que puedan ser arrastrados",
+          "Si vives en zona inundable, prepara sacos de arena y sal del sótano"
+        ],
+        "durante": [
+          "No circules ni camines por zonas inundadas: 15 cm de agua arrastran a una persona",
+          "Sube a plantas altas si el agua entra en casa; no uses ascensor",
+          "Desconecta la electricidad si hay riesgo de contacto con el agua"
+        ],
+        "despues": [
+          "No bebas agua del grifo hasta confirmar que es potable",
+          "No enciendas luces ni dispositivos hasta comprobar que la instalación está seca",
+          "Fotografía los daños para el seguro antes de retirar nada"
+        ]
       },
       "secciones": [
-        {"titulo": "Protección personal frente al agua", "items": [
-          {"producto": "Chubasquero impermeable con capucha", "afiliado": "AMAZON-URL-CHUBASQUERO"},
-          {"producto": "Botas de agua", "afiliado": "AMAZON-URL-BOTAS"},
-          {"producto": "Guantes impermeables", "afiliado": "AMAZON-URL-GUANTES"}
-        ]},
-        {"titulo": "Seguridad eléctrica", "items": [
-          {"producto": "Linterna LED (evita velas: riesgo de incendio)", "afiliado": "AMAZON-URL-LINTERNA"},
-          {"producto": "Tiracables con interruptor diferencial portátil", "afiliado": "AMAZON-URL-DIFERENCIAL"}
-        ]},
-        {"titulo": "Protección de la vivienda", "items": [
-          {"producto": "Sacos de arena vacíos o barreras de inundación", "afiliado": "AMAZON-URL-BARRERAS"},
-          {"producto": "Cinta y plástico para sellar ventanas", "afiliado": "AMAZON-URL-PLASTICO"}
-        ]},
-        {"titulo": "Post-DANA", "items": [
-          {"producto": "Desinfectante de superficies", "afiliado": "AMAZON-URL-DESINFECCION"},
-          {"producto": "Palas y cubos para retirar lodo", "afiliado": "AMAZON-URL-CUBOS"},
-          {"producto": "Desumidificador o sachets antihumedad", "afiliado": "AMAZON-URL-DESHUMIDIFICADOR"}
-        ]}
+        {
+          "titulo": "Protección personal frente al agua",
+          "items": [
+            {
+              "producto": "Chubasquero impermeable con capucha",
+              "afiliado": "AMAZON-URL-CHUBASQUERO",
+              "descripcion": "Capucha ajustada y costuras selladas para lluvia torrencial.",
+              "precio_aprox": "20-40 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Botas de agua",
+              "afiliado": "AMAZON-URL-BOTAS",
+              "descripcion": "Goma hasta la rodilla: agua contaminada, lodo y objetos cortados.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Guantes impermeables",
+              "afiliado": "AMAZON-URL-GUANTES",
+              "descripcion": "Protección al manipular escombros y trabajar en agua.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "extra"
+            }
+          ]
+        },
+        {
+          "titulo": "Seguridad eléctrica",
+          "items": [
+            {
+              "producto": "Linterna LED (evita velas: riesgo de incendio)",
+              "afiliado": "AMAZON-URL-LINTERNA",
+              "descripcion": "Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Tiracables con interruptor diferencial portátil",
+              "afiliado": "AMAZON-URL-DIFERENCIAL",
+              "descripcion": "Protección contra electrocución al reconectar energía en zonas húmedas.",
+              "precio_aprox": "20-40 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Protección de la vivienda",
+          "items": [
+            {
+              "producto": "Sacos de arena vacíos o barreras de inundación",
+              "afiliado": "AMAZON-URL-BARRERAS",
+              "descripcion": "Barreras improvisadas contra el agua en puertas y ventanas bajas.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Cinta y plástico para sellar ventanas",
+              "afiliado": "AMAZON-URL-PLASTICO",
+              "descripcion": "Sellado de ventanas y grietas ante lluvias con viento.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "extra"
+            }
+          ]
+        },
+        {
+          "titulo": "Post-DANA",
+          "items": [
+            {
+              "producto": "Desinfectante de superficies",
+              "afiliado": "AMAZON-URL-DESINFECCION",
+              "descripcion": "El agua de DANA deja lodo con aguas fecales: desinfecta todo.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Palas y cubos para retirar lodo",
+              "afiliado": "AMAZON-URL-CUBOS",
+              "descripcion": "Retirar lodo y agua acumulada tras el paso del agua.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Desumidificador o sachets antihumedad",
+              "afiliado": "AMAZON-URL-DESHUMIDIFICADOR",
+              "descripcion": "Evita moho y humedad estructural tras la inundación.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "extra"
+            }
+          ]
+        }
       ]
     },
     {
@@ -107,30 +325,119 @@
         "fecha": "2025-04-28"
       },
       "guia": {
-        "antes": ["Carga móviles y powerbank diariamente si hay aviso de tensión eléctrica", "Ten efectivo en casa: los TPV no funcionan sin luz", "Un botón de gas o hornillo de camping para comer caliente"],
-        "durante": ["No uses velas como luz principal: linterna siempre", "Desconecta electrodomésticos sensibles para evitar picos al volver la luz", "Ahorra batería del móvil: solo llamadas y SMS (la red de datos puede caer)"],
-        "despues": ["Recarga todo de nuevo y repón lo gastado", "Comprueba alimentos que hayan perdido la cadena de frío"]
+        "antes": [
+          "Carga móviles y powerbank diariamente si hay aviso de tensión eléctrica",
+          "Ten efectivo en casa: los TPV no funcionan sin luz",
+          "Un botón de gas o hornillo de camping para comer caliente"
+        ],
+        "durante": [
+          "No uses velas como luz principal: linterna siempre",
+          "Desconecta electrodomésticos sensibles para evitar picos al volver la luz",
+          "Ahorra batería del móvil: solo llamadas y SMS (la red de datos puede caer)"
+        ],
+        "despues": [
+          "Recarga todo de nuevo y repón lo gastado",
+          "Comprueba alimentos que hayan perdido la cadena de frío"
+        ]
       },
       "secciones": [
-        {"titulo": "Luz", "items": [
-          {"producto": "Lámparas LED a pilas con imán (para nevera/despensa)", "afiliado": "AMAZON-URL-LAMPARA-LED"},
-          {"producto": "Linterna frontal (manos libres)", "afiliado": "AMAZON-URL-FRONTAL"},
-          {"producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)", "afiliado": "AMAZON-URL-VELAS"}
-        ]},
-        {"titulo": "Energía", "items": [
-          {"producto": "Powerbank ≥ 20.000 mAh con salida AC o USB-C PD", "afiliado": "AMAZON-URL-POWERBANK"},
-          {"producto": "Panel solar portátil 20-40 W", "afiliado": "AMAZON-URL-PANEL"},
-          {"producto": "Cargador de dinamo multiuso", "afiliado": "AMAZON-URL-DINAMO"}
-        ]},
-        {"titulo": "Cocina sin electricidad", "items": [
-          {"producto": "Hornillo de camping a gas con bombonas", "afiliado": "AMAZON-URL-HORNILLO"},
-          {"producto": "Encendedores y cerillas largas", "afiliado": "AMAZON-URL-CERILLAS"},
-          {"producto": "Nevera portátil de conservas", "afiliado": "AMAZON-URL-NEVERA"}
-        ]},
-        {"titulo": "Dinero y comunicación", "items": [
-          {"producto": "Caja fuerte pequeña portátil para efectivo", "afiliado": "AMAZON-URL-CAJA-FUERTE"},
-          {"producto": "Radio FM/AM a pilas o dinamo", "afiliado": "AMAZON-URL-RADIO"}
-        ]}
+        {
+          "titulo": "Luz",
+          "items": [
+            {
+              "producto": "Lámparas LED a pilas con imán (para nevera/despensa)",
+              "afiliado": "AMAZON-URL-LAMPARA-LED",
+              "descripcion": "Se adhiere a nevera, despensa o capó del coche. Manos libres.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Linterna frontal (manos libres)",
+              "afiliado": "AMAZON-URL-FRONTAL",
+              "descripcion": "Ilumina sin ocupar las manos: imprescindible para trabajar de noche.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)",
+              "afiliado": "AMAZON-URL-VELAS",
+              "descripcion": "Refuerzo de luz, nunca fuente principal. Con portavelas metálico.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "extra"
+            }
+          ]
+        },
+        {
+          "titulo": "Energía",
+          "items": [
+            {
+              "producto": "Powerbank ≥ 20.000 mAh con salida AC o USB-C PD",
+              "afiliado": "AMAZON-URL-POWERBANK",
+              "descripcion": "Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Panel solar portátil 20-40 W",
+              "afiliado": "AMAZON-URL-PANEL",
+              "descripcion": "Recarga el powerbank con sol. 20-40 W carga un móvil en 3-4 horas.",
+              "precio_aprox": "40-80 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Cargador de dinamo multiuso",
+              "afiliado": "AMAZON-URL-DINAMO",
+              "descripcion": "Manivela manual: energía infinita sin sol ni red.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "extra"
+            }
+          ]
+        },
+        {
+          "titulo": "Cocina sin electricidad",
+          "items": [
+            {
+              "producto": "Hornillo de camping a gas con bombonas",
+              "afiliado": "AMAZON-URL-HORNILLO",
+              "descripcion": "Comida caliente sin electricidad. Usa siempre en zona ventilada.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Encendedores y cerillas largas",
+              "afiliado": "AMAZON-URL-CERILLAS",
+              "descripcion": "Cerillas de tormenta: encienden con viento y humedad.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Nevera portátil de conservas",
+              "afiliado": "AMAZON-URL-NEVERA",
+              "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
+              "precio_aprox": "1-3 €/lata",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Dinero y comunicación",
+          "items": [
+            {
+              "producto": "Caja fuerte pequeña portátil para efectivo",
+              "afiliado": "AMAZON-URL-CAJA-FUERTE",
+              "descripcion": "Guarda el efectivo y documentos críticos en casa.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Radio FM/AM a pilas o dinamo",
+              "afiliado": "AMAZON-URL-RADIO",
+              "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            }
+          ]
+        }
       ]
     },
     {
@@ -140,27 +447,104 @@
       "icono": "🚗",
       "resumen": "Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.",
       "guia": {
-        "antes": ["Revisa ruedas, batería y niveles antes de viajes largos", "Comprueba el estado del kit cada cambio de estación"],
-        "durante": ["Señaliza el vehículo con triángulos y chaleco antes de salir", "No salgas del coche en nevada si hay tráfico: dentro es más seguro y más cálido"],
-        "despues": ["Repón lo usado (pilas, agua, combustible) al llegar a casa"]
+        "antes": [
+          "Revisa ruedas, batería y niveles antes de viajes largos",
+          "Comprueba el estado del kit cada cambio de estación"
+        ],
+        "durante": [
+          "Señaliza el vehículo con triángulos y chaleco antes de salir",
+          "No salgas del coche en nevada si hay tráfico: dentro es más seguro y más cálido"
+        ],
+        "despues": [
+          "Repón lo usado (pilas, agua, combustible) al llegar a casa"
+        ]
       },
       "secciones": [
-        {"titulo": "Obligatorio en España (DGT)", "items": [
-          {"producto": "Dos triángulos de emergencia homologados", "afiliado": "AMAZON-URL-TRIANGULOS"},
-          {"producto": "Chaleco reflectante V-16 (o baliza conectada)", "afiliado": "AMAZON-URL-CHALECO"}
-        ]},
-        {"titulo": "Emergencia y supervivencia", "items": [
-          {"producto": "Botiquín de coche", "afiliado": "AMAZON-URL-BOTIQUIN-COCHE"},
-          {"producto": "Manta térmica", "afiliado": "AMAZON-URL-MANTA"},
-          {"producto": "Linterna LED con imán", "afiliado": "AMAZON-URL-LINTERNA-COCHE"},
-          {"producto": "Cadena de remolque o correa de tiro", "afiliado": "AMAZON-URL-CORREA"},
-          {"producto": "Cadenas para nieve o calcetines textiles", "afiliado": "AMAZON-URL-CADENAS"}
-        ]},
-        {"titulo": "Energía y confort", "items": [
-          {"producto": "Powerbank de coche 12V", "afiliado": "AMAZON-URL-POWERBANK-COCHE"},
-          {"producto": "Agua embotellada (renovar cada 6 meses)", "afiliado": "AMAZON-URL-AGUA"},
-          {"producto": "Barritas energéticas", "afiliado": "AMAZON-URL-BARRITAS"}
-        ]}
+        {
+          "titulo": "Obligatorio en España (DGT)",
+          "items": [
+            {
+              "producto": "Dos triángulos de emergencia homologados",
+              "afiliado": "AMAZON-URL-TRIANGULOS",
+              "descripcion": "Obligatorio por ley. Homologados y visibles a 50 metros.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Chaleco reflectante V-16 (o baliza conectada)",
+              "afiliado": "AMAZON-URL-CHALECO",
+              "descripcion": "Obligatorio. La baliza V-16 sustituirá a los triángulos en 2026.",
+              "precio_aprox": "8-25 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Emergencia y supervivencia",
+          "items": [
+            {
+              "producto": "Botiquín de coche",
+              "afiliado": "AMAZON-URL-BOTIQUIN-COCHE",
+              "descripcion": "Versión compacta del botiquín básico, adaptada a accidentes de tráfico.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Manta térmica",
+              "afiliado": "AMAZON-URL-MANTA",
+              "descripcion": "Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Linterna LED con imán",
+              "afiliado": "AMAZON-URL-LINTERNA-COCHE",
+              "descripcion": "Se adhiere al capó o carrocería. Manos libres en averías nocturnas.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cadena de remolque o correa de tiro",
+              "afiliado": "AMAZON-URL-CORREA",
+              "descripcion": "Para ser remolcado o remolcar con lazos de emergencia.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "extra"
+            },
+            {
+              "producto": "Cadenas para nieve o calcetines textiles",
+              "afiliado": "AMAZON-URL-CADENAS",
+              "descripcion": "Textiles o metálicas. Obligatorias en tramos nevados señalizados.",
+              "precio_aprox": "30-80 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Energía y confort",
+          "items": [
+            {
+              "producto": "Powerbank de coche 12V",
+              "afiliado": "AMAZON-URL-POWERBANK-COCHE",
+              "descripcion": "Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Agua embotellada (renovar cada 6 meses)",
+              "afiliado": "AMAZON-URL-AGUA",
+              "descripcion": "Renueva cada 6 meses: el plástico degrada con el calor del coche.",
+              "precio_aprox": "2-5 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Barritas energéticas",
+              "afiliado": "AMAZON-URL-BARRITAS",
+              "descripcion": "Energía rápida en formato compacto. 400-500 kcal por barrita.",
+              "precio_aprox": "10-15 €/pack",
+              "prioridad": "recomendado"
+            }
+          ]
+        }
       ]
     },
     {
@@ -170,31 +554,125 @@
       "icono": "🏠",
       "resumen": "Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.",
       "guia": {
-        "antes": ["Calcula agua y comida para todas las personas de casa × 3 días", "Si hay niños, bebés o mascotas: ajusta el kit a ellos", "Ten a mano juegos o libros para mantener la moral"],
-        "durante": ["Raciona agua si el suministro se corta", "Ventila a diario si es posible", "Mantén la radio oficial encendida al menos 2 veces al día"],
-        "despues": ["Inventario de lo consumido y repuesto inmediato"]
+        "antes": [
+          "Calcula agua y comida para todas las personas de casa × 3 días",
+          "Si hay niños, bebés o mascotas: ajusta el kit a ellos",
+          "Ten a mano juegos o libros para mantener la moral"
+        ],
+        "durante": [
+          "Raciona agua si el suministro se corta",
+          "Ventila a diario si es posible",
+          "Mantén la radio oficial encendida al menos 2 veces al día"
+        ],
+        "despues": [
+          "Inventario de lo consumido y repuesto inmediato"
+        ]
       },
       "secciones": [
-        {"titulo": "Agua y comida", "items": [
-          {"producto": "Garrafas de agua 8 L (2 por persona)", "afiliado": "AMAZON-URL-GARRAFAS"},
-          {"producto": "Conservas variadas (15-20 latas)", "afiliado": "AMAZON-URL-CONSERVAS"},
-          {"producto": "Pastas, arroz y legumbres en paquetes", "afiliado": "AMAZON-URL-PASTAS"},
-          {"producto": "Comida para mascotas extra", "afiliado": "AMAZON-URL-MASCOTAS"}
-        ]},
-        {"titulo": "Higiene y limpieza", "items": [
-          {"producto": "Gel hidroalcohólico y jabón", "afiliado": "AMAZON-URL-GEL"},
-          {"producto": "Lejía y desinfectante de superficies", "afiliado": "AMAZON-URL-LEJIA"},
-          {"producto": "Papel higiénico y toallitas", "afiliado": "AMAZON-URL-PAPEL"}
-        ]},
-        {"titulo": "Salud", "items": [
-          {"producto": "Termómetro digital", "afiliado": "AMAZON-URL-TERMOMETRO"},
-          {"producto": "Paracetamol e ibuprofeno (caducidad larga)", "afiliado": "AMAZON-URL-ANALGESICOS"},
-          {"producto": "Mascarillas FFP2", "afiliado": "AMAZON-URL-MASCARILLAS"}
-        ]},
-        {"titulo": "Moral", "items": [
-          {"producto": "Juegos de mesa o cartas", "afiliado": "AMAZON-URL-JUEGOS"},
-          {"producto": "Libros de bolsillo", "afiliado": "AMAZON-URL-LIBROS"}
-        ]}
+        {
+          "titulo": "Agua y comida",
+          "items": [
+            {
+              "producto": "Garrafas de agua 8 L (2 por persona)",
+              "afiliado": "AMAZON-URL-GARRAFAS",
+              "descripcion": "Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Conservas variadas (15-20 latas)",
+              "afiliado": "AMAZON-URL-CONSERVAS",
+              "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
+              "precio_aprox": "1-3 €/lata",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pastas, arroz y legumbres en paquetes",
+              "afiliado": "AMAZON-URL-PASTAS",
+              "descripcion": "Base calórica de larga caducidad (2-3 años).",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Comida para mascotas extra",
+              "afiliado": "AMAZON-URL-MASCOTAS",
+              "descripcion": "No te olvides de ellos: ración extra para 3 días mínimo.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y limpieza",
+          "items": [
+            {
+              "producto": "Gel hidroalcohólico y jabón",
+              "afiliado": "AMAZON-URL-GEL",
+              "descripcion": "Higiene básica sin agua corriente garantizada.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Lejía y desinfectante de superficies",
+              "afiliado": "AMAZON-URL-LEJIA",
+              "descripcion": "El agua de DANA deja lodo con aguas fecales: desinfecta todo.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Papel higiénico y toallitas",
+              "afiliado": "AMAZON-URL-PAPEL",
+              "descripcion": "Si el agua falla, la cisterna no tira: gestiona residuos con bolsas.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Salud",
+          "items": [
+            {
+              "producto": "Termómetro digital",
+              "afiliado": "AMAZON-URL-TERMOMETRO",
+              "descripcion": "Detectar fiebre cuando no puedes ir al médico de inmediato.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Paracetamol e ibuprofeno (caducidad larga)",
+              "afiliado": "AMAZON-URL-ANALGESICOS",
+              "descripcion": "Analgésicos y antitérmicos básicos. Revisa caducidad anual.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Mascarillas FFP2",
+              "afiliado": "AMAZON-URL-MASCARILLAS",
+              "descripcion": "Protección ante polvo, humo o brote respiratorio.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Moral",
+          "items": [
+            {
+              "producto": "Juegos de mesa o cartas",
+              "afiliado": "AMAZON-URL-JUEGOS",
+              "descripcion": "La moral importa: 72 horas encerrados se hacen eternas sin nada que hacer.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "extra"
+            },
+            {
+              "producto": "Libros de bolsillo",
+              "afiliado": "AMAZON-URL-LIBROS",
+              "descripcion": "Entretenimiento sin batería ni red.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "extra"
+            }
+          ]
+        }
       ]
     },
     {
@@ -204,27 +682,106 @@
       "icono": "⛰️",
       "resumen": "Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.",
       "guia": {
-        "antes": ["Comparte siempre ruta y hora de vuelta con alguien", "Consulta el aviso meteorológico (AEMET) antes de salir", "Descarga la app del 112 de tu comunidad autónoma"],
-        "durante": ["Si te pierdes, quédate quieto y hazte visible", "Raciona agua y no te desvíes de la ruta conocida"],
-        "despues": ["Repón y revisa el kit tras cada salida", "Anota qué te faltó para la próxima"]
+        "antes": [
+          "Comparte siempre ruta y hora de vuelta con alguien",
+          "Consulta el aviso meteorológico (AEMET) antes de salir",
+          "Descarga la app del 112 de tu comunidad autónoma"
+        ],
+        "durante": [
+          "Si te pierdes, quédate quieto y hazte visible",
+          "Raciona agua y no te desvíes de la ruta conocida"
+        ],
+        "despues": [
+          "Repón y revisa el kit tras cada salida",
+          "Anota qué te faltó para la próxima"
+        ]
       },
       "secciones": [
-        {"titulo": "Orientación y comunicación", "items": [
-          {"producto": "Powerbank ligero + cable USB", "afiliado": "AMAZON-URL-POWERBANK-LIGERO"},
-          {"producto": "Silbato de emergencia", "afiliado": "AMAZON-URL-SILBATO"},
-          {"producto": "Mapa y brújula físicos de la zona", "afiliado": "AMAZON-URL-BRUJULA"}
-        ]},
-        {"titulo": "Refugio y abrigo", "items": [
-          {"producto": "Manta térmica de supervivencia", "afiliado": "AMAZON-URL-MANTA-SUP"},
-          {"producto": "Chubasquero ligero", "afiliado": "AMAZON-URL-CHUBASQUERO"},
-          {"producto": "Casquete o gorro de abrigo", "afiliado": "AMAZON-URL-GORRO"}
-        ]},
-        {"titulo": "Salud y reparación", "items": [
-          {"producto": "Botiquín ligero de trekking", "afiliado": "AMAZON-URL-BOTIQUIN-TREK"},
-          {"producto": "Crema solar y labial con protección", "afiliado": "AMAZON-URL-SOLAR"},
-          {"producto": "Navaja multiuso", "afiliado": "AMAZON-URL-NAVAJA"},
-          {"producto": "Frontal con pilas de repuesto", "afiliado": "AMAZON-URL-FRONTAL"}
-        ]}
+        {
+          "titulo": "Orientación y comunicación",
+          "items": [
+            {
+              "producto": "Powerbank ligero + cable USB",
+              "afiliado": "AMAZON-URL-POWERBANK-LIGERO",
+              "descripcion": "Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "afiliado": "AMAZON-URL-SILBATO",
+              "descripcion": "Se oye a 1 km de distancia; tu voz, a 100 metros. Sin batería.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Mapa y brújula físicos de la zona",
+              "afiliado": "AMAZON-URL-BRUJULA",
+              "descripcion": "La orientación clásica no falla. Aprende a usarla antes de salir.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Refugio y abrigo",
+          "items": [
+            {
+              "producto": "Manta térmica de supervivencia",
+              "afiliado": "AMAZON-URL-MANTA-SUP",
+              "descripcion": "Doble cara: naranja para ser visto, plata para retener calor.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Chubasquero ligero",
+              "afiliado": "AMAZON-URL-CHUBASQUERO",
+              "descripcion": "La hipotermia mata en montaña incluso en verano.",
+              "precio_aprox": "20-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Casquete o gorro de abrigo",
+              "afiliado": "AMAZON-URL-GORRO",
+              "descripcion": "El 30% del calor corporal se pierde por la cabeza.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y reparación",
+          "items": [
+            {
+              "producto": "Botiquín ligero de trekking",
+              "afiliado": "AMAZON-URL-BOTIQUIN-TREK",
+              "descripcion": "Vendajes, esparadrapo, ampollas, material de inmovilización básico.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Crema solar y labial con protección",
+              "afiliado": "AMAZON-URL-SOLAR",
+              "descripcion": "SPF 50: la radiación en montaña es mucho mayor que en la playa.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Navaja multiuso",
+              "afiliado": "AMAZON-URL-NAVAJA",
+              "descripcion": "Corta, sierra, abre latas y repara material. La navaja suiza del senderista.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Frontal con pilas de repuesto",
+              "afiliado": "AMAZON-URL-FRONTAL",
+              "descripcion": "Manos libres para caminar de noche o reparar material.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            }
+          ]
+        }
       ]
     },
     {
@@ -239,24 +796,85 @@
         "fecha": "2026-08-30"
       },
       "guia": {
-        "antes": ["Cierra persianas y ventanas de sol durante el día", "Bebe agua aunque no tengas sed; evita alcohol y cafeína", "Revisa vecinos mayores y personas vulnerables"],
-        "durante": ["Queda en la habitación más fresca de casa", "Duchas tibias, no frías", "Si tienes mareo, dolor de cabeza o piel seca y caliente: puede ser golpe de calor, llama al 112"],
-        "despues": ["Revisa si la medicación de alguien necesita refrigeración y ten plan B"]
+        "antes": [
+          "Cierra persianas y ventanas de sol durante el día",
+          "Bebe agua aunque no tengas sed; evita alcohol y cafeína",
+          "Revisa vecinos mayores y personas vulnerables"
+        ],
+        "durante": [
+          "Queda en la habitación más fresca de casa",
+          "Duchas tibias, no frías",
+          "Si tienes mareo, dolor de cabeza o piel seca y caliente: puede ser golpe de calor, llama al 112"
+        ],
+        "despues": [
+          "Revisa si la medicación de alguien necesita refrigeración y ten plan B"
+        ]
       },
       "secciones": [
-        {"titulo": "Frescura", "items": [
-          {"producto": "Ventilador USB o a pilas", "afiliado": "AMAZON-URL-VENTILADOR"},
-          {"producto": "Toalla de enfriamiento instantáneo", "afiliado": "AMAZON-URL-TOALLA"},
-          {"producto": "Pulverizador de agua", "afiliado": "AMAZON-URL-PULVERIZADOR"}
-        ]},
-        {"titulo": "Hidratación", "items": [
-          {"producto": "Botella isotérmica de acero (mantiene frío 12-24 h)", "afiliado": "AMAZON-URL-BOTELLA"},
-          {"producto": "Sales de rehidratación oral", "afiliado": "AMAZON-URL-SALES"}
-        ]},
-        {"titulo": "Protección solar", "items": [
-          {"producto": "Protector solar SPF 50", "afiliado": "AMAZON-URL-PROTECTOR"},
-          {"producto": "Gafas de sol categoría 3-4", "afiliado": "AMAZON-URL-GAFAS"}
-        ]}
+        {
+          "titulo": "Frescura",
+          "items": [
+            {
+              "producto": "Ventilador USB o a pilas",
+              "afiliado": "AMAZON-URL-VENTILADOR",
+              "descripcion": "Moviliza el aire cuando el calor es sofocante. Funciona con powerbank.",
+              "precio_aprox": "12-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Toalla de enfriamiento instantáneo",
+              "afiliado": "AMAZON-URL-TOALLA",
+              "descripcion": "Se moja y baja temperatura corporal por evaporación. Reutilizable.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pulverizador de agua",
+              "afiliado": "AMAZON-URL-PULVERIZADOR",
+              "descripcion": "Nebuliza agua fría sobre piel: alivio inmediato en golpes de calor leves.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Hidratación",
+          "items": [
+            {
+              "producto": "Botella isotérmica de acero (mantiene frío 12-24 h)",
+              "afiliado": "AMAZON-URL-BOTELLA",
+              "descripcion": "Mantiene el agua fría 12-24 h incluso a 40 grados.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Sales de rehidratación oral",
+              "afiliado": "AMAZON-URL-SALES",
+              "descripcion": "Reponen sales minerales perdidas por sudor. Lo que beber agua sola no arregla.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Protección solar",
+          "items": [
+            {
+              "producto": "Protector solar SPF 50",
+              "afiliado": "AMAZON-URL-PROTECTOR",
+              "descripcion": "Quemaduras graves deshidratan aún más. Renueva cada 2 horas.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Gafas de sol categoría 3-4",
+              "afiliado": "AMAZON-URL-GAFAS",
+              "descripcion": "Protección UV real, no estética. La vista también se quema.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        }
       ]
     },
     {
@@ -266,26 +884,98 @@
       "icono": "🧳",
       "resumen": "Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.",
       "guia": {
-        "antes": ["Mochila en el recibidor, siempre el mismo sitio", "Copia de documentos en bolsa estanca", "Ruta de evacuación acordada con la familia"],
-        "durante": ["No vuelvas a casa por objetos olvidados", "Sigue solo la indicación de los servicios de emergencia"],
-        "despues": ["No entres en la vivienda hasta autorización oficial"]
+        "antes": [
+          "Mochila en el recibidor, siempre el mismo sitio",
+          "Copia de documentos en bolsa estanca",
+          "Ruta de evacuación acordada con la familia"
+        ],
+        "durante": [
+          "No vuelvas a casa por objetos olvidados",
+          "Sigue solo la indicación de los servicios de emergencia"
+        ],
+        "despues": [
+          "No entres en la vivienda hasta autorización oficial"
+        ]
       },
       "secciones": [
-        {"titulo": "Documentación esencial", "items": [
-          {"producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)", "afiliado": "AMAZON-URL-CARPETA"},
-          {"producto": "Copia digital en USB cifrado", "afiliado": "AMAZON-URL-USB"}
-        ]},
-        {"titulo": "Supervivencia 24-72 h", "items": [
-          {"producto": "Mochila de 30-40 L resistente al agua", "afiliado": "AMAZON-URL-MOCHILA"},
-          {"producto": "Botella de agua + pastillas potabilizadoras", "afiliado": "AMAZON-URL-POTABILIZADORAS"},
-          {"producto": "Ración de comida deshidratada", "afiliado": "AMAZON-URL-RACIONES"},
-          {"producto": "Manta térmica + poncho", "afiliado": "AMAZON-URL-MANTA"}
-        ]},
-        {"titulo": "Utilidad", "items": [
-          {"producto": "Linterna + batería externa", "afiliado": "AMAZON-URL-FRONTAL"},
-          {"producto": "Botiquín de bolsillo", "afiliado": "AMAZON-URL-BOTIQUIN"},
-          {"producto": "Efectivo en billetes pequeños", "afiliado": "AMAZON-URL-FAJA"}
-        ]}
+        {
+          "titulo": "Documentación esencial",
+          "items": [
+            {
+              "producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)",
+              "afiliado": "AMAZON-URL-CARPETA",
+              "descripcion": "DNI, escrituras, pólizas, cartilla sanitaria y recetas en un solo sitio.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Copia digital en USB cifrado",
+              "afiliado": "AMAZON-URL-USB",
+              "descripcion": "Backup de documentos escaneados. Cífralo con contraseña.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Supervivencia 24-72 h",
+          "items": [
+            {
+              "producto": "Mochila de 30-40 L resistente al agua",
+              "afiliado": "AMAZON-URL-MOCHILA",
+              "descripcion": "Resistente al agua, con cinturón acolchado. Aguantará tu vida 3 días.",
+              "precio_aprox": "30-70 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Botella de agua + pastillas potabilizadoras",
+              "afiliado": "AMAZON-URL-POTABILIZADORAS",
+              "descripcion": "Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Ración de comida deshidratada",
+              "afiliado": "AMAZON-URL-RACIONES",
+              "descripcion": "Al menos 2 raciones por persona en la mochila.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Manta térmica + poncho",
+              "afiliado": "AMAZON-URL-MANTA",
+              "descripcion": "Dúo de abrigo y protección contra lluvia en formato mínimo.",
+              "precio_aprox": "6-14 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Utilidad",
+          "items": [
+            {
+              "producto": "Linterna + batería externa",
+              "afiliado": "AMAZON-URL-FRONTAL",
+              "descripcion": "Kit de energía mínimo: ver y comunicar.",
+              "precio_aprox": "20-40 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Botiquín de bolsillo",
+              "afiliado": "AMAZON-URL-BOTIQUIN",
+              "descripcion": "Versión mini pero completa: gasas, antiséptico, analgésicos.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Efectivo en billetes pequeños",
+              "afiliado": "AMAZON-URL-FAJA",
+              "descripcion": "En evacuación los cajeros no funcionan. Billetes de 10-20 €.",
+              "precio_aprox": "—",
+              "prioridad": "esencial"
+            }
+          ]
+        }
       ]
     }
   ],

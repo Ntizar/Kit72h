@@ -153,7 +153,19 @@ ul.items li {
   display: flex; justify-content: space-between; align-items: center; gap: 14px;
 }
 ul.items li:hover { background: rgba(61,40,23,.35); }
-ul.items .producto { flex: 1; font-size: 15px; color: var(--arena); }
+ul.items .producto { flex: 1; font-size: 15px; color: var(--arena); display: block; }
+.item-info { flex: 1; display: flex; flex-direction: column; gap: 3px; }
+.item .descripcion { font-size: 13.5px; color: var(--humo); line-height: 1.45; }
+.item .precio { font-size: 13px; color: var(--cobre-claro); letter-spacing: .5px; }
+.item .prio {
+  font-style: normal; font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 3px; margin-left: 8px; vertical-align: middle;
+  border: 1px solid;
+}
+.prio-esencial { color: var(--peligro); border-color: var(--peligro); background: rgba(212,63,42,.12); }
+.prio-recomendado { color: var(--cobre-claro); border-color: var(--cobre); background: rgba(196,127,62,.12); }
+.prio-extra { color: var(--humo); border-color: var(--humo); background: rgba(181,160,138,.08); }
+.item.esencial { border-left: 3px solid var(--peligro); padding-left: 10px; }
 .btn-amazon {
   display: inline-block; padding: 7px 16px;
   background: linear-gradient(180deg, var(--cobre), var(--cobre-oscuro));

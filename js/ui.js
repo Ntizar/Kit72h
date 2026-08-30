@@ -54,8 +54,12 @@ const ui = {
         <h2>${s.titulo}</h2>
         <ul class="items">
           ${s.items.map(i => `
-            <li>
-              <span class="producto">${i.producto}</span>
+            <li class="item${i.prioridad === 'esencial' ? ' esencial' : ''}">
+              <div class="item-info">
+                <span class="producto">${i.producto}${i.prioridad ? ` <em class="prio prio-${i.prioridad}">${i.prioridad}</em>` : ''}</span>
+                ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
+                ${i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : ''}
+              </div>
               <a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">Ver en Amazon</a>
             </li>`).join('')}
         </ul>
