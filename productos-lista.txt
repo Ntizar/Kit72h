@@ -1,0 +1,85 @@
+basico-72h|Agua e hidratación|Botella o garrafa de agua (3 L por persona y día)|5-15 €
+basico-72h|Agua e hidratación|Pastillas potabilizadoras de agua|8-15 €
+basico-72h|Alimentación|Raciones militares de emergencia (comida deshidratada)|8-12 €/ud
+basico-72h|Alimentación|Conservas y lata de legumbres (comida no perecedera)|1-3 €/lata
+basico-72h|Alimentación|Barritas energéticas y frutos secos|10-15 €/pack
+basico-72h|Luz y energía|Linterna LED a pilas (con pilas de repuesto)|10-20 €
+basico-72h|Luz y energía|Powerbank de alta capacidad (≥ 20.000 mAh)|25-50 €
+basico-72h|Luz y energía|Pilas alcalinas surtidas (AA/AAA)|10-20 €
+basico-72h|Información y comunicación|Radio FM/AM a pilas o dinamo|15-35 €
+basico-72h|Información y comunicación|Mapa físico de tu zona (papel, no digital)|5-15 €
+basico-72h|Documentación y dinero|Bolsa estanca para documentos (DNI, pólizas, recetas)|5-12 €
+basico-72h|Documentación y dinero|Faja portadocumentos / riñonera oculta para efectivo|8-15 €
+basico-72h|Higiene y salud|Botiquín de primeros auxilios básico|15-30 €
+basico-72h|Higiene y salud|Gel hidroalcohólico y toallitas húmedas|5-10 €
+basico-72h|Abrigo y refugio|Manta térmica de emergencia|3-8 €
+basico-72h|Abrigo y refugio|Chubasquero o poncho impermeable|15-30 €
+dana|Protección personal frente al agua|Chubasquero impermeable con capucha|20-40 €
+dana|Protección personal frente al agua|Botas de agua|15-30 €
+dana|Protección personal frente al agua|Guantes impermeables|8-15 €
+dana|Seguridad eléctrica|Linterna LED (evita velas: riesgo de incendio)|10-20 €
+dana|Seguridad eléctrica|Tiracables con interruptor diferencial portátil|20-40 €
+dana|Protección de la vivienda|Sacos de arena vacíos o barreras de inundación|10-20 €
+dana|Protección de la vivienda|Cinta y plástico para sellar ventanas|8-15 €
+dana|Post-DANA|Desinfectante de superficies|5-12 €
+dana|Post-DANA|Palas y cubos para retirar lodo|10-25 €
+dana|Post-DANA|Desumidificador o sachets antihumedad|15-40 €
+apagon|Luz|Lámparas LED a pilas con imán (para nevera/despensa)|10-25 €
+apagon|Luz|Linterna frontal (manos libres)|12-25 €
+apagon|Luz|Velas de emergencia (solo como refuerzo, con portavelas seguro)|5-12 €
+apagon|Energía|Powerbank ≥ 20.000 mAh con salida AC o USB-C PD|25-50 €
+apagon|Energía|Panel solar portátil 20-40 W|40-80 €
+apagon|Energía|Cargador de dinamo multiuso|15-30 €
+apagon|Cocina sin electricidad|Hornillo de camping a gas con bombonas|20-45 €
+apagon|Cocina sin electricidad|Encendedores y cerillas largas|5-10 €
+apagon|Cocina sin electricidad|Nevera portátil de conservas|1-3 €/lata
+apagon|Dinero y comunicación|Caja fuerte pequeña portátil para efectivo|20-45 €
+apagon|Dinero y comunicación|Radio FM/AM a pilas o dinamo|15-35 €
+coche|Obligatorio en España (DGT)|Dos triángulos de emergencia homologados|10-20 €
+coche|Obligatorio en España (DGT)|Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)|8-25 €
+coche|Emergencia y supervivencia|Botiquín de coche|15-30 €
+coche|Emergencia y supervivencia|Manta térmica|3-8 €
+coche|Emergencia y supervivencia|Linterna LED con imán|10-25 €
+coche|Emergencia y supervivencia|Cadena de remolque o correa de tiro|15-30 €
+coche|Emergencia y supervivencia|Cadenas para nieve o calcetines textiles|30-80 €
+coche|Energía y confort|Powerbank de coche 12V|25-50 €
+coche|Energía y confort|Agua embotellada (renovar cada 6 meses)|2-5 €
+coche|Energía y confort|Barritas energéticas|10-15 €/pack
+hogar|Agua y comida|Garrafas de agua 8 L (2 por persona)|5-15 €
+hogar|Agua y comida|Conservas variadas (15-20 latas)|1-3 €/lata
+hogar|Agua y comida|Pastas, arroz y legumbres en paquetes|10-20 €
+hogar|Agua y comida|Comida para mascotas extra|5-15 €
+hogar|Higiene y limpieza|Gel hidroalcohólico y jabón|5-12 €
+hogar|Higiene y limpieza|Lejía y desinfectante de superficies|5-12 €
+hogar|Higiene y limpieza|Papel higiénico y toallitas|8-15 €
+hogar|Salud|Termómetro digital|5-12 €
+hogar|Salud|Paracetamol e ibuprofeno (caducidad larga)|5-10 €
+hogar|Salud|Mascarillas FFP2|8-15 €
+hogar|Moral|Juegos de mesa o cartas|8-20 €
+hogar|Moral|Libros de bolsillo|5-15 €
+montana|Orientación y comunicación|Powerbank ligero + cable USB|25-50 €
+montana|Orientación y comunicación|Silbato de emergencia|3-8 €
+montana|Orientación y comunicación|Mapa y brújula físicos de la zona|10-25 €
+montana|Refugio y abrigo|Manta térmica de supervivencia|5-12 €
+montana|Refugio y abrigo|Chubasquero ligero|20-50 €
+montana|Refugio y abrigo|Casquete o gorro de abrigo|8-18 €
+montana|Salud y reparación|Botiquín ligero de trekking|12-25 €
+montana|Salud y reparación|Crema solar y labial con protección|8-18 €
+montana|Salud y reparación|Navaja multiuso|15-35 €
+montana|Salud y reparación|Frontal con pilas de repuesto|15-35 €
+calor|Frescura|Ventilador USB o a pilas|12-30 €
+calor|Frescura|Toalla de enfriamiento instantáneo|8-15 €
+calor|Frescura|Pulverizador de agua|3-8 €
+calor|Hidratación|Botella isotérmica de acero (mantiene frío 12-24 h)|15-30 €
+calor|Hidratación|Sales de rehidratación oral|5-12 €
+calor|Protección solar|Protector solar SPF 50|10-20 €
+calor|Protección solar|Gafas de sol categoría 3-4|15-40 €
+evacuacion|Documentación esencial|Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)|8-18 €
+evacuacion|Documentación esencial|Copia digital en USB cifrado|8-20 €
+evacuacion|Supervivencia 24-72 h|Mochila de 30-40 L resistente al agua|30-70 €
+evacuacion|Supervivencia 24-72 h|Botella de agua + pastillas potabilizadoras|8-15 €
+evacuacion|Supervivencia 24-72 h|Ración de comida deshidratada|8-15 €
+evacuacion|Supervivencia 24-72 h|Manta térmica + poncho|6-14 €
+evacuacion|Utilidad|Linterna + batería externa|20-40 €
+evacuacion|Utilidad|Botiquín de bolsillo|10-20 €
+evacuacion|Utilidad|Efectivo en billetes pequeños|—

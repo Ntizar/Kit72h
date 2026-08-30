@@ -1,0 +1,16 @@
+1 | Botella o garrafa de agua (3 L por persona y día) | https://www.amazon.es/dp/B07CJCVGJK | 13,99 € | verificada: extraccion
+2 | Pastillas potabilizadoras de agua | https://www.amazon.es/dp/B00GOPHOSQ | 8,95 € | verificada: extraccion
+3 | Raciones militares de emergencia (comida deshidratada) | https://www.amazon.es/dp/B0BYV43DRN | 10,00 € | verificada: extraccion
+4 | Conservas y lata de legumbres (comida no perecedera) | https://www.amazon.es/dp/B01AHRKMWQ | 1,09 € | verificada: extraccion
+5 | Barritas energéticas y frutos secos | https://www.amazon.es/dp/B0DHH7TMGF | 14,44 € | verificada: extraccion
+6 | Linterna LED a pilas (con pilas de repuesto) | https://www.amazon.es/dp/B07C2T6GX4 | 11,39 € | verificada: extraccion
+7 | Powerbank de alta capacidad (≥ 20.000 mAh) | https://www.amazon.es/dp/B0FX9HMGWS | 26,15 € | verificada: extraccion
+8 | Pilas alcalinas surtidas (AA/AAA) | https://www.amazon.es/dp/B094D3JGLT | 12,65 € | verificada: extraccion
+9 | Radio FM/AM a pilas o dinamo | https://www.amazon.es/dp/B0GWNDVR7S | 13,29 € | verificada: extraccion
+10 | Mapa físico de tu zona (papel, no digital) | https://www.amazon.es/dp/B01LX6Q7XS | 6,10 € | verificada: extraccion
+11 | Bolsa estanca para documentos (DNI, pólizas, recetas) | https://www.amazon.es/dp/B096V89H69 | 11,98 € | verificada: extraccion
+12 | Faja portadocumentos / riñonera oculta para efectivo | https://www.amazon.es/dp/B0GD73TCBM | 10,99 € | verificada: extraccion
+13 | Botiquín de primeros auxilios básico | https://www.amazon.es/dp/B0F4RBK2W3 | 15,99 € | verificada: extraccion
+14 | Gel hidroalcohólico y toallitas húmedas | https://www.amazon.es/dp/B0FQ5TJY9K | 15,95 € | verificada: extraccion
+15 | Manta térmica de emergencia | https://www.amazon.es/dp/B0BKZXPMHL | 6,99 € | verificada: extraccion
+16 | Chubasquero o poncho impermeable | https://www.amazon.es/dp/B0FVY752SQ | 16,99 € | verificada: extraccion
