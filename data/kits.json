@@ -12,7 +12,8 @@
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
       }
     ],
-    "ultima_revision": "2026-08-30"
+    "ultima_revision": "2026-08-30",
+    "nota_revision": "2026-08-30: baliza V-16 conectada es el único medio legal de señalización desde el 1/1/2026 (DGT/Interior). Resto de fuentes sin cambios de contenido."
   },
   "kits": [
     {
@@ -446,6 +447,11 @@
       "slug": "kit-coche",
       "icono": "🚗",
       "resumen": "Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.",
+      "fuente": {
+        "nombre": "DGT / Ministerio del Interior — Obligatoriedad de la baliza V-16 conectada (desde el 1 de enero de 2026)",
+        "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/DGT-recuerda-la-obligacion-de-disponer-de-la-baliza-V-16-para-senalizar-averias-y-accidentes-en-carretera/",
+        "fecha": "2026-08-30"
+      },
       "guia": {
         "antes": [
           "Revisa ruedas, batería y niveles antes de viajes largos",
@@ -466,14 +472,14 @@
             {
               "producto": "Dos triángulos de emergencia homologados",
               "afiliado": "AMAZON-URL-TRIANGULOS",
-              "descripcion": "Obligatorio por ley. Homologados y visibles a 50 metros.",
+              "descripcion": "Desde el 1 de enero de 2026 ya no son válidos para señalizar en España (los sustituye la baliza V-16 conectada); aún útiles para viajes por países fuera de la Convención de Viena.",
               "precio_aprox": "10-20 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Chaleco reflectante V-16 (o baliza conectada)",
+              "producto": "Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)",
               "afiliado": "AMAZON-URL-CHALECO",
-              "descripcion": "Obligatorio. La baliza V-16 sustituirá a los triángulos en 2026.",
+              "descripcion": "Obligatoria desde el 1 de enero de 2026: sustituye a los triángulos. Solo valen modelos homologados y conectados a la DGT (lista oficial en dgt.es). Verifica el certificado IDIADA/LCOE grabado en la tulipa.",
               "precio_aprox": "8-25 €",
               "prioridad": "esencial"
             }
