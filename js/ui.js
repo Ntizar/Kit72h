@@ -8,14 +8,17 @@ const ui = {
   vistaDesdeHash() {
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
+    if (h.startsWith('blog/')) return { vista: 'blog', slug: h.split('/')[1] };
+    if (h === 'blog') return { vista: 'blog' };
     if (h === 'fuentes') return { vista: 'fuentes' };
     return { vista: 'home' };
   },
 
-  render() {
+  async render() {
     const { vista, slug } = this.vistaDesdeHash();
     const app = document.getElementById('app');
     document.getElementById('disclosure').textContent = state.data.disclosure;
+    await estado.cargar();
 
     if (vista === 'kit') {
       const kit = state.kitPorSlug(slug);
@@ -25,6 +28,11 @@ const ui = {
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
       document.title = 'Fuentes oficiales — Kit72h';
+    } else if (vista === 'blog') {
+      const entrada = slug ? blog.porSlug(slug) : null;
+      if (slug && !entrada) { location.hash = 'blog'; return this.render(); }
+      app.innerHTML = entrada ? this.htmlEntrada(entrada) : this.htmlBlog();
+      document.title = entrada ? `${entrada.titulo} — Blog Kit72h` : 'Blog — Kit72h';
     } else {
       app.innerHTML = this.htmlHome();
       document.title = 'Kit72h — Kits de emergencia basados en recomendaciones oficiales';
@@ -48,6 +56,37 @@ const ui = {
       <section class="grid-kits">${tarjetas}</section>`;
   },
 
+  htmlBlog() {
+    const tarjetas = blog.entradas.map(e => `
+      <div class="card-kit card-blog" onclick="location.hash='blog/${e.slug}'">
+        <h2>${e.titulo}</h2>
+        <p>${e.resumen}</p>
+        <span class="meta-blog">📅 ${e.fecha} · ⏱️ ${e.lectura} de lectura</span>
+      </div>`).join('');
+    return `
+      <section class="hero">
+        <h1>Blog de preparación</h1>
+        <p>Guías prácticas para estar listo: qué comprar, cómo almacenarlo y cómo actuar cuando toque.</p>
+      </section>
+      <section class="grid-kits">${tarjetas}</section>`;
+  },
+
+  htmlEntrada(e) {
+    const otras = blog.entradas.filter(x => x.slug !== e.slug)
+      .map(x => `<li><a href="#blog/${x.slug}">${x.titulo}</a></li>`).join('');
+    return `
+      <section class="ficha entrada-blog">
+        <a class="volver" href="#blog">← Blog</a>
+        <h1>${e.titulo}</h1>
+        <p class="meta-blog">📅 ${e.fecha} · ⏱️ ${e.lectura} de lectura</p>
+        <div class="cuerpo-blog">${e.cuerpo}</div>
+        <div class="guia-kit">
+          <h2>Sigue leyendo</h2>
+          <ul>${otras}</ul>
+        </div>
+      </section>`;
+  },
+
   htmlKit(kit) {
     const secciones = kit.secciones.map(s => `
       <div class="seccion-kit">
@@ -59,8 +98,11 @@ const ui = {
                 <span class="producto">${i.producto}${i.prioridad ? ` <em class="prio prio-${i.prioridad}">${i.prioridad}</em>` : ''}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
                 ${i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : ''}
+                ${estado.badge(i.afiliado)}
               </div>
-              <a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">Ver en Amazon</a>
+              ${i.afiliado
+                ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">Ver en Amazon</a>`
+                : `<span class="sin-enlace">Consejo — no se compra online</span>`}
             </li>`).join('')}
         </ul>
       </div>`).join('');
