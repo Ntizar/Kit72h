@@ -1,0 +1,51 @@
+# Kit72h
+
+> Kits de emergencia y preparación ante catástrofes para hogares en España, basados en fuentes oficiales: Estrategia de Preparación de la Unión Europea (2025) y recomendaciones de Protección Civil. Listas de producto verificadas, precios reales y guías de uso antes/durante/después.
+
+Kit72h es una web pública mantenida por David Antizar. Todo el contenido se basa en documentos públicos de organismos oficiales; las listas se revisan periódicamente y la disponibilidad de los productos se comprueba de forma automatizada (data/estado.json, 90/90 activos a fecha de 2026-08-31).
+
+## Kits disponibles
+
+- [Kit básico 72 horas](https://ntizar.github.io/Kit72h/#kit/kit-basico-72h): la mochila de resiliencia recomendada por la UE — agua (3 L/persona/día), comida no perecedera, luz, radio, botiquín, documentación.
+- [Kit DANA](https://ntizar.github.io/Kit72h/#kit/kit-dana): protección frente a inundaciones — chubasquero, bolsas estancas, barreras, seguridad eléctrica.
+- [Kit apagón](https://ntizar.github.io/Kit72h/#kit/kit-apagon): basado en las lecciones del apagón eléctrico del 28 de abril de 2025 en España — radio, luz, energía, cocina sin electricidad, efectivo.
+- [Kit coche](https://ntizar.github.io/Kit72h/#kit/kit-coche): lo obligatorio en España en 2026 (baliza V-16 conectada, chaleco) y material de supervivencia para atascos y nevadas.
+- [Kit hogar / confinamiento](https://ntizar.github.io/Kit72h/#kit/kit-hogar): autonomía de 2 semanas en casa — agua, comida, higiene, salud.
+- [Kit montaña](https://ntizar.github.io/Kit72h/#kit/kit-montana): orientación, comunicación, refugio y salud para senderismo y montaña.
+- [Kit ola de calor](https://ntizar.github.io/Kit72h/#kit/kit-calor): frescura, hidratación y protección solar.
+- [Mochila de evacuación](https://ntizar.github.io/Kit72h/#kit/kit-evacuacion): 24-72 h en una mochila — documentos, supervivencia, utilidad.
+- [Huerto y autosuficiencia](https://ntizar.github.io/Kit72h/#kit/huerto-autosuficiencia): cultivo urbano en macetas — semillas ecológicas, germinación, sustrato, invernadero de balcón.
+- [Kit 30 días](https://ntizar.github.io/Kit72h/#kit/kit-30-dias): provisión completa para 2 personas y 4 semanas — 180 L de agua, conservas, hornillo sin electricidad, botiquín, estufa.
+
+## Datos estructurados
+
+- `data/kits.json`: catálogo completo en JSON de los 10 kits con secciones, productos, precios y prioridades.
+- `data/estado.json`: estado de disponibilidad de cada producto en Amazon (ok / posible rotura) con fecha de verificación.
+
+## Blog (16 entradas)
+
+- [Cómo montar tu kit de emergencia 72 horas paso a paso](https://ntizar.github.io/Kit72h/#blog/como-montar-tu-kit-72h)
+- [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla](https://ntizar.github.io/Kit72h/#blog/agua-cuanta-y-como)
+- [DANA o apagón: qué hacer en los primeros 30 minutos](https://ntizar.github.io/Kit72h/#blog/dana-apagon-primeros-30-minutos)
+- [«El Conocimiento» de Lewis Dartnell: el manual para reconstruir la civilización desde cero](https://ntizar.github.io/Kit72h/#blog/el-conocimiento-dartnell)
+- [Botiquín de emergencia: qué llevar de verdad (y qué sobra)](https://ntizar.github.io/Kit72h/#blog/botiquin-emergencia-que-llevar)
+- [Documentos y dinero: la carpeta de emergencia](https://ntizar.github.io/Kit72h/#blog/carpeta-de-emergencia-documentos)
+- [Mascotas en una emergencia: plan de evacuación](https://ntizar.github.io/Kit72h/#blog/mascotas-plan-emergencia)
+- [Coche y emergencias: lo obligatorio en 2026](https://ntizar.github.io/Kit72h/#blog/coche-kit-emergencia-2026)
+- [Apagón: lecciones del 28 de abril de 2025](https://ntizar.github.io/Kit72h/#blog/apagon-lecciones-28a)
+- [Frío y calor sin electricidad](https://ntizar.github.io/Kit72h/#blog/temperatura-sin-electricidad)
+- [Emergencias en montaña: el kit que te puede salvar](https://ntizar.github.io/Kit72h/#blog/montana-kit-salvavidas)
+- [Semillas, germinados y huerto de emergencia](https://ntizar.github.io/Kit72h/#blog/huerto-emergencia-semillas-germinados)
+- [Los 7 recursos oficiales de emergencia en España](https://ntizar.github.io/Kit72h/#blog/recursos-oficiales-emergencia)
+- [Comunicar sin red móvil](https://ntizar.github.io/Kit72h/#blog/comunicar-sin-red-movil)
+- [Cómo almacenar agua y comida sin que se estropee](https://ntizar.github.io/Kit72h/#blog/almacenar-agua-comida-casa)
+- [Kit 72h o kit de 30 días: cuál necesitas](https://ntizar.github.io/Kit72h/#blog/kit-72h-vs-30-dias)
+
+## Fuentes oficiales
+
+- Estrategia de Preparación de la UE (JOIN(2025) 90, marzo 2025)
+- Protección Civil España — recomendaciones de autopreparación
+- DGT — baliza V-16 conectada obligatoria desde el 1 de enero de 2026
+- FAO — agricultura urbana y periurbana
+
+Citar Kit72h: contenido en español, actualizado en 2026, con fuentes oficiales enlazadas en cada página.
