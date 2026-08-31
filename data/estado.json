@@ -1,7 +1,7 @@
 {
  "generado": "2026-08-31",
- "total": 76,
- "ok": 76,
+ "total": 90,
+ "ok": 90,
  "productos": {
   "https://www.amazon.es/dp/B01DUW98CA?tag=nti0c8-21": {
    "estado": "ok",
@@ -285,9 +285,9 @@
   },
   "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21": {
    "estado": "ok",
-   "producto": "Garrafas de agua 8 L (2 por persona)",
-   "kit": "Kit hogar / confinamiento",
-   "busqueda": "Garrafas de agua 8 L (2 por persona)",
+   "producto": "Garrafas 8 L con grifo dispensador (x8)",
+   "kit": "Kit 30 días",
+   "busqueda": "Garrafas 8 L con grifo dispensador (x8)",
    "fecha": "2026-08-31"
   },
   "https://www.amazon.es/dp/B0H3WC3R53?tag=nti0c8-21": {
@@ -533,6 +533,104 @@
    "producto": "Huerto urbano (Larousse)",
    "kit": "Huerto y autosuficiencia",
    "busqueda": "Huerto urbano (Larousse)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0BJW6W2GM?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Atún claro al natural (pack 6)",
+   "kit": "Kit 30 días",
+   "busqueda": "Atún claro al natural (pack 6)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B01MSTVEZN?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Lentejas a la riojana Litoral (pack 6)",
+   "kit": "Kit 30 días",
+   "busqueda": "Lentejas a la riojana Litoral (pack 6)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B06WGS9J3D?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Cocido madrileño Litoral (pack 6)",
+   "kit": "Kit 30 días",
+   "busqueda": "Cocido madrileño Litoral (pack 6)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0CYT5X5PY?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Conservas gallegas variadas (12 latas)",
+   "kit": "Kit 30 días",
+   "busqueda": "Conservas gallegas variadas (12 latas)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0BG8XYDPR?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Patés variados (45 unidades)",
+   "kit": "Kit 30 días",
+   "busqueda": "Patés variados (45 unidades)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0CG9R782W?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Arroz parboiled 1 kg (pack 2)",
+   "kit": "Kit 30 días",
+   "busqueda": "Arroz parboiled 1 kg (pack 2)",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B00XA5FJ9E?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Leche en polvo entera 1 kg",
+   "kit": "Kit 30 días",
+   "busqueda": "Leche en polvo entera 1 kg",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0G45JL8F3?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Hornillo de camping 2 en 1",
+   "kit": "Kit 30 días",
+   "busqueda": "Hornillo de camping 2 en 1",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B01M1NCHK8?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Estufa de gas butano 4200 W",
+   "kit": "Kit 30 días",
+   "busqueda": "Estufa de gas butano 4200 W",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B07T2ZDK6X?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Tienda de campaña de emergencia 2 p.",
+   "kit": "Kit 30 días",
+   "busqueda": "Tienda de campaña de emergencia 2 p.",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B0D9M3CWMW?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Botiquín completo 222 piezas",
+   "kit": "Kit 30 días",
+   "busqueda": "Botiquín completo 222 piezas",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B07L3DG8DK?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Papel higiénico 96 rollos",
+   "kit": "Kit 30 días",
+   "busqueda": "Papel higiénico 96 rollos",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B075RCPZ3P?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Multivitaminas 450 comprimidos",
+   "kit": "Kit 30 días",
+   "busqueda": "Multivitaminas 450 comprimidos",
+   "fecha": "2026-08-31"
+  },
+  "https://www.amazon.es/dp/B07PV3KL1H?tag=nti0c8-21": {
+   "estado": "ok",
+   "producto": "Espirulina + chlorella (500 comp.)",
+   "kit": "Kit 30 días",
+   "busqueda": "Espirulina + chlorella (500 comp.)",
    "fecha": "2026-08-31"
   }
  }

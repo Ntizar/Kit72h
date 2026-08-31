@@ -1087,6 +1087,175 @@
           ]
         }
       ]
+    },
+    {
+      "id": "kit30dias",
+      "titulo": "Kit 30 días",
+      "slug": "kit-30-dias",
+      "icono": "🗓️",
+      "resumen": "Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA que se alarga. Provisión completa de agua, comida y energía para 2 personas durante un mes, sin cocinar con electricidad.",
+      "fuente": {
+        "nombre": "Recopilación propia a partir de: Estrategia de Preparación UE, Protección Civil y FAO (reservas alimentarias domésticas)",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-08-31"
+      },
+      "guia": {
+        "antes": [
+          "Calcula consumo real: 2 personas, 30 días = 60 L de agua para beber + 40-60 L para higiene básica",
+          "Prioriza comida que ya comes: una despensa de emergencia que no rotas es dinero tirado",
+          "Guarda todo en lugar fresco, oscuro y seco; anota fechas de compra en cada pack",
+          "Añade a tu kit lo específico de tu casa: medicación habitual, pañales, comida de mascotas"
+        ],
+        "durante": [
+          "Empieza a consumir por orden de caducidad: primero nevera, luego congelador (si lo mantienes cerrado aguanta 24-48h), luego despensa",
+          "Raciona agua por personas, no por días: 3 L/día por adulto para beber es el mínimo",
+          "Cocina con el hornillo en zona ventilada, nunca dentro de una habitación cerrada"
+        ],
+        "despues": [
+          "Repon la semana siguiente lo consumido, marcando de nuevo las fechas",
+          "Revisa que las latas no estén abombadas u oxidadas y sustitúyelas",
+          "Apunta qué sobró y qué faltó: ajusta cantidades para la próxima revisión"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Agua (180 L para 2 personas / 30 días)",
+          "items": [
+            {
+              "producto": "Garrafas 8 L con grifo dispensador (x8 = 64 L)",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21",
+              "descripcion": "Bezoya 8 L con grifo: cómodas para dosificar. Calcula 3 L/día por persona para beber y cocina.",
+              "precio_aprox": "~3 €/ud",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Renueva el agua cada 6 meses",
+              "afiliado": "",
+              "descripcion": "La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo.",
+              "precio_aprox": "—",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Comida no perecedera (proteína y platos listos)",
+          "items": [
+            {
+              "producto": "Atún claro al natural (pack 6 latas)",
+              "afiliado": "https://www.amazon.es/dp/B0BJW6W2GM?tag=nti0c8-21",
+              "descripcion": "Proteína barata y duradera. Multiplica packs según días cubiertos.",
+              "precio_aprox": "~8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Lentejas a la riojana Litoral (pack 6)",
+              "afiliado": "https://www.amazon.es/dp/B01MSTVEZN?tag=nti0c8-21",
+              "descripcion": "Plato completo listo para comer, se puede tomar frío si no hay forma de calentar.",
+              "precio_aprox": "~13 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cocido madrileño Litoral (pack 6)",
+              "afiliado": "https://www.amazon.es/dp/B06WGS9J3D?tag=nti0c8-21",
+              "descripcion": "Calorías y proteína en un solo bote. Muy buena relación energía/precio.",
+              "precio_aprox": "~14 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Conservas gallegas variadas (12 latas gourmet)",
+              "afiliado": "https://www.amazon.es/dp/B0CYT5X5PY?tag=nti0c8-21",
+              "descripcion": "Mejillones, sardinas, berberechos… variar el sabor mantiene la moral en una crisis larga.",
+              "precio_aprox": "~89 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Patés variados (45 unidades)",
+              "afiliado": "https://www.amazon.es/dp/B0BG8XYDPR?tag=nti0c8-21",
+              "descripcion": "Fácil de comer sin cocinar, en tostada o solo. Caducidad larga.",
+              "precio_aprox": "~19 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Base de despensa (carbohidrato y leche)",
+          "items": [
+            {
+              "producto": "Arroz parboiled 1 kg (pack 2)",
+              "afiliado": "https://www.amazon.es/dp/B0CG9R782W?tag=nti0c8-21",
+              "descripcion": "Alimento de larga conservación por excelencia. Compra 6-8 kg para el mes.",
+              "precio_aprox": "~3 €/pack",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Leche en polvo entera 1 kg (Asturiana)",
+              "afiliado": "https://www.amazon.es/dp/B00XA5FJ9E?tag=nti0c8-21",
+              "descripcion": "Rinde ~7 litros de leche por bolsa. Vitamina D y calcio sin nevera.",
+              "precio_aprox": "~9 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Cocinar y calentar sin electricidad",
+          "items": [
+            {
+              "producto": "Hornillo de camping 2 en 1 (bombona grande o cartucho)",
+              "afiliado": "https://www.amazon.es/dp/B0G45JL8F3?tag=nti0c8-21",
+              "descripcion": "Admite bombona de butano normal o cartucho pequeño. Solo usar en zona ventilada.",
+              "precio_aprox": "~19 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Estufa de gas butano (Orbegozo 4200 W)",
+              "afiliado": "https://www.amazon.es/dp/B01M1NCHK8?tag=nti0c8-21",
+              "descripcion": "Para el frío en apagón de invierno. Triple sistema de seguridad. Ventila siempre.",
+              "precio_aprox": "~84 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Tienda de campaña de emergencia 2 personas",
+              "afiliado": "https://www.amazon.es/dp/B07T2ZDK6X?tag=nti0c8-21",
+              "descripcion": "Si la casa queda inhabitable o para aislar una habitación y conservar el calor corporal.",
+              "precio_aprox": "~14 €",
+              "prioridad": "opcional"
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y salud",
+          "items": [
+            {
+              "producto": "Botiquín completo 222 piezas",
+              "afiliado": "https://www.amazon.es/dp/B0D9M3CWMW?tag=nti0c8-21",
+              "descripcion": "Curas, vendas, antisépticos, guantes, esparadrapo. La base de salud de 30 días.",
+              "precio_aprox": "~24 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Papel higiénico 96 rollos (Scottex)",
+              "afiliado": "https://www.amazon.es/dp/B07L3DG8DK?tag=nti0c8-21",
+              "descripcion": "Es de lo primero que desaparece de los supermercados ante cualquier aviso.",
+              "precio_aprox": "~23 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Multivitaminas 450 comprimidos",
+              "afiliado": "https://www.amazon.es/dp/B075RCPZ3P?tag=nti0c8-21",
+              "descripcion": "Cubre carencias si tu dieta de emergencia es monótona (sin fruta ni verdura fresca).",
+              "precio_aprox": "~11 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Espirulina + chlorella ecológica (500 comprimidos)",
+              "afiliado": "https://www.amazon.es/dp/B07PV3KL1H?tag=nti0c8-21",
+              "descripcion": "Superalimento denso en proteína y micronutrientes, caducidad larguísima.",
+              "precio_aprox": "~14 €",
+              "prioridad": "opcional"
+            }
+          ]
+        }
+      ]
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea.",
