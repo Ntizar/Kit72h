@@ -8,12 +8,16 @@
         "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698"
       },
       {
+        "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (página oficial, actualizada 23/05/2025)",
+        "url": "https://commission.europa.eu/topics/preparedness_es"
+      },
+      {
         "nombre": "Protección Civil — Recomendaciones",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
       }
     ],
-    "ultima_revision": "2026-08-30",
-    "nota_revision": "2026-08-30: baliza V-16 conectada es el único medio legal de señalización desde el 1/1/2026 (DGT/Interior). Resto de fuentes sin cambios de contenido."
+    "ultima_revision": "2026-09-01",
+    "nota_revision": "2026-09-01: la URL europea topics/eu-resilience-and-security_es ahora da 404; sustituida por la página oficial vigente commission.europa.eu/topics/preparedness_es (actualizada 23/05/2025, mantiene la directriz de autosuficiencia de 72h) en los kits básico y apagón. URL FAO agricultura urbana corregida a fao.org/urban-peri-urban-agriculture/es (la anterior 404 tras reestructuración FAO). Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en listas. Baliza V-16: sin cambios — sigue siendo el único medio legal desde el 1/1/2026 (DGT), multa 80€; vehículos extranjeros con matrícula no española exentos por Convenio de Viena."
   },
   "kits": [
     {
@@ -24,7 +28,7 @@
       "resumen": "La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.",
       "fuente": {
         "nombre": "Estrategia de Preparación de la Unión Europea — Comunicación JOIN(2025) 90",
-        "url": "https://commission.europa.eu/topics/eu-resilience-and-security_es",
+        "url": "https://commission.europa.eu/topics/preparedness_es",
         "fecha": "2025-03-26"
       },
       "guia": {
@@ -322,7 +326,7 @@
       "resumen": "Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.",
       "fuente": {
         "nombre": "Estrategia de Preparación de la UE + lecciones del apagón ibérico de abril 2025",
-        "url": "https://commission.europa.eu/topics/eu-resilience-and-security_es",
+        "url": "https://commission.europa.eu/topics/preparedness_es",
         "fecha": "2025-04-28"
       },
       "guia": {
@@ -994,7 +998,7 @@
       "resumen": "No todo es survive: producir tu propia comida en balcon, terraza o patio te da independencia real. Guia completa de cultivo urbano paso a paso, con el material que de verdad funciona.",
       "fuente": {
         "nombre": "Referencias: FAO — Agricultura urbana y perurbana + manuales de huerto urbano",
-        "url": "https://www.fao.org/urban-agriculture/es",
+        "url": "https://www.fao.org/urban-peri-urban-agriculture/es",
         "fecha": "2026-08-31"
       },
       "guia": {
