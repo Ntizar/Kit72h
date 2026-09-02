@@ -16,8 +16,8 @@
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
       }
     ],
-    "ultima_revision": "2026-09-01",
-    "nota_revision": "2026-09-01: la URL europea topics/eu-resilience-and-security_es ahora da 404; sustituida por la página oficial vigente commission.europa.eu/topics/preparedness_es (actualizada 23/05/2025, mantiene la directriz de autosuficiencia de 72h) en los kits básico y apagón. URL FAO agricultura urbana corregida a fao.org/urban-peri-urban-agriculture/es (la anterior 404 tras reestructuración FAO). Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en listas. Baliza V-16: sin cambios — sigue siendo el único medio legal desde el 1/1/2026 (DGT), multa 80€; vehículos extranjeros con matrícula no española exentos por Convenio de Viena."
+    "ultima_revision": "2026-09-02",
+    "nota_revision": "2026-09-02: revisión de rutina. Comisión Europea: topics/preparedness_es operativa (200) y mantiene la directriz de autosuficiencia de 72h; la antigua topics/eu-resilience-and-security_es sigue inexistente (404 — ya sustituida el 2026-09-01). Protección Civil: páginas de recomendaciones, lluvias intensas y altas temperaturas sin cambios en las listas. Baliza V-16: sin cambio normativo — en el Congreso hay una enmienda registrada (Vox) para recuperar los triángulos como alternativa, pero la DGT mantiene que la baliza 'ha venido para quedarse'; sigue siendo el único medio legal desde el 1/1/2026 (multa 80€), vehículos extranjeros con matrícula no española exentos por Convenio de Viena. Estrategia UE: sin nuevas directrices de contenido del kit. Nota anterior (2026-09-01): URLs europeas y FAO corregidas tras 404."
   },
   "kits": [
     {
