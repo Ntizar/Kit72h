@@ -20,3 +20,8 @@ busquedas/cands*.json
 busquedas/lote3_raw.json
 busquedas/verified.json
 busquedas/__pycache__
+_cookies_amz.txt
+_tmp_page.html
+ck_*
+s_*.html
+cands.json
