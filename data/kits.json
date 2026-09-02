@@ -1470,12 +1470,13 @@
             },
             {
               "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
-              "afiliado": "https://www.amazon.es/s?k=calentador+biberones+sin+gas+ni+electricidad&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GSVHHD6R?tag=nti0c8-21",
               "descripcion": "Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo.",
               "precio_aprox": "6-12 €",
               "prioridad": "recomendado",
               "busqueda": "calentador biberones sin gas ni electricidad",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-02"
             },
             {
               "producto": "Termo pequeño de boca ancha (350-500 ml)",
