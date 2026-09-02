@@ -261,3 +261,26 @@ ul.items .producto { flex: 1; font-size: 15px; color: var(--arena); display: blo
   background: rgba(212,149,90,.08); font-size: 14px;
 }
 .entrada-blog .btn-amazon { display: inline-block; margin-top: 6px; }
+
+/* === Enriquecimiento 2026-09 === */
+.coste-kit { display: inline-block; margin-top: 8px; font-size: 13px; color: var(--cobre-claro); letter-spacing: .5px; }
+.home-blog { margin: 46px 0 10px; }
+.home-blog h2 { font-family: "Rubik Dirt", system-ui; font-weight: 400; font-size: 24px; color: var(--cobre-claro); margin-bottom: 18px; letter-spacing: 1px; }
+.ver-todo { color: var(--cobre-claro); font-weight: 600; }
+.tag-blog { display: inline-block; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--humo); border: 1px solid var(--borde); border-radius: 3px; padding: 1px 6px; margin-left: 6px; }
+.seccion-kit .intro-seccion { font-size: 14.5px; color: var(--humo); margin: -4px 0 12px; line-height: 1.5; max-width: 660px; }
+.kit-paraquien { display: grid; gap: 10px; margin: 18px 0 30px; }
+.kit-paraquien .pq { font-size: 15px; color: var(--arena); line-height: 1.5; padding: 12px 14px; border-left: 3px solid var(--cobre); background: rgba(196,127,62,.08); margin: 0; }
+.kit-paraquien .pq.no { border-left-color: var(--peligro); background: rgba(212,63,42,.07); }
+.kit-paraquien .pq.coste { border-left-color: var(--humo); background: rgba(181,160,138,.07); }
+.kit-paraquien strong { color: var(--cobre-claro); }
+.badge-busqueda { font-size: 11.5px; color: var(--humo); font-style: italic; }
+.kit-errores ol { margin-left: 20px; font-size: 15px; color: var(--arena); }
+.kit-errores li { margin-bottom: 8px; line-height: 1.5; }
+.kit-blog ul { margin-left: 18px; font-size: 15px; }
+.kit-blog li { margin-bottom: 5px; }
+.kit-blog a { color: var(--cobre-claro); }
+@media print {
+  .home-blog, .kit-paraquien .pq.no, .badge-busqueda, .btn-amazon, .kit-blog { display: none !important; }
+  .kit-errores { break-inside: avoid; }
+}

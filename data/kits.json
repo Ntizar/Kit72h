@@ -17,7 +17,7 @@
       }
     ],
     "ultima_revision": "2026-09-02",
-    "nota_revision": "2026-09-02: revisión de rutina. Comisión Europea: topics/preparedness_es operativa (200) y mantiene la directriz de autosuficiencia de 72h; la antigua topics/eu-resilience-and-security_es sigue inexistente (404 — ya sustituida el 2026-09-01). Protección Civil: páginas de recomendaciones, lluvias intensas y altas temperaturas sin cambios en las listas. Baliza V-16: sin cambio normativo — en el Congreso hay una enmienda registrada (Vox) para recuperar los triángulos como alternativa, pero la DGT mantiene que la baliza 'ha venido para quedarse'; sigue siendo el único medio legal desde el 1/1/2026 (multa 80€), vehículos extranjeros con matrícula no española exentos por Convenio de Viena. Estrategia UE: sin nuevas directrices de contenido del kit. Nota anterior (2026-09-01): URLs europeas y FAO corregidas tras 404."
+    "nota_revision": "2026-09-02: enriquecimiento editorial — los 12 kits llevan para quién es (y para quién no), coste orientativo, errores típicos e intro por sección. Nuevos kits bebé y persona mayor. 159 productos, 159 con enlace."
   },
   "kits": [
     {
@@ -65,7 +65,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Lo primero que falta y lo único que no se improvisa. 3 litros por persona y día para beber, y un sistema para hacer potable agua dudosa cuando se acabe."
         },
         {
           "titulo": "Alimentación",
@@ -91,7 +92,8 @@
               "precio_aprox": "10-15 €/pack",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Comida que se come sin cocinar, sin agua y sin electricidad, y que de verdad te apetezca comer tres días seguidos."
         },
         {
           "titulo": "Luz y energía",
@@ -117,7 +119,8 @@
               "precio_aprox": "10-20 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Ver y que te vean, y mantener vivo el móvil y la radio. El frontal deja las manos libres: es la linterna que se usa de verdad."
         },
         {
           "titulo": "Información y comunicación",
@@ -136,7 +139,8 @@
               "precio_aprox": "5-15 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Saber qué está pasando y dónde está el resto de la familia. Con la red caída, la radio y el papel ganan."
         },
         {
           "titulo": "Documentación y dinero",
@@ -155,7 +159,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Fotocopias y algo de efectivo en billetes pequeños. Cinco minutos de preparación que te ahorran meses de gestiones."
         },
         {
           "titulo": "Higiene y salud",
@@ -174,7 +179,8 @@
               "precio_aprox": "5-10 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Lo que evita que un corte pequeño se convierta en un problema en un sitio sin agua corriente ni farmacia."
         },
         {
           "titulo": "Abrigo y refugio",
@@ -193,8 +199,19 @@
               "precio_aprox": "15-30 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Mantener la temperatura corporal es lo que separa una noche incómoda de una urgencia médica."
         }
+      ],
+      "paraQuien": "Para cualquier hogar de España, empiece por donde empiece. Es la bolsa de resiliencia que pide la UE desde marzo de 2025: agua, comida, luz, información, documentos y abrigo para aguantar 72 horas sin servicios. Si sólo vas a montar un kit, que sea éste.",
+      "paraQuien_no": "No es una mochila para irte caminando ni sustituye al kit específico de tu riesgo (DANA, montaña, coche). Si vives en zona inundable o con personas dependientes, completa con el kit de evacuación y el kit de bebés o el de persona mayor.",
+      "coste_total": "100-180 € (2 personas, comprando con calma y aprovechando lo de casa)",
+      "errores": [
+        "Comprar sólo agua embotellada y no tener plan B: si se acaba, unas pastillas potabilizadoras de 8 € te dan agua del grifo o de lluvia tratada.",
+        "Guardarlo todo en el trastero o en el armario de arriba. En un apagón sin luz tienes que encontrarlo en 30 segundos, mejor junto a la puerta.",
+        "No escribir la fecha de compra en cada pack: a los dos años no sabrás qué es viejo y tirarás media reserva.",
+        "Olvidarse de la radio. En una crisis larga el móvil se queda mudo; la radio a pilas es tu único enlace con lo que manda Protección Civil.",
+        "Comprar las cosas todas de golpe y dejarlo correr. Funciona mejor añadir dos o tres artículos cada semana de compra."
       ]
     },
     {
@@ -250,7 +267,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Si te sorprende andando o conduciendo, lo que decides en dos minutos vale más que todo lo que compres después."
         },
         {
           "titulo": "Seguridad eléctrica",
@@ -269,7 +287,8 @@
               "precio_aprox": "20-40 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "En casa inundada, el mayor riesgo silencioso no es el agua: es la electricidad que sigue en los cables."
         },
         {
           "titulo": "Protección de la vivienda",
@@ -288,7 +307,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Medidas baratas y rápidas que se ponen cuando hay aviso, antes de que llegue el agua."
         },
         {
           "titulo": "Post-DANA",
@@ -314,8 +334,19 @@
               "precio_aprox": "15-40 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Los días después son los de las lesiones y las enfermedades: lodo, humedad e instalaciones tocadas."
         }
+      ],
+      "paraQuien": "Para quien vive o trabaja en el Levante, Baleares, Guadalquivir, zonas de rambla, barrancos o cauces con urbanizaciones cerca. La DANA es el riesgo que más se repite en España: agua que llega en minutos, sin aviso previo suficiente.",
+      "paraQuien_no": "No vale para el escenario de inundación lenta de un río del norte (ahí el tiempo juega a favor y la priorida es cortar suministros y sacar cosas de casa). Y no sustituye al kit básico: sin agua potable y comida, una DANA que corta carreteras se alarga.",
+      "coste_total": "90-160 € (además del kit básico)",
+      "errores": [
+        "Confiar en el aviso móvil y no tener nada preparado hasta que suena. En la DANA de 2024 muchas personas no tuvieron margen: el kit debe estar hecho antes.",
+        "Bajar al garaje o al trastero a salvar cosas cuando ya está lloviendo fuerte. Es el accidente típico.",
+        "Encender la luz o tocar enchufes mojados: la electrocución en planta baja es de las causas de muerte más habituales en inundaciones.",
+        "Volver antes de tiempo y pisar el lodo sin guantes ni botas: va cargado de aguas residuales, vidrio y metales.",
+        "No fotografiar nada: los daños se declaran mal sin pruebas, y los plazos para el Consorcio de Compensación de Seguros corren."
       ]
     },
     {
@@ -370,7 +401,8 @@
               "precio_aprox": "5-12 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Una luz por persona, y que no sean velas. Las lámparas con imán se cuelgan dentro de la nevera o del armario y cambian la vida."
         },
         {
           "titulo": "Energía",
@@ -396,7 +428,8 @@
               "precio_aprox": "15-30 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Mantener el móvil y la radio vivos 3-4 días. Powerbank grande, panel pequeño para recargarlo y cargador de dinamo como último recurso."
         },
         {
           "titulo": "Cocina sin electricidad",
@@ -422,7 +455,8 @@
               "precio_aprox": "1-3 €/lata",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Poder hacer un café o calentar agua marca la diferencia moral de un apagón. Y exige hacerlo en sitio ventilado: el butano en interior cerrado mata."
         },
         {
           "titulo": "Dinero y comunicación",
@@ -441,8 +475,19 @@
               "precio_aprox": "15-35 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Efectivo, contactos en papel y una radio. Cuando todo es digital, lo analógico decide."
         }
+      ],
+      "paraQuien": "Para todos. El 28 de abril de 2025 la península se quedó 12 horas o más sin luz: semáforos muertos, cajeros cerrados, ascensores parados, supermercados sin TPV. Un apagón largo no es una anécdota: es un día sin poder comprar, sin agua en pisos altos y sin ascensor.",
+      "paraQuien_no": "No te sirve si lo que esperas es seguir trabajando o estudiando con normalidad: para eso hace falta capacidad de generar electricidad (panel grande, batería doméstica), que es otro nivel de inversión. Y si vives en un quinto sin ascensor, calcula que el agua que bajes a buscar hay que subirla a pie.",
+      "coste_total": "120-220 € (además del kit básico)",
+      "errores": [
+        "Abrir la nevera cada poco para ver qué hay. Cerrada y sin abrirla, un frigorífico aguanta unas 4 horas y un congelador lleno hasta 24-48 horas.",
+        "Encender velas y dejarlas solas: es la causa clásica de incendio doméstico durante apagones. Con niños, linterna y punto.",
+        "No desconectar los electrodomésticos: cuando vuelve la luz, la sobretensión puede freír la nevera, la caldera o el router.",
+        "Confiar en que el móvil tenga batería: en apagones la gente llama a la vez y las antenas aguantan poco. Modo avión y powerbank lleno.",
+        "Pagar con tarjeta y descubrir que el datáfono no funciona. El efectivo en billetes pequeños es el plan, no el detalle."
       ]
     },
     {
@@ -487,7 +532,8 @@
               "precio_aprox": "8-25 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Lo que te pueden exigir en una inspección o en un accidente. Desde el 1/1/2026 la baliza V-16 conectada es el único medio legal de señalización."
         },
         {
           "titulo": "Emergencia y supervivencia",
@@ -527,7 +573,8 @@
               "precio_aprox": "30-80 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Lo que necesitas si tienes que pasar la noche dentro del coche o caminar hasta una salida."
         },
         {
           "titulo": "Energía y confort",
@@ -553,8 +600,19 @@
               "precio_aprox": "10-15 €/pack",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Agua, algo de calor y batería. En un puerto nevado o un atasco de verano es lo que sostiene el ánimo."
         }
+      ],
+      "paraQuien": "Para quien conduce, que somos casi todos. Además de lo legalmente obligatorio, es lo que necesitas si te quedas tirado en un puerto de montaña en enero, en un atasco de 6 horas en agosto o esperando a la grúa a las 3 de la mañana.",
+      "paraQuien_no": "No es un kit de taller: si esperas cambiar una rueda tú mismo o cargar una batería, necesitas además gato, llave y cables de arranque, y saber usarlos. Y no sustituye a la mochila que llevas dentro: el coche puede quedar donde tú no quieras estar.",
+      "coste_total": "60-120 € (sin contar la baliza V-16, que es obligatoria)",
+      "errores": [
+        "No comprobar la baliza V-16: caduca la conexión (suele durar unos 12 años desde fabricación) y hay modelos sin homologación de la DGT. Con triángulos ya no vale desde el 1/1/2026.",
+        "Tener el kit en el maletero y que el maletero esté lleno de cosas de la última mudanza. Un botiquín tapado no existe.",
+        "No revisar la rueda de repuesto ni el nivel de agua: un pinchazo a 30 km de la gasolinera más cercana es un problema de horas.",
+        "Confiar en el móvil con el 8% de batería y sin powerbank en el coche.",
+        "En nieve, salir sin cadenas ni saber ponérselas. Los calcetines textiles son un apaño legal en algunos sitios y un peligro en otros: aprende antes qué admite tu zona."
       ]
     },
     {
@@ -610,7 +668,8 @@
               "precio_aprox": "5-15 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "La base de la despensa. Cantidad real para los días que quieras cubrir y rotación para que no caduque."
         },
         {
           "titulo": "Higiene y limpieza",
@@ -636,7 +695,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Cuando el agua escasea, la higiene es lo primero que se degrada y lo segundo que te enferma."
         },
         {
           "titulo": "Salud",
@@ -650,11 +710,13 @@
             },
             {
               "producto": "Paracetamol e ibuprofeno (caducidad larga)",
-              "afiliado": "",
+              "afiliado": "https://www.amazon.es/s?k=paracetamol+e+ibuprofeno&tag=nti0c8-21",
               "descripcion": "Analgésicos y antitérmicos básicos. Revisa caducidad anual.",
               "precio_aprox": "5-10 €",
               "prioridad": "esencial",
-              "sin_enlace": true
+              "sin_enlace": true,
+              "busqueda": "paracetamol e ibuprofeno",
+              "es_busqueda": true
             },
             {
               "producto": "Mascarillas FFP2",
@@ -663,7 +725,8 @@
               "precio_aprox": "8-15 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Termómetro, antiséptico, analgésicos generales y lo que recete tu médico. Sin farmacia abierta, el botiquín es la farmacia."
         },
         {
           "titulo": "Moral",
@@ -682,8 +745,19 @@
               "precio_aprox": "5-15 €",
               "prioridad": "extra"
             }
-          ]
+          ],
+          "intro": "Tres días sin luz con un niño en casa sin nada que hacer se hacen largos. La parte psicológica también se prepara."
         }
+      ],
+      "paraQuien": "Para quien quiere estar cubierto sin tener que salir de casa: cortes de agua, confinamientos, temporales que aíslan un barrio, o simplemente una semana en la que no te apetece ni puedes bajar a comprar. Es la reserva de despensa, no la mochila.",
+      "paraQuien_no": "No vale para evacuación: si tienes que salir en 15 minutos, esto se queda donde está. Prepara entonces la mochila de evacuación con lo esencial. Y si tienes mascota o bebé, la reserva tiene que incluir lo suyo desde el día uno, no cuando falte.",
+      "coste_total": "150-250 € (2 personas, 7-10 días)",
+      "errores": [
+        "Comprar cosas que nadie come en casa. Una despensa de emergencia se rota comiéndosela, y si no te gusta, no se rota.",
+        "No tener forma de cocinar sin electricidad: veinte latas y un hornillo apagado.",
+        "Olvidar el agua de uso: sin grifo no tiras de la cisterna. Llenar la bañera a tiempo es gratis.",
+        "Guardarlo todo junto en un solo armario: si se inunda o se estropea una estancia, pierdes la reserva entera.",
+        "No sumar la medicación crónica de la casa al plan: dos semanas de reserva de tratamiento es la diferencia entre aguantar y tener que salir."
       ]
     },
     {
@@ -732,7 +806,8 @@
               "precio_aprox": "10-25 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa."
         },
         {
           "titulo": "Refugio y abrigo",
@@ -758,7 +833,8 @@
               "precio_aprox": "8-18 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Lo que evita la hipotermia si te ves obligado a parar y esperar horas."
         },
         {
           "titulo": "Salud y reparación",
@@ -791,8 +867,19 @@
               "precio_aprox": "15-35 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Trabillas, cortes, ampollas y material roto: la pequeña cirugía de la ruta."
         }
+      ],
+      "paraQuien": "Para quien sale a caminar, hacer barranquismo o esquiar de montaña. El 90% de los rescates en montaña en España son personas que se despistaron, se lesionaron o les pilló la noche. No hace falta ser experto: basta con ir un poco más lejos de lo previsto.",
+      "paraQuien_no": "No es un equipo de alta montaña: para glaciar, vía ferrata o pernocta en altura necesitas material técnico y formación. Y si vas a un paraje sin cobertura, este kit no te comunica: el teléfono no siempre funciona, y la solución de verdad es decir a alguien tu ruta y tu hora de vuelta.",
+      "coste_total": "70-140 € (buena parte ya lo tienes si corres o ciclas)",
+      "errores": [
+        "Salir con el ropa de ciudad y fiarse del tiempo de la app. En montaña la temperatura cae 10 grados de un barranco arriba y la niebla llega en 20 minutos.",
+        "Una sola linterna para el grupo, sin pilas de repuesto, en el fondo de la mochila.",
+        "No llevar abrigo extra «porque hago la ruta en dos horas»: la media hora de espera de un rescate en una canal se hace a cero grados.",
+        "Beber poco y llegar al final deshidratado y con un golpe de calor, sobre todo en primavera con sol y mochila.",
+        "Fiarse del móvil para orientarse. Se agota, se cae, se moja. Mapa y brújula, y saber usarlos antes de necesitarlos."
       ]
     },
     {
@@ -846,7 +933,8 @@
               "precio_aprox": "3-8 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Enfriar el cuerpo sin electricidad: toallas, ventiladores a pilas y pulverizador valen más de lo que parece."
         },
         {
           "titulo": "Hidratación",
@@ -865,7 +953,8 @@
               "precio_aprox": "5-12 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Agua más sales, y saber cuánta. Una botella isotérmica con hielo por la mañana te da agua fría por la noche."
         },
         {
           "titulo": "Protección solar",
@@ -884,8 +973,19 @@
               "precio_aprox": "15-40 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Gafas, sombrero y crema. Las quemaduras del día 2 de una ola de calor son las de haber salido 20 minutos 'a hacer un recado'."
         }
+      ],
+      "paraQuien": "Para hogares sin aire acondicionado o con cortes de luz en ola de calor, y para quien tenga en casa personas mayores, bebés o enfermos crónicos. España pasa semanas por encima de 40 grados y las olas de calor son el riesgo natural que más muertes deja, casi todas evitables.",
+      "paraQuien_no": "No es un kit de playa ni de senderismo: ahí lo importante es sombra, sombrero y agua. Y no sustituye a la prevención de verdad: si tu casa llega a 35 grados por la noche, el kit ayuda, pero el plan es ir a un sitio fresco.",
+      "coste_total": "30-70 € (la mayoría de cosas ya las tienes)",
+      "errores": [
+        "Beber mucha agua sola en días de mucho sudor, sin sales. La hiponatremia (poca sal) da mareo y confusión y se confunde con el propio golpe de calor.",
+        "Bajar la persiana tarde. Cuando la casa ya está a 33 grados, abrir ventanales de sur y oeste es meter el calor.",
+        "Dejar a nadie en el coche parado: en 15 minutos el interior sube más de 20 grados. Tampoco mascotas.",
+        "Confiar en el ventilador cuando pasas de 35 grados: mueve aire caliente y deshidrata. A partir de ahí hay que enfriar el cuerpo, no el aire.",
+        "Ignorar a la persona mayor que vive sola y dice que está bien. El golpe de calor en mayores da confusión, no sed: no piden ayuda."
       ]
     },
     {
@@ -926,7 +1026,8 @@
               "precio_aprox": "8-20 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Lo que no se repone en meses: DNI, escrituras, pólizas, cartillas médicas, en papel y en USB."
         },
         {
           "titulo": "Supervivencia 24-72 h",
@@ -959,7 +1060,8 @@
               "precio_aprox": "6-14 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Agua, comida, abrigo y un lugar donde resguardarse mientras te reubican."
         },
         {
           "titulo": "Utilidad",
@@ -980,14 +1082,27 @@
             },
             {
               "producto": "Efectivo en billetes pequeños",
-              "afiliado": "",
+              "afiliado": "https://www.amazon.es/s?k=efectivo+en+billetes+peque%C3%B1os&tag=nti0c8-21",
               "descripcion": "En evacuación los cajeros no funcionan. Billetes de 10-20 €.",
               "precio_aprox": "—",
               "prioridad": "esencial",
-              "sin_enlace": true
+              "sin_enlace": true,
+              "busqueda": "efectivo en billetes pequeños",
+              "es_busqueda": true
             }
-          ]
+          ],
+          "intro": "Las cosas pequeñas que se echan de menos en las primeras horas: luz, botiquín de bolsillo, navaja, silbato, papel higiénico."
         }
+      ],
+      "paraQuien": "Para cuando te dicen «salga de su casa ahora» —un incendio, una explosión química, una inundación súbita— y vuelves dentro de 3 días, o dentro de un mes. Es lo único que te llevas en las manos, así que decide ahora qué va dentro, no cuando suena la alarma.",
+      "paraQuien_no": "No es la maleta de vacaciones ni el kit de larga estancia: está pensado para sobrevivir 72 horas fuera de casa, no para vivir una semana en un polideportivo. Y si tienes movilidad reducida, mascota grande o bebé, esta mochila hay que repartirla y probarla antes.",
+      "coste_total": "60-120 € (más lo que ya tienes)",
+      "errores": [
+        "Dejarla en el trastero o en el coche: si te evacuando de noche desde la cama, la mochila tiene que estar en el pasillo, colgada, con todo dentro.",
+        "Meter ropa para un mes. Pesas 12 kilos, te duelen los hombros a los 4 km y terminas dejando cosas por el camino. 30-40 L y menos de 8 kg.",
+        "No probarla: camina 5 kilómetros con ella un domingo. Es la única forma de saber qué te falta y qué te sobra.",
+        "No poner copia de llaves, documentos y una tarjeta de telefonía recargable que no dependa de tu línea.",
+        "Olvidar efectivo pequeño y un cargador: en los primeros días, la cola para recargar el móvil es la escena más repetida de cualquier desastre."
       ]
     },
     {
@@ -1043,7 +1158,8 @@
               "precio_aprox": "24 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Semillas, bandejas y sustrato. Con menos de 40 € tienes medio año de ensaladas y germinados."
         },
         {
           "titulo": "Equipo y herramientas",
@@ -1062,7 +1178,8 @@
               "precio_aprox": "10 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Tres piezas de calidad valen más que un maletín de quince que se rompe."
         },
         {
           "titulo": "Subir de nivel",
@@ -1088,8 +1205,19 @@
               "precio_aprox": "17 €",
               "prioridad": "opcional"
             }
-          ]
+          ],
+          "intro": "Mini invernadero y lectura cuando ya has matado tu primer tomate y quieres entender por qué."
         }
+      ],
+      "paraQuien": "Para quien quiere el paso siguiente: dejar de depender del carrito de la compra y entender de dónde viene lo que come. Empezar por un balcón con germinados es realista, barato y engancha. También es tu seguro alimentario: unos kilos de semillas bien guardados dan comida un año.",
+      "paraQuien_no": "No es un plan de autosuficiencia real para una familia sin más: para vivir de un huerto hacen falta suelo, agua, tiempo y dos o tres años de aprendizaje. Y si no tienes ni dónde poner un tiesto, monta primero el kit básico: es más urgente y más barato.",
+      "coste_total": "50-120 € para empezar bien (semillas, sustrato, bandejas, herramientas)",
+      "errores": [
+        "Empezar con 20 variedades y un huerto grande. Se abandona en seis semanas. Empieza por tres cosas que comas: tomate, lechuga, aromáticas.",
+        "Sembrar cuando toca según el calendario y no según tu clima: siembra cuando la temperatura de tu valle lo permita, no cuando lo diga la tabla.",
+        "Usar sustrato barato del chino o tierra del jardín en maceta: se apelmaza, no drena y matas la raíz.",
+        "No tener agua asegurada: en un huerto de balcón, un finde fuera sin riego es un huerto muerto.",
+        "Guardar semillas sin secar y sin fecha: a los dos años no germina nada. Frasco hermético, etiqueta, sitio fresco y oscuro."
       ]
     },
     {
@@ -1134,12 +1262,15 @@
             },
             {
               "producto": "Renueva el agua cada 6 meses",
-              "afiliado": "",
+              "afiliado": "https://www.amazon.es/s?k=renueva+el+agua+cada+6+meses&tag=nti0c8-21",
               "descripcion": "La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo.",
               "precio_aprox": "—",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "busqueda": "renueva el agua cada 6 meses",
+              "es_busqueda": true
             }
-          ]
+          ],
+          "intro": "El cuello de botella real del mes. Envases grandes con grifo, rotación y un plan para potabilizar."
         },
         {
           "titulo": "Comida no perecedera (proteína y platos listos)",
@@ -1179,7 +1310,8 @@
               "precio_aprox": "~19 €",
               "prioridad": "recomendado"
             }
-          ]
+          ],
+          "intro": "Lo que sostiene: conservas y platos preparadas que se comen fríos y no piden cocina."
         },
         {
           "titulo": "Base de despensa (carbohidrato y leche)",
@@ -1198,7 +1330,8 @@
               "precio_aprox": "~9 €",
               "prioridad": "esencial"
             }
-          ]
+          ],
+          "intro": "Arroz, pasta, legumbre y leche en polvo. Baratos, calóricos y de años de vida útil."
         },
         {
           "titulo": "Cocinar y calentar sin electricidad",
@@ -1224,7 +1357,8 @@
               "precio_aprox": "~14 €",
               "prioridad": "opcional"
             }
-          ]
+          ],
+          "intro": "El medio de cocción es lo que convierte una despensa en comidas calientes. Siempre en espacio ventilado."
         },
         {
           "titulo": "Higiene y salud",
@@ -1256,6 +1390,618 @@
               "descripcion": "Superalimento denso en proteína y micronutrientes, caducidad larguísima.",
               "precio_aprox": "~14 €",
               "prioridad": "opcional"
+            }
+          ],
+          "intro": "Papel, jabón, botiquín completo y vitaminas. Lo que sostiene la salud y la moral durante semanas."
+        }
+      ],
+      "paraQuien": "Para quien ha cubierto las 72 horas y quiere dar el salto: una semana sin poder comprar, una comarca aislada por una DANA, un apagón largo o un episodio tipo confinamiento. Aquí ya no hay mochila, hay despensa y plan.",
+      "paraQuien_no": "No es el primer kit de nadie: si no tienes el de 72 horas montado, empieza por ahí —cubre el 95% de los escenarios reales y cuesta una fracción. Y con 30 días no tienes 30 días de autonomía médica ni de agua infinita: calcula cómo conseguir agua y cómo llegar a un médico antes de acumular comida.",
+      "coste_total": "300-500 € (2 personas, y mucho se amortiza comiéndolo)",
+      "errores": [
+        "Comprar 30 días de comida y no poder cocinarla: sin gas ni luz, el arroz crudo es decoración. Asegura medio de cocción y combustible primero.",
+        "No calcular el agua: 3 L por persona y día son 180 L para dos personas un mes. Es lo que se acaba antes y lo que más sitio ocupa.",
+        "No rotar. Una despensa que no se toca es basura dentro de tres años; una que se come en el día a día, no caduca nunca.",
+        "No contar el baño: sin agua, 96 rollos se quedan cortos y la hygiene se convierte en el problema sanitario de la casa.",
+        "Hacerlo todo de golpe y en el peor precio. Se monta en 4-6 meses añadiendo dos packs por compra, y así cuesta la mitad."
+      ]
+    },
+    {
+      "id": "bebe",
+      "titulo": "Kit bebé y lactancia",
+      "slug": "kit-bebe",
+      "icono": "🍼",
+      "resumen": "Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.",
+      "paraQuien": "Hogares con bebés de 0-18 meses, y también quien espera uno: se monta en dos tardes y se amortiza igual en el día a día. Si amamantas, gran parte de este kit es tranquilidad extra; si no, es imprescindible.",
+      "paraQuien_no": "Si el niño ya come solo de todo, con el kit básico más dos o tres cosas de aquí (snacks, entretener, abrigo) sobra. Este kit está pensado para lactantes, no para niños mayores.",
+      "coste_total": "80-150 € (gran parte es lo que ya usas a diario: rotarlo, no duplicarlo)",
+      "fuente": {
+        "nombre": "Protección Civil — recomendaciones para familias con menores",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+      },
+      "guia": {
+        "antes": [
+          "Anota en un papel la toma de medicación/pauta de leche del bebé y el teléfono de tu pediatra: en una emergencia, no saber qué toma es un lío",
+          "Ten un biberón y un vaso de aprendizaje que no uses nunca: es de reserva, que no esté en el lavavajillas el día que haga falta",
+          "Guarda fotocopias del DNI del bebé/libro de salud y cartilla de vacunación en la funda estanca",
+          "Habla con la familia: ¿quién coge al bebé si hay que evacuar rápido? Decide roles ahora"
+        ],
+        "durante": [
+          "Con un bebé en brazos, la mochila de evacuación se divide: alguien lleva al niño, tú llevas la bolsa de 24 h del pequeño",
+          "Si no sabes si podrás amamantar con calma, saca leche con sacaleches manual los primeros días para no perder producción",
+          "Vigila la temperatura del bebé: sin luz no hay termómetro de habitación, el tacto en nuca y pecho engaña, usa el termómetro del botiquín",
+          "Agua dudosa para el biberón: hervir no siempre es posible — potabilizar y enfriar, o agua embotellada de reserva baja para lactancia"
+        ],
+        "despues": [
+          "Revisa golpes y sustos: los bebés no verbalizan, cualquier cambio raro de conducta o de sueño, al pediatra",
+          "Repón lo usado el mismo día: la reserva de pañales y leche sin reponer es un kit a medias",
+          "Si la crisis fue larga, pide a tu centro de salud la cartilla de vacunación revisada y puesta al día si toca"
+        ]
+      },
+      "errores": [
+        "No tener LECHE DE RESERVA: la lactancia se cae con el estrés y sin fórmula de 2-3 días, eso angustia doble. Aunque des el pecho, ten 400-800 g de fórmula en la lista.",
+        "Fiarte de poder hervir agua siempre: sin gas ni luz no esterilizas biberones — necesita bolsa de agua potable específica y vaso, no sólo biberón.",
+        "No contar los pañales: un bebé usa 6-8 pañales al día. 72 horas son ~20 pañales: una bolsa pequeña que casi nadie mete.",
+        "Guardar la papilla nueva que el bebé no ha probado nunca: en una emergencia se prueba comida que ya sabes que tolera.",
+        "Olvidar el abrigo 'de siguiente talla': el bebé crece y el conjunto de abrigo del kit se queda corto a los 3 meses sin que nadie se dé cuenta."
+      ],
+      "secciones": [
+        {
+          "titulo": "Agua y alimentación sin electricidad",
+          "intro": "Para biberón y papilla hace falta agua segura y temperatura. Sin luz ni gas, se consigue con reserva propia y un calentador de butano pequeño.",
+          "items": [
+            {
+              "producto": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)",
+              "afiliado": "https://www.amazon.es/s?k=agua+baja+en+sodio+para+lactancia&tag=nti0c8-21",
+              "descripcion": "Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes.",
+              "precio_aprox": "4-7 €",
+              "prioridad": "esencial",
+              "busqueda": "agua baja en sodio para lactancia",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Pastillas potabilizadoras aptas para lactantes",
+              "afiliado": "https://www.amazon.es/s?k=pastillas+potabilizadoras+aptas+para+lactantes&tag=nti0c8-21",
+              "descripcion": "Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial",
+              "busqueda": "pastillas potabilizadoras aptas para lactantes",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
+              "afiliado": "https://www.amazon.es/s?k=calentador+biberones+sin+gas+ni+electricidad&tag=nti0c8-21",
+              "descripcion": "Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo.",
+              "precio_aprox": "6-12 €",
+              "prioridad": "recomendado",
+              "busqueda": "calentador biberones sin gas ni electricidad",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Termo pequeño de boca ancha (350-500 ml)",
+              "afiliado": "https://www.amazon.es/s?k=termo+peque%C3%B1o+de+boca+ancha&tag=nti0c8-21",
+              "descripcion": "Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "recomendado",
+              "busqueda": "termo pequeño de boca ancha",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Botella térmica fría (500 ml)",
+              "afiliado": "https://www.amazon.es/s?k=botella+t%C3%A9rmica+fr%C3%ADa&tag=nti0c8-21",
+              "descripcion": "Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera.",
+              "precio_aprox": "12-20 €",
+              "prioridad": "extra",
+              "busqueda": "botella térmica fría",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Leche y comida de reserva",
+          "intro": "Aunque des el pecho: el estrés y el agotamiento pueden bajar la producción justo cuando no hay dónde comprar. La reserva es un seguro, no una duda sobre tu lactancia.",
+          "items": [
+            {
+              "producto": "Leche de fórmula de seguimiento (lata 400-800 g)",
+              "afiliado": "https://www.amazon.es/s?k=leche+de+f%C3%B3rmula+de+seguimiento&tag=nti0c8-21",
+              "descripcion": "Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina.",
+              "precio_aprox": "10-16 €",
+              "prioridad": "esencial",
+              "busqueda": "leche de fórmula de seguimiento",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Cereales/papilla instantánea (2 cajas)",
+              "afiliado": "https://www.amazon.es/s?k=cereales+papilla+instant%C3%A1nea&tag=nti0c8-21",
+              "descripcion": "Se preparan con agua templada o fría, rinden mucho y no necesitan cocción. La que ya toma tu bebé: no estrenes marca en la emergencia.",
+              "precio_aprox": "5-9 €",
+              "prioridad": "esencial",
+              "busqueda": "cereales papilla instantánea",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Potitos de fruta y verdura (pack 6-8)",
+              "afiliado": "https://www.amazon.es/s?k=potitos+de+fruta+y+verdura&tag=nti0c8-21",
+              "descripcion": "Comida de verdad sin cocinar, con fecha larga. Si ya come papillas, son tu kit y su cena en un apagón.",
+              "precio_aprox": "8-14 €",
+              "prioridad": "recomendado",
+              "busqueda": "potitos de fruta y verdura",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Sacaleches manual",
+              "afiliado": "https://www.amazon.es/s?k=sacaleches+manual&tag=nti0c8-21",
+              "descripcion": "Sin pilas ni electricidad, mantiene la producción y evita ingurgitaciones dolorosas si el bebé no puede mamar bien (suelo, coche, hospital de campaña).",
+              "precio_aprox": "12-25 €",
+              "prioridad": "recomendado",
+              "busqueda": "sacaleches manual",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Bolsas de almacenamiento de leche materna (pack 30-50)",
+              "afiliado": "https://www.amazon.es/s?k=bolsas+de+almacenamiento+de+leche+materna&tag=nti0c8-21",
+              "descripcion": "Para extraer y guardar con fecha. Sin congelador aguantan unas horas en nevera portátil con paquetes fríos.",
+              "precio_aprox": "6-10 €",
+              "prioridad": "extra",
+              "busqueda": "bolsas de almacenamiento de leche materna",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y pañales",
+          "intro": "Cuando el agua corriente falta, la higiene del bebé es lo primero que se complica. Todo lo de esta sección cabe en una bolsa estanca de 5 litros.",
+          "items": [
+            {
+              "producto": "Pañales de reserva (talla actual, pack 20-25)",
+              "afiliado": "https://www.amazon.es/s?k=pa%C3%B1ales+de+reserva&tag=nti0c8-21",
+              "descripcion": "6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa.",
+              "precio_aprox": "6-10 €",
+              "prioridad": "esencial",
+              "busqueda": "pañales de reserva",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Toallitas limpiadoras (pack 3-5)",
+              "afiliado": "https://www.amazon.es/s?k=toallitas+limpiadoras&tag=nti0c8-21",
+              "descripcion": "Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "esencial",
+              "busqueda": "toallitas limpiadoras",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Bolsas estancas para ropa sucia y pañales (pack)",
+              "afiliado": "https://www.amazon.es/s?k=bolsas+estancas+para+ropa+sucia+y+pa%C3%B1ales&tag=nti0c8-21",
+              "descripcion": "Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro.",
+              "precio_aprox": "5-9 €",
+              "prioridad": "recomendado",
+              "busqueda": "bolsas estancas para ropa sucia y pañales",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Cambrador portátil plegable",
+              "afiliado": "https://www.amazon.es/s?k=cambrador+port%C3%A1til+plegable&tag=nti0c8-21",
+              "descripcion": "Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas.",
+              "precio_aprox": "8-14 €",
+              "prioridad": "extra",
+              "busqueda": "cambrador portátil plegable",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Crema barrera contra rozaduras",
+              "afiliado": "https://www.amazon.es/s?k=crema+barrera+contra+rozaduras&tag=nti0c8-21",
+              "descripcion": "Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "recomendado",
+              "busqueda": "crema barrera contra rozaduras",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Jabón neutro en pastilla + esponja",
+              "afiliado": "https://www.amazon.es/s?k=jab%C3%B3n+neutro+en+pastilla+%2B+esponja&tag=nti0c8-21",
+              "descripcion": "Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas.",
+              "precio_aprox": "2-4 €",
+              "prioridad": "extra",
+              "busqueda": "jabón neutro en pastilla + esponja",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Abrigo y sueño",
+          "intro": "Un bebé pierde calor cinco veces más rápido que un adulto. Sin luz ni calefacción, esta sección es la que evita la urgencia.",
+          "items": [
+            {
+              "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
+              "afiliado": "https://www.amazon.es/s?k=saco+pijama+de+una+pieza+de+abrigo&tag=nti0c8-21",
+              "descripcion": "Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo.",
+              "precio_aprox": "12-22 €",
+              "prioridad": "esencial",
+              "busqueda": "saco pijama de una pieza de abrigo",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)",
+              "afiliado": "https://www.amazon.es/s?k=manta+t%C3%A9rmica+de+emergencia+infantil&tag=nti0c8-21",
+              "descripcion": "La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo.",
+              "precio_aprox": "2-6 €",
+              "prioridad": "esencial",
+              "busqueda": "manta térmica de emergencia infantil",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Gorro y manoplas de bebé",
+              "afiliado": "https://www.amazon.es/s?k=gorro+y+manoplas+de+beb%C3%A9&tag=nti0c8-21",
+              "descripcion": "Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "recomendado",
+              "busqueda": "gorro y manoplas de bebé",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
+              "afiliado": "https://www.amazon.es/s?k=portabeb%C3%A9s+ergon%C3%B3mico&tag=nti0c8-21",
+              "descripcion": "Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "recomendado",
+              "busqueda": "portabebés ergonómico",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y calma",
+          "intro": "El botiquín del bebé más lo que sostiene el ánimo de un niño pequeño 48 horas encerrado o en un sitio raro.",
+          "items": [
+            {
+              "producto": "Termómetro digital de bebé",
+              "afiliado": "https://www.amazon.es/s?k=term%C3%B3metro+digital+de+beb%C3%A9&tag=nti0c8-21",
+              "descripcion": "El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda.",
+              "precio_aprox": "6-12 €",
+              "prioridad": "esencial",
+              "busqueda": "termómetro digital de bebé",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
+              "afiliado": "https://www.amazon.es/s?k=suero+de+rehidrataci%C3%B3n+oral+y+jeringuilla+dosificadora&tag=nti0c8-21",
+              "descripcion": "Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet.",
+              "precio_aprox": "6-10 €",
+              "prioridad": "esencial",
+              "busqueda": "suero de rehidratación oral y jeringuilla dosificadora",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Aspirador nasal + suero fisiológico en monodosis",
+              "afiliado": "https://www.amazon.es/s?k=aspirador+nasal+%2B+suero+fisiol%C3%B3gico+en+monodosis&tag=nti0c8-21",
+              "descripcion": "Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "recomendado",
+              "busqueda": "aspirador nasal + suero fisiológico en monodosis",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
+              "afiliado": "https://www.amazon.es/s?k=juguetes+peque%C3%B1os+favoritos&tag=nti0c8-21",
+              "descripcion": "Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé.",
+              "precio_aprox": "0-10 €",
+              "prioridad": "recomendado",
+              "busqueda": "juguetes pequeños favoritos",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Mantas/empapadores de tela de confianza",
+              "afiliado": "https://www.amazon.es/s?k=mantas+empapadores+de+tela+de+confianza&tag=nti0c8-21",
+              "descripcion": "Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "extra",
+              "busqueda": "mantas empapadores de tela de confianza",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Documentos e identificación",
+          "intro": "El bebé no lleva DNI encima, no sabe decir su nombre y no tiene tarjeta sanitaria propia visible. Toda su identidad cabe en una funda estanca.",
+          "items": [
+            {
+              "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
+              "afiliado": "https://www.amazon.es/s?k=funda+estanca+con+libro+de+salud%2C+cartilla+de+vacunaci%C3%B3n+y+d&tag=nti0c8-21",
+              "descripcion": "Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial",
+              "busqueda": "funda estanca con libro de salud, cartilla de vacunación y d",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
+              "afiliado": "https://www.amazon.es/s?k=tarjeta+de+identificaci%C3%B3n+del+menor&tag=nti0c8-21",
+              "descripcion": "Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica.",
+              "precio_aprox": "0-5 €",
+              "prioridad": "esencial",
+              "busqueda": "tarjeta de identificación del menor",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Fotos recientes del bebé y de la familia en papel",
+              "afiliado": "https://www.amazon.es/s?k=fotos+recientes+del+beb%C3%A9+y+de+la+familia+en+papel&tag=nti0c8-21",
+              "descripcion": "Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería.",
+              "precio_aprox": "0 €",
+              "prioridad": "recomendado",
+              "busqueda": "fotos recientes del bebé y de la familia en papel",
+              "es_busqueda": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mayores",
+      "titulo": "Kit persona mayor",
+      "slug": "kit-mayores",
+      "icono": "🧓",
+      "resumen": "Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.",
+      "paraQuien": "Hogares con personas de 70 años o más, sobre todo si viven solas, toman medicación crónica o dependen de audífonos, gafas o movilidad asistida. Lo monta un familiar en una tarde y se revisa con la cartera de recetas.",
+      "paraQuien_no": "No sustituye a la teleasistencia ni al plan de cuidadores: es material, no servicio. Y si la persona requiere cuidados sanitarios diarios (oxígeno, diálisis), el plan se habla con su centro de salud, no con esta lista.",
+      "coste_total": "60-120 € (sin contar la propia medicación, que es receta)",
+      "fuente": {
+        "nombre": "IMSERSO + Protección Civil — planes de emergencia con personas dependientes",
+        "url": "https://www.imserso.es"
+      },
+      "guia": {
+        "antes": [
+          "Haz la ficha médico-identificativa con la persona: enfermedades, medicación con dosis, alergias, médico, contactos. Se renueva cada 6 meses con la revisión.",
+          "Pide al médico o a la enfermera el plan de 2 semanas de medicación crónica: en España la receta electrónica permite retirar con antelación la mayoría de tratamientos; tu médico te dice cómo.",
+          "Practica el uso de la ficha y del teléfono de teleasistencia con la persona, no sólo delante: en una emergencia no vale con 'ya lo sabe'.",
+          "Acuerda con vecinos y familia quién llama a quién y qué señal de aviso usáis (llamada, mensaje, golpear la pared: en apagones hay quien usa un silbato)."
+        ],
+        "durante": [
+          "La medicación primero: si hay que decidir, el tratamiento crónico no se salta; la reserva del kit es para eso.",
+          "Con audífonos sin pilas o gafas rotas, la persona se aísla y se desorienta: comprueba que puede oír y ver antes que nada.",
+          "Calor o frío: los mayores regulan peor la temperatura y no notan la sed. En ola de calor sin luz, agua a la vista y un horario de bebidas, aunque no pidan.",
+          "No dejes que tome decisiones solo si está confuso: el golpe de calor y la deshidratación confunden antes de debilitar."
+        ],
+        "despues": [
+          "Revisa la medicación gastada y repón el kit el mismo día con la receta.",
+          "Comprueba pilas de audífonos, marcapasos si aplica y linternas: con el susto muchas cosas se usan sin reponer.",
+          "Habla con el centro de salud si hubo cortes de tratamiento: a veces hay que volver a pautar.",
+          "Anima a contar lo vivido: tras una emergencia larga, el bajón anímico del mayor es tan real como la rotura de una tubería."
+        ]
+      },
+      "errores": [
+        "No tener 2 semanas de medicación crónica de reserva. Es EL error: tras un desastre, la farmacia abre tarde o no abre, y cortar anticoagulantes, antihipertensivos o insulina es una urgencia.",
+        "Olvidar las pilas del audífono: sin audición, la persona no oye la radio, no entiende el aviso y no pide ayuda. Un blíster de pilas de repuesto en cada kit.",
+        "Confiar en el móvil: pantallas pequeñas, letra pequeña y sin quien le ayude a marcar. El teléfono fijo sin electricidad sigue funcionando (los analógicos sí) y los contactos en papel no se agotan.",
+        "No preparar la caída: sin luz, un pasillo con alfombra y sin luz de noche es una cadera rota. Las balizas LED de noche valen 10 € y evitan el 50% del escenario.",
+        "Guardar todo en el armario alto de la cocina. Si evacúa, la bolsa de 24 horas del mayor tiene que estar a la altura de la mano, con nombre y contactos."
+      ],
+      "secciones": [
+        {
+          "titulo": "Medicación y crónicos",
+          "intro": "El corazón de este kit. Tres cosas: reserva de 2-4 semanas, copia de pautas y forma de conservar lo que necesita frío.",
+          "items": [
+            {
+              "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas",
+              "afiliado": "https://www.amazon.es/s?k=organizador+de+pastillas+semanal+con+copia+de+pautas&tag=nti0c8-21",
+              "descripcion": "Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores.",
+              "precio_aprox": "6-14 €",
+              "prioridad": "esencial",
+              "busqueda": "organizador de pastillas semanal con copia de pautas",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Ficha médico-identificativa plastificada",
+              "afiliado": "https://www.amazon.es/s?k=ficha+m%C3%A9dico-identificativa+plastificada&tag=nti0c8-21",
+              "descripcion": "Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera.",
+              "precio_aprox": "0-5 €",
+              "prioridad": "esencial",
+              "busqueda": "ficha médico-identificativa plastificada",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
+              "afiliado": "https://www.amazon.es/s?k=nevera+port%C3%A1til+peque%C3%B1a+con+paquetes+fr%C3%ADos+reutilizables&tag=nti0c8-21",
+              "descripcion": "Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial",
+              "busqueda": "nevera portátil pequeña con paquetes fríos reutilizables",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Termómetro de nevera (mínimo/máximo)",
+              "afiliado": "https://www.amazon.es/s?k=term%C3%B3metro+de+nevera&tag=nti0c8-21",
+              "descripcion": "2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "recomendado",
+              "busqueda": "termómetro de nevera",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Pastilla potabilizadora y vaso medidor para medicación",
+              "afiliado": "https://www.amazon.es/s?k=pastilla+potabilizadora+y+vaso+medidor+para+medicaci%C3%B3n&tag=nti0c8-21",
+              "descripcion": "Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "extra",
+              "busqueda": "pastilla potabilizadora y vaso medidor para medicación",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Sentidos y ayudas técnicas",
+          "intro": "Audífonos, gafas, marcapasos, prótesis: si esto falla, todo lo demás del kit deja de servir, porque la persona no oye el aviso ni ve la puerta.",
+          "items": [
+            {
+              "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
+              "afiliado": "https://www.amazon.es/s?k=pilas+de+repuesto+para+aud%C3%ADfonos&tag=nti0c8-21",
+              "descripcion": "Las audífonas se gastan y caducan. Blíster cerrado con la fecha escrita: sin pilas, sin audición, sin comunicación.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial",
+              "busqueda": "pilas de repuesto para audífonos",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Gafas de graduación de repuesto",
+              "afiliado": "https://www.amazon.es/s?k=gafas+de+graduaci%C3%B3n+de+repuesto&tag=nti0c8-21",
+              "descripcion": "Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online.",
+              "precio_aprox": "10-30 €",
+              "prioridad": "esencial",
+              "busqueda": "gafas de graduación de repuesto",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Caja de dentadura + pegamento y vaso con tapa",
+              "afiliado": "https://www.amazon.es/s?k=caja+de+dentadura+%2B+pegamento+y+vaso+con+tapa&tag=nti0c8-21",
+              "descripcion": "Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla.",
+              "precio_aprox": "6-10 €",
+              "prioridad": "recomendado",
+              "busqueda": "caja de dentadura + pegamento y vaso con tapa",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Bastón plegable / andador de repuesto con luz",
+              "afiliado": "https://www.amazon.es/s?k=bast%C3%B3n+plegable+andador+de+repuesto+con+luz&tag=nti0c8-21",
+              "descripcion": "El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "recomendado",
+              "busqueda": "bastón plegable andador de repuesto con luz",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
+              "afiliado": "https://www.amazon.es/s?k=im%C3%A1n+o+bolsa+de+seguridad+para+marcapasos&tag=nti0c8-21",
+              "descripcion": "La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran.",
+              "precio_aprox": "0 €",
+              "prioridad": "esencial",
+              "busqueda": "imán o bolsa de seguridad para marcapasos",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Caídas, noche y seguridad en casa",
+          "intro": "El apagón no mata al mayor: lo hacen la alfombra a oscuras y el baño de noche. 20 € en luz de noche y un tapete antideslizante cambian el pronóstico.",
+          "items": [
+            {
+              "producto": "Balizas LED de noche con sensor (pack 2-3)",
+              "afiliado": "https://www.amazon.es/s?k=balizas+led+de+noche+con+sensor&tag=nti0c8-21",
+              "descripcion": "Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial",
+              "busqueda": "balizas led de noche con sensor",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Linterna de cabecera con cordón/manillla grande",
+              "afiliado": "https://www.amazon.es/s?k=linterna+de+cabecera+con+cord%C3%B3n+manillla+grande&tag=nti0c8-21",
+              "descripcion": "De las gordas y fáciles, no la pequeña del cajón: con manos torpes o en la oscuridad, que se encuentre y se encienda sola.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial",
+              "busqueda": "linterna de cabecera con cordón manillla grande",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Alfombrilla antideslizante de baño y tirante de apoyo",
+              "afiliado": "https://www.amazon.es/s?k=alfombrilla+antideslizante+de+ba%C3%B1o+y+tirante+de+apoyo&tag=nti0c8-21",
+              "descripcion": "Sin agua caliente y con cubos de por medio, el baño se vuelve pista de patinaje. 20 € y una tarde de bricolaje.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "recomendado",
+              "busqueda": "alfombrilla antideslizante de baño y tirante de apoyo",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Silbato de emergencia en el llavero/pulsera",
+              "afiliado": "https://www.amazon.es/s?k=silbato+de+emergencia+en+el+llavero+pulsera&tag=nti0c8-21",
+              "descripcion": "Si no puede gritar o el móvil no funciona, el silbato se oye a través de paredes mucho más que la voz. Se enseña a usarlo antes.",
+              "precio_aprox": "2-5 €",
+              "prioridad": "recomendado",
+              "busqueda": "silbato de emergencia en el llavero pulsera",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicación y compañía",
+          "intro": "Que pueda avisar y que alguien sepa que está solo. La mitad del peligro de un mayor en una emergencia es que nadie lo echa de menos durante horas.",
+          "items": [
+            {
+              "producto": "Radio a pilas FM con volumen alto y dial grande",
+              "afiliado": "https://www.amazon.es/s?k=radio+a+pilas+fm+con+volumen+alto+y+dial+grande&tag=nti0c8-21",
+              "descripcion": "La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial",
+              "busqueda": "radio a pilas fm con volumen alto y dial grande",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)",
+              "afiliado": "https://www.amazon.es/s?k=hoja+de+contactos+en+papel+con+letra+grande&tag=nti0c8-21",
+              "descripcion": "Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra.",
+              "precio_aprox": "0 €",
+              "prioridad": "esencial",
+              "busqueda": "hoja de contactos en papel con letra grande",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Acuerdo de vecindad con llamada/golpe de aviso",
+              "afiliado": "https://www.amazon.es/s?k=acuerdo+de+vecindad+con+llamada+golpe+de+aviso&tag=nti0c8-21",
+              "descripcion": "Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha.",
+              "precio_aprox": "0 €",
+              "prioridad": "esencial",
+              "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
+              "afiliado": "https://www.amazon.es/s?k=juegos+de+naipes%2C+libro+de+letra+grande+o+r%C3%A1dio+con+altavoz&tag=nti0c8-21",
+              "descripcion": "Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "extra",
+              "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Comida adaptada e hidratación",
+          "intro": "Sin cocina, sin cuchillos y a veces sin prótesis: la comida del kit tiene que poder comerla esa persona tal como está su boca y sus fuerzas.",
+          "items": [
+            {
+              "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
+              "afiliado": "https://www.amazon.es/s?k=comida+blanda+lista&tag=nti0c8-21",
+              "descripcion": "Si tiene problemas de masticación, la lata de conserva no vale: purés y potitos de adulto en vaso, se comen solos.",
+              "precio_aprox": "8-14 €",
+              "prioridad": "esencial",
+              "busqueda": "comida blanda lista",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Batidos proteicos/enriquecidos (pack 8-12)",
+              "afiliado": "https://www.amazon.es/s?k=batidos+proteicos+enriquecidos&tag=nti0c8-21",
+              "descripcion": "Calorías y proteína sin cocinar ni masticar. En 3 días de crisis es lo que mantiene el peso de un mayor.",
+              "precio_aprox": "10-18 €",
+              "prioridad": "recomendado",
+              "busqueda": "batidos proteicos enriquecidos",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)",
+              "afiliado": "https://www.amazon.es/s?k=espesantes+para+l%C3%ADquidos&tag=nti0c8-21",
+              "descripcion": "Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional.",
+              "precio_aprox": "8-16 €",
+              "prioridad": "extra",
+              "busqueda": "espesantes para líquidos",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Botella con asa y boquilla fácil + vaso con tapa",
+              "afiliado": "https://www.amazon.es/s?k=botella+con+asa+y+boquilla+f%C3%A1cil+%2B+vaso+con+tapa&tag=nti0c8-21",
+              "descripcion": "Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil.",
+              "precio_aprox": "8-16 €",
+              "prioridad": "esencial",
+              "busqueda": "botella con asa y boquilla fácil + vaso con tapa",
+              "es_busqueda": true
             }
           ]
         }

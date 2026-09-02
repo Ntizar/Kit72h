@@ -1,0 +1,206 @@
+{
+  "_nota": "Kits nuevos añadidos 2026-09-02. Los items con afiliado=null se resuelven con scripts/buscar-amazon.py (verifica ficha real en amazon.es antes de enlazar). Nunca inventar URLs.",
+  "kits": [
+    {
+      "id": "bebe",
+      "titulo": "Kit bebé y lactancia",
+      "slug": "kit-bebe",
+      "icono": "🍼",
+      "resumen": "Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.",
+      "paraQuien": "Hogares con bebés de 0-18 meses, y también quien espera uno: se monta en dos tardes y se amortiza igual en el día a día. Si amamantas, gran parte de este kit es tranquilidad extra; si no, es imprescindible.",
+      "paraQuien_no": "Si el niño ya come solo de todo, con el kit básico más dos o tres cosas de aquí (snacks, entretener, abrigo) sobra. Este kit está pensado para lactantes, no para niños mayores.",
+      "coste_total": "80-150 € (gran parte es lo que ya usas a diario: rotarlo, no duplicarlo)",
+      "fuente": {
+        "nombre": "Protección Civil — recomendaciones para familias con menores",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+      },
+      "guia": {
+        "antes": [
+          "Anota en un papel la toma de medicación/pauta de leche del bebé y el teléfono de tu pediatra: en una emergencia, no saber qué toma es un lío",
+          "Ten un biberón y un vaso de aprendizaje que no uses nunca: es de reserva, que no esté en el lavavajillas el día que haga falta",
+          "Guarda fotocopias del DNI del bebé/libro de salud y cartilla de vacunación en la funda estanca",
+          "Habla con la familia: ¿quién coge al bebé si hay que evacuar rápido? Decide roles ahora"
+        ],
+        "durante": [
+          "Con un bebé en brazos, la mochila de evacuación se divide: alguien lleva al niño, tú llevas la bolsa de 24 h del pequeño",
+          "Si no sabes si podrás amamantar con calma, saca leche con sacaleches manual los primeros días para no perder producción",
+          "Vigila la temperatura del bebé: sin luz no hay termómetro de habitación, el tacto en nuca y pecho engaña, usa el termómetro del botiquín",
+          "Agua dudosa para el biberón: hervir no siempre es posible — potabilizar y enfriar, o agua embotellada de reserva baja para lactancia"
+        ],
+        "despues": [
+          "Revisa golpes y sustos: los bebés no verbalizan, cualquier cambio raro de conducta o de sueño, al pediatra",
+          "Repón lo usado el mismo día: la reserva de pañales y leche sin reponer es un kit a medias",
+          "Si la crisis fue larga, pide a tu centro de salud la cartilla de vacunación revisada y puesta al día si toca"
+        ]
+      },
+      "errores": [
+        "No tener LECHE DE RESERVA: la lactancia se cae con el estrés y sin fórmula de 2-3 días, eso angustia doble. Aunque des el pecho, ten 400-800 g de fórmula en la lista.",
+        "Fiarte de poder hervir agua siempre: sin gas ni luz no esterilizas biberones — necesita bolsa de agua potable específica y vaso, no sólo biberón.",
+        "No contar los pañales: un bebé usa 6-8 pañales al día. 72 horas son ~20 pañales: una bolsa pequeña que casi nadie mete.",
+        "Guardar la papilla nueva que el bebé no ha probado nunca: en una emergencia se prueba comida que ya sabes que tolera.",
+        "Olvidar el abrigo 'de siguiente talla': el bebé crece y el conjunto de abrigo del kit se queda corto a los 3 meses sin que nadie se dé cuenta."
+      ],
+      "secciones": [
+        {
+          "titulo": "Agua y alimentación sin electricidad",
+          "intro": "Para biberón y papilla hace falta agua segura y temperatura. Sin luz ni gas, se consigue con reserva propia y un calentador de butano pequeño.",
+          "items": [
+            { "producto": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)", "afiliado": null, "descripcion": "Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes.", "precio_aprox": "4-7 €", "prioridad": "esencial" },
+            { "producto": "Pastillas potabilizadoras aptas para lactantes", "afiliado": null, "descripcion": "Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo.", "precio_aprox": "8-15 €", "prioridad": "esencial" },
+            { "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)", "afiliado": null, "descripcion": "Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo.", "precio_aprox": "6-12 €", "prioridad": "recomendado" },
+            { "producto": "Termo pequeño de boca ancha (350-500 ml)", "afiliado": null, "descripcion": "Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara.", "precio_aprox": "10-20 €", "prioridad": "recomendado" },
+            { "producto": "Botella térmica fría (500 ml)", "afiliado": null, "descripcion": "Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera.", "precio_aprox": "12-20 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Leche y comida de reserva",
+          "intro": "Aunque des el pecho: el estrés y el agotamiento pueden bajar la producción justo cuando no hay dónde comprar. La reserva es un seguro, no una duda sobre tu lactancia.",
+          "items": [
+            { "producto": "Leche de fórmula de seguimiento (lata 400-800 g)", "afiliado": null, "descripcion": "Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina.", "precio_aprox": "10-16 €", "prioridad": "esencial" },
+            { "producto": "Cereales/papilla instantánea (2 cajas)", "afiliado": null, "descripcion": "Se preparan con agua templada o fría, rinden mucho y no necesitan cocción. La que ya toma tu bebé: no estrenes marca en la emergencia.", "precio_aprox": "5-9 €", "prioridad": "esencial" },
+            { "producto": "Potitos de fruta y verdura (pack 6-8)", "afiliado": null, "descripcion": "Comida de verdad sin cocinar, con fecha larga. Si ya come papillas, son tu kit y su cena en un apagón.", "precio_aprox": "8-14 €", "prioridad": "recomendado" },
+            { "producto": "Sacaleches manual", "afiliado": null, "descripcion": "Sin pilas ni electricidad, mantiene la producción y evita ingurgitaciones dolorosas si el bebé no puede mamar bien (suelo, coche, hospital de campaña).", "precio_aprox": "12-25 €", "prioridad": "recomendado" },
+            { "producto": "Bolsas de almacenamiento de leche materna (pack 30-50)", "afiliado": null, "descripcion": "Para extraer y guardar con fecha. Sin congelador aguantan unas horas en nevera portátil con paquetes fríos.", "precio_aprox": "6-10 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Higiene y pañales",
+          "intro": "Cuando el agua corriente falta, la higiene del bebé es lo primero que se complica. Todo lo de esta sección cabe en una bolsa estanca de 5 litros.",
+          "items": [
+            { "producto": "Pañales de reserva (talla actual, pack 20-25)", "afiliado": null, "descripcion": "6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa.", "precio_aprox": "6-10 €", "prioridad": "esencial" },
+            { "producto": "Toallitas limpiadoras (pack 3-5)", "afiliado": null, "descripcion": "Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana.", "precio_aprox": "4-8 €", "prioridad": "esencial" },
+            { "producto": "Bolsas estancas para ropa sucia y pañales (pack)", "afiliado": null, "descripcion": "Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro.", "precio_aprox": "5-9 €", "prioridad": "recomendado" },
+            { "producto": "Cambrador portátil plegable", "afiliado": null, "descripcion": "Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas.", "precio_aprox": "8-14 €", "prioridad": "extra" },
+            { "producto": "Crema barrera contra rozaduras", "afiliado": null, "descripcion": "Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos.", "precio_aprox": "4-8 €", "prioridad": "recomendado" },
+            { "producto": "Jabón neutro en pastilla + esponja", "afiliado": null, "descripcion": "Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas.", "precio_aprox": "2-4 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Abrigo y sueño",
+          "intro": "Un bebé pierde calor cinco veces más rápido que un adulto. Sin luz ni calefacción, esta sección es la que evita la urgencia.",
+          "items": [
+            { "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)", "afiliado": null, "descripcion": "Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo.", "precio_aprox": "12-22 €", "prioridad": "esencial" },
+            { "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)", "afiliado": null, "descripcion": "La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo.", "precio_aprox": "2-6 €", "prioridad": "esencial" },
+            { "producto": "Gorro y manoplas de bebé", "afiliado": null, "descripcion": "Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro.", "precio_aprox": "5-10 €", "prioridad": "recomendado" },
+            { "producto": "Portabebés ergonómico (bandolera o Mei Tai)", "afiliado": null, "descripcion": "Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera.", "precio_aprox": "25-50 €", "prioridad": "recomendado" }
+          ]
+        },
+        {
+          "titulo": "Salud y calma",
+          "intro": "El botiquín del bebé más lo que sostiene el ánimo de un niño pequeño 48 horas encerrado o en un sitio raro.",
+          "items": [
+            { "producto": "Termómetro digital de bebé", "afiliado": null, "descripcion": "El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda.", "precio_aprox": "6-12 €", "prioridad": "esencial" },
+            { "producto": "Suero de rehidratación oral y jeringuilla dosificadora", "afiliado": null, "descripcion": "Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet.", "precio_aprox": "6-10 €", "prioridad": "esencial" },
+            { "producto": "Aspirador nasal + suero fisiológico en monodosis", "afiliado": null, "descripcion": "Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general.", "precio_aprox": "4-8 €", "prioridad": "recomendado" },
+            { "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)", "afiliado": null, "descripcion": "Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé.", "precio_aprox": "0-10 €", "prioridad": "recomendado" },
+            { "producto": "Mantas/empapadores de tela de confianza", "afiliado": null, "descripcion": "Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit.", "precio_aprox": "8-15 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Documentos e identificación",
+          "intro": "El bebé no lleva DNI encima, no sabe decir su nombre y no tiene tarjeta sanitaria propia visible. Toda su identidad cabe en una funda estanca.",
+          "items": [
+            { "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé", "afiliado": null, "descripcion": "Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.", "precio_aprox": "5-10 €", "prioridad": "esencial" },
+            { "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)", "afiliado": null, "descripcion": "Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica.", "precio_aprox": "0-5 €", "prioridad": "esencial" },
+            { "producto": "Fotos recientes del bebé y de la familia en papel", "afiliado": null, "descripcion": "Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería.", "precio_aprox": "0 €", "prioridad": "recomendado" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mayores",
+      "titulo": "Kit persona mayor",
+      "slug": "kit-mayores",
+      "icono": "🧓",
+      "resumen": "Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.",
+      "paraQuien": "Hogares con personas de 70 años o más, sobre todo si viven solas, toman medicación crónica o dependen de audífonos, gafas o movilidad asistida. Lo monta un familiar en una tarde y se revisa con la cartera de recetas.",
+      "paraQuien_no": "No sustituye a la teleasistencia ni al plan de cuidadores: es material, no servicio. Y si la persona requiere cuidados sanitarios diarios (oxígeno, diálisis), el plan se habla con su centro de salud, no con esta lista.",
+      "coste_total": "60-120 € (sin contar la propia medicación, que es receta)",
+      "fuente": {
+        "nombre": "IMSERSO + Protección Civil — planes de emergencia con personas dependientes",
+        "url": "https://www.imserso.es"
+      },
+      "guia": {
+        "antes": [
+          "Haz la ficha médico-identificativa con la persona: enfermedades, medicación con dosis, alergias, médico, contactos. Se renueva cada 6 meses con la revisión.",
+          "Pide al médico o a la enfermera el plan de 2 semanas de medicación crónica: en España la receta electrónica permite retirar con antelación la mayoría de tratamientos; tu médico te dice cómo.",
+          "Practica el uso de la ficha y del teléfono de teleasistencia con la persona, no sólo delante: en una emergencia no vale con 'ya lo sabe'.",
+          "Acuerda con vecinos y familia quién llama a quién y qué señal de aviso usáis (llamada, mensaje, golpear la pared: en apagones hay quien usa un silbato)."
+        ],
+        "durante": [
+          "La medicación primero: si hay que decidir, el tratamiento crónico no se salta; la reserva del kit es para eso.",
+          "Con audífonos sin pilas o gafas rotas, la persona se aísla y se desorienta: comprueba que puede oír y ver antes que nada.",
+          "Calor o frío: los mayores regulan peor la temperatura y no notan la sed. En ola de calor sin luz, agua a la vista y un horario de bebidas, aunque no pidan.",
+          "No dejes que tome decisiones solo si está confuso: el golpe de calor y la deshidratación confunden antes de debilitar."
+        ],
+        "despues": [
+          "Revisa la medicación gastada y repón el kit el mismo día con la receta.",
+          "Comprueba pilas de audífonos, marcapasos si aplica y linternas: con el susto muchas cosas se usan sin reponer.",
+          "Habla con el centro de salud si hubo cortes de tratamiento: a veces hay que volver a pautar.",
+          "Anima a contar lo vivido: tras una emergencia larga, el bajón anímico del mayor es tan real como la rotura de una tubería."
+        ]
+      },
+      "errores": [
+        "No tener 2 semanas de medicación crónica de reserva. Es EL error: tras un desastre, la farmacia abre tarde o no abre, y cortar anticoagulantes, antihipertensivos o insulina es una urgencia.",
+        "Olvidar las pilas del audífono: sin audición, la persona no oye la radio, no entiende el aviso y no pide ayuda. Un blíster de pilas de repuesto en cada kit.",
+        "Confiar en el móvil: pantallas pequeñas, letra pequeña y sin quien le ayude a marcar. El teléfono fijo sin electricidad sigue funcionando (los analógicos sí) y los contactos en papel no se agotan.",
+        "No preparar la caída: sin luz, un pasillo con alfombra y sin luz de noche es una cadera rota. Las balizas LED de noche valen 10 € y evitan el 50% del escenario.",
+        "Guardar todo en el armario alto de la cocina. Si evacúa, la bolsa de 24 horas del mayor tiene que estar a la altura de la mano, con nombre y contactos."
+      ],
+      "secciones": [
+        {
+          "titulo": "Medicación y crónicos",
+          "intro": "El corazón de este kit. Tres cosas: reserva de 2-4 semanas, copia de pautas y forma de conservar lo que necesita frío.",
+          "items": [
+            { "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas", "afiliado": null, "descripcion": "Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores.", "precio_aprox": "6-14 €", "prioridad": "esencial" },
+            { "producto": "Ficha médico-identificativa plastificada", "afiliado": null, "descripcion": "Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera.", "precio_aprox": "0-5 €", "prioridad": "esencial" },
+            { "producto": "Nevera portátil pequeña con paquetes fríos reutilizables", "afiliado": null, "descripcion": "Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita.", "precio_aprox": "12-25 €", "prioridad": "esencial" },
+            { "producto": "Termómetro de nevera (mínimo/máximo)", "afiliado": null, "descripcion": "2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón.", "precio_aprox": "4-8 €", "prioridad": "recomendado" },
+            { "producto": "Pastilla potabilizadora y vaso medidor para medicación", "afiliado": null, "descripcion": "Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2.", "precio_aprox": "8-15 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Sentidos y ayudas técnicas",
+          "intro": "Audífonos, gafas, marcapasos, prótesis: si esto falla, todo lo demás del kit deja de servir, porque la persona no oye el aviso ni ve la puerta.",
+          "items": [
+            { "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)", "afiliado": null, "descripcion": "Las audífonas se gastan y caducan. Blíster cerrado con la fecha escrita: sin pilas, sin audición, sin comunicación.", "precio_aprox": "8-15 €", "prioridad": "esencial" },
+            { "producto": "Gafas de graduación de repuesto", "afiliado": null, "descripcion": "Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online.", "precio_aprox": "10-30 €", "prioridad": "esencial" },
+            { "producto": "Caja de dentadura + pegamento y vaso con tapa", "afiliado": null, "descripcion": "Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla.", "precio_aprox": "6-10 €", "prioridad": "recomendado" },
+            { "producto": "Bastón plegable / andador de repuesto con luz", "afiliado": null, "descripcion": "El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada.", "precio_aprox": "15-35 €", "prioridad": "recomendado" },
+            { "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)", "afiliado": null, "descripcion": "La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran.", "precio_aprox": "0 €", "prioridad": "esencial" }
+          ]
+        },
+        {
+          "titulo": "Caídas, noche y seguridad en casa",
+          "intro": "El apagón no mata al mayor: lo hacen la alfombra a oscuras y el baño de noche. 20 € en luz de noche y un tapete antideslizante cambian el pronóstico.",
+          "items": [
+            { "producto": "Balizas LED de noche con sensor (pack 2-3)", "afiliado": null, "descripcion": "Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable.", "precio_aprox": "10-20 €", "prioridad": "esencial" },
+            { "producto": "Linterna de cabecera con cordón/manillla grande", "afiliado": null, "descripcion": "De las gordas y fáciles, no la pequeña del cajón: con manos torpes o en la oscuridad, que se encuentre y se encienda sola.", "precio_aprox": "8-15 €", "prioridad": "esencial" },
+            { "producto": "Alfombrilla antideslizante de baño y tirante de apoyo", "afiliado": null, "descripcion": "Sin agua caliente y con cubos de por medio, el baño se vuelve pista de patinaje. 20 € y una tarde de bricolaje.", "precio_aprox": "12-25 €", "prioridad": "recomendado" },
+            { "producto": "Silbato de emergencia en el llavero/pulsera", "afiliado": null, "descripcion": "Si no puede gritar o el móvil no funciona, el silbato se oye a través de paredes mucho más que la voz. Se enseña a usarlo antes.", "precio_aprox": "2-5 €", "prioridad": "recomendado" }
+          ]
+        },
+        {
+          "titulo": "Comunicación y compañía",
+          "intro": "Que pueda avisar y que alguien sepa que está solo. La mitad del peligro de un mayor en una emergencia es que nadie lo echa de menos durante horas.",
+          "items": [
+            { "producto": "Radio a pilas FM con volumen alto y dial grande", "afiliado": null, "descripcion": "La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido.", "precio_aprox": "12-25 €", "prioridad": "esencial" },
+            { "producto": "Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)", "afiliado": null, "descripcion": "Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra.", "precio_aprox": "0 €", "prioridad": "esencial" },
+            { "producto": "Acuerdo de vecindad con llamada/golpe de aviso", "afiliado": null, "descripcion": "Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha.", "precio_aprox": "0 €", "prioridad": "esencial" },
+            { "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz", "afiliado": null, "descripcion": "Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no.", "precio_aprox": "5-15 €", "prioridad": "extra" }
+          ]
+        },
+        {
+          "titulo": "Comida adaptada e hidratación",
+          "intro": "Sin cocina, sin cuchillos y a veces sin prótesis: la comida del kit tiene que poder comerla esa persona tal como está su boca y sus fuerzas.",
+          "items": [
+            { "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)", "afiliado": null, "descripcion": "Si tiene problemas de masticación, la lata de conserva no vale: purés y potitos de adulto en vaso, se comen solos.", "precio_aprox": "8-14 €", "prioridad": "esencial" },
+            { "producto": "Batidos proteicos/enriquecidos (pack 8-12)", "afiliado": null, "descripcion": "Calorías y proteína sin cocinar ni masticar. En 3 días de crisis es lo que mantiene el peso de un mayor.", "precio_aprox": "10-18 €", "prioridad": "recomendado" },
+            { "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)", "afiliado": null, "descripcion": "Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional.", "precio_aprox": "8-16 €", "prioridad": "extra" },
+            { "producto": "Botella con asa y boquilla fácil + vaso con tapa", "afiliado": null, "descripcion": "Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil.", "precio_aprox": "8-16 €", "prioridad": "esencial" }
+          ]
+        }
+      ]
+    }
+  ]
+}

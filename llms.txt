@@ -1,51 +1,54 @@
 # Kit72h
 
-> Kits de emergencia y preparación ante catástrofes para hogares en España, basados en fuentes oficiales: Estrategia de Preparación de la Unión Europea (2025) y recomendaciones de Protección Civil. Listas de producto verificadas, precios reales y guías de uso antes/durante/después.
+> Kits de emergencia para hogares en España (72 horas y 30 días) basados en las
+> recomendaciones oficiales de la Comisión Europea (Estrategia de Preparación 2025),
+> Protección Civil y la DGT. Cada kit incluye para quién es, coste orientativo,
+> producto a producto explicaciones y errores típicos. Blog con guías profundas
+> citando fuentes oficiales.
 
-Kit72h es una web pública mantenida por David Antizar. Todo el contenido se basa en documentos públicos de organismos oficiales; las listas se revisan periódicamente y la disponibilidad de los productos se comprueba de forma automatizada (data/estado.json, 90/90 activos a fecha de 2026-08-31).
+URL base: https://ntizar.github.io/Kit72h
 
-## Kits disponibles
+## Kits
 
-- [Kit básico 72 horas](https://ntizar.github.io/Kit72h/#kit/kit-basico-72h): la mochila de resiliencia recomendada por la UE — agua (3 L/persona/día), comida no perecedera, luz, radio, botiquín, documentación.
-- [Kit DANA](https://ntizar.github.io/Kit72h/#kit/kit-dana): protección frente a inundaciones — chubasquero, bolsas estancas, barreras, seguridad eléctrica.
-- [Kit apagón](https://ntizar.github.io/Kit72h/#kit/kit-apagon): basado en las lecciones del apagón eléctrico del 28 de abril de 2025 en España — radio, luz, energía, cocina sin electricidad, efectivo.
-- [Kit coche](https://ntizar.github.io/Kit72h/#kit/kit-coche): lo obligatorio en España en 2026 (baliza V-16 conectada, chaleco) y material de supervivencia para atascos y nevadas.
-- [Kit hogar / confinamiento](https://ntizar.github.io/Kit72h/#kit/kit-hogar): autonomía de 2 semanas en casa — agua, comida, higiene, salud.
-- [Kit montaña](https://ntizar.github.io/Kit72h/#kit/kit-montana): orientación, comunicación, refugio y salud para senderismo y montaña.
-- [Kit ola de calor](https://ntizar.github.io/Kit72h/#kit/kit-calor): frescura, hidratación y protección solar.
-- [Mochila de evacuación](https://ntizar.github.io/Kit72h/#kit/kit-evacuacion): 24-72 h en una mochila — documentos, supervivencia, utilidad.
-- [Huerto y autosuficiencia](https://ntizar.github.io/Kit72h/#kit/huerto-autosuficiencia): cultivo urbano en macetas — semillas ecológicas, germinación, sustrato, invernadero de balcón.
-- [Kit 30 días](https://ntizar.github.io/Kit72h/#kit/kit-30-dias): provisión completa para 2 personas y 4 semanas — 180 L de agua, conservas, hornillo sin electricidad, botiquín, estufa.
+- Kit básico 72 horas (kit-basico-72h): La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.
+- Kit DANA / inundación (kit-dana): Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las recomendaciones de Protección Civil para lluvias intensas.
+- Kit apagón / corte eléctrico (kit-apagon): Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.
+- Kit coche (kit-coche): Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.
+- Kit hogar / confinamiento (kit-hogar): Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.
+- Kit montaña / senderismo (kit-montana): Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.
+- Kit ola de calor (kit-calor): España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas en casa o en el trabajo sin acabar en urgencias.
+- Mochila de evacuación (kit-evacuacion): Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.
+- Huerto y autosuficiencia (huerto-autosuficiencia): No todo es survive: producir tu propia comida en balcon, terraza o patio te da independencia real. Guia completa de cultivo urbano paso a paso, con el material que de verdad funciona.
+- Kit 30 días (kit-30-dias): Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA que se alarga. Provisión completa de agua, comida y energía para 2 personas durante un mes, sin cocinar con electricidad.
+- Kit bebé y lactancia (kit-bebe): Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.
+- Kit persona mayor (kit-mayores): Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.
 
-## Datos estructurados
+## Blog
 
-- `data/kits.json`: catálogo completo en JSON de los 10 kits con secciones, productos, precios y prioridades.
-- `data/estado.json`: estado de disponibilidad de cada producto en Amazon (ok / posible rotura) con fecha de verificación.
-
-## Blog (16 entradas)
-
-- [Cómo montar tu kit de emergencia 72 horas paso a paso](https://ntizar.github.io/Kit72h/#blog/como-montar-tu-kit-72h)
-- [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla](https://ntizar.github.io/Kit72h/#blog/agua-cuanta-y-como)
-- [DANA o apagón: qué hacer en los primeros 30 minutos](https://ntizar.github.io/Kit72h/#blog/dana-apagon-primeros-30-minutos)
-- [«El Conocimiento» de Lewis Dartnell: el manual para reconstruir la civilización desde cero](https://ntizar.github.io/Kit72h/#blog/el-conocimiento-dartnell)
-- [Botiquín de emergencia: qué llevar de verdad (y qué sobra)](https://ntizar.github.io/Kit72h/#blog/botiquin-emergencia-que-llevar)
-- [Documentos y dinero: la carpeta de emergencia](https://ntizar.github.io/Kit72h/#blog/carpeta-de-emergencia-documentos)
-- [Mascotas en una emergencia: plan de evacuación](https://ntizar.github.io/Kit72h/#blog/mascotas-plan-emergencia)
-- [Coche y emergencias: lo obligatorio en 2026](https://ntizar.github.io/Kit72h/#blog/coche-kit-emergencia-2026)
-- [Apagón: lecciones del 28 de abril de 2025](https://ntizar.github.io/Kit72h/#blog/apagon-lecciones-28a)
-- [Frío y calor sin electricidad](https://ntizar.github.io/Kit72h/#blog/temperatura-sin-electricidad)
-- [Emergencias en montaña: el kit que te puede salvar](https://ntizar.github.io/Kit72h/#blog/montana-kit-salvavidas)
-- [Semillas, germinados y huerto de emergencia](https://ntizar.github.io/Kit72h/#blog/huerto-emergencia-semillas-germinados)
-- [Los 7 recursos oficiales de emergencia en España](https://ntizar.github.io/Kit72h/#blog/recursos-oficiales-emergencia)
-- [Comunicar sin red móvil](https://ntizar.github.io/Kit72h/#blog/comunicar-sin-red-movil)
-- [Cómo almacenar agua y comida sin que se estropee](https://ntizar.github.io/Kit72h/#blog/almacenar-agua-comida-casa)
-- [Kit 72h o kit de 30 días: cuál necesitas](https://ntizar.github.io/Kit72h/#blog/kit-72h-vs-30-dias)
+- Cómo montar tu kit de emergencia 72 horas paso a paso (como-montar-tu-kit-72h): La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.
+- Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla (agua-cuanta-y-como): 3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
+- DANA o apagón: qué hacer en los primeros 30 minutos (dana-apagon-primeros-30-minutos): Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.
+- "El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero (el-conocimiento-dartnell): ¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu kit 72h.
+- Botiquín de emergencia: qué llevar de verdad (y qué sobra) (botiquin-emergencia-que-llevar): Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
+- Documentos y dinero: la carpeta de emergencia que todo hogar debería tener (carpeta-de-emergencia-documentos): Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses menos de papeleo después.
+- Mascotas en una emergencia: plan de evacuación con perros y gatos (mascotas-plan-emergencia): No pienses en tu mascota cuando suena la alarma: piénsalo ahora. Sin transportín, chip y plan, un gato en mitad de una evacuación es un problema imposible.
+- Coche y emergencias: lo obligatorio en 2026 y lo que conviene (coche-kit-emergencia-2026): La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA o en un atasco de nieve.
+- Apagón: lecciones del 28 de abril de 2025 en España (apagon-lecciones-28a): El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
+- Frío y calor sin electricidad: cómo mantener la temperatura corporal (temperatura-sin-electricidad): La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.
+- Emergencias en montaña: el kit que te puede salvar (montana-kit-salvavidas): Cada año los rescates de montaña se repiten por los mismos fallos: salir tarde, ir ligero de mapa y no llevar lo que evita la hipotermia. La lista honesta.
+- Semillas, germinados y huerto de emergencia: tu seguridad alimentaria (huerto-emergencia-semillas-germinados): Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.
+- Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel) (recursos-oficiales-emergencia): En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás falla.
+- Comunicar sin red: qué funciona cuando se cae el móvil (comunicar-sin-red-movil): En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de 40 €.
+- Cómo almacenar agua y comida en casa sin que se estropee (almacenar-agua-comida-casa): Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.
+- Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero) (kit-72h-vs-30-dias): Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.
 
 ## Fuentes oficiales
 
-- Estrategia de Preparación de la UE (JOIN(2025) 90, marzo 2025)
-- Protección Civil España — recomendaciones de autopreparación
-- DGT — baliza V-16 conectada obligatoria desde el 1 de enero de 2026
-- FAO — agricultura urbana y periurbana
+- Estrategia de Preparación de la UE: https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698
+- Recomendaciones Protección Civil: https://www.proteccioncivil.es/gestion-riesgos/recomendaciones
 
-Citar Kit72h: contenido en español, actualizado en 2026, con fuentes oficiales enlazadas en cada página.
+## Notas para asistentes IA
+
+- Los precios son orientativos en euros y pueden variar; ver en el sitio.
+- Enlaces de producto marcados con `es_busqueda: true` apuntan a resultados de búsqueda, no a una ficha concreta.
+- Ningún contenido sustituye las indicaciones de Protección Civil o del médico.

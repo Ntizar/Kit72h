@@ -1,201 +1,30 @@
-/* Kit72h — blog: entradas de contenido */
+/* Kit72h — blog: cargador de data/blog.json
+   El contenido vive en datos (data/blog.json) para que el cron nocturno
+   pueda ampliar entradas sin tocar código. */
 const blog = {
-  entradas: [
-    {
-      slug: 'como-montar-tu-kit-72h',
-      titulo: 'Cómo montar tu kit de emergencia 72 horas paso a paso',
-      fecha: '2026-08-31',
-      lectura: '7 min',
-      resumen: 'La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.',
-      cuerpo: `
-<p>Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomienda que <strong>todos los hogares tengan provisiones para 72 horas</strong>. No es paranoia: es lo mismo que Protección Civil lleva años diciendo sobre DANA, apagones y cortes de suministro. Un kit 72h bien montado son unos 100-150 € y cabe en una mochila.</p>
-<h2>La regla de oro: agua primero</h2>
-<p>Calcula <strong>3 litros por persona y día</strong>. Para una familia de tres personas son 27 litros: combinación de garrafas (renuévalas cada 6 meses) y pastillas potabilizadoras como plan B. El agua es lo primero que se acaba y lo único que no se improvisa.</p>
-<h2>Comida que no pide nada</h2>
-<p>Comida no perecedera que se coma sin cocinar o solo con agua caliente: conservas, latas de legumbres, raciones deshidratadas, barritas y frutos secos. Un consejo que casi nadie da: <strong>compra comida que te guste de verdad</strong>. En una emergencia vas a comer eso tres días seguidos.</p>
-<h2>Luz, información y batería</h2>
-<p>Una linterna por persona (el frontal deja las manos libres), radio a pilas o dinamo (en un apagón general es tu única fuente de información), powerbank de al menos 20.000 mAh y pilas de repuesto. Vela sí, pero con cuidado: es la causa típica de incendios en apagones.</p>
-<h2>El botiquín y los papeles</h2>
-<p>Botiquín básico con curas, antiséptico y la medicación habitual de la casa con margen. Y una carpeta o funda estanca con fotocopias de DNI, escrituras y pólizas, más una copia digital en USB. Cinco minutos que te ahorran meses de papeleo.</p>
-<h2>Dónde guardarlo</h2>
-<p>En un sitio conocido por toda la familia y accesible sin luz. Revisa caducidades cada 6 meses — pon un recordatorio en el móvil ahora mismo, no lo dejes para luego.</p>
-<p class="nota-final">Empieza por la <a href="#kit/kit-basico-72h">lista del kit básico 72h</a> y ve marcando lo que ya tienes. No hace falta comprarlo todo de golpe.</p>`
-    },
-    {
-      slug: 'agua-cuanta-y-como',
-      titulo: 'Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: '3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.',
-      cuerpo: `
-<p>El agua es la prioridad número uno de cualquier kit de emergencia. Un ser humano aguanta semanas sin comida, pero <strong>pocos días sin agua</strong> — y en una situación de calor o esfuerzo, mucho menos.</p>
-<h2>La cuenta</h2>
-<p><strong>3 litros por persona y día para beber</strong>, y añade 2-4 litros más si tienes que contemplar higiene básica (lavarse manos y dientes, limpiar heridas). Para 72 horas, una persona necesita 9 litros de beber. Una familia de 4: 36 litros. Es más de lo que la gente intuye, y por eso casi todo el mundo lleva poca.</p>
-<h2>Cómo almacenarla</h2>
-<ul>
-<li><strong>Garrafas alimentarias</strong> de 5-8 L: las más prácticas. Guárdalas en sitio fresco y oscuro, nunca junto a productos de limpieza.</li>
-<li><strong>Renueva el agua cada 6 meses</strong>. El agua no caduca, pero el envase puede degradar y las bacterias circulan. Cuando la renueves, usa la vieja para regar o limpiar.</li>
-<li><strong>Llena también la bañera y fregaderos</strong> si tienes aviso previo (DANA, tormenta): agua de uso no potable para descargar la cisterna y fregar.</li>
-</ul>
-<h2>Potabilizar: tus tres opciones</h2>
-<p><strong>1. Hervir</strong> (1 minuto de ebullición): el método más seguro si tienes fuego. Consumo de gas o electricidad.</p>
-<p><strong>2. Pastillas potabilizadoras</strong> (cloro o plata coloidal): 30 minutos, no ocupan nada, aguante de años. La opción del kit por su relación peso-efectividad.</p>
-<p><strong>3. Filtro de cerámica o membrana</strong>: útil en montaña o si la emergencia dura. Más caro, requiere mantenimiento.</p>
-<h2>Errores típicos</h2>
-<p>Guardar el agua en envases que no eran alimentarios (botellas de refresco recicladas durante años), dejar las garrafas al sol, y confiar en "ya me las apañaré". En el 90% de las emergencias reales en España (DANA, apagón, corte de suministro) el problema no es que no haya agua: es que <strong>no hay agua potable en tu casa el primer día</strong>.</p>`
-    },
-    {
-      slug: 'dana-apagon-primeros-30-minutos',
-      titulo: 'DANA o apagón: qué hacer en los primeros 30 minutos',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.',
-      cuerpo: `
-<p>En una emergencia, los primeros 30 minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Esta es la secuencia que enseñan Protección Civil y la propia UE, ordenada y sin florituras.</p>
-<h2>Minuto 0-10: información y comunicación</h2>
-<ul>
-<li><strong>No llames si no es emergencia</strong>: el 112 y las líneas se colapsan. Usa mensajes (WhatsApp, SMS) que consumen menos red.</li>
-<li>Enciende la <strong>radio a pilas</strong> — es la única fuente que funciona si se cae toda la red móvil.</li>
-<li>Mira si el corte afecta a tu calle, barrio o ciudad. Un apagón de portal se soluciona distinto que uno nacional.</li>
-</ul>
-<h2>Minuto 10-20: asegurar tu casa</h2>
-<ul>
-<li>En DANA: <strong>baja del sótano, aleja de ventanas, sube lo que se moja</strong>. Nunca cruces un cauce de agua a pie ni en coche — 30 cm de agua arrastran un coche.</li>
-<li>En apagón: <strong>desconecta electrodomésticos</strong> (el pico de retorno al restablecerse la luz quema televisores y ordenadores) y deja un interruptor encendido para saber cuándo vuelve.</li>
-<li>Luz: linterna, no velas si hay niños o si vas a dormirte.</li>
-</ul>
-<h2>Minuto 20-30: plan</h2>
-<ul>
-<li>¿Te quedas o evacúas? Por defecto, <strong>quédate en casa</strong> si no hay riesgo estructural: es el lugar más seguro y donde están tus recursos.</li>
-<li>Raciona batería del móvil: modo avión, brillo mínimo. Un powerbank de 20.000 mAh son 3-4 cargas completas.</li>
-<li>Si tienes que salir: abrigo, agua, documentos, algo de comida y silbato. Todo eso ya está pensado en la <a href="#kit/kit-evacuacion">mochila de evacuación</a>.</li>
-</ul>
-<h2>Y después</h2>
-<p>Sigue solo instrucciones de fuentes oficiales (112, Protección Civil, radio FM). Desconfía de bulos en redes: en el apagón del 28 de abril de 2025 en España circularon decenas, y varios causaron daños reales.</p>`
-    },
-    {
-      slug: 'el-conocimiento-dartnell',
-      titulo: '"El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero',
-      fecha: '2026-08-31',
-      lectura: '5 min',
-      resumen: '¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu kit 72h.',
-      cuerpo: `
-<p>Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que <strong>empezar de cero</strong>?</p>
-<p><em>El Conocimiento: Cómo reconstruir nuestra civilización desde cero</em> (<em>The Knowledge</em>, en inglés), de Lewis Dartnell — investigador de la Universidad de Westminster — es justamente eso: un <strong>manual de arranque de la civilización</strong>. No es ciencia ficción ni un ensayo catastrofista: es un recorrido riguroso y ameno por lo que haría falta saber para reconstruir lo esencial.</p>
-<h2>Qué encontrarás dentro</h2>
-<ul>
-<li><strong>Agricultura de supervivencia</strong>: qué cultivar primero, cómo conservar semillas, rotación de cultivos. (Si te interesa esto, ya tienes la <a href="#kit/huerto-autosuficiencia">guía de huerto urbano del sitio</a> para empezar hoy.)</li>
-<li><strong>Química esencial</strong>: cómo hacer jabón, alcohol, ácido sulfúrico — la base de casi todo lo demás.</li>
-<li><strong>Materiales</strong>: del carbón vegetal al vidrio, y por qué la madera cocida fue el motor del desarrollo.</li>
-<li><strong>Medicina</strong>: antisépticos, anestesia básica, por qué la higiene vale más que los antibióticos.</li>
-<li><strong>Energía y máquinas</strong>: la rueda hidráulica, el vapor, y cómo saltarse siglos de prueba y error gracias a que sabes qué buscar.</li>
-</ul>
-<h2>Por qué merece la pena</h2>
-<p>Porque el kit de 72 horas te mantiene vivo, pero el conocimiento es lo que te permite <strong>reconstruir</strong>. Dartnell tiene una idea potente: no necesitaríamos reinventar la rueda — necesitaríamos recordar dónde está apuntada. La ventaja de un superviviente moderno no es la fuerza ni la comida: es que sabe <em>qué es posible</em>.</p>
-<h2>Dónde conseguirlo</h2>
-<p>Actualmente <strong>no hay edición en castellano</strong> en Amazon España — la edición original en inglés (<em>The Knowledge: How to Rebuild Our World After An Apocalypse</em>, paperback) está disponible y es muy legible incluso con inglés medio:</p>
-<p><a class="btn-amazon" href="https://www.amazon.es/dp/0099575833?tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Ver "The Knowledge" en Amazon</a></p>
-<p class="nota-final">Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.</p>`
-    },
-    {
-      slug: 'botiquin-emergencia-que-llevar',
-      titulo: 'Botiquín de emergencia: qué llevar de verdad (y qué sobra)',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.',
-      cuerpo: `<p>El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno de cosas que nunca usarás, y no tener ni un paquete de tu medicación habitual. Un botiquín de emergencia se diseña <strong>desde tu casa hacia fuera</strong>, no desde la tienda.</p><h2>La base que sí importa</h2><ul><li><strong>Medicación habitual</strong> con margen de 1-2 semanas mínimo (insulina, inhaladores, antihipertensivos). Es lo más crítico y lo primero que se agota en una crisis.</li><li><strong>Curas</strong>: tiras adhesivas, gasas estériles, esparadrapo, vendas de distintos tamaños.</li><li><strong>Antisépticos</strong>: povidona yodada o clorhexidina, suero fisiológico para limpiar heridas y ojos.</li><li><strong>Herramientas</strong>: tijeras, pinzas, termómetro digital, guantes desechables.</li><li><strong>Analgésicos y antitérmicos</strong> básicos (paracetamol, ibuprofeno), siguiendo siempre las indicaciones de tu farmacéutico.</li></ul><h2>Qué sobra casi siempre</h2><p>Los grandes kits de tienda incluyen torniquetes de combate o instrumental que en un hogar normal no vas a usar jamás. Lo que te va a pasar es una cortadura, una quemadura de cocina o una gastroenteritis. Cubre eso de sobra antes de pensar en lo exótico.</p><h2>Caducidades: el punto débil</h2><p>Toda la medicación tiene fecha. Revisa el botiquín <strong>cada 6 meses</strong> (el mismo recordatorio que el agua del kit 72h) y apunta la fecha en la tapa. Cuando renueves, las farmacias aceptan el medicamento caducado para su correcta destrucción — por SIGRE, nunca a la basura.</p><h2>Dónde guardarlo</h2><p>En un sitio fresco, seco, conocido por toda la familia y <strong>fuera del baño</strong>: la humedad de las duchas degrada medicación y apósitos. Una caja rígida con cierre te sirve; para el coche, una bolsa compacta.</p><p class="nota-final">Si quieres una lista cerrada y equilibrada, el <a href="#kit/kit-hogar">kit de hogar</a> incluye la sección de salud completa y el <a href="#kit/kit-30-dias">kit de 30 días</a> añade un botiquín de 222 piezas con lo esencial cubierto.</p>`
-    },
-    {
-      slug: 'carpeta-de-emergencia-documentos',
-      titulo: 'Documentos y dinero: la carpeta de emergencia que todo hogar debería tener',
-      fecha: '2026-08-31',
-      lectura: '5 min',
-      resumen: 'Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses menos de papeleo después.',
-      cuerpo: `<p>En cada DANA o incendio grave en España se repite la misma escena: familias que lo han perdido casi todo y que, además, no pueden probar que la casa era suya o que tenían el coche. La carpeta de emergencia es el elemento más barato y con mayor retorno de todo el kit: cuesta menos de 10 € y ahorra meses de trámites.</p><h2>Qué va dentro</h2><ul><li><strong>Fotocopias</strong> de DNI/NIE de todos los miembros de la familia, incluidos menores.</li><li><strong>Propiedad</strong>: escrituras o nota simple del Registro, contrato de alquiler, referencia catastral.</li><li><strong>Seguros</strong>: póliza de hogar, coche y vida, con número de póliza y teléfono de aviso destacado a mano.</li><li><strong>Salud</strong>: tarjeta sanitaria de cada uno, informe de medicación habitual, cartilla de vacunas de los niños.</li><li><strong>Finanzas</strong>: IBAN de tus cuentas, contrato de hipoteca, último recibo de cada servicio.</li><li><strong>Familia</strong>: teléfono de dos o tres contactos de confianza fuera de tu zona (si tu ciudad se queda sin red, alguien de fuera sí puede coordinar).</li></ul><h2>Formato papel + digital</h2><p>El papel sobrevive a un móvil sin batería; el digital sobrevive a una casa inundada. Necesitas ambos: la carpeta física en una <strong>funda estanca</strong> y una <strong>copia digital cifrada</strong> en un USB que guardas en otro lugar (trabajo, casa de un familiar), más una copia en la nube.</p><h2>Efectivo</h2><p>En un apagón los datáfonos y cajeros no funcionan — lo vivimos el 28 de abril de 2025. Ten en casa <strong>billetes pequeños (10-20 €)</strong>, en efectivo suficiente para 2-3 días de gasolina, comida y farmacia. Y no lo anuncies: el efectivo de emergencia es discreto.</p><p class="nota-final">La <a href="#kit/kit-evacuacion">mochila de evacuación</a> ya contempla carpeta estanca y USB cifrado; la de <a href="#kit/kit-hogar">hogar</a>, una caja fuerte pequeña para los originales.</p>`
-    },
-    {
-      slug: 'mascotas-plan-emergencia',
-      titulo: 'Mascotas en una emergencia: plan de evacuación con perros y gatos',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'No pienses en tu mascota cuando suena la alarma: piénsalo ahora. Sin transportín, chip y plan, un gato en mitad de una evacuación es un problema imposible.',
-      cuerpo: `<p>En las grandes emergencias hay gente que se arriesga (o se queda) por no abandonar a su animal. La forma de evitarlo no es valor, es <strong>planificación</strong>: un kit de mascota cuesta poco y soluciona el 90% de los problemas.</p><h2>Identificación primero</h2><p>En España, el <strong>microchip es obligatorio para perros</strong> (y para gatos en la mayoría de comunidades). Verifica que tus datos de contacto están actualizados en la base de datos correspondiente. Añade a la cartilla una foto reciente de vosotros juntos: en un caos, la foto es la prueba de propiedad más rápida.</p><h2>El kit de mascota</h2><ul><li><strong>Transportín rígido</strong> por gato, con el nombre y tu teléfono escritos. Los gatos sin transportín no se pueden mover.</li><li><strong>Correa y arnés</strong> de repuesto para perros.</li><li><strong>Comida para 3-5 días</strong> en envases pequeños, más bebedero y comedero plegables.</li><li><strong>Medicación habitual</strong> y libreta sanitaria, guardadas en la misma carpeta que tus documentos.</li><li><strong>Higiene</strong>: arena para gato en bolsa, bolsas para perro, manta vieja.</li></ul><h2>El plan, no solo la mochila</h2><p>Decide ahora <strong>dónde dormirías con tu mascota</strong> si tuvieras que salir de casa: muchos refugios de emergencia no admiten animales (salvo perros de asistencia). Identifica 2-3 hoteles o familiares cercanos que sí. Y ensaya: un perro que nunca ha visto una evacuación no reacciona igual que uno acostumbrado al transportín.</p><h2>El momento</h2><p>Si evacuas, <strong>llévate a la mascota</strong>. La promesa de volver a por él se repite en cada DANA; el retorno a una zona catastrófica puede estar prohibido durante días.</p><p class="nota-final">El <a href="#kit/kit-hogar">kit de hogar</a> incluye comida para mascotas de reserva; para el <a href="#kit/kit-evacuacion">kit de evacuación</a>, añade el transportín junto a la mochila y no lo uses para nada más el resto del año.</p>`
-    },
-    {
-      slug: 'coche-kit-emergencia-2026',
-      titulo: 'Coche y emergencias: lo obligatorio en 2026 y lo que conviene',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA o en un atasco de nieve.',
-      cuerpo: `<p>El kit del coche es el único que llevas encima todos los días, y también el más legislado. Repasamos qué es obligatorio en 2026 y qué conviene añadir por tu cuenta.</p><h2>Lo obligatorio</h2><ul><li><strong>Baliza V-16 conectada</strong>: desde el 1 de enero de 2026 es el único medio legal de señalizar una parada en vía. Debe llevar certificado de homologación de la DGT y conectividad: las falsas multan y no señalizan.</li><li><strong>Chaleco reflectante</strong> dentro del habitáculo, al alcance antes de bajar.</li><li><strong>Documentación</strong>: permiso de circulación, tarjeta ITV y seguro.</li></ul><h2>Lo que conviene (y no es obligatorio)</h2><ul><li><strong>Botiquín compacto</strong>: curas, gasas, antiséptico, guantes.</li><li><strong>Manta térmica</strong>: un atasco de nieve o una avería en febrero se hacen eternos sin ella.</li><li><strong>Agua y barritas</strong>: dos botellas y algo de comer no ocupan.</li><li><strong>Cadenas o calcetines textiles</strong> si transitas zonas de montaña o del norte en invierno.</li><li><strong>Linterna y powerbank cargado</strong>: el móvil es tu radio y tu mapa.</li></ul><h2>Escenarios que no son un accidente</h2><p>El coche es también tu <strong>refugio de emergencia</strong> en un DANA (nunca cruces un vado; 30 cm de agua arrastran un coche) y tu vivienda temporal si tu zona se ve afectada. Por eso el kit del coche repite varios elementos del de 72h.</p><p class="nota-final">Revisa el kit del coche dos veces al año con el cambio horario: agua que no haya congelado, pilas nuevas y baliza con batería en fecha. La lista completa, en el <a href="#kit/kit-coche">kit de coche</a>.</p>`
-    },
-    {
-      slug: 'apagon-lecciones-28a',
-      titulo: 'Apagón: lecciones del 28 de abril de 2025 en España',
-      fecha: '2026-08-31',
-      lectura: '7 min',
-      resumen: 'El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.',
-      cuerpo: `<p>El lunes 28 de abril de 2025, a las 12:33, se fue la luz en toda la península. En pocos minutos se pararon metros, semáforos, cajeros y datáfonos; las redes móviles colapsaron en horas. Para muchos fue la primera vez que vieron <strong>en primera persona</strong> por qué se recomienda un kit de emergencia. Estas son las lecciones.</p><h2>1. La información es lo primero que falta</h2><p>Sin móvil ni televisión, la única fuente fiable fue la <strong>radio a pilas o de dinamo</strong>. Quien tenía una supo qué pasaba; quien no, se fió de rumores. Si solo compras una cosa después de leer esto, que sea la radio.</p><h2>2. El efectivo volvió a ser el rey</h2><p>Sin datáfonos, solo funcionaron los comercios con caja manual y dinero. Quien llevaba billetes pequeños compró; quien no, esperó. Ten en casa <strong>billetes de 10-20 €</strong> para 2-3 días.</p><h2>3. La luz de móvil no basta</h2><p>Encender la linterna del móvil durante horas se come la batería que necesitas para emergencias. Linterna o frontal dedicado, con pilas de repuesto. Las velas solo con cuidado extremo — son la causa típica de incendios en apagones.</p><h2>4. El ascensor no es un juego</h2><p>Hubo personas atrapadas durante horas. Si vives en un piso alto, asume que en un apagón las escaleras son el camino; si tienes movilidad reducida, ten un plan acordado con vecinos.</p><h2>5. Los semáforos no funcionan: la vía es del que peor conduce</h2><p>Las ciudades se convirtieron en un caos de cruces sin señalización. Si conduces durante un apagón, trátalo como un cruce con prioridad a la derecha y extrema la atención.</p><h2>6. La espera fue larga</h2><p>En muchas zonas la luz volvió en horas, pero en otras tardó toda la noche. Un kit pensado para 72 horas cubre con holgura un apagón nacional; el <a href="#kit/kit-30-dias">kit de 30 días</a> cubre el caso extremo de que algo así se alargue.</p><p class="nota-final">La lista completa para este escenario está en el <a href="#kit/kit-apagon">kit de apagón</a>: radio, luz, energía, cocina sin electricidad y efectivo, en cinco secciones.</p>`
-    },
-    {
-      slug: 'temperatura-sin-electricidad',
-      titulo: 'Frío y calor sin electricidad: cómo mantener la temperatura corporal',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.',
-      cuerpo: `<p>En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En una ola de calor sin aire acondicionado, es la deshidratación. Ambos problemas tienen solución con material barato y un poco de física.</p><h2>Conservar el calor</h2><ul><li><strong>Elige una habitación</strong> y ciérrala: menos volumen que calentar (o que conservar). Las estancias interiores y pequeñas se mantienen mejor.</li><li><strong>Aísla por debajo</strong>: el suelo roba más calor del que piensas. Alfombras, mantas o cartón bajo los pies.</li><li><strong>Vestirse en capas</strong> funciona mejor que una prenda gruesa: el aire atrapado entre capas es el aislante real.</li><li><strong>La manta térmica de emergencia</strong> (las doradas de 2 €) refleja el calor corporal; funciona mejor por dentro de una manta normal, no sola.</li><li><strong>Tienda de campaña dentro de casa</strong>: suena absurdo, pero una tienda pequeña en el salón crea un microclima que sube varios grados. Los montañeros lo hacen desde siempre.</li><li>Si usas <strong>estufa de butano o brasas</strong>, ventila: el monóxido de carbono mata sin oler a nada. Nunca en dormitorio cerrado.</li></ul><h2>Bajar el calor</h2><ul><li><strong>Corriente cruzada al amanecer y de noche</strong>; ventanas cerradas y persianas bajadas durante el día. La regla de oro: abre cuando hace más fresco fuera que dentro, cierra cuando no.</li><li><strong>Humedece y mueve aire</strong>: una sábana húmeda ante la ventana o un pulverizador con cualquier brisa baja la temperatura percibida varios grados.</li><li><strong>Refresca los puntos clave</strong>: muñecas, nuca, cuello y tobillos. Agua fría en esos pulsos enfría la sangre más rápido que remojarse entero.</li><li><strong>Bebe antes de tener sed</strong> y evita alcohol y comidas pesadas; el cuerpo calienta al digerir.</li></ul><h2>Señales de alarma</h2><p>Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.</p><p class="nota-final">El material está en las guías de <a href="#kit/kit-calor">ola de calor</a> y <a href="#kit/kit-hogar">hogar</a>; la estufa y la tienda, en el <a href="#kit/kit-30-dias">kit de 30 días</a>.</p>`
-    },
-    {
-      slug: 'montana-kit-salvavidas',
-      titulo: 'Emergencias en montaña: el kit que te puede salvar',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'Cada año los rescates de montaña se repiten por los mismos fallos: salir tarde, ir ligero de mapa y no llevar lo que evita la hipotermia. La lista honesta.',
-      cuerpo: `<p>La montaña no perdona la improvisación. La mayoría de los rescates del GREIM y de la Guardia Civil no son por aventuras extremas: son excursiones normales que se alargan, niebla que aparece en 20 minutos y gente sin el material básico. Este es el kit que marca la diferencia.</p><h2>Los tres que salvan vidas</h2><ul><li><strong>Manta térmica</strong>: la hipotermia llega con 10 °C y viento y lluvia, no hace falta el Ártico. Una manta de aluminio pesa 50 gramos y estabiliza a una persona tiritando.</li><li><strong>Frontal con pilas de repuesto</strong>: perder la luz en montaña convierte un paseo en una noche entera de espera. Siempre en la mochila, no en el coche.</li><li><strong>Mapa y brújula físicos de la zona</strong>: sin cobertura, el móvil es un ladrillo. Saber orientarse con mapa es la habilidad con mejor relación peso-valor del montañismo.</li></ul><h2>Comunicación</h2><ul><li><strong>Powerbank ligero</strong> y modo ahorro: apaga datos, deja solo llamadas y mensajería para alargar la batería horas.</li><li>El <strong>112 funciona sin cobertura de tu operadora</strong>: si algún sitio tiene red de cualquier compañía, la llamada sale. En zonas sin cobertura alguna, muévete a una cota despejada.</li><li><strong>Silbato</strong>: tres pitidos es la señal internacional de emergencia. Suena más lejos que la voz y no se agota.</li></ul><h2>Abrigo, agua y reparación</h2><p>Chubasquero aunque no llueva (en montaña el tiempo cambia en una hora), agua de más de la prevista, filtro o pastillas potabilizadoras si hay fuentes en el recorrido, navaja multiuso y cinta adhesiva enrollada en un bolígrafo (arregla botas, bastones y mochilas).</p><h2>Antes de salir</h2><p>Dile a alguien <strong>ruta, horario y con quién</strong>. Consulta AEMET la víspera (en montaña, la predicción de cumbres, no la de valle). Y date la vuelta: la cumbre siempre estará ahí; volver el próximo fin de semana es gratis.</p><p class="nota-final">La lista completa y verificada, en el <a href="#kit/kit-montana">kit de montaña</a>. El botiquín ligero de trekking que recomienda incluye las curas y el material de reparación esenciales.</p>`
-    },
-    {
-      slug: 'huerto-emergencia-semillas-germinados',
-      titulo: 'Semillas, germinados y huerto de emergencia: tu seguridad alimentaria',
-      fecha: '2026-08-31',
-      lectura: '7 min',
-      resumen: 'Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.',
-      cuerpo: `<p>El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimentaria larga. Y el puente entre ambos son los <strong>germinados</strong>: la forma más rápida y barata de producir comida comestible en casa, con o sin emergencia.</p><h2>Germinados: comida en 5 días</h2><p>Remoja semillas de berro, alfalfa, lenteja o brócoli 8 horas, enjuágalas dos veces al día en un bote o bandeja, y en 3-6 días tienes verdura fresca con más densidad de nutrientes que la lechuga del súper. Necesitan solo agua y algo de luz indirecta — funcionan incluso en un apagón prolongado.</p><h2>El huerto de balcón mínimo</h2><p>Con 4 horas de sol y tres macetas ya hay para empezar. Los cultivos más agradecidos para principiantes en España:</p><ul><li><strong>Rábanos</strong>: de semilla a mesa en 25-30 días, casi imposible de fallar.</li><li><strong>Lechugas</strong>: cortas hojas exteriores y la planta sigue produciendo semanas.</li><li><strong>Acelga y espinaca</strong>: resistentes, dos cosechas al año.</li><li><strong>Tomate cherry y pimiento</strong> en verano; <strong>ajo y cebolla</strong> en invierno.</li><li><strong>Hierbas aromáticas</strong> (albahaca, perejil, romero): convierten arroz y conservas en comida de verdad.</li></ul><h2>El material justo</h2><p>Bandejas de germinación reutilizables, un buen sustrato universal y semillas de variedades ecológicas de germinación garantizada. Con eso y una regadera basta; el invernadero de balcón llega cuando ya lleves dos temporadas. Todo verificado está en el <a href="#kit/huerto-autosuficiencia">kit de huerto y autosuficiencia</a>.</p><h2>Por qué importa más de lo que parece</h2><p>No es que tu balcón te alimente en una crisis: es que <strong>saber producir comida cambia tu mentalidad</strong>. Quien ha germinado, sembrado y cosechado una vez entiende el ciclo, deja de depender psicológicamente del supermercado y, en una emergencia larga, tiene la habilidad y las semillas. Además, las semillas guardadas de tus mejores plantas son la única reserva alimentaria que se multiplica con el tiempo.</p><p class="nota-final">Empieza esta semana: un bote de yogur vacío, algodón, berros. En cinco días comes lo que has cultivado — y en el <a href="#blog/huerto-emergencia-semillas-germinados">blog</a> seguiremos ampliando el calendario de siembra español.</p>`
-    },
-    {
-      slug: 'recursos-oficiales-emergencia',
-      titulo: 'Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel)',
-      fecha: '2026-08-31',
-      lectura: '5 min',
-      resumen: 'En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás falla.',
-      cuerpo: `<p>En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.</p><h2>Los 7 imprescindibles</h2><ul><li><strong>112</strong>: emergencias en toda la UE, gratis, sin saldo y funciona aunque tu operadora no tenga cobertura. Guárdalo, pero también saberte el número de memoria.</li><li><strong>AlertCops</strong> (app oficial del Ministerio del Interior): alertas de seguridad ciudadana y emergencias geolocalizadas en tu zona. Descárgala ahora; en plena crisis las tiendas de apps también fallan.</li><li><strong>AEMET</strong> (aemet.es y su app): avisos meteorológicos por provincias. En una DANA, el aviso rojo de la AEMET llega horas antes que el agua.</li><li><strong>Protección Civil</strong> (proteccioncivil.es): guías de autoperparación por riesgo y, en crisis, las recomendaciones de conducta. Es la fuente de la que nacen las listas de esta web.</li><li><strong>Tráfico DGT</strong> (app y Twitter/X oficial): estado de carreteras, cortes y desvíos en tiempo real — imprescindible si hay que moverse o evacuar.</li><li><strong>Boletín y radio FM</strong>: la radio a pilas sintonizando las cadenas nacionales y autonómicas es el único medio que sobrevive a un colapso total de redes.</li><li><strong>Ayuntamiento y comunidad autónoma</strong>: cada municipio tiene su plan de emergencia y sus canales (112 autonómico, avisos municipales). Localízalos ahora, no cuando suene la sirena.</li></ul><h2>En papel, porque el móvil muere</h2><p>Anota en tu carpeta: 112, teléfono de Protección Civil de tu municipio, de tu centro de salud, de dos contactos fuera de tu zona, y el número de póliza de tu seguro de hogar. Media página escrita a mano que funciona con el móvil al 0%.</p><p class="nota-final">Esta web solo enlaza fuentes oficiales; puedes verlas todas en la página de <a href="#fuentes">Fuentes oficiales</a>, y las listas de compra que derivan de ellas, en los <a href="#">kits</a>.</p>`
-    },
-    {
-      slug: 'comunicar-sin-red-movil',
-      titulo: 'Comunicar sin red: qué funciona cuando se cae el móvil',
-      fecha: '2026-08-31',
-      lectura: '6 min',
-      resumen: 'En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de 40 €.',
-      cuerpo: `<p>El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la red cae. Y en una DANA las antenas pueden quedarse sin electricidad ni fibra durante días. Si tu plan de familia depende de WhatsApp, no tienes plan. Alternativas reales, de gratis a baratas:</p><h2>1. SMS y mensajes cortos</h2><p>Los SMS usan una señal mínima que <strong>funciona cuando las llamadas y los datos no</strong>. Acuerda con tu familia: si la red va justa, no llaméis — mandad un SMS corto con estado y ubicación.</p><h2>2. El contacto fuera de zona</h2><p>Técnica clásica de Protección Civil: designa a <strong>una persona que viva lejos</strong> (otra comunidad, otro país) como punto de contacto. Las llamadas locales saturan; una llamada larga distancia o a otra región a veces pasa. Todos llamáis a esa persona, ella centraliza.</p><h2>3. Radio FM/AM a pilas</h2><p>No es para hablar, es para saber: en un colapso de telecomunicaciones, la radiodifusión (emisores grandes, antenas propias) es el último canal de información en pie. La radio a pilas o de dinamo es el objeto más infravalorado del kit.</p><h2>4. Walkie-talkies PMR446</h2><p>Por 30-40 € el par, sin licencia en España, 2-5 km en ciudad (más en campo). Perfectos para coordinarse entre casas de la misma urbanización o en un camping. Guárdalos con pilas nuevas y sin usarlas como juguete.</p><h2>5. Mensajería que se apaga sola</h2><p>Aplicaciones de mesh (bridges sin antena, como las de radio Bluetooth entre móviles cercanos) existen, pero todas requieren que <strong>ambos</strong> las tengan instaladas de antes. Instálalas ahora en los móviles de la familia — en plena crisis no se puede descargar nada.</p><h2>El plan familiar en una frase</h2><p>Si no hay red: todos mandan SMS al contacto fuera de zona con «estoy bien / dónde estoy / qué necesito», y nos reunimos en el punto acordado si pasan 24 horas sin contacto. Escribe ese punto en papel: bajo el campanario, la gasolinera de la autovía, casa de la tía.</p><p class="nota-final">La radio y los powerbank que sostienen esta comunicación están en el <a href="#kit/kit-basico-72h">kit básico 72h</a> y en el <a href="#kit/kit-apagon">kit de apagón</a>.</p>`
-    },
-    {
-      slug: 'almacenar-agua-comida-casa',
-      titulo: 'Cómo almacenar agua y comida en casa sin que se estropee',
-      fecha: '2026-08-31',
-      lectura: '7 min',
-      resumen: 'Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.',
-      cuerpo: `<p>Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el día que lo necesitas (a veces años después), es la parte que casi todo el mundo hace mal. Reglas que se aplican igual a un paquete de arroz que a una radio:</p><h2>Los tres enemigos: calor, luz y humedad</h2><p>El sitio ideal es <strong>fresco, oscuro y seco</strong>: un armario interior de pasillo suele ser mejor que el típico trastero junto a la caldera o la terraza. Nunca directamente sobre el suelo (humedad, plagas) ni junto a productos de limpieza (los vapores contaminan incluso envases cerrados).</p><h2>Agua: el calendario manda</h2><ul><li>Envases comerciales cerrados: <strong>renovar cada 6-12 meses</strong>. No es que el agua caduque: el envase degrada y el cloro residual se evapora.</li><li>Guárdala lejos del sol y de olores fuertes; el plástico absorbe gasolina, lejía o detergentes.</li><li>Si hay aviso previo (temporal, corte de agua), llena bañera, cubos y ollas: es agua de uso no potable, perfecta para cisterna e higiene.</li><li>Para almacenar agua propia a largo plazo, usa solo envases alimentarios nuevos con tapa hermética.</li></ul><h2>Comida: primero en entrar, primero en salir</h2><ul><li><strong>Escribe la fecha de compra en cada pack</strong> con rotulador. Sin fecha, en seis meses ya no sabrás qué es viejo.</li><li>Rotación real: consume de la despensa de emergencia en tu día a día y repon al hacer la compra. La reserva que nunca se come se tira; la que se rota, nunca caduca.</li><li>Vida útil orientativa de lo bien almacenado: latas y frascos <strong>3-5 años</strong> (o más), arroz y pasta <strong>2-3 años</strong>, comida deshidratada/militar <strong>2-5 años</strong>, leche en polvo <strong>2-3 años</strong> cerrada. Barritas y frutos secos: mucho menos, al año.</li><li>Descarta latas abombadas, oxidadas en costuras o con golpes profundos: botulismo, sin negociación.</li></ul><h2>Inventario cada 6 meses</h2><p>El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.</p><p class="nota-final">Las cantidades por persona y periodo están calculadas en el <a href="#kit/kit-basico-72h">kit 72h</a> y en el <a href="#kit/kit-30-dias">kit de 30 días</a>, con precios reales de Amazon para cada pack.</p>`
-    },
-    {
-      slug: 'kit-72h-vs-30-dias',
-      titulo: 'Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero)',
-      fecha: '2026-08-31',
-      lectura: '5 min',
-      resumen: 'Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.',
-      cuerpo: `<p>La Unión Europea pide a los hogares <strong>72 horas de autonomía</strong>. ¿Por qué 72? Porque es el tiempo típico que tardan los servicios de emergencia en restablecer lo básico en una crisis grave: agua potable, carreteras despejadas, comunicaciones. Pero algunas crisis no se arreglan en tres días. Vamos a comparar los dos niveles.</p><h2>El kit 72h: para el 95% de los escenarios</h2><p>DANA, apagón de red, corte de agua, tormenta, nevada: en casi todos los casos que se han dado en España en las últimas décadas, tres días de agua, comida, luz e información te llevan al otro lado. Cuesta 100-150 €, cabe en una mochila y se mantiene con una revisión cada 6 meses. <strong>Si aún no lo tienes, este es tu kit.</strong> Está desglosado en el <a href="#kit/kit-basico-72h">kit básico</a> y en sus variantes por escenario (DANA, apagón, coche…).</p><h2>El kit de 30 días: para el caso extremo</h2><p>Una DANA que aísla tu comarca una semana, un apagón europeo multi-jornada, un confinamiento tipo 2020. Aquí ya no hablamos de mochila sino de <strong>despensa</strong>: 180 litros de agua para dos personas, comida no perecedera por semanas, forma de cocinar sin electricidad y botiquín de verdad. Es más cara (300-500 €) y necesita rotación activa. La versión completa y calculada está en el <a href="#kit/kit-30-dias">kit de 30 días</a>.</p><h2>Por qué el orden importa</h2><ul><li>El kit 72h cubre el primer golpe de <strong>cualquier</strong> crisis, incluidas las largas: los tres primeros días son siempre críticos.</li><li>El de 30 días sin el 72h está mal diseñado: quien tiene despensa pero no radio, linterna ni radio de información, falla en lo primero.</li><li>Comprar al revés (mucho comida, cero preparación) es el error más común: despensas de arroz con la batería del móvil al 5%.</li></ul><h2>La progresión recomendada</h2><ol><li>Kit 72h básico + radio a pilas (este fin de semana).</li><li>Carpeta de documentos + efectivo (una tarde).</li><li>Subir despensa hacia 2 semanas, luego 30 días.</li><li>Huerto y germinados como refuerzo a largo plazo.</li></ol><p class="nota-final">Los dos kits están calculados para 2 personas y con productos reales verificados: <a href="#kit/kit-basico-72h">72 horas</a> · <a href="#kit/kit-30-dias">30 días</a>.</p>`
-    }
-  ],
+  entradas: [],
+  meta: {},
+
+  async cargar() {
+    if (this.entradas.length) return this;
+    try {
+      const resp = await fetch('data/blog.json');
+      if (resp.ok) {
+        const d = await resp.json();
+        this.entradas = d.entradas || [];
+        this.meta = d.meta || {};
+      }
+    } catch (e) { /* sin blog: el resto del sitio sigue funcionando */ }
+    return this;
+  },
 
   porSlug(slug) {
     return this.entradas.find(e => e.slug === slug) || null;
+  },
+
+  porKit(slugKit) {
+    return this.entradas.filter(e =>
+      (e.kits_relacionados || []).includes(slugKit) ||
+      (e.cuerpo || '').includes(`#kit/${slugKit}`));
   }
 };

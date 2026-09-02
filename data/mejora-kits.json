@@ -1,0 +1,184 @@
+{
+  "_nota": "Contenido de enriquecimiento de los 10 kits originales. Generado 2026-09-02 por Mastermind para David Antizar. Se fusiona en data/kits.json con scripts/fusionar-mejoras.py. El cron kit72h-editor puede ampliar estos campos, nunca borrarlos.",
+  "mejoras": {
+    "basico-72h": {
+      "paraQuien": "Para cualquier hogar de España, empiece por donde empiece. Es la bolsa de resiliencia que pide la UE desde marzo de 2025: agua, comida, luz, información, documentos y abrigo para aguantar 72 horas sin servicios. Si sólo vas a montar un kit, que sea éste.",
+      "paraQuien_no": "No es una mochila para irte caminando ni sustituye al kit específico de tu riesgo (DANA, montaña, coche). Si vives en zona inundable o con personas dependientes, completa con el kit de evacuación y el kit de bebés o el de persona mayor.",
+      "coste_total": "100-180 € (2 personas, comprando con calma y aprovechando lo de casa)",
+      "errores": [
+        "Comprar sólo agua embotellada y no tener plan B: si se acaba, unas pastillas potabilizadoras de 8 € te dan agua del grifo o de lluvia tratada.",
+        "Guardarlo todo en el trastero o en el armario de arriba. En un apagón sin luz tienes que encontrarlo en 30 segundos, mejor junto a la puerta.",
+        "No escribir la fecha de compra en cada pack: a los dos años no sabrás qué es viejo y tirarás media reserva.",
+        "Olvidarse de la radio. En una crisis larga el móvil se queda mudo; la radio a pilas es tu único enlace con lo que manda Protección Civil.",
+        "Comprar las cosas todas de golpe y dejarlo correr. Funciona mejor añadir dos o tres artículos cada semana de compra."
+      ],
+      "secciones_intro": {
+        "Agua e hidratación": "Lo primero que falta y lo único que no se improvisa. 3 litros por persona y día para beber, y un sistema para hacer potable agua dudosa cuando se acabe.",
+        "Alimentación": "Comida que se come sin cocinar, sin agua y sin electricidad, y que de verdad te apetezca comer tres días seguidos.",
+        "Luz y energía": "Ver y que te vean, y mantener vivo el móvil y la radio. El frontal deja las manos libres: es la linterna que se usa de verdad.",
+        "Información y comunicación": "Saber qué está pasando y dónde está el resto de la familia. Con la red caída, la radio y el papel ganan.",
+        "Documentación y dinero": "Fotocopias y algo de efectivo en billetes pequeños. Cinco minutos de preparación que te ahorran meses de gestiones.",
+        "Higiene y salud": "Lo que evita que un corte pequeño se convierta en un problema en un sitio sin agua corriente ni farmacia.",
+        "Abrigo y refugio": "Mantener la temperatura corporal es lo que separa una noche incómoda de una urgencia médica."
+      }
+    },
+    "dana": {
+      "paraQuien": "Para quien vive o trabaja en el Levante, Baleares, Guadalquivir, zonas de rambla, barrancos o cauces con urbanizaciones cerca. La DANA es el riesgo que más se repite en España: agua que llega en minutos, sin aviso previo suficiente.",
+      "paraQuien_no": "No vale para el escenario de inundación lenta de un río del norte (ahí el tiempo juega a favor y la priorida es cortar suministros y sacar cosas de casa). Y no sustituye al kit básico: sin agua potable y comida, una DANA que corta carreteras se alarga.",
+      "coste_total": "90-160 € (además del kit básico)",
+      "errores": [
+        "Confiar en el aviso móvil y no tener nada preparado hasta que suena. En la DANA de 2024 muchas personas no tuvieron margen: el kit debe estar hecho antes.",
+        "Bajar al garaje o al trastero a salvar cosas cuando ya está lloviendo fuerte. Es el accidente típico.",
+        "Encender la luz o tocar enchufes mojados: la electrocución en planta baja es de las causas de muerte más habituales en inundaciones.",
+        "Volver antes de tiempo y pisar el lodo sin guantes ni botas: va cargado de aguas residuales, vidrio y metales.",
+        "No fotografiar nada: los daños se declaran mal sin pruebas, y los plazos para el Consorcio de Compensación de Seguros corren."
+      ],
+      "secciones_intro": {
+        "Protección personal frente al agua": "Si te sorprende andando o conduciendo, lo que decides en dos minutos vale más que todo lo que compres después.",
+        "Seguridad eléctrica": "En casa inundada, el mayor riesgo silencioso no es el agua: es la electricidad que sigue en los cables.",
+        "Protección de la vivienda": "Medidas baratas y rápidas que se ponen cuando hay aviso, antes de que llegue el agua.",
+        "Post-DANA": "Los días después son los de las lesiones y las enfermedades: lodo, humedad e instalaciones tocadas."
+      }
+    },
+    "apagon": {
+      "paraQuien": "Para todos. El 28 de abril de 2025 la península se quedó 12 horas o más sin luz: semáforos muertos, cajeros cerrados, ascensores parados, supermercados sin TPV. Un apagón largo no es una anécdota: es un día sin poder comprar, sin agua en pisos altos y sin ascensor.",
+      "paraQuien_no": "No te sirve si lo que esperas es seguir trabajando o estudiando con normalidad: para eso hace falta capacidad de generar electricidad (panel grande, batería doméstica), que es otro nivel de inversión. Y si vives en un quinto sin ascensor, calcula que el agua que bajes a buscar hay que subirla a pie.",
+      "coste_total": "120-220 € (además del kit básico)",
+      "errores": [
+        "Abrir la nevera cada poco para ver qué hay. Cerrada y sin abrirla, un frigorífico aguanta unas 4 horas y un congelador lleno hasta 24-48 horas.",
+        "Encender velas y dejarlas solas: es la causa clásica de incendio doméstico durante apagones. Con niños, linterna y punto.",
+        "No desconectar los electrodomésticos: cuando vuelve la luz, la sobretensión puede freír la nevera, la caldera o el router.",
+        "Confiar en que el móvil tenga batería: en apagones la gente llama a la vez y las antenas aguantan poco. Modo avión y powerbank lleno.",
+        "Pagar con tarjeta y descubrir que el datáfono no funciona. El efectivo en billetes pequeños es el plan, no el detalle."
+      ],
+      "secciones_intro": {
+        "Luz": "Una luz por persona, y que no sean velas. Las lámparas con imán se cuelgan dentro de la nevera o del armario y cambian la vida.",
+        "Energía": "Mantener el móvil y la radio vivos 3-4 días. Powerbank grande, panel pequeño para recargarlo y cargador de dinamo como último recurso.",
+        "Cocina sin electricidad": "Poder hacer un café o calentar agua marca la diferencia moral de un apagón. Y exige hacerlo en sitio ventilado: el butano en interior cerrado mata.",
+        "Dinero y comunicación": "Efectivo, contactos en papel y una radio. Cuando todo es digital, lo analógico decide."
+      }
+    },
+    "coche": {
+      "paraQuien": "Para quien conduce, que somos casi todos. Además de lo legalmente obligatorio, es lo que necesitas si te quedas tirado en un puerto de montaña en enero, en un atasco de 6 horas en agosto o esperando a la grúa a las 3 de la mañana.",
+      "paraQuien_no": "No es un kit de taller: si esperas cambiar una rueda tú mismo o cargar una batería, necesitas además gato, llave y cables de arranque, y saber usarlos. Y no sustituye a la mochila que llevas dentro: el coche puede quedar donde tú no quieras estar.",
+      "coste_total": "60-120 € (sin contar la baliza V-16, que es obligatoria)",
+      "errores": [
+        "No comprobar la baliza V-16: caduca la conexión (suele durar unos 12 años desde fabricación) y hay modelos sin homologación de la DGT. Con triángulos ya no vale desde el 1/1/2026.",
+        "Tener el kit en el maletero y que el maletero esté lleno de cosas de la última mudanza. Un botiquín tapado no existe.",
+        "No revisar la rueda de repuesto ni el nivel de agua: un pinchazo a 30 km de la gasolinera más cercana es un problema de horas.",
+        "Confiar en el móvil con el 8% de batería y sin powerbank en el coche.",
+        "En nieve, salir sin cadenas ni saber ponérselas. Los calcetines textiles son un apaño legal en algunos sitios y un peligro en otros: aprende antes qué admite tu zona."
+      ],
+      "secciones_intro": {
+        "Obligatorio en España (DGT)": "Lo que te pueden exigir en una inspección o en un accidente. Desde el 1/1/2026 la baliza V-16 conectada es el único medio legal de señalización.",
+        "Emergencia y supervivencia": "Lo que necesitas si tienes que pasar la noche dentro del coche o caminar hasta una salida.",
+        "Energía y confort": "Agua, algo de calor y batería. En un puerto nevado o un atasco de verano es lo que sostiene el ánimo."
+      }
+    },
+    "hogar": {
+      "paraQuien": "Para quien quiere estar cubierto sin tener que salir de casa: cortes de agua, confinamientos, temporales que aíslan un barrio, o simplemente una semana en la que no te apetece ni puedes bajar a comprar. Es la reserva de despensa, no la mochila.",
+      "paraQuien_no": "No vale para evacuación: si tienes que salir en 15 minutos, esto se queda donde está. Prepara entonces la mochila de evacuación con lo esencial. Y si tienes mascota o bebé, la reserva tiene que incluir lo suyo desde el día uno, no cuando falte.",
+      "coste_total": "150-250 € (2 personas, 7-10 días)",
+      "errores": [
+        "Comprar cosas que nadie come en casa. Una despensa de emergencia se rota comiéndosela, y si no te gusta, no se rota.",
+        "No tener forma de cocinar sin electricidad: veinte latas y un hornillo apagado.",
+        "Olvidar el agua de uso: sin grifo no tiras de la cisterna. Llenar la bañera a tiempo es gratis.",
+        "Guardarlo todo junto en un solo armario: si se inunda o se estropea una estancia, pierdes la reserva entera.",
+        "No sumar la medicación crónica de la casa al plan: dos semanas de reserva de tratamiento es la diferencia entre aguantar y tener que salir."
+      ],
+      "secciones_intro": {
+        "Agua y comida": "La base de la despensa. Cantidad real para los días que quieras cubrir y rotación para que no caduque.",
+        "Higiene y limpieza": "Cuando el agua escasea, la higiene es lo primero que se degrada y lo segundo que te enferma.",
+        "Salud": "Termómetro, antiséptico, analgésicos generales y lo que recete tu médico. Sin farmacia abierta, el botiquín es la farmacia.",
+        "Moral": "Tres días sin luz con un niño en casa sin nada que hacer se hacen largos. La parte psicológica también se prepara."
+      }
+    },
+    "montana": {
+      "paraQuien": "Para quien sale a caminar, hacer barranquismo o esquiar de montaña. El 90% de los rescates en montaña en España son personas que se despistaron, se lesionaron o les pilló la noche. No hace falta ser experto: basta con ir un poco más lejos de lo previsto.",
+      "paraQuien_no": "No es un equipo de alta montaña: para glaciar, vía ferrata o pernocta en altura necesitas material técnico y formación. Y si vas a un paraje sin cobertura, este kit no te comunica: el teléfono no siempre funciona, y la solución de verdad es decir a alguien tu ruta y tu hora de vuelta.",
+      "coste_total": "70-140 € (buena parte ya lo tienes si corres o ciclas)",
+      "errores": [
+        "Salir con el ropa de ciudad y fiarse del tiempo de la app. En montaña la temperatura cae 10 grados de un barranco arriba y la niebla llega en 20 minutos.",
+        "Una sola linterna para el grupo, sin pilas de repuesto, en el fondo de la mochila.",
+        "No llevar abrigo extra «porque hago la ruta en dos horas»: la media hora de espera de un rescate en una canal se hace a cero grados.",
+        "Beber poco y llegar al final deshidratado y con un golpe de calor, sobre todo en primavera con sol y mochila.",
+        "Fiarse del móvil para orientarse. Se agota, se cae, se moja. Mapa y brújula, y saber usarlos antes de necesitarlos."
+      ],
+      "secciones_intro": {
+        "Orientación y comunicación": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa.",
+        "Refugio y abrigo": "Lo que evita la hipotermia si te ves obligado a parar y esperar horas.",
+        "Salud y reparación": "Trabillas, cortes, ampollas y material roto: la pequeña cirugía de la ruta."
+      }
+    },
+    "calor": {
+      "paraQuien": "Para hogares sin aire acondicionado o con cortes de luz en ola de calor, y para quien tenga en casa personas mayores, bebés o enfermos crónicos. España pasa semanas por encima de 40 grados y las olas de calor son el riesgo natural que más muertes deja, casi todas evitables.",
+      "paraQuien_no": "No es un kit de playa ni de senderismo: ahí lo importante es sombra, sombrero y agua. Y no sustituye a la prevención de verdad: si tu casa llega a 35 grados por la noche, el kit ayuda, pero el plan es ir a un sitio fresco.",
+      "coste_total": "30-70 € (la mayoría de cosas ya las tienes)",
+      "errores": [
+        "Beber mucha agua sola en días de mucho sudor, sin sales. La hiponatremia (poca sal) da mareo y confusión y se confunde con el propio golpe de calor.",
+        "Bajar la persiana tarde. Cuando la casa ya está a 33 grados, abrir ventanales de sur y oeste es meter el calor.",
+        "Dejar a nadie en el coche parado: en 15 minutos el interior sube más de 20 grados. Tampoco mascotas.",
+        "Confiar en el ventilador cuando pasas de 35 grados: mueve aire caliente y deshidrata. A partir de ahí hay que enfriar el cuerpo, no el aire.",
+        "Ignorar a la persona mayor que vive sola y dice que está bien. El golpe de calor en mayores da confusión, no sed: no piden ayuda."
+      ],
+      "secciones_intro": {
+        "Frescura": "Enfriar el cuerpo sin electricidad: toallas, ventiladores a pilas y pulverizador valen más de lo que parece.",
+        "Hidratación": "Agua más sales, y saber cuánta. Una botella isotérmica con hielo por la mañana te da agua fría por la noche.",
+        "Protección solar": "Gafas, sombrero y crema. Las quemaduras del día 2 de una ola de calor son las de haber salido 20 minutos 'a hacer un recado'."
+      }
+    },
+    "evacuacion": {
+      "paraQuien": "Para cuando te dicen «salga de su casa ahora» —un incendio, una explosión química, una inundación súbita— y vuelves dentro de 3 días, o dentro de un mes. Es lo único que te llevas en las manos, así que decide ahora qué va dentro, no cuando suena la alarma.",
+      "paraQuien_no": "No es la maleta de vacaciones ni el kit de larga estancia: está pensado para sobrevivir 72 horas fuera de casa, no para vivir una semana en un polideportivo. Y si tienes movilidad reducida, mascota grande o bebé, esta mochila hay que repartirla y probarla antes.",
+      "coste_total": "60-120 € (más lo que ya tienes)",
+      "errores": [
+        "Dejarla en el trastero o en el coche: si te evacuando de noche desde la cama, la mochila tiene que estar en el pasillo, colgada, con todo dentro.",
+        "Meter ropa para un mes. Pesas 12 kilos, te duelen los hombros a los 4 km y terminas dejando cosas por el camino. 30-40 L y menos de 8 kg.",
+        "No probarla: camina 5 kilómetros con ella un domingo. Es la única forma de saber qué te falta y qué te sobra.",
+        "No poner copia de llaves, documentos y una tarjeta de telefonía recargable que no dependa de tu línea.",
+        "Olvidar efectivo pequeño y un cargador: en los primeros días, la cola para recargar el móvil es la escena más repetida de cualquier desastre."
+      ],
+      "secciones_intro": {
+        "Documentación esencial": "Lo que no se repone en meses: DNI, escrituras, pólizas, cartillas médicas, en papel y en USB.",
+        "Supervivencia 24-72 h": "Agua, comida, abrigo y un lugar donde resguardarse mientras te reubican.",
+        "Utilidad": "Las cosas pequeñas que se echan de menos en las primeras horas: luz, botiquín de bolsillo, navaja, silbato, papel higiénico."
+      }
+    },
+    "autosuficiencia": {
+      "paraQuien": "Para quien quiere el paso siguiente: dejar de depender del carrito de la compra y entender de dónde viene lo que come. Empezar por un balcón con germinados es realista, barato y engancha. También es tu seguro alimentario: unos kilos de semillas bien guardados dan comida un año.",
+      "paraQuien_no": "No es un plan de autosuficiencia real para una familia sin más: para vivir de un huerto hacen falta suelo, agua, tiempo y dos o tres años de aprendizaje. Y si no tienes ni dónde poner un tiesto, monta primero el kit básico: es más urgente y más barato.",
+      "coste_total": "50-120 € para empezar bien (semillas, sustrato, bandejas, herramientas)",
+      "errores": [
+        "Empezar con 20 variedades y un huerto grande. Se abandona en seis semanas. Empieza por tres cosas que comas: tomate, lechuga, aromáticas.",
+        "Sembrar cuando toca según el calendario y no según tu clima: siembra cuando la temperatura de tu valle lo permita, no cuando lo diga la tabla.",
+        "Usar sustrato barato del chino o tierra del jardín en maceta: se apelmaza, no drena y matas la raíz.",
+        "No tener agua asegurada: en un huerto de balcón, un finde fuera sin riego es un huerto muerto.",
+        "Guardar semillas sin secar y sin fecha: a los dos años no germina nada. Frasco hermético, etiqueta, sitio fresco y oscuro."
+      ],
+      "secciones_intro": {
+        "Para empezar a sembrar": "Semillas, bandejas y sustrato. Con menos de 40 € tienes medio año de ensaladas y germinados.",
+        "Equipo y herramientas": "Tres piezas de calidad valen más que un maletín de quince que se rompe.",
+        "Subir de nivel": "Mini invernadero y lectura cuando ya has matado tu primer tomate y quieres entender por qué."
+      }
+    },
+    "kit30dias": {
+      "paraQuien": "Para quien ha cubierto las 72 horas y quiere dar el salto: una semana sin poder comprar, una comarca aislada por una DANA, un apagón largo o un episodio tipo confinamiento. Aquí ya no hay mochila, hay despensa y plan.",
+      "paraQuien_no": "No es el primer kit de nadie: si no tienes el de 72 horas montado, empieza por ahí —cubre el 95% de los escenarios reales y cuesta una fracción. Y con 30 días no tienes 30 días de autonomía médica ni de agua infinita: calcula cómo conseguir agua y cómo llegar a un médico antes de acumular comida.",
+      "coste_total": "300-500 € (2 personas, y mucho se amortiza comiéndolo)",
+      "errores": [
+        "Comprar 30 días de comida y no poder cocinarla: sin gas ni luz, el arroz crudo es decoración. Asegura medio de cocción y combustible primero.",
+        "No calcular el agua: 3 L por persona y día son 180 L para dos personas un mes. Es lo que se acaba antes y lo que más sitio ocupa.",
+        "No rotar. Una despensa que no se toca es basura dentro de tres años; una que se come en el día a día, no caduca nunca.",
+        "No contar el baño: sin agua, 96 rollos se quedan cortos y la hygiene se convierte en el problema sanitario de la casa.",
+        "Hacerlo todo de golpe y en el peor precio. Se monta en 4-6 meses añadiendo dos packs por compra, y así cuesta la mitad."
+      ],
+      "secciones_intro": {
+        "Agua (180 L para 2 personas / 30 días)": "El cuello de botella real del mes. Envases grandes con grifo, rotación y un plan para potabilizar.",
+        "Comida no perecedera (proteína y platos listos)": "Lo que sostiene: conservas y platos preparadas que se comen fríos y no piden cocina.",
+        "Base de despensa (carbohidrato y leche)": "Arroz, pasta, legumbre y leche en polvo. Baratos, calóricos y de años de vida útil.",
+        "Cocinar y calentar sin electricidad": "El medio de cocción es lo que convierte una despensa en comidas calientes. Siempre en espacio ventilado.",
+        "Higiene y salud": "Papel, jabón, botiquín completo y vitaminas. Lo que sostiene la salud y la moral durante semanas."
+      }
+    }
+  }
+}
