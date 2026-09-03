@@ -14,10 +14,20 @@
       {
         "nombre": "Protección Civil — Recomendaciones",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+      },
+      {
+        "nombre": "BOE — Cuatro Directrices Básicas de Planificación de Protección Civil (inundaciones, fenómenos meteorológicos adversos, incendios forestales y mercancías peligrosas), Acuerdo del Consejo de Ministros de 21/04/2026",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9160",
+        "fecha": "2026-04-27"
+      },
+      {
+        "nombre": "Protección Civil — Red de Alerta Nacional y alertas a móviles (ES-Alert)",
+        "url": "https://www.proteccioncivil.es/coordinacion/redes/ran/public-warning-system",
+        "fecha": "2026-09-03"
       }
     ],
-    "ultima_revision": "2026-09-02",
-    "nota_revision": "2026-09-02: enriquecimiento editorial — los 12 kits llevan para quién es (y para quién no), coste orientativo, errores típicos e intro por sección. Nuevos kits bebé y persona mayor. 159 productos, 159 con enlace."
+    "ultima_revision": "2026-09-03",
+    "nota_revision": "2026-09-03: vigilancia de fuentes — la Estrategia de Preparación de la UE (preparedness_es) sin cambios desde 23/05/2025 y las páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en sus listas. Novedad aplicada: las 4 nuevas Directrices Básicas de Protección Civil (Consejo de Ministros 21/04/2026, BOE 27/04/2026) refuerzan ES-Alert como aviso directo a móviles; añadido a las guías de kit básico, DANA y calor, y a meta.fuentes. La URL eu-resilience-and-security_es de la Comisión da 404 (no existe): la página oficial vigente sigue siendo commission.europa.eu/topics/preparedness_es."
   },
   "kits": [
     {
@@ -35,7 +45,8 @@
         "antes": [
           "Prepara el kit con toda la familia y guardadlo en lugar conocido y accesible",
           "Revisa caducidades (agua, comida, pilas, medicación) cada 6 meses",
-          "Anota teléfonos de emergencia en papel: 112, Protección Civil de tu municipio"
+          "Anota teléfonos de emergencia en papel: 112, Protección Civil de tu municipio",
+          "Activa las alertas de móvil en los ajustes de tu teléfono: el sistema ES-Alert (Red de Alerta Nacional) envía avisos directos a quienes están en la zona afectada. Las Directrices Básicas aprobadas en abril de 2026 lo incorporan a todos los planes de protección civil"
         ],
         "durante": [
           "Sigue solo instrucciones de fuentes oficiales (112, Protección Civil)",
@@ -229,7 +240,8 @@
         "antes": [
           "Ten a mano el kit básico 72h",
           "No dejes objetos sueltos en terrazas o jardines que puedan ser arrastrados",
-          "Si vives en zona inundable, prepara sacos de arena y sal del sótano"
+          "Si vives en zona inundable, prepara sacos de arena y sal del sótano",
+          "Con aviso naranja o rojo, ten el móvil con alertas activadas: la nueva Directriz Básica de inundaciones (BOE, 27/04/2026) consolida ES-Alert como canal directo de aviso a la población"
         ],
         "durante": [
           "No circules ni camines por zonas inundadas: 15 cm de agua arrastran a una persona",
@@ -897,7 +909,8 @@
         "antes": [
           "Cierra persianas y ventanas de sol durante el día",
           "Bebe agua aunque no tengas sed; evita alcohol y cafeína",
-          "Revisa vecinos mayores y personas vulnerables"
+          "Revisa vecinos mayores y personas vulnerables",
+          "Sigue los avisos de AEMET y las alertas ES-Alert en el móvil: la Directriz Básica de fenómenos meteorológicos adversos (BOE, 27/04/2026) los establece como canal principal de aviso. El Plan Nacional de actuaciones ante exceso de temperaturas está activo del 1 de junio al 15 de septiembre"
         ],
         "durante": [
           "Queda en la habitación más fresca de casa",
