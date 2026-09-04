@@ -1926,12 +1926,13 @@
             },
             {
               "producto": "Silbato de emergencia en el llavero/pulsera",
-              "afiliado": "https://www.amazon.es/s?k=silbato+de+emergencia+en+el+llavero+pulsera&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0HD6RLST6?tag=nti0c8-21",
               "descripcion": "Si no puede gritar o el móvil no funciona, el silbato se oye a través de paredes mucho más que la voz. Se enseña a usarlo antes.",
               "precio_aprox": "2-5 €",
               "prioridad": "recomendado",
               "busqueda": "silbato de emergencia en el llavero pulsera",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             }
           ]
         },
@@ -1941,12 +1942,13 @@
           "items": [
             {
               "producto": "Radio a pilas FM con volumen alto y dial grande",
-              "afiliado": "https://www.amazon.es/s?k=radio+a+pilas+fm+con+volumen+alto+y+dial+grande&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B06XWZ41RT?tag=nti0c8-21",
               "descripcion": "La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido.",
               "precio_aprox": "12-25 €",
               "prioridad": "esencial",
               "busqueda": "radio a pilas fm con volumen alto y dial grande",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             },
             {
               "producto": "Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)",
@@ -1983,39 +1985,43 @@
           "items": [
             {
               "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
-              "afiliado": "https://www.amazon.es/s?k=comida+blanda+lista&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0BHDMZMSW?tag=nti0c8-21",
               "descripcion": "Si tiene problemas de masticación, la lata de conserva no vale: purés y potitos de adulto en vaso, se comen solos.",
               "precio_aprox": "8-14 €",
               "prioridad": "esencial",
               "busqueda": "comida blanda lista",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             },
             {
               "producto": "Batidos proteicos/enriquecidos (pack 8-12)",
-              "afiliado": "https://www.amazon.es/s?k=batidos+proteicos+enriquecidos&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0HBWJBK6D?tag=nti0c8-21",
               "descripcion": "Calorías y proteína sin cocinar ni masticar. En 3 días de crisis es lo que mantiene el peso de un mayor.",
               "precio_aprox": "10-18 €",
               "prioridad": "recomendado",
               "busqueda": "batidos proteicos enriquecidos",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             },
             {
               "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)",
-              "afiliado": "https://www.amazon.es/s?k=espesantes+para+l%C3%ADquidos&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0150HY1PW?tag=nti0c8-21",
               "descripcion": "Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional.",
               "precio_aprox": "8-16 €",
               "prioridad": "extra",
               "busqueda": "espesantes para líquidos",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             },
             {
               "producto": "Botella con asa y boquilla fácil + vaso con tapa",
-              "afiliado": "https://www.amazon.es/s?k=botella+con+asa+y+boquilla+f%C3%A1cil+%2B+vaso+con+tapa&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0B9C9B8JT?tag=nti0c8-21",
               "descripcion": "Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil.",
               "precio_aprox": "8-16 €",
               "prioridad": "esencial",
               "busqueda": "botella con asa y boquilla fácil + vaso con tapa",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-03"
             }
           ]
         }
