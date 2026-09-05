@@ -50,7 +50,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-03",
+    "fecha": "2026-09-04",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
@@ -58,7 +58,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-03",
+    "fecha": "2026-09-04",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
@@ -66,7 +66,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
     "rango_esperado": "5-15 €",
-    "fecha": "2026-09-03",
+    "fecha": "2026-09-04",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Comida blanda lista (purés, potitos de adulto, cremas en tarrina)": {
@@ -132,5 +132,77 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=botella+con+asa+y+boquilla+f%C3%A1cil+%2B+vaso+con+tapa&tag=nti0c8-21"
+  },
+  "kit-mayores|Bastón plegable / andador de repuesto con luz": {
+    "kit": "kit-mayores",
+    "seccion": "Sentidos y ayudas técnicas",
+    "busqueda": "bastón plegable andador de repuesto con luz",
+    "rango_esperado": "15-35 €",
+    "fecha": "2026-09-04",
+    "asin": "B0DB8GRTPL",
+    "titulo": "Bastón Plegable con Luz LED, Bastones para Mayores, Bastones Plegables para Hombres y Mujeres con Base Antideslizante, A",
+    "precio": 18.99,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0DB8GRTPL?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=bast%C3%B3n+plegable+andador+de+repuesto+con+luz&tag=nti0c8-21"
+  },
+  "kit-mayores|Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)": {
+    "kit": "kit-mayores",
+    "seccion": "Sentidos y ayudas técnicas",
+    "busqueda": "imán o bolsa de seguridad para marcapasos",
+    "rango_esperado": "0 €",
+    "fecha": "2026-09-04",
+    "estado": "sin candidato verificado"
+  },
+  "kit-mayores|Balizas LED de noche con sensor (pack 2-3)": {
+    "kit": "kit-mayores",
+    "seccion": "Caídas, noche y seguridad en casa",
+    "busqueda": "balizas led de noche con sensor",
+    "rango_esperado": "10-20 €",
+    "fecha": "2026-09-04",
+    "asin": "B0G2LY256T",
+    "titulo": "HOTUT Luces con sensor de movimiento para interiores, 2 Piezas Luz Nocturna Infantil USB-C LED Recargable (automático/en",
+    "precio": 8.99,
+    "rating": 4.4,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0G2LY256T?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=balizas+led+de+noche+con+sensor&tag=nti0c8-21"
+  },
+  "kit-mayores|Linterna de cabecera con cordón/manillla grande": {
+    "kit": "kit-mayores",
+    "seccion": "Caídas, noche y seguridad en casa",
+    "busqueda": "linterna de cabecera con cordón manillla grande",
+    "rango_esperado": "8-15 €",
+    "fecha": "2026-09-04",
+    "asin": "B0FB3WSWJ1",
+    "titulo": "Lámpara de Lectura con Pinza, 61 LED Luz Recargable para Cama Escritorio | 3 Modos y 10 Niveles de Brillo, Puerto USB-C,",
+    "precio": 17.99,
+    "rating": 4.3,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=linterna+de+cabecera+con+cord%C3%B3n+manillla+grande&tag=nti0c8-21"
+  },
+  "kit-mayores|Alfombrilla antideslizante de baño y tirante de apoyo": {
+    "kit": "kit-mayores",
+    "seccion": "Caídas, noche y seguridad en casa",
+    "busqueda": "alfombrilla antideslizante de baño y tirante de apoyo",
+    "rango_esperado": "12-25 €",
+    "fecha": "2026-09-04",
+    "asin": "B0GQXYX9M2",
+    "titulo": "JOYBOY Alfombrilla Ducha Antideslizante 2pcs 70x40cm, Ventosas TPE | Orificios de Drenaje, con Guante de Baño — Color Az",
+    "precio": 11.99,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0GQXYX9M2?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=alfombrilla+antideslizante+de+ba%C3%B1o+y+tirante+de+apoyo&tag=nti0c8-21"
   }
 }

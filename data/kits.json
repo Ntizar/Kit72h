@@ -1875,12 +1875,13 @@
             },
             {
               "producto": "Bastón plegable / andador de repuesto con luz",
-              "afiliado": "https://www.amazon.es/s?k=bast%C3%B3n+plegable+andador+de+repuesto+con+luz&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DB8GRTPL?tag=nti0c8-21",
               "descripcion": "El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada.",
               "precio_aprox": "15-35 €",
               "prioridad": "recomendado",
               "busqueda": "bastón plegable andador de repuesto con luz",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-04"
             },
             {
               "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
@@ -1899,30 +1900,33 @@
           "items": [
             {
               "producto": "Balizas LED de noche con sensor (pack 2-3)",
-              "afiliado": "https://www.amazon.es/s?k=balizas+led+de+noche+con+sensor&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G2LY256T?tag=nti0c8-21",
               "descripcion": "Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable.",
               "precio_aprox": "10-20 €",
               "prioridad": "esencial",
               "busqueda": "balizas led de noche con sensor",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-04"
             },
             {
               "producto": "Linterna de cabecera con cordón/manillla grande",
-              "afiliado": "https://www.amazon.es/s?k=linterna+de+cabecera+con+cord%C3%B3n+manillla+grande&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=nti0c8-21",
               "descripcion": "De las gordas y fáciles, no la pequeña del cajón: con manos torpes o en la oscuridad, que se encuentre y se encienda sola.",
               "precio_aprox": "8-15 €",
               "prioridad": "esencial",
               "busqueda": "linterna de cabecera con cordón manillla grande",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-04"
             },
             {
               "producto": "Alfombrilla antideslizante de baño y tirante de apoyo",
-              "afiliado": "https://www.amazon.es/s?k=alfombrilla+antideslizante+de+ba%C3%B1o+y+tirante+de+apoyo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GQXYX9M2?tag=nti0c8-21",
               "descripcion": "Sin agua caliente y con cubos de por medio, el baño se vuelve pista de patinaje. 20 € y una tarde de bricolaje.",
               "precio_aprox": "12-25 €",
               "prioridad": "recomendado",
               "busqueda": "alfombrilla antideslizante de baño y tirante de apoyo",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-04"
             },
             {
               "producto": "Silbato de emergencia en el llavero/pulsera",
