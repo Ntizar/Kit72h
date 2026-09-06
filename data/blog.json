@@ -3,11 +3,57 @@
     "sitio": "Kit72h — Blog de preparación",
     "descripcion": "Guías prácticas de preparación ante emergencias basadas en fuentes oficiales (UE, Protección Civil, DGT, OMS).",
     "reglas_editoriales": "Toda entrada se basa en fuentes oficiales citadas con enlace y fecha. No se inventan datos ni se recomienda medicación concreta: se remite a Protección Civil, AEMPS o al médico. Se añade o corrige, nunca se borra contenido existente sin dejar nota. Cada entrada enlaza con los kits que la completan y con al menos dos fuentes oficiales.",
-    "actualizado": "2026-08-31",
-    "total": 23,
-    "ultima_revision": "2026-09-02"
+    "actualizado": "2026-09-06",
+    "total": 24,
+    "ultima_revision": "2026-09-06"
   },
   "entradas": [
+    {
+      "slug": "radiocomunicacion-pmr446-walkie-talkies",
+      "titulo": "Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia",
+      "fecha": "2026-09-06",
+      "lectura": "7 min",
+      "resumen": "Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.",
+      "autor": "David Antizar",
+      "fuente": [
+        {
+          "nombre": "Protección Civil — Red Nacional de Radio de Emergencia (REMER)",
+          "url": "https://www.proteccioncivil.es/coordinacion/redes/remer"
+        },
+        {
+          "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
+          "url": "https://commission.europa.eu/topics/preparedness_es"
+        },
+        {
+          "nombre": "CEPT/ERC — Decisión (98)25 sobre PMR446",
+          "url": "https://www.cept.org"
+        },
+        {
+          "nombre": "Dirección General de Protección Civil — Equipos de comunicaciones (documento oficial)",
+          "url": "https://www.proteccioncivil.es/catalogo/carpeta02/fgaen/PDF/Unidad%20Did%C3%A1ctica%20Equipos%20de%20Comunicaciones.%20%20Manejo%20y%20Funcionamiento.pdf"
+        },
+        {
+          "nombre": "Ministerio para la Transformación Digital — Frecuencias PMR para emergencias autonómicas (29/07/2026)",
+          "url": "https://digital.gob.es/comunicacion/notas-prensa/mtdfp/2026/07/el-gobierno-facilita-las-comunicaciones-por-radio-de-los-servici"
+        },
+        {
+          "nombre": "El País — El Gobierno libera frecuencias de radio de uso nacional para emergencias autonómicas (29/07/2026)",
+          "url": "https://elpais.com/economia/2026-07-29/el-gobierno-libera-frecuencias-de-radio-de-uso-nacional-para-emergencias-autonomicas-sin-tramite-previo.html"
+        }
+      ],
+      "cuerpo": "<p>El 28 de abril de 2025 demostró lo que las guías de preparación llevan años repitiendo: cuando todas las redes móviles colapsan a la vez, quedas mudo. WhatsApp no funciona, las llamadas no se cortan — simplemente no existen. Y en una DANA, las antenas pueden quedarse sin electricidad durante días. Aquí es donde entra la radiocomunicación PMR446, y por qué cada vez más familias la incluyen en su kit de emergencia.</p><h2>¿Qué es PMR446?</h2><p>PMR446 (Personal Mobile Radio 446) es un servicio de radiocomunicación de uso personal que opera en la banda UHF de 446 MHz (concretamente 446,0 a 446,2 MHz). Está regulado a nivel europeo por la CEPT (Conferencia Europea de Administraciones de Correos y Telecomunicaciones) desde 1998 y es <strong>totalmente legal en España sin necesidad de licencia</strong>. No hay que tramitar nada, no hay que pagar cuota, no hay que examinarse. Cualquier persona puede comprar un equipo PMR446 y usarlo.</p><p>Las reglas son simples:</p><ul><li><strong>Potencia máxima: 0,5 vatios</strong> (500 mW) — suficiente para 2-5 km en ciudad y hasta 10 km en campo abierto.</li><li><strong>Antena fija e integrada</strong> — no se permite cambiar la antena por una más grande (eso sí que requeriría licencia).</li><li><strong>16 canales</strong> en la banda estándar — numerados del 1 al 16, más 8 canales adicionales si el equipo soporta el estándar digital (ECC Decision 05/12).</li><li><strong>Timeout de 180 segundos</strong> por transmisión — evita que alguien bloquee el canal sin darse cuenta.</li></ul><p>La clave es que <strong>no depende de ninguna infraestructura</strong>: no hay antenas, no hay operadora, no hay cobertura. Los equipos se comunican directamente entre sí (modo simplex). Si tú y tu vecino tenéis walkies PMR446, os escucháis aunque se caiga toda la red.</p><h2>¿Por qué es relevante para una emergencia?</h2><p>La radiocomunicación PMR446 es el único medio de comunicación entre personas que <strong>no requiere infraestructura alguna</strong>. No depende de antenas (como el móvil), no depende de internet (como WhatsApp), no depende de electricidad (si funcionan a pilas o batería). Eso la convierte en el eslabón que falta entre la radio FM de escucha (que solo recibe) y el móvil (que necesita red).</p><p>Protección Civil ya lo sabe: la Red Nacional de Radio de Emergencia (REMER) se basa en radioaficionados con equipos de radio desde la década de 1960, y el Ministerio del Interior ha publicado material específico sobre el manejo de equipos de comunicaciones de emergencia. En julio de 2026, el Gobierno ha ido aún más lejos: ha habilitado frecuencias PMR adicionales para emergencias autonómicas, autorizando de oficio su uso sin trámite previo cuando los equipos de protección civil se desplazan entre comunidades. La radiocomunicación no es un hobby: es infraestructura crítica.</p><h2>Qué comprar: tres niveles honestos</h2><p>No necesitas gastarte 500 € en radios de bombero. Un par de PMR446 básicos cumple para coordinarse en familia. Aquí van opciones reales, ordenadas por presupuesto:</p><table><thead><tr><th>Uso</th><th>Modelo</th><th>Precio aprox.</th><th>Por qué</th></tr></thead><tbody><tr><td>Kit de emergencia (1 par)</td><td>Baofeng BF-33C o Retevis RT3</td><td>15-25 € el par</td><td>PMR446 legal, USB-C, 16 canales, VOX. Para el kit, no hace falta más.</td></tr><tr><td>Familia (4-6 unidades)</td><td>Motorola Talkabout T62</td><td>40-60 € pack de 4</td><td>Marca fiable, pantalla, alcance real de 3 km en ciudad. El pack de 4 cubre a la familia entera.</td></tr><tr><td>Outdoor / DANA</td><td>Motorola Talkabout T92 H2O</td><td>20-30 € unidad</td><td>Resistente al agua IPX4, resistente a impactos. Si la DANA te sorprende fuera, aguanta la lluvia.</td></tr><tr><td>Profesional sin licencia</td><td>Kenwood TK-3701D (dPMR446)</td><td>80-120 € unidad</td><td>Digital + analógico, cifrado, resistente. Para quien quiere dar el salto a calidad profesional sin licencia.</td></tr></tbody></table><p><strong>Consejo de oro:</strong> compra un número impar de walkies (3, 5, 7) para que nadie se quede sin interlocutor. Y etiqueta cada uno con el nombre de su usuario: en el caos, saber de quién es cada aparato ahorra segundos que valen.</p><h2>Canales y subtonos: la configuración para emergencias</h2><p>Los PMR446 tienen 16 canales principales (algunos modelos tienen 32 con el estándar digital). Cada canal puede configurarse con un subtono CTCSS (código de privacidad) para filtrar interferencias. Para emergencias, la configuración recomendada es:</p><ul><li><strong>Canal 7, subtono 7</strong>: es el canal de uso común en PMR446 para emergencias. Cualquier persona en esta frecuencia puede intentar establecer contacto sin saturar otros canales. Úsalo para la llamada de emergencia y para el punto de encuentro.</li><li><strong>Canal 1, subtono 1</strong>: canal de comunicación familiar o de grupo. Si tu familia tiene 4 walkies, asignadle el canal 1 con subtono 1 para que no os mezcleis con otros usuarios.</li><li><strong>Canal 16, sin subtono</strong>: canal abierto para escuchar. Útil para monitorizar si alguien habla antes de transmitir.</li></ul><p>Y aquí va la regla de comunicación más importante: <strong>siempre verifica que no habla nadie antes de abrir el botón</strong>. Las transmisiones simultáneas producen un chirrido ininteligible y bloquean el canal. Si no te entienden, repite. Si hay ruido, espera 10 segundos y vuelve a intentar.</p><h2>Alcance real: lo que dice la caja vs. lo que pasa</h2><p>En la caja ponen \"10 km\" o \"20 km\". Eso es en línea de vista perfecta, en el mar, sin nada entre los dos equipos. En la realidad:</p><ul><li><strong>En ciudad (edificios, calles estrechas)</strong>: 0,5-2 km. Los muros de hormigón atenúan mucho la señal.</li><li><strong>En barrio abierto o urbanización</strong>: 2-4 km.</li><li><strong>En campo abierto</strong>: 5-10 km.</li><li><strong>En montaña (cima a cima)</strong>: hasta 15-20 km.</li></ul><p>La regla práctica: <strong>la altura lo es todo</strong>. Si estás en un piso alto y tu vecino en otro, os escucháis a 3 km. Si ambos estáis en el valle, a 500 metros ya cuesta. Para mejorar: sube a la terraza o al balcón más alto, y apunta el walkie en vertical (la antena es omnidireccional pero funciona mejor vertical).</p><h2>Errores típicos</h2><ul><li><strong>Comprar walkies que no son PMR446</strong>: muchos walkies baratos en Amazon operan en bandas FM o CB que requieren licencia. Busca explícitamente \"PMR446\" en la descripción. Si no lo pone, no lo compres.</li><li><strong>Dejar las pilas gastadas</strong>: revisa las baterías cada 6 meses (el mismo recordatorio que el agua del kit). Si son recargables, déjalas cargadas con un powerbank o cargador solar.</li><li><strong>No practicar</strong>: un walkie que nunca se usa es un ladrillo caro. Prueba una vez al mes con un vecino o familiar. Verás si funciona, aprenderás a usarlo y sabrás dónde se queda sin cobertura en tu zona.</li><li><strong>Escuchar lo que no es</strong>: en el canal abierto (canal 16 sin subtono) escucharás conversaciones ajenas. No intervengas, no repitas lo que oigas. Es tu derecho escuchar, pero no tu derecho transmitir en frecuencia que no es tuya.</li><li><strong>Confundir PMR446 con radioafición</strong>: la radioafición requiere examen y licencia (HF/VHF/UHF, potencias de 10-100 W, alcance regional/nacional). El PMR446 no: es plug-and-play, sin examen. Son cosas distintas.</li></ul><h2>Integración con tu kit de emergencia</h2><p>Los walkies PMR446 complementan perfectamente lo que ya tienes en el kit básico:</p><ul><li><strong>Radio FM</strong> (escucha) + <strong>PMR446</strong> (habla) = cobertura completa de información bidireccional.</li><li><strong>Pilas de repuesto</strong> para el walkie en la misma bolsa que las de la radio y el frontal.</li><li><strong>Powerbank</strong> para cargar los walkies recargables: un powerbank de 10.000 mAh carga un walkie PMR446 unas 10 veces.</li><li><strong>Etiquetas con nombre</strong>: pega una etiqueta adhesiva con el nombre de cada usuario en cada walkie. En una evacuación nocturna, saber de quién es cada aparato es un detalle que evita confusiones.</li></ul><h2>La radio como hábito, no como compra</h2><p>Un walkie PMR446 comprado y guardado en el armario no sirve de nada. Lo que funciona es el <strong>hábito de usarlo</strong>: prueba uno con tu pareja, con un vecino, con el grupo de senderismo. Verás que se quedan cortos en ciudad, que en montaña son otra cosa, y que el canal 7 con subtono 7 es el que te salvará si todo lo demás falla. Es un complemento barato (15-40 € el par) y legal que, en el momento justo, es el único medio que tienes para decir \"estoy bien\" a quien más importa.</p>",
+      "kits_relacionados": [
+        "kit-basico-72h",
+        "kit-apagon",
+        "kit-evacuacion"
+      ],
+      "etiquetas": [
+        "comunicación",
+        "equipamiento",
+        "preparacion",
+        "escenarios"
+      ]
+    },
     {
       "slug": "volver-a-casa-tras-inundacion",
       "titulo": "Volver a casa después de una inundación: seguridad, lodo, humedad y seguros",
