@@ -26,8 +26,8 @@
         "fecha": "2026-09-03"
       }
     ],
-    "ultima_revision": "2026-09-05",
-    "nota_revision": "2026-09-05: tercera vigilancia — las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 y mantienen las mismas listas y medidas de autoprotección; preparedness_es de la Comisión sin cambios (la URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es). Sin novedades oficiales que aplicar: la página DGT de dispositivos V-16, actualizada el 03/08/2026, confirma que la baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (la enmienda parlamentaria para recuperar los triángulos no está aprobada), y no hay nuevos riesgos oficiales añadidos ni listas modificadas. 2026-09-04: segunda vigilancia — sin cambios en las 4 fuentes oficiales (preparedness_es de la Comisión, recomendaciones, lluvias intensas y altas temperaturas de Protección Civil): mismas listas y mismos requisitos. La baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (ya reflejada en kit-coche). Sin nuevos riesgos oficiales añadidos. 2026-09-03: vigilancia de fuentes — la Estrategia de Preparación de la UE (preparedness_es) sin cambios desde 23/05/2025 y las páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en sus listas. Novedad aplicada: las 4 nuevas Directrices Básicas de Protección Civil (Consejo de Ministros 21/04/2026, BOE 27/04/2026) refuerzan ES-Alert como aviso directo a móviles; añadido a las guías de kit básico, DANA y calor, y a meta.fuentes. La URL eu-resilience-and-security_es de la Comisión da 404 (no existe): la página oficial vigente sigue siendo commission.europa.eu/topics/preparedness_es."
+    "ultima_revision": "2026-09-06",
+    "nota_revision": "2026-09-06: cuarta vigilancia — sin cambios en las fuentes oficiales: las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 con las mismas listas y medidas de autoprotección; preparedness_es de la Comisión mantiene la Estrategia de Preparación de la Unión (marzo 2025) sin modificaciones. La URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es (ya reflejada en meta.fuentes). Sin novedades normativas: la página de la DGT sobre dispositivos de preseñalización V-16 confirma que la baliza conectada sigue siendo el único medio legal de señalización desde el 1/1/2026, y no hay nuevos riesgos oficiales añadidos. En este commit se integran además las 8 fichas Amazon verificadas por el cron buscador en kit-bebe (verificado_ficha 2026-09-05). 2026-09-05: tercera vigilancia — las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 y mantienen las mismas listas y medidas de autoprotección; preparedness_es de la Comisión sin cambios (la URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es). Sin novedades oficiales que aplicar: la página DGT de dispositivos V-16, actualizada el 03/08/2026, confirma que la baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (la enmienda parlamentaria para recuperar los triángulos no está aprobada), y no hay nuevos riesgos oficiales añadidos ni listas modificadas. 2026-09-04: segunda vigilancia — sin cambios en las 4 fuentes oficiales (preparedness_es de la Comisión, recomendaciones, lluvias intensas y altas temperaturas de Protección Civil): mismas listas y mismos requisitos. La baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (ya reflejada en kit-coche). Sin nuevos riesgos oficiales añadidos. 2026-09-03: vigilancia de fuentes — la Estrategia de Preparación de la UE (preparedness_es) sin cambios desde 23/05/2025 y las páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en sus listas. Novedad aplicada: las 4 nuevas Directrices Básicas de Protección Civil (Consejo de Ministros 21/04/2026, BOE 27/04/2026) refuerzan ES-Alert como aviso directo a móviles; añadido a las guías de kit básico, DANA y calor, y a meta.fuentes. La URL eu-resilience-and-security_es de la Comisión da 404 (no existe): la página oficial vigente sigue siendo commission.europa.eu/topics/preparedness_es."
   },
   "kits": [
     {
@@ -1628,39 +1628,43 @@
           "items": [
             {
               "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
-              "afiliado": "https://www.amazon.es/s?k=saco+pijama+de+una+pieza+de+abrigo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0H37438Y1?tag=nti0c8-21",
               "descripcion": "Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo.",
               "precio_aprox": "12-22 €",
               "prioridad": "esencial",
               "busqueda": "saco pijama de una pieza de abrigo",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)",
-              "afiliado": "https://www.amazon.es/s?k=manta+t%C3%A9rmica+de+emergencia+infantil&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B004GENVLG?tag=nti0c8-21",
               "descripcion": "La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo.",
               "precio_aprox": "2-6 €",
               "prioridad": "esencial",
               "busqueda": "manta térmica de emergencia infantil",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Gorro y manoplas de bebé",
-              "afiliado": "https://www.amazon.es/s?k=gorro+y+manoplas+de+beb%C3%A9&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FNCWC3SM?tag=nti0c8-21",
               "descripcion": "Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro.",
               "precio_aprox": "5-10 €",
               "prioridad": "recomendado",
               "busqueda": "gorro y manoplas de bebé",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
-              "afiliado": "https://www.amazon.es/s?k=portabeb%C3%A9s+ergon%C3%B3mico&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G3PXJRXB?tag=nti0c8-21",
               "descripcion": "Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera.",
               "precio_aprox": "25-50 €",
               "prioridad": "recomendado",
               "busqueda": "portabebés ergonómico",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             }
           ]
         },
@@ -1670,21 +1674,23 @@
           "items": [
             {
               "producto": "Termómetro digital de bebé",
-              "afiliado": "https://www.amazon.es/s?k=term%C3%B3metro+digital+de+beb%C3%A9&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FKT561SK?tag=nti0c8-21",
               "descripcion": "El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda.",
               "precio_aprox": "6-12 €",
               "prioridad": "esencial",
               "busqueda": "termómetro digital de bebé",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
-              "afiliado": "https://www.amazon.es/s?k=suero+de+rehidrataci%C3%B3n+oral+y+jeringuilla+dosificadora&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F5X5TN4T?tag=nti0c8-21",
               "descripcion": "Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet.",
               "precio_aprox": "6-10 €",
               "prioridad": "esencial",
               "busqueda": "suero de rehidratación oral y jeringuilla dosificadora",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Aspirador nasal + suero fisiológico en monodosis",
@@ -1706,12 +1712,13 @@
             },
             {
               "producto": "Mantas/empapadores de tela de confianza",
-              "afiliado": "https://www.amazon.es/s?k=mantas+empapadores+de+tela+de+confianza&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GSZS62HD?tag=nti0c8-21",
               "descripcion": "Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit.",
               "precio_aprox": "8-15 €",
               "prioridad": "extra",
               "busqueda": "mantas empapadores de tela de confianza",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             }
           ]
         },
@@ -1721,21 +1728,23 @@
           "items": [
             {
               "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
-              "afiliado": "https://www.amazon.es/s?k=funda+estanca+con+libro+de+salud%2C+cartilla+de+vacunaci%C3%B3n+y+d&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09MJ9QV7W?tag=nti0c8-21",
               "descripcion": "Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.",
               "precio_aprox": "5-10 €",
               "prioridad": "esencial",
               "busqueda": "funda estanca con libro de salud, cartilla de vacunación y d",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
-              "afiliado": "https://www.amazon.es/s?k=tarjeta+de+identificaci%C3%B3n+del+menor&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CY8G31G4?tag=nti0c8-21",
               "descripcion": "Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica.",
               "precio_aprox": "0-5 €",
               "prioridad": "esencial",
               "busqueda": "tarjeta de identificación del menor",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-05"
             },
             {
               "producto": "Fotos recientes del bebé y de la familia en papel",
