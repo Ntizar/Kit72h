@@ -26,8 +26,8 @@
         "fecha": "2026-09-03"
       }
     ],
-    "ultima_revision": "2026-09-06",
-    "nota_revision": "2026-09-06: cuarta vigilancia — sin cambios en las fuentes oficiales: las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 con las mismas listas y medidas de autoprotección; preparedness_es de la Comisión mantiene la Estrategia de Preparación de la Unión (marzo 2025) sin modificaciones. La URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es (ya reflejada en meta.fuentes). Sin novedades normativas: la página de la DGT sobre dispositivos de preseñalización V-16 confirma que la baliza conectada sigue siendo el único medio legal de señalización desde el 1/1/2026, y no hay nuevos riesgos oficiales añadidos. En este commit se integran además las 8 fichas Amazon verificadas por el cron buscador en kit-bebe (verificado_ficha 2026-09-05). 2026-09-05: tercera vigilancia — las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 y mantienen las mismas listas y medidas de autoprotección; preparedness_es de la Comisión sin cambios (la URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es). Sin novedades oficiales que aplicar: la página DGT de dispositivos V-16, actualizada el 03/08/2026, confirma que la baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (la enmienda parlamentaria para recuperar los triángulos no está aprobada), y no hay nuevos riesgos oficiales añadidos ni listas modificadas. 2026-09-04: segunda vigilancia — sin cambios en las 4 fuentes oficiales (preparedness_es de la Comisión, recomendaciones, lluvias intensas y altas temperaturas de Protección Civil): mismas listas y mismos requisitos. La baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (ya reflejada en kit-coche). Sin nuevos riesgos oficiales añadidos. 2026-09-03: vigilancia de fuentes — la Estrategia de Preparación de la UE (preparedness_es) sin cambios desde 23/05/2025 y las páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en sus listas. Novedad aplicada: las 4 nuevas Directrices Básicas de Protección Civil (Consejo de Ministros 21/04/2026, BOE 27/04/2026) refuerzan ES-Alert como aviso directo a móviles; añadido a las guías de kit básico, DANA y calor, y a meta.fuentes. La URL eu-resilience-and-security_es de la Comisión da 404 (no existe): la página oficial vigente sigue siendo commission.europa.eu/topics/preparedness_es."
+    "ultima_revision": "2026-09-07",
+    "nota_revision": "2026-09-07: quinta vigilancia — sin cambios en las fuentes oficiales. proteccioncivil.es (recomendaciones, lluvias intensas, altas temperaturas) responde 200 con la misma clasificación de riesgos (FMA: tormentas, vientos, altas temperaturas, lluvias, nevadas, costeros; naturales; antrópicos; otros) y las mismas definiciones (lluvias fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60; umbrales AEMET sin cambios). preparedness_es de la Comisión mantiene la Estrategia de Preparación de la Unión (marzo 2025) sin modificaciones; la URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es (ya reflejada en meta.fuentes). Sin novedades normativas que aplicar: la baliza V-16 conectada homologada sigue siendo el único medio legal desde el 1/1/2026 (página DGT 200, multa 200 €; los movimientos sobre un real decreto de conectividad son informativos, sin cambios aprobados que modifiquen el kit). No hay nuevos riesgos oficiales añadidos ni listas modificadas. En este commit se integran además las fichas Amazon verificadas por el cron buscador en kit-bebé y kit-mayores (verificado_ficha 2026-09-06) y se excluye videos/ del repo (gasta cookies de sesión). 2026-09-06: cuarta vigilancia — sin cambios en las fuentes oficiales: las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 con las mismas listas y medidas de autoprotección; preparedness_es de la Comisión mantiene la Estrategia de Preparación de la Unión (marzo 2025) sin modificaciones. La URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es (ya reflejada en meta.fuentes). Sin novedades normativas: la página de la DGT sobre dispositivos de preseñalización V-16 confirma que la baliza conectada sigue siendo el único medio legal de señalización desde el 1/1/2026, y no hay nuevos riesgos oficiales añadidos. En este commit se integran además las 8 fichas Amazon verificadas por el cron buscador en kit-bebe (verificado_ficha 2026-09-05). 2026-09-05: tercera vigilancia — las 3 páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) responden 200 y mantienen las mismas listas y medidas de autoprotección; preparedness_es de la Comisión sin cambios (la URL eu-resilience-and-security_es sigue dando 404, la vigente es preparedness_es). Sin novedades oficiales que aplicar: la página DGT de dispositivos V-16, actualizada el 03/08/2026, confirma que la baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (la enmienda parlamentaria para recuperar los triángulos no está aprobada), y no hay nuevos riesgos oficiales añadidos ni listas modificadas. 2026-09-04: segunda vigilancia — sin cambios en las 4 fuentes oficiales (preparedness_es de la Comisión, recomendaciones, lluvias intensas y altas temperaturas de Protección Civil): mismas listas y mismos requisitos. La baliza V-16 conectada sigue siendo el único medio legal de señalización desde el 1/1/2026 (ya reflejada en kit-coche). Sin nuevos riesgos oficiales añadidos. 2026-09-03: vigilancia de fuentes — la Estrategia de Preparación de la UE (preparedness_es) sin cambios desde 23/05/2025 y las páginas de Protección Civil (recomendaciones, lluvias intensas, altas temperaturas) sin cambios en sus listas. Novedad aplicada: las 4 nuevas Directrices Básicas de Protección Civil (Consejo de Ministros 21/04/2026, BOE 27/04/2026) refuerzan ES-Alert como aviso directo a móviles; añadido a las guías de kit básico, DANA y calor, y a meta.fuentes. La URL eu-resilience-and-security_es de la Comisión da 404 (no existe): la página oficial vigente sigue siendo commission.europa.eu/topics/preparedness_es."
   },
   "kits": [
     {
@@ -1703,12 +1703,13 @@
             },
             {
               "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
-              "afiliado": "https://www.amazon.es/s?k=juguetes+peque%C3%B1os+favoritos&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DCC4KNZN?tag=nti0c8-21",
               "descripcion": "Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé.",
               "precio_aprox": "0-10 €",
               "prioridad": "recomendado",
               "busqueda": "juguetes pequeños favoritos",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Mantas/empapadores de tela de confianza",
@@ -1806,48 +1807,53 @@
           "items": [
             {
               "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas",
-              "afiliado": "https://www.amazon.es/s?k=organizador+de+pastillas+semanal+con+copia+de+pautas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F31WSL3G?tag=nti0c8-21",
               "descripcion": "Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores.",
               "precio_aprox": "6-14 €",
               "prioridad": "esencial",
               "busqueda": "organizador de pastillas semanal con copia de pautas",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Ficha médico-identificativa plastificada",
-              "afiliado": "https://www.amazon.es/s?k=ficha+m%C3%A9dico-identificativa+plastificada&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DNZ8DG6H?tag=nti0c8-21",
               "descripcion": "Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera.",
               "precio_aprox": "0-5 €",
               "prioridad": "esencial",
               "busqueda": "ficha médico-identificativa plastificada",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
-              "afiliado": "https://www.amazon.es/s?k=nevera+port%C3%A1til+peque%C3%B1a+con+paquetes+fr%C3%ADos+reutilizables&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B08QD2ZXFT?tag=nti0c8-21",
               "descripcion": "Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita.",
               "precio_aprox": "12-25 €",
               "prioridad": "esencial",
               "busqueda": "nevera portátil pequeña con paquetes fríos reutilizables",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Termómetro de nevera (mínimo/máximo)",
-              "afiliado": "https://www.amazon.es/s?k=term%C3%B3metro+de+nevera&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DNMRNRF2?tag=nti0c8-21",
               "descripcion": "2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón.",
               "precio_aprox": "4-8 €",
               "prioridad": "recomendado",
               "busqueda": "termómetro de nevera",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Pastilla potabilizadora y vaso medidor para medicación",
-              "afiliado": "https://www.amazon.es/s?k=pastilla+potabilizadora+y+vaso+medidor+para+medicaci%C3%B3n&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F99LGY3V?tag=nti0c8-21",
               "descripcion": "Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2.",
               "precio_aprox": "8-15 €",
               "prioridad": "extra",
               "busqueda": "pastilla potabilizadora y vaso medidor para medicación",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             }
           ]
         },
@@ -1857,30 +1863,33 @@
           "items": [
             {
               "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
-              "afiliado": "https://www.amazon.es/s?k=pilas+de+repuesto+para+aud%C3%ADfonos&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0C4Y5MWC8?tag=nti0c8-21",
               "descripcion": "Las audífonas se gastan y caducan. Blíster cerrado con la fecha escrita: sin pilas, sin audición, sin comunicación.",
               "precio_aprox": "8-15 €",
               "prioridad": "esencial",
               "busqueda": "pilas de repuesto para audífonos",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Gafas de graduación de repuesto",
-              "afiliado": "https://www.amazon.es/s?k=gafas+de+graduaci%C3%B3n+de+repuesto&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F4X8M5MZ?tag=nti0c8-21",
               "descripcion": "Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online.",
               "precio_aprox": "10-30 €",
               "prioridad": "esencial",
               "busqueda": "gafas de graduación de repuesto",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Caja de dentadura + pegamento y vaso con tapa",
-              "afiliado": "https://www.amazon.es/s?k=caja+de+dentadura+%2B+pegamento+y+vaso+con+tapa&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B07MDVYFVF?tag=nti0c8-21",
               "descripcion": "Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla.",
               "precio_aprox": "6-10 €",
               "prioridad": "recomendado",
               "busqueda": "caja de dentadura + pegamento y vaso con tapa",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-06"
             },
             {
               "producto": "Bastón plegable / andador de repuesto con luz",
