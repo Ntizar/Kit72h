@@ -1176,12 +1176,16 @@
         "antes": [
           "Observa tu espacio: cuantas horas de sol directo recibe al dia (4h minimo para tomate, 2-3h bastan para lechugas y hierbas)",
           "Empieza por lo facil y productivo: lechuga, rucula, acelga, hierbas aromáticas, radishes",
-          "Prepara el calendario: en España la siembra de primavera va de febrero a abril; otoño para espinaca, ajos y cebolla"
+          "Prepara el calendario: en España la siembra de primavera va de febrero a abril; otoño para espinaca, ajos y cebolla",
+          "Monta compostera doméstica: los restos de cocina alimentan el huerto. Una cubeta de 20 L con grifo cuesta 25-35 € y evita olores",
+          "Cubre ventanas con malla anti-áfidos (2x8 m, 10-20 €): la mosca blanca y los trips destruyen un huerto de balcón en dos semanas sin protección"
         ],
         "durante": [
           "Riega a primera hora o al atardecer, nunca al sol directo",
           "Sustrato suelto y con drenaje: maceta sin agujeros es la muerte segura de cualquier planta",
-          "Abona cada 2-3 semanas con compost o abono liquido"
+          "Abona cada 2-3 semanas con compost o abono liquido",
+          "Si usas riego por goteo, revisa los goteros cada semana: se tapan con facilidad y una planta seca no se nota hasta que es tarde",
+          "La malla anti-áfidos se comprueba tras tormentas: si hay roturas, cámbiala. Un agujero de 2 cm es suficiente para que entre la mosca blanca"
         ],
         "despues": [
           "Cosecha por fuera (hojas exteriores) para que la planta siga produciendo",
@@ -1262,18 +1266,52 @@
               "prioridad": "opcional"
             }
           ],
-          "intro": "Mini invernadero y lectura cuando ya has matado tu primer tomate y quieres entender por qué."
+          "intro": "Mini invernadero y lectura cuando ya has matado tu primer tomate y quieres entender por qué. Con compost y riego, el huerto pasa de hobby a producción real."
+        },
+        {
+          "titulo": "Compostaje y protección",
+          "items": [
+            {
+              "producto": "Compostera doméstica con grifo (20 L)",
+              "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Cubeta de 20 L con grifo para abon líquido (té de compost) y tapa que evita olores. Se usa en cocina, terraza o garaje. Los restos de cocina alimentan el huerto sin tener vertedero. La pila de 'barnes' (verde/marrón) se renueva cada semana.",
+              "precio_aprox": "25-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)",
+              "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Red de 0.6 mm que bloquea mosca blanca, trips y pulgones sin químicos. Se fija con clips en marcos de ventana o túnel de plástico. Reduce un 80% las plagas y elimina la necesidad de insecticidas. Durabilidad 3-4 temporadas.",
+              "precio_aprox": "10-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Kit riego por goteo básico (10-20 plantas)",
+              "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas.",
+              "precio_aprox": "20-35 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "Compostar convierte residuos en oro negro. La malla evita que los insectos destruyan el huerto; el riego por goteo lo salva cuando no estás."
         }
       ],
       "paraQuien": "Para quien quiere el paso siguiente: dejar de depender del carrito de la compra y entender de dónde viene lo que come. Empezar por un balcón con germinados es realista, barato y engancha. También es tu seguro alimentario: unos kilos de semillas bien guardados dan comida un año.",
       "paraQuien_no": "No es un plan de autosuficiencia real para una familia sin más: para vivir de un huerto hacen falta suelo, agua, tiempo y dos o tres años de aprendizaje. Y si no tienes ni dónde poner un tiesto, monta primero el kit básico: es más urgente y más barato.",
-      "coste_total": "50-120 € para empezar bien (semillas, sustrato, bandejas, herramientas)",
+      "coste_total": "50-200 € para empezar bien (semillas, sustrato, bandejas, herramientas) — hasta 300 € con compostera, malla y riego.",
+      "total_productos": 11,
+      "afiliado": true,
       "errores": [
         "Empezar con 20 variedades y un huerto grande. Se abandona en seis semanas. Empieza por tres cosas que comas: tomate, lechuga, aromáticas.",
         "Sembrar cuando toca según el calendario y no según tu clima: siembra cuando la temperatura de tu valle lo permita, no cuando lo diga la tabla.",
         "Usar sustrato barato del chino o tierra del jardín en maceta: se apelmaza, no drena y matas la raíz.",
         "No tener agua asegurada: en un huerto de balcón, un finde fuera sin riego es un huerto muerto.",
-        "Guardar semillas sin secar y sin fecha: a los dos años no germina nada. Frasco hermético, etiqueta, sitio fresco y oscuro."
+        "Guardar semillas sin secar y sin fecha: a los dos años no germina nada. Frasco hermético, etiqueta, sitio fresco y oscuro.",
+        "Tirar restos de cocina a la basura: una compostera de 20 L cuesta menos de 35 € y convierte esos residuos en abono gratis. La proporción correcta es dos partes de marrones (hojas secas, cartón) por una de verdes (restos de comida).",
+        "Fiar en insecticidas sin malla: la mosca blanca se reproduce en dos semanas y los insecticidas matan abejas. Cubre primero, trata después."
       ]
     },
     {
