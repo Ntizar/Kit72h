@@ -3,11 +3,65 @@
     "sitio": "Kit72h — Blog de preparación",
     "descripcion": "Guías prácticas de preparación ante emergencias basadas en fuentes oficiales (UE, Protección Civil, DGT, OMS).",
     "reglas_editoriales": "Toda entrada se basa en fuentes oficiales citadas con enlace y fecha. No se inventan datos ni se recomienda medicación concreta: se remite a Protección Civil, AEMPS o al médico. Se añade o corrige, nunca se borra contenido existente sin dejar nota. Cada entrada enlaza con los kits que la completan y con al menos dos fuentes oficiales.",
-    "actualizado": "2026-09-06",
-    "total": 24,
-    "ultima_revision": "2026-09-06"
+    "actualizado": "2026-09-09",
+    "total": 25,
+    "ultima_revision": "2026-09-09"
   },
   "entradas": [
+    {
+      "slug": "vestirse-por-capas-ropa-emergencia-frio",
+      "titulo": "Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal",
+      "fecha": "2026-09-09",
+      "lectura": "8 min",
+      "resumen": "No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de cómo usar las tres capas, con qué telas y por qué el algodón se lleva a todos a la cama.",
+      "autor": "David Antizar",
+      "fuente": [
+        {
+          "nombre": "Ministerio de Sanidad — Plan Nacional de actuaciones preventivas por bajas temperaturas (2025-2026)",
+          "url": "https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/frioExtremo/publicaciones/docs/Plan_Frio_25-26.pdf"
+        },
+        {
+          "nombre": "Dirección General de Protección Civil y Emergencias — Recomendaciones ante nieve y bajas temperaturas",
+          "url": "https://www.proteccioncivil.es/-/protecci%C3%B3n-civil-y-emergencias-alerta-por-un-episodio-de-tiempo-invernal-a-partir-del-pr%C3%B3ximo-s%C3%A1bado"
+        },
+        {
+          "nombre": "Ministerio de Sanidad — Recomendaciones generales frente a las bajas temperaturas",
+          "url": "https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/frioExtremo/publicaciones/docs/Recomendaciones_generales_bajas_temperaturas.pdf"
+        },
+        {
+          "nombre": "AEMET — Resumen del invierno 2025-2026",
+          "url": "https://www.aemet.es/en/noticias/2026/03/resumen_invierno_2025_2026"
+        },
+        {
+          "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
+          "url": "https://commission.europa.eu/topics/preparedness_es"
+        },
+        {
+          "nombre": "CDC — Directrices de seguridad durante y después de una tormenta invernal",
+          "url": "https://www.cdc.gov/winter-weather/es/safety/directrices-de-seguridad-durante-y-despues-de-una-tormenta-invernal.html"
+        },
+        {
+          "nombre": "MedlinePlus — Cómo prevenir el congelamiento y la hipotermia",
+          "url": "https://medlineplus.gov/spanish/ency/patientinstructions/000866.htm"
+        }
+      ],
+      "cuerpo": "<p>El Plan Frío del Ministerio de Sanidad para la temporada 2025-2026 registra que cada invierno las bajas temperaturas provocan cientos de muertes evitables en España. No son accidentes de montaña: son personas mayores en pisos sin calefacción suficiente, obreros que regresan a casa caminando con la ropa mojada, excursiones que se alargan cuando baja la temperatura. La recomendación más repetida en las guías oficiales es siempre la misma: <strong>viste por capas</strong>. No por moda — por física.</p><h2>¿Por qué las capas y no una prenda gruesa?</h2><p>El cuerpo humano pierde calor principalmente a través de la piel. La ropa no genera calor: lo que hace es atraparlo. Y el mejor aislante térmico que existe es el aire parado. Tres capas de tela fina atrapan <strong>tres cámaras de aire</strong>; una sola prenda gruesa atrapa una. Es la razón por la que Protección Civil y el Ministerio de Sanidad repiten literalmente: <em>\"Conviene tener en cuenta que varias capas de ropa fina protegen más que una sola gruesa, al formar cámaras de aire aislante entre ellas\"</em>.</p><p>Además, las capas te permiten ajustar la temperatura. Si estás caminando y sientes calor, te quitas una capa y no traspires. Si traspiras con una sola prenda gruesa y luego te paras, esa ropa mojada se convierte en un enfriador corporal. El algodón no lo aguanta: la humedad te lleva a la hipotermia más rápido que el frío seco.</p><h2>Las tres capas: función y material</h2><h3>Capa 1: la base (junto a la piel)</h3><p>Su única misión es <strong>llevar el sudor lejos de la piel</strong>. Si la base se moja, nada de lo que lleves encima te salvará. Las opciones válidas:</p><ul><li><strong>Lana merino</strong>: natural, absorbe humedad sin perder calor, huele menos que el sintético. Ideal para usarla todo el día. Una camiseta base de merino de 150-200 g cuesta entre 25 y 50 €.</li><li><strong>Polipropileno o poliéster técnico</strong>: los sintéticos sacan la humedad rápido y secan en horas. Son más baratos (5-15 €) pero pueden oler antes y no regulan tan bien la temperatura como la lana.</li></ul><p><strong>El algodón no se usa nunca como capa base</strong>. Absorbe el sudor, lo retiene y se queda pegado a la piel. Cuando se moja — y se va a mojar — conduce el frío como una lámina de agua. En la jerga de montañeros se dice del algodón que \"te mata\": es literalmente el material más peligroso para emergencias en frío. El Ministerio de Sanidad y la OMS coinciden: las fibras sintéticas y la lana son las recomendadas.</p><h3>Capa 2: el aislamiento (la más importante)</h3><p>Aquí es donde se genera el calor real. La capa intermedia <strong>atrapa el aire que tu cuerpo calienta</strong>. Las opciones:</p><ul><li><strong>Forro polar (fleece)</strong>: el rey de la relación calidad-precio. Ligero, cálido, seco rápido. Un forro polar medio cuesta 15-30 € y sirve para todo: desde la noche de apagón hasta el paseo del domingo.</li><li><strong>Plika (PrimaLoft, Thinsulate, etc.)</strong>: aislantes sintéticos que imitan la plumón pero funcionan con humedad. Ideales si hay riesgo de lluvia. En chubasqueros o chalecos aíslos. Precio: 20-60 €.</li><li><strong>Plumón</strong>: el mejor aislante por peso, pero <strong>si se moja pierde el 90% de su capacidad</strong>. Vale para el kit en casa, no para llevarlo encima si llueve o sudas.</li></ul><p>Para el kit de emergencia, un <strong>forro polar</strong> es la opción más versátil: funciona con humedad, ocupa poco, cuesta poco y cubre el rango más amplio de temperaturas.</p><h3>Capa 3: la barrera (viento y lluvia)</h3><p>Protege de lo externo. Sin esta capa, el viento te arranca el calor de las capas de dentro en minutos. Se llama \"shell\" (caparazón) en la jerga técnica.</p><ul><li><strong>Chubasquero o impermeable</strong>: con membrana impermeable (IP ≥ 1500 mm) y costuras selladas. El chubasquero ligero (50-150 g) es tan pequeño que cabe en cualquier mochila. Precio: 15-40 € para modelos básicos funcionales.</li><li><strong>Rigido (hardshell)</strong>: si previsibles lluvias intensas prolongadas (una DANA en invierno, por ejemplo). Más caro (40-80 €) pero dura años.</li></ul><p>La clave es que la capa exterior sea <strong>transpirable</strong>: si no lo es, el sudor de dentro se condensa por dentro y terminas mojado. Busca que incluya \"breathable\" o \"membrana transpirable\".</p><h2>Lo que no sale bien vestido: cabeza, manos y pies</h2><p>El 10% de las fuentes oficiales se olvidan, pero aquí es donde empiezan las congelaciones y los hipotermias leves:</p><ul><li><strong>Gorro o bufanda</strong>: se pierde calor por la cabeza. Un gorro de lana o polar de 5-12 € marca la diferencia entre una noche clemente y la tiritona continua. La bufanda protege el cuello y evita que el viento entre por debajo del abrigo.</li><li><strong>Guantes</strong>: los mitones son más cálidos que los guantes (los dedos comparten calor). Un par de guantes de lana o polar, 8-20 €.</li><li><strong>Calcetines</strong>: dos pares delgados funcionan mejor que uno grueso (otra cámara de aire). Lana merino o sintético, nunca algodón. Una pareja de calcetines de lana para emergencias cuesta 8-15 €.</li><li><strong>Calzado impermeable</strong>: las plantas mojadas son el punto de entrada más rápido del frío. Botas impermeables o, al menos, unos cubrecalzado antideslizante (5-12 €) si caminas por nieve o hielo.</li></ul><h2>El sistema en práctica: qué poner para cada escenario</h2><p>No hay una receta única para todas las temperaturas, pero estas combinaciones te cubren desde el invierno madrileño hasta una nevada en el Sistema Central:</p><table><thead><tr><th>Temperatura aproximada</th><th>Combinación</th><th>Peso total (ropa)</th></tr></thead><tbody><tr><td>+5 °C a 10 °C</td><td>Base + chubasquero</td><td>~300 g</td></tr><tr><td>0 °C a +5 °C</td><td>Base + forro polar + chubasquero</td><td>~700 g</td></tr><tr><td>-10 °C a 0 °C</td><td>Base + forro polar + plika + chubasquero</td><td>~1 000 g</td></tr><tr><td>Más de -10 °C</td><td>Base doble (merino + sintético) + plika grueso + parka impermeable + guantes + gorro + calcetines dobles</td><td>~1 800 g</td></tr></tbody></table><p>Para un kit de emergencia en mochila, la combinación base + forro polar + chubasquero cubre la mayoría de los escenarios invernales en España y pesa menos de 1 kg entero.</p><h2>Señales de que algo va mal</h2><p>El Ministerio de Sanidad y el Plan Frío identifican señales claras de hipotermia. Si las detectas en ti o en otra persona, <strong>añadir capas calientes es el primer paso</strong>:</p><ul><li><strong>Temblores incontrolables</strong>: el cuerpo intenta generar calor contraatacando. Ya no es incómodo, es una respuesta de emergencia.</li><li><strong>Confusión o somnolencia</strong>: el cerebro pierde función. La persona puede negar que tiene frío.</li><li><strong>Dificultad para hablar</strong>: las palabras se vuelven confusas o imposibles.</li><li><strong>Torpeza en las manos</strong>: no se pueden hacer botones, ni encender un mechero.</li></ul><p>Si aparece congelación (piel blanca, amarillenta, entumecida y firme) — <strong>no frotar la zona</strong> y introducirla en agua tibia (no caliente). Si no puedes caminar con los pies, <strong>no intentes caminar</strong>: agravas la lesión.</p><h2>Errores habituales</h2><ul><li><strong>\"Con una chaqueta me basta\"</strong>: si llueve, si sudas, si hace viento — no basta. Un chubasquero por encima es la diferencia entre una noche en casa y una noche en urgencias.</li><li><strong>El algodón como \"siempre lo llevo\"</strong>: la camiseta vaquera, el suéter de algodón grueso… son ropa de día normal. En una emergencia, el algodón es tu enemigo. La lana y el sintético te mantienen seco.</li><li><strong>No cubrir cabeza y manos</strong>: puedes tener el torso cubierto y perder el 40% del calor por la cabeza y las extremidades. Gorro y guantes no son opcionales en frío extremo.</li><li><strong>Guardar la ropa de abrigo en el trastero</strong>: si se va la luz en enero, necesitas la ropa de abrigo donde la puedas coger en 30 segundos, no donde \"tienes lo del invierno\".</li></ul><h2>Qué incluir en el kit</h2><p>Para cada miembro de la familia, una bolsa con lo básico que se mueve de capa:</p><ul><li>Camiseta base de lana merino o sintético</li><li>Forro polar medio</li><li>Chubasquero ligero</li><li>Gorro de lana o polar</li><li>Par de guantes (de lana o forro polar)</li><li>Dos pares de calcetines de lana</li><li>Bufanda o pañuelo grueso</li></ul><p>Esto pesa menos de 2 kg por persona, ocupa el espacio de una bolsa mediana, y te cubre desde un apagon de enero hasta una nevada aislada. Si vives en zonas del norte o de montaña, añade un par de plika (PrimaLoft) o un chaleco térmico.</p><h2>Un dato que no da miedo: las temperaturas suben</h2><p>El invierno 2025-2026 fue, según AEMET, <strong>el sexto invierno más cálido desde 1961</strong>. Las temperaturas medias fueron 1 °C por encima de la normalidad. No viene de menos: los ocho últimos inviernos han sido más cálidos de lo normal. Pero las olas de frío extremo no desaparecen por la media: <strong>cuando vienen, vienen de golpe</strong> (como el episodio de aire ártico que alertó Protección Civil en diciembre de 2026) y las temperaturas pueden caer 15-20 °C en horas. El sistema de capas funciona para esa bajada brusca — para la que casi nadie está preparado.</p><p class=\"nota-final\">Esta entrada no sustituye la orientación de un profesional sanitario. Si tienes dudas sobre cómo vestirte en frío por condiciones médicas específicas (diabetes, problemas vasculares, medicación), consúltalo con tu médico. La lista completa de materiales recomendados para emergencias invernales está en la sección de abrigo y refugio del <a href=\"#kit/kit-basico-72h\">kit básico 72h</a>.</p>",
+      "kits_relacionados": [
+        "kit-basico-72h",
+        "kit-apagon",
+        "kit-calor",
+        "kit-montana",
+        "kit-30-dias"
+      ],
+      "etiquetas": [
+        "ropa",
+        "frío",
+        "salud",
+        "equipamiento",
+        "escenarios",
+        "preparacion"
+      ]
+    },
     {
       "slug": "radiocomunicacion-pmr446-walkie-talkies",
       "titulo": "Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia",

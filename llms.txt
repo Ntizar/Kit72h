@@ -25,6 +25,7 @@ URL base: https://ntizar.github.io/Kit72h
 
 ## Blog
 
+- Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal (vestirse-por-capas-ropa-emergencia-frio): No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de cómo usar las tres capas, con qué telas y por qué el algodón se lleva a todos a la cama.
 - Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia (radiocomunicacion-pmr446-walkie-talkies): Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.
 - Volver a casa después de una inundación: seguridad, lodo, humedad y seguros (volver-a-casa-tras-inundacion): La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar para que el seguro responda.
 - Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene (vivir-solo-estar-preparado): Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan de uno, pensado para uno.
