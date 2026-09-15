@@ -50,7 +50,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-15",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
@@ -58,7 +58,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-09",
+    "fecha": "2026-09-15",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
@@ -66,8 +66,16 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
     "rango_esperado": "5-15 €",
-    "fecha": "2026-09-09",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-09-15",
+    "asin": "B09XJ947XJ",
+    "titulo": "Devir - Walkie Talkie, juego de cartas, juego de mesas, Devir Pocket (BGWALKIE)",
+    "precio": 10.0,
+    "rating": 4.2,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B09XJ947XJ?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=juegos+de+naipes%2C+libro+de+letra+grande+o+r%C3%A1dio+con+altavoz&tag=nti0c8-21"
   },
   "kit-mayores|Comida blanda lista (purés, potitos de adulto, cremas en tarrina)": {
     "kit": "kit-mayores",
@@ -154,7 +162,7 @@
     "seccion": "Sentidos y ayudas técnicas",
     "busqueda": "imán o bolsa de seguridad para marcapasos",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-08",
+    "fecha": "2026-09-15",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Balizas LED de noche con sensor (pack 2-3)": {
@@ -306,8 +314,16 @@
     "seccion": "Salud y calma",
     "busqueda": "aspirador nasal + suero fisiológico en monodosis",
     "rango_esperado": "4-8 €",
-    "fecha": "2026-09-05",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-09-15",
+    "asin": "B0DRWF7GZL",
+    "titulo": "10 Jeringa Lavado Nasal Bebe – Irrigador Nasal Saca Mocos Para Bebes.",
+    "precio": 7.0,
+    "rating": 4.8,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0DRWF7GZL?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=aspirador+nasal+%2B+suero+fisiol%C3%B3gico+en+monodosis&tag=nti0c8-21"
   },
   "kit-bebe|Juguetes pequeños favoritos (2-3, en bolsa estanca)": {
     "kit": "kit-bebe",
@@ -378,7 +394,7 @@
     "seccion": "Documentos e identificación",
     "busqueda": "fotos recientes del bebé y de la familia en papel",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-06",
+    "fecha": "2026-09-15",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Organizador de pastillas semanal (pastillero) con copia de pautas": {
@@ -700,5 +716,85 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=pa%C3%B1ales+de+reserva&tag=nti0c8-21"
+  },
+  "kit-bebe|Toallitas limpiadoras (pack 3-5)": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "toallitas limpiadoras",
+    "rango_esperado": "4-8 €",
+    "fecha": "2026-09-15",
+    "asin": "B09NYL7FY4",
+    "titulo": "BOSTIK - Toallitas Limpieza - Bote 80 Toallitas",
+    "precio": 10.0,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B09NYL7FY4?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=toallitas+limpiadoras&tag=nti0c8-21"
+  },
+  "kit-bebe|Bolsas estancas para ropa sucia y pañales (pack)": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "bolsas estancas para ropa sucia y pañales",
+    "rango_esperado": "5-9 €",
+    "fecha": "2026-09-15",
+    "asin": "B0F1TQD4C4",
+    "titulo": "3 Piezas Pañaleras para Bebes, Bolsa Impermeable Bebe, Bolsa Bebe, Bolsas Pañales Impermeables, Reutilizable Organizador",
+    "precio": 11.0,
+    "rating": 4.6,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0F1TQD4C4?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=bolsas+estancas+para+ropa+sucia+y+pa%C3%B1ales&tag=nti0c8-21"
+  },
+  "kit-bebe|Cambrador portátil plegable": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "cambrador portátil plegable",
+    "rango_esperado": "8-14 €",
+    "fecha": "2026-09-15",
+    "asin": "B0BZS918ZG",
+    "titulo": "Carburador para desbrozadora 52 CC 49 CC 43 CC Carbu Set con Junta, Manguera, bujía y Filtro de Gasolina",
+    "precio": 12.51,
+    "rating": 4.6,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0BZS918ZG?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=cambrador+port%C3%A1til+plegable&tag=nti0c8-21"
+  },
+  "kit-bebe|Crema barrera contra rozaduras": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "crema barrera contra rozaduras",
+    "rango_esperado": "4-8 €",
+    "fecha": "2026-09-15",
+    "asin": "B0G65QTD2Y",
+    "titulo": "SLOAN Crema Anti Rozaduras 75 ML Barrera Protectora con 8% Óxido de Zinc, Caléndula, Manzanilla y Tintura de benjui Prev",
+    "precio": 13.5,
+    "rating": 4.2,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0G65QTD2Y?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=crema+barrera+contra+rozaduras&tag=nti0c8-21"
+  },
+  "kit-bebe|Jabón neutro en pastilla + esponja": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "jabón neutro en pastilla + esponja",
+    "rango_esperado": "2-4 €",
+    "fecha": "2026-09-15",
+    "asin": "B09LJZM4ZB",
+    "titulo": "Jabón Neutro Natural en Pastilla sin Perfume 120g - Santa Gadea",
+    "precio": 8.0,
+    "rating": 4.0,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B09LJZM4ZB?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=jab%C3%B3n+neutro+en+pastilla+%2B+esponja&tag=nti0c8-21"
   }
 }

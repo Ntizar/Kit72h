@@ -1668,48 +1668,53 @@
             },
             {
               "producto": "Toallitas limpiadoras (pack 3-5)",
-              "afiliado": "https://www.amazon.es/s?k=toallitas+limpiadoras&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09NYL7FY4?tag=nti0c8-21",
               "descripcion": "Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana.",
               "precio_aprox": "4-8 €",
               "prioridad": "esencial",
               "busqueda": "toallitas limpiadoras",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             },
             {
               "producto": "Bolsas estancas para ropa sucia y pañales (pack)",
-              "afiliado": "https://www.amazon.es/s?k=bolsas+estancas+para+ropa+sucia+y+pa%C3%B1ales&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F1TQD4C4?tag=nti0c8-21",
               "descripcion": "Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro.",
               "precio_aprox": "5-9 €",
               "prioridad": "recomendado",
               "busqueda": "bolsas estancas para ropa sucia y pañales",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             },
             {
               "producto": "Cambrador portátil plegable",
-              "afiliado": "https://www.amazon.es/s?k=cambrador+port%C3%A1til+plegable&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0BZS918ZG?tag=nti0c8-21",
               "descripcion": "Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas.",
               "precio_aprox": "8-14 €",
               "prioridad": "extra",
               "busqueda": "cambrador portátil plegable",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             },
             {
               "producto": "Crema barrera contra rozaduras",
-              "afiliado": "https://www.amazon.es/s?k=crema+barrera+contra+rozaduras&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G65QTD2Y?tag=nti0c8-21",
               "descripcion": "Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos.",
               "precio_aprox": "4-8 €",
               "prioridad": "recomendado",
               "busqueda": "crema barrera contra rozaduras",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             },
             {
               "producto": "Jabón neutro en pastilla + esponja",
-              "afiliado": "https://www.amazon.es/s?k=jab%C3%B3n+neutro+en+pastilla+%2B+esponja&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09LJZM4ZB?tag=nti0c8-21",
               "descripcion": "Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas.",
               "precio_aprox": "2-4 €",
               "prioridad": "extra",
               "busqueda": "jabón neutro en pastilla + esponja",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             }
           ]
         },
@@ -1785,12 +1790,13 @@
             },
             {
               "producto": "Aspirador nasal + suero fisiológico en monodosis",
-              "afiliado": "https://www.amazon.es/s?k=aspirador+nasal+%2B+suero+fisiol%C3%B3gico+en+monodosis&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DRWF7GZL?tag=nti0c8-21",
               "descripcion": "Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general.",
               "precio_aprox": "4-8 €",
               "prioridad": "recomendado",
               "busqueda": "aspirador nasal + suero fisiológico en monodosis",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             },
             {
               "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
@@ -2083,12 +2089,13 @@
             },
             {
               "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
-              "afiliado": "https://www.amazon.es/s?k=juegos+de+naipes%2C+libro+de+letra+grande+o+r%C3%A1dio+con+altavoz&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09XJ947XJ?tag=nti0c8-21",
               "descripcion": "Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no.",
               "precio_aprox": "5-15 €",
               "prioridad": "extra",
               "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-15"
             }
           ]
         },
