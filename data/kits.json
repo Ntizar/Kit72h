@@ -638,12 +638,15 @@
         "antes": [
           "Calcula agua y comida para todas las personas de casa × 3 días",
           "Si hay niños, bebés o mascotas: ajusta el kit a ellos",
-          "Ten a mano juegos o libros para mantener la moral"
+          "Ten a mano juegos o libros para mantener la moral",
+          "Ten un abre-latas manual y un hornillo de butano probado: sin ellos, tus conservas son inservibles",
+          "Llena al menos una bañera de agua para uso no potable (cisternas, limpieza) si el corte es inminente"
         ],
         "durante": [
           "Raciona agua si el suministro se corta",
           "Ventila a diario si es posible",
-          "Mantén la radio oficial encendida al menos 2 veces al día"
+          "Mantén la radio oficial encendida al menos 2 veces al día",
+          "Abre ventanas 5 minutos cada pocas horas para renovar el aire: el CO2 acumulado te pone triste y lento"
         ],
         "despues": [
           "Inventario de lo consumido y repuesto inmediato"
@@ -707,9 +710,43 @@
               "descripcion": "Si el agua falla, la cisterna no tira: gestiona residuos con bolsas.",
               "precio_aprox": "8-15 €",
               "prioridad": "esencial"
+            },
+            {
+              "producto": "Bolsas de residuos negras (50+ unidades)",
+              "afiliado": "https://www.amazon.es/dp/B07VWLV1P7?tag=nti0c8-21",
+              "descripcion": "Sin agua corriente no tiras de la cisterna ni lavas. Bolsas sellables para gestionar residuos de forma higiénica hasta que vuelva el grifo.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial"
             }
           ],
           "intro": "Cuando el agua escasea, la higiene es lo primero que se degrada y lo segundo que te enferma."
+        },
+        {
+          "titulo": "Cocina sin electricidad",
+          "intro": "Si se va la luz y no puedes cocinar, los 20 botes del armario son inservibles sin un abre-latas. Ten siempre una forma de preparar comida caliente.",
+          "items": [
+            {
+              "producto": "Hornillo de butano portátil con bombonas",
+              "afiliado": "https://www.amazon.es/dp/B0CRN5KNCT?tag=nti0c8-21",
+              "descripcion": "Calienta agua, cocina conservas y caldos sin electricidad. Úsalo siempre en zona ventilada.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Abreconservas manual",
+              "afiliado": "https://www.amazon.es/dp/B01MZGQZK5?tag=nti0c8-21",
+              "descripcion": "Sin electricidad, el abre-latas eléctrico no funciona. Uno manual de 5 € es la herramienta más infravalorada del kit.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cocoteira o cazo resistente (para calentar conservas)",
+              "afiliado": "https://www.amazon.es/dp/B08BQXJ8ZG?tag=nti0c8-21",
+              "descripcion": "Puedes calentar latas vacías con agua y meter la conserva dentro (baño María casero) o usar una cazo para calentar agua si se fue la luz.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "recomendado"
+            }
+          ]
         },
         {
           "titulo": "Salud",
@@ -760,13 +797,35 @@
             }
           ],
           "intro": "Tres días sin luz con un niño en casa sin nada que hacer se hacen largos. La parte psicológica también se prepara."
+        },
+        {
+          "titulo": "Ventilación y calidad del aire",
+          "intro": "Sin ventilación forzada en confinamiento, el aire se contamina rápido. Dos medidas simples evitan dolores de cabeza y fatiga.",
+          "items": [
+            {
+              "producto": "Ventilador USB de repisa o pies",
+              "afiliado": "https://www.amazon.es/dp/B0BYP13RZQ?tag=nti0c8-21",
+              "descripcion": "Mueve el aire si el calor se acumula. Funciona con el powerbank del kit durante horas.",
+              "precio_aprox": "12-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Medidor de CO2 o calidad del aire portátil",
+              "afiliado": "https://www.amazon.es/s?k=medidor CO2 calidad aire&tag=nti0c8-21",
+              "descripcion": "El CO2 acumulado en casa cerrada da sueño, dolor de cabeza y reduce la capacidad de razonar. Un sensor barato te avisa.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            }
+          ]
         }
       ],
       "paraQuien": "Para quien quiere estar cubierto sin tener que salir de casa: cortes de agua, confinamientos, temporales que aíslan un barrio, o simplemente una semana en la que no te apetece ni puedes bajar a comprar. Es la reserva de despensa, no la mochila.",
       "paraQuien_no": "No vale para evacuación: si tienes que salir en 15 minutos, esto se queda donde está. Prepara entonces la mochila de evacuación con lo esencial. Y si tienes mascota o bebé, la reserva tiene que incluir lo suyo desde el día uno, no cuando falte.",
-      "coste_total": "150-250 € (2 personas, 7-10 días)",
+      "coste_total": "160-300 € (2 personas, 7-10 días, con hornillo y herramientas)",
       "errores": [
         "Comprar cosas que nadie come en casa. Una despensa de emergencia se rota comiéndosela, y si no te gusta, no se rota.",
+        "No tener abre-latas: si tienes 30 conservas y no puedes abrirlas, no tienes comida, tienes una pesas de gimnasio.",
         "No tener forma de cocinar sin electricidad: veinte latas y un hornillo apagado.",
         "Olvidar el agua de uso: sin grifo no tiras de la cisterna. Llenar la bañera a tiempo es gratis.",
         "Guardarlo todo junto en un solo armario: si se inunda o se estropea una estancia, pierdes la reserva entera.",
