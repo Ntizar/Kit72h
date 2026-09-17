@@ -840,18 +840,22 @@
       "resumen": "Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.",
       "guia": {
         "antes": [
-          "Comparte siempre ruta y hora de vuelta con alguien",
-          "Consulta el aviso meteorológico (AEMET) antes de salir",
-          "Descarga la app del 112 de tu comunidad autónoma"
-        ],
-        "durante": [
-          "Si te pierdes, quédate quieto y hazte visible",
-          "Raciona agua y no te desvíes de la ruta conocida"
-        ],
-        "despues": [
-          "Repón y revisa el kit tras cada salida",
-          "Anota qué te faltó para la próxima"
-        ]
+                  "Comparte siempre ruta y hora de vuelta con alguien",
+                  "Consulta el aviso meteorológico (AEMET) antes de salir",
+                  "Descarga la app del 112 de tu comunidad autónoma",
+                  "Nunca estrenes calzado ni calcetines en una caminata larga: el 74% de los peregrinos del Camino de Santiago sufren ampollas en los primeros días (Colexio de Podólogos de Galicia)"
+                ],
+                "durante": [
+                  "Si te pierdes, quédate quieto y hazte visible",
+                  "Raciona agua y no te desvíes de la ruta conocida",
+                  "Usa bastones si es posible: reducen hasta un 30% el impacto en rodillas y tobillos",
+                  "Si sientes rozamiento: para y pon el apósito hidrocoloides antes de que se forme la ampolla (Compeed, Scholl o similar)"
+                ],
+                "despues": [
+                  "Repón y revisa el kit tras cada salida",
+                  "Anota qué te faltó para la próxima",
+                  "Seca y guarda el chubasquero: la humedad acumula moho y pierde impermeabilidad"
+                ]
       },
       "secciones": [
         {
@@ -877,9 +881,16 @@
               "descripcion": "La orientación clásica no falla. Aprende a usarla antes de salir.",
               "precio_aprox": "10-25 €",
               "prioridad": "recomendado"
-            }
-          ],
-          "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa."
+                          },
+                          {
+                            "producto": "Cuerda de paracord 550 (30m)",
+                            "afiliado": null,
+                            "descripcion": "Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar.",
+                            "precio_aprox": "8-19 €",
+                            "prioridad": "recomendado"
+                          }
+                        ],
+                        "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa. Añade paracord para amarres e improvisaciones."
         },
         {
           "titulo": "Refugio y abrigo",
@@ -920,20 +931,34 @@
             },
             {
               "producto": "Crema solar y labial con protección",
-              "afiliado": "https://www.amazon.es/dp/B09XRDG5HC?tag=nti0c8-21",
-              "descripcion": "SPF 50: la radiación en montaña es mucho mayor que en la playa.",
-              "precio_aprox": "8-18 €",
-              "prioridad": "recomendado"
-            },
-            {
-              "producto": "Navaja multiuso",
-              "afiliado": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=nti0c8-21",
-              "descripcion": "Corta, sierra, abre latas y repara material. La navaja suiza del senderista.",
-              "precio_aprox": "15-35 €",
-              "prioridad": "recomendado"
-            },
-            {
-              "producto": "Frontal con pilas de repuesto",
+                            "afiliado": "https://www.amazon.es/dp/B09XRDG5HC?tag=nti0c8-21",
+                            "descripcion": "SPF 50: la radiación en montaña es mucho mayor que en la playa.",
+                            "precio_aprox": "8-18 €",
+                            "prioridad": "recomendado"
+                          },
+                          {
+                            "producto": "Apósitos hidrocoloides para ampollas",
+                            "afiliado": null,
+                            "descripcion": "El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.",
+                            "precio_aprox": "7-22 €",
+                            "prioridad": "esencial"
+                          },
+                          {
+                            "producto": "Navaja multiuso",
+                                          "afiliado": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=nti0c8-21",
+                                          "descripcion": "Corta, sierra, abre latas y repara material. La navaja suiza del senderista.",
+                                          "precio_aprox": "15-35 €",
+                                          "prioridad": "recomendado"
+                                        },
+                                        {
+                                          "producto": "Kit de costura de emergencia",
+                                          "afiliado": null,
+                                          "descripcion": "Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta.",
+                                          "precio_aprox": "3-8 €",
+                                          "prioridad": "recomendado"
+                                        },
+                                        {
+                                          "producto": "Frontal con pilas de repuesto",
               "afiliado": "https://www.amazon.es/Power-Bank-Solar-20000mAh-Linterna/dp/B0GRMM8ZQS?tag=nti0c8-21",
               "descripcion": "Manos libres para caminar de noche o reparar material.",
               "precio_aprox": "15-35 €",
@@ -945,7 +970,7 @@
       ],
       "paraQuien": "Para quien sale a caminar, hacer barranquismo o esquiar de montaña. El 90% de los rescates en montaña en España son personas que se despistaron, se lesionaron o les pilló la noche. No hace falta ser experto: basta con ir un poco más lejos de lo previsto.",
       "paraQuien_no": "No es un equipo de alta montaña: para glaciar, vía ferrata o pernocta en altura necesitas material técnico y formación. Y si vas a un paraje sin cobertura, este kit no te comunica: el teléfono no siempre funciona, y la solución de verdad es decir a alguien tu ruta y tu hora de vuelta.",
-      "coste_total": "70-140 € (buena parte ya lo tienes si corres o ciclas)",
+      "coste_total": "85-160 € (buena parte ya lo tienes si corres o ciclas)",
       "errores": [
         "Salir con el ropa de ciudad y fiarse del tiempo de la app. En montaña la temperatura cae 10 grados de un barranco arriba y la niebla llega en 20 minutos.",
         "Una sola linterna para el grupo, sin pilas de repuesto, en el fondo de la mochila.",
