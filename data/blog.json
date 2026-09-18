@@ -3,11 +3,63 @@
     "sitio": "Kit72h — Blog de preparación",
     "descripcion": "Guías prácticas de preparación ante emergencias basadas en fuentes oficiales (UE, Protección Civil, DGT, OMS).",
     "reglas_editoriales": "Toda entrada se basa en fuentes oficiales citadas con enlace y fecha. No se inventan datos ni se recomienda medicación concreta: se remite a Protección Civil, AEMPS o al médico. Se añade o corrige, nunca se borra contenido existente sin dejar nota. Cada entrada enlaza con los kits que la completan y con al menos dos fuentes oficiales.",
-    "actualizado": "2026-09-15",
-    "total": 26,
-    "ultima_revision": "2026-09-15"
+    "actualizado": "2026-09-18",
+    "total": 27,
+    "ultima_revision": "2026-09-18"
   },
   "entradas": [
+    {
+      "slug": "panel-solar-portatil-realista-quantos-watts-urgente",
+      "titulo": "Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia",
+      "fecha": "2026-09-18",
+      "lectura": "8 min",
+      "resumen": "La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido para una crisis y cómo combinarlo con un powerbank para que funcione de verdad.",
+      "autor": "David Antizar",
+      "fuente": [
+        {
+          "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (26/03/2025)",
+          "url": "https://commission.europa.eu/topics/preparedness_es"
+        },
+        {
+          "nombre": "Protección Civil — Recomendaciones generales",
+          "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+        },
+        {
+          "nombre": "IAE — Instituto para la Diversificación y Ahorro de la Energía: radiación solar en España",
+          "url": "https://www.iae.es"
+        },
+        {
+          "nombre": "AEMET — Radiación solar y días de sol en España",
+          "url": "https://www.aemet.es/es/serviciosclimaticos/climatologiaredesolar"
+        },
+        {
+          "nombre": "AESAN — Recomendaciones tras el apagón del 28 de abril de 2025",
+          "url": "https://www.aesan.gob.es/AECOSAN/web/noticias_y_actualizaciones/noticias/2025/alimentos_refrigerados.htm"
+        },
+        {
+          "nombre": "FermiLabs — Medición de potencia real de paneles solares portátiles (test verificado)",
+          "url": "https://fermilabs.es/paneles-solares-portatiles-test"
+        },
+        {
+          "nombre": "European Commission — Solar energy in the EU (statistics and facts)",
+          "url": "https://commission.europa.eu/energy-climate-change-transport/renewables/solar-energy_en"
+        }
+      ],
+      "cuerpo": "<p>El apagón del 28 de abril de 2025 dejó a medio país sin luz y con un móvil al 2%. La mayoría de la gente lo resolvió con el powerbank que ya tenía cargado. Pero si la luz se va varios días y no hay sol (o llueve durante semanas), el powerbank se queda en cero y no se recarga. Aquí es donde entra el panel solar portátil y por qué casi todo lo que venden en Amazon no hace lo que promete.</p><p>No te voy a vender un panel de 300 watts para tu balcón. Te voy a decir lo que un panel de verdad puede hacer — o no — cuando te queda sin luz, y qué combo de panel + batería tiene sentido para sobrevivir una semana sin red.</p><h2>La trampa de los watts anunciados</h2><p>Un panel solar portátil de 100 watts anunciado rara vez entrega 100 watts reales. El motivo no es estafa — es física: los paneles se miden en condiciones estándar de prueba (STC), que son 1000 W/m² de irradiación, temperatura de célula a 25 °C y espectro AM 1.5. En la vida real:</p><ul><li><strong>La irradiación en España</strong> no llega nunca a 1000 W/m² de forma sostenida (incluso en verano, el techo suele estar entre 800 y 950 W/m²; los datos oficiales de AEMET y el IAE lo confirman).</li><li><strong>La temperatura de la célula</strong> sube fácilmente a 45-65 °C bajo el sol directo: cada grado por encima de 25 °C reduce la potencia entre un 0,3 % y un 0,5 %. A 55 °C, un panel pierde entre un 9 % y un 15 % de potencia.</li><li><strong>El ángulo de incidencia</strong> del sol cambia constantemente; si el panel no está perpendicular al sol, pierdes un 20-40 % de rendimiento.</li></ul><p>Un panel de 100 W bien orientado en un día despejado de junio en España entrega entre 60 y 80 W reales, y solo durante unas 5-6 horas de la jornada. Un panel de 50 W bien orientado entrega entre 30 y 40 W reales. Esa es la cifra con la que hay que hacer cuentas.</p><h2>¿Cuánta energía necesitas en una emergencia?</h2><p>Antes de comprar, hay que saber qué se va a cargar. He aquí lo mínimo que la mayoría de la gente necesita mantener funcionando:</p><ul><li><strong>Móvil (carga completa):</strong> entre 10 y 15 Wh (un móvil moderno de 4000 mAh a 3,7 V son ~15 Wh; con la eficiencia del cargador y las pérdidas, necesitas ~12-15 Wh netos).</li><li><strong>Radio FM a pilas:</strong> 0-2 Wh (si son pilas AA, el panel no los carga; si tiene puerto USB, entre 1 y 2 W).</li><li><strong>Linterna frontal LED:</strong> entre 2 y 5 Wh por carga.</li><li><strong>Powerbank que recargas:</strong> un powerbank de 20.000 mAh a 3,7 V son 74 Wh; con las pérdidas del boost, necesitas recargarlo unos 90 Wh netos.</li></ul><p>Esto da una idea de cuánto genera un panel en un día real de sol:</p><table><tr><th>Panel anunciado</th><th>Watts reales (día bueno)</th><th>Horas de sol equivalente</th><th>Wh/día</th><th>Cargas de móvil</th></tr><tr><td>30 W</td><td>18-22 W</td><td>5 h</td><td>90-110 Wh</td><td>6-8</td></tr><tr><td>50 W</td><td>30-40 W</td><td>5 h</td><td>150-200 Wh</td><td>10-15</td></tr><tr><td>100 W</td><td>60-80 W</td><td>5 h</td><td>300-400 Wh</td><td>20-30</td></tr></table><p>No te dejes engañar: con un panel de 30 W ya puedes recargar un powerbank de 20.000 mAh cada dos o tres días en verano. En invierno, multiplica el tiempo por dos o tres (menos horas de sol, ángulo bajo). Un día nublado: multiplica por tres o cuatro.</p><h2>El combo que funciona de verdad: panel + powerbank</h2><p>El panel solar por sí solo no sirve para mucho en una emergencia: genera energía cuando el sol da, no cuando la necesitas. Lo que necesitas es <strong>generar + almacenar</strong>. El combo mínimo útil es un panel de 30-50 W más un powerbank de 20.000 mAh mínimo. Así funciona:</p><ul><li><strong>Generas</strong> con el panel cuando hay sol (entre las 10 y las 16, preferiblemente con el panel orientado al sur y perpendicular al sol).</li><li><strong>Almacenas</strong> en el powerbank, que ya forma parte de tu kit básico de 72h.</li><li><strong>Consumes</strong> cuando quieras: de noche, en lluvia, con el móvil en el bolsillo.</li></ul><p>La clave es que el powerbank tenga entrada USB que soporte el voltaje y amperaje que sale del panel. Un panel de 50 W genera entre 5 y 6 V a 8-10 A: necesitas un powerbank que acepte esa entrada (la mayoría de los modernos lo hacen). Si no, tendrás que usar un controlador solar (PWM o MPPT), lo cual añade coste y complejidad.</p><h3>¿Qué tamaño de panel es suficiente?</h3><p>Para uso doméstico en crisis:</p><ul><li><strong>30-50 W (lo mínimo):</strong> carga un móvil entre 6 y 10 veces al día de verano. Recarga un powerbank de 20.000 mAh cada 2-3 días. Cabe en una mochila. Es lo que recomiendo para la mayoría de hogares si solo vais a cargar móvil y radio.</li><li><strong>50-100 W (lo razonable):</strong> recarga el powerbank cada día de verano, cada dos días en invierno. Suficiente para mantener móvil, radio y frontal sin preocupaciones. Ocupa un poco más pero cabe en el maletero o en la terraza.</li><li><strong>100-200 W (el colmo portátil):</strong> recargas el powerbank varias veces al día. Es útil si necesitas alimentar algo más (una luz LED de habitación, un ventilador USB), pero empiezas a necesitar estructura y superficie fija. No es mochila: es terraza.</li></ul><h2>Qué buscar (y qué no) al comprar un panel</h2><p>En el mercado actual hay de todo. Lo importante es distinguir lo que funciona de lo que es decoración:</p><ul><li><strong>Paneles monocristalinos</strong> son más eficientes (mayor porcentaje de conversión) que los policristalinos: un monocristalino de 100 W pesa menos y ocupa menos que un policristalino del mismo wattaje. La diferencia de precio es mínima.</li><li><strong>Panel plegable o rígido:</strong> los plegables son prácticos para llevar en mochila; los rígidos son más resistentes y se instalan fijos en terraza o balcón. No hay gran diferencia en rendimiento si el monocristalino es el mismo.</li><li><strong>Controlador integrado:</strong> muchos paneles llevan ya un regulador PWM o un conector USB directo. Si no lo llevan, necesitas un controlador aparte (de 5 a 20 €). Busca siempre que sea compatible con tu powerbank.</li><li><strong>Evita paneles con batería integrada:</strong> la batería se calienta bajo el sol, se degrada y además es mucho más pesada. Lo correcto es panel + powerbank separado.</li><li><strong>La resistencia al agua importa:</strong> busca paneles con certificación IP65 como mínimo si vas a usarlos fuera. En una DANA llueve y no vas a guardar el panel bajo techo.</li></ul><h2>Errores típicos</h2><ul><li><strong>Comprar un panel grande sin pensar dónde instalarlo:</strong> un panel de 100 W necesita unos 6-7 m² de superficie para desplegar (los plegables de doble panel miden ~1,5 x 1 m; los de cuatro paneles, ~2 x 1 m). Si no tienes terraza o balcón orientado al sur, se queda a la sombra de un árbol y no sirve.</li><li><strong>No tener un powerbank cargado de antes:</strong> el panel genera energía cuando el sol da; si no almacenas, pierdes las horas sin sol. El powerbank es el puente entre la generación y el consumo.</li><li><strong>Apuntar el panel al cielo:</strong> el sol no está siempre arriba. En invierno, a las 10 de la mañana o las 4 de la tarde, el ángulo es muy inclinado y el rendimiento baja un 30-50 %. Ajusta el ángulo del panel según la hora.</li><li><strong>Cubrir el panel sin darse cuenta:</strong> una hoja, un posavasos, un trozo de niebla espesa. Si el panel se ensucia, la producción baja un 10-30 %. Límpialo de vez en cuando.</li><li><strong>Confundir vatios (W) con vatios-hora (Wh):</strong> el panel dice 100 W: son 100 vatios <strong>cuando el sol está perfecto en ese instante</strong>. Los Wh son lo que generas en un día (W × h). Para saber cuántas cargas de móvil puedes esperar, multiplica los W reales por las horas de sol equivalente.</li></ul><h2>¿Y si no hace sol durante semanas?</h2><p>Esa es la limitación real del panel solar portátil: no genera cuando no hay sol. Y en España, los meses de mayor riesgo de crisis (otoño e invierno) son precisamente los de menos sol. Por eso el panel es un <strong>complemento</strong>, no la base del kit. La base es el powerbank cargado (del que ya hablas en el <a href=\"#kit/kit-apagon\">kit de apagón</a>) y la radio a pilas. El panel solar es lo que garantiza que, cuando vuelva el sol, no tengas que depender de nadie para recargar.</p><p>La UE recomienda 72 horas de autonomía; el panel solar te ayuda a ir más allá de esos tres días si la crisis se alarga y el cielo se despeja. Pero si lo único que tienes es un panel y no un powerbank, no tienes nada.</p><h2>Resumen práctico</h2><ul><li><strong>Mínimo razonable:</strong> panel de 30-50 W monocristalino + powerbank de 20.000 mAh.</li><li><strong>Ideal:</strong> panel de 50-100 W + powerbank grande (20.000-30.000 mAh) con entrada USB amplia.</li><li><strong>Instalación fija:</strong> si tienes terraza sur, un panel rígido de 100 W fijo es lo mejor: no hay que orientarlo, no se mueve, genera todo el día.</li><li><strong>Recuerda:</strong> el panel no es la base del kit. El powerbank cargado, la radio a pilas y la comida no perecedera sí lo son. El panel solar te lleva de 3 días a una semana si el cielo se despeja.</li></ul><p class=\"nota-final\">El <a href=\"#kit/kit-apagon\">kit de apagón</a> incluye powerbank y panel solar como items recomendados; la <a href=\"#blog/comer-sin-luz-menus-3-dias\">guía de comer sin luz</a> detalla el orden de consumo; el <a href=\"#kit/kit-basico-72h\">kit básico</a> es la base sobre la que añadir cualquier otro elemento.</p>",
+      "kits_relacionados": [
+        "kit-apagon",
+        "kit-basico-72h",
+        "kit-hogar"
+      ],
+      "etiquetas": [
+        "energía solar",
+        "equipamiento",
+        "apagón",
+        "preparación",
+        "escenarios",
+        "comparativas"
+      ]
+    },
     {
       "slug": "seguridad-pasiva-hogar-incendios-electricos",
       "titulo": "Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada",
