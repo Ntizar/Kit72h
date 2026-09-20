@@ -1262,14 +1262,17 @@
           "Empieza por lo facil y productivo: lechuga, rucula, acelga, hierbas aromáticas, radishes",
           "Prepara el calendario: en España la siembra de primavera va de febrero a abril; otoño para espinaca, ajos y cebolla",
           "Monta compostera doméstica: los restos de cocina alimentan el huerto. Una cubeta de 20 L con grifo cuesta 25-35 € y evita olores",
-          "Cubre ventanas con malla anti-áfidos (2x8 m, 10-20 €): la mosca blanca y los trips destruyen un huerto de balcón en dos semanas sin protección"
+          "Cubre ventanas con malla anti-áfidos (2x8 m, 10-20 €): la mosca blanca y los trips destruyen un huerto de balcón en dos semanas sin protección",
+          "Consulta el reglamento de tu comunidad de vecinos o portal de vivienda: en algunos edificios (especialmente alquileres) prohiben macetas en balcones o terrasses comunes. Si lo permiten, pregunta sobre peso máximo y riego.",
+          "Compra macetas con plato: el plato recoje el agua de riego y evita manchas en el suelo de la entrada o terraza comunal. Sin plato, nadie te dejará el huerto."
         ],
         "durante": [
           "Riega a primera hora o al atardecer, nunca al sol directo",
           "Sustrato suelto y con drenaje: maceta sin agujeros es la muerte segura de cualquier planta",
           "Abona cada 2-3 semanas con compost o abono liquido",
           "Si usas riego por goteo, revisa los goteros cada semana: se tapan con facilidad y una planta seca no se nota hasta que es tarde",
-          "La malla anti-áfidos se comprueba tras tormentas: si hay roturas, cámbiala. Un agujero de 2 cm es suficiente para que entre la mosca blanca"
+          "La malla anti-áfidos se comprueba tras tormentas: si hay roturas, cámbiala. Un agujero de 2 cm es suficiente para que entre la mosca blanca",
+          "Si cultivas en maceta, renueva el sustrato cada temporada: el de una temporada ya ha perdido nutrientes y se compacta. Unos 5-8 € por maceta y dos cosechas nuevas."
         ],
         "despues": [
           "Cosecha por fuera (hojas exteriores) para que la planta siga produciendo",
@@ -1301,9 +1304,17 @@
               "descripcion": "Tierra con abono incorporado, sirve para practicamente cualquier hortaliza de maceta.",
               "precio_aprox": "24 €",
               "prioridad": "esencial"
+            },
+            {
+              "producto": "Medidor de humedad y pH del suelo (3-en-1)",
+              "busqueda": "https://www.amazon.es/s?k=medidor+humedad+ph+suelo&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Un medidor de 12 € te indica cuándo regar y si la tierra es ácida o alcalina. La mayoría de hortalizas prefieren pH 6-7; la lechuga aguanta hasta 7.5. Sin este dato, riegas a ciegas y pierdes el 60% del esfuerzo.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
             }
           ],
-          "intro": "Semillas, bandejas y sustrato. Con menos de 40 € tienes medio año de ensaladas y germinados."
+          "intro": "Semillas, bandejas, sustrato y medidor. Con menos de 60 € tienes medio año de ensaladas, germinados y tomates cherry bien regados."
         },
         {
           "titulo": "Equipo y herramientas",
@@ -1378,15 +1389,23 @@
               "descripcion": "Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas.",
               "precio_aprox": "20-35 €",
               "prioridad": "recomendado"
+            },
+            {
+              "producto": "Red antipájaros para huerto (1x3 m, malla fina 2 cm)",
+              "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "recomendado"
             }
           ],
-          "intro": "Compostar convierte residuos en oro negro. La malla evita que los insectos destruyan el huerto; el riego por goteo lo salva cuando no estás."
+          "intro": "Compostar convierte residuos en oro negro. La malla anti-áfidos evita que los insectos destruyan el huerto, la red antipájaros protege del suelo, y el riego por goteo lo salva cuando no estás."
         }
       ],
       "paraQuien": "Para quien quiere el paso siguiente: dejar de depender del carrito de la compra y entender de dónde viene lo que come. Empezar por un balcón con germinados es realista, barato y engancha. También es tu seguro alimentario: unos kilos de semillas bien guardados dan comida un año.",
       "paraQuien_no": "No es un plan de autosuficiencia real para una familia sin más: para vivir de un huerto hacen falta suelo, agua, tiempo y dos o tres años de aprendizaje. Y si no tienes ni dónde poner un tiesto, monta primero el kit básico: es más urgente y más barato.",
       "coste_total": "50-200 € para empezar bien (semillas, sustrato, bandejas, herramientas) — hasta 300 € con compostera, malla y riego.",
-      "total_productos": 11,
+      "total_productos": 13,
       "afiliado": true,
       "errores": [
         "Empezar con 20 variedades y un huerto grande. Se abandona en seis semanas. Empieza por tres cosas que comas: tomate, lechuga, aromáticas.",
