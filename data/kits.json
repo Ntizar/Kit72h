@@ -26,8 +26,8 @@
         "fecha": "2026-09-03"
       }
     ],
-    "ultima_revision": "2026-09-18",
-    "nota_revision": "2026-09-18: undecima vigilancia — fuentes oficiales sin cambios. preparedness_es de la Comision (HTTP 200) mantiene la Estrategia de Preparacion de la Union con la misma directriz de autosuficiencia de la poblacion durante un minimo de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes; presscorner ip_25_698 responde 200). Las 3 paginas de proteccioncivil.es responden 200 sin cambios: recomendaciones (misma clasificacion: FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 dias consecutivos sobre el percentil 95 en al menos el 10% de estaciones, serie 1981-2010; plan Sanidad/AEMET/SGPCyE activo del 1/6 al 15/9; 4 niveles de aviso). Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el unico dispositivo obligatorio desde el 1/1/2026 (RD 159/2021; web DGT con lista de homologados vigente); la enmienda de Vox para volver a los triangulos sigue sin dictamen ni votacion en el Congreso (Maldita.es, 08/09/2026); circulo un bulo de multas de 30.000 euros que Interior desmintio explicitamente (cifras reales: 80 EUR no llevarla, 200 EUR no senalizar la averia). Sin nuevas directrices ni listas oficiales de kit de 72h que aplicar (el paquete de Directrices Basicas del BOE de 27/04/2026 y el RDL 20/2026 de medidas laborales por incendios no anaden items al kit). Sin cambios en kits.json mas alla de esta meta; el commit incluye ademas cambios pendientes del buscador nocturno en propuestas-fichas.json (fechas de fichas sin candidato). Vigilancias previas: decima (17/09) y novena (16/09), sin cambios en fuentes.",
+    "ultima_revision": "2026-09-21",
+    "nota_revision": "2026-09-21: duodécima vigilancia — fuentes oficiales sin cambios. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de Preparación de la Unión con la misma directriz de autosuficiencia de la población durante un mínimo de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes; presscorner ip_25_698 responde 200). Las 3 páginas de proteccioncivil.es responden 200 sin cambios: recomendaciones (misma clasificación: FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95 en al menos el 10% de estaciones, serie 1981-2010). Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la nota oficial de Interior/DGT citada por el kit coche responde 200 y dgt.es/v16 (lista de homologados) responde 200; la enmienda de Vox para volver a los triángulos sigue sin dictamen ni votación en el Congreso (Maldita.es 08/09/2026; confirmaciónsin tramitación a fecha de hoy). Novedades sin impacto en kits: endurecimiento de equipamiento obligatorio en moto desde el 1/10/2026 (guantes y calzado cerrado) — afecta a motociclistas, no a los kits de 72h. Sin nuevas directrices ni listas oficiales de kit de 72h que aplicar. Desde esta revisión se guardan snapshots de texto y hashes SHA-256 de las 4 fuentes principales en data/snapshots/ para detección de cambios por diff en próximas vigilancias. Kits sin modificaciones. Vigilancias previas: undécima (18/09) y décima (17/09), sin cambios en fuentes.",
     "revision": 1
   },
   "kits": [
@@ -840,22 +840,22 @@
       "resumen": "Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.",
       "guia": {
         "antes": [
-                  "Comparte siempre ruta y hora de vuelta con alguien",
-                  "Consulta el aviso meteorológico (AEMET) antes de salir",
-                  "Descarga la app del 112 de tu comunidad autónoma",
-                  "Nunca estrenes calzado ni calcetines en una caminata larga: el 74% de los peregrinos del Camino de Santiago sufren ampollas en los primeros días (Colexio de Podólogos de Galicia)"
-                ],
-                "durante": [
-                  "Si te pierdes, quédate quieto y hazte visible",
-                  "Raciona agua y no te desvíes de la ruta conocida",
-                  "Usa bastones si es posible: reducen hasta un 30% el impacto en rodillas y tobillos",
-                  "Si sientes rozamiento: para y pon el apósito hidrocoloides antes de que se forme la ampolla (Compeed, Scholl o similar)"
-                ],
-                "despues": [
-                  "Repón y revisa el kit tras cada salida",
-                  "Anota qué te faltó para la próxima",
-                  "Seca y guarda el chubasquero: la humedad acumula moho y pierde impermeabilidad"
-                ]
+          "Comparte siempre ruta y hora de vuelta con alguien",
+          "Consulta el aviso meteorológico (AEMET) antes de salir",
+          "Descarga la app del 112 de tu comunidad autónoma",
+          "Nunca estrenes calzado ni calcetines en una caminata larga: el 74% de los peregrinos del Camino de Santiago sufren ampollas en los primeros días (Colexio de Podólogos de Galicia)"
+        ],
+        "durante": [
+          "Si te pierdes, quédate quieto y hazte visible",
+          "Raciona agua y no te desvíes de la ruta conocida",
+          "Usa bastones si es posible: reducen hasta un 30% el impacto en rodillas y tobillos",
+          "Si sientes rozamiento: para y pon el apósito hidrocoloides antes de que se forme la ampolla (Compeed, Scholl o similar)"
+        ],
+        "despues": [
+          "Repón y revisa el kit tras cada salida",
+          "Anota qué te faltó para la próxima",
+          "Seca y guarda el chubasquero: la humedad acumula moho y pierde impermeabilidad"
+        ]
       },
       "secciones": [
         {
@@ -881,16 +881,16 @@
               "descripcion": "La orientación clásica no falla. Aprende a usarla antes de salir.",
               "precio_aprox": "10-25 €",
               "prioridad": "recomendado"
-                          },
-                          {
-                            "producto": "Cuerda de paracord 550 (30m)",
-                            "afiliado": null,
-                            "descripcion": "Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar.",
-                            "precio_aprox": "8-19 €",
-                            "prioridad": "recomendado"
-                          }
-                        ],
-                        "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa. Añade paracord para amarres e improvisaciones."
+            },
+            {
+              "producto": "Cuerda de paracord 550 (30m)",
+              "afiliado": null,
+              "descripcion": "Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar.",
+              "precio_aprox": "8-19 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa. Añade paracord para amarres e improvisaciones."
         },
         {
           "titulo": "Refugio y abrigo",
@@ -931,34 +931,34 @@
             },
             {
               "producto": "Crema solar y labial con protección",
-                            "afiliado": "https://www.amazon.es/dp/B09XRDG5HC?tag=nti0c8-21",
-                            "descripcion": "SPF 50: la radiación en montaña es mucho mayor que en la playa.",
-                            "precio_aprox": "8-18 €",
-                            "prioridad": "recomendado"
-                          },
-                          {
-                            "producto": "Apósitos hidrocoloides para ampollas",
-                            "afiliado": null,
-                            "descripcion": "El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.",
-                            "precio_aprox": "7-22 €",
-                            "prioridad": "esencial"
-                          },
-                          {
-                            "producto": "Navaja multiuso",
-                                          "afiliado": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=nti0c8-21",
-                                          "descripcion": "Corta, sierra, abre latas y repara material. La navaja suiza del senderista.",
-                                          "precio_aprox": "15-35 €",
-                                          "prioridad": "recomendado"
-                                        },
-                                        {
-                                          "producto": "Kit de costura de emergencia",
-                                          "afiliado": null,
-                                          "descripcion": "Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta.",
-                                          "precio_aprox": "3-8 €",
-                                          "prioridad": "recomendado"
-                                        },
-                                        {
-                                          "producto": "Frontal con pilas de repuesto",
+              "afiliado": "https://www.amazon.es/dp/B09XRDG5HC?tag=nti0c8-21",
+              "descripcion": "SPF 50: la radiación en montaña es mucho mayor que en la playa.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Apósitos hidrocoloides para ampollas",
+              "afiliado": null,
+              "descripcion": "El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.",
+              "precio_aprox": "7-22 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Navaja multiuso",
+              "afiliado": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=nti0c8-21",
+              "descripcion": "Corta, sierra, abre latas y repara material. La navaja suiza del senderista.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Kit de costura de emergencia",
+              "afiliado": null,
+              "descripcion": "Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Frontal con pilas de repuesto",
               "afiliado": "https://www.amazon.es/Power-Bank-Solar-20000mAh-Linterna/dp/B0GRMM8ZQS?tag=nti0c8-21",
               "descripcion": "Manos libres para caminar de noche o reparar material.",
               "precio_aprox": "15-35 €",
