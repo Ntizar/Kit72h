@@ -50,7 +50,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-18",
+    "fecha": "2026-09-21",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
@@ -58,7 +58,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-18",
+    "fecha": "2026-09-21",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
@@ -394,7 +394,7 @@
     "seccion": "Documentos e identificación",
     "busqueda": "fotos recientes del bebé y de la familia en papel",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-17",
+    "fecha": "2026-09-21",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Organizador de pastillas semanal (pastillero) con copia de pautas": {
@@ -796,5 +796,93 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=jab%C3%B3n+neutro+en+pastilla+%2B+esponja&tag=nti0c8-21"
+  },
+  "kit-montana|Cuerda de paracord 550 (30m)": {
+    "kit": "kit-montana",
+    "seccion": "Orientación y comunicación",
+    "busqueda": "cuerda de paracord 550",
+    "rango_esperado": "8-19 €",
+    "fecha": "2026-09-21",
+    "asin": "B0CKW3F157",
+    "titulo": "Romon Paracord 550 30 Metros, Cuerda Paracord 4mm,Cordino 7 Hebras, Cuerda para Toldo Exterior, Rope Camping, SOGA Tende",
+    "precio": 6.99,
+    "rating": 4.4,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0CKW3F157?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": null
+  },
+  "kit-montana|Apósitos hidrocoloides para ampollas": {
+    "kit": "kit-montana",
+    "seccion": "Salud y reparación",
+    "busqueda": "apósitos hidrocoloides para ampollas",
+    "rango_esperado": "7-22 €",
+    "fecha": "2026-09-21",
+    "asin": "B0FP16NDYT",
+    "titulo": "Rollo de hidrocoloide 5 cm x 5 m, vendaje hidrocoloide, tirita hidrocoloide, tirita cortada a medida para ampollas, acné",
+    "precio": 9.99,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0FP16NDYT?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": null
+  },
+  "kit-montana|Kit de costura de emergencia": {
+    "kit": "kit-montana",
+    "seccion": "Salud y reparación",
+    "busqueda": "kit de costura de emergencia",
+    "rango_esperado": "3-8 €",
+    "fecha": "2026-09-21",
+    "asin": "B0DK3LBNFM",
+    "titulo": "Kit Costura,Kit de Costura,Costurero Accesorios Costura Kit de Accesorios para el Viajes y Principiantes y emergencias, ",
+    "precio": 6.49,
+    "rating": 4.3,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0DK3LBNFM?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": null
+  },
+  "huerto-autosuficiencia|Medidor de humedad y pH del suelo (3-en-1)": {
+    "kit": "huerto-autosuficiencia",
+    "seccion": "Para empezar a sembrar",
+    "busqueda": "https://www.amazon.es/s?k=medidor+humedad+ph+suelo&tag=nti0c8-21",
+    "rango_esperado": "8-15 €",
+    "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
+  },
+  "huerto-autosuficiencia|Compostera doméstica con grifo (20 L)": {
+    "kit": "huerto-autosuficiencia",
+    "seccion": "Compostaje y protección",
+    "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=nti0c8-21",
+    "rango_esperado": "25-35 €",
+    "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
+  },
+  "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
+    "kit": "huerto-autosuficiencia",
+    "seccion": "Compostaje y protección",
+    "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=nti0c8-21",
+    "rango_esperado": "10-18 €",
+    "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
+  },
+  "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
+    "kit": "huerto-autosuficiencia",
+    "seccion": "Compostaje y protección",
+    "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=nti0c8-21",
+    "rango_esperado": "20-35 €",
+    "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
+  },
+  "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
+    "kit": "huerto-autosuficiencia",
+    "seccion": "Compostaje y protección",
+    "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=nti0c8-21",
+    "rango_esperado": "5-12 €",
+    "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
   }
 }

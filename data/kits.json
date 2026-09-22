@@ -884,10 +884,12 @@
             },
             {
               "producto": "Cuerda de paracord 550 (30m)",
-              "afiliado": null,
+              "afiliado": "https://www.amazon.es/dp/B0CKW3F157?tag=nti0c8-21",
               "descripcion": "Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar.",
               "precio_aprox": "8-19 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-21"
             }
           ],
           "intro": "Saber dónde estás y poder avisar. El silbato se oye mucho más lejos que la voz y no cansa. Añade paracord para amarres e improvisaciones."
@@ -938,10 +940,12 @@
             },
             {
               "producto": "Apósitos hidrocoloides para ampollas",
-              "afiliado": null,
+              "afiliado": "https://www.amazon.es/dp/B0FP16NDYT?tag=nti0c8-21",
               "descripcion": "El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.",
               "precio_aprox": "7-22 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-21"
             },
             {
               "producto": "Navaja multiuso",
@@ -952,10 +956,12 @@
             },
             {
               "producto": "Kit de costura de emergencia",
-              "afiliado": null,
+              "afiliado": "https://www.amazon.es/dp/B0DK3LBNFM?tag=nti0c8-21",
               "descripcion": "Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta.",
               "precio_aprox": "3-8 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-21"
             },
             {
               "producto": "Frontal con pilas de repuesto",
