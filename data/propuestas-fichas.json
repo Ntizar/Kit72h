@@ -50,7 +50,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
@@ -58,7 +58,7 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
@@ -394,7 +394,7 @@
     "seccion": "Documentos e identificación",
     "busqueda": "fotos recientes del bebé y de la familia en papel",
     "rango_esperado": "0 €",
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "estado": "sin candidato verificado"
   },
   "kit-mayores|Organizador de pastillas semanal (pastillero) con copia de pautas": {
@@ -883,6 +883,38 @@
     "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=nti0c8-21",
     "rango_esperado": "5-12 €",
     "fecha": "2026-09-21",
+    "estado": "sin candidato verificado"
+  },
+  "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
+    "kit": "kit-bebe",
+    "seccion": "Leche y comida de reserva",
+    "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=nti0c8-21",
+    "rango_esperado": "10-18 €",
+    "fecha": "2026-09-22",
+    "estado": "sin candidato verificado"
+  },
+  "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
+    "kit": "kit-bebe",
+    "seccion": "Higiene y pañales",
+    "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=nti0c8-21",
+    "rango_esperado": "6-12 €",
+    "fecha": "2026-09-22",
+    "estado": "sin candidato verificado"
+  },
+  "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
+    "kit": "kit-bebe",
+    "seccion": "Abrigo y sueño",
+    "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=nti0c8-21",
+    "rango_esperado": "35-80 €",
+    "fecha": "2026-09-22",
+    "estado": "sin candidato verificado"
+  },
+  "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
+    "kit": "kit-bebe",
+    "seccion": "Salud y calma",
+    "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=nti0c8-21",
+    "rango_esperado": "5-10 €",
+    "fecha": "2026-09-22",
     "estado": "sin candidato verificado"
   }
 }
