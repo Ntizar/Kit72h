@@ -1617,7 +1617,7 @@
       "resumen": "Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.",
       "paraQuien": "Hogares con bebés de 0-18 meses, y también quien espera uno: se monta en dos tardes y se amortiza igual en el día a día. Si amamantas, gran parte de este kit es tranquilidad extra; si no, es imprescindible.",
       "paraQuien_no": "Si el niño ya come solo de todo, con el kit básico más dos o tres cosas de aquí (snacks, entretener, abrigo) sobra. Este kit está pensado para lactantes, no para niños mayores.",
-      "coste_total": "80-150 € (gran parte es lo que ya usas a diario: rotarlo, no duplicarlo)",
+      "coste_total": "90-170 € (gran parte es lo que ya usas a diario: rotarlo, no duplicarlo)",
       "fuente": {
         "nombre": "Protección Civil — recomendaciones para familias con menores",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
@@ -1627,18 +1627,22 @@
           "Anota en un papel la toma de medicación/pauta de leche del bebé y el teléfono de tu pediatra: en una emergencia, no saber qué toma es un lío",
           "Ten un biberón y un vaso de aprendizaje que no uses nunca: es de reserva, que no esté en el lavavajillas el día que haga falta",
           "Guarda fotocopias del DNI del bebé/libro de salud y cartilla de vacunación en la funda estanca",
-          "Habla con la familia: ¿quién coge al bebé si hay que evacuar rápido? Decide roles ahora"
+          "Habla con la familia: ¿quién coge al bebé si hay que evacuar rápido? Decide roles ahora",
+          "Escribe la fecha de apertura en la tapa de la lata de fórmula y ponte un aviso a los 25 días: una vez abierta se gasta en unas 4 semanas (lo marca el fabricante), no aguanta hasta la caducidad impresa. Rotarla es lo que hace que el kit sirva."
         ],
         "durante": [
           "Con un bebé en brazos, la mochila de evacuación se divide: alguien lleva al niño, tú llevas la bolsa de 24 h del pequeño",
           "Si no sabes si podrás amamantar con calma, saca leche con sacaleches manual los primeros días para no perder producción",
           "Vigila la temperatura del bebé: sin luz no hay termómetro de habitación, el tacto en nuca y pecho engaña, usa el termómetro del botiquín",
-          "Agua dudosa para el biberón: hervir no siempre es posible — potabilizar y enfriar, o agua embotellada de reserva baja para lactancia"
+          "Agua dudosa para el biberón: hervir no siempre es posible — potabilizar y enfriar, o agua embotellada de reserva baja para lactancia",
+          "Fórmula en polvo: prepárala justo antes de la toma (AESAN recomienda consumirla antes de 2 horas) y tira lo que sobre del biberón que el bebé ya ha mamado. Con las líquidas listas para consumir no tienes ese reloj.",
+          "Sin poder hervir: esteriliza con pastillas de frío y aclara con agua potable. Y si el bebé tiene menos de 28 días, nació prematuro o de bajo peso, AESAN indica agua hervida y polvo añadido con el agua a más de 70 °C (consulta la etiqueta y a tu pediatra)."
         ],
         "despues": [
           "Revisa golpes y sustos: los bebés no verbalizan, cualquier cambio raro de conducta o de sueño, al pediatra",
           "Repón lo usado el mismo día: la reserva de pañales y leche sin reponer es un kit a medias",
-          "Si la crisis fue larga, pide a tu centro de salud la cartilla de vacunación revisada y puesta al día si toca"
+          "Si la crisis fue larga, pide a tu centro de salud la cartilla de vacunación revisada y puesta al día si toca",
+          "Repón con la talla y la dosis de ahora, no con las del kit: el bebé cambia cada mes. Y si esos días hubo fiebre, vómitos o menos pañales mojados de lo normal, cuéntaselo a tu pediatra antes de dar el episodio por cerrado."
         ]
       },
       "errores": [
@@ -1646,7 +1650,9 @@
         "Fiarte de poder hervir agua siempre: sin gas ni luz no esterilizas biberones — necesita bolsa de agua potable específica y vaso, no sólo biberón.",
         "No contar los pañales: un bebé usa 6-8 pañales al día. 72 horas son ~20 pañales: una bolsa pequeña que casi nadie mete.",
         "Guardar la papilla nueva que el bebé no ha probado nunca: en una emergencia se prueba comida que ya sabes que tolera.",
-        "Olvidar el abrigo 'de siguiente talla': el bebé crece y el conjunto de abrigo del kit se queda corto a los 3 meses sin que nadie se dé cuenta."
+        "Olvidar el abrigo 'de siguiente talla': el bebé crece y el conjunto de abrigo del kit se queda corto a los 3 meses sin que nadie se dé cuenta.",
+        "Guardar el biberón que el bebé no se ha terminado para la siguiente toma. Con fórmula en polvo se tira lo que sobra: es el error más común en una emergencia y el que más gastroenteritis provoca en un bebé.",
+        "Dejar la fórmula líquida en el maletero o en el trastero: el calor la degrada antes de la caducidad. El polvo, en cambio, no va a la nevera (la humedad lo apelmaza): fresco y seco, no frío."
       ],
       "secciones": [
         {
@@ -1758,6 +1764,14 @@
               "busqueda": "bolsas de almacenamiento de leche materna",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-07"
+            },
+            {
+              "producto": "Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)",
+              "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco.",
+              "precio_aprox": "10-18 €",
+              "prioridad": "recomendado"
             }
           ]
         },
@@ -1824,6 +1838,14 @@
               "busqueda": "jabón neutro en pastilla + esponja",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-15"
+            },
+            {
+              "producto": "Pastillas esterilizadoras en frío para biberones y tetinas",
+              "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas.",
+              "precio_aprox": "6-12 €",
+              "prioridad": "recomendado"
             }
           ]
         },
@@ -1870,6 +1892,14 @@
               "busqueda": "portabebés ergonómico",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-05"
+            },
+            {
+              "producto": "Cuna de viaje plegable (o capazo rígido de recién nacido)",
+              "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco.",
+              "precio_aprox": "35-80 €",
+              "prioridad": "extra"
             }
           ]
         },
@@ -1926,6 +1956,14 @@
               "busqueda": "mantas empapadores de tela de confianza",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-05"
+            },
+            {
+              "producto": "Chupetes de reserva (2-3, la talla que usa ahora) y portachupete",
+              "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "extra"
             }
           ]
         },
