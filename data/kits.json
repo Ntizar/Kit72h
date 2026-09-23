@@ -27,7 +27,7 @@
       }
     ],
     "ultima_revision": "2026-09-23",
-    "nota_revision": "2026-09-23: decimocuarta vigilancia — las 4 fuentes oficiales responden sin cambios sustantivos. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes). proteccioncivil.es: recomendaciones (misma clasificación FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95, serie 1981-2010, mínimamente 10% de estaciones). Diff de contenido empty tras descontar chrome de menú/footer. NOTA TÉCNICA: hashes regenerados el 22/09 con formato de líneas normalizadas ya estable; la diferencia de hashes del 23/09 respecto al 22/09 es solo chrome (selector de idioma UE y bloques de navegación/móvil), líneas sustantivas idénticas. Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la enmienda de Vox sigue en tramitación sin dictamen ni fecha de votación (Maldita, 08/09/2026) y Newtral (22/09/2026) confirma que la reforma del Reglamento General de Circulación no la afecta. CAMBIO APLICADO: nuevo Real Decreto 518/2026, de 24 de junio (BOE-A-2026-13889, publicado 26/06/2026, en vigor 01/10/2026), que modifica el Reglamento General de Circulación en materia de usuarios vulnerables — afecta al kit coche: al rebasar un vehículo inmovilizado por avería o accidente hay que reducir al menos 20 km/h el límite y dejar 1,5 m de separación lateral, y en retenciones los vehículos deben abrir un carril de emergencia central para servicios de asistencia. Añadida recomendación 'durante' en el kit coche citando el RD y su fecha; contenido de los kits y productos sin otros cambios.",
+    "nota_revision": "2026-09-23: decimocuarta vigilancia — las 4 fuentes oficiales responden sin cambios sustantivos. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes). proteccioncivil.es: recomendaciones (misma clasificación FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95, serie 1981-2010, mínimamente 10% de estaciones). Diff de contenido empty tras descontar chrome de menú/footer. NOTA TÉCNICA: hashes regenerados el 22/09 con formato de líneas normalizadas ya estable; la diferencia de hashes del 23/09 respecto al 22/09 es solo chrome (selector de idioma UE y bloques de navegación/móvil), líneas sustantivas idénticas. Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la enmienda de Vox sigue en tramitación sin dictamen ni fecha de votación (Maldita, 08/09/2026) y Newtral (22/09/2026) confirma que la reforma del Reglamento General de Circulación no la afecta. CAMBIO APLICADO: nuevo Real Decreto 518/2026, de 24 de junio (BOE-A-2026-13889, publicado 26/06/2026, en vigor 01/10/2026), que modifica el Reglamento General de Circulación en materia de usuarios vulnerables — afecta al kit coche: al rebasar un vehículo inmovilizado por avería o accidente hay que reducir al menos 20 km/h el límite y dejar 1,5 m de separación lateral, y en retenciones los vehículos deben abrir un carril de emergencia central para servicios de asistencia. Añadida recomendación 'durante' en el kit coche citando el RD y su fecha; contenido de los kits y productos sin otros cambios. // EDITOR NOCTURNO 23/09/2026 (editor nocturno): kit-mayores ampliado con 4 productos reales que faltaban —tensiómetro de brazo a pilas (sección Medicación y crónicos), pulsera de identificación médica (Sentidos y ayudas técnicas) y sección nueva 'Higiene, incontinencia y frío' con empapadores/pañales, cuña con asa y manta térmica aluminizada—, 6 consejos nuevos en la guía (antes/durante/después) y un error típico más (no prever la incontinencia sin lavadora). paraQuien, paraQuien_no y el resto de secciones sin cambios. Productos nuevos apuntan a búsqueda de Amazon (es_busqueda: true): no se inventan fichas /dp/.",
     "revision": 1
   },
   "kits": [
@@ -2023,19 +2023,25 @@
           "Haz la ficha médico-identificativa con la persona: enfermedades, medicación con dosis, alergias, médico, contactos. Se renueva cada 6 meses con la revisión.",
           "Pide al médico o a la enfermera el plan de 2 semanas de medicación crónica: en España la receta electrónica permite retirar con antelación la mayoría de tratamientos; tu médico te dice cómo.",
           "Practica el uso de la ficha y del teléfono de teleasistencia con la persona, no sólo delante: en una emergencia no vale con 'ya lo sabe'.",
-          "Acuerda con vecinos y familia quién llama a quién y qué señal de aviso usáis (llamada, mensaje, golpear la pared: en apagones hay quien usa un silbato)."
+          "Acuerda con vecinos y familia quién llama a quién y qué señal de aviso usáis (llamada, mensaje, golpear la pared: en apagones hay quien usa un silbato).",
+          "Cuenta las veces que se levanta de noche para ir al baño: si es más de una, el orinal con asa, la luz de noche en el pasillo y una alfombrilla antideslizante van antes que cualquier otro producto de la lista.",
+          "Guarda la medicación en una bolsa con asa que la persona pueda colgarse, no en cajas apiladas: en una salida rápida solo se coge lo que se agarra con una sola mano."
         ],
         "durante": [
           "La medicación primero: si hay que decidir, el tratamiento crónico no se salta; la reserva del kit es para eso.",
           "Con audífonos sin pilas o gafas rotas, la persona se aísla y se desorienta: comprueba que puede oír y ver antes que nada.",
           "Calor o frío: los mayores regulan peor la temperatura y no notan la sed. En ola de calor sin luz, agua a la vista y un horario de bebidas, aunque no pidan.",
-          "No dejes que tome decisiones solo si está confuso: el golpe de calor y la deshidratación confunden antes de debilitar."
+          "No dejes que tome decisiones solo si está confuso: el golpe de calor y la deshidratación confunden antes de debilitar.",
+          "Sin lavadora ni agua caliente, la incontinencia es el problema del día 2: usa empapadores y una bolsa aparte para la ropa sucia. No laves a mano con el agua de reserva: esa agua es para beber.",
+          "Si el teléfono falla y vive sola, el silbato y golpes rítmicos en la pared son la forma de que un vecino la localice. Acuérdalo antes con el vecino y con ella, con una señal concreta (tres golpes, pausa, tres golpes)."
         ],
         "despues": [
           "Revisa la medicación gastada y repón el kit el mismo día con la receta.",
           "Comprueba pilas de audífonos, marcapasos si aplica y linternas: con el susto muchas cosas se usan sin reponer.",
           "Habla con el centro de salud si hubo cortes de tratamiento: a veces hay que volver a pautar.",
-          "Anima a contar lo vivido: tras una emergencia larga, el bajón anímico del mayor es tan real como la rotura de una tubería."
+          "Anima a contar lo vivido: tras una emergencia larga, el bajón anímico del mayor es tan real como la rotura de una tubería.",
+          "Revisa la piel en pliegues y zonas de apoyo si hubo más de 24 horas sin poder asear: una irritación o una zona enrojecida que no se recupera se comenta con su enfermera o su médico, no se trata en casa.",
+          "Apunta qué producto faltó de verdad y reponlo ese mismo día: el kit se corrige con lo que se usó, no con lo que creías que ibas a usar."
         ]
       },
       "errores": [
@@ -2043,7 +2049,8 @@
         "Olvidar las pilas del audífono: sin audición, la persona no oye la radio, no entiende el aviso y no pide ayuda. Un blíster de pilas de repuesto en cada kit.",
         "Confiar en el móvil: pantallas pequeñas, letra pequeña y sin quien le ayude a marcar. El teléfono fijo sin electricidad sigue funcionando (los analógicos sí) y los contactos en papel no se agotan.",
         "No preparar la caída: sin luz, un pasillo con alfombra y sin luz de noche es una cadera rota. Las balizas LED de noche valen 10 € y evitan el 50% del escenario.",
-        "Guardar todo en el armario alto de la cocina. Si evacúa, la bolsa de 24 horas del mayor tiene que estar a la altura de la mano, con nombre y contactos."
+        "Guardar todo en el armario alto de la cocina. Si evacúa, la bolsa de 24 horas del mayor tiene que estar a la altura de la mano, con nombre y contactos.",
+        "No contar con la incontinencia. Sin lavadora ni agua caliente, un solo día sin recambios suficientes obliga a decidir entre higiene y agua de beber. Se resuelve con 15-30 € en el armario mucho antes de que haga falta."
       ],
       "secciones": [
         {
@@ -2099,6 +2106,15 @@
               "busqueda": "pastilla potabilizadora y vaso medidor para medicación",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-06"
+            },
+            {
+              "producto": "Tensiómetro de brazo a pilas con memoria",
+              "afiliado": "https://www.amazon.es/s?k=tensiometro+de+brazo+a+pilas+con+memoria&tag=nti0c8-21",
+              "descripcion": "Si en casa hay hipertensión diagnosticada, el de enchufe no sirve en un apagón. Este funciona a pilas y guarda las últimas medidas, para que puedas anotarlas en la ficha. Qué valores son normales y cuándo medir los fija su médico o su enfermera: aquí solo entra el aparato.",
+              "precio_aprox": "25-45 €",
+              "prioridad": "recomendado",
+              "busqueda": "Tensiómetro de brazo a pilas con memoria",
+              "es_busqueda": true
             }
           ]
         },
@@ -2155,6 +2171,15 @@
               "busqueda": "imán o bolsa de seguridad para marcapasos",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-16"
+            },
+            {
+              "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+              "afiliado": "https://www.amazon.es/s?k=pulsera+identificacion+medica+grabado+nombre+telefono+alergias&tag=nti0c8-21",
+              "descripcion": "Con deterioro cognitivo o desorientación, en una evacuación lo primero que se pierde es la cartera con los papeles. Una pulsera o collar grabado con nombre, teléfono de un familiar y alergias se lee sin desbloquear nada ni abrir ningún bolsillo, y no caduca ni se queda sin batería.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "esencial",
+              "busqueda": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+              "es_busqueda": true
             }
           ]
         },
@@ -2245,6 +2270,39 @@
               "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene, incontinencia y frío",
+          "intro": "Sin lavadora y sin agua caliente, lo que en casa se resuelve en una colada se convierte en el problema del día 2. Aquí van las tres cosas que más dignidad y más piel salvan en una persona mayor cuando no hay servicios.",
+          "items": [
+            {
+              "producto": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+              "afiliado": "https://www.amazon.es/s?k=empapadores+y+panales+de+incontinencia+pack&tag=nti0c8-21",
+              "descripcion": "Si hay incontinencia, es lo primero que se acaba y lo último que se puede improvisar: sin lavadora, sin agua caliente y con el baño a oscuras, no hay recambio casero. Talla y absorción se ajustan con su enfermera o en la farmacia, no a ojo.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "esencial",
+              "busqueda": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Cuña u orinal con asa",
+              "afiliado": "https://www.amazon.es/s?k=cuna+orinal+con+asa+para+persona+mayor&tag=nti0c8-21",
+              "descripcion": "Con movilidad reducida o sin luz, el viaje nocturno al baño es la caída esperada. Una cuña con asa y una luz de noche bastan para que no tenga que levantarse a oscuras. Se vacía y se limpia con agua de limpieza, nunca con el agua de beber reservada.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "recomendado",
+              "busqueda": "Cuña u orinal con asa",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Manta térmica de emergencia aluminizada (pack de 2)",
+              "afiliado": "https://www.amazon.es/s?k=manta+termica+de+emergencia+aluminizada+pack&tag=nti0c8-21",
+              "descripcion": "Los mayores pierden calor más rápido y lo notan menos. La manta dorada no da calor por sí sola: refleja el del cuerpo. Funciona mucho mejor por dentro de una manta normal, no sola encima. Cuesta menos que un café y cabe en cualquier cajón.",
+              "precio_aprox": "4-10 €",
+              "prioridad": "recomendado",
+              "busqueda": "Manta térmica de emergencia aluminizada (pack de 2)",
+              "es_busqueda": true
             }
           ]
         },
