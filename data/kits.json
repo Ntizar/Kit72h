@@ -2279,30 +2279,33 @@
           "items": [
             {
               "producto": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
-              "afiliado": "https://www.amazon.es/s?k=empapadores+y+panales+de+incontinencia+pack&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DT6M79BB?tag=nti0c8-21",
               "descripcion": "Si hay incontinencia, es lo primero que se acaba y lo último que se puede improvisar: sin lavadora, sin agua caliente y con el baño a oscuras, no hay recambio casero. Talla y absorción se ajustan con su enfermera o en la farmacia, no a ojo.",
               "precio_aprox": "15-30 €",
               "prioridad": "esencial",
               "busqueda": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-23"
             },
             {
               "producto": "Cuña u orinal con asa",
-              "afiliado": "https://www.amazon.es/s?k=cuna+orinal+con+asa+para+persona+mayor&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DBJBN5ZN?tag=nti0c8-21",
               "descripcion": "Con movilidad reducida o sin luz, el viaje nocturno al baño es la caída esperada. Una cuña con asa y una luz de noche bastan para que no tenga que levantarse a oscuras. Se vacía y se limpia con agua de limpieza, nunca con el agua de beber reservada.",
               "precio_aprox": "10-20 €",
               "prioridad": "recomendado",
               "busqueda": "Cuña u orinal con asa",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-23"
             },
             {
               "producto": "Manta térmica de emergencia aluminizada (pack de 2)",
-              "afiliado": "https://www.amazon.es/s?k=manta+termica+de+emergencia+aluminizada+pack&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GZ1Q49RH?tag=nti0c8-21",
               "descripcion": "Los mayores pierden calor más rápido y lo notan menos. La manta dorada no da calor por sí sola: refleja el del cuerpo. Funciona mucho mejor por dentro de una manta normal, no sola encima. Cuesta menos que un café y cabe en cualquier cajón.",
               "precio_aprox": "4-10 €",
               "prioridad": "recomendado",
               "busqueda": "Manta térmica de emergencia aluminizada (pack de 2)",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-23"
             }
           ]
         },
