@@ -26,8 +26,8 @@
         "fecha": "2026-09-03"
       }
     ],
-    "ultima_revision": "2026-09-22",
-    "nota_revision": "2026-09-22: decimotercera vigilancia — fuentes oficiales sin cambios sustantivos. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes). Las 3 páginas de proteccioncivil.es responden 200 sin cambios: recomendaciones (misma clasificación FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95 en al menos el 10% de estaciones, serie 1981-2010). NOTA TÉCNICA: los hashes difieren respecto al snapshot del 21/09 solo por formato — el snapshot viejo guardaba el texto en 1 línea; desde hoy se extraen múltiples líneas normalizadas, con lo cual el diff por hash será fiable en próximas vigilancias. Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la enmienda de Vox (registrada en abril) para recuperar los triángulos como alternativa sigue sin dictamen ni votación en el Congreso, y Pere Navarro reafirmó en la Comisión de Seguridad Vial que la baliza 'ha venido para quedarse' (mayo 2026). No afecta a kits el RD de junio 2026 sobre tratamiento de datos de la baliza (garantías de privacidad DGT 3.0, fuente: prensa). Sin nuevas directrices ni listas oficiales de kit de 72h que aplicar. Kits sin modificaciones por esta vigilancia.",
+    "ultima_revision": "2026-09-23",
+    "nota_revision": "2026-09-23: decimocuarta vigilancia — las 4 fuentes oficiales responden sin cambios sustantivos. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes). proteccioncivil.es: recomendaciones (misma clasificación FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95, serie 1981-2010, mínimamente 10% de estaciones). Diff de contenido empty tras descontar chrome de menú/footer. NOTA TÉCNICA: hashes regenerados el 22/09 con formato de líneas normalizadas ya estable; la diferencia de hashes del 23/09 respecto al 22/09 es solo chrome (selector de idioma UE y bloques de navegación/móvil), líneas sustantivas idénticas. Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la enmienda de Vox sigue en tramitación sin dictamen ni fecha de votación (Maldita, 08/09/2026) y Newtral (22/09/2026) confirma que la reforma del Reglamento General de Circulación no la afecta. CAMBIO APLICADO: nuevo Real Decreto 518/2026, de 24 de junio (BOE-A-2026-13889, publicado 26/06/2026, en vigor 01/10/2026), que modifica el Reglamento General de Circulación en materia de usuarios vulnerables — afecta al kit coche: al rebasar un vehículo inmovilizado por avería o accidente hay que reducir al menos 20 km/h el límite y dejar 1,5 m de separación lateral, y en retenciones los vehículos deben abrir un carril de emergencia central para servicios de asistencia. Añadida recomendación 'durante' en el kit coche citando el RD y su fecha; contenido de los kits y productos sin otros cambios.",
     "revision": 1
   },
   "kits": [
@@ -510,9 +510,9 @@
       "icono": "🚗",
       "resumen": "Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.",
       "fuente": {
-        "nombre": "DGT / Ministerio del Interior — Obligatoriedad de la baliza V-16 conectada (desde el 1 de enero de 2026)",
+        "nombre": "DGT / Ministerio del Interior — Obligatoriedad de la baliza V-16 conectada (desde el 1 de enero de 2026) — añade: reforma del Reglamento General de Circulación por RD 518/2026, de 24 de junio (BOE-A-2026-13889, en vigor 01/10/2026): distancia 1,5 m y −20 km/h al rebasar vehículos inmovilizados y carril de emergencia en retenciones",
         "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/DGT-recuerda-la-obligacion-de-disponer-de-la-baliza-V-16-para-senalizar-averias-y-accidentes-en-carretera/",
-        "fecha": "2026-08-30"
+        "fecha": "2026-09-23"
       },
       "guia": {
         "antes": [
@@ -521,7 +521,8 @@
         ],
         "durante": [
           "Ante una avería, señaliza desde dentro del coche con la baliza V-16 conectada homologada: es el único medio legal desde el 1/1/2026 (RD 159/2021; DGT, nota de 25/11/2025). Los triángulos ya no son válidos",
-          "No salgas del coche en nevada si hay tráfico: dentro es más seguro y más cálido"
+          "No salgas del coche en nevada si hay tráfico: dentro es más seguro y más cálido",
+          "Desde el 1/10/2026, al rebasar un vehículo inmovilizado por avería o accidente reduce al menos 20 km/h el límite de la vía y deja 1,5 m de separación lateral; en retenciones abre carril de emergencia central para ambulancias y grúas (RD 518/2026, de 24 de junio, BOE-A-2026-13889, publicado 26/06/2026)"
         ],
         "despues": [
           "Repón lo usado (pilas, agua, combustible) al llegar a casa"
