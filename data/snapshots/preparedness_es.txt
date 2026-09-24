@@ -1,46 +1,53 @@
 EU preparedness union strategy
 Ir al contenido principal
-es Select your language
-Cerrar
-bg български
-es español
-cs čeština
-da dansk
-de Deutsch
-et eesti
-el ελληνικά
-en English
-fr français
-ga Gaeilge
-hr hrvatski
-it italiano
-lv latviešu
-lt lietuvių
-hu magyar
-mt Malti
-nl Nederlands
-pl polski
-pt português
-ro română
-sk slovenčina
-sl slovenščina
-fi suomi
-sv svenska
-Búsqueda
+es
+Select your languageCerrar
+bgбългарски
+esespañol
+csčeština
+dadansk
+deDeutsch
+eteesti
+elελληνικά
+enEnglish
+frfrançais
+gaGaeilge
+hrhrvatski
+ititaliano
+lvlatviešu
+ltlietuvių
+humagyar
+mtMalti
+nlNederlands
+plpolski
+ptportuguês
+roromână
+skslovenčina
+slslovenščina
+fisuomi
+svsvenska
+BúsquedaBúsqueda
 Comisión Europea
-Menu Back Inicio
-Quiénes somos Quiénes somos Más información sobre el papel de la Comisión Europea, su liderazgo y sus políticas empresariales
-Organización Presidenta
+Menu
+Back
+Inicio
+Quiénes somos
+Quiénes somos
+Más información sobre el papel de la Comisión Europea, su liderazgo y sus políticas empresariales
+Organización
+Presidenta
 Comisarios
 Servicios y agencias ejecutivas
 Personal
 Ver todo
-Función En materia de estrategia y políticas
+Función
+En materia de estrategia y políticas
 En materia de legislación
 En materia de presupuesto y financiación
 Relaciones internacionales
 Ver todo
-Normas y principios de servicio Transparencia
+Normas y principios de servicio
+Transparencia
 Códigos de conducta
 La Comisión Europea se moderniza
 Uso de las lenguas por la Comisión
@@ -48,8 +55,11 @@ Digitalising the Commission
 Ver todo
 Contacto
 Más información sobre quiénes somos
-DESTACADO Comisión 2024-2029: prioridades y liderazgo
-Nuestras prioridades Nuestras prioridades Descubra cómo la UE está construyendo un futuro sostenible, competitivo e integrador a través de sus siete prioridades clave.
+DESTACADO
+Comisión 2024-2029: prioridades y liderazgo
+Nuestras prioridades
+Nuestras prioridades
+Descubra cómo la UE está construyendo un futuro sostenible, competitivo e integrador a través de sus siete prioridades clave.
 Competitividad
 Seguridad y defensa
 Justicia social europea
@@ -58,14 +68,19 @@ La democracia y nuestros valores
 Europa en el mundo
 Presupuesto de la UE y reformas
 Más información sobre nuestras prioridades
-Noticias y medios de comunicación Noticias y medios de comunicación Manténgase al día de las noticias de la Comisión Europea. Descubra las novedades, las historias y el material de prensa y audiovisual más recientes.
+Noticias y medios de comunicación
+Noticias y medios de comunicación
+Manténgase al día de las noticias de la Comisión Europea. Descubra las novedades, las historias y el material de prensa y audiovisual más recientes.
 Noticias
 Zona de prensa
 Historias visuales
 Portal audiovisual
 Más información sobre las noticias y medios de comunicación
-Temas Temas de la A a la Z Más información sobre las políticas de la UE que benefician especialmente a los ciudadanos, las empresas y otras partes interesadas de la Unión
-Economía y empresa Aduanas
+Temas
+Temas de la A a la Z
+Más información sobre las políticas de la UE que benefician especialmente a los ciudadanos, las empresas y otras partes interesadas de la Unión
+Economía y empresa
+Aduanas
 Competencia
 Competitividad
 Consumidores
@@ -79,8 +94,10 @@ Presupuesto
 Servicios financieros
 Tributación
 Ver todo
-FEATURED EU action to address the energy crisis
-Educación, sociedad y derechos Cultura
+FEATURED
+EU action to address the energy crisis
+Educación, sociedad y derechos
+Cultura
 Democracia
 Derechos humanos
 Educación y formación
@@ -91,14 +108,18 @@ Integridad de la información
 Juventud
 Migración y asilo
 Ver todo
-DESTACADO Clics seguros: Guía práctica sobre la seguridad en línea
-Investigación, innovación, tecnología Economía y sociedad digitales
+DESTACADO
+Clics seguros: Guía práctica sobre la seguridad en línea
+Investigación, innovación, tecnología
+Economía y sociedad digitales
 Espacio
 Inteligencia artificial
 Investigación e innovación
 Ver todo
-DESTACADO Impulse su carrera de investigador/a en la UE.
-Justicia, protección, seguridad pública Asuntos de interior
+DESTACADO
+Impulse su carrera de investigador/a en la UE.
+Justicia, protección, seguridad pública
+Asuntos de interior
 Defensa
 Fronteras
 Justicia
@@ -107,8 +128,10 @@ Prevención del fraude
 Protección civil
 Seguridad interior
 Ver todo
-DESTACADO Defensa europea: proteger lo que importa
-Relaciones y asociaciones internacionales Ampliación
+DESTACADO
+Defensa europea: proteger lo que importa
+Relaciones y asociaciones internacionales
+Ampliación
 Asociaciones internacionales
 Asuntos exteriores y política de seguridad
 Ayuda humanitaria
@@ -117,8 +140,10 @@ Mediterráneo meridional y el Golfo
 Trade
 Vecindad oriental
 Ver todo
-DESTACADO Comercio de la UE en el mundo
-Salud y medio ambiente Acción por el clima
+DESTACADO
+Comercio de la UE en el mundo
+Salud y medio ambiente
+Acción por el clima
 Agricultura y desarrollo rural
 Bienestar animal
 Medio ambiente
@@ -127,11 +152,15 @@ Salud pública
 Seguridad alimentaria
 Transportes y Turismo
 Ver todo
-DESTACADO Proteger el océano
+DESTACADO
+Proteger el océano
 Todos los temas
-Recursos Recursos Acceda a una variedad de recursos, como publicaciones, estadísticas, material didáctico y herramientas para las partes interesadas.
+Recursos
+Recursos
+Acceda a una variedad de recursos, como publicaciones, estadísticas, material didáctico y herramientas para las partes interesadas.
 Publicaciones
-Estadísticas Buscar estadísticas de Eurostat
+Estadísticas
+Buscar estadísticas de Eurostat
 Tendencias y previsiones económicas
 Seguir los resultados de las políticas de la UE
 Encuesta de opinión pública
@@ -144,8 +173,11 @@ Zona de aprendizaje
 Europa Web Guide
 European Commission visual identity
 Más información sobre los recursos
-Europa y tú Participa Comparte tus opiniones sobre las políticas y la legislación de la UE, participa en debates sobre el futuro de Europa y encuentra financiación para tus proyectos de la UE.
-Participe en la elaboración de las políticas de la UE Conferencia sobre el Futuro de Europa
+Europa y tú
+Participa
+Comparte tus opiniones sobre las políticas y la legislación de la UE, participa en debates sobre el futuro de Europa y encuentra financiación para tus proyectos de la UE.
+Participe en la elaboración de las políticas de la UE
+Conferencia sobre el Futuro de Europa
 Díganos lo que piensa
 Paneles europeos de ciudadanos
 Iniciativa Ciudadana Europea
@@ -154,13 +186,15 @@ Ver todo
 Empleos
 Financiación y licitaciones
 Actos
-Ven a visitarnos Día de Europa 2026
+Ven a visitarnos
+Día de Europa 2026
 Experience Europe
 Centro de Visitantes
 Ver todo
 La Comisión Europea en los medios sociales
 Más información sobre Europa y tú
-DESTACADO Protegemos lo que importa. La democracia.
+DESTACADO
+Protegemos lo que importa. La democracia.
 Inicio
 Temas
 Preparación
@@ -170,9 +204,9 @@ La Unión Europea se enfrenta a amenazas sin precedentes: desde tensiones y conf
 La estrategia tiene por objeto mejorar la preparación y la respuesta civil y militar de la UE ante futuras crisis, de modo que todos los agentes pertinentes estén preparados y sean capaces de responder con rapidez y eficacia en caso necesario. La estrategia apoyará los esfuerzos nacionales de preparación mediante la mejora de la coordinación y la eficiencia en el marco de las estrategias existentes y el fomento de una cultura de resiliencia a través de la participación de todos los niveles de la sociedad.
 Posición del Centro de Coordinación de la Respuesta a Emergencias (CECRE)
 La estrategia se basa en:
-un enfoque integrado que contempla todos los peligros : centrado en prepararse y responder a todos los tipos de riesgos, en lugar de abordarlos por separado
-un enfoque que implica a toda la sociedad : todos los sectores, organizaciones y particulares deben participar
-un enfoque que implica al conjunto de la Administración : los organismos y departamentos gubernamentales se coordinan y colaboran para abordar los peligros de forma más eficaz
+un enfoque integrado que contempla todos los peligros: centrado en prepararse y responder a todos los tipos de riesgos, en lugar de abordarlos por separado
+un enfoque que implica a toda la sociedad: todos los sectores, organizaciones y particulares deben participar
+un enfoque que implica al conjunto de la Administración: los organismos y departamentos gubernamentales se coordinan y colaboran para abordar los peligros de forma más eficaz
 La estrategia incluye acciones detalladas para avanzar en los objetivos de la preparación de la Unión.
 Acciones clave de la Estrategia de Preparación de la Unión
 Prospectiva y anticipación
@@ -192,7 +226,7 @@ garantizar el suministro de agua y otros recursos naturales críticos
 Preparación de la población
 mejorar los sistemas de alerta temprana
 aumentar la sensibilización sobre los riesgos y las amenazas
-promover programas de sensibilización , como paneles de ciudadanos, campañas en línea y herramientas para la comunicación estratégica y la lucha contra la manipulación de la información
+promover programas de sensibilización, como paneles de ciudadanos, campañas en línea y herramientas para la comunicación estratégica y la lucha contra la manipulación de la información
 elaborar directrices para lograr una autosuficiencia de la población durante un mínimo de 72 horas
 incluir la preparación en los programas educativos escolares y en la formación del personal docente
 promover la preparación en los programas de juventud
@@ -218,31 +252,21 @@ Antecedentes
 En sus orientaciones políticas, la presidenta de la Comisión Europea, Ursula von der Leyen, hizo hincapié en la importancia de fortalecer las capacidades de Europa, así como en la necesidad de una nueva ambición en materia de preparación frente a las crisis y la seguridad.
 El informe de Niinistö sobre la preparación y la capacidad de reacción de la UE subrayó la urgente necesidad de reforzar la preparación civil y militar de Europa para hacer frente a los retos que afectan a la seguridad. Reconoció que la preparación es una responsabilidad tanto nacional como compartida a escala europea que exige que la Unión desempeñe un papel más importante en el apoyo a los Estados miembros.
 Documentos
-26 DE MARZO DE 2025
 Factsheet - Preparedness union strategy
-English
-(17.23 KB - HTML)
-Descargar
-26 DE MARZO DE 2025
+26 de marzo de 2025English
+Descargar (17.23 KB - HTML)
 EU preparedness union strategy to prevent and react to emerging threats and crises
-English
-(18.18 KB - HTML)
-Descargar
-26 DE MARZO DE 2025
+26 de marzo de 2025English
+Descargar (18.18 KB - HTML)
 Questions and answers on the EU preparedness union strategy
-English
-(18.13 KB - HTML)
-Descargar
-24 DE MARZO DE 2025
+26 de marzo de 2025English
+Descargar (18.13 KB - HTML)
 EU preparedness union strategy - Communication
-English
-(486.97 KB - PDF)
-Descargar
-25 DE MARZO DE 2025
+24 de marzo de 2025English
+Descargar (486.97 KB - PDF)
 EU preparedness union strategy - Annex
-English
-(23.23 KB - PDF)
-Descargar
+25 de marzo de 2025English
+Descargar (23.23 KB - PDF)
 Enlaces relacionados
 Una nueva era para la defensa y la seguridad europeas
 Informe del consejero especial Niinistö
@@ -254,8 +278,7 @@ Prospectiva
 Reforzar la resiliencia de Europa en un mundo cambiante
 Red de Conocimientos del Mecanismo de Protección Civil de la Unión
 Esta página se actualizó por última vez el 23 mayo 2025.
-Ayúdenos a mejorar nuestra web
-Completar la encuesta
+Ayúdenos a mejorar nuestra webCompletar la encuesta
 Este sitio está gestionado por:
 Dirección General de Comunicación
 Quiénes somos

@@ -32,6 +32,7 @@ Volver al principio de la página
 Recomendaciones
 Alertas a móviles
 Fenómenos Meteorológicos Adversos
+Fenómenos Meteorológicos Adversos
 Tormentas y rayos
 Fenómenos Meteorológicos Adversos
 Vientos fuertes
@@ -43,6 +44,7 @@ Fenómenos Meteorológicos Adversos
 Nevadas
 Fenómenos Meteorológicos Adversos
 Costeros
+Riesgos Naturales
 Riesgos Naturales
 Calima
 Riesgos Naturales
@@ -70,6 +72,7 @@ Temporal en la Playa
 Riesgos Naturales
 Zona Rural - Ola frío
 Riesgos Antrópicos
+Riesgos Antrópicos
 Vivienda zona riesgo incendio
 Riesgos Antrópicos
 Medidas preventivas hogar
@@ -91,6 +94,7 @@ Riesgos Antrópicos
 Concentración personas
 Riesgos Antrópicos
 Acampada monte
+Otros Riesgos
 Otros Riesgos
 Sequía
 Otros Riesgos

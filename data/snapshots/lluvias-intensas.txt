@@ -59,15 +59,15 @@ Radiológico
 Químicos
 Transporte mercancías peligrosas
 La lluvia es una precipitación de agua líquida en forma de gotas que caen con velocidad apreciable y de modo continuo. Según el tamaño de las gotas se califican de llovizna, lluvia o chubasco.
-Estas dos últimas modalidades se clasifican por su intensidad en :
+Estas dos últimas modalidades se clasifican por su intensidad en:
 Fuertes (entre 15 y 30 mm/hora)
 Muy fuertes (entre 30 y 60 mm/hora)
 Torrenciales (por encima de 60 mm/hora).
 La lluvia depende de tres factores: la presión atmosférica, la temperatura y la humedad atmosférica.
-Según su origen , las precipitaciones se pueden clasificar en tres tipos fundamentales:
-Convectivas , asociadas a latitudes cálidas y a las tormentas de verano de la zona templada. Se producen por el fuerte calentamiento que experimenta la superficie de la tierra o, en general, cuando sobre una superficie caliente pasa aire húmedo e inestable.
+Según su origen, las precipitaciones se pueden clasificar en tres tipos fundamentales:
+Convectivas, asociadas a latitudes cálidas y a las tormentas de verano de la zona templada. Se producen por el fuerte calentamiento que experimenta la superficie de la tierra o, en general, cuando sobre una superficie caliente pasa aire húmedo e inestable.
 Frontales o Ciclónicas cuando entran en contacto dos masas de aire de características térmicas distintas, el mecanismo esencial es el ascenso de aire frío por convergencia horizontal de corrientes en una zona de bajas presiones. Se producen en las latitudes templadas.
-Orográficas : Se producen cuando una masa de aire húmeda choca con un relieve montañoso y al chocar asciende por la ladera orientada al viento. Los sistemas montañosos pueden impulsar las corrientes ascendentes, frenar la velocidad de los sistemas frontales o producir en los valles un efecto "embudo" que origina una convergencia y elevación de corrientes ascendentes.
+Orográficas: Se producen cuando una masa de aire húmeda choca con un relieve montañoso y al chocar asciende por la ladera orientada al viento. Los sistemas montañosos pueden impulsar las corrientes ascendentes, frenar la velocidad de los sistemas frontales o producir en los valles un efecto "embudo" que origina una convergencia y elevación de corrientes ascendentes.
 Las lluvias pueden ocasionar embalsamientos de agua e inundaciones.
 En el Plan Nacional de Predicción y Vigilancia de Fenómenos Meteorológicos Adversos se considera que la lluvia puede suponer un riesgo meteorológico a partir del concepto de lluvias fuertes y bajo esta idea se establecen los umbrales de precipitación acumulada en 1 hora y en 12 horas para las diferentes zonas meteorológicas del país.
 La situación actual de los Avisos de Fenómenos Meteorológicos Adversos sobre lluvias se puede consultar en:
