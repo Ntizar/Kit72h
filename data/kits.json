@@ -2110,12 +2110,13 @@
             },
             {
               "producto": "Tensiómetro de brazo a pilas con memoria",
-              "afiliado": "https://www.amazon.es/s?k=tensiometro+de+brazo+a+pilas+con+memoria&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G3YCY2FS?tag=nti0c8-21",
               "descripcion": "Si en casa hay hipertensión diagnosticada, el de enchufe no sirve en un apagón. Este funciona a pilas y guarda las últimas medidas, para que puedas anotarlas en la ficha. Qué valores son normales y cuándo medir los fija su médico o su enfermera: aquí solo entra el aparato.",
               "precio_aprox": "25-45 €",
               "prioridad": "recomendado",
               "busqueda": "Tensiómetro de brazo a pilas con memoria",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-24"
             }
           ]
         },
@@ -2175,12 +2176,13 @@
             },
             {
               "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
-              "afiliado": "https://www.amazon.es/s?k=pulsera+identificacion+medica+grabado+nombre+telefono+alergias&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CQT78FWC?tag=nti0c8-21",
               "descripcion": "Con deterioro cognitivo o desorientación, en una evacuación lo primero que se pierde es la cartera con los papeles. Una pulsera o collar grabado con nombre, teléfono de un familiar y alergias se lee sin desbloquear nada ni abrir ningún bolsillo, y no caduca ni se queda sin batería.",
               "precio_aprox": "8-20 €",
               "prioridad": "esencial",
               "busqueda": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-24"
             }
           ]
         },
