@@ -26,3 +26,7 @@ ck_*
 s_*.html
 cands.json
 videos/
+
+scripts/__pycache__/
+__pycache__/
+*.pyc
