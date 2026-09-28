@@ -31,3 +31,8 @@ scripts/__pycache__/
 __pycache__/
 *.pyc
 .wrangler/
+
+# temporales de los verificadores (no versionar)
+data/_tmp_*.html
+data/_cookies_amz.txt
+data/fichas.db
