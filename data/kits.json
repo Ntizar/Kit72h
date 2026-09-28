@@ -2158,12 +2158,13 @@
             },
             {
               "producto": "Fotos recientes del bebé y de la familia en papel",
-              "afiliado": "https://www.amazon.es/s?k=fotos+recientes+del+beb%C3%A9+y+de+la+familia+en+papel&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B07X8H7KR2?tag=nti0c8-21",
               "descripcion": "Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería.",
               "precio_aprox": "0 €",
               "prioridad": "recomendado",
               "busqueda": "fotos recientes del bebé y de la familia en papel",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-28"
             }
           ]
         }
