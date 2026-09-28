@@ -18,8 +18,16 @@ Con navegador real sí se ve la verdad:
 ## Cuidado con el detector (falsos positivos medidos)
 En una muestra de 10 fichas con navegador, 3 salieron "sin cesta" **y las tres
 mostraban título y precio correctos**: el `id` del botón de compra varía por layout
-y por variante de página. Antes de dar por "sin stock" una ficha hay que validar
-**varias señales a la vez** (título + precio + oferta del vendedor), no una sola.
+y por variante de página. El método fiable es el que ya usaba `buscar-amazon.py`
+(curl `--compressed` + cookie jar persistente): devuelve la página real de 2,4 MB.
+
+**Y en masa, Amazon frena.** Verificando 3 fichas seguidas con ese método, la misma
+manta que 5 minutos antes daba `ok` pasó a `bloqueado`, y una ficha perfecta (los
+silbatos) salió `agotado`. Dos reglas que salen de ahí:
+- **Un estado malo se confirma con una segunda lectura separada**; si las dos
+  discrepan, queda `error` y NO se sustituye nada (`comprobar_con_confirmacion`).
+- **Presupuesto pequeño y pausas largas** (2,5 s entre fichas, ~40 por tanda). Sin
+  eso el sistema fabrica falsos positivos a escala de miles.
 
 ## Diseño para miles de fichas
 1. **Registro con estado y fecha** (SQLite `data/fichas.db`, ya creado): estado por

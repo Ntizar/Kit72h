@@ -1,33 +1,8 @@
 {
  "generado": "2026-09-28",
- "total": 2,
+ "caducidad_dias": 7,
+ "total": 0,
  "ok": 0,
- "productos": {
-  "https://www.amazon.es/dp/B0GWNDVR7S?tag=nti0c8-21": {
-   "estado": "sin_buybox",
-   "producto": "Radio FM/AM a pilas o dinamo",
-   "kit": "Kit terremoto",
-   "fecha": "2026-09-28",
-   "asin": "B0GWNDVR7S"
-  },
-  "https://www.amazon.es/dp/B0CYDF32J3?tag=nti0c8-21": {
-   "estado": "sin_buybox",
-   "producto": "Manta térmica (pack de 2)",
-   "kit": "Kit frío, nieve y calefacción caída",
-   "fecha": "2026-09-28",
-   "asin": "B0CYDF32J3"
-  }
- },
- "por_asin": {
-  "B0CYDF32J3": {
-   "estado": "sin_buybox",
-   "fecha": "2026-09-28",
-   "titulo": "Amazon.es"
-  },
-  "B0GWNDVR7S": {
-   "estado": "sin_buybox",
-   "fecha": "2026-09-28",
-   "titulo": "Amazon.es"
-  }
- }
+ "productos": {},
+ "por_asin": {}
 }
