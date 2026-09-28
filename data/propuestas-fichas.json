@@ -858,7 +858,7 @@
     "seccion": "Para empezar a sembrar",
     "busqueda": "https://www.amazon.es/s?k=medidor+humedad+ph+suelo&tag=nti0c8-21",
     "rango_esperado": "8-15 €",
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-28",
     "estado": "sin candidato verificado"
   },
   "huerto-autosuficiencia|Compostera doméstica con grifo (20 L)": {
@@ -866,7 +866,7 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=nti0c8-21",
     "rango_esperado": "25-35 €",
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-28",
     "estado": "sin candidato verificado"
   },
   "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
@@ -874,7 +874,7 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=nti0c8-21",
     "rango_esperado": "10-18 €",
-    "fecha": "2026-09-25",
+    "fecha": "2026-09-28",
     "estado": "sin candidato verificado"
   },
   "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
@@ -882,7 +882,7 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=nti0c8-21",
     "rango_esperado": "20-35 €",
-    "fecha": "2026-09-25",
+    "fecha": "2026-09-28",
     "estado": "sin candidato verificado"
   },
   "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
@@ -890,7 +890,7 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=nti0c8-21",
     "rango_esperado": "5-12 €",
-    "fecha": "2026-09-25",
+    "fecha": "2026-09-28",
     "estado": "sin candidato verificado"
   },
   "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
@@ -1004,5 +1004,53 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=pulsera+identificacion+medica+grabado+nombre+telefono+alergias&tag=nti0c8-21"
+  },
+  "kit-hogar|Radio FM/AM a pilas o de dinamo": {
+    "kit": "kit-hogar",
+    "seccion": "Luz, energía y comunicación",
+    "busqueda": "radio fm am a pilas o de dinamo",
+    "rango_esperado": "15-35 €",
+    "fecha": "2026-09-28",
+    "asin": "B0GWN9FJC7",
+    "titulo": "Radio Solar de Emergencia con Manivela 2000 mAh, Am/FM Linterna LED, SOS",
+    "precio": 14.0,
+    "rating": 4.9,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0GWN9FJC7?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=radio%20fm%20am%20pilas%20dinamo&tag=nti0c8-21"
+  },
+  "kit-hogar|Batería externa (powerbank) de 10.000-20.000 mAh": {
+    "kit": "kit-hogar",
+    "seccion": "Luz, energía y comunicación",
+    "busqueda": "batería externa   de 10.000-20.000 mah",
+    "rango_esperado": "15-35 €",
+    "fecha": "2026-09-28",
+    "asin": "B0HC4PGSVV",
+    "titulo": "Inalámbrico Power Bank, Magnético Batería Externa 10000mAh, 20W Carga Rapida Slimmest Bateria Portátil Powerbank USB C I",
+    "precio": 14.0,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0HC4PGSVV?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=powerbank%2020000%20mah&tag=nti0c8-21"
+  },
+  "kit-evacuacion|Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)": {
+    "kit": "kit-evacuacion",
+    "seccion": "Utilidad",
+    "busqueda": "chaleco reflectante peaton luminoso",
+    "rango_esperado": "3-10 €",
+    "fecha": "2026-09-28",
+    "asin": "B0H6BL141L",
+    "titulo": "URAQT Luz Running, 750LM Linterna LED para Correr de Noche con Correas Dobles Reflectantes 360°,Impermeable IPX5 Luces P",
+    "precio": 15.99,
+    "rating": 5.0,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0H6BL141L?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=chaleco+reflectante+peaton+luminoso&tag=nti0c8-21"
   }
 }

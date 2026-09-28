@@ -1,0 +1,3559 @@
+{
+ "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
+ "generado": "2026-09-28",
+ "total_productos": 154,
+ "compartidos": 17,
+ "productos": {
+  "8419436623": {
+   "nombre_canonico": "Huerto urbano (Larousse)",
+   "url": "https://www.amazon.es/dp/8419436623?tag=nti0c8-21",
+   "categorias": [
+    "Subir de nivel"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Huerto urbano (Larousse)",
+     "prioridad": "opcional",
+     "precio_aprox": "17 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "17 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "8498381495": {
+   "nombre_canonico": "Libros de bolsillo",
+   "url": "https://www.amazon.es/dp/8498381495?tag=nti0c8-21",
+   "categorias": [
+    "Moral"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Libros de bolsillo",
+     "prioridad": "extra",
+     "precio_aprox": "5-15 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B000IAZDE0": {
+   "nombre_canonico": "Navaja multiuso",
+   "url": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=nti0c8-21",
+   "categorias": [
+    "Salud y reparación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Navaja multiuso",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B004GENVLG": {
+   "nombre_canonico": "Manta térmica de emergencia infantil (o manta polar pequeña)",
+   "url": "https://www.amazon.es/dp/B004GENVLG?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y sueño"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)",
+     "prioridad": "esencial",
+     "precio_aprox": "2-6 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "2-6 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B006G5N4XS": {
+   "nombre_canonico": "Ración de comida deshidratada",
+   "url": "https://www.amazon.es/TREKN-EAT-BEEF-STROGANOFF-RICE/dp/B006G5N4XS?tag=nti0c8-21",
+   "categorias": [
+    "Alimentación",
+    "Supervivencia 24-72 h"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Raciones militares de emergencia (comida deshidratada)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-12 €/ud"
+    },
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Ración de comida deshidratada",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-evacuacion"
+   ],
+   "n_kits": 2,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B006RHPKF0": {
+   "nombre_canonico": "Dos triángulos de emergencia homologados",
+   "url": "https://www.amazon.es/dp/B006RHPKF0?tag=nti0c8-21",
+   "categorias": [
+    "Obligatorio en España (DGT)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Dos triángulos de emergencia homologados",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00AMHKB28": {
+   "nombre_canonico": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
+   "url": "https://www.amazon.es/dp/B00AMHKB28?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
+     "prioridad": "esencial",
+     "precio_aprox": "0 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "0 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00B2N8IFS": {
+   "nombre_canonico": "Abreconservas manual",
+   "url": "https://www.amazon.es/dp/B00B2N8IFS?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Abreconservas manual",
+     "prioridad": "esencial",
+     "precio_aprox": "3-8 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00CIZVHXE": {
+   "nombre_canonico": "Caja fuerte pequeña portátil para efectivo",
+   "url": "https://www.amazon.es/dp/B00CIZVHXE?tag=nti0c8-21",
+   "categorias": [
+    "Dinero y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Caja fuerte pequeña portátil para efectivo",
+     "prioridad": "recomendado",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-45 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00F2NGYAU": {
+   "nombre_canonico": "Kit de herramientas de jardin (Bellota, 3 piezas)",
+   "url": "https://www.amazon.es/dp/B00F2NGYAU?tag=nti0c8-21",
+   "categorias": [
+    "Equipo y herramientas"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Kit de herramientas de jardin (Bellota, 3 piezas)",
+     "prioridad": "recomendado",
+     "precio_aprox": "15 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00NGTCKWS": {
+   "nombre_canonico": "Sales de rehidratación oral",
+   "url": "https://www.amazon.es/R-S-Oral-Rehydration-Salt-Blackcurrant/dp/B00NGTCKWS?tag=nti0c8-21",
+   "categorias": [
+    "Hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Sales de rehidratación oral",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B00XA5FJ9E": {
+   "nombre_canonico": "Leche en polvo entera 1 kg (Asturiana)",
+   "url": "https://www.amazon.es/dp/B00XA5FJ9E?tag=nti0c8-21",
+   "categorias": [
+    "Base de despensa (carbohidrato y leche)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Leche en polvo entera 1 kg (Asturiana)",
+     "prioridad": "esencial",
+     "precio_aprox": "~9 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~9 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B011OEOZE2": {
+   "nombre_canonico": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)",
+   "url": "https://www.amazon.es/dp/B011OEOZE2?tag=nti0c8-21",
+   "categorias": [
+    "Agua y alimentación sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)",
+     "prioridad": "esencial",
+     "precio_aprox": "4-7 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-7 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B012D3650K": {
+   "nombre_canonico": "Palas y cubos para retirar lodo",
+   "url": "https://www.amazon.es/dp/B012D3650K?tag=nti0c8-21",
+   "categorias": [
+    "Post-DANA"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Palas y cubos para retirar lodo",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0150HY1PW": {
+   "nombre_canonico": "Espesantes para líquidos (si hay disfagia diagnosticada)",
+   "url": "https://www.amazon.es/dp/B0150HY1PW?tag=nti0c8-21",
+   "categorias": [
+    "Comida adaptada e hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)",
+     "prioridad": "extra",
+     "precio_aprox": "8-16 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-16 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B015Y8BY02": {
+   "nombre_canonico": "Botas de agua",
+   "url": "https://www.amazon.es/dp/B015Y8BY02?tag=nti0c8-21",
+   "categorias": [
+    "Protección personal frente al agua"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Botas de agua",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B01DUW98CA": {
+   "nombre_canonico": "Agua embotellada (renovar cada 6 meses)",
+   "url": "https://www.amazon.es/dp/B01DUW98CA?tag=nti0c8-21",
+   "categorias": [
+    "Agua e hidratación",
+    "Energía y confort"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Botella o garrafa de agua (3 L por persona y día)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-15 €"
+    },
+    {
+     "kit": "kit-coche",
+     "producto": "Agua embotellada (renovar cada 6 meses)",
+     "prioridad": "esencial",
+     "precio_aprox": "2-5 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-coche"
+   ],
+   "n_kits": 2,
+   "precio_ref": "2-5 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B01LX6Q7XS": {
+   "nombre_canonico": "Mapa físico de tu zona (papel, no digital)",
+   "url": "https://www.amazon.es/dp/B01LX6Q7XS?tag=nti0c8-21",
+   "categorias": [
+    "Información y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Mapa físico de tu zona (papel, no digital)",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-15 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B01M1NCHK8": {
+   "nombre_canonico": "Estufa de gas butano (Orbegozo 4200 W)",
+   "url": "https://www.amazon.es/dp/B01M1NCHK8?tag=nti0c8-21",
+   "categorias": [
+    "Cocinar y calentar sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Estufa de gas butano (Orbegozo 4200 W)",
+     "prioridad": "recomendado",
+     "precio_aprox": "~84 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~84 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B01MSTVEZN": {
+   "nombre_canonico": "Lentejas a la riojana Litoral (pack 6)",
+   "url": "https://www.amazon.es/dp/B01MSTVEZN?tag=nti0c8-21",
+   "categorias": [
+    "Comida no perecedera (proteína y platos listos)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Lentejas a la riojana Litoral (pack 6)",
+     "prioridad": "esencial",
+     "precio_aprox": "~13 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~13 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B06WGS9J3D": {
+   "nombre_canonico": "Cocido madrileño Litoral (pack 6)",
+   "url": "https://www.amazon.es/dp/B06WGS9J3D?tag=nti0c8-21",
+   "categorias": [
+    "Comida no perecedera (proteína y platos listos)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Cocido madrileño Litoral (pack 6)",
+     "prioridad": "esencial",
+     "precio_aprox": "~14 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B06XWZ41RT": {
+   "nombre_canonico": "Radio a pilas FM con volumen alto y dial grande",
+   "url": "https://www.amazon.es/dp/B06XWZ41RT?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y compañía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Radio a pilas FM con volumen alto y dial grande",
+     "prioridad": "esencial",
+     "precio_aprox": "12-25 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B075RCPZ3P": {
+   "nombre_canonico": "Multivitaminas 450 comprimidos",
+   "url": "https://www.amazon.es/dp/B075RCPZ3P?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Multivitaminas 450 comprimidos",
+     "prioridad": "recomendado",
+     "precio_aprox": "~11 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~11 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07B9KD2JF": {
+   "nombre_canonico": "Protector solar SPF 50",
+   "url": "https://www.amazon.es/Fotoprotector-ISDIN-Fusion-Water-Color/dp/B07B9KD2JF?tag=nti0c8-21",
+   "categorias": [
+    "Protección solar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Protector solar SPF 50",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07BGSTHD2": {
+   "nombre_canonico": "Kit de semillas ecologicas (10 variedades de huerto)",
+   "url": "https://www.amazon.es/dp/B07BGSTHD2?tag=nti0c8-21",
+   "categorias": [
+    "Para empezar a sembrar"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Kit de semillas ecologicas (10 variedades de huerto)",
+     "prioridad": "esencial",
+     "precio_aprox": "21 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "21 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07D5GJ9L9": {
+   "nombre_canonico": "Toalla de enfriamiento instantáneo",
+   "url": "https://www.amazon.es/Fit-Flip-enfriamiento-100x30cm-refrescante-Microfibra/dp/B07D5GJ9L9?tag=nti0c8-21",
+   "categorias": [
+    "Frescura"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Toalla de enfriamiento instantáneo",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07FXSF4PV": {
+   "nombre_canonico": "Cocoteira o cazo resistente (para calentar conservas)",
+   "url": "https://www.amazon.es/dp/B07FXSF4PV?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Cocoteira o cazo resistente (para calentar conservas)",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07KM6KZYD": {
+   "nombre_canonico": "Gel hidroalcohólico y jabón",
+   "url": "https://www.amazon.es/dp/B07KM6KZYD?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y limpieza"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Gel hidroalcohólico y jabón",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07L3DG8DK": {
+   "nombre_canonico": "Papel higiénico 96 rollos (Scottex)",
+   "url": "https://www.amazon.es/dp/B07L3DG8DK?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Papel higiénico 96 rollos (Scottex)",
+     "prioridad": "recomendado",
+     "precio_aprox": "~23 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~23 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07MDVYFVF": {
+   "nombre_canonico": "Caja de dentadura + pegamento y vaso con tapa",
+   "url": "https://www.amazon.es/dp/B07MDVYFVF?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Caja de dentadura + pegamento y vaso con tapa",
+     "prioridad": "recomendado",
+     "precio_aprox": "6-10 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07NMGQW67": {
+   "nombre_canonico": "Papel higiénico y toallitas",
+   "url": "https://www.amazon.es/dp/B07NMGQW67?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y limpieza"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Papel higiénico y toallitas",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07PDRY2T2": {
+   "nombre_canonico": "Cinta y plástico para sellar ventanas",
+   "url": "https://www.amazon.es/dp/B07PDRY2T2?tag=nti0c8-21",
+   "categorias": [
+    "Protección de la vivienda"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Cinta y plástico para sellar ventanas",
+     "prioridad": "extra",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07PV3KL1H": {
+   "nombre_canonico": "Espirulina + chlorella ecológica (500 comprimidos)",
+   "url": "https://www.amazon.es/dp/B07PV3KL1H?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Espirulina + chlorella ecológica (500 comprimidos)",
+     "prioridad": "opcional",
+     "precio_aprox": "~14 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07SYB38Q8": {
+   "nombre_canonico": "Copia digital en USB cifrado",
+   "url": "https://www.amazon.es/dp/B07SYB38Q8?tag=nti0c8-21",
+   "categorias": [
+    "Documentación esencial"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Copia digital en USB cifrado",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07T2ZDK6X": {
+   "nombre_canonico": "Tienda de campaña de emergencia 2 personas",
+   "url": "https://www.amazon.es/dp/B07T2ZDK6X?tag=nti0c8-21",
+   "categorias": [
+    "Cocinar y calentar sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Tienda de campaña de emergencia 2 personas",
+     "prioridad": "opcional",
+     "precio_aprox": "~14 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07X8H7KR2": {
+   "nombre_canonico": "Fotos recientes del bebé y de la familia en papel",
+   "url": "https://www.amazon.es/dp/B07X8H7KR2?tag=nti0c8-21",
+   "categorias": [
+    "Documentos e identificación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Fotos recientes del bebé y de la familia en papel",
+     "prioridad": "recomendado",
+     "precio_aprox": "0 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "0 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B07YQD4FVL": {
+   "nombre_canonico": "Pañales de reserva (talla actual, pack 20-25)",
+   "url": "https://www.amazon.es/dp/B07YQD4FVL?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Pañales de reserva (talla actual, pack 20-25)",
+     "prioridad": "esencial",
+     "precio_aprox": "6-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B086GGP7K5": {
+   "nombre_canonico": "Linterna LED con imán",
+   "url": "https://www.amazon.es/dp/B086GGP7K5?tag=nti0c8-21",
+   "categorias": [
+    "Emergencia y supervivencia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Linterna LED con imán",
+     "prioridad": "esencial",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B086X75P34": {
+   "nombre_canonico": "Mapa y brújula físicos de la zona",
+   "url": "https://www.amazon.es/dp/B086X75P34?tag=nti0c8-21",
+   "categorias": [
+    "Orientación y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Mapa y brújula físicos de la zona",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B088KG7XML": {
+   "nombre_canonico": "Cadena de remolque o correa de tiro",
+   "url": "https://www.amazon.es/dp/B088KG7XML?tag=nti0c8-21",
+   "categorias": [
+    "Emergencia y supervivencia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Cadena de remolque o correa de tiro",
+     "prioridad": "extra",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B08DBMQSVN": {
+   "nombre_canonico": "Sacaleches manual",
+   "url": "https://www.amazon.es/dp/B08DBMQSVN?tag=nti0c8-21",
+   "categorias": [
+    "Leche y comida de reserva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Sacaleches manual",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-25 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B08QD2ZXFT": {
+   "nombre_canonico": "Nevera portátil pequeña con paquetes fríos reutilizables",
+   "url": "https://www.amazon.es/dp/B08QD2ZXFT?tag=nti0c8-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
+     "prioridad": "esencial",
+     "precio_aprox": "12-25 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B08S17DS6N": {
+   "nombre_canonico": "Garrafas de agua 8 L (2 por persona)",
+   "url": "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21",
+   "categorias": [
+    "Agua y comida",
+    "Agua (180 L para 2 personas / 30 días)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Garrafas de agua 8 L (2 por persona)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-15 €"
+    },
+    {
+     "kit": "kit-30-dias",
+     "producto": "Garrafas 8 L con grifo dispensador (x8 = 64 L)",
+     "prioridad": "esencial",
+     "precio_aprox": "~3 €/ud"
+    }
+   ],
+   "kits": [
+    "kit-30-dias",
+    "kit-hogar"
+   ],
+   "n_kits": 2,
+   "precio_ref": "5-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B08ZM2KC49": {
+   "nombre_canonico": "Navaja multiusos",
+   "url": "https://www.amazon.es/dp/B08ZM2KC49?tag=nti0c8-21",
+   "categorias": [
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Navaja multiusos",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B094D3JGLT": {
+   "nombre_canonico": "Pilas alcalinas surtidas (AA/AAA)",
+   "url": "https://www.amazon.es/dp/B094D3JGLT?tag=nti0c8-21",
+   "categorias": [
+    "Luz y energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Pilas alcalinas surtidas (AA/AAA)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B096TLBGVS": {
+   "nombre_canonico": "Manual del huerto urbano y ecologico para principiantes",
+   "url": "https://www.amazon.es/dp/B096TLBGVS?tag=nti0c8-21",
+   "categorias": [
+    "Subir de nivel"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Manual del huerto urbano y ecologico para principiantes",
+     "prioridad": "recomendado",
+     "precio_aprox": "10 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B096V89H69": {
+   "nombre_canonico": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+   "url": "https://www.amazon.es/dp/B096V89H69?tag=nti0c8-21",
+   "categorias": [
+    "Documentación y dinero"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B097Y3R3QY": {
+   "nombre_canonico": "Mochila de 30-40 L resistente al agua",
+   "url": "https://www.amazon.es/AM-SeaBlue-Senderismo-Impermeable-Capacidad/dp/B097Y3R3QY?tag=nti0c8-21",
+   "categorias": [
+    "Supervivencia 24-72 h"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Mochila de 30-40 L resistente al agua",
+     "prioridad": "esencial",
+     "precio_aprox": "30-70 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "30-70 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09LJZM4ZB": {
+   "nombre_canonico": "Jabón neutro en pastilla + esponja",
+   "url": "https://www.amazon.es/dp/B09LJZM4ZB?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Jabón neutro en pastilla + esponja",
+     "prioridad": "extra",
+     "precio_aprox": "2-4 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "2-4 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09MJ9QV7W": {
+   "nombre_canonico": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
+   "url": "https://www.amazon.es/dp/B09MJ9QV7W?tag=nti0c8-21",
+   "categorias": [
+    "Documentos e identificación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
+     "prioridad": "esencial",
+     "precio_aprox": "5-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09NYL7FY4": {
+   "nombre_canonico": "Toallitas limpiadoras (pack 3-5)",
+   "url": "https://www.amazon.es/dp/B09NYL7FY4?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Toallitas limpiadoras (pack 3-5)",
+     "prioridad": "esencial",
+     "precio_aprox": "4-8 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09TBGX1MK": {
+   "nombre_canonico": "Conservas variadas (15-20 latas)",
+   "url": "https://www.amazon.es/dp/B09TBGX1MK?tag=nti0c8-21",
+   "categorias": [
+    "Alimentación",
+    "Agua y comida"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Conservas y lata de legumbres (comida no perecedera)",
+     "prioridad": "esencial",
+     "precio_aprox": "1-3 €/lata"
+    },
+    {
+     "kit": "kit-hogar",
+     "producto": "Conservas variadas (15-20 latas)",
+     "prioridad": "esencial",
+     "precio_aprox": "1-3 €/lata"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-hogar"
+   ],
+   "n_kits": 2,
+   "precio_ref": "1-3 €/lata",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09XJ947XJ": {
+   "nombre_canonico": "Juegos de naipes, libro de letra grande o rádio con altavoz",
+   "url": "https://www.amazon.es/dp/B09XJ947XJ?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y compañía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
+     "prioridad": "extra",
+     "precio_aprox": "5-15 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B09XRDG5HC": {
+   "nombre_canonico": "Crema solar y labial con protección",
+   "url": "https://www.amazon.es/dp/B09XRDG5HC?tag=nti0c8-21",
+   "categorias": [
+    "Salud y reparación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Crema solar y labial con protección",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-18 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-18 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0B4HRDFVY": {
+   "nombre_canonico": "Desumidificador o sachets antihumedad",
+   "url": "https://www.amazon.es/dp/B0B4HRDFVY?tag=nti0c8-21",
+   "categorias": [
+    "Post-DANA"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Desumidificador o sachets antihumedad",
+     "prioridad": "extra",
+     "precio_aprox": "15-40 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-40 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0B6J97R41": {
+   "nombre_canonico": "Cereales/papilla instantánea (2 cajas)",
+   "url": "https://www.amazon.es/dp/B0B6J97R41?tag=nti0c8-21",
+   "categorias": [
+    "Leche y comida de reserva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Cereales/papilla instantánea (2 cajas)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-9 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-9 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0B9C9B8JT": {
+   "nombre_canonico": "Botella con asa y boquilla fácil + vaso con tapa",
+   "url": "https://www.amazon.es/dp/B0B9C9B8JT?tag=nti0c8-21",
+   "categorias": [
+    "Comida adaptada e hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Botella con asa y boquilla fácil + vaso con tapa",
+     "prioridad": "esencial",
+     "precio_aprox": "8-16 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-16 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0B9ZTKYW5": {
+   "nombre_canonico": "Lámparas LED a pilas con imán (para nevera/despensa)",
+   "url": "https://www.amazon.es/dp/B0B9ZTKYW5?tag=nti0c8-21",
+   "categorias": [
+    "Luz"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Lámparas LED a pilas con imán (para nevera/despensa)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BG8XYDPR": {
+   "nombre_canonico": "Patés variados (45 unidades)",
+   "url": "https://www.amazon.es/dp/B0BG8XYDPR?tag=nti0c8-21",
+   "categorias": [
+    "Comida no perecedera (proteína y platos listos)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Patés variados (45 unidades)",
+     "prioridad": "recomendado",
+     "precio_aprox": "~19 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~19 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BHDMZMSW": {
+   "nombre_canonico": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
+   "url": "https://www.amazon.es/dp/B0BHDMZMSW?tag=nti0c8-21",
+   "categorias": [
+    "Comida adaptada e hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-14 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BJPVQXP6": {
+   "nombre_canonico": "Velas de emergencia (solo como refuerzo, con portavelas seguro)",
+   "url": "https://www.amazon.es/dp/B0BJPVQXP6?tag=nti0c8-21",
+   "categorias": [
+    "Luz"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)",
+     "prioridad": "extra",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BJW6W2GM": {
+   "nombre_canonico": "Atún claro al natural (pack 6 latas)",
+   "url": "https://www.amazon.es/dp/B0BJW6W2GM?tag=nti0c8-21",
+   "categorias": [
+    "Comida no perecedera (proteína y platos listos)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Atún claro al natural (pack 6 latas)",
+     "prioridad": "esencial",
+     "precio_aprox": "~8 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BWJYXNK3": {
+   "nombre_canonico": "Termo pequeño de boca ancha (350-500 ml)",
+   "url": "https://www.amazon.es/dp/B0BWJYXNK3?tag=nti0c8-21",
+   "categorias": [
+    "Agua y alimentación sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Termo pequeño de boca ancha (350-500 ml)",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BYP13RZQ": {
+   "nombre_canonico": "Ventilador USB o a pilas",
+   "url": "https://www.amazon.es/dp/B0BYP13RZQ?tag=nti0c8-21",
+   "categorias": [
+    "Ventilación y calidad del aire",
+    "Frescura"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Ventilador USB de repisa o pies",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-30 €"
+    },
+    {
+     "kit": "kit-calor",
+     "producto": "Ventilador USB o a pilas",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-30 €"
+    }
+   ],
+   "kits": [
+    "kit-calor",
+    "kit-hogar"
+   ],
+   "n_kits": 2,
+   "precio_ref": "12-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0BZS918ZG": {
+   "nombre_canonico": "Cambrador portátil plegable",
+   "url": "https://www.amazon.es/dp/B0BZS918ZG?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Cambrador portátil plegable",
+     "prioridad": "extra",
+     "precio_aprox": "8-14 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0C1GPNPK9": {
+   "nombre_canonico": "Potitos de fruta y verdura (pack 6-8)",
+   "url": "https://www.amazon.es/dp/B0C1GPNPK9?tag=nti0c8-21",
+   "categorias": [
+    "Leche y comida de reserva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Potitos de fruta y verdura (pack 6-8)",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-14 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0C2HQ82L1": {
+   "nombre_canonico": "Sustrato universal 80 L (Batlle)",
+   "url": "https://www.amazon.es/dp/B0C2HQ82L1?tag=nti0c8-21",
+   "categorias": [
+    "Para empezar a sembrar"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Sustrato universal 80 L (Batlle)",
+     "prioridad": "esencial",
+     "precio_aprox": "24 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "24 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0C3B4H4Z5": {
+   "nombre_canonico": "Linterna LED a pilas (con pilas de repuesto)",
+   "url": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=nti0c8-21",
+   "categorias": [
+    "Luz y energía",
+    "Seguridad eléctrica"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Linterna LED a pilas (con pilas de repuesto)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    },
+    {
+     "kit": "kit-dana",
+     "producto": "Linterna LED (evita velas: riesgo de incendio)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-dana"
+   ],
+   "n_kits": 2,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0C4Y5MWC8": {
+   "nombre_canonico": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
+   "url": "https://www.amazon.es/dp/B0C4Y5MWC8?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0C9CJKCH3": {
+   "nombre_canonico": "Powerbank ligero + cable USB",
+   "url": "https://www.amazon.es/dp/B0C9CJKCH3?tag=nti0c8-21",
+   "categorias": [
+    "Orientación y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Powerbank ligero + cable USB",
+     "prioridad": "esencial",
+     "precio_aprox": "25-50 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-50 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CG9R782W": {
+   "nombre_canonico": "Arroz parboiled 1 kg (pack 2)",
+   "url": "https://www.amazon.es/dp/B0CG9R782W?tag=nti0c8-21",
+   "categorias": [
+    "Base de despensa (carbohidrato y leche)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Arroz parboiled 1 kg (pack 2)",
+     "prioridad": "esencial",
+     "precio_aprox": "~3 €/pack"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~3 €/pack",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CJDWWGNG": {
+   "nombre_canonico": "Guantes impermeables",
+   "url": "https://www.amazon.es/dp/B0CJDWWGNG?tag=nti0c8-21",
+   "categorias": [
+    "Protección personal frente al agua"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Guantes impermeables",
+     "prioridad": "extra",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CKW3F157": {
+   "nombre_canonico": "Cuerda de paracord 550 (30m)",
+   "url": "https://www.amazon.es/dp/B0CKW3F157?tag=nti0c8-21",
+   "categorias": [
+    "Orientación y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Cuerda de paracord 550 (30m)",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-19 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-19 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CLLSK9BC": {
+   "nombre_canonico": "Faja portadocumentos / riñonera oculta para efectivo",
+   "url": "https://www.amazon.es/dp/B0CLLSK9BC?tag=nti0c8-21",
+   "categorias": [
+    "Documentación y dinero"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Faja portadocumentos / riñonera oculta para efectivo",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CNTLKPLS": {
+   "nombre_canonico": "Desinfectante de superficies",
+   "url": "https://www.amazon.es/dp/B0CNTLKPLS?tag=nti0c8-21",
+   "categorias": [
+    "Post-DANA"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Desinfectante de superficies",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CQT78FWC": {
+   "nombre_canonico": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+   "url": "https://www.amazon.es/dp/B0CQT78FWC?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CRN5KNCT": {
+   "nombre_canonico": "Hornillo de camping a gas con bombonas",
+   "url": "https://www.amazon.es/dp/B0CRN5KNCT?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Hornillo de camping a gas con bombonas",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    },
+    {
+     "kit": "kit-hogar",
+     "producto": "Hornillo de butano portátil con bombonas",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon",
+    "kit-hogar"
+   ],
+   "n_kits": 2,
+   "precio_ref": "20-45 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CSDX8LR8": {
+   "nombre_canonico": "Cadenas para nieve o calcetines textiles",
+   "url": "https://www.amazon.es/dp/B0CSDX8LR8?tag=nti0c8-21",
+   "categorias": [
+    "Emergencia y supervivencia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Cadenas para nieve o calcetines textiles",
+     "prioridad": "recomendado",
+     "precio_aprox": "30-80 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "30-80 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CT3BWC5P": {
+   "nombre_canonico": "Silbato de emergencia",
+   "url": "https://www.amazon.es/dp/B0CT3BWC5P?tag=nti0c8-21",
+   "categorias": [
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Silbato de emergencia",
+     "prioridad": "esencial",
+     "precio_aprox": "3-8 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CVLH49QD": {
+   "nombre_canonico": "Bandejas de germinacion (pack 5, 112 alveolos)",
+   "url": "https://www.amazon.es/dp/B0CVLH49QD?tag=nti0c8-21",
+   "categorias": [
+    "Para empezar a sembrar"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Bandejas de germinacion (pack 5, 112 alveolos)",
+     "prioridad": "esencial",
+     "precio_aprox": "12 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CY8G31G4": {
+   "nombre_canonico": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
+   "url": "https://www.amazon.es/dp/B0CY8G31G4?tag=nti0c8-21",
+   "categorias": [
+    "Documentos e identificación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
+     "prioridad": "esencial",
+     "precio_aprox": "0-5 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "0-5 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CYDF32J3": {
+   "nombre_canonico": "Manta térmica",
+   "url": "https://www.amazon.es/dp/B0CYDF32J3?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y refugio",
+    "Emergencia y supervivencia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Manta térmica de emergencia",
+     "prioridad": "esencial",
+     "precio_aprox": "3-8 €"
+    },
+    {
+     "kit": "kit-coche",
+     "producto": "Manta térmica",
+     "prioridad": "esencial",
+     "precio_aprox": "3-8 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-coche"
+   ],
+   "n_kits": 2,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0CYT5X5PY": {
+   "nombre_canonico": "Conservas gallegas variadas (12 latas gourmet)",
+   "url": "https://www.amazon.es/dp/B0CYT5X5PY?tag=nti0c8-21",
+   "categorias": [
+    "Comida no perecedera (proteína y platos listos)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Conservas gallegas variadas (12 latas gourmet)",
+     "prioridad": "recomendado",
+     "precio_aprox": "~89 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~89 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0D3583RGC": {
+   "nombre_canonico": "Mini invernadero de 3 niveles (59x39x127 cm)",
+   "url": "https://www.amazon.es/dp/B0D3583RGC?tag=nti0c8-21",
+   "categorias": [
+    "Subir de nivel"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Mini invernadero de 3 niveles (59x39x127 cm)",
+     "prioridad": "opcional",
+     "precio_aprox": "21 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "21 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0D9JMS8H2": {
+   "nombre_canonico": "Panel solar portátil 20-40 W",
+   "url": "https://www.amazon.es/dp/B0D9JMS8H2?tag=nti0c8-21",
+   "categorias": [
+    "Energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Panel solar portátil 20-40 W",
+     "prioridad": "recomendado",
+     "precio_aprox": "40-80 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "40-80 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0D9M3CWMW": {
+   "nombre_canonico": "Botiquín completo 222 piezas",
+   "url": "https://www.amazon.es/dp/B0D9M3CWMW?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Botiquín completo 222 piezas",
+     "prioridad": "esencial",
+     "precio_aprox": "~24 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~24 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DB8GRTPL": {
+   "nombre_canonico": "Bastón plegable / andador de repuesto con luz",
+   "url": "https://www.amazon.es/dp/B0DB8GRTPL?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Bastón plegable / andador de repuesto con luz",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DBJBN5ZN": {
+   "nombre_canonico": "Cuña u orinal con asa",
+   "url": "https://www.amazon.es/dp/B0DBJBN5ZN?tag=nti0c8-21",
+   "categorias": [
+    "Higiene, incontinencia y frío"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Cuña u orinal con asa",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DCC4KNZN": {
+   "nombre_canonico": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
+   "url": "https://www.amazon.es/dp/B0DCC4KNZN?tag=nti0c8-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
+     "prioridad": "recomendado",
+     "precio_aprox": "0-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "0-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DFLHZQ18": {
+   "nombre_canonico": "Powerbank de alta capacidad (≥ 20.000 mAh)",
+   "url": "https://www.amazon.es/dp/B0DFLHZQ18?tag=nti0c8-21",
+   "categorias": [
+    "Luz y energía",
+    "Energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Powerbank de alta capacidad (≥ 20.000 mAh)",
+     "prioridad": "esencial",
+     "precio_aprox": "25-50 €"
+    },
+    {
+     "kit": "kit-apagon",
+     "producto": "Powerbank ≥ 20.000 mAh con salida AC o USB-C PD",
+     "prioridad": "esencial",
+     "precio_aprox": "25-50 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon",
+    "kit-basico-72h"
+   ],
+   "n_kits": 2,
+   "precio_ref": "25-50 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DHGGGK1Q": {
+   "nombre_canonico": "Botiquín ligero de trekking",
+   "url": "https://www.amazon.es/dp/B0DHGGGK1Q?tag=nti0c8-21",
+   "categorias": [
+    "Salud y reparación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Botiquín ligero de trekking",
+     "prioridad": "esencial",
+     "precio_aprox": "12-25 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DHH7TMGF": {
+   "nombre_canonico": "Barritas energéticas",
+   "url": "https://www.amazon.es/dp/B0DHH7TMGF?tag=nti0c8-21",
+   "categorias": [
+    "Alimentación",
+    "Energía y confort"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Barritas energéticas y frutos secos",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-15 €/pack"
+    },
+    {
+     "kit": "kit-coche",
+     "producto": "Barritas energéticas",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-15 €/pack"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-coche"
+   ],
+   "n_kits": 2,
+   "precio_ref": "10-15 €/pack",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DHJR3V44": {
+   "nombre_canonico": "Copia de llaves de casa",
+   "url": "https://www.amazon.es/dp/B0DHJR3V44?tag=nti0c8-21",
+   "categorias": [
+    "Documentación esencial"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Copia de llaves de casa",
+     "prioridad": "esencial",
+     "precio_aprox": "—"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "—",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DK3LBNFM": {
+   "nombre_canonico": "Kit de costura de emergencia",
+   "url": "https://www.amazon.es/dp/B0DK3LBNFM?tag=nti0c8-21",
+   "categorias": [
+    "Salud y reparación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Kit de costura de emergencia",
+     "prioridad": "recomendado",
+     "precio_aprox": "3-8 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DM2728ZS": {
+   "nombre_canonico": "Nevera portátil de conservas",
+   "url": "https://www.amazon.es/dp/B0DM2728ZS?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Nevera portátil de conservas",
+     "prioridad": "esencial",
+     "precio_aprox": "1-3 €/lata"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "1-3 €/lata",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DNMRNRF2": {
+   "nombre_canonico": "Termómetro de nevera (mínimo/máximo)",
+   "url": "https://www.amazon.es/dp/B0DNMRNRF2?tag=nti0c8-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Termómetro de nevera (mínimo/máximo)",
+     "prioridad": "recomendado",
+     "precio_aprox": "4-8 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DNZ8DG6H": {
+   "nombre_canonico": "Ficha médico-identificativa plastificada",
+   "url": "https://www.amazon.es/dp/B0DNZ8DG6H?tag=nti0c8-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Ficha médico-identificativa plastificada",
+     "prioridad": "esencial",
+     "precio_aprox": "0-5 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "0-5 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DP4Y4S7K": {
+   "nombre_canonico": "Lejía y desinfectante de superficies",
+   "url": "https://www.amazon.es/dp/B0DP4Y4S7K?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y limpieza"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Lejía y desinfectante de superficies",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DQGR1KDL": {
+   "nombre_canonico": "Botella térmica fría (500 ml)",
+   "url": "https://www.amazon.es/dp/B0DQGR1KDL?tag=nti0c8-21",
+   "categorias": [
+    "Agua y alimentación sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Botella térmica fría (500 ml)",
+     "prioridad": "extra",
+     "precio_aprox": "12-20 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DRWF7GZL": {
+   "nombre_canonico": "Aspirador nasal + suero fisiológico en monodosis",
+   "url": "https://www.amazon.es/dp/B0DRWF7GZL?tag=nti0c8-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Aspirador nasal + suero fisiológico en monodosis",
+     "prioridad": "recomendado",
+     "precio_aprox": "4-8 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DT6M79BB": {
+   "nombre_canonico": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+   "url": "https://www.amazon.es/dp/B0DT6M79BB?tag=nti0c8-21",
+   "categorias": [
+    "Higiene, incontinencia y frío"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0DZXDTZ6B": {
+   "nombre_canonico": "Bolsas de almacenamiento de leche materna (pack 30-50)",
+   "url": "https://www.amazon.es/dp/B0DZXDTZ6B?tag=nti0c8-21",
+   "categorias": [
+    "Leche y comida de reserva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Bolsas de almacenamiento de leche materna (pack 30-50)",
+     "prioridad": "extra",
+     "precio_aprox": "6-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F1TQD4C4": {
+   "nombre_canonico": "Bolsas estancas para ropa sucia y pañales (pack)",
+   "url": "https://www.amazon.es/dp/B0F1TQD4C4?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Bolsas estancas para ropa sucia y pañales (pack)",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-9 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-9 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F31WSL3G": {
+   "nombre_canonico": "Organizador de pastillas semanal (pastillero) con copia de pautas",
+   "url": "https://www.amazon.es/dp/B0F31WSL3G?tag=nti0c8-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas",
+     "prioridad": "esencial",
+     "precio_aprox": "6-14 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F4RBK2W3": {
+   "nombre_canonico": "Botiquín de coche",
+   "url": "https://www.amazon.es/dp/B0F4RBK2W3?tag=nti0c8-21",
+   "categorias": [
+    "Emergencia y supervivencia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Botiquín de coche",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F4X8M5MZ": {
+   "nombre_canonico": "Gafas de graduación de repuesto",
+   "url": "https://www.amazon.es/dp/B0F4X8M5MZ?tag=nti0c8-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Gafas de graduación de repuesto",
+     "prioridad": "esencial",
+     "precio_aprox": "10-30 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F5X5TN4T": {
+   "nombre_canonico": "Suero de rehidratación oral y jeringuilla dosificadora",
+   "url": "https://www.amazon.es/dp/B0F5X5TN4T?tag=nti0c8-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
+     "prioridad": "esencial",
+     "precio_aprox": "6-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F8RG1DV6": {
+   "nombre_canonico": "Cargador de dinamo multiuso",
+   "url": "https://www.amazon.es/dp/B0F8RG1DV6?tag=nti0c8-21",
+   "categorias": [
+    "Energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Cargador de dinamo multiuso",
+     "prioridad": "extra",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0F99LGY3V": {
+   "nombre_canonico": "Pastillas potabilizadoras aptas para lactantes",
+   "url": "https://www.amazon.es/dp/B0F99LGY3V?tag=nti0c8-21",
+   "categorias": [
+    "Agua y alimentación sin electricidad",
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Pastillas potabilizadoras aptas para lactantes",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    },
+    {
+     "kit": "kit-mayores",
+     "producto": "Pastilla potabilizadora y vaso medidor para medicación",
+     "prioridad": "extra",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe",
+    "kit-mayores"
+   ],
+   "n_kits": 2,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FB3WSWJ1": {
+   "nombre_canonico": "Linterna de cabecera con cordón/manillla grande",
+   "url": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=nti0c8-21",
+   "categorias": [
+    "Caídas, noche y seguridad en casa"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Linterna de cabecera con cordón/manillla grande",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FF4KS8T1": {
+   "nombre_canonico": "Sacos de arena vacíos o barreras de inundación",
+   "url": "https://www.amazon.es/dp/B0FF4KS8T1?tag=nti0c8-21",
+   "categorias": [
+    "Protección de la vivienda"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Sacos de arena vacíos o barreras de inundación",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FHBDDBNT": {
+   "nombre_canonico": "Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)",
+   "url": "https://www.amazon.es/dp/B0FHBDDBNT?tag=nti0c8-21",
+   "categorias": [
+    "Obligatorio en España (DGT)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-25 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FJYC8FH1": {
+   "nombre_canonico": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)",
+   "url": "https://www.amazon.es/Carpeta-Cremallera-Impermeable-Almacenaje-Resistente/dp/B0FJYC8FH1?tag=nti0c8-21",
+   "categorias": [
+    "Documentación esencial"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-18 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-18 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FKT561SK": {
+   "nombre_canonico": "Termómetro digital de bebé",
+   "url": "https://www.amazon.es/dp/B0FKT561SK?tag=nti0c8-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Termómetro digital de bebé",
+     "prioridad": "esencial",
+     "precio_aprox": "6-12 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FNCWC3SM": {
+   "nombre_canonico": "Gorro y manoplas de bebé",
+   "url": "https://www.amazon.es/dp/B0FNCWC3SM?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y sueño"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Gorro y manoplas de bebé",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-10 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FP16NDYT": {
+   "nombre_canonico": "Apósitos hidrocoloides para ampollas",
+   "url": "https://www.amazon.es/dp/B0FP16NDYT?tag=nti0c8-21",
+   "categorias": [
+    "Salud y reparación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Apósitos hidrocoloides para ampollas",
+     "prioridad": "esencial",
+     "precio_aprox": "7-22 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "7-22 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FP5RJ53N": {
+   "nombre_canonico": "Comida para mascotas extra",
+   "url": "https://www.amazon.es/dp/B0FP5RJ53N?tag=nti0c8-21",
+   "categorias": [
+    "Agua y comida"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Comida para mascotas extra",
+     "prioridad": "esencial",
+     "precio_aprox": "5-15 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FQ5TJY9K": {
+   "nombre_canonico": "Gel hidroalcohólico y toallitas húmedas",
+   "url": "https://www.amazon.es/dp/B0FQ5TJY9K?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Gel hidroalcohólico y toallitas húmedas",
+     "prioridad": "esencial",
+     "precio_aprox": "5-10 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FX9NXD18": {
+   "nombre_canonico": "Casquete o gorro de abrigo",
+   "url": "https://www.amazon.es/dp/B0FX9NXD18?tag=nti0c8-21",
+   "categorias": [
+    "Refugio y abrigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Casquete o gorro de abrigo",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-18 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-18 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FY2W5B8T": {
+   "nombre_canonico": "Gafas de sol categoría 3-4",
+   "url": "https://www.amazon.es/KANASTAL-Deportivas-Polarizadas-Rectangulares-Protecci%C3%B3n/dp/B0FY2W5B8T?tag=nti0c8-21",
+   "categorias": [
+    "Protección solar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Gafas de sol categoría 3-4",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-40 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-40 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FZC1F9NH": {
+   "nombre_canonico": "Regadera 6 L con cabezal desmontable",
+   "url": "https://www.amazon.es/dp/B0FZC1F9NH?tag=nti0c8-21",
+   "categorias": [
+    "Equipo y herramientas"
+   ],
+   "apariciones": [
+    {
+     "kit": "huerto-autosuficiencia",
+     "producto": "Regadera 6 L con cabezal desmontable",
+     "prioridad": "recomendado",
+     "precio_aprox": "10 €"
+    }
+   ],
+   "kits": [
+    "huerto-autosuficiencia"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0FZTLMXW9": {
+   "nombre_canonico": "Encendedores y cerillas largas",
+   "url": "https://www.amazon.es/dp/B0FZTLMXW9?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Encendedores y cerillas largas",
+     "prioridad": "esencial",
+     "precio_aprox": "5-10 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0G2LY256T": {
+   "nombre_canonico": "Balizas LED de noche con sensor (pack 2-3)",
+   "url": "https://www.amazon.es/dp/B0G2LY256T?tag=nti0c8-21",
+   "categorias": [
+    "Caídas, noche y seguridad en casa"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Balizas LED de noche con sensor (pack 2-3)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0G3PXJRXB": {
+   "nombre_canonico": "Portabebés ergonómico (bandolera o Mei Tai)",
+   "url": "https://www.amazon.es/dp/B0G3PXJRXB?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y sueño"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
+     "prioridad": "recomendado",
+     "precio_aprox": "25-50 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-50 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0G3YCY2FS": {
+   "nombre_canonico": "Tensiómetro de brazo a pilas con memoria",
+   "url": "https://www.amazon.es/dp/B0G3YCY2FS?tag=nti0c8-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Tensiómetro de brazo a pilas con memoria",
+     "prioridad": "recomendado",
+     "precio_aprox": "25-45 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-45 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0G45JL8F3": {
+   "nombre_canonico": "Hornillo de camping 2 en 1 (bombona grande o cartucho)",
+   "url": "https://www.amazon.es/dp/B0G45JL8F3?tag=nti0c8-21",
+   "categorias": [
+    "Cocinar y calentar sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-30-dias",
+     "producto": "Hornillo de camping 2 en 1 (bombona grande o cartucho)",
+     "prioridad": "esencial",
+     "precio_aprox": "~19 €"
+    }
+   ],
+   "kits": [
+    "kit-30-dias"
+   ],
+   "n_kits": 1,
+   "precio_ref": "~19 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0G65QTD2Y": {
+   "nombre_canonico": "Crema barrera contra rozaduras",
+   "url": "https://www.amazon.es/dp/B0G65QTD2Y?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Crema barrera contra rozaduras",
+     "prioridad": "recomendado",
+     "precio_aprox": "4-8 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GK6PV1M4": {
+   "nombre_canonico": "Botiquín de bolsillo",
+   "url": "https://www.amazon.es/REVOLRACE-Primeros-Auxilios-Coche-Piezas/dp/B0GK6PV1M4?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y salud",
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Botiquín de primeros auxilios básico",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    },
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Botiquín de bolsillo",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-evacuacion"
+   ],
+   "n_kits": 2,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GLQGTKQD": {
+   "nombre_canonico": "Juegos de mesa o cartas",
+   "url": "https://www.amazon.es/dp/B0GLQGTKQD?tag=nti0c8-21",
+   "categorias": [
+    "Moral"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Juegos de mesa o cartas",
+     "prioridad": "extra",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GM1QQW1C": {
+   "nombre_canonico": "Mascarillas FFP2",
+   "url": "https://www.amazon.es/dp/B0GM1QQW1C?tag=nti0c8-21",
+   "categorias": [
+    "Salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Mascarillas FFP2",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GMQVNSRC": {
+   "nombre_canonico": "Chubasquero ligero",
+   "url": "https://www.amazon.es/dp/B0GMQVNSRC?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y refugio",
+    "Protección personal frente al agua",
+    "Refugio y abrigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Chubasquero o poncho impermeable",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-30 €"
+    },
+    {
+     "kit": "kit-dana",
+     "producto": "Chubasquero impermeable con capucha",
+     "prioridad": "esencial",
+     "precio_aprox": "20-40 €"
+    },
+    {
+     "kit": "kit-montana",
+     "producto": "Chubasquero ligero",
+     "prioridad": "esencial",
+     "precio_aprox": "20-50 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-dana",
+    "kit-montana"
+   ],
+   "n_kits": 3,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GMXX2G9S": {
+   "nombre_canonico": "Pastillas potabilizadoras de agua",
+   "url": "https://www.amazon.es/Pastillas-Potabilizadoras-Tratamiento-Dep%C3%B3sitos-Emergencias/dp/B0GMXX2G9S?tag=nti0c8-21",
+   "categorias": [
+    "Agua e hidratación",
+    "Supervivencia 24-72 h"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Pastillas potabilizadoras de agua",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    },
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Botella de agua + pastillas potabilizadoras",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h",
+    "kit-evacuacion"
+   ],
+   "n_kits": 2,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GQXYX9M2": {
+   "nombre_canonico": "Alfombrilla antideslizante de baño y tirante de apoyo",
+   "url": "https://www.amazon.es/dp/B0GQXYX9M2?tag=nti0c8-21",
+   "categorias": [
+    "Caídas, noche y seguridad en casa"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Alfombrilla antideslizante de baño y tirante de apoyo",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-25 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GR9993T2": {
+   "nombre_canonico": "Manta térmica de supervivencia",
+   "url": "https://www.amazon.es/dp/B0GR9993T2?tag=nti0c8-21",
+   "categorias": [
+    "Refugio y abrigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Manta térmica de supervivencia",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-montana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GRMM8ZQS": {
+   "nombre_canonico": "Linterna + batería externa",
+   "url": "https://www.amazon.es/Power-Bank-Solar-20000mAh-Linterna/dp/B0GRMM8ZQS?tag=nti0c8-21",
+   "categorias": [
+    "Luz",
+    "Salud y reparación",
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Linterna frontal (manos libres)",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-25 €"
+    },
+    {
+     "kit": "kit-montana",
+     "producto": "Frontal con pilas de repuesto",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    },
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Linterna + batería externa",
+     "prioridad": "esencial",
+     "precio_aprox": "20-40 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon",
+    "kit-evacuacion",
+    "kit-montana"
+   ],
+   "n_kits": 3,
+   "precio_ref": "12-25 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GSVHHD6R": {
+   "nombre_canonico": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
+   "url": "https://www.amazon.es/dp/B0GSVHHD6R?tag=nti0c8-21",
+   "categorias": [
+    "Agua y alimentación sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
+     "prioridad": "recomendado",
+     "precio_aprox": "6-12 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GSZS62HD": {
+   "nombre_canonico": "Mantas/empapadores de tela de confianza",
+   "url": "https://www.amazon.es/dp/B0GSZS62HD?tag=nti0c8-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Mantas/empapadores de tela de confianza",
+     "prioridad": "extra",
+     "precio_aprox": "8-15 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GWN9FJC7": {
+   "nombre_canonico": "Radio FM/AM a pilas o de dinamo",
+   "url": "https://www.amazon.es/dp/B0GWN9FJC7?tag=nti0c8-21",
+   "categorias": [
+    "Luz, energía y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Radio FM/AM a pilas o de dinamo",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GWNDVR7S": {
+   "nombre_canonico": "Radio FM/AM a pilas o dinamo",
+   "url": "https://www.amazon.es/dp/B0GWNDVR7S?tag=nti0c8-21",
+   "categorias": [
+    "Información y comunicación",
+    "Dinero y comunicación",
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Radio FM/AM a pilas o dinamo",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    },
+    {
+     "kit": "kit-apagon",
+     "producto": "Radio FM/AM a pilas o dinamo",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    },
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Radio FM/AM a pilas o dinamo",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon",
+    "kit-basico-72h",
+    "kit-evacuacion"
+   ],
+   "n_kits": 3,
+   "precio_ref": "15-35 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GY43YPS8": {
+   "nombre_canonico": "Botella isotérmica de acero (mantiene frío 12-24 h)",
+   "url": "https://www.amazon.es/Botella-Inoxidable-Cantimplora-Mantiene-Aislamiento/dp/B0GY43YPS8?tag=nti0c8-21",
+   "categorias": [
+    "Hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Botella isotérmica de acero (mantiene frío 12-24 h)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0GZ1Q49RH": {
+   "nombre_canonico": "Manta térmica de emergencia aluminizada (pack de 2)",
+   "url": "https://www.amazon.es/dp/B0GZ1Q49RH?tag=nti0c8-21",
+   "categorias": [
+    "Higiene, incontinencia y frío"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Manta térmica de emergencia aluminizada (pack de 2)",
+     "prioridad": "recomendado",
+     "precio_aprox": "4-10 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H29XL26R": {
+   "nombre_canonico": "Leche de fórmula de seguimiento (lata 400-800 g)",
+   "url": "https://www.amazon.es/dp/B0H29XL26R?tag=nti0c8-21",
+   "categorias": [
+    "Leche y comida de reserva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Leche de fórmula de seguimiento (lata 400-800 g)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-16 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-16 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H37438Y1": {
+   "nombre_canonico": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
+   "url": "https://www.amazon.es/dp/B0H37438Y1?tag=nti0c8-21",
+   "categorias": [
+    "Abrigo y sueño"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
+     "prioridad": "esencial",
+     "precio_aprox": "12-22 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-22 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H3WC3R53": {
+   "nombre_canonico": "Pastas, arroz y legumbres en paquetes",
+   "url": "https://www.amazon.es/dp/B0H3WC3R53?tag=nti0c8-21",
+   "categorias": [
+    "Agua y comida"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Pastas, arroz y legumbres en paquetes",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H4KNVJ99": {
+   "nombre_canonico": "Powerbank de coche 12V",
+   "url": "https://www.amazon.es/dp/B0H4KNVJ99?tag=nti0c8-21",
+   "categorias": [
+    "Energía y confort"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Powerbank de coche 12V",
+     "prioridad": "esencial",
+     "precio_aprox": "25-50 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-50 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H53XJ2KK": {
+   "nombre_canonico": "Pulverizador de agua",
+   "url": "https://www.amazon.es/Peluquer%C3%ADa-Pulverizador-Barber%C3%ADa-Boquilla-Ajustable/dp/B0H53XJ2KK?tag=nti0c8-21",
+   "categorias": [
+    "Frescura"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-calor",
+     "producto": "Pulverizador de agua",
+     "prioridad": "recomendado",
+     "precio_aprox": "3-8 €"
+    }
+   ],
+   "kits": [
+    "kit-calor"
+   ],
+   "n_kits": 1,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H6BL141L": {
+   "nombre_canonico": "Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)",
+   "url": "https://www.amazon.es/dp/B0H6BL141L?tag=nti0c8-21",
+   "categorias": [
+    "Utilidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)",
+     "prioridad": "esencial",
+     "precio_aprox": "3-10 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "3-10 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H7WY7KZK": {
+   "nombre_canonico": "Manta térmica + poncho",
+   "url": "https://www.amazon.es/dp/B0H7WY7KZK?tag=nti0c8-21",
+   "categorias": [
+    "Supervivencia 24-72 h"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-evacuacion",
+     "producto": "Manta térmica + poncho",
+     "prioridad": "esencial",
+     "precio_aprox": "6-14 €"
+    }
+   ],
+   "kits": [
+    "kit-evacuacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-14 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H8X7LJTM": {
+   "nombre_canonico": "Bolsas de residuos negras (50+ unidades)",
+   "url": "https://www.amazon.es/dp/B0H8X7LJTM?tag=nti0c8-21",
+   "categorias": [
+    "Higiene y limpieza"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Bolsas de residuos negras (50+ unidades)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-15 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-15 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H8ZDPS7C": {
+   "nombre_canonico": "Termómetro digital",
+   "url": "https://www.amazon.es/dp/B0H8ZDPS7C?tag=nti0c8-21",
+   "categorias": [
+    "Salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Termómetro digital",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0H99C1WWZ": {
+   "nombre_canonico": "Tiracables con interruptor diferencial portátil",
+   "url": "https://www.amazon.es/dp/B0H99C1WWZ?tag=nti0c8-21",
+   "categorias": [
+    "Seguridad eléctrica"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Tiracables con interruptor diferencial portátil",
+     "prioridad": "recomendado",
+     "precio_aprox": "20-40 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-40 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0HBWJBK6D": {
+   "nombre_canonico": "Batidos proteicos/enriquecidos (pack 8-12)",
+   "url": "https://www.amazon.es/dp/B0HBWJBK6D?tag=nti0c8-21",
+   "categorias": [
+    "Comida adaptada e hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Batidos proteicos/enriquecidos (pack 8-12)",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-18 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-18 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0HC4PGSVV": {
+   "nombre_canonico": "Batería externa (powerbank) de 10.000-20.000 mAh",
+   "url": "https://www.amazon.es/dp/B0HC4PGSVV?tag=nti0c8-21",
+   "categorias": [
+    "Luz, energía y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Batería externa (powerbank) de 10.000-20.000 mAh",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  },
+  "B0HD6RLST6": {
+   "nombre_canonico": "Silbato de emergencia",
+   "url": "https://www.amazon.es/dp/B0HD6RLST6?tag=nti0c8-21",
+   "categorias": [
+    "Orientación y comunicación",
+    "Caídas, noche y seguridad en casa"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-montana",
+     "producto": "Silbato de emergencia",
+     "prioridad": "esencial",
+     "precio_aprox": "3-8 €"
+    },
+    {
+     "kit": "kit-mayores",
+     "producto": "Silbato de emergencia en el llavero/pulsera",
+     "prioridad": "recomendado",
+     "precio_aprox": "2-5 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores",
+    "kit-montana"
+   ],
+   "n_kits": 2,
+   "precio_ref": "3-8 €",
+   "estado": "vivo",
+   "verificado": "2026-09-28"
+  }
+ },
+ "verificacion": {
+  "fecha": "2026-09-28",
+  "caidos": 0
+ }
+}

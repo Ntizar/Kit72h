@@ -956,19 +956,21 @@
             },
             {
               "producto": "Radio FM/AM a pilas o de dinamo",
-              "afiliado": "https://www.amazon.es/s?k=radio%20fm%20am%20pilas%20dinamo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GWN9FJC7?tag=nti0c8-21",
               "descripcion": "Cuando cae la red móvil, la radio sigue emitiendo avisos oficiales sin internet ni batería del móvil. Sintoniza las emisoras locales antes de guardarla y prueba la recepción donde la vayas a usar.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-28"
             },
             {
               "producto": "Batería externa (powerbank) de 10.000-20.000 mAh",
-              "afiliado": "https://www.amazon.es/s?k=powerbank%2020000%20mah&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0HC4PGSVV?tag=nti0c8-21",
               "descripcion": "Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-28"
             }
           ]
         }
@@ -1393,12 +1395,13 @@
             },
             {
               "producto": "Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)",
-              "afiliado": "https://www.amazon.es/s?k=chaleco+reflectante+peaton+luminoso&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0H6BL141L?tag=nti0c8-21",
               "descripcion": "Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no.",
               "precio_aprox": "3-10 €",
               "prioridad": "esencial",
               "busqueda": "chaleco reflectante peaton luminoso",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-28"
             }
           ],
           "intro": "Radio para saber qué pasa, luz para moverte, navaja y silbato para reparar y pedir ayuda, botiquín para las curas y efectivo para comprar cuando todo es cash."
