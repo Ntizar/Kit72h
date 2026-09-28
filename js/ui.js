@@ -312,6 +312,8 @@ const ui = {
   /* ---- FICHA DE KIT ---- */
   htmlKit(kit) {
     let nEs = 0;
+    const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
+
     const secciones = kit.secciones.map((s, si) => `
       <div class="seccion-kit">
         <h2>${String(si+1).padStart(2,'0')} / ${s.titulo}</h2>
@@ -320,7 +322,7 @@ const ui = {
           ${s.items.map(i => {
             const m = i.afiliado ? /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado) : null;
             const es = i.prioridad === 'esencial';
-            if (es && m) nEs++;
+            if (es && m) asinsEs.add(m[1]);
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
               <input type="checkbox" class="chk" aria-label="Marcar ${i.producto.replace(/"/g, '')}">
@@ -339,6 +341,8 @@ const ui = {
             </li>`;}).join('')}
         </ul>
       </div>`).join('');
+
+    nEs = asinsEs.size;
 
     const guia = kit.guia ? `
       <div class="guia-kit">
@@ -389,7 +393,7 @@ const ui = {
         </div>
         ${paraQuien}
         ${secciones}
-        ${nEs > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}')">Añadir los ${nEs} imprescindibles a tu cesta de Amazon →</button>` : ''}
+        ${nEs > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Añadir los ${nEs} imprescindibles a tu cesta de Amazon →</button>` : ''}
         ${errores}
         ${guia}
         ${blogBox}
@@ -417,13 +421,17 @@ const ui = {
     upd();
   },
 
-  /* ---- Cesta Amazon en 1 clic: los ASIN esenciales, uno por línea ---- */
-  armarCesta(slug) {
+  /* ---- Cesta Amazon en 1 clic, un ASIN por línea y sin repetir ----
+     modo 'todo' (por defecto): TODOS los productos con ficha del kit.
+     modo 'esenciales': solo los marcados como imprescindibles.          */
+  armarCesta(slug, modo) {
     const kit = state.kitPorSlug(slug);
     if (!kit) return;
+    const soloEsenciales = modo === 'esenciales';
     const vistos = new Set(); const asins = [];
     kit.secciones.forEach(s => s.items.forEach(i => {
-      if (i.prioridad !== 'esencial' || !i.afiliado) return;
+      if (!i.afiliado) return;
+      if (soloEsenciales && i.prioridad !== 'esencial') return;
       const m = /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado);
       if (m && !vistos.has(m[1])) { vistos.add(m[1]); asins.push(m[1]); }
     }));

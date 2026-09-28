@@ -1,0 +1,1085 @@
+{
+ "generado": "2026-09-28",
+ "total": 151,
+ "vivos": 151,
+ "muertos": 0,
+ "asins": {
+  "8419436623": {
+   "estado": "vivo",
+   "titulo": "Huerto urbano (LAROUSSE - Libros Ilustrados/ Prácticos - Ocio y naturaleza - Jardinería) : Asseray, ",
+   "usado_en": [
+    "huerto-autosuficiencia: Huerto urbano (Larousse)"
+   ]
+  },
+  "8498381495": {
+   "estado": "vivo",
+   "titulo": "El Principito (edición original con las acuarelas del autor) : Saint Exupery, Antoine De: Amazon.es:",
+   "usado_en": [
+    "kit-hogar: Libros de bolsillo"
+   ]
+  },
+  "B000IAZDE0": {
+   "estado": "vivo",
+   "titulo": "Victorinox Navaja Suiza Spartan, Multiuso con 12 Funciones, Hoja Grande | Navaja de bolsillo para ca",
+   "usado_en": [
+    "kit-montana: Navaja multiuso"
+   ]
+  },
+  "B004GENVLG": {
+   "estado": "vivo",
+   "titulo": "Manta TÉRMICA DE Emergencia Oro/Plata 10 UDS : Amazon.es: Deportes y aire libre",
+   "usado_en": [
+    "kit-bebe: Manta térmica de emergencia infantil (o manta polar pequeña)"
+   ]
+  },
+  "B006G5N4XS": {
+   "estado": "vivo",
+   "titulo": "TREK'N EAT BEEF STROGANOFF CON ARROZ : Amazon.es: Alimentación y bebidas",
+   "usado_en": [
+    "kit-basico-72h: Raciones militares de emergencia (comida deshidratada)",
+    "kit-evacuacion: Ración de comida deshidratada"
+   ]
+  },
+  "B006RHPKF0": {
+   "estado": "vivo",
+   "titulo": "Amazon.es: S SUMEX 2707125 Kit de 2 Triángulos de Emergencia y 2 Chalecos Reflectantes Homologados E",
+   "usado_en": [
+    "kit-coche: Dos triángulos de emergencia homologados"
+   ]
+  },
+  "B00AMHKB28": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)"
+   ]
+  },
+  "B00B2N8IFS": {
+   "estado": "vivo",
+   "titulo": "3Claveles 500 - Abrelatas explorador pavonado, Acero, Gris : Amazon.es: Hogar y cocina",
+   "usado_en": [
+    "kit-hogar: Abreconservas manual"
+   ]
+  },
+  "B00CIZVHXE": {
+   "estado": "vivo",
+   "titulo": "ARREGUI Elegant C9245 Caja Caudales con Llave para Contar y Transportar Dinero | Caja de Seguridad d",
+   "usado_en": [
+    "kit-apagon: Caja fuerte pequeña portátil para efectivo"
+   ]
+  },
+  "B00F2NGYAU": {
+   "estado": "vivo",
+   "titulo": "Bellota 2994 - Kit de jardinería y huerto que incluye: rastrillo, transplantador y azuela, herramien",
+   "usado_en": [
+    "huerto-autosuficiencia: Kit de herramientas de jardin (Bellota, 3 piezas)"
+   ]
+  },
+  "B00NGTCKWS": {
+   "estado": "vivo",
+   "titulo": "O.R.S Tabletas de hidratación con electrolitos, fórmula vegana, sin gluten ni lactosa, tabletas de h",
+   "usado_en": [
+    "kit-calor: Sales de rehidratación oral"
+   ]
+  },
+  "B00XA5FJ9E": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-30-dias: Leche en polvo entera 1 kg (Asturiana)"
+   ]
+  },
+  "B011OEOZE2": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Agua baja en sodio para lactancia (pack 6 × 1,5 L)"
+   ]
+  },
+  "B012D3650K": {
+   "estado": "vivo",
+   "titulo": "Fiskars Solid Pala de nieve para el coche, Longitud: 63 cm | Plástico reforzado con fibra de vidrio,",
+   "usado_en": [
+    "kit-dana: Palas y cubos para retirar lodo"
+   ]
+  },
+  "B0150HY1PW": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Espesantes para líquidos (si hay disfagia diagnosticada)"
+   ]
+  },
+  "B015Y8BY02": {
+   "estado": "vivo",
+   "titulo": "DUNLOP Pricemastor. Botas de agua clásicas impermeables, Negro, Talla 35 | Botas de caucho impermeab",
+   "usado_en": [
+    "kit-dana: Botas de agua"
+   ]
+  },
+  "B01DUW98CA": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Botella o garrafa de agua (3 L por persona y día)",
+    "kit-coche: Agua embotellada (renovar cada 6 meses)"
+   ]
+  },
+  "B01LX6Q7XS": {
+   "estado": "vivo",
+   "titulo": "Grupo Erik Poster Mapa España fisico politico en Español - Laminas decorativas 61x91,5cm a todo colo",
+   "usado_en": [
+    "kit-basico-72h: Mapa físico de tu zona (papel, no digital)"
+   ]
+  },
+  "B01M1NCHK8": {
+   "estado": "vivo",
+   "titulo": "Orbegozo HCE 73, Estufa gas butano, 4200 W, 3 niveles de potencia, triple sistema de seguridad, apta",
+   "usado_en": [
+    "kit-30-dias: Estufa de gas butano (Orbegozo 4200 W)"
+   ]
+  },
+  "B01MSTVEZN": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-30-dias: Lentejas a la riojana Litoral (pack 6)"
+   ]
+  },
+  "B06WGS9J3D": {
+   "estado": "vivo",
+   "titulo": "Litoral Cocido Madrileño pack 6x425g | Cocido madrileño plato preparado listo para comer con receta ",
+   "usado_en": [
+    "kit-30-dias: Cocido madrileño Litoral (pack 6)"
+   ]
+  },
+  "B06XWZ41RT": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Radio a pilas FM con volumen alto y dial grande"
+   ]
+  },
+  "B075RCPZ3P": {
+   "estado": "vivo",
+   "titulo": "Multivitaminas y Minerales - 450 Comprimidos (Paquete XL) - Todas las Vitaminas A,B,C,D3,E, Calcio, ",
+   "usado_en": [
+    "kit-30-dias: Multivitaminas 450 comprimidos"
+   ]
+  },
+  "B07B9KD2JF": {
+   "estado": "vivo",
+   "titulo": "ISDIN Fotoprotector Facial Fusion Water MAGIC Medium SPF50-50ml | Protector Solar Ultraligero Con Co",
+   "usado_en": [
+    "kit-calor: Protector solar SPF 50"
+   ]
+  },
+  "B07BGSTHD2": {
+   "estado": "vivo",
+   "titulo": "Semillas ECOLÓGICAS huerto lote 10 sobres (Tomate, Pimiento italiano, Pimiento rojo, Berenjena, Cala",
+   "usado_en": [
+    "huerto-autosuficiencia: Kit de semillas ecologicas (10 variedades de huerto)"
+   ]
+  },
+  "B07D5GJ9L9": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-calor: Toalla de enfriamiento instantáneo"
+   ]
+  },
+  "B07FXSF4PV": {
+   "estado": "vivo",
+   "titulo": "Fackelmann Geneva Pote Alto 14 cms, Capacidad 1,7 Litros, Cazo de Leche de Acero Inoxidable con Núcl",
+   "usado_en": [
+    "kit-hogar: Cocoteira o cazo resistente (para calentar conservas)"
+   ]
+  },
+  "B07KM6KZYD": {
+   "estado": "vivo",
+   "titulo": "GEL HIDROALCOHOLICO DESINFECTANTE 500ML : Amazon.es: Salud y cuidado personal",
+   "usado_en": [
+    "kit-hogar: Gel hidroalcohólico y jabón"
+   ]
+  },
+  "B07L3DG8DK": {
+   "estado": "vivo",
+   "titulo": "Scottex Original Papel higiénico, 96 rollos, 6 packs de 16 rollos dos capas que proporcionan el equi",
+   "usado_en": [
+    "kit-30-dias: Papel higiénico 96 rollos (Scottex)"
+   ]
+  },
+  "B07MDVYFVF": {
+   "estado": "vivo",
+   "titulo": "Y-Kelin Kit de limpieza de dentaduras postizas con cepillo de dientes postizos de dos cabezas (Azul)",
+   "usado_en": [
+    "kit-mayores: Caja de dentadura + pegamento y vaso con tapa"
+   ]
+  },
+  "B07NMGQW67": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-hogar: Papel higiénico y toallitas"
+   ]
+  },
+  "B07PDRY2T2": {
+   "estado": "vivo",
+   "titulo": "XFasten Cinta adhesiva transparente para puertas y ventanas, aislamiento de ventana, 5 cm x 27,4 m, ",
+   "usado_en": [
+    "kit-dana: Cinta y plástico para sellar ventanas"
+   ]
+  },
+  "B07PV3KL1H": {
+   "estado": "vivo",
+   "titulo": "Espirulina y Chlorella Ecológicas 4.800mg - 500 comprimidos para 125 días - Producto con certificado",
+   "usado_en": [
+    "kit-30-dias: Espirulina + chlorella ecológica (500 comprimidos)"
+   ]
+  },
+  "B07SYB38Q8": {
+   "estado": "vivo",
+   "titulo": "SANDISK Ultra Luxe Pendrive, USB Type-A, 128 GB (Unidad Flash, Velocidad de lectura hasta 400 MB/s, ",
+   "usado_en": [
+    "kit-evacuacion: Copia digital en USB cifrado"
+   ]
+  },
+  "B07T2ZDK6X": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-30-dias: Tienda de campaña de emergencia 2 personas"
+   ]
+  },
+  "B07X8H7KR2": {
+   "estado": "vivo",
+   "titulo": "Mr. Wonderful Postal - Bebé se ha unido al grupo Familia : Amazon.es: Oficina y papelería",
+   "usado_en": [
+    "kit-bebe: Fotos recientes del bebé y de la familia en papel"
+   ]
+  },
+  "B07YQD4FVL": {
+   "estado": "vivo",
+   "titulo": "Chelino Fashion & Love Pañales infantiles Talla 4 (9-15 kg), 34 unidades : Amazon.es: Bebé",
+   "usado_en": [
+    "kit-bebe: Pañales de reserva (talla actual, pack 20-25)"
+   ]
+  },
+  "B086GGP7K5": {
+   "estado": "vivo",
+   "titulo": "WOLFPACK LINEA PROFESIONAL Linterna Led Recargable Con Iman y Gancho 500 Lumenes Recargable/Powerban",
+   "usado_en": [
+    "kit-coche: Linterna LED con imán"
+   ]
+  },
+  "B086X75P34": {
+   "estado": "vivo",
+   "titulo": "Topiky Brújula Multifuncional con Lupa, Espejo y Regla 4 en 1 para Acampar/Lectura de mapas/Pesca/Se",
+   "usado_en": [
+    "kit-montana: Mapa y brújula físicos de la zona"
+   ]
+  },
+  "B088KG7XML": {
+   "estado": "vivo",
+   "titulo": "Amazon.es: Eslinga Cuerda de Remolque UIHOL, Resistencia 9 Ton 5M Longitud, Material Sólido, Correa ",
+   "usado_en": [
+    "kit-coche: Cadena de remolque o correa de tiro"
+   ]
+  },
+  "B08DBMQSVN": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Sacaleches manual"
+   ]
+  },
+  "B08QD2ZXFT": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Nevera portátil pequeña con paquetes fríos reutilizables"
+   ]
+  },
+  "B08S17DS6N": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-hogar: Garrafas de agua 8 L (2 por persona)",
+    "kit-30-dias: Garrafas 8 L con grifo dispensador (x8 = 64 L)"
+   ]
+  },
+  "B08ZM2KC49": {
+   "estado": "vivo",
+   "titulo": "16en1 Herramienta Multiuso Camping Accesorios Regalos para Hombres | Multiherramienta con Hacha Supe",
+   "usado_en": [
+    "kit-evacuacion: Navaja multiusos"
+   ]
+  },
+  "B094D3JGLT": {
+   "estado": "vivo",
+   "titulo": "Amazon Basics - Paquete de 48 pilas alcalinas AA y AAA de alto rendimiento, 24 pilas AA y 24 pilas A",
+   "usado_en": [
+    "kit-basico-72h: Pilas alcalinas surtidas (AA/AAA)"
+   ]
+  },
+  "B096TLBGVS": {
+   "estado": "vivo",
+   "titulo": "Manual del huerto urbano y ecológico para principiantes: Convierte tu terraza o jardín en una huerta",
+   "usado_en": [
+    "huerto-autosuficiencia: Manual del huerto urbano y ecologico para principiantes"
+   ]
+  },
+  "B096V89H69": {
+   "estado": "vivo",
+   "titulo": "YUMQUA Bolsas Estancas Impermeables para Cámara, Teléfono móvil, Documento y Mapa, fit Canottaggio, ",
+   "usado_en": [
+    "kit-basico-72h: Bolsa estanca para documentos (DNI, pólizas, recetas)"
+   ]
+  },
+  "B097Y3R3QY": {
+   "estado": "vivo",
+   "titulo": "A AM SeaBlue 40L Mochila de Senderismo Mochila de Viaje Impermeable de Gran Capacidad Mochila de Tre",
+   "usado_en": [
+    "kit-evacuacion: Mochila de 30-40 L resistente al agua"
+   ]
+  },
+  "B09LJZM4ZB": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Jabón neutro en pastilla + esponja"
+   ]
+  },
+  "B09MJ9QV7W": {
+   "estado": "vivo",
+   "titulo": "Welsberg 1 libro de vacunación carné de vacunación – certificado internacional de vacunación para be",
+   "usado_en": [
+    "kit-bebe: Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé"
+   ]
+  },
+  "B09NYL7FY4": {
+   "estado": "vivo",
+   "titulo": "BOSTIK - Toallitas Limpieza - Bote 80 Toallitas | Alta Capacidad de Limpieza - Testado Dermatológica",
+   "usado_en": [
+    "kit-bebe: Toallitas limpiadoras (pack 3-5)"
+   ]
+  },
+  "B09TBGX1MK": {
+   "estado": "vivo",
+   "titulo": "Massó Sardinas en aceite de oliva, 1 pack de 5 latas de 120gr, en catalán. : Amazon.es: Alimentación",
+   "usado_en": [
+    "kit-basico-72h: Conservas y lata de legumbres (comida no perecedera)",
+    "kit-hogar: Conservas variadas (15-20 latas)"
+   ]
+  },
+  "B09XJ947XJ": {
+   "estado": "vivo",
+   "titulo": "Amazon.es: Devir - Walkie Talkie, juego de cartas, juego de mesas, Devir Pocket (BGWALKIE)",
+   "usado_en": [
+    "kit-mayores: Juegos de naipes, libro de letra grande o rádio con altavoz"
+   ]
+  },
+  "B09XRDG5HC": {
+   "estado": "vivo",
+   "titulo": "Hawaiian Tropic Silk Hydration Air Soft Face SPF 30 - Pack Protección Solar para el Rostro, Crema Hi",
+   "usado_en": [
+    "kit-montana: Crema solar y labial con protección"
+   ]
+  },
+  "B0B4HRDFVY": {
+   "estado": "vivo",
+   "titulo": "Airalia AIR-DRYBAG - 10 Pack | Deshumidificador Armarios, Bolsas Antihumedad Armario, Absorbe Humeda",
+   "usado_en": [
+    "kit-dana: Desumidificador o sachets antihumedad"
+   ]
+  },
+  "B0B6J97R41": {
+   "estado": "vivo",
+   "titulo": "Nutribén Papilla 8 Cereales Miel y Galletas María, Cereales Bebé +6m, 1000g | Sabor delicioso a miel",
+   "usado_en": [
+    "kit-bebe: Cereales/papilla instantánea (2 cajas)"
+   ]
+  },
+  "B0B9C9B8JT": {
+   "estado": "vivo",
+   "titulo": "Nuby Incredible Gulp Botella Infantil, Pack de 2, 360 ml, +18 Meses, Dino | Vaso antiderrame con asa",
+   "usado_en": [
+    "kit-mayores: Botella con asa y boquilla fácil + vaso con tapa"
+   ]
+  },
+  "B0B9ZTKYW5": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-apagon: Lámparas LED a pilas con imán (para nevera/despensa)"
+   ]
+  },
+  "B0BG8XYDPR": {
+   "estado": "vivo",
+   "titulo": "Variado de patés y cremas 45 unidades de 25 gr de Deliex e Indalitos, para tostadas, bocadillos, tap",
+   "usado_en": [
+    "kit-30-dias: Patés variados (45 unidades)"
+   ]
+  },
+  "B0BHDMZMSW": {
+   "estado": "vivo",
+   "titulo": "Guillermo | Lenteja verde BIO - Bolsa 2kg. | 100% ecológico | Alto contenido en proteínas | Ideales ",
+   "usado_en": [
+    "kit-mayores: Comida blanda lista (purés, potitos de adulto, cremas en tarrina)"
+   ]
+  },
+  "B0BJPVQXP6": {
+   "estado": "vivo",
+   "titulo": "Vela de Supervivencia, 36 Horas de Emergencia Velas de Hogar con 3 Mechas, Velas de Larga Duración V",
+   "usado_en": [
+    "kit-apagon: Velas de emergencia (solo como refuerzo, con portavelas seguro)"
+   ]
+  },
+  "B0BJW6W2GM": {
+   "estado": "vivo",
+   "titulo": "Calvo Atún claro al Natural Pack 6 unidades x 56gr : Amazon.es: Alimentación y bebidas",
+   "usado_en": [
+    "kit-30-dias: Atún claro al natural (pack 6 latas)"
+   ]
+  },
+  "B0BWJYXNK3": {
+   "estado": "vivo",
+   "titulo": "Quid Cocco Termo Acero Inoxidable 26cl Acero Inox No Apto Microondas Térmico Frío Calor 12 Horas : A",
+   "usado_en": [
+    "kit-bebe: Termo pequeño de boca ancha (350-500 ml)"
+   ]
+  },
+  "B0BYP13RZQ": {
+   "estado": "vivo",
+   "titulo": "Mini Ventilador Portatil Pequeño De Mano, Ventilador USB Recargable A Pilas con Power Bank y 4 Veloc",
+   "usado_en": [
+    "kit-hogar: Ventilador USB de repisa o pies",
+    "kit-calor: Ventilador USB o a pilas"
+   ]
+  },
+  "B0BZS918ZG": {
+   "estado": "vivo",
+   "titulo": "AMZSKU Carburador para desbrozadora 52 CC 49 CC 43 CC Carbu Set con Junta, Manguera, bujía y Filtro ",
+   "usado_en": [
+    "kit-bebe: Cambrador portátil plegable"
+   ]
+  },
+  "B0C1GPNPK9": {
+   "estado": "vivo",
+   "titulo": "Hero Solo Tarritos Frutas Variadas Bebé Desde 4 Meses, 12 x 190 g | Merienda de fruta natural, Perfe",
+   "usado_en": [
+    "kit-bebe: Potitos de fruta y verdura (pack 6-8)"
+   ]
+  },
+  "B0C2HQ82L1": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "huerto-autosuficiencia: Sustrato universal 80 L (Batlle)"
+   ]
+  },
+  "B0C3B4H4Z5": {
+   "estado": "vivo",
+   "titulo": "Blukar Linterna LED Recargable, Super Brillante Linternas de Aluminio, 2uds | 5 Modos de Luz, Altos ",
+   "usado_en": [
+    "kit-basico-72h: Linterna LED a pilas (con pilas de repuesto)",
+    "kit-dana: Linterna LED (evita velas: riesgo de incendio)"
+   ]
+  },
+  "B0C4Y5MWC8": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Pilas de repuesto para audífonos (blíster × 3, con fecha)"
+   ]
+  },
+  "B0C9CJKCH3": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-montana: Powerbank ligero + cable USB"
+   ]
+  },
+  "B0CG9R782W": {
+   "estado": "vivo",
+   "titulo": "by Amazon Arroz Largo Parboiled, 1kg : Amazon.es: Alimentación y bebidas",
+   "usado_en": [
+    "kit-30-dias: Arroz parboiled 1 kg (pack 2)"
+   ]
+  },
+  "B0CJDWWGNG": {
+   "estado": "vivo",
+   "titulo": "KAYGO guantes de trabajo impermeables para hombres y mujeres, recubrimiento de látex doble, súper ag",
+   "usado_en": [
+    "kit-dana: Guantes impermeables"
+   ]
+  },
+  "B0CKW3F157": {
+   "estado": "vivo",
+   "titulo": "Romon Paracord 550 30 Metros, Cuerda Paracord 4mm,Cordino 7 Hebras, Cuerda para Toldo Exterior, Rope",
+   "usado_en": [
+    "kit-montana: Cuerda de paracord 550 (30m)"
+   ]
+  },
+  "B0CLLSK9BC": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Faja portadocumentos / riñonera oculta para efectivo"
+   ]
+  },
+  "B0CNTLKPLS": {
+   "estado": "vivo",
+   "titulo": "BACTERISAN Germosan-Nor BP 11 Desinfectante de Superficies, 750 ml | Limpiador de Rápida Evaporación",
+   "usado_en": [
+    "kit-dana: Desinfectante de superficies"
+   ]
+  },
+  "B0CQT78FWC": {
+   "estado": "vivo",
+   "titulo": "Ulovedo acero inoxidable grabado personalizado nombre de identificación médica con etiqueta metálica",
+   "usado_en": [
+    "kit-mayores: Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)"
+   ]
+  },
+  "B0CRN5KNCT": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-apagon: Hornillo de camping a gas con bombonas",
+    "kit-hogar: Hornillo de butano portátil con bombonas"
+   ]
+  },
+  "B0CSDX8LR8": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-coche: Cadenas para nieve o calcetines textiles"
+   ]
+  },
+  "B0CT3BWC5P": {
+   "estado": "vivo",
+   "titulo": "ZOKJSW 2 unidades de silbato de emergencia, silbatos de seguridad, silbato de señal hasta 4000 Hz co",
+   "usado_en": [
+    "kit-evacuacion: Silbato de emergencia"
+   ]
+  },
+  "B0CVLH49QD": {
+   "estado": "vivo",
+   "titulo": "GROWMANIA Pack 5 Bandejas de Germinación 112 Alveolos | Semillero 100% Material Reciclable | Propaga",
+   "usado_en": [
+    "huerto-autosuficiencia: Bandejas de germinacion (pack 5, 112 alveolos)"
+   ]
+  },
+  "B0CY8G31G4": {
+   "estado": "vivo",
+   "titulo": "Porta credenciales oficial Hidden Disabilities con llavero de girasol y monedero para personas de me",
+   "usado_en": [
+    "kit-bebe: Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)"
+   ]
+  },
+  "B0CYDF32J3": {
+   "estado": "vivo",
+   "titulo": "Vidaprime Manta Térmica Supervivencia Reutilizable X5 UNIDADES Manta Emergencia térmica Mantas Térmi",
+   "usado_en": [
+    "kit-basico-72h: Manta térmica de emergencia",
+    "kit-coche: Manta térmica"
+   ]
+  },
+  "B0CYT5X5PY": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-30-dias: Conservas gallegas variadas (12 latas gourmet)"
+   ]
+  },
+  "B0D3583RGC": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "huerto-autosuficiencia: Mini invernadero de 3 niveles (59x39x127 cm)"
+   ]
+  },
+  "B0D9JMS8H2": {
+   "estado": "vivo",
+   "titulo": "40W Cargador Solar ETFE, Panel Solar Plegable con Puerto 18V CC y QC3.0 USB-A y PD30W Tipo-C, Cargad",
+   "usado_en": [
+    "kit-apagon: Panel solar portátil 20-40 W"
+   ]
+  },
+  "B0D9M3CWMW": {
+   "estado": "vivo",
+   "titulo": "HONYAO Botiquín de Primeros Auxilios 222 Piezas, Kit Primeros Auxilios Completo, Botiquin para Casa ",
+   "usado_en": [
+    "kit-30-dias: Botiquín completo 222 piezas"
+   ]
+  },
+  "B0DB8GRTPL": {
+   "estado": "vivo",
+   "titulo": "ALFFREUDE Bastón Plegable con Luz LED, Bastones para Mayores, Bastones Plegables para Hombres y Muje",
+   "usado_en": [
+    "kit-mayores: Bastón plegable / andador de repuesto con luz"
+   ]
+  },
+  "B0DBJBN5ZN": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Cuña u orinal con asa"
+   ]
+  },
+  "B0DCC4KNZN": {
+   "estado": "vivo",
+   "titulo": "150 Piezas Juguetes de Fiesta a Granel, Relleno Piñata Cumpleaños Infantil, Bolsas de Regalo de Fies",
+   "usado_en": [
+    "kit-bebe: Juguetes pequeños favoritos (2-3, en bolsa estanca)"
+   ]
+  },
+  "B0DFLHZQ18": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Powerbank de alta capacidad (≥ 20.000 mAh)",
+    "kit-apagon: Powerbank ≥ 20.000 mAh con salida AC o USB-C PD"
+   ]
+  },
+  "B0DHGGGK1Q": {
+   "estado": "vivo",
+   "titulo": "RHINO RESCUE Kit Médico Portátil Mediano, Resistente al Agua | 17,5 x 10 x 3cm, Botiquín de Primeros",
+   "usado_en": [
+    "kit-montana: Botiquín ligero de trekking"
+   ]
+  },
+  "B0DHH7TMGF": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Barritas energéticas y frutos secos",
+    "kit-coche: Barritas energéticas"
+   ]
+  },
+  "B0DHJR3V44": {
+   "estado": "vivo",
+   "titulo": "GRIFEMA GA1003-2 Caja de Seguridad para Llaves, Caja de Cerradura, Armarios de Llaves con Gancho, pa",
+   "usado_en": [
+    "kit-evacuacion: Copia de llaves de casa"
+   ]
+  },
+  "B0DK3LBNFM": {
+   "estado": "vivo",
+   "titulo": "Kit Costura,Kit de Costura,Costurero Accesorios Costura Kit de Accesorios para el Viajes y Principia",
+   "usado_en": [
+    "kit-montana: Kit de costura de emergencia"
+   ]
+  },
+  "B0DM2728ZS": {
+   "estado": "vivo",
+   "titulo": "IGLOO IE24DC Nevera Eléctrica, 12V, 24L – Mini Frigorífico Compacto Gris para Coche, Camping, Viajes",
+   "usado_en": [
+    "kit-apagon: Nevera portátil de conservas"
+   ]
+  },
+  "B0DNMRNRF2": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Termómetro de nevera (mínimo/máximo)"
+   ]
+  },
+  "B0DNZ8DG6H": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-mayores: Ficha médico-identificativa plastificada"
+   ]
+  },
+  "B0DP4Y4S7K": {
+   "estado": "vivo",
+   "titulo": "Sanytol - Recarga Multiusos Eucaliptus 750ml (Paquete de 4) : Amazon.es: Salud y cuidado personal",
+   "usado_en": [
+    "kit-hogar: Lejía y desinfectante de superficies"
+   ]
+  },
+  "B0DQGR1KDL": {
+   "estado": "vivo",
+   "titulo": "Grsta Botella Agua Acero Inoxidable 1 litro, Botella Agua, A Prueba de Fugas, Botella Termica, sin B",
+   "usado_en": [
+    "kit-bebe: Botella térmica fría (500 ml)"
+   ]
+  },
+  "B0DRWF7GZL": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Aspirador nasal + suero fisiológico en monodosis"
+   ]
+  },
+  "B0DT6M79BB": {
+   "estado": "vivo",
+   "titulo": "ARNOMED Empapadores Cama para Incontinencia 60x90cm, Cambiador Desechable 5 Capas - 240 Unidades : A",
+   "usado_en": [
+    "kit-mayores: Empapadores y pañales de incontinencia (pack para 3-5 días)"
+   ]
+  },
+  "B0DZXDTZ6B": {
+   "estado": "vivo",
+   "titulo": "Oderra Bolsas Leche Materna Congelar 50PCS - 250ml Bolsas Almacenamiento Leche Materna con Sellado D",
+   "usado_en": [
+    "kit-bebe: Bolsas de almacenamiento de leche materna (pack 30-50)"
+   ]
+  },
+  "B0F1TQD4C4": {
+   "estado": "vivo",
+   "titulo": "KASESSS 3 Piezas Pañaleras para Bebes, Bolsa Impermeable Bebe, Bolsa Bebe, Bolsas Pañales Impermeabl",
+   "usado_en": [
+    "kit-bebe: Bolsas estancas para ropa sucia y pañales (pack)"
+   ]
+  },
+  "B0F31WSL3G": {
+   "estado": "vivo",
+   "titulo": "Pastillero Semanal Español 2 Tomas,GeekerChip Pastillero Diario 7 Dias,con 14 Compartimentos,Organiz",
+   "usado_en": [
+    "kit-mayores: Organizador de pastillas semanal (pastillero) con copia de pautas"
+   ]
+  },
+  "B0F4RBK2W3": {
+   "estado": "vivo",
+   "titulo": "NUVEXIA® | Botiquin De Primeros Auxilios PREMIUM 300 Piezas I kit De Supervivencia para Coche, Viaje",
+   "usado_en": [
+    "kit-coche: Botiquín de coche"
+   ]
+  },
+  "B0F4X8M5MZ": {
+   "estado": "vivo",
+   "titulo": "ZEHEXA Gafas de Lectura Redondas para Mujer Hombre, Pack de 3 | Características con filtro de luz az",
+   "usado_en": [
+    "kit-mayores: Gafas de graduación de repuesto"
+   ]
+  },
+  "B0F5X5TN4T": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Suero de rehidratación oral y jeringuilla dosificadora"
+   ]
+  },
+  "B0F8RG1DV6": {
+   "estado": "vivo",
+   "titulo": "Radio Portátil, FM/Am Radio Emergencia con Solar Recargable Radios de Dinamo con Manivela con Linter",
+   "usado_en": [
+    "kit-apagon: Cargador de dinamo multiuso"
+   ]
+  },
+  "B0F99LGY3V": {
+   "estado": "vivo",
+   "titulo": "Genérico Pastillas para potabilizar Agua 50 Unidades : Amazon.es: Deportes y aire libre",
+   "usado_en": [
+    "kit-bebe: Pastillas potabilizadoras aptas para lactantes",
+    "kit-mayores: Pastilla potabilizadora y vaso medidor para medicación"
+   ]
+  },
+  "B0FB3WSWJ1": {
+   "estado": "vivo",
+   "titulo": "Lámpara de Lectura con Pinza, 61 LED Luz Recargable para Cama Escritorio | 3 Modos y 10 Niveles de B",
+   "usado_en": [
+    "kit-mayores: Linterna de cabecera con cordón/manillla grande"
+   ]
+  },
+  "B0FF4KS8T1": {
+   "estado": "vivo",
+   "titulo": "QWORK® 2 Pack 150CM Sacos de Arena, barreras de inundación Reutilizables y sin Arena, Sacos Arena co",
+   "usado_en": [
+    "kit-dana: Sacos de arena vacíos o barreras de inundación"
+   ]
+  },
+  "B0FHBDDBNT": {
+   "estado": "vivo",
+   "titulo": "help flash IoT+, Luz de Emergencia V16 con Geolocalización y más de 290 candelas de potencia, Exigib",
+   "usado_en": [
+    "kit-coche: Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)"
+   ]
+  },
+  "B0FJYC8FH1": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-evacuacion: Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)"
+   ]
+  },
+  "B0FKT561SK": {
+   "estado": "vivo",
+   "titulo": "Termómetro Infrarrojo Sin Contacto para Bebé/Adulto - Medición Frontal Instantánea con Alerta de Fie",
+   "usado_en": [
+    "kit-bebe: Termómetro digital de bebé"
+   ]
+  },
+  "B0FNCWC3SM": {
+   "estado": "vivo",
+   "titulo": "Tokaneit Sombreros y Guantes de Bebé Aplicable de 0 a 6 Meses 3 Juegos Gorros Beanie para Bebé Recié",
+   "usado_en": [
+    "kit-bebe: Gorro y manoplas de bebé"
+   ]
+  },
+  "B0FP16NDYT": {
+   "estado": "vivo",
+   "titulo": "Rollo de hidrocoloide 5 cm x 5 m, vendaje hidrocoloide, tirita hidrocoloide, tirita cortada a medida",
+   "usado_en": [
+    "kit-montana: Apósitos hidrocoloides para ampollas"
+   ]
+  },
+  "B0FP5RJ53N": {
+   "estado": "vivo",
+   "titulo": "by Amazon Alimento completo para perros adultos, Selección de carnes en gelatina, 1,2 kg (12 bolsa d",
+   "usado_en": [
+    "kit-hogar: Comida para mascotas extra"
+   ]
+  },
+  "B0FQ5TJY9K": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Gel hidroalcohólico y toallitas húmedas"
+   ]
+  },
+  "B0FX9NXD18": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-montana: Casquete o gorro de abrigo"
+   ]
+  },
+  "B0FY2W5B8T": {
+   "estado": "vivo",
+   "titulo": "KANASTAL Gafas de Sol Hombre Deportivas Polarizadas Mujer Negras UV400 | Montura de TR90, Categoría ",
+   "usado_en": [
+    "kit-calor: Gafas de sol categoría 3-4"
+   ]
+  },
+  "B0FZC1F9NH": {
+   "estado": "vivo",
+   "titulo": "Cofan Regadera Gris de 6 litros con Cabezal Desmontable, HDPE Resistente, Asa de Transporte, Regader",
+   "usado_en": [
+    "huerto-autosuficiencia: Regadera 6 L con cabezal desmontable"
+   ]
+  },
+  "B0FZTLMXW9": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-apagon: Encendedores y cerillas largas"
+   ]
+  },
+  "B0G2LY256T": {
+   "estado": "vivo",
+   "titulo": "HOTUT Luces con sensor de movimiento para interiores, 2 Piezas Luz Nocturna Infantil USB-C LED Recar",
+   "usado_en": [
+    "kit-mayores: Balizas LED de noche con sensor (pack 2-3)"
+   ]
+  },
+  "B0G3PXJRXB": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Portabebés ergonómico (bandolera o Mei Tai)"
+   ]
+  },
+  "B0G3YCY2FS": {
+   "estado": "vivo",
+   "titulo": "COMPASJ - Tensiómetro de brazo Monitor de Presión Arterial Digital Detección de Arritmia, Medición P",
+   "usado_en": [
+    "kit-mayores: Tensiómetro de brazo a pilas con memoria"
+   ]
+  },
+  "B0G45JL8F3": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-30-dias: Hornillo de camping 2 en 1 (bombona grande o cartucho)"
+   ]
+  },
+  "B0G65QTD2Y": {
+   "estado": "vivo",
+   "titulo": "SLOAN Crema Anti Rozaduras 75 ML Barrera Protectora con 8% Óxido de Zinc, Caléndula, Manzanilla y Ti",
+   "usado_en": [
+    "kit-bebe: Crema barrera contra rozaduras"
+   ]
+  },
+  "B0GK6PV1M4": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Botiquín de primeros auxilios básico",
+    "kit-evacuacion: Botiquín de bolsillo"
+   ]
+  },
+  "B0GLQGTKQD": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-hogar: Juegos de mesa o cartas"
+   ]
+  },
+  "B0GM1QQW1C": {
+   "estado": "vivo",
+   "titulo": "ADESTE – 50 Mascarillas FFP2 NR D Negras con Certificado CE, cadena controlada, elásticos cómodos, h",
+   "usado_en": [
+    "kit-hogar: Mascarillas FFP2"
+   ]
+  },
+  "B0GMQVNSRC": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Chubasquero o poncho impermeable",
+    "kit-dana: Chubasquero impermeable con capucha",
+    "kit-montana: Chubasquero ligero"
+   ]
+  },
+  "B0GMXX2G9S": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-basico-72h: Pastillas potabilizadoras de agua",
+    "kit-evacuacion: Botella de agua + pastillas potabilizadoras"
+   ]
+  },
+  "B0GQXYX9M2": {
+   "estado": "vivo",
+   "titulo": "JOYBOY Alfombrilla Ducha Antideslizante 2pcs 70x40cm, Ventosas TPE | Orificios de Drenaje, con Guant",
+   "usado_en": [
+    "kit-mayores: Alfombrilla antideslizante de baño y tirante de apoyo"
+   ]
+  },
+  "B0GR9993T2": {
+   "estado": "vivo",
+   "titulo": "MUNZE Manta Térmica Supervivencia, 2 Piezas Tamaño Extragrande 210X160Cm, Doble Cara Dorada Y Platea",
+   "usado_en": [
+    "kit-montana: Manta térmica de supervivencia"
+   ]
+  },
+  "B0GRMM8ZQS": {
+   "estado": "vivo",
+   "titulo": "Power Bank Solar 20000mAh con Linterna - Cargador Solar Carga Rápida Inalámbrica, Diseño Resistente ",
+   "usado_en": [
+    "kit-apagon: Linterna frontal (manos libres)",
+    "kit-montana: Frontal con pilas de repuesto",
+    "kit-evacuacion: Linterna + batería externa"
+   ]
+  },
+  "B0GSVHHD6R": {
+   "estado": "vivo",
+   "titulo": "Calienta Biberones Multifunción para Bebés, Calentador de Biberones Rápido con Pantalla LCD Táctil, ",
+   "usado_en": [
+    "kit-bebe: Calentador biberones sin gas ni electricidad (químico/autocalentante)"
+   ]
+  },
+  "B0GSZS62HD": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-bebe: Mantas/empapadores de tela de confianza"
+   ]
+  },
+  "B0GWNDVR7S": {
+   "estado": "vivo",
+   "titulo": "Radio Portatil 2000 mAh Radio FM/Am Linterna LED+ Sos +Manual Supervivencia | 3 Modos de Carga: Mani",
+   "usado_en": [
+    "kit-basico-72h: Radio FM/AM a pilas o dinamo",
+    "kit-apagon: Radio FM/AM a pilas o dinamo",
+    "kit-evacuacion: Radio FM/AM a pilas o dinamo"
+   ]
+  },
+  "B0GY43YPS8": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-calor: Botella isotérmica de acero (mantiene frío 12-24 h)"
+   ]
+  },
+  "B0GZ1Q49RH": {
+   "estado": "vivo",
+   "titulo": "DLPRK Manta Térmica de Emergencia Pack 3 (160x200cm) Doble Cara Oro/Plata. Aluminizada, ultraligera,",
+   "usado_en": [
+    "kit-mayores: Manta térmica de emergencia aluminizada (pack de 2)"
+   ]
+  },
+  "B0H29XL26R": {
+   "estado": "vivo",
+   "titulo": "Blemil 1 Optimum Evolution | 800g | Leche de Inicio en polvo para Bebé desde el Primer Día : Amazon.",
+   "usado_en": [
+    "kit-bebe: Leche de fórmula de seguimiento (lata 400-800 g)"
+   ]
+  },
+  "B0H37438Y1": {
+   "estado": "vivo",
+   "titulo": "FIEMOL Saco De Dormir Bebe Con Piernas Tog 1.5 Saco Dormir Bebe 3-4 Años | Saco de dormir bebé todo ",
+   "usado_en": [
+    "kit-bebe: Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)"
+   ]
+  },
+  "B0H3WC3R53": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-hogar: Pastas, arroz y legumbres en paquetes"
+   ]
+  },
+  "B0H4KNVJ99": {
+   "estado": "vivo",
+   "titulo": "Arrancador de Batería de Coche 7000A, para Gas 8.0L/Diésel 6.0L, 12V Arrancador de Coche Portátil co",
+   "usado_en": [
+    "kit-coche: Powerbank de coche 12V"
+   ]
+  },
+  "B0H53XJ2KK": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-calor: Pulverizador de agua"
+   ]
+  },
+  "B0H7WY7KZK": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-evacuacion: Manta térmica + poncho"
+   ]
+  },
+  "B0H8X7LJTM": {
+   "estado": "vivo",
+   "titulo": "KOMABLEN 60 Bolsas de Basura con Asas 50L 4 Rollos 62x86cm | Negro Prueba de Fugas, Robusto, Bolsa d",
+   "usado_en": [
+    "kit-hogar: Bolsas de residuos negras (50+ unidades)"
+   ]
+  },
+  "B0H8ZDPS7C": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-hogar: Termómetro digital"
+   ]
+  },
+  "B0H99C1WWZ": {
+   "estado": "vivo",
+   "titulo": "Amazon.es",
+   "usado_en": [
+    "kit-dana: Tiracables con interruptor diferencial portátil"
+   ]
+  },
+  "B0HBWJBK6D": {
+   "estado": "vivo",
+   "titulo": "yfood Smooth Vanilla - Batido Sustitutivo de Comida, Bebida Proteica Lista para Beber, 30 g de Prote",
+   "usado_en": [
+    "kit-mayores: Batidos proteicos/enriquecidos (pack 8-12)"
+   ]
+  },
+  "B0HD6RLST6": {
+   "estado": "vivo",
+   "titulo": "5 Silbatos de Emergencia de Aluminio, Diseño de Doble Tubo con Cordón y Llavero : Amazon.es: Deporte",
+   "usado_en": [
+    "kit-montana: Silbato de emergencia",
+    "kit-mayores: Silbato de emergencia en el llavero/pulsera"
+   ]
+  }
+ }
+}
