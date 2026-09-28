@@ -13,6 +13,10 @@ const ui = {
   },
 
   vistaDesdeHash() {
+    const p = location.pathname.replace(/\/+$/, '') || '/';
+    if (p.startsWith('/kit/')) return { vista: 'kit', slug: p.split('/')[2] };
+    if (p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
+    if (p === '/fuentes') return { vista: 'fuentes' };
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
     if (h.startsWith('blog/')) return { vista: 'blog', slug: h.split('/')[1] };
@@ -45,7 +49,10 @@ const ui = {
       app.innerHTML = this.htmlHome();
       document.title = 'Kit72h — Kits de emergencia 72 horas: DANA, apagón, coche y más';
     }
-    window.scrollTo(0, 0);
+    const ancla = location.hash;
+    const objetivo = ancla && !ancla.startsWith('#kit/') && !ancla.startsWith('#blog/')
+      && ancla !== '#fuentes' ? document.querySelector(ancla) : null;
+    if (objetivo) objetivo.scrollIntoView(); else window.scrollTo(0, 0);
   },
 
   /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
@@ -83,15 +90,15 @@ const ui = {
       ['02', 'DANA e inundación', 'Protege documentos y medicación de la humedad y sigue los avisos oficiales. No atravieses zonas inundadas.', 'kit-dana', 'Empieza por documentos'],
       ['03', 'Familia y cuidados', 'Bebés, mayores y mascotas cambian la lista: alimentación, higiene, medicación y necesidades propias.', 'kit-bebe', 'Empieza por salud']
     ].map(a => `
-      <article class="card-adapt" onclick="ui.irA('kit','${a[3]}')">
+      <a class="card-adapt" href="/kit/${a[3]}/">
         <span class="n">${a[0]}</span>
         <h3>${a[1]}</h3>
         <p>${a[2]}</p>
         <span class="ir">${a[4]} →</span>
-      </article>`).join('');
+      </a>`).join('');
 
     const tarjetas = state.data.kits.map((k, i) => `
-      <article class="card-kit" onclick="ui.irA('kit','${k.slug}')">
+      <a class="card-kit" href="/kit/${k.slug}/">
         <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
@@ -99,15 +106,15 @@ const ui = {
           <span class="coste-kit">${k.coste_total || 'Lista gratuita'}</span>
           <span class="ir">Abrir →</span>
         </div>
-      </article>`).join('');
+      </a>`).join('');
 
     const blogFeatured = blog.entradas.slice(0, 3).map((e, i) => `
-      <article class="card-kit card-blog" onclick="location.hash='blog/${e.slug}'">
+      <a class="card-kit card-blog" href="/blog/${e.slug}/">
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
         <span class="meta-blog">⏱ ${e.lectura} de lectura</span>
-      </article>`).join('');
+      </a>`).join('');
 
     const arte = `<div class="hero-arte" aria-hidden="true"><svg viewBox="0 0 1440 420" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
       <circle cx="1200" cy="110" r="44" fill="#8F7B45"/>
@@ -217,7 +224,7 @@ const ui = {
             <span class="sec-label">05 / Lecturas</span>
             <h2>Del diario<br><span class="acento">de supervivencia</span></h2>
             <div class="grid-kits">${blogFeatured}</div>
-            <p><a class="btn negro" href="#blog">Todas las guías →</a></p>
+            <p><a class="btn negro" href="/blog/">Todas las guías →</a></p>
           </div>
         </div>
       </section>` : ''}
@@ -255,12 +262,12 @@ const ui = {
   /* ---- BLOG ---- */
   htmlBlog() {
     const tarjetas = blog.entradas.map((e, i) => `
-      <article class="card-kit card-blog" onclick="location.hash='blog/${e.slug}'">
+      <a class="card-kit card-blog" href="/blog/${e.slug}/">
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
         <span class="meta-blog">📅 ${e.fecha} · ⏱ ${e.lectura} de lectura ${(e.etiquetas||[]).map(t=>`<span class="tag-blog">${t}</span>`).join('')}</span>
-      </article>`).join('');
+      </a>`).join('');
     return `
       <section class="hero hero-blog">
         <div class="container">
@@ -284,10 +291,10 @@ const ui = {
       `<li><a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a></li>`).join('');
     return `
       <section class="ficha entrada-blog">
-        <a class="volver" href="#blog">← Blog</a>
+        <a class="volver" href="/blog/">← Blog</a>
         <h1>${e.titulo}</h1>
-        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${e.lectura} de lectura · ✍ ${e.autor || 'David Antizar'}</p>
-        <div class="cuerpo-blog">${e.cuerpo}</div>
+        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${e.lectura} de lectura</p>
+        <div class="cuerpo-blog">${this.tablasSeguras(e.cuerpo)}</div>
         ${fuentes ? `<div class="guia-kit"><h2>Fuentes de esta guía</h2><ul>${fuentes}</ul></div>` : ''}
         ${otras ? `<div class="guia-kit"><h2>Sigue leyendo</h2><ul>${otras}</ul></div>` : ''}
       </section>`;
@@ -360,7 +367,7 @@ const ui = {
     return `
       <section class="ficha">
         <div class="ficha-cab">
-          <a class="volver" href="#" onclick="ui.irA('home');return false">← Todos los kits</a>
+          <a class="volver" href="/">← Todos los kits</a>
           <h1><span class="icono-h1">${kit.icono}</span>${kit.titulo}</h1>
           <p class="resumen">${kit.resumen}</p>
           ${fuente}
@@ -416,13 +423,19 @@ const ui = {
     window.open(`https://www.amazon.es/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
   },
 
+tablasSeguras(html) {
+    return String(html)
+      .replace(/<table/gi, '<div class="tabla-scroll"><table')
+      .replace(/<\/table>/gi, '</table></div>');
+  },
+
   /* ---- FUENTES ---- */
   htmlFuentes() {
     const lista = state.data.meta.fuentes.map((f, i) =>
       `<li><span class="num">${String(i+1).padStart(2,'0')}</span><a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a></li>`).join('');
     return `
       <section class="ficha fuentes-pagina">
-        <a class="volver" href="#" onclick="ui.irA('home');return false">← Inicio</a>
+        <a class="volver" href="/">← Inicio</a>
         <h1>Fuentes oficiales</h1>
         <p>Todo el contenido de este sitio se basa en documentos públicos de organismos oficiales. Revisamos periódicamente las fuentes para mantener las listas actualizadas (última revisión: ${state.data.meta.ultima_revision}).</p>
         <ul>${lista}</ul>

@@ -5,7 +5,7 @@ const estado = {
   async cargar() {
     if (this.data) return this.data;
     try {
-      const resp = await fetch('data/estado.json');
+      const resp = await fetch('/data/estado.json');
       this.data = resp.ok ? await resp.json() : null;
     } catch (e) { this.data = null; }
     return this.data;

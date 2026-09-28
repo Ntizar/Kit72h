@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kit72h — Maqueta A · Refinería</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Barlow+Condensed:wght@400;600;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--cobre:#c47f3e;--cobre-c:#e0a464;--peligro:#d43f2a;--arena:#d9b384;--humo:#a8927c;--petroleo:#0d0a07;--panel:#171009;--borde:rgba(196,127,62,.3)}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--petroleo) radial-gradient(900px 500px at 85% -10%,rgba(196,127,62,.14),transparent 60%) radial-gradient(700px 420px at -10% 30%,rgba(212,63,42,.08),transparent 60%);color:var(--arena);font:16px/1.55 Inter,"Segoe UI",sans-serif;overflow-x:hidden;min-height:100vh}
+#polvo{position:fixed;inset:0;z-index:0;opacity:.5;pointer-events:none}
+.wrap{position:relative;z-index:1;max-width:1100px;margin:0 auto;padding:0 22px}
+header{position:sticky;top:0;z-index:5;background:rgba(13,10,7,.88);backdrop-filter:blur(6px);border-bottom:1px solid var(--borde)}
+.bar{display:flex;justify-content:space-between;align-items:center;min-height:64px;gap:12px;flex-wrap:wrap}
+.logo{font-family:"Rubik Dirt";font-size:24px;color:var(--cobre-c);text-decoration:none;letter-spacing:2px}
+.logo b{color:var(--peligro)}
+nav{display:flex;gap:6px;flex-wrap:wrap}
+nav a{color:var(--humo);text-decoration:none;font:600 13px/1 "Barlow Condensed";letter-spacing:2px;text-transform:uppercase;padding:14px 10px;border-bottom:2px solid transparent}
+nav a:hover{color:var(--cobre-c);border-color:var(--cobre)}
+.hero{padding:64px 0 26px}
+.kicker{font:600 12px/1.4 "Barlow Condensed";letter-spacing:3px;color:var(--cobre);text-transform:uppercase;margin-bottom:14px}
+h1{font-family:"Rubik Dirt";font-weight:400;font-size:clamp(34px,5.5vw,56px);line-height:1.06;color:var(--cobre-c);max-width:760px}
+h1 .q{color:var(--peligro)}
+.hero p{color:var(--humo);max-width:600px;margin:14px 0 22px;font-size:17px}
+.ctas{display:flex;gap:12px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:12px 22px;border-radius:6px;font:700 14px/1 "Barlow Condensed";letter-spacing:1.5px;text-transform:uppercase;text-decoration:none;cursor:pointer;border:1px solid var(--cobre);color:var(--cobre-c);background:transparent}
+.btn.solid{background:linear-gradient(180deg,var(--cobre),#8a5524);color:#1a0f06}
+.btn.solid:hover{filter:brightness(1.12)}
+.btn.ghost:hover{background:rgba(196,127,62,.12)}
+.stats{display:flex;gap:26px;flex-wrap:wrap;margin-top:30px;padding:16px 0;border-top:1px dashed var(--borde)}
+.stats b{display:block;font:700 24px/1.1 "Barlow Condensed";color:var(--cobre-c)}
+.stats span{font-size:12.5px;color:var(--humo);letter-spacing:1px;text-transform:uppercase}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:34px 0 6px}
+.chip{min-height:38px;padding:9px 16px;border:1px solid var(--borde);border-radius:99px;background:transparent;color:var(--humo);font:600 13px/1 "Barlow Condensed";letter-spacing:1.5px;text-transform:uppercase;cursor:pointer}
+.chip.on{background:var(--cobre);border-color:var(--cobre);color:#1a0f06}
+.grid{display:grid;grid-template-columns:1fr;gap:14px;padding:18px 0 8px}
+@media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.grid{grid-template-columns:repeat(3,1fr)}}
+.card{position:relative;display:flex;flex-direction:column;gap:8px;background:var(--panel);border:1px solid var(--borde);border-radius:10px;padding:20px;cursor:pointer;transition:transform .16s,border-color .16s,box-shadow .16s}
+.card:hover{transform:translateY(-3px);border-color:var(--cobre);box-shadow:0 10px 24px rgba(0,0,0,.5)}
+.card .ico{width:44px;height:44px;border-radius:8px;background:rgba(196,127,62,.14);border:1px solid var(--borde);display:grid;place-items:center;font-size:22px}
+.card h2{font:700 19px/1.2 "Barlow Condensed";letter-spacing:.8px;text-transform:uppercase;color:var(--cobre-c)}
+.card>p{font-size:14px;color:var(--humo);flex:1}
+.card .pie{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:12.5px;color:var(--arena);border-top:1px dashed var(--borde);padding-top:10px;margin-top:4px;flex-wrap:wrap}
+.card .pie .ir{color:var(--cobre);font-weight:700;letter-spacing:1px}
+h3.sec{font:700 13px/1 "Barlow Condensed";letter-spacing:3px;color:var(--cobre);text-transform:uppercase;margin:44px 0 6px}
+.blog .card{flex-direction:row;align-items:center;gap:16px}
+.blog .card h2{text-transform:none;letter-spacing:0;font-size:16.5px;color:var(--arena)}
+.blog .meta{font-size:12.5px;color:var(--humo)}
+footer{border-top:1px solid var(--borde);margin-top:54px;padding:26px 0 90px;font-size:12.5px;color:var(--humo)}
+footer .att{margin-top:6px;color:#8a5524;letter-spacing:1px}
+.tag{position:fixed;right:12px;bottom:12px;z-index:9;background:rgba(13,10,7,.92);border:1px solid var(--peligro);color:var(--peligro);font:700 11px/1 "Barlow Condensed";letter-spacing:2px;padding:8px 12px;border-radius:6px;text-transform:uppercase}
+.volver{display:inline-block;margin-top:26px;color:var(--cobre);text-decoration:none;font:600 13px/1 "Barlow Condensed";letter-spacing:2px;text-transform:uppercase}
+.fuente{font-size:13.5px;color:var(--arena);background:rgba(61,40,23,.55);border-left:3px solid var(--cobre);padding:10px 14px;border-radius:0 8px 8px 0;margin:14px 0 26px;max-width:660px}
+h2.sub{font:700 15px/1 "Barlow Condensed";letter-spacing:2.5px;text-transform:uppercase;color:var(--cobre);margin:30px 0 10px;padding-bottom:8px;border-bottom:1px solid var(--borde)}
+ul.items{list-style:none;max-width:760px}
+ul.items li{display:flex;justify-content:space-between;gap:14px;align-items:center;padding:12px 2px;border-bottom:1px dashed rgba(196,127,62,.22);font-size:15px}
+ul.items small{display:block;color:var(--humo);font-size:13px;margin-top:2px}
+ul.items .precio{color:var(--cobre-c);font-size:13px;white-space:nowrap}
+.prio{font:700 10px/1 "Barlow Condensed";letter-spacing:1.5px;text-transform:uppercase;padding:3px 8px;border-radius:4px;border:1px solid;font-style:normal;margin-left:6px}
+.p-esencial{color:var(--peligro);border-color:var(--peligro)}
+.p-recomendado{color:var(--cobre-c);border-color:var(--cobre)}
+@media(max-width:600px){ul.items li{flex-direction:column;align-items:flex-start;gap:6px}}
+@media(prefers-reduced-motion:reduce){#polvo{display:none}}
+</style>
+</head>
+<body>
+<canvas id="polvo" aria-hidden="true"></canvas>
+<div class="wrap">
+<header><div class="bar">
+<a class="logo" href="#" onclick="go('home');return false">KIT<b>72H</b></a>
+<nav><a href="#" onclick="go('home');return false">Kits</a><a href="#" onclick="go('blog');return false">Blog</a><a href="#" onclick="go('home');return false">Fuentes</a></nav>
+</div></header>
+<main id="app"></main>
+<footer><p>Como afiliado de Amazon, Kit72h obtiene ingresos por las compras que cumplan los requisitos aplicables. Precios orientativos; pueden variar.</p><p class="att">Hecho con ❤️ por David Antizar</p></footer>
+</div>
+<div class="tag">Maqueta A · datos de ejemplo</div>
+<script>
+const KITS=[
+{s:'basico-72h',t:'Kit básico 72h',i:'🎒',c:'100–180 €',n:16,cat:'hogar',r:'Agua, comida, luz, radio, botiquín y documentos. El kit del que nacen todos los demás.'},
+{s:'dana',t:'Kit DANA / inundación',i:'🌊',c:'90–160 €',n:14,cat:'clima',r:'Subidas de agua relámpago: evacuar a pie sin perder nada esencial.'},
+{s:'apagon',t:'Kit apagón',i:'🔌',c:'90–200 €',n:15,cat:'hogar',r:'12 horas sin luz lo demostraron: luz, radio, batería y frío seguro.'},
+{s:'coche',t:'Kit coche',i:'🚗',c:'60–120 €',n:12,cat:'movimiento',r:'V-16 conectada, chaleco, cables y lo que salva una noche esperando grúa.'},
+{s:'hogar',t:'Kit hogar / confinamiento',i:'🏠',c:'150–300 €',n:18,cat:'hogar',r:'Gases, reserva de agua y comida, detector de CO: quedar dentro y estar bien.'},
+{s:'montana',t:'Kit montaña',i:'⛰️',c:'80–150 €',n:14,cat:'movimiento',r:'Frío, brújula y manta térmica: el día se alarga cuando falla el móvil.'},
+{s:'calor',t:'Kit ola de calor',i:'🥵',c:'50–110 €',n:11,cat:'clima',r:'Ventiladores, suero, toldos y la rutina que evita el golpe de calor.'},
+{s:'evacuacion',t:'Mochila de evacuación',i:'🧳',c:'70–140 €',n:13,cat:'movimiento',r:'La mochila que sales con ella en 3 minutos: documentos, efectivo y esenciales.'},
+{s:'huerto',t:'Huerto y autosuficiencia',i:'🌱',c:'40–90 €',n:10,cat:'hogar',r:'Semillas, germinados y herramientas: seguridad alimentaria a medio plazo.'},
+{s:'30-dias',t:'Kit 30 días',i:'📆',c:'250–500 €',n:20,cat:'hogar',r:'Del 72h al mes: agua, conservas, higiene y mantenimiento del kit.'},
+{s:'bebe',t:'Kit bebé y lactancia',i:'🍼',c:'80–160 €',n:12,cat:'personas',r:'Leche, pañales y lo que nadie recuerda hasta que hace falta.'},
+{s:'mayores',t:'Kit persona mayor',i:'🧓',c:'60–130 €',n:12,cat:'personas',r:'Medicación de reserva, dosis y contacto médico. Autonomía con dignidad.'}
+];
+const SECCIONES=[
+{t:'Luz y energía',items:[
+ ['Linterna LED por persona','Pilas de reserva; mejor que velas por riesgo de incendio.','8–20 €','esencial'],
+ ['Lámpara de camping recargable','Ilumina la habitación entera; recárgala cada mes.','10–25 €','esencial'],
+ ['Batería externa 20.000 mAh','3-4 cargas de móvil; recárgala el primer día del aviso.','25–45 €','esencial'],
+ ['SAI (UPS) para el router','Mantiene internet 3-6 h: llamadas y noticias.','60–120 €','recomendado'],
+ ['Panel solar plegable 40 W','Recarga en ventana o balcón si el corte se alarga.','60–100 €','recomendado']]},
+{t:'Información',items:[
+ ['Radio de dinamo o pilas AM/FM','La única fuente si caen la luz y los datos móviles.','15–35 €','esencial'],
+ ['Silbato','Señal de auxilio sin gastar voz ni batería.','2–5 €','esencial']]},
+{t:'Cocina y agua',items:[
+ ['Cocina de camping de gas','Café caliente y sopas sin humos dentro de casa.','25–60 €','recomendado'],
+ ['Bidones de agua 10–20 L','3 L por persona y día solo para beber.','8–18 €','esencial'],
+ ['Comida de 3 días sin cocina','Conservas, frutos secos, chocolate.','20–40 €','esencial']]}
+];
+const BLOG=[
+{t:'Kit de emergencia en el trabajo: qué guardar en el cajón',m:'27-09-2026 · 6 min'},
+{t:'Salud mental y sueño en una emergencia: cómo sostener la cabeza',m:'24-09-2026 · 8 min'},
+{t:'Conservar comida sin nevera: qué aguanta de verdad y qué tirar',m:'21-09-2026 · 7 min'}];
+let cat='todo';
+function tarjetas(){
+  const ks=KITS.filter(k=>cat==='todo'||k.cat===cat);
+  return ks.map(k=>`<article class="card" onclick="go('kit','${k.s}')"><div class="ico">${k.i}</div><h2>${k.t}</h2><p>${k.r}</p><div class="pie"><span>💰 ${k.c}</span><span class="ir">${k.n} productos →</span></div></article>`).join('');
+}
+function chips(){
+  return [['todo','Todo'],['hogar','Hogar'],['movimiento','En movimiento'],['clima','Clima'],['personas','Personas']]
+    .map(c=>`<button class="chip${cat===c[0]?' on':''}" onclick="filtra('${c[0]}')">${c[1]}</button>`).join('');
+}
+function home(){return `
+<section class="hero">
+<div class="kicker">Preparación de emergencias · UE + Protección Civil</div>
+<h1>Tu kit de emergencia para <span class="q">72 horas</span></h1>
+<p>12 kits con listas de producto verificadas, explicados uno a uno: para quién son, cuánto cuestan y qué errores evitar. Sin tonterías de superviviente: lo que dicen las fuentes oficiales.</p>
+<div class="ctas"><a class="btn solid" href="#" onclick="go('kit','basico-72h');return false">Empieza con el kit básico</a><a class="btn ghost" href="#" onclick="go('kit','apagon');return false">Ver el kit apagón</a></div>
+<div class="stats"><div><b>12</b><span>kits</span></div><div><b>180+</b><span>productos</span></div><div><b>30</b><span>guías de blog</span></div><div><b>100%</b><span>fuentes oficiales</span></div></div>
+</section>
+<section class="chips" id="chips">${chips()}</section>
+<section class="grid" id="g">${tarjetas()}</section>
+<h3 class="sec">Del blog de preparación</h3>
+<section class="blog grid" style="grid-template-columns:1fr">
+${BLOG.map(b=>`<article class="card" onclick="go('blog')"><div><h2>${b.t}</h2><span class="meta">📅 ${b.m}</span></div></article>`).join('')}
+</section>`;
+}
+function detalle(slug){
+  const k=KITS.find(x=>x.s===slug)||KITS[0];
+  const secs=k.s==='apagon'?SECCIONES:null;
+  return `<a class="volver" href="#" onclick="go('home');return false">← Todos los kits</a>
+<h1 style="font-size:clamp(28px,4vw,40px);margin-top:12px">${k.i} ${k.t}</h1>
+<p style="color:var(--humo);max-width:640px;margin-top:10px">${k.r}</p>
+<p class="fuente">Fuente oficial: Comisión Europea, Estrategia de Preparación JOIN(2025) 90 · proteccioncivil.es</p>
+${secs?secs.map(s=>`<h2 class="sub">${s.t}</h2><ul class="items">${s.items.map(i=>`<li><span>${i[0]}<em class="prio p-${i[3]}">${i[3]}</em><small>${i[1]}</small></span><span class="precio">~ ${i[2]}</span></li>`).join('')}</ul>`).join(''):`<p class="fuente">Maqueta: solo el kit apagón lleva contenido de ejemplo. Aquí iría la lista completa de ${k.n} productos de este kit, con precios y prioridades.</p>`}`;
+}
+function blog(){return `<section class="hero" style="padding-top:40px"><h1 style="font-size:clamp(26px,4vw,38px)">Blog de preparación</h1><p style="color:var(--humo)">30 guías prácticas. En la maqueta, listado resumido.</p></section>
+<section class="grid" style="grid-template-columns:1fr">${BLOG.map(b=>`<article class="card"><h2>${b.t}</h2><span class="meta">📅 ${b.m}</span></article>`).join('')}</section>`;}
+function go(v,s){
+  const app=document.getElementById('app');
+  if(v==='kit')app.innerHTML=detalle(s);
+  else if(v==='blog')app.innerHTML=blog();
+  else app.innerHTML=home();
+  window.scrollTo(0,0);
+}
+function filtra(c){cat=c;document.getElementById('chips').innerHTML=chips();document.getElementById('g').innerHTML=tarjetas();}
+go('home');
+/* polvo ambiental (ligero, sin three.js) */
+const cv=document.getElementById('polvo'),cx=cv.getContext('2d');
+let W,H,P=[];function dim(){W=cv.width=innerWidth;H=cv.height=innerHeight}
+dim();addEventListener('resize',dim);
+for(let i=0;i<70;i++)P.push({x:Math.random()*1e4,y:Math.random()*1e4,r:Math.random()*1.8+.4,v:.15+Math.random()*.4,o:.05+Math.random()*.25});
+(function loop(){cx.clearRect(0,0,W,H);cx.fillStyle='#e0a464';
+for(const p of P){p.y-=p.v;p.x+=Math.sin(p.y/90)*.3;if(p.y<-5){p.y=H+5;p.x=Math.random()*W}
+cx.globalAlpha=p.o;cx.beginPath();cx.arc(p.x%W,p.y,p.r,0,7);cx.fill()}
+cx.globalAlpha=1;requestAnimationFrame(loop)})();
+</script>
+</body>
+</html>

@@ -1,0 +1,1596 @@
+# Kit72h — contenido completo (llms-full)
+
+Fuente: https://kit72h.com · Guía independiente de preparación civil.
+
+## Kits
+
+### Kit básico 72 horas — https://kit72h.com/kit/kit-basico-72h/
+La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.
+**Agua e hidratación**
+- Botella o garrafa de agua (3 L por persona y día): Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día. (~5-15 €)
+- Pastillas potabilizadoras de agua: Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada. (~8-15 €)
+**Alimentación**
+- Raciones militares de emergencia (comida deshidratada): Comida deshidratada con 2 años de vida útil. Solo necesita agua caliente. (~8-12 €/ud)
+- Conservas y lata de legumbres (comida no perecedera): Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~1-3 €/lata)
+- Barritas energéticas y frutos secos: Energía rápida en formato compacto. 400-500 kcal por barrita. (~10-15 €/pack)
+**Luz y energía**
+- Linterna LED a pilas (con pilas de repuesto): Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte. (~10-20 €)
+- Powerbank de alta capacidad (≥ 20.000 mAh): Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
+- Pilas alcalinas surtidas (AA/AAA): Surtido AA/AAA. Los aparatos del kit mueren sin pilas de repuesto. (~10-20 €)
+**Información y comunicación**
+- Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
+- Mapa físico de tu zona (papel, no digital): Papel, no digital. El GPS puede caerse; el papel no. (~5-15 €)
+**Documentación y dinero**
+- Bolsa estanca para documentos (DNI, pólizas, recetas): Bolsa de cierre zip de grado militar: DNI, pólizas y recetas secos siempre. (~5-12 €)
+- Faja portadocumentos / riñonera oculta para efectivo: Riñonera oculta bajo la ropa para llevar efectivo y documentación encima. (~8-15 €)
+**Higiene y salud**
+- Botiquín de primeros auxilios básico: Vendas, antiséptico, gasas, tijeras y guantes. Base de cualquier kit. (~15-30 €)
+- Gel hidroalcohólico y toallitas húmedas: Higiene sin agua. Fundamental cuando falla el suministro. (~5-10 €)
+**Abrigo y refugio**
+- Manta térmica de emergencia: Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco. (~3-8 €)
+- Chubasquero o poncho impermeable: Impermeable ligero reutilizable. Mantente seco = mantente caliente. (~15-30 €)
+
+### Kit DANA / inundación — https://kit72h.com/kit/kit-dana/
+Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las recomendaciones de Protección Civil para lluvias intensas.
+**Protección personal frente al agua**
+- Chubasquero impermeable con capucha: Capucha ajustada y costuras selladas para lluvia torrencial. (~20-40 €)
+- Botas de agua: Goma hasta la rodilla: agua contaminada, lodo y objetos cortados. (~15-30 €)
+- Guantes impermeables: Protección al manipular escombros y trabajar en agua. (~8-15 €)
+**Seguridad eléctrica**
+- Linterna LED (evita velas: riesgo de incendio): Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte. (~10-20 €)
+- Tiracables con interruptor diferencial portátil: Protección contra electrocución al reconectar energía en zonas húmedas. (~20-40 €)
+**Protección de la vivienda**
+- Sacos de arena vacíos o barreras de inundación: Barreras improvisadas contra el agua en puertas y ventanas bajas. (~10-20 €)
+- Cinta y plástico para sellar ventanas: Sellado de ventanas y grietas ante lluvias con viento. (~8-15 €)
+**Post-DANA**
+- Desinfectante de superficies: El agua de DANA deja lodo con aguas fecales: desinfecta todo. (~5-12 €)
+- Palas y cubos para retirar lodo: Retirar lodo y agua acumulada tras el paso del agua. (~10-25 €)
+- Desumidificador o sachets antihumedad: Evita moho y humedad estructural tras la inundación. (~15-40 €)
+**Comunicación y avisos: cuando cae la red**
+- Radio FM/AM a pilas o de manivela, con linterna integrada: La red móvil y la luz se van justo cuando más falta hace la información. Compra una radio de dial grande, apunta en la tapa la emisora autonómica y Radio Nacional, y pruébala una vez al mes: los avisos oficiales siguen saliendo por radio y por megafonía municipal. Lleva pilas de repuesto aparte, fuera del aparato. (~15-35 €)
+- Walkie-talkies PMR446 (pareja con cargador): Con la red móvil caída, dos personas a 300-500 m en un pueblo inundado siguen hablando: los PMR446 son legales en España sin licencia, con canales de uso común. Valen para que uno haga cola en el punto de reparto y el otro se quede con quien no puede moverse. Cómo usarlos, en la guía de PMR446 del blog. (~40-80 €)
+- Batería externa (power bank) 10.000-20.000 mAh, dos salidas: Sin luz, el móvil es tu linterna, tu mapa y tu contacto con la familia: se agota en horas. Cárgala al 100 % con el aviso naranja y no la gastes en vídeos; con un panel solar pequeño o el cargador del coche la vuelves a llenar. Guarda el cable corto dentro de la misma bolsa. (~20-40 €)
+- Mascarilla FFP2 (pack) y gafas de protección para la limpieza: El lodo de una inundación trae aguas fecales y, cuando se seca, se inhala: al retirar barro y al tirar paredes mojadas, mascarilla puesta y ojos tapados. Se usa el primer día, no cuando ya huele. Si tienes asma o problemas respiratorios, hazlo con otra persona delante y descansando. (~15-30 €)
+
+### Kit apagón / corte eléctrico — https://kit72h.com/kit/kit-apagon/
+Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.
+**Luz**
+- Lámparas LED a pilas con imán (para nevera/despensa): Se adhiere a nevera, despensa o capó del coche. Manos libres. (~10-25 €)
+- Linterna frontal (manos libres): Ilumina sin ocupar las manos: imprescindible para trabajar de noche. (~12-25 €)
+- Velas de emergencia (solo como refuerzo, con portavelas seguro): Refuerzo de luz, nunca fuente principal. Con portavelas metálico. (~5-12 €)
+**Energía**
+- Powerbank ≥ 20.000 mAh con salida AC o USB-C PD: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
+- Panel solar portátil 20-40 W: Recarga el powerbank con sol. 20-40 W carga un móvil en 3-4 horas. (~40-80 €)
+- Cargador de dinamo multiuso: Manivela manual: energía infinita sin sol ni red. (~15-30 €)
+**Cocina sin electricidad**
+- Hornillo de camping a gas con bombonas: Comida caliente sin electricidad. Usa siempre en zona ventilada. (~20-45 €)
+- Encendedores y cerillas largas: Cerillas de tormenta: encienden con viento y humedad. (~5-10 €)
+- Nevera portátil de conservas: Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~1-3 €/lata)
+- Acumuladores de frío (bloques de gel congelables) para nevera y congelador: Tenlos congelados desde antes: el día del corte pasan a la nevera, pegados a lo más delicado (carne, pescado, lácteos, embutido), y alargan las horas de frío sin que tengas que abrir la puerta para comprobar nada. Truco gratis equivalente: dos botellas de agua congeladas. Y lo que ya se ha descongelado no se vuelve a congelar: se cocina o se tira. (~10-20 €)
+**Seguridad durante el corte**
+- Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~15-35 €)
+- Extintor de polvo ABC de 1-2 kg con soporte: Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112. (~25-45 €)
+**Dinero y comunicación**
+- Caja fuerte pequeña portátil para efectivo: Guarda el efectivo y documentos críticos en casa. (~20-45 €)
+- Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
+- SAI / UPS pequeño (600-900 VA) para router y ONT: Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora. (~60-110 €)
+
+### Kit coche — https://kit72h.com/kit/kit-coche/
+Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.
+**Obligatorio en España (DGT)**
+- Dos triángulos de emergencia homologados: Desde el 1 de enero de 2026 ya no son válidos para señalizar en España (los sustituye la baliza V-16 conectada); aún útiles para viajes por países fuera de la Convención de Viena. (~10-20 €)
+- Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026): Obligatoria desde el 1 de enero de 2026: sustituye a los triángulos. Solo valen modelos homologados y conectados a la DGT (lista oficial en dgt.es). Verifica el certificado IDIADA/LCOE grabado en la tulipa. (~8-25 €)
+- Chaleco reflectante de alta visibilidad (dotación obligatoria en moto): Desde el 1/10/2026 las motocicletas deben llevar entre su dotación obligatoria un chaleco reflectante de alta visibilidad conforme a la normativa de EPI (RD 518/2026, anexo XII del Reglamento General de Vehículos; BOE-A-2026-13889). Para el coche sigue siendo lo que te pone legal si sales a pie por el arcén de noche. (~5-12 €)
+**Emergencia y supervivencia**
+- Botiquín de coche: Versión compacta del botiquín básico, adaptada a accidentes de tráfico. (~15-30 €)
+- Manta térmica: Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco. (~3-8 €)
+- Linterna LED con imán: Se adhiere al capó o carrocería. Manos libres en averías nocturnas. (~10-25 €)
+- Cadena de remolque o correa de tiro: Para ser remolcado o remolcar con lazos de emergencia. (~15-30 €)
+- Cadenas para nieve o calcetines textiles: Textiles o metálicas. Obligatorias en tramos nevados señalizados. (~30-80 €)
+**Energía y confort**
+- Powerbank de coche 12V: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
+- Agua embotellada (renovar cada 6 meses): Renueva cada 6 meses: el plástico degrada con el calor del coche. (~2-5 €)
+- Barritas energéticas: Energía rápida en formato compacto. 400-500 kcal por barrita. (~10-15 €/pack)
+
+### Kit hogar / confinamiento — https://kit72h.com/kit/kit-hogar/
+Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.
+**Agua y comida**
+- Garrafas de agua 8 L (2 por persona): Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día. (~5-15 €)
+- Conservas variadas (15-20 latas): Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~1-3 €/lata)
+- Pastas, arroz y legumbres en paquetes: Base calórica de larga caducidad (2-3 años). (~10-20 €)
+- Comida para mascotas extra: No te olvides de ellos: ración extra para 3 días mínimo. (~5-15 €)
+**Higiene y limpieza**
+- Gel hidroalcohólico y jabón: Higiene básica sin agua corriente garantizada. (~5-12 €)
+- Lejía y desinfectante de superficies: El agua de DANA deja lodo con aguas fecales: desinfecta todo. (~5-12 €)
+- Papel higiénico y toallitas: Si el agua falla, la cisterna no tira: gestiona residuos con bolsas. (~8-15 €)
+- Bolsas de residuos negras (50+ unidades): Sin agua corriente no tiras de la cisterna ni lavas. Bolsas sellables para gestionar residuos de forma higiénica hasta que vuelva el grifo. (~5-10 €)
+**Cocina sin electricidad**
+- Hornillo de butano portátil con bombonas: Calienta agua, cocina conservas y caldos sin electricidad. Úsalo siempre en zona ventilada. (~20-45 €)
+- Abreconservas manual: Sin electricidad, el abre-latas eléctrico no funciona. Uno manual de 5 € es la herramienta más infravalorada del kit. (~3-8 €)
+- Cocoteira o cazo resistente (para calentar conservas): Puedes calentar latas vacías con agua y meter la conserva dentro (baño María casero) o usar una cazo para calentar agua si se fue la luz. (~10-25 €)
+- Detector de monóxido de carbono a pilas: Este kit recomienda un hornillo de butano dentro de casa: el CO no se huele, no se ve y mata mientras duermes. Ponlo a la altura de la respiración, en la cocina o donde cocines, y nunca lo apagues para ahorrar pilas. (~15-30 €)
+**Salud**
+- Termómetro digital: Detectar fiebre cuando no puedes ir al médico de inmediato. (~5-12 €)
+- Paracetamol e ibuprofeno (caducidad larga): Analgésicos y antitérmicos básicos. Revisa caducidad anual. (~5-10 €)
+- Mascarillas FFP2: Protección ante polvo, humo o brote respiratorio. (~8-15 €)
+**Moral**
+- Juegos de mesa o cartas: La moral importa: 72 horas encerrados se hacen eternas sin nada que hacer. (~8-20 €)
+- Libros de bolsillo: Entretenimiento sin batería ni red. (~5-15 €)
+**Ventilación y calidad del aire**
+- Ventilador USB de repisa o pies: Mueve el aire si el calor se acumula. Funciona con el powerbank del kit durante horas. (~12-30 €)
+- Medidor de CO2 o calidad del aire portátil: El CO2 acumulado en casa cerrada da sueño, dolor de cabeza y reduce la capacidad de razonar. Un sensor barato te avisa. (~15-40 €)
+**Luz, energía y comunicación**
+- Linterna LED a pilas o de dinamo: Sin luz no encuentras nada y acabas usando el móvil como linterna, que es justo lo que necesitas para llamar. Guarda pilas de repuesto del mismo tamaño, fuera de los aparatos. (~8-25 €)
+- Radio FM/AM a pilas o de dinamo: Cuando cae la red móvil, la radio sigue emitiendo avisos oficiales sin internet ni batería del móvil. Sintoniza las emisoras locales antes de guardarla y prueba la recepción donde la vayas a usar. (~15-35 €)
+- Batería externa (powerbank) de 10.000-20.000 mAh: Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses. (~15-35 €)
+
+### Kit montaña / senderismo — https://kit72h.com/kit/kit-montana/
+Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.
+**Orientación y comunicación**
+- Powerbank ligero + cable USB: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
+- Silbato de emergencia: Se oye a 1 km de distancia; tu voz, a 100 metros. Sin batería. (~3-8 €)
+- Mapa y brújula físicos de la zona: La orientación clásica no falla. Aprende a usarla antes de salir. (~10-25 €)
+- Cuerda de paracord 550 (30m): Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar. (~8-19 €)
+**Refugio y abrigo**
+- Manta térmica de supervivencia: Doble cara: naranja para ser visto, plata para retener calor. (~5-12 €)
+- Chubasquero ligero: La hipotermia mata en montaña incluso en verano. (~20-50 €)
+- Casquete o gorro de abrigo: El 30% del calor corporal se pierde por la cabeza. (~8-18 €)
+**Salud y reparación**
+- Botiquín ligero de trekking: Vendajes, esparadrapo, ampollas, material de inmovilización básico. (~12-25 €)
+- Crema solar y labial con protección: SPF 50: la radiación en montaña es mucho mayor que en la playa. (~8-18 €)
+- Apósitos hidrocoloides para ampollas: El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar. (~7-22 €)
+- Navaja multiuso: Corta, sierra, abre latas y repara material. La navaja suiza del senderista. (~15-35 €)
+- Kit de costura de emergencia: Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta. (~3-8 €)
+- Frontal con pilas de repuesto: Manos libres para caminar de noche o reparar material. (~15-35 €)
+
+### Kit ola de calor — https://kit72h.com/kit/kit-calor/
+España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas en casa o en el trabajo sin acabar en urgencias.
+**Frescura**
+- Ventilador USB o a pilas: Moviliza el aire cuando el calor es sofocante. Funciona con powerbank. (~12-30 €)
+- Toalla de enfriamiento instantáneo: Se moja y baja temperatura corporal por evaporación. Reutilizable. (~8-15 €)
+- Pulverizador de agua: Nebuliza agua fría sobre piel: alivio inmediato en golpes de calor leves. (~3-8 €)
+**Hidratación**
+- Botella isotérmica de acero (mantiene frío 12-24 h): Mantiene el agua fría 12-24 h incluso a 40 grados. (~15-30 €)
+- Sales de rehidratación oral: Reponen sales minerales perdidas por sudor. Lo que beber agua sola no arregla. (~5-12 €)
+**Protección solar**
+- Protector solar SPF 50: Quemaduras graves deshidratan aún más. Renueva cada 2 horas. (~10-20 €)
+- Gafas de sol categoría 3-4: Protección UV real, no estética. La vista también se quema. (~15-40 €)
+
+### Mochila de evacuación — https://kit72h.com/kit/kit-evacuacion/
+Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.
+**Documentación esencial**
+- Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas): DNI, escrituras, pólizas, cartilla sanitaria y recetas en un solo sitio. (~8-18 €)
+- Copia digital en USB cifrado: Backup de documentos escaneados. Cífralo con contraseña. (~8-20 €)
+- Copia de llaves de casa: Una copia metida en la carpeta estanca. En el pánico de una evacuación es lo primero que se olvida: vuelves a casa y no abres. (~—)
+**Supervivencia 24-72 h**
+- Mochila de 30-40 L resistente al agua: Resistente al agua, con cinturón acolchado. Aguantará tu vida 3 días. (~30-70 €)
+- Botella de agua + pastillas potabilizadoras: Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada. (~8-15 €)
+- Ración de comida deshidratada: Al menos 2 raciones por persona en la mochila. (~8-15 €)
+- Manta térmica + poncho: Dúo de abrigo y protección contra lluvia en formato mínimo. (~6-14 €)
+**Utilidad**
+- Linterna + batería externa: Kit de energía mínimo: ver y comunicar. (~20-40 €)
+- Botiquín de bolsillo: Versión mini pero completa: gasas, antiséptico, analgésicos. (~10-20 €)
+- Efectivo en billetes pequeños: En evacuación los cajeros no funcionan. Billetes de 10-20 €. (~—)
+- Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y telefonía. Con dinamo para que nunca se quede muda. (~15-35 €)
+- Silbato de emergencia: Tres pitidos son la señal internacional de emergencia. Suena más lejos que la voz y no se agota. Esencial si quedas atrapado. (~3-8 €)
+- Navaja multiusos: 23 herramientas en un cuerpo compacto: cuchillo, sierra, destornilladores, abrebotellas. Lo justo para reparaciones de emergencia. (~10-20 €)
+- Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones): Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no. (~3-10 €)
+
+### Huerto y autosuficiencia — https://kit72h.com/kit/huerto-autosuficiencia/
+No todo es survive: producir tu propia comida en balcon, terraza o patio te da independencia real. Guia completa de cultivo urbano paso a paso, con el material que de verdad funciona.
+**Para empezar a sembrar**
+- Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
+- Bandejas de germinacion (pack 5, 112 alveolos): Semillero para arrancar plantas fuertes antes de pasarlas a maceta. Reutilizable, material reciclable. (~12 €)
+- Sustrato universal 80 L (Batlle): Tierra con abono incorporado, sirve para practicamente cualquier hortaliza de maceta. (~24 €)
+- Medidor de humedad y pH del suelo (3-en-1): Un medidor de 12 € te indica cuándo regar y si la tierra es ácida o alcalina. La mayoría de hortalizas prefieren pH 6-7; la lechuga aguanta hasta 7.5. Sin este dato, riegas a ciegas y pierdes el 60% del esfuerzo. (~8-15 €)
+**Equipo y herramientas**
+- Kit de herramientas de jardin (Bellota, 3 piezas): Rastrillo, transplantador y azuela de una marca española de toda la vida. Lo justo y necesario. (~15 €)
+- Regadera 6 L con cabezal desmontable: Cabezal suave para plantulas y chorro directo para plantas adultas. (~10 €)
+**Subir de nivel**
+- Mini invernadero de 3 niveles (59x39x127 cm): Alarga la temporada y protege del frio en balcon o terraza. Cabe en cualquier esquina. (~21 €)
+- Manual del huerto urbano y ecologico para principiantes: De cero a huerto completo: como convertir terraza o jardin en comida, paso a paso. (~10 €)
+- Huerto urbano (Larousse): La guia ilustrada de referencia: calendario de siembra, asociaciones de cultivo, plagas. (~17 €)
+**Compostaje y protección**
+- Compostera doméstica con grifo (20 L): Cubeta de 20 L con grifo para abon líquido (té de compost) y tapa que evita olores. Se usa en cocina, terraza o garaje. Los restos de cocina alimentan el huerto sin tener vertedero. La pila de 'barnes' (verde/marrón) se renueva cada semana. (~25-35 €)
+- Malla anti-áfidos invernadero (2 x 8 m, 30 mesh): Red de 0.6 mm que bloquea mosca blanca, trips y pulgones sin químicos. Se fija con clips en marcos de ventana o túnel de plástico. Reduce un 80% las plagas y elimina la necesidad de insecticidas. Durabilidad 3-4 temporadas. (~10-18 €)
+- Kit riego por goteo básico (10-20 plantas): Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas. (~20-35 €)
+- Red antipájaros para huerto (1x3 m, malla fina 2 cm): La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente. (~5-12 €)
+
+### Kit 30 días — https://kit72h.com/kit/kit-30-dias/
+Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA que se alarga. Provisión completa de agua, comida y energía para 2 personas durante un mes, sin cocinar con electricidad.
+**Agua (180 L para 2 personas / 30 días)**
+- Garrafas 8 L con grifo dispensador (x8 = 64 L): Bezoya 8 L con grifo: cómodas para dosificar. Calcula 3 L/día por persona para beber y cocina. (~~3 €/ud)
+- Renueva el agua cada 6 meses: La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo. (~—)
+**Comida no perecedera (proteína y platos listos)**
+- Atún claro al natural (pack 6 latas): Proteína barata y duradera. Multiplica packs según días cubiertos. (~~8 €)
+- Lentejas a la riojana Litoral (pack 6): Plato completo listo para comer, se puede tomar frío si no hay forma de calentar. (~~13 €)
+- Cocido madrileño Litoral (pack 6): Calorías y proteína en un solo bote. Muy buena relación energía/precio. (~~14 €)
+- Conservas gallegas variadas (12 latas gourmet): Mejillones, sardinas, berberechos… variar el sabor mantiene la moral en una crisis larga. (~~89 €)
+- Patés variados (45 unidades): Fácil de comer sin cocinar, en tostada o solo. Caducidad larga. (~~19 €)
+**Base de despensa (carbohidrato y leche)**
+- Arroz parboiled 1 kg (pack 2): Alimento de larga conservación por excelencia. Compra 6-8 kg para el mes. (~~3 €/pack)
+- Leche en polvo entera 1 kg (Asturiana): Rinde ~7 litros de leche por bolsa. Vitamina D y calcio sin nevera. (~~9 €)
+**Cocinar y calentar sin electricidad**
+- Hornillo de camping 2 en 1 (bombona grande o cartucho): Admite bombona de butano normal o cartucho pequeño. Solo usar en zona ventilada. (~~19 €)
+- Estufa de gas butano (Orbegozo 4200 W): Para el frío en apagón de invierno. Triple sistema de seguridad. Ventila siempre. (~~84 €)
+- Tienda de campaña de emergencia 2 personas: Si la casa queda inhabitable o para aislar una habitación y conservar el calor corporal. (~~14 €)
+**Higiene y salud**
+- Botiquín completo 222 piezas: Curas, vendas, antisépticos, guantes, esparadrapo. La base de salud de 30 días. (~~24 €)
+- Papel higiénico 96 rollos (Scottex): Es de lo primero que desaparece de los supermercados ante cualquier aviso. (~~23 €)
+- Multivitaminas 450 comprimidos: Cubre carencias si tu dieta de emergencia es monótona (sin fruta ni verdura fresca). (~~11 €)
+- Espirulina + chlorella ecológica (500 comprimidos): Superalimento denso en proteína y micronutrientes, caducidad larguísima. (~~14 €)
+
+### Kit bebé y lactancia — https://kit72h.com/kit/kit-bebe/
+Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.
+**Agua y alimentación sin electricidad**
+- Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
+- Pastillas potabilizadoras aptas para lactantes: Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo. (~8-15 €)
+- Calentador biberones sin gas ni electricidad (químico/autocalentante): Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo. (~6-12 €)
+- Termo pequeño de boca ancha (350-500 ml): Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara. (~10-20 €)
+- Botella térmica fría (500 ml): Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera. (~12-20 €)
+**Leche y comida de reserva**
+- Leche de fórmula de seguimiento (lata 400-800 g): Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina. (~10-16 €)
+- Cereales/papilla instantánea (2 cajas): Se preparan con agua templada o fría, rinden mucho y no necesitan cocción. La que ya toma tu bebé: no estrenes marca en la emergencia. (~5-9 €)
+- Potitos de fruta y verdura (pack 6-8): Comida de verdad sin cocinar, con fecha larga. Si ya come papillas, son tu kit y su cena en un apagón. (~8-14 €)
+- Sacaleches manual: Sin pilas ni electricidad, mantiene la producción y evita ingurgitaciones dolorosas si el bebé no puede mamar bien (suelo, coche, hospital de campaña). (~12-25 €)
+- Bolsas de almacenamiento de leche materna (pack 30-50): Para extraer y guardar con fecha. Sin congelador aguantan unas horas en nevera portátil con paquetes fríos. (~6-10 €)
+- Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12): Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco. (~10-18 €)
+**Higiene y pañales**
+- Pañales de reserva (talla actual, pack 20-25): 6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa. (~6-10 €)
+- Toallitas limpiadoras (pack 3-5): Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana. (~4-8 €)
+- Bolsas estancas para ropa sucia y pañales (pack): Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro. (~5-9 €)
+- Cambrador portátil plegable: Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas. (~8-14 €)
+- Crema barrera contra rozaduras: Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos. (~4-8 €)
+- Jabón neutro en pastilla + esponja: Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas. (~2-4 €)
+- Pastillas esterilizadoras en frío para biberones y tetinas: Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas. (~6-12 €)
+**Abrigo y sueño**
+- Saco/pijama de una pieza de abrigo (talla actual + una de repuesto): Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo. (~12-22 €)
+- Manta térmica de emergencia infantil (o manta polar pequeña): La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo. (~2-6 €)
+- Gorro y manoplas de bebé: Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro. (~5-10 €)
+- Portabebés ergonómico (bandolera o Mei Tai): Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera. (~25-50 €)
+- Cuna de viaje plegable (o capazo rígido de recién nacido): En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco. (~35-80 €)
+**Salud y calma**
+- Termómetro digital de bebé: El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda. (~6-12 €)
+- Suero de rehidratación oral y jeringuilla dosificadora: Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet. (~6-10 €)
+- Aspirador nasal + suero fisiológico en monodosis: Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general. (~4-8 €)
+- Juguetes pequeños favoritos (2-3, en bolsa estanca): Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé. (~0-10 €)
+- Mantas/empapadores de tela de confianza: Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit. (~8-15 €)
+- Chupetes de reserva (2-3, la talla que usa ahora) y portachupete: El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad. (~5-10 €)
+**Documentos e identificación**
+- Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé: Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~5-10 €)
+- Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
+- Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
+
+### Kit persona mayor — https://kit72h.com/kit/kit-mayores/
+Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.
+**Medicación y crónicos**
+- Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
+- Ficha médico-identificativa plastificada: Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera. (~0-5 €)
+- Nevera portátil pequeña con paquetes fríos reutilizables: Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita. (~12-25 €)
+- Termómetro de nevera (mínimo/máximo): 2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón. (~4-8 €)
+- Pastilla potabilizadora y vaso medidor para medicación: Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2. (~8-15 €)
+- Tensiómetro de brazo a pilas con memoria: Si en casa hay hipertensión diagnosticada, el de enchufe no sirve en un apagón. Este funciona a pilas y guarda las últimas medidas, para que puedas anotarlas en la ficha. Qué valores son normales y cuándo medir los fija su médico o su enfermera: aquí solo entra el aparato. (~25-45 €)
+**Sentidos y ayudas técnicas**
+- Pilas de repuesto para audífonos (blíster × 3, con fecha): Las audífonas se gastan y caducan. Blíster cerrado con la fecha escrita: sin pilas, sin audición, sin comunicación. (~8-15 €)
+- Gafas de graduación de repuesto: Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online. (~10-30 €)
+- Caja de dentadura + pegamento y vaso con tapa: Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla. (~6-10 €)
+- Bastón plegable / andador de repuesto con luz: El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada. (~15-35 €)
+- Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo): La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran. (~0 €)
+- Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias): Con deterioro cognitivo o desorientación, en una evacuación lo primero que se pierde es la cartera con los papeles. Una pulsera o collar grabado con nombre, teléfono de un familiar y alergias se lee sin desbloquear nada ni abrir ningún bolsillo, y no caduca ni se queda sin batería. (~8-20 €)
+**Caídas, noche y seguridad en casa**
+- Balizas LED de noche con sensor (pack 2-3): Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable. (~10-20 €)
+- Linterna de cabecera con cordón/manillla grande: De las gordas y fáciles, no la pequeña del cajón: con manos torpes o en la oscuridad, que se encuentre y se encienda sola. (~8-15 €)
+- Alfombrilla antideslizante de baño y tirante de apoyo: Sin agua caliente y con cubos de por medio, el baño se vuelve pista de patinaje. 20 € y una tarde de bricolaje. (~12-25 €)
+- Silbato de emergencia en el llavero/pulsera: Si no puede gritar o el móvil no funciona, el silbato se oye a través de paredes mucho más que la voz. Se enseña a usarlo antes. (~2-5 €)
+**Comunicación y compañía**
+- Radio a pilas FM con volumen alto y dial grande: La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido. (~12-25 €)
+- Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia): Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra. (~0 €)
+- Acuerdo de vecindad con llamada/golpe de aviso: Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha. (~0 €)
+- Juegos de naipes, libro de letra grande o rádio con altavoz: Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no. (~5-15 €)
+**Higiene, incontinencia y frío**
+- Empapadores y pañales de incontinencia (pack para 3-5 días): Si hay incontinencia, es lo primero que se acaba y lo último que se puede improvisar: sin lavadora, sin agua caliente y con el baño a oscuras, no hay recambio casero. Talla y absorción se ajustan con su enfermera o en la farmacia, no a ojo. (~15-30 €)
+- Cuña u orinal con asa: Con movilidad reducida o sin luz, el viaje nocturno al baño es la caída esperada. Una cuña con asa y una luz de noche bastan para que no tenga que levantarse a oscuras. Se vacía y se limpia con agua de limpieza, nunca con el agua de beber reservada. (~10-20 €)
+- Manta térmica de emergencia aluminizada (pack de 2): Los mayores pierden calor más rápido y lo notan menos. La manta dorada no da calor por sí sola: refleja el del cuerpo. Funciona mucho mejor por dentro de una manta normal, no sola encima. Cuesta menos que un café y cabe en cualquier cajón. (~4-10 €)
+**Comida adaptada e hidratación**
+- Comida blanda lista (purés, potitos de adulto, cremas en tarrina): Si tiene problemas de masticación, la lata de conserva no vale: purés y potitos de adulto en vaso, se comen solos. (~8-14 €)
+- Batidos proteicos/enriquecidos (pack 8-12): Calorías y proteína sin cocinar ni masticar. En 3 días de crisis es lo que mantiene el peso de un mayor. (~10-18 €)
+- Espesantes para líquidos (si hay disfagia diagnosticada): Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional. (~8-16 €)
+- Botella con asa y boquilla fácil + vaso con tapa: Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil. (~8-16 €)
+
+## Blog
+### Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio — https://kit72h.com/blog/kit-emergencia-trabajo-oficina/
+Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y qué hacer si no puedes salir), y las cuatro preguntas sobre el plan de autoprotección que casi nadie hace. Con la ley y las guías del INSST citadas.
+Son las 9:12 de un martes. Estás en la tercera planta de un edificio con cuarenta personas, la mochila en el respaldo de la silla, el coche en el sótano y el móvil al 30 %. Si ahora mismo sonara la alarma de incendios: ¿sabes por qué puerta se sale desde tu mesa, dónde queda el punto de reunión y qué tienes en el cajón para pasar las dos horas siguientes sin depender de nadie?
+
+
+ Casi todos los kits de emergencia que preparamos son para casa. Y está bien, porque la casa es donde duermes. Pero suma el resto del día: nueve horas en el trabajo, dos de trayecto y sólo ocho de sueño. Tu mochila del armario cubre justo la parte del día en la que casi nunca pasa nada. Esta guía es para la otra parte: el kit que va contigo, el que se guarda en un cajón, y las dos preguntas que puedes hacer hoy en tu oficina para saber si saldrías del edificio en tres minutos o en quince.
+
+
+ 1. El trabajo es donde más desprevenido te pilla (y no es culpa tuya)
+
+
+ En casa conoces los ruidos, sabes qué puerta chirría y sales a oscuras sin pensar. En un edificio de oficinas no decides casi nada: dependes de la alarma de otro, de la escalera de otro, de si la puerta de la escalera está cerrada con llave, de que la obra de la planta de abajo no haya dejado el pasillo con cajas. Y dependes, sobre todo, de la costumbre: casi todos los avisos de evacuación que has vivido en tu vida eran simulacros, así que el cerebro decide, sin que se lo pidas, que «será otro aviso de prueba». La gente que sale tarde de un edificio casi nunca sale tarde por falta de información: sale tarde porque creyó que no iba en serio.
+
+
+ Ese sesgo tiene un antídoto barato que se llama conocer tu ruta. Y tu empresa tiene obligación legal de tener resuelto lo demás. El artículo 20 de la Ley 31/1995, de Prevención de Riesgos Laborales, obliga al empresario a analizar las posibles situaciones de emergencia y a adoptar las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de los trabajadores, designando al personal encargado de ponerlas en práctica. Y cuando la actividad del edificio figura en su ámbito de aplicación, la Norma Básica de Autoprotección (Real Decreto 393/2007) exige además un plan de autoprotección con estructura y contenidos reglados, con simulacros, mantenimiento y revisiones periódicas.
+
+
+ Traducido a la vida real: ese documento existe, está en un cajón de dirección o de prevención, y tú no lo has leído. No es un secreto de empresa: es información que puedes pedir. El INSST (Instituto Nacional de Seguridad y Salud en el Trabajo) tiene publicada la guía de referencia sobre planes de emergencia y planes de autoprotección, y ahí aparece el detalle que más falla en la práctica: el plan se escribe una vez y se olvida, cuando lo que lo mantiene vivo son los simulacros y las revisiones.
+
+
+ 2. El kit que va contigo: nueve cosas que caben en un cajón
+
+
+ No hace falta convertir tu mesa en un búnker. La idea es cubrir las dos horas siguientes a un incidente sin depender de nadie: que no te falte agua, luz, batería, tus medicinas ni calzado para caminar si te toca volver andando. Todo esto cabe en un cajón de 40 cm o en una bolsa de tela colgada del asiento.
+
+
+ 
+ Qué guardar Para qué sirve de verdad Precio aprox. 
+ 
+ 
+ Botella de agua de 1 L y comida que no se derrita (barritas, frutos secos, una lata y un abrelatas) Si te toca esperar en el punto de reunión o volver andando, lo primero que notas no es el hambre: es la sed y la cabeza espesa. Cámbiala cada seis meses. 3-8 € 
+
+ Batería externa de 10.000-20.000 mAh con cable corto USB-C o Lightning Sin cobertura y sin luz, el móvil es tu mapa, tu linterna y tu contacto con casa. Un móvil al 30 % son dos horas de angustia; con un powerbank, dos días. Cárgalo el primer lunes de cada mes. 20-40 € 
+
+ Tu medicación personal para 24-48 h y una foto de la receta Nadie monta el kit del trabajo pensando en su propia pastilla. Si tomas algo crónico (tiroides, tensión, asma, ansiolíticos), lleva una dosis extra; cómo guardarla y si aguanta la temperatura de la oficina, consúltalo con tu médico o farmacéutico. según receta 
+
+ Linterna pequeña o frontal y un silbato En un apagón las escaleras de emergencia tienen luz propia hasta que se agota la batería del edificio. El silbato no gasta nada y se oye más lejos que la voz. 10-20 € 
+
+ Dos o tres mascarillas FFP2 Humo, polvo de obra, lodo o sencillamente un pasillo con gente tosiendo. También sirven en el trayecto si hay ceniza o mala calidad del aire. 5-10 € 
+
+ Copia en papel y en USB de los documentos clave, y cinco teléfonos importantes escritos a mano El móvil es tu agenda y también la primera batería que se agota. Cinco números en papel (familia, médico, seguro) no pesan nada y funcionan sin batería. 0-10 € 
+
+ 20-30 € en billetes pequeños en dos sitios distintos Sin luz, los datáfonos no cobran: no hay café, ni autobús, ni taxi. Con billetes de 5 y 10 € no dependes de que alguien tenga cambio. 20-30 € 
+
+ Zapatillas cerradas y calcetines en el cajón Si la evacuación coincide con un día de tacones o chanclas —o con los pies mojados— andar dos kilómetros pasa de ser una molestia a ser una lesión. 20-40 € 
+
+ Forro polar fino o bufanda y chubasquero de bolsillo Los simulacros y las evacuaciones reales acaban siempre igual: gente de pie en la calle sin poder volver a por la chaqueta. En enero eso son 40 minutos a 4 °C. 15-30 € 
+
+ 
+ 
+
+ El criterio para elegir cada objeto es el mismo que usamos en el kit básico de 72 horas : cosas que resuelven lo que va a pasar de verdad, no lo que queda bien en una foto. Si trabajas con ordenador todo el día y quieres la versión de casa, el punto de partida razonable es saber cómo montar tu kit 72h sin gastar de más.
+
+
+ 3. El plan de autoprotección: existe, es obligatorio y nadie lo ha leído
+
+
+ Aquí está el mayor atajo de esta guía. No tienes que diseñar nada: en tu edificio ya hay alguien que lo ha hecho, y todo lo que necesitas son cuatro preguntas y una caminata de tres minutos.
+
+
+ 
+ ¿Dónde está el plan y cuándo fue el último simulacro? El INSST recuerda que los simulacros de evacuación deben realizarse al menos una vez al año y que participar en ellos es la forma de detectar errores antes de que sean graves. Si en tu empresa no se hace ninguno desde antes de la pandemia, ya sabes algo útil.
+
+ ¿Quién es el jefe de emergencia de mi planta y quién es mi jefe de evacuación? Cuando suena la alarma, alguien tiene que contar cabezas. Si no sabes quién es, tú eres uno de los que nadie va a contar.
+
+ ¿Dónde está exactamente el punto de reunión? Pregunta la dirección, no «enfrente». Y comprueba que no esté en un sitio donde el viento te deje respirando el humo del edificio.
+
+ ¿Qué dos vías de evacuación me tocan desde mi mesa? Siempre dos: si la principal se llena de humo, la segunda tiene que estar en tu cabeza, no sólo en el cartel verde.
+
+ ¿Cómo se avisa a un compañero sordo o con movilidad reducida? Una persona sorda no oye la alarma (hacen falta avisos visuales o alguien que se lo diga), y un ascensor parado deja sin salida a quien usa silla de ruedas. Hay solución —puntos de refugio, avisos luminosos, ayuda designada—, pero sólo funciona si alguien sabe su nombre de antemano. En muchos edificios esa persona es una visita o un compañero que está de paso.
+
+ 
+
+ La caminata es lo demás: hoy, sal de tu mesa y baja hasta la calle siguiendo la ruta de evacuación, contando puertas y mirando dónde están las salidas que nunca usas. Tarda tres minutos. El mismo recorrido, con humo, con prisa y con cuarenta personas bajando, no se hace igual. Y de paso comprueba algo que sí puedes arreglar tú: que tu mochila, tus cajas o tu patinete no estén bloqueando un paso de evacuación, porque las vías tienen que estar siempre señalizadas y despejadas.
+
+
+ En casa la lógica es la misma y se prepara igual: si aún no lo has hecho, empieza por el plan familiar de emergencia y no por comprar cosas. Y si en tu hogar hay alguien que depende de un equipo médico, el detalle fino está en medición y crónicos sin luz .
+
+
+ 4. Suena la alarma: cómo se sale de un edificio sin dejar a nadie
+
+
+ Los planes de autoprotección y las guías del INSST coinciden en lo esencial, y casi todos los errores que se ven en una evacuación real están en esta lista:
+
+
+ 
+ Nunca el ascensor. En una emergencia se para justo donde no quieres. Si ya vas dentro y se detiene, pulsa el botón de alarma o el de apertura, llama al 112 desde el propio ascensor y di en qué planta estás: el 112 atiende aunque no tengas cobertura de tu operador y aunque el móvil esté sin saldo.
+
+ Deja el trabajo, pero llévate llave y móvil. El portátil no: pesa, molesta y no sirve de nada en el punto de reunión.
+
+ Baja por el lado correcto y no cruces a contramano: buena parte de los atascos en una escalera de emergencia son personas subiendo a buscar a alguien.
+
+ Si hay humo, ve agachado. El humo caliente se acumula arriba. Un pañuelo húmedo en la boca no te protege del monóxido de carbono, pero retiene parte de las partículas y te da segundos de visibilidad.
+
+ Cierra puertas al salir. Una puerta cerrada retrasa el incendio minutos que valen mucho; dejarlas abiertas es regalarle el pasillo al humo.
+
+ En el punto de reunión, cuenta a tu gente. Y aquí está el consejo que más problemas evita y casi nadie practica: acuerda de antemano quién se encarga de quién . Tú, con el compañero nuevo, la persona en prácticas o la visita que no conoce el edificio; otra persona, con quien va más lento. Si nadie se encarga de nadie, todos suponen.
+
+ No vuelvas a entrar. Ni por la mochila, ni por el móvil, ni por el coche, ni «un segundo». Es el error clásico de todas las evacuaciones reales y en los incendios con víctimas casi siempre hay alguien que volvió.
+
+ 
+
+ Si no puedes salir: hazte visible y haz que te cuenten
+
+
+ Hay un caso que casi nadie ensaya y que ocurre más de lo que parece: la salida está peor que tu sitio. El pasillo lleno de humo, la escalera impracticable, una puerta de emergencia que llevaba dos años sin abrirse. Entonces la decisión correcta es dejar de salir.
+
+
+ 
+ Cierra la puerta y sella la rendija con una toalla mojada o una prenda. Ganas tiempo y mantienes el humo fuera de la habitación.
+
+ Llama al 112 y di tres cosas: calle y número, planta, y por qué fachada estás («cuarta planta, ventana que da a la plaza»). Esa frase es la que hace que te encuentren antes.
+
+ Hazte ver: una prenda clara asomando por la ventana, la linterna del móvil si es de noche, y el silbato si lo tienes. Y avisa a gritos a quien esté en el punto de reunión: desde fuera se comunica a los bomberos qué plantas están ocupadas.
+
+ No saltes por la ventana como norma general. En plantas altas es una lesión casi segura, y el humo se mueve más rápido de lo que parece.
+
+ 
+
+ Ese mismo patrón —cerrar, sellar, avisar y hacerse ver— es el que se usa cuando el peligro está fuera y no dentro: humo de un incendio cercano, humo químico de un polígono, un escape. La diferencia es que entonces la orden la da Protección Civil, por ES-Alert o por la radio: si te dicen que no salgas, no sales, aunque el coche esté en el sótano y tengas la reunión a las diez.
+
+
+ 5. Cuando la emergencia está fuera del edificio: apagón, aviso rojo y sótanos
+
+
+ No todo lo que te va a pasar en el trabajo empieza dentro. Un corte de luz largo, una DANA con aviso rojo o un aviso al móvil de Protección Civil te llegan con el edificio intacto y el problema fuera: sin tren, sin autobús, sin ascensor y con el aparcamiento convertido en trampa.
+
+
+ 
+ El aviso ES-Alert es la Red de Alerta Nacional de Protección Civil: suena en tu teléfono aunque lo tengas en silencio, va dirigido a los móviles que están en una zona concreta y no se puede desactivar. Ese pitido sordo y fuerte no es un bulo ni una prueba: es la instrucción oficial. Léelo entero antes de moverte y haz lo que diga (quedarte, no salir, no conducir).
+
+ Nunca bajes al sótano a por el coche con aviso naranja o rojo, ni cuando el agua ya corre por la rampa. Las rampas de garaje son de los primeros sitios que se inundan y de donde más gente se rescata. Si el agua sube por la rampa, sube tú a la planta más alta.
+
+ Apagón en la oficina: linterna del móvil o de tu cajón, nunca velas ni mecheros (y ningún aparato de combustión en un recinto cerrado). Si el edificio no tiene grupo electrógeno, los ascensores se quedan parados: no los uses ni un segundo después de un corte. Y si hay SAI o UPS, lo que de verdad merece continuidad es el router y el teléfono: apaga lo sensible para que no sufra el pico al volver la luz, igual que se hace en casa.
+
+ Comunicar cuando la red está saturada: manda un SMS con lo esencial en vez de llamar. En una red congestionada el mensaje corto suele pasar antes que la llamada, y con él dejas dicho dónde estás y que estás bien. Los detalles están en comunicar sin red móvil .
+
+ ¿Volver andando? Puede ser la mejor decisión y también la peor. Con aviso rojo, no te muevas: quince centímetros de agua en movimiento arrastran a una persona, y los pasos inferiores y las ramblas se llenan en minutos. Cerrado el aviso, ve por sitios conocidos, con calzado cerrado, y avisa a alguien de la ruta y de la hora prevista de llegada.
+
+ El trayecto también es parte del kit. Si vas en coche, no dependas de la oficina: agua, manta, linterna y powerbank viven en el coche todo el año. El detalle está en el kit del coche , y las lecciones del 28A —cobertura caída, datáfonos muertos, gente atrapada en túneles— en lo que aprendimos del apagón del 28 de abril .
+
+ 
+
+ Y si la cosa se alarga y te toca volver a casa sin transporte, el referente es el kit de evacuación : qué llevar si tienes que salir andando y pasar la noche fuera. Si vives solo, añade una capa más: el plan para vivir solo empieza por decidir quién va a llamarte si algo pasa.
+
+
+ 6. Lo que puedes hacer hoy, en quince minutos
+
+
+ 
+ Mete cinco cosas en el cajón: agua, barritas, frontal, powerbank con cable y tu medicación. Con eso ya no estás desnudo ante un corte de cuatro horas.
+
+ Pregunta por el plan y por el punto de reunión. Un correo a prevención de riesgos basta: es un dato que tu empresa tiene y que puedes pedir.
+
+ Camina la ruta desde tu mesa hasta la calle y cuenta puertas. Fíjate en dónde está la segunda salida.
+
+ Apunta cinco teléfonos en papel y guárdalos en la cartera; y activa los avisos de AEMET en el móvil si aún no lo has hecho.
+
+ Pon un aviso en el calendario cada seis meses para revisar caducidades y recargar el powerbank. Un kit que no se revisa es una caja de cosas viejas.
+
+ 
+
+ Y los errores que se repiten, para que no te pasen:
+
+
+ 
+ Confundir «lo he pensado» con «lo tengo hecho». Pensar por dónde saldrías no es lo mismo que haberlo caminado una vez.
+
+ El powerbank siempre descargado. De nada sirve si llevaba seis meses sin cargarse justo el día que se va la luz.
+
+ Decidir en el momento quién ayuda a quién. Se decide antes, sin prisa, y por escrito si hace falta.
+
+ Salir a la calle con aviso rojo «para llegar antes a casa». Es exactamente el momento de quedarse quieto y en alto.
+
+ Bajar al sótano a por el coche. Repetimos el consejo porque es el error que mete más gente en el hospital en cada DANA.
+
+ 
+
+ Un kit de trabajo no se compra de golpe y no hace falta gastar 200 euros: son nueve objetos, cuatro preguntas y tres minutos de caminar despacio mirando puertas. Hoy, en la pausa del café, puedes hacer las cinco cosas de la lista. Mañana, si suena la alarma, ya sabrás que no es una alarma más.
+
+### Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena — https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/
+Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marco de primera ayuda psicológica de la OMS, turnos de noche, higiene del sueño, cómo hablar con niños y mayores, y un kit de descanso de diez objetos.
+Son las 21:40 y se va la luz. En veinte minutos ya tienes resuelta la nevera: sabes qué tirar y qué no. Lo que nadie te ha enseñado a resolver es lo otro. El niño que pregunta si la luz volverá antes de dormir, tu madre que a las dos de la mañana te llama asustada porque no ve nada, o tu propio cerebro que a las tres sigue repasando la lista de cosas que aún pueden ir mal. Las emergencias no se ganan solo con linternas y garrafas de agua: se ganan durmiendo, comiendo y con la cabeza en su sitio. Esta es la parte del kit que no se guarda en una caja.
+
+
+ Y no es un tema blando ni secundario. El estrés sostenido te quita el hambre y el sueño, y cuando llevas dos noches casi sin dormir tomas peores decisiones: dejas la puerta abierta, conduce de noche para «llegar antes», no ves el charco que cruza la carretera. La OMS lo tiene estudiado desde hace años en sus guías de emergencias y la conclusión es muy práctica: lo que ayuda en las primeras 72 horas no es un discurso, son cuatro cosas concretas —seguridad, información, contacto humano y descanso— y todas se pueden preparar hoy.
+
+
+ 1. Lo que los manuales oficiales dicen: mirar, escuchar, conectar
+
+
+ La guía de referencia en español es «Primera ayuda psicológica: guía para trabajadores de campo» , de la OMS con War Trauma Foundation y World Vision International. Está pensada para gente que ayuda a otra en un desastre, pero el marco es tan sencillo que sirve igual para una vecina, para tu padre o para ti mismo. Se resume en tres acciones.
+
+
+ 
+ Mirar: comprobar que estás en un lugar seguro, quién necesita ayuda primero y qué falta de lo básico: agua, abrigo, sitio seco, información real. Antes de hablar de sentimientos, se resuelve la sed, el frío y el ruido.
+
+ Escuchar: acercarte, presentarte, preguntar qué necesita en ese momento y no forzar el relato . La propia guía recuerda una conclusión del grupo de trabajo mhGAP de la OMS: a una persona muy angustiada hay que ofrecerle primera ayuda psicológica, y no obligarla a repasar lo ocurrido. Dejar hablar al que quiere hablar, sí; interrogar al que no quiere, no.
+
+ Conectar: ayudar a llegar a la familia, a los servicios que funcionan y a la información práctica. Un dato bueno dicho a tiempo (cuándo vuelve la luz, dónde hay agua potable, qué carretera está cortada) calma más que cualquier frase bonita.
+
+ 
+
+ Lo que puedes hacer en los próximos 10 minutos: bebe un vaso de agua y come algo aunque no tengas hambre. Siéntate y haz dos minutos de respiración lenta (cuatro segundos al inspirar, seis al espirar). Usa la técnica del 5-4-3-2-1 —nombra en voz baja cinco cosas que ves, cuatro que oyes, tres que tocas, dos que hueles, una que saboreas— cuando notes que la cabeza se te va en bucle. Y ordena una sola habitación para convertirla en vuestra «sala de mando»: una mesa con la radio o el móvil cargado, la linterna, el agua, el papel y el bolígrafo. El orden visible se traduce en calma.
+
+
+ Lo que parece buena idea y no lo es: usar el alcohol para dormir (te deja la primera parte de la noche dormido y la segunda despierto y más ansioso), tener la televisión o la radio con noticias en bucle a todas horas (alimenta la sensación de catástrofe y no da un solo dato útil), tomar prestado un somnífero de un vecino (si usas algo para dormir, que sea con tu médico o tu farmacéutico de por medio) y decir «ya dormiremos cuando esto pase», porque la deuda de sueño también se paga en las decisiones del día siguiente.
+
+
+ 2. Dormir cuando no hay luz, ni silencio, ni calma
+
+
+ La segunda o tercera noche de una emergencia es el momento más crítico: has agotado la adrenalina del primer día y llegas destrozado, pero la cabeza no baja. Cuatro medidas resuelven buena parte del problema, y ninguna cuesta dinero si ya tienes el kit montado.
+
+
+ 
+ Horarios fijos. Acuéstate y levántate a la misma hora, aunque estés sin trabajar y duermas a ratos. El reloj interno no entiende de apagones: entiende de rutina.
+
+ La cama, solo para dormir. Si a los 20-30 minutos no te has dormido, sal de la cama y haz algo tranquilo con luz tenue —leer, escribir, ordenar— hasta que vuelva el sueño. Es la recomendación clásica de las guías de sueño y contra el insomnio de rebote funciona mejor que dar vueltas.
+
+ Menos cafeína por la tarde y nada de excitantes de madrugada. El café, el té y las bebidas de cola se notan durante horas; si estás de guardia, racionarlos.
+
+ Tapa pantallas y usa reloj a pilas. El móvil te informa y te roba el sueño: fija dos momentos al día para consultar noticias —por la mañana y a última hora de la tarde— y deja el teléfono cargando en otra habitación por la noche. Un reloj despertador a pilas de 8-12 euros evita mirar la hora a las 3:40 de la madrugada.
+
+ 
+
+ Para el ambiente, tres cosas de sentido común que casi nadie prepara: oscuridad (un antifaz, o una cortina improvisada, porque una farola o un LED puede dejarte la cara iluminada toda la noche), silencio (tapones de espuma; si el ruido es de fuera, una emisora hablando bajito o un sonido constante de radio tapa mejor que la nada) y frescura o abrigo según la época —si el problema es el frío o el calor, tienes las reglas completas en cómo mantener la temperatura corporal sin electricidad . Y una regla de oro: nunca duermas en el suelo desnudo ; esterilla, cartón y manta por capas, como se explica en vestirse por capas .
+
+
+ Si en casa hay que vigilar algo —un enfermo, el nivel del agua, el vecino del bajo— no dejes que lo haga siempre el mismo. Divide la noche en bloques y escríbelo en papel, no de memoria:
+
+
+ 
+ Bloque Quién vela Quién duerme 
+ 
+ 
+ 22:00 - 01:00 Persona A Persona B 
+
+ 01:00 - 04:00 Persona B Persona A 
+
+ 04:00 - 07:00 Persona A Persona B (o siesta de 30 min) 
+
+ 
+ 
+
+ El turno del que vela es corto a propósito: tres horas se sostienen, seis no. Y una última herramienta que funciona casi siempre: la libreta al lado de la cama . Antes de acostarte, escribe las tres o cuatro preocupaciones que te van a despertar y lo que puedes hacer con cada una mañana. Sacarlas del bucle mental y dejarlas en papel es la forma más barata de que el cerebro acepte soltarlas.
+
+
+ 3. Niños: la rutina calma más que cualquier explicación
+
+
+ Un niño no necesita saber la verdad completa de un desastre: necesita saber qué va a pasar en su día . La presencia de un adulto que no grita y la rutina —agua, dientes, cuento, luz— hacen más que cualquier conversación. Tres reglas para esta noche:
+
+
+ 
+ Dile la verdad, pero corta y con plan. «No hay luz porque hay una avería muy grande. Estamos en casa, hay agua y comida, y papá y mamá están aquí. Mañana lo veremos con la linterna». Nada de detalles que impresionen y nada de promesas que no puedas cumplir («mañana vuelve la luz seguro» es una promesa; «mañana te lo digo en cuanto lo sepan» no lo es).
+
+ Dale un trabajo. Lo que más baja el miedo infantil es tener una función: llevar la linterna, apuntar las horas, revisar las garrafas de agua, repartir las mantas. Es su manera de sentir que controla algo.
+
+ Duerme a su lado si lo pide. Esta no es la noche para enseñar a dormir solo. El objeto de apego (manta, peluche, chupete, cuento) sale del armario y entra en la mochila de evacuación desde ya.
+
+ 
+
+ Además: nada de noticias en bucle delante de ellos, y luz tenue en el pasillo toda la noche para que no se despierten en una oscuridad total que no reconocen. Si tras varios días el niño no come, no duerme o se muestra muy irritable, háblalo con tu pediatra. Tienes el detalle por edades en bebés y niños en una emergencia y los materiales en el kit bebé y lactancia .
+
+
+ 4. Personas mayores, enfermos crónicos y quien vive solo
+
+
+ Aquí la preparación va antes del desastre, no durante. La oscuridad desorienta a la persona mayor más rápido que el hambre: pierde la referencia del pasillo, se levanta de noche y se cae. Soluciones concretas:
+
+
+ 
+ Luces baliza en pasillo y baño. Cuatro pilas LED que se encienden solas cuestan menos de 15 euros y evitan la caída más habitual del apagón. Todo lo que necesita el kit de persona mayor está detallado en su ficha.
+
+ Toalla en el borde de la cama y camino libre. Nada de sillas ni cajas entre la cama y la puerta: de noche y sin luz, se convierte en un obstáculo.
+
+ Una llamada a la misma hora, todos los días. No es una charla: es un control de estado. Y siempre con una persona sustituta designada, porque quien llama también se pone enfermo. Es la base de lo que conté en vivir solo y estar preparado .
+
+ Avisar con presencia, no por WhatsApp. Si hay pérdida de audición, un mensaje no sirve: hay que tocar la puerta, y hacerlo hablando alto y de frente. Lo mismo vale para las alertas de móvil, que conviene tener explicadas antes.
+
+ 
+
+ Con medicación crónica, la orden del día es mantener el horario y no improvisar dosis: pastillero y lista escrita, con los días marcados. Si hay insulinas o medicamentos que necesitan frío, revisa cómo asegurar 2-4 semanas sin farmacia y consulta siempre con tu médico o farmacéutico para cualquier decisión sobre dosis o conservación. Y si la persona tiene deterioro cognitivo, no le discutas la realidad: redirige —agua, manta, mano, canción, foto—.
+
+
+ 5. El que sostiene también se cae
+
+
+ En cada casa hay alguien que hace de centralita: llama, organiza, no duerme y a los tres días revienta. Si eres esa persona, esto es para ti.
+
+
+ 
+ Nadie vela dos noches seguidas. Escríbelo en la puerta de la nevera con las letras grandes, que es lo primero que se salta todo el mundo.
+
+ Come y bebe aunque no tengas hambre. Cinco minutos de comida salada y un vaso de agua cada tres horas rinden más que un café corriendo.
+
+ Nombra un sustituto en voz alta. «Si yo no puedo, llamas a Marta y ella sabe dónde está todo». Sobre todo, deja por escrito los teléfonos importantes en papel: la lista completa está en los recursos oficiales que deberías tener guardados .
+
+ Sal cinco minutos al día. Aire, calle, caminar. La OMS lo tiene documentado: la actividad física reduce los síntomas de ansiedad y depresión y mejora el sueño, y eso vale doble cuando todo está patas arriba.
+
+ 
+
+ Y ponle límite honesto a tu papel: no tienes que arreglar a nadie. Acompañar, resolver lo práctico y pasar el relevo ya es todo lo que se puede hacer en un primer día. Si tú o alguien de tu casa lleváis varios días sin dormir ni comer, si la tristeza se instala o aparecen ideas de no seguir viviendo, eso no se gestiona con fuerza de voluntad: llama al 024 , la línea de atención a la conducta suicida del Ministerio de Sanidad, gratuita y disponible las 24 horas, o al 112 si la urgencia es inmediata. En cualquier duda clínica, consúltalo con tu médico o tu farmacéutico.
+
+
+ 6. Tu kit de descanso y cabeza: diez objetos y un plan de siete días
+
+
+ Ninguno de estos objetos es caro y todos se usan en casa cualquier noche mala, no solo en un desastre. Mete lo pequeño en una bolsa de tela dentro del kit básico de 72 horas y deja lo grande en el dormitorio.
+
+
+ 
+ Objeto Para qué sirve de verdad Precio orientativo 
+ 
+ 
+ Tapones de espuma (5 pares) Dormir con una emisora, un generador o una calle en alerta 3-6 € 
+
+ Antifaz de tela Oscuridad real cuando hay farolas, velas o un LED encendido 5-8 € 
+
+ Frontal con modo rojo Moverte de noche sin despertar a nadie y sin romperte el sueño 10-15 € 
+
+ Reloj despertador a pilas Saber la hora sin encender el móvil a las 4 de la mañana 8-12 € 
+
+ Radio a pilas o de manivela Información oficial sin red ni batería, y sonido constante para dormir 15-25 € 
+
+ Libreta pequeña y bolígrafo Vaciar el bucle de preocupaciones antes de acostarte y apuntar teléfonos 2-4 € 
+
+ Baraja de cartas o libro de bolsillo Dos horas de actividad tranquila sin pantallas, con niños incluidos 5-10 € 
+
+ Manta ligera extra Dormir abrigado sin sudar: capas, no una manta pesada 10-15 € 
+
+ Botella de agua de 1,5 litros Tener agua al lado evita levantarse en la oscuridad y beber menos 1 € 
+
+ Bolsa de aseo mínima y toallitas Lavarse la cara y los dientes devuelve la sensación de normalidad 4-6 € 
+
+ 
+ 
+
+ Y este es el plan de siete días para tener todo esto resuelto antes de que haga falta, a quince minutos por día:
+
+
+ 
+ Día 1. Escribe en una hoja los teléfonos clave (112, 024, médico, colegio, dos vecinos, dos familiares) y el punto de encuentro familiar. Una copia en papel en la cartera y otra pegada dentro del armario de la entrada.
+
+ Día 2. Monta la mesa de mando: radio, linterna, cargador, agua, papel, bolígrafo. Una sola mesa, siempre la misma.
+
+ Día 3. Compra tapones, antifaz y reloj a pilas. Van al cajón de la mesilla, no al trastero.
+
+ Día 4. Prepara la «cena sin luz»: latas, frutos secos, fruta y agua accesibles, y una bandeja con lo necesario (abrelatas, cuchara, servilletas) para no abrir armarios a oscuras.
+
+ Día 5. Prueba una noche de dos horas sin luz eléctrica en casa: linternas, velas bien seguras, sin pantallas. Descubrirás lo que falta antes de necesitarlo.
+
+ Día 6. Explica el plan a los niños y dáles una tarea concreta (linterna, lista de agua). Diez minutos bastan.
+
+ Día 7. Llama a la persona de tu familia que vive sola y acordad la hora de la llamada diaria. Y dile a un vecino a quién avisar si no te ve.
+
+ 
+
+ Con esto tienes cubierto lo que ninguna linterna arregla: dormir, comer, no perder la cabeza y saber a quién llamar. Si quieres repartir el trabajo por escenarios, empieza por montar tu kit de 72 horas y por las primeras decisiones de un apagón ; y si esta noche ya estás en mitad del lío, lo urgente está en kit hogar o confinamiento .
+
+### Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar — https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/
+Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos caseros que funcionan (y los que son una trampa).
+Se va la luz a las 21:40. A las 21:55 ya has abierto la nevera «para ver qué hay», a las 22:10 el congelador, y al día siguiente tienes delante una nevera tibia con carne, queso fresco y sobras que no sabes si tirar. Ese momento —el de decidir qué se salva y qué va a la basura— es exactamente el que resuelve esta guía: horas y temperaturas medidos por la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) durante el apagón del 28 de abril de 2025, más una despensa que puedes montar hoy para no depender del frío.
+
+
+ Y no es un capricho: la Estrategia de la Unión de la Preparación (marzo de 2025) pide a los hogares tener reservas suficientes para 72 horas. Casi todas las listas de kit incluyen agua, linterna y radio, pero muy pocas dicen qué comida aguanta de verdad sin frío ni cocina . Eso es lo que verás aquí, con lo que puedes hacer en 20 minutos al terminar de leer.
+
+
+ 1. Las horas que deciden todo: tu nevera sin luz
+
+
+ Lo primero que hay que entender es que el enemigo no es «el apagón», es la temperatura a la que ha llegado cada alimento. La nevera no se calienta de golpe cuando salta el diferencial: aguanta el frío como una caja térmica, y por eso lo que más importa no es cuánto dura el corte, sino cuántas veces has abierto la puerta. Con la puerta cerrada, un frigorífico bien cargado mantiene los alimentos por debajo de 5 °C durante unas 4 horas; un congelador lleno o semilleno mantiene la congelación entre 24 y 48 horas. Con la puerta abierta cada rato, esas cifras se caen solas.
+
+
+ Las reglas oficiales de AESAN, publicadas tras el apagón del 28A y recogidas por el Ministerio de Derechos Sociales, Consumo y Agenda 2030, son estas:
+
+
+ 
+ Cortes de menos de 4 horas (sin abrir la puerta): no hay que descartar nada por el apagón.
+
+ Cortes de más de 4 horas : es probable que se hayan superado los 5 °C, así que se tiran los perecederos: carne, pollo, pescado, huevos, leche, queso fresco y sobras. Y se tiran aunque los cocines bien: el riesgo no se elimina con el calor de la sartén, y además esos alimentos pueden contaminar otros por contacto.
+
+ Fruta y verdura entera : aguanta sin frío si mantiene buen aspecto. Cortada o ya en ensalada preparada: a la basura.
+
+ Congelador : si el alimento sigue con cristales de hielo, duro y frío, se puede volver a congelar. Si se ha descongelado del todo pero sigue frío, se consume en el día. Si no tienes claro cuánto tiempo ha estado descongelado, se descarta.
+
+ Conservas, refrescos, chocolate y bebidas que guardabas en la nevera por costumbre: no necesitan frío y siguen perfectamente bien.
+
+ 
+
+ Y la regla que resume todas: nunca pruebes un alimento para decidir si es seguro, ni te fíes del olor o del aspecto . Si dudas, fuera. Tirar 12 euros de comida es infinitamente más barato que una intoxicación en mitad de una emergencia, con las urgencias saturadas y sin poder llegar en coche.
+
+
+ 
+ Situación Qué hacer 
+ 
+ 
+ Corte < 4 h, puerta cerrada Todo sigue bien. No tires nada. 
+
+ Corte > 4 h Fuera perecederos: carne, pollo, pescado, huevos, leche, queso fresco, sobras. 
+
+ Fruta/verdura entera Aguanta. Cortada o preparada, se tira. 
+
+ Congelador, 24-48 h sin abrir Si queda cristal de hielo: se puede recongelar. Descongelado y frío: consumir en el día. Dudas: fuera. 
+
+ Conservas y envasados cerrados Perfectos fuera del frío. Al abrirlos, a la nevera y consumir en 2-3 días. 
+
+ 
+ 
+
+ 2. Qué aguanta de verdad fuera del frío
+
+
+ Aquí está el corazón del asunto: una casa preparada no es la que tiene la nevera llena, es la que tiene una despensa que no depende de la nevera. Estas duraciones son orientativas —dependen de la temperatura, la humedad y de cómo lo guardes—, pero sirven para decidir qué comprar de más la próxima vez que vayas al supermercado:
+
+
+ 
+ Alimento Sin frío, cerrado Clave para que aguante 
+ 
+ 
+ Conservas en lata (atún, sardinas, legumbres cocidas, tomate) 2-5 años Sitio seco, sin golpes ni latas abolladas. Abierta: nevera y comer en 2-3 días. 
+
+ Legumbre seca, arroz, pasta Años Bote hermético y a oscuras. La humedad es lo único que los mata. 
+
+ Leche UHT / en polvo / condensada Meses sin abrir Abierta, nevera y 2-3 días. En polvo es la más resistente al calor. 
+
+ Aceite de oliva 12-18 meses Oscuro y fresco. La luz y el calor lo rancian antes que la fecha. 
+
+ Miel, sal, azúcar Prácticamente indefinido Bote cerrado. Si la miel cristaliza, no está mala: es normal. 
+
+ Frutos secos y fruta desecada 6-12 meses Bote hermético; con calor se enrancian aunque no se vean malos. 
+
+ Embutido curado entero (chorizo, salchichón, jamón) Semanas Entero, colgado en sitio seco y ventilado. Loncheado y envasado, sí necesita frío. 
+
+ Patata, cebolla, ajo, boniato, calabaza entera Semanas Oscuro, seco y ventilado, separados entre sí. Patata y cebolla nunca juntas. 
+
+ Huevos sin lavar Semanas en sitio fresco Si hace calor, al punto más fresco de la casa y consúmelos pronto. 
+
+ 
+ 
+
+ Fíjate en el patrón: todo lo que aguanta sin frío tiene tres cosas en común — está seco, está ácido o está envasado al vacío de fábrica. Y todo lo que se estropea rápido es húmedo y poco ácido: carne fresca, pescado, lácteos frescos, sobras. Con ese criterio ya puedes montar la mitad de tu despensa sin memorizar ninguna tabla.
+
+
+ 3. Lo que no debes hacer nunca (y algún consejo popular que es malo)
+
+
+ Hay costumbres que circulan en cada emergencia y que son directamente peligrosas. Estas cuatro, concretamente:
+
+
+ 
+ Probar la comida para ver si está buena. Es lo primero que dice AESAN que no se haga. Los patógenos que crecen con el calor no cambian el sabor ni el olor de forma fiable.
+
+ Fiarse del aspecto de una conserva casera. La toxina del botulismo no cambia color, olor, sabor ni textura: un bote contaminado puede estar buenísimo. Y el botulismo se asocia sobre todo a conservas caseras de vegetales poco ácidos —guindillas en aceite, espárragos, judías verdes, remolacha, maíz— según los documentos de AESAN. Si un bote casero tiene la tapa abombada, suelta gas al abrirlo o huele raro: a la basura, sin catarlo.
+
+ Congelar «para no tirarlo» lo que ya lleva horas fuera del frío. El congelador frena, no arregla. Un envase abierto, una tapa levantada o una fiambrera que ha estado toda la tarde en la encimera no se vuelven seguros por meterlos en el congelador: lo que ya se ha multiplicado sigue ahí. Congela lo que estaba frío; tira lo que estaba templado.
+
+ Dejar comida cocinada a temperatura ambiente «un rato». AESAN es clara: los alimentos cocinados se consumen enseguida, o se mantienen por encima de 60 °C, o por debajo de 5 °C. La franja templada es justo donde los gérmenes se ponen las botas.
+
+ 
+
+ Y uno que sí funciona, aunque suene a abuela: calentar bien una conserva casera antes de comerla. Los documentos de salud pública recomiendan hervir o calentar los alimentos al menos 10 minutos a 80 °C o más: la toxina botulínica se destruye con el calor, así que un guiso bien hervido es mucho más seguro que ese mismo bote comido frío en una tostada. Aun así, la mejor medida es no elaborar conservas de vegetales poco ácidos sin receta contrastada y sin acidificar con ácido cítrico.
+
+
+ 4. Cómo montar la despensa que no depende de la nevera
+
+
+ Comprar no es lo mismo que almacenar. He visto despensas de 200 euros arruinadas por un rincón húmedo. Lo que manda:
+
+
+ 
+ Dónde: fresco (cuanto menos de 20 °C, mejor), seco, oscuro y ventilado. Los tres peores sitios de una casa española: encima de la nevera o junto al horno, el balcón orientado al sol y el garaje o trastero con humedad. Consulta los avisos de AEMET y, si vienen semanas de más de 35 °C, baja los alimentos delicados a la zona más fresca de la casa.
+
+ En qué: bote hermético de cristal con junta o de plástico con tapa de goma. Las bolsas de plástico abiertas y las cajas de cartón son una invitación para las polillas y los gorgojos.
+
+ El truco que casi nadie usa contra los bichos: si tienes congelador libre, deja el paquete de legumbre, arroz o harina 48-72 horas dentro antes de pasarlo al bote. Mata los huevos y larvas que ya venían del envase y evita que te aparezca la plaga en tres meses.
+
+ Latas: ni apiladas en torres inestables, ni mojadas (una lata oxidada acaba perforándose), ni abolladas. Las latas gordas siempre abajo. Y una lata abombada no se abre: se tira.
+
+ Humedad: aprovecha las bolsitas de sílice que vienen en las cajas de zapatos y mézclalas en los botes de pasta y galletas.
+
+ Fecha y orden: rotulador en la tapa con el mes de compra y regla FIFO: lo nuevo al fondo, lo viejo delante. Una revisión de 10 minutos dos veces al año evita que descubras el problema justo cuando lo necesitas.
+
+ 
+
+ ¿Cuánto comprar? Empieza por lo realista: 72 horas de comida que no necesite frío ni cocina (el kit básico de 72 horas te da la lista), luego una semana y, solo cuando eso rote bien, el salto a un kit de 30 días . Si dudas de por dónde empezar, aquí lo explico en detalle: kit de 72 horas o kit de 30 días .
+
+
+ 5. Conservar sin frío cuando la nevera ya no vuelve
+
+
+ Si el corte se alarga más allá de un día o dos, tienes tres recursos y bastantes trampas. Los recursos de verdad, en orden de fiabilidad:
+
+
+ 
+ Vinagre y ácido: el vinagre baja el pH por debajo de 4,6 y ahí Clostridium botulinum no se desarrolla. Los encurtidos de hortalizas con vinagre son el método casero más seguro y el más rápido: corta, escalda, cubre con vinagre y salmuera, cierra y guarda en oscuro. Ajo y cebolla escabechados duran meses.
+
+ Sal: la salazón y las salmueras fuertes secan el alimento por ósmosis y frenan las bacterias. Funciona con pescado, panceta y verduras. No vale para todo: la carne salada hay que cocinarla después.
+
+ Secado: sol y aire para tomate, pimiento, higos, uva o setas, o el horno a temperatura mínima si tienes gas. Requiere aire seco; en zonas húmedas del norte acaba en moho antes de secarse.
+
+ Fermentación: el chucrut, el kimchi o los encurtidos fermentados con sal al 2 % se acidifican solos y aguantan meses. Necesitan bote limpio, verdura sumergida bajo su propio líquido y sitio fresco.
+
+ Azúcar: mermeladas y confituras con mucha fruta y mucho azúcar aguantan sin frío una vez abiertas si las cubres bien y no metes cucharas sucias.
+
+ 
+
+ Y las trampas, que conviene tener claras porque son las que más intoxicaciones caseras provocan: cubrir vegetales en aceite (guindillas, ajos, tomates secos) crea justo el ambiente sin oxígeno que el botulismo necesita, si no lo has acidificado antes; el vacío casero de sobras sin esterilizar no es conservación, es un cultivo; el ahumado a ojo en casa no es un método seguro de conservación a largo plazo. Y si haces conservas al baño maría, ten en cuenta que la ebullición a 100 °C no destruye las esporas: solo es fiable con alimentos ácidos (tomate, fruta azucarada, encurtidos) o con olla a presión y recetas contrastadas. Para lo demás, mejor congelar, secar o no hacerlo. Y ante la duda, consúltalo con tu médico o farmacéutico : te orientan sobre ácido cítrico, dosis y conservas.
+
+
+ Si estás en plena emergencia y la comida ya está caliente o descongelada, lo importante es comerla en orden: primero lo perecedero que estaba en el congelador y se ha descongelado, luego la nevera y, al final, la despensa. Tienes menús completos sin cocina ni nevera en qué comer si se va la luz: menús de tres días y el detalle de cómo almacenarlo todo en almacenar agua y comida en casa .
+
+
+ 6. Lo que puedes hacer hoy en 20 minutos
+
+
+ Nada de esto sirve si se queda en teoría. Estas seis cosas las haces esta tarde, con lo que ya tienes o con una compra pequeña:
+
+
+ 
+ Pon un termómetro en la nevera (unos pocos euros) y comprueba que está a 4 °C o menos. Si no lo está, has estado pagando luz para nada.
+
+ Separa la última balda para lo que sobrevive sin frío: conservas, frutos secos, chocolate, aceite. Así, cuando se va la luz, sabes qué no hay que tocar.
+
+ Congela garrafas o botellas de agua medio llenas en los huecos libres del congelador: hacen de acumulador de frío y, cuando se descongelan, son agua potable. Y avisa a todos en casa: la nevera no se abre .
+
+ Escribe en la puerta de la nevera la hora del último corte y una nota con la regla de las 4 horas. En una emergencia nadie se acuerda de las cifras.
+
+ Mete un bote hermético de legumbre y otro de arroz en la despensa, y pásalos a la lista de la compra cuando los gastes.
+
+ Repasa tu kit real : kit de apagón , kit de hogar y, si cocinas con gas o quieres comer caliente, un hornillo de gas con cartuchos y ventilación. Con eso y una despensa bien montada, un corte de tres días deja de ser un problema de comida.
+
+ 
+
+ Lo que pasó el 28 de abril de 2025 dejó una lección muy concreta en los hogares españoles: la nevera aguantó, el agua salió del grifo en cuanto volvió la presión y lo que falló fue no saber qué hacer con la comida. Se resuelve en una tarde, y esa tarde es hoy. Tienes el repaso completo del día siguiente al apagón en lecciones del 28A y el agua —que es el otro pilar— en agua: cuánta necesitas y cómo potabilizarla .
+
+### Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia — https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/
+La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido para una crisis y cómo combinarlo con un powerbank para que funcione de verdad.
+El apagón del 28 de abril de 2025 dejó a medio país sin luz y con un móvil al 2%. La mayoría de la gente lo resolvió con el powerbank que ya tenía cargado. Pero si la luz se va varios días y no hay sol (o llueve durante semanas), el powerbank se queda en cero y no se recarga. Aquí es donde entra el panel solar portátil y por qué casi todo lo que venden en Amazon no hace lo que promete.
+ No te voy a vender un panel de 300 watts para tu balcón. Te voy a decir lo que un panel de verdad puede hacer — o no — cuando te queda sin luz, y qué combo de panel + batería tiene sentido para sobrevivir una semana sin red.
+ La trampa de los watts anunciados
+ Un panel solar portátil de 100 watts anunciado rara vez entrega 100 watts reales. El motivo no es estafa — es física: los paneles se miden en condiciones estándar de prueba (STC), que son 1000 W/m² de irradiación, temperatura de célula a 25 °C y espectro AM 1.5. En la vida real:
+ La irradiación en España no llega nunca a 1000 W/m² de forma sostenida (incluso en verano, el techo suele estar entre 800 y 950 W/m²; los datos oficiales de AEMET y el IAE lo confirman).
+ La temperatura de la célula sube fácilmente a 45-65 °C bajo el sol directo: cada grado por encima de 25 °C reduce la potencia entre un 0,3 % y un 0,5 %. A 55 °C, un panel pierde entre un 9 % y un 15 % de potencia.
+ El ángulo de incidencia del sol cambia constantemente; si el panel no está perpendicular al sol, pierdes un 20-40 % de rendimiento.
+ Un panel de 100 W bien orientado en un día despejado de junio en España entrega entre 60 y 80 W reales, y solo durante unas 5-6 horas de la jornada. Un panel de 50 W bien orientado entrega entre 30 y 40 W reales. Esa es la cifra con la que hay que hacer cuentas.
+ ¿Cuánta energía necesitas en una emergencia?
+ Antes de comprar, hay que saber qué se va a cargar. He aquí lo mínimo que la mayoría de la gente necesita mantener funcionando:
+ Móvil (carga completa): entre 10 y 15 Wh (un móvil moderno de 4000 mAh a 3,7 V son ~15 Wh; con la eficiencia del cargador y las pérdidas, necesitas ~12-15 Wh netos).
+ Radio FM a pilas: 0-2 Wh (si son pilas AA, el panel no los carga; si tiene puerto USB, entre 1 y 2 W).
+ Linterna frontal LED: entre 2 y 5 Wh por carga.
+ Powerbank que recargas: un powerbank de 20.000 mAh a 3,7 V son 74 Wh; con las pérdidas del boost, necesitas recargarlo unos 90 Wh netos.
+ Esto da una idea de cuánto genera un panel en un día real de sol:
+ Panel anunciado Watts reales (día bueno) Horas de sol equivalente Wh/día Cargas de móvil 
+ 30 W 18-22 W 5 h 90-110 Wh 6-8 
+ 50 W 30-40 W 5 h 150-200 Wh 10-15 
+ 100 W 60-80 W 5 h 300-400 Wh 20-30 
+ No te dejes engañar: con un panel de 30 W ya puedes recargar un powerbank de 20.000 mAh cada dos o tres días en verano. En invierno, multiplica el tiempo por dos o tres (menos horas de sol, ángulo bajo). Un día nublado: multiplica por tres o cuatro.
+ El combo que funciona de verdad: panel + powerbank
+ El panel solar por sí solo no sirve para mucho en una emergencia: genera energía cuando el sol da, no cuando la necesitas. Lo que necesitas es generar + almacenar . El combo mínimo útil es un panel de 30-50 W más un powerbank de 20.000 mAh mínimo. Así funciona:
+ Generas con el panel cuando hay sol (entre las 10 y las 16, preferiblemente con el panel orientado al sur y perpendicular al sol).
+ Almacenas en el powerbank, que ya forma parte de tu kit básico de 72h.
+ Consumes cuando quieras: de noche, en lluvia, con el móvil en el bolsillo.
+ La clave es que el powerbank tenga entrada USB que soporte el voltaje y amperaje que sale del panel. Un panel de 50 W genera entre 5 y 6 V a 8-10 A: necesitas un powerbank que acepte esa entrada (la mayoría de los modernos lo hacen). Si no, tendrás que usar un controlador solar (PWM o MPPT), lo cual añade coste y complejidad.
+ ¿Qué tamaño de panel es suficiente?
+ Para uso doméstico en crisis:
+ 30-50 W (lo mínimo): carga un móvil entre 6 y 10 veces al día de verano. Recarga un powerbank de 20.000 mAh cada 2-3 días. Cabe en una mochila. Es lo que recomiendo para la mayoría de hogares si solo vais a cargar móvil y radio.
+ 50-100 W (lo razonable): recarga el powerbank cada día de verano, cada dos días en invierno. Suficiente para mantener móvil, radio y frontal sin preocupaciones. Ocupa un poco más pero cabe en el maletero o en la terraza.
+ 100-200 W (el colmo portátil): recargas el powerbank varias veces al día. Es útil si necesitas alimentar algo más (una luz LED de habitación, un ventilador USB), pero empiezas a necesitar estructura y superficie fija. No es mochila: es terraza.
+ Qué buscar (y qué no) al comprar un panel
+ En el mercado actual hay de todo. Lo importante es distinguir lo que funciona de lo que es decoración:
+ Paneles monocristalinos son más eficientes (mayor porcentaje de conversión) que los policristalinos: un monocristalino de 100 W pesa menos y ocupa menos que un policristalino del mismo wattaje. La diferencia de precio es mínima.
+ Panel plegable o rígido: los plegables son prácticos para llevar en mochila; los rígidos son más resistentes y se instalan fijos en terraza o balcón. No hay gran diferencia en rendimiento si el monocristalino es el mismo.
+ Controlador integrado: muchos paneles llevan ya un regulador PWM o un conector USB directo. Si no lo llevan, necesitas un controlador aparte (de 5 a 20 €). Busca siempre que sea compatible con tu powerbank.
+ Evita paneles con batería integrada: la batería se calienta bajo el sol, se degrada y además es mucho más pesada. Lo correcto es panel + powerbank separado.
+ La resistencia al agua importa: busca paneles con certificación IP65 como mínimo si vas a usarlos fuera. En una DANA llueve y no vas a guardar el panel bajo techo.
+ Errores típicos
+ Comprar un panel grande sin pensar dónde instalarlo: un panel de 100 W necesita unos 6-7 m² de superficie para desplegar (los plegables de doble panel miden ~1,5 x 1 m; los de cuatro paneles, ~2 x 1 m). Si no tienes terraza o balcón orientado al sur, se queda a la sombra de un árbol y no sirve.
+ No tener un powerbank cargado de antes: el panel genera energía cuando el sol da; si no almacenas, pierdes las horas sin sol. El powerbank es el puente entre la generación y el consumo.
+ Apuntar el panel al cielo: el sol no está siempre arriba. En invierno, a las 10 de la mañana o las 4 de la tarde, el ángulo es muy inclinado y el rendimiento baja un 30-50 %. Ajusta el ángulo del panel según la hora.
+ Cubrir el panel sin darse cuenta: una hoja, un posavasos, un trozo de niebla espesa. Si el panel se ensucia, la producción baja un 10-30 %. Límpialo de vez en cuando.
+ Confundir vatios (W) con vatios-hora (Wh): el panel dice 100 W: son 100 vatios cuando el sol está perfecto en ese instante . Los Wh son lo que generas en un día (W × h). Para saber cuántas cargas de móvil puedes esperar, multiplica los W reales por las horas de sol equivalente.
+ ¿Y si no hace sol durante semanas?
+ Esa es la limitación real del panel solar portátil: no genera cuando no hay sol. Y en España, los meses de mayor riesgo de crisis (otoño e invierno) son precisamente los de menos sol. Por eso el panel es un complemento , no la base del kit. La base es el powerbank cargado (del que ya hablas en el kit de apagón ) y la radio a pilas. El panel solar es lo que garantiza que, cuando vuelva el sol, no tengas que depender de nadie para recargar.
+ La UE recomienda 72 horas de autonomía; el panel solar te ayuda a ir más allá de esos tres días si la crisis se alarga y el cielo se despeja. Pero si lo único que tienes es un panel y no un powerbank, no tienes nada.
+ Resumen práctico
+ Mínimo razonable: panel de 30-50 W monocristalino + powerbank de 20.000 mAh.
+ Ideal: panel de 50-100 W + powerbank grande (20.000-30.000 mAh) con entrada USB amplia.
+ Instalación fija: si tienes terraza sur, un panel rígido de 100 W fijo es lo mejor: no hay que orientarlo, no se mueve, genera todo el día.
+ Recuerda: el panel no es la base del kit. El powerbank cargado, la radio a pilas y la comida no perecedera sí lo son. El panel solar te lleva de 3 días a una semana si el cielo se despeja.
+ El kit de apagón incluye powerbank y panel solar como items recomendados; la guía de comer sin luz detalla el orden de consumo; el kit básico es la base sobre la que añadir cualquier otro elemento.
+
+### Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada — https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/
+Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un incendio. La guía práctica de qué poner, dónde y cómo mantenerlo, sin alarmismos.
+Un incendio doméstico es la emergencia más probable y la que menos tiempo te da para reaccionar: un fuego puede atravesar un piso entero en menos de cinco minutos y el humo tóxico es lo que mata más que las llamas. La seguridad pasiva del hogar son todos los elementos que funcionan sin que hagas nada : detectores, materiales ignífugos, extintores y normas de instalación eléctrica que actúan antes de que tengas que correr. No son gastos innecesarios: son la primera línea de defensa de tu familia.
+ Qué es la seguridad pasiva
+ En ingeniería de seguridad se distingue entre protección activa (extintores que pulsas, rociadores que disparas, llamadas al 112) y protección pasiva (detectores que suenan solos, puertas cortafuegos que cierran el paso del humo, cables que no se incendian, materiales que no propagan la llama). La protección pasiva es la que te avisa o te protege mientras duermes , sin que tengas que decidir nada. Y es también la más infravalorada en los hogares españoles.
+ El Código Técnico de la Edificación (CTE), Documento Básico DB-SI, ya exige en los edificios nuevos niveles de resistencia al fuego de los elementos constructivos y la instalación de sistemas de detección. Pero en la vivienda particular, la responsabilidad de los detectores y los extintores es tuya. Y no debería costarte más de 60 euros al año.
+ 1. Detectores de humo: el primer aviso
+ Los detectores de humo son el elemento individual que más vidas salva en un incendio doméstico. Avisan en los primeros minutos , cuando aún puedes salir o pedir ayuda, y lo hacen de noche, cuando no estás consciente. La Comunidad de Madrid lo ha normalizado en todas sus guías:
+ Ópticos : los recomendados para dormitorios, salones y zonas de descanso —detectan humo de combustión lenta y smoldering, el más peligroso porque es invisible al principio pero ya mata.
+ Térmicos : para cocinas o trasteros, donde el humo normal de la cocina no activaría alarmas falsas. Se activan a una temperatura fija (usualmente 57 °C).
+ Ubicación : en el techo, al menos a 3 metros de los dormitorios. Cada planta de la vivienda necesita uno como mínimo. En casas de una sola planta con menos de 60 m², con uno puede bastar, aunque es recomendable dos: salón y distribuidor.
+ Prueba mensual : pulsa el botón de test cada mes. Las baterías se cambian en los cambios de horario, como las pilas del reloj.
+ Cada 10 años : se cambia el detector entero. No dura para siempre: el sensor se ensucia y se degrada.
+ Precio : 8-15 € por detector óptico nuevo. Un pack de 4 detectores con pilas incluidas ronda los 30-50 €. No es un lujo: es lo que diferencia un susto de una tragedia. Y en muchos edificios ya están instalados por normativa de obra nueva, pero verifica que funcionan .
+ 2. Seguridad eléctrica: prevenir cortos y sobrecargas
+ Las instalaciones eléctricas defectuosas son la primera causa de incendios domésticos. No por un fallo misterioso del cableado, sino por sobrecargas que puedes controlar :
+ No uses regletas en cadena : enchufar una regleta en otra regleta multiplica el riesgo de cortocircuito. Una regleta tiene capacidad limitada y un calentador o un secador pueden dispararla.
+ Multicontacto con interruptor y protector térmico : compra regletas con fusible interno que se corta si hay sobrecarga. Cuestan 3-5 € más que una normal y son la diferencia entre un apagón y un incendio.
+ Interruptor diferencial y magnetotérmico en el cuadro eléctrico: son obligatorios por normativa y deben reaccionar en milisegundos si detectan un fugas o un corto. Si tu cuadro no los tiene o tienes dudas, un electricista los revisa en una hora.
+ Cableado antiguo : si tu vivienda tiene más de 25-30 años y nunca ha pasado un electricista revisando, hazlo. Los cables de aluminio o las instalaciones con aislamiento deteriorado son un riesgo latente.
+ Precio : un multicontacto seguro, 10-20 €. Una revisión eléctrica profesional, 60-120 €.
+ 3. Cocina: la zona de mayor riesgo
+ La cocina es la habitación donde se originan más incendios domésticos: grasas inflamadas, aceite al fuego, gas encendido sin llama. Las recomendaciones son simples pero no las aplicas hasta que no te pasan a ti:
+ Nunca dejes la cocina desatendida cuando hay fuego directo. Si tienes que salir, apaga. El fuego se propaga en segundos.
+ Extintor cercano a la cocina : de clase F (líquidos y grasas inflamables), específico para incendios de cocina. Un extintor de agua contra una sartén con aceite en llamas puede ser contraproducente —la clase F es la adecuada.
+ Tapas o aspersor de cocina : si un sartén se incendia, pon la tapa encima y corta el fuego. El oxígeno se va y la llama se apaga sola. Nunca eches agua sobre grasa ardiendo.
+ Mantén lo inflamable lejos de las llamas : toallas, paños de cocina, bolsas de plástico y estropajos lejos del quemador.
+ Precio : extintor de clase F, 15-25 €. La tapa del sartén, gratis si ya la tienes.
+ 4. Extintores y cómo elegirlos
+ Un extintor no es el mismo para todo. En una vivienda española, lo que necesitas es:
+ Polvo ABC (6 kg) : el más versátil para el hogar. Sirve para fuego de madera, gas, líquidos inflamables y electricidad hasta 1000 V. Es lo que recomiendan Protección Civil para viviendas.
+ CO₂ (2 kg) : ideal para equipos eléctricos sensibles (ordenador, TV, cuadro eléctrico). No deja residuos, pero no sirve para fuego de madera ni grasa.
+ Agua con aditivo (6 L) : bueno para madera y textiles, no para electricidad ni grasa. Menos versátil que el polvo ABC pero más limpio.
+ Ubicación : en un pasillo central, accesible, no en la cocina (donde el calor podría desactivarlo) ni en un armario cerrado. En la pared, a la altura de la vista, con una correa o bracket de 8-12 €.
+ Mantenimiento : el extintor dura 5-10 años y necesita revisión cada 5 por una empresa autorizada. Revisa la manómetro mensualmente: la aguja en verde significa bien; en rojo, que no tiene presión.
+ Precio : extintor de polvo ABC 6 kg, 15-25 €; revisión a 5 años, 20-30 €.
+ 5. Puertas y materiales ignífugos
+ Las puertas de los dormitorios son la primera barrera que retrasa el fuego si viene del exterior. Una puerta maciza de madera o con núcleo ignífugo puede retardar el paso del fuego entre 30 y 60 minutos más que una puerta hueca. No es exageración: es lo que permite llegar al 112 y que los bomberos lleguen a tiempo.
+ Los materiales ignífugos ya vienen incluidos en la construcción de edificios nuevos (el DB-SI del CTE lo exige). Pero en viviendas anteriores a 2006 no siempre están: una ventana sin cortinas o con cortinas gruesas sin tratamiento ignífugo, una puerta de entrada hueca, cables expuestos —son los puntos débiles que puedes arreglar.
+ 6. Plan de evacuación
+ La seguridad pasiva no sirve de nada si nadie sabe qué hacer cuando suena el detector. Un plan de evacuación de tres pasos:
+ Sal inmediatamente : no intentes salvar cosas ni revisar todas las habitaciones. Cada segundo cuenta.
+ Reúnete fuera : en un punto acordado de antemano —la acera de delante, la farola de la esquina— y cuenta a todos. Si falta alguien, dilo al 112 antes de volver a entrar.
+ Nunca vuelvas a entrar : las casas arden por dentro y el techo se derrumba en minutos. Los bomberos entrarán a buscarte.
+ Escribe este plan y péglalo cerca de las salidas. Practica con la familia: haz que los niños salgan corriendo cuando suene la alarma del detector, sin pensar, como un juego. Los bomberos lo recomiendan.
+ Resumen rápido de inversión
+ Elemento Precio Vida útil Protege contra 
+ Detectores de humo (pack 4) 30-50 € 10 años Incendio dormido, humo tóxico nocturno 
+ Extintor ABC 6 kg 15-25 € 5-10 años Primeros minutos de fuego real 
+ Multicontacto con fusible 10-20 € Indefinido Sobrecarga eléctrica 
+ Extintor clase F cocina 15-25 € 5-10 años Fuego de grasa y aceite 
+ Revisión eléctrica 60-120 € Revisable cada 10 años Instalación defectuosa 
+ Inversión total: 130-235 € para una protección real de 10 años . Menos de 20 € al año para proteger tu casa y tu familia de la emergencia doméstica más probable.
+ Errores frecuentes
+ Silenciar el detector por las alarmas falsas : si la cocina te suena, cambia a detector térmico en ese lugar. No lo quites ni lo tapes con film: eso es lo que hizo la mayoría de familias que sufrieron incendios mortales en los datos de Protección Civil.
+ Poner el extintor en el armario bajo el fregadero : si se enciende la cocina, no vas a abrir un armario lleno de productos de limpieza para buscar el extintor. Colócalo en la pared del pasillo.
+ Olvidar el punto de reunión : un extintor sin plan de evacuación es como un paracaídas sin saber en qué altura abrirlo.
+ No revisar el extintor : una manómetro en rojo es un extintor de adorno. Revísalo una vez al mes, como cambiar las pilas del detector.
+ Los elementos de seguridad pasiva no son un extra: son la base de cualquier hogar preparado. Si aún no tienes detectores de humo o extintor, el kit de hogar y el kit básico 72h incluyen estos elementos en sus listados. Para un plan completo de evacuación, lee el plan familiar de emergencia .
+
+### Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal — https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/
+No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de cómo usar las tres capas, con qué telas y por qué el algodón se lleva a todos a la cama.
+El Plan Frío del Ministerio de Sanidad para la temporada 2025-2026 registra que cada invierno las bajas temperaturas provocan cientos de muertes evitables en España. No son accidentes de montaña: son personas mayores en pisos sin calefacción suficiente, obreros que regresan a casa caminando con la ropa mojada, excursiones que se alargan cuando baja la temperatura. La recomendación más repetida en las guías oficiales es siempre la misma: viste por capas . No por moda — por física.
+ ¿Por qué las capas y no una prenda gruesa?
+ El cuerpo humano pierde calor principalmente a través de la piel. La ropa no genera calor: lo que hace es atraparlo. Y el mejor aislante térmico que existe es el aire parado. Tres capas de tela fina atrapan tres cámaras de aire ; una sola prenda gruesa atrapa una. Es la razón por la que Protección Civil y el Ministerio de Sanidad repiten literalmente: "Conviene tener en cuenta que varias capas de ropa fina protegen más que una sola gruesa, al formar cámaras de aire aislante entre ellas" .
+ Además, las capas te permiten ajustar la temperatura. Si estás caminando y sientes calor, te quitas una capa y no traspires. Si traspiras con una sola prenda gruesa y luego te paras, esa ropa mojada se convierte en un enfriador corporal. El algodón no lo aguanta: la humedad te lleva a la hipotermia más rápido que el frío seco.
+ Las tres capas: función y material
+ Capa 1: la base (junto a la piel)
+ Su única misión es llevar el sudor lejos de la piel . Si la base se moja, nada de lo que lleves encima te salvará. Las opciones válidas:
+ Lana merino : natural, absorbe humedad sin perder calor, huele menos que el sintético. Ideal para usarla todo el día. Una camiseta base de merino de 150-200 g cuesta entre 25 y 50 €.
+ Polipropileno o poliéster técnico : los sintéticos sacan la humedad rápido y secan en horas. Son más baratos (5-15 €) pero pueden oler antes y no regulan tan bien la temperatura como la lana.
+ El algodón no se usa nunca como capa base . Absorbe el sudor, lo retiene y se queda pegado a la piel. Cuando se moja — y se va a mojar — conduce el frío como una lámina de agua. En la jerga de montañeros se dice del algodón que "te mata": es literalmente el material más peligroso para emergencias en frío. El Ministerio de Sanidad y la OMS coinciden: las fibras sintéticas y la lana son las recomendadas.
+ Capa 2: el aislamiento (la más importante)
+ Aquí es donde se genera el calor real. La capa intermedia atrapa el aire que tu cuerpo calienta . Las opciones:
+ Forro polar (fleece) : el rey de la relación calidad-precio. Ligero, cálido, seco rápido. Un forro polar medio cuesta 15-30 € y sirve para todo: desde la noche de apagón hasta el paseo del domingo.
+ Plika (PrimaLoft, Thinsulate, etc.) : aislantes sintéticos que imitan la plumón pero funcionan con humedad. Ideales si hay riesgo de lluvia. En chubasqueros o chalecos aíslos. Precio: 20-60 €.
+ Plumón : el mejor aislante por peso, pero si se moja pierde el 90% de su capacidad . Vale para el kit en casa, no para llevarlo encima si llueve o sudas.
+ Para el kit de emergencia, un forro polar es la opción más versátil: funciona con humedad, ocupa poco, cuesta poco y cubre el rango más amplio de temperaturas.
+ Capa 3: la barrera (viento y lluvia)
+ Protege de lo externo. Sin esta capa, el viento te arranca el calor de las capas de dentro en minutos. Se llama "shell" (caparazón) en la jerga técnica.
+ Chubasquero o impermeable : con membrana impermeable (IP ≥ 1500 mm) y costuras selladas. El chubasquero ligero (50-150 g) es tan pequeño que cabe en cualquier mochila. Precio: 15-40 € para modelos básicos funcionales.
+ Rigido (hardshell) : si previsibles lluvias intensas prolongadas (una DANA en invierno, por ejemplo). Más caro (40-80 €) pero dura años.
+ La clave es que la capa exterior sea transpirable : si no lo es, el sudor de dentro se condensa por dentro y terminas mojado. Busca que incluya "breathable" o "membrana transpirable".
+ Lo que no sale bien vestido: cabeza, manos y pies
+ El 10% de las fuentes oficiales se olvidan, pero aquí es donde empiezan las congelaciones y los hipotermias leves:
+ Gorro o bufanda : se pierde calor por la cabeza. Un gorro de lana o polar de 5-12 € marca la diferencia entre una noche clemente y la tiritona continua. La bufanda protege el cuello y evita que el viento entre por debajo del abrigo.
+ Guantes : los mitones son más cálidos que los guantes (los dedos comparten calor). Un par de guantes de lana o polar, 8-20 €.
+ Calcetines : dos pares delgados funcionan mejor que uno grueso (otra cámara de aire). Lana merino o sintético, nunca algodón. Una pareja de calcetines de lana para emergencias cuesta 8-15 €.
+ Calzado impermeable : las plantas mojadas son el punto de entrada más rápido del frío. Botas impermeables o, al menos, unos cubrecalzado antideslizante (5-12 €) si caminas por nieve o hielo.
+ El sistema en práctica: qué poner para cada escenario
+ No hay una receta única para todas las temperaturas, pero estas combinaciones te cubren desde el invierno madrileño hasta una nevada en el Sistema Central:
+ Temperatura aproximada Combinación Peso total (ropa) 
+ +5 °C a 10 °C Base + chubasquero ~300 g 
+ 0 °C a +5 °C Base + forro polar + chubasquero ~700 g 
+ -10 °C a 0 °C Base + forro polar + plika + chubasquero ~1 000 g 
+ Más de -10 °C Base doble (merino + sintético) + plika grueso + parka impermeable + guantes + gorro + calcetines dobles ~1 800 g 
+ Para un kit de emergencia en mochila, la combinación base + forro polar + chubasquero cubre la mayoría de los escenarios invernales en España y pesa menos de 1 kg entero.
+ Señales de que algo va mal
+ El Ministerio de Sanidad y el Plan Frío identifican señales claras de hipotermia. Si las detectas en ti o en otra persona, añadir capas calientes es el primer paso :
+ Temblores incontrolables : el cuerpo intenta generar calor contraatacando. Ya no es incómodo, es una respuesta de emergencia.
+ Confusión o somnolencia : el cerebro pierde función. La persona puede negar que tiene frío.
+ Dificultad para hablar : las palabras se vuelven confusas o imposibles.
+ Torpeza en las manos : no se pueden hacer botones, ni encender un mechero.
+ Si aparece congelación (piel blanca, amarillenta, entumecida y firme) — no frotar la zona y introducirla en agua tibia (no caliente). Si no puedes caminar con los pies, no intentes caminar : agravas la lesión.
+ Errores habituales
+ "Con una chaqueta me basta" : si llueve, si sudas, si hace viento — no basta. Un chubasquero por encima es la diferencia entre una noche en casa y una noche en urgencias.
+ El algodón como "siempre lo llevo" : la camiseta vaquera, el suéter de algodón grueso… son ropa de día normal. En una emergencia, el algodón es tu enemigo. La lana y el sintético te mantienen seco.
+ No cubrir cabeza y manos : puedes tener el torso cubierto y perder el 40% del calor por la cabeza y las extremidades. Gorro y guantes no son opcionales en frío extremo.
+ Guardar la ropa de abrigo en el trastero : si se va la luz en enero, necesitas la ropa de abrigo donde la puedas coger en 30 segundos, no donde "tienes lo del invierno".
+ Qué incluir en el kit
+ Para cada miembro de la familia, una bolsa con lo básico que se mueve de capa:
+ Camiseta base de lana merino o sintético
+ Forro polar medio
+ Chubasquero ligero
+ Gorro de lana o polar
+ Par de guantes (de lana o forro polar)
+ Dos pares de calcetines de lana
+ Bufanda o pañuelo grueso
+ Esto pesa menos de 2 kg por persona, ocupa el espacio de una bolsa mediana, y te cubre desde un apagon de enero hasta una nevada aislada. Si vives en zonas del norte o de montaña, añade un par de plika (PrimaLoft) o un chaleco térmico.
+ Un dato que no da miedo: las temperaturas suben
+ El invierno 2025-2026 fue, según AEMET, el sexto invierno más cálido desde 1961 . Las temperaturas medias fueron 1 °C por encima de la normalidad. No viene de menos: los ocho últimos inviernos han sido más cálidos de lo normal. Pero las olas de frío extremo no desaparecen por la media: cuando vienen, vienen de golpe (como el episodio de aire ártico que alertó Protección Civil en diciembre de 2026) y las temperaturas pueden caer 15-20 °C en horas. El sistema de capas funciona para esa bajada brusca — para la que casi nadie está preparado.
+ Esta entrada no sustituye la orientación de un profesional sanitario. Si tienes dudas sobre cómo vestirte en frío por condiciones médicas específicas (diabetes, problemas vasculares, medicación), consúltalo con tu médico. La lista completa de materiales recomendados para emergencias invernales está en la sección de abrigo y refugio del kit básico 72h .
+
+### Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia — https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/
+Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.
+El 28 de abril de 2025 demostró lo que las guías de preparación llevan años repitiendo: cuando todas las redes móviles colapsan a la vez, quedas mudo. WhatsApp no funciona, las llamadas no se cortan — simplemente no existen. Y en una DANA, las antenas pueden quedarse sin electricidad durante días. Aquí es donde entra la radiocomunicación PMR446, y por qué cada vez más familias la incluyen en su kit de emergencia.
+ ¿Qué es PMR446?
+ PMR446 (Personal Mobile Radio 446) es un servicio de radiocomunicación de uso personal que opera en la banda UHF de 446 MHz (concretamente 446,0 a 446,2 MHz). Está regulado a nivel europeo por la CEPT (Conferencia Europea de Administraciones de Correos y Telecomunicaciones) desde 1998 y es totalmente legal en España sin necesidad de licencia . No hay que tramitar nada, no hay que pagar cuota, no hay que examinarse. Cualquier persona puede comprar un equipo PMR446 y usarlo.
+ Las reglas son simples:
+ Potencia máxima: 0,5 vatios (500 mW) — suficiente para 2-5 km en ciudad y hasta 10 km en campo abierto.
+ Antena fija e integrada — no se permite cambiar la antena por una más grande (eso sí que requeriría licencia).
+ 16 canales en la banda estándar — numerados del 1 al 16, más 8 canales adicionales si el equipo soporta el estándar digital (ECC Decision 05/12).
+ Timeout de 180 segundos por transmisión — evita que alguien bloquee el canal sin darse cuenta.
+ La clave es que no depende de ninguna infraestructura : no hay antenas, no hay operadora, no hay cobertura. Los equipos se comunican directamente entre sí (modo simplex). Si tú y tu vecino tenéis walkies PMR446, os escucháis aunque se caiga toda la red.
+ ¿Por qué es relevante para una emergencia?
+ La radiocomunicación PMR446 es el único medio de comunicación entre personas que no requiere infraestructura alguna . No depende de antenas (como el móvil), no depende de internet (como WhatsApp), no depende de electricidad (si funcionan a pilas o batería). Eso la convierte en el eslabón que falta entre la radio FM de escucha (que solo recibe) y el móvil (que necesita red).
+ Protección Civil ya lo sabe: la Red Nacional de Radio de Emergencia (REMER) se basa en radioaficionados con equipos de radio desde la década de 1960, y el Ministerio del Interior ha publicado material específico sobre el manejo de equipos de comunicaciones de emergencia. En julio de 2026, el Gobierno ha ido aún más lejos: ha habilitado frecuencias PMR adicionales para emergencias autonómicas, autorizando de oficio su uso sin trámite previo cuando los equipos de protección civil se desplazan entre comunidades. La radiocomunicación no es un hobby: es infraestructura crítica.
+ Qué comprar: tres niveles honestos
+ No necesitas gastarte 500 € en radios de bombero. Un par de PMR446 básicos cumple para coordinarse en familia. Aquí van opciones reales, ordenadas por presupuesto:
+ Uso Modelo Precio aprox. Por qué 
+ Kit de emergencia (1 par) Baofeng BF-33C o Retevis RT3 15-25 € el par PMR446 legal, USB-C, 16 canales, VOX. Para el kit, no hace falta más. 
+ Familia (4-6 unidades) Motorola Talkabout T62 40-60 € pack de 4 Marca fiable, pantalla, alcance real de 3 km en ciudad. El pack de 4 cubre a la familia entera. 
+ Outdoor / DANA Motorola Talkabout T92 H2O 20-30 € unidad Resistente al agua IPX4, resistente a impactos. Si la DANA te sorprende fuera, aguanta la lluvia. 
+ Profesional sin licencia Kenwood TK-3701D (dPMR446) 80-120 € unidad Digital + analógico, cifrado, resistente. Para quien quiere dar el salto a calidad profesional sin licencia. 
+ Consejo de oro: compra un número impar de walkies (3, 5, 7) para que nadie se quede sin interlocutor. Y etiqueta cada uno con el nombre de su usuario: en el caos, saber de quién es cada aparato ahorra segundos que valen.
+ Canales y subtonos: la configuración para emergencias
+ Los PMR446 tienen 16 canales principales (algunos modelos tienen 32 con el estándar digital). Cada canal puede configurarse con un subtono CTCSS (código de privacidad) para filtrar interferencias. Para emergencias, la configuración recomendada es:
+ Canal 7, subtono 7 : es el canal de uso común en PMR446 para emergencias. Cualquier persona en esta frecuencia puede intentar establecer contacto sin saturar otros canales. Úsalo para la llamada de emergencia y para el punto de encuentro.
+ Canal 1, subtono 1 : canal de comunicación familiar o de grupo. Si tu familia tiene 4 walkies, asignadle el canal 1 con subtono 1 para que no os mezcleis con otros usuarios.
+ Canal 16, sin subtono : canal abierto para escuchar. Útil para monitorizar si alguien habla antes de transmitir.
+ Y aquí va la regla de comunicación más importante: siempre verifica que no habla nadie antes de abrir el botón . Las transmisiones simultáneas producen un chirrido ininteligible y bloquean el canal. Si no te entienden, repite. Si hay ruido, espera 10 segundos y vuelve a intentar.
+ Alcance real: lo que dice la caja vs. lo que pasa
+ En la caja ponen "10 km" o "20 km". Eso es en línea de vista perfecta, en el mar, sin nada entre los dos equipos. En la realidad:
+ En ciudad (edificios, calles estrechas) : 0,5-2 km. Los muros de hormigón atenúan mucho la señal.
+ En barrio abierto o urbanización : 2-4 km.
+ En campo abierto : 5-10 km.
+ En montaña (cima a cima) : hasta 15-20 km.
+ La regla práctica: la altura lo es todo . Si estás en un piso alto y tu vecino en otro, os escucháis a 3 km. Si ambos estáis en el valle, a 500 metros ya cuesta. Para mejorar: sube a la terraza o al balcón más alto, y apunta el walkie en vertical (la antena es omnidireccional pero funciona mejor vertical).
+ Errores típicos
+ Comprar walkies que no son PMR446 : muchos walkies baratos en Amazon operan en bandas FM o CB que requieren licencia. Busca explícitamente "PMR446" en la descripción. Si no lo pone, no lo compres.
+ Dejar las pilas gastadas : revisa las baterías cada 6 meses (el mismo recordatorio que el agua del kit). Si son recargables, déjalas cargadas con un powerbank o cargador solar.
+ No practicar : un walkie que nunca se usa es un ladrillo caro. Prueba una vez al mes con un vecino o familiar. Verás si funciona, aprenderás a usarlo y sabrás dónde se queda sin cobertura en tu zona.
+ Escuchar lo que no es : en el canal abierto (canal 16 sin subtono) escucharás conversaciones ajenas. No intervengas, no repitas lo que oigas. Es tu derecho escuchar, pero no tu derecho transmitir en frecuencia que no es tuya.
+ Confundir PMR446 con radioafición : la radioafición requiere examen y licencia (HF/VHF/UHF, potencias de 10-100 W, alcance regional/nacional). El PMR446 no: es plug-and-play, sin examen. Son cosas distintas.
+ Integración con tu kit de emergencia
+ Los walkies PMR446 complementan perfectamente lo que ya tienes en el kit básico:
+ Radio FM (escucha) + PMR446 (habla) = cobertura completa de información bidireccional.
+ Pilas de repuesto para el walkie en la misma bolsa que las de la radio y el frontal.
+ Powerbank para cargar los walkies recargables: un powerbank de 10.000 mAh carga un walkie PMR446 unas 10 veces.
+ Etiquetas con nombre : pega una etiqueta adhesiva con el nombre de cada usuario en cada walkie. En una evacuación nocturna, saber de quién es cada aparato es un detalle que evita confusiones.
+ La radio como hábito, no como compra
+ Un walkie PMR446 comprado y guardado en el armario no sirve de nada. Lo que funciona es el hábito de usarlo : prueba uno con tu pareja, con un vecino, con el grupo de senderismo. Verás que se quedan cortos en ciudad, que en montaña son otra cosa, y que el canal 7 con subtono 7 es el que te salvará si todo lo demás falla. Es un complemento barato (15-40 € el par) y legal que, en el momento justo, es el único medio que tienes para decir "estoy bien" a quien más importa.
+
+### Volver a casa después de una inundación: seguridad, lodo, humedad y seguros — https://kit72h.com/blog/volver-a-casa-tras-inundacion/
+La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar para que el seguro responda.
+Los días posteriores a una inundación suman más sustos que la inundación misma: caídas sobre escombros ocultos, descargas en agua que ya parecía retirada, humaredas en instalaciones eléctricas dañadas, intoxicaciones por generadores metidos en el garaje. Volver es un procedimiento, no una emoción. Este es el orden, paso a paso.
+ Antes de entrar: las comprobaciones
+ Solo se vuelve cuando lo autorizan los canales oficiales —112, Protección Civil, tu ayuntamiento—. Que el portal de abajo esté abierto no es una autorización.
+ Inspección desde fuera : grietas nuevas, puerta que ya no cierra como siempre, suelo hundido en el acceso, pilares. Cualquier duda estructural: no se entra, se llama.
+ Electricidad primero : el general se corta desde el cuadro solo si está seco y accesible. Si el cuadro está anegado o dudas, no lo toques: eso lo baja la compañía o un electricista. Un portal con agua residual conduce mucho mejor de lo que tu sentido común cree.
+ Gas : si huele o el contador avanza con todo cerrado, fuera y llamada desde la calle a la compañía o al 112. Ni interruptores, ni mecheros, ni encender el móvil allí dentro.
+ Equipo mínimo de acceso : botas de caña alta, guantes gruesos, mascarilla contra el polvo del lodo seco y luz decente. El chip de la ropa de casa mojada no vale para esto.
+ Las primeras 24 horas dentro
+ Fotos y vídeos antes de tocar nada , casa por dentro y por fuera, en vertical para que las paredes entren completas: es tu prueba para el seguro, y a partir de ahora cada objeto movido será imposible de justificar. Si no hay cobertura, las fotos esperan en el móvil al salir: documentar vale más que salvar la estantería medio caída primero.
+ El agua de inundación no es agua : arrastra alcantarillado, hidrocarburos y producto de garaje. Todo lo que tocó y no sea recuperable, fuera; la comida que estaba en envases no herméticos también, aunque el cartón parezca seco. Lo higiénico-personal (cepillos de dientes, biberones, cosméticos abiertos) directo a la basura, es una de las pocas reglas sin excepción.
+ Lodo: retirar, no fregar . Primero capas con pala, idealmente cuando esté seco; fregar lodo fresco solo extiende una película imposible. Y ventilación desde el minuto uno: corrientes cruzadas en cuanto el tiempo lo permita.
+ Electrodomésticos mojados no se enchufan a ver si todavía van . Se secan, se anotan y se evalúan: el cortocircuito del reencuentro es historia repetida en cada DANA.
+ Colchones, sofás, armarios de aglomerado, pladur: los no recuperables . Absorben agua sucia y no se secan nunca: moho garantizado en 48 horas. La salud de la casa vale más que el mueble: a la puerta.
+ Humedad: la batalla de las tres semanas siguientes
+ La casa parece seca el sábado y está empapada el mes entero, y el moho es el segundo desastre de toda inundación:
+ Ventilación constante : una rendija de ventana permanente rinde más que abrir media hora al día; y si puedes alquilar o pedir prestados deshumidificadores el primer día, acortan semanas de calvario. En viviendas con sótano, el sótano manda: ahí el aire no se mueve solo.
+ Antes de reponer lo que había en paredes (pintura, rodapiés, muebles adosados), comprobad con el tacto —o con un higrómetro de pincho barato— que el material de base está seco de verdad. Encerrar agua tras una pared nueva es sembrar el problema para la primavera que viene.
+ Los más sensibles (asma, alergias, bebés, mayores) son los que primero pagan el moho. Si alguien empieza con tos o picores y la casa sigue húmeda, valorad con un profesional sanitario no dormir allí todavía: es un criterio de salud, no de paciencia.
+ El seguro: se gana el día uno, no el mes uno
+ Parte a la compañía el mismo día de la vuelta , con fecha, causa —inundación, la palabra exacta importa— y teléfono de contacto estable si tu línea está caída. Guarda copia escrita: el expediente vive donde lo escribiste.
+ La prueba manda : fotos de ahora con recorrido completo, lista de bienes dañados con modelo y fecha aproximada, facturas donde las tengas (muchas están en el correo de tu tienda online: búscalas con calma un domingo). Y bucea en el móvil: las fotos de las navidades en tu salón demuestran niveles del agua y existencia de bienes mejor que cualquier relato.
+ Reparaciones de urgencia: sí, pero documentadas . Tapiar una ventana rota o cortar una línea dañada es tu deber de evitar más daños y suele cubrirse: guarda recibos y presupuestos para el perito, sin esperar a que llegue para dejar la casa expuesta.
+ Si la vivienda es alquilada, comunica el daño el mismo día y por escrito al propietario, con fotos: quién responde de qué según el contrato queda mucho más claro con fecha en el correo.
+ Y si tu casa entra en zona de ayudas públicas extraordinarias, pregunta en el ayuntamiento por el registro y el certificado de daños que abren la puerta: en cada DANA se pierden plazos de ayudas por no pedir un papel la primera semana.
+ La lección barata (y la más cara de aprender)
+ Cada DANA deja hogares que inundan la planta baja por segunda vez con seis años de diferencia. La lección: en zona inundable, lo importante vive arriba, y el cuadro eléctrico también si es posible. El seguro es el parche, no el plan. Antes de firmar hipoteca o alquiler, pedid la cartografía de riesgo en el ayuntamiento o en la confederación hidrográfica; y si ya estás en ella, adapta el kit de DANA a tu historia real, no al miedo de moda.
+ Las comprobaciones de reentrada y el equipo de acceso están en el kit DANA/inundación ; la documentación que necesitarás para el seguro viaja con la mochila de evacuación y se guarda original en el kit de hogar .
+
+### Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene — https://kit72h.com/blog/vivir-solo-estar-preparado/
+Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan de uno, pensado para uno.
+Cada vez más hogares españoles tienen un solo ocupante, y la preparación de emergencias se ha escrito casi siempre para familias. Vivir solo cambia dos cosas: todo lo que necesitas es más pequeño y más barato , y casi todo depende de una sola cabeza —la tuya— incluso cuando esa cabeza tenga fiebre o esté en shock. Este es el plan para uno.
+ La ventaja: un kit que cabe en una esquina
+ Una persona, una mochila: 70-100 euros partiendo de cero, bastante menos si aprovechas lo que ya tienes. Nueve litros de agua para las 72 horas, un botiquín para un solo cuerpo, radio, frontal, powerbank, la carpeta con tus papeles y ya. Sin turnos ni dosificaciones compartidas: el plan entero es tan grande como tu mochila. A cambio exige un estándar: si algo depende de que tú estés bien para funcionar, tiene que estar cargado, probado y a mano . Aquí no hay segundo piloto.
+ El punto débil real: a nadie le extraña que no respondas
+ En una familia, si alguien se cae en el baño, alguien lo oye. Viviendo solo, el enemigo no es solo la DANA: es el golpe, la apendicitis a las tres de la mañana, la caída en la escalera con el móvil al 2% y en el bolsillo del abrigo. Por eso el plan personal no empieza por el agua: empieza por la cadena de quien pregunta :
+ El ritual de contacto : un mensaje diario o cada dos días con alguien que note tu ausencia —una amiga, un hermano, el vecino del 3º—. Un hola a las nueve, protocolizado. Si un día no llega, llaman; si a la segunda no respondes, vienen o avisan a emergencias. No es dependencia emocional: es un protocolo con nombre y hora.
+ Llaves en manos de confianza : una copia en casa de alguien de esa cadena, para que puedan abrir si hace falta entrar rápido y no debajo. Sin esto, la primera respuesta a una sospecha grave es un bomber reventando tu puerta: funciona, pero tarda y cuesta.
+ Tu móvil trabajando : el SOS/emergencia del teléfono configurado con contactos, datos médicos y ficha médica; y si encaja contigo, un reloj con detección de caídas. No son juguetes: son el seguro de tu propio móvil. Configúralos hoy, porque el día del golpe nadie recuerda menús.
+ La tarjeta que habla por ti : una ficha con datos, alergias, tratamiento y a quién avisar, en la cartera del DNI y otra detrás de la puerta de casa. Cuando tú no puedas hablar, hablan tus papeles — y los de dentro sirven a quien entra a buscarte.
+ El kit de uno: qué cambia respecto al de familia
+ Se simplifica la comida : una sola ración por día y sin menús para tres edades. Legumbre de bote, atún, avena, y conservas que te gusten de verdad: lo que no te apetece un martes normal no te va a apetecer un jueves de apagón.
+ Se duplica lo crítico : en familia los aparatos se prestan; solo, si te quedas sin batería no hay móvil de repuesto en el cajón. Dos fuentes de luz, pilas de sobra, y un powerbank con su cable compatible con todo lo tuyo.
+ Tu medicación es el corazón del kit : margen de semanas, hoja de tratamiento en la carpeta y una reserva viajando en la mochila. Si compartes cuidados con tu madre o tus hijos de otra casa, aplica el mismo sistema a ambos lados.
+ Un extra que solo necesitas tú: el ánimo . Los encierros de persona sola tienen un componente real de angustia que ningún catálogo cubre: deja en el kit un altavoz pequeño, un libro, lo que te ancle. El día largo es más probable que el día peligroso, y también se gestiona.
+ Los vecinos: tu seguro de proximidad
+ En el noventa por ciento de los incidentes domésticos serios que se resuelven en un portal, el primero en llegar no es el 112: es alguien del rellano. Dos gestos de quince minutos valen más que cualquier artilugio: montar un grupo de chat pequeño de escalera o portal (los vecinos reales, no todo el edificio) y localizar a las demás personas que viven solas, mayores incluidas. La red que te protege es exactamente la que tú también proteges: en una nevada, una ola de calor o un apagón nocturno, la primera comprobación que salva vidas es subir o bajar a preguntar. Las guías de autoprotección de Protección Civil llevan años con esta idea en el centro; los que vivimos solos somos los que más la rentabilizamos.
+ Lo que solo pasa cuando decides solo
+ Vivir solo tiene una tentación específica: creer que no hace falta, que tú te apañas. Te apañas hasta el día que no. Y otra: acumular trastos en vez de preparar decisiones. El test honesto es corto: si te evacuaran esta noche, ¿sabes en cinco minutos qué te llevas, a quién escribes y dónde duermes? Si la respuesta es un encogimiento de hombros, tienes un kit lleno y un plan vacío. Y el plan, esta vez, solo depende de ti.
+ Las listas ajustadas a un solo cuerpo están en el kit de hogar y su versión compacta, el kit básico 72h . Y si conduces, revisa el kit de coche : para quien vive solo, el coche es a la vez transporte, refugio y teléfono.
+
+### Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo — https://kit72h.com/blog/plan-familiar-de-emergencia/
+Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mochila, fue el plan. Montarlo cuesta una cena de martes.
+Toda emergencia real destapa lo mismo: quien tenía plan familiar se mueve, y quien no improvisa con el corazón a mil. Un plan no es un documento: son cuatro decisiones tomadas de antemano y sabidas por todos , incluidas las personas que no viven contigo cada día (la abuela, el padre que recoge los viernes). Se construye en una tarde y se mantiene con un repaso cada seis meses.
+ 1. El punto de encuentro, en dos niveles
+ Nivel barrio (inmediato) : un sitio concreto, visible y asequible a pie para un desalojo del edificio o la calle: la fuente de la plaza, la gasolinera de la salida, el bar de la esquina. No digáis la plaza: decid la fuente. En el caos, los puntos vagos separan más que juntan.
+ Nivel ciudad (si el primero ya no existe) : un segundo punto fuera de tu zona para cuando el barrio quede cortado: casa de un familiar con otra dirección, una estación, un sitio del que todos hayan oído hablar. Y una norma simple: si en una hora nadie llega al punto 1, todos vamos al 2.
+ El cole tiene su propio protocolo de entrega de menores a familias: pregunta dónde os los entregarían antes del día que haga falta, y ese punto entra en vuestro mapa. Es el dato que nadie recuerda pedir.
+ 2. La persona faro: vuestro contacto fuera de zona
+ Con la red saturada, las llamadas locales se atascan y un SMS de veinte caracteres pasa donde una conversación no. De ahí la técnica clásica de Protección Civil: designad a alguien que viva lejos —otra comunidad, mejor otro país— como centro de mensajes. Cada uno escribe al faro dónde está y cómo está; el faro devuelve la foto completa: tu hermana está bien en casa de unos amigos, tu padre no coge el teléfono pero mandó un SMS a las 9:12. Uno que coordina desde fuera vale por diez que improvisan dentro. Y el faro que sepa ser faro: apunta y no juzga, y no lanza la alarma a las primeras horas de silencio, que en toda emergencia hay silencios normales.
+ 3. Roles: quién ejecuta cuando nadie decide bien
+ En el susto no se piensa: se ejecuta lo aprendido. Repartid las cuatro tareas típicas, con nombre y con suplente (si la persona asignada no está en casa, el rol no puede desaparecer con ella):
+ Niños y mascotas : quien físicamente los coge y los saca. Con un bebé en casa, dos personas: uno carga al niño, otro la bolsa del niño.
+ Suministros y puerta : quien corta el gas si huele, baja el agua si inunda, desconecta lo alcanzable y cierra al salir. Si no da tiempo, se sale: ninguna casa merece medio minuto dentro con el aviso sonando.
+ Kit y documentos : quien coge la mochila y la carpeta, ambas en el camino de la salida , nunca en el trastero del fondo.
+ Información : quien enciende la radio y consulta el aviso oficial (112, Protección Civil), con la norma de casa escrita: ningún rumor de mensajería se comunica dentro de la familia sin fuente oficial. Esa regla evita más desastres de los que imaginas.
+ 4. Las tres reglas que sustituyen a toda la comunicación que no habrá
+ El plan tiene que funcionar sin red y sin batería, en modo papel:
+ Regla del silencio : si en X horas no hay contacto, todos damos por supuesto que estamos en el punto de encuentro (o en casa del faro si el barrio está cortado), y nadie busca a nadie por una ciudad en caos. Buscar por cuenta propia es un riesgo distinto y a menudo mayor que esperar donde queda el plan.
+ Regla del cole : si no puedes venir a por los niños, ellos se quedan con los profesores y manda el protocolo del centro. Los niños la conocen de memoria y los adultos no la traicionan yendo a recuperarlos por su cuenta: desordenar la salida de un colegio pone en riesgo a todo el grupo, el tuyo incluido.
+ Regla del retorno : a casa se vuelve cuando lo digan los canales oficiales, no cuando el del portal de enfrente diga que ya se puede. Cada DANA tiene su historia de vuelta prematura contada en el garaje.
+ El ensayo: un martes por la noche, veinte minutos
+ Un plan no ensayado es un papel en la nevera. Convertid el repaso en rutina de cambio de armario, dos veces al año:
+ Cada uno dice de memoria lo suyo: mi punto, mi rol, el número del faro. Quien falla, escucha; no se riñe, se repite.
+ Simulacro de salida con cronómetro: mochilas, carpeta, zapatos puestos, calle fuera en menos de diez minutos. Ahí salen los fallos que ningún documento revela: la llave que no estaba donde creías, la cremallera que no cierra con el abrigo enganchado, el niño que no encuentra sus zapatos a oscuras.
+ Comprobación material: caducidades, pilas, el efectivo pequeño de la carpeta, que el frontal del kit infantil enciende, que la tarjeta identificativa sigue dentro de la chaqueta del mayor.
+ Actualización de lo cambiante: contactos nuevos de los abuelos, vecinos de confianza que se mudaron, rutinas del cole. El plan envejece porque la familia cambia.
+ Y un truco que funciona: en los ensayos, los niños llevan el cronómetro y puntúan . Lo que a los siete años es un juego con notas, a los doce sigue en la cabeza el día que suene de verdad.
+ Las mochilas que materializan este plan están desglosadas en la guía de evacuación , y el contenido común de las 72 horas, en el kit básico . Si hay personas mayores en vuestra red, enlazad su parte con la guía para mayores y dependientes .
+
+### Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia — https://kit72h.com/blog/medicion-cronica-personas-dependientes/
+Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a cero, sin consejos médicos: solo logística.
+Una emergencia típica dura 72 horas; una rara, semanas. Para un hogar con tratamiento crónico, el problema no es el susto del día uno: es el día ocho, cuando se acaba la caja que quedaba y la farmacia de tu barrio está cerrada o inundada . Lo que sigue es logística pura: papeles, reservas y reciclaje para que la dependencia no se convierta en urgencia. Qué tomar y cuánto lo decide cada persona con su médico o su farmacéutica; aquí no se toca nada de eso.
+ Paso 0: el inventario que todavía no has hecho
+ Abre el cajón de la medicación y haz la lista de cada miembro de la casa. Sin lista no hay plan: es el equivalente a no saber cuánta agua queda cuando ya cortaron el suministro.
+ Nombre del tratamiento tal como viene en la caja (no el apodo familiar), la pauta que indica el profesional y qué cajas completas quedan en casa .
+ Fecha de la última receta y dónde se renueva: médico de cabecera, especialista o la farmacia concreta si es un producto de formulación magistral.
+ Qué consecuencias tiene una interrupción: eso te lo dice quien prescribe , así que pregúntalo en la próxima revisión y apúntalo. No es lo mismo un olvido de un día que una semana sin tratamiento, y conviene saberlo antes, no durante.
+ Cómo se conserva cada cosa: hay tratamientos que sufren con el calor del verano o que necesitan nevera, y un apagón de julio convierte el frigorífico apagado en una cuenta atrás.
+ La reserva de 2-4 semanas, sin comprar de más
+ El colchón se construye con un sistema que farmacias y atención primaria conocen, y que solo hay que pedir:
+ Rotación, no acopio : retirar cada reposición con la máxima antelación que el sistema permita y consumir la reserva en casa, de modo que siempre haya margen sin acumular caducidades. La mecánica exacta depende de tu tratamiento: coméntala con tu farmacia.
+ Nunca abrir envases de más ni guardar restos de otras personas : la reserva es tu propio tratamiento, en su caja, con su fecha. Intercambiar pastillas entre familiares es camino directo al error de toma.
+ Una semana viajando en la mochila de evacuación : si desalojan tu zona, la reserva del cajón queda en un edificio donde quizá no puedas entrar en días. Lo que sale contigo decide cómo estás el jueves.
+ Consumibles de apoyo (tiras de glucemia, material de curas, sondas, bolsas de ostomía, mascarillas de CPAP): se reponen cada mes y en crisis se agotan antes que los medicamentos . Pide a tu enfermera de referencia una cifra razonable para tu caso; no improvises tú el número.
+ Cadenas frágiles: frío, electricidad y memoria
+ Ciertas dependencias no se resuelven con cajas en un armario:
+ Lo que necesita nevera : un frigorífico cerrado y poco abierto aguanta entre 24 y 48 horas frescas; con botellas de agua congeladas como bloques, algo más. Si la cosa se alarga, pregunta en tu farmacia qué productos admiten una salida breve de frío y cuáles no: cada uno es un mundo y eso lo dice el profesional con el prospecto delante.
+ Lo que necesita electricidad (concentradores de oxígeno, respiradores, bombas): aquí la reserva es energética. Powerbank compatible con el aparato, batería de repuesto y avisar a tu compañía eléctrica y a Protección Civil de tu comunidad: muchas mantienen registros de clientes con dependencia de equipos vitales para avisarles y priorizar su suministro en cortes largos. Pregunta si tu caso está inscrito, porque no se entra solo.
+ Personas con deterioro cognitivo : el riesgo no es solo la pastilla, es que la rutina se rompa y la persona deje de comer, de beber o de tomar lo que toca sin que se dé cuenta. Horarios estables, pauta escrita en letra grande y una hoja de identificación con contactos: en el caos, una persona mayor desorientada sin datos cosidos es el peor caso que puede gestionar un equipo de rescate.
+ La hoja de tratamiento: una sola página que lo arregla casi todo
+ Un folio plastificado en la carpeta de emergencia y una fotocopia en la mochila:
+ Nombre completo, fecha de nacimiento y teléfono de la persona atendida y de quien la cuida.
+ Tratamientos activos con la pauta escrita por el profesional, y para qué es cada uno: así lo entiende quien te cubra un día.
+ Contactos: quién prescribe, enfermera de referencia, farmacia habitual, centro de salud, familiar responsable.
+ Alergias e intolerancias, y señales de alarma propias ante las que hay que pedir ayuda sanitaria sin dudar.
+ Fecha de actualización arriba : cada revisión médica es una pasada por esta hoja. Un papel de hace dos años es peor que ninguno: da una confianza falsa.
+ El ensayo que casi nadie hace
+ Una vez al año, con la lista delante: fechas de caducidad, pilas de dispositivos, funda estanca intacta, reserva real en la mochila y no solo en el discurso. Y si el cuidado se reparte entre varias personas —hermanos, hijos que viven lejos, ayuda a domicilio—, los roles por escrito : quién coge la mochila, quién a la persona, quién avisa al centro. El cuidado compartido sin plan falla justo el día que coincide que cada uno creía que le tocaba al otro.
+ La logística de cuidadores está desarrollada en la guía para personas mayores y dependientes , y la reserva de medicación encaja en el botiquín del kit de hogar . Si tu dependencia es energética, repasa antes del próximo verano el kit de apagón .
+
+### Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa — https://kit72h.com/blog/kit-emergencia-50-euros/
+No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presupuesto mínimo honesto.
+La recomendación europea de 72 horas de autonomía suena a compra grande: mochila táctica, bidones, raciones militares, emisora de ondas. Falso. La preparación mínima útil cabe en 50 euros porque el 80% ya está en tu casa y no lo sabes . El método tiene tres movimientos: primero rebusca, después compra lo justo, al final ordena. No es tacañería: un kit comprado de golpe y sin costumbre muere en un armario; uno construido con lo que ya usas, sobrevive.
+ Tarde de rebusca: lo que tienes y no contabas
+ Antes de pasar por caja, da la vuelta a la casa con una caja de cartón y una libreta:
+ Agua : mira la compra de esta semana. Las botellas que bebes a diario son reserva en cuanto creas el hábito de comprar dos de más y rotarlas: se acaba la vieja, entra la nueva. Una familia de tres acumula los 27 litros de las 72 horas sin comprar una sola garrafa, en envases cerrados y en sitio oscuro.
+ Comida : la despensa habitual de un hogar español —arroz, pasta, legumbre de bote, atún, tomate frito, frutos secos, galletas— ya es dieta de emergencia sin fuego, salvo lo que exige cocción. Separa lo que se come abierto y sin cocinar : ese es tu kit, no otra cosa.
+ Luz : el frontal de senderismo, la linterna del cajón, las velas de cumpleaños, la luz de la bici. Toda casa tiene más luces de las que cree; el fallo es que están repartidas y sin pilas. Recolecta, agrupa y prueba todas en una tarde.
+ Medios para hervir : cualquier cazo sobre un hornillo de camping, o la cocina de gas si lo que se fue fue la luz y no el butano. Con fuego, el agua dudosa se vuelve segura y la lista de la compra cambia de tamaño.
+ Radio : el transistor viejo del cajón tiene papeles, pero aquí suele compensar comprar: una radio de pilas AM/FM nueva cuesta 12-15 euros y es la diferencia entre saber qué pasa y fiarte del grupo de WhatsApp del portal.
+ Transporte : la mochila del cole, la bolsa del gimnasio, el carro de la compra. Una bolsa de basura grande como funda exterior hace de impermeable por cero euros.
+ Los 50 euros: en qué orden se gastan
+ Sobre la base rebuscada, las compras que dan más autonomía por euro, por orden:
+ Radio a pilas AM/FM (12-15 €) : la información es lo primero que falta en un apagón y lo que menos se improvisa.
+ Pilas para todo el conjunto (8-10 €) : los modelos que realmente usas, con una parte en la mochila y otra en el cajón de casa.
+ Frontal con pilas propias (6-8 €) : deja las manos libres, que es literalmente lo que necesitas cargando a un niño o cerrando una mochila bajo la lluvia.
+ Pastillas potabilizadoras (8-12 €) : el seguro para cuando las botellas se acaben; ocupan el hueco de una moneda y duran años.
+ Botiquín de curas (8-10 €) : gasas, esparadrapo, antiséptico, guantes, termómetro. La medicación es la que tu casa ya usa, con el consejo de tu farmacéutico.
+ Funda estanca para documentos (5 €) y un USB (3 €) : papeles escaneados, copia en otro domicilio, efectivo pequeño en billetes de 10 y 20.
+ Si te pasas por cinco euros, recorta marcas o busca en el bazar: se llega igual. Y mira lo que no hay en la lista: ni raciones militares, ni navaja de rescate, ni walkie-talkies, ni botella filtrante. Nada de eso merece el primer euro.
+ Lo que es gratis y vale más que lo comprado
+ El hábito de rotación : agua, comida y pilas se compran para consumirse, no para acumularse. Sin rotación, dentro de un año tendrás un kit caducado y una sensación de deber cumplido.
+ La conversación de veinte minutos : decidir dónde duerme el kit (sitio conocido, a la altura de la mano, en el camino de la puerta) y quién hace qué si hay que salir. El guion de conducta lo publica Protección Civil en sus recomendaciones oficiales; a ese guion solo le faltan los nombres de tu familia.
+ La revisión semestral : una alarma el 1 de enero y otra el 1 de julio. Quince minutos, todo repasado.
+ Los teléfonos críticos en papel : 112, centro de salud, farmacia, dos contactos fuera de la ciudad. Con el móvil al 1%, un bolígrafo lo salva todo.
+ Lo que este método no cubre (y está bien que lo sepas)
+ El kit de 50 euros resuelve las 72 horas clásicas: apagón corto, corte de agua, tormenta, un desalojo de una noche. Se queda justo en el invierno largo sin calefacción, en un hogar con bebé, en el tratamiento crónico o en la vivienda aislada sin vecinos. Esos escenarios piden más inversión y más planificación: no porque el kit barato esté mal, sino porque la recomendación de la UE es un suelo, no un techo. Cuando toque crecer, se crece sobre lo que ya tienes: el dinero puesto en método no se tira, se completa.
+ Para el salto de calidad, la lista del kit básico 72h separa lo esencial de lo accesorio, y el kit de apagón añade justo lo que este presupuesto deja fuera: energía y cocina sin electricidad.
+
+### Qué comer si se va la luz: menús de tres días sin cocina y sin nevera — https://kit72h.com/blog/comer-sin-luz-menus-3-dias/
+Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media compra a la basura.
+El 28 de abril de 2025 demostró algo que las guías de kits dicen a medias: el problema de un apagón largo no es tener comida, es tener un frigorífico lleno convertido en cuenta atrás . Cocinar sin electricidad se improvisa; gestionar lo que se estropea, no. Aquí van tres días resueltos: orden de consumo, menús y la compra que cierra el círculo.
+ Las dos reglas que gobiernan todo lo demás
+ La nevera cerrada es tu amiga las primeras 24-48 horas : un frigorífico moderno, bien cargado y sin abrir, aguanta un día y medio en rango fresco; el congelador lleno, más. Cada apertura resta: decid cada mañana qué se va a comer y sacadlo de una vez. Y al abrir, narices atentas: lo que huela o se vea raro, a la basura. Una intoxicación alimentaria en plena crisis es lo último que necesitas, y ahí sí no hay heroicidad que valga.
+ Sin cocinar no significa sin plan : conservas con abre-fácil, pan de molde, fruta de piel dura, frutos secos, barritas, galletas, embutido al vacío, queso curado, chocolate. Lo fresco que depende del frío se consume en orden : eso es el núcleo de este plan.
+ El orden de consumo: primero lo que más llora
+ Primeras 6-12 horas : lo que ya estaba abierto o se abre —yogures, postres, el tupper de la nevera, la ensalada de bolsa, la leche iniciada, el charcutero abierto. Si el corte se anuncia, esta tanda se adelanta a la cena de esa noche: es el momento de hacer la fiesta de la nevera.
+ Día 1 : lo fresco cerrado que exige frío —carne, pescado, lácteos de fecha próxima—, y solo si tenéis dónde cocinarlo : hornillo de campaña, fogón de gas, barbacoa al aire libre (jamás dentro: monóxido de carbono, el asesino silencioso de cada temporal). Sin cocina de gas, esta tanda se comparte con vecinos que sí la tengan o se asume la pérdida: no se come pescado dudoso por orgullo.
+ Días 2 y 3 en adelante : solo despensa —conservas, legumbre de bote, pan, tortitas de molde, fruta resistente, crema de verdura en brick, cacao en polvo que se aguanta con agua. La nevera ya es un armario decorativo: tratadla como tal.
+ Tres días de menú (dos adultos, sin vitro ni microondas)
+ Día 1 — Desayuno: pan de molde con cacahuete y fruta. Comida: ensalada de conserva —garbanzos de bote, atún, tomate aguantado, un golpe de aceite— y fruta. Cena: la tanda fresca resuelta en tabla de quesos curados, embutido al vacío y picos de pan: la cena que en casa normal se llama picoteo y aquí se llama plan.
+ Día 2 — Desayuno: tortitas de molde o galletas, barrita para quien no tenga hambre al levantarse. Comida: legumbre de bote aliñada con ventresca: se sirve fría y nadie la mira raro. Cena: crema de verduras de bote o gazpacho, que cerrado aguantaba a temperatura ambiente y da el pego de plato caliente sin estarlo.
+ Día 3 — Desayuno: los últimos lácteos, que hoy caducan de frío igual. Comida: pasta que hirvisteis de más el día 1 con hornillo, templada con aceite y conserva; o sardinas con pan si el agua no llegó para cocer. Cena: fondo de armario —barritas, frutos secos, chocolate y un bonito con pimientos: la cena de campaña de toda la vida.
+ Fijaos en el hilo de los tres días: ninguna comida depende de un solo tipo de alimento . Falla el pan, queda la conserva; y una vez abierta una lata grande, no hay nevera para la mitad que sobra: se come entera en esa comida o no se abre. En apagón no hay sobras: hay decisiones.
+ La compra de 40-60 euros que hace comestible todo esto
+ Hornillo de campaña con dos o tres cartuchos (15-20 € el conjunto) : convierte en normal hervir pasta, arroz o agua con cualquier duda. Y dos bombonas de butano de repuesto: si se fue la red eléctrica, la cocina de gas de casa funciona — la vitro no, el fuego sí.
+ Agua para beber y para hidratar lo deshidratado: parte del presupuesto, siempre.
+ Abrelatas manual : el objeto más olvidado del kit alimentario y el que más conservas deja sin abrir en el estante.
+ Vajilla de no fregar : vaso, plato y cubierto por persona que sobrevivir al día es también gestionar el agua que no vas a gastar en el fregadero.
+ Bolsas de basura gruesa : todo lo que se estropee se embolsa y sale de casa pronto. Un frigorífico pudriéndose en pleno julio convierte tu cocina en un problema con dos semanas de resolución.
+ Errores que tiran media compra
+ Guardar la reserva junto a la lejía (los vapores contaminan hasta el envase cerrado). Abrir la lata grande pensando en mañana. Fiarse del olfato como juez único con la leche de dos días fuera: ante la duda, fuera, sin debate. Y descubrir el día uno que todas las conservas del cajón exigen un abrelatas que está en casa de tu madre. Estos cuatro fallos, más la nevera abierta por curiosidad, explican el 90% de las comidas perdidas del 28-A.
+ La reserva para este escenario está montada en el kit de apagón —hornillo, agua, comida sin frío— y escalada en el kit de 30 días si quieres despensa de verdad. Las bases de conservación de alimentos, en la web de AESAN .
+
+### Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12) — https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/
+Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios y con criterio.
+La Estrategia de Preparación de la Unión Europea habla de hogares con 72 horas de autonomía, pero las listas estándar están escritas para adultos sanos. Un bebé no come conserva de fabada, no bebe de un bidón de cinco litros y no entiende por qué esta noche dormimos en el pasillo con linternas. Preparar un hogar con niños pequeños no es comprar más: es comprar distinto y repartir responsabilidades según la edad.
+ Antes de la mochila: las tres preguntas
+ Con un niño en casa, el plan se sostiene sobre tres decisiones que conviene tomar ahora, en frío, no el día que suene la alarma:
+ Quién coge a cada niño si hay que salir a las tres de la mañana. Si son dos adultos, uno con el bebé y otro con las mochilas y el mayor. Si vives solo, el orden es: niños primero, kit después; y si el kit no cabe, se sale sin él.
+ Dónde está el punto de encuentro si recoges a los niños del cole y no puedes pasar por casa. Los centros tienen protocolizados sus puntos de reunión: pregunta en el colegio cuál es el suyo y no lo improvises el día del aviso.
+ Qué necesidad específica tiene cada niño (inhaladores, alimentación especial, alergias) y dónde está escrito. Lo clínico lo fijan el pediatra o la enfermera escolar; tú solo lo trascribes a la carpeta de emergencia.
+ 0 a 3 años: el kit de lo que no se improvisa
+ En esta franja todo depende de ti : la comida, el agua, la temperatura, el consuelo. El kit infantil viaja en una bolsa aparte dentro de la mochila de evacuación:
+ Agua extra para preparar biberón : los 3 litros por persona se quedan cortos con un lactante artificial. Con lactancia materna no hace falta stock de leche, solo que la madre beba más.
+ Leche de fórmula y papillas que ya tome , nunca marcas nuevas: una emergencia no es día para experimentar con un intestino de ocho meses. Dosis individuales o botes pequeños, mejor que una lata grande que se estropea abierta sin nevera.
+ Pañales para 72 horas , en su tamaño actual y uno por arriba si estás en transición de tallaje. Calcula 6-8 al día: con los nervios, los intestinos se revuelven.
+ Toallitas, empapador para cambiar en cualquier suelo, crema barrera y bolsas pequeñas para pañales sucios: en una evacuación no hay contenedor a mano.
+ Un objeto de apego : el peluche, la mantita, el mordedor. Suena blando y es de lo más práctico del kit: un niño de dos años consolado es un niño que camina si hay que salir; un niño en pánico es una mano más que cargar.
+ Ropa de cambio doble y muda adaptada al clima real de la semana en que lees esto, no al verano en que llenaste la bolsa.
+ 4 a 12 años: de equipaje que se carga a equipo que entrena
+ Desde los cuatro, el niño pasa de carga a parte del equipo. La diferencia entre una evacuación caótica y una ordenada en esta edad se llama costumbre :
+ Mochila propia a su medida : no el kit completo, sino lo que él puede cargar (5-10% de su peso): su botellín, un frontal que sepa encender a oscuras, galletas, su jersey y su juguete. Que la prepare él: lo que un niño guarda, lo encuentra.
+ Nombre, apellidos y tu teléfono cosidos dentro de la chaqueta y en una tarjeta en el bolsillo. En una separación durante la evacuación, un dato cosido no falla ni se cae: es lo único que funciona sin memoria ni pulsera.
+ Reglas ensayadas como juego : si suena el aviso no me escondo, espero a un adulto, no bajo solo las escaleras y cuento en voz alta a los míos. Dos repasos al año, como el simulacro del cole.
+ La verdad, según la edad : a los 5 no se le cuenta la catástrofe, se le dice que esta noche la casa está de camping; a los 10 se le explica el plan entero. Los niños toleran mejor el miedo si saben qué va a pasar después.
+ Ocupación real para 72 horas sin pantallas: barajas, cómics, libreta y lápices. El aburrimiento del día uno es la angustia del día dos : planifícalo como planificas la comida.
+ Lo que se olvida siempre
+ El cartel de la nevera con el plan : punto de encuentro, contacto fuera de zona, 112. Colgado a la altura de sus ojos, para que el mayor lo lea solo.
+ La cartilla de vacunas y el informe de alergias , copiados en la carpeta de emergencia: si el niño acaba en un punto asistencial, esa hoja vale más que cualquier explicación a prisas.
+ Que los niños comen y beben menos bajo estrés : ofrece agua a menudo, en cantidades pequeñas, sin forzar comidas. Si no orina con normalidad o está decaído, pide consejo sanitario sin esperar.
+ El transporte: el carrito plegable ocupa y salva kilómetros con un pequeño; y la sillita de auto no se queda en casa por muy apurados que vayáis en el coche.
+ La prueba de los diez minutos
+ Antes de dar el plan por bueno, haz la cuenta con la puerta cerrada: ¿sales de tu casa con dos niños, mochilas y carpeta en menos de diez minutos sin volver a por nada? Si la respuesta es no, quita cosas del kit, no añadas reflejos. La carpeta y las mochilas, juntas y en el camino de la puerta , no en el armario del fondo.
+ La mochila para bebé del sitio trae la lista cerrada de la franja 0-3, y la mochila de evacuación explica cómo repartir el peso entre adultos y niños. Cuando los peques ya comen solos, se suma el kit básico 72h para toda la familia.
+
+### Frío y calor sin electricidad: cómo mantener la temperatura corporal — https://kit72h.com/blog/temperatura-sin-electricidad/
+La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.
+En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En una ola de calor sin aire acondicionado, es la deshidratación. Ambos problemas tienen solución con material barato y un poco de física.
+ Conservar el calor
+ Elige una habitación y ciérrala: menos volumen que calentar (o que conservar). Las estancias interiores y pequeñas se mantienen mejor.
+ Aísla por debajo : el suelo roba más calor del que piensas. Alfombras, mantas o cartón bajo los pies.
+ Vestirse en capas funciona mejor que una prenda gruesa: el aire atrapado entre capas es el aislante real.
+ La manta térmica de emergencia (las doradas de 2 €) refleja el calor corporal; funciona mejor por dentro de una manta normal, no sola.
+ Tienda de campaña dentro de casa : suena absurdo, pero una tienda pequeña en el salón crea un microclima que sube varios grados. Los montañeros lo hacen desde siempre.
+ Si usas estufa de butano o brasas , ventila: el monóxido de carbono mata sin oler a nada. Nunca en dormitorio cerrado.
+ Bajar el calor
+ Corriente cruzada al amanecer y de noche ; ventanas cerradas y persianas bajadas durante el día. La regla de oro: abre cuando hace más fresco fuera que dentro, cierra cuando no.
+ Humedece y mueve aire : una sábana húmeda ante la ventana o un pulverizador con cualquier brisa baja la temperatura percibida varios grados.
+ Refresca los puntos clave : muñecas, nuca, cuello y tobillos. Agua fría en esos pulsos enfría la sangre más rápido que remojarse entero.
+ Bebe antes de tener sed y evita alcohol y comidas pesadas; el cuerpo calienta al digerir.
+ Señales de alarma
+ Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.
+ El material está en las guías de ola de calor y hogar ; la estufa y la tienda, en el kit de 30 días .
+
+### Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel) — https://kit72h.com/blog/recursos-oficiales-emergencia/
+En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás falla.
+En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.
+ Los 7 imprescindibles
+ 112 : emergencias en toda la UE, gratis, sin saldo y funciona aunque tu operadora no tenga cobertura. Guárdalo, pero también saberte el número de memoria.
+ AlertCops (app oficial del Ministerio del Interior): alertas de seguridad ciudadana y emergencias geolocalizadas en tu zona. Descárgala ahora; en plena crisis las tiendas de apps también fallan.
+ AEMET (aemet.es y su app): avisos meteorológicos por provincias. En una DANA, el aviso rojo de la AEMET llega horas antes que el agua.
+ Protección Civil (proteccioncivil.es): guías de autoperparación por riesgo y, en crisis, las recomendaciones de conducta. Es la fuente de la que nacen las listas de esta web.
+ Tráfico DGT (app y Twitter/X oficial): estado de carreteras, cortes y desvíos en tiempo real — imprescindible si hay que moverse o evacuar.
+ Boletín y radio FM : la radio a pilas sintonizando las cadenas nacionales y autonómicas es el único medio que sobrevive a un colapso total de redes.
+ Ayuntamiento y comunidad autónoma : cada municipio tiene su plan de emergencia y sus canales (112 autonómico, avisos municipales). Localízalos ahora, no cuando suene la sirena.
+ En papel, porque el móvil muere
+ Anota en tu carpeta: 112, teléfono de Protección Civil de tu municipio, de tu centro de salud, de dos contactos fuera de tu zona, y el número de póliza de tu seguro de hogar. Media página escrita a mano que funciona con el móvil al 0%.
+ Esta web solo enlaza fuentes oficiales; puedes verlas todas en la página de Fuentes oficiales , y las listas de compra que derivan de ellas, en los kits .
+
+### Emergencias en montaña: el kit que te puede salvar — https://kit72h.com/blog/montana-kit-salvavidas/
+Cada año los rescates de montaña se repiten por los mismos fallos: salir tarde, ir ligero de mapa y no llevar lo que evita la hipotermia. La lista honesta.
+La montaña no perdona la improvisación. La mayoría de los rescates del GREIM y de la Guardia Civil no son por aventuras extremas: son excursiones normales que se alargan, niebla que aparece en 20 minutos y gente sin el material básico. Este es el kit que marca la diferencia.
+ Los tres que salvan vidas
+ Manta térmica : la hipotermia llega con 10 °C y viento y lluvia, no hace falta el Ártico. Una manta de aluminio pesa 50 gramos y estabiliza a una persona tiritando.
+ Frontal con pilas de repuesto : perder la luz en montaña convierte un paseo en una noche entera de espera. Siempre en la mochila, no en el coche.
+ Mapa y brújula físicos de la zona : sin cobertura, el móvil es un ladrillo. Saber orientarse con mapa es la habilidad con mejor relación peso-valor del montañismo.
+ Comunicación
+ Powerbank ligero y modo ahorro: apaga datos, deja solo llamadas y mensajería para alargar la batería horas.
+ El 112 funciona sin cobertura de tu operadora : si algún sitio tiene red de cualquier compañía, la llamada sale. En zonas sin cobertura alguna, muévete a una cota despejada.
+ Silbato : tres pitidos es la señal internacional de emergencia. Suena más lejos que la voz y no se agota.
+ Abrigo, agua y reparación
+ Chubasquero aunque no llueva (en montaña el tiempo cambia en una hora), agua de más de la prevista, filtro o pastillas potabilizadoras si hay fuentes en el recorrido, navaja multiuso y cinta adhesiva enrollada en un bolígrafo (arregla botas, bastones y mochilas).
+ Antes de salir
+ Dile a alguien ruta, horario y con quién . Consulta AEMET la víspera (en montaña, la predicción de cumbres, no la de valle). Y date la vuelta: la cumbre siempre estará ahí; volver el próximo fin de semana es gratis.
+ La lista completa y verificada, en el kit de montaña . El botiquín ligero de trekking que recomienda incluye las curas y el material de reparación esenciales.
+
+### Mascotas en una emergencia: plan de evacuación con perros y gatos — https://kit72h.com/blog/mascotas-plan-emergencia/
+No pienses en tu mascota cuando suena la alarma: piénsalo ahora. Sin transportín, chip y plan, un gato en mitad de una evacuación es un problema imposible.
+En las grandes emergencias hay gente que se arriesga (o se queda) por no abandonar a su animal. La forma de evitarlo no es valor, es planificación : un kit de mascota cuesta poco y soluciona el 90% de los problemas.
+ Identificación primero
+ En España, el microchip es obligatorio para perros (y para gatos en la mayoría de comunidades). Verifica que tus datos de contacto están actualizados en la base de datos correspondiente. Añade a la cartilla una foto reciente de vosotros juntos: en un caos, la foto es la prueba de propiedad más rápida.
+ El kit de mascota
+ Transportín rígido por gato, con el nombre y tu teléfono escritos. Los gatos sin transportín no se pueden mover.
+ Correa y arnés de repuesto para perros.
+ Comida para 3-5 días en envases pequeños, más bebedero y comedero plegables.
+ Medicación habitual y libreta sanitaria, guardadas en la misma carpeta que tus documentos.
+ Higiene : arena para gato en bolsa, bolsas para perro, manta vieja.
+ El plan, no solo la mochila
+ Decide ahora dónde dormirías con tu mascota si tuvieras que salir de casa: muchos refugios de emergencia no admiten animales (salvo perros de asistencia). Identifica 2-3 hoteles o familiares cercanos que sí. Y ensaya: un perro que nunca ha visto una evacuación no reacciona igual que uno acostumbrado al transportín.
+ El momento
+ Si evacuas, llévate a la mascota . La promesa de volver a por él se repite en cada DANA; el retorno a una zona catastrófica puede estar prohibido durante días.
+ El kit de hogar incluye comida para mascotas de reserva; para el kit de evacuación , añade el transportín junto a la mochila y no lo uses para nada más el resto del año.
+
+### Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero) — https://kit72h.com/blog/kit-72h-vs-30-dias/
+Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.
+La Unión Europea pide a los hogares 72 horas de autonomía . ¿Por qué 72? Porque es el tiempo típico que tardan los servicios de emergencia en restablecer lo básico en una crisis grave: agua potable, carreteras despejadas, comunicaciones. Pero algunas crisis no se arreglan en tres días. Vamos a comparar los dos niveles.
+ El kit 72h: para el 95% de los escenarios
+ DANA, apagón de red, corte de agua, tormenta, nevada: en casi todos los casos que se han dado en España en las últimas décadas, tres días de agua, comida, luz e información te llevan al otro lado. Cuesta 100-150 €, cabe en una mochila y se mantiene con una revisión cada 6 meses. Si aún no lo tienes, este es tu kit. Está desglosado en el kit básico y en sus variantes por escenario (DANA, apagón, coche…).
+ El kit de 30 días: para el caso extremo
+ Una DANA que aísla tu comarca una semana, un apagón europeo multi-jornada, un confinamiento tipo 2020. Aquí ya no hablamos de mochila sino de despensa : 180 litros de agua para dos personas, comida no perecedera por semanas, forma de cocinar sin electricidad y botiquín de verdad. Es más cara (300-500 €) y necesita rotación activa. La versión completa y calculada está en el kit de 30 días .
+ Por qué el orden importa
+ El kit 72h cubre el primer golpe de cualquier crisis, incluidas las largas: los tres primeros días son siempre críticos.
+ El de 30 días sin el 72h está mal diseñado: quien tiene despensa pero no radio, linterna ni radio de información, falla en lo primero.
+ Comprar al revés (mucho comida, cero preparación) es el error más común: despensas de arroz con la batería del móvil al 5%.
+ La progresión recomendada
+ Kit 72h básico + radio a pilas (este fin de semana).
+ Carpeta de documentos + efectivo (una tarde).
+ Subir despensa hacia 2 semanas, luego 30 días.
+ Huerto y germinados como refuerzo a largo plazo.
+ Los dos kits están calculados para 2 personas y con productos reales verificados: 72 horas · 30 días .
+
+### Semillas, germinados y huerto de emergencia: tu seguridad alimentaria — https://kit72h.com/blog/huerto-emergencia-semillas-germinados/
+Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.
+El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimentaria larga. Y el puente entre ambos son los germinados : la forma más rápida y barata de producir comida comestible en casa, con o sin emergencia.
+ Germinados: comida en 5 días
+ Remoja semillas de berro, alfalfa, lenteja o brócoli 8 horas, enjuágalas dos veces al día en un bote o bandeja, y en 3-6 días tienes verdura fresca con más densidad de nutrientes que la lechuga del súper. Necesitan solo agua y algo de luz indirecta — funcionan incluso en un apagón prolongado.
+ El huerto de balcón mínimo
+ Con 4 horas de sol y tres macetas ya hay para empezar. Los cultivos más agradecidos para principiantes en España:
+ Rábanos : de semilla a mesa en 25-30 días, casi imposible de fallar.
+ Lechugas : cortas hojas exteriores y la planta sigue produciendo semanas.
+ Acelga y espinaca : resistentes, dos cosechas al año.
+ Tomate cherry y pimiento en verano; ajo y cebolla en invierno.
+ Hierbas aromáticas (albahaca, perejil, romero): convierten arroz y conservas en comida de verdad.
+ El material justo
+ Bandejas de germinación reutilizables, un buen sustrato universal y semillas de variedades ecológicas de germinación garantizada. Con eso y una regadera basta; el invernadero de balcón llega cuando ya lleves dos temporadas. Todo verificado está en el kit de huerto y autosuficiencia .
+ Por qué importa más de lo que parece
+ No es que tu balcón te alimente en una crisis: es que saber producir comida cambia tu mentalidad . Quien ha germinado, sembrado y cosechado una vez entiende el ciclo, deja de depender psicológicamente del supermercado y, en una emergencia larga, tiene la habilidad y las semillas. Además, las semillas guardadas de tus mejores plantas son la única reserva alimentaria que se multiplica con el tiempo.
+ Empieza esta semana: un bote de yogur vacío, algodón, berros. En cinco días comes lo que has cultivado — y en el blog seguiremos ampliando el calendario de siembra español.
+
+### "El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero — https://kit72h.com/blog/el-conocimiento-dartnell/
+¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu kit 72h.
+Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que empezar de cero ?
+
+ El Conocimiento: Cómo reconstruir nuestra civilización desde cero ( The Knowledge , en inglés), de Lewis Dartnell — investigador de la Universidad de Westminster — es justamente eso: un manual de arranque de la civilización . No es ciencia ficción ni un ensayo catastrofista: es un recorrido riguroso y ameno por lo que haría falta saber para reconstruir lo esencial.
+
+ Qué encontrarás dentro
+
+ 
+ Agricultura de supervivencia : qué cultivar primero, cómo conservar semillas, rotación de cultivos. (Si te interesa esto, ya tienes la guía de huerto urbano del sitio para empezar hoy.)
+
+ Química esencial : cómo hacer jabón, alcohol, ácido sulfúrico — la base de casi todo lo demás.
+
+ Materiales : del carbón vegetal al vidrio, y por qué la madera cocida fue el motor del desarrollo.
+
+ Medicina : antisépticos, anestesia básica, por qué la higiene vale más que los antibióticos.
+
+ Energía y máquinas : la rueda hidráulica, el vapor, y cómo saltarse siglos de prueba y error gracias a que sabes qué buscar.
+
+ 
+ Por qué merece la pena
+
+ Porque el kit de 72 horas te mantiene vivo, pero el conocimiento es lo que te permite reconstruir . Dartnell tiene una idea potente: no necesitaríamos reinventar la rueda — necesitaríamos recordar dónde está apuntada. La ventaja de un superviviente moderno no es la fuerza ni la comida: es que sabe qué es posible .
+
+ Dónde conseguirlo
+
+ Actualmente no hay edición en castellano en Amazon España — la edición original en inglés ( The Knowledge: How to Rebuild Our World After An Apocalypse , paperback) está disponible y es muy legible incluso con inglés medio:
+
+ Ver "The Knowledge" en Amazon 
+
+ Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.
+
+### DANA o apagón: qué hacer en los primeros 30 minutos — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
+Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.
+En una emergencia, los primeros 30 minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Esta es la secuencia que enseñan Protección Civil y la propia UE, ordenada y sin florituras.
+
+ Minuto 0-10: información y comunicación
+
+ 
+ No llames si no es emergencia : el 112 y las líneas se colapsan. Usa mensajes (WhatsApp, SMS) que consumen menos red.
+
+ Enciende la radio a pilas — es la única fuente que funciona si se cae toda la red móvil.
+
+ Mira si el corte afecta a tu calle, barrio o ciudad. Un apagón de portal se soluciona distinto que uno nacional.
+
+ 
+ Minuto 10-20: asegurar tu casa
+
+ 
+ En DANA: baja del sótano, aleja de ventanas, sube lo que se moja . Nunca cruces un cauce de agua a pie ni en coche — 30 cm de agua arrastran un coche.
+
+ En apagón: desconecta electrodomésticos (el pico de retorno al restablecerse la luz quema televisores y ordenadores) y deja un interruptor encendido para saber cuándo vuelve.
+
+ Luz: linterna, no velas si hay niños o si vas a dormirte.
+
+ 
+ Minuto 20-30: plan
+
+ 
+ ¿Te quedas o evacúas? Por defecto, quédate en casa si no hay riesgo estructural: es el lugar más seguro y donde están tus recursos.
+
+ Raciona batería del móvil: modo avión, brillo mínimo. Un powerbank de 20.000 mAh son 3-4 cargas completas.
+
+ Si tienes que salir: abrigo, agua, documentos, algo de comida y silbato. Todo eso ya está pensado en la mochila de evacuación .
+
+ 
+ Y después
+
+ Sigue solo instrucciones de fuentes oficiales (112, Protección Civil, radio FM). Desconfía de bulos en redes: en el apagón del 28 de abril de 2025 en España circularon decenas, y varios causaron daños reales.
+
+### Comunicar sin red: qué funciona cuando se cae el móvil — https://kit72h.com/blog/comunicar-sin-red-movil/
+En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de 40 €.
+El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la red cae. Y en una DANA las antenas pueden quedarse sin electricidad ni fibra durante días. Si tu plan de familia depende de WhatsApp, no tienes plan. Alternativas reales, de gratis a baratas:
+ 1. SMS y mensajes cortos
+ Los SMS usan una señal mínima que funciona cuando las llamadas y los datos no . Acuerda con tu familia: si la red va justa, no llaméis — mandad un SMS corto con estado y ubicación.
+ 2. El contacto fuera de zona
+ Técnica clásica de Protección Civil: designa a una persona que viva lejos (otra comunidad, otro país) como punto de contacto. Las llamadas locales saturan; una llamada larga distancia o a otra región a veces pasa. Todos llamáis a esa persona, ella centraliza.
+ 3. Radio FM/AM a pilas
+ No es para hablar, es para saber: en un colapso de telecomunicaciones, la radiodifusión (emisores grandes, antenas propias) es el último canal de información en pie. La radio a pilas o de dinamo es el objeto más infravalorado del kit.
+ 4. Walkie-talkies PMR446
+ Por 30-40 € el par, sin licencia en España, 2-5 km en ciudad (más en campo). Perfectos para coordinarse entre casas de la misma urbanización o en un camping. Guárdalos con pilas nuevas y sin usarlas como juguete.
+ 5. Mensajería que se apaga sola
+ Aplicaciones de mesh (bridges sin antena, como las de radio Bluetooth entre móviles cercanos) existen, pero todas requieren que ambos las tengan instaladas de antes. Instálalas ahora en los móviles de la familia — en plena crisis no se puede descargar nada.
+ El plan familiar en una frase
+ Si no hay red: todos mandan SMS al contacto fuera de zona con «estoy bien / dónde estoy / qué necesito», y nos reunimos en el punto acordado si pasan 24 horas sin contacto. Escribe ese punto en papel: bajo el campanario, la gasolinera de la autovía, casa de la tía.
+ La radio y los powerbank que sostienen esta comunicación están en el kit básico 72h y en el kit de apagón .
+
+### Cómo montar tu kit de emergencia 72 horas paso a paso — https://kit72h.com/blog/como-montar-tu-kit-72h/
+La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.
+Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomienda que todos los hogares tengan provisiones para 72 horas . No es paranoia: es lo mismo que Protección Civil lleva años diciendo sobre DANA, apagones y cortes de suministro. Un kit 72h bien montado son unos 100-150 € y cabe en una mochila.
+
+ La regla de oro: agua primero
+
+ Calcula 3 litros por persona y día . Para una familia de tres personas son 27 litros: combinación de garrafas (renuévalas cada 6 meses) y pastillas potabilizadoras como plan B. El agua es lo primero que se acaba y lo único que no se improvisa.
+
+ Comida que no pide nada
+
+ Comida no perecedera que se coma sin cocinar o solo con agua caliente: conservas, latas de legumbres, raciones deshidratadas, barritas y frutos secos. Un consejo que casi nadie da: compra comida que te guste de verdad . En una emergencia vas a comer eso tres días seguidos.
+
+ Luz, información y batería
+
+ Una linterna por persona (el frontal deja las manos libres), radio a pilas o dinamo (en un apagón general es tu única fuente de información), powerbank de al menos 20.000 mAh y pilas de repuesto. Vela sí, pero con cuidado: es la causa típica de incendios en apagones.
+
+ El botiquín y los papeles
+
+ Botiquín básico con curas, antiséptico y la medicación habitual de la casa con margen. Y una carpeta o funda estanca con fotocopias de DNI, escrituras y pólizas, más una copia digital en USB. Cinco minutos que te ahorran meses de papeleo.
+
+ Dónde guardarlo
+
+ En un sitio conocido por toda la familia y accesible sin luz. Revisa caducidades cada 6 meses — pon un recordatorio en el móvil ahora mismo, no lo dejes para luego.
+
+ Empieza por la lista del kit básico 72h y ve marcando lo que ya tienes. No hace falta comprarlo todo de golpe.
+
+### Coche y emergencias: lo obligatorio en 2026 y lo que conviene — https://kit72h.com/blog/coche-kit-emergencia-2026/
+La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA o en un atasco de nieve.
+El kit del coche es el único que llevas encima todos los días, y también el más legislado. Repasamos qué es obligatorio en 2026 y qué conviene añadir por tu cuenta.
+ Lo obligatorio
+ Baliza V-16 conectada : desde el 1 de enero de 2026 es el único medio legal de señalizar una parada en vía. Debe llevar certificado de homologación de la DGT y conectividad: las falsas multan y no señalizan.
+ Chaleco reflectante dentro del habitáculo, al alcance antes de bajar.
+ Documentación : permiso de circulación, tarjeta ITV y seguro.
+ Lo que conviene (y no es obligatorio)
+ Botiquín compacto : curas, gasas, antiséptico, guantes.
+ Manta térmica : un atasco de nieve o una avería en febrero se hacen eternos sin ella.
+ Agua y barritas : dos botellas y algo de comer no ocupan.
+ Cadenas o calcetines textiles si transitas zonas de montaña o del norte en invierno.
+ Linterna y powerbank cargado : el móvil es tu radio y tu mapa.
+ Escenarios que no son un accidente
+ El coche es también tu refugio de emergencia en un DANA (nunca cruces un vado; 30 cm de agua arrastran un coche) y tu vivienda temporal si tu zona se ve afectada. Por eso el kit del coche repite varios elementos del de 72h.
+ Revisa el kit del coche dos veces al año con el cambio horario: agua que no haya congelado, pilas nuevas y baliza con batería en fecha. La lista completa, en el kit de coche .
+
+### Documentos y dinero: la carpeta de emergencia que todo hogar debería tener — https://kit72h.com/blog/carpeta-de-emergencia-documentos/
+Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses menos de papeleo después.
+En cada DANA o incendio grave en España se repite la misma escena: familias que lo han perdido casi todo y que, además, no pueden probar que la casa era suya o que tenían el coche. La carpeta de emergencia es el elemento más barato y con mayor retorno de todo el kit: cuesta menos de 10 € y ahorra meses de trámites.
+ Qué va dentro
+ Fotocopias de DNI/NIE de todos los miembros de la familia, incluidos menores.
+ Propiedad : escrituras o nota simple del Registro, contrato de alquiler, referencia catastral.
+ Seguros : póliza de hogar, coche y vida, con número de póliza y teléfono de aviso destacado a mano.
+ Salud : tarjeta sanitaria de cada uno, informe de medicación habitual, cartilla de vacunas de los niños.
+ Finanzas : IBAN de tus cuentas, contrato de hipoteca, último recibo de cada servicio.
+ Familia : teléfono de dos o tres contactos de confianza fuera de tu zona (si tu ciudad se queda sin red, alguien de fuera sí puede coordinar).
+ Formato papel + digital
+ El papel sobrevive a un móvil sin batería; el digital sobrevive a una casa inundada. Necesitas ambos: la carpeta física en una funda estanca y una copia digital cifrada en un USB que guardas en otro lugar (trabajo, casa de un familiar), más una copia en la nube.
+ Efectivo
+ En un apagón los datáfonos y cajeros no funcionan — lo vivimos el 28 de abril de 2025. Ten en casa billetes pequeños (10-20 €) , en efectivo suficiente para 2-3 días de gasolina, comida y farmacia. Y no lo anuncies: el efectivo de emergencia es discreto.
+ La mochila de evacuación ya contempla carpeta estanca y USB cifrado; la de hogar , una caja fuerte pequeña para los originales.
+
+### Botiquín de emergencia: qué llevar de verdad (y qué sobra) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
+Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
+El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno de cosas que nunca usarás, y no tener ni un paquete de tu medicación habitual. Un botiquín de emergencia se diseña desde tu casa hacia fuera , no desde la tienda.
+ La base que sí importa
+ Medicación habitual con margen de 1-2 semanas mínimo (insulina, inhaladores, antihipertensivos). Es lo más crítico y lo primero que se agota en una crisis.
+ Curas : tiras adhesivas, gasas estériles, esparadrapo, vendas de distintos tamaños.
+ Antisépticos : povidona yodada o clorhexidina, suero fisiológico para limpiar heridas y ojos.
+ Herramientas : tijeras, pinzas, termómetro digital, guantes desechables.
+ Analgésicos y antitérmicos básicos (paracetamol, ibuprofeno), siguiendo siempre las indicaciones de tu farmacéutico.
+ Qué sobra casi siempre
+ Los grandes kits de tienda incluyen torniquetes de combate o instrumental que en un hogar normal no vas a usar jamás. Lo que te va a pasar es una cortadura, una quemadura de cocina o una gastroenteritis. Cubre eso de sobra antes de pensar en lo exótico.
+ Caducidades: el punto débil
+ Toda la medicación tiene fecha. Revisa el botiquín cada 6 meses (el mismo recordatorio que el agua del kit 72h) y apunta la fecha en la tapa. Cuando renueves, las farmacias aceptan el medicamento caducado para su correcta destrucción — por SIGRE, nunca a la basura.
+ Dónde guardarlo
+ En un sitio fresco, seco, conocido por toda la familia y fuera del baño : la humedad de las duchas degrada medicación y apósitos. Una caja rígida con cierre te sirve; para el coche, una bolsa compacta.
+ Si quieres una lista cerrada y equilibrada, el kit de hogar incluye la sección de salud completa y el kit de 30 días añade un botiquín de 222 piezas con lo esencial cubierto.
+
+### Apagón: lecciones del 28 de abril de 2025 en España — https://kit72h.com/blog/apagon-lecciones-28a/
+El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
+El lunes 28 de abril de 2025, a las 12:33, se fue la luz en toda la península. En pocos minutos se pararon metros, semáforos, cajeros y datáfonos; las redes móviles colapsaron en horas. Para muchos fue la primera vez que vieron en primera persona por qué se recomienda un kit de emergencia. Estas son las lecciones.
+ 1. La información es lo primero que falta
+ Sin móvil ni televisión, la única fuente fiable fue la radio a pilas o de dinamo . Quien tenía una supo qué pasaba; quien no, se fió de rumores. Si solo compras una cosa después de leer esto, que sea la radio.
+ 2. El efectivo volvió a ser el rey
+ Sin datáfonos, solo funcionaron los comercios con caja manual y dinero. Quien llevaba billetes pequeños compró; quien no, esperó. Ten en casa billetes de 10-20 € para 2-3 días.
+ 3. La luz de móvil no basta
+ Encender la linterna del móvil durante horas se come la batería que necesitas para emergencias. Linterna o frontal dedicado, con pilas de repuesto. Las velas solo con cuidado extremo — son la causa típica de incendios en apagones.
+ 4. El ascensor no es un juego
+ Hubo personas atrapadas durante horas. Si vives en un piso alto, asume que en un apagón las escaleras son el camino; si tienes movilidad reducida, ten un plan acordado con vecinos.
+ 5. Los semáforos no funcionan: la vía es del que peor conduce
+ Las ciudades se convirtieron en un caos de cruces sin señalización. Si conduces durante un apagón, trátalo como un cruce con prioridad a la derecha y extrema la atención.
+ 6. La espera fue larga
+ En muchas zonas la luz volvió en horas, pero en otras tardó toda la noche. Un kit pensado para 72 horas cubre con holgura un apagón nacional; el kit de 30 días cubre el caso extremo de que algo así se alargue.
+ La lista completa para este escenario está en el kit de apagón : radio, luz, energía, cocina sin electricidad y efectivo, en cinco secciones.
+
+### Cómo almacenar agua y comida en casa sin que se estropee — https://kit72h.com/blog/almacenar-agua-comida-casa/
+Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.
+Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el día que lo necesitas (a veces años después), es la parte que casi todo el mundo hace mal. Reglas que se aplican igual a un paquete de arroz que a una radio:
+ Los tres enemigos: calor, luz y humedad
+ El sitio ideal es fresco, oscuro y seco : un armario interior de pasillo suele ser mejor que el típico trastero junto a la caldera o la terraza. Nunca directamente sobre el suelo (humedad, plagas) ni junto a productos de limpieza (los vapores contaminan incluso envases cerrados).
+ Agua: el calendario manda
+ Envases comerciales cerrados: renovar cada 6-12 meses . No es que el agua caduque: el envase degrada y el cloro residual se evapora.
+ Guárdala lejos del sol y de olores fuertes; el plástico absorbe gasolina, lejía o detergentes.
+ Si hay aviso previo (temporal, corte de agua), llena bañera, cubos y ollas: es agua de uso no potable, perfecta para cisterna e higiene.
+ Para almacenar agua propia a largo plazo, usa solo envases alimentarios nuevos con tapa hermética.
+ Comida: primero en entrar, primero en salir
+ Escribe la fecha de compra en cada pack con rotulador. Sin fecha, en seis meses ya no sabrás qué es viejo.
+ Rotación real: consume de la despensa de emergencia en tu día a día y repon al hacer la compra. La reserva que nunca se come se tira; la que se rota, nunca caduca.
+ Vida útil orientativa de lo bien almacenado: latas y frascos 3-5 años (o más), arroz y pasta 2-3 años , comida deshidratada/militar 2-5 años , leche en polvo 2-3 años cerrada. Barritas y frutos secos: mucho menos, al año.
+ Descarta latas abombadas, oxidadas en costuras o con golpes profundos: botulismo, sin negociación.
+ Inventario cada 6 meses
+ El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.
+ Las cantidades por persona y periodo están calculadas en el kit 72h y en el kit de 30 días , con precios reales de Amazon para cada pack.
+
+### Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla — https://kit72h.com/blog/agua-cuanta-y-como/
+3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
+El agua es la prioridad número uno de cualquier kit de emergencia. Un ser humano aguanta semanas sin comida, pero pocos días sin agua — y en una situación de calor o esfuerzo, mucho menos.
+
+ La cuenta
+
+ 3 litros por persona y día para beber , y añade 2-4 litros más si tienes que contemplar higiene básica (lavarse manos y dientes, limpiar heridas). Para 72 horas, una persona necesita 9 litros de beber. Una familia de 4: 36 litros. Es más de lo que la gente intuye, y por eso casi todo el mundo lleva poca.
+
+ Cómo almacenarla
+
+ 
+ Garrafas alimentarias de 5-8 L: las más prácticas. Guárdalas en sitio fresco y oscuro, nunca junto a productos de limpieza.
+
+ Renueva el agua cada 6 meses . El agua no caduca, pero el envase puede degradar y las bacterias circulan. Cuando la renueves, usa la vieja para regar o limpiar.
+
+ Llena también la bañera y fregaderos si tienes aviso previo (DANA, tormenta): agua de uso no potable para descargar la cisterna y fregar.
+
+ 
+ Potabilizar: tus tres opciones
+
+ 1. Hervir (1 minuto de ebullición): el método más seguro si tienes fuego. Consumo de gas o electricidad.
+
+ 2. Pastillas potabilizadoras (cloro o plata coloidal): 30 minutos, no ocupan nada, aguante de años. La opción del kit por su relación peso-efectividad.
+
+ 3. Filtro de cerámica o membrana : útil en montaña o si la emergencia dura. Más caro, requiere mantenimiento.
+
+ Errores típicos
+
+ Guardar el agua en envases que no eran alimentarios (botellas de refresco recicladas durante años), dejar las garrafas al sol, y confiar en "ya me las apañaré". En el 90% de las emergencias reales en España (DANA, apagón, corte de suministro) el problema no es que no haya agua: es que no hay agua potable en tu casa el primer día .

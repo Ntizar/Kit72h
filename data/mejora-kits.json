@@ -1,5 +1,5 @@
 {
-  "_nota": "Contenido de enriquecimiento de los 10 kits originales. Generado 2026-09-02 por Mastermind para David Antizar. Se fusiona en data/kits.json con scripts/fusionar-mejoras.py. El cron kit72h-editor puede ampliar estos campos, nunca borrarlos.",
+  "_nota": "Contenido de enriquecimiento de los 10 kits originales. Generado 2026-09-02 por Mastermind para el proyecto. Se fusiona en data/kits.json con scripts/fusionar-mejoras.py. El cron kit72h-editor puede ampliar estos campos, nunca borrarlos.",
   "mejoras": {
     "basico-72h": {
       "paraQuien": "Para cualquier hogar de España, empiece por donde empiece. Es la bolsa de resiliencia que pide la UE desde marzo de 2025: agua, comida, luz, información, documentos y abrigo para aguantar 72 horas sin servicios. Si sólo vas a montar un kit, que sea éste.",

@@ -424,4 +424,15 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   font-size:9.5px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;
   color:var(--rojo);display:block;margin-top:2px;
 }
+/* --- Enlaces-carta: anchor como tarjeta --- */
+a.card-kit,a.card-adapt{color:inherit;text-decoration:none}
+
+/* --- Tablas del blog: scroll horizontal en móvil (a prueba de desbordes) --- */
+.tabla-scroll{overflow-x:auto;max-width:100%;margin:14px 0;border:var(--b);-webkit-overflow-scrolling:touch}
+.cuerpo-blog table{border-collapse:collapse;width:100%;min-width:520px;font-size:13px}
+.cuerpo-blog th,.cuerpo-blog td{border:1px solid #cfc4ad;padding:9px 12px;text-align:left;vertical-align:top}
+.cuerpo-blog th{background:var(--marron);color:var(--crema);font-size:11.5px;letter-spacing:1px;text-transform:uppercase}
+.cuerpo-blog tbody tr:nth-child(even){background:#e8e0cf}
+.tabla-scroll:has(table){position:relative}
+
 @media(max-width:640px){.tagline{display:none}.hero-arte{height:min(240px,34vh)}}

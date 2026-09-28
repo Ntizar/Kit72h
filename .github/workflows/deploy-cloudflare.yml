@@ -15,6 +15,12 @@ jobs:
       - name: Descargar el repo
         uses: actions/checkout@v4
 
+      - name: Regenerar SEO (sitemap, feed, llms)
+        run: python3 scripts/generar-seo.py
+
+      - name: Pre-renderizar rutas a HTML estático
+        run: python3 scripts/prerender.py
+
       - name: Desplegar con wrangler
         uses: cloudflare/wrangler-action@v3
         with:

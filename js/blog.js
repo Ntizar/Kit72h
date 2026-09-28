@@ -8,7 +8,7 @@ const blog = {
   async cargar() {
     if (this.entradas.length) return this;
     try {
-      const resp = await fetch('data/blog.json');
+      const resp = await fetch('/data/blog.json');
       if (resp.ok) {
         const d = await resp.json();
         this.entradas = d.entradas || [];

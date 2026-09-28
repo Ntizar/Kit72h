@@ -1,0 +1,32 @@
+# Kit72h — cabeceras Cloudflare Pages (CF Pages lee este fichero)
+# Caché agresiva en assets versionados + ABIERTO a bots de IA y tooling.
+
+/data/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
+
+/css/*
+  Cache-Control: public, max-age=86400
+
+/js/*
+  Cache-Control: public, max-age=86400
+
+/llms.txt
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/llms-full.txt
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/feed.xml
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=1800
+
+/sitemap.xml
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
