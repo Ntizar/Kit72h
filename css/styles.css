@@ -424,6 +424,26 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   font-size:9.5px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;
   color:var(--rojo);display:block;margin-top:2px;
 }
+/* --- Bloques de Tu lista: identidad propia por apartado --- */
+.bloque-lista{position:relative;overflow:hidden;padding-top:28px}
+.bloque-lista::before{content:"";position:absolute;top:0;left:0;right:0;height:8px;background:var(--bc)}
+.bloque-top{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:12px}
+.bloque-flag{
+  font-size:11.5px;font-weight:700;letter-spacing:2px;text-transform:uppercase;
+  background:var(--bc);color:#0E0C09;padding:7px 11px;border:1.5px solid var(--negro);
+}
+.bloque-icono{width:36px;height:36px;color:var(--bt);flex-shrink:0}
+.bloque-lista .presup{color:var(--bt)}
+.bloque-lista .btn-amazon{background:var(--bc);color:#0E0C09}
+.bloque-lista .btn-amazon:hover{box-shadow:4px 4px 0 var(--negro)}
+.b-agua{--bc:#2F86BD;--bt:#1D6A9A}
+.b-luz{--bc:#EFA02B;--bt:#8A5B10}
+.b-energia{--bc:#D14B27;--bt:#A03518}
+.b-salud{--bc:#8FA03F;--bt:#56621F}
+.b-comida{--bc:#D9B98C;--bt:#8A6A38}
+.b-docs{--bc:#8A7448;--bt:#6B5832}
+@media(max-width:640px){.bloque-icono{width:32px;height:32px}}
+
 /* --- Enlaces-carta: anchor como tarjeta --- */
 a.card-kit,a.card-adapt{color:inherit;text-decoration:none}
 

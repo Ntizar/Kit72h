@@ -58,20 +58,29 @@ const ui = {
   /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
   htmlHome() {
     const bloques = [
-      ['01', 'AGUA', 'Lo primero', 'Reserva agua potable para cada persona y ajústala a su edad, salud y circunstancia. Revisa envases y caducidad.', '5–20 €', 'garrafa+agua+potable+almacenamiento', 'Buscar recipientes'],
-      ['02', 'LUZ', 'Ver sin red', 'Una linterna LED fiable y pilas de repuesto. Una por hogar es un comienzo; reparte más si sois varios.', '10–30 €', 'linterna+led+pilas+emergencia', 'Buscar linternas'],
-      ['03', 'ENERGÍA', 'Sigue conectado', 'Batería externa cargada, cable compatible y, si te encaja, radio de pilas para recibir información.', '20–65 €', 'powerbank+20000mah+radio+emergencia', 'Buscar energía'],
-      ['04', 'SALUD', 'Cuida de los tuyos', 'Botiquín básico, tus medicamentos habituales y necesidades específicas de bebés, mayores o mascotas.', '15–45 €', 'botiquin+primeros+auxilios+hogar', 'Buscar botiquines'],
-      ['05', 'COMIDA', 'Algo que comer', 'Alimentos duraderos que ya consumís, adaptados a alergias y dietas. Rótalos y añade un abrelatas si lo necesitas.', '15–50 €', 'alimentos+no+perecederos+emergencia', 'Buscar comida'],
-      ['06', 'DOCUMENTOS', 'Lo irreemplazable', 'Copias de identificación, contactos importantes y una funda impermeable. Guárdalos con cuidado, fuera del alcance ajeno.', '7–25 €', 'bolsa+impermeable+documentos', 'Buscar fundas']
+      {k:'agua', n:'01', cat:'AGUA', t:'Lo primero', d:'Reserva agua potable para cada persona y ajústala a su edad, salud y circunstancia. Revisa envases y caducidad.', p:'5–20 €', q:'garrafa+agua+potable+almacenamiento', b:'Buscar recipientes',
+       ic:'<path d="M12 3 C12 3 5 10.5 5 15 a7 7 0 0 0 14 0 C19 10.5 12 3 12 3 Z"/><path d="M9 15.5 a3 3 0 0 0 3 3"/>'},
+      {k:'luz', n:'02', cat:'LUZ', t:'Ver sin red', d:'Una linterna LED fiable y pilas de repuesto. Una por hogar es un comienzo; reparte más si sois varios.', p:'10–30 €', q:'linterna+led+pilas+emergencia', b:'Buscar linternas',
+       ic:'<path d="M12 3 a6 6 0 0 1 3.5 10.9 c-.6.5-1 1.3-1 2.1 H9.5 c0-.8-.4-1.6-1-2.1 A6 6 0 0 1 12 3 Z"/><path d="M9.5 19 h5 M10.5 21.5 h3"/>'},
+      {k:'energia', n:'03', cat:'ENERGÍA', t:'Sigue conectado', d:'Batería externa cargada, cable compatible y, si te encaja, radio de pilas para recibir información.', p:'20–65 €', q:'powerbank+20000mah+radio+emergencia', b:'Buscar energía',
+       ic:'<path d="M13 2 L5 14 h6 l-2 8 8-12 h-6 z"/>'},
+      {k:'salud', n:'04', cat:'SALUD', t:'Cuida de los tuyos', d:'Botiquín básico, tus medicamentos habituales y necesidades específicas de bebés, mayores o mascotas.', p:'15–45 €', q:'botiquin+primeros+auxilios+hogar', b:'Buscar botiquines',
+       ic:'<rect x="3.5" y="3.5" width="17" height="17"/><path d="M12 8 v8 M8 12 h8"/>'},
+      {k:'comida', n:'05', cat:'COMIDA', t:'Algo que comer', d:'Alimentos duraderos que ya consumís, adaptados a alergias y dietas. Rótalos y añade un abrelatas si lo necesitas.', p:'15–50 €', q:'alimentos+no+perecederos+emergencia', b:'Buscar comida',
+       ic:'<path d="M7 7 h10 v13 a1.5 1.5 0 0 1 -1.5 1.5 h-7 A1.5 1.5 0 0 1 7 20 Z"/><ellipse cx="12" cy="7" rx="5" ry="2"/><path d="M7 11 h10"/>'},
+      {k:'docs', n:'06', cat:'DOCUMENTOS', t:'Lo irreemplazable', d:'Copias de identificación, contactos importantes y una funda impermeable. Guárdalos con cuidado, fuera del alcance ajeno.', p:'7–25 €', q:'bolsa+impermeable+documentos', b:'Buscar fundas',
+       ic:'<path d="M7 3 h7 l4 4 v14 H7 Z"/><path d="M14 3 v4 h4"/><path d="M10 12 h6 M10 16 h6"/>'}
     ].map(b => `
-      <article class="bloque-lista">
-        <span class="bloque-num">${b[0]} / ${b[1]}</span>
-        <h3>${b[2]}</h3>
-        <p>${b[3]}</p>
+      <article class="bloque-lista b-${b.k}">
+        <div class="bloque-top">
+          <span class="bloque-flag">${b.n} / ${b.cat}</span>
+          <svg class="bloque-icono" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${b.ic}</svg>
+        </div>
+        <h3>${b.t}</h3>
+        <p>${b.d}</p>
         <div class="bloque-pie">
-          <span class="presup">Presupuesto orientativo: ${b[4]}</span>
-          <a class="btn-amazon" href="https://www.amazon.es/s?k=${b[5]}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">${b[6]} ↗</a>
+          <span class="presup">Presupuesto orientativo: ${b.p}</span>
+          <a class="btn-amazon" href="https://www.amazon.es/s?k=${b.q}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">${b.b} ↗</a>
         </div>
       </article>`).join('');
 
