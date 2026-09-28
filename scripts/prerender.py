@@ -86,20 +86,26 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
             html = nuevo
         else:
             head.append(f'<meta name="description" content="{escape(desc, quote=True)}">')
-    if 'rel="canonical"' not in html:
-        head.append(f'<link rel="canonical" href="{canonical}">')
-    if 'property="og:url"' not in html:
-        head.append(f'<meta property="og:type" content="website">')
-        head.append(f'<meta property="og:url" content="{canonical}">')
-        head.append(f'<meta property="og:site_name" content="Kit72h">')
-        head.append(f'<meta property="og:title" content="{escape(titulo, quote=True)}">')
-        head.append(f'<meta property="og:description" content="{escape(desc or "", quote=True)}">')
-        head.append(f'<meta name="twitter:card" content="summary">')
+    # canonical y OG: SIEMPRE reemplazar (el shell trae los de home)
+    html = re.sub(r'<link rel="canonical" href="[^"]*">\s*', '', html)
+    head.append(f'<link rel="canonical" href="{canonical}">')
+    html = re.sub(r'<meta property="og:[^"]*" content="[^"]*">\s*', '', html)
+    html = re.sub(r'<meta name="twitter:card" content="[^"]*">\s*', '', html)
+    # JSON-LD inyectado en runs previos: quitar y reponer (los del shell: WebSite/FAQ/ItemList, se quedan)
+    html = re.sub(
+        r'<script type="application/ld\+json">\s*\{[\s\S]{0,3000}?"@type":\s*'
+        r'"(?:Article|BreadcrumbList|BlogPosting|CollectionPage|Blog)"[\s\S]*?\}\s*</script>\s*',
+        '', html)
+    head.append('<meta property="og:type" content="website">')
+    head.append(f'<meta property="og:url" content="{canonical}">')
+    head.append('<meta property="og:site_name" content="Kit72h">')
+    head.append(f'<meta property="og:title" content="{escape(titulo or "Kit72h", quote=True)}">')
+    head.append(f'<meta property="og:description" content="{escape(desc or "", quote=True)}">')
+    head.append('<meta name="twitter:card" content="summary">')
     if ld:
         for bloque in ld:
             head.append(f'<script type="application/ld+json">\n{jsonld(bloque)}\n</script>')
-    if head:
-        html = html.replace("</head>", "\n".join(head) + "\n</head>", 1)
+    html = html.replace("</head>", "\n".join(head) + "\n</head>", 1)
     return html
 
 
