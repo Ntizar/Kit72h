@@ -1,0 +1,23 @@
+name: Desplegar a Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    name: Subir el sitio a Cloudflare Pages
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Desplegar con wrangler
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=kit72h --branch=main --commit-dirty=true
