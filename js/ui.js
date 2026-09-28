@@ -35,16 +35,16 @@ const ui = {
       document.title = entrada ? `${entrada.titulo} — Blog Kit72h` : 'Blog — Kit72h';
     } else {
       app.innerHTML = this.htmlHome();
-      document.title = 'Kit72h — Kits de emergencia basados en recomendaciones oficiales';
+      document.title = 'Kit72h — Manual de campaña: kits de emergencia para 72 horas';
     }
     window.scrollTo(0, 0);
   },
 
   htmlHome() {
-    const tarjetas = state.data.kits.map(k => `
+    const tarjetas = state.data.kits.map((k, i) => `
       <div class="card-kit" onclick="ui.irA('kit','${k.slug}')">
         <div class="icono">${k.icono}</div>
-        <h2>${k.titulo}</h2>
+        <h2><span class="num">${String(i+1).padStart(2,'0')}</span>${k.titulo}</h2>
         <p>${k.resumen}</p>
         ${k.coste_total ? `<span class="coste-kit">💰 ${k.coste_total}</span>` : ''}
       </div>`).join('');

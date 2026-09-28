@@ -38,4 +38,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://ntizar.github.io/Kit72h/sitemap.xml
+Sitemap: https://kit72h.com/sitemap.xml

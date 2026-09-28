@@ -6,7 +6,7 @@
 > producto a producto explicaciones y errores típicos. Blog con guías profundas
 > citando fuentes oficiales.
 
-URL base: https://ntizar.github.io/Kit72h
+URL base: https://kit72h.com
 
 ## Kits
 

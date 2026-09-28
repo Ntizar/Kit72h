@@ -8,7 +8,7 @@ from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
-BASE = "https://ntizar.github.io/Kit72h"
+BASE = "https://kit72h.com"
 kits = json.loads((RAIZ / "data/kits.json").read_text(encoding="utf-8"))
 blog = json.loads((RAIZ / "data/blog.json").read_text(encoding="utf-8"))
 hoy = date.today().isoformat()
