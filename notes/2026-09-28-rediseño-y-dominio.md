@@ -14,3 +14,7 @@
 - Precios de registradores verificados ( Porkbun NO vende .es; .es gratis año 1
   en dominios.es → 14,08 € renovación; STRATO .es 0,96 €/4,92 €; Cloudflare .com
   ~10,44 USD plano) → skill nichos-afiliacion-web.
+- ACTUALIZACIÓN: David pasó token de Cloudflare → guardado en .env de Hermes
+  (CLOUDFLARE_API_TOKEN, nunca en el repo). Zona kit72h.com active, 0 registros.
+  DNS pendiente por bloqueo de aprobaciones → script idempotente listo:
+  `python scripts/crear-dns-cloudflare.py` (crea A+AAAA+www, salta existentes).
