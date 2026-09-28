@@ -2526,6 +2526,1038 @@
           ]
         }
       ]
+    },
+    {
+      "id": "mascotas",
+      "titulo": "Kit mascotas",
+      "slug": "kit-mascotas",
+      "icono": "🐾",
+      "resumen": "Tu perro o tu gato no puede abrir la despensa ni pedir ayuda. Este kit cubre sus 72 horas: agua, comida, forma de llevarlo contigo y sus papeles en regla.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones (animales de compañía en emergencias)",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-09-28"
+      },
+      "paraQuien": "Para cualquier casa con perro o gato. En una evacuación por incendio, inundación o humo, el animal no puede quedarse y no siempre hay sitio para él: la diferencia entre llevártelo y perderlo es tener el transportín y la correa localizables en 30 segundos.",
+      "paraQuien_no": "No es un kit para dejar al animal solo tres días en casa: un animal no se autogestiona como una despensa. Si tu plan de emergencia pasa por marcharte y dejarlo, ese plan no sirve.",
+      "coste_total": "40-90 € (20-40 € si ya tienes transportín y comedero)",
+      "guia": {
+        "antes": [
+          "Guarda el transportín y la correa en el mismo sitio que tu mochila de emergencia, no en el trastero",
+          "Calcula el agua: unos 50-60 ml por kilo y día (un perro de 15 kg bebe casi 1 litro diario; un gato, 200-300 ml)",
+          "Ten copia en papel de la cartilla sanitaria y del número de microchip: te la piden en un albergue o refugio",
+          "Haz una foto reciente del animal contigo y guárdala en el móvil y en papel: es lo que permite demostrar que es tuyo",
+          "Si tu perro necesita bozal por raza potencialmente peligrosa, guárdalo junto a la correa: sin él no dejan subirlo a según qué transporte"
+        ],
+        "durante": [
+          "Los animales perciben el miedo: habla normal, no lo cojas en brazos si es grande, súbelo al transportín sin aspavientos",
+          "Ofrécele agua cada 2-3 horas; el estrés deshidrata más que el calor",
+          "No improvises con comida humana: los cambios bruscos de dieta dan diarreas justo cuando no hay veterinario",
+          "Si hay humo o gases, moja una toalla y tápale el hocico sin cubrir la nariz del todo"
+        ],
+        "despues": [
+          "Vuelve a llenar el agua del animal el mismo día: es la primera cosa que se bebe y la que más se olvida",
+          "Revisa patas y almohadillas (cristales, grapas, quemaduras) al llegar a casa",
+          "Espera unos días antes de bañarlo: el olor propio le da seguridad en un sitio nuevo",
+          "Anota lo que le faltó (comida que no le gustó, comedero incómodo) y corrígelo antes de la próxima"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Agua y comida para 72 horas",
+          "intro": "Lo que bebe y come tu animal durante tres días. Sin tiendas abiertas y sin nevera.",
+          "items": [
+            {
+              "producto": "Agua para el animal (garrafa de 8 L reservada)",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21",
+              "descripcion": "Un perro mediano bebe cerca de 1 litro al día y un gato unos 250 ml. La garrafa va aparte de la tuya: no compitas por el agua.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Comida para mascotas extra (pienso o latas para 72 h)",
+              "afiliado": "https://www.amazon.es/dp/B0FP5RJ53N?tag=nti0c8-21",
+              "descripcion": "Reserva cerrada y a la vista, no medio saco abierto. Pienso o latas, el que ya coma: en una emergencia no es momento de cambiar de dieta.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Comedero y bebedero plegables de viaje",
+              "afiliado": "https://www.amazon.es/s?k=comedero+y+bebedero+plegables+de+viaje&tag=nti0c8-21",
+              "descripcion": "Ocupan nada y evitan que beba de un cuenco sucio improvisado. Con ellos puedes darle agua en la parada del coche.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Comida húmeda en lata (aporta agua y la come estresado)",
+              "afiliado": "https://www.amazon.es/s?k=comida+h%C3%BAmeda+en+lata&tag=nti0c8-21",
+              "descripcion": "Un animal asustado rechaza el pienso seco pero suele aceptar lata. La humedad le ayuda a hidratarse sin beber.",
+              "precio_aprox": "6-14 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Llevártelo contigo",
+          "intro": "Si hay que salir deprisa, esto es lo que decide que salga contigo.",
+          "items": [
+            {
+              "producto": "Transportín rígido o jaula de transporte",
+              "afiliado": "https://www.amazon.es/s?k=transport%C3%ADn+r%C3%ADgido+o+jaula+de+transporte&tag=nti0c8-21",
+              "descripcion": "Con la puerta que cierre bien. Un gato suelto en una evacuación no se recupera: se esconde debajo del primer coche.",
+              "precio_aprox": "25-60 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Correa y arnés de repuesto",
+              "afiliado": "https://www.amazon.es/s?k=correa+y+arn%C3%A9s+de+repuesto&tag=nti0c8-21",
+              "descripcion": "Con la correa puesta y una segunda de reserva. En pánico un perro rompe la de siempre y sale corriendo hacia la carretera.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
+              "afiliado": "https://www.amazon.es/s?k=bozal&tag=nti0c8-21",
+              "descripcion": "Exigido para razas PPP y necesario si va a estar rodeado de gente asustada. Un perro con bozal sube a cualquier transporte.",
+              "precio_aprox": "6-15 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Manta o toalla con su olor de casa",
+              "afiliado": "https://www.amazon.es/dp/B0GSZS62HD?tag=nti0c8-21",
+              "descripcion": "Un sitio nuevo para un animal es una amenaza; su manta es la única señal de que está a salvo. También sirve de abrigo.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Bolsa de transporte acolchada (para animales pequeños)",
+              "afiliado": "https://www.amazon.es/s?k=bolsa+de+transporte+acolchada&tag=nti0c8-21",
+              "descripcion": "Alternativa ligera al transportín rígido para conejos, cobayas o cachorros pequeños.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "extra",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y papeles",
+          "intro": "Lo que te deja pasar con él por un control, un refugio o una frontera.",
+          "items": [
+            {
+              "producto": "Cartilla sanitaria y copia del microchip en carpeta estanca",
+              "afiliado": "https://www.amazon.es/dp/B0FJYC8FH1?tag=nti0c8-21",
+              "descripcion": "Vacunas al día y número de microchip: es el documento que demuestra que el animal es tuyo. En papel, porque el móvil puede quedarse sin batería.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Medicación crónica del animal (30 días)",
+              "afiliado": null,
+              "descripcion": "Insulina, cardíaca, anti-epilépticos, antiparasitario. Si el animal toma algo a diario, en la mochila va un mes, no una semana.",
+              "precio_aprox": "15-60 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Botiquín veterinario básico (gasas, suero, povidona, vendas)",
+              "afiliado": "https://www.amazon.es/dp/B0GK6PV1M4?tag=nti0c8-21",
+              "descripcion": "Cortes en patas, quemaduras o irritación de ojos y oídos. El suero fisiológico limpia heridas y ojos sin dañar.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Termómetro digital (compartido con el botiquín general)",
+              "afiliado": "https://www.amazon.es/dp/B0H8ZDPS7C?tag=nti0c8-21",
+              "descripcion": "Sirve para el animal y para las personas. La fiebre o la hipotermia se miden igual.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y descanso",
+          "intro": "Convivir con él tres días en un sitio cerrado sin que se note demasiado.",
+          "items": [
+            {
+              "producto": "Bolsas de residuos (50+ unidades)",
+              "afiliado": "https://www.amazon.es/dp/B0H8X7LJTM?tag=nti0c8-21",
+              "descripcion": "Lo mismo que usas en casa, pero con reserva: no vas a poder bajar a la calle a por bolsas.",
+              "precio_aprox": "10-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Bandeja y arena para gato (o empapadores)",
+              "afiliado": "https://www.amazon.es/s?k=bandeja+y+arena+para+gato&tag=nti0c8-21",
+              "descripcion": "Un gato con estrés y sin bandeja retiene orina y acaba en el veterinario. La bandeja desechable vale para dos días.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Empapadores absorbentes",
+              "afiliado": "https://www.amazon.es/dp/B0DT6M79BB?tag=nti0c8-21",
+              "descripcion": "Para el transporte o el refugio: protegen el maletero y las superficies si no puede aguantar.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Toallitas limpiadoras",
+              "afiliado": "https://www.amazon.es/dp/B09NYL7FY4?tag=nti0c8-21",
+              "descripcion": "Patas, arena pegada y pelo sucio sin necesidad de agua. Sirven para él y para vosotros.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Identificación y calma",
+          "intro": "Si se suelta o si tenéis que ir a sitios distintos, esto es lo que te permite que vuelva.",
+          "items": [
+            {
+              "producto": "Placa de identificación con tu teléfono grabado",
+              "afiliado": "https://www.amazon.es/s?k=placa+de+identificaci%C3%B3n+con+tu+tel%C3%A9fono+grabado&tag=nti0c8-21",
+              "descripcion": "Un microchip hay que leerlo con un lector; una placa la lee cualquiera. En una emergencia con personal saturado, la placa es más rápida.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Foto reciente del animal contigo (papel y móvil)",
+              "afiliado": "https://www.amazon.es/dp/B07X8H7KR2?tag=nti0c8-21",
+              "descripcion": "Es la prueba de propiedad más eficaz cuando no hay documentos y el que lo recoge no te conoce.",
+              "precio_aprox": "0 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Juguete o objeto familiar (2-3)",
+              "afiliado": "https://www.amazon.es/dp/B0DCC4KNZN?tag=nti0c8-21",
+              "descripcion": "Un animal que no duerme y no para quieto es un problema en un refugio. Su juguete calma más que cualquier órden.",
+              "precio_aprox": "0-10 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Plan B: quién lo cuida si no puedes",
+          "intro": "La parte que casi nadie escribe y la que más se usa de verdad.",
+          "items": [
+            {
+              "producto": "Acuerdo con una persona de confianza (con llaves y ficha del animal)",
+              "afiliado": null,
+              "descripcion": "Hospitalizo, estoy fuera o no llego: alguien con llaves, que sepa dónde está comida y transportín y que conozca el plan.",
+              "precio_aprox": "0 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Lista de residencias y hoteles que admiten animales",
+              "afiliado": null,
+              "descripcion": "En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina.",
+              "precio_aprox": "0 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Protección de datos del animal (copia digital de vacunas con el microchip visible)",
+              "afiliado": "https://www.amazon.es/dp/B07SYB38Q8?tag=nti0c8-21",
+              "descripcion": "Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "extra"
+            }
+          ]
+        }
+      ],
+      "errores": [
+        "Creer que el animal comerá cuando tenga hambre. Un perro o gato asustado deja el pienso. Hay que ofrecerle comida húmeda y sentarse con él, no dejarlo solo con un cuenco.",
+        "Llevarlo sin transportín «porque es muy bueno». Un gato y un perro asustados muerden y escapan; en una evacuación un animal suelto es un animal perdido.",
+        "Olvidar el agua del animal en el recuento. La familia calcula 3 litros por persona y se olvida de que el perro es otro consumidor.",
+        "No llevar la cartilla sanitaria: sin vacunas no lo aceptan en refugios ni residencias y puede no poder cruzar ciertos controles.",
+        "Dejarlo en casa con agua y comida «dos días». Sin ventilación, sin tiendas y con un edificio dañado, dos días pueden ser los últimos salen de la lista de cosas que están bien."
+      ]
+    },
+    {
+      "id": "frio",
+      "titulo": "Kit frío, nieve y calefacción caída",
+      "slug": "kit-frio",
+      "icono": "❄️",
+      "resumen": "Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante nevadas y temperaturas extremas",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-09-28"
+      },
+      "paraQuien": "Para hogares con calefacción de gas o eléctrica (se cae con el apagón), para quien vive en zona de nevadas o heladas, y para mayores y bebés, que pierden temperatura corporal antes que nadie. Filomena dejó a media España sin calefacción y sin poder salir de casa.",
+      "paraQuien_no": "No es un kit de alpinismo ni de nieve extrema en montaña: eso exige material técnico y formación. Y no sustituye a la regla básica: si no puedes mantener la casa por encima de 15 grados, el plan es ir a un sitio caliente.",
+      "coste_total": "80-180 € (la mitad, si aprovechas la ropa de invierno que ya tienes)",
+      "guia": {
+        "antes": [
+          "Comprueba que tienes un detector de monóxido de carbono antes de usar cualquier aparato de combustión dentro de casa (estufas, hornillos, generadores): el CO no se huele ni se ve y mata en habitaciones cerradas",
+          "Prepara una habitación «de refugio»: la más pequeña y con menos ventanas, para calentarla y vivir todos ahí en vez de intentar calentar la casa entera",
+          "Guarda los burletes/plástico para sellar ventanas antes de que hiele: pegarlo a -4 grados no agarra",
+          "Pon el kit de invierno en el coche antes de la nevada, no durante (revisa que las cadenas sean de tu medida y las ruedas no estén bajas)",
+          "Revisa vecinos mayores: el frío en casa no se nota, se acumula"
+        ],
+        "durante": [
+          "Nunca uses una estufa u hornillo de combustión en una habitación sin ventilación: deja una rendija abierta y apaga el aparato antes de dormir",
+          "Vístete por capas (térmica, forro, cortavientos) y cúbrete cabeza, manos y pies: por ahí se pierde más de la mitad del calor",
+          "Bebe agua aunque no tengas sed: con frío se bebe menos y la deshidratación agrava la hipotermia",
+          "No salgas a limpiar la nieve con el estómago vacío ni con zapatos mojados; y no cojas el coche sin rasqueta y sin visibilidad total",
+          "Si tienes que dormir a baja temperatura, hazlo entre dos y con la ropa puesta: el saco o manta se comparte"
+        ],
+        "despues": [
+          "Revisa y limpia el detector de CO y repón pilas y combustible el mismo día: la segunda ola suele llegar antes de una semana",
+          "Sospecha de cañerías congeladas: abre los grifos despacio antes de encender la caldera; un golpe de presión revienta la instalación",
+          "Repón sales, combustible y baterías gastadas: en nieve, lo que se acabó se agota en toda la comarca a la vez",
+          "Comprueba el estado del coche (batería, anticongelante, neumáticos) en cuanto puedas salir"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Calor corporal: la capa que salva",
+          "intro": "Sin calefacción, la ropa es tu casa. Y no vale cualquier ropa: el algodón mojado enfría.",
+          "items": [
+            {
+              "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+              "afiliado": "https://www.amazon.es/s?k=ropa+t%C3%A9rmica+interior&tag=nti0c8-21",
+              "descripcion": "La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Forro polar o jersey de lana",
+              "afiliado": "https://www.amazon.es/s?k=forro+polar+o+jersey+de+lana&tag=nti0c8-21",
+              "descripcion": "Segunda capa: retiene el aire caliente del cuerpo. La lana abriga incluso ligeramente húmeda.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Calcetines de lana (3-4 pares)",
+              "afiliado": "https://www.amazon.es/s?k=calcetines+de+lana&tag=nti0c8-21",
+              "descripcion": "Los pies fríos son el primer aviso de hipotermia. La lana aguanta el sudor mucho mejor que el algodón.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Casquete o gorro de abrigo",
+              "afiliado": "https://www.amazon.es/dp/B0FX9NXD18?tag=nti0c8-21",
+              "descripcion": "Por la cabeza se pierde una parte enorme del calor. De día y de noche, dentro de casa también.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Guantes de abrigo (y unos finos para tareas)",
+              "afiliado": "https://www.amazon.es/s?k=guantes+de+abrigo&tag=nti0c8-21",
+              "descripcion": "Sin manos no puedes hacer nada: ni cocinar, ni abrir un grifo congelado, ni manejar el móvil. Dos pares, uno fino por dentro.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Saco o pijama de una pieza de abrigo (talla actual + una de repuesto)",
+              "afiliado": "https://www.amazon.es/dp/B0H37438Y1?tag=nti0c8-21",
+              "descripcion": "Dormir a 10 grados con pijama ligero no se duerme. La prenda de una pieza evita que el aire entre al moverse.",
+              "precio_aprox": "12-22 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Manta térmica (pack de 2)",
+              "afiliado": "https://www.amazon.es/dp/B0CYDF32J3?tag=nti0c8-21",
+              "descripcion": "Refleja el calor corporal. No da calor por sí sola: hay que envolverse con ella, no ponerla encima como sábana.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Seguridad: el enemigo silencioso es el CO",
+          "intro": "Cuando se cae la calefacción, la gente improvisa con combustión dentro de casa. Ahí es donde llegan las desgracias.",
+          "items": [
+            {
+              "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+              "afiliado": "https://www.amazon.es/s?k=detector+de+mon%C3%B3xido+de+carbono+a+pilas+con+alarma&tag=nti0c8-21",
+              "descripcion": "Obligatorio de facto si vas a usar cualquier aparato de combustión. El CO no se huele, no se ve y no despierta: mata durmiendo.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
+              "afiliado": "https://www.amazon.es/s?k=extintor+de+polvo+abc+de+1-2+kg+con+soporte&tag=nti0c8-21",
+              "descripcion": "Las estufas y los cables recalentados por demanda son las fuentes de incendio típicas en un apagón invernal.",
+              "precio_aprox": "25-45 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Tiracables con interruptor diferencial portátil",
+              "afiliado": "https://www.amazon.es/dp/B0H99C1WWZ?tag=nti0c8-21",
+              "descripcion": "Si tiras de un generador o de un alargador hacia una estufa eléctrica, este aparato es la diferencia entre un fusible y un incendio.",
+              "precio_aprox": "20-40 €",
+              "prioridad": "extra"
+            }
+          ]
+        },
+        {
+          "titulo": "Calefacción sin luz ni gas",
+          "intro": "Calentar una habitación, no la casa entera. Y siempre con ventilación y detector.",
+          "items": [
+            {
+              "producto": "Estufa de gas butano con corte por falta de oxígeno",
+              "afiliado": "https://www.amazon.es/dp/B01M1NCHK8?tag=nti0c8-21",
+              "descripcion": "La opción más eficaz para una habitación pequeña. Exige bombona, ventilación y detector de CO. Nunca para dormir.",
+              "precio_aprox": "60-110 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Hornillo de camping a gas con bombonas (para agua y comida caliente)",
+              "afiliado": "https://www.amazon.es/dp/B0CRN5KNCT?tag=nti0c8-21",
+              "descripcion": "Agua caliente y comida caliente suben la temperatura corporal más rápido que cualquier estufa. Uso al aire libre o con ventana abierta.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Termo pequeño de boca ancha (350-500 ml)",
+              "afiliado": "https://www.amazon.es/dp/B0BWJYXNK3?tag=nti0c8-21",
+              "descripcion": "Una bebida caliente cada dos horas es la forma más barata de mantener el cuerpo a temperatura. El termo la mantiene 6 horas.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Encendedores y cerillas largas",
+              "afiliado": "https://www.amazon.es/dp/B0FZTLMXW9?tag=nti0c8-21",
+              "descripcion": "Prender la estufa o el hornillo con las manos frías y con guantes es difícil. Las cerillas largas evitan quemaduras.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Que el frío no entre: la casa",
+          "intro": "Cerrar la casa a cal y canto para poder calentar una sola habitación.",
+          "items": [
+            {
+              "producto": "Cinta y plástico para sellar ventanas y rendijas",
+              "afiliado": "https://www.amazon.es/dp/B07PDRY2T2?tag=nti0c8-21",
+              "descripcion": "Una ventana vieja mal sellada deja escapar tanto calor como una estufa pequeña puede dar. Diez euros de plástico valen más que subir la estufa.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cortinas térmicas o manta de lana para tapar la ventana",
+              "afiliado": "https://www.amazon.es/s?k=cortinas+t%C3%A9rmicas+o+manta+de+lana+para+tapar+la+ventana&tag=nti0c8-21",
+              "descripcion": "De noche, tapar el cristal es la mejora más barata: el cristal es la superficie más fría de la casa.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Deshumidificador o sachets antihumedad",
+              "afiliado": "https://www.amazon.es/dp/B0B4HRDFVY?tag=nti0c8-21",
+              "descripcion": "Una casa fría y húmeda se siente 3-4 grados más fría y condena la ropa. La humedad es la mitad del problema del invierno sin calefacción.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "En la calle y en el coche: la nieve",
+          "intro": "Filomena no dejó a la gente sin calefacción: la dejó sin poder salir de casa y sin poder coger el coche.",
+          "items": [
+            {
+              "producto": "Rasqueta y cepillo de hielo para el coche",
+              "afiliado": "https://www.amazon.es/s?k=rasqueta+y+cepillo+de+hielo+para+el+coche&tag=nti0c8-21",
+              "descripcion": "Conducir con un rectángulo limpio en el parabrisas es la causa de miles de accidentes cada nevada. Y hay que limpiar el techo: la placa cae al frenar.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Cadenas para nieve o calcetines textiles",
+              "afiliado": "https://www.amazon.es/dp/B0CSDX8LR8?tag=nti0c8-21",
+              "descripcion": "En autopista con nieve hay que circular por el carril derecho y los izquierdos quedan libres para quitanieves (art. 32 RGC). Sin cadenas no subes un puerto.",
+              "precio_aprox": "30-80 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pala de nieve y sales de deshielo (o arena)",
+              "afiliado": "https://www.amazon.es/s?k=pala+de+nieve+y+sales+de+deshielo&tag=nti0c8-21",
+              "descripcion": "Para salir del aparcamiento y para la acera. La sal también evita la placa de hielo a la puerta de casa.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Cables de arranque y anticongelante con protección hasta -25",
+              "afiliado": "https://www.amazon.es/s?k=cables+de+arranque+y+anticongelante+con+protecci%C3%B3n+hasta+-25&tag=nti0c8-21",
+              "descripcion": "El frío mata la batería y congela el circuito refrigerante. Son los dos fallos nº 1 en una ola de frío.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Baliza V-16 conectada homologada (sustituye a los triángulos)",
+              "afiliado": "https://www.amazon.es/dp/B0FHBDDBNT?tag=nti0c8-21",
+              "descripcion": "Con niebla o nieve, bajar a poner triángulos es peligroso: la baliza se pone desde dentro del coche y ya es el único medio legal desde el 1/1/2026.",
+              "precio_aprox": "8-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Elemento luminoso o reflectante para caminar de noche",
+              "afiliado": "https://www.amazon.es/dp/B0H6BL141L?tag=nti0c8-21",
+              "descripcion": "Obligatorio para peatones en arcén de vía interurbana de noche o con mala visibilidad (art. 123 RGC). Con nieve, un reflejante visible a 150 m es lo único que te separa de un coche.",
+              "precio_aprox": "3-10 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Luz, avisos y energía",
+          "intro": "En invierno anochece a las 18:00 y el apagón deja la casa a oscuras y sin calefacción.",
+          "items": [
+            {
+              "producto": "Linterna frontal (manos libres)",
+              "afiliado": "https://www.amazon.es/dp/B0GRMM8ZQS?tag=nti0c8-21",
+              "descripcion": "Con guantes y a oscuras necesitas las dos manos. La frontal es la única luz útil para moverse por una casa fría.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Radio FM/AM a pilas o dinamo",
+              "afiliado": "https://www.amazon.es/dp/B0GWNDVR7S?tag=nti0c8-21",
+              "descripcion": "Los avisos de nevada y las carreteras cortadas llegan por radio cuando la red móvil está saturada o sin luz en las antenas.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Powerbank de 10.000-20.000 mAh",
+              "afiliado": "https://www.amazon.es/dp/B0HC4PGSVV?tag=nti0c8-21",
+              "descripcion": "Ojo: el frío reduce la capacidad hasta la mitad si lo guardas en el coche. Va dentro de casa, en un bolsillo interior si sales.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pilas alcalinas surtidas (AA/AAA)",
+              "afiliado": "https://www.amazon.es/dp/B094D3JGLT?tag=nti0c8-21",
+              "descripcion": "Radio, linterna y detector de CO funcionan a pilas. El detector de CO que se queda sin pilas es un adorno.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            }
+          ]
+        }
+      ],
+      "errores": [
+        "Usar la estufa o el hornillo en una habitación cerrada. Es la causa primera de intoxicación por CO en apagones y nevadas: el aparato consume el oxígeno y devuelve monóxido.",
+        "Intentar calentar toda la casa. Sin calefacción no se calienta una casa, se calienta una habitación: elegirla pequeña y cerrar el resto es la diferencia entre 12 y 18 grados.",
+        "Vestir al bebé o al mayor «con una capa más» de algodón. Encima del algodón hace falta una capa que corta el viento y seca; y a los mayores hay que sacarlos de la casa cuando las manos les salen frías y pálidas.",
+        "Guardar el powerbank y el móvil en el coche. El frío les funde la batería: a 0 grados pierden hasta la mitad de la carga y no recuperan bien.",
+        "Salir a la nieve sin elemento reflectante ni rasqueta. La mayoría de las muertes en nevada no son por frío, son por accidentes de tráfico y atropellos a peatones."
+      ]
+    },
+    {
+      "id": "terremoto",
+      "titulo": "Kit terremoto",
+      "slug": "kit-terremoto",
+      "icono": "🌍",
+      "resumen": "España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante riesgo sísmico",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-09-28"
+      },
+      "paraQuien": "Para quien vive en zona sísmica (Sureste peninsular: Murcia, Almería, Granada, Málaga, Alicante) y, de hecho, para cualquier casa: la mayoría de los daños en un terremoto no son del seísmo, son de objetos que caen y de cortes de gas y luz. El kit es el mismo que te sirve para un apagón.",
+      "paraQuien_no": "No es un kit de rescate ni de escombros: no te convierte en bombero. Tampoco sustituye al refuerzo estructural ni a saber si tu edificio es de los que aguantan: eso no se resuelve con una mochila.",
+      "coste_total": "90-170 € (buena parte coincide con el kit básico 72 h)",
+      "guia": {
+        "antes": [
+          "Fija a la pared las estanterías, la tele y los armarios altos: la causa nº 1 de heridos leves en un seísmo es lo que cae de las paredes",
+          "Localiza la llave de corte de gas y agua y comprueba que gira: después del seísmo vas a tener 30 segundos y las manos temblando",
+          "Deja calzado cerrado y una linterna junto a la cama (bajo la cama, atados): de noche, lo que más corta son los cristales del suelo",
+          "Acordad un punto de encuentro fuera del edificio y un contacto de fuera de la provincia: las líneas locales se saturan, las de fuera no",
+          "Ten la mochila cerca de la puerta de salida, no en el trastero del sótano"
+        ],
+        "durante": [
+          "Agáchate, cúbrete bajo una mesa robusta y agárrate al mueble: el mueble se mueve contigo y te protege de lo que cae",
+          "No salgas corriendo a la escalera ni uses el ascensor: la mayoría de las lesiones ocurren en la huida y en los huecos de escalera",
+          "Aléjate de ventanas, espejos, estanterías y fachadas. Si estás en la calle, ve a un espacio abierto lejos de cornisas y cables",
+          "Si estás en el coche, párate en un sitio abierto, no bajo un puente, farolas ni cables eléctricos",
+          "Si hueles gas, no enciendas nada: ni luces, ni cerillas, ni el móvil cerca de una fuga"
+        ],
+        "despues": [
+          "Ponte calzado cerrado antes de andar por casa: los cristales rotos son la primera causa de heridas y no se ven a oscuras",
+          "Corta el gas y el agua si hay olor o daños, y no enciendas interruptores si sospechas fuga",
+          "Espera y escucha la radio: las réplicas son la norma en las horas siguientes y las instrucciones llegan por emisoras y por ES-Alert",
+          "No te metas en edificios dañados ni uses el ascensor; revisa la estructura antes de quedarte (grietas nuevas, puertas que no cierran)",
+          "Anota daños con fotos y comunícalos al seguro y al ayuntamiento: la ayuda se asigna por zonas declaradas, y para eso hay que documentar"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Cabeza y pies: lo que se rompe primero",
+          "intro": "En un terremoto lo que te hace daño no es el suelo, es lo que cae. Y ese día descubres que estás descalzo.",
+          "items": [
+            {
+              "producto": "Casco de protección",
+              "afiliado": "https://www.amazon.es/s?k=casco+de+protecci%C3%B3n&tag=nti0c8-21",
+              "descripcion": "Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila.",
+              "precio_aprox": "12-35 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Guantes de trabajo reforzados",
+              "afiliado": "https://www.amazon.es/s?k=guantes+de+trabajo+reforzados&tag=nti0c8-21",
+              "descripcion": "Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Calzado cerrado y resistente junto a la cama",
+              "afiliado": "https://www.amazon.es/s?k=calzado+cerrado+y+resistente+junto+a+la+cama&tag=nti0c8-21",
+              "descripcion": "Un par de botas o zapatillas duras atadas bajo la cama. Andar descalzo sobre cristales rotos es la lesión más evitable de un seísmo nocturno.",
+              "precio_aprox": "25-60 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Gafas de protección (o las de sol si no hay otras)",
+              "afiliado": "https://www.amazon.es/dp/B0FY2W5B8T?tag=nti0c8-21",
+              "descripcion": "El polvo, el yeso y las esquirlas van a los ojos. Las de sol cubren y valen como protección básica.",
+              "precio_aprox": "15-40 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Agua y comida sin cocina",
+          "intro": "Puede que el gas esté cortado, que no haya luz y que el agua llegue turbia. La regla es no cocinar nada que necesite más que abrir un envase.",
+          "items": [
+            {
+              "producto": "Agua embotellada (3 L por persona y día)",
+              "afiliado": "https://www.amazon.es/dp/B01DUW98CA?tag=nti0c8-21",
+              "descripcion": "Seis botellas de 1,5 L por persona para 72 horas. La red de agua es de las primeras cosas que se rompe y de las últimas que se repara.",
+              "precio_aprox": "2-5 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pastillas potabilizadoras de agua",
+              "afiliado": "https://www.amazon.es/dp/B0GMXX2G9S?tag=nti0c8-21",
+              "descripcion": "Si la red llega turbia o tienes que usar agua de depósito, 30 minutos de espera y es potable. Pesa nada y sirve para semanas.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Comida lista para comer sin cocción (conservas, barritas, frutos secos)",
+              "afiliado": "https://www.amazon.es/dp/B09TBGX1MK?tag=nti0c8-21",
+              "descripcion": "Conservas, frutos secos y barritas: no hace falta gas ni hornillo. La comida fría y lista es el plan A tras un seísmo.",
+              "precio_aprox": "1-3 €/lata",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Abreconservas manual",
+              "afiliado": "https://www.amazon.es/dp/B00B2N8IFS?tag=nti0c8-21",
+              "descripcion": "Sin electricidad el abrelatas eléctrico no existe y muchas latas no llevan anilla. Cinco euros que pueden dejarte sin cena.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Comida deshidratada o de ración (por si se alarga)",
+              "afiliado": "https://www.amazon.es/dp/B006G5N4XS?tag=nti0c8-21",
+              "descripcion": "Suministros que se alargan más de 72 horas: un seísmo con daño estructural puede dejar semanas de incomodidad.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Luz, aviso y rescate",
+          "intro": "Si quedas atrapado o a oscuras, esta sección es literalmente tu voz.",
+          "items": [
+            {
+              "producto": "Linterna frontal (manos libres)",
+              "afiliado": "https://www.amazon.es/dp/B0GRMM8ZQS?tag=nti0c8-21",
+              "descripcion": "Con escombros y a oscuras necesitas las dos manos. La frontal va en la cabeza y te deja cavar, ayudar y caminar.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "afiliado": "https://www.amazon.es/dp/B0CT3BWC5P?tag=nti0c8-21",
+              "descripcion": "Un silbato se oye más lejos que tu voz y no se agota. Gritar durante horas te deja sin aire; el silbato, no. Es el rescate más barato que existe.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Radio FM/AM a pilas o dinamo",
+              "afiliado": "https://www.amazon.es/dp/B0GWNDVR7S?tag=nti0c8-21",
+              "descripcion": "Tras un seísmo, la radio emite por donde no llega la red móvil. Es tu única fuente de instrucciones si caen los repetidores.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Powerbank de 20.000 mAh + cables",
+              "afiliado": "https://www.amazon.es/dp/B0DFLHZQ18?tag=nti0c8-21",
+              "descripcion": "El móvil es tu linterna de repuesto, tu mapa y tu forma de avisar. Sin batería, nada de eso existe.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pilas alcalinas surtidas (AA/AAA)",
+              "afiliado": "https://www.amazon.es/dp/B094D3JGLT?tag=nti0c8-21",
+              "descripcion": "Radio, linterna y detector de gas funcionan a pilas. Repuesto doble: en una emergencia no hay tienda.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Manta térmica de supervivencia (pack)",
+              "afiliado": "https://www.amazon.es/dp/B0GZ1Q49RH?tag=nti0c8-21",
+              "descripcion": "Si acabas esperando rescate al raso o en un coche, es lo único que evita la hipotermia. Ocupa menos que un móvil.",
+              "precio_aprox": "4-10 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Botiquín, medicación y heridas",
+          "intro": "Un seísmo produce cortes y contusiones, no accidentes raros. Y hay crónicos que no pueden saltarse una dosis.",
+          "items": [
+            {
+              "producto": "Botiquín completo (gasas, vendas, antiséptico, tijeras)",
+              "afiliado": "https://www.amazon.es/dp/B0D9M3CWMW?tag=nti0c8-21",
+              "descripcion": "Cortes y contusiones. Necesitas poder limpiar y vendar sin acudir a urgencias, que estarán desbordadas.",
+              "precio_aprox": "20-30 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Medicación crónica (7-30 días) con copia de recetas",
+              "afiliado": null,
+              "descripcion": "Diabéticos, anticoagulados, hipertensos, asmáticos. Si tu medicación está en una farmacia cerrada, tienes un problema grave en 24 horas.",
+              "precio_aprox": "15-60 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Botiquín de bolsillo para llevar encima",
+              "afiliado": "https://www.amazon.es/dp/B0GK6PV1M4?tag=nti0c8-21",
+              "descripcion": "Un pequeño con gasas y tiritas para el bolsillo o el bolso: las heridas pequeñas se atienden ahí mismo.",
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Sales de rehidratación oral",
+              "afiliado": "https://www.amazon.es/dp/B00NGTCKWS?tag=nti0c8-21",
+              "descripcion": "Con calor, polvo, esfuerzo y poca agua es fácil deshidratarse. También sirve para diarreas.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Cortar gas, agua y luz",
+          "intro": "El daño del seísmo se multiplica por lo que queda abierto después. Esto es lo primero que hay que hacer y nadie tiene a mano.",
+          "items": [
+            {
+              "producto": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
+              "afiliado": "https://www.amazon.es/s?k=llave+de+corte+para+gas+y+agua&tag=nti0c8-21",
+              "descripcion": "Sin ella no puedes cerrar la acometida de gas. Después de un seísmo, una fuga abierta convierte un susto en una explosión.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Navaja multiuso",
+              "afiliado": "https://www.amazon.es/dp/B000IAZDE0?tag=nti0c8-21",
+              "descripcion": "Alicates, destornillador y cuchilla en un bolsillo: cortar una persiana atascada o cerrar una llave sin herramienta.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cuerda de paracord 550 (30 m)",
+              "afiliado": "https://www.amazon.es/dp/B0CKW3F157?tag=nti0c8-21",
+              "descripcion": "Para asegurar una puerta, bajar algo, hacer una camilla improvisada o sujetar una lona. 30 metros de cuerda resuelven lo imprevisible.",
+              "precio_aprox": "8-19 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Polvo, papeles y dinero",
+          "intro": "Lo que necesitas para las horas que vienen después: respirar sin polvo, demostrar quién eres y poder pagar sin datáfono.",
+          "items": [
+            {
+              "producto": "Mascarillas FFP2 (pack)",
+              "afiliado": "https://www.amazon.es/dp/B0GM1QQW1C?tag=nti0c8-21",
+              "descripcion": "El polvo de escombro y yeso irrita y daña los pulmones. Tras un seísmo hay polvo en suspensión durante días.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Carpeta o funda estanca con copias de documentos",
+              "afiliado": "https://www.amazon.es/dp/B0FJYC8FH1?tag=nti0c8-21",
+              "descripcion": "DNI, escrituras, pólizas, recetas: si la casa queda precintada o dañada, los papeles son la diferencia entre reclamar y no poder demostrar nada.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Efectivo en billetes pequeños",
+              "afiliado": "https://www.amazon.es/dp/B00CIZVHXE?tag=nti0c8-21",
+              "descripcion": "Sin luz ni red, el datáfono no funciona y los cajeros están caídos. 100-150 € en billetes de 10 y 20 resuelven agua, comida y combustible.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Copia digital en USB cifrado",
+              "afiliado": "https://www.amazon.es/dp/B07SYB38Q8?tag=nti0c8-21",
+              "descripcion": "Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños.",
+              "precio_aprox": "8-20 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        }
+      ],
+      "errores": [
+        "Salir corriendo a la escalera en cuanto empieza a temblar. La mayoría de lesionados se produce al huir: en un hueco de escalera, con la gente y con lo que cae. El sitio correcto es debajo de una mesa robusta.",
+        "Dormir sin calzado cerca y sin linterna a mano. Un seísmo nocturno + suelo de cristales = pies cortados y a oscuras, justo cuando hay que salir y ayudar.",
+        "Encender una cerilla, la luz o el móvil al oler a gas. Es la chispa que provoca la explosión. Primero cortar el gas, después todo lo demás.",
+        "No saber dónde está la llave de gas ni tener herramienta para cerrarla. Es lo primero que hay que hacer y casi nadie la ha tocado nunca.",
+        "Confundir «la casa está en pie» con «la casa es segura». Hay que revisar grietas nuevas, puertas que no cierran y humedades antes de dormir dentro: las réplicas derriban lo que el primer temblor dejó tocado."
+      ]
+    },
+    {
+      "id": "incendio",
+      "titulo": "Kit incendio forestal y humo",
+      "slug": "kit-incendio",
+      "icono": "🔥",
+      "resumen": "En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante incendios forestales",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-09-28"
+      },
+      "paraQuien": "Para quien vive en interfaz urbano-forestal (viviendas junto a monte, urbanizaciones, pueblos) o en zona de matorral seco, cada vez más superficie de España. Y para el que se ve sorprendido por el humo en la carretera.",
+      "paraQuien_no": "No es un kit para quedarse a defender la casa. Si las autoridades ordenan evacuar, un kit no te convierte en bombero ni en alguien con derecho a quedarse: se evacua.",
+      "coste_total": "60-140 € (el grueso lo tienes o sirve también para otras emergencias)",
+      "guia": {
+        "antes": [
+          "Despeja 10 metros alrededor de la casa: matorral, leña, hierba seca y setos pegados a la fachada son el combustible que lleva el fuego hasta tus ventanas",
+          "Ten chapas o contraventanas de madera para cubrir ventanas y la mochila a la entrada, no en el fondo del garaje",
+          "Apúntate el plan de evacuación del municipio y la ruta alternativa: en un incendio, la carretera que sube al monte es la primera que se corta",
+          "Camina mentalmente la salida de noche: si te despierta un aviso a las 3:00 con humo, no vas a poder improvisar",
+          "Ropa de trabajo y calzado cerrado accesibles: la ropa sintética se derrite sobre la piel"
+        ],
+        "durante": [
+          "Evacúa en cuanto haya orden o humo en el aire, sin cargar más que lo imprescindible: un coche es más rápido que una casa defendida",
+          "Cierra ventanas, puertas y persianas para reducir corrientes, y apaga la ventilación y la calefacción antes de salir",
+          "Si te sorprende en el coche: no salgas y espera con ventanillas cerradas, luces encendidas y el aire en recirculación; el coche protege más que correr",
+          "Si te sorprende a pie: aléjate siempre cuesta abajo y a favor del viento (el fuego sube la ladera más rápido de lo que tú subes), busca zona despejada sin vegetación y, en último caso, tiéndete en un sitio ya quemado",
+          "Cubre nariz y boca con un paño húmedo y no respires por la boca; el humo es más peligroso que la primera línea de llamas"
+        ],
+        "despues": [
+          "No vuelvas hasta que las autoridades lo autoricen: el suelo quemado sigue con puntos calientes y las raíces arden bajo tierra",
+          "Al llegar, no enciendas nada hasta comprobar las instalaciones: suele haber daño en la acometida y en el contador",
+          "Moja por fuera y revisa el perímetro durante horas: los rescoldos se reactivan con el viento",
+          "Denuncia si sospechas del origen y guarda fotos de los daños para el seguro y para el ayuntamiento"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Respirar: el humo mata antes que el fuego",
+          "intro": "En un incendio forestal, casi todas las víctimas mueren por inhalación. Esta sección es la que más importa.",
+          "items": [
+            {
+              "producto": "Mascarillas FFP2 (pack de 10-20)",
+              "afiliado": "https://www.amazon.es/dp/B0GM1QQW1C?tag=nti0c8-21",
+              "descripcion": "Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Gafas de protección ajustadas (o de sol cerradas)",
+              "afiliado": "https://www.amazon.es/s?k=gafas+de+protecci%C3%B3n+ajustadas&tag=nti0c8-21",
+              "descripcion": "El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando.",
+              "precio_aprox": "8-25 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Paños o toallas de algodón (para mojar y tapar boca y nariz)",
+              "afiliado": "https://www.amazon.es/dp/B09NYL7FY4?tag=nti0c8-21",
+              "descripcion": "Un trapo húmedo filtra parte del humo y enfría el aire. Es lo que se usa cuando no hay mascarilla, y ayuda aunque la tengas.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Agua para beber y para mojar paños (garrafa o bidón de 8-10 L)",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21",
+              "descripcion": "El humo seca la garganta y con calor y estrés se bebe menos de lo que se debe. También moja telas al instante.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial"
+            }
+          ]
+        },
+        {
+          "titulo": "Salir en 10 minutos",
+          "intro": "La orden de evacuación no da una tarde para prepararse. Lo que no esté en esta mochila, se queda.",
+          "items": [
+            {
+              "producto": "Mochila resistente al agua de 30-40 L",
+              "afiliado": "https://www.amazon.es/dp/B097Y3R3QY?tag=nti0c8-21",
+              "descripcion": "Ya preparada y junto a la puerta. Si hay que llenarla ese día, estás perdiendo los minutos que cuentan.",
+              "precio_aprox": "30-70 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Carpeta estanca con documentos y algo de efectivo",
+              "afiliado": "https://www.amazon.es/dp/B0FJYC8FH1?tag=nti0c8-21",
+              "descripcion": "DNI, escrituras, pólizas, tarjeta sanitaria y dinero en billetes pequeños. Volver a reconstruir todo sin papeles es un año de trámites.",
+              "precio_aprox": "8-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Linterna frontal y pilas",
+              "afiliado": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=nti0c8-21",
+              "descripcion": "El humo reduce la visibilidad a metros y puede caer la noche. Con las manos libres para llevar, abrir y ayudar.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Radio FM/AM a pilas (avisos oficiales)",
+              "afiliado": "https://www.amazon.es/dp/B06XWZ41RT?tag=nti0c8-21",
+              "descripcion": "Las rutas de evacuación cambian con el viento. La radio da la instrucción vigente cuando la cobertura móvil falla.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Mapa físico de tu zona (carreteras, salidas alternativas)",
+              "afiliado": "https://www.amazon.es/dp/B01LX6Q7XS?tag=nti0c8-21",
+              "descripcion": "Si la red está saturada o sin datos, el mapa en papel te saca; el GPS te deja en la carretera cortada como a los demás.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "afiliado": "https://www.amazon.es/dp/B0HD6RLST6?tag=nti0c8-21",
+              "descripcion": "Si te quedas sin visibilidad en el humo, un silbato es lo que permite que te encuentren. Cabe en el bolsillo.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        },
+        {
+          "titulo": "Ropa que no arde pegada a la piel",
+          "intro": "Lo que llevas puesto decide si el calor te roza o te quema.",
+          "items": [
+            {
+              "producto": "Ropa de algodón o lana de manga larga (no sintética)",
+              "afiliado": "https://www.amazon.es/s?k=ropa+de+algod%C3%B3n+o+lana+de+manga+larga&tag=nti0c8-21",
+              "descripcion": "El poliéster y el nylon se derriten y se pegan a la piel. Algodón y lana protegen y se pueden mojar.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Calzado cerrado y resistente (bota o zapatilla dura)",
+              "afiliado": "https://www.amazon.es/s?k=calzado+cerrado+y+resistente&tag=nti0c8-21",
+              "descripcion": "Nada de sandalias: el suelo quemado y las brasas atraviesan la suela fina. Y no se puede correr con chanclas.",
+              "precio_aprox": "30-80 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Guantes de trabajo de cuero o resistentes al calor",
+              "afiliado": "https://www.amazon.es/s?k=guantes+de+trabajo+de+cuero+o+resistentes+al+calor&tag=nti0c8-21",
+              "descripcion": "Para abrir una puerta metálica caliente, coger una manguera o mover algo que quema. Sin guantes no puedes tocar nada.",
+              "precio_aprox": "10-25 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
+              "afiliado": "https://www.amazon.es/s?k=gorro+o+pa%C3%B1uelo+de+algod%C3%B3n+para+cubrir+cabeza+y+nuca&tag=nti0c8-21",
+              "descripcion": "El calor radiante y las pavesas caen de arriba. Cubrirse la cabeza evita quemaduras en el pelo y el cuello.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Defender la casa si aún hay tiempo",
+          "intro": "Solo mientras no haya orden de evacuar. Diez minutos de preparación pueden salvar la casa; un minuto de más te puede costar la vida.",
+          "items": [
+            {
+              "producto": "Manguera reforzada larga (más un aspersor o pistola)",
+              "afiliado": "https://www.amazon.es/s?k=manguera+reforzada+larga&tag=nti0c8-21",
+              "descripcion": "Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente.",
+              "precio_aprox": "25-60 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
+              "afiliado": "https://www.amazon.es/s?k=extintor+de+polvo+abc+de+6+kg&tag=nti0c8-21",
+              "descripcion": "Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta.",
+              "precio_aprox": "45-90 €",
+              "prioridad": "recomendado",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Azada, rastrillo y desbrozadora manual",
+              "afiliado": "https://www.amazon.es/dp/B00F2NGYAU?tag=nti0c8-21",
+              "descripcion": "Quitar hierba seca y hojarasca en el perímetro es lo que evita que el fuego de suelo llegue a la fachada.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Mochila de agua a presión (16-20 L)",
+              "afiliado": "https://www.amazon.es/s?k=mochila+de+agua+a+presi%C3%B3n&tag=nti0c8-21",
+              "descripcion": "Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona.",
+              "precio_aprox": "25-50 €",
+              "prioridad": "extra",
+              "es_busqueda": true
+            }
+          ]
+        },
+        {
+          "titulo": "Animales y personas que no corren solos",
+          "intro": "Una evacuación se mide por el que más tarda, no por el más rápido.",
+          "items": [
+            {
+              "producto": "Transportín y correa a mano (mascotas)",
+              "afiliado": "https://www.amazon.es/s?k=transport%C3%ADn+y+correa+a+mano&tag=nti0c8-21",
+              "descripcion": "En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje.",
+              "precio_aprox": "25-60 €",
+              "prioridad": "esencial",
+              "es_busqueda": true
+            },
+            {
+              "producto": "Medicación crónica y lista de tratamientos (personas mayores o dependientes)",
+              "afiliado": null,
+              "descripcion": "Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño.",
+              "precio_aprox": "15-60 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Bastón, andador o silla plegable de repuesto",
+              "afiliado": "https://www.amazon.es/dp/B0DB8GRTPL?tag=nti0c8-21",
+              "descripcion": "Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "recomendado"
+            }
+          ]
+        }
+      ],
+      "errores": [
+        "Quedarse a defender la casa con el fuego ya cerca. Las casas se defienden antes (desbrozando y mojando), no cuando el frente está a 200 metros: a partir de ahí solo se evacua.",
+        "Coger el coche hacia el monte «porque está más cerca». El fuego sube la ladera y corta antes la carretera de arriba. La salida de emergencia casi siempre es hacia abajo y a favor del viento.",
+        "Llevar ropa sintética y sandalias. Es la combinación que convierte un roce de calor en quemadura pegada a la piel y una evacuación a pie en imposible.",
+        "Gritar para avisar a alguien a lo lejos. El humo te deja sin aire en minutos: silbato y llamada, nunca carreras ni gritos.",
+        "Creer que el peligro termina cuando se apaga el frente. Los rescoldos se reactivan con el viento, y los árboles y el suelo quemados siguen siendo peligrosos horas después."
+      ]
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea."
