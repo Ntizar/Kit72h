@@ -48,8 +48,48 @@ const ui = {
     window.scrollTo(0, 0);
   },
 
-  /* ---- HOME: cartel táctico ---- */
+  /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
   htmlHome() {
+    const bloques = [
+      ['01', 'AGUA', 'Lo primero', 'Reserva agua potable para cada persona y ajústala a su edad, salud y circunstancia. Revisa envases y caducidad.', '5–20 €', 'garrafa+agua+potable+almacenamiento', 'Buscar recipientes'],
+      ['02', 'LUZ', 'Ver sin red', 'Una linterna LED fiable y pilas de repuesto. Una por hogar es un comienzo; reparte más si sois varios.', '10–30 €', 'linterna+led+pilas+emergencia', 'Buscar linternas'],
+      ['03', 'ENERGÍA', 'Sigue conectado', 'Batería externa cargada, cable compatible y, si te encaja, radio de pilas para recibir información.', '20–65 €', 'powerbank+20000mah+radio+emergencia', 'Buscar energía'],
+      ['04', 'SALUD', 'Cuida de los tuyos', 'Botiquín básico, tus medicamentos habituales y necesidades específicas de bebés, mayores o mascotas.', '15–45 €', 'botiquin+primeros+auxilios+hogar', 'Buscar botiquines'],
+      ['05', 'COMIDA', 'Algo que comer', 'Alimentos duraderos que ya consumís, adaptados a alergias y dietas. Rótalos y añade un abrelatas si lo necesitas.', '15–50 €', 'alimentos+no+perecederos+emergencia', 'Buscar comida'],
+      ['06', 'DOCUMENTOS', 'Lo irreemplazable', 'Copias de identificación, contactos importantes y una funda impermeable. Guárdalos con cuidado, fuera del alcance ajeno.', '7–25 €', 'bolsa+impermeable+documentos', 'Buscar fundas']
+    ].map(b => `
+      <article class="bloque-lista">
+        <span class="bloque-num">${b[0]} / ${b[1]}</span>
+        <h3>${b[2]}</h3>
+        <p>${b[3]}</p>
+        <div class="bloque-pie">
+          <span class="presup">Presupuesto orientativo: ${b[4]}</span>
+          <a class="btn-amazon" href="https://www.amazon.es/s?k=${b[5]}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">${b[6]} ↗</a>
+        </div>
+      </article>`).join('');
+
+    const pruebaItems = [
+      'Agua almacenada para quienes viven contigo',
+      'Linterna con pilas o carga comprobada',
+      'Batería externa cargada y cable',
+      'Botiquín y medicación necesaria',
+      'Comida no perecedera y abrelatas si hace falta',
+      'Copias de documentos y contactos protegidos'
+    ].map((t, i) => `
+      <label class="pr-check"><input type="checkbox" class="pr-chk" id="pr${i}" onchange="ui.pruebaAct()"><span>${t}</span></label>`).join('');
+
+    const adapt = [
+      ['01', 'Corte de luz', 'Ten iluminación, batería, radio y agua accesibles. Comprueba cómo abrir persianas o puertas eléctricas sin corriente.', 'kit-apagon', 'Empieza por luz y energía'],
+      ['02', 'DANA e inundación', 'Protege documentos y medicación de la humedad y sigue los avisos oficiales. No atravieses zonas inundadas.', 'kit-dana', 'Empieza por documentos'],
+      ['03', 'Familia y cuidados', 'Bebés, mayores y mascotas cambian la lista: alimentación, higiene, medicación y necesidades propias.', 'kit-bebe', 'Empieza por salud']
+    ].map(a => `
+      <article class="card-adapt" onclick="ui.irA('kit','${a[3]}')">
+        <span class="n">${a[0]}</span>
+        <h3>${a[1]}</h3>
+        <p>${a[2]}</p>
+        <span class="ir">${a[4]} →</span>
+      </article>`).join('');
+
     const tarjetas = state.data.kits.map((k, i) => `
       <article class="card-kit" onclick="ui.irA('kit','${k.slug}')">
         <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
@@ -60,23 +100,33 @@ const ui = {
           <span class="ir">Abrir →</span>
         </div>
       </article>`).join('');
-    const blogFeatured = blog.entradas.slice(0, 3).map(e => `
+
+    const blogFeatured = blog.entradas.slice(0, 3).map((e, i) => `
       <article class="card-kit card-blog" onclick="location.hash='blog/${e.slug}'">
-        <span class="num">${String(blog.entradas.indexOf(e)+1).padStart(2,'0')}</span>
+        <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
         <span class="meta-blog">⏱ ${e.lectura} de lectura</span>
       </article>`).join('');
+
+    const arte = `<div class="hero-arte" aria-hidden="true"><svg viewBox="0 0 1440 420" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="1200" cy="110" r="44" fill="#8F7B45"/>
+      <path d="M0,300 L180,175 L340,268 L520,145 L700,258 L880,185 L1060,278 L1240,195 L1440,288 L1440,300 L0,300 Z" fill="#D14B27"/>
+      <path d="M0,300 L220,225 L430,300 L640,215 L860,300 L1080,235 L1300,300 L1440,258 L1440,300 L0,300 Z" fill="#9E3417"/>
+      <rect y="300" width="1440" height="120" fill="#EFA02B"/>
+      <rect y="300" width="1440" height="6" fill="#0E0C09" opacity="0.25"/>
+    </svg></div>`;
+
     return `
       <div class="hero">
-        <div class="hero-arte" aria-hidden="true"></div>
+        ${arte}
         <div class="container">
           <span class="chip">Guía práctica · España · 72 horas</span>
           <h1><span class="l1">Se va la luz.</span><span class="l2">Empieza tu plan.</span></h1>
-          <p class="hero-lead">${state.data.kits.length} kits de emergencia con listas de producto verificadas una a una: para quién son, cuánto cuestan y qué errores evitar. Basados en la Comisión Europea, Protección Civil y la DGT. Sin alarmismo.</p>
+          <p class="hero-lead">Los primeros 30 minutos no son para buscar pilas a oscuras. Un kit 72h reúne lo esencial para pasar un corte de suministros o una evacuación breve con más margen y menos improvisación.</p>
           <div class="hero-ctas">
-            <a class="btn ambar" href="#kits">Haz tu kit ↓</a>
-            <a class="btn negro" href="#blog">Leer las guías ↗</a>
+            <a class="btn ambar" href="#kits">Preparar mi kit →</a>
+            <a class="btn negro" href="#prueba">¿Qué tengo ya? ↓</a>
           </div>
           <div class="hero-stats">
             <div><b>${state.data.kits.length}</b><span>Kits por escenario</span></div>
@@ -87,21 +137,64 @@ const ui = {
         </div>
       </div>
       <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('AGUA · LUZ · ENERGÍA · SALUD · COMIDA · DOCUMENTOS')}</div></div>
-      <section class="sec clara">
+      <section class="sec clara" id="plan">
         <div class="container">
           <div class="watermark" aria-hidden="true">72</div>
           <div class="sec-inner">
             <span class="sec-label">01 / El plan</span>
             <div class="plan-head">
-              <h2>Un plan claro.<br><span class="acento">Cero pánico.</span></h2>
-              <p>Cuando falla la luz, el agua o la carretera, los primeros minutos deciden todo. No se trata de acumular: se trata de tener lo justo, saber dónde está y haberlo ensayado una vez. La Estrategia de Preparación de la UE pide 72 horas de autonomía en cada hogar. Aquí la construyes por partes, con presupuesto a la vista.</p>
+              <h2>No es supervivencia.<br><span class="acento">Es estar listo.</span></h2>
+              <p>No necesitas comprarlo todo hoy. Reúne primero lo que ya tienes, identifica huecos y prepara una bolsa accesible. El kit cambia según quién viva contigo.</p>
             </div>
             <div class="plan-grid">
-              <div class="card-plan"><span class="hora">00:00</span><h3>Paras y respiras</h3><p>Confirmas qué pasa con una radio a pilas, no con el grupo del barrio. Desconectas electrodomésticos y guardas el móvil.</p></div>
-              <div class="card-plan"><span class="hora">00:30</span><h3>Activas tu kit</h3><p>Luz, agua, radio y botiquín salen de donde siempre: una caja por hogar que todos conocen. Sin buscar a oscuras.</p></div>
-              <div class="card-plan"><span class="hora">72 H</span><h3>Aguantas sin ayudas</h3><p>Comes bien, te informas y ayudas al vecino. Cuando llegue la ayuda, tú ya no la necesitas.</p></div>
+              <div class="card-plan"><span class="hora">00:00</span><h3>Se interrumpe</h3><p>La luz, la señal o el agua pueden fallar. Ten una linterna a mano y sigue las indicaciones oficiales de tu zona.</p></div>
+              <div class="card-plan"><span class="hora">00:30</span><h3>Localiza tu bolsa</h3><p>Agua, medicación habitual, radio, batería y documentos, juntos y fáciles de coger.</p></div>
+              <div class="card-plan"><span class="hora">72 H</span><h3>Ganas margen</h3><p>Un kit adaptado a tu hogar te ayuda mientras se restablecen servicios o recibes instrucciones.</p></div>
             </div>
-            <p class="disclaimer">Preparación civil basada en fuentes oficiales. Las listas enlazan a Amazon como afiliado: si compras, a ti no te cuesta más y esta guía sigue viva.</p>
+            <p class="disclaimer">No hay una garantía de autonomía universal: necesidades, clima y situación cambian. Ante una emergencia, sigue siempre a los servicios oficiales. Esta página no sustituye sus indicaciones.</p>
+          </div>
+        </div>
+      </section>
+      <section class="sec oscura" id="prueba">
+        <div class="container">
+          <div class="sec-inner">
+            <span class="sec-label">02 / Prueba rápida</span>
+            <h2>¿Cuánto tienes<br><span class="acento2">ya preparado?</span></h2>
+            <div class="prueba">
+              <p style="font-size:13.5px;color:#c9c0b0;margin:0">Marca solo lo que tienes en casa, está accesible y funciona. No es una predicción de cuántas horas aguantarás: es una foto de tu preparación en seis piezas.</p>
+              <div class="prueba-grid">${pruebaItems}</div>
+              <div class="prueba-res">
+                <b id="pr-count">0</b><span style="font-family:var(--display);font-size:22px;color:var(--ambar)">/6</span>
+                <p>Empieza por el agua y la luz. Dos básicos que agradecerás tener localizados.</p>
+                <a class="btn ambar" href="#kits">Ver qué me falta →</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="sec clara">
+        <div class="container">
+          <div class="watermark" aria-hidden="true">LISTA</div>
+          <div class="sec-inner">
+            <span class="sec-label">03 / Tu lista</span>
+            <h2>El kit, <span class="acento">sin humo.</span></h2>
+            <p class="sec-intro" style="color:#4a4238">Seis bloques. Antes de comprar, mira qué tienes. Los botones abren búsquedas en Amazon.es con los rangos de presupuesto para planificar.</p>
+            <div class="lista-bloques">${bloques}</div>
+            <div class="ruta-corta">
+              <div>
+                <span class="bloque-num" style="border:none;padding:0">La ruta corta</span>
+                <h3>Una bolsa.<br>Un plan.<br>Más calma.</h3>
+              </div>
+              <div>
+                <ul>
+                  <li>Revisa el contenido real de los kits ya preparados</li>
+                  <li>Personaliza para bebés y mayores</li>
+                  <li>Comprueba caducidades cada cierto tiempo</li>
+                </ul>
+                <a class="btn ambar" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">Buscar kit 72h en Amazon ↗</a>
+              </div>
+            </div>
+            <p class="lista-nota">* Los rangos son ejemplos de presupuesto para planificar, no precios actuales ni ofertas verificadas. Medicación y dietas especiales no incluidas.</p>
           </div>
         </div>
       </section>
@@ -109,26 +202,54 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">KITS</div>
           <div class="sec-inner">
-            <span class="sec-label">02 / Los kits</span>
+            <span class="sec-label">04 / Los kits</span>
             <h2>Elige tu escenario.<br><span class="acento2">Empieza por lo que te falta.</span></h2>
             <p class="sec-intro">Cada kit es una checklist marcable: ve tachando lo que ya tienes. Al final, un botón llena tu cesta de Amazon con los imprescindibles en un clic.</p>
             <div class="grid-kits">${tarjetas}</div>
           </div>
         </div>
       </section>
-      <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('EMPIEZA POR LO QUE TE FALTA · SIN ALARMISMO · FUENTES OFICIALES')}</div></div>
       ${blogFeatured ? `
       <section class="sec clara" id="lecturas">
         <div class="container">
           <div class="watermark" aria-hidden="true">BLOG</div>
           <div class="sec-inner">
-            <span class="sec-label">03 / Lecturas</span>
+            <span class="sec-label">05 / Lecturas</span>
             <h2>Del diario<br><span class="acento">de supervivencia</span></h2>
             <div class="grid-kits">${blogFeatured}</div>
             <p><a class="btn negro" href="#blog">Todas las guías →</a></p>
           </div>
         </div>
-      </section>` : ''}`;
+      </section>` : ''}
+      <section class="sec clara" id="adaptalo">
+        <div class="container">
+          <div class="watermark" aria-hidden="true">TUYO</div>
+          <div class="sec-inner">
+            <span class="sec-label">06 / Adáptalo</span>
+            <h2>Tu casa. <span class="acento">Tu kit.</span></h2>
+            <p class="sec-intro" style="color:#4a4238">Un kit genérico es solo el comienzo. Hazlo útil para tu vida real.</p>
+            <div class="adapt-grid">${adapt}</div>
+          </div>
+        </div>
+      </section>
+      <section class="cta-final">
+        <div class="container">
+          <span class="sec-label">El siguiente paso es pequeño</span>
+          <h2>El mejor día<br>para empezar <span class="acento">es hoy.</span></h2>
+          <p>Reúne lo que ya tienes esta noche. Después completa los huecos. Sin miedo fabricado ni compras a ciegas: un kit que sea tuyo.</p>
+          <div class="hero-ctas">
+            <a class="btn ambar" href="#kits">Hacer mi lista →</a>
+            <a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">Explorar kits en Amazon ↗</a>
+          </div>
+        </div>
+      </section>`;
+  },
+
+  pruebaAct() {
+    const chks = [...document.querySelectorAll('.pr-chk')];
+    const n = chks.filter(c => c.checked).length;
+    const el = document.getElementById('pr-count');
+    if (el) el.textContent = String(n);
   },
 
   /* ---- BLOG ---- */
