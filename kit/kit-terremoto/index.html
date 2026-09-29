@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil — Recomendaciones ante riesgo sísmico</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/19 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>26</b>
+            <span>productos · 16 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-terremoto')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0G476FZLP">
-              <input type="checkbox" class="chk" aria-label="Marcar Casco de protección">
               <div class="item-info">
                 <span class="producto">Casco de protección</span>
                 <span class="descripcion">Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B01LYHK84D">
-              <input type="checkbox" class="chk" aria-label="Marcar Guantes de trabajo reforzados">
               <div class="item-info">
                 <span class="producto">Guantes de trabajo reforzados</span>
                 <span class="descripcion">Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Calzado cerrado y resistente junto a la cama">
               <div class="item-info">
                 <span class="producto">Calzado cerrado y resistente junto a la cama</span>
                 <span class="descripcion">Un par de botas o zapatillas duras atadas bajo la cama. Andar descalzo sobre cristales rotos es la lesión más evitable de un seísmo nocturno.</span>
@@ -218,7 +216,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0FY2W5B8T">
-              <input type="checkbox" class="chk" aria-label="Marcar Gafas de protección (o las de sol si no hay otras)">
               <div class="item-info">
                 <span class="producto">Gafas de protección (o las de sol si no hay otras)</span>
                 <span class="descripcion">El polvo, el yeso y las esquirlas van a los ojos. Las de sol cubren y valen como protección básica.</span>
@@ -238,7 +235,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B01DUW98CA">
-              <input type="checkbox" class="chk" aria-label="Marcar Agua embotellada (3 L por persona y día)">
               <div class="item-info">
                 <span class="producto">Agua embotellada (3 L por persona y día)</span>
                 <span class="descripcion">Seis botellas de 1,5 L por persona para 72 horas. La red de agua es de las primeras cosas que se rompe y de las últimas que se repara.</span>
@@ -251,7 +247,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GMXX2G9S">
-              <input type="checkbox" class="chk" aria-label="Marcar Pastillas potabilizadoras de agua">
               <div class="item-info">
                 <span class="producto">Pastillas potabilizadoras de agua</span>
                 <span class="descripcion">Si la red llega turbia o tienes que usar agua de depósito, 30 minutos de espera y es potable. Pesa nada y sirve para semanas.</span>
@@ -264,7 +259,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B09TBGX1MK">
-              <input type="checkbox" class="chk" aria-label="Marcar Comida lista para comer sin cocción (conservas, barritas, frutos secos)">
               <div class="item-info">
                 <span class="producto">Comida lista para comer sin cocción (conservas, barritas, frutos secos)</span>
                 <span class="descripcion">Conservas, frutos secos y barritas: no hace falta gas ni hornillo. La comida fría y lista es el plan A tras un seísmo.</span>
@@ -277,7 +271,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B00B2N8IFS">
-              <input type="checkbox" class="chk" aria-label="Marcar Abreconservas manual">
               <div class="item-info">
                 <span class="producto">Abreconservas manual</span>
                 <span class="descripcion">Sin electricidad el abrelatas eléctrico no existe y muchas latas no llevan anilla. Cinco euros que pueden dejarte sin cena.</span>
@@ -290,7 +283,6 @@
               </div>
             </li>
             <li class="item" data-asin="B006G5N4XS">
-              <input type="checkbox" class="chk" aria-label="Marcar Comida deshidratada o de ración (por si se alarga)">
               <div class="item-info">
                 <span class="producto">Comida deshidratada o de ración (por si se alarga)</span>
                 <span class="descripcion">Suministros que se alargan más de 72 horas: un seísmo con daño estructural puede dejar semanas de incomodidad.</span>
@@ -310,7 +302,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GRMM8ZQS">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna frontal (manos libres)">
               <div class="item-info">
                 <span class="producto">Linterna frontal (manos libres)</span>
                 <span class="descripcion">Con escombros y a oscuras necesitas las dos manos. La frontal va en la cabeza y te deja cavar, ayudar y caminar.</span>
@@ -323,7 +314,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CT3BWC5P">
-              <input type="checkbox" class="chk" aria-label="Marcar Silbato de emergencia">
               <div class="item-info">
                 <span class="producto">Silbato de emergencia</span>
                 <span class="descripcion">Un silbato se oye más lejos que tu voz y no se agota. Gritar durante horas te deja sin aire; el silbato, no. Es el rescate más barato que existe.</span>
@@ -336,7 +326,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GWNDVR7S">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o dinamo</span>
                 <span class="descripcion">Tras un seísmo, la radio emite por donde no llega la red móvil. Es tu única fuente de instrucciones si caen los repetidores.</span>
@@ -349,7 +338,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0DFLHZQ18">
-              <input type="checkbox" class="chk" aria-label="Marcar Powerbank de 20.000 mAh + cables">
               <div class="item-info">
                 <span class="producto">Powerbank de 20.000 mAh + cables</span>
                 <span class="descripcion">El móvil es tu linterna de repuesto, tu mapa y tu forma de avisar. Sin batería, nada de eso existe.</span>
@@ -362,7 +350,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B094D3JGLT">
-              <input type="checkbox" class="chk" aria-label="Marcar Pilas alcalinas surtidas (AA/AAA)">
               <div class="item-info">
                 <span class="producto">Pilas alcalinas surtidas (AA/AAA)</span>
                 <span class="descripcion">Radio, linterna y detector de gas funcionan a pilas. Repuesto doble: en una emergencia no hay tienda.</span>
@@ -375,7 +362,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GZ1Q49RH">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica de supervivencia (pack)">
               <div class="item-info">
                 <span class="producto">Manta térmica de supervivencia (pack)</span>
                 <span class="descripcion">Si acabas esperando rescate al raso o en un coche, es lo único que evita la hipotermia. Ocupa menos que un móvil.</span>
@@ -395,7 +381,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0D9M3CWMW">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín completo (gasas, vendas, antiséptico, tijeras)">
               <div class="item-info">
                 <span class="producto">Botiquín completo (gasas, vendas, antiséptico, tijeras)</span>
                 <span class="descripcion">Cortes y contusiones. Necesitas poder limpiar y vendar sin acudir a urgencias, que estarán desbordadas.</span>
@@ -408,7 +393,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Medicación crónica (7-30 días) con copia de recetas">
               <div class="item-info">
                 <span class="producto">Medicación crónica (7-30 días) con copia de recetas</span>
                 <span class="descripcion">Diabéticos, anticoagulados, hipertensos, asmáticos. Si tu medicación está en una farmacia cerrada, tienes un problema grave en 24 horas.</span>
@@ -421,7 +405,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GK6PV1M4">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín de bolsillo para llevar encima">
               <div class="item-info">
                 <span class="producto">Botiquín de bolsillo para llevar encima</span>
                 <span class="descripcion">Un pequeño con gasas y tiritas para el bolsillo o el bolso: las heridas pequeñas se atienden ahí mismo.</span>
@@ -434,7 +417,6 @@
               </div>
             </li>
             <li class="item" data-asin="B00NGTCKWS">
-              <input type="checkbox" class="chk" aria-label="Marcar Sales de rehidratación oral">
               <div class="item-info">
                 <span class="producto">Sales de rehidratación oral</span>
                 <span class="descripcion">Con calor, polvo, esfuerzo y poca agua es fácil deshidratarse. También sirve para diarreas.</span>
@@ -454,7 +436,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Llave de corte para gas y agua (llave de cuadradillo o universal)">
               <div class="item-info">
                 <span class="producto">Llave de corte para gas y agua (llave de cuadradillo o universal)</span>
                 <span class="descripcion">Sin ella no puedes cerrar la acometida de gas. Después de un seísmo, una fuga abierta convierte un susto en una explosión.</span>
@@ -467,7 +448,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B000IAZDE0">
-              <input type="checkbox" class="chk" aria-label="Marcar Navaja multiuso">
               <div class="item-info">
                 <span class="producto">Navaja multiuso</span>
                 <span class="descripcion">Alicates, destornillador y cuchilla en un bolsillo: cortar una persiana atascada o cerrar una llave sin herramienta.</span>
@@ -480,7 +460,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0CKW3F157">
-              <input type="checkbox" class="chk" aria-label="Marcar Cuerda de paracord 550 (30 m)">
               <div class="item-info">
                 <span class="producto">Cuerda de paracord 550 (30 m)</span>
                 <span class="descripcion">Para asegurar una puerta, bajar algo, hacer una camilla improvisada o sujetar una lona. 30 metros de cuerda resuelven lo imprevisible.</span>
@@ -500,7 +479,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GM1QQW1C">
-              <input type="checkbox" class="chk" aria-label="Marcar Mascarillas FFP2 (pack)">
               <div class="item-info">
                 <span class="producto">Mascarillas FFP2 (pack)</span>
                 <span class="descripcion">El polvo de escombro y yeso irrita y daña los pulmones. Tras un seísmo hay polvo en suspensión durante días.</span>
@@ -513,7 +491,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FJYC8FH1">
-              <input type="checkbox" class="chk" aria-label="Marcar Carpeta o funda estanca con copias de documentos">
               <div class="item-info">
                 <span class="producto">Carpeta o funda estanca con copias de documentos</span>
                 <span class="descripcion">DNI, escrituras, pólizas, recetas: si la casa queda precintada o dañada, los papeles son la diferencia entre reclamar y no poder demostrar nada.</span>
@@ -526,7 +503,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B00CIZVHXE">
-              <input type="checkbox" class="chk" aria-label="Marcar Efectivo en billetes pequeños">
               <div class="item-info">
                 <span class="producto">Efectivo en billetes pequeños</span>
                 <span class="descripcion">Sin luz ni red, el datáfono no funciona y los cajeros están caídos. 100-150 € en billetes de 10 y 20 resuelven agua, comida y combustible.</span>
@@ -539,7 +515,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07SYB38Q8">
-              <input type="checkbox" class="chk" aria-label="Marcar Copia digital en USB cifrado">
               <div class="item-info">
                 <span class="producto">Copia digital en USB cifrado</span>
                 <span class="descripcion">Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños.</span>
@@ -593,7 +568,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

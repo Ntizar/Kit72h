@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil — Recomendaciones ante incendios forestales</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/12 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>21</b>
+            <span>productos · 7 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-incendio')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GM1QQW1C">
-              <input type="checkbox" class="chk" aria-label="Marcar Mascarillas FFP2 (pack de 10-20)">
               <div class="item-info">
                 <span class="producto">Mascarillas FFP2 (pack de 10-20)</span>
                 <span class="descripcion">Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Gafas de protección ajustadas (o de sol cerradas)">
               <div class="item-info">
                 <span class="producto">Gafas de protección ajustadas (o de sol cerradas)</span>
                 <span class="descripcion">El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B09NYL7FY4">
-              <input type="checkbox" class="chk" aria-label="Marcar Paños o toallas de algodón (para mojar y tapar boca y nariz)">
               <div class="item-info">
                 <span class="producto">Paños o toallas de algodón (para mojar y tapar boca y nariz)</span>
                 <span class="descripcion">Un trapo húmedo filtra parte del humo y enfría el aire. Es lo que se usa cuando no hay mascarilla, y ayuda aunque la tengas.</span>
@@ -218,7 +216,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B08S17DS6N">
-              <input type="checkbox" class="chk" aria-label="Marcar Agua para beber y para mojar paños (garrafa o bidón de 8-10 L)">
               <div class="item-info">
                 <span class="producto">Agua para beber y para mojar paños (garrafa o bidón de 8-10 L)</span>
                 <span class="descripcion">El humo seca la garganta y con calor y estrés se bebe menos de lo que se debe. También moja telas al instante.</span>
@@ -238,7 +235,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B097Y3R3QY">
-              <input type="checkbox" class="chk" aria-label="Marcar Mochila resistente al agua de 30-40 L">
               <div class="item-info">
                 <span class="producto">Mochila resistente al agua de 30-40 L</span>
                 <span class="descripcion">Ya preparada y junto a la puerta. Si hay que llenarla ese día, estás perdiendo los minutos que cuentan.</span>
@@ -251,7 +247,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FJYC8FH1">
-              <input type="checkbox" class="chk" aria-label="Marcar Carpeta estanca con documentos y algo de efectivo">
               <div class="item-info">
                 <span class="producto">Carpeta estanca con documentos y algo de efectivo</span>
                 <span class="descripcion">DNI, escrituras, pólizas, tarjeta sanitaria y dinero en billetes pequeños. Volver a reconstruir todo sin papeles es un año de trámites.</span>
@@ -264,7 +259,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FB3WSWJ1">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna frontal y pilas">
               <div class="item-info">
                 <span class="producto">Linterna frontal y pilas</span>
                 <span class="descripcion">El humo reduce la visibilidad a metros y puede caer la noche. Con las manos libres para llevar, abrir y ayudar.</span>
@@ -277,7 +271,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B06XWZ41RT">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas (avisos oficiales)">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas (avisos oficiales)</span>
                 <span class="descripcion">Las rutas de evacuación cambian con el viento. La radio da la instrucción vigente cuando la cobertura móvil falla.</span>
@@ -290,7 +283,6 @@
               </div>
             </li>
             <li class="item" data-asin="B01LX6Q7XS">
-              <input type="checkbox" class="chk" aria-label="Marcar Mapa físico de tu zona (carreteras, salidas alternativas)">
               <div class="item-info">
                 <span class="producto">Mapa físico de tu zona (carreteras, salidas alternativas)</span>
                 <span class="descripcion">Si la red está saturada o sin datos, el mapa en papel te saca; el GPS te deja en la carretera cortada como a los demás.</span>
@@ -303,7 +295,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0HD6RLST6">
-              <input type="checkbox" class="chk" aria-label="Marcar Silbato de emergencia">
               <div class="item-info">
                 <span class="producto">Silbato de emergencia</span>
                 <span class="descripcion">Si te quedas sin visibilidad en el humo, un silbato es lo que permite que te encuentren. Cabe en el bolsillo.</span>
@@ -323,7 +314,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Ropa de algodón o lana de manga larga (no sintética)">
               <div class="item-info">
                 <span class="producto">Ropa de algodón o lana de manga larga (no sintética)</span>
                 <span class="descripcion">El poliéster y el nylon se derriten y se pegan a la piel. Algodón y lana protegen y se pueden mojar.</span>
@@ -336,7 +326,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Calzado cerrado y resistente (bota o zapatilla dura)">
               <div class="item-info">
                 <span class="producto">Calzado cerrado y resistente (bota o zapatilla dura)</span>
                 <span class="descripcion">Nada de sandalias: el suelo quemado y las brasas atraviesan la suela fina. Y no se puede correr con chanclas.</span>
@@ -349,7 +338,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Guantes de trabajo de cuero o resistentes al calor">
               <div class="item-info">
                 <span class="producto">Guantes de trabajo de cuero o resistentes al calor</span>
                 <span class="descripcion">Para abrir una puerta metálica caliente, coger una manguera o mover algo que quema. Sin guantes no puedes tocar nada.</span>
@@ -362,7 +350,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Gorro o pañuelo de algodón para cubrir cabeza y nuca">
               <div class="item-info">
                 <span class="producto">Gorro o pañuelo de algodón para cubrir cabeza y nuca</span>
                 <span class="descripcion">El calor radiante y las pavesas caen de arriba. Cubrirse la cabeza evita quemaduras en el pelo y el cuello.</span>
@@ -382,7 +369,6 @@
         <ul class="items">
           
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Manguera reforzada larga (más un aspersor o pistola)">
               <div class="item-info">
                 <span class="producto">Manguera reforzada larga (más un aspersor o pistola)</span>
                 <span class="descripcion">Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente.</span>
@@ -395,7 +381,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Extintor de polvo ABC de 6 kg (o varios de 2 kg)">
               <div class="item-info">
                 <span class="producto">Extintor de polvo ABC de 6 kg (o varios de 2 kg)</span>
                 <span class="descripcion">Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta.</span>
@@ -408,7 +393,6 @@
               </div>
             </li>
             <li class="item" data-asin="B00F2NGYAU">
-              <input type="checkbox" class="chk" aria-label="Marcar Azada, rastrillo y desbrozadora manual">
               <div class="item-info">
                 <span class="producto">Azada, rastrillo y desbrozadora manual</span>
                 <span class="descripcion">Quitar hierba seca y hojarasca en el perímetro es lo que evita que el fuego de suelo llegue a la fachada.</span>
@@ -421,7 +405,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Mochila de agua a presión (16-20 L)">
               <div class="item-info">
                 <span class="producto">Mochila de agua a presión (16-20 L)</span>
                 <span class="descripcion">Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona.</span>
@@ -441,7 +424,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Transportín y correa a mano (mascotas)">
               <div class="item-info">
                 <span class="producto">Transportín y correa a mano (mascotas)</span>
                 <span class="descripcion">En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje.</span>
@@ -454,7 +436,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Medicación crónica y lista de tratamientos (personas mayores o dependientes)">
               <div class="item-info">
                 <span class="producto">Medicación crónica y lista de tratamientos (personas mayores o dependientes)</span>
                 <span class="descripcion">Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño.</span>
@@ -467,7 +448,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DB8GRTPL">
-              <input type="checkbox" class="chk" aria-label="Marcar Bastón, andador o silla plegable de repuesto">
               <div class="item-info">
                 <span class="producto">Bastón, andador o silla plegable de repuesto</span>
                 <span class="descripcion">Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque.</span>
@@ -517,7 +497,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

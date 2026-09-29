@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -160,9 +160,10 @@
           
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/12 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>14</b>
+            <span>productos · 11 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-evacuacion')">Llévate todo el kit →</button>
         </div>
         
@@ -178,7 +179,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0FJYC8FH1">
-              <input type="checkbox" class="chk" aria-label="Marcar Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)">
               <div class="item-info">
                 <span class="producto">Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)</span>
                 <span class="descripcion">DNI, escrituras, pólizas, cartilla sanitaria y recetas en un solo sitio.</span>
@@ -191,7 +191,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07SYB38Q8">
-              <input type="checkbox" class="chk" aria-label="Marcar Copia digital en USB cifrado">
               <div class="item-info">
                 <span class="producto">Copia digital en USB cifrado</span>
                 <span class="descripcion">Backup de documentos escaneados. Cífralo con contraseña.</span>
@@ -204,7 +203,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0DHJR3V44">
-              <input type="checkbox" class="chk" aria-label="Marcar Copia de llaves de casa">
               <div class="item-info">
                 <span class="producto">Copia de llaves de casa</span>
                 <span class="descripcion">Una copia metida en la carpeta estanca. En el pánico de una evacuación es lo primero que se olvida: vuelves a casa y no abres.</span>
@@ -224,7 +222,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B097Y3R3QY">
-              <input type="checkbox" class="chk" aria-label="Marcar Mochila de 30-40 L resistente al agua">
               <div class="item-info">
                 <span class="producto">Mochila de 30-40 L resistente al agua</span>
                 <span class="descripcion">Resistente al agua, con cinturón acolchado. Aguantará tu vida 3 días.</span>
@@ -237,7 +234,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GMXX2G9S">
-              <input type="checkbox" class="chk" aria-label="Marcar Botella de agua + pastillas potabilizadoras">
               <div class="item-info">
                 <span class="producto">Botella de agua + pastillas potabilizadoras</span>
                 <span class="descripcion">Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada.</span>
@@ -250,7 +246,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B006G5N4XS">
-              <input type="checkbox" class="chk" aria-label="Marcar Ración de comida deshidratada">
               <div class="item-info">
                 <span class="producto">Ración de comida deshidratada</span>
                 <span class="descripcion">Al menos 2 raciones por persona en la mochila.</span>
@@ -263,7 +258,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0H7WY7KZK">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica + poncho">
               <div class="item-info">
                 <span class="producto">Manta térmica + poncho</span>
                 <span class="descripcion">Dúo de abrigo y protección contra lluvia en formato mínimo.</span>
@@ -283,7 +277,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GRMM8ZQS">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna + batería externa">
               <div class="item-info">
                 <span class="producto">Linterna + batería externa</span>
                 <span class="descripcion">Kit de energía mínimo: ver y comunicar.</span>
@@ -296,7 +289,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GK6PV1M4">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín de bolsillo">
               <div class="item-info">
                 <span class="producto">Botiquín de bolsillo</span>
                 <span class="descripcion">Versión mini pero completa: gasas, antiséptico, analgésicos.</span>
@@ -309,7 +301,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Efectivo en billetes pequeños">
               <div class="item-info">
                 <span class="producto">Efectivo en billetes pequeños</span>
                 <span class="descripcion">En evacuación los cajeros no funcionan. Billetes de 10-20 €.</span>
@@ -322,7 +313,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GWNDVR7S">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o dinamo</span>
                 <span class="descripcion">Única fuente de información si caen internet y telefonía. Con dinamo para que nunca se quede muda.</span>
@@ -335,7 +325,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CT3BWC5P">
-              <input type="checkbox" class="chk" aria-label="Marcar Silbato de emergencia">
               <div class="item-info">
                 <span class="producto">Silbato de emergencia</span>
                 <span class="descripcion">Tres pitidos son la señal internacional de emergencia. Suena más lejos que la voz y no se agota. Esencial si quedas atrapado.</span>
@@ -348,7 +337,6 @@
               </div>
             </li>
             <li class="item" data-asin="B08ZM2KC49">
-              <input type="checkbox" class="chk" aria-label="Marcar Navaja multiusos">
               <div class="item-info">
                 <span class="producto">Navaja multiusos</span>
                 <span class="descripcion">23 herramientas en un cuerpo compacto: cuchillo, sierra, destornilladores, abrebotellas. Lo justo para reparaciones de emergencia.</span>
@@ -361,7 +349,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0H6BL141L">
-              <input type="checkbox" class="chk" aria-label="Marcar Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)">
               <div class="item-info">
                 <span class="producto">Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)</span>
                 <span class="descripcion">Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no.</span>
@@ -415,7 +402,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

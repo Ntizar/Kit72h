@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil — Recomendaciones (animales de compañía en emergencias)</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/11 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>23</b>
+            <span>productos · 4 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-mascotas')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B08S17DS6N">
-              <input type="checkbox" class="chk" aria-label="Marcar Agua para el animal (garrafa de 8 L reservada)">
               <div class="item-info">
                 <span class="producto">Agua para el animal (garrafa de 8 L reservada)</span>
                 <span class="descripcion">Un perro mediano bebe cerca de 1 litro al día y un gato unos 250 ml. La garrafa va aparte de la tuya: no compitas por el agua.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FP5RJ53N">
-              <input type="checkbox" class="chk" aria-label="Marcar Comida para mascotas extra (pienso o latas para 72 h)">
               <div class="item-info">
                 <span class="producto">Comida para mascotas extra (pienso o latas para 72 h)</span>
                 <span class="descripcion">Reserva cerrada y a la vista, no medio saco abierto. Pienso o latas, el que ya coma: en una emergencia no es momento de cambiar de dieta.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Comedero y bebedero plegables de viaje">
               <div class="item-info">
                 <span class="producto">Comedero y bebedero plegables de viaje</span>
                 <span class="descripcion">Ocupan nada y evitan que beba de un cuenco sucio improvisado. Con ellos puedes darle agua en la parada del coche.</span>
@@ -218,7 +216,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Comida húmeda en lata (aporta agua y la come estresado)">
               <div class="item-info">
                 <span class="producto">Comida húmeda en lata (aporta agua y la come estresado)</span>
                 <span class="descripcion">Un animal asustado rechaza el pienso seco pero suele aceptar lata. La humedad le ayuda a hidratarse sin beber.</span>
@@ -238,7 +235,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Transportín rígido o jaula de transporte">
               <div class="item-info">
                 <span class="producto">Transportín rígido o jaula de transporte</span>
                 <span class="descripcion">Con la puerta que cierre bien. Un gato suelto en una evacuación no se recupera: se esconde debajo del primer coche.</span>
@@ -251,7 +247,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Correa y arnés de repuesto">
               <div class="item-info">
                 <span class="producto">Correa y arnés de repuesto</span>
                 <span class="descripcion">Con la correa puesta y una segunda de reserva. En pánico un perro rompe la de siempre y sale corriendo hacia la carretera.</span>
@@ -264,7 +259,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Bozal (si es obligatorio o si está nervioso con desconocidos)">
               <div class="item-info">
                 <span class="producto">Bozal (si es obligatorio o si está nervioso con desconocidos)</span>
                 <span class="descripcion">Exigido para razas PPP y necesario si va a estar rodeado de gente asustada. Un perro con bozal sube a cualquier transporte.</span>
@@ -277,7 +271,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GSZS62HD">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta o toalla con su olor de casa">
               <div class="item-info">
                 <span class="producto">Manta o toalla con su olor de casa</span>
                 <span class="descripcion">Un sitio nuevo para un animal es una amenaza; su manta es la única señal de que está a salvo. También sirve de abrigo.</span>
@@ -290,7 +283,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsa de transporte acolchada (para animales pequeños)">
               <div class="item-info">
                 <span class="producto">Bolsa de transporte acolchada (para animales pequeños)</span>
                 <span class="descripcion">Alternativa ligera al transportín rígido para conejos, cobayas o cachorros pequeños.</span>
@@ -310,7 +302,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0FJYC8FH1">
-              <input type="checkbox" class="chk" aria-label="Marcar Cartilla sanitaria y copia del microchip en carpeta estanca">
               <div class="item-info">
                 <span class="producto">Cartilla sanitaria y copia del microchip en carpeta estanca</span>
                 <span class="descripcion">Vacunas al día y número de microchip: es el documento que demuestra que el animal es tuyo. En papel, porque el móvil puede quedarse sin batería.</span>
@@ -323,7 +314,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Medicación crónica del animal (30 días)">
               <div class="item-info">
                 <span class="producto">Medicación crónica del animal (30 días)</span>
                 <span class="descripcion">Insulina, cardíaca, anti-epilépticos, antiparasitario. Si el animal toma algo a diario, en la mochila va un mes, no una semana.</span>
@@ -336,7 +326,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GK6PV1M4">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín veterinario básico (gasas, suero, povidona, vendas)">
               <div class="item-info">
                 <span class="producto">Botiquín veterinario básico (gasas, suero, povidona, vendas)</span>
                 <span class="descripcion">Cortes en patas, quemaduras o irritación de ojos y oídos. El suero fisiológico limpia heridas y ojos sin dañar.</span>
@@ -349,7 +338,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0H8ZDPS7C">
-              <input type="checkbox" class="chk" aria-label="Marcar Termómetro digital (compartido con el botiquín general)">
               <div class="item-info">
                 <span class="producto">Termómetro digital (compartido con el botiquín general)</span>
                 <span class="descripcion">Sirve para el animal y para las personas. La fiebre o la hipotermia se miden igual.</span>
@@ -369,7 +357,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0H8X7LJTM">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsas de residuos (50+ unidades)">
               <div class="item-info">
                 <span class="producto">Bolsas de residuos (50+ unidades)</span>
                 <span class="descripcion">Lo mismo que usas en casa, pero con reserva: no vas a poder bajar a la calle a por bolsas.</span>
@@ -382,7 +369,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Bandeja y arena para gato (o empapadores)">
               <div class="item-info">
                 <span class="producto">Bandeja y arena para gato (o empapadores)</span>
                 <span class="descripcion">Un gato con estrés y sin bandeja retiene orina y acaba en el veterinario. La bandeja desechable vale para dos días.</span>
@@ -395,7 +381,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DT6M79BB">
-              <input type="checkbox" class="chk" aria-label="Marcar Empapadores absorbentes">
               <div class="item-info">
                 <span class="producto">Empapadores absorbentes</span>
                 <span class="descripcion">Para el transporte o el refugio: protegen el maletero y las superficies si no puede aguantar.</span>
@@ -408,7 +393,6 @@
               </div>
             </li>
             <li class="item" data-asin="B09NYL7FY4">
-              <input type="checkbox" class="chk" aria-label="Marcar Toallitas limpiadoras">
               <div class="item-info">
                 <span class="producto">Toallitas limpiadoras</span>
                 <span class="descripcion">Patas, arena pegada y pelo sucio sin necesidad de agua. Sirven para él y para vosotros.</span>
@@ -428,7 +412,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Placa de identificación con tu teléfono grabado">
               <div class="item-info">
                 <span class="producto">Placa de identificación con tu teléfono grabado</span>
                 <span class="descripcion">Un microchip hay que leerlo con un lector; una placa la lee cualquiera. En una emergencia con personal saturado, la placa es más rápida.</span>
@@ -441,7 +424,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07X8H7KR2">
-              <input type="checkbox" class="chk" aria-label="Marcar Foto reciente del animal contigo (papel y móvil)">
               <div class="item-info">
                 <span class="producto">Foto reciente del animal contigo (papel y móvil)</span>
                 <span class="descripcion">Es la prueba de propiedad más eficaz cuando no hay documentos y el que lo recoge no te conoce.</span>
@@ -454,7 +436,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DCC4KNZN">
-              <input type="checkbox" class="chk" aria-label="Marcar Juguete o objeto familiar (2-3)">
               <div class="item-info">
                 <span class="producto">Juguete o objeto familiar (2-3)</span>
                 <span class="descripcion">Un animal que no duerme y no para quieto es un problema en un refugio. Su juguete calma más que cualquier órden.</span>
@@ -474,7 +455,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Acuerdo con una persona de confianza (con llaves y ficha del animal)">
               <div class="item-info">
                 <span class="producto">Acuerdo con una persona de confianza (con llaves y ficha del animal)</span>
                 <span class="descripcion">Hospitalizo, estoy fuera o no llego: alguien con llaves, que sepa dónde está comida y transportín y que conozca el plan.</span>
@@ -487,7 +467,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Lista de residencias y hoteles que admiten animales">
               <div class="item-info">
                 <span class="producto">Lista de residencias y hoteles que admiten animales</span>
                 <span class="descripcion">En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina.</span>
@@ -500,7 +479,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07SYB38Q8">
-              <input type="checkbox" class="chk" aria-label="Marcar Protección de datos del animal (copia digital de vacunas con el microchip visible)">
               <div class="item-info">
                 <span class="producto">Protección de datos del animal (copia digital de vacunas con el microchip visible)</span>
                 <span class="descripcion">Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes.</span>
@@ -550,7 +528,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil — Recomendaciones ante nevadas y temperaturas extremas</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/19 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>27</b>
+            <span>productos · 18 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-frio')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B07WK2MC6B">
-              <input type="checkbox" class="chk" aria-label="Marcar Ropa térmica interior (camiseta y legging, 2 juegos)">
               <div class="item-info">
                 <span class="producto">Ropa térmica interior (camiseta y legging, 2 juegos)</span>
                 <span class="descripcion">La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Forro polar o jersey de lana">
               <div class="item-info">
                 <span class="producto">Forro polar o jersey de lana</span>
                 <span class="descripcion">Segunda capa: retiene el aire caliente del cuerpo. La lana abriga incluso ligeramente húmeda.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FKT1B9HZ">
-              <input type="checkbox" class="chk" aria-label="Marcar Calcetines de lana (3-4 pares)">
               <div class="item-info">
                 <span class="producto">Calcetines de lana (3-4 pares)</span>
                 <span class="descripcion">Los pies fríos son el primer aviso de hipotermia. La lana aguanta el sudor mucho mejor que el algodón.</span>
@@ -218,7 +216,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FX9NXD18">
-              <input type="checkbox" class="chk" aria-label="Marcar Casquete o gorro de abrigo">
               <div class="item-info">
                 <span class="producto">Casquete o gorro de abrigo</span>
                 <span class="descripcion">Por la cabeza se pierde una parte enorme del calor. De día y de noche, dentro de casa también.</span>
@@ -231,7 +228,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0G1MQ28GS">
-              <input type="checkbox" class="chk" aria-label="Marcar Guantes de abrigo (y unos finos para tareas)">
               <div class="item-info">
                 <span class="producto">Guantes de abrigo (y unos finos para tareas)</span>
                 <span class="descripcion">Sin manos no puedes hacer nada: ni cocinar, ni abrir un grifo congelado, ni manejar el móvil. Dos pares, uno fino por dentro.</span>
@@ -244,7 +240,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0H37438Y1">
-              <input type="checkbox" class="chk" aria-label="Marcar Saco o pijama de una pieza de abrigo (talla actual + una de repuesto)">
               <div class="item-info">
                 <span class="producto">Saco o pijama de una pieza de abrigo (talla actual + una de repuesto)</span>
                 <span class="descripcion">Dormir a 10 grados con pijama ligero no se duerme. La prenda de una pieza evita que el aire entre al moverse.</span>
@@ -257,7 +252,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CYDF32J3">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica (pack de 2)">
               <div class="item-info">
                 <span class="producto">Manta térmica (pack de 2)</span>
                 <span class="descripcion">Refleja el calor corporal. No da calor por sí sola: hay que envolverse con ella, no ponerla encima como sábana.</span>
@@ -277,7 +271,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0D66LK5NP">
-              <input type="checkbox" class="chk" aria-label="Marcar Detector de monóxido de carbono (CO) a pilas con alarma">
               <div class="item-info">
                 <span class="producto">Detector de monóxido de carbono (CO) a pilas con alarma</span>
                 <span class="descripcion">Obligatorio de facto si vas a usar cualquier aparato de combustión. El CO no se huele, no se ve y no despierta: mata durmiendo.</span>
@@ -290,7 +283,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0CH1MDJVX">
-              <input type="checkbox" class="chk" aria-label="Marcar Extintor de polvo ABC de 1-2 kg con soporte">
               <div class="item-info">
                 <span class="producto">Extintor de polvo ABC de 1-2 kg con soporte</span>
                 <span class="descripcion">Las estufas y los cables recalentados por demanda son las fuentes de incendio típicas en un apagón invernal.</span>
@@ -303,7 +295,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0H99C1WWZ">
-              <input type="checkbox" class="chk" aria-label="Marcar Tiracables con interruptor diferencial portátil">
               <div class="item-info">
                 <span class="producto">Tiracables con interruptor diferencial portátil</span>
                 <span class="descripcion">Si tiras de un generador o de un alargador hacia una estufa eléctrica, este aparato es la diferencia entre un fusible y un incendio.</span>
@@ -323,7 +314,6 @@
         <ul class="items">
           
             <li class="item" data-asin="B01M1NCHK8">
-              <input type="checkbox" class="chk" aria-label="Marcar Estufa de gas butano con corte por falta de oxígeno">
               <div class="item-info">
                 <span class="producto">Estufa de gas butano con corte por falta de oxígeno</span>
                 <span class="descripcion">La opción más eficaz para una habitación pequeña. Exige bombona, ventilación y detector de CO. Nunca para dormir.</span>
@@ -336,7 +326,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CRN5KNCT">
-              <input type="checkbox" class="chk" aria-label="Marcar Hornillo de camping a gas con bombonas (para agua y comida caliente)">
               <div class="item-info">
                 <span class="producto">Hornillo de camping a gas con bombonas (para agua y comida caliente)</span>
                 <span class="descripcion">Agua caliente y comida caliente suben la temperatura corporal más rápido que cualquier estufa. Uso al aire libre o con ventana abierta.</span>
@@ -349,7 +338,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0BWJYXNK3">
-              <input type="checkbox" class="chk" aria-label="Marcar Termo pequeño de boca ancha (350-500 ml)">
               <div class="item-info">
                 <span class="producto">Termo pequeño de boca ancha (350-500 ml)</span>
                 <span class="descripcion">Una bebida caliente cada dos horas es la forma más barata de mantener el cuerpo a temperatura. El termo la mantiene 6 horas.</span>
@@ -362,7 +350,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0FZTLMXW9">
-              <input type="checkbox" class="chk" aria-label="Marcar Encendedores y cerillas largas">
               <div class="item-info">
                 <span class="producto">Encendedores y cerillas largas</span>
                 <span class="descripcion">Prender la estufa o el hornillo con las manos frías y con guantes es difícil. Las cerillas largas evitan quemaduras.</span>
@@ -382,7 +369,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B07PDRY2T2">
-              <input type="checkbox" class="chk" aria-label="Marcar Cinta y plástico para sellar ventanas y rendijas">
               <div class="item-info">
                 <span class="producto">Cinta y plástico para sellar ventanas y rendijas</span>
                 <span class="descripcion">Una ventana vieja mal sellada deja escapar tanto calor como una estufa pequeña puede dar. Diez euros de plástico valen más que subir la estufa.</span>
@@ -395,7 +381,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0H8J5NTW9">
-              <input type="checkbox" class="chk" aria-label="Marcar Cortinas térmicas o manta de lana para tapar la ventana">
               <div class="item-info">
                 <span class="producto">Cortinas térmicas o manta de lana para tapar la ventana</span>
                 <span class="descripcion">De noche, tapar el cristal es la mejora más barata: el cristal es la superficie más fría de la casa.</span>
@@ -408,7 +393,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0B4HRDFVY">
-              <input type="checkbox" class="chk" aria-label="Marcar Deshumidificador o sachets antihumedad">
               <div class="item-info">
                 <span class="producto">Deshumidificador o sachets antihumedad</span>
                 <span class="descripcion">Una casa fría y húmeda se siente 3-4 grados más fría y condena la ropa. La humedad es la mitad del problema del invierno sin calefacción.</span>
@@ -428,7 +412,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B00KSGFXBW">
-              <input type="checkbox" class="chk" aria-label="Marcar Rasqueta y cepillo de hielo para el coche">
               <div class="item-info">
                 <span class="producto">Rasqueta y cepillo de hielo para el coche</span>
                 <span class="descripcion">Conducir con un rectángulo limpio en el parabrisas es la causa de miles de accidentes cada nevada. Y hay que limpiar el techo: la placa cae al frenar.</span>
@@ -441,7 +424,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CSDX8LR8">
-              <input type="checkbox" class="chk" aria-label="Marcar Cadenas para nieve o calcetines textiles">
               <div class="item-info">
                 <span class="producto">Cadenas para nieve o calcetines textiles</span>
                 <span class="descripcion">En autopista con nieve hay que circular por el carril derecho y los izquierdos quedan libres para quitanieves (art. 32 RGC). Sin cadenas no subes un puerto.</span>
@@ -454,7 +436,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CR1MB99P">
-              <input type="checkbox" class="chk" aria-label="Marcar Pala de nieve y sales de deshielo (o arena)">
               <div class="item-info">
                 <span class="producto">Pala de nieve y sales de deshielo (o arena)</span>
                 <span class="descripcion">Para salir del aparcamiento y para la acera. La sal también evita la placa de hielo a la puerta de casa.</span>
@@ -467,7 +448,6 @@
               </div>
             </li>
             <li class="item" data-asin="B09QSNTH9D">
-              <input type="checkbox" class="chk" aria-label="Marcar Cables de arranque y anticongelante con protección hasta -25">
               <div class="item-info">
                 <span class="producto">Cables de arranque y anticongelante con protección hasta -25</span>
                 <span class="descripcion">El frío mata la batería y congela el circuito refrigerante. Son los dos fallos nº 1 en una ola de frío.</span>
@@ -480,7 +460,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FHBDDBNT">
-              <input type="checkbox" class="chk" aria-label="Marcar Baliza V-16 conectada homologada (sustituye a los triángulos)">
               <div class="item-info">
                 <span class="producto">Baliza V-16 conectada homologada (sustituye a los triángulos)</span>
                 <span class="descripcion">Con niebla o nieve, bajar a poner triángulos es peligroso: la baliza se pone desde dentro del coche y ya es el único medio legal desde el 1/1/2026.</span>
@@ -493,7 +472,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0H6BL141L">
-              <input type="checkbox" class="chk" aria-label="Marcar Elemento luminoso o reflectante para caminar de noche">
               <div class="item-info">
                 <span class="producto">Elemento luminoso o reflectante para caminar de noche</span>
                 <span class="descripcion">Obligatorio para peatones en arcén de vía interurbana de noche o con mala visibilidad (art. 123 RGC). Con nieve, un reflejante visible a 150 m es lo único que te separa de un coche.</span>
@@ -513,7 +491,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GRMM8ZQS">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna frontal (manos libres)">
               <div class="item-info">
                 <span class="producto">Linterna frontal (manos libres)</span>
                 <span class="descripcion">Con guantes y a oscuras necesitas las dos manos. La frontal es la única luz útil para moverse por una casa fría.</span>
@@ -526,7 +503,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GWNDVR7S">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o dinamo</span>
                 <span class="descripcion">Los avisos de nevada y las carreteras cortadas llegan por radio cuando la red móvil está saturada o sin luz en las antenas.</span>
@@ -539,7 +515,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0HC4PGSVV">
-              <input type="checkbox" class="chk" aria-label="Marcar Powerbank de 10.000-20.000 mAh">
               <div class="item-info">
                 <span class="producto">Powerbank de 10.000-20.000 mAh</span>
                 <span class="descripcion">Ojo: el frío reduce la capacidad hasta la mitad si lo guardas en el coche. Va dentro de casa, en un bolsillo interior si sales.</span>
@@ -552,7 +527,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B094D3JGLT">
-              <input type="checkbox" class="chk" aria-label="Marcar Pilas alcalinas surtidas (AA/AAA)">
               <div class="item-info">
                 <span class="producto">Pilas alcalinas surtidas (AA/AAA)</span>
                 <span class="descripcion">Radio, linterna y detector de CO funcionan a pilas. El detector de CO que se queda sin pilas es un adorno.</span>
@@ -602,7 +576,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

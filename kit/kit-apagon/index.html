@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://commission.europa.eu/topics/preparedness_es" target="_blank" rel="noopener">Estrategia de Preparación de la UE + lecciones del apagón ibérico de abril 2025</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/7 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>15</b>
+            <span>productos · 6 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-apagon')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0B9ZTKYW5">
-              <input type="checkbox" class="chk" aria-label="Marcar Lámparas LED a pilas con imán (para nevera/despensa)">
               <div class="item-info">
                 <span class="producto">Lámparas LED a pilas con imán (para nevera/despensa)</span>
                 <span class="descripcion">Se adhiere a nevera, despensa o capó del coche. Manos libres.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GRMM8ZQS">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna frontal (manos libres)">
               <div class="item-info">
                 <span class="producto">Linterna frontal (manos libres)</span>
                 <span class="descripcion">Ilumina sin ocupar las manos: imprescindible para trabajar de noche.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0BJPVQXP6">
-              <input type="checkbox" class="chk" aria-label="Marcar Velas de emergencia (solo como refuerzo, con portavelas seguro)">
               <div class="item-info">
                 <span class="producto">Velas de emergencia (solo como refuerzo, con portavelas seguro)</span>
                 <span class="descripcion">Refuerzo de luz, nunca fuente principal. Con portavelas metálico.</span>
@@ -225,7 +223,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0DFLHZQ18">
-              <input type="checkbox" class="chk" aria-label="Marcar Powerbank ≥ 20.000 mAh con salida AC o USB-C PD">
               <div class="item-info">
                 <span class="producto">Powerbank ≥ 20.000 mAh con salida AC o USB-C PD</span>
                 <span class="descripcion">Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.</span>
@@ -238,7 +235,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0D9JMS8H2">
-              <input type="checkbox" class="chk" aria-label="Marcar Panel solar portátil 20-40 W">
               <div class="item-info">
                 <span class="producto">Panel solar portátil 20-40 W</span>
                 <span class="descripcion">Recarga el powerbank con sol. 20-40 W carga un móvil en 3-4 horas.</span>
@@ -251,7 +247,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0F8RG1DV6">
-              <input type="checkbox" class="chk" aria-label="Marcar Cargador de dinamo multiuso">
               <div class="item-info">
                 <span class="producto">Cargador de dinamo multiuso</span>
                 <span class="descripcion">Manivela manual: energía infinita sin sol ni red.</span>
@@ -271,7 +266,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0CRN5KNCT">
-              <input type="checkbox" class="chk" aria-label="Marcar Hornillo de camping a gas con bombonas">
               <div class="item-info">
                 <span class="producto">Hornillo de camping a gas con bombonas</span>
                 <span class="descripcion">Comida caliente sin electricidad. Usa siempre en zona ventilada.</span>
@@ -284,7 +278,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FZTLMXW9">
-              <input type="checkbox" class="chk" aria-label="Marcar Encendedores y cerillas largas">
               <div class="item-info">
                 <span class="producto">Encendedores y cerillas largas</span>
                 <span class="descripcion">Cerillas de tormenta: encienden con viento y humedad.</span>
@@ -297,7 +290,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0DM2728ZS">
-              <input type="checkbox" class="chk" aria-label="Marcar Nevera portátil de conservas">
               <div class="item-info">
                 <span class="producto">Nevera portátil de conservas</span>
                 <span class="descripcion">Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.</span>
@@ -310,7 +302,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Acumuladores de frío (bloques de gel congelables) para nevera y congelador">
               <div class="item-info">
                 <span class="producto">Acumuladores de frío (bloques de gel congelables) para nevera y congelador</span>
                 <span class="descripcion">Tenlos congelados desde antes: el día del corte pasan a la nevera, pegados a lo más delicado (carne, pescado, lácteos, embutido), y alargan las horas de frío sin que tengas que abrir la puerta para comprobar nada. Truco gratis equivalente: dos botellas de agua congeladas. Y lo que ya se ha descongelado no se vuelve a congelar: se cocina o se tira.</span>
@@ -330,7 +321,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Detector de monóxido de carbono (CO) a pilas con alarma">
               <div class="item-info">
                 <span class="producto">Detector de monóxido de carbono (CO) a pilas con alarma</span>
                 <span class="descripcion">El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje.</span>
@@ -343,7 +333,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Extintor de polvo ABC de 1-2 kg con soporte">
               <div class="item-info">
                 <span class="producto">Extintor de polvo ABC de 1-2 kg con soporte</span>
                 <span class="descripcion">Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112.</span>
@@ -363,7 +352,6 @@
         <ul class="items">
           
             <li class="item" data-asin="B00CIZVHXE">
-              <input type="checkbox" class="chk" aria-label="Marcar Caja fuerte pequeña portátil para efectivo">
               <div class="item-info">
                 <span class="producto">Caja fuerte pequeña portátil para efectivo</span>
                 <span class="descripcion">Guarda el efectivo y documentos críticos en casa.</span>
@@ -376,7 +364,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GWNDVR7S">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o dinamo</span>
                 <span class="descripcion">Única fuente de información si caen internet y la telefonía. Con dinamo mejor.</span>
@@ -389,7 +376,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar SAI / UPS pequeño (600-900 VA) para router y ONT">
               <div class="item-info">
                 <span class="producto">SAI / UPS pequeño (600-900 VA) para router y ONT</span>
                 <span class="descripcion">Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora.</span>
@@ -443,7 +429,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

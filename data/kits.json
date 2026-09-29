@@ -5,25 +5,165 @@
     "fuentes": [
       {
         "nombre": "Estrategia de Preparación de la UE (marzo 2025)",
-        "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698"
+        "url": "https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698",
+        "cat": "Unión Europea",
+        "nota": "El documento que fija 72 horas como horizonte de autonomía de los hogares. De aquí sale todo el enfoque de la web."
       },
       {
-        "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (página oficial, actualizada 23/05/2025)",
-        "url": "https://commission.europa.eu/topics/preparedness_es"
+        "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
+        "url": "https://commission.europa.eu/topics/preparedness_es",
+        "cat": "Unión Europea",
+        "nota": "Portal oficial de la UE con recomendaciones por tipo de riesgo y materiales de preparación ciudadana."
       },
       {
-        "nombre": "Protección Civil — Recomendaciones",
-        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+        "nombre": "Copernicus Emergency Management Service",
+        "url": "https://emergency.copernicus.eu/",
+        "cat": "Unión Europea",
+        "nota": "Servicio de emergencias de la UE: cartografía rápida de inundaciones, incendios y desastres."
       },
       {
-        "nombre": "BOE — Cuatro Directrices Básicas de Planificación de Protección Civil (inundaciones, fenómenos meteorológicos adversos, incendios forestales y mercancías peligrosas), Acuerdo del Consejo de Ministros de 21/04/2026",
-        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9160",
-        "fecha": "2026-04-27"
+        "nombre": "112 — número europeo de emergencias",
+        "url": "https://europa.eu/youreurope/citizens/safety-and-emergencies/emergency-number-112/index_en.htm",
+        "cat": "Unión Europea",
+        "nota": "El 112 funciona en toda la UE, gratis y desde cualquier móvil. Guía oficial de cuándo llamar y qué decir."
       },
       {
-        "nombre": "Protección Civil — Red de Alerta Nacional y alertas a móviles (ES-Alert)",
+        "nombre": "Dirección General de Protección Civil y Emergencias",
+        "url": "https://www.proteccioncivil.es/",
+        "cat": "Protección Civil y Emergencias",
+        "nota": "Fuente principal del sitio: planes, recomendaciones y materiales del Ministerio del Interior."
+      },
+      {
+        "nombre": "Protección Civil — Recomendaciones ante emergencias",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "cat": "Protección Civil y Emergencias",
+        "nota": "Las listas de lo que debe tener un hogar preparado: la base de todos los kits de aquí."
+      },
+      {
+        "nombre": "Protección Civil — Red de Alerta Nacional y ES-Alert",
         "url": "https://www.proteccioncivil.es/coordinacion/redes/ran/public-warning-system",
-        "fecha": "2026-09-03"
+        "cat": "Protección Civil y Emergencias",
+        "nota": "Cómo funciona el aviso a los móviles (ES-Alert) cuando hay una emergencia en tu zona."
+      },
+      {
+        "nombre": "Ministerio del Interior",
+        "url": "https://www.interior.gob.es/",
+        "cat": "Protección Civil y Emergencias",
+        "nota": "Coordinación nacional, Protección Civil y respuesta a emergencias."
+      },
+      {
+        "nombre": "Ministerio de Sanidad",
+        "url": "https://www.sanidad.gob.es/",
+        "cat": "Sanidad",
+        "nota": "Oferta sanitaria, recomendaciones de salud pública y preparación frente a crisis."
+      },
+      {
+        "nombre": "Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)",
+        "url": "https://www.aesan.gob.es/",
+        "cat": "Sanidad",
+        "nota": "Seguridad alimentaria: conservación de alimentos sin frío y consumo seguro en una crisis."
+      },
+      {
+        "nombre": "Catálogo Nacional de Hospitales",
+        "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/sisInfSanSNS/ofertaRecursos/hospitales/docs/CNH_2024.pdf",
+        "cat": "Sanidad",
+        "nota": "Listado oficial de hospitales de España, con servicios y camas disponibles."
+      },
+      {
+        "nombre": "Centro de Coordinación de Alertas Sanitarias",
+        "url": "https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/home.htm",
+        "cat": "Sanidad",
+        "nota": "Alertas sanitarias oficiales y recomendaciones dirigidas a la población."
+      },
+      {
+        "nombre": "AEMET — Agencia Estatal de Meteorología",
+        "url": "https://www.aemet.es/",
+        "cat": "Meteorología",
+        "nota": "Predicción oficial; de aquí salen los avisos que sostienen los kits de calor, frío y DANA."
+      },
+      {
+        "nombre": "AEMET — Avisos meteorológicos",
+        "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+        "cat": "Meteorología",
+        "nota": "Avisos por fenómeno y nivel de riesgo: para planificar antes de que llegue, no durante."
+      },
+      {
+        "nombre": "Red Eléctrica de España",
+        "url": "https://www.ree.es/",
+        "cat": "Suministros y energía",
+        "nota": "Operador del sistema eléctrico: información sobre la red y el suministro."
+      },
+      {
+        "nombre": "Demanda eléctrica en tiempo real (REE)",
+        "url": "https://demanda.ree.es/",
+        "cat": "Suministros y energía",
+        "nota": "Curva de demanda en vivo. Sirve para entender un apagón o un pico de consumo."
+      },
+      {
+        "nombre": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+        "url": "https://www.miteco.gob.es/",
+        "cat": "Suministros y energía",
+        "nota": "Agua, energía y riesgos climáticos: el marco oficial de los suministros."
+      },
+      {
+        "nombre": "Guardia Civil",
+        "url": "https://www.guardiacivil.es/",
+        "cat": "Seguridad",
+        "nota": "Cuartelillos, servicios de emergencia y actuación en el medio rural."
+      },
+      {
+        "nombre": "Policía Nacional",
+        "url": "https://www.policia.es/",
+        "cat": "Seguridad",
+        "nota": "Comisarías y servicios de emergencia en los núcleos urbanos."
+      },
+      {
+        "nombre": "Cruz Roja Española",
+        "url": "https://www.cruzroja.es/",
+        "cat": "Seguridad",
+        "nota": "Apoyo voluntario, evacuación y atención psicosocial durante y después de una emergencia."
+      },
+      {
+        "nombre": "Boletín Oficial del Estado",
+        "url": "https://www.boe.es/",
+        "cat": "Normativa",
+        "nota": "Publicación oficial de todas las normas que se citan en este sitio."
+      },
+      {
+        "nombre": "BOE — Directrices Básicas de Planificación de Protección Civil",
+        "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-9160",
+        "cat": "Normativa",
+        "nota": "Inundaciones, fenómenos meteorológicos adversos, incendios forestales y mercancías peligrosas."
+      },
+      {
+        "nombre": "Instituto Geográfico Nacional (IGN)",
+        "url": "https://www.ign.es/",
+        "cat": "Datos del mapa y del sitio",
+        "nota": "Mapa base de la página /zona/ (CC BY 4.0) y datos geográficos oficiales de España."
+      },
+      {
+        "nombre": "datos.gob.es — datos abiertos del Estado",
+        "url": "https://datos.gob.es/es/",
+        "cat": "Datos del mapa y del sitio",
+        "nota": "Catálogo de conjuntos de datos abiertos de la administración española."
+      },
+      {
+        "nombre": "OpenStreetMap — licencia y colaboración",
+        "url": "https://www.openstreetmap.org/copyright",
+        "cat": "Datos del mapa y del sitio",
+        "nota": "De aquí salen los hospitales, farmacias, policías y refugios del mapa /zona/ (ODbL)."
+      },
+      {
+        "nombre": "Overpass API (OpenStreetMap)",
+        "url": "https://overpass-api.de/",
+        "cat": "Datos del mapa y del sitio",
+        "nota": "Consulta en directo a OpenStreetMap que usa «Tu zona» para pintar tu entorno al instante."
+      },
+      {
+        "nombre": "Comisión Nacional de los Mercados y la Competencia",
+        "url": "https://www.cnmc.es/",
+        "cat": "Datos del mapa y del sitio",
+        "nota": "Telecomunicaciones y competencia: información sobre cobertura y servicios de comunicaciones."
       }
     ],
     "ultima_revision": "2026-09-28",

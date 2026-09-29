@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -160,9 +160,10 @@
           
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/15 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>22</b>
+            <span>productos · 12 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-hogar')">Llévate todo el kit →</button>
         </div>
         
@@ -178,7 +179,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B08S17DS6N">
-              <input type="checkbox" class="chk" aria-label="Marcar Garrafas de agua 8 L (2 por persona)">
               <div class="item-info">
                 <span class="producto">Garrafas de agua 8 L (2 por persona)</span>
                 <span class="descripcion">Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día.</span>
@@ -191,7 +191,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B09TBGX1MK">
-              <input type="checkbox" class="chk" aria-label="Marcar Conservas variadas (15-20 latas)">
               <div class="item-info">
                 <span class="producto">Conservas variadas (15-20 latas)</span>
                 <span class="descripcion">Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.</span>
@@ -204,7 +203,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0H3WC3R53">
-              <input type="checkbox" class="chk" aria-label="Marcar Pastas, arroz y legumbres en paquetes">
               <div class="item-info">
                 <span class="producto">Pastas, arroz y legumbres en paquetes</span>
                 <span class="descripcion">Base calórica de larga caducidad (2-3 años).</span>
@@ -217,7 +215,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FP5RJ53N">
-              <input type="checkbox" class="chk" aria-label="Marcar Comida para mascotas extra">
               <div class="item-info">
                 <span class="producto">Comida para mascotas extra</span>
                 <span class="descripcion">No te olvides de ellos: ración extra para 3 días mínimo.</span>
@@ -237,7 +234,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B07KM6KZYD">
-              <input type="checkbox" class="chk" aria-label="Marcar Gel hidroalcohólico y jabón">
               <div class="item-info">
                 <span class="producto">Gel hidroalcohólico y jabón</span>
                 <span class="descripcion">Higiene básica sin agua corriente garantizada.</span>
@@ -250,7 +246,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0DP4Y4S7K">
-              <input type="checkbox" class="chk" aria-label="Marcar Lejía y desinfectante de superficies">
               <div class="item-info">
                 <span class="producto">Lejía y desinfectante de superficies</span>
                 <span class="descripcion">El agua de DANA deja lodo con aguas fecales: desinfecta todo.</span>
@@ -263,7 +258,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B07NMGQW67">
-              <input type="checkbox" class="chk" aria-label="Marcar Papel higiénico y toallitas">
               <div class="item-info">
                 <span class="producto">Papel higiénico y toallitas</span>
                 <span class="descripcion">Si el agua falla, la cisterna no tira: gestiona residuos con bolsas.</span>
@@ -276,7 +270,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0H8X7LJTM">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsas de residuos negras (50+ unidades)">
               <div class="item-info">
                 <span class="producto">Bolsas de residuos negras (50+ unidades)</span>
                 <span class="descripcion">Sin agua corriente no tiras de la cisterna ni lavas. Bolsas sellables para gestionar residuos de forma higiénica hasta que vuelva el grifo.</span>
@@ -296,7 +289,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0CRN5KNCT">
-              <input type="checkbox" class="chk" aria-label="Marcar Hornillo de butano portátil con bombonas">
               <div class="item-info">
                 <span class="producto">Hornillo de butano portátil con bombonas</span>
                 <span class="descripcion">Calienta agua, cocina conservas y caldos sin electricidad. Úsalo siempre en zona ventilada.</span>
@@ -309,7 +301,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B00B2N8IFS">
-              <input type="checkbox" class="chk" aria-label="Marcar Abreconservas manual">
               <div class="item-info">
                 <span class="producto">Abreconservas manual</span>
                 <span class="descripcion">Sin electricidad, el abre-latas eléctrico no funciona. Uno manual de 5 € es la herramienta más infravalorada del kit.</span>
@@ -322,7 +313,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07FXSF4PV">
-              <input type="checkbox" class="chk" aria-label="Marcar Cocoteira o cazo resistente (para calentar conservas)">
               <div class="item-info">
                 <span class="producto">Cocoteira o cazo resistente (para calentar conservas)</span>
                 <span class="descripcion">Puedes calentar latas vacías con agua y meter la conserva dentro (baño María casero) o usar una cazo para calentar agua si se fue la luz.</span>
@@ -335,7 +325,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Detector de monóxido de carbono a pilas">
               <div class="item-info">
                 <span class="producto">Detector de monóxido de carbono a pilas</span>
                 <span class="descripcion">Este kit recomienda un hornillo de butano dentro de casa: el CO no se huele, no se ve y mata mientras duermes. Ponlo a la altura de la respiración, en la cocina o donde cocines, y nunca lo apagues para ahorrar pilas.</span>
@@ -355,7 +344,6 @@
         <ul class="items">
           
             <li class="item" data-asin="B0H8ZDPS7C">
-              <input type="checkbox" class="chk" aria-label="Marcar Termómetro digital">
               <div class="item-info">
                 <span class="producto">Termómetro digital</span>
                 <span class="descripcion">Detectar fiebre cuando no puedes ir al médico de inmediato.</span>
@@ -368,7 +356,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Paracetamol e ibuprofeno (caducidad larga)">
               <div class="item-info">
                 <span class="producto">Paracetamol e ibuprofeno (caducidad larga)</span>
                 <span class="descripcion">Analgésicos y antitérmicos básicos. Revisa caducidad anual.</span>
@@ -381,7 +368,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GM1QQW1C">
-              <input type="checkbox" class="chk" aria-label="Marcar Mascarillas FFP2">
               <div class="item-info">
                 <span class="producto">Mascarillas FFP2</span>
                 <span class="descripcion">Protección ante polvo, humo o brote respiratorio.</span>
@@ -401,7 +387,6 @@
         <ul class="items">
           
             <li class="item" data-asin="B0GLQGTKQD">
-              <input type="checkbox" class="chk" aria-label="Marcar Juegos de mesa o cartas">
               <div class="item-info">
                 <span class="producto">Juegos de mesa o cartas</span>
                 <span class="descripcion">La moral importa: 72 horas encerrados se hacen eternas sin nada que hacer.</span>
@@ -414,7 +399,6 @@
               </div>
             </li>
             <li class="item" data-asin="8498381495">
-              <input type="checkbox" class="chk" aria-label="Marcar Libros de bolsillo">
               <div class="item-info">
                 <span class="producto">Libros de bolsillo</span>
                 <span class="descripcion">Entretenimiento sin batería ni red.</span>
@@ -434,7 +418,6 @@
         <ul class="items">
           
             <li class="item" data-asin="B0BYP13RZQ">
-              <input type="checkbox" class="chk" aria-label="Marcar Ventilador USB de repisa o pies">
               <div class="item-info">
                 <span class="producto">Ventilador USB de repisa o pies</span>
                 <span class="descripcion">Mueve el aire si el calor se acumula. Funciona con el powerbank del kit durante horas.</span>
@@ -447,7 +430,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Medidor de CO2 o calidad del aire portátil">
               <div class="item-info">
                 <span class="producto">Medidor de CO2 o calidad del aire portátil</span>
                 <span class="descripcion">El CO2 acumulado en casa cerrada da sueño, dolor de cabeza y reduce la capacidad de razonar. Un sensor barato te avisa.</span>
@@ -467,7 +449,6 @@
         <ul class="items">
           
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna LED a pilas o de dinamo">
               <div class="item-info">
                 <span class="producto">Linterna LED a pilas o de dinamo</span>
                 <span class="descripcion">Sin luz no encuentras nada y acabas usando el móvil como linterna, que es justo lo que necesitas para llamar. Guarda pilas de repuesto del mismo tamaño, fuera de los aparatos.</span>
@@ -480,7 +461,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GWN9FJC7">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o de dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o de dinamo</span>
                 <span class="descripcion">Cuando cae la red móvil, la radio sigue emitiendo avisos oficiales sin internet ni batería del móvil. Sintoniza las emisoras locales antes de guardarla y prueba la recepción donde la vayas a usar.</span>
@@ -493,7 +473,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0HC4PGSVV">
-              <input type="checkbox" class="chk" aria-label="Marcar Batería externa (powerbank) de 10.000-20.000 mAh">
               <div class="item-info">
                 <span class="producto">Batería externa (powerbank) de 10.000-20.000 mAh</span>
                 <span class="descripcion">Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses.</span>
@@ -547,7 +526,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

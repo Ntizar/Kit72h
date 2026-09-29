@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Recopilación propia a partir de: Estrategia de Preparación UE, Protección Civil y FAO (reservas alimentarias domésticas)</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/9 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>16</b>
+            <span>productos · 8 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-30-dias')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B08S17DS6N">
-              <input type="checkbox" class="chk" aria-label="Marcar Garrafas 8 L con grifo dispensador (x8 = 64 L)">
               <div class="item-info">
                 <span class="producto">Garrafas 8 L con grifo dispensador (x8 = 64 L)</span>
                 <span class="descripcion">Bezoya 8 L con grifo: cómodas para dosificar. Calcula 3 L/día por persona para beber y cocina.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial">
-              <input type="checkbox" class="chk" aria-label="Marcar Renueva el agua cada 6 meses">
               <div class="item-info">
                 <span class="producto">Renueva el agua cada 6 meses</span>
                 <span class="descripcion">La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo.</span>
@@ -212,7 +211,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0BJW6W2GM">
-              <input type="checkbox" class="chk" aria-label="Marcar Atún claro al natural (pack 6 latas)">
               <div class="item-info">
                 <span class="producto">Atún claro al natural (pack 6 latas)</span>
                 <span class="descripcion">Proteína barata y duradera. Multiplica packs según días cubiertos.</span>
@@ -225,7 +223,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B01MSTVEZN">
-              <input type="checkbox" class="chk" aria-label="Marcar Lentejas a la riojana Litoral (pack 6)">
               <div class="item-info">
                 <span class="producto">Lentejas a la riojana Litoral (pack 6)</span>
                 <span class="descripcion">Plato completo listo para comer, se puede tomar frío si no hay forma de calentar.</span>
@@ -238,7 +235,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B06WGS9J3D">
-              <input type="checkbox" class="chk" aria-label="Marcar Cocido madrileño Litoral (pack 6)">
               <div class="item-info">
                 <span class="producto">Cocido madrileño Litoral (pack 6)</span>
                 <span class="descripcion">Calorías y proteína en un solo bote. Muy buena relación energía/precio.</span>
@@ -251,7 +247,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0CYT5X5PY">
-              <input type="checkbox" class="chk" aria-label="Marcar Conservas gallegas variadas (12 latas gourmet)">
               <div class="item-info">
                 <span class="producto">Conservas gallegas variadas (12 latas gourmet)</span>
                 <span class="descripcion">Mejillones, sardinas, berberechos… variar el sabor mantiene la moral en una crisis larga.</span>
@@ -264,7 +259,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0BG8XYDPR">
-              <input type="checkbox" class="chk" aria-label="Marcar Patés variados (45 unidades)">
               <div class="item-info">
                 <span class="producto">Patés variados (45 unidades)</span>
                 <span class="descripcion">Fácil de comer sin cocinar, en tostada o solo. Caducidad larga.</span>
@@ -284,7 +278,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0CG9R782W">
-              <input type="checkbox" class="chk" aria-label="Marcar Arroz parboiled 1 kg (pack 2)">
               <div class="item-info">
                 <span class="producto">Arroz parboiled 1 kg (pack 2)</span>
                 <span class="descripcion">Alimento de larga conservación por excelencia. Compra 6-8 kg para el mes.</span>
@@ -297,7 +290,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B00XA5FJ9E">
-              <input type="checkbox" class="chk" aria-label="Marcar Leche en polvo entera 1 kg (Asturiana)">
               <div class="item-info">
                 <span class="producto">Leche en polvo entera 1 kg (Asturiana)</span>
                 <span class="descripcion">Rinde ~7 litros de leche por bolsa. Vitamina D y calcio sin nevera.</span>
@@ -317,7 +309,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0G45JL8F3">
-              <input type="checkbox" class="chk" aria-label="Marcar Hornillo de camping 2 en 1 (bombona grande o cartucho)">
               <div class="item-info">
                 <span class="producto">Hornillo de camping 2 en 1 (bombona grande o cartucho)</span>
                 <span class="descripcion">Admite bombona de butano normal o cartucho pequeño. Solo usar en zona ventilada.</span>
@@ -330,7 +321,6 @@
               </div>
             </li>
             <li class="item" data-asin="B01M1NCHK8">
-              <input type="checkbox" class="chk" aria-label="Marcar Estufa de gas butano (Orbegozo 4200 W)">
               <div class="item-info">
                 <span class="producto">Estufa de gas butano (Orbegozo 4200 W)</span>
                 <span class="descripcion">Para el frío en apagón de invierno. Triple sistema de seguridad. Ventila siempre.</span>
@@ -343,7 +333,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07T2ZDK6X">
-              <input type="checkbox" class="chk" aria-label="Marcar Tienda de campaña de emergencia 2 personas">
               <div class="item-info">
                 <span class="producto">Tienda de campaña de emergencia 2 personas</span>
                 <span class="descripcion">Si la casa queda inhabitable o para aislar una habitación y conservar el calor corporal.</span>
@@ -363,7 +352,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0D9M3CWMW">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín completo 222 piezas">
               <div class="item-info">
                 <span class="producto">Botiquín completo 222 piezas</span>
                 <span class="descripcion">Curas, vendas, antisépticos, guantes, esparadrapo. La base de salud de 30 días.</span>
@@ -376,7 +364,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07L3DG8DK">
-              <input type="checkbox" class="chk" aria-label="Marcar Papel higiénico 96 rollos (Scottex)">
               <div class="item-info">
                 <span class="producto">Papel higiénico 96 rollos (Scottex)</span>
                 <span class="descripcion">Es de lo primero que desaparece de los supermercados ante cualquier aviso.</span>
@@ -389,7 +376,6 @@
               </div>
             </li>
             <li class="item" data-asin="B075RCPZ3P">
-              <input type="checkbox" class="chk" aria-label="Marcar Multivitaminas 450 comprimidos">
               <div class="item-info">
                 <span class="producto">Multivitaminas 450 comprimidos</span>
                 <span class="descripcion">Cubre carencias si tu dieta de emergencia es monótona (sin fruta ni verdura fresca).</span>
@@ -402,7 +388,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07PV3KL1H">
-              <input type="checkbox" class="chk" aria-label="Marcar Espirulina + chlorella ecológica (500 comprimidos)">
               <div class="item-info">
                 <span class="producto">Espirulina + chlorella ecológica (500 comprimidos)</span>
                 <span class="descripcion">Superalimento denso en proteína y micronutrientes, caducidad larguísima.</span>
@@ -456,7 +441,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

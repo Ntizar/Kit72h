@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://commission.europa.eu/topics/preparedness_es" target="_blank" rel="noopener">Estrategia de Preparación de la Unión Europea — Comunicación JOIN(2025) 90</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/12 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>16</b>
+            <span>productos · 12 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-basico-72h')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B01DUW98CA">
-              <input type="checkbox" class="chk" aria-label="Marcar Botella o garrafa de agua (3 L por persona y día)">
               <div class="item-info">
                 <span class="producto">Botella o garrafa de agua (3 L por persona y día)</span>
                 <span class="descripcion">Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GMXX2G9S">
-              <input type="checkbox" class="chk" aria-label="Marcar Pastillas potabilizadoras de agua">
               <div class="item-info">
                 <span class="producto">Pastillas potabilizadoras de agua</span>
                 <span class="descripcion">Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada.</span>
@@ -212,7 +211,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B006G5N4XS">
-              <input type="checkbox" class="chk" aria-label="Marcar Raciones militares de emergencia (comida deshidratada)">
               <div class="item-info">
                 <span class="producto">Raciones militares de emergencia (comida deshidratada)</span>
                 <span class="descripcion">Comida deshidratada con 2 años de vida útil. Solo necesita agua caliente.</span>
@@ -225,7 +223,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B09TBGX1MK">
-              <input type="checkbox" class="chk" aria-label="Marcar Conservas y lata de legumbres (comida no perecedera)">
               <div class="item-info">
                 <span class="producto">Conservas y lata de legumbres (comida no perecedera)</span>
                 <span class="descripcion">Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.</span>
@@ -238,7 +235,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DHH7TMGF">
-              <input type="checkbox" class="chk" aria-label="Marcar Barritas energéticas y frutos secos">
               <div class="item-info">
                 <span class="producto">Barritas energéticas y frutos secos</span>
                 <span class="descripcion">Energía rápida en formato compacto. 400-500 kcal por barrita.</span>
@@ -258,7 +254,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0C3B4H4Z5">
-              <input type="checkbox" class="chk" aria-label="Marcar Linterna LED a pilas (con pilas de repuesto)">
               <div class="item-info">
                 <span class="producto">Linterna LED a pilas (con pilas de repuesto)</span>
                 <span class="descripcion">Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte.</span>
@@ -271,7 +266,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0DFLHZQ18">
-              <input type="checkbox" class="chk" aria-label="Marcar Powerbank de alta capacidad (≥ 20.000 mAh)">
               <div class="item-info">
                 <span class="producto">Powerbank de alta capacidad (≥ 20.000 mAh)</span>
                 <span class="descripcion">Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.</span>
@@ -284,7 +278,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B094D3JGLT">
-              <input type="checkbox" class="chk" aria-label="Marcar Pilas alcalinas surtidas (AA/AAA)">
               <div class="item-info">
                 <span class="producto">Pilas alcalinas surtidas (AA/AAA)</span>
                 <span class="descripcion">Surtido AA/AAA. Los aparatos del kit mueren sin pilas de repuesto.</span>
@@ -304,7 +297,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GWNDVR7S">
-              <input type="checkbox" class="chk" aria-label="Marcar Radio FM/AM a pilas o dinamo">
               <div class="item-info">
                 <span class="producto">Radio FM/AM a pilas o dinamo</span>
                 <span class="descripcion">Única fuente de información si caen internet y la telefonía. Con dinamo mejor.</span>
@@ -317,7 +309,6 @@
               </div>
             </li>
             <li class="item" data-asin="B01LX6Q7XS">
-              <input type="checkbox" class="chk" aria-label="Marcar Mapa físico de tu zona (papel, no digital)">
               <div class="item-info">
                 <span class="producto">Mapa físico de tu zona (papel, no digital)</span>
                 <span class="descripcion">Papel, no digital. El GPS puede caerse; el papel no.</span>
@@ -337,7 +328,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B096V89H69">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsa estanca para documentos (DNI, pólizas, recetas)">
               <div class="item-info">
                 <span class="producto">Bolsa estanca para documentos (DNI, pólizas, recetas)</span>
                 <span class="descripcion">Bolsa de cierre zip de grado militar: DNI, pólizas y recetas secos siempre.</span>
@@ -350,7 +340,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0CLLSK9BC">
-              <input type="checkbox" class="chk" aria-label="Marcar Faja portadocumentos / riñonera oculta para efectivo">
               <div class="item-info">
                 <span class="producto">Faja portadocumentos / riñonera oculta para efectivo</span>
                 <span class="descripcion">Riñonera oculta bajo la ropa para llevar efectivo y documentación encima.</span>
@@ -370,7 +359,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GK6PV1M4">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín de primeros auxilios básico">
               <div class="item-info">
                 <span class="producto">Botiquín de primeros auxilios básico</span>
                 <span class="descripcion">Vendas, antiséptico, gasas, tijeras y guantes. Base de cualquier kit.</span>
@@ -383,7 +371,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FQ5TJY9K">
-              <input type="checkbox" class="chk" aria-label="Marcar Gel hidroalcohólico y toallitas húmedas">
               <div class="item-info">
                 <span class="producto">Gel hidroalcohólico y toallitas húmedas</span>
                 <span class="descripcion">Higiene sin agua. Fundamental cuando falla el suministro.</span>
@@ -403,7 +390,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0CYDF32J3">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica de emergencia">
               <div class="item-info">
                 <span class="producto">Manta térmica de emergencia</span>
                 <span class="descripcion">Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco.</span>
@@ -416,7 +402,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GMQVNSRC">
-              <input type="checkbox" class="chk" aria-label="Marcar Chubasquero o poncho impermeable">
               <div class="item-info">
                 <span class="producto">Chubasquero o poncho impermeable</span>
                 <span class="descripcion">Impermeable ligero reutilizable. Mantente seco = mantente caliente.</span>
@@ -470,7 +455,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

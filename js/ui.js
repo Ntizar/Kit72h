@@ -39,7 +39,6 @@ const ui = {
       if (!kit) { location.hash = ''; return this.render(); }
       app.innerHTML = this.htmlKit(kit);
       document.title = `${kit.titulo} — Kit72h`;
-      this.progresoInit();
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
       document.title = 'Fuentes oficiales — Kit72h';
@@ -273,18 +272,19 @@ const ui = {
     let nEs = 0;
     const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
 
+    let nProd = 0;
     const secciones = kit.secciones.map((s, si) => `
       <div class="seccion-kit">
         <h2>${String(si+1).padStart(2,'0')} / ${s.titulo}</h2>
         ${s.intro ? `<p class="intro-seccion">${s.intro}</p>` : ''}
         <ul class="items">
           ${s.items.map(i => {
+            nProd++;
             const m = i.afiliado ? /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado) : null;
             const es = i.prioridad === 'esencial';
             if (es && m) asinsEs.add(m[1]);
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
-              <input type="checkbox" class="chk" aria-label="Marcar ${i.producto.replace(/"/g, '')}">
               <div class="item-info">
                 <span class="producto">${i.producto}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
@@ -345,9 +345,10 @@ const ui = {
           ${fuente}
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill"></div></div>
-          <span id="prog-ley">marca lo que ya tienes</span>
+          <div class="bp-txt">
+            <b>${nProd}</b>
+            <span>productos · ${nEs} imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}')">Llévate todo el kit →</button>
         </div>
         ${paraQuien}
@@ -358,26 +359,6 @@ const ui = {
         ${blogBox}
         <button class="btn negro full" onclick="window.print()">Imprimir hoja de campo ↓</button>
       </section>`;
-  },
-
-  /* ---- Progreso del checklist ---- */
-  progresoInit() {
-    const chks = [...document.querySelectorAll('#app .chk')];
-    if (!chks.length) return;
-    const esenciales = chks.filter(c => c.closest('li.esencial'));
-    const objetivo = esenciales.length ? esenciales : chks;
-    const upd = () => {
-      const done = objetivo.filter(c => c.checked).length;
-      const pct = Math.round(done / objetivo.length * 100);
-      const fill = document.getElementById('prog-fill');
-      if (fill) fill.style.width = pct + '%';
-      const num = document.getElementById('prog-num');
-      if (num) num.textContent = pct + '%';
-      const ley = document.getElementById('prog-ley');
-      if (ley) ley.textContent = `${done}/${objetivo.length} imprescindibles listos`;
-    };
-    chks.forEach(c => c.addEventListener('change', upd));
-    upd();
   },
 
   /* ---- Cesta Amazon en 1 clic, un ASIN por línea y sin repetir ----
@@ -483,14 +464,33 @@ tablasSeguras(html) {
 
   /* ---- FUENTES ---- */
   htmlFuentes() {
-    const lista = state.data.meta.fuentes.map((f, i) =>
-      `<li><span class="num">${String(i+1).padStart(2,'0')}</span><a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a></li>`).join('');
+    const fuentes = state.data.meta.fuentes || [];
+    const grupos = {};
+    fuentes.forEach(f => {
+      const c = f.cat || 'Otras fuentes';
+      (grupos[c] = grupos[c] || []).push(f);
+    });
+    const bloques = Object.entries(grupos).map(([cat, lista]) => `
+      <div class="fuentes-grupo">
+        <h2>${cat}<span class="fuentes-n">${lista.length}</span></h2>
+        <ul>
+          ${lista.map(f => `<li>
+            <a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a>
+            ${f.nota ? `<p>${f.nota}</p>` : ''}
+          </li>`).join('')}
+        </ul>
+      </div>`).join('');
     return `
       <section class="ficha fuentes-pagina">
         <a class="volver" href="/">← Inicio</a>
         <h1>Fuentes oficiales</h1>
-        <p>Todo el contenido de este sitio se basa en documentos públicos de organismos oficiales. Revisamos periódicamente las fuentes para mantener las listas actualizadas (última revisión: ${state.data.meta.ultima_revision}).</p>
-        <ul>${lista}</ul>
+        <p class="fuentes-lead"><b>${fuentes.length} fuentes públicas</b> de organismos oficiales,
+        agrupadas por ámbito. De aquí salen las listas de los kits, los tiempos, los avisos y los
+        datos del mapa de «Tu zona». Cada enlace se comprueba antes de publicarse
+        (última revisión: ${state.data.meta.ultima_revision}).</p>
+        ${bloques}
+        <p class="fuentes-cierre">Nada de esto sustituye a los servicios de emergencia:
+        ante una emergencia real, <b>llama al 112</b>.</p>
       </section>`;
   }
 };

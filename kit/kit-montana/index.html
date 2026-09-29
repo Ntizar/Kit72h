@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -160,9 +160,10 @@
           
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/7 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>13</b>
+            <span>productos · 7 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-montana')">Llévate todo el kit →</button>
         </div>
         
@@ -178,7 +179,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0C9CJKCH3">
-              <input type="checkbox" class="chk" aria-label="Marcar Powerbank ligero + cable USB">
               <div class="item-info">
                 <span class="producto">Powerbank ligero + cable USB</span>
                 <span class="descripcion">Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.</span>
@@ -191,7 +191,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0HD6RLST6">
-              <input type="checkbox" class="chk" aria-label="Marcar Silbato de emergencia">
               <div class="item-info">
                 <span class="producto">Silbato de emergencia</span>
                 <span class="descripcion">Se oye a 1 km de distancia; tu voz, a 100 metros. Sin batería.</span>
@@ -204,7 +203,6 @@
               </div>
             </li>
             <li class="item" data-asin="B086X75P34">
-              <input type="checkbox" class="chk" aria-label="Marcar Mapa y brújula físicos de la zona">
               <div class="item-info">
                 <span class="producto">Mapa y brújula físicos de la zona</span>
                 <span class="descripcion">La orientación clásica no falla. Aprende a usarla antes de salir.</span>
@@ -217,7 +215,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0CKW3F157">
-              <input type="checkbox" class="chk" aria-label="Marcar Cuerda de paracord 550 (30m)">
               <div class="item-info">
                 <span class="producto">Cuerda de paracord 550 (30m)</span>
                 <span class="descripcion">Cuerda de 4 mm, resistencia 250 kg. Sirve para amarre de mochila, improvisar refugio, inmovilizar o ayudar a otro caminante. No es para escalar.</span>
@@ -237,7 +234,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0GR9993T2">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica de supervivencia">
               <div class="item-info">
                 <span class="producto">Manta térmica de supervivencia</span>
                 <span class="descripcion">Doble cara: naranja para ser visto, plata para retener calor.</span>
@@ -250,7 +246,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GMQVNSRC">
-              <input type="checkbox" class="chk" aria-label="Marcar Chubasquero ligero">
               <div class="item-info">
                 <span class="producto">Chubasquero ligero</span>
                 <span class="descripcion">La hipotermia mata en montaña incluso en verano.</span>
@@ -263,7 +258,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0FX9NXD18">
-              <input type="checkbox" class="chk" aria-label="Marcar Casquete o gorro de abrigo">
               <div class="item-info">
                 <span class="producto">Casquete o gorro de abrigo</span>
                 <span class="descripcion">El 30% del calor corporal se pierde por la cabeza.</span>
@@ -283,7 +277,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0DHGGGK1Q">
-              <input type="checkbox" class="chk" aria-label="Marcar Botiquín ligero de trekking">
               <div class="item-info">
                 <span class="producto">Botiquín ligero de trekking</span>
                 <span class="descripcion">Vendajes, esparadrapo, ampollas, material de inmovilización básico.</span>
@@ -296,7 +289,6 @@
               </div>
             </li>
             <li class="item" data-asin="B09XRDG5HC">
-              <input type="checkbox" class="chk" aria-label="Marcar Crema solar y labial con protección">
               <div class="item-info">
                 <span class="producto">Crema solar y labial con protección</span>
                 <span class="descripcion">SPF 50: la radiación en montaña es mucho mayor que en la playa.</span>
@@ -309,7 +301,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0FP16NDYT">
-              <input type="checkbox" class="chk" aria-label="Marcar Apósitos hidrocoloides para ampollas">
               <div class="item-info">
                 <span class="producto">Apósitos hidrocoloides para ampollas</span>
                 <span class="descripcion">El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.</span>
@@ -322,7 +313,6 @@
               </div>
             </li>
             <li class="item" data-asin="B000IAZDE0">
-              <input type="checkbox" class="chk" aria-label="Marcar Navaja multiuso">
               <div class="item-info">
                 <span class="producto">Navaja multiuso</span>
                 <span class="descripcion">Corta, sierra, abre latas y repara material. La navaja suiza del senderista.</span>
@@ -335,7 +325,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DK3LBNFM">
-              <input type="checkbox" class="chk" aria-label="Marcar Kit de costura de emergencia">
               <div class="item-info">
                 <span class="producto">Kit de costura de emergencia</span>
                 <span class="descripcion">Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta.</span>
@@ -348,7 +337,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0GRMM8ZQS">
-              <input type="checkbox" class="chk" aria-label="Marcar Frontal con pilas de repuesto">
               <div class="item-info">
                 <span class="producto">Frontal con pilas de repuesto</span>
                 <span class="descripcion">Manos libres para caminar de noche o reparar material.</span>
@@ -402,7 +390,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 

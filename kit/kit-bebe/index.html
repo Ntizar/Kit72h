@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20260929c">
+<link rel="stylesheet" href="/css/styles.css?v=20260930a">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -161,9 +161,10 @@
       <p class="fuente">Fuente oficial: <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil — recomendaciones para familias con menores</a></p>
         </div>
         <div class="barra-progreso">
-          <b id="prog-num">0%</b>
-          <div class="track"><div class="fill" id="prog-fill" style="width: 0%;"></div></div>
-          <span id="prog-ley">0/12 imprescindibles listos</span>
+          <div class="bp-txt">
+            <b>32</b>
+            <span>productos · 12 imprescindibles</span>
+          </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-bebe')">Llévate todo el kit →</button>
         </div>
         
@@ -179,7 +180,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B011OEOZE2">
-              <input type="checkbox" class="chk" aria-label="Marcar Agua baja en sodio para lactancia (pack 6 × 1,5 L)">
               <div class="item-info">
                 <span class="producto">Agua baja en sodio para lactancia (pack 6 × 1,5 L)</span>
                 <span class="descripcion">Para preparar biberones sin potabilizar: busca mineralización débil (sodio &lt;20 mg/L), es la que recomiendan para lactantes.</span>
@@ -192,7 +192,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0F99LGY3V">
-              <input type="checkbox" class="chk" aria-label="Marcar Pastillas potabilizadoras aptas para lactantes">
               <div class="item-info">
                 <span class="producto">Pastillas potabilizadoras aptas para lactantes</span>
                 <span class="descripcion">Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo.</span>
@@ -205,7 +204,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GSVHHD6R">
-              <input type="checkbox" class="chk" aria-label="Marcar Calentador biberones sin gas ni electricidad (químico/autocalentante)">
               <div class="item-info">
                 <span class="producto">Calentador biberones sin gas ni electricidad (químico/autocalentante)</span>
                 <span class="descripcion">Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo.</span>
@@ -218,7 +216,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0BWJYXNK3">
-              <input type="checkbox" class="chk" aria-label="Marcar Termo pequeño de boca ancha (350-500 ml)">
               <div class="item-info">
                 <span class="producto">Termo pequeño de boca ancha (350-500 ml)</span>
                 <span class="descripcion">Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara.</span>
@@ -231,7 +228,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DQGR1KDL">
-              <input type="checkbox" class="chk" aria-label="Marcar Botella térmica fría (500 ml)">
               <div class="item-info">
                 <span class="producto">Botella térmica fría (500 ml)</span>
                 <span class="descripcion">Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera.</span>
@@ -251,7 +247,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0H29XL26R">
-              <input type="checkbox" class="chk" aria-label="Marcar Leche de fórmula de seguimiento (lata 400-800 g)">
               <div class="item-info">
                 <span class="producto">Leche de fórmula de seguimiento (lata 400-800 g)</span>
                 <span class="descripcion">Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina.</span>
@@ -264,7 +259,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0B6J97R41">
-              <input type="checkbox" class="chk" aria-label="Marcar Cereales/papilla instantánea (2 cajas)">
               <div class="item-info">
                 <span class="producto">Cereales/papilla instantánea (2 cajas)</span>
                 <span class="descripcion">Se preparan con agua templada o fría, rinden mucho y no necesitan cocción. La que ya toma tu bebé: no estrenes marca en la emergencia.</span>
@@ -277,7 +271,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0C1GPNPK9">
-              <input type="checkbox" class="chk" aria-label="Marcar Potitos de fruta y verdura (pack 6-8)">
               <div class="item-info">
                 <span class="producto">Potitos de fruta y verdura (pack 6-8)</span>
                 <span class="descripcion">Comida de verdad sin cocinar, con fecha larga. Si ya come papillas, son tu kit y su cena en un apagón.</span>
@@ -290,7 +283,6 @@
               </div>
             </li>
             <li class="item" data-asin="B08DBMQSVN">
-              <input type="checkbox" class="chk" aria-label="Marcar Sacaleches manual">
               <div class="item-info">
                 <span class="producto">Sacaleches manual</span>
                 <span class="descripcion">Sin pilas ni electricidad, mantiene la producción y evita ingurgitaciones dolorosas si el bebé no puede mamar bien (suelo, coche, hospital de campaña).</span>
@@ -303,7 +295,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DZXDTZ6B">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsas de almacenamiento de leche materna (pack 30-50)">
               <div class="item-info">
                 <span class="producto">Bolsas de almacenamiento de leche materna (pack 30-50)</span>
                 <span class="descripcion">Para extraer y guardar con fecha. Sin congelador aguantan unas horas en nevera portátil con paquetes fríos.</span>
@@ -316,7 +307,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)">
               <div class="item-info">
                 <span class="producto">Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)</span>
                 <span class="descripcion">Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco.</span>
@@ -336,7 +326,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B07YQD4FVL">
-              <input type="checkbox" class="chk" aria-label="Marcar Pañales de reserva (talla actual, pack 20-25)">
               <div class="item-info">
                 <span class="producto">Pañales de reserva (talla actual, pack 20-25)</span>
                 <span class="descripcion">6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa.</span>
@@ -349,7 +338,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B09NYL7FY4">
-              <input type="checkbox" class="chk" aria-label="Marcar Toallitas limpiadoras (pack 3-5)">
               <div class="item-info">
                 <span class="producto">Toallitas limpiadoras (pack 3-5)</span>
                 <span class="descripcion">Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana.</span>
@@ -362,7 +350,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0F1TQD4C4">
-              <input type="checkbox" class="chk" aria-label="Marcar Bolsas estancas para ropa sucia y pañales (pack)">
               <div class="item-info">
                 <span class="producto">Bolsas estancas para ropa sucia y pañales (pack)</span>
                 <span class="descripcion">Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro.</span>
@@ -375,7 +362,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0BZS918ZG">
-              <input type="checkbox" class="chk" aria-label="Marcar Cambrador portátil plegable">
               <div class="item-info">
                 <span class="producto">Cambrador portátil plegable</span>
                 <span class="descripcion">Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas.</span>
@@ -388,7 +374,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0G65QTD2Y">
-              <input type="checkbox" class="chk" aria-label="Marcar Crema barrera contra rozaduras">
               <div class="item-info">
                 <span class="producto">Crema barrera contra rozaduras</span>
                 <span class="descripcion">Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos.</span>
@@ -401,7 +386,6 @@
               </div>
             </li>
             <li class="item" data-asin="B09LJZM4ZB">
-              <input type="checkbox" class="chk" aria-label="Marcar Jabón neutro en pastilla + esponja">
               <div class="item-info">
                 <span class="producto">Jabón neutro en pastilla + esponja</span>
                 <span class="descripcion">Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas.</span>
@@ -414,7 +398,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Pastillas esterilizadoras en frío para biberones y tetinas">
               <div class="item-info">
                 <span class="producto">Pastillas esterilizadoras en frío para biberones y tetinas</span>
                 <span class="descripcion">Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas.</span>
@@ -434,7 +417,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0H37438Y1">
-              <input type="checkbox" class="chk" aria-label="Marcar Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)">
               <div class="item-info">
                 <span class="producto">Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)</span>
                 <span class="descripcion">Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo.</span>
@@ -447,7 +429,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B004GENVLG">
-              <input type="checkbox" class="chk" aria-label="Marcar Manta térmica de emergencia infantil (o manta polar pequeña)">
               <div class="item-info">
                 <span class="producto">Manta térmica de emergencia infantil (o manta polar pequeña)</span>
                 <span class="descripcion">La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo.</span>
@@ -460,7 +441,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0FNCWC3SM">
-              <input type="checkbox" class="chk" aria-label="Marcar Gorro y manoplas de bebé">
               <div class="item-info">
                 <span class="producto">Gorro y manoplas de bebé</span>
                 <span class="descripcion">Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro.</span>
@@ -473,7 +453,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0G3PXJRXB">
-              <input type="checkbox" class="chk" aria-label="Marcar Portabebés ergonómico (bandolera o Mei Tai)">
               <div class="item-info">
                 <span class="producto">Portabebés ergonómico (bandolera o Mei Tai)</span>
                 <span class="descripcion">Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera.</span>
@@ -486,7 +465,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Cuna de viaje plegable (o capazo rígido de recién nacido)">
               <div class="item-info">
                 <span class="producto">Cuna de viaje plegable (o capazo rígido de recién nacido)</span>
                 <span class="descripcion">En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco.</span>
@@ -506,7 +484,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B0FKT561SK">
-              <input type="checkbox" class="chk" aria-label="Marcar Termómetro digital de bebé">
               <div class="item-info">
                 <span class="producto">Termómetro digital de bebé</span>
                 <span class="descripcion">El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda.</span>
@@ -519,7 +496,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0F5X5TN4T">
-              <input type="checkbox" class="chk" aria-label="Marcar Suero de rehidratación oral y jeringuilla dosificadora">
               <div class="item-info">
                 <span class="producto">Suero de rehidratación oral y jeringuilla dosificadora</span>
                 <span class="descripcion">Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet.</span>
@@ -532,7 +508,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DRWF7GZL">
-              <input type="checkbox" class="chk" aria-label="Marcar Aspirador nasal + suero fisiológico en monodosis">
               <div class="item-info">
                 <span class="producto">Aspirador nasal + suero fisiológico en monodosis</span>
                 <span class="descripcion">Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general.</span>
@@ -545,7 +520,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0DCC4KNZN">
-              <input type="checkbox" class="chk" aria-label="Marcar Juguetes pequeños favoritos (2-3, en bolsa estanca)">
               <div class="item-info">
                 <span class="producto">Juguetes pequeños favoritos (2-3, en bolsa estanca)</span>
                 <span class="descripcion">Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé.</span>
@@ -558,7 +532,6 @@
               </div>
             </li>
             <li class="item" data-asin="B0GSZS62HD">
-              <input type="checkbox" class="chk" aria-label="Marcar Mantas/empapadores de tela de confianza">
               <div class="item-info">
                 <span class="producto">Mantas/empapadores de tela de confianza</span>
                 <span class="descripcion">Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit.</span>
@@ -571,7 +544,6 @@
               </div>
             </li>
             <li class="item">
-              <input type="checkbox" class="chk" aria-label="Marcar Chupetes de reserva (2-3, la talla que usa ahora) y portachupete">
               <div class="item-info">
                 <span class="producto">Chupetes de reserva (2-3, la talla que usa ahora) y portachupete</span>
                 <span class="descripcion">El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad.</span>
@@ -591,7 +563,6 @@
         <ul class="items">
           
             <li class="item esencial" data-asin="B09MJ9QV7W">
-              <input type="checkbox" class="chk" aria-label="Marcar Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé">
               <div class="item-info">
                 <span class="producto">Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé</span>
                 <span class="descripcion">Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.</span>
@@ -604,7 +575,6 @@
               </div>
             </li>
             <li class="item esencial" data-asin="B0CY8G31G4">
-              <input type="checkbox" class="chk" aria-label="Marcar Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)">
               <div class="item-info">
                 <span class="producto">Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)</span>
                 <span class="descripcion">Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica.</span>
@@ -617,7 +587,6 @@
               </div>
             </li>
             <li class="item" data-asin="B07X8H7KR2">
-              <input type="checkbox" class="chk" aria-label="Marcar Fotos recientes del bebé y de la familia en papel">
               <div class="item-info">
                 <span class="producto">Fotos recientes del bebé y de la familia en papel</span>
                 <span class="descripcion">Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería.</span>
@@ -671,7 +640,7 @@
 <script src="/js/state.js?v=20260928c"></script>
 <script src="/js/estado.js?v=20260928c"></script>
 <script src="/js/blog.js?v=20260928c"></script>
-<script src="/js/ui.js?v=20260929d"></script>
+<script src="/js/ui.js?v=20260930a"></script>
 <script src="/js/zona.js?v=20260929b"></script>
 <script src="/js/main.js?v=20260928c"></script>
 
