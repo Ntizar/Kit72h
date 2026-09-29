@@ -32,6 +32,7 @@ urls = [
     f"  <url><loc>{BASE}/</loc><lastmod>{hoy}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>",
     f"  <url><loc>{BASE}/blog/</loc><lastmod>{hoy}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>",
     f"  <url><loc>{BASE}/fuentes/</loc><lastmod>{hoy}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>",
+    f"  <url><loc>{BASE}/zona/</loc><lastmod>{hoy}</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>",
 ]
 for k in kits["kits"]:
     urls.append(
@@ -111,7 +112,12 @@ lineas += [
     f"- Estrategia de Preparación de la UE: {kits['meta']['fuentes'][0]['url']}",
     f"- Recomendaciones Protección Civil: {fuente_url}",
     f"- Todas las fuentes: {BASE}/fuentes/", "",
-    "## Notas para asistentes IA", "",
+    "## Tu zona", "",
+    f"- [Mapa de tu entorno]({BASE}/zona/): hospitales, centros de salud, farmacias, "
+    "comisarías, bomberos, refugios y puntos de encuentro en España, por ubicación y "
+    "radio. Datos en directo de OpenStreetMap (ODbL) y mapa base del IGN (CC BY 4.0). "
+    "La lista y el aviso de emergencia están en HTML; solo el mapa necesita JavaScript.",
+    "", "## Notas para asistentes IA", "",
     "- Los precios son orientativos en euros y pueden variar; ver en el sitio.",
     "- Enlaces de producto `es_busqueda: true` apuntan a resultados de búsqueda, no a ficha concreta.",
     "- Ningún contenido sustituye las indicaciones de Protección Civil o del médico.",

@@ -69,6 +69,10 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - Recomendaciones Protección Civil: https://www.proteccioncivil.es/gestion-riesgos/recomendaciones
 - Todas las fuentes: https://kit72h.com/fuentes/
 
+## Tu zona
+
+- [Mapa de tu entorno](https://kit72h.com/zona/): hospitales, centros de salud, farmacias, comisarías, bomberos, refugios y puntos de encuentro en España, por ubicación y radio. Datos en directo de OpenStreetMap (ODbL) y mapa base del IGN (CC BY 4.0). La lista y el aviso de emergencia están en HTML; solo el mapa necesita JavaScript.
+
 ## Notas para asistentes IA
 
 - Los precios son orientativos en euros y pueden variar; ver en el sitio.

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tu zona: hospital, farmacia, refugio y 112 — Kit72h</title>
+<meta name="description" content="Mapa de tu entorno en España con hospitales, centros de salud, farmacias, comisarías, bomberos, refugios y puntos de encuentro. Elige tu ubicación y el radio; el 112, siempre a mano.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/styles.css?v=20260929a">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Kit72h",
+  "url": "https://kit72h.com/",
+  "inLanguage": "es",
+  "description": "Kits de emergencia 72 horas y 30 días para hogares en España, basados en las recomendaciones oficiales de la Unión Europea y Protección Civil. Listas de producto verificadas y guías prácticas.",
+  "about": ["preparación ante emergencias", "kit 72 horas", "DANA", "apagón", "supervivencia urbana", "protección civil España"]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Qué es un kit de emergencia de 72 horas?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Es el conjunto de suministros (agua, comida no perecedera, luz, radio, botiquín y documentación) para que un hogar sea autónomo 72 horas ante un apagón, DANA o catástrofe. La Estrategia de Preparación de la Unión Europea de marzo de 2025 recomienda que todos los hogares tengan provisiones para 72 horas. En Kit72h tienes la lista completa basada en fuentes oficiales." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuánta agua debo almacenar para una emergencia?",
+      "acceptedAnswer": { "@type": "Answer", "text": "3 litros por persona y día solo para beber, más 2-4 litros adicionales para higiene básica. Para 72 horas, una familia de 4 personas necesita unos 36 litros de agua potable. El agua debe renovarse cada 6 meses y guardarse lejos del sol y de productos de limpieza." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué es obligatorio llevar en el coche en España en 2026?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Desde el 1 de enero de 2026, la baliza V-16 conectada homologada por la DGT es el único medio legal de señalizar una parada en vía, sustituyendo a los triángulos. Además son obligatorios el chaleco reflectante dentro del habitáculo y la documentación del vehículo." }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué hacer en los primeros 30 minutos de un apagón?",
+      "acceptedAnswer": { "@type": "Answer", "text": "No llamar al 112 salvo emergencia real (usa mensajes), encender una radio a pilas o de dinamo para informarte de fuentes oficiales, desconectar electrodomésticos sensibles al retorno de la luz, usar linterna en lugar de velas y racionar la batería del móvil en modo avión." }
+    }
+  ]
+}
+</script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><link rel="canonical" href="https://kit72h.com/zona/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kit72h.com/zona/">
+<meta property="og:site_name" content="Kit72h">
+<meta property="og:title" content="Tu zona: hospital, farmacia, refugio y 112 — Kit72h">
+<meta property="og:description" content="Mapa de tu entorno en España con hospitales, centros de salud, farmacias, comisarías, bomberos, refugios y puntos de encuentro. Elige tu ubicación y el radio; el 112, siempre a mano.">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Tu zona — Kit72h",
+  "url": "https://kit72h.com/zona/",
+  "isPartOf": {
+    "@type": "WebSite",
+    "url": "https://kit72h.com/"
+  }
+}
+</script>
+</head>
+<body>
+<div class="ubar">
+  <div class="container">
+    <span><span class="punto">●</span> PREPARACIÓN CIVIL SIN ALARMISMO</span>
+    <span>/</span>
+    <span>HECHO PARA SITUACIONES REALES EN ESPAÑA</span>
+    <span>/</span>
+    <span>GUIA 72H · COMISION EUROPEA + PROTECCION CIVIL</span>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a>
+    <nav>
+      <a href="/#plan">El plan</a>
+      <a href="/#kits">Kits</a>
+      <a href="/blog/">Blog</a>
+      <a href="/fuentes/">Fuentes</a>
+      <a href="/zona/">Tu zona</a>
+      <a class="btn negro" href="/#kits">Haz tu kit ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main id="app" class="container">
+      <section class="ficha zona-pagina">
+        <a class="volver" href="/">← Inicio</a>
+        <span class="sec-label">Tu zona</span>
+        <h1>Cuando algo falla, qué tienes cerca</h1>
+        <p class="zona-lead">Un mapa con los puntos que de verdad importan en los primeros
+        minutos: dónde hay un hospital, una farmacia, quién atiende, y dónde refugiarte o
+        encontrarte. Elige tu ubicación y el radio; los datos los pinta OpenStreetMap en
+        directo, desde tu navegador y sin cuenta de nada.</p>
+
+        <div class="zona-acciones">
+          <button class="btn ambar" type="button" onclick="zona.usarMiUbicacion()">Usar mi ubicación →</button>
+          <form class="zona-busca" onsubmit="event.preventDefault(); zona.buscarCiudad(this.q.value)">
+            <input name="q" autocomplete="address-level2" placeholder="O escribe tu ciudad (Madrid, Ceuta…)" aria-label="Ciudad">
+            <button class="btn negro" type="submit">Buscar</button>
+          </form>
+        </div>
+
+        <p id="zona-aviso" class="zona-aviso">Pulsa «Usar mi ubicación», escribe tu ciudad o toca
+        directamente el mapa. <b>Nada se guarda</b>: la consulta va de tu navegador a
+        OpenStreetMap y vuelta.</p>
+
+        <div class="zona-mapa-wrap">
+          <div id="zona-mapa" class="zona-mapa leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" role="application" aria-label="Mapa de recursos de emergencia cercanos" tabindex="0" style="position: relative;"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 1; opacity: 1;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 19; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=30&amp;TILEROW=23&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(16px, -145px, 0px); opacity: 0.02;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=31&amp;TILEROW=23&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(272px, -145px, 0px); opacity: 0.015;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=30&amp;TILEROW=24&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(16px, 111px, 0px); opacity: 0.01;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=31&amp;TILEROW=24&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(272px, 111px, 0px); opacity: 0.01;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=29&amp;TILEROW=23&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-240px, -145px, 0px); opacity: 0.005;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=32&amp;TILEROW=23&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(528px, -145px, 0px); opacity: 0.005;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=29&amp;TILEROW=24&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(-240px, 111px, 0px); opacity: 0;"><img alt="" src="https://www.ign.es/wmts/ign-base?SERVICE=WMTS&amp;REQUEST=GetTile&amp;VERSION=1.0.0&amp;LAYER=IGNBase-gris&amp;STYLE=default&amp;TILEMATRIXSET=GoogleMapsCompatible&amp;TILEMATRIX=6&amp;TILECOL=32&amp;TILEROW=24&amp;FORMAT=image/jpeg" class="leaflet-tile leaflet-tile-loaded" style="width: 256px; height: 256px; transform: translate3d(528px, 111px, 0px); opacity: 0;"></div></div></div><div class="leaflet-pane leaflet-overlay-pane"></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-marker-pane"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(8023.61px, 6190.74px, 0px) scale(32);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div class="leaflet-control-zoom leaflet-bar leaflet-control"><a class="leaflet-control-zoom-in" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false"><span aria-hidden="true">+</span></a><a class="leaflet-control-zoom-out" href="#" title="Zoom out" role="button" aria-label="Zoom out" aria-disabled="false"><span aria-hidden="true">−</span></a></div></div><div class="leaflet-top leaflet-right"><div class="leaflet-control-layers leaflet-control" aria-haspopup="true"><a class="leaflet-control-layers-toggle" href="#" title="Layers" role="button"></a><section class="leaflet-control-layers-list"><div class="leaflet-control-layers-base"><label><span><input type="radio" class="leaflet-control-layers-selector" name="leaflet-base-layers_41" checked="checked"><span> IGN gris (recomendado)</span></span></label><label><span><input type="radio" class="leaflet-control-layers-selector" name="leaflet-base-layers_41"><span> IGN topográfico</span></span></label><label><span><input type="radio" class="leaflet-control-layers-selector" name="leaflet-base-layers_41"><span> Satélite</span></span></label></div><div class="leaflet-control-layers-separator" style="display: none;"></div><div class="leaflet-control-layers-overlays"></div></section></div></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"><a href="https://leafletjs.com" title="A JavaScript library for interactive maps"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="12" height="8" viewBox="0 0 12 8" class="leaflet-attribution-flag"><path fill="#4C7BE1" d="M0 0h12v4H0z"></path><path fill="#FFD500" d="M0 4h12v3H0z"></path><path fill="#E0BC00" d="M0 7h12v1H0z"></path></svg> Leaflet</a> <span aria-hidden="true">|</span> © IGN — Instituto Geográfico Nacional (CC BY 4.0)</div></div></div></div>
+          <aside class="zona-panel">
+            <div class="zona-bloque">
+              <h3>Radio</h3>
+              <div class="zona-radios">
+                <button type="button" data-radio="2" class="on" onclick="zona.cambiarRadio(2)">2 km</button>
+                <button type="button" data-radio="5" onclick="zona.cambiarRadio(5)">5 km</button>
+                <button type="button" data-radio="10" onclick="zona.cambiarRadio(10)">10 km</button>
+                <button type="button" data-radio="25" onclick="zona.cambiarRadio(25)">25 km</button>
+              </div>
+            </div>
+            <div class="zona-bloque">
+              <h3>Capas</h3>
+              <div class="zona-caps">
+      <label class="zona-cap">
+        <input type="checkbox" checked="" data-capa="sanidad" onchange="zona.alternar('sanidad', this.checked)">
+        <span class="zona-dep" style="background:#A9D6E5"></span>
+        <span class="zona-cap-txt"><b>Sanidad</b><small>Hospitales, centros de salud y consultorios.</small></span>
+      </label>
+      <label class="zona-cap">
+        <input type="checkbox" checked="" data-capa="farmacias" onchange="zona.alternar('farmacias', this.checked)">
+        <span class="zona-dep" style="background:#EFA02B"></span>
+        <span class="zona-cap-txt"><b>Farmacias</b><small>La de guardia está en el cartel de la puerta o en el visado del colegio farmacéutico.</small></span>
+      </label>
+      <label class="zona-cap">
+        <input type="checkbox" checked="" data-capa="emergencias" onchange="zona.alternar('emergencias', this.checked)">
+        <span class="zona-dep" style="background:#D14B27"></span>
+        <span class="zona-cap-txt"><b>Policía y bomberos</b><small>Comisarías, cuartelillos de la Guardia Civil y parques de bomberos.</small></span>
+      </label>
+      <label class="zona-cap">
+        <input type="checkbox" checked="" data-capa="refugios" onchange="zona.alternar('refugios', this.checked)">
+        <span class="zona-dep" style="background:#26201A"></span>
+        <span class="zona-cap-txt"><b>Refugios y evacuación</b><small>Refugios, puntos de encuentro y dependencias de protección civil.</small></span>
+      </label></div>
+            </div>
+            <ul id="zona-cuentas" class="zona-cuentas" aria-live="polite"><li><span class="zona-dep" style="background:#A9D6E5"></span><b>0</b> sanidad</li><li><span class="zona-dep" style="background:#EFA02B"></span><b>0</b> farmacias</li><li><span class="zona-dep" style="background:#D14B27"></span><b>0</b> policía y bomberos</li><li><span class="zona-dep" style="background:#26201A"></span><b>0</b> refugios y evacuación</li></ul>
+          </aside>
+        </div>
+
+        <div class="zona-112">
+          <b class="zona-112-num">112</b>
+          <div>
+            <h3>El que no falla</h3>
+            <p>Emergencias en toda España. Gratis, 24 horas y desde cualquier móvil —
+            aunque no tengas línea de tu operadora, la llamada sale por cualquier red
+            disponible. Guardado en la lista de contactos de todos los móviles de casa
+            es la mejor preparación de las que no cuestan nada.</p>
+            <a class="btn rojo" href="tel:112">Llamar al 112 →</a>
+          </div>
+        </div>
+
+        <p class="disclaimer">Los puntos proceden de <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> (ODbL) y se consultan en directo: pueden
+        estar incompletos o desactualizados, sobre todo en refugios y protecciones civiles. El mapa
+        base es del <a href="https://www.ign.es" target="_blank" rel="noopener">IGN</a> (CC BY 4.0).
+        <b>Esta página no sustituye a las indicaciones de Protección Civil ni a los servicios de
+        emergencia: ante una emergencia real, llama al 112.</b></p>
+      </section></main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p id="disclosure">Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea.</p>
+  </div>
+</footer>
+
+<script src="/js/state.js?v=20260928c"></script>
+<script src="/js/estado.js?v=20260928c"></script>
+<script src="/js/blog.js?v=20260928c"></script>
+<script src="/js/ui.js?v=20260929a"></script>
+<script src="/js/zona.js?v=20260929a"></script>
+<script src="/js/main.js?v=20260928c"></script>
+
+
+<!-- GENERADO por scripts/prerender.py — no editar a mano -->
+</body></html>

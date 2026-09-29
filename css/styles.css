@@ -456,3 +456,105 @@ a.card-kit,a.card-adapt{color:inherit;text-decoration:none}
 .tabla-scroll:has(table){position:relative}
 
 @media(max-width:640px){.tagline{display:none}.hero-arte{height:min(240px,34vh)}}
+
+/* --- Tu zona: mapa de recursos (Leaflet + IGN + OpenStreetMap) --- */
+.zona-pagina .sec-label{display:block}
+.zona-lead{max-width:760px;font-size:15px;color:#4a4238;margin-bottom:24px}
+.zona-acciones{display:flex;gap:18px;flex-wrap:wrap;align-items:stretch;margin-bottom:18px}
+.zona-busca{display:flex;gap:0;flex:1;min-width:280px;max-width:520px}
+.zona-busca input{
+  flex:1;min-width:0;font-family:var(--mono);font-size:14px;color:var(--tinta);
+  background:#fff;border:var(--b);border-right:none;border-radius:0;padding:12px 14px;
+}
+.zona-busca input::placeholder{color:#8c857a}
+.zona-busca .btn{white-space:nowrap}
+.zona-aviso{
+  font-size:13.5px;color:#4a4238;background:#e8e0cf;border:var(--b);
+  padding:12px 14px;margin:0 0 18px;
+}
+.zona-reintento{
+  font-family:var(--mono);font-size:13px;font-weight:700;letter-spacing:1px;
+  text-transform:uppercase;background:var(--ambar);color:var(--negro);
+  border:var(--b);border-radius:0;padding:5px 11px;cursor:pointer;
+}
+.zona-reintento:hover{background:var(--negro);color:var(--ambar)}
+.zona-mapa-wrap{display:grid;grid-template-columns:1fr 300px;gap:16px;align-items:start}
+.zona-mapa{
+  height:min(66vh,540px);min-height:360px;border:var(--b);background:#d8d2c4;
+}
+.zona-panel{border:var(--b);background:#e8e0cf;padding:0}
+.zona-bloque{padding:14px 16px;border-bottom:var(--b)}
+.zona-bloque h3{
+  font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gris);
+  margin-bottom:10px;font-weight:700;
+}
+.zona-radios{display:flex;gap:0;flex-wrap:wrap}
+.zona-radios button{
+  font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:1px;
+  padding:9px 12px;border:var(--b);border-right-width:0;background:var(--crema);
+  color:var(--tinta);cursor:pointer;border-radius:0;
+}
+.zona-radios button:last-child{border-right-width:2px}
+.zona-radios button.on{background:var(--negro);color:var(--ambar)}
+.zona-caps{display:flex;flex-direction:column;gap:12px}
+.zona-cap{display:flex;gap:10px;align-items:flex-start;cursor:pointer}
+.zona-cap input{margin-top:3px;accent-color:var(--rojo);width:16px;height:16px;flex:none}
+.zona-dep{
+  width:16px;height:16px;border:2px solid var(--negro);flex:none;margin-top:3px;display:inline-block;
+}
+.zona-cap-txt{display:flex;flex-direction:column;line-height:1.4}
+.zona-cap-txt b{font-size:13.5px}
+.zona-cap-txt small{font-size:11.5px;color:#5b544a}
+.zona-cuentas{list-style:none;padding:14px 16px;margin:0;font-size:13px}
+.zona-cuentas li{display:flex;gap:8px;align-items:center;padding:4px 0;color:#4a4238}
+.zona-cuentas b{
+  font-family:var(--display);font-weight:400;font-size:19px;color:var(--negro);
+  min-width:34px;text-align:right;
+}
+.zona-112{
+  display:flex;gap:22px;align-items:center;flex-wrap:wrap;
+  background:var(--negro);color:var(--crema);border:var(--b);padding:24px;margin-top:26px;
+}
+.zona-112-num{
+  font-family:var(--display);font-weight:400;font-size:clamp(56px,11vw,104px);
+  line-height:.85;color:var(--rojo);letter-spacing:2px;
+}
+.zona-112 div{flex:1;min-width:260px}
+.zona-112 h3{
+  font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--ambar);margin-bottom:8px;
+}
+.zona-112 p{font-size:13.5px;color:#cfc6b6;margin-bottom:14px;max-width:62ch}
+.zona-112 .btn.rojo{border-color:var(--crema)}
+
+/* Leaflet en clave Kit72h: radius 0, bordes 2px, mono */
+.zona-mapa .leaflet-container{font-family:var(--mono);font-size:12px;background:#d8d2c4}
+.zona-pin{cursor:pointer}
+.zona-mapa .leaflet-bar a,
+.zona-mapa .leaflet-bar{border-radius:0;border:2px solid var(--negro);color:var(--tinta);background:var(--crema)}
+.zona-mapa .leaflet-bar a:hover{background:var(--negro);color:var(--crema)}
+.zona-mapa .leaflet-control-layers{
+  border:var(--b);border-radius:0;background:var(--crema);font-size:11.5px;
+}
+.zona-mapa .leaflet-popup-content-wrapper,
+.zona-mapa .leaflet-popup-tip{border-radius:0;background:var(--crema);border:var(--b);box-shadow:none}
+.zona-mapa .leaflet-popup-content{margin:12px 14px;font-family:var(--mono);font-size:12.5px;line-height:1.5}
+.zona-mapa .leaflet-popup-content a{color:var(--rojo-txt);font-weight:700}
+.zona-pop-tipo{
+  font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gris);
+}
+.zona-mapa .leaflet-popup-close-button{color:var(--tinta)}
+.zona-tip{
+  background:var(--negro)!important;color:var(--crema)!important;border:none!important;
+  border-radius:0!important;font-family:var(--mono);font-size:11px;font-weight:700;
+  letter-spacing:1px;text-transform:uppercase;padding:5px 8px!important;box-shadow:none!important;
+}
+.zona-tip::before{border-top-color:var(--negro)!important}
+.zona-mapa .leaflet-control-attribution{background:rgba(241,235,223,.9);font-size:10px}
+
+@media(max-width:900px){
+  .zona-mapa-wrap{grid-template-columns:1fr}
+  .zona-mapa{height:58vh;min-height:320px}
+  .zona-acciones{flex-direction:column}
+  .zona-busca{max-width:none}
+  .zona-112{gap:14px}
+}

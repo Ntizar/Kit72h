@@ -115,7 +115,7 @@ def main():
     blog_d = json.loads((RAIZ / "data/blog.json").read_text(encoding="utf-8"))
     rev = kits_d.get("meta", {}).get("ultima_revision", "2026-09-28")
 
-    rutas = [("/", None), ("/fuentes/", None), ("/blog/", None)]
+    rutas = [("/", None), ("/fuentes/", None), ("/blog/", None), ("/zona/", None)]
     for k in kits_d["kits"]:
         rutas.append((f"/kit/{k['slug']}/", ("kit", k)))
     for e in blog_d["entradas"]:
@@ -140,6 +140,8 @@ def main():
                     esperado = "hero-blog"
                 elif ruta == "/fuentes/":
                     esperado = "fuentes-pagina"
+                elif ruta == "/zona/":
+                    esperado = "zona-mapa"
                 else:
                     esperado = "hero-stats"
                 assert esperado in html, f"contenido no horneado (falta {esperado})"
@@ -163,6 +165,22 @@ def main():
                                             "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
                                         }])
                         dest = RAIZ / "fuentes" / "index.html"
+                    elif ruta == "/zona/":
+                        html = inyectar(
+                            html,
+                            titulo="Tu zona: hospital, farmacia, refugio y 112 — Kit72h",
+                            desc="Mapa de tu entorno en España con hospitales, centros de salud, "
+                                 "farmacias, comisarías, bomberos, refugios y puntos de "
+                                 "encuentro. Elige tu ubicación y el radio; el 112, siempre a mano.",
+                            canonical=canonical,
+                            ld=[{
+                                "@context": "https://schema.org",
+                                "@type": "CollectionPage",
+                                "name": "Tu zona — Kit72h",
+                                "url": canonical,
+                                "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
+                            }])
+                        dest = RAIZ / "zona" / "index.html"
                     else:  # /blog/
                         html = inyectar(html, titulo="Blog de preparación — Kit72h",
                                         desc=f"{len(blog_d['entradas'])} guías prácticas "

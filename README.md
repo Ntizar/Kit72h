@@ -21,6 +21,19 @@ Por eso **`kit/`, `blog/`, `fuentes/` y `index.html` son GENERADOS**: nunca se e
 edición en data/*.json  →  generar-seo.py  →  prerender.py  →  commit  →  push  →  CI despliega
 ```
 
+### La página `/zona/`
+
+Mapa de **qué tienes cerca cuando algo falla**: sanidad, farmacias, policía y bomberos,
+refugios y puntos de encuentro, con el 112 siempre a mano.
+
+- **Mapa base:** IGN WMTS (`IGNBase-gris`, CC BY 4.0), con topográfico y satélite Esri de alternativa.
+- **Datos:** OpenStreetMap vía **Overpass API**, consultados en vivo por radio (2/5/10/25 km)
+  alrededor de tu ubicación, de tu ciudad o de un punto que toques en el mapa.
+- **Sin backend, sin claves, sin build:** Leaflet se carga bajo demanda desde CDN;
+  `js/zona.js` hace geolocalización (Nominatim para ciudad y reverse).
+- Si Overpass se satura (429) la página lo dice y ofrece **reintentar** — nunca deja pantalla vacía.
+- La parte de texto sale en HTML prerenderizado; solo el mapa necesita JavaScript.
+
 ---
 
 ## Estructura
@@ -33,7 +46,8 @@ kit72h/
 │   ├── state.js            ← carga de data/kits.json
 │   ├── blog.js             ← carga de data/blog.json
 │   ├── estado.js           ← progreso de checklists (localStorage)
-│   ├── ui.js               ← render de home, kit, blog, fuentes
+│   ├── ui.js               ← render de home, kit, blog, fuentes, zona
+│   ├── zona.js             ← mapa /zona/: Leaflet + IGN + OpenStreetMap
 │   ├── main.js             ← orquestador
 │   └── fondo.js            ← arte de fondo
 ├── data/                   ← FUENTE DE VERDAD del contenido
@@ -44,7 +58,7 @@ kit72h/
 │   ├── propuestas-fichas.json ← fichas pendientes de validar
 │   ├── buscador-log.json   ← log del buscador nocturno
 │   └── estado.json         ← estado de los enlaces de afiliado (ok / posible_rotura)
-├── kit/  blog/  fuentes/   ← HTML prerenderizado (GENERADO)
+├── kit/  blog/  fuentes/  zona/  ← HTML prerenderizado (GENERADO)
 ├── scripts/                ← motor (ver tabla)
 ├── notes/                  ← notas de aprendizaje del proyecto
 ├── sketchs/ videos/ busquedas/  ← material de trabajo, no se publica
@@ -112,12 +126,14 @@ git push
 | `scripts/buscar-amazon.py` | Buscador de fichas reales para cubrir huecos del catálogo. |
 | `scripts/vigilar-fuentes.py` | Vigila cambios en las fuentes oficiales. |
 | `scripts/auditar-crons.py` | Qué cron se dispara, con qué modelo y cuántos tokens gasta (`--kit`, `--runs`). |
+| `scripts/kit72h-buscador.py` | **Cron 05:15** — resuelve fichas Amazon pendientes, regenera SEO+prerender y commitea. |
+| `scripts/kit72h-seo-audit.py` | **Cron 06:00** — auditor determinista del SEO y del prerender. Tiene auto-fix. |
 | `scripts/fusionar-mejoras.py` · `migrar-blog.py` | Migraciones puntuales de datos. |
 | `scripts/agregar-blog-*.py`, `mejorar-kit-*.py` | One-shots ya ejecutados (quedan como registro). |
 | `scripts/crear-dns-cloudflare.py` | Registros DNS de `kit72h.com`. |
 
-Los scripts que corren a diario desde los crons viven también en
-`%LOCALAPPDATA%\hermes\scripts\` (`kit72h-buscador.py`, `kit72h-seo-audit.py`).
+> Los crons ejecutan la copia que vive en `%LOCALAPPDATA%\hermes\scripts\`. Si toques uno de
+> esos dos, cópialo también ahí — o al revés: aquí es donde se versiona.
 
 ---
 

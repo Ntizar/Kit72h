@@ -19,6 +19,7 @@ const ui = {
     // Sin esta línea, /blog/ (el índice) cae a 'home' y el índice prerenderizado ES la home.
     if (p === '/blog' || p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
     if (p === '/fuentes') return { vista: 'fuentes' };
+    if (p === '/zona') return { vista: 'zona' };
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
     if (h.startsWith('blog/')) return { vista: 'blog', slug: h.split('/')[1] };
@@ -42,6 +43,11 @@ const ui = {
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
       document.title = 'Fuentes oficiales — Kit72h';
+    } else if (vista === 'zona') {
+      app.innerHTML = this.htmlZona();
+      document.title = 'Tu zona: hospital, farmacia, refugio y 112 — Kit72h';
+      // 'const zona' NO cuelga de window: no comprobar window.zona, nunca arrancaría.
+      try { if (typeof zona !== 'undefined') zona.iniciar(); } catch (e) { /* sin mapa: el texto sigue ahí */ }
     } else if (vista === 'blog') {
       const entrada = slug ? blog.porSlug(slug) : null;
       if (slug && !entrada) { location.hash = 'blog'; return this.render(); }
@@ -446,6 +452,82 @@ tablasSeguras(html) {
     return String(html)
       .replace(/<table/gi, '<div class="tabla-scroll"><table')
       .replace(/<\/table>/gi, '</table></div>');
+  },
+
+  /* ---- TU ZONA: mapa de recursos cerca de ti ---- */
+  htmlZona() {
+    const caps = zona.CAPAS.map(c => `
+      <label class="zona-cap">
+        <input type="checkbox" checked data-capa="${c.id}"
+               onchange="zona.alternar('${c.id}', this.checked)">
+        <span class="zona-dep" style="background:${c.color}"></span>
+        <span class="zona-cap-txt"><b>${c.nombre}</b><small>${c.que}</small></span>
+      </label>`).join('');
+
+    return `
+      <section class="ficha zona-pagina">
+        <a class="volver" href="/">← Inicio</a>
+        <span class="sec-label">Tu zona</span>
+        <h1>Cuando algo falla, qué tienes cerca</h1>
+        <p class="zona-lead">Un mapa con los puntos que de verdad importan en los primeros
+        minutos: dónde hay un hospital, una farmacia, quién atiende, y dónde refugiarte o
+        encontrarte. Elige tu ubicación y el radio; los datos los pinta OpenStreetMap en
+        directo, desde tu navegador y sin cuenta de nada.</p>
+
+        <div class="zona-acciones">
+          <button class="btn ambar" type="button" onclick="zona.usarMiUbicacion()">Usar mi ubicación →</button>
+          <form class="zona-busca" onsubmit="event.preventDefault(); zona.buscarCiudad(this.q.value)">
+            <input name="q" autocomplete="address-level2" placeholder="O escribe tu ciudad (Madrid, Ceuta…)" aria-label="Ciudad">
+            <button class="btn negro" type="submit">Buscar</button>
+          </form>
+        </div>
+
+        <p id="zona-aviso" class="zona-aviso">Pulsa «Usar mi ubicación», escribe tu ciudad o toca
+        directamente el mapa. <b>Nada se guarda</b>: la consulta va de tu navegador a
+        OpenStreetMap y vuelta.</p>
+
+        <div class="zona-mapa-wrap">
+          <div id="zona-mapa" class="zona-mapa" role="application"
+               aria-label="Mapa de recursos de emergencia cercanos"></div>
+          <aside class="zona-panel">
+            <div class="zona-bloque">
+              <h3>Radio</h3>
+              <div class="zona-radios">
+                <button type="button" data-radio="2" class="on" onclick="zona.cambiarRadio(2)">2 km</button>
+                <button type="button" data-radio="5" onclick="zona.cambiarRadio(5)">5 km</button>
+                <button type="button" data-radio="10" onclick="zona.cambiarRadio(10)">10 km</button>
+                <button type="button" data-radio="25" onclick="zona.cambiarRadio(25)">25 km</button>
+              </div>
+            </div>
+            <div class="zona-bloque">
+              <h3>Capas</h3>
+              <div class="zona-caps">${caps}</div>
+            </div>
+            <ul id="zona-cuentas" class="zona-cuentas" aria-live="polite">
+              <li><b>0</b> elige tu ubicación para empezar</li>
+            </ul>
+          </aside>
+        </div>
+
+        <div class="zona-112">
+          <b class="zona-112-num">112</b>
+          <div>
+            <h3>El que no falla</h3>
+            <p>Emergencias en toda España. Gratis, 24 horas y desde cualquier móvil —
+            aunque no tengas línea de tu operadora, la llamada sale por cualquier red
+            disponible. Guardado en la lista de contactos de todos los móviles de casa
+            es la mejor preparación de las que no cuestan nada.</p>
+            <a class="btn rojo" href="tel:112">Llamar al 112 →</a>
+          </div>
+        </div>
+
+        <p class="disclaimer">Los puntos proceden de <a href="https://www.openstreetmap.org/copyright"
+        target="_blank" rel="noopener">OpenStreetMap</a> (ODbL) y se consultan en directo: pueden
+        estar incompletos o desactualizados, sobre todo en refugios y protecciones civiles. El mapa
+        base es del <a href="https://www.ign.es" target="_blank" rel="noopener">IGN</a> (CC BY 4.0).
+        <b>Esta página no sustituye a las indicaciones de Protección Civil ni a los servicios de
+        emergencia: ante una emergencia real, llama al 112.</b></p>
+      </section>`;
   },
 
   /* ---- FUENTES ---- */
