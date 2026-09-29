@@ -57,7 +57,7 @@ cookies de Amazon, rutas de Windows, correos):
   cookies (`amz_cookies.txt` está en `.gitignore` y no se commiteó jamás).
 - Los dos workflows usan `${{ secrets.* }}`; `crear-dns-cloudflare.py` lee el token del
   `.env`, no lo lleva dentro.
-- «David Antizar» no aparece en `data/`, `js/ ni `index.html`.
+- Ningún término del veto de privacidad aparece en `data/`, `js/ ni `index.html`.
 
 Lo que sí había que arreglar:
 
@@ -88,4 +88,4 @@ Verificación final: prerender 51 rutas / 0 fallos · `kit72h-seo-audit` verde (
 en vivo 0 checkboxes en el kit, 16 «Comprar ↗», 8 grupos y 27 enlaces en `/fuentes/`,
 home en 4 secciones · Deploy GitHub Pages success.
 
-Hecho con ❤️ por David Antizar
+Hecho con ❤️ por el equipo Kit72h

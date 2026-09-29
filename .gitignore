@@ -36,3 +36,9 @@ __pycache__/
 data/_tmp_*.html
 data/_cookies_amz.txt
 data/fichas.db
+
+# privacidad: veto local y material de trabajo fuera del repo
+.veto-privacidad
+busquedas/
+productos-amazon*.xlsx
+productos-lista.txt

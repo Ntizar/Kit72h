@@ -10,7 +10,7 @@ Todo se apoya en documentos públicos de organismos oficiales (Comisión Europea
 Civil, Sanidad, AEMET, BOE) y en productos reales de Amazon con enlace de afiliado y
 disclosure legal.
 
-> Hecho con ❤️ por David Antizar
+> Hecho con ❤️ por [AUTOR]
 
 ---
 
@@ -53,7 +53,7 @@ la que se creó cada una.
 - `index.html`, `css/` y `js/` solo se tocan en rediseño; el resto es contenido.
 - Enlaces internos con **URL real** (`/kit/kit-apagon/`, `/blog/otra-entrada/`). Nunca `#hash`.
 - Todo enlace de Amazon lleva `tag=nti0c8-21` y `rel="sponsored nofollow noopener"`.
-- **Nada de nombres personales** en `data/`, `js/` ni `index.html`.
+- **Privacidad**: ni nombres personales ni rutas personales en NINGÚN fichero del repo. Se comprueba con el veto local antes de cada commit: `git grep -f .veto-privacidad -E` (los términos viven en `.veto-privacidad`, fuera del repo).
 - Nada de secretos fuera de `.env`; los workflows usan `${{ secrets.* }}`.
 - Commits y mensajes en español.
 - Las URLs se comprueban antes de publicarlas: aquí no se inventan enlaces.
@@ -216,4 +216,4 @@ meramente mecánico. Si la web vende, el disclosure de afiliado es obligatorio e
 
 ---
 
-Hecho con ❤️ por David Antizar
+Hecho con ❤️ por [AUTOR]

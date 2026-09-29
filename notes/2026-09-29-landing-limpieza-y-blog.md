@@ -65,4 +65,4 @@ en vivo: home sin quiz ni Adáptalo, `cta-kit` presente, 5/5 páginas con nav nu
 
 ---
 
-Hecho con ❤️ por David Antizar
+Hecho con ❤️ por el equipo Kit72h

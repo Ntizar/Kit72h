@@ -8,7 +8,7 @@
 - `.gitignore`: `*.html` global → `/*.html` (si no, las páginas generadas no se commiteaban).
 - CI (deploy-cloudflare.yml): generar-seo + prerender antes de wrangler.
 - `_headers` (CF Pages): CORS `*` en /data, /llms*, /feed, sitemap; caché 1d en assets.
-- Sin "David Antizar" en ningún dato/render (autor eliminado de blog.json, blog-nuevas, attribution de kits.json, JSON-LD author).
+- Sin nombres personales en ningún dato/render (autor eliminado de blog.json, blog-nuevas, attribution de kits.json, JSON-LD author).
 
 ## Bugs cazados en la travesía (lecciones)
 1. **Fetches/assets relativos** → rutas anidadas servían shell vacío (fetch 404 → render nunca corría).

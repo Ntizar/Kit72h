@@ -17,7 +17,7 @@ from pathlib import Path
 
 REPO = Path.home() / "Projects" / "kit72h"   # sin ruta personal en el repo
 PY = sys.executable
-IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=david.antizar@mastermind.local"]
+IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 # ficheros de datos que justifican el commit
 DATOS = ("kits.json", "propuestas-fichas", "buscador-log")

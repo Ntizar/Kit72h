@@ -44,7 +44,7 @@ for b in bloques:
         "fecha": campo("fecha"),
         "lectura": campo("lectura"),
         "resumen": campo("resumen"),
-        "autor": "David Antizar",
+        "autor": "Redacción Kit72h",
         "cuerpo": cuerpo,
         "kits_relacionados": sorted(set(re.findall(r'#kit/([a-z0-9\-]+)', cuerpo))),
         "etiquetas": [],

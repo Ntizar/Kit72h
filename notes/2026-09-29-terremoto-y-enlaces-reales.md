@@ -47,6 +47,6 @@ reintroducen enlaces legacy.
 - `python scripts/generar-seo.py` → 50 URLs reales, 31 entradas en llms.txt, 214 KB de
   llms-full, feed con el nuevo item.
 - `python scripts/prerender.py` → **50 rutas generadas, 0 fallos**.
-- `grep -c "David Antizar" data/ js/ index.html` → 0; también 0 en `blog/` y `kit/`.
+- `grep -f .veto-privacidad -E -- data/ js/ index.html` → 0; también 0 en `blog/` y `kit/`.
 - Nuevas URLs en el sitemap: los cuatro kits que faltaban (mascotas, frio, terremoto,
   incendio) + la entrada nueva.

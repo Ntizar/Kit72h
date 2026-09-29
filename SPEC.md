@@ -75,4 +75,4 @@ JSON único `data/kits.json` → state.js carga al iniciar → ui.js renderiza.
 ## Referencias
 - Diseño: preferencias David (fondo blanco, sombras sutiles, hover elevación, tipografía compacta, azul #2563eb)
 - Proyectos similares: DataHubEspana (static digest), ISOTime (isócronas)
-- Atribución: "Hecho con ❤️ por David Antizar"
+- Atribución: "Hecho con ❤️ por [AUTOR]"

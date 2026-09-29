@@ -21,7 +21,7 @@ cambios = [l for l in status.splitlines() if any(f in l for f in ("kits.json", "
 if cambios:
     run("git", "add", "data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json", "data/productos-pendientes.xlsx")
     msg = "Buscador nocturno: fichas Amazon verificadas y aplicadas"
-    run("git", "-c", "user.name=Mastermind", "-c", "user.email=david.antizar@mastermind.local", "commit", "-q", "-m", msg)
+    run("git", "-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local", "commit", "-q", "-m", msg)
     if run("git", "push", "-q") and "error" in run("git", "push", "-q").lower():
         print("⚠️ push falló — revisar manual")
     else:

@@ -9,7 +9,7 @@ de precio y ≥4★, y se VERIFICA cada ficha final (HTTP 200 + buybox + precio)
 antes de proponerla.
 
 Nunca escribe enlaces en kits.json: genera propuestas en data/propuestas-fichas.json
-y un Excel (data/productos-pendientes.xlsx) para que David revise y valide.
+y un Excel (data/productos-pendientes.xlsx) para revisión y validación humana.
 Rotación determinista: cada noche toca un cupo de N pendientes (por defecto 12),
 así el trabajo se reparte sin estado y sin quemar requests de más.
 

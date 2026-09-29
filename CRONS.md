@@ -44,7 +44,7 @@ El único que **crea contenido**. Trabaja en el repo local (`~/Projects/kit72h`)
 1. Escribe una entrada de blog nueva o mejora una existente: 700–1.200 palabras, titular con keyword, resumen <160 car., datos de España y **fuentes oficiales citadas con enlace**. Sin campo `autor`.
 2. Enlaces internos con **URL real** (`/blog/…/`, `/kit/…/`), nunca `#hash`.
 3. Si toca productos: ASIN real + `tag=nti0c8-21`.
-4. **Antes de commit**: `generar-seo.py` + `prerender.py` (ambos «0 fallos») y grep de «David Antizar».
+4. **Antes de commit**: `generar-seo.py` + `prerender.py` (ambos «0 fallos») y grep del veto de privacidad (`grep -f .veto-privacidad`, fichero local).
 5. Commit en español + push → el CI despliega.
 6. Si no hay nada con valor: «sin cambios», sin relleno.
 
@@ -152,4 +152,4 @@ No tocan esta web, pero comparten cuota de NaN.builders. Tokens medidos en la mi
 
 ---
 
-Hecho con ❤️ por David Antizar
+Hecho con ❤️ por el equipo Kit72h

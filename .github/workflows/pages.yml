@@ -23,8 +23,25 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+
+      # El sitio publicable se recorta con allowlist: nunca `path: '.'`.
+      # Fuera del artefacto quedan README/SPEC/CRONS, notes/, sketches/,
+      # busquedas/, los xlsx y cualquier fichero suelto del repo.
+      - name: Preparar el sitio con allowlist
+        run: |
+          mkdir -p /tmp/_site/data
+          cp index.html CNAME _headers robots.txt sitemap.xml feed.xml llms.txt llms-full.txt /tmp/_site/
+          cp -r css js kit blog fuentes zona /tmp/_site/
+          cp data/*.json /tmp/_site/data/
+
+      # Guardia de privacidad: si un término vetado entra al sitio, aborta.
+      - name: Guardia de privacidad
+        run: |
+          ! grep -r -I -l -E "david[ ._-]?antizar|d_a[n]t|mastermind\.local|C:[/\\]Users[/\\]d_a[n]t" /tmp/_site \
+            || { echo "FUGA: contenido vetado dentro del sitio"; exit 1; }
+
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: /tmp/_site
       - uses: actions/deploy-pages@v4
         id: deployment

@@ -11,7 +11,7 @@ new_entry = {
     "fecha": "2026-09-06",
     "lectura": "7 min",
     "resumen": "Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.",
-    "autor": "David Antizar",
+    "autor": "Redacción Kit72h",
     "fuente": [
         {"nombre": "Protección Civil — Red Nacional de Radio de Emergencia (REMER)", "url": "https://www.proteccioncivil.es/coordinacion/redes/remer"},
         {"nombre": "Comisión Europea — Estrategia de la Unión de la Preparación", "url": "https://commission.europa.eu/topics/preparedness_es"},

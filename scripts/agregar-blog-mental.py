@@ -135,7 +135,7 @@ ENTRADA = {
     "fecha": "2026-09-24",
     "lectura": "13 min",
     "resumen": "Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Gu\u00eda pr\u00e1ctica con el marco de primera ayuda psicol\u00f3gica de la OMS, turnos de noche, higiene del sue\u00f1o, c\u00f3mo hablar con ni\u00f1os y mayores, y un kit de descanso de diez objetos.",
-    "autor": "David Antizar",
+    "autor": "Redacción Kit72h",
     "fuente": [
         {"nombre": "OMS / OPS \u2014 Primera ayuda psicol\u00f3gica: gu\u00eda para trabajadores de campo (mirar, escuchar, conectar)", "url": "https://www.paho.org/es/node/44399"},
         {"nombre": "OMS \u2014 Salud mental (nota descriptiva)", "url": "https://www.who.int/es/news-room/fact-sheets/detail/mental-health-strengthening-our-response"},

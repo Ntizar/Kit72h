@@ -1,8 +1,12 @@
 name: Desplegar a Cloudflare Pages
 
+# DESACTIVADO: kit72h.com se sirve desde GitHub Pages (pages.yml). Este workflow
+# fallaba en cada push por un token de Wrangler sin permisos (exit 1 en
+# «Getting User settings…») y el dominio no apunta aquí. Queda en manual con el
+# job apagado para no dejar el CI en rojo: si algún día se quiere el doble
+# despliegue, arreglar los secretos CLOUDFLARE_* y quitar el `if: false`.
+
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -10,6 +14,7 @@ permissions:
 
 jobs:
   desplegar:
+    if: false
     runs-on: ubuntu-latest
     name: Subir el sitio a Cloudflare Pages
     steps:

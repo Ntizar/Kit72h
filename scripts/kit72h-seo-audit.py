@@ -65,9 +65,12 @@ if "kit72h.com/blog/" not in llms:
     problemas.append("llms.txt sin URLs /blog/ completas")
 
 # 5) sin datos de autor personal en contenido publicable
+veto = R / ".veto-privacidad"
+terminos = veto.read_text(encoding="utf-8").split() if veto.exists() else ["David Antizar"]
 for f in list((R / "data").glob("*.json")) + [R / "index.html"] + list((R / "js").glob("*.js")):
-    if "David Antizar" in f.read_text(encoding="utf-8"):
-        problemas.append(f"rastro de autor personal en {f.relative_to(R)}")
+    texto = f.read_text(encoding="utf-8")
+    if any(re.search(t, texto) for t in terminos):
+        problemas.append(f"rastro de dato personal en {f.relative_to(R)}")
 
 def git(*args, timeout=300):
     return subprocess.run(("git",) + args, cwd=R, capture_output=True, text=True, timeout=timeout)
@@ -101,7 +104,7 @@ def autorreparar():
         "kit", "blog", "fuentes", "zona")
     if git("diff", "--cached", "--quiet").returncode == 0:
         return True  # nada que commitear: el desfase era solo de mtime
-    c = git("-c", "user.name=Mastermind", "-c", "user.email=david.antizar@mastermind.local",
+    c = git("-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local",
             "commit", "-q", "-m", "chore(seo): prerender regenerado por la auditoria diaria")
     if c.returncode != 0:
         print(f"[auto-fix] commit falló: {(c.stderr or '').strip()[:200]}")
