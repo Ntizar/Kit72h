@@ -135,7 +135,9 @@ def main():
                 elif ctx and ctx[0] == "blog":
                     esperado = "cuerpo-blog"
                 elif ruta == "/blog/":
-                    esperado = "card-blog"
+                    # 'hero-blog' solo existe en el índice del blog: con 'card-blog'
+                    # el assert pasaba aunque el dump fuera la home (bug 2026-09-29).
+                    esperado = "hero-blog"
                 elif ruta == "/fuentes/":
                     esperado = "fuentes-pagina"
                 else:
@@ -231,6 +233,11 @@ def main():
                     dest = RAIZ / "blog" / e["slug"] / "index.html"
 
                 dest.parent.mkdir(parents=True, exist_ok=True)
+                # Idempotente: sin este strip, cada run acumulaba un marcador nuevo
+                # y el repo quedaba con 50 ficheros «modificados» para siempre.
+                html = re.sub(
+                    r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
+                    '', html)
                 html = html.replace("</body>",
                                     "<!-- GENERADO por scripts/prerender.py — no editar a mano -->\n</body>", 1)
                 dest.write_text(html, encoding="utf-8", newline="\n")

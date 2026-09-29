@@ -15,7 +15,9 @@ const ui = {
   vistaDesdeHash() {
     const p = location.pathname.replace(/\/+$/, '') || '/';
     if (p.startsWith('/kit/')) return { vista: 'kit', slug: p.split('/')[2] };
-    if (p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
+    // OJO: '/blog/' recorta la barra final -> '/blog' y startsWith('/blog/') nunca casa.
+    // Sin esta línea, /blog/ (el índice) cae a 'home' y el índice prerenderizado ES la home.
+    if (p === '/blog' || p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
     if (p === '/fuentes') return { vista: 'fuentes' };
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
