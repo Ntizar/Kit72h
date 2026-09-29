@@ -15,7 +15,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-REPO = Path(r"C:/Users/d_ant/Projects/kit72h")
+REPO = Path.home() / "Projects" / "kit72h"   # sin ruta personal en el repo
 PY = sys.executable
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=david.antizar@mastermind.local"]
 

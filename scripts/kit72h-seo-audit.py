@@ -10,7 +10,7 @@ import time
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-R = Path(r"C:/Users/d_ant/Projects/kit72h")
+R = Path.home() / "Projects" / "kit72h"   # sin ruta personal en el repo
 BASE = "https://kit72h.com"
 problemas = []
 

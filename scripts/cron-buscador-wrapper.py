@@ -5,7 +5,7 @@ no imprime -> silencio (el vigilante ya informa por su cuenta)."""
 import subprocess, sys
 from pathlib import Path
 
-REPO = Path(r"C:/Users/d_ant/Projects/kit72h")
+REPO = Path.home() / "Projects" / "kit72h"   # sin ruta personal en el repo
 PY = sys.executable
 
 def run(*args, timeout=900):

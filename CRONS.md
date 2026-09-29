@@ -39,7 +39,7 @@ El orden importa: el **buscador regenera el prerender en el mismo run** para que
 
 ### `kit72h-editor` — diario 04:30 · LLM · `mimo-v2.6-flash`
 
-El único que **crea contenido**. Trabaja en `C:\Users\d_ant\Projects\kit72h`.
+El único que **crea contenido**. Trabaja en el repo local (`~/Projects/kit72h`).
 
 1. Escribe una entrada de blog nueva o mejora una existente: 700–1.200 palabras, titular con keyword, resumen <160 car., datos de España y **fuentes oficiales citadas con enlace**. Sin campo `autor`.
 2. Enlaces internos con **URL real** (`/blog/…/`, `/kit/…/`), nunca `#hash`.
@@ -115,8 +115,7 @@ python scripts/auditar-crons.py --kit       # solo los 5 de esta web
 python scripts/auditar-crons.py --kit --runs  # + últimas ejecuciones de cada uno
 
 # consumo por sesión (input/output/cache/coste)
-C:/Users/d_ant/AppData/Local/Programs/Python/Python312/python.exe \
-  "%LOCALAPPDATA%\hermes\skills\mastermind\mastermind-system-ops\scripts\auditar-tokens.py" [YYYY-MM-DD]
+python "%LOCALAPPDATA%\hermes\skills\mastermind\mastermind-system-ops\scripts\auditar-tokens.py" [YYYY-MM-DD]
 
 # estado y horarios de todos los jobs
 hermes cron list
