@@ -5,7 +5,14 @@
   <link>https://kit72h.com/</link>
   <description>Kits de emergencia 72 horas y guías de preparación civil en España. Fuentes oficiales: Comisión Europea, Protección Civil y DGT.</description>
   <language>es</language>
-  <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Terremoto en España: qué hacer antes, durante y después</title>
+      <link>https://kit72h.com/blog/terremoto-espana-que-hacer/</link>
+      <guid isPermaLink="true">https://kit72h.com/blog/terremoto-espana-que-hacer/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.</description>
+    </item>
     <item>
       <title>Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio</title>
       <link>https://kit72h.com/blog/kit-emergencia-trabajo-oficina/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://kit72h.com/blog/kit-72h-vs-30-dias/</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.</description>
-    </item>
-    <item>
-      <title>Semillas, germinados y huerto de emergencia: tu seguridad alimentaria</title>
-      <link>https://kit72h.com/blog/huerto-emergencia-semillas-germinados/</link>
-      <guid isPermaLink="true">https://kit72h.com/blog/huerto-emergencia-semillas-germinados/</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.</description>
     </item>
 </channel>
 </rss>

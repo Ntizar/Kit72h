@@ -103,7 +103,7 @@ Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinam
 - Gel hidroalcohólico y jabón: Higiene básica sin agua corriente garantizada. (~5-12 €)
 - Lejía y desinfectante de superficies: El agua de DANA deja lodo con aguas fecales: desinfecta todo. (~5-12 €)
 - Papel higiénico y toallitas: Si el agua falla, la cisterna no tira: gestiona residuos con bolsas. (~8-15 €)
-- Bolsas de residuos negras (50+ unidades): Sin agua corriente no tiras de la cisterna ni lavas. Bolsas sellables para gestionar residuos de forma higiénica hasta que vuelva el grifo. (~5-10 €)
+- Bolsas de residuos negras (50+ unidades): Sin agua corriente no tiras de la cisterna ni lavas. Bolsas sellables para gestionar residuos de forma higiénica hasta que vuelva el grifo. (~10-15 €)
 **Cocina sin electricidad**
 - Hornillo de butano portátil con bombonas: Calienta agua, cocina conservas y caldos sin electricidad. Úsalo siempre en zona ventilada. (~20-45 €)
 - Abreconservas manual: Sin electricidad, el abre-latas eléctrico no funciona. Uno manual de 5 € es la herramienta más infravalorada del kit. (~3-8 €)
@@ -297,7 +297,261 @@ Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para
 - Espesantes para líquidos (si hay disfagia diagnosticada): Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional. (~8-16 €)
 - Botella con asa y boquilla fácil + vaso con tapa: Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil. (~8-16 €)
 
+### Kit mascotas — https://kit72h.com/kit/kit-mascotas/
+Tu perro o tu gato no puede abrir la despensa ni pedir ayuda. Este kit cubre sus 72 horas: agua, comida, forma de llevarlo contigo y sus papeles en regla.
+**Agua y comida para 72 horas**
+- Agua para el animal (garrafa de 8 L reservada): Un perro mediano bebe cerca de 1 litro al día y un gato unos 250 ml. La garrafa va aparte de la tuya: no compitas por el agua. (~5-15 €)
+- Comida para mascotas extra (pienso o latas para 72 h): Reserva cerrada y a la vista, no medio saco abierto. Pienso o latas, el que ya coma: en una emergencia no es momento de cambiar de dieta. (~5-15 €)
+- Comedero y bebedero plegables de viaje: Ocupan nada y evitan que beba de un cuenco sucio improvisado. Con ellos puedes darle agua en la parada del coche. (~8-18 €)
+- Comida húmeda en lata (aporta agua y la come estresado): Un animal asustado rechaza el pienso seco pero suele aceptar lata. La humedad le ayuda a hidratarse sin beber. (~6-14 €)
+**Llevártelo contigo**
+- Transportín rígido o jaula de transporte: Con la puerta que cierre bien. Un gato suelto en una evacuación no se recupera: se esconde debajo del primer coche. (~25-60 €)
+- Correa y arnés de repuesto: Con la correa puesta y una segunda de reserva. En pánico un perro rompe la de siempre y sale corriendo hacia la carretera. (~8-20 €)
+- Bozal (si es obligatorio o si está nervioso con desconocidos): Exigido para razas PPP y necesario si va a estar rodeado de gente asustada. Un perro con bozal sube a cualquier transporte. (~6-15 €)
+- Manta o toalla con su olor de casa: Un sitio nuevo para un animal es una amenaza; su manta es la única señal de que está a salvo. También sirve de abrigo. (~8-15 €)
+- Bolsa de transporte acolchada (para animales pequeños): Alternativa ligera al transportín rígido para conejos, cobayas o cachorros pequeños. (~15-35 €)
+**Salud y papeles**
+- Cartilla sanitaria y copia del microchip en carpeta estanca: Vacunas al día y número de microchip: es el documento que demuestra que el animal es tuyo. En papel, porque el móvil puede quedarse sin batería. (~8-18 €)
+- Medicación crónica del animal (30 días): Insulina, cardíaca, anti-epilépticos, antiparasitario. Si el animal toma algo a diario, en la mochila va un mes, no una semana. (~15-60 €)
+- Botiquín veterinario básico (gasas, suero, povidona, vendas): Cortes en patas, quemaduras o irritación de ojos y oídos. El suero fisiológico limpia heridas y ojos sin dañar. (~15-30 €)
+- Termómetro digital (compartido con el botiquín general): Sirve para el animal y para las personas. La fiebre o la hipotermia se miden igual. (~5-12 €)
+**Higiene y descanso**
+- Bolsas de residuos (50+ unidades): Lo mismo que usas en casa, pero con reserva: no vas a poder bajar a la calle a por bolsas. (~10-15 €)
+- Bandeja y arena para gato (o empapadores): Un gato con estrés y sin bandeja retiene orina y acaba en el veterinario. La bandeja desechable vale para dos días. (~10-25 €)
+- Empapadores absorbentes: Para el transporte o el refugio: protegen el maletero y las superficies si no puede aguantar. (~15-30 €)
+- Toallitas limpiadoras: Patas, arena pegada y pelo sucio sin necesidad de agua. Sirven para él y para vosotros. (~4-8 €)
+**Identificación y calma**
+- Placa de identificación con tu teléfono grabado: Un microchip hay que leerlo con un lector; una placa la lee cualquiera. En una emergencia con personal saturado, la placa es más rápida. (~5-12 €)
+- Foto reciente del animal contigo (papel y móvil): Es la prueba de propiedad más eficaz cuando no hay documentos y el que lo recoge no te conoce. (~0 €)
+- Juguete o objeto familiar (2-3): Un animal que no duerme y no para quieto es un problema en un refugio. Su juguete calma más que cualquier órden. (~0-10 €)
+**Plan B: quién lo cuida si no puedes**
+- Acuerdo con una persona de confianza (con llaves y ficha del animal): Hospitalizo, estoy fuera o no llego: alguien con llaves, que sepa dónde está comida y transportín y que conozca el plan. (~0 €)
+- Lista de residencias y hoteles que admiten animales: En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina. (~0 €)
+- Protección de datos del animal (copia digital de vacunas con el microchip visible): Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes. (~8-20 €)
+
+### Kit frío, nieve y calefacción caída — https://kit72h.com/kit/kit-frio/
+Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.
+**Calor corporal: la capa que salva**
+- Ropa térmica interior (camiseta y legging, 2 juegos): La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor. (~20-45 €)
+- Forro polar o jersey de lana: Segunda capa: retiene el aire caliente del cuerpo. La lana abriga incluso ligeramente húmeda. (~15-40 €)
+- Calcetines de lana (3-4 pares): Los pies fríos son el primer aviso de hipotermia. La lana aguanta el sudor mucho mejor que el algodón. (~10-25 €)
+- Casquete o gorro de abrigo: Por la cabeza se pierde una parte enorme del calor. De día y de noche, dentro de casa también. (~8-18 €)
+- Guantes de abrigo (y unos finos para tareas): Sin manos no puedes hacer nada: ni cocinar, ni abrir un grifo congelado, ni manejar el móvil. Dos pares, uno fino por dentro. (~10-25 €)
+- Saco o pijama de una pieza de abrigo (talla actual + una de repuesto): Dormir a 10 grados con pijama ligero no se duerme. La prenda de una pieza evita que el aire entre al moverse. (~12-22 €)
+- Manta térmica (pack de 2): Refleja el calor corporal. No da calor por sí sola: hay que envolverse con ella, no ponerla encima como sábana. (~3-8 €)
+**Seguridad: el enemigo silencioso es el CO**
+- Detector de monóxido de carbono (CO) a pilas con alarma: Obligatorio de facto si vas a usar cualquier aparato de combustión. El CO no se huele, no se ve y no despierta: mata durmiendo. (~15-35 €)
+- Extintor de polvo ABC de 1-2 kg con soporte: Las estufas y los cables recalentados por demanda son las fuentes de incendio típicas en un apagón invernal. (~25-45 €)
+- Tiracables con interruptor diferencial portátil: Si tiras de un generador o de un alargador hacia una estufa eléctrica, este aparato es la diferencia entre un fusible y un incendio. (~20-40 €)
+**Calefacción sin luz ni gas**
+- Estufa de gas butano con corte por falta de oxígeno: La opción más eficaz para una habitación pequeña. Exige bombona, ventilación y detector de CO. Nunca para dormir. (~60-110 €)
+- Hornillo de camping a gas con bombonas (para agua y comida caliente): Agua caliente y comida caliente suben la temperatura corporal más rápido que cualquier estufa. Uso al aire libre o con ventana abierta. (~20-45 €)
+- Termo pequeño de boca ancha (350-500 ml): Una bebida caliente cada dos horas es la forma más barata de mantener el cuerpo a temperatura. El termo la mantiene 6 horas. (~10-20 €)
+- Encendedores y cerillas largas: Prender la estufa o el hornillo con las manos frías y con guantes es difícil. Las cerillas largas evitan quemaduras. (~5-10 €)
+**Que el frío no entre: la casa**
+- Cinta y plástico para sellar ventanas y rendijas: Una ventana vieja mal sellada deja escapar tanto calor como una estufa pequeña puede dar. Diez euros de plástico valen más que subir la estufa. (~8-15 €)
+- Cortinas térmicas o manta de lana para tapar la ventana: De noche, tapar el cristal es la mejora más barata: el cristal es la superficie más fría de la casa. (~15-40 €)
+- Deshumidificador o sachets antihumedad: Una casa fría y húmeda se siente 3-4 grados más fría y condena la ropa. La humedad es la mitad del problema del invierno sin calefacción. (~15-40 €)
+**En la calle y en el coche: la nieve**
+- Rasqueta y cepillo de hielo para el coche: Conducir con un rectángulo limpio en el parabrisas es la causa de miles de accidentes cada nevada. Y hay que limpiar el techo: la placa cae al frenar. (~8-20 €)
+- Cadenas para nieve o calcetines textiles: En autopista con nieve hay que circular por el carril derecho y los izquierdos quedan libres para quitanieves (art. 32 RGC). Sin cadenas no subes un puerto. (~30-80 €)
+- Pala de nieve y sales de deshielo (o arena): Para salir del aparcamiento y para la acera. La sal también evita la placa de hielo a la puerta de casa. (~15-35 €)
+- Cables de arranque y anticongelante con protección hasta -25: El frío mata la batería y congela el circuito refrigerante. Son los dos fallos nº 1 en una ola de frío. (~20-45 €)
+- Baliza V-16 conectada homologada (sustituye a los triángulos): Con niebla o nieve, bajar a poner triángulos es peligroso: la baliza se pone desde dentro del coche y ya es el único medio legal desde el 1/1/2026. (~8-25 €)
+- Elemento luminoso o reflectante para caminar de noche: Obligatorio para peatones en arcén de vía interurbana de noche o con mala visibilidad (art. 123 RGC). Con nieve, un reflejante visible a 150 m es lo único que te separa de un coche. (~3-10 €)
+**Luz, avisos y energía**
+- Linterna frontal (manos libres): Con guantes y a oscuras necesitas las dos manos. La frontal es la única luz útil para moverse por una casa fría. (~12-25 €)
+- Radio FM/AM a pilas o dinamo: Los avisos de nevada y las carreteras cortadas llegan por radio cuando la red móvil está saturada o sin luz en las antenas. (~15-35 €)
+- Powerbank de 10.000-20.000 mAh: Ojo: el frío reduce la capacidad hasta la mitad si lo guardas en el coche. Va dentro de casa, en un bolsillo interior si sales. (~15-35 €)
+- Pilas alcalinas surtidas (AA/AAA): Radio, linterna y detector de CO funcionan a pilas. El detector de CO que se queda sin pilas es un adorno. (~10-20 €)
+
+### Kit terremoto — https://kit72h.com/kit/kit-terremoto/
+España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.
+**Cabeza y pies: lo que se rompe primero**
+- Casco de protección: Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila. (~12-35 €)
+- Guantes de trabajo reforzados: Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida. (~8-20 €)
+- Calzado cerrado y resistente junto a la cama: Un par de botas o zapatillas duras atadas bajo la cama. Andar descalzo sobre cristales rotos es la lesión más evitable de un seísmo nocturno. (~25-60 €)
+- Gafas de protección (o las de sol si no hay otras): El polvo, el yeso y las esquirlas van a los ojos. Las de sol cubren y valen como protección básica. (~15-40 €)
+**Agua y comida sin cocina**
+- Agua embotellada (3 L por persona y día): Seis botellas de 1,5 L por persona para 72 horas. La red de agua es de las primeras cosas que se rompe y de las últimas que se repara. (~2-5 €)
+- Pastillas potabilizadoras de agua: Si la red llega turbia o tienes que usar agua de depósito, 30 minutos de espera y es potable. Pesa nada y sirve para semanas. (~8-15 €)
+- Comida lista para comer sin cocción (conservas, barritas, frutos secos): Conservas, frutos secos y barritas: no hace falta gas ni hornillo. La comida fría y lista es el plan A tras un seísmo. (~1-3 €/lata)
+- Abreconservas manual: Sin electricidad el abrelatas eléctrico no existe y muchas latas no llevan anilla. Cinco euros que pueden dejarte sin cena. (~3-8 €)
+- Comida deshidratada o de ración (por si se alarga): Suministros que se alargan más de 72 horas: un seísmo con daño estructural puede dejar semanas de incomodidad. (~8-15 €)
+**Luz, aviso y rescate**
+- Linterna frontal (manos libres): Con escombros y a oscuras necesitas las dos manos. La frontal va en la cabeza y te deja cavar, ayudar y caminar. (~12-25 €)
+- Silbato de emergencia: Un silbato se oye más lejos que tu voz y no se agota. Gritar durante horas te deja sin aire; el silbato, no. Es el rescate más barato que existe. (~3-8 €)
+- Radio FM/AM a pilas o dinamo: Tras un seísmo, la radio emite por donde no llega la red móvil. Es tu única fuente de instrucciones si caen los repetidores. (~15-35 €)
+- Powerbank de 20.000 mAh + cables: El móvil es tu linterna de repuesto, tu mapa y tu forma de avisar. Sin batería, nada de eso existe. (~25-50 €)
+- Pilas alcalinas surtidas (AA/AAA): Radio, linterna y detector de gas funcionan a pilas. Repuesto doble: en una emergencia no hay tienda. (~10-20 €)
+- Manta térmica de supervivencia (pack): Si acabas esperando rescate al raso o en un coche, es lo único que evita la hipotermia. Ocupa menos que un móvil. (~4-10 €)
+**Botiquín, medicación y heridas**
+- Botiquín completo (gasas, vendas, antiséptico, tijeras): Cortes y contusiones. Necesitas poder limpiar y vendar sin acudir a urgencias, que estarán desbordadas. (~20-30 €)
+- Medicación crónica (7-30 días) con copia de recetas: Diabéticos, anticoagulados, hipertensos, asmáticos. Si tu medicación está en una farmacia cerrada, tienes un problema grave en 24 horas. (~15-60 €)
+- Botiquín de bolsillo para llevar encima: Un pequeño con gasas y tiritas para el bolsillo o el bolso: las heridas pequeñas se atienden ahí mismo. (~15-30 €)
+- Sales de rehidratación oral: Con calor, polvo, esfuerzo y poca agua es fácil deshidratarse. También sirve para diarreas. (~5-12 €)
+**Cortar gas, agua y luz**
+- Llave de corte para gas y agua (llave de cuadradillo o universal): Sin ella no puedes cerrar la acometida de gas. Después de un seísmo, una fuga abierta convierte un susto en una explosión. (~8-20 €)
+- Navaja multiuso: Alicates, destornillador y cuchilla en un bolsillo: cortar una persiana atascada o cerrar una llave sin herramienta. (~15-35 €)
+- Cuerda de paracord 550 (30 m): Para asegurar una puerta, bajar algo, hacer una camilla improvisada o sujetar una lona. 30 metros de cuerda resuelven lo imprevisible. (~8-19 €)
+**Polvo, papeles y dinero**
+- Mascarillas FFP2 (pack): El polvo de escombro y yeso irrita y daña los pulmones. Tras un seísmo hay polvo en suspensión durante días. (~8-15 €)
+- Carpeta o funda estanca con copias de documentos: DNI, escrituras, pólizas, recetas: si la casa queda precintada o dañada, los papeles son la diferencia entre reclamar y no poder demostrar nada. (~8-18 €)
+- Efectivo en billetes pequeños: Sin luz ni red, el datáfono no funciona y los cajeros están caídos. 100-150 € en billetes de 10 y 20 resuelven agua, comida y combustible. (~20-45 €)
+- Copia digital en USB cifrado: Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños. (~8-20 €)
+
+### Kit incendio forestal y humo — https://kit72h.com/kit/kit-incendio/
+En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.
+**Respirar: el humo mata antes que el fuego**
+- Mascarillas FFP2 (pack de 10-20): Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad. (~8-15 €)
+- Gafas de protección ajustadas (o de sol cerradas): El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando. (~8-25 €)
+- Paños o toallas de algodón (para mojar y tapar boca y nariz): Un trapo húmedo filtra parte del humo y enfría el aire. Es lo que se usa cuando no hay mascarilla, y ayuda aunque la tengas. (~5-15 €)
+- Agua para beber y para mojar paños (garrafa o bidón de 8-10 L): El humo seca la garganta y con calor y estrés se bebe menos de lo que se debe. También moja telas al instante. (~5-15 €)
+**Salir en 10 minutos**
+- Mochila resistente al agua de 30-40 L: Ya preparada y junto a la puerta. Si hay que llenarla ese día, estás perdiendo los minutos que cuentan. (~30-70 €)
+- Carpeta estanca con documentos y algo de efectivo: DNI, escrituras, pólizas, tarjeta sanitaria y dinero en billetes pequeños. Volver a reconstruir todo sin papeles es un año de trámites. (~8-18 €)
+- Linterna frontal y pilas: El humo reduce la visibilidad a metros y puede caer la noche. Con las manos libres para llevar, abrir y ayudar. (~8-15 €)
+- Radio FM/AM a pilas (avisos oficiales): Las rutas de evacuación cambian con el viento. La radio da la instrucción vigente cuando la cobertura móvil falla. (~12-25 €)
+- Mapa físico de tu zona (carreteras, salidas alternativas): Si la red está saturada o sin datos, el mapa en papel te saca; el GPS te deja en la carretera cortada como a los demás. (~5-15 €)
+- Silbato de emergencia: Si te quedas sin visibilidad en el humo, un silbato es lo que permite que te encuentren. Cabe en el bolsillo. (~3-8 €)
+**Ropa que no arde pegada a la piel**
+- Ropa de algodón o lana de manga larga (no sintética): El poliéster y el nylon se derriten y se pegan a la piel. Algodón y lana protegen y se pueden mojar. (~20-45 €)
+- Calzado cerrado y resistente (bota o zapatilla dura): Nada de sandalias: el suelo quemado y las brasas atraviesan la suela fina. Y no se puede correr con chanclas. (~30-80 €)
+- Guantes de trabajo de cuero o resistentes al calor: Para abrir una puerta metálica caliente, coger una manguera o mover algo que quema. Sin guantes no puedes tocar nada. (~10-25 €)
+- Gorro o pañuelo de algodón para cubrir cabeza y nuca: El calor radiante y las pavesas caen de arriba. Cubrirse la cabeza evita quemaduras en el pelo y el cuello. (~5-15 €)
+**Defender la casa si aún hay tiempo**
+- Manguera reforzada larga (más un aspersor o pistola): Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente. (~25-60 €)
+- Extintor de polvo ABC de 6 kg (o varios de 2 kg): Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta. (~45-90 €)
+- Azada, rastrillo y desbrozadora manual: Quitar hierba seca y hojarasca en el perímetro es lo que evita que el fuego de suelo llegue a la fachada. (~15-35 €)
+- Mochila de agua a presión (16-20 L): Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona. (~25-50 €)
+**Animales y personas que no corren solos**
+- Transportín y correa a mano (mascotas): En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje. (~25-60 €)
+- Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
+- Bastón, andador o silla plegable de repuesto: Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque. (~15-35 €)
+
 ## Blog
+### Terremoto en España: qué hacer antes, durante y después — https://kit72h.com/blog/terremoto-espana-que-hacer/
+Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
+El martes 18 de agosto de 2026, a las 10:37 , un terremoto de magnitud 4,8 y 5 kilómetros de profundidad sacudió la provincia de Granada, con el epicentro al noroeste de Gójar. Ese mismo día hubo cuatro seísmos de magnitud 4 o superior, con réplicas de 4,3 y 4,2 en Alhendín, y la Junta de Andalucía ordenó el desalojo preventivo de seis bloques de Las Gabias: 371 viviendas y unas 600 personas fuera de casa mientras los técnicos revisaban pilares y fisuras. Tres personas resultaron heridas de carácter leve.
+
+
+ Lo importante no es la magnitud: es que cientos de familias se quedaron sin saber cuándo volver. Los terremotos no se anuncian, así que la única parte del guion que controlas eres tú, y solo si la trabajas antes de que tiemble. Esta es la secuencia que recomienda Protección Civil, con los datos del Instituto Geográfico Nacional (IGN).
+
+
+ España tiembla más de lo que crees
+
+
+ La Red Sísmica Nacional del IGN localizó 5.729 terremotos en la Península durante 2025 , de los que 182 los sintió la población. El total cambia mucho de un año a otra —cuando arranca una serie sísmica como la de Granada se dispara—, pero el patrón es siempre el mismo: miles de movimientos diminutos, un puñado perceptibles y, de vez en cuando, uno que se nota de verdad.
+
+
+ 
+ Año (Península) Terremotos localizados Sentidos por la población De magnitud superior a 4 
+ 
+ 
+ 2021 11.329 806 25 
+
+ 2022 8.843 308 23 
+
+ 2023 5.099 198 6 
+
+ 2024 4.916 203 3 
+
+ 2025 5.729 182 7 
+
+ 
+ 
+
+ En 2025 hubo 7 terremotos por encima de magnitud 4 y ninguno llegó a 6: casi todos pasan desapercibidos. El problema es el que no.
+
+
+ Por qué tiembla y por qué nadie lo puede predecir
+
+
+ España está en el borde de la placa Euroasiática en su colisión con la placa africana, sobre la fractura de Azores-Gibraltar-Túnez; así lo explica la guía de riesgo sísmico de Protección Civil, que es igual de tajante con lo que no podemos hacer: «No existe actualmente ningún método capaz de predecir el tiempo, lugar y magnitud de un terremoto» . No hay aplicación ni aviso previo. Lo único que funciona es estar preparado cuando llega sin avisar.
+
+
+ Lo que sí está calculado es el edificio. La norma española de construcción sismorresistente, la NCSE-02 (Real Decreto 997/2002) , fija como finalidad evitar la pérdida de vidas humanas y reducir el daño económico. No todos los edificios están en la misma situación: por eso, en Las Gabias, los técnicos revisaron cada bloque antes de autorizar el regreso, y por eso el Patronato de la Alhambra cerró preventivamente los palacios nazaríes esa tarde. Ninguna casa es «segura» o «peligrosa» en abstracto: se revisa y se decide con el informe delante.
+
+
+ Antes: cinco cosas para esta semana (cuestan 0 €)
+
+
+ 
+ Fija la estantería, la tele y los armarios altos a la pared. En un seísmo lo que hiere casi nunca es el suelo: es lo que cae de él.
+
+ Localiza la llave de corte de gas y comprueba que gira. Después de la sacudida tendrás segundos y las manos temblando. Si hueles gas, no enciendas nada: ni interruptores, ni cerillas.
+
+ Calzado cerrado y linterna junto a la cama , atados o debajo del colchón: los cristales rotos no se ven a oscuras.
+
+ Acuerdo familiar escrito : punto de encuentro y un contacto de fuera de la provincia, porque las líneas locales se saturan primero. Está en plan familiar de emergencia .
+
+ Documentos, botiquín y mochila cerca de la puerta : la carpeta de emergencia con DNI, escrituras y póliza, la medicación de botiquín de emergencia y la mochila ya montada.
+
+ 
+
+ Durante: tienes entre cinco y treinta segundos
+
+
+ La recomendación oficial cabe en tres verbos: agáchate, cúbrete y agárrate . Ponte a cuatro patas, métete bajo una mesa robusta y sujétate al mueble: se moverá contigo y te protegerá de lo que caiga. Tres prohibiciones evitan el resto de heridas:
+
+
+ 
+ No salgas corriendo a la escalera ni uses el ascensor: quédate donde estás hasta que pare la sacudida.
+
+ No corras hacia la calle desde los pisos altos. Aléjate de ventanas, espejos, estanterías y fachadas. Si estás ya en la calle, ve a un espacio abierto lejos de cornisas y cables.
+
+ Si vas en coche, párate en un sitio abierto: no bajo puentes, ni junto a farolas, ni debajo de cables.
+
+ 
+
+ Después: la parte que casi todos olvidan
+
+
+ 
+ Antes de pisar el suelo, calzado. Recién levantado y a oscuras, los cristales están en el suelo y no se ven.
+
+ No vuelvas dentro hasta que lo revisen. En Granada los desalojos fueron preventivos por fisuras que crecieron entre una inspección y otra; si ves grietas nuevas o una puerta que ya no cierra, no entres y avisa.
+
+ Espera réplicas en las horas siguientes: nadie puede decirte cuáles ni cuándo, así que la regla es la misma que al principio.
+
+ Información fiable, no rumores. ES-Alert es el «112 inverso» que emite Protección Civil por Cell Broadcast y su nivel de Alerta de Protección Civil no se puede desactivar en el móvil; la radio a pilas hace el resto, como recogen comunicar sin red y los recursos oficiales en el móvil .
+
+ Documenta antes de mover nada: fotos de grietas y objetos caídos para el seguro y el ayuntamiento: sin pruebas no hay expediente.
+
+ 
+
+ Tres mitos que vuelven en cada serie sísmica
+
+
+ «Aquí no pasa de verdad.» El 11 de mayo de 2011 Lorca tembló con magnitud 5,1 e intensidad VII: nueve muertos y más de 300 heridos. El 25 de diciembre de 1884 el terremoto de Arenas del Rey (Granada) destruyó unas 4.400 casas y dejó daños en otras 13.000, con alrededor de 800 víctimas mortales según el instituto de geofísica de la Universidad de Granada. Lo que mata no es la magnitud: es la distancia, el suelo y el estado del edificio.
+
+
+ «Se puede saber cuándo vendrá el siguiente.» No: es la frase literal de Protección Civil. Desconfía de quien anuncie fechas.
+
+
+ «La magnitud lo explica todo.» La magnitud mide la energía liberada y no cambia al alejarse del epicentro; la intensidad —escala europea EMS, de I a XII— mide cómo se ha sentido en un sitio concreto y baja con la distancia. Un 4,8 a 5 kilómetros bajo el extrarradio de una capital se nota en toda el área metropolitana; el mismo 4,8 lejos, apenas se percibe.
+
+
+ Tu lista para esta semana
+
+
+ 
+ Tornillos y llave de fijación: tele y estantería atadas a la pared.
+
+ Localiza la llave de corte de gas y pruébala.
+
+ Calzado cerrado y linterna junto a la cama.
+
+ Escribe el acuerdo familiar: punto de encuentro y contacto fuera de la provincia.
+
+ Actualiza la carpeta de documentos, la medicación y la fecha de la mochila.
+
+ Deja la radio de pilas cargada y localiza los canales oficiales de aviso.
+
+ 
+
+ El detalle objeto a objeto está en el kit de terremoto y en la mochila de evacuación ; si solo vas a montar uno, que sea el kit básico de 72 horas , el que te sostiene cuando el edificio aguanta pero no hay luz, agua ni gas.
+
 ### Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio — https://kit72h.com/blog/kit-emergencia-trabajo-oficina/
 Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y qué hacer si no puedes salir), y las cuatro preguntas sobre el plan de autoprotección que casi nadie hace. Con la ley y las guías del INSST citadas.
 Son las 9:12 de un martes. Estás en la tercera planta de un edificio con cuarenta personas, la mochila en el respaldo de la silla, el coche en el sótano y el móvil al 30 %. Si ahora mismo sonara la alarma de incendios: ¿sabes por qué puerta se sale desde tu mesa, dónde queda el punto de reunión y qué tienes en el cajón para pasar las dos horas siguientes sin depender de nadie?
