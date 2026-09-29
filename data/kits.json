@@ -2820,11 +2820,12 @@
           "items": [
             {
               "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
-              "afiliado": "https://www.amazon.es/s?k=ropa+t%C3%A9rmica+interior&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B07WK2MC6B?tag=nti0c8-21",
               "descripcion": "La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor.",
               "precio_aprox": "20-45 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Forro polar o jersey de lana",
@@ -2836,11 +2837,12 @@
             },
             {
               "producto": "Calcetines de lana (3-4 pares)",
-              "afiliado": "https://www.amazon.es/s?k=calcetines+de+lana&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FKT1B9HZ?tag=nti0c8-21",
               "descripcion": "Los pies fríos son el primer aviso de hipotermia. La lana aguanta el sudor mucho mejor que el algodón.",
               "precio_aprox": "10-25 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Casquete o gorro de abrigo",
@@ -2851,11 +2853,12 @@
             },
             {
               "producto": "Guantes de abrigo (y unos finos para tareas)",
-              "afiliado": "https://www.amazon.es/s?k=guantes+de+abrigo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G1MQ28GS?tag=nti0c8-21",
               "descripcion": "Sin manos no puedes hacer nada: ni cocinar, ni abrir un grifo congelado, ni manejar el móvil. Dos pares, uno fino por dentro.",
               "precio_aprox": "10-25 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Saco o pijama de una pieza de abrigo (talla actual + una de repuesto)",
@@ -2879,19 +2882,21 @@
           "items": [
             {
               "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
-              "afiliado": "https://www.amazon.es/s?k=detector+de+mon%C3%B3xido+de+carbono+a+pilas+con+alarma&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0D66LK5NP?tag=nti0c8-21",
               "descripcion": "Obligatorio de facto si vas a usar cualquier aparato de combustión. El CO no se huele, no se ve y no despierta: mata durmiendo.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
-              "afiliado": "https://www.amazon.es/s?k=extintor+de+polvo+abc+de+1-2+kg+con+soporte&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CH1MDJVX?tag=nti0c8-21",
               "descripcion": "Las estufas y los cables recalentados por demanda son las fuentes de incendio típicas en un apagón invernal.",
               "precio_aprox": "25-45 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Tiracables con interruptor diferencial portátil",
@@ -2949,11 +2954,12 @@
             },
             {
               "producto": "Cortinas térmicas o manta de lana para tapar la ventana",
-              "afiliado": "https://www.amazon.es/s?k=cortinas+t%C3%A9rmicas+o+manta+de+lana+para+tapar+la+ventana&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0H8J5NTW9?tag=nti0c8-21",
               "descripcion": "De noche, tapar el cristal es la mejora más barata: el cristal es la superficie más fría de la casa.",
               "precio_aprox": "15-40 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Deshumidificador o sachets antihumedad",
@@ -2970,11 +2976,12 @@
           "items": [
             {
               "producto": "Rasqueta y cepillo de hielo para el coche",
-              "afiliado": "https://www.amazon.es/s?k=rasqueta+y+cepillo+de+hielo+para+el+coche&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B00KSGFXBW?tag=nti0c8-21",
               "descripcion": "Conducir con un rectángulo limpio en el parabrisas es la causa de miles de accidentes cada nevada. Y hay que limpiar el techo: la placa cae al frenar.",
               "precio_aprox": "8-20 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Cadenas para nieve o calcetines textiles",
@@ -2985,19 +2992,21 @@
             },
             {
               "producto": "Pala de nieve y sales de deshielo (o arena)",
-              "afiliado": "https://www.amazon.es/s?k=pala+de+nieve+y+sales+de+deshielo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CR1MB99P?tag=nti0c8-21",
               "descripcion": "Para salir del aparcamiento y para la acera. La sal también evita la placa de hielo a la puerta de casa.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Cables de arranque y anticongelante con protección hasta -25",
-              "afiliado": "https://www.amazon.es/s?k=cables+de+arranque+y+anticongelante+con+protecci%C3%B3n+hasta+-25&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09QSNTH9D?tag=nti0c8-21",
               "descripcion": "El frío mata la batería y congela el circuito refrigerante. Son los dos fallos nº 1 en una ola de frío.",
               "precio_aprox": "20-45 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Baliza V-16 conectada homologada (sustituye a los triángulos)",
@@ -3102,19 +3111,21 @@
           "items": [
             {
               "producto": "Casco de protección",
-              "afiliado": "https://www.amazon.es/s?k=casco+de+protecci%C3%B3n&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0G476FZLP?tag=nti0c8-21",
               "descripcion": "Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila.",
               "precio_aprox": "12-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Guantes de trabajo reforzados",
-              "afiliado": "https://www.amazon.es/s?k=guantes+de+trabajo+reforzados&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B01LYHK84D?tag=nti0c8-21",
               "descripcion": "Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida.",
               "precio_aprox": "8-20 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-29"
             },
             {
               "producto": "Calzado cerrado y resistente junto a la cama",
