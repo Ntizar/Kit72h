@@ -45,9 +45,11 @@ class H(http.server.SimpleHTTPRequestHandler):
 
     def do_GET(self):
         ruta = self.path.split("?")[0].split("#")[0]
-        disco = (RAIZ / ruta.lstrip("/"))
-        if ruta.endswith("/") and not (disco / "index.html").exists():
-            # fallback SPA: sirve el shell para que Chrome renderice la ruta
+        # Siempre el shell en rutas de sección: así la cabecera/nav prerendeada
+        # es SIEMPRE la actual. Antes servía el fichero ya generado y la nav se
+        # congelaba en la versión con la que se creó cada página (los enlaces
+        # «aparecían y desaparecían» según dónde entrabas).
+        if ruta.endswith("/"):
             shell = (RAIZ / "index.html").read_bytes()
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
@@ -143,7 +145,7 @@ def main():
                 elif ruta == "/zona/":
                     esperado = "zona-mapa"
                 else:
-                    esperado = "hero-stats"
+                    esperado = "cta-kit"
                 assert esperado in html, f"contenido no horneado (falta {esperado})"
                 canonical = BASE + ruta
                 if ctx is None:

@@ -65,6 +65,7 @@ const ui = {
 
   /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
   htmlHome() {
+    const compra = `https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}`;
     const bloques = [
       {k:'agua', n:'01', cat:'AGUA', t:'Lo primero', d:'Reserva agua potable para cada persona y ajústala a su edad, salud y circunstancia. Revisa envases y caducidad.', p:'5–20 €', q:'garrafa+agua+potable+almacenamiento', b:'Buscar recipientes',
        ic:'<path d="M12 3 C12 3 5 10.5 5 15 a7 7 0 0 0 14 0 C19 10.5 12 3 12 3 Z"/><path d="M9 15.5 a3 3 0 0 0 3 3"/>'},
@@ -92,28 +93,6 @@ const ui = {
         </div>
       </article>`).join('');
 
-    const pruebaItems = [
-      'Agua almacenada para quienes viven contigo',
-      'Linterna con pilas o carga comprobada',
-      'Batería externa cargada y cable',
-      'Botiquín y medicación necesaria',
-      'Comida no perecedera y abrelatas si hace falta',
-      'Copias de documentos y contactos protegidos'
-    ].map((t, i) => `
-      <label class="pr-check"><input type="checkbox" class="pr-chk" id="pr${i}" onchange="ui.pruebaAct()"><span>${t}</span></label>`).join('');
-
-    const adapt = [
-      ['01', 'Corte de luz', 'Ten iluminación, batería, radio y agua accesibles. Comprueba cómo abrir persianas o puertas eléctricas sin corriente.', 'kit-apagon', 'Empieza por luz y energía'],
-      ['02', 'DANA e inundación', 'Protege documentos y medicación de la humedad y sigue los avisos oficiales. No atravieses zonas inundadas.', 'kit-dana', 'Empieza por documentos'],
-      ['03', 'Familia y cuidados', 'Bebés, mayores y mascotas cambian la lista: alimentación, higiene, medicación y necesidades propias.', 'kit-bebe', 'Empieza por salud']
-    ].map(a => `
-      <a class="card-adapt" href="/kit/${a[3]}/">
-        <span class="n">${a[0]}</span>
-        <h3>${a[1]}</h3>
-        <p>${a[2]}</p>
-        <span class="ir">${a[4]} →</span>
-      </a>`).join('');
-
     const tarjetas = state.data.kits.map((k, i) => `
       <a class="card-kit" href="/kit/${k.slug}/">
         <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
@@ -130,7 +109,7 @@ const ui = {
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
-        <span class="meta-blog">⏱ ${e.lectura} de lectura</span>
+        <span class="meta-blog">⏱ ${this.lectura(e)} de lectura</span>
       </a>`).join('');
 
     const arte = `<div class="hero-arte" aria-hidden="true"><svg viewBox="0 0 1440 420" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
@@ -149,15 +128,13 @@ const ui = {
           <h1><span class="l1">Se va la luz.</span><span class="l2">Empieza tu plan.</span></h1>
           <p class="hero-lead">Los primeros 30 minutos no son para buscar pilas a oscuras. Un kit 72h reúne lo esencial para pasar un corte de suministros o una evacuación breve con más margen y menos improvisación.</p>
           <div class="hero-ctas">
-            <a class="btn ambar" href="#kits">Preparar mi kit →</a>
-            <a class="btn negro" href="#prueba">¿Qué tengo ya? ↓</a>
+            <a class="btn ambar" href="#kits">Ver los kits ↓</a>
+            <a class="btn negro" href="${compra}" target="_blank" rel="sponsored nofollow noopener">Comprar mi kit →</a>
           </div>
-          <div class="hero-stats">
-            <div><b>${state.data.kits.length}</b><span>Kits por escenario</span></div>
-            <div><b>72 H</b><span>Autonomía</span></div>
-            <div><b>180+</b><span>Productos verificados</span></div>
-            <div><b>1-Clic</b><span>Cesta en Amazon</span></div>
-          </div>
+          <a class="cta-kit" href="${compra}" target="_blank" rel="sponsored nofollow noopener">
+            <span class="cta-kit-t">No pierdas el tiempo:<br>compra tu kit completo</span>
+            <span class="cta-kit-b">Kit de emergencia de 72 h, listo para mandarlo a casa →</span>
+          </a>
         </div>
       </div>
       <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('AGUA · LUZ · ENERGÍA · SALUD · COMIDA · DOCUMENTOS')}</div></div>
@@ -179,28 +156,11 @@ const ui = {
           </div>
         </div>
       </section>
-      <section class="sec oscura" id="prueba">
-        <div class="container">
-          <div class="sec-inner">
-            <span class="sec-label">02 / Prueba rápida</span>
-            <h2>¿Cuánto tienes<br><span class="acento2">ya preparado?</span></h2>
-            <div class="prueba">
-              <p style="font-size:13.5px;color:#c9c0b0;margin:0">Marca solo lo que tienes en casa, está accesible y funciona. No es una predicción de cuántas horas aguantarás: es una foto de tu preparación en seis piezas.</p>
-              <div class="prueba-grid">${pruebaItems}</div>
-              <div class="prueba-res">
-                <b id="pr-count">0</b><span style="font-family:var(--display);font-size:22px;color:var(--ambar)">/6</span>
-                <p>Empieza por el agua y la luz. Dos básicos que agradecerás tener localizados.</p>
-                <a class="btn ambar" href="#kits">Ver qué me falta →</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <section class="sec clara">
         <div class="container">
           <div class="watermark" aria-hidden="true">LISTA</div>
           <div class="sec-inner">
-            <span class="sec-label">03 / Tu lista</span>
+            <span class="sec-label">02 / Tu lista</span>
             <h2>El kit, <span class="acento">sin humo.</span></h2>
             <p class="sec-intro" style="color:#4a4238">Seis bloques. Antes de comprar, mira qué tienes. Los botones abren búsquedas en Amazon.es con los rangos de presupuesto para planificar.</p>
             <div class="lista-bloques">${bloques}</div>
@@ -226,9 +186,9 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">KITS</div>
           <div class="sec-inner">
-            <span class="sec-label">04 / Los kits</span>
+            <span class="sec-label">03 / Los kits</span>
             <h2>Elige tu escenario.<br><span class="acento2">Empieza por lo que te falta.</span></h2>
-            <p class="sec-intro">Cada kit es una checklist marcable: ve tachando lo que ya tienes. Al final, un botón llena tu cesta de Amazon con los imprescindibles en un clic.</p>
+            <p class="sec-intro">Cada kit es una lista cerrada: mira qué te falta de lo que ya tienes y, al final, un solo botón te lleva todo a la cesta de Amazon.</p>
             <div class="grid-kits">${tarjetas}</div>
           </div>
         </div>
@@ -238,24 +198,13 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">BLOG</div>
           <div class="sec-inner">
-            <span class="sec-label">05 / Lecturas</span>
+            <span class="sec-label">04 / Lecturas</span>
             <h2>Del diario<br><span class="acento">de supervivencia</span></h2>
             <div class="grid-kits">${blogFeatured}</div>
             <p><a class="btn negro" href="/blog/">Todas las guías →</a></p>
           </div>
         </div>
       </section>` : ''}
-      <section class="sec clara" id="adaptalo">
-        <div class="container">
-          <div class="watermark" aria-hidden="true">TUYO</div>
-          <div class="sec-inner">
-            <span class="sec-label">06 / Adáptalo</span>
-            <h2>Tu casa. <span class="acento">Tu kit.</span></h2>
-            <p class="sec-intro" style="color:#4a4238">Un kit genérico es solo el comienzo. Hazlo útil para tu vida real.</p>
-            <div class="adapt-grid">${adapt}</div>
-          </div>
-        </div>
-      </section>
       <section class="cta-final">
         <div class="container">
           <span class="sec-label">El siguiente paso es pequeño</span>
@@ -269,21 +218,23 @@ const ui = {
       </section>`;
   },
 
-  pruebaAct() {
-    const chks = [...document.querySelectorAll('.pr-chk')];
-    const n = chks.filter(c => c.checked).length;
-    const el = document.getElementById('pr-count');
-    if (el) el.textContent = String(n);
+  /* ---- BLOG ---- */
+  /* Minutos de lectura calculados del cuerpo real. La promesa del titular
+     tiene que cuadrar con lo que hay: había posts de 245 palabras
+     anunciando «7 min de lectura». */
+  lectura(e) {
+    const txt = String(e.cuerpo || '').replace(/<[^>]+>/g, ' ');
+    const n = (txt.trim().match(/\S+/g) || []).length;
+    return `${Math.max(1, Math.round(n / 200))} min`;
   },
 
-  /* ---- BLOG ---- */
   htmlBlog() {
     const tarjetas = blog.entradas.map((e, i) => `
       <a class="card-kit card-blog" href="/blog/${e.slug}/">
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
-        <span class="meta-blog">📅 ${e.fecha} · ⏱ ${e.lectura} de lectura ${(e.etiquetas||[]).map(t=>`<span class="tag-blog">${t}</span>`).join('')}</span>
+        <span class="meta-blog">📅 ${e.fecha} · ⏱ ${this.lectura(e)} de lectura ${(e.etiquetas||[]).map(t=>`<span class="tag-blog">${t}</span>`).join('')}</span>
       </a>`).join('');
     return `
       <section class="hero hero-blog">
@@ -303,14 +254,14 @@ const ui = {
     const otras = blog.entradas.filter(x => x.slug !== e.slug &&
       (x.etiquetas || []).some(t => (e.etiquetas || []).includes(t)))
       .slice(0, 5)
-      .map(x => `<li><a href="#blog/${x.slug}">${x.titulo}</a></li>`).join('');
+      .map(x => `<li><a href="/blog/${x.slug}/">${x.titulo}</a></li>`).join('');
     const fuentes = (e.fuente || []).map(f =>
       `<li><a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a></li>`).join('');
     return `
       <section class="ficha entrada-blog">
         <a class="volver" href="/blog/">← Blog</a>
         <h1>${e.titulo}</h1>
-        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${e.lectura} de lectura</p>
+        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${this.lectura(e)} de lectura</p>
         <div class="cuerpo-blog">${this.tablasSeguras(e.cuerpo)}</div>
         ${fuentes ? `<div class="guia-kit"><h2>Fuentes de esta guía</h2><ul>${fuentes}</ul></div>` : ''}
         ${otras ? `<div class="guia-kit"><h2>Sigue leyendo</h2><ul>${otras}</ul></div>` : ''}
@@ -343,7 +294,7 @@ const ui = {
               </div>
               <div class="item-acciones">
                 ${i.afiliado
-                  ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">${i.es_busqueda ? 'Buscar en Amazon ↗' : 'Ver en Amazon ↗'}</a>`
+                  ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">${i.es_busqueda ? 'Ver precios ↗' : 'Comprar ↗'}</a>`
                   : `<span class="sin-enlace">Consejo — no se compra online</span>`}
               </div>
             </li>`;}).join('')}
@@ -379,7 +330,7 @@ const ui = {
     const blogBox = entradas.length ? `
       <div class="guia-kit kit-blog">
         <h2>Guías relacionadas del blog</h2>
-        <ul>${entradas.map(e => `<li><a href="#blog/${e.slug}">${e.titulo}</a> — ${e.lectura} de lectura</li>`).join('')}</ul>
+        <ul>${entradas.map(e => `<li><a href="/blog/${e.slug}/">${e.titulo}</a> — ${this.lectura(e)} de lectura</li>`).join('')}</ul>
       </div>` : '';
 
     const fuente = kit.fuente ? `
@@ -397,11 +348,11 @@ const ui = {
           <b id="prog-num">0%</b>
           <div class="track"><div class="fill" id="prog-fill"></div></div>
           <span id="prog-ley">marca lo que ya tienes</span>
-          <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}')">Cesta llena en 1 clic →</button>
+          <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}')">Llévate todo el kit →</button>
         </div>
         ${paraQuien}
         ${secciones}
-        ${nEs > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Añadir los ${nEs} imprescindibles a tu cesta de Amazon →</button>` : ''}
+        ${nEs > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Llévate solo lo esencial — los ${nEs} imprescindibles →</button>` : ''}
         ${errores}
         ${guia}
         ${blogBox}
