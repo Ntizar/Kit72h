@@ -241,8 +241,18 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   min-height:44px;padding:10px 14px;background:var(--ambar);color:var(--negro);
   border:var(--b);text-decoration:none;font-weight:700;font-size:11.5px;
   letter-spacing:1.5px;text-transform:uppercase;white-space:nowrap;
+  transition:background .15s,transform .08s,box-shadow .08s;
 }
-.btn-amazon:hover{transform:translate(-2px,-2px);box-shadow:4px 4px 0 var(--negro)}
+.btn-amazon:hover{transform:translate(-2px,-2px);box-shadow:4px 4px 0 var(--negro);background:#f5b43b}
+.btn-amazon::after{content:"🛒";margin-left:6px;font-size:13px}
+
+/* CTA grande hero: pulse sutil */
+.cta-kit{position:relative;overflow:hidden}
+.cta-kit::after{
+  content:"";position:absolute;inset:0;border:2px solid var(--crema);opacity:0;
+  animation:ctaPulse 3s ease-in-out infinite;pointer-events:none;
+}
+@keyframes ctaPulse{0%,100%{opacity:0;transform:scale(1)}50%{opacity:.3;transform:scale(1.02)}}
 .badge-estado{font-size:10.5px;font-weight:700;padding:2px 8px;border:1.5px solid}
 .badge-estado.ok{color:#2e7d4f;border-color:#2e7d4f}
 .badge-estado.rotura{color:var(--rojo-txt);border-color:var(--rojo)}
