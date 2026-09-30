@@ -1,0 +1,48 @@
+name: Auto-generación de contenido Kit72h
+on:
+  schedule:
+    # Lunes y jueves a las 06:00 CET
+    - cron: '0 6 * * 1,4'
+    # Miércoles a las 12:00 CET (pines Pinterest)
+    - cron: '0 12 * * 3'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install playwright && playwright install chromium
+
+      - name: Generate articles
+        run: python scripts/generar-articulos.py
+
+      - name: Generate Pinterest pins
+        run: python scripts/generar-pins.py
+
+      - name: Update sitemap
+        run: python scripts/actualizar-sitemap.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "kit72h-auto"
+          git config user.email "auto@kit72h.com"
+          git add -A
+          git commit -m "auto(website): actualización automática de contenido y sitemap" || echo "No changes to commit"
+          git push
