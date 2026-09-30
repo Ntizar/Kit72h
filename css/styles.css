@@ -388,6 +388,150 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   .kit-errores,.guia-kit{break-inside:avoid}
 }
 
+/* --- Starlink banner: destacado premium en la hero --- */
+.starlink-banner-wrap{
+  background:var(--negro);
+  padding:0 0 20px;
+}
+.starlink-banner{
+  display:block;
+  margin:0 auto;
+  max-width:1200px;
+  padding:0 20px;
+  text-decoration:none;
+  transition:transform .1s;
+}
+.starlink-banner:hover{
+  transform:translate(-2px,-2px);
+}
+.starlink-banner-inner{
+  background:linear-gradient(135deg,#0E0C09 0%,#1a1510 60%,#1a1008 100%);
+  border:2px solid var(--rojo);
+  padding:28px 32px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+  flex-wrap:wrap;
+  position:relative;
+  overflow:hidden;
+}
+.starlink-banner-inner::before{
+  content:"";
+  position:absolute;
+  top:0;left:0;right:0;
+  height:3px;
+  background:linear-gradient(90deg,var(--rojo),var(--ambar),var(--rojo));
+}
+.starlink-chip{
+  display:inline-block;
+  font-size:10px;
+  font-weight:700;
+  letter-spacing:2px;
+  color:var(--ambar);
+  border:1.5px solid var(--ambar);
+  padding:4px 10px;
+  margin-bottom:12px;
+  text-transform:uppercase;
+}
+.starlink-left h3{
+  font-family:var(--display);
+  font-size:22px;
+  text-transform:uppercase;
+  color:var(--crema);
+  line-height:1.2;
+  margin-bottom:8px;
+}
+.starlink-left p{
+  font-size:13px;
+  color:#b9b1a3;
+  line-height:1.6;
+  margin-bottom:14px;
+  max-width:50ch;
+}
+.starlink-cta{
+  display:inline-block;
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:2px;
+  color:var(--rojo);
+  border:1.5px solid var(--rojo);
+  padding:8px 18px;
+  text-transform:uppercase;
+  transition:background .15s,color .15s;
+}
+.starlink-banner:hover .starlink-cta{
+  background:var(--rojo);
+  color:var(--crema);
+}
+.starlink-right{
+  text-align:right;
+  flex-shrink:0;
+}
+.starlink-price{
+  display:block;
+  font-family:var(--display);
+  font-size:32px;
+  color:var(--crema);
+  letter-spacing:1px;
+  line-height:1;
+}
+.starlink-sub{
+  display:block;
+  font-size:13px;
+  color:var(--ambar);
+  font-weight:700;
+  letter-spacing:1px;
+  margin-top:4px;
+}
+
+/* Card Starlink en grid */
+.card-starlink{
+  background:linear-gradient(135deg, #0E0C09 0%, #1a1510 100%);
+  border:2px solid var(--rojo);
+  position:relative;
+  overflow:hidden;
+}
+.card-starlink::before{
+  content:"⭐ ALTA GAMA";
+  position:absolute;
+  top:8px;right:-30px;
+  background:var(--rojo);
+  color:var(--crema);
+  font-size:9px;
+  font-weight:700;
+  letter-spacing:1px;
+  padding:4px 40px;
+  transform:rotate(45deg);
+}
+.card-starlink .icono{
+  background:var(--rojo);
+  border-color:var(--rojo);
+}
+.card-starlink h2{
+  color:var(--crema);
+}
+.card-starlink p{
+  color:#c9c0b0;
+}
+.card-starlink:hover{
+  border-color:var(--ambar);
+  box-shadow:0 0 20px rgba(209,75,39,0.3);
+}
+
+/* Starlink responsive */
+@media(max-width:640px){
+  .starlink-banner-inner{
+    padding:20px 18px;
+    flex-direction:column;
+    align-items:flex-start;
+  }
+  .starlink-right{text-align:left}
+  .starlink-price{font-size:24px}
+  .starlink-left h3{font-size:18px}
+  .card-starlink .fila-top{display:none}
+}
+
 /* --- Movimiento reducido --- */
 @media (prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
