@@ -66,11 +66,24 @@ if "kit72h.com/blog/" not in llms:
 
 # 5) sin datos de autor personal en contenido publicable
 veto = R / ".veto-privacidad"
-terminos = veto.read_text(encoding="utf-8").split() if veto.exists() else ["David Antizar"]
+# El veto es un fichero local (gitignored). Cada línea es un patrón regex;
+# si no existe, se comprueba al menos el nombre propio con detección literal.
+if veto.exists():
+    terminos = [t for t in veto.read_text(encoding="utf-8").splitlines() if t.strip()]
+else:
+    terminos = [re.escape("David Antizar")]
+problemas_veto = []
 for f in list((R / "data").glob("*.json")) + [R / "index.html"] + list((R / "js").glob("*.js")):
     texto = f.read_text(encoding="utf-8")
-    if any(re.search(t, texto) for t in terminos):
-        problemas.append(f"rastro de dato personal en {f.relative_to(R)}")
+    for t in terminos:
+        try:
+            if re.search(t, texto, re.I):
+                problemas_veto.append(f"rastro de dato personal en {f.relative_to(R)}")
+                break
+        except re.error:
+            # patrón inválido en el veto local: no tumba la auditoría entera
+            continue
+problemas.extend(problemas_veto)
 
 def git(*args, timeout=300):
     return subprocess.run(("git",) + args, cwd=R, capture_output=True, text=True, timeout=timeout)

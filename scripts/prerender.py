@@ -60,15 +60,22 @@ class H(http.server.SimpleHTTPRequestHandler):
         super().do_GET()
 
 
-def dump(chrome, url):
+def dump(chrome, url, marca_esperada):
+    """Vuelca el DOM de una ruta. Chrome headless a veces devuelve el shell
+    vacío (los JS no llegan a ejecutarse dentro del virtual-time-budget): el
+    fallo es intermitente, así que se reintenta hasta 3 veces."""
     perfil = Path(tempfile.gettempdir()) / f"prerender-{abs(hash(url)) % 99999}"
-    r = subprocess.run(
-        [chrome, "--headless=new", "--disable-gpu", "--no-sandbox",
-         f"--user-data-dir={perfil}", "--hide-scrollbars",
-         "--virtual-time-budget=9000", "--dump-dom", url],
-        capture_output=True, timeout=90)
+    html = ""
+    for intento in range(3):
+        r = subprocess.run(
+            [chrome, "--headless=new", "--disable-gpu", "--no-sandbox",
+             f"--user-data-dir={perfil}", "--hide-scrollbars",
+             "--virtual-time-budget=9000", "--dump-dom", url],
+            capture_output=True, timeout=90)
+        html = r.stdout.decode("utf-8", "ignore")
+        if marca_esperada in html:
+            break
     shutil.rmtree(perfil, ignore_errors=True)
-    html = r.stdout.decode("utf-8", "ignore")
     assert "<title>" in html and 'id="app"' in html, f"dump vacío: {url}"
     return html
 
@@ -130,8 +137,8 @@ def main():
         for ruta, ctx in rutas:
             url = f"http://127.0.0.1:{PUERTO}{ruta}"
             try:
-                html = dump(chrome, url)
-                # asserts de contenido horneado: si el render vino vacío, FALLO
+                # asserts de contenido horneado: se calculan ANTES del dump
+                # para que el reintentador de dump() pueda validarlos.
                 if ctx and ctx[0] == "kit":
                     esperado = "barra-progreso"
                 elif ctx and ctx[0] == "blog":
@@ -146,6 +153,8 @@ def main():
                     esperado = "zona-mapa"
                 else:
                     esperado = "cta-kit"
+                html = dump(chrome, url, esperado)
+                # si el render vino sin la marca, FALLO
                 assert esperado in html, f"contenido no horneado (falta {esperado})"
                 canonical = BASE + ruta
                 if ctx is None:
