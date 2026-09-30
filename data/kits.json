@@ -502,39 +502,43 @@
           "items": [
             {
               "producto": "Radio FM/AM a pilas o de manivela, con linterna integrada",
-              "afiliado": "https://www.amazon.es/s?k=radio+fm+a+pilas+con+dinamo+y+linterna&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09KNPHP9W?tag=nti0c8-21",
               "descripcion": "La red móvil y la luz se van justo cuando más falta hace la información. Compra una radio de dial grande, apunta en la tapa la emisora autonómica y Radio Nacional, y pruébala una vez al mes: los avisos oficiales siguen saliendo por radio y por megafonía municipal. Lleva pilas de repuesto aparte, fuera del aparato.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
               "busqueda": "radio fm a pilas con dinamo y linterna",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             },
             {
               "producto": "Walkie-talkies PMR446 (pareja con cargador)",
-              "afiliado": "https://www.amazon.es/s?k=walkie+talkies+pmr446+pareja+recargables&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B071NWGL29?tag=nti0c8-21",
               "descripcion": "Con la red móvil caída, dos personas a 300-500 m en un pueblo inundado siguen hablando: los PMR446 son legales en España sin licencia, con canales de uso común. Valen para que uno haga cola en el punto de reparto y el otro se quede con quien no puede moverse. Cómo usarlos, en la guía de PMR446 del blog.",
               "precio_aprox": "40-80 €",
               "prioridad": "recomendado",
               "busqueda": "walkie talkies pmr446 pareja recargables",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             },
             {
               "producto": "Batería externa (power bank) 10.000-20.000 mAh, dos salidas",
-              "afiliado": "https://www.amazon.es/s?k=bateria+externa+power+bank+20000+mah+dos+salidas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FKBJRT1G?tag=nti0c8-21",
               "descripcion": "Sin luz, el móvil es tu linterna, tu mapa y tu contacto con la familia: se agota en horas. Cárgala al 100 % con el aviso naranja y no la gastes en vídeos; con un panel solar pequeño o el cargador del coche la vuelves a llenar. Guarda el cable corto dentro de la misma bolsa.",
               "precio_aprox": "20-40 €",
               "prioridad": "recomendado",
               "busqueda": "bateria externa power bank 20000 mah dos salidas",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             },
             {
               "producto": "Mascarilla FFP2 (pack) y gafas de protección para la limpieza",
-              "afiliado": "https://www.amazon.es/s?k=mascarilla+ffp2+pack+10+gafas+de+proteccion&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B08XQN1DVL?tag=nti0c8-21",
               "descripcion": "El lodo de una inundación trae aguas fecales y, cuando se seca, se inhala: al retirar barro y al tirar paredes mojadas, mascarilla puesta y ojos tapados. Se usa el primer día, no cuando ya huele. Si tienes asma o problemas respiratorios, hazlo con otra persona delante y descansando.",
               "precio_aprox": "15-30 €",
               "prioridad": "recomendado",
               "busqueda": "mascarilla ffp2 pack 10 gafas de proteccion",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ]
         }
@@ -665,12 +669,13 @@
             },
             {
               "producto": "Acumuladores de frío (bloques de gel congelables) para nevera y congelador",
-              "afiliado": "https://www.amazon.es/s?k=acumulador+de+frio+bloques+de+gel+congelables+nevera&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FMDRF8H3?tag=nti0c8-21",
               "descripcion": "Tenlos congelados desde antes: el día del corte pasan a la nevera, pegados a lo más delicado (carne, pescado, lácteos, embutido), y alargan las horas de frío sin que tengas que abrir la puerta para comprobar nada. Truco gratis equivalente: dos botellas de agua congeladas. Y lo que ya se ha descongelado no se vuelve a congelar: se cocina o se tira.",
               "precio_aprox": "10-20 €",
               "prioridad": "recomendado",
               "busqueda": "acumulador de frio bloques de gel congelables nevera",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ],
           "intro": "Poder hacer un café o calentar agua marca la diferencia moral de un apagón. Y exige hacerlo en sitio ventilado: el butano en interior cerrado mata."
@@ -718,12 +723,13 @@
             },
             {
               "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
-              "afiliado": "https://www.amazon.es/s?k=sai+ups+600va+router+ont+bateria&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B07DPWBBDP?tag=nti0c8-21",
               "descripcion": "Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora.",
               "precio_aprox": "60-110 €",
               "prioridad": "recomendado",
               "busqueda": "sai ups 600va router ont bateria",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ],
           "intro": "Efectivo, contactos en papel y una radio. Cuando todo es digital, lo analógico decide."
@@ -787,12 +793,13 @@
             },
             {
               "producto": "Chaleco reflectante de alta visibilidad (dotación obligatoria en moto)",
-              "afiliado": "https://www.amazon.es/s?k=chaleco+reflectante+alta+visibilidad&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CWDNN3MY?tag=nti0c8-21",
               "descripcion": "Desde el 1/10/2026 las motocicletas deben llevar entre su dotación obligatoria un chaleco reflectante de alta visibilidad conforme a la normativa de EPI (RD 518/2026, anexo XII del Reglamento General de Vehículos; BOE-A-2026-13889). Para el coche sigue siendo lo que te pone legal si sales a pie por el arcén de noche.",
               "precio_aprox": "5-12 €",
               "prioridad": "esencial",
               "busqueda": "chaleco reflectante alta visibilidad",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ],
           "intro": "Lo que te pueden exigir en una inspección o en un accidente. Desde el 1/1/2026 la baliza V-16 conectada es el único medio legal de señalización."
@@ -1003,11 +1010,12 @@
             },
             {
               "producto": "Detector de monóxido de carbono a pilas",
-              "afiliado": "https://www.amazon.es/s?k=detector%20monoxido%20carbono%20pilas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CKWGSX22?tag=nti0c8-21",
               "descripcion": "Este kit recomienda un hornillo de butano dentro de casa: el CO no se huele, no se ve y mata mientras duermes. Ponlo a la altura de la respiración, en la cocina o donde cocines, y nunca lo apagues para ahorrar pilas.",
               "precio_aprox": "15-30 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ]
         },
@@ -1074,11 +1082,12 @@
             },
             {
               "producto": "Medidor de CO2 o calidad del aire portátil",
-              "afiliado": "https://www.amazon.es/s?k=medidor%20CO2%20calidad%20aire&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CGX22CR8?tag=nti0c8-21",
               "descripcion": "El CO2 acumulado en casa cerrada da sueño, dolor de cabeza y reduce la capacidad de razonar. Un sensor barato te avisa.",
               "precio_aprox": "15-40 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             }
           ]
         },
@@ -1088,11 +1097,12 @@
           "items": [
             {
               "producto": "Linterna LED a pilas o de dinamo",
-              "afiliado": "https://www.amazon.es/s?k=linterna%20LED%20pilas%20dinamo&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GGY8TTR2?tag=nti0c8-21",
               "descripcion": "Sin luz no encuentras nada y acabas usando el móvil como linterna, que es justo lo que necesitas para llamar. Guarda pilas de repuesto del mismo tamaño, fuera de los aparatos.",
               "precio_aprox": "8-25 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-09-30"
             },
             {
               "producto": "Radio FM/AM a pilas o de dinamo",
