@@ -3728,6 +3728,18 @@
         "Gritar para avisar a alguien a lo lejos. El humo te deja sin aire en minutos: silbato y llamada, nunca carreras ni gritos.",
         "Creer que el peligro termina cuando se apaga el frente. Los rescoldos se reactivan con el viento, y los árboles y el suelo quemados siguen siendo peligrosos horas después."
       ]
+    },
+    {
+      "titulo": "Kit profesional de energía y autonomía",
+      "slug": "kit-kit-profesional",
+      "icono": "⚡",
+      "coste": "2000–5000 €",
+      "nota": "inversión profesional",
+      "descripcion": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.",
+      "enlace": "/kit/kit-kit-profesional/",
+      "premium": true,
+      "coste_total": "2000–5000 €",
+      "resumen": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total."
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea."

@@ -93,13 +93,13 @@ const ui = {
       </article>`).join('');
 
     const tarjetas = state.data.kits.map((k, i) => `
-      <a class="card-kit" href="/kit/${k.slug}/">
+      <a class="card-kit${k.premium ? ' card-profesional' : ''}" href="/kit/${k.slug}/">
         <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
         <div class="pie">
-          <span class="coste-kit">${k.coste_total || 'Lista gratuita'}</span>
-          <span class="ir">Abrir →</span>
+          <span class="coste-kit"${k.premium ? ' style="color:var(--rojo);font-size:14px"' : ''}>${k.coste_total || 'Lista gratuita'}</span>
+          <span class="ir"${k.premium ? ' style="color:var(--rojo)"' : ''}>${k.premium ? 'Ver kit completo →' : 'Abrir →'}</span>
         </div>
       </a>`).join('');
 
