@@ -21,7 +21,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20261001">
+<link rel="stylesheet" href="/css/styles.css?v=20261001c">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://kit72h.com/blog/PLACEHOLDER/">
 <meta property="og:title" content="PLACEHOLDER">
@@ -66,6 +66,10 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
 <div class="ubar"><div class="container"><span><span class="punto">●</span> PREPARACIÓN CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPAÑA</span></div></div>
 <header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit ↗</a></nav></div></header>
 <main class="container">
+  <section class="sec oscura">
+    <div class="container">
+      <div class="watermark" aria-hidden="true">BLOG</div>
+      <div class="sec-inner">
 <article class="entrada-blog" style="max-width:70ch;margin:40px auto 60px">
   <span class="sec-label sec-clara">Blog</span>
   <h1>PLACEHOLDER</h1>
@@ -81,6 +85,9 @@ PLACEHOLDER
 PLACEHOLDER
   </div>
 </div>
+      </div>
+    </div>
+  </section>
 </main>
 <footer class="site-footer"><div class="container"><p>Kit72h · Preparación civil para España · Hecho con ❤️ por David Antizar · <a href="/blog/">Todos los artículos</a> · <a href="/fuentes/">Fuentes oficiales</a></p></footer>
 <script src="/js/main.js?v=20260928c"></script>
