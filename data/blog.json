@@ -3,12 +3,76 @@
     "sitio": "Kit72h — Blog de preparación",
     "descripcion": "Guías prácticas de preparación ante emergencias basadas en fuentes oficiales (UE, Protección Civil, DGT, OMS).",
     "reglas_editoriales": "Toda entrada se basa en fuentes oficiales citadas con enlace y fecha. No se inventan datos ni se recomienda medicación concreta: se remite a Protección Civil, AEMPS o al médico. Se añade o corrige, nunca se borra contenido existente sin dejar nota. Cada entrada enlaza con los kits que la completan y con al menos dos fuentes oficiales.",
-    "actualizado": "2026-09-29",
-    "total": 31,
+    "actualizado": "2026-10-01",
+    "total": 44,
     "ultima_revision": "2026-09-29",
-    "nota_editor": "2026-09-29: nueva entrada 'terremoto-espana-que-hacer' (editor nocturno) — terremoto en España antes/durante/después, con la serie sísmica de Granada de agosto de 2026 como gancho: tabla de sismicidad de la Red Sísmica Nacional (IGN), NCSE-02 (RD 997/2002), ES-Alert y datos de Lorca 2011 y del terremoto de 1884; 10 fuentes. Además se migran a URL real los 85 enlaces #legacy del cuerpo (/kit/, /blog/, /fuentes/), el formato que exige el prerender. 2026-09-27: nueva entrada 'kit-emergencia-trabajo-oficina' (editor nocturno) — kit y plan de emergencia en el trabajo: cajon, evacuacion de oficina, plan de autoproteccion y aviso ES-Alert; 9 fuentes oficiales verificadas (BOE Ley 31/1995 art.20 y RD 393/2007, INSST, Proteccion Civil, Comision Europea). 2026-09-24: nueva entrada 'salud-mental-y-sueno-en-una-emergencia' (editor nocturno) — dormir, estrés y primera ayuda psicológica; 7 fuentes oficiales verificadas (OMS/OPS, Sanidad 024, Comisión Europea, Protección Civil). 2026-09-21: nueva entrada 'conservar-comida-sin-nevera-ni-frio' (editor nocturno). AESAN reorganizó su web: las URLs del dominio antiguo /AECOSAN/web/... devuelven 404; se actualizan las citas a las rutas vigentes /seguridad-alimentaria/... de aesan.gob.es."
+    "nota_editor": "2026-10-01: generador automático reconectó 44 entradas. Escaneo completo de 44 directorios."
   },
   "entradas": [
+    {
+      "titulo": "Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña",
+      "resumen": "Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.",
+      "fecha": "2026-10-01",
+      "lectura": "6 min",
+      "slug": "antena-externa-movil-cobertura-montana",
+      "url": "/blog/antena-externa-movil-cobertura-montana/"
+    },
+    {
+      "titulo": "Conectividad de emergencia: Starlink, radio, satélite y redundancia",
+      "resumen": "Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.",
+      "fecha": "2026-10-01",
+      "lectura": "18 min",
+      "slug": "conectividad-emergencia-starlink-radios-redundancia",
+      "url": "/blog/conectividad-emergencia-starlink-radios-redundancia/"
+    },
+    {
+      "titulo": "Generador solar para emergencias de 72h: autonomía cuando se va la luz",
+      "resumen": "Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.",
+      "fecha": "2026-10-01",
+      "lectura": "10 min",
+      "slug": "generador-solar-emergencia-72h",
+      "url": "/blog/generador-solar-emergencia-72h/"
+    },
+    {
+      "titulo": "El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan",
+      "resumen": "Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.",
+      "fecha": "2026-10-01",
+      "lectura": "6 min",
+      "slug": "mejor-router-4g-emergencia-sin-internet",
+      "url": "/blog/mejor-router-4g-emergencia-sin-internet/"
+    },
+    {
+      "titulo": "Las mejores SIM de datos de emergencia: cobertura cuando todo falla",
+      "resumen": "Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.",
+      "fecha": "2026-10-01",
+      "lectura": "7 min",
+      "slug": "mejor-sim-datos-emergencia-cobertura",
+      "url": "/blog/mejor-sim-datos-emergencia-cobertura/"
+    },
+    {
+      "titulo": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad",
+      "resumen": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.",
+      "fecha": "2026-10-01",
+      "lectura": "8 min",
+      "slug": "nevera-portatil-emergencia-72h",
+      "url": "/blog/nevera-portatil-emergencia-72h/"
+    },
+    {
+      "titulo": "Panel solar portátil para emergencias: energía cuando no hay red",
+      "resumen": "Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.",
+      "fecha": "2026-10-01",
+      "lectura": "9 min",
+      "slug": "panel-solar-portatil-72h-emergencia",
+      "url": "/blog/panel-solar-portatil-72h-emergencia/"
+    },
+    {
+      "titulo": "Starlink en emergencias de 72h: conectividad cuando todo falla",
+      "resumen": "Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.",
+      "fecha": "2026-10-01",
+      "lectura": "9 min",
+      "slug": "starlink-emergencia-72h-conectividad",
+      "url": "/blog/starlink-emergencia-72h-conectividad/"
+    },
     {
       "slug": "terremoto-espana-que-hacer",
       "titulo": "Terremoto en España: qué hacer antes, durante y después",
@@ -946,6 +1010,36 @@
         "familia",
         "escenarios"
       ]
+    },
+    {
+      "titulo": "Alimentos para emergencias: rotación sin desperdicio",
+      "resumen": "Alimentos para emergencias: rotación sin desperdicio",
+      "slug": "alimentos-emergencia-caducidad-rotacion",
+      "url": "/blog/alimentos-emergencia-caducidad-rotacion/"
+    },
+    {
+      "titulo": "El botiquín de emergencia para todo hogar",
+      "resumen": "El botiquín de emergencia para todo hogar",
+      "slug": "botiquin-emergencia-lista-completa",
+      "url": "/blog/botiquin-emergencia-lista-completa/"
+    },
+    {
+      "titulo": "Las 7 mejores linternas para un kit de emergencia 72h",
+      "resumen": "Las 7 mejores linternas para un kit de emergencia 72h",
+      "slug": "mejor-linterna-emergencia-72h",
+      "url": "/blog/mejor-linterna-emergencia-72h/"
+    },
+    {
+      "titulo": "El powerbank perfecto para tu kit de emergencia",
+      "resumen": "El powerbank perfecto para tu kit de emergencia",
+      "slug": "mejor-powerbank-emergencia-capacidad",
+      "url": "/blog/mejor-powerbank-emergencia-capacidad/"
+    },
+    {
+      "titulo": "La mejor radio de emergencia con manivela y panel solar",
+      "resumen": "La mejor radio de emergencia con manivela y panel solar",
+      "slug": "mejor-radio-emergencia-manivela-solar",
+      "url": "/blog/mejor-radio-emergencia-manivela-solar/"
     }
   ]
 }
