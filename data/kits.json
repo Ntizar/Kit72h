@@ -3279,11 +3279,12 @@
             },
             {
               "producto": "Calzado cerrado y resistente junto a la cama",
-              "afiliado": "https://www.amazon.es/s?k=calzado+cerrado+y+resistente+junto+a+la+cama&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0D9QGJRGC?tag=nti0c8-21",
               "descripcion": "Un par de botas o zapatillas duras atadas bajo la cama. Andar descalzo sobre cristales rotos es la lesión más evitable de un seísmo nocturno.",
               "precio_aprox": "25-60 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Gafas de protección (o las de sol si no hay otras)",
@@ -3423,11 +3424,12 @@
           "items": [
             {
               "producto": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
-              "afiliado": "https://www.amazon.es/s?k=llave+de+corte+para+gas+y+agua&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DJYBFPKV?tag=nti0c8-21",
               "descripcion": "Sin ella no puedes cerrar la acometida de gas. Después de un seísmo, una fuga abierta convierte un susto en una explosión.",
               "precio_aprox": "8-20 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Navaja multiuso",
@@ -3538,11 +3540,12 @@
             },
             {
               "producto": "Gafas de protección ajustadas (o de sol cerradas)",
-              "afiliado": "https://www.amazon.es/s?k=gafas+de+protecci%C3%B3n+ajustadas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B07F82JW46?tag=nti0c8-21",
               "descripcion": "El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando.",
               "precio_aprox": "8-25 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Paños o toallas de algodón (para mojar y tapar boca y nariz)",
@@ -3614,35 +3617,39 @@
           "items": [
             {
               "producto": "Ropa de algodón o lana de manga larga (no sintética)",
-              "afiliado": "https://www.amazon.es/s?k=ropa+de+algod%C3%B3n+o+lana+de+manga+larga&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09LTFV4VR?tag=nti0c8-21",
               "descripcion": "El poliéster y el nylon se derriten y se pegan a la piel. Algodón y lana protegen y se pueden mojar.",
               "precio_aprox": "20-45 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Calzado cerrado y resistente (bota o zapatilla dura)",
-              "afiliado": "https://www.amazon.es/s?k=calzado+cerrado+y+resistente&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B083T9VV8X?tag=nti0c8-21",
               "descripcion": "Nada de sandalias: el suelo quemado y las brasas atraviesan la suela fina. Y no se puede correr con chanclas.",
               "precio_aprox": "30-80 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Guantes de trabajo de cuero o resistentes al calor",
-              "afiliado": "https://www.amazon.es/s?k=guantes+de+trabajo+de+cuero+o+resistentes+al+calor&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GHVYZR58?tag=nti0c8-21",
               "descripcion": "Para abrir una puerta metálica caliente, coger una manguera o mover algo que quema. Sin guantes no puedes tocar nada.",
               "precio_aprox": "10-25 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
-              "afiliado": "https://www.amazon.es/s?k=gorro+o+pa%C3%B1uelo+de+algod%C3%B3n+para+cubrir+cabeza+y+nuca&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09ZVDXWXR?tag=nti0c8-21",
               "descripcion": "El calor radiante y las pavesas caen de arriba. Cubrirse la cabeza evita quemaduras en el pelo y el cuello.",
               "precio_aprox": "5-15 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             }
           ]
         },
@@ -3652,19 +3659,21 @@
           "items": [
             {
               "producto": "Manguera reforzada larga (más un aspersor o pistola)",
-              "afiliado": "https://www.amazon.es/s?k=manguera+reforzada+larga&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0001IWLMG?tag=nti0c8-21",
               "descripcion": "Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente.",
               "precio_aprox": "25-60 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
-              "afiliado": "https://www.amazon.es/s?k=extintor+de+polvo+abc+de+6+kg&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DJPSJTPY?tag=nti0c8-21",
               "descripcion": "Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta.",
               "precio_aprox": "45-90 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-01"
             },
             {
               "producto": "Azada, rastrillo y desbrozadora manual",
