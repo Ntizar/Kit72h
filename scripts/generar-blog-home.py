@@ -221,26 +221,24 @@ def generate_blog_index(new_data, css_version):
     html_parts.append('}')
     html_parts.append('</script>')
     html_parts.append('</head><body>')
-    html_parts.append('  <header><nav>')
-    html_parts.append('    <a href="/">Kit72h</a>')
-    html_parts.append('    <a href="/#plan">El plan</a>')
-    html_parts.append('    <a href="/#kits">Kits</a>')
-    html_parts.append('    <a href="/blog/">Blog</a>')
-    html_parts.append('    <a href="/fuentes/">Fuentes</a>')
-    html_parts.append('    <a href="/zona/">Tu zona</a>')
-    html_parts.append('    <a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit \u2197</a>')
-    html_parts.append('  </nav></header>')
-    html_parts.append('')
+    # Header igual que la home
+    html_parts.append('<div class="ubar"><div class="container"><span><span class="punto">\u25cf</span> PREPARACI\u00d3N CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPA\u00d1A</span></div></div>')
+    html_parts.append('<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit \u2192</a></nav></div></header>')
+    html_parts.append('<main class="container">')
     html_parts.append('  <section class="sec oscura">')
     html_parts.append('    <div class="container">')
-    html_parts.append('      <div class="sec-label">Blog</div>')
-    html_parts.append('      <h2>Todas las gu\\u00edas</h2>')
-    html_parts.append('      <p class="sec-intro">' + desc + '</p>')
-    html_parts.append('      <div class="grid-kits">')
+    html_parts.append('      <div class="watermark" aria-hidden="true">BLOG</div>')
+    html_parts.append('      <div class="sec-inner">')
+    html_parts.append('        <span class="sec-label">Blog</span>')
+    html_parts.append('        <h2>Todas las guías</h2>')
+    html_parts.append('        <p class="sec-intro">' + desc + '</p>')
+    html_parts.append('        <div class="grid-kits">')
     html_parts.append(cards_block)
+    html_parts.append('      </div>')
     html_parts.append('      </div>')
     html_parts.append('    </div>')
     html_parts.append('  </section>')
+    html_parts.append('</main>')
     html_parts.append('</body></html>')
 
     return '\n'.join(html_parts)
@@ -264,7 +262,7 @@ def generate_home_blog_section(new_data, num_shown=9):
     parts.append('          <div class="grid-kits">')
     parts.append(cards_block)
     parts.append('          </div>')
-    parts.append('          <p><a class="btn negro" href="/blog/">Todas las gu\\u00edas (' + str(total) + ' \u2192)</a></p>')
+    parts.append('          <p><a class="btn negro" href="/blog/">Todas las guías (' + str(total) + ' \u2192)</a></p>')
     parts.append('        </div>')
 
     return '\n'.join(parts)
@@ -330,7 +328,7 @@ def main():
         home_html = f.read()
 
     css_match = re.search(r'styles\.css\?v=(\S+)', home_html)
-    css_version = css_match.group(1) if css_match else '20261001a'
+    css_version = css_match.group(1).rstrip("'>\"\'\\") if css_match else '20261001c'
 
     blog_index_html = generate_blog_index(new_data, css_version)
     blog_index_path = os.path.join(blog_path, 'index.html')
@@ -342,20 +340,22 @@ def main():
     print("Actualizando index.html (home)...")
     home_blog_section = generate_home_blog_section(new_data, num_shown=9)
 
-    # Buscar el bloque home-blog en la home
-    idx = home_html.find('class="home-blog"')
+    # Buscar el bloque blog en la home (por id="lecturas" o "Del diario")
+    idx = home_html.find('id="lecturas"')
+    if idx < 0:
+        idx = home_html.find('Del diario')
     if idx >= 0:
         section_start = home_html.rfind('<section', 0, idx)
         section_end = home_html.find('</section>', idx)
         if section_end > 0:
             section_end += 10  # include </section>
-            full_section = '  <section class="sec clara" id="blog">\n' + home_blog_section + '\n  </section>'
+            full_section = '  <section class="sec clara" id="lecturas">\n' + home_blog_section + '\n  </section>'
             home_html = home_html[:section_start] + full_section + home_html[section_end:]
             print("  index.html actualizado")
         else:
-            print("  WARNING: no se encontró </section> para home-blog")
+            print("  WARNING: no se encontró </section> para blog-home")
     else:
-        print("  WARNING: no se encontró class=home-blog en index.html")
+        print("  WARNING: no se encontró id='lecturas' ni 'Del diario' en index.html")
 
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(home_html)
