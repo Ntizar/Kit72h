@@ -354,8 +354,8 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   .cta-kit{margin-top:32px;padding:22px 20px}
   .site-header .container{padding:0 8px;gap:0;flex-wrap:nowrap;min-height:52px}
   .logo{font-size:18px;border-bottom-width:3px}
-  nav{width:auto;flex:1;justify-content:flex-end;flex-wrap:nowrap;border-top:none;padding-top:0}
-  nav a{padding:17px 5px;font-size:9.5px;letter-spacing:.3px}
+  nav{width:auto;flex:1;justify-content:flex-end;flex-wrap:wrap;border-top:none;padding-top:0;gap:2px}
+  nav a{padding:8px 6px;font-size:10.5px;letter-spacing:1px;white-space:nowrap}
   nav .btn{display:none}
   .ubar .container{display:none}
   .btn.full-mov{width:100%}
@@ -367,6 +367,11 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
   .watermark{font-size:180px}
   .barra-progreso{top:0;position:static}
   .barra-progreso .btn-cesta-top{width:100%;margin-left:0}
+  /* Tarjetas: texto más legible */
+  .card-kit{padding:16px}
+  .card-kit h2{font-size:17px}
+  .card-kit p{font-size:13.5px}
+  .card-kit .icono{width:40px;height:40px;font-size:18px}
 }
 
 /* --- Detalles tácticos (hijos de ui.js) --- */
@@ -520,59 +525,6 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
 }
 
 /* Starlink responsive */
-/* --- Card kit profesional: tarjeta premium destacada --- */
-.card-profesional{
-  grid-column: 1 / -1;
-  background:linear-gradient(135deg, #0E0C09 0%, #1a1510 50%, #0f0a08 100%);
-  border:2px solid var(--rojo);
-  padding:24px;
-  position:relative;
-  overflow:hidden;
-}
-.card-profesional::before{
-  content:"🏆 PREPARACIÓN PROFESIONAL";
-  position:absolute;
-  top:8px;right:-35px;
-  background:var(--rojo);
-  color:var(--crema);
-  font-size:10px;
-  font-weight:700;
-  letter-spacing:1.5px;
-  padding:6px 50px;
-  transform:rotate(45deg);
-}
-.card-profesional .icono{
-  background:var(--rojo);
-  border-color:var(--rojo);
-  font-size:24px;
-  width:52px;
-  height:52px;
-}
-.card-profesional .num{
-  color:var(--rojo);
-  font-size:12px;
-}
-.card-profesional h2{
-  color:var(--crema);
-  font-size:24px;
-}
-.card-profesional p{
-  color:#d4cbbd;
-  font-size:13.5px;
-}
-.card-profesional .coste-kit{
-  font-size:15px;
-}
-.card-profesional:hover{
-  border-color:var(--ambar);
-  box-shadow:7px 7px 0 var(--ambar), 0 0 30px rgba(209,75,39,0.4);
-  transform:translate(-3px,-3px);
-}
-@media(max-width:640px){
-  .card-profesional{grid-column:1/-1;padding:18px}
-  .card-profesional h2{font-size:20px}
-}
-
 @media(max-width:640px){
   .starlink-banner-inner{
     padding:20px 18px;
@@ -865,6 +817,7 @@ a.card-kit{color:inherit;text-decoration:none}
   border:3px solid var(--rojo);
   background:linear-gradient(135deg, var(--crema) 0%, #f7f0e0 100%);
   position:relative;
+  overflow:visible;
 }
 .card-profesional::before{
   content:"🏆 TOP";
@@ -872,12 +825,31 @@ a.card-kit{color:inherit;text-decoration:none}
   top:-12px;right:16px;
   background:var(--rojo);
   color:var(--crema);
-  font-size:10px;
+  font-size:11px;
   font-weight:700;
   letter-spacing:2px;
-  padding:4px 10px;
+  padding:4px 12px;
   text-transform:uppercase;
-  z-index:1;
+  z-index:2;
+  animation:badgeShimmer 2s ease-in-out infinite;
+}
+@keyframes badgeShimmer{
+  0%,100%{box-shadow:0 0 4px var(--rojo)}
+  50%{box-shadow:0 0 12px var(--rojo), 0 0 24px rgba(209,75,39,.4)}
+}
+.card-profesional::after{
+  content:"";
+  position:absolute;
+  inset:-2px;
+  background:linear-gradient(90deg,transparent 0%,rgba(255,255,255,.35) 50%,transparent 100%);
+  transform:skewX(-20deg) translateX(-150%);
+  pointer-events:none;
+  animation:glitter 3s ease-in-out infinite;
+}
+@keyframes glitter{
+  0%{transform:skewX(-20deg) translateX(-150%)}
+  20%{transform:skewX(-20deg) translateX(150%)}
+  100%{transform:skewX(-20deg) translateX(150%)}
 }
 .card-profesional:hover{
   box-shadow:4px 4px 0 var(--rojo);
