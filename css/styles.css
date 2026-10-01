@@ -756,6 +756,109 @@ a.card-kit{color:inherit;text-decoration:none}
 .zona-tip::before{border-top-color:var(--negro)!important}
 .zona-mapa .leaflet-control-attribution{background:rgba(241,235,223,.9);font-size:10px}
 
+/* --- Kit profesional: banner --- */
+.kpro-banner-wrap{
+  background:var(--negro);
+  padding:0 0 20px;
+}
+.kpro-banner{
+  display:block;
+  margin:0 auto;
+  max-width:1200px;
+  padding:0 20px;
+  text-decoration:none;
+  transition:transform .1s;
+}
+.kpro-banner:hover{
+  transform:translate(-2px,-2px);
+}
+.kpro-banner-inner{
+  background:linear-gradient(135deg,#0E0C09 0%,#1a1510 60%,#1a1008 100%);
+  border:2px solid var(--ambar);
+  padding:28px 32px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+  flex-wrap:wrap;
+  position:relative;
+  overflow:hidden;
+}
+.kpro-banner-inner::before{
+  content:"";
+  position:absolute;
+  top:0;left:0;right:0;
+  height:3px;
+  background:linear-gradient(90deg,var(--ambar),var(--rojo),var(--ambar));
+}
+.kpro-chip{
+  display:inline-block;
+  font-size:10px;
+  font-weight:700;
+  letter-spacing:2px;
+  color:var(--ambar);
+  border:1.5px solid var(--ambar);
+  padding:4px 10px;
+  margin-bottom:12px;
+  text-transform:uppercase;
+}
+.kpro-left h3{
+  font-family:var(--display);
+  font-size:22px;
+  text-transform:uppercase;
+  color:var(--crema);
+  line-height:1.2;
+  margin-bottom:8px;
+}
+.kpro-left p{
+  font-size:13px;
+  color:#b9b1a3;
+  line-height:1.6;
+  margin-bottom:14px;
+  max-width:50ch;
+}
+.kpro-cta{
+  display:inline-block;
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:2px;
+  color:var(--ambar);
+  border:1.5px solid var(--ambar);
+  padding:8px 18px;
+  text-transform:uppercase;
+  transition:background .15s,color .15s;
+}
+.kpro-banner:hover .kpro-cta{
+  background:var(--ambar);
+  color:var(--negro);
+}
+.kpro-right{
+  text-align:right;
+  flex-shrink:0;
+}
+.kpro-price{
+  display:block;
+  font-family:var(--display);
+  font-size:32px;
+  color:var(--crema);
+  letter-spacing:1px;
+  line-height:1;
+}
+.kpro-sub{
+  display:block;
+  font-size:13px;
+  color:var(--ambar);
+  font-weight:700;
+  letter-spacing:1px;
+  margin-top:4px;
+}
+@media(max-width:700px){
+  .kpro-banner-inner{
+    padding:20px 18px;
+    flex-direction:column;
+    align-items:flex-start;
+  }
+}
 @media(max-width:900px){
   .zona-mapa-wrap{grid-template-columns:1fr}
   .zona-mapa{height:58vh;min-height:320px}
