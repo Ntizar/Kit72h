@@ -870,3 +870,462 @@ a.card-kit{color:inherit;text-decoration:none}
   .zona-busca{max-width:none}
   .zona-112{gap:14px}
 }
+
+/* ═══════════════════════════════════════════════════
+   FICHA PROFESIONAL — Sección destacada premium
+   Diseño plateado brillante inspirado en
+   cartas coleccionables chrome de alta gama
+   ═══════════════════════════════════════════════════ */
+
+/* Sección profesional */
+.professional-section{
+  background:linear-gradient(160deg,#1a1a1e 0%,#252528 40%,#2a2a2e 70%,#1e1e22 100%);
+  padding:64px 0 80px;
+  position:relative;
+  overflow:hidden;
+  border-top:1px solid rgba(255,255,255,.06);
+  border-bottom:1px solid rgba(255,255,255,.06);
+}
+.professional-section::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    radial-gradient(ellipse 800px 400px at 20% 50%, rgba(200,200,210,.04) 0%, transparent 70%),
+    radial-gradient(ellipse 600px 300px at 80% 30%, rgba(180,180,190,.03) 0%, transparent 60%);
+  pointer-events:none;
+}
+
+.professional-header{
+  text-align:center;
+  margin-bottom:48px;
+  position:relative;
+  z-index:1;
+}
+.professional-header .prof-chip{
+  display:inline-block;
+  font-size:11px;
+  font-weight:700;
+  letter-spacing:3px;
+  color:#c0c0c8;
+  border:1.5px solid rgba(255,255,255,.15);
+  background:rgba(255,255,255,.04);
+  padding:6px 16px;
+  margin-bottom:20px;
+  text-transform:uppercase;
+  backdrop-filter:blur(4px);
+}
+.professional-header h2{
+  font-family:var(--display);
+  font-weight:400;
+  text-transform:uppercase;
+  font-size:clamp(28px,5vw,52px);
+  line-height:.95;
+  letter-spacing:1px;
+  background:linear-gradient(135deg,#e8e8ec 0%,#a0a0a8 50%,#d0d0d8 100%);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+  margin-bottom:8px;
+}
+.professional-header h2 .acento{
+  background:linear-gradient(135deg,#d4d4dc 0%,#ffffff 40%,#b0b0b8 60%,#e0e0e8 100%);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.professional-header p{
+  font-size:13px;
+  color:#888890;
+  max-width:50ch;
+  margin:0 auto;
+}
+
+/* Grid profesional: 2 arriba + 1 PRO abajo */
+.professional-grid{
+  display:grid;
+  gap:16px;
+  grid-template-columns:1fr;
+  position:relative;
+  z-index:1;
+  max-width:1200px;
+  margin:0 auto;
+  padding:0 20px;
+}
+@media(min-width:700px){
+  .professional-grid{grid-template-columns:1fr 1fr}
+  .professional-grid .card-plata-pro{grid-column:1/-1}
+}
+@media(min-width:1000px){
+  .professional-grid .card-plata-pro{max-width:70%}
+}
+
+/* ═══════════════════════════════════════════════════
+   Carta plateada brillante — efecto chrome
+   Inspirada en cartas coleccionables de alta gama
+   ═══════════════════════════════════════════════════ */
+
+/* Carta normal (tamaño estándar, para los 2 kits nuevos) */
+.card-plata{
+  position:relative;
+  border:2px solid rgba(255,255,255,.12);
+  background:
+    linear-gradient(135deg,
+      #2a2a2e 0%,
+      #353539 25%,
+      #3a3a3f 50%,
+      #353539 75%,
+      #2a2a2e 100%);
+  padding:20px;
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  transition:transform .1s, border-color .2s;
+}
+/* Capa de brillo plateado (reflejo diagonal) */
+.card-plata::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(
+      105deg,
+      transparent 0%,
+      transparent 35%,
+      rgba(255,255,255,.06) 45%,
+      rgba(255,255,255,.12) 50%,
+      rgba(255,255,255,.06) 55%,
+      transparent 65%,
+      transparent 100%);
+  pointer-events:none;
+  transition:opacity .3s;
+}
+/* Borde brillante sutil */
+.card-plata::after{
+  content:"";
+  position:absolute;
+  inset:-1px;
+  border-radius:0;
+  background:linear-gradient(135deg,rgba(255,255,255,.15) 0%,rgba(255,255,255,.02) 40%,rgba(255,255,255,.08) 60%,rgba(255,255,255,.02) 100%);
+  pointer-events:none;
+  z-index:-1;
+}
+.card-plata:hover{
+  transform:translate(-2px,-2px);
+  border-color:rgba(255,255,255,.25);
+  box-shadow:0 0 30px rgba(200,200,210,.08);
+}
+.card-plata:hover::before{
+  opacity:1.5;
+}
+
+/* Cabecera de la carta plata */
+.card-plata .fila-top{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  position:relative;
+  z-index:1;
+}
+.card-plata .icono{
+  width:46px;
+  height:46px;
+  border:2px solid rgba(255,255,255,.15);
+  background:linear-gradient(135deg,rgba(255,255,255,.08),rgba(255,255,255,.02));
+  display:grid;
+  place-items:center;
+  font-size:22px;
+  flex-shrink:0;
+  position:relative;
+  z-index:1;
+}
+.card-plata .num{
+  font-family:var(--mono);
+  font-size:11px;
+  font-weight:700;
+  color:rgba(255,255,255,.3);
+  letter-spacing:2px;
+  margin-left:auto;
+  position:relative;
+  z-index:1;
+}
+.card-plata h2{
+  font-family:var(--display);
+  font-weight:400;
+  text-transform:uppercase;
+  font-size:21px;
+  line-height:1;
+  letter-spacing:.5px;
+  color:#e0e0e4;
+  position:relative;
+  z-index:1;
+}
+.card-plata p{
+  font-size:13px;
+  color:#98989e;
+  flex:1;
+  line-height:1.5;
+  position:relative;
+  z-index:1;
+}
+.card-plata .pie{
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  align-items:center;
+  border-top:1px solid rgba(255,255,255,.08);
+  padding-top:10px;
+  font-size:12px;
+  flex-wrap:wrap;
+  position:relative;
+  z-index:1;
+}
+.card-plata .coste-kit{
+  color:#c0c0c8;
+  font-weight:700;
+}
+.card-plata .ir{
+  color:rgba(255,255,255,.6);
+  font-weight:700;
+  letter-spacing:1px;
+  text-transform:uppercase;
+}
+
+/* ═══════════════════════════════════════════════════
+   Carta PRO — versión premium grande
+   Ocupa el espacio de ~3 cartas normales
+   ═══════════════════════════════════════════════════ */
+
+.card-plata-pro{
+  position:relative;
+  border:2px solid rgba(255,255,255,.18);
+  background:
+    linear-gradient(160deg,
+      #2a2a2e 0%,
+      #38383d 20%,
+      #3e3e44 40%,
+      #42424a 50%,
+      #3e3e44 60%,
+      #38383d 80%,
+      #2a2a2e 100%);
+  padding:28px 32px;
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+  overflow:hidden;
+  text-decoration:none;
+  color:inherit;
+  transition:transform .1s, border-color .2s, box-shadow .3s;
+  grid-column:1 / -1;
+}
+@media(min-width:700px){
+  .card-plata-pro{
+    grid-column:1 / -1;
+  }
+}
+
+/* Efecto brillo chrome animado (like Charizard card) */
+.card-plata-pro::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:
+    repeating-linear-gradient(
+      100deg,
+      transparent 0%,
+      rgba(255,255,255,.02) 2%,
+      rgba(255,255,255,.06) 4%,
+      rgba(255,255,255,.02) 6%,
+      transparent 8%,
+      transparent 20%
+    );
+  background-size:200% 100%;
+  animation:chromeShimmer 6s linear infinite;
+  pointer-events:none;
+  z-index:0;
+}
+@keyframes chromeShimmer{
+  from{background-position:200% 0}
+  to{background-position:-200% 0}
+}
+
+/* Brillo diagonal animado */
+.card-plata-pro::after{
+  content:"";
+  position:absolute;
+  top:0;
+  left:-100%;
+  width:60%;
+  height:100%;
+  background:linear-gradient(
+    90deg,
+    transparent,
+    rgba(255,255,255,.08),
+    rgba(255,255,255,.15),
+    rgba(255,255,255,.08),
+    transparent
+  );
+  transform:skewX(-20deg);
+  animation:proShine 4s ease-in-out infinite;
+  pointer-events:none;
+  z-index:1;
+}
+@keyframes proShine{
+  0%,100%{left:-100%}
+  50%{left:200%}
+}
+
+.card-plata-pro:hover{
+  transform:translate(-3px,-3px);
+  border-color:rgba(255,255,255,.35);
+  box-shadow:
+    0 0 40px rgba(200,200,210,.1),
+    0 0 80px rgba(200,200,210,.05);
+}
+
+.card-plata-pro .fila-top{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  position:relative;
+  z-index:2;
+  flex-wrap:wrap;
+}
+.card-plata-pro .icono{
+  width:52px;
+  height:52px;
+  border:2px solid rgba(255,255,255,.2);
+  background:linear-gradient(135deg,rgba(255,255,255,.1),rgba(255,255,255,.03));
+  display:grid;
+  place-items:center;
+  font-size:24px;
+  flex-shrink:0;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro .badge{
+  font-family:var(--display);
+  font-size:14px;
+  font-weight:400;
+  letter-spacing:3px;
+  color:#ffffff;
+  background:linear-gradient(135deg,#8a8a90 0%,#c0c0c8 40%,#8a8a90 60%,#a0a0a8 100%);
+  padding:6px 18px;
+  text-transform:uppercase;
+  position:relative;
+  z-index:2;
+  box-shadow:0 0 12px rgba(200,200,210,.2);
+}
+.card-plata-pro .coste-kit{
+  color:rgba(255,255,255,.5);
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:1px;
+  margin-left:auto;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro h2{
+  font-family:var(--display);
+  font-weight:400;
+  text-transform:uppercase;
+  font-size:clamp(26px,4vw,42px);
+  line-height:.95;
+  letter-spacing:1px;
+  color:#f0f0f4;
+  background:linear-gradient(135deg,#e8e8ec 0%,#ffffff 30%,#d0d0d8 60%,#c8c8d0 100%);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro p{
+  font-size:14px;
+  color:#a0a0a6;
+  line-height:1.6;
+  max-width:60ch;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro .pie{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:16px;
+  border-top:1px solid rgba(255,255,255,.1);
+  padding-top:14px;
+  font-size:13px;
+  flex-wrap:wrap;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro .ir{
+  color:rgba(255,255,255,.7);
+  font-weight:700;
+  letter-spacing:1px;
+  text-transform:uppercase;
+  position:relative;
+  z-index:2;
+}
+.card-plata-pro .ir:hover{
+  color:#ffffff;
+}
+
+/* Chip especial para PRO */
+.prof-pro-badge{
+  display:inline-block;
+  font-family:var(--display);
+  font-size:13px;
+  font-weight:400;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  color:#ffffff;
+  background:
+    linear-gradient(135deg,
+      rgba(200,200,208,.15) 0%,
+      rgba(255,255,255,.25) 30%,
+      rgba(255,255,255,.35) 50%,
+      rgba(255,255,255,.25) 70%,
+      rgba(200,200,208,.15) 100%);
+  padding:10px 28px;
+  position:relative;
+  z-index:2;
+  box-shadow:
+    0 0 20px rgba(200,200,210,.15),
+    inset 0 1px 0 rgba(255,255,255,.2);
+  border:1px solid rgba(255,255,255,.1);
+}
+.prof-pro-badge::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(90deg,transparent 0%,rgba(255,255,255,.1) 50%,transparent 100%);
+  animation:badgeGlitter 3s ease-in-out infinite;
+}
+@keyframes badgeGlitter{
+  0%,100%{opacity:0}
+  50%{opacity:1}
+}
+
+/* RESPONSIVO: sección profesional */
+@media(max-width:640px){
+  .professional-section{padding:48px 0 60px}
+  .professional-header h2{font-size:28px}
+  .professional-grid{padding:0 16px}
+  .card-plata{padding:16px}
+  .card-plata h2{font-size:17px}
+  .card-plata .icono{width:40px;height:40px;font-size:18px}
+  .card-plata-pro{padding:20px 24px}
+  .card-plata-pro h2{font-size:22px}
+  .card-plata-pro .badge{font-size:12px;padding:6px 14px}
+  .card-plata-pro .icono{width:44px;height:44px;font-size:20px}
+  .card-plata-pro p{font-size:13px}
+  .card-plata-pro .coste-kit{font-size:11px}
+  .prof-pro-badge{font-size:12px;padding:8px 20px}
+}

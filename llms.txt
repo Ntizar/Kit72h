@@ -28,49 +28,68 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Kit frío, nieve y calefacción caída](https://kit72h.com/kit/kit-frio/): Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.
 - [Kit terremoto](https://kit72h.com/kit/kit-terremoto/): España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.
 - [Kit incendio forestal y humo](https://kit72h.com/kit/kit-incendio/): En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.
+- [Kit profesional de energía y autonomía](https://kit72h.com/kit/kit-kit-profesional/): SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.
 
 ## Blog
-- [Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña](https://kit72h.com/blog/antena-externa-movil-cobertura-montana/)
-- [Conectividad de emergencia: Starlink, radio, satélite y redundancia](https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/)
-- [Generador solar para emergencias de 72h: autonomía cuando se va la luz](https://kit72h.com/blog/generador-solar-emergencia-72h/)
-- [El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan](https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/)
-- [Las mejores SIM de datos de emergencia: cobertura cuando todo falla](https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/)
-- [Nevera portátil para emergencias de 72h: conserva comida sin electricidad](https://kit72h.com/blog/nevera-portatil-emergencia-72h/)
-- [Panel solar portátil para emergencias: energía cuando no hay red](https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/)
-- [Starlink en emergencias de 72h: conectividad cuando todo falla](https://kit72h.com/blog/starlink-emergencia-72h-conectividad/)
-- [Terremoto en España: qué hacer antes, durante y después](https://kit72h.com/blog/terremoto-espana-que-hacer/)
-- [Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio](https://kit72h.com/blog/kit-emergencia-trabajo-oficina/)
-- [Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena](https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/)
-- [Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar](https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/)
-- [Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia](https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/)
-- [Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada](https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/)
-- [Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal](https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/)
-- [Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia](https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/)
-- [Volver a casa después de una inundación: seguridad, lodo, humedad y seguros](https://kit72h.com/blog/volver-a-casa-tras-inundacion/)
-- [Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene](https://kit72h.com/blog/vivir-solo-estar-preparado/)
-- [Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo](https://kit72h.com/blog/plan-familiar-de-emergencia/)
-- [Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia](https://kit72h.com/blog/medicion-cronica-personas-dependientes/)
-- [Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa](https://kit72h.com/blog/kit-emergencia-50-euros/)
-- [Qué comer si se va la luz: menús de tres días sin cocina y sin nevera](https://kit72h.com/blog/comer-sin-luz-menus-3-dias/)
-- [Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12)](https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/)
-- [Frío y calor sin electricidad: cómo mantener la temperatura corporal](https://kit72h.com/blog/temperatura-sin-electricidad/)
-- [Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel)](https://kit72h.com/blog/recursos-oficiales-emergencia/)
-- [Emergencias en montaña: el kit que te puede salvar](https://kit72h.com/blog/montana-kit-salvavidas/)
-- [Mascotas en una emergencia: plan de evacuación con perros y gatos](https://kit72h.com/blog/mascotas-plan-emergencia/)
-- [Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero)](https://kit72h.com/blog/kit-72h-vs-30-dias/)
-- [Semillas, germinados y huerto de emergencia: tu seguridad alimentaria](https://kit72h.com/blog/huerto-emergencia-semillas-germinados/)
-- ["El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero](https://kit72h.com/blog/el-conocimiento-dartnell/)
-- [DANA o apagón: qué hacer en los primeros 30 minutos](https://kit72h.com/blog/dana-apagon-primeros-30-minutos/)
-- [Comunicar sin red: qué funciona cuando se cae el móvil](https://kit72h.com/blog/comunicar-sin-red-movil/)
-- [Cómo montar tu kit de emergencia 72 horas paso a paso](https://kit72h.com/blog/como-montar-tu-kit-72h/)
-- [Coche y emergencias: lo obligatorio en 2026 y lo que conviene](https://kit72h.com/blog/coche-kit-emergencia-2026/)
-- [Documentos y dinero: la carpeta de emergencia que todo hogar debería tener](https://kit72h.com/blog/carpeta-de-emergencia-documentos/)
-- [Botiquín de emergencia: qué llevar de verdad (y qué sobra)](https://kit72h.com/blog/botiquin-emergencia-que-llevar/)
-- [Apagón: lecciones del 28 de abril de 2025 en España](https://kit72h.com/blog/apagon-lecciones-28a/)
-- [Cómo almacenar agua y comida en casa sin que se estropee](https://kit72h.com/blog/almacenar-agua-comida-casa/)
-- [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla](https://kit72h.com/blog/agua-cuanta-y-como/)
-- [Alimentos para emergencias: rotación sin desperdicio](https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/)
-- [El botiquín de emergencia para todo hogar](https://kit72h.com/blog/botiquin-emergencia-lista-completa/)
-- [Las 7 mejores linternas para un kit de emergencia 72h](https://kit72h.com/blog/mejor-linterna-emergencia-72h/)
-- [El powerbank perfecto para tu kit de emergencia](https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/)
-- [La mejor radio de emergencia con manivela y panel solar](https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/)
+
+- [Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña](https://kit72h.com/blog/antena-externa-movil-cobertura-montana/): Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
+- [Conectividad de emergencia: Starlink, radio, satélite y redundancia](https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/): Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.
+- [Generador solar para emergencias de 72h: autonomía cuando se va la luz](https://kit72h.com/blog/generador-solar-emergencia-72h/): Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
+- [El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan](https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/): Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
+- [Las mejores SIM de datos de emergencia: cobertura cuando todo falla](https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/): Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
+- [Nevera portátil para emergencias de 72h: conserva comida sin electricidad](https://kit72h.com/blog/nevera-portatil-emergencia-72h/): Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
+- [Panel solar portátil para emergencias: energía cuando no hay red](https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/): Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
+- [Starlink en emergencias de 72h: conectividad cuando todo falla](https://kit72h.com/blog/starlink-emergencia-72h-conectividad/): Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
+- [Terremoto en España: qué hacer antes, durante y después](https://kit72h.com/blog/terremoto-espana-que-hacer/): Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
+- [Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio](https://kit72h.com/blog/kit-emergencia-trabajo-oficina/): Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y qué hacer si no puedes salir), y las cuatro preguntas sobre el plan de autoprotección que casi nadie hace. Con la ley y las guías del INSST citadas.
+- [Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena](https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/): Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marco de primera ayuda psicológica de la OMS, turnos de noche, higiene del sueño, cómo hablar con niños y mayores, y un kit de descanso de diez objetos.
+- [Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar](https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/): Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos caseros que funcionan (y los que son una trampa).
+- [Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia](https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/): La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido para una crisis y cómo combinarlo con un powerbank para que funcione de verdad.
+- [Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada](https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/): Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un incendio. La guía práctica de qué poner, dónde y cómo mantenerlo, sin alarmismos.
+- [Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal](https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/): No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de cómo usar las tres capas, con qué telas y por qué el algodón se lleva a todos a la cama.
+- [Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia](https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/): Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.
+- [Volver a casa después de una inundación: seguridad, lodo, humedad y seguros](https://kit72h.com/blog/volver-a-casa-tras-inundacion/): La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar para que el seguro responda.
+- [Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene](https://kit72h.com/blog/vivir-solo-estar-preparado/): Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan de uno, pensado para uno.
+- [Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo](https://kit72h.com/blog/plan-familiar-de-emergencia/): Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mochila, fue el plan. Montarlo cuesta una cena de martes.
+- [Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia](https://kit72h.com/blog/medicion-cronica-personas-dependientes/): Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a cero, sin consejos médicos: solo logística.
+- [Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa](https://kit72h.com/blog/kit-emergencia-50-euros/): No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presupuesto mínimo honesto.
+- [Qué comer si se va la luz: menús de tres días sin cocina y sin nevera](https://kit72h.com/blog/comer-sin-luz-menus-3-dias/): Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media compra a la basura.
+- [Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12)](https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/): Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios y con criterio.
+- [Frío y calor sin electricidad: cómo mantener la temperatura corporal](https://kit72h.com/blog/temperatura-sin-electricidad/): La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.
+- [Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel)](https://kit72h.com/blog/recursos-oficiales-emergencia/): En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás falla.
+- [Emergencias en montaña: el kit que te puede salvar](https://kit72h.com/blog/montana-kit-salvavidas/): Cada año los rescates de montaña se repiten por los mismos fallos: salir tarde, ir ligero de mapa y no llevar lo que evita la hipotermia. La lista honesta.
+- [Mascotas en una emergencia: plan de evacuación con perros y gatos](https://kit72h.com/blog/mascotas-plan-emergencia/): No pienses en tu mascota cuando suena la alarma: piénsalo ahora. Sin transportín, chip y plan, un gato en mitad de una evacuación es un problema imposible.
+- [Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero)](https://kit72h.com/blog/kit-72h-vs-30-dias/): Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.
+- [Semillas, germinados y huerto de emergencia: tu seguridad alimentaria](https://kit72h.com/blog/huerto-emergencia-semillas-germinados/): Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.
+- ["El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero](https://kit72h.com/blog/el-conocimiento-dartnell/): ¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu kit 72h.
+- [DANA o apagón: qué hacer en los primeros 30 minutos](https://kit72h.com/blog/dana-apagon-primeros-30-minutos/): Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.
+- [Comunicar sin red: qué funciona cuando se cae el móvil](https://kit72h.com/blog/comunicar-sin-red-movil/): En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de 40 €.
+- [Cómo montar tu kit de emergencia 72 horas paso a paso](https://kit72h.com/blog/como-montar-tu-kit-72h/): La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.
+- [Coche y emergencias: lo obligatorio en 2026 y lo que conviene](https://kit72h.com/blog/coche-kit-emergencia-2026/): La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA o en un atasco de nieve.
+- [Documentos y dinero: la carpeta de emergencia que todo hogar debería tener](https://kit72h.com/blog/carpeta-de-emergencia-documentos/): Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses menos de papeleo después.
+- [Botiquín de emergencia: qué llevar de verdad (y qué sobra)](https://kit72h.com/blog/botiquin-emergencia-que-llevar/): Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
+- [Apagón: lecciones del 28 de abril de 2025 en España](https://kit72h.com/blog/apagon-lecciones-28a/): El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
+- [Cómo almacenar agua y comida en casa sin que se estropee](https://kit72h.com/blog/almacenar-agua-comida-casa/): Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.
+- [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla](https://kit72h.com/blog/agua-cuanta-y-como/): 3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
+- [Alimentos para emergencias: rotación sin desperdicio](https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/): Alimentos para emergencias: rotación sin desperdicio
+- [El botiquín de emergencia para todo hogar](https://kit72h.com/blog/botiquin-emergencia-lista-completa/): El botiquín de emergencia para todo hogar
+- [Las 7 mejores linternas para un kit de emergencia 72h](https://kit72h.com/blog/mejor-linterna-emergencia-72h/): Las 7 mejores linternas para un kit de emergencia 72h
+- [El powerbank perfecto para tu kit de emergencia](https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/): El powerbank perfecto para tu kit de emergencia
+- [La mejor radio de emergencia con manivela y panel solar](https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/): La mejor radio de emergencia con manivela y panel solar
+
+## Fuentes oficiales
+
+- Estrategia de Preparación de la UE: https://ec.europa.eu/commission/presscorner/detail/es/ip_25_698
+- Recomendaciones Protección Civil: https://www.proteccioncivil.es/gestion-riesgos/recomendaciones
+- Todas las fuentes: https://kit72h.com/fuentes/
+
+## Tu zona
+
+- [Mapa de tu entorno](https://kit72h.com/zona/): hospitales, centros de salud, farmacias, comisarías, bomberos, refugios y puntos de encuentro en España, por ubicación y radio. Datos en directo de OpenStreetMap (ODbL) y mapa base del IGN (CC BY 4.0). La lista y el aviso de emergencia están en HTML; solo el mapa necesita JavaScript.
+
+## Notas para asistentes IA
+
+- Los precios son orientativos en euros y pueden variar; ver en el sitio.
+- Enlaces de producto `es_busqueda: true` apuntan a resultados de búsqueda, no a ficha concreta.
+- Ningún contenido sustituye las indicaciones de Protección Civil o del médico.
+- Cada página kit/blog es HTML estático completo: se puede leer sin JavaScript.

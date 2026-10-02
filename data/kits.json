@@ -3740,6 +3740,224 @@
       "premium": true,
       "coste_total": "2000–5000 €",
       "resumen": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total."
+    },
+    {
+      "id": "generador-solar",
+      "titulo": "Generador solar portátil para emergencias",
+      "slug": "generador-solar",
+      "icono": "☀️",
+      "resumen": "Energía independiente del sol para alimentar móviles, linternas, radios y pequeños electrodomésticos sin necesidad de la red eléctrica. El generador solar portátil es la pieza clave que transforma un kit básico en un sistema autosuficiente.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones de energía para emergencias",
+        "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/lluvias-intensas",
+        "fecha": "2026-09-28"
+      },
+      "guia": {
+        "antes": [
+          "Elige un generador con salida USB directa para móviles y una toma AC para pequeños electrodomésticos",
+          "Verifica los watts-hora (Wh): para cargar 3 móviles y una linterna al día, 200-500 Wh es suficiente; para un hornillo eléctrico, busca 500+ Wh",
+          "Guarda el generador en un sitio seco y fresco, con al menos un 40% de carga",
+          "Acostúmbrate a usarlo con el sol una vez al mes para que todos sepan cómo funciona",
+          "Complementa con al menos un panel solar plegable de 20-40 W: el generador guarda la energía, el panel la genera"
+        ],
+        "durante": [
+          "Coloca el panel solar orientado a sur (en el hemisferio norte) y limpio de polvo o lodo",
+          "Prioriza cargar lo esencial: móvil > linterna > radio",
+          "Apaga el generador cuando no lo uses para conservar energía",
+          "Nunca lo cubras ni lo uses dentro de casa: se sobrecalienta y las baterías de litio pueden incendiarse",
+          "Registra en un papel cuántos días de autonomía tienes según el consumo diario"
+        ],
+        "despues": [
+          "Recarga el generador al máximo y repón cualquier panel dañado",
+          "Revisa el estado de la batería: si no carga ya, cámbiala",
+          "Aprende de la experiencia y ajusta la capacidad para el siguiente"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Generador solar portátil (batería de litio con panel)",
+          "items": [
+            {
+              "producto": "Generador solar portátil 300W (500Wh)",
+              "afiliado": "https://www.amazon.es/s?k=generador+solar+portatil+300w+500wh&tag=nti0c8-21",
+              "descripcion": "Batería de litio de 500Wh con panel integrado o complementario. Carga móviles, laptops, linternas y pequeños electrodomésticos. Toma AC, USB-A, USB-C.",
+              "precio_aprox": "150-300 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Panel solar plegable 20-40 W",
+              "afiliado": "https://www.amazon.es/dp/B0D9JMS8H2?tag=nti0c8-21",
+              "descripcion": "Panel solar flexible y plegable. Se coloca en ventana, terraza o balcón. Recarga el generador incluso con nubosidad parcial.",
+              "precio_aprox": "40-80 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cable de extensión resistente a la intemperie",
+              "afiliado": "https://www.amazon.es/dp/B07JCHX5Q6?tag=nti0c8-21",
+              "descripcion": "Extiende el alcance del panel solar si la posición óptima está lejos del generador.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "El generador solar es la pieza que te da independencia de la red. Un panel genera la energía; el generador la almacena. Juntos, te dan autonomía real."
+        },
+        {
+          "titulo": "Accesorios y uso práctico",
+          "items": [
+            {
+              "producto": "Cables USB-C de carga rápida (2m)",
+              "afiliado": "https://www.amazon.es/dp/B0C9CJKCH3?tag=nti0c8-21",
+              "descripcion": "Cables cortos pero largos, con conector resistente. Uno para el móvil, otro para la linterna.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Bolsa estanca para el generador",
+              "afiliado": "https://www.amazon.es/dp/B096V89H69?tag=nti0c8-21",
+              "descripcion": "Protege el generador de la lluvia y el polvo. Una bolsa de grado militar vale más que mil carcasas.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Cargador de coche USB (doble puerto)",
+              "afiliado": "https://www.amazon.es/dp/B0H4KNVJ99?tag=nti0c8-21",
+              "descripcion": "Complemento: puedes cargar el generador desde el cigarrillo del coche si la red cae durante un trayecto.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "extra"
+            }
+          ],
+          "intro": "Pequeños accesorios que hacen que el sistema sea realmente usable en una emergencia, no solo un aparato bonito en el armario."
+        }
+      ],
+      "paraQuien": "Para quien quiere energía limpia y silenciosa sin depender de la red. Un generador solar portátil es la pieza que conecta el kit básico con el nivel KPRO: alimenta lo que necesitas sin ruido, sin humo y sin combustible.",
+      "paraQuien_no": "No sustituye a un generador de combustión para cargar una nevera o una caldera. Para eso hace falta capacidad de 1000+ Wh y paneles fijos en la terraza. Y no es un generador de camping: si el objetivo es solo cargar móviles, un powerbank grande es suficiente.",
+      "coste_total": "200-400 € (generador 300W + panel 40W + accesorios)",
+      "errores": [
+        "Comprar un generador sin panel: se queda sin carga a los 2 días si no hay red. El generador guarda energía, el panel la produce.",
+        "Poner el panel bajo un árbol o en una ventana con persiana: necesita luz directa. En interior, la generación se reduce un 90%.",
+        "Dejarlo en el maletero en verano: los generadores de litio se degradan rápido si se exponen a más de 40 °C. Guárdalo dentro de casa.",
+        "No probarlo antes: el día que lo necesitas no es momento de descubrir que no enciende o que no sabes conectar el panel.",
+        "Olvidar que el generador tiene una vida útil de 3-5 años: la batería de litio se degrada y un día deja de cargar."
+      ]
+    },
+    {
+      "id": "filtracion-agua",
+      "titulo": "Filtración y purificación de agua",
+      "slug": "filtracion-agua",
+      "icono": "💧",
+      "resumen": "Sistemas de filtrado y purificación de agua potable de cualquier origen: grifo, río, lago, lluvia o inundación. Cuando se corta el suministro o el agua está contaminada, esta es la diferencia entre beber sin riesgo y enfermar.",
+      "fuente": {
+        "nombre": "OMS — Directrices para la calidad del agua potable",
+        "url": "https://www.who.eu/publications-detail/dir-guidelines-water-quality",
+        "fecha": "2026-09-28"
+      },
+      "guia": {
+        "antes": [
+          "Ten al menos un sistema de purificación (pastillas o filtro portátil) y un sistema de almacenamiento (garrafas)",
+          "Prueba el filtro con agua del grifo antes de necesitarlo: verifica que fluye bien y sabe a agua limpia",
+          "Cambia las pastillas potabilizadoras según la fecha de caducidad y guárdalas en un lugar seco",
+          "Aprende a hervir agua: es el método más simple y eficaz, solo necesitas hervir 1 minuto (3 a más de 2.000 m)",
+          "Prepara un sistema de captura de agua de lluvia: un barril limpio bajo el alero de la casa puede darte 500+ litros por tormenta"
+        ],
+        "durante": [
+          "No bebas agua del grifo si hay un aviso de no potabilidad: hierve 1 minuto o usa pastillas",
+          "Si usas filtro portátil, limpia la membrana según las instrucciones después de cada uso",
+          "Captura agua de lluvia con recipientes limpios antes de que empiece a llover",
+          "No mezcles agua filtrada con agua contaminada: si la jarra o garrafa se toca con agua sucia, deséchala y empieza de cero",
+          "Prioriza la purificación para beber y cocinar; para lavarse, agua limpia con jabón basta"
+        ],
+        "despues": [
+          "Cambia los filtros según las indicaciones del fabricante, no cuando te des cuenta de que ya no funcionan",
+          "Desinfecta todos los recipientes de almacenamiento con lejía alimentaria diluida",
+          "Verifica con tu ayuntamiento cuándo se levanta el aviso de no potabilidad: no lo hagas a ciegas"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Purificación: eliminar lo invisible",
+          "items": [
+            {
+              "producto": "Filtro de agua portátil (Lifestraw o similar)",
+              "afiliado": "https://www.amazon.es/dp/B0145FRWPK?tag=nti0c8-21",
+              "descripcion": "Filtro de paja que elimina el 99,99% de bacterias y protozoos. Bebe directamente del río o el grifo. 0.01 micras de filtrado.",
+              "precio_aprox": "15-25 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Pastillas potabilizadoras (clorodioxina o dióxido de cloro)",
+              "afiliado": "https://www.amazon.es/Pastillas-Potabilizadoras-Tratamiento-Dep%C3%B3sitos-Emergencias/dp/B0GMXX2G9S?tag=nti0c8-21",
+              "descripcion": "30 tabletas para potabilizar 30 litros de agua dudosa. 30 minutos de espera y el agua está limpia. Esenciales como plan B.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Filtro de grifo con cartucho repuesto",
+              "afiliado": "https://www.amazon.es/s?k=filtro+grifo+purificacion+agua+cartucho&tag=nti0c8-21",
+              "descripcion": "Se monta en el grifo y filtra cloro, sedimentos y metales pesados. Ideal como filtro principal cuando el grifo funciona.",
+              "precio_aprox": "20-40 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "Eliminar bacterias, virus y protozoos: la purificación es lo que hace potable el agua que no es potable."
+        },
+        {
+          "titulo": "Filtrado físico: eliminar lo visible",
+          "items": [
+            {
+              "producto": "Cubeta filtrante de emergencia (2 capas)",
+              "afiliado": "https://www.amazon.es/s?k=cubeta+filtrante+emergencia+agua+2+capas&tag=nti0c8-21",
+              "descripcion": "Cubeta con filtros de arena y carbón que filtra agua turbia de lluvia o río. Resultado: agua clara que luego puedes potabilizar.",
+              "precio_aprox": "25-45 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Carbón activado granular (bolsa 500 g)",
+              "afiliado": "https://www.amazon.es/dp/B07K7LJ4ZS?tag=nti0c8-21",
+              "descripcion": "El carbón activado elimina sabores, olores y algunos químicos. Perfecto como segunda etapa de filtrado post-sedimentos.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "extra"
+            },
+            {
+              "producto": "Panos de algodón para filtrado manual",
+              "afiliado": "https://www.amazon.es/dp/B0CJDWWGNG?tag=nti0c8-21",
+              "descripcion": "Pano de algodón fino para filtrar sedimentos gruesos del agua de lluvia o río antes de potabilizar. Reutilizable.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "extra"
+            }
+          ],
+          "intro": "Quitar lo que se ve: arena, lodo y partículas. El filtrado físico no elimina lo invisible, pero hace que la purificación posterior funcione mejor."
+        },
+        {
+          "titulo": "Almacenamiento de agua limpia",
+          "items": [
+            {
+              "producto": "Garrafas de agua 8-10 L (pack de 2)",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=nti0c8-21",
+              "descripcion": "Bidones alimentarios para almacenar agua purificada. Reutilizables, apilables y con grifo integrado.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Bolsas de agua de emergencia (pack 20)",
+              "afiliado": "https://www.amazon.es/dp/B0H8X7LJTM?tag=nti0c8-21",
+              "descripcion": "Bolsas de agua selladas de 0.5 L. Ideales para evacuar o para dar agua individual sin contaminar lo demás.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "El agua filtrada y purificada se guarda limpia: garrafas limpias y tapadas, o bolsas selladas para evacuar."
+        }
+      ],
+      "paraQuien": "Para cualquier hogar donde la red de agua pueda fallar (cortes, contaminación, DANA que contamina los acuíferos). Y especialmente para quien viaja, hace senderismo o tiene movilidad reducida y no puede ir a buscar agua.",
+      "paraQuien_no": "No es un sistema de ósmosis inversa de cocina (es para cuando NO hay red). Y no sustituye al tratamiento municipal del agua: si el grifo funciona y la autoridad lo certifica, no necesitas filtros ni pastillas.",
+      "coste_total": "50-100 € (filtro portátil + pastillas + garrafas)",
+      "errores": [
+        "Comprar un filtro caro y no cambiarlo: los filtros se saturan y dejan de filtrar. Si no los cambias, es peor que no tener nada: el agua sale pero con bacterias concentradas.",
+        "No hervir el agua en caso de duda: hervir 1 minuto mata el 99,9% de patógenos. Es gratis, infalible y no necesita equipo.",
+        "Mezclar agua filtrada con agua del grifo directamente: si el grifo no es potable, contaminas todo el bidón. Primero filtra, luego potabiliza, después almacena.",
+        "Olvidar que las pastillas caducan: una pastilla de cloro de hace 3 años puede no tener efecto. Revisa la fecha cada año.",
+        "No tener un método de emergencia: si se te acaban las pastillas y el filtro se atasca, ¿cómo purificas? El método de emergencia es siempre hervir el agua."
+      ]
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea."

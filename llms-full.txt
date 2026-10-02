@@ -429,7 +429,42 @@ En un incendio forestal la orden de evacuación llega con prisa y el humo mata m
 - Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
 - Bastón, andador o silla plegable de repuesto: Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque. (~15-35 €)
 
+### Kit profesional de energía y autonomía — https://kit72h.com/kit/kit-kit-profesional/
+SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.
+
 ## Blog
+### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
+Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
+
+
+### Conectividad de emergencia: Starlink, radio, satélite y redundancia — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
+Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.
+
+
+### Generador solar para emergencias de 72h: autonomía cuando se va la luz — https://kit72h.com/blog/generador-solar-emergencia-72h/
+Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
+
+
+### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
+Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
+
+
+### Las mejores SIM de datos de emergencia: cobertura cuando todo falla — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
+Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
+
+
+### Nevera portátil para emergencias de 72h: conserva comida sin electricidad — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
+Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
+
+
+### Panel solar portátil para emergencias: energía cuando no hay red — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
+Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
+
+
+### Starlink en emergencias de 72h: conectividad cuando todo falla — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
+Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
+
+
 ### Terremoto en España: qué hacer antes, durante y después — https://kit72h.com/blog/terremoto-espana-que-hacer/
 Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
 El martes 18 de agosto de 2026, a las 10:37 , un terremoto de magnitud 4,8 y 5 kilómetros de profundidad sacudió la provincia de Granada, con el epicentro al noroeste de Gójar. Ese mismo día hubo cuatro seísmos de magnitud 4 o superior, con réplicas de 4,3 y 4,2 en Alhendín, y la Junta de Andalucía ordenó el desalojo preventivo de seis bloques de Las Gabias: 371 viviendas y unas 600 personas fuera de casa mientras los técnicos revisaban pilares y fisuras. Tres personas resultaron heridas de carácter leve.
@@ -1848,3 +1883,23 @@ El agua es la prioridad número uno de cualquier kit de emergencia. Un ser human
  Errores típicos
 
  Guardar el agua en envases que no eran alimentarios (botellas de refresco recicladas durante años), dejar las garrafas al sol, y confiar en "ya me las apañaré". En el 90% de las emergencias reales en España (DANA, apagón, corte de suministro) el problema no es que no haya agua: es que no hay agua potable en tu casa el primer día .
+
+### Alimentos para emergencias: rotación sin desperdicio — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
+Alimentos para emergencias: rotación sin desperdicio
+
+
+### El botiquín de emergencia para todo hogar — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
+El botiquín de emergencia para todo hogar
+
+
+### Las 7 mejores linternas para un kit de emergencia 72h — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
+Las 7 mejores linternas para un kit de emergencia 72h
+
+
+### El powerbank perfecto para tu kit de emergencia — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
+El powerbank perfecto para tu kit de emergencia
+
+
+### La mejor radio de emergencia con manivela y panel solar — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
+La mejor radio de emergencia con manivela y panel solar
+
