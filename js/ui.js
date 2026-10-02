@@ -92,16 +92,48 @@ const ui = {
         </div>
       </article>`).join('');
 
-    const tarjetas = state.data.kits.map((k, i) => `
-      <a class="card-kit${k.premium ? ' card-profesional' : ''}" href="/kit/${k.slug}/">
+    /* Tarjetas de kit: los normales en rejilla; Starlink como tarjeta
+       destacada; y el PRO al final, ocupando las 3 columnas con holo. */
+    const tarjetaKit = (k, i) => `
+      <a class="card-kit" href="/kit/${k.slug}/">
         <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
         <div class="pie">
-          <span class="coste-kit"${k.premium ? ' style="color:var(--rojo);font-size:14px"' : ''}>${k.coste_total || 'Lista gratuita'}</span>
-          <span class="ir"${k.premium ? ' style="color:var(--rojo)"' : ''}>${k.premium ? 'Ver kit completo →' : 'Abrir →'}</span>
+          <span class="coste-kit">${k.coste_total || 'Lista gratuita'}</span>
+          <span class="ir">Abrir →</span>
         </div>
-      </a>`).join('');
+      </a>`;
+
+    const tarjetaStarlink = `
+      <a class="card-kit card-starlink" href="https://www.amazon.es/s?k=starlink+terminal+portatil&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">
+        <div class="fila-top"><span class="icono">📡</span><span class="num">⭐</span></div>
+        <h2>Conectividad Starlink</h2>
+        <p>Internet satelital cuando se cae todo: móviles, fibra, LTE. Terminal + suscripción. La mejor solución de comunicación cuando la red se va.</p>
+        <div class="pie">
+          <span class="coste-kit" style="color:var(--rojo)">400–600 € terminal · 50–60 €/mes suscripción</span>
+          <span class="ir" style="color:var(--rojo)">Comprar en Amazon ↗</span>
+        </div>
+      </a>`;
+
+    const tarjetaPro = (k) => `
+      <a class="card-kit card-pro-pokemon" href="/kit/${k.slug}/">
+        <div class="holo-glare"></div>
+        <div class="holo-shine"></div>
+        <div class="pro-left">
+          <div class="pro-badge-wrap"><span class="pro-badge">PRO</span></div>
+          <h2>${k.titulo}</h2>
+          <p>${k.resumen}</p>
+          <span class="pro-coste">${k.coste_total || ''}</span>
+        </div>
+        <div class="pro-right"><span class="pro-cta">Ver kit completo →</span></div>
+      </a>`;
+
+    const normales = state.data.kits.filter(k => !k.premium);
+    const premium  = state.data.kits.filter(k => k.premium);
+    const tarjetas = normales.map(tarjetaKit).join('')
+      + tarjetaStarlink
+      + premium.map(tarjetaPro).join('');
 
     const blogFeatured = blog.entradas.slice(0, 3).map((e, i) => `
       <a class="card-kit card-blog" href="/blog/${e.slug}/">
