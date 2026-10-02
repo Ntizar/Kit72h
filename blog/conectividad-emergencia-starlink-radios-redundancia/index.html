@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20261001c">
+<link rel="stylesheet" href="/css/styles.css?v=20261002d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -218,8 +218,268 @@
       <section class="ficha entrada-blog">
         <a class="volver" href="/blog/">← Blog</a>
         <h1>Conectividad de emergencia: Starlink, radio, satélite y redundancia</h1>
-        <p class="meta-blog">📅 2026-10-01 · ⏱ 1 min de lectura</p>
-        <div class="cuerpo-blog">undefined</div>
+        <p class="meta-blog">📅 2026-10-01 · ⏱ 7 min de lectura</p>
+        <div class="cuerpo-blog">
+
+<p>Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, la cobertura móvil. En una DANA, un apagón prolongado o un terremoto, los tres sistemas más usados —WiFi, móvil y fibra— pueden morir simultáneamente. Y sin comunicación, no hay coordinación, no hay información, no hay ayuda.</p>
+
+<p>Aquí es donde la preparación seria se separa de la improvisación. No se trata de comprar lo más caro: se trata de tener <strong>tres sistemas independientes</strong> que funcionen de forma autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.</p>
+
+<p>Esta guía cubre las tres capas de conectividad de emergencia, desde la más fácil (Starlink) hasta la más robusta (radio HF), con productos, costes y cuándo usar cada cosa.</p>
+
+<hr>
+
+<h2>Capa 1: Internet satelital — Starlink</h2>
+
+<p>Starlink es la solución de internet más cercana a la banda ancha terrestre que existe. Funciona desde cualquier punto del planeta con visibilidad del cielo, sin infraestructura de fibra ni torres celulares.</p>
+
+<h3>¿Cómo funciona?</h3>
+
+<p>Una terminal plana (el «Dishy») se coloca en tejado, balcón o jardín y apunta a la constelación de satélites de SpaceX que orbitan a 550 km de altitud. La terminal consume entre 50 y 100W en funcionamiento normal (5-10W en standby), así que una batería de litio o un panel solar de 200W la mantienen encendida indefinidamente.</p>
+
+<h3>Especificaciones para emergencias</h3>
+
+<ul>
+<li><strong>Velocidad:</strong> 50-200 Mbps de descarga, 10-20 Mbps de subida (Gen 3)</li>
+<li><strong>Latencia:</strong> 30-80 ms (idéntica a la fibra en uso práctico)</li>
+<li><strong>Cobertura:</strong> Global en zonas con visibilidad del cielo — España está cubierta en la mayor parte del territorio</li>
+<li><strong>Instalación:</strong> 5 minutos, sin herramientas</li>
+<li><strong>Consumo:</strong> 50-100W (funcionando) · 5-10W (standby)</li>
+<li><strong>Resistencia:</strong> Resistente a viento de hasta 120 km/h, lluvia, nieve y granizo</li>
+</ul>
+
+<h3>Costes</h3>
+
+<div class="tabla-scroll"><table style="width:100%;border-collapse:collapse;margin:16px 0;font-family:var(--mono);font-size:13px">
+  <tr style="border-bottom:var(--b);text-align:left">
+    <th style="padding:8px 12px">Plan</th>
+    <th style="padding:8px 12px">Precio terminal</th>
+    <th style="padding:8px 12px">Precio mensual</th>
+    <th style="padding:8px 12px">Uso</th>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px">Residencial</td>
+    <td style="padding:8px 12px">~500-600 EUR</td>
+    <td style="padding:8px 12px">~50 EUR/mes</td>
+    <td style="padding:8px 12px">Fijo, misma ubicación</td>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px">Móvil en tránsito</td>
+    <td style="padding:8px 12px">~1200 EUR</td>
+    <td style="padding:8px 12px">~45 EUR/mes</td>
+    <td style="padding:8px 12px">Móvil (coche, barco, camping)</td>
+  </tr>
+  <tr>
+    <td style="padding:8px 12px">Temporal</td>
+    <td style="padding:8px 12px">~500-600 EUR</td>
+    <td style="padding:8px 12px">~100 EUR/mes</td>
+    <td style="padding:8px 12px">Emergencia puntual, cancelable</td>
+  </tr>
+</table></div>
+
+<h3>¿Cuándo usar Starlink en una emergencia?</h3>
+
+<p>Starlink es ideal cuando necesitas <strong>internet de verdad</strong> — videollamadas, descarga de documentos, acceso a sistemas de emergencia — y no hay infraestructura terrestre disponible. Es especialmente útil para:</p>
+
+<ul>
+<li>Albergues de emergencia o puntos de coordinación con necesidad de conectividad</li>
+<li>Centros de mando donde se necesita transmitir información</li>
+<li>Hogares en zona rural sin fibra ni cobertura 4G</li>
+<li>Evacuación a zona donde la red se ha ido</li>
+</ul>
+
+<p><strong>Limitación:</strong> La terminal es grande (57 x 57 x 3 cm, 4.5 kg). No es transportable en una mochila de emergencia. Se requiere una ubicación fija con visibilidad del cielo.</p>
+
+<p><a class="btn-amazon" href="https://www.amazon.es/s?k=starlink+terminal+portatil&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Ver Starlink en Amazon ↗</a></p>
+
+<hr>
+
+<h2>Capa 2: Conectividad celular — redundancia</h2>
+
+<p>El móvil es el sistema de comunicación más usado. Y por eso es también el más vulnerable: una sola operadora caída deja a todo el mundo desconectado. La clave es tener <strong>dos operadoras diferentes</strong> y un router que las gestione.</p>
+
+<h3>Router 4G/5G industrial con dual SIM</h3>
+
+<p>Un router industrial como el <strong>Peplink MAX BR</strong>, <strong>Gargoyle</strong> o similares acepta dos SIMs de operadoras distintas (ej: Movistar + Orange). Si una torre se cae, el router cambia a la otra automáticamente. Además, ofrecen:</p>
+
+<ul>
+<li>WAN/LAN: puertos ethernet para conectar routers WiFi o Switch</li>
+<li>VPN: puedes conectar tu router doméstico a un punto remoto</li>
+<li>PoE: se alimenta por cable de red, ideal para instalación en tejado</li>
+<li>Antenas externas: conectores SMA para antenas de alta ganancia</li>
+<li>Monitorización web: dashboard para ver estado de red, batería y señal</li>
+</ul>
+
+<h3>Antena panel de alta ganancia</h3>
+
+<p>En zonas rurales, la señal 4G puede ser débil pero usable si se orienta la antena correctamente hacia la torre más cercana. Una antena panel de 18-23 dBi mejora la señal entre 10 y 20 dB.</p>
+
+<p><strong>Procedimiento:</strong></p>
+<ol>
+<li>Instalar la antena en un mástil de 3-5 metros en tejado o fachada</li>
+<li>Orientarla hacia la torre más cercana (hay apps como <em>CellMapper</em> que muestran las torres en mapa)</li>
+<li>Conectar el cable coaxial (LMR-400, baja pérdida) al router 4G/5G</li>
+<li>Configurar el router con las dos SIMs</li>
+</ol>
+
+<p><a class="btn-amazon" href="https://www.amazon.es/s?k=antena+4g+5g+panel+exterior+ganancia&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar antenas panel 4G/5G ↗</a> · <a class="btn-amazon" href="https://www.amazon.es/s?k=router+5g+industrial+dual+sim+4g&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar routers industriales ↗</a></p>
+
+<hr>
+
+<h2>Capa 3: Mensajería satelital — el último recurso</h2>
+
+<p>Cuando cae todo — Starlink apagado por falta de energía, router sin señal, y radio inexistente — el messenger satelital es el último sistema que funciona. No requiere infraestructura terrestre ni visibilidad del cielo para enviar mensajes de texto.</p>
+
+<h3>Garmin inReach Mini 2</h3>
+
+<p>El dispositivo de comunicación satelital más conocido para emergencias. Funciona con la red Iridium (cobertura global, incluyendo polos). Ofrece:</p>
+
+<ul>
+<li>Mensajes bidireccionales por SMS o a contactos predefinidos</li>
+<li>SOS global (conecta con centros de coordinación de rescate)</li>
+<li>GPS integrado con ubicación en tiempo real</li>
+<li>Batería de 2-3 días en modo normal (semanas en modo ahorro)</li>
+<li>Resistente al agua (IPX7), resistente a caídas</li>
+<li>App para smartphone: enviar mensajes desde el móvil sin el dispositivo</li>
+</ul>
+
+<p><strong>Coste:</strong> ~350-450 EUR dispositivo + 30-50 EUR/mes plan de datos</p>
+
+<h3>Zoleo</h3>
+
+<p>Alternativa con dashboard web: puedes ver la ubicación de tu familia en tiempo real desde cualquier navegador. Funciona con redes Iridium y Globalstar (doble red para mayor probabilidad de conexión).</p>
+
+<p><strong>Coste:</strong> ~300-400 EUR dispositivo + 30-50 EUR/mes plan</p>
+
+<h3>¿Cuándo usar el messenger satelital?</h3>
+
+<p>Es el dispositivo que <strong>nunca debería ser el único</strong>, pero sí debería estar siempre en la mochila de evacuación. Se usa para:</p>
+
+<ul>
+<li>Enviar una señal de SOS cuando no hay ningún otro medio</li>
+<li>Comunicar ubicación a familiares cuando se está perdido</li>
+<li>Confirmar que se está bien a la familia cuando se recupera la conectividad</li>
+<li>Recibir alertas de emergencia (en algunos modelos)</li>
+</ul>
+
+<p><a class="btn-amazon" href="https://www.amazon.es/s?k=garmin+inreach+mini+2&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Ver Garmin inReach Mini 2 ↗</a></p>
+
+<hr>
+
+<h2>Capa 4: Radio — el sistema que no falla</h2>
+
+<p>La radio es el sistema de comunicación más antiguo, más barato y más fiable. No depende de satélites, no necesita infraestructura, no se satura con volumen. Cuando todo lo demás falla, la radio sigue funcionando.</p>
+
+<h3>Walkie-talkies profesionales PMR446</h3>
+
+<p>Los walkies PMR446 son el sistema de comunicación más básico y accesible. No requieren licencia, funcionan en 16 canales predefinidos y tienen alcance de 2 a 5 km en terreno abierto (menos en ciudad).</p>
+
+<p>Un set de 4 walkies profesionales (Motorola Talkabout o similar) cuesta ~100-200 EUR y se reparte entre los miembros de la familia. Son útiles para:</p>
+
+<ul>
+<li>Coordinar la evacuación intra-familiar (quién va dónde, cuándo)</li>
+<li>Comunicación en el hogar durante una emergencia (entre plantas)</li>
+<li>Coordinación con vecinos o equipos de rescate cercanos</li>
+<li>Comunicación en zonas donde el móvil no llega (aunque sea 2 km)</li>
+</ul>
+
+<p><strong>Especificaciones:</strong> 16 canales, 0,5-2W de potencia, IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.</p>
+
+<p><a class="btn-amazon" href="https://www.amazon.es/s?k=walkie+talkie+profesional+pmr446+pack+4&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar walkies PMR446 ↗</a></p>
+
+<h3>Radio amateur HF (licencia CETIC)</h3>
+
+<p>La radio amateur es la capa más profunda de conectividad de emergencia. Con una antena de onda corta y una radio HF, puedes comunicarte con cualquier punto del planeta mediante propagación ionosférica. No necesita infraestructura alguna.</p>
+
+<p><strong>Para empezar:</strong></p>
+<ul>
+<li><strong>Licencia:</strong> examen gratuito en el CETIC (Centro de Ensayos de la Industria de las Telecomunicaciones). Se puede preparar con material online gratuito.</li>
+<li><strong>Radio:</strong> Icom IC-7100 o Yaesu FT-710 como punto de partida (~600-1200 EUR)</li>
+<li><strong>Antena:</strong> antena de onda corta o dipolo (100-300 EUR)</li>
+<li><strong>Alcance:</strong> local (VHF) → regional (HF día) → internacional (HF noche)</li>
+</ul>
+
+<p>Los radioaficionados colaboran activamente con Protección Civil en España a través de la <strong>REDVOL</strong> (Red de Voluntarios en Emergencias de Telecomunicaciones). Si tienes licencia y quieres colaborar, hay grupos locales en todas las comunidades.</p>
+
+<p><a class="btn-amazon" href="https://www.amazon.es/s?k=radio+aficionado+hf+icoma+yaesu&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar radios HF ↗</a></p>
+
+<hr>
+
+<h2>Estrategia de redundancia triple</h2>
+
+<p>La preparación profesional no se basa en un único sistema, sino en la <strong>redundancia triple</strong>: tres sistemas independientes que funcione de manera autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.</p>
+
+<div class="tabla-scroll"><table style="width:100%;border-collapse:collapse;margin:16px 0;font-family:var(--mono);font-size:13px">
+  <tr style="border-bottom:var(--b);text-align:left;background:#e8e0cf">
+    <th style="padding:8px 12px">Capa</th>
+    <th style="padding:8px 12px">Sistema</th>
+    <th style="padding:8px 12px">Coste total</th>
+    <th style="padding:8px 12px">Independencia</th>
+    <th style="padding:8px 12px">Cuándo falla</th>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px"><strong>1</strong></td>
+    <td style="padding:8px 12px">Starlink (satélite)</td>
+    <td style="padding:8px 12px">~500 EUR + 50 EUR/mes</td>
+    <td style="padding:8px 12px">Sin infraestructura terrestre</td>
+    <td style="padding:8px 12px">Sin energía / sin visibilidad cielo</td>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px"><strong>2</strong></td>
+    <td style="padding:12px">Router 4G/5G industrial (2 SIMs)</td>
+    <td style="padding:8px 12px">~400-800 EUR + 80 EUR/mes</td>
+    <td style="padding:8px 12px">Operadora alternativa</td>
+    <td style="padding:8px 12px">Torres caídas + sin energía</td>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px"><strong>3</strong></td>
+    <td style="padding:8px 12px">Messenger satelital</td>
+    <td style="padding:8px 12px">~350 EUR + 30 EUR/mes</td>
+    <td style="padding:8px 12px">Red satelital independiente</td>
+    <td style="padding:8px 12px">Sin batería</td>
+  </tr>
+  <tr style="border-bottom:1px solid #ddd">
+    <td style="padding:8px 12px"><strong>4</strong></td>
+    <td style="padding:8px 12px">Walkies PMR446</td>
+    <td style="padding:8px 12px">~100-200 EUR</td>
+    <td style="padding:8px 12px">Cero infraestructura</td>
+    <td style="padding:8px 12px">Sin batería / alcance limitado</td>
+  </tr>
+  <tr>
+    <td style="padding:8px 12px"><strong>5</strong></td>
+    <td style="padding:8px 12px">Radio HF amateur</td>
+    <td style="padding:8px 12px">~600-1200 EUR</td>
+    <td style="padding:8px 12px">Sin infraestructura alguna</td>
+    <td style="padding:8px 12px">Necesita licencia + habilidad</td>
+  </tr>
+</table></div>
+
+<h3>El presupuesto mínimo funcional</h3>
+
+<p>Lo esencial para tener una conectividad decente cuando caen las redes:</p>
+
+<ul>
+<li><strong>Walkies PMR446 (4 unidades):</strong> ~150 EUR</li>
+<li><strong>Router 4G/5G industrial + 1 antena panel:</strong> ~600 EUR</li>
+<li><strong>Messenger satelital (Garmin inReach):</strong> ~350 EUR</li>
+<li><strong>Total mínimo:</strong> ~1.100 EUR (sin suscripciones)</li>
+</ul>
+
+<p>Con Starlink se sube a ~1.600 EUR inicial + ~80 EUR/mes de suscripciones, pero se obtiene internet real de banda ancha.</p>
+
+<h3>Lo que no necesitas comprar (todavía)</h3>
+
+<p>La radio HF amateur es la capa más potente pero requiere formación y licencia. No es imprescindible para la mayoría de hogares. Si te interesa, empieza con los walkies PMR446 y el messenger satelital; la radio HF es un camino de aprendizaje que puedes empezar a estudiar cuando tengas los sistemas básicos cubiertos.</p>
+
+<hr>
+
+<h2>Resumen: qué comprar, cuándo y por qué</h2>
+
+<div class="ruta-corta" style="margin:30px 0">
+  <div>
+    <h3 style="font-family:var(--display);font-size:20px;text-transform:uppercase;margin-bottom:8px">La regla de las tres capas</h3>
+    <p style="color:#4a4238;font-size:14px">Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.</p>
+  </div>
         
         
       </section></main>
