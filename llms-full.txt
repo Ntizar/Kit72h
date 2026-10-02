@@ -429,41 +429,772 @@ En un incendio forestal la orden de evacuación llega con prisa y el humo mata m
 - Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
 - Bastón, andador o silla plegable de repuesto: Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque. (~15-35 €)
 
+### Kit comunicación de emergencia — https://kit72h.com/kit/kit-comunicacion/
+Walkies PMR446, radio de pilas y messenger satelital: cuando caen todas las redes, esto es lo que te mantiene en contacto con los tuyos y con los avisos oficiales.
+**Comunicación local: walkies PMR446**
+- Walkie-talkies PMR446 (pareja, recargables): Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común. (~40-80 €)
+- Walkie-talkies PMR446 de gama media (alcance ampliado): Mejor antena y sensibilidad: hasta 5-10 km en campo abierto. (~60-120 €)
+**Escuchar y avisar al exterior**
+- Radio FM/AM a pilas o de dinamo (con linterna): Única fuente de información si caen internet y la telefonía. Con dinamo, sin pilas. (~15-35 €)
+- Powerbank 10.000-20.000 mAh para los aparatos: El walkie recargable y el móvil se mueren a la vez. Dos salidas los mantienen vivos varios días. (~20-40 €)
+- Messenger satelital (tipo Garmin inReach): Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual. (~250-400 € + 5-25 €/mes)
+- Pilas de repuesto (AA/AAA) fuera de los aparatos: Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase. (~8-18 €)
+
+### Conectividad Starlink — https://kit72h.com/kit/kit-starlink/
+Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Terminal + suscripción. 50-200 Mbps reales desde cualquier punto del planeta con visibilidad del cielo. La mejor solución de comunicación cuando la red se va.
+**Starlink: internet desde cualquier lugar**
+- Terminal Starlink Gen 3 (residencial / móvil): Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve. (~500-1.200 € · 45-60 €/mes)
+- Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
+- Cable extensor para Starlink (30 m / 60 m): Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3. (~75-150 €)
+**Redundancia: router 4G/5G como respaldo**
+- Router 4G/5G industrial con dual SIM y antenas externas: Dos operadoras distintas (p. ej. Movistar + Orange) con failover automático. WAN/LAN, VPN, PoE, antenas de alta ganancia. Redundancia real frente a un punto único de fallo. (~300-800 €)
+- Antena externa 4G/5G de alta ganancia: 12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router. (~50-150 €)
+**Último recurso: messenger satelital**
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
+- Powerbank de 20.000 mAh + cables: Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C. (~25-50 €)
+
 ### Kit profesional de energía y autonomía — https://kit72h.com/kit/kit-kit-profesional/
-SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.
+SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter y nevera solar. Preparación seria para hogares que buscan independencia total frente a apagones, cortes de suministro y crisis de infraestructura.
+**Energía solar: el sol es tu generador**
+- Panel solar 400W monocristalino (×2 unidades): Panel de alta eficiencia (21%+), resistente a granizo y viento. 800 W totales producen ~4 kWh/día en zona de buena insolación. Los monocristalinos (PERC) rinden más en superficie limitada. (~400 € (x2))
+- Inversor híbrido 3000W-5000W: Convierte DC de paneles y baterías en AC 230V. Acepta entrada solar, red y baterías a la vez. Busca MPPT integrado y conmutación automática <5 ms. Marcas de referencia: Victron, Growatt, EcoFlow. (~600-900 €)
+- Regulador de carga MPPT 60A: MPPT (Maximum Power Point Tracking) captura un 15-30% más de energía que PWM, sobre todo en días nublados. 60A soporta hasta ~2,4 kW a 48V. (~120-180 €)
+- Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC): Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones. (~80-120 €)
+**Baterías de litio LFP: almacena tu energía**
+- Batería litio LFP 200Ah (48V) — 9,6 kWh: 9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo. (~800-1.200 €)
+- Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh: Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje). (~800-1.200 €)
+- Caja de fusibles y distribución DC para baterías: Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas. (~60-100 €)
+**SAI (UPS): conmutación instantánea**
+- SAI (UPS) 3000VA-5000VA online doble conversión: Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente. (~500-800 €)
+- SAI 1500VA online (equipos críticos individuales): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
+**Generador: respaldo cuando no hay sol**
+- Generador inverter 2000-3000W (gasolina o gas): Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol. (~800-1.500 €)
+- Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
+**Conservación de alimentos sin red**
+- Nevera/congeladora solar 12V/220V (compresor): Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red. (~300-600 €)
+- Acumuladores de frío congelables (pack de 6): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~25-40 €)
+**Iluminación y seguridad perimetral**
+- Set de 10 luminarias LED solares de jardín: Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización. (~100-200 €)
+- Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~150-300 €)
+**Conectividad: Starlink y redundancia**
+- Terminal Starlink Gen 3 (residencial / móvil): Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo. (~500-1.200 € · 45-60 €/mes)
+- Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla. (~400 € · 10-40 €/mes)
+- Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
+**Comunicación local: radio amateur y walkies**
+- Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710): Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito). (~600-1.200 € (radio + antena))
+- Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
 ### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
 Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
+Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
 
+
+ ¿Cuándo necesitas una antena externa?
+
+ 
+ Tu móvil muestra 1-2 barras de señal constantemente
+
+ Las llamadas caen frecuentemente
+
+ La internet móvil es lenta o no funciona
+
+ Vives en una zona de montaña o valle profundo
+
+ 
+
+ Qué tipo de antena necesitas
+
+ Antena GSM/4G exterior
+
+ Es la que necesitas para mejorar la señal de tu móvil. Se instala fuera (ventana, pared, tejado) y conecta al móvil vía cable coaxial.
+
+
+ Amplificador de señal (repetidor)
+
+ Si la antena por sí sola no basta, un amplificador (como los de weBoost o Poynting) multiplica la señal. Son más caros (200-500€) pero efectivos.
+
+
+ Instalación básica
+
+ 
+ Elige un punto alto y al exterior (tejado, pared orientada a la torre más cercana)
+
+ Conecta el cable coaxial a la antena
+
+ Lleva el cable dentro y conéctalo al móvil/router
+
+ Prueba la mejora
+
+ 
+
+ El veredicto
+
+ Una antena externa de 30-50€ puede transformar tu experiencia de cobertura móvil. Si vives en zona rural, es una inversión de menos de 100€ que puede ser crucial en una emergencia.
 
 ### Conectividad de emergencia: Starlink, radio, satélite y redundancia — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
 Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.
+Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, la cobertura móvil. En una DANA, un apagón prolongado o un terremoto, los tres sistemas más usados —WiFi, móvil y fibra— pueden morir simultáneamente. Y sin comunicación, no hay coordinación, no hay información, no hay ayuda.
 
+
+ Aquí es donde la preparación seria se separa de la improvisación. No se trata de comprar lo más caro: se trata de tener tres sistemas independientes que funcionen de forma autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.
+
+
+ Esta guía cubre las tres capas de conectividad de emergencia, desde la más fácil (Starlink) hasta la más robusta (radio HF), con productos, costes y cuándo usar cada cosa.
+
+
+ 
+
+ Capa 1: Internet satelital — Starlink
+
+
+ Starlink es la solución de internet más cercana a la banda ancha terrestre que existe. Funciona desde cualquier punto del planeta con visibilidad del cielo, sin infraestructura de fibra ni torres celulares.
+
+
+ ¿Cómo funciona?
+
+
+ Una terminal plana (el «Dishy») se coloca en tejado, balcón o jardín y apunta a la constelación de satélites de SpaceX que orbitan a 550 km de altitud. La terminal consume entre 50 y 100W en funcionamiento normal (5-10W en standby), así que una batería de litio o un panel solar de 200W la mantienen encendida indefinidamente.
+
+
+ Especificaciones para emergencias
+
+
+ 
+ Velocidad: 50-200 Mbps de descarga, 10-20 Mbps de subida (Gen 3)
+
+ Latencia: 30-80 ms (idéntica a la fibra en uso práctico)
+
+ Cobertura: Global en zonas con visibilidad del cielo — España está cubierta en la mayor parte del territorio
+
+ Instalación: 5 minutos, sin herramientas
+
+ Consumo: 50-100W (funcionando) · 5-10W (standby)
+
+ Resistencia: Resistente a viento de hasta 120 km/h, lluvia, nieve y granizo
+
+ 
+
+ Costes
+
+
+ 
+ 
+ Plan 
+ Precio terminal 
+ Precio mensual 
+ Uso 
+ 
+
+ 
+ Residencial 
+ ~500-600 EUR 
+ ~50 EUR/mes 
+ Fijo, misma ubicación 
+ 
+
+ 
+ Móvil en tránsito 
+ ~1200 EUR 
+ ~45 EUR/mes 
+ Móvil (coche, barco, camping) 
+ 
+
+ 
+ Temporal 
+ ~500-600 EUR 
+ ~100 EUR/mes 
+ Emergencia puntual, cancelable 
+ 
+
+ 
+
+ ¿Cuándo usar Starlink en una emergencia?
+
+
+ Starlink es ideal cuando necesitas internet de verdad — videollamadas, descarga de documentos, acceso a sistemas de emergencia — y no hay infraestructura terrestre disponible. Es especialmente útil para:
+
+
+ 
+ Albergues de emergencia o puntos de coordinación con necesidad de conectividad
+
+ Centros de mando donde se necesita transmitir información
+
+ Hogares en zona rural sin fibra ni cobertura 4G
+
+ Evacuación a zona donde la red se ha ido
+
+ 
+
+ Limitación: La terminal es grande (57 x 57 x 3 cm, 4.5 kg). No es transportable en una mochila de emergencia. Se requiere una ubicación fija con visibilidad del cielo.
+
+
+ Ver Starlink en Amazon ↗ 
+
+
+ 
+
+ Capa 2: Conectividad celular — redundancia
+
+
+ El móvil es el sistema de comunicación más usado. Y por eso es también el más vulnerable: una sola operadora caída deja a todo el mundo desconectado. La clave es tener dos operadoras diferentes y un router que las gestione.
+
+
+ Router 4G/5G industrial con dual SIM
+
+
+ Un router industrial como el Peplink MAX BR , Gargoyle o similares acepta dos SIMs de operadoras distintas (ej: Movistar + Orange). Si una torre se cae, el router cambia a la otra automáticamente. Además, ofrecen:
+
+
+ 
+ WAN/LAN: puertos ethernet para conectar routers WiFi o Switch
+
+ VPN: puedes conectar tu router doméstico a un punto remoto
+
+ PoE: se alimenta por cable de red, ideal para instalación en tejado
+
+ Antenas externas: conectores SMA para antenas de alta ganancia
+
+ Monitorización web: dashboard para ver estado de red, batería y señal
+
+ 
+
+ Antena panel de alta ganancia
+
+
+ En zonas rurales, la señal 4G puede ser débil pero usable si se orienta la antena correctamente hacia la torre más cercana. Una antena panel de 18-23 dBi mejora la señal entre 10 y 20 dB.
+
+
+ Procedimiento: 
+
+ 
+ Instalar la antena en un mástil de 3-5 metros en tejado o fachada
+
+ Orientarla hacia la torre más cercana (hay apps como CellMapper que muestran las torres en mapa)
+
+ Conectar el cable coaxial (LMR-400, baja pérdida) al router 4G/5G
+
+ Configurar el router con las dos SIMs
+
+ 
+
+ Buscar antenas panel 4G/5G ↗ · Buscar routers industriales ↗ 
+
+
+ 
+
+ Capa 3: Mensajería satelital — el último recurso
+
+
+ Cuando cae todo — Starlink apagado por falta de energía, router sin señal, y radio inexistente — el messenger satelital es el último sistema que funciona. No requiere infraestructura terrestre ni visibilidad del cielo para enviar mensajes de texto.
+
+
+ Garmin inReach Mini 2
+
+
+ El dispositivo de comunicación satelital más conocido para emergencias. Funciona con la red Iridium (cobertura global, incluyendo polos). Ofrece:
+
+
+ 
+ Mensajes bidireccionales por SMS o a contactos predefinidos
+
+ SOS global (conecta con centros de coordinación de rescate)
+
+ GPS integrado con ubicación en tiempo real
+
+ Batería de 2-3 días en modo normal (semanas en modo ahorro)
+
+ Resistente al agua (IPX7), resistente a caídas
+
+ App para smartphone: enviar mensajes desde el móvil sin el dispositivo
+
+ 
+
+ Coste: ~350-450 EUR dispositivo + 30-50 EUR/mes plan de datos
+
+
+ Zoleo
+
+
+ Alternativa con dashboard web: puedes ver la ubicación de tu familia en tiempo real desde cualquier navegador. Funciona con redes Iridium y Globalstar (doble red para mayor probabilidad de conexión).
+
+
+ Coste: ~300-400 EUR dispositivo + 30-50 EUR/mes plan
+
+
+ ¿Cuándo usar el messenger satelital?
+
+
+ Es el dispositivo que nunca debería ser el único , pero sí debería estar siempre en la mochila de evacuación. Se usa para:
+
+
+ 
+ Enviar una señal de SOS cuando no hay ningún otro medio
+
+ Comunicar ubicación a familiares cuando se está perdido
+
+ Confirmar que se está bien a la familia cuando se recupera la conectividad
+
+ Recibir alertas de emergencia (en algunos modelos)
+
+ 
+
+ Ver Garmin inReach Mini 2 ↗ 
+
+
+ 
+
+ Capa 4: Radio — el sistema que no falla
+
+
+ La radio es el sistema de comunicación más antiguo, más barato y más fiable. No depende de satélites, no necesita infraestructura, no se satura con volumen. Cuando todo lo demás falla, la radio sigue funcionando.
+
+
+ Walkie-talkies profesionales PMR446
+
+
+ Los walkies PMR446 son el sistema de comunicación más básico y accesible. No requieren licencia, funcionan en 16 canales predefinidos y tienen alcance de 2 a 5 km en terreno abierto (menos en ciudad).
+
+
+ Un set de 4 walkies profesionales (Motorola Talkabout o similar) cuesta ~100-200 EUR y se reparte entre los miembros de la familia. Son útiles para:
+
+
+ 
+ Coordinar la evacuación intra-familiar (quién va dónde, cuándo)
+
+ Comunicación en el hogar durante una emergencia (entre plantas)
+
+ Coordinación con vecinos o equipos de rescate cercanos
+
+ Comunicación en zonas donde el móvil no llega (aunque sea 2 km)
+
+ 
+
+ Especificaciones: 16 canales, 0,5-2W de potencia, IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.
+
+
+ Buscar walkies PMR446 ↗ 
+
+
+ Radio amateur HF (licencia CETIC)
+
+
+ La radio amateur es la capa más profunda de conectividad de emergencia. Con una antena de onda corta y una radio HF, puedes comunicarte con cualquier punto del planeta mediante propagación ionosférica. No necesita infraestructura alguna.
+
+
+ Para empezar: 
+
+ 
+ Licencia: examen gratuito en el CETIC (Centro de Ensayos de la Industria de las Telecomunicaciones). Se puede preparar con material online gratuito.
+
+ Radio: Icom IC-7100 o Yaesu FT-710 como punto de partida (~600-1200 EUR)
+
+ Antena: antena de onda corta o dipolo (100-300 EUR)
+
+ Alcance: local (VHF) → regional (HF día) → internacional (HF noche)
+
+ 
+
+ Los radioaficionados colaboran activamente con Protección Civil en España a través de la REDVOL (Red de Voluntarios en Emergencias de Telecomunicaciones). Si tienes licencia y quieres colaborar, hay grupos locales en todas las comunidades.
+
+
+ Buscar radios HF ↗ 
+
+
+ 
+
+ Estrategia de redundancia triple
+
+
+ La preparación profesional no se basa en un único sistema, sino en la redundancia triple : tres sistemas independientes que funcione de manera autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.
+
+
+ 
+ 
+ Capa 
+ Sistema 
+ Coste total 
+ Independencia 
+ Cuándo falla 
+ 
+
+ 
+ 1 
+ Starlink (satélite) 
+ ~500 EUR + 50 EUR/mes 
+ Sin infraestructura terrestre 
+ Sin energía / sin visibilidad cielo 
+ 
+
+ 
+ 2 
+ Router 4G/5G industrial (2 SIMs) 
+ ~400-800 EUR + 80 EUR/mes 
+ Operadora alternativa 
+ Torres caídas + sin energía 
+ 
+
+ 
+ 3 
+ Messenger satelital 
+ ~350 EUR + 30 EUR/mes 
+ Red satelital independiente 
+ Sin batería 
+ 
+
+ 
+ 4 
+ Walkies PMR446 
+ ~100-200 EUR 
+ Cero infraestructura 
+ Sin batería / alcance limitado 
+ 
+
+ 
+ 5 
+ Radio HF amateur 
+ ~600-1200 EUR 
+ Sin infraestructura alguna 
+ Necesita licencia + habilidad 
+ 
+
+ 
+
+ El presupuesto mínimo funcional
+
+
+ Lo esencial para tener una conectividad decente cuando caen las redes:
+
+
+ 
+ Walkies PMR446 (4 unidades): ~150 EUR
+
+ Router 4G/5G industrial + 1 antena panel: ~600 EUR
+
+ Messenger satelital (Garmin inReach): ~350 EUR
+
+ Total mínimo: ~1.100 EUR (sin suscripciones)
+
+ 
+
+ Con Starlink se sube a ~1.600 EUR inicial + ~80 EUR/mes de suscripciones, pero se obtiene internet real de banda ancha.
+
+
+ Lo que no necesitas comprar (todavía)
+
+
+ La radio HF amateur es la capa más potente pero requiere formación y licencia. No es imprescindible para la mayoría de hogares. Si te interesa, empieza con los walkies PMR446 y el messenger satelital; la radio HF es un camino de aprendizaje que puedes empezar a estudiar cuando tengas los sistemas básicos cubiertos.
+
+
+ 
+
+ Resumen: qué comprar, cuándo y por qué
+
+
+ 
+ 
+ La regla de las tres capas
+
+ Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.
 
 ### Generador solar para emergencias de 72h: autonomía cuando se va la luz — https://kit72h.com/blog/generador-solar-emergencia-72h/
 Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
+Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.
 
+
+ ¿Qué es un generador solar?
+
+ Son paneles solares plegables (100-400W) que cargan una batería externa (powerstation) para alimentar tus dispositivos: móvil, portátil, radio, iluminación LED y hasta pequeños electrodomésticos.
+
+
+ ¿Por qué solar y no gasolina?
+
+ 
+ Silencioso : 0dB (vs 70dB de gasolina)
+
+ Sin humos : No contamina, ideal para interiores
+
+ Sin combustible : Solo necesitas sol (o nuboso)
+
+ Puede dejarse conectado : Carga y descargra continuamente
+
+ 
+
+ Los mejores para tu kit 72h
+
+
+ 1. Bluetti AC200MAX + Solar 200W
+
+ La solución profesional: 2000Wh de batería + 200W de paneles. Carga tu portátil 15 veces, móvil 40 veces, nevera portátil 8 horas. 2000-3000€.
+
+
+ 2. EcoFlow River 2 Pro + Solar 100W
+
+ Más asequible: 768Wh + 100W solar. Carga móvil 10 veces, portátil 3 veces, iluminación LED 20 horas. 500-700€.
+
+
+ 3. Jackery Explorer 1000 + Solar 100W
+
+ Alternativa sólida: 1000Wh + 100W. Misma capacidad que el EcoFlow, mismo precio.
+
+
+ ¿Cuánta autonomía necesitas?
+
+ Depende de lo que vayas a usar:
+
+ 
+ Solo móvil + linterna : 100-200Wh (powerbank grande)
+
+ Móvil + portátil + radio : 500-1000Wh (EcoFlow/Jackery)
+
+ Móvil + portátil + nevera + iluminación : 2000Wh+ (Bluetti/EFK)
+
+ 
+
+ Instalación básica
+
+ 
+ Coloca el panel solar al sol (o en ventana si estás dentro)
+
+ Conecta el panel a la batería (cable MC4)
+
+ Conecta tus dispositivos a la batería (enchufe AC/USB)
+
+ Listo
+
+ 
+
+ Nota: La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.
 
 ### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
 Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
+El móvil no es la mejor herramienta para tener internet durante días. Un router 4G/5G portátil con batería integrada es mucho más práctico.
 
+
+ ¿Por qué un router y no el móvil?
+
+ 
+ Batería de 8-12h (vs 2-4h del móvil)
+
+ Antena externa opcional (mejor señal)
+
+ Conecta varios dispositivos a la vez
+
+ No gasta la batería de tu móvil (que necesitas para llamadas)
+
+ 
+
+ Los mejores routers 4G para emergencias
+
+
+ 1. Huawei B535
+
+ Router 4G fijo con bateria de respaldo. Ideal si tienes energía eléctrica pero no WiFi.
+
+
+ 2. ZTE MF286
+
+ Mini router 4G portátil con batería. Perfecto para mochila de emergencia.
+
+
+ 3. Peplink MAXRU 4G
+
+ Router profesional 4G con backup de antena externa. Para emergencias prolongadas.
+
+
+ Instalación
+
+ 
+ Introduces la SIM de datos
+
+ Lo enciendes (se conecta automáticamente)
+
+ Te conectas por WiFi
+
+ Listo
+
+ 
+
+ Conclusión
+
+ Un router 4G de emergencia cuesta 50-200€ y es mucho más práctico que depender del móvil para internet durante una emergencia prolongada.
 
 ### Las mejores SIM de datos de emergencia: cobertura cuando todo falla — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
 Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
+Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero no todas las operadoras son iguales.
 
+
+ El problema
+
+ Las torres de telefonía necesitan electricidad. Las que tienen batería de emergencia (3-8h) sobreviven primero. Si la torre se daña físicamente (árboles, inundaciones), necesitas cobertura de otra operadora.
+
+
+ Las mejores operadoras para emergencias
+
+
+ 1. Vodafone
+
+ Mejor cobertura rural en España. Ideal para emergencias.
+
+
+ 2. Orange
+
+ Buena cobertura en norte y este. Comparte infraestructura con Movistar.
+
+
+ 3. Movistar
+
+ Más infraestructura en total, pero no siempre la mejor en zonas remotas.
+
+
+ 4. Operadoras virtuales (Lebara, O2, MásMóvil)
+
+ Usan la red de Movistar. Menos inversión en infraestructura propia.
+
+
+ Preparación
+
+ 
+ Tener SIM de al menos 2 operadoras
+
+ Planes con datos ilimitados o grandes bolsas
+
+ Router 4G/5G portátil con batería
+
+ Antena externa si vives en zona de mala cobertura
+
+ 
+
+ Conclusión
+
+ Una SIM de Vodafone (o cualquier operadora con buena cobertura rural) es un seguro contra el aislamiento. 10-20€/mes y puedes estar comunicado durante una emergencia.
 
 ### Nevera portátil para emergencias de 72h: conserva comida sin electricidad — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
 Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
+Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y empiezas a tener hambre. Una nevera portátil te mantiene la comida fresca sin electricidad.
 
+
+ ¿Qué es una nevera portátil?
+
+ Una nevera portátil es un dispositivo que puede funcionar con 12V (coche) o 220V (enchufe), ideal para emergencias donde no hay luz pero sí energía de otros fuentes (powerstation, solar, coche).
+
+
+ Tipos de neveras portátiles
+
+ 
+ Compresión : Como una nevera normal, más cara (200-500€) pero eficiente
+
+ Termoeléctrica : Más barata (50-150€) pero menos eficiente
+
+ Absorción : Funciona con gas o 12V, ideal para camping pero menos común
+
+ 
+
+ Las mejores para emergencias
+
+
+ 1. Dometic CFX3 50
+
+ La mejor del mercado: -20°C a +20°C, 50L, eficiente, silenciosa. 500-700€.
+
+
+ 2. Whynter ARC-14S
+
+ Mejor relación calidad-precio: -20°C a +20°C, 3.2ft³, eficiente. 300-400€.
+
+
+ 3. ICECO VL60
+
+ Alternativa económica: -20°C a +20°C, 60L, eficiente. 200-300€.
+
+
+ ¿Cuánta energía consume?
+
+ Una nevera de compresión consume ~50-100W/h. Con una powerstation de 500Wh, puedes mantenerla funcionando ~5-10 horas. Con 1000Wh, ~10-20 horas.
+
+
+ Conclusión
+
+ Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).
 
 ### Panel solar portátil para emergencias: energía cuando no hay red — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
 Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
+Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.
 
+
+ ¿Qué es un panel solar portátil?
+
+ Un panel solar plegable (100-400W) que se conecta a una batería externa para cargar tus dispositivos: móvil, portátil, radio, iluminación LED.
+
+
+ Los mejores paneles para emergencias
+
+
+ 1. Bluetti PV200
+
+ 200W, eficiente (23%), resistente al agua. Ideal para mochila de emergencia. 200-300€.
+
+
+ 2. EcoFlow 110W Solar Panel
+
+ 110W, plegable, ligero. Ideal para complementar tu powerstation. 150-200€.
+
+
+ 3. Jackery SolarSaga 100W
+
+ 100W, plegable, resistente. Compatible con la mayoría de powerstations. 150-200€.
+
+
+ ¿Cuánta energía produce?
+
+ Un panel de 100W produce ~400-500Wh al día en condiciones ideales (6-8h de sol directo). En invierno y nuboso, ~200-300Wh.
+
+
+ Conclusión
+
+ Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.
 
 ### Starlink en emergencias de 72h: conectividad cuando todo falla — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
 Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
+Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a zona rural sin cobertura. Móvil sin señal, WiFi muerto, radio insuficiente. Aquí entra Starlink.
 
+
+ ¿Qué es Starlink?
+
+ Constelación de satélites de SpaceX que ofrece internet de banda ancha desde cualquier punto del planeta con visibilidad del cielo. No necesita infraestructura terrestre: solo terminal + energía.
+
+
+ Ventajas para emergencias:
+
+ 
+ Funciona donde no hay cobertura móvil
+
+ Resistente a daños en infraestructura
+
+ 50-200 Mbps reales
+
+ Instalación en 5 minutos
+
+ 
+
+ Coste:
+
+ Terminal: 400-600€. Cuota mensual: ~50-60€/mes. Consumo: 50-100W (5-10W standby).
+
+
+ Alternativas:
+
+ 
+ Radio de emergencia (manivela/solar) → información oficial
+
+ Módem 4G/5G portátil → si hay cobertura
+
+ Redes mesh comunitarias → conocimiento avanzado
+
+ 
+
+ Nota: Starlink en España está limitado a zonas rurales seleccionadas. Verifica cobertura antes de comprar.
 
 ### Terremoto en España: qué hacer antes, durante y después — https://kit72h.com/blog/terremoto-espana-que-hacer/
 Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
@@ -1886,20 +2617,257 @@ El agua es la prioridad número uno de cualquier kit de emergencia. Un ser human
 
 ### Alimentos para emergencias: rotación sin desperdicio — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
 Alimentos para emergencias: rotación sin desperdicio
+El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
 
+
+ La regla de oro: compra para comer, no para guardar
+
+ El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
+
+
+ Alimentos no perecederos esenciales (lista)
+
+ 
+ Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
+
+ Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
+
+ Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
+
+ Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
+
+ Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
+
+ Miel : No caduca nunca. Energía rápida, antibacteriano natural.
+
+ Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
+
+ Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
+
+ Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
+
+ Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
+
+ 
+
+ Método de rotación: "primero entra, primero sale"
+
+ Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
+
+
+ El veredicto
+
+ No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
 
 ### El botiquín de emergencia para todo hogar — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
 El botiquín de emergencia para todo hogar
+La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
 
+
+ El botiquín base: 15 objetos no negociables
+
+ 
+ Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
+
+ Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
+
+ Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
+
+ Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
+
+ Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
+
+ Pinzas : Para sacar astillas o escombros de una herida.
+
+ Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
+
+ Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
+
+ Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
+
+ Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
+
+ Antitermos (paracetamol infantil) : Si hay niños en casa.
+
+ Guantes de nitrilo (par) : Para protegerte al atender a alguien.
+
+ Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
+
+ Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
+
+ Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
+
+ 
+
+ Adaptaciones por situación
+
+ Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
+
+ Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
+
+ Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
+
+
+ El veredicto
+
+ Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
 
 ### Las 7 mejores linternas para un kit de emergencia 72h — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
 Las 7 mejores linternas para un kit de emergencia 72h
+Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linterna es uno de los primeros cinco objetos que aparecen en TODAS las guías de preparación civil de España, Europa y EE. UU. No es negociable.
 
+
+ ¿Por qué una linterna (y no velas)?
+
+ Las velas representan un riesgo de incendio que no necesitas durante una emergencia. Una linterna LED de calidad ofrece:
+
+ 
+ Encendido instantáneo (no hay que aguardar a que se encienda)
+
+ Cero riesgo de incendio
+
+ Hasta 100.000 horas de vida útil del LED
+
+ Brillo que se puede ajustar (luz completa para buscar algo, luz tenue para no deslumbrar)
+
+ 
+
+ Lo que debes exigir a una linterna de emergencia
+
+ 
+ Resistencia al agua (IPX7 o superior) : Una DANA no avisará. Si llueve dentro de la mochila, la linterna debe seguir funcionando.
+
+ Autonomía mínima de 8 horas : En modo bajo. Si en modo alto solo dura 30 minutos, comprueba el modo bajo.
+
+ Pilas recargables o USB : Las pilas se agotan y se olvidan. Un USB se recarga con un powerbank.
+
+ Modo SOS : Un botón que parpadee en morse. Puede ser la diferencia entre que te encuentren y no.
+
+ Gancho o imán : Para dejarla en el techo y tener las manos libres.
+
+ 
+
+ Las 7 linternas que recomendamos para tu kit
+
+ Las he probado o investigado en profundidad. Estas son las que mejor relación calidad-respuesta cumplen para un kit 72h:
+
+
+ 1. Linterna LED impermeable con powerbank integrado
+
+ La opción más práctica: es la linterna Y la batería externa. Cargas un cable y ya tienes dos objetos del kit. Autonomía: ~8h en modo bajo, ~1.5h en alto. Resistencia: IPX7. Peso: ~200g.
+
+
+ 2. Linterna de mano con manivela y radio solar
+
+ Si buscas una solución todo-en-uno: enciendes la manivela 2 minutos y tienes 15 minutos de luz. La radio te permite escuchar emisiones oficiales si se cae la red. Ideal como linterna secundaria.
+
+
+ 3. Linterna frontal LED recargable USB
+
+ Si necesitas tener las manos libres (cambiar una bombilla, buscar en una mochila, atender a alguien), la linterna frontal es la mejor. Se coloca en la cabeza y no se cae.
+
+
+ 4. Linterna de emergencia magnética con sensor crepuscular
+
+ Se pega a cualquier superficie metálica y se enciende sola cuando se apaga la luz de la casa. Perfecta para el trastero, la caja de fusibles o la nevera.
+
+
+ 5. Linterna tipo "bola de fuego" (EMERGENCY GLOBE)
+
+ No, no es un invento chino raro. Las linternas esféricas con panel solar e interruptor de tirón llevan años en las guías de protección civil de Canadá y Finlandia. Luz 360° (no dirigida). Ideal para iluminar una habitación entera.
+
+
+ 6. Linterna de cabeza con visión nocturna básica
+
+ Para los más intrépidos: permite ver en oscuridad total con luz infrarroja invisible al ojo humano. Es un gadget que probablemente no necesites... pero si alguna vez necesitas moverte por tu casa a las 3 de la madrugada sin encender nada, es oro puro.
+
+
+ 7. Kit de 3 linternas pequeñas (estrategia de redundancia)
+
+ Tres linternas de ~5€ cada una, guardadas en sitios distintos de la mochila. Si una se pierde, otra funciona, y la tercera es para cuando te la pida un vecino. La redundancia es la base de la preparación.
+
+
+ El veredicto
+
+ Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
 
 ### El powerbank perfecto para tu kit de emergencia — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
 El powerbank perfecto para tu kit de emergencia
+El powerbank es el corazón de tu comunicación durante una emergencia. Sin él, tu móvil se convierte en un peso de cristal en 24-48h. Aquí te digo exactamente qué capacidad necesitas.
 
+
+ ¿Cuánto powerbank para 72 horas?
+
+ Un smartphone moderno tiene una batería de ~4000-5000mAh. Una carga completa dura un día de uso normal. En emergencia, usarás el móvil más (llamar, WhatsApp, linterna), así que estimamos 2 cargas por día.
+
+ 
+ 72 horas con 1 móvil : Powerbank de 10000-20000mAh
+
+ 72 horas con 2 móviles : Powerbank de 20000-30000mAh
+
+ 7 días : Powerbank de 30000mAh + panel solar portátil
+
+ 
+
+ Cualidades esenciales
+
+ 
+ Capacidad: 20000mAh mínimo : Carga un móvil completo ~5 veces.
+
+ Doble salida USB : Para cargar dos dispositivos a la vez.
+
+ Entrada USB-C : Recarga rápida (3-4h). La que más se usa actualmente.
+
+ Linterna LED integrada : Función secundaria pero que no pide dinero extra.
+
+ Resistente a golpes : Si se cae al suelo o la pisas, debe seguir funcionando.
+
+ 
+
+ El veredicto
+
+ Un powerbank de 20000mAh USB-C con doble salida + linterna es el estándar para un kit 72h. Precio orientativo: 20-35€. Si puedes permitirte uno de 30000mAh con panel solar integrado, mejor.
 
 ### La mejor radio de emergencia con manivela y panel solar — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
 La mejor radio de emergencia con manivela y panel solar
+Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
 
+
+ ¿Por qué una radio de manivela?
+
+ Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
+
+
+ Cualidades no negociables
+
+ 
+ FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
+
+ Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
+
+ USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
+
+ LED de linterna : Una radio sin linterna integrada es una radio incompleta.
+
+ USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
+
+ 
+
+ Las mejores opciones para un kit 72h
+
+ Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
+
+
+ RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
+
+ Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
+
+
+ RADIO DE EMERGENCIA CON MANIVELA
+
+ Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
+
+
+ El veredicto
+
+ La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.

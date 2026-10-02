@@ -28,7 +28,9 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Kit frío, nieve y calefacción caída](https://kit72h.com/kit/kit-frio/): Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.
 - [Kit terremoto](https://kit72h.com/kit/kit-terremoto/): España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.
 - [Kit incendio forestal y humo](https://kit72h.com/kit/kit-incendio/): En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.
-- [Kit profesional de energía y autonomía](https://kit72h.com/kit/kit-kit-profesional/): SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.
+- [Kit comunicación de emergencia](https://kit72h.com/kit/kit-comunicacion/): Walkies PMR446, radio de pilas y messenger satelital: cuando caen todas las redes, esto es lo que te mantiene en contacto con los tuyos y con los avisos oficiales.
+- [Conectividad Starlink](https://kit72h.com/kit/kit-starlink/): Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Terminal + suscripción. 50-200 Mbps reales desde cualquier punto del planeta con visibilidad del cielo. La mejor solución de comunicación cuando la red se va.
+- [Kit profesional de energía y autonomía](https://kit72h.com/kit/kit-kit-profesional/): SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter y nevera solar. Preparación seria para hogares que buscan independencia total frente a apagones, cortes de suministro y crisis de infraestructura.
 
 ## Blog
 

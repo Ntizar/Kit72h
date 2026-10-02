@@ -3835,16 +3835,375 @@
       ]
     },
     {
+      "id": "starlink",
+      "titulo": "Conectividad Starlink",
+      "slug": "kit-starlink",
+      "icono": "📡",
+      "resumen": "Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Terminal + suscripción. 50-200 Mbps reales desde cualquier punto del planeta con visibilidad del cielo. La mejor solución de comunicación cuando la red se va.",
+      "fuente": {
+        "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
+        "url": "https://commission.europa.eu/topics/preparedness_es",
+        "fecha": "2026-10-02"
+      },
+      "paraQuien": "Para quien vive en zonas sin cobertura móvil ni fibra, para quien quiere redundancia real de comunicaciones en una emergencia, o para quien trabaja en zonas rurales donde la red fija falla. Starlink funciona desde cualquier punto con cielo visible.",
+      "paraQuien_no": "No es para quien tiene cobertura móvil y fibra que no fallan: ahí puedes esperar. Además requiere ~100° de cielo despejado (árboles y montañas cortan la señal) y suscripción mensual: sin ella el hardware es un ladrillo.",
+      "coste_total": "400-600 € terminal + 50-60 €/mes suscripción",
+      "coste": "400–600 € terminal",
+      "nota": "suscripción mensual",
+      "enlace": "/kit/kit-starlink/",
+      "guia": {
+        "antes": [
+          "Verifica la cobertura Starlink de tu zona: la app oficial muestra la visibilidad del cielo y las previsiones de instalación.",
+          "Comprueba la cobertura de dos operadoras distintas en tu ubicación: la redundancia solo existen si ambas tienen señal.",
+          "Calcula el presupuesto total: terminal (500-1.200 €) + suscripción (45-60 €/mes) + router (300-800 €) + inReach (~400 €).",
+          "Planifica la ubicación: tejado con 100° de cielo visible o mástil exterior de 2+ metros. Evita balcones con obstáculos."
+        ],
+        "durante": [
+          "Activa Starlink y su suscripción. Usa la app para encontrar el punto óptimo de instalación escaneando el cielo.",
+          "Prueba la velocidad. Reajusta si hay latencia alta (>100 ms) o pérdida de paquetes.",
+          "Configura el router 4G/5G con dual SIM y failover automático entre las dos operadoras.",
+          "Activa el inReach y su plan; prueba el envío de un mensaje y la geolocalización."
+        ],
+        "despues": [
+          "Limpia el panel de Starlink cada 2-3 meses: polvo, hojarasca y deyecciones reducen la señal.",
+          "Renueva las suscripciones antes de que caduquen: al reactivar, a veces cambia el precio.",
+          "Prueba el inReach cada mes: mensaje de test y geolocalización. Una batería descargada no salva vidas.",
+          "Revisa antenas y conexiones cada 6 meses: viento, lluvia y salitre corrompen los contactos."
+        ]
+      },
+      "errores": [
+        "Poner el Starlink con visión obstruida. Necesita ~100° de cielo despejado; árboles, tejados o montañas cortan la señal. Tejado o terraza con vista abierta, no el balcón.",
+        "Olvidar la suscripción mensual. Sin ella, la terminal es un ladrillo de 500-1.200 €. Plan residencial (50-60 €/mes) o móvil (45 €/mes).",
+        "No tener redundancia (Starlink + router 4G/5G). Un solo medio de comunicación es un punto único de fallo: con clima extremo y sin cobertura celular quedarías incomunicado."
+      ],
+      "secciones": [
+        {
+          "titulo": "Starlink: internet desde cualquier lugar",
+          "intro": "Internet satelital cuando se cae todo: móviles, fibra, LTE. 50-200 Mbps reales sin infraestructura terrestre. Gen 3: menos consumo y mejor rendimiento en condiciones adversas.",
+          "items": [
+            {
+              "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
+              "afiliado": "https://www.amazon.es/s?k=starlink+terminal+portatil+gen+3&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve.",
+              "precio_aprox": "500-1.200 € · 45-60 €/mes"
+            },
+            {
+              "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
+              "afiliado": "https://www.amazon.es/s?k=starlink+soporte+montaje+tejado+mastil&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3.",
+              "precio_aprox": "50-150 €"
+            },
+            {
+              "producto": "Cable extensor para Starlink (30 m / 60 m)",
+              "afiliado": "https://www.amazon.es/s?k=cable+extensor+starlink+30m+60m&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3.",
+              "precio_aprox": "75-150 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Redundancia: router 4G/5G como respaldo",
+          "intro": "Conectividad celular como respaldo de Starlink: útil cuando el satélite no es viable (bosques densos, clima extremo) o como segundo plan.",
+          "items": [
+            {
+              "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+              "afiliado": "https://www.amazon.es/s?k=router+5g+industrial+dual+sim+antena+externa&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Dos operadoras distintas (p. ej. Movistar + Orange) con failover automático. WAN/LAN, VPN, PoE, antenas de alta ganancia. Redundancia real frente a un punto único de fallo.",
+              "precio_aprox": "300-800 €"
+            },
+            {
+              "producto": "Antena externa 4G/5G de alta ganancia",
+              "afiliado": "https://www.amazon.es/s?k=antena+externa+4g+5g+alta+ganancia&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router.",
+              "precio_aprox": "50-150 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Último recurso: messenger satelital",
+          "intro": "Cuando no hay visibilidad de cielo ni cobertura celular, el messenger satelital es la única forma de pedir ayuda.",
+          "items": [
+            {
+              "producto": "Messenger satelital (Garmin inReach Mini 3)",
+              "afiliado": "https://www.amazon.es/s?k=garmin+inreach+mini+3&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo.",
+              "precio_aprox": "400 € · 10-40 €/mes"
+            },
+            {
+              "producto": "Powerbank de 20.000 mAh + cables",
+              "afiliado": "https://www.amazon.es/dp/B0DFLHZQ18?tag=nti0c8-21",
+              "prioridad": "esencial",
+              "descripcion": "Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C.",
+              "precio_aprox": "25-50 €"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "profesional",
       "titulo": "Kit profesional de energía y autonomía",
       "slug": "kit-kit-profesional",
       "icono": "⚡",
+      "premium": true,
+      "resumen": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter y nevera solar. Preparación seria para hogares que buscan independencia total frente a apagones, cortes de suministro y crisis de infraestructura.",
+      "fuente": {
+        "nombre": "Protección Civil — Recomendaciones ante emergencias",
+        "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
+        "fecha": "2026-10-02"
+      },
+      "paraQuien": "Para hogares que no pueden permitirse quedarse sin energía, datos ni alimentos: casas rurales con larga distancia al servicio, negocios que dependen de servidores o quien busca independencia real frente a apagones y crisis de infraestructura.",
+      "paraQuien_no": "No es un kit para sobrevivir meses sin red. Inversión alta (2.000-5.000 €), necesita espacio (tejado o terreno para paneles, zona ventilada para baterías y generador) e instalación profesional, y tiene mantenimiento. No es «instalar y olvidarse».",
+      "coste_total": "2.000-5.000 € (inversión profesional) · amortización 3-5 años",
       "coste": "2000–5000 €",
       "nota": "inversión profesional",
-      "descripcion": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total.",
       "enlace": "/kit/kit-kit-profesional/",
-      "premium": true,
-      "coste_total": "2000–5000 €",
-      "resumen": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria: 2000-5000 € de independencia total."
+      "guia": {
+        "antes": [
+          "Calcula tu consumo diario: kWh/mes ÷ 30 = kWh/día. El kit debe cubrir el 70-80% de ese consumo.",
+          "Identifica dónde instalar paneles: tejado orientado al sur, tejado plano o terreno adyacente. Mínimo 4 m² por cada 400W.",
+          "Prepara el espacio de baterías: zona ventilada, 10-25 °C, lejos de materiales inflamables.",
+          "Localiza el sitio del generador: exterior, ventilado, a 3+ metros de ventanas, con acceso para repostar.",
+          "Si no sabes instalar: presupuesto de electricista + instalador solar certificado. No es brujería, pero hay que hacerlo bien."
+        ],
+        "durante": [
+          "Primero baterías e inversor, luego paneles, luego Starlink. Cada módulo se prueba antes de conectar el siguiente.",
+          "Verifica polaridades antes de conectar: negativo con negativo, positivo con positivo. Un cortocircuito en baterías es inmediato.",
+          "Configura el inversor con voltaje de corte bajo (11,5V en 12V; 40V en 48V) para no dañar las baterías con descargas profundas.",
+          "Activa el Starlink y su suscripción. Prueba velocidad; reajusta la posición si hay latencia alta o pérdida de paquetes.",
+          "Prueba el generador al aire libre: 30 minutos en carga, combustible estabilizado."
+        ],
+        "despues": [
+          "Limpia los paneles cada 2-3 meses: polvo, hojarasca y deyecciones reducen la eficiencia un 20-30%.",
+          "Revisa conexiones y fusibles cada 6 meses: corrosión, tornillos sueltos y cables pelados son la causa de la mayoría de fallos.",
+          "Test de baterías una vez al mes: voltaje y temperatura. Una celda más caliente que las demás se va a estropear.",
+          "Prueba el generador cada 3 meses (30 min en carga). No dejes gasolina más de 6 meses en el depósito.",
+          "Renueva el plan de Starlink antes de que caduque: al reactivar, a veces cambia el precio."
+        ]
+      },
+      "errores": [
+        "Comprar paneles sin inversor ni baterías. Los paneles solo generan con sol: sin almacenamiento no tienes nada de noche. Primero baterías e inversor, luego paneles.",
+        "Instalar baterías de plomo-ácido en 2026. El litio LFP cuesta 3-4× más pero dura 5× más (3.000+ ciclos vs 500-1.000): sale más barato por ciclo.",
+        "Poner el Starlink con visión obstruida. Necesita ~100° de cielo despejado; árboles, tejados o montañas cortan la señal. Tejado o terraza con vista abierta.",
+        "Meter el generador dentro de casa. El CO es invisible e inodoro y mata en minutos: siempre en exterior, ventilado, a 3+ metros de ventanas y puertas.",
+        "No profesionalizar la instalación. Paneles mal anclados se vuelan, baterías mal conectadas se incendian, cables sin protección se funden. 200-500 € de instalación certificada valen cada euro."
+      ],
+      "secciones": [
+        {
+          "titulo": "Energía solar: el sol es tu generador",
+          "intro": "La base de la autonomía: sol → electricidad sin depender de la red. Una instalación de 800 W en zona de buena insolación produce ~4 kWh/día.",
+          "items": [
+            {
+              "producto": "Panel solar 400W monocristalino (×2 unidades)",
+              "afiliado": "https://www.amazon.es/s?k=panel+solar+400w+monocristalino+PERC&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Panel de alta eficiencia (21%+), resistente a granizo y viento. 800 W totales producen ~4 kWh/día en zona de buena insolación. Los monocristalinos (PERC) rinden más en superficie limitada.",
+              "precio_aprox": "400 € (x2)"
+            },
+            {
+              "producto": "Inversor híbrido 3000W-5000W",
+              "afiliado": "https://www.amazon.es/s?k=inversor+hibrido+3000w+5000w&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Convierte DC de paneles y baterías en AC 230V. Acepta entrada solar, red y baterías a la vez. Busca MPPT integrado y conmutación automática <5 ms. Marcas de referencia: Victron, Growatt, EcoFlow.",
+              "precio_aprox": "600-900 €"
+            },
+            {
+              "producto": "Regulador de carga MPPT 60A",
+              "afiliado": "https://www.amazon.es/s?k=regulador+carga+mppt+60a&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "MPPT (Maximum Power Point Tracking) captura un 15-30% más de energía que PWM, sobre todo en días nublados. 60A soporta hasta ~2,4 kW a 48V.",
+              "precio_aprox": "120-180 €"
+            },
+            {
+              "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
+              "afiliado": "https://www.amazon.es/s?k=kit+cableado+solar+MC4&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones.",
+              "precio_aprox": "80-120 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Baterías de litio LFP: almacena tu energía",
+          "intro": "Litio LFP (LiFePO4): mayor vida útil que plomo-ácido, 3.000-6.000 ciclos, sin efecto memoria. La base de cualquier instalación solar doméstica.",
+          "items": [
+            {
+              "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
+              "afiliado": "https://www.amazon.es/s?k=bateria+litio+lfp+200ah+48v&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo.",
+              "precio_aprox": "800-1.200 €"
+            },
+            {
+              "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
+              "afiliado": "https://www.amazon.es/s?k=bateria+litio+lfp+200ah+48v&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje).",
+              "precio_aprox": "800-1.200 €"
+            },
+            {
+              "producto": "Caja de fusibles y distribución DC para baterías",
+              "afiliado": "https://www.amazon.es/s?k=caja+fusibles+dc+bateria+solar&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas.",
+              "precio_aprox": "60-100 €"
+            }
+          ]
+        },
+        {
+          "titulo": "SAI (UPS): conmutación instantánea",
+          "intro": "Sin Interrupción: protección instantánea ante cortes de red. Conmuta a baterías en milisegundos.",
+          "items": [
+            {
+              "producto": "SAI (UPS) 3000VA-5000VA online doble conversión",
+              "afiliado": "https://www.amazon.es/s?k=SAI+UPS+3000VA+online+doble+conversion&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente.",
+              "precio_aprox": "500-800 €"
+            },
+            {
+              "producto": "SAI 1500VA online (equipos críticos individuales)",
+              "afiliado": "https://www.amazon.es/s?k=SAI+UPS+1500VA+online&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad.",
+              "precio_aprox": "200-350 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Generador: respaldo cuando no hay sol",
+          "intro": "Respaldo cuando no hay sol. Generadores inverter: corriente limpia, más silenciosos y eficientes que los tradicionales.",
+          "items": [
+            {
+              "producto": "Generador inverter 2000-3000W (gasolina o gas)",
+              "afiliado": "https://www.amazon.es/s?k=generador+inverter+2000w+3000w&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol.",
+              "precio_aprox": "800-1.500 €"
+            },
+            {
+              "producto": "Depósito ampliado o conexión a gas natural",
+              "afiliado": "https://www.amazon.es/s?k=generador+inverter+gas+natural+conexion&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional.",
+              "precio_aprox": "200-600 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Conservación de alimentos sin red",
+          "intro": "Sin electricidad, la nevera convencional es un armario cálido. Una nevera solar mantiene los alimentos frescos sin depender de la red.",
+          "items": [
+            {
+              "producto": "Nevera/congeladora solar 12V/220V (compresor)",
+              "afiliado": "https://www.amazon.es/s?k=nevera+congeladora+solar+12v+220v+compresor&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red.",
+              "precio_aprox": "300-600 €"
+            },
+            {
+              "producto": "Acumuladores de frío congelables (pack de 6)",
+              "afiliado": "https://www.amazon.es/s?k=acumuladores+frio+congelables+pack+6&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables.",
+              "precio_aprox": "25-40 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Iluminación y seguridad perimetral",
+          "intro": "Iluminación LED de alta potencia con batería solar y vigilancia autónoma sin red fija.",
+          "items": [
+            {
+              "producto": "Set de 10 luminarias LED solares de jardín",
+              "afiliado": "https://www.amazon.es/s?k=luminarias+led+solar+jardin+10pack+sensor&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización.",
+              "precio_aprox": "100-200 €"
+            },
+            {
+              "producto": "Cámara de seguridad solar 4G con batería",
+              "afiliado": "https://www.amazon.es/s?k=camara+seguridad+4g+solar+bateria&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil.",
+              "precio_aprox": "150-300 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Conectividad: Starlink y redundancia",
+          "intro": "Sin internet, la autonomía no sirve de mucho. Starlink: internet satelital desde cualquier punto con visibilidad del cielo. 50-200 Mbps reales.",
+          "items": [
+            {
+              "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
+              "afiliado": "https://www.amazon.es/s?k=starlink+terminal+portatil+gen+3&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo.",
+              "precio_aprox": "500-1.200 € · 45-60 €/mes"
+            },
+            {
+              "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+              "afiliado": "https://www.amazon.es/s?k=router+5g+industrial+dual+sim+antena+externa&tag=nti0c8-21",
+              "es_busqueda": true,
+              "prioridad": "esencial",
+              "descripcion": "Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable.",
+              "precio_aprox": "300-800 €"
+            },
+            {
+              "producto": "Messenger satelital (Garmin inReach Mini 3)",
+              "afiliado": "https://www.amazon.es/s?k=garmin+inreach+mini+3&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla.",
+              "precio_aprox": "400 € · 10-40 €/mes"
+            },
+            {
+              "producto": "Extensor WiFi de largo alcance + antena direccional",
+              "afiliado": "https://www.amazon.es/s?k=extensor+wifi+largo+alcance+antena+direccional&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI.",
+              "precio_aprox": "30-200 €"
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicación local: radio amateur y walkies",
+          "intro": "Redundancia de comunicación: radio amateur para cobertura regional y walkies PMR446 para coordinación intra-familiar.",
+          "items": [
+            {
+              "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
+              "afiliado": "https://www.amazon.es/s?k=radio+aficionado+hf+icom+yaesu&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito).",
+              "precio_aprox": "600-1.200 € (radio + antena)"
+            },
+            {
+              "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
+              "afiliado": "https://www.amazon.es/s?k=walkie+talkie+profesional+pmr446+pack+4&tag=nti0c8-21",
+              "es_busqueda": true,
+              "descripcion": "Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación.",
+              "precio_aprox": "100-200 € (pack 4)"
+            }
+          ]
+        }
+      ]
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea."

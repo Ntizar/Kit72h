@@ -106,13 +106,13 @@ const ui = {
       </a>`;
 
     const tarjetaStarlink = `
-      <a class="card-kit card-starlink" href="https://www.amazon.es/s?k=starlink+terminal+portatil&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">
+      <a class="card-kit card-starlink" href="/kit/kit-starlink/">
         <div class="fila-top"><span class="icono">📡</span><span class="num">⭐</span></div>
         <h2>Conectividad Starlink</h2>
         <p>Internet satelital cuando se cae todo: móviles, fibra, LTE. Terminal + suscripción. La mejor solución de comunicación cuando la red se va.</p>
         <div class="pie">
           <span class="coste-kit" style="color:var(--rojo)">400–600 € terminal · 50–60 €/mes suscripción</span>
-          <span class="ir" style="color:var(--rojo)">Comprar en Amazon ↗</span>
+          <span class="ir" style="color:var(--rojo)">Ver ficha completa →</span>
         </div>
       </a>`;
 
@@ -129,7 +129,7 @@ const ui = {
         <div class="pro-right"><span class="pro-cta">Ver kit completo →</span></div>
       </a>`;
 
-    const normales = state.data.kits.filter(k => !k.premium);
+    const normales = state.data.kits.filter(k => !k.premium && k.slug !== 'kit-starlink');
     const premium  = state.data.kits.filter(k => k.premium);
     const tarjetas = normales.map(tarjetaKit).join('')
       + tarjetaStarlink
@@ -165,6 +165,12 @@ const ui = {
           <a class="cta-kit" href="${compra}" target="_blank" rel="sponsored nofollow noopener">
             <span class="cta-kit-t">No pierdas el tiempo:<br>compra tu kit completo</span>
             <span class="cta-kit-b">Kit de emergencia de 72 h, listo para mandarlo a casa →</span>
+          </a>
+          <!-- Kit profesional: botón brillante -->
+          <a class="kpro-hero-btn" href="/kit/kit-kit-profesional/">
+            <span class="kpro-hero-chip">⚡ KIT PROFESIONAL</span>
+            <span class="kpro-hero-title">Energía + conectividad para los que no se quedan a medio camino</span>
+            <span class="kpro-hero-cta">Ver kit profesional →</span>
           </a>
         </div>
       </div>

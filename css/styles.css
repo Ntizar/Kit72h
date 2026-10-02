@@ -1091,3 +1091,105 @@ a.card-kit{color:inherit;text-decoration:none}
   .card-kit.card-pro-pokemon::after,
   .card-pro-pokemon .holo-shine{animation:none}
 }
+
+
+/* ═══════════════════════════════════════════════════════════
+   KPRO HERO BUTTON — botón brillante en la landing
+   ═══════════════════════════════════════════════════════════ */
+
+.kpro-hero-btn {
+  display: block;
+  margin: 20px auto 0;
+  max-width: 600px;
+  padding: 18px 24px;
+  background: linear-gradient(135deg, #1a1510 0%, #2a2015 50%, #1a1008 100%);
+  border: 2px solid var(--ambar);
+  border-radius: 8px;
+  text-decoration: none;
+  position: relative;
+  overflow: hidden;
+  transition: transform .15s ease, box-shadow .25s ease, border-color .2s;
+  box-shadow:
+    0 0 20px rgba(239, 160, 43, .25),
+    0 0 40px rgba(239, 160, 43, .1),
+    inset 0 1px 0 rgba(255,255,255,.15);
+}
+.kpro-hero-btn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(239, 160, 43, .08) 40%,
+    rgba(239, 160, 43, .2) 50%,
+    rgba(239, 160, 43, .08) 60%,
+    transparent 100%
+  );
+  animation: kproSweep 3s ease-in-out infinite;
+  pointer-events: none;
+}
+@keyframes kproSweep {
+  0%, 100% { transform: translateX(-120%) skewX(-16deg) }
+  50%      { transform: translateX(120%) skewX(-16deg) }
+}
+.kpro-hero-btn:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 0 30px rgba(239, 160, 43, .4),
+    0 0 60px rgba(239, 160, 43, .2),
+    inset 0 1px 0 rgba(255,255,255,.25);
+  border-color: var(--rojo);
+}
+.kpro-hero-btn:active {
+  transform: translateY(0);
+}
+.kpro-hero-chip {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--ambar);
+  border: 1px solid var(--ambar);
+  padding: 3px 8px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  background: rgba(239, 160, 43, .08);
+  border-radius: 3px;
+}
+.kpro-hero-title {
+  display: block;
+  font-family: var(--display);
+  font-size: 18px;
+  text-transform: uppercase;
+  color: var(--crema);
+  line-height: 1.3;
+  margin-bottom: 4px;
+}
+.kpro-hero-cta {
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ambar);
+  letter-spacing: 1px;
+  transition: color .15s;
+}
+.kpro-hero-btn:hover .kpro-hero-cta {
+  color: var(--rojo);
+}
+
+@media(max-width:700px){
+  .kpro-hero-btn{
+    padding:14px 16px;
+  }
+  .kpro-hero-title{
+    font-size:15px;
+  }
+  .kpro-hero-cta{
+    font-size:11px;
+  }
+  .kpro-hero-chip{
+    font-size:9px;
+  }
+}
+

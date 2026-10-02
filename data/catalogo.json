@@ -1,7 +1,7 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
- "generado": "2026-09-28",
- "total_productos": 154,
+ "generado": "2026-10-02",
+ "total_productos": 184,
  "compartidos": 56,
  "productos": {
   "8419436623": {
@@ -47,6 +47,26 @@
    "precio_ref": "5-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0001IWLMG": {
+   "nombre_canonico": "Manguera reforzada larga (más un aspersor o pistola)",
+   "url": "https://www.amazon.es/dp/B0001IWLMG?tag=nti0c8-21",
+   "categorias": [
+    "Defender la casa si aún hay tiempo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Manguera reforzada larga (más un aspersor o pistola)",
+     "prioridad": "recomendado",
+     "precio_aprox": "25-60 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-60 €"
   },
   "B000IAZDE0": {
    "nombre_canonico": "Navaja multiuso",
@@ -272,6 +292,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B00KSGFXBW": {
+   "nombre_canonico": "Rasqueta y cepillo de hielo para el coche",
+   "url": "https://www.amazon.es/dp/B00KSGFXBW?tag=nti0c8-21",
+   "categorias": [
+    "En la calle y en el coche: la nieve"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Rasqueta y cepillo de hielo para el coche",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €"
+  },
   "B00NGTCKWS": {
    "nombre_canonico": "Sales de rehidratación oral",
    "url": "https://www.amazon.es/R-S-Oral-Rehydration-Salt-Blackcurrant/dp/B00NGTCKWS?tag=nti0c8-21",
@@ -480,6 +520,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B01LYHK84D": {
+   "nombre_canonico": "Guantes de trabajo reforzados",
+   "url": "https://www.amazon.es/dp/B01LYHK84D?tag=nti0c8-21",
+   "categorias": [
+    "Cabeza y pies: lo que se rompe primero"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-terremoto",
+     "producto": "Guantes de trabajo reforzados",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-terremoto"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €"
+  },
   "B01M1NCHK8": {
    "nombre_canonico": "Estufa de gas butano (Orbegozo 4200 W)",
    "url": "https://www.amazon.es/dp/B01M1NCHK8?tag=nti0c8-21",
@@ -584,6 +644,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B071NWGL29": {
+   "nombre_canonico": "Walkie-talkies PMR446 (pareja con cargador)",
+   "url": "https://www.amazon.es/dp/B071NWGL29?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y avisos: cuando cae la red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Walkie-talkies PMR446 (pareja con cargador)",
+     "prioridad": "recomendado",
+     "precio_aprox": "40-80 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "40-80 €"
+  },
   "B075RCPZ3P": {
    "nombre_canonico": "Multivitaminas 450 comprimidos",
    "url": "https://www.amazon.es/dp/B075RCPZ3P?tag=nti0c8-21",
@@ -671,6 +751,46 @@
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B07DPWBBDP": {
+   "nombre_canonico": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+   "url": "https://www.amazon.es/dp/B07DPWBBDP?tag=nti0c8-21",
+   "categorias": [
+    "Dinero y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+     "prioridad": "recomendado",
+     "precio_aprox": "60-110 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "60-110 €"
+  },
+  "B07F82JW46": {
+   "nombre_canonico": "Gafas de protección ajustadas (o de sol cerradas)",
+   "url": "https://www.amazon.es/dp/B07F82JW46?tag=nti0c8-21",
+   "categorias": [
+    "Respirar: el humo mata antes que el fuego"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Gafas de protección ajustadas (o de sol cerradas)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-25 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-25 €"
   },
   "B07FXSF4PV": {
    "nombre_canonico": "Cocoteira o cazo resistente (para calentar conservas)",
@@ -894,6 +1014,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B07WK2MC6B": {
+   "nombre_canonico": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+   "url": "https://www.amazon.es/dp/B07WK2MC6B?tag=nti0c8-21",
+   "categorias": [
+    "Calor corporal: la capa que salva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-45 €"
+  },
   "B07X8H7KR2": {
    "nombre_canonico": "Foto reciente del animal contigo (papel y móvil)",
    "url": "https://www.amazon.es/dp/B07X8H7KR2?tag=nti0c8-21",
@@ -945,6 +1085,26 @@
    "precio_ref": "6-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B083T9VV8X": {
+   "nombre_canonico": "Calzado cerrado y resistente (bota o zapatilla dura)",
+   "url": "https://www.amazon.es/dp/B083T9VV8X?tag=nti0c8-21",
+   "categorias": [
+    "Ropa que no arde pegada a la piel"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Calzado cerrado y resistente (bota o zapatilla dura)",
+     "prioridad": "esencial",
+     "precio_aprox": "30-80 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "30-80 €"
   },
   "B086GGP7K5": {
    "nombre_canonico": "Linterna LED con imán",
@@ -1102,6 +1262,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B08XQN1DVL": {
+   "nombre_canonico": "Mascarilla FFP2 (pack) y gafas de protección para la limpieza",
+   "url": "https://www.amazon.es/dp/B08XQN1DVL?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y avisos: cuando cae la red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Mascarilla FFP2 (pack) y gafas de protección para la limpieza",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €"
+  },
   "B08ZM2KC49": {
    "nombre_canonico": "Navaja multiusos",
    "url": "https://www.amazon.es/dp/B08ZM2KC49?tag=nti0c8-21",
@@ -1236,6 +1416,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B09KNPHP9W": {
+   "nombre_canonico": "Radio FM/AM a pilas o de manivela, con linterna integrada",
+   "url": "https://www.amazon.es/dp/B09KNPHP9W?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y avisos: cuando cae la red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Radio FM/AM a pilas o de manivela, con linterna integrada",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €"
+  },
   "B09LJZM4ZB": {
    "nombre_canonico": "Jabón neutro en pastilla + esponja",
    "url": "https://www.amazon.es/dp/B09LJZM4ZB?tag=nti0c8-21",
@@ -1257,6 +1457,26 @@
    "precio_ref": "2-4 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B09LTFV4VR": {
+   "nombre_canonico": "Ropa de algodón o lana de manga larga (no sintética)",
+   "url": "https://www.amazon.es/dp/B09LTFV4VR?tag=nti0c8-21",
+   "categorias": [
+    "Ropa que no arde pegada a la piel"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Ropa de algodón o lana de manga larga (no sintética)",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-45 €"
   },
   "B09MJ9QV7W": {
    "nombre_canonico": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
@@ -1317,6 +1537,26 @@
    "precio_ref": "4-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B09QSNTH9D": {
+   "nombre_canonico": "Cables de arranque y anticongelante con protección hasta -25",
+   "url": "https://www.amazon.es/dp/B09QSNTH9D?tag=nti0c8-21",
+   "categorias": [
+    "En la calle y en el coche: la nieve"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Cables de arranque y anticongelante con protección hasta -25",
+     "prioridad": "recomendado",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-45 €"
   },
   "B09TBGX1MK": {
    "nombre_canonico": "Conservas variadas (15-20 latas)",
@@ -1399,6 +1639,26 @@
    "precio_ref": "8-18 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B09ZVDXWXR": {
+   "nombre_canonico": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
+   "url": "https://www.amazon.es/dp/B09ZVDXWXR?tag=nti0c8-21",
+   "categorias": [
+    "Ropa que no arde pegada a la piel"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-15 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-15 €"
   },
   "B0B4HRDFVY": {
    "nombre_canonico": "Desumidificador o sachets antihumedad",
@@ -1806,6 +2066,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0CGX22CR8": {
+   "nombre_canonico": "Medidor de CO2 o calidad del aire portátil",
+   "url": "https://www.amazon.es/dp/B0CGX22CR8?tag=nti0c8-21",
+   "categorias": [
+    "Ventilación y calidad del aire"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Medidor de CO2 o calidad del aire portátil",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-40 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-40 €"
+  },
+  "B0CH1MDJVX": {
+   "nombre_canonico": "Extintor de polvo ABC de 1-2 kg con soporte",
+   "url": "https://www.amazon.es/dp/B0CH1MDJVX?tag=nti0c8-21",
+   "categorias": [
+    "Seguridad: el enemigo silencioso es el CO"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
+     "prioridad": "recomendado",
+     "precio_aprox": "25-45 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-45 €"
+  },
   "B0CJDWWGNG": {
    "nombre_canonico": "Guantes impermeables",
    "url": "https://www.amazon.es/dp/B0CJDWWGNG?tag=nti0c8-21",
@@ -1857,6 +2157,26 @@
    "precio_ref": "8-19 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0CKWGSX22": {
+   "nombre_canonico": "Detector de monóxido de carbono a pilas",
+   "url": "https://www.amazon.es/dp/B0CKWGSX22?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Detector de monóxido de carbono a pilas",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €"
   },
   "B0CLLSK9BC": {
    "nombre_canonico": "Faja portadocumentos / riñonera oculta para efectivo",
@@ -1923,6 +2243,26 @@
    "precio_ref": "8-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0CR1MB99P": {
+   "nombre_canonico": "Pala de nieve y sales de deshielo (o arena)",
+   "url": "https://www.amazon.es/dp/B0CR1MB99P?tag=nti0c8-21",
+   "categorias": [
+    "En la calle y en el coche: la nieve"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Pala de nieve y sales de deshielo (o arena)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €"
   },
   "B0CRN5KNCT": {
    "nombre_canonico": "Hornillo de camping a gas con bombonas",
@@ -2043,6 +2383,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0CWDNN3MY": {
+   "nombre_canonico": "Chaleco reflectante de alta visibilidad (dotación obligatoria en moto)",
+   "url": "https://www.amazon.es/dp/B0CWDNN3MY?tag=nti0c8-21",
+   "categorias": [
+    "Obligatorio en España (DGT)"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-coche",
+     "producto": "Chaleco reflectante de alta visibilidad (dotación obligatoria en moto)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-coche"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €"
+  },
   "B0CY8G31G4": {
    "nombre_canonico": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
    "url": "https://www.amazon.es/dp/B0CY8G31G4?tag=nti0c8-21",
@@ -2147,6 +2507,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0D66LK5NP": {
+   "nombre_canonico": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "url": "https://www.amazon.es/dp/B0D66LK5NP?tag=nti0c8-21",
+   "categorias": [
+    "Seguridad: el enemigo silencioso es el CO"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €"
+  },
   "B0D9JMS8H2": {
    "nombre_canonico": "Panel solar portátil 20-40 W",
    "url": "https://www.amazon.es/dp/B0D9JMS8H2?tag=nti0c8-21",
@@ -2198,6 +2578,26 @@
    "precio_ref": "~24 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0D9QGJRGC": {
+   "nombre_canonico": "Calzado cerrado y resistente junto a la cama",
+   "url": "https://www.amazon.es/dp/B0D9QGJRGC?tag=nti0c8-21",
+   "categorias": [
+    "Cabeza y pies: lo que se rompe primero"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-terremoto",
+     "producto": "Calzado cerrado y resistente junto a la cama",
+     "prioridad": "esencial",
+     "precio_aprox": "25-60 €"
+    }
+   ],
+   "kits": [
+    "kit-terremoto"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-60 €"
   },
   "B0DB8GRTPL": {
    "nombre_canonico": "Bastón, andador o silla plegable de repuesto",
@@ -2287,7 +2687,8 @@
    "categorias": [
     "Luz y energía",
     "Energía",
-    "Luz, aviso y rescate"
+    "Luz, aviso y rescate",
+    "Último recurso: messenger satelital"
    ],
    "apariciones": [
     {
@@ -2307,14 +2708,21 @@
      "producto": "Powerbank de 20.000 mAh + cables",
      "prioridad": "esencial",
      "precio_aprox": "25-50 €"
+    },
+    {
+     "kit": "kit-starlink",
+     "producto": "Powerbank de 20.000 mAh + cables",
+     "prioridad": "esencial",
+     "precio_aprox": "25-50 €"
     }
    ],
    "kits": [
     "kit-apagon",
     "kit-basico-72h",
+    "kit-starlink",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "25-50 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2392,6 +2800,46 @@
    "precio_ref": "—",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0DJPSJTPY": {
+   "nombre_canonico": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
+   "url": "https://www.amazon.es/dp/B0DJPSJTPY?tag=nti0c8-21",
+   "categorias": [
+    "Defender la casa si aún hay tiempo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
+     "prioridad": "recomendado",
+     "precio_aprox": "45-90 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "45-90 €"
+  },
+  "B0DJYBFPKV": {
+   "nombre_canonico": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
+   "url": "https://www.amazon.es/dp/B0DJYBFPKV?tag=nti0c8-21",
+   "categorias": [
+    "Cortar gas, agua y luz"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-terremoto",
+     "producto": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-terremoto"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €"
   },
   "B0DK3LBNFM": {
    "nombre_canonico": "Kit de costura de emergencia",
@@ -2889,6 +3337,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0FKBJRT1G": {
+   "nombre_canonico": "Batería externa (power bank) 10.000-20.000 mAh, dos salidas",
+   "url": "https://www.amazon.es/dp/B0FKBJRT1G?tag=nti0c8-21",
+   "categorias": [
+    "Comunicación y avisos: cuando cae la red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-dana",
+     "producto": "Batería externa (power bank) 10.000-20.000 mAh, dos salidas",
+     "prioridad": "recomendado",
+     "precio_aprox": "20-40 €"
+    }
+   ],
+   "kits": [
+    "kit-dana"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-40 €"
+  },
+  "B0FKT1B9HZ": {
+   "nombre_canonico": "Calcetines de lana (3-4 pares)",
+   "url": "https://www.amazon.es/dp/B0FKT1B9HZ?tag=nti0c8-21",
+   "categorias": [
+    "Calor corporal: la capa que salva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Calcetines de lana (3-4 pares)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €"
+  },
   "B0FKT561SK": {
    "nombre_canonico": "Termómetro digital de bebé",
    "url": "https://www.amazon.es/dp/B0FKT561SK?tag=nti0c8-21",
@@ -2910,6 +3398,26 @@
    "precio_ref": "6-12 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0FMDRF8H3": {
+   "nombre_canonico": "Acumuladores de frío (bloques de gel congelables) para nevera y congelador",
+   "url": "https://www.amazon.es/dp/B0FMDRF8H3?tag=nti0c8-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Acumuladores de frío (bloques de gel congelables) para nevera y congelador",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €"
   },
   "B0FNCWC3SM": {
    "nombre_canonico": "Gorro y manoplas de bebé",
@@ -3119,6 +3627,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0G1MQ28GS": {
+   "nombre_canonico": "Guantes de abrigo (y unos finos para tareas)",
+   "url": "https://www.amazon.es/dp/B0G1MQ28GS?tag=nti0c8-21",
+   "categorias": [
+    "Calor corporal: la capa que salva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Guantes de abrigo (y unos finos para tareas)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €"
+  },
   "B0G2LY256T": {
    "nombre_canonico": "Balizas LED de noche con sensor (pack 2-3)",
    "url": "https://www.amazon.es/dp/B0G2LY256T?tag=nti0c8-21",
@@ -3207,6 +3735,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0G476FZLP": {
+   "nombre_canonico": "Casco de protección",
+   "url": "https://www.amazon.es/dp/B0G476FZLP?tag=nti0c8-21",
+   "categorias": [
+    "Cabeza y pies: lo que se rompe primero"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-terremoto",
+     "producto": "Casco de protección",
+     "prioridad": "esencial",
+     "precio_aprox": "12-35 €"
+    }
+   ],
+   "kits": [
+    "kit-terremoto"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-35 €"
+  },
   "B0G65QTD2Y": {
    "nombre_canonico": "Crema barrera contra rozaduras",
    "url": "https://www.amazon.es/dp/B0G65QTD2Y?tag=nti0c8-21",
@@ -3228,6 +3776,46 @@
    "precio_ref": "4-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0GGY8TTR2": {
+   "nombre_canonico": "Linterna LED a pilas o de dinamo",
+   "url": "https://www.amazon.es/dp/B0GGY8TTR2?tag=nti0c8-21",
+   "categorias": [
+    "Luz, energía y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-hogar",
+     "producto": "Linterna LED a pilas o de dinamo",
+     "prioridad": "esencial",
+     "precio_aprox": "8-25 €"
+    }
+   ],
+   "kits": [
+    "kit-hogar"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-25 €"
+  },
+  "B0GHVYZR58": {
+   "nombre_canonico": "Guantes de trabajo de cuero o resistentes al calor",
+   "url": "https://www.amazon.es/dp/B0GHVYZR58?tag=nti0c8-21",
+   "categorias": [
+    "Ropa que no arde pegada a la piel"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Guantes de trabajo de cuero o resistentes al calor",
+     "prioridad": "recomendado",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €"
   },
   "B0GK6PV1M4": {
    "nombre_canonico": "Botiquín de bolsillo",
@@ -3858,6 +4446,26 @@
    "precio_ref": "6-14 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0H8J5NTW9": {
+   "nombre_canonico": "Cortinas térmicas o manta de lana para tapar la ventana",
+   "url": "https://www.amazon.es/dp/B0H8J5NTW9?tag=nti0c8-21",
+   "categorias": [
+    "Que el frío no entre: la casa"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Cortinas térmicas o manta de lana para tapar la ventana",
+     "prioridad": "recomendado",
+     "precio_aprox": "15-40 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-40 €"
   },
   "B0H8X7LJTM": {
    "nombre_canonico": "Bolsas de residuos (50+ unidades)",
