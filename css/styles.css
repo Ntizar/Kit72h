@@ -1098,8 +1098,11 @@ a.card-kit{color:inherit;text-decoration:none}
    ═══════════════════════════════════════════════════════════ */
 
 .kpro-hero-btn {
-  display: block;
-  margin: 20px auto 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0;
   max-width: 600px;
   padding: 18px 24px;
   background: linear-gradient(135deg, #1a1510 0%, #2a2015 50%, #1a1008 100%);
@@ -1178,7 +1181,20 @@ a.card-kit{color:inherit;text-decoration:none}
   color: var(--rojo);
 }
 
+/* Fila de oferta del hero: banner rojo (iza.) + botón KIT PRO (der.) */
+.hero-oferta{
+  display:flex;gap:22px;flex-wrap:wrap;align-items:stretch;
+  margin-top:44px;max-width:1000px;
+}
+/* El banner rojo un poco más estrecho que antes (era 760px) */
+.hero-oferta .cta-kit{margin-top:0;flex:0 1 500px;max-width:500px}
+/* El KIT PRO, a la derecha y ocupando el hueco libre del hero */
+.hero-oferta .kpro-hero-btn{flex:1 1 360px;max-width:480px}
+
 @media(max-width:700px){
+  .hero-oferta{gap:16px}
+  .hero-oferta .cta-kit,
+  .hero-oferta .kpro-hero-btn{flex:1 1 100%;max-width:100%}
   .kpro-hero-btn{
     padding:14px 16px;
   }

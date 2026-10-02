@@ -162,6 +162,7 @@ const ui = {
             <a class="btn ambar" href="#kits">Ver los kits ↓</a>
             <a class="btn negro" href="${compra}" target="_blank" rel="sponsored nofollow noopener">Comprar mi kit →</a>
           </div>
+          <div class="hero-oferta">
           <a class="cta-kit" href="${compra}" target="_blank" rel="sponsored nofollow noopener">
             <span class="cta-kit-t">No pierdas el tiempo:<br>compra tu kit completo</span>
             <span class="cta-kit-b">Kit de emergencia de 72 h, listo para mandarlo a casa →</span>
@@ -172,6 +173,7 @@ const ui = {
             <span class="kpro-hero-title">Energía + conectividad para los que no se quedan a medio camino</span>
             <span class="kpro-hero-cta">Ver kit profesional →</span>
           </a>
+          </div>
         </div>
       </div>
       <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('AGUA · LUZ · ENERGÍA · SALUD · COMIDA · DOCUMENTOS')}</div></div>
