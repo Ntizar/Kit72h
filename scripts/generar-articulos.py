@@ -15,30 +15,30 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PLACEHOLDER</title>
-<meta name="description" content="PLACEHOLDER">
-<link rel="canonical" href="https://kit72h.com/blog/PLACEHOLDER/">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<link rel="canonical" href="https://kit72h.com/blog/{{SLUG}}/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/styles.css?v=20261001c">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://kit72h.com/blog/PLACEHOLDER/">
-<meta property="og:title" content="PLACEHOLDER">
-<meta property="og:description" content="PLACEHOLDER">
+<meta property="og:url" content="https://kit72h.com/blog/{{SLUG}}/">
+<meta property="og:title" content="{{OG_TITLE}}">
+<meta property="og:description" content="{{OG_DESC}}">
 <meta property="og:image" content="https://kit72h.com/assets/og-kit72h.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PLACEHOLDER">
-<meta name="twitter:description" content="PLACEHOLDER">
+<meta name="twitter:title" content="{{OG_TITLE}}">
+<meta name="twitter:description" content="{{OG_DESC}}">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "PLACEHOLDER",
-  "description": "PLACEHOLDER",
-  "author": {"@type": "Person", "name": "David Antizar"},
-  "datePublished": "PLACEHOLDER",
-  "dateModified": "PLACEHOLDER",
+  "headline": "{{TITLE}}",
+  "description": "{{DESC}}",
+  "author": {"@type": "Organization", "name": "Kit72h"},
+  "datePublished": "{{DATE}}",
+  "dateModified": "{{DATE}}",
   "publisher": {
     "@type": "Organization",
     "name": "Kit72h",
@@ -46,7 +46,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://kit72h.com/blog/PLACEHOLDER/"
+    "@id": "https://kit72h.com/blog/{{SLUG}}/"
   }
 }
 </script>
@@ -57,7 +57,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://kit72h.com/" },
     { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://kit72h.com/blog/" },
-    { "@type": "ListItem", "position": 3, "name": "PLACEHOLDER", "item": "https://kit72h.com/blog/PLACEHOLDER/" }
+    { "@type": "ListItem", "position": 3, "name": "{{TITLE}}", "item": "https://kit72h.com/blog/{{SLUG}}/" }
   ]
 }
 </script>
@@ -72,17 +72,17 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
       <div class="sec-inner">
 <article class="entrada-blog" style="max-width:70ch;margin:40px auto 60px">
   <span class="sec-label sec-clara">Blog</span>
-  <h1>PLACEHOLDER</h1>
-  <p class="meta-blog">Publicado el PLACEHOLDER · PLACEHOLDER de lectura · PLACEHOLDER</p>
+  <h1>{{TITLE}}</h1>
+  <p class="meta-blog">Publicado el {{DATE}} · {{READ_TIME}} de lectura · {{CATEGORY}}</p>
   <div class="cuerpo-blog">
-PLACEHOLDER
+{{BODY}}
   </div>
-  <a class="btn ambar full" style="margin-top:40px" href="https://www.amazon.es/s?k=PLACEHOLDER&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar productos relacionados en Amazon ↗</a>
+  <a class="btn ambar full" style="margin-top:40px" href="https://www.amazon.es/s?k={{AMAZON_QUERY}}&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Buscar productos relacionados en Amazon ↗</a>
 </article>
 <div style="max-width:70ch;margin:0 auto 40px">
   <h3 style="font-family:var(--display);font-size:20px;text-transform:uppercase;margin-bottom:16px">Artículos relacionados</h3>
   <div style="display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(280px,1fr))">
-PLACEHOLDER
+{{RELATED_ARTICLES}}
   </div>
 </div>
       </div>
@@ -324,23 +324,22 @@ def create_article(article):
         NL = chr(10)
         related_html += "<a href=\"/blog/{}/\" style=\"border:var(--b);background:var(--crema);padding:16px;display:flex;flex-direction:column;gap:4px;text-decoration:none\">{}<span class=\"meta-blog\">Leer artículo →</span></a>".format(d, t) + chr(10)
     now = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+02:00")
+    replacements = {
+        "{{TITLE}}": article["title"],
+        "{{DESC}}": article["meta_desc"],
+        "{{SLUG}}": slug,
+        "{{OG_TITLE}}": article["og_title"],
+        "{{OG_DESC}}": article["og_desc"],
+        "{{DATE}}": now,
+        "{{READ_TIME}}": article["read_time"],
+        "{{CATEGORY}}": article["category"],
+        "{{AMAZON_QUERY}}": article["amazon_query"],
+        "{{BODY}}": article["body"],
+        "{{RELATED_ARTICLES}}": related_html,
+    }
     html = ARTICLE_TEMPLATE
-    # Reemplazar todos los placeholders uno por uno para evitar conflictos con JSON
-    for key, val in {
-        "PLACEHOLDER": article["title"],
-        "PLACEHOLDER": article["meta_desc"],
-        "PLACEHOLDER": slug,
-        "PLACEHOLDER": article["og_title"],
-        "PLACEHOLDER": article["og_desc"],
-        "PLACEHOLDER": now,
-        "PLACEHOLDER": article["read_time"],
-        "PLACEHOLDER": article["category"],
-        "PLACEHOLDER": article["amazon_query"],
-        "PLACEHOLDER": article["body"],
-        "PLACEHOLDER": related_html,
-        "PLACEHOLDER": article["og_title"],
-    }.items():
-        html = html.replace(key, val)
+    for placeholder, value in replacements.items():
+        html = html.replace(placeholder, value)
     
     filepath = os.path.join(dir_path, "index.html")
     with open(filepath, 'w', encoding='utf-8') as f:
