@@ -140,7 +140,13 @@ def main():
                 # asserts de contenido horneado: se calculan ANTES del dump
                 # para que el reintentador de dump() pueda validarlos.
                 if ctx and ctx[0] == "kit":
-                    esperado = "barra-progreso"
+                    # kit-kit-profesional no tiene secciones → no tiene barra-progreso;
+                    # usamos el canonical href como marcador alternativo
+                    kit_data = ctx[1]
+                    if kit_data.get("secciones"):
+                        esperado = "barra-progreso"
+                    else:
+                        esperado = f"/kit/{kit_data['slug']}/"  # canonical en el href del enlace de vuelta
                 elif ctx and ctx[0] == "blog":
                     esperado = "cuerpo-blog"
                 elif ruta == "/blog/":

@@ -1,190 +1,157 @@
 #!/usr/bin/env python3
-"""Generador de pines para Pinterest desde los artículos de Kit72h.
-Crea imágenes planas estilo editorial (Aurora 7) con título + logo Kit72h.
-Formato: 1000x1500px (ratio 2:3, ideal para Pinterest)."""
+# -*- coding: utf-8 -*-
+"""Kit72h — Pinterest Pin Generator para atraer tráfico masivo.
 
-import os
-import html
+Genera HTML estático de pins optimizados para Pinterest:
+- Tarjetas visuales estilo Aurora 7 (1000x1500px, ratio 2:3)
+- Cobertura de KITS y blog entries
+- Cada pin enlazando a una página del sitio
+
+Pinterest = fuente de tráfico orgánico masivo y de LARGA VIDA (meses/años).
+"""
+
 import json
-from datetime import datetime
+import os
+import re
+import subprocess
+from pathlib import Path
 
-PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-BLOG_DIR = os.path.join(PROJECT, 'blog')
-PINTOUT_DIR = os.path.join(PROJECT, 'pintout')
-
-os.makedirs(PINTOUT_DIR, exist_ok=True)
-
-
-def extract_blog_title(content):
-    """Extraer el título de un HTML de blog."""
-    import re
-    m = re.search(r'<title>([^<]+)</title>', content)
-    if m:
-        return html.unescape(m.group(1))
-    return ""
+RAIZ = Path(__file__).resolve().parents[1]
+PINTOUT_DIR = RAIZ / "pintout"
+PINTOUT_DIR.mkdir(exist_ok=True)
+IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 
-def extract_meta_desc(content):
-    """Extraer la meta descripción de un blog."""
-    import re
-    m = re.search(r'<meta name="description" content="([^"]+)"', content)
-    if m:
-        return html.unescape(m.group(1))
-    return ""
+def run(*args, timeout=300):
+    return subprocess.run(args, cwd=RAIZ, capture_output=True, text=True, timeout=timeout)
 
 
-def generate_pin_html(title, desc, slug, pin_id):
-    """Generar el HTML de un pin estilo Aurora 7."""
-    # Colores Aurora 7
-    colores = [
-        ("#D14B27", "#F1EBDF"),  # Rojo sobre crema
-        ("#EFA02B", "#F1EBDF"),  # Ámbar sobre crema
-        ("#26201A", "#F1EBDF"),  # Negro sobre crema
-        ("#D14B27", "#FFFFFF"),  # Rojo sobre blanco
-        ("#EFA02B", "#0E0C09"),  # Ámbar sobre negro
-    ]
-    bg, fg = colores[pin_id % len(colores)]
-    
-    # Fragmento del título (max 60 chars para que quepa)
-    title_short = title[:55]
-    if len(title) > 55:
-        title_short += "…"
-    
-    # Fragmento de descripción (max 80 chars)
-    desc_short = desc[:75] if desc else ""
-    
-    pin_html = f'''<!DOCTYPE html>
+def git(*args):
+    return run("git", *args)
+
+
+COLORES = [
+    ("#D14B27", "#F1EBDF"),
+    ("#EFA02B", "#F1EBDF"),
+    ("#26201A", "#F1EBDF"),
+    ("#D14B27", "#FFFFFF"),
+    ("#EFA02B", "#0E0C09"),
+    ("#D14B27", "#0E0C09"),
+]
+
+
+def generate_pin_html(title, subtitle, color_idx=0, show_cta=True):
+    bg, fg = COLORES[color_idx % len(COLORES)]
+    title_safe = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    subtitle_safe = subtitle.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+    return f'''<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Pin {pin_id} — Kit72h</title>
+<title>Pin — Kit72h</title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;700&display=swap');
-body {{
-  margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 1000px;
-  height: 1500px;
-  background: {bg};
-  font-family: 'IBM Plex Mono', monospace;
-}}
-.container {{
-  max-width: 800px;
-  padding: 60px 40px;
-  text-align: center;
-  color: {fg};
-}}
-.logo {{
-  font-family: 'Anton', sans-serif;
-  font-size: 42px;
-  letter-spacing: 3px;
-  margin-bottom: 40px;
-  text-transform: uppercase;
-  border-bottom: 4px solid {fg};
-  display: inline-block;
-  padding-bottom: 8px;
-}}
-.logo .accent {{
-  color: {'#EFA02B' if fg == '#F1EBDF' or fg == '#FFFFFF' else '#EFA02B'};
-}}
-.title {{
-  font-family: 'Anton', sans-serif;
-  font-size: 52px;
-  line-height: 1.15;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 30px;
-}}
-.desc {{
-  font-size: 22px;
-  line-height: 1.6;
-  opacity: 0.85;
-  margin-bottom: 40px;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-}}
-.cta {{
-  font-size: 18px;
-  font-weight: 700;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  border: 2px solid {fg};
-  padding: 16px 32px;
-  display: inline-block;
-  opacity: 0.7;
-}}
-.pin-id {{
-  position: absolute;
-  bottom: 30px;
-  right: 40px;
-  font-size: 11px;
-  opacity: 0.4;
-  letter-spacing: 2px;
-}}
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;700&amp;display=swap');
+body {{ margin: 0; display: flex; align-items: center; justify-content: center;
+  width: 1000px; height: 1500px; background: {bg}; font-family: 'IBM Plex Mono', monospace; }}
+.container {{ max-width: 800px; padding: 60px 40px; text-align: center; color: {fg}; }}
+.logo {{ font-family: 'Anton', sans-serif; font-size: 42px; letter-spacing: 3px;
+  margin-bottom: 40px; text-transform: uppercase; border-bottom: 4px solid {fg};
+  display: inline-block; padding-bottom: 8px; }}
+.logo .accent {{ color: #EFA02B; }}
+.title {{ font-family: 'Anton', sans-serif; font-size: 52px; line-height: 1.15;
+  text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px; color: {fg}; }}
+.subtitle {{ font-size: 20px; line-height: 1.5; opacity: 0.8; margin-bottom: 40px;
+  max-width: 600px; margin-left: auto; margin-right: auto; color: {fg}; }}
+.divider {{ height: 2px; background: linear-gradient(90deg, transparent, {fg}, transparent);
+  margin: 20px 0; }}
+.cta {{ font-size: 18px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase;
+  border: 2px solid {fg}; padding: 16px 32px; display: inline-block;
+  opacity: 0.7; margin-top: 20px; }}
+.pin-id {{ position: absolute; bottom: 30px; right: 40px; font-size: 11px;
+  opacity: 0.4; letter-spacing: 2px; }}
+.icon-row {{ display: flex; justify-content: center; gap: 20px; margin: 30px 0 10px;
+  font-size: 32px; opacity: 0.5; }}
 </style>
 </head>
 <body>
 <div class="container">
   <div class="logo">KIT<span class="accent">72H</span></div>
-  <div class="title">{title_short}</div>
-  <div class="desc">{desc_short}</div>
-  <div class="cta">Leer artículo →</div>
+  <div class="title">{title_safe}</div>
+  {f'<div class="subtitle">{subtitle_safe}</div>' if subtitle else ''}
+  <div class="divider"></div>
+  <div class="icon-row"><span>📋</span><span>🔥</span><span>⚡</span><span>💧</span><span>🏠</span></div>
+  {f'<div class="cta">LEER EL KIT →</div>' if show_cta else ''}
 </div>
-<div class="pin-id">kit72h.com · pin-{pin_id}</div>
+<div class="pin-id">kit72h.com</div>
 </body>
 </html>'''
-    return pin_html
+
+
+def generar_pins():
+    kits_data = json.loads((RAIZ / "data" / "kits.json").read_text(encoding="utf-8"))
+    blog_data = json.loads((RAIZ / "data" / "blog.json").read_text(encoding="utf-8"))
+    existing = json.loads((RAIZ / "data" / "pins-generados.json").read_text(encoding="utf-8")) if (RAIZ / "data" / "pins-generados.json").exists() else {"pins": []}
+    existing_slugs = {p["slug"] for p in existing.get("pins", [])}
+    pins_created = []
+
+    kit_emojis = {
+        "kit-basico-72h": "🎒", "kit-dana": "🌊", "kit-apagon": "⚡",
+        "kit-coche": "🚗", "kit-hogar": "🏠", "kit-montana": "🏔️",
+        "kit-calor": "☀️", "kit-evacuacion": "🚨", "kit-bebe": "👶",
+        "kit-mayores": "👴", "kit-mascotas": "🐾", "kit-frio": "❄️",
+        "kit-terremoto": "💥", "kit-incendio": "🔥", "huerto-autosuficiencia": "🌱",
+        "kit-30-dias": "📦", "kit-kit-profesional": "🏭",
+    }
+
+    for kit in kits_data.get("kits", []):
+        slug = kit["slug"]
+        if slug in existing_slugs:
+            continue
+        emoji = kit_emojis.get(slug, "📋")
+        titulo = f"{emoji} {kit['titulo']}"[:60]
+        resumen = re.sub(r'<[^>]+>', '', kit.get("resumen", "")).replace("&", "")[:80]
+        url = f"https://kit72h.com/kit/{slug}/"
+        pin_html = generate_pin_html(titulo, resumen, color_idx=kits_data["kits"].index(kit))
+        pin_file = PINTOUT_DIR / f"pin-kit-{slug}.html"
+        pin_file.write_text(pin_html, encoding="utf-8", newline="\n")
+        pins_created.append({"slug": f"pin-kit-{slug}", "tipo": "kit", "titulo": kit["titulo"], "url": url, "emoji": emoji, "pin": pin_file.name})
+
+    for i, entry in enumerate(blog_data.get("entradas", [])[:10]):
+        slug = entry["slug"]
+        if slug in existing_slugs:
+            continue
+        titulo = entry.get("titulo", slug)[:55]
+        if len(entry.get("titulo", "")) > 55:
+            titulo += "..."
+        resumen = entry.get("resumen", "")[:77]
+        url = f"https://kit72h.com/blog/{slug}/"
+        pin_html = generate_pin_html(titulo, resumen, color_idx=i + 20)
+        pin_file = PINTOUT_DIR / f"pin-blog-{slug}.html"
+        pin_file.write_text(pin_html, encoding="utf-8", newline="\n")
+        pins_created.append({"slug": f"pin-blog-{slug}", "tipo": "blog", "titulo": entry.get("titulo", ""), "url": url, "emoji": "📖", "pin": pin_file.name})
+
+    (RAIZ / "data" / "pins-generados.json").write_text(json.dumps({"meta": {"ultima_generacion": "2026-10-02", "total": len(pins_created)}, "pins": pins_created}, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Pins generados: {len(pins_created)}")
+    for p in pins_created:
+        print(f"  {p['emoji']} {p['tipo']}: {p['titulo'][:50]}")
+    return pins_created
+
+
+def main():
+    pins = generar_pins()
+    if not pins:
+        print("Pins: sin cambios")
+        return
+    git("add", "data/pins-generados.json", "pintout/")
+    git(*IDENT, "commit", "-q", "-m", "feat: generar pins Pinterest para atraer tráfico")
+    git("pull", "--rebase", "-q", "origin", "main")
+    p = git("push", "-q", "origin", "main")
+    if p.returncode == 0:
+        print("  ✓ Push completado")
+    else:
+        print(f"  ⚠️ Push falló: {(p.stderr or '').strip()[:200]}")
 
 
 if __name__ == "__main__":
-    pins_created = []
-    
-    # Recorrer todos los artículos del blog
-    for d in sorted(os.listdir(BLOG_DIR)):
-        blog_path = os.path.join(BLOG_DIR, d)
-        if not os.path.isdir(blog_path):
-            continue
-        
-        index_path = os.path.join(blog_path, 'index.html')
-        if not os.path.exists(index_path):
-            continue
-        
-        with open(index_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        title = extract_blog_title(content)
-        desc = extract_meta_desc(content)
-        
-        if not title:
-            continue
-        
-        # Generar 3 variantes de pin por artículo
-        for variant in range(3):
-            pin_html = generate_pin_html(title, desc, d, variant + 1)
-            pin_filename = f'pin-{d}-{variant+1}.html'
-            pin_path = os.path.join(PINTOUT_DIR, pin_filename)
-            
-            with open(pin_path, 'w', encoding='utf-8') as f:
-                f.write(pin_html)
-            
-            pins_created.append({
-                "blog": d,
-                "title": title,
-                "pin": pin_filename,
-                "path": pin_path
-            })
-    
-    # Guardar índice
-    index_path = os.path.join(PINTOUT_DIR, 'indice.json')
-    with open(index_path, 'w', encoding='utf-8') as f:
-        json.dump(pins_created, f, indent=2, ensure_ascii=False)
-    
-    print(f"✓ {len(pins_created)} pines generados en {PINTOUT_DIR}")
-    print(f"  Índice: {index_path}")
-    print("\nPara convertir a imágenes:")
-    print("  1. Instalar: pip install playwright")
-    print("  2. Ejecutar: python scripts/render-pins.py")
-    print("  3. Subir los HTML/PNG a Pinterest")
+    main()
