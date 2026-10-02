@@ -10,16 +10,46 @@ Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, 
 
 | Cron | Cuándo | Tipo | Estado |
 |---|---|---|---|
-| `kit72h-comparador` | diario 04:00 | LLM | ✅ **NUEVO** |
-| `kit72h-editor` | diario 04:30 | LLM | ✅ EDITADO (prioridad: comparativas) |
-| `kit72h-buscador` | diario 05:15 | script | ✅ OK |
-| `kit72h-seo-audit` | diario 06:00 | script | ✅ OK (regex JSON-LD arreglado) |
-| `kit72h-seo-ctr` | diario 06:30 | LLM | ✅ **NUEVO** |
-| `kit72h-ofertas` | diario 07:00 | LLM | ✅ **NUEVO** |
-| `kit72h-vigilante` | lunes 09:00 | LLM | ✅ **REACTIVADO** |
-| `kit72h-revision-urls` | 15 mes 09:00 | LLM | ✅ OK (bonus) |
+| `kit72h-comparador` | diario 04:00 | LLM | ✅ |
+| `kit72h-editor` | diario 04:30 | LLM | ✅ (prioridad: comparativas) |
+| `kit72h-buscador` | diario 05:15 | script | ✅ |
+| `kit72h-seo-audit` | diario 06:00 | script | ✅ |
+| `kit72h-seo-ctr` | diario 06:30 | LLM | ✅ |
+| `kit72h-ofertas` | diario 07:00 | LLM | ✅ |
+| `kit72h-vigilante` | lunes 09:00 | LLM | ✅ (reactivado) |
+| `kit72h-pins` | diario 08:00 | script | ✅ **NUEVO** |
+| `kit72h-revision-urls` | 15 mes 09:00 | LLM | ✅ (bonus) |
 
-**Todos verdes.** Cadena nocturna: comparador → editor → buscador → seo-audit → seo-ctr → ofertas.
+**8 crons activos + 1 bonus.** Todos verdes.
+
+---
+
+## El sistema de tráfico (Pinterest + SEO)
+
+```
+08:00  pins           script   → genera 27+ pins Pinterest (kits + blog)
+```
+
+**Pinterest** = 500M+ usuarios, pins con vida de meses/años (no horas como Twitter).
+Cada pin genera una tarjeta visual que enlaza a una página de kit72h.com.
+
+**Cómo funciona:**
+1. `generar-pins.py` genera HTML de pins (1000x1500px, estilo Aurora 7)
+2. Cada pin enlaza a un kit o blog con URL real
+3. Screenshot → subir a Pinterest → tráfico orgánico masivo
+4. Se ejecuta cada noche → pins frescos → más indexación
+
+**27 pins generados hoy:** 17 kits + 10 blog entries.
+
+### Otros crons de venta
+
+| Cron | Qué hace | Impacto en ventas |
+|---|---|---|
+| `comparador` | Genera páginas "Mejor X", "Top 5", "A vs B" | 🔴 Conversión directa |
+| `seo-ctr` | Optimiza títulos y descriptions para CTR | 🟠 Más clics desde Google |
+| `ofertas` | Monitoriza deals Amazon → pin en home | 🟠 Urgencia → clic → compra |
+| `pins` | Genera pins Pinterest → tráfico masivo | 🟠 500M+ usuarios Pinterest |
+| `editor` | Escribe blogs con prioridad comparativas | 🔴 Contenido de conversión |
 
 ---
 
@@ -32,6 +62,7 @@ Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, 
 06:00  seo-audit      script   → auditoría SEO + auto-repara prerender
 06:30  seo-ctr        LLM      → optimiza meta tags para CTR
 07:00  ofertas        LLM      → monitoriza deals, inserta pin de ofertas
+08:00  pins           script   → genera pins Pinterest (kits + blog)
 09:00  vigilante      LLM      → lunes: chequeo completo semanal
 ```
 
