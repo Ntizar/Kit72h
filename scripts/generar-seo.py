@@ -58,9 +58,18 @@ pat = re.compile(
     r'("name": "Kits de emergencia Kit72h",\s*"itemListElement": \[\n).*?(\n  \]\n\})',
     re.S)
 nuevo, n = pat.subn(lambda m: m.group(1) + items + m.group(2), idx, count=1)
-assert n == 1, "No se encontró el bloque ItemList en index.html"
-(RAIZ / "index.html").write_text(nuevo, encoding="utf-8")
-print(f"index.html: ItemList con {len(kits['kits'])} kits (URLs /kit/)")
+if n == 0:
+    # ItemList no existe: crearlo antes de </head>
+    itemlist_block = '<script type="application/ld+json">\\n' + \
+        '{\\n  "@context": "https://schema.org",\\n  "@type": "ItemList",\\n' + \
+        '"name": "Kits de emergencia Kit72h",\\n"itemListElement": [\\n' + items + '\\n  ]\\n}\\n' + \
+        '</script>\\n'
+    nuevo = idx + itemlist_block
+    (RAIZ / "index.html").write_text(nuevo, encoding="utf-8")
+    print(f"index.html: ItemList creado con {len(kits['kits'])} kits (URLs /kit/)")
+else:
+    (RAIZ / "index.html").write_text(nuevo, encoding="utf-8")
+    print(f"index.html: ItemList actualizado con {len(kits['kits'])} kits (URLs /kit/)")
 
 # ---- 3) feed.xml (RSS 2.0) — lo adoran agregadores y buscadores ----
 entradas = blog["entradas"][:20]

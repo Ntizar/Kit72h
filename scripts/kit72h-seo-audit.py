@@ -42,10 +42,10 @@ for f in paginas:
     if 'rel="canonical"' not in h:
         problemas.append(f"sin canonical: {f.relative_to(R)}")
     for m in re.finditer(r'<script type="application/ld\+json">\s*(\{.*?\})\s*</script>', h, re.S):
-        try:
-            json.loads(m.group(1).replace("<\\/", "</"))
-        except Exception:
-            problemas.append(f"JSON-LD roto: {f.relative_to(R)}")
+            try:
+                json.loads(m.group(1).replace("<\\/", "</"))
+            except Exception:
+                problemas.append(f"JSON-LD roto: {f.relative_to(R)}")
 
 # 3) robots abierto a IA
 robots = (R / "robots.txt").read_text(encoding="utf-8")

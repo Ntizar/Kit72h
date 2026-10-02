@@ -1015,31 +1015,36 @@
       "titulo": "Alimentos para emergencias: rotación sin desperdicio",
       "resumen": "Alimentos para emergencias: rotación sin desperdicio",
       "slug": "alimentos-emergencia-caducidad-rotacion",
-      "url": "/blog/alimentos-emergencia-caducidad-rotacion/"
+      "url": "/blog/alimentos-emergencia-caducidad-rotacion/",
+      "fecha": "2026-10-02"
     },
     {
       "titulo": "El botiquín de emergencia para todo hogar",
       "resumen": "El botiquín de emergencia para todo hogar",
       "slug": "botiquin-emergencia-lista-completa",
-      "url": "/blog/botiquin-emergencia-lista-completa/"
+      "url": "/blog/botiquin-emergencia-lista-completa/",
+      "fecha": "2026-10-02"
     },
     {
       "titulo": "Las 7 mejores linternas para un kit de emergencia 72h",
       "resumen": "Las 7 mejores linternas para un kit de emergencia 72h",
       "slug": "mejor-linterna-emergencia-72h",
-      "url": "/blog/mejor-linterna-emergencia-72h/"
+      "url": "/blog/mejor-linterna-emergencia-72h/",
+      "fecha": "2026-10-02"
     },
     {
       "titulo": "El powerbank perfecto para tu kit de emergencia",
       "resumen": "El powerbank perfecto para tu kit de emergencia",
       "slug": "mejor-powerbank-emergencia-capacidad",
-      "url": "/blog/mejor-powerbank-emergencia-capacidad/"
+      "url": "/blog/mejor-powerbank-emergencia-capacidad/",
+      "fecha": "2026-10-02"
     },
     {
       "titulo": "La mejor radio de emergencia con manivela y panel solar",
       "resumen": "La mejor radio de emergencia con manivela y panel solar",
       "slug": "mejor-radio-emergencia-manivela-solar",
-      "url": "/blog/mejor-radio-emergencia-manivela-solar/"
+      "url": "/blog/mejor-radio-emergencia-manivela-solar/",
+      "fecha": "2026-10-02"
     }
   ]
 }
