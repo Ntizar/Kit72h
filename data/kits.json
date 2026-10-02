@@ -3958,6 +3958,129 @@
         "Olvidar que las pastillas caducan: una pastilla de cloro de hace 3 años puede no tener efecto. Revisa la fecha cada año.",
         "No tener un método de emergencia: si se te acaban las pastillas y el filtro se atasca, ¿cómo purificas? El método de emergencia es siempre hervir el agua."
       ]
+    },
+    {
+      "id": "kit-comunicacion",
+      "titulo": "Kit comunicación de emergencia",
+      "slug": "kit-comunicacion",
+      "icono": "📡",
+      "resumen": "Walkies PMR446, radio amateur, messenger satelital y redundancia triple. Cuando se caen todas las redes, esto te mantiene conectado.",
+      "fuente": {
+        "nombre": "Protección Civil — Comunicación en emergencias",
+        "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/lluvias-intensas",
+        "fecha": "2026-10-02"
+      },
+      "guia": {
+        "antes": [
+          "Acuerda con la familia un punto de encuentro y un canal de comunicación",
+          "Prueba los walkies antes: pon uno en la cocina y otro en el jardín para ver el alcance real",
+          "Sintoniza la radio FM con la emisora de tu comunidad y Radio Nacional",
+          "Acumula pilas recargables + cargador USB",
+          "Si tienes messenger satelital, prueba el dispositivo y configura tus contactos de emergencia"
+        ],
+        "durante": [
+          "Usa los walkies para contactar con miembros de la familia en zonas próximas",
+          "Mantén la radio encendida al menos 2 veces al día para escuchar avisos oficiales",
+          "Si tienes messenger satelital, envía un mensaje de estado una vez al día",
+          "No llenes la red móvil con llamadas: usa mensajes de texto",
+          "Si la familia está dispersa, acuerda un horario fijo para intentar contactar"
+        ],
+        "despues": [
+          "Recarga todos los dispositivos y repón pilas usadas",
+          "Evalúa qué funcionó y qué no: ajusta el kit para la próxima",
+          "Renueva las suscripciones de servicios satelitales si las tienes activas"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Comunicación local: walkies PMR446",
+          "items": [
+            {
+              "producto": "Walkie-talkies PMR446 (pareja, recargables)",
+              "afiliado": "https://www.amazon.es/dp/B071NWGL29?tag=nti0c8-21",
+              "descripcion": "Par de walkies PMR446 con batería recargable. Hasta 3 km en campo abierto, 300-500 m en zona urbana. Canales de uso común, sin licencia.",
+              "precio_aprox": "40-80 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Walkie-talkies de gama media (pareja, alcance ampliado)",
+              "afiliado": "https://www.amazon.es/s?k=walkie+talkie+pmr446+gama+media&tag=nti0c8-21",
+              "descripcion": "Mejor antena y sensibilidad que los básicos. 5-10 km en campo abierto. Ideales para zonas rurales.",
+              "precio_aprox": "60-120 €",
+              "prioridad": "recomendado"
+            }
+          ],
+          "intro": "Sin licencia, sin cobertura, sin internet. Los PMR446 son legales en España, funcionan sin red."
+        },
+        {
+          "titulo": "Comunicación con el exterior: radio y messenger satelital",
+          "items": [
+            {
+              "producto": "Radio FM/AM a pilas o de dinamo con linterna integrada",
+              "afiliado": "https://www.amazon.es/dp/B0GWNDVR7S?tag=nti0c8-21",
+              "descripcion": "Única fuente de información si caen internet y telefonía. Con dinamo mejor (energía infinita).",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Messenger satelital (Garmin inReach o similar)",
+              "afiliado": "https://www.amazon.es/s?k=messenger+satelital+emergencia&tag=nti0c8-21",
+              "descripcion": "Envía mensajes y alertas de SOS por red satelital. Funciona sin cobertura móvil, sin WiFi.",
+              "precio_aprox": "250-400 € (dispositivo) + 5-25 €/mes",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Antena exterior para radio (opcional)",
+              "afiliado": "https://www.amazon.es/s?k=antena+exterior+radio+fm+emergencia&tag=nti0c8-21",
+              "descripcion": "Mejora la recepción de la radio FM/AM si vives en zona de difícil cobertura.",
+              "precio_aprox": "10-30 €",
+              "prioridad": "extra"
+            }
+          ],
+          "intro": "Cuando se caen las redes móviles, necesitas radio para información oficial y messenger satelital para comunicación bidireccional."
+        }
+      ],
+      "paraQuien": "Para cualquier hogar que quiera estar seguro de que puede contactar con su familia y recibir información oficial aunque se caigan TODAS las redes (móvil, fibra, LTE).",
+      "paraQuien_no": "No para quien viva solo en una ciudad sin familia dispersa. Si no tienes a nadie más que contactar, la radio ya te basta. Y no sustituye a un teléfono móvil: es comunicación de emergencia, no diaria.",
+      "coste_total": "80–300 € (walkies PMR446 + radio FM/AM; hasta 300 € con messenger satelital)",
+      "errores": [
+        "No probar los walkies antes: el día que los necesitas no es momento de descubrir que no funcionan.",
+        "Poner la radio en la emisora incorrecta: si no sabes qué emisora escuchar, escanea FM.",
+        "Confiar solo en el messenger satelital: si se te acaba la batería y no tienes cargador solar, es una piedra cara.",
+        "Llenar la red móvil con llamadas: en una emergencia, las redes se colapsan. Usa SMS.",
+        "No tener pilas de repuesto: los walkies, la radio y el messenger satelital mueren sin pilas."
+      ]
+    },
+    {
+      "id": "kit-comunicacion",
+      "titulo": "Kit comunicación de emergencia",
+      "slug": "kit-comunicacion",
+      "icono": "📡",
+      "resumen": "Walkies PMR446, radio amateur, messenger satelital y redundancia triple. Conectado aunque se caigan todas las redes.",
+      "coste_total": "80–300 € (walkies PMR446 + radio; hasta 300 € con messenger satelital)",
+      "secciones": [
+        {
+          "titulo": "Comunicación local: walkies PMR446",
+          "items": [
+            {
+              "producto": "Walkie-talkies PMR446 (pareja, recargables)",
+              "afiliado": "https://www.amazon.es/dp/B071NWGL29?tag=nti0c8-21",
+              "descripcion": "Par de walkies PMR446 con batería recargable. Hasta 3 km en campo abierto.",
+              "precio_aprox": "40-80 €",
+              "prioridad": "esencial"
+            }
+          ]
+        }
+      ],
+      "paraQuien": "Para cualquier hogar que quiera contactar con su familia aunque se caigan TODAS las redes.",
+      "paraQuien_no": "No para quien viva solo sin familia dispersa. La radio ya basta si no necesitas hablar con nadie.",
+      "errores": [
+        "No probar los walkies antes del día de emergencia.",
+        "Poner la radio en la emisora incorrecta. Escanea FM.",
+        "Confiar solo en el messenger satelital. Si se acaba la batería, es una piedra cara.",
+        "Llenar la red móvil con llamadas: usa SMS.",
+        "No tener pilas de repuesto."
+      ]
     }
   ],
   "disclosure": "Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea."

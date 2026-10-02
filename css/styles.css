@@ -873,11 +873,9 @@ a.card-kit{color:inherit;text-decoration:none}
 
 /* ═══════════════════════════════════════════════════
    FICHA PROFESIONAL — Sección destacada premium
-   Diseño plateado brillante inspirado en
-   cartas coleccionables chrome de alta gama
+   3 cartas arriba + PRO abajo (holo Pokémon)
    ═══════════════════════════════════════════════════ */
 
-/* Sección profesional */
 .professional-section{
   background:linear-gradient(160deg,#1a1a1e 0%,#252528 40%,#2a2a2e 70%,#1e1e22 100%);
   padding:64px 0 80px;
@@ -941,7 +939,7 @@ a.card-kit{color:inherit;text-decoration:none}
   margin:0 auto;
 }
 
-/* Grid profesional: 2 arriba + 1 PRO abajo */
+/* Grid: 3 columnas, PRO ocupa 3 */
 .professional-grid{
   display:grid;
   gap:16px;
@@ -954,18 +952,19 @@ a.card-kit{color:inherit;text-decoration:none}
 }
 @media(min-width:700px){
   .professional-grid{grid-template-columns:1fr 1fr}
-  .professional-grid .card-plata-pro{grid-column:1/-1}
+  .professional-grid .card-plata:last-child{grid-column:1/3; justify-self:center}
+  .professional-grid .card-plata-pro{grid-column:1/-1; grid-row:3}
 }
 @media(min-width:1000px){
-  .professional-grid .card-plata-pro{max-width:70%}
+  .professional-grid{grid-template-columns:repeat(3,1fr)}
+  .professional-grid .card-plata:last-child{grid-column:auto; justify-self:auto}
+  .professional-grid .card-plata-pro{grid-column:1/-1; grid-row:3}
 }
 
 /* ═══════════════════════════════════════════════════
-   Carta plateada brillante — efecto chrome
-   Inspirada en cartas coleccionables de alta gama
+   Carta plateada — efecto chrome (kits normales)
    ═══════════════════════════════════════════════════ */
 
-/* Carta normal (tamaño estándar, para los 2 kits nuevos) */
 .card-plata{
   position:relative;
   border:2px solid rgba(255,255,255,.12);
@@ -986,7 +985,6 @@ a.card-kit{color:inherit;text-decoration:none}
   color:inherit;
   transition:transform .1s, border-color .2s;
 }
-/* Capa de brillo plateado (reflejo diagonal) */
 .card-plata::before{
   content:"";
   position:absolute;
@@ -1004,12 +1002,10 @@ a.card-kit{color:inherit;text-decoration:none}
   pointer-events:none;
   transition:opacity .3s;
 }
-/* Borde brillante sutil */
 .card-plata::after{
   content:"";
   position:absolute;
   inset:-1px;
-  border-radius:0;
   background:linear-gradient(135deg,rgba(255,255,255,.15) 0%,rgba(255,255,255,.02) 40%,rgba(255,255,255,.08) 60%,rgba(255,255,255,.02) 100%);
   pointer-events:none;
   z-index:-1;
@@ -1022,8 +1018,6 @@ a.card-kit{color:inherit;text-decoration:none}
 .card-plata:hover::before{
   opacity:1.5;
 }
-
-/* Cabecera de la carta plata */
 .card-plata .fila-top{
   display:flex;
   align-items:center;
@@ -1096,193 +1090,223 @@ a.card-kit{color:inherit;text-decoration:none}
 }
 
 /* ═══════════════════════════════════════════════════
-   Carta PRO — versión premium grande
-   Ocupa 3 columnas en PC, layout horizontal
-   Inspirada en cartas chrome de alta gama (Charizard)
+   Carta PRO — holo Pokémon (simeydotme/pokemon-cards-151)
+   Misma altura que las otras, fondo plata holo vibrante
    ═══════════════════════════════════════════════════ */
 
 .card-plata-pro{
   position:relative;
-  border:2px solid rgba(255,255,255,.35);
-  /* Fondo plata puro como carta chrome */
-  background:
-    linear-gradient(135deg,
-      #d8d8e0 0%,
-      #e8e8f0 15%,
-      #ffffff 30%,
-      #e0e0e8 45%,
-      #d0d0d8 55%,
-      #c8c8d0 70%,
-      #d0d0d8 85%,
-      #d8d8e0 100%);
-  padding:28px 32px;
+  border:2px solid rgba(255,255,255,.3);
+  /* Fondo plata base */
+  background:linear-gradient(135deg,#d0d0d8 0%,#e8e8f0 25%,#ffffff 40%,#e0e0e8 60%,#d0d0d8 80%,#c8c8d0 100%);
+  padding:20px 24px;
   cursor:pointer;
-  /* LAYOUT HORIZONTAL — icono izquierda, CTA derecha */
   display:flex;
-  flex-direction:row;
   align-items:center;
-  gap:32px;
+  gap:24px;
   overflow:hidden;
   text-decoration:none;
   color:inherit;
   transition:transform .1s, border-color .2s, box-shadow .3s;
   grid-column:1 / -1;
+  /* Mismo height que las otras cartas */
+  min-height:0;
+  flex-wrap:wrap;
 }
-/* Chrome shimmer overlay */
-.card-plata-pro::before{
-  content:"";
+
+/* HOLO LAYER 1 — Rainbow spectrum (como poke-151) */
+.card-plata-pro .holo-spectrum{
   position:absolute;
   inset:0;
   background:
-    linear-gradient(
+    repeating-linear-gradient(
       105deg,
-      transparent 0%,
-      transparent 25%,
-      rgba(255,255,255,.5) 40%,
-      rgba(200,200,220,.7) 45%,
-      rgba(255,255,255,.6) 50%,
-      rgba(200,200,220,.7) 55%,
-      transparent 60%,
-      transparent 100%
+      hsla(0,100%,70%,.35) 0%,
+      hsla(60,100%,70%,.35) 6%,
+      hsla(120,100%,70%,.35) 12%,
+      hsla(180,100%,70%,.35) 18%,
+      hsla(240,100%,70%,.35) 24%,
+      hsla(300,100%,70%,.35) 30%,
+      hsla(360,100%,70%,.35) 36%,
+      hsla(0,100%,70%,.35) 42%
     );
+  background-size:200% 200%;
+  animation:holoSpectrum 4s linear infinite;
+  mix-blend-mode:overlay;
   pointer-events:none;
   z-index:0;
+  filter:saturate(2) brightness(1.2) contrast(2.5);
 }
-/* Shine sweep */
-.card-plata-pro::after{
-  content:"";
+@keyframes holoSpectrum{
+  0%{background-position:200% 0}
+  100%{background-position:-200% 0}
+}
+
+/* HOLO LAYER 2 — Scanlines (como poke-151) */
+.card-plata-pro .holo-scanlines{
   position:absolute;
-  top:0;
-  left:-100%;
-  width:60%;
-  height:100%;
-  background:linear-gradient(
-    90deg,
-    transparent,
-    rgba(255,255,255,.4),
-    rgba(255,255,255,.6),
-    rgba(255,255,255,.4),
-    transparent
+  inset:0;
+  background:
+    repeating-linear-gradient(
+      105deg,
+      transparent 0px,
+      rgba(255,255,255,.08) 1px,
+      transparent 2px,
+      transparent 4px
+    );
+  animation:holoSpectrum 6s linear infinite reverse;
+  mix-blend-mode:multiply;
+  pointer-events:none;
+  z-index:0;
+  filter:brightness(1.5) contrast(1.5);
+}
+
+/* HOLOGRAPHIC GLARE — como poke-151 glare layer */
+.card-plata-pro .holo-glare{
+  position:absolute;
+  inset:0;
+  background:radial-gradient(
+    farthest-corner circle at 50% 50%,
+    hsla(0,0%,100%,.5) 0%,
+    hsla(0,0%,100%,.3) 30%,
+    transparent 70%
   );
-  transform:skewX(-20deg);
-  animation:proShine 4s ease-in-out infinite;
+  animation:glareMove 5s ease-in-out infinite;
+  mix-blend-mode:overlay;
   pointer-events:none;
   z-index:0;
 }
-@keyframes proShine{
-  0%,100%{left:-100%}
-  50%{left:200%}
+@keyframes glareMove{
+  0%,100%{transform:translate(-30%,-20%)}
+  25%{transform:translate(20%,-10%)}
+  50%{transform:translate(30%,20%)}
+  75%{transform:translate(-20%,30%)}
 }
 
-/* Hover */
+/* HOLO SHINE — diagonal sweep */
+.card-plata-pro .holo-shine{
+  position:absolute;
+  inset:0;
+  background:linear-gradient(
+    105deg,
+    transparent 0%,
+    rgba(255,255,255,.4) 45%,
+    rgba(255,255,255,.7) 50%,
+    rgba(255,255,255,.4) 55%,
+    transparent 100%
+  );
+  animation:holoSweep 3s ease-in-out infinite;
+  pointer-events:none;
+  z-index:0;
+}
+@keyframes holoSweep{
+  0%,100%{transform:translateX(-200%) skewX(-20deg)}
+  50%{transform:translateX(200%) skewX(-20deg)}
+}
+
 .card-plata-pro:hover{
-  transform:translate(-3px,-3px);
-  border-color:rgba(255,255,255,.6);
+  transform:translate(-2px,-2px);
+  border-color:rgba(255,255,255,.5);
   box-shadow:
-    0 0 40px rgba(200,200,220,.4),
-    0 0 80px rgba(200,200,220,.2),
-    4px 4px 0 rgba(100,100,120,.2);
+    0 0 30px rgba(200,200,220,.3),
+    0 0 60px rgba(200,200,220,.15),
+    2px 2px 0 rgba(80,80,100,.15);
 }
 
-/* Izquierda: icono + texto */
-.card-plata-pro .pro-left{
-  display:flex;
-  align-items:center;
-  gap:24px;
-  flex:1;
-  position:relative;
-  z-index:2;
-  min-width:0;
-}
+/* Icono */
 .card-plata-pro .pro-icono-wrap{
   display:flex;
   flex-direction:column;
   align-items:center;
-  gap:6px;
+  gap:4px;
   flex-shrink:0;
+  position:relative;
+  z-index:2;
 }
 .card-plata-pro .pro-icono{
-  width:64px;
-  height:64px;
+  width:52px;
+  height:52px;
   border:2px solid rgba(80,80,100,.2);
-  background:linear-gradient(135deg,rgba(180,180,200,.3),rgba(220,220,240,.5));
+  background:linear-gradient(135deg,rgba(180,180,200,.2),rgba(220,220,240,.4));
   display:grid;
   place-items:center;
-  font-size:32px;
+  font-size:26px;
   box-shadow:inset 0 1px 0 rgba(255,255,255,.4);
 }
 .card-plata-pro .pro-badge{
   font-family:var(--display);
-  font-size:12px;
+  font-size:11px;
   font-weight:400;
   letter-spacing:4px;
-  color:rgba(80,80,100,.9);
+  color:rgba(60,60,80,.8);
   background:linear-gradient(135deg,#e0e0e8,#c0c0c8,#e0e0e8);
-  padding:3px 14px;
+  padding:2px 12px;
   text-transform:uppercase;
-  box-shadow:
-    0 0 12px rgba(200,200,220,.3),
-    inset 0 1px 0 rgba(255,255,255,.5);
-  border:1px solid rgba(100,100,120,.15);
+  box-shadow:0 0 8px rgba(200,200,220,.3);
+  border:1px solid rgba(100,100,120,.1);
 }
+
+/* Texto */
 .card-plata-pro .pro-texto{
   display:flex;
   flex-direction:column;
-  gap:4px;
-  min-width:0;
+  gap:2px;
   flex:1;
+  min-width:0;
+  position:relative;
+  z-index:2;
 }
 .card-plata-pro .pro-texto h2{
   font-family:var(--display);
   font-weight:400;
   text-transform:uppercase;
-  font-size:clamp(20px,3vw,36px);
-  line-height:.95;
-  letter-spacing:1px;
+  font-size:clamp(18px,2.5vw,28px);
+  line-height:1.05;
+  letter-spacing:.5px;
   background:linear-gradient(135deg,#3a3a42 0%,#2a2a30 50%,#4a4a52 100%);
   -webkit-background-clip:text;
   -webkit-text-fill-color:transparent;
   background-clip:text;
 }
 .card-plata-pro .pro-texto p{
-  font-size:14px;
+  font-size:13px;
   color:#4a4a52;
-  line-height:1.5;
-  max-width:60ch;
+  line-height:1.45;
+  max-width:55ch;
 }
 .card-plata-pro .pro-coste{
   font-family:var(--mono);
-  font-size:12px;
+  font-size:11px;
   font-weight:700;
-  color:rgba(80,80,100,.7);
+  color:rgba(60,60,80,.6);
   letter-spacing:1px;
 }
 
-/* Derecha: CTA */
+/* CTA */
 .card-plata-pro .pro-right{
+  flex-shrink:0;
   position:relative;
   z-index:2;
-  flex-shrink:0;
 }
 .card-plata-pro .pro-cta{
   display:inline-block;
   font-family:var(--display);
-  font-size:clamp(16px,2.5vw,24px);
+  font-size:clamp(14px,2vw,20px);
   font-weight:400;
   letter-spacing:2px;
   text-transform:uppercase;
   color:#2a2a30;
-  border:2px solid rgba(80,80,100,.25);
-  padding:14px 28px;
-  background:linear-gradient(135deg,rgba(220,220,240,.3),rgba(200,200,220,.5));
+  border:2px solid rgba(80,80,100,.2);
+  padding:12px 24px;
+  background:linear-gradient(135deg,rgba(220,220,240,.2),rgba(200,200,220,.35));
   box-shadow:inset 0 1px 0 rgba(255,255,255,.4);
   transition:transform .08s, box-shadow .08s, background .15s;
   white-space:nowrap;
 }
 .card-plata-pro .pro-cta:hover{
   transform:translate(-2px,-2px);
-  box-shadow:2px 2px 0 rgba(80,80,100,.3);
-  background:linear-gradient(135deg,rgba(200,200,220,.4),rgba(180,180,200,.6));
+  box-shadow:2px 2px 0 rgba(80,80,100,.2);
+  background:linear-gradient(135deg,rgba(200,200,220,.3),rgba(180,180,200,.45));
 }
 
 /* Responsive */
@@ -1290,28 +1314,13 @@ a.card-kit{color:inherit;text-decoration:none}
   .card-plata-pro{
     flex-direction:column;
     align-items:stretch;
-    gap:20px;
-    padding:20px 24px;
-  }
-  .card-plata-pro .pro-left{
-    flex-direction:column;
-    align-items:flex-start;
-    gap:12px;
-  }
-  .card-plata-pro .pro-icono{
-    width:48px;
-    height:48px;
-    font-size:24px;
-  }
-  .card-plata-pro .pro-texto h2{
-    font-size:20px;
+    gap:16px;
+    text-align:center;
   }
   .card-plata-pro .pro-texto p{
-    font-size:13px;
+    max-width:100%;
   }
   .card-plata-pro .pro-cta{
-    font-size:16px;
-    padding:12px 20px;
     width:100%;
     text-align:center;
   }

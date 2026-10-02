@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20261002a">
+<link rel="stylesheet" href="/css/styles.css?v=20261002b">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23D14B27'/%3E%3Ctext x='32' y='42' font-family='Arial Black,Arial' font-size='26' font-weight='900' fill='%23F1EBDF' text-anchor='middle'%3E72%3C/text%3E%3C/svg%3E">
 <script type="application/ld+json">
 {
@@ -129,9 +129,13 @@
     { "@type": "ListItem", "position": 14, "name": "Kit frío, nieve y calefacción caída", "url": "https://kit72h.com/kit/kit-frio/" },
     { "@type": "ListItem", "position": 15, "name": "Kit terremoto", "url": "https://kit72h.com/kit/kit-terremoto/" },
     { "@type": "ListItem", "position": 16, "name": "Kit incendio forestal y humo", "url": "https://kit72h.com/kit/kit-incendio/" },
-        { "@type": "ListItem", "position": 17, "name": "Generador solar portátil para emergencias", "url": "https://kit72h.com/kit/generador-solar/" },
-        { "@type": "ListItem", "position": 18, "name": "Filtración y purificación de agua", "url": "https://kit72h.com/kit/filtracion-agua/" },
-        { "@type": "ListItem", "position": 19, "name": "Kit profesional de energía y autonomía", "url": "https://kit72h.com/kit/kit-kit-profesional/" }
+        { "@type": "ListItem", { "@type": "ListItem", "position": 17, "name": "Kit incendio forestal y humo", "url": "https://kit72h.com/kit/kit-incendio/" },
+    { "@type": "ListItem", "position": 18, "name": "Generador solar portátil para emergencias", "url": "https://kit72h.com/kit/generador-solar/" },
+    { "@type": "ListItem", "position": 19, "name": "Filtración y purificación de agua", "url": "https://kit72h.com/kit/filtracion-agua/" },
+    { "@type": "ListItem", "position": 20, "name": "Kit comunicación de emergencia", "url": "https://kit72h.com/kit/kit-comunicacion/" },
+    { "@type": "ListItem", "position": 21, "name": "Kit profesional de energía y autonomía", "url": "https://kit72h.com/kit/kit-kit-profesional/" }
+  ]
+}
   ]
 }
 </script>
@@ -353,50 +357,65 @@
                   <p>Nuestra selección de kits esenciales para preparación seria. Sin humo, sin relleno: solo lo que funciona.</p>
                 </div>
                 <div class="professional-grid">
-                  <!-- Kit 1: Generador Solar -->
-                  <a class="card-plata" href="/kit/generador-solar/">
-                    <div class="fila-top">
-                      <span class="icono">☀️</span>
-                      <span class="num">01</span>
-                    </div>
-                    <h2>Generador solar portátil</h2>
-                    <p>Energía limpia del sol para móviles, linternas y radios. La pieza que conecta el kit básico con la independencia total.</p>
-                    <div class="pie">
-                      <span class="coste-kit">200–400 €</span>
-                      <span class="ir">Abrir →</span>
-                    </div>
-                  </a>
-                  <!-- Kit 2: Filtración Agua -->
-                  <a class="card-plata" href="/kit/filtracion-agua/">
-                    <div class="fila-top">
-                      <span class="icono">💧</span>
-                      <span class="num">02</span>
-                    </div>
-                    <h2>Filtración y purificación</h2>
-                    <p>Agua potable de cualquier origen: grifo, río, lluvia o inundación. La diferencia entre beber sin riesgo y enfermar.</p>
-                    <div class="pie">
-                      <span class="coste-kit">50–100 €</span>
-                      <span class="ir">Abrir →</span>
-                    </div>
-                  </a>
-                  <!-- PRO: Kit Profesional de Energía — ocupa 3 columnas, layout horizontal -->
-                              <a class="card-plata-pro" href="/kit/kit-kit-profesional/">
-                                <div class="pro-left">
-                                  <div class="pro-icono-wrap">
-                                    <span class="pro-icono">⚡</span>
-                                    <span class="pro-badge">PRO</span>
-                                  </div>
-                                  <div class="pro-texto">
-                                    <h2>Kit profesional de energía y autonomía</h2>
-                                    <p>SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria para hogares que no pueden permitirse quedarse sin nada.</p>
-                                    <span class="pro-coste">2000–5000 €</span>
-                                  </div>
+                                  <!-- Kit 1: Generador Solar -->
+                                  <a class="card-plata" href="/kit/generador-solar/">
+                                    <div class="fila-top">
+                                      <span class="icono">☀️</span>
+                                      <span class="num">01</span>
+                                    </div>
+                                    <h2>Generador solar portátil</h2>
+                                    <p>Energía limpia del sol para móviles, linternas y radios. La pieza que conecta el kit básico con la independencia total.</p>
+                                    <div class="pie">
+                                      <span class="coste-kit">200–400 €</span>
+                                      <span class="ir">Abrir →</span>
+                                    </div>
+                                  </a>
+                                  <!-- Kit 2: Filtración Agua -->
+                                  <a class="card-plata" href="/kit/filtracion-agua/">
+                                    <div class="fila-top">
+                                      <span class="icono">💧</span>
+                                      <span class="num">02</span>
+                                    </div>
+                                    <h2>Filtración y purificación</h2>
+                                    <p>Agua potable de cualquier origen: grifo, río, lluvia o inundación. La diferencia entre beber sin riesgo y enfermar.</p>
+                                    <div class="pie">
+                                      <span class="coste-kit">50–100 €</span>
+                                      <span class="ir">Abrir →</span>
+                                    </div>
+                                  </a>
+                                  <!-- Kit 3: Comunicación -->
+                                  <a class="card-plata" href="/kit/kit-comunicacion/">
+                                    <div class="fila-top">
+                                      <span class="icono">📡</span>
+                                      <span class="num">03</span>
+                                    </div>
+                                    <h2>Kit comunicación de emergencia</h2>
+                                    <p>Walkies PMR446, radio amateur, messenger satelital y redundancia triple. Cuando se caen todas las redes, esto te mantiene conectado.</p>
+                                    <div class="pie">
+                                      <span class="coste-kit">80–300 €</span>
+                                      <span class="ir">Abrir →</span>
+                                    </div>
+                                  </a>
+                                  <!-- PRO: Kit Profesional de Energía — holo Pokémon, 3 columnas, misma altura -->
+                                                    <a class="card-plata-pro" href="/kit/kit-kit-profesional/">
+                                                      <div class="holo-spectrum"></div>
+                                                      <div class="holo-scanlines"></div>
+                                                      <div class="holo-glare"></div>
+                                                      <div class="holo-shine"></div>
+                                                      <div class="pro-icono-wrap">
+                                                        <span class="pro-icono">⚡</span>
+                                                        <span class="pro-badge">PRO</span>
+                                                      </div>
+                                                      <div class="pro-texto">
+                                                        <h2>Kit profesional de energía y autonomía</h2>
+                                                        <p>SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter, nevera solar. Preparación seria para hogares que no pueden permitirse quedarse sin nada.</p>
+                                                        <span class="pro-coste">2000–5000 €</span>
+                                                      </div>
+                                                      <div class="pro-right">
+                                                        <span class="pro-cta">Ver kit completo →</span>
+                                                      </div>
+                                                    </a>
                                 </div>
-                                <div class="pro-right">
-                                  <span class="pro-cta">Ver kit completo →</span>
-                                </div>
-                              </a>
-                </div>
               </div>
             </section>
             <section class="sec oscura" id="kits">
