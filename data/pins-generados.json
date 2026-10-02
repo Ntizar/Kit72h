@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "ultima_generacion": "2026-10-02",
+    "total": 27
+  },
+  "pins": [
+    {
+      "slug": "pin-kit-kit-basico-72h",
+      "tipo": "kit",
+      "titulo": "Kit básico 72 horas",
+      "url": "https://kit72h.com/kit/kit-basico-72h/",
+      "emoji": "🎒",
+      "pin": "pin-kit-kit-basico-72h.html"
+    },
+    {
+      "slug": "pin-kit-kit-dana",
+      "tipo": "kit",
+      "titulo": "Kit DANA / inundación",
+      "url": "https://kit72h.com/kit/kit-dana/",
+      "emoji": "🌊",
+      "pin": "pin-kit-kit-dana.html"
+    },
+    {
+      "slug": "pin-kit-kit-apagon",
+      "tipo": "kit",
+      "titulo": "Kit apagón / corte eléctrico",
+      "url": "https://kit72h.com/kit/kit-apagon/",
+      "emoji": "⚡",
+      "pin": "pin-kit-kit-apagon.html"
+    },
+    {
+      "slug": "pin-kit-kit-coche",
+      "tipo": "kit",
+      "titulo": "Kit coche",
+      "url": "https://kit72h.com/kit/kit-coche/",
+      "emoji": "🚗",
+      "pin": "pin-kit-kit-coche.html"
+    },
+    {
+      "slug": "pin-kit-kit-hogar",
+      "tipo": "kit",
+      "titulo": "Kit hogar / confinamiento",
+      "url": "https://kit72h.com/kit/kit-hogar/",
+      "emoji": "🏠",
+      "pin": "pin-kit-kit-hogar.html"
+    },
+    {
+      "slug": "pin-kit-kit-montana",
+      "tipo": "kit",
+      "titulo": "Kit montaña / senderismo",
+      "url": "https://kit72h.com/kit/kit-montana/",
+      "emoji": "🏔️",
+      "pin": "pin-kit-kit-montana.html"
+    },
+    {
+      "slug": "pin-kit-kit-calor",
+      "tipo": "kit",
+      "titulo": "Kit ola de calor",
+      "url": "https://kit72h.com/kit/kit-calor/",
+      "emoji": "☀️",
+      "pin": "pin-kit-kit-calor.html"
+    },
+    {
+      "slug": "pin-kit-kit-evacuacion",
+      "tipo": "kit",
+      "titulo": "Mochila de evacuación",
+      "url": "https://kit72h.com/kit/kit-evacuacion/",
+      "emoji": "🚨",
+      "pin": "pin-kit-kit-evacuacion.html"
+    },
+    {
+      "slug": "pin-kit-huerto-autosuficiencia",
+      "tipo": "kit",
+      "titulo": "Huerto y autosuficiencia",
+      "url": "https://kit72h.com/kit/huerto-autosuficiencia/",
+      "emoji": "🌱",
+      "pin": "pin-kit-huerto-autosuficiencia.html"
+    },
+    {
+      "slug": "pin-kit-kit-30-dias",
+      "tipo": "kit",
+      "titulo": "Kit 30 días",
+      "url": "https://kit72h.com/kit/kit-30-dias/",
+      "emoji": "📦",
+      "pin": "pin-kit-kit-30-dias.html"
+    },
+    {
+      "slug": "pin-kit-kit-bebe",
+      "tipo": "kit",
+      "titulo": "Kit bebé y lactancia",
+      "url": "https://kit72h.com/kit/kit-bebe/",
+      "emoji": "👶",
+      "pin": "pin-kit-kit-bebe.html"
+    },
+    {
+      "slug": "pin-kit-kit-mayores",
+      "tipo": "kit",
+      "titulo": "Kit persona mayor",
+      "url": "https://kit72h.com/kit/kit-mayores/",
+      "emoji": "👴",
+      "pin": "pin-kit-kit-mayores.html"
+    },
+    {
+      "slug": "pin-kit-kit-mascotas",
+      "tipo": "kit",
+      "titulo": "Kit mascotas",
+      "url": "https://kit72h.com/kit/kit-mascotas/",
+      "emoji": "🐾",
+      "pin": "pin-kit-kit-mascotas.html"
+    },
+    {
+      "slug": "pin-kit-kit-frio",
+      "tipo": "kit",
+      "titulo": "Kit frío, nieve y calefacción caída",
+      "url": "https://kit72h.com/kit/kit-frio/",
+      "emoji": "❄️",
+      "pin": "pin-kit-kit-frio.html"
+    },
+    {
+      "slug": "pin-kit-kit-terremoto",
+      "tipo": "kit",
+      "titulo": "Kit terremoto",
+      "url": "https://kit72h.com/kit/kit-terremoto/",
+      "emoji": "💥",
+      "pin": "pin-kit-kit-terremoto.html"
+    },
+    {
+      "slug": "pin-kit-kit-incendio",
+      "tipo": "kit",
+      "titulo": "Kit incendio forestal y humo",
+      "url": "https://kit72h.com/kit/kit-incendio/",
+      "emoji": "🔥",
+      "pin": "pin-kit-kit-incendio.html"
+    },
+    {
+      "slug": "pin-kit-kit-kit-profesional",
+      "tipo": "kit",
+      "titulo": "Kit profesional de energía y autonomía",
+      "url": "https://kit72h.com/kit/kit-kit-profesional/",
+      "emoji": "🏭",
+      "pin": "pin-kit-kit-kit-profesional.html"
+    },
+    {
+      "slug": "pin-blog-antena-externa-movil-cobertura-montana",
+      "tipo": "blog",
+      "titulo": "Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña",
+      "url": "https://kit72h.com/blog/antena-externa-movil-cobertura-montana/",
+      "emoji": "📖",
+      "pin": "pin-blog-antena-externa-movil-cobertura-montana.html"
+    },
+    {
+      "slug": "pin-blog-conectividad-emergencia-starlink-radios-redundancia",
+      "tipo": "blog",
+      "titulo": "Conectividad de emergencia: Starlink, radio, satélite y redundancia",
+      "url": "https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/",
+      "emoji": "📖",
+      "pin": "pin-blog-conectividad-emergencia-starlink-radios-redundancia.html"
+    },
+    {
+      "slug": "pin-blog-generador-solar-emergencia-72h",
+      "tipo": "blog",
+      "titulo": "Generador solar para emergencias de 72h: autonomía cuando se va la luz",
+      "url": "https://kit72h.com/blog/generador-solar-emergencia-72h/",
+      "emoji": "📖",
+      "pin": "pin-blog-generador-solar-emergencia-72h.html"
+    },
+    {
+      "slug": "pin-blog-mejor-router-4g-emergencia-sin-internet",
+      "tipo": "blog",
+      "titulo": "El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan",
+      "url": "https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-router-4g-emergencia-sin-internet.html"
+    },
+    {
+      "slug": "pin-blog-mejor-sim-datos-emergencia-cobertura",
+      "tipo": "blog",
+      "titulo": "Las mejores SIM de datos de emergencia: cobertura cuando todo falla",
+      "url": "https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-sim-datos-emergencia-cobertura.html"
+    },
+    {
+      "slug": "pin-blog-nevera-portatil-emergencia-72h",
+      "tipo": "blog",
+      "titulo": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad",
+      "url": "https://kit72h.com/blog/nevera-portatil-emergencia-72h/",
+      "emoji": "📖",
+      "pin": "pin-blog-nevera-portatil-emergencia-72h.html"
+    },
+    {
+      "slug": "pin-blog-panel-solar-portatil-72h-emergencia",
+      "tipo": "blog",
+      "titulo": "Panel solar portátil para emergencias: energía cuando no hay red",
+      "url": "https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/",
+      "emoji": "📖",
+      "pin": "pin-blog-panel-solar-portatil-72h-emergencia.html"
+    },
+    {
+      "slug": "pin-blog-starlink-emergencia-72h-conectividad",
+      "tipo": "blog",
+      "titulo": "Starlink en emergencias de 72h: conectividad cuando todo falla",
+      "url": "https://kit72h.com/blog/starlink-emergencia-72h-conectividad/",
+      "emoji": "📖",
+      "pin": "pin-blog-starlink-emergencia-72h-conectividad.html"
+    },
+    {
+      "slug": "pin-blog-terremoto-espana-que-hacer",
+      "tipo": "blog",
+      "titulo": "Terremoto en España: qué hacer antes, durante y después",
+      "url": "https://kit72h.com/blog/terremoto-espana-que-hacer/",
+      "emoji": "📖",
+      "pin": "pin-blog-terremoto-espana-que-hacer.html"
+    },
+    {
+      "slug": "pin-blog-kit-emergencia-trabajo-oficina",
+      "tipo": "blog",
+      "titulo": "Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio",
+      "url": "https://kit72h.com/blog/kit-emergencia-trabajo-oficina/",
+      "emoji": "📖",
+      "pin": "pin-blog-kit-emergencia-trabajo-oficina.html"
+    }
+  ]
+}
