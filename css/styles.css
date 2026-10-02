@@ -873,8 +873,8 @@ a.card-kit{color:inherit;text-decoration:none}
 
 /* ═══════════════════════════════════════════════════
    CARTA PRO — kit profesional dentro de la grid
-   Ocupa 3 columnas (full width) · acabado holo Pokémon
-   Inspirado en simeydotme/pokemon-cards-151
+   Ocupa las 3 columnas · acabado holo tipo carta Pokémon
+   (espectro arcoíris + scanlines + destello que sigue al ratón)
    ═══════════════════════════════════════════════════ */
 
 .card-kit.card-pro-pokemon{
@@ -884,122 +884,120 @@ a.card-kit{color:inherit;text-decoration:none}
   align-items:center;
   gap:26px;
   padding:26px 30px;
-  border:2px solid rgba(255,255,255,.32);
-  background:
-    linear-gradient(135deg,
-      #c6c6d0 0%,
-      #e4e4ee 18%,
-      #ffffff 34%,
-      #e2e2ec 50%,
-      #c9c9d3 68%,
-      #dedee8 84%,
-      #c6c6d0 100%);
+  border:2px solid rgba(255,255,255,.55);
   position:relative;
   overflow:hidden;
-  transform-style:preserve-3d;
+  isolation:isolate;
+  /* Base metálica: bandas claras/oscuras = brillo de lámina */
+  background:
+    linear-gradient(115deg,
+      #a9a9b8 0%, #dcdce9 10%, #ffffff 20%, #c2c2d2 30%,
+      #f2f2fb 40%, #b6b6c6 50%, #ffffff 60%, #c8c8d8 70%,
+      #eaeaf5 80%, #b0b0c0 90%, #a9a9b8 100%);
+  background-size:100% 100%;
+  box-shadow:
+    inset 0 0 0 1px rgba(255,255,255,.55),
+    0 2px 0 rgba(0,0,0,.25);
+  transition:transform .12s ease, box-shadow .25s ease, border-color .2s;
 }
 
-/* HOLO 1 — espectro arcoíris animado */
+/* HOLO 1 — espectro arcoíris (bandas diagonales) */
 .card-kit.card-pro-pokemon::before{
   content:"";
   position:absolute;
-  inset:0;
+  inset:-30%;
   background:
-    repeating-linear-gradient(
-      105deg,
-      hsla(0,100%,70%,.45) 0%,
-      hsla(60,100%,70%,.45) 6%,
-      hsla(120,100%,70%,.45) 12%,
-      hsla(180,100%,70%,.45) 18%,
-      hsla(240,100%,70%,.45) 24%,
-      hsla(300,100%,70%,.45) 30%,
-      hsla(360,100%,70%,.45) 36%,
-      hsla(0,100%,70%,.45) 42%
-    );
-  background-size:200% 200%;
-  animation:holoSpectrum 4s linear infinite;
-  mix-blend-mode:overlay;
+    repeating-linear-gradient(108deg,
+      hsla(0,95%,68%,.85) 0%,
+      hsla(45,95%,62%,.85) 4.5%,
+      hsla(95,95%,62%,.85) 9%,
+      hsla(150,95%,62%,.85) 13.5%,
+      hsla(200,95%,66%,.85) 18%,
+      hsla(255,95%,70%,.85) 22.5%,
+      hsla(305,95%,70%,.85) 27%,
+      hsla(345,95%,68%,.85) 31.5%,
+      hsla(20,95%,64%,.85) 36%);
+  background-size:220% 220%;
+  mix-blend-mode:screen;
+  opacity:.75;
+  filter:saturate(1.5) contrast(1.05);
+  animation:holoSpectrum 6s linear infinite;
   pointer-events:none;
   z-index:0;
-  filter:saturate(2.2) brightness(1.15) contrast(2.5);
 }
 @keyframes holoSpectrum{
-  0%{background-position:200% 0}
-  100%{background-position:-200% 0}
+  0%{background-position:0% 0%}
+  100%{background-position:220% 220%}
 }
 
-/* HOLO 2 — scanlines metálicas */
+/* HOLO 2 — scanlines metálicas finas */
 .card-kit.card-pro-pokemon::after{
   content:"";
   position:absolute;
   inset:0;
   background:
-    repeating-linear-gradient(
-      105deg,
-      transparent 0px,
-      rgba(255,255,255,.10) 1px,
-      transparent 2px,
-      transparent 4px
-    );
-  animation:holoSpectrum 6s linear infinite reverse;
-  mix-blend-mode:multiply;
+    repeating-linear-gradient(108deg,
+      rgba(255,255,255,0) 0px,
+      rgba(255,255,255,.35) 1px,
+      rgba(255,255,255,0) 2px,
+      rgba(0,0,0,.06) 3px,
+      rgba(255,255,255,0) 5px);
+  mix-blend-mode:overlay;
+  opacity:.85;
+  animation:scanShift 12s linear infinite;
   pointer-events:none;
-  z-index:0;
-  filter:brightness(1.5) contrast(1.4);
+  z-index:1;
 }
+@keyframes scanShift{ 0%{background-position:0 0} 100%{background-position:120px 0} }
 
-/* HOLO 3 — destello radial que recorre la carta */
+/* HOLO 3 — destello radial que SIGUE AL RATÓN (--px/--py) */
 .card-pro-pokemon .holo-glare{
   position:absolute;
   inset:0;
   background:radial-gradient(
-    farthest-corner circle at 50% 50%,
-    hsla(0,0%,100%,.55) 0%,
-    hsla(0,0%,100%,.28) 30%,
-    transparent 70%);
-  animation:glareMove 5s ease-in-out infinite;
+    farthest-corner circle at var(--px,50%) var(--py,50%),
+    hsla(0,0%,100%,.95) 0%,
+    hsla(0,0%,100%,.45) 22%,
+    hsla(0,0%,100%,0) 60%);
   mix-blend-mode:overlay;
+  opacity:.9;
+  transition:background-position .08s linear;
   pointer-events:none;
-  z-index:0;
-}
-@keyframes glareMove{
-  0%,100%{transform:translate(-30%,-20%)}
-  25%{transform:translate(20%,-10%)}
-  50%{transform:translate(30%,20%)}
-  75%{transform:translate(-20%,30%)}
+  z-index:1;
 }
 
 /* HOLO 4 — barrido diagonal de brillo */
 .card-pro-pokemon .holo-shine{
   position:absolute;
-  inset:-20%;
-  background:linear-gradient(
-    105deg,
+  inset:-25%;
+  background:linear-gradient(105deg,
     transparent 0%,
-    rgba(255,255,255,.45) 45%,
-    rgba(255,255,255,.85) 50%,
-    rgba(255,255,255,.45) 55%,
+    rgba(255,255,255,.25) 42%,
+    rgba(255,255,255,.75) 50%,
+    rgba(255,255,255,.25) 58%,
     transparent 100%);
-  animation:holoSweep 3.2s ease-in-out infinite;
+  mix-blend-mode:screen;
+  animation:holoSweep 3.6s ease-in-out infinite;
   pointer-events:none;
   z-index:1;
 }
 @keyframes holoSweep{
-  0%,100%{transform:translateX(-160%) skewX(-18deg)}
-  50%{transform:translateX(160%) skewX(-18deg)}
+  0%,100%{transform:translateX(-150%) skewX(-16deg)}
+  50%{transform:translateX(150%) skewX(-16deg)}
 }
 
-/* HOVER */
+/* HOVER — se "levanta" como si la acercaras */
 .card-kit.card-pro-pokemon:hover{
   transform:translate(-3px,-3px);
-  border-color:rgba(255,255,255,.6);
+  border-color:rgba(255,255,255,.85);
   box-shadow:
-    0 0 26px rgba(190,190,220,.45),
-    0 0 60px rgba(190,190,220,.25),
-    5px 5px 0 rgba(80,80,100,.18);
+    inset 0 0 0 1px rgba(255,255,255,.7),
+    0 0 26px rgba(190,190,235,.5),
+    0 0 70px rgba(170,170,230,.3),
+    6px 6px 0 rgba(80,80,100,.22);
 }
 
-/* Columna izquierda: badge + título + texto + precio */
+/* Columna izquierda */
 .card-pro-pokemon .pro-left{
   display:flex;
   flex-direction:column;
@@ -1007,21 +1005,22 @@ a.card-kit{color:inherit;text-decoration:none}
   flex:1 1 420px;
   min-width:0;
   position:relative;
-  z-index:2;
+  z-index:3;
 }
 .card-pro-pokemon .pro-badge-wrap{display:flex;align-items:center;margin-bottom:2px}
 .card-pro-pokemon .pro-badge{
   font-family:var(--display);
   font-size:14px;
   letter-spacing:5px;
-  color:#3a3a48;
-  background:linear-gradient(135deg,#f2f2f8,#c2c2cc 50%,#e8e8f0);
+  color:#2b2b3c;
+  background:linear-gradient(135deg,#ffffff,#c6c6d6 45%,#f4f4ff);
   padding:4px 16px;
   text-transform:uppercase;
-  border:1px solid rgba(90,90,115,.25);
+  border:1px solid rgba(70,70,110,.35);
   box-shadow:
-    0 0 10px rgba(200,200,225,.55),
-    inset 0 1px 0 rgba(255,255,255,.7);
+    0 0 12px rgba(255,255,255,.85),
+    0 1px 0 rgba(255,255,255,.9),
+    inset 0 0 12px rgba(180,180,220,.5);
 }
 .card-pro-pokemon .pro-left h2{
   font-family:var(--display);
@@ -1031,51 +1030,46 @@ a.card-kit{color:inherit;text-decoration:none}
   line-height:.98;
   letter-spacing:.5px;
   margin:0;
-  background:linear-gradient(135deg,#2f2f38 0%,#1f1f26 55%,#44444f 100%);
-  -webkit-background-clip:text;
-  -webkit-text-fill-color:transparent;
-  background-clip:text;
+  color:#1e1e28;
+  text-shadow:0 1px 0 rgba(255,255,255,.85);
 }
 .card-pro-pokemon .pro-left p{
   font-size:13.5px;
-  color:#4a4a55;
+  color:#33333f;
   line-height:1.5;
   max-width:58ch;
   flex:none;
   margin:0;
+  text-shadow:0 1px 0 rgba(255,255,255,.55);
 }
 .card-pro-pokemon .pro-coste{
   font-family:var(--mono);
   font-size:12px;
   font-weight:700;
-  color:rgba(55,55,80,.75);
+  color:#2b2b3c;
   letter-spacing:1px;
 }
 
-/* CTA derecha */
-.card-pro-pokemon .pro-right{
-  flex:0 0 auto;
-  position:relative;
-  z-index:2;
-}
+/* CTA */
+.card-pro-pokemon .pro-right{flex:0 0 auto;position:relative;z-index:3}
 .card-pro-pokemon .pro-cta{
   display:inline-block;
   font-family:var(--display);
   font-size:clamp(15px,2vw,20px);
   letter-spacing:2px;
   text-transform:uppercase;
-  color:#25252e;
-  border:2px solid rgba(70,70,95,.28);
+  color:#191922;
+  border:2px solid rgba(45,45,75,.5);
   padding:14px 26px;
-  background:linear-gradient(135deg,rgba(255,255,255,.55),rgba(205,205,225,.55));
-  box-shadow:inset 0 1px 0 rgba(255,255,255,.8);
+  background:linear-gradient(135deg,rgba(255,255,255,.85),rgba(196,196,220,.8));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.95), 0 1px 0 rgba(0,0,0,.12);
   transition:transform .08s, box-shadow .08s, background .15s;
   white-space:nowrap;
 }
 .card-pro-pokemon .pro-cta:hover{
   transform:translate(-2px,-2px);
-  box-shadow:3px 3px 0 rgba(70,70,95,.25);
-  background:linear-gradient(135deg,rgba(255,255,255,.75),rgba(190,190,215,.7));
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.95), 3px 3px 0 rgba(45,45,75,.35);
+  background:linear-gradient(135deg,#ffffff,rgba(178,178,210,.9));
 }
 
 /* RESPONSIVE */
@@ -1091,10 +1085,9 @@ a.card-kit{color:inherit;text-decoration:none}
   .card-pro-pokemon .pro-cta{width:100%;text-align:center}
 }
 
-/* Movimiento reducido */
+/* Accesibilidad: sin animaciones si el usuario lo pide */
 @media (prefers-reduced-motion:reduce){
   .card-kit.card-pro-pokemon::before,
   .card-kit.card-pro-pokemon::after,
-  .card-pro-pokemon .holo-glare,
   .card-pro-pokemon .holo-shine{animation:none}
 }
