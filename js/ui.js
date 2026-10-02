@@ -309,10 +309,11 @@ const ui = {
 
   /* ---- FICHA DE KIT ---- */
   htmlKit(kit) {
-    let nEs = 0;
     const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
+    let nProd = 0;               // productos totales
+    let nEs = 0;                 // imprescindibles REALES (con ficha o sin ella)
+    let nConFicha = 0;           // items con ficha /dp/ (se pueden añadir a la cesta)
 
-    let nProd = 0;
     const secciones = kit.secciones.map((s, si) => `
       <div class="seccion-kit">
         <h2>${String(si+1).padStart(2,'0')} / ${s.titulo}</h2>
@@ -321,7 +322,9 @@ const ui = {
           ${s.items.map(i => {
             nProd++;
             const m = i.afiliado ? /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado) : null;
+            if (m) nConFicha++;
             const es = i.prioridad === 'esencial';
+            if (es) nEs++;
             if (es && m) asinsEs.add(m[1]);
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
@@ -341,7 +344,10 @@ const ui = {
         </ul>
       </div>`).join('');
 
-    nEs = asinsEs.size;
+    // La cesta («Llévate todo el kit») sólo tiene sentido si la mayoría de los
+    // productos tienen ficha /dp/ que añadir. Con poca cobertura el botón
+    // llevaría a una cesta casi vacía: en ese caso se ofrece la búsqueda.
+    const cartable = nProd > 0 && (nConFicha / nProd) >= 0.4;
 
     const guia = kit.guia ? `
       <div class="guia-kit">
@@ -387,13 +393,13 @@ const ui = {
         <div class="barra-progreso">
           <div class="bp-txt">
             <b>${nProd}</b>
-            <span>productos · ${nEs} imprescindibles</span>
+            <span>productos · ${nEs} imprescindibles${cartable ? '' : ' · aún sin fichas concretas'}</span>
           </div>
-          <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}')">Llévate todo el kit →</button>
+          <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}'${cartable ? '' : ",'buscar'"})"${cartable ? '' : ' title="Este kit aún no tiene fichas de producto concretas: se abre la búsqueda en Amazon"'}>${cartable ? 'Llévate todo el kit →' : 'Ver todo el kit en Amazon →'}</button>
         </div>
         ${paraQuien}
         ${secciones}
-        ${nEs > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Llévate solo lo esencial — los ${nEs} imprescindibles →</button>` : ''}
+        ${cartable && asinsEs.size > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Llévate solo lo esencial — los ${asinsEs.size} imprescindibles →</button>` : ''}
         ${errores}
         ${guia}
         ${blogBox}
@@ -409,15 +415,23 @@ const ui = {
     if (!kit) return;
     const soloEsenciales = modo === 'esenciales';
     const vistos = new Set(); const asins = [];
-    kit.secciones.forEach(s => s.items.forEach(i => {
-      if (!i.afiliado) return;
-      if (soloEsenciales && i.prioridad !== 'esencial') return;
-      const m = /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado);
-      if (m && !vistos.has(m[1])) { vistos.add(m[1]); asins.push(m[1]); }
-    }));
-    if (!asins.length) return;
-    const params = asins.map((a, idx) => `ASIN.${idx+1}=${a}&Quantity.${idx+1}=1`).join('&');
-    window.open(`https://www.amazon.es/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
+    if (modo !== 'buscar') {
+      kit.secciones.forEach(s => s.items.forEach(i => {
+        if (!i.afiliado) return;
+        if (soloEsenciales && i.prioridad !== 'esencial') return;
+        const m = /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado);
+        if (m && !vistos.has(m[1])) { vistos.add(m[1]); asins.push(m[1]); }
+      }));
+    }
+    if (asins.length) {
+      const params = asins.map((a, idx) => `ASIN.${idx+1}=${a}&Quantity.${idx+1}=1`).join('&');
+      window.open(`https://www.amazon.es/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
+      return;
+    }
+    // Sin fichas /dp/ suficientes no se puede montar la cesta (el botón quedaría
+    // muerto): fallback honesto → búsqueda del kit en Amazon (kit.busc o título).
+    const q = kit.busc || kit.titulo.replace(/^Kit\s+/i, '');
+    window.open(`https://www.amazon.es/s?k=${encodeURIComponent(q)}&tag=${this.tag}`, '_blank', 'noopener');
   },
 
 tablasSeguras(html) {

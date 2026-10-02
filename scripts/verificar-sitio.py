@@ -249,6 +249,30 @@ def validar_ficha_generada(raiz: Path, slug: str, kit: dict) -> None:
             err(f"kit/{slug}: contiene '{marca}' ({desc}) → parece la HOME "
                 f"copiada dentro del kit")
 
+    # Contador de imprescindibles: debe cuadrar con kits.json (si no, sale
+    # «N productos · 0 imprescindibles» y el botón de esenciales desaparece).
+    n_es_real = sum(1 for s in (kit.get("secciones") or [])
+                    for it in (s.get("items") or [])
+                    if it.get("prioridad") == "esencial")
+    m_cnt = re.search(r"productos\s*·\s*(\d+)\s*imprescindibles", h)
+    if m_cnt and int(m_cnt.group(1)) != n_es_real:
+        err(f"kit/{slug}: la ficha dice '{m_cnt.group(1)} imprescindibles' pero "
+            f"kits.json tiene {n_es_real} con prioridad=esencial")
+
+    # Botón de cesta coherente: «Llévate todo el kit» sólo si la mayoría de los
+    # productos tienen ficha /dp/ que añadir al carrito. Con poca cobertura el
+    # botón llevaría a una cesta casi vacía (botón muerto/engañoso).
+    items_k = [it for s in (kit.get("secciones") or []) for it in (s.get("items") or [])]
+    n_dp = sum(1 for it in items_k
+               if re.search(r"/dp/[A-Z0-9]{10}", it.get("afiliado") or ""))
+    cov = (n_dp / len(items_k)) if items_k else 0
+    if cov < 0.4 and "Llévate todo el kit" in h:
+        err(f"kit/{slug}: botón «Llévate todo el kit» con solo {cov:.0%} de fichas "
+            f"/dp/ (no añadiría el kit: debería ser la búsqueda de Amazon)")
+    if cov >= 0.4 and "Ver todo el kit en Amazon" in h:
+        err(f"kit/{slug}: botón de búsqueda con {cov:.0%} de fichas /dp/ "
+            f"(podría montar la cesta de verdad)")
+
     # La ficha debe conservar la estructura envolvente.
     for mini in ("site-header", "site-footer", 'id="app"'):
         falta(mini in h, f"falta '{mini}' (estructura rota)")
