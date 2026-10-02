@@ -1,0 +1,15 @@
+#!/bin/sh
+# Hook pre-commit de kit72h — gate de calidad.
+# Bloquea el commit si el sitio tiene errores (ficha rota, HTML mal formado,
+# enlace muerto, CSS/JS desincronizado…). Evita que se cuelen a producción
+# cosas como la web sin CSS del 2026-10-02.
+#
+# Instalación (una vez por clon):
+#   git config core.hooksPath .githooks
+# Bypass de emergencia:  git commit --no-verify
+python scripts/verificar-sitio.py || {
+  echo ""
+  echo "❌ Commit bloqueado por el gate de calidad de kit72h."
+  echo "   Arregla los ERRORES de arriba (o usa 'git commit --no-verify' con criterio)."
+  exit 1
+}

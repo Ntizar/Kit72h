@@ -15,7 +15,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # GATE DE CALIDAD — corre ANTES del deploy y lo bloquea si hay errores.
+  # Caza: fichas vacías o con la home copiada dentro, kits sin enlaces de compra,
+  # enlaces internos muertos, HTML mal formado (p. ej. un <link> de CSS sin
+  # cerrar que deja la web entera sin estilos), JSON-LD roto, versiones de
+  # CSS/JS inconsistentes, blog sin cuerpo y fugas de términos vetados.
+  verificar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gate de calidad (bloquea el deploy si falla)
+        run: python3 scripts/verificar-sitio.py
+
   deploy:
+    needs: verificar
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
