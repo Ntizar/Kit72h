@@ -41,6 +41,15 @@ COLORES = [
 ]
 
 
+def recortar(texto, max_len):
+    """Recorta por palabra completa (nunca corta a mitad de palabra)."""
+    texto = (texto or "").strip()
+    if len(texto) <= max_len:
+        return texto
+    corte = texto[:max_len].rsplit(" ", 1)[0].rstrip(" ,;:.-")
+    return (corte or texto[:max_len]) + "…"
+
+
 def generate_pin_html(title, subtitle, color_idx=0, show_cta=True, url=""):
     bg, fg = COLORES[color_idx % len(COLORES)]
     title_safe = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -71,8 +80,8 @@ body {{ margin: 0; display: flex; align-items: center; justify-content: center;
 .cta {{ font-size: 18px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase;
   border: 2px solid {fg}; padding: 16px 32px; display: inline-block;
   opacity: 0.7; margin-top: 20px; }}
-.pin-id {{ position: absolute; bottom: 30px; right: 40px; font-size: 11px;
-  opacity: 0.4; letter-spacing: 2px; }}
+.pin-id {{ position: absolute; bottom: 30px; right: 40px; font-size: 13px;
+  opacity: 0.75; letter-spacing: 2px; font-weight: 700; }}
 .icon-row {{ display: flex; justify-content: center; gap: 20px; margin: 30px 0 10px;
   font-size: 32px; opacity: 0.5; }}
 </style>
@@ -113,8 +122,8 @@ def generar_pins():
         if f"pin-kit-{slug}" in existing_slugs:
             continue
         emoji = kit_emojis.get(slug, "📋")
-        titulo = f"{emoji} {kit['titulo']}"[:60]
-        resumen = re.sub(r'<[^>]+>', '', kit.get("resumen", "")).replace("&", "")[:80]
+        titulo = recortar(f"{emoji} {kit['titulo']}", 60)
+        resumen = recortar(re.sub(r'<[^>]+>', '', kit.get("resumen", "")).replace("&", ""), 90)
         url = f"https://kit72h.com/kit/{slug}/"
         pin_html = generate_pin_html(titulo, resumen, color_idx=kits_data["kits"].index(kit), url=url)
         pin_file = PINTOUT_DIR / f"pin-kit-{slug}.html"
@@ -125,10 +134,13 @@ def generar_pins():
         slug = entry["slug"]
         if f"pin-blog-{slug}" in existing_slugs:
             continue
-        titulo = entry.get("titulo", slug)[:55]
-        if len(entry.get("titulo", "")) > 55:
-            titulo += "..."
-        resumen = entry.get("resumen", "")[:77]
+        titulo_full = entry.get("titulo", slug)
+        if ":" in titulo_full:
+            cabeza = titulo_full.split(":")[0].strip()
+            if len(cabeza) >= 18:
+                titulo_full = cabeza
+        titulo = recortar(titulo_full, 60)
+        resumen = recortar(entry.get("resumen", ""), 90)
         url = f"https://kit72h.com/blog/{slug}/"
         pin_html = generate_pin_html(titulo, resumen, color_idx=i + 20, url=url)
         pin_file = PINTOUT_DIR / f"pin-blog-{slug}.html"
