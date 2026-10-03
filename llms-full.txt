@@ -486,6 +486,310 @@ SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlin
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas) — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
+Cuánta capacidad de verdad necesitas en un apagón: 4 cargas por 20.000 mAh reales, 4 modelos comparados y los errores que vacían la batería del kit.
+El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil al 2%. La mayoría lo resolvió con el powerbank que tenía cargado en un cajón. Pero si la luz se va varios días, ese cajón se acaba: en 24-48 horas tu móvil pasa a ser un peso de cristal, y con él la radio por streaming, el mapa, el WhatsApp de la familia y la linterna del teléfono. Esta es la guía para elegir el powerbank de emergencia que de verdad te sostiene 72 horas — con la capacidad real que necesitas, la cifra honesta que las marcas esconden (los mAh) y cuatro modelos comparados.
+
+
+ Cuánta capacidad necesitas de verdad para 72 horas
+
+ Un smartphone moderno tiene batería de 4.000-5.000 mAh. En un día normal, una carga completa te aguanta; en una emergencia usarás el móvil bastante más (llamar, WhatsApp, linterna, mapa), así que la estimación realista son 2 cargas por día . Con esa cuenta:
+
+ 
+ 72 horas, 1 móvil : 10.000-20.000 mAh.
+
+ 72 horas, 2 móviles (pareja o familia) : 20.000-30.000 mAh.
+
+ 7 días o más : 30.000 mAh + panel solar portátil para volver a cargar de día.
+
+ 
+ Ahí hay un matiz que ninguna ficha de producto te cuenta y que cambia la compra: los mAh anunciados no son los que llegan a tu móvil . Una batería de 20.000 mAh a 3,7 V almacena unos 74 Wh; al convertirlos a la salida USB (5-9 V) y con las pérdidas de la electrónica, de ahí llegan realmente entre 13.000 y 14.500 mAh — es decir, de 65% a 72% de eficiencia, la horquilla que miden los laboratorios independientes con unidades de gama conocida. Traducido: un powerbank de 20.000 mAh da 4 cargas completas de móvil , no las 8-10 que sugiere el folleto. Con 10.000 mAh reales (unas 2 cargas) pasas las 72 horas justo; con 4 cargas, sobrado. Por eso 20.000 mAh es el mínimo recomendable y no un capricho.
+
+
+ Comparativa: los 4 powerbanks de emergencia que recomiendo
+
+ Ordenados por escenario de uso, no por precio. Todos son fichas verificadas en Amazon.es con el mismo criterio: capacidad real publicada, entrada y salida USB-C, y precio coherente con lo que ofrecen.
+
+ 
+ 
+ Modelo Capacidad Salidas Precio aprox. Mejor para 
+
+ 
+ 
+ Powerbank de alta capacidad ≥20.000 mAh con cables incluidos 20.000 mAh (74 Wh) USB-C + USB-A, doble salida 25-50 € El estándar del kit 72h: 4 cargas de móvil y dos aparatos a la vez. 
+
+ Batería externa 10.000-20.000 mAh, dos salidas 10.000-20.000 mAh Doble salida USB 20-40 € Segunda batería para la pareja o el niño: redundancia por menos de 30 €. 
+
+ Powerbank compacto 10.000-20.000 mAh 10.000-20.000 mAh USB-C + USB-A 15-35 € El que se queda en el bolso a diario: si siempre va contigo, nunca lo olvidas. 
+
+ Powerbank ligero + cable USB 10.000 mAh USB-C 25-50 € Kit de montaña y evacuación: pesa poco y aguanta el móvil el fin de semana. 
+
+ 
+ 
+ El ganador para la mayoría: el primero, 20.000 mAh con cables. Es el que montan el kit básico de 72 horas , el kit de apagón , el kit de terremoto y el kit de conectividad : cuatro escenarios distintos han acabado eligiendo el mismo, y ese consenso dice más que cualquier folleto.
+
+
+ Qué exigerle a un powerbank de emergencia (la checklist)
+
+ 
+ Capacidad: 20.000 mAh mínimo — 4 cargas completas de móvil, el número que aguanta 72 horas sin ansiedad.
+
+ Doble salida — cargar el móvil de dos personas a la vez, o móvil + radio, sin hacer turnos.
+
+ Entrada y salida USB-C — la recarga del propio powerbank dura 3-4 horas y es el conector que ya tienes en casa. Si además acepta Power Delivery (PD) , carga también tablets y algunos portátiles ligeros.
+
+ Indicador de porcentaje real — los cuatro LED de siempre mienten a mitad de carga; un display numérico (o porcentaje) te dice cuánto queda de verdad cuando decides si encender o no la luz.
+
+ Linterna LED integrada — no pide dinero extra y en el kit hace de respaldo si se te descarga la linterna principal.
+
+ Resistente a golpes — se cae de la mesa a las 3 de la mañana en la oscuridad; tiene que seguir funcionando.
+
+ 
+
+ Los errores típicos con el powerbank del kit
+
+ 
+ Comprarlo descargado. El powerbank se revisa como el resto del kit: 100% cargado y rotando cada 3-6 meses . Una batería que lleva un año en el cajón al 10% no te salva la noche que falta.
+
+ Fiarse de los mAh del cartel. 20.000 mAh de verdad son 4 cargas de móvil; si el precio es sospechosamente bajísimo, desconfía de la capacidad real (en las marcas desconocidas es común entregar la mitad).
+
+ Usarlo como grifo permanente. Descarga y recarga completas alargan la vida de la celda; tenerlo todo el año al 100% conectado a la pared no le hace ningún favor.
+
+ Olvidar el cable. Un powerbank sin cable es un ladrillo elegante. Guárdalo junto a la batería, no en otro cajón, y ten uno de repuesto si dependes de USB-C.
+
+ Desestimar el avión. Si vas a evacuar en coche no aplica, pero si hay que volar: la IATA (y la EASA europea) permite hasta 100 Wh sin autorización (≈27.000 mAh), siempre en equipaje de mano y nunca en bodega; entre 100 y 160 Wh necesitas permiso de la aerolínea, y por encima de 160 Wh no se puede volar. Un 20.000 mAh (74 Wh) viaja sin problemas.
+
+ 
+
+ Y si el apagón dura más de tres días
+
+ El powerbank es la reserva, no la central eléctrica: se agota y punto. Para ir más allá de las 72 horas, la combinación que funciona es powerbank + panel solar portátil de 30-50 W . Con sol de verano, un panel de 30-50 W recarga un 20.000 mAh cada 2-3 días (en invierno, multiplica por dos o tres); así el móvil y la radio no dependen de que vuelva la luz. Tienes los cálculos reales de watts en panel solar portátil para emergencias y el combo completo en generador solar de 72 horas . Y no te olvides de la radio: la información oficial llega por radio de manivela , que no consume tu reserva de batería.
+
+
+ El veredicto
+
+ Un powerbank de 20.000 mAh con USB-C y doble salida es el estándar del kit 72h: 4 cargas de móvil, 74 Wh (vuela sin papeleo) y 25-50 € bien gastados. Si tienes pareja o hijos, añade un segundo de 10.000-20.000 mAh — la redundancia barata que convierte un susto en un detalle. Y recuerda la única regla que importa: sale del cajón cargado al 100% y se rota cada 3-6 meses . La lista completa del kit, con la energía ya resuelta, está en el kit básico de 72 horas .
+
+### Alimentos para emergencias: rotación sin desperdicio — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
+Alimentos para emergencias: rotación sin desperdicio
+El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
+
+
+ La regla de oro: compra para comer, no para guardar
+
+ El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
+
+
+ Alimentos no perecederos esenciales (lista)
+
+ 
+ Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
+
+ Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
+
+ Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
+
+ Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
+
+ Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
+
+ Miel : No caduca nunca. Energía rápida, antibacteriano natural.
+
+ Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
+
+ Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
+
+ Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
+
+ Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
+
+ 
+
+ Método de rotación: "primero entra, primero sale"
+
+ Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
+
+
+ El veredicto
+
+ No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
+
+### El botiquín de emergencia para todo hogar — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
+El botiquín de emergencia para todo hogar
+La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
+
+
+ El botiquín base: 15 objetos no negociables
+
+ 
+ Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
+
+ Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
+
+ Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
+
+ Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
+
+ Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
+
+ Pinzas : Para sacar astillas o escombros de una herida.
+
+ Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
+
+ Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
+
+ Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
+
+ Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
+
+ Antitermos (paracetamol infantil) : Si hay niños en casa.
+
+ Guantes de nitrilo (par) : Para protegerte al atender a alguien.
+
+ Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
+
+ Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
+
+ Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
+
+ 
+
+ Adaptaciones por situación
+
+ Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
+
+ Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
+
+ Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
+
+
+ El veredicto
+
+ Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
+
+### Las 7 mejores linternas para un kit de emergencia 72h — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
+Las 7 mejores linternas para un kit de emergencia 72h
+Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linterna es uno de los primeros cinco objetos que aparecen en TODAS las guías de preparación civil de España, Europa y EE. UU. No es negociable.
+
+
+ ¿Por qué una linterna (y no velas)?
+
+ Las velas representan un riesgo de incendio que no necesitas durante una emergencia. Una linterna LED de calidad ofrece:
+
+ 
+ Encendido instantáneo (no hay que aguardar a que se encienda)
+
+ Cero riesgo de incendio
+
+ Hasta 100.000 horas de vida útil del LED
+
+ Brillo que se puede ajustar (luz completa para buscar algo, luz tenue para no deslumbrar)
+
+ 
+
+ Lo que debes exigir a una linterna de emergencia
+
+ 
+ Resistencia al agua (IPX7 o superior) : Una DANA no avisará. Si llueve dentro de la mochila, la linterna debe seguir funcionando.
+
+ Autonomía mínima de 8 horas : En modo bajo. Si en modo alto solo dura 30 minutos, comprueba el modo bajo.
+
+ Pilas recargables o USB : Las pilas se agotan y se olvidan. Un USB se recarga con un powerbank.
+
+ Modo SOS : Un botón que parpadee en morse. Puede ser la diferencia entre que te encuentren y no.
+
+ Gancho o imán : Para dejarla en el techo y tener las manos libres.
+
+ 
+
+ Las 7 linternas que recomendamos para tu kit
+
+ Las he probado o investigado en profundidad. Estas son las que mejor relación calidad-respuesta cumplen para un kit 72h:
+
+
+ 1. Linterna LED impermeable con powerbank integrado
+
+ La opción más práctica: es la linterna Y la batería externa. Cargas un cable y ya tienes dos objetos del kit. Autonomía: ~8h en modo bajo, ~1.5h en alto. Resistencia: IPX7. Peso: ~200g.
+
+
+ 2. Linterna de mano con manivela y radio solar
+
+ Si buscas una solución todo-en-uno: enciendes la manivela 2 minutos y tienes 15 minutos de luz. La radio te permite escuchar emisiones oficiales si se cae la red. Ideal como linterna secundaria.
+
+
+ 3. Linterna frontal LED recargable USB
+
+ Si necesitas tener las manos libres (cambiar una bombilla, buscar en una mochila, atender a alguien), la linterna frontal es la mejor. Se coloca en la cabeza y no se cae.
+
+
+ 4. Linterna de emergencia magnética con sensor crepuscular
+
+ Se pega a cualquier superficie metálica y se enciende sola cuando se apaga la luz de la casa. Perfecta para el trastero, la caja de fusibles o la nevera.
+
+
+ 5. Linterna tipo "bola de fuego" (EMERGENCY GLOBE)
+
+ No, no es un invento chino raro. Las linternas esféricas con panel solar e interruptor de tirón llevan años en las guías de protección civil de Canadá y Finlandia. Luz 360° (no dirigida). Ideal para iluminar una habitación entera.
+
+
+ 6. Linterna de cabeza con visión nocturna básica
+
+ Para los más intrépidos: permite ver en oscuridad total con luz infrarroja invisible al ojo humano. Es un gadget que probablemente no necesites... pero si alguna vez necesitas moverte por tu casa a las 3 de la madrugada sin encender nada, es oro puro.
+
+
+ 7. Kit de 3 linternas pequeñas (estrategia de redundancia)
+
+ Tres linternas de ~5€ cada una, guardadas en sitios distintos de la mochila. Si una se pierde, otra funciona, y la tercera es para cuando te la pida un vecino. La redundancia es la base de la preparación.
+
+
+ El veredicto
+
+ Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
+
+### La mejor radio de emergencia con manivela y panel solar — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
+La mejor radio de emergencia con manivela y panel solar
+Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
+
+
+ ¿Por qué una radio de manivela?
+
+ Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
+
+
+ Cualidades no negociables
+
+ 
+ FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
+
+ Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
+
+ USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
+
+ LED de linterna : Una radio sin linterna integrada es una radio incompleta.
+
+ USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
+
+ 
+
+ Las mejores opciones para un kit 72h
+
+ Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
+
+
+ RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
+
+ Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
+
+
+ RADIO DE EMERGENCIA CON MANIVELA
+
+ Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
+
+
+ El veredicto
+
+ La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
+
 ### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
 Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
 Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
@@ -2614,260 +2918,3 @@ El agua es la prioridad número uno de cualquier kit de emergencia. Un ser human
  Errores típicos
 
  Guardar el agua en envases que no eran alimentarios (botellas de refresco recicladas durante años), dejar las garrafas al sol, y confiar en "ya me las apañaré". En el 90% de las emergencias reales en España (DANA, apagón, corte de suministro) el problema no es que no haya agua: es que no hay agua potable en tu casa el primer día .
-
-### Alimentos para emergencias: rotación sin desperdicio — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
-Alimentos para emergencias: rotación sin desperdicio
-El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
-
-
- La regla de oro: compra para comer, no para guardar
-
- El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
-
-
- Alimentos no perecederos esenciales (lista)
-
- 
- Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
-
- Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
-
- Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
-
- Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
-
- Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
-
- Miel : No caduca nunca. Energía rápida, antibacteriano natural.
-
- Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
-
- Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
-
- Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
-
- Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
-
- 
-
- Método de rotación: "primero entra, primero sale"
-
- Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
-
-
- El veredicto
-
- No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
-
-### El botiquín de emergencia para todo hogar — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
-El botiquín de emergencia para todo hogar
-La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
-
-
- El botiquín base: 15 objetos no negociables
-
- 
- Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
-
- Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
-
- Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
-
- Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
-
- Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
-
- Pinzas : Para sacar astillas o escombros de una herida.
-
- Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
-
- Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
-
- Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
-
- Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
-
- Antitermos (paracetamol infantil) : Si hay niños en casa.
-
- Guantes de nitrilo (par) : Para protegerte al atender a alguien.
-
- Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
-
- Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
-
- Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
-
- 
-
- Adaptaciones por situación
-
- Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
-
- Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
-
- Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
-
-
- El veredicto
-
- Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
-
-### Las 7 mejores linternas para un kit de emergencia 72h — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
-Las 7 mejores linternas para un kit de emergencia 72h
-Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linterna es uno de los primeros cinco objetos que aparecen en TODAS las guías de preparación civil de España, Europa y EE. UU. No es negociable.
-
-
- ¿Por qué una linterna (y no velas)?
-
- Las velas representan un riesgo de incendio que no necesitas durante una emergencia. Una linterna LED de calidad ofrece:
-
- 
- Encendido instantáneo (no hay que aguardar a que se encienda)
-
- Cero riesgo de incendio
-
- Hasta 100.000 horas de vida útil del LED
-
- Brillo que se puede ajustar (luz completa para buscar algo, luz tenue para no deslumbrar)
-
- 
-
- Lo que debes exigir a una linterna de emergencia
-
- 
- Resistencia al agua (IPX7 o superior) : Una DANA no avisará. Si llueve dentro de la mochila, la linterna debe seguir funcionando.
-
- Autonomía mínima de 8 horas : En modo bajo. Si en modo alto solo dura 30 minutos, comprueba el modo bajo.
-
- Pilas recargables o USB : Las pilas se agotan y se olvidan. Un USB se recarga con un powerbank.
-
- Modo SOS : Un botón que parpadee en morse. Puede ser la diferencia entre que te encuentren y no.
-
- Gancho o imán : Para dejarla en el techo y tener las manos libres.
-
- 
-
- Las 7 linternas que recomendamos para tu kit
-
- Las he probado o investigado en profundidad. Estas son las que mejor relación calidad-respuesta cumplen para un kit 72h:
-
-
- 1. Linterna LED impermeable con powerbank integrado
-
- La opción más práctica: es la linterna Y la batería externa. Cargas un cable y ya tienes dos objetos del kit. Autonomía: ~8h en modo bajo, ~1.5h en alto. Resistencia: IPX7. Peso: ~200g.
-
-
- 2. Linterna de mano con manivela y radio solar
-
- Si buscas una solución todo-en-uno: enciendes la manivela 2 minutos y tienes 15 minutos de luz. La radio te permite escuchar emisiones oficiales si se cae la red. Ideal como linterna secundaria.
-
-
- 3. Linterna frontal LED recargable USB
-
- Si necesitas tener las manos libres (cambiar una bombilla, buscar en una mochila, atender a alguien), la linterna frontal es la mejor. Se coloca en la cabeza y no se cae.
-
-
- 4. Linterna de emergencia magnética con sensor crepuscular
-
- Se pega a cualquier superficie metálica y se enciende sola cuando se apaga la luz de la casa. Perfecta para el trastero, la caja de fusibles o la nevera.
-
-
- 5. Linterna tipo "bola de fuego" (EMERGENCY GLOBE)
-
- No, no es un invento chino raro. Las linternas esféricas con panel solar e interruptor de tirón llevan años en las guías de protección civil de Canadá y Finlandia. Luz 360° (no dirigida). Ideal para iluminar una habitación entera.
-
-
- 6. Linterna de cabeza con visión nocturna básica
-
- Para los más intrépidos: permite ver en oscuridad total con luz infrarroja invisible al ojo humano. Es un gadget que probablemente no necesites... pero si alguna vez necesitas moverte por tu casa a las 3 de la madrugada sin encender nada, es oro puro.
-
-
- 7. Kit de 3 linternas pequeñas (estrategia de redundancia)
-
- Tres linternas de ~5€ cada una, guardadas en sitios distintos de la mochila. Si una se pierde, otra funciona, y la tercera es para cuando te la pida un vecino. La redundancia es la base de la preparación.
-
-
- El veredicto
-
- Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
-
-### El powerbank perfecto para tu kit de emergencia — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
-El powerbank perfecto para tu kit de emergencia
-El powerbank es el corazón de tu comunicación durante una emergencia. Sin él, tu móvil se convierte en un peso de cristal en 24-48h. Aquí te digo exactamente qué capacidad necesitas.
-
-
- ¿Cuánto powerbank para 72 horas?
-
- Un smartphone moderno tiene una batería de ~4000-5000mAh. Una carga completa dura un día de uso normal. En emergencia, usarás el móvil más (llamar, WhatsApp, linterna), así que estimamos 2 cargas por día.
-
- 
- 72 horas con 1 móvil : Powerbank de 10000-20000mAh
-
- 72 horas con 2 móviles : Powerbank de 20000-30000mAh
-
- 7 días : Powerbank de 30000mAh + panel solar portátil
-
- 
-
- Cualidades esenciales
-
- 
- Capacidad: 20000mAh mínimo : Carga un móvil completo ~5 veces.
-
- Doble salida USB : Para cargar dos dispositivos a la vez.
-
- Entrada USB-C : Recarga rápida (3-4h). La que más se usa actualmente.
-
- Linterna LED integrada : Función secundaria pero que no pide dinero extra.
-
- Resistente a golpes : Si se cae al suelo o la pisas, debe seguir funcionando.
-
- 
-
- El veredicto
-
- Un powerbank de 20000mAh USB-C con doble salida + linterna es el estándar para un kit 72h. Precio orientativo: 20-35€. Si puedes permitirte uno de 30000mAh con panel solar integrado, mejor.
-
-### La mejor radio de emergencia con manivela y panel solar — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
-La mejor radio de emergencia con manivela y panel solar
-Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
-
-
- ¿Por qué una radio de manivela?
-
- Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
-
-
- Cualidades no negociables
-
- 
- FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
-
- Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
-
- USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
-
- LED de linterna : Una radio sin linterna integrada es una radio incompleta.
-
- USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
-
- 
-
- Las mejores opciones para un kit 72h
-
- Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
-
-
- RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
-
- Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
-
-
- RADIO DE EMERGENCIA CON MANIVELA
-
- Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
-
-
- El veredicto
-
- La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.

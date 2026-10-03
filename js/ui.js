@@ -167,11 +167,14 @@ const ui = {
             <span class="cta-kit-t">No pierdas el tiempo:<br>compra tu kit completo</span>
             <span class="cta-kit-b">Kit de emergencia de 72 h, listo para mandarlo a casa →</span>
           </a>
-          <!-- Kit profesional: botón brillante -->
+          <!-- Kit profesional: cuadro «carta PRO» plateada (mismo acabado que la de la grid) -->
           <a class="kpro-hero-btn" href="/kit/kit-kit-profesional/">
-            <span class="kpro-hero-chip">⚡ KIT PROFESIONAL</span>
-            <span class="kpro-hero-title">Energía + conectividad para los que no se quedan a medio camino</span>
-            <span class="kpro-hero-cta">Ver kit profesional →</span>
+            <div class="holo-glare"></div>
+            <div class="holo-shine"></div>
+            <span class="kpro-hero-chip">⚡ KIT PRO · ENERGÍA Y CONEXIÓN</span>
+            <span class="kpro-hero-title">Apagón de días.<br>Tu casa, encendida.</span>
+            <span class="kpro-hero-sub">SAI + 800 W de placas solares + baterías LFP + Starlink. Luz, nevera y conexión cuando la red no está, no un par de horas.</span>
+            <span class="kpro-hero-cta">Quiero el Kit Pro →</span>
           </a>
           </div>
         </div>

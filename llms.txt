@@ -34,6 +34,11 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas)](https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/): Cuánta capacidad de verdad necesitas en un apagón: 4 cargas por 20.000 mAh reales, 4 modelos comparados y los errores que vacían la batería del kit.
+- [Alimentos para emergencias: rotación sin desperdicio](https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/): Alimentos para emergencias: rotación sin desperdicio
+- [El botiquín de emergencia para todo hogar](https://kit72h.com/blog/botiquin-emergencia-lista-completa/): El botiquín de emergencia para todo hogar
+- [Las 7 mejores linternas para un kit de emergencia 72h](https://kit72h.com/blog/mejor-linterna-emergencia-72h/): Las 7 mejores linternas para un kit de emergencia 72h
+- [La mejor radio de emergencia con manivela y panel solar](https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/): La mejor radio de emergencia con manivela y panel solar
 - [Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña](https://kit72h.com/blog/antena-externa-movil-cobertura-montana/): Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
 - [Conectividad de emergencia: Starlink, radio, satélite y redundancia](https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/): Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.
 - [Generador solar para emergencias de 72h: autonomía cuando se va la luz](https://kit72h.com/blog/generador-solar-emergencia-72h/): Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
@@ -73,11 +78,6 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Apagón: lecciones del 28 de abril de 2025 en España](https://kit72h.com/blog/apagon-lecciones-28a/): El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
 - [Cómo almacenar agua y comida en casa sin que se estropee](https://kit72h.com/blog/almacenar-agua-comida-casa/): Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.
 - [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla](https://kit72h.com/blog/agua-cuanta-y-como/): 3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
-- [Alimentos para emergencias: rotación sin desperdicio](https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/): Alimentos para emergencias: rotación sin desperdicio
-- [El botiquín de emergencia para todo hogar](https://kit72h.com/blog/botiquin-emergencia-lista-completa/): El botiquín de emergencia para todo hogar
-- [Las 7 mejores linternas para un kit de emergencia 72h](https://kit72h.com/blog/mejor-linterna-emergencia-72h/): Las 7 mejores linternas para un kit de emergencia 72h
-- [El powerbank perfecto para tu kit de emergencia](https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/): El powerbank perfecto para tu kit de emergencia
-- [La mejor radio de emergencia con manivela y panel solar](https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/): La mejor radio de emergencia con manivela y panel solar
 
 ## Fuentes oficiales
 

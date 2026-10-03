@@ -1094,7 +1094,10 @@ a.card-kit{color:inherit;text-decoration:none}
 
 
 /* ═══════════════════════════════════════════════════════════
-   KPRO HERO BUTTON — botón brillante en la landing
+   KPRO HERO — cuadro «carta PRO» plateada en el hero
+   Mismo acabado que la carta PRO de la grid de kits: lámina
+   metálica + espectro arcoíris + scanlines + destello que sigue
+   al ratón (--px/--py). Texto oscuro sobre plata para que se lea.
    ═══════════════════════════════════════════════════════════ */
 
 .kpro-hero-btn {
@@ -1102,83 +1105,182 @@ a.card-kit{color:inherit;text-decoration:none}
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  gap: 2px;
   margin: 0;
   max-width: 600px;
-  padding: 18px 24px;
-  background: linear-gradient(135deg, #1a1510 0%, #2a2015 50%, #1a1008 100%);
-  border: 2px solid var(--ambar);
-  border-radius: 8px;
+  padding: 22px 26px;
+  border: 2px solid rgba(255,255,255,.55);
+  border-radius: 0;
   text-decoration: none;
   position: relative;
   overflow: hidden;
-  transition: transform .15s ease, box-shadow .25s ease, border-color .2s;
+  isolation: isolate;
+  /* Base metálica: bandas claras/oscuras = brillo de lámina */
+  background: linear-gradient(115deg,
+      #a9a9b8 0%, #dcdce9 10%, #ffffff 20%, #c2c2d2 30%,
+      #f2f2fb 40%, #b6b6c6 50%, #ffffff 60%, #c8c8d8 70%,
+      #eaeaf5 80%, #b0b0c0 90%, #a9a9b8 100%);
   box-shadow:
-    0 0 20px rgba(239, 160, 43, .25),
-    0 0 40px rgba(239, 160, 43, .1),
-    inset 0 1px 0 rgba(255,255,255,.15);
+    inset 0 0 0 1px rgba(255,255,255,.55),
+    0 0 34px rgba(198,198,235,.22),
+    0 2px 0 rgba(0,0,0,.25);
+  transition: transform .12s ease, box-shadow .25s ease, border-color .2s;
 }
+/* HOLO 1 — espectro arcoíris (bandas diagonales) */
 .kpro-hero-btn::before {
   content: "";
   position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    rgba(239, 160, 43, .08) 40%,
-    rgba(239, 160, 43, .2) 50%,
-    rgba(239, 160, 43, .08) 60%,
-    transparent 100%
-  );
-  animation: kproSweep 3s ease-in-out infinite;
+  inset: -30%;
+  background: repeating-linear-gradient(108deg,
+      hsla(0,95%,68%,.85) 0%,
+      hsla(45,95%,62%,.85) 4.5%,
+      hsla(95,95%,62%,.85) 9%,
+      hsla(150,95%,62%,.85) 13.5%,
+      hsla(200,95%,66%,.85) 18%,
+      hsla(255,95%,70%,.85) 22.5%,
+      hsla(305,95%,70%,.85) 27%,
+      hsla(345,95%,68%,.85) 31.5%,
+      hsla(20,95%,64%,.85) 36%);
+  background-size: 220% 220%;
+  mix-blend-mode: screen;
+  opacity: .55;
+  filter: saturate(1.4) contrast(1.05);
+  animation: holoSpectrum 6s linear infinite;
   pointer-events: none;
+  z-index: 0;
 }
-@keyframes kproSweep {
-  0%, 100% { transform: translateX(-120%) skewX(-16deg) }
-  50%      { transform: translateX(120%) skewX(-16deg) }
+/* HOLO 2 — scanlines metálicas finas */
+.kpro-hero-btn::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(108deg,
+      rgba(255,255,255,0) 0px,
+      rgba(255,255,255,.35) 1px,
+      rgba(255,255,255,0) 2px,
+      rgba(0,0,0,.06) 3px,
+      rgba(255,255,255,0) 5px);
+  mix-blend-mode: overlay;
+  opacity: .85;
+  animation: scanShift 12s linear infinite;
+  pointer-events: none;
+  z-index: 1;
 }
+/* HOLO 3 — destello radial que SIGUE AL RATÓN (--px/--py) */
+.kpro-hero-btn .holo-glare {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    farthest-corner circle at var(--px,50%) var(--py,50%),
+    hsla(0,0%,100%,.95) 0%,
+    hsla(0,0%,100%,.45) 22%,
+    hsla(0,0%,100%,0) 60%);
+  mix-blend-mode: overlay;
+  opacity: .9;
+  transition: background-position .08s linear;
+  pointer-events: none;
+  z-index: 1;
+}
+/* HOLO 4 — barrido diagonal de brillo */
+.kpro-hero-btn .holo-shine {
+  position: absolute;
+  inset: -25%;
+  background: linear-gradient(105deg,
+    transparent 0%,
+    rgba(255,255,255,.25) 42%,
+    rgba(255,255,255,.75) 50%,
+    rgba(255,255,255,.25) 58%,
+    transparent 100%);
+  mix-blend-mode: screen;
+  animation: holoSweep 3.6s ease-in-out infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+/* HOVER — se levanta como la carta */
 .kpro-hero-btn:hover {
-  transform: translateY(-2px);
+  transform: translate(-3px,-3px);
+  border-color: rgba(255,255,255,.85);
   box-shadow:
-    0 0 30px rgba(239, 160, 43, .4),
-    0 0 60px rgba(239, 160, 43, .2),
-    inset 0 1px 0 rgba(255,255,255,.25);
-  border-color: var(--rojo);
+    inset 0 0 0 1px rgba(255,255,255,.7),
+    0 0 26px rgba(190,190,235,.5),
+    0 0 70px rgba(170,170,230,.3),
+    6px 6px 0 rgba(80,80,100,.22);
 }
 .kpro-hero-btn:active {
-  transform: translateY(0);
+  transform: translate(0,0);
 }
 .kpro-hero-chip {
   display: inline-block;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  color: var(--ambar);
-  border: 1px solid var(--ambar);
-  padding: 3px 8px;
-  margin-bottom: 6px;
+  font-family: var(--display);
+  font-size: 13px;
+  letter-spacing: 4px;
+  color: #2b2b3c;
+  background: linear-gradient(135deg,#ffffff,#c6c6d6 45%,#f4f4ff);
+  padding: 3px 12px;
+  margin-bottom: 10px;
   text-transform: uppercase;
-  background: rgba(239, 160, 43, .08);
-  border-radius: 3px;
+  border: 1px solid rgba(70,70,110,.35);
+  box-shadow:
+    0 0 12px rgba(255,255,255,.85),
+    0 1px 0 rgba(255,255,255,.9),
+    inset 0 0 12px rgba(180,180,220,.5);
+  position: relative;
+  z-index: 3;
 }
 .kpro-hero-title {
   display: block;
   font-family: var(--display);
-  font-size: 18px;
+  font-weight: 400;
+  font-size: clamp(24px, 3vw, 34px);
   text-transform: uppercase;
-  color: var(--crema);
-  line-height: 1.3;
-  margin-bottom: 4px;
+  color: #1e1e28;
+  line-height: .98;
+  letter-spacing: .5px;
+  margin-bottom: 10px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.85);
+  position: relative;
+  z-index: 3;
+}
+.kpro-hero-sub {
+  display: block;
+  font-size: 13px;
+  color: #26262f;
+  line-height: 1.55;
+  /* Placa clara: aísla el texto menudo de las bandas holográficas */
+  background: rgba(255,255,255,.5);
+  padding: 8px 10px;
+  margin: 0 -10px 16px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.6);
+  position: relative;
+  z-index: 3;
 }
 .kpro-hero-cta {
-  display: block;
-  font-size: 12px;
-  font-weight: 700;
-  color: var(--ambar);
-  letter-spacing: 1px;
-  transition: color .15s;
+  display: inline-block;
+  font-family: var(--display);
+  font-size: clamp(15px, 1.7vw, 18px);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--crema);
+  background: var(--negro);
+  border: 2px solid var(--negro);
+  padding: 12px 24px;
+  box-shadow: 0 0 0 2px rgba(255,255,255,.6), 0 3px 0 rgba(0,0,0,.3);
+  transition: transform .08s, box-shadow .08s, background .15s, color .15s, border-color .15s;
+  position: relative;
+  z-index: 3;
 }
 .kpro-hero-btn:hover .kpro-hero-cta {
-  color: var(--rojo);
+  transform: translate(-2px,-2px);
+  background: var(--ambar);
+  border-color: var(--ambar);
+  color: var(--negro);
+  box-shadow: 0 0 0 2px rgba(255,255,255,.75), 5px 5px 0 rgba(45,45,75,.35);
+}
+/* Accesibilidad: sin animaciones si el usuario lo pide */
+@media (prefers-reduced-motion:reduce){
+  .kpro-hero-btn::before,
+  .kpro-hero-btn::after,
+  .kpro-hero-btn .holo-shine{animation:none}
 }
 
 /* Fila de oferta del hero: banner rojo (iza.) + botón KIT PRO (der.) */
@@ -1196,16 +1298,24 @@ a.card-kit{color:inherit;text-decoration:none}
   .hero-oferta .cta-kit,
   .hero-oferta .kpro-hero-btn{flex:1 1 100%;max-width:100%}
   .kpro-hero-btn{
-    padding:14px 16px;
+    padding:16px 18px;
+    gap:2px;
   }
   .kpro-hero-title{
-    font-size:15px;
+    font-size:19px;
+  }
+  .kpro-hero-sub{
+    font-size:12.5px;
+    margin-bottom:14px;
   }
   .kpro-hero-cta{
-    font-size:11px;
+    font-size:13px;
+    padding:10px 16px;
+    letter-spacing:1.5px;
   }
   .kpro-hero-chip{
-    font-size:9px;
+    font-size:11px;
+    letter-spacing:3px;
   }
 }
 
