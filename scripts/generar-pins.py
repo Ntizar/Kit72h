@@ -14,6 +14,7 @@ import json
 import os
 import re
 import subprocess
+from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
@@ -40,7 +41,7 @@ COLORES = [
 ]
 
 
-def generate_pin_html(title, subtitle, color_idx=0, show_cta=True):
+def generate_pin_html(title, subtitle, color_idx=0, show_cta=True, url=""):
     bg, fg = COLORES[color_idx % len(COLORES)]
     title_safe = title.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     subtitle_safe = subtitle.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -49,6 +50,8 @@ def generate_pin_html(title, subtitle, color_idx=0, show_cta=True):
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="pin-url" content="{url}">
+<meta name="pin-ratio" content="2:3">
 <title>Pin — Kit72h</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=IBM+Plex+Mono:wght@400;700&amp;display=swap');
@@ -74,7 +77,7 @@ body {{ margin: 0; display: flex; align-items: center; justify-content: center;
   font-size: 32px; opacity: 0.5; }}
 </style>
 </head>
-<body>
+<body data-url="{url}">
 <div class="container">
   <div class="logo">KIT<span class="accent">72H</span></div>
   <div class="title">{title_safe}</div>
@@ -102,37 +105,43 @@ def generar_pins():
         "kit-mayores": "👴", "kit-mascotas": "🐾", "kit-frio": "❄️",
         "kit-terremoto": "💥", "kit-incendio": "🔥", "huerto-autosuficiencia": "🌱",
         "kit-30-dias": "📦", "kit-kit-profesional": "🏭",
+        "kit-starlink": "📡", "kit-comunicacion": "📻",
     }
 
     for kit in kits_data.get("kits", []):
         slug = kit["slug"]
-        if slug in existing_slugs:
+        if f"pin-kit-{slug}" in existing_slugs:
             continue
         emoji = kit_emojis.get(slug, "📋")
         titulo = f"{emoji} {kit['titulo']}"[:60]
         resumen = re.sub(r'<[^>]+>', '', kit.get("resumen", "")).replace("&", "")[:80]
         url = f"https://kit72h.com/kit/{slug}/"
-        pin_html = generate_pin_html(titulo, resumen, color_idx=kits_data["kits"].index(kit))
+        pin_html = generate_pin_html(titulo, resumen, color_idx=kits_data["kits"].index(kit), url=url)
         pin_file = PINTOUT_DIR / f"pin-kit-{slug}.html"
         pin_file.write_text(pin_html, encoding="utf-8", newline="\n")
         pins_created.append({"slug": f"pin-kit-{slug}", "tipo": "kit", "titulo": kit["titulo"], "url": url, "emoji": emoji, "pin": pin_file.name})
 
-    for i, entry in enumerate(blog_data.get("entradas", [])[:10]):
+    for i, entry in enumerate(blog_data.get("entradas", [])):
         slug = entry["slug"]
-        if slug in existing_slugs:
+        if f"pin-blog-{slug}" in existing_slugs:
             continue
         titulo = entry.get("titulo", slug)[:55]
         if len(entry.get("titulo", "")) > 55:
             titulo += "..."
         resumen = entry.get("resumen", "")[:77]
         url = f"https://kit72h.com/blog/{slug}/"
-        pin_html = generate_pin_html(titulo, resumen, color_idx=i + 20)
+        pin_html = generate_pin_html(titulo, resumen, color_idx=i + 20, url=url)
         pin_file = PINTOUT_DIR / f"pin-blog-{slug}.html"
         pin_file.write_text(pin_html, encoding="utf-8", newline="\n")
         pins_created.append({"slug": f"pin-blog-{slug}", "tipo": "blog", "titulo": entry.get("titulo", ""), "url": url, "emoji": "📖", "pin": pin_file.name})
 
-    (RAIZ / "data" / "pins-generados.json").write_text(json.dumps({"meta": {"ultima_generacion": "2026-10-02", "total": len(pins_created)}, "pins": pins_created}, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Pins generados: {len(pins_created)}")
+    todos = existing.get("pins", []) + pins_created
+    data_json = {
+        "meta": {"ultima_generacion": date.today().isoformat(), "total": len(todos)},
+        "pins": todos,
+    }
+    (RAIZ / "data" / "pins-generados.json").write_text(json.dumps(data_json, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Pins generados: {len(pins_created)} (índice total: {len(todos)})")
     for p in pins_created:
         print(f"  {p['emoji']} {p['tipo']}: {p['titulo'][:50]}")
     return pins_created
