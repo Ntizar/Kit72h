@@ -3684,11 +3684,12 @@
             },
             {
               "producto": "Mochila de agua a presión (16-20 L)",
-              "afiliado": "https://www.amazon.es/s?k=mochila+de+agua+a+presi%C3%B3n&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B00RD0KTZQ?tag=nti0c8-21",
               "descripcion": "Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona.",
               "precio_aprox": "25-50 €",
               "prioridad": "extra",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             }
           ]
         },
@@ -3698,11 +3699,12 @@
           "items": [
             {
               "producto": "Transportín y correa a mano (mascotas)",
-              "afiliado": "https://www.amazon.es/s?k=transport%C3%ADn+y+correa+a+mano&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DRP2F54D?tag=nti0c8-21",
               "descripcion": "En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje.",
               "precio_aprox": "25-60 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Medicación crónica y lista de tratamientos (personas mayores o dependientes)",
@@ -3768,19 +3770,21 @@
           "items": [
             {
               "producto": "Walkie-talkies PMR446 (pareja, recargables)",
-              "afiliado": "https://www.amazon.es/s?k=walkie+talkie+pmr446+pareja+recargables&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B09TJJ88LX?tag=nti0c8-21",
               "descripcion": "Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común.",
               "precio_aprox": "40-80 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
-              "afiliado": "https://www.amazon.es/s?k=walkie+talkie+pmr446+gama+media&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B08J9YCB8M?tag=nti0c8-21",
               "descripcion": "Mejor antena y sensibilidad: hasta 5-10 km en campo abierto.",
               "precio_aprox": "60-120 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             }
           ]
         },
@@ -3790,35 +3794,39 @@
           "items": [
             {
               "producto": "Radio FM/AM a pilas o de dinamo (con linterna)",
-              "afiliado": "https://www.amazon.es/s?k=radio+fm+a+pilas+con+dinamo+y+linterna&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GWN9FJC7?tag=nti0c8-21",
               "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo, sin pilas.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Powerbank 10.000-20.000 mAh para los aparatos",
-              "afiliado": "https://www.amazon.es/s?k=powerbank+20000mah+dos+salidas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0F84D5PRT?tag=nti0c8-21",
               "descripcion": "El walkie recargable y el móvil se mueren a la vez. Dos salidas los mantienen vivos varios días.",
               "precio_aprox": "20-40 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Messenger satelital (tipo Garmin inReach)",
-              "afiliado": "https://www.amazon.es/s?k=messenger+satelital+emergencia&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0BFBZR4KW?tag=nti0c8-21",
               "descripcion": "Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual.",
               "precio_aprox": "250-400 € + 5-25 €/mes",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
-              "afiliado": "https://www.amazon.es/s?k=pilas+alcalinas+aa+aaa+surtidas&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0GDTTG5JP?tag=nti0c8-21",
               "descripcion": "Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase.",
               "precio_aprox": "8-18 €",
               "prioridad": "extra",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-03"
             }
           ]
         }
@@ -3883,18 +3891,20 @@
           "items": [
             {
               "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
-              "afiliado": "https://www.amazon.es/s?k=starlink+terminal+portatil+gen+3&tag=nti0c8-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B0DRWP2LV6?tag=nti0c8-21",
+              "es_busqueda": false,
               "prioridad": "esencial",
               "descripcion": "Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve.",
-              "precio_aprox": "500-1.200 € · 45-60 €/mes"
+              "precio_aprox": "500-1.200 € · 45-60 €/mes",
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
-              "afiliado": "https://www.amazon.es/s?k=starlink+soporte+montaje+tejado+mastil&tag=nti0c8-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B0H2YWM29L?tag=nti0c8-21",
+              "es_busqueda": false,
               "descripcion": "Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3.",
-              "precio_aprox": "50-150 €"
+              "precio_aprox": "50-150 €",
+              "verificado_ficha": "2026-10-03"
             },
             {
               "producto": "Cable extensor para Starlink (30 m / 60 m)",
