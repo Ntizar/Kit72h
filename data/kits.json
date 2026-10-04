@@ -4200,17 +4200,19 @@
           "items": [
             {
               "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
-              "afiliado": "https://www.amazon.es/s?k=radio+aficionado+hf+icom+yaesu&tag=nti0c8-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B0CH9NJHRJ?tag=nti0c8-21",
+              "es_busqueda": false,
               "descripcion": "Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito).",
-              "precio_aprox": "600-1.200 € (radio + antena)"
+              "precio_aprox": "600-1.200 € (radio + antena)",
+              "verificado_ficha": "2026-10-04"
             },
             {
               "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
-              "afiliado": "https://www.amazon.es/s?k=walkie+talkie+profesional+pmr446+pack+4&tag=nti0c8-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B09TJJ88LX?tag=nti0c8-21",
+              "es_busqueda": false,
               "descripcion": "Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación.",
-              "precio_aprox": "100-200 € (pack 4)"
+              "precio_aprox": "100-200 € (pack 4)",
+              "verificado_ficha": "2026-10-04"
             }
           ]
         }

@@ -1724,5 +1724,69 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=starlink+soporte+montaje+tejado+mastil&tag=nti0c8-21"
+  },
+  "kit-kit-profesional|Cámara de seguridad solar 4G con batería": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Iluminación y seguridad perimetral",
+    "busqueda": "cámara de seguridad solar 4g con batería",
+    "rango_esperado": "150-300 €",
+    "fecha": "2026-10-04",
+    "estado": "sin candidato verificado"
+  },
+  "kit-kit-profesional|Router 4G/5G industrial con dual SIM y antenas externas": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Conectividad: Starlink y redundancia",
+    "busqueda": "router 4g 5g industrial con dual sim y antenas externas",
+    "rango_esperado": "300-800 €",
+    "fecha": "2026-10-04",
+    "estado": "sin candidato verificado"
+  },
+  "kit-kit-profesional|Messenger satelital (Garmin inReach Mini 3)": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Conectividad: Starlink y redundancia",
+    "busqueda": "messenger satelital",
+    "rango_esperado": "400 € · 10-40 €/mes",
+    "fecha": "2026-10-04",
+    "estado": "sin candidato verificado"
+  },
+  "kit-kit-profesional|Extensor WiFi de largo alcance + antena direccional": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Conectividad: Starlink y redundancia",
+    "busqueda": "extensor wifi de largo alcance + antena direccional",
+    "rango_esperado": "30-200 €",
+    "fecha": "2026-10-04",
+    "estado": "sin candidato verificado"
+  },
+  "kit-kit-profesional|Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Comunicación local: radio amateur y walkies",
+    "busqueda": "radio amateur hf vhf",
+    "rango_esperado": "600-1.200 € (radio + antena)",
+    "fecha": "2026-10-04",
+    "asin": "B0CH9NJHRJ",
+    "titulo": "BAOFENG GT-5R Walkie Talkie actualizado Radio Bidireccional UHF VHF de Doble Banda Radio Amateur portátil de Largo Alcan",
+    "precio": 33.99,
+    "rating": 4.3,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0CH9NJHRJ?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=radio+aficionado+hf+icom+yaesu&tag=nti0c8-21"
+  },
+  "kit-kit-profesional|Walkie-talkies profesionales PMR446 (set de 4)": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Comunicación local: radio amateur y walkies",
+    "busqueda": "walkie-talkies profesionales pmr446",
+    "rango_esperado": "100-200 € (pack 4)",
+    "fecha": "2026-10-04",
+    "asin": "B09TJJ88LX",
+    "titulo": "Baofeng Walkie Talkie Profesional PMR Radiocomunicación USB Recargable 16 Canales de Larga Distancia Portátil Walkie Tal",
+    "precio": 29.9,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B09TJJ88LX?tag=nti0c8-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=walkie+talkie+profesional+pmr446+pack+4&tag=nti0c8-21"
   }
 }
