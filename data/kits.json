@@ -173,10 +173,10 @@
   "kits": [
     {
       "id": "basico-72h",
-      "titulo": "Kit básico 72 horas",
+      "titulo": "Kit 72h Básico: los 16 esenciales de la UE (2026) → Guía completa",
       "slug": "kit-basico-72h",
       "icono": "🎒",
-      "resumen": "La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.",
+      "resumen": "Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.",
       "fuente": {
         "nombre": "Estrategia de Preparación de la Unión Europea — Comunicación JOIN(2025) 90",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -368,10 +368,10 @@
     },
     {
       "id": "dana",
-      "titulo": "Kit DANA / inundación",
+      "titulo": "Kit DANA / Inundación: 14 artículos que protegen tu hogar (2026)",
       "slug": "kit-dana",
       "icono": "🌊",
-      "resumen": "Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las recomendaciones de Protección Civil para lluvias intensas.",
+      "resumen": "Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante lluvias intensas",
         "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/lluvias-intensas",
@@ -556,10 +556,10 @@
     },
     {
       "id": "apagon",
-      "titulo": "Kit apagón / corte eléctrico",
+      "titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
       "slug": "kit-apagon",
       "icono": "🔌",
-      "resumen": "Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.",
+      "resumen": "Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).",
       "fuente": {
         "nombre": "Estrategia de Preparación de la UE + lecciones del apagón ibérico de abril 2025",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -748,10 +748,10 @@
     },
     {
       "id": "coche",
-      "titulo": "Kit coche",
+      "titulo": "Kit Coche 2026: obligatorios + opcionales DGT (guardar en maletero)",
       "slug": "kit-coche",
       "icono": "🚗",
-      "resumen": "Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.",
+      "resumen": "Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.",
       "fuente": {
         "nombre": "DGT / Ministerio del Interior — Obligatoriedad de la baliza V-16 conectada (desde el 1 de enero de 2026) — añade: reforma del Reglamento General de Circulación por RD 518/2026, de 24 de junio (BOE-A-2026-13889, en vigor 01/10/2026): distancia 1,5 m y −20 km/h al rebasar vehículos inmovilizados y carril de emergencia en retenciones",
         "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/DGT-recuerda-la-obligacion-de-disponer-de-la-baliza-V-16-para-senalizar-averias-y-accidentes-en-carretera/",
@@ -886,10 +886,10 @@
     },
     {
       "id": "hogar",
-      "titulo": "Kit hogar / confinamiento",
+      "titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
       "slug": "kit-hogar",
       "icono": "🏠",
-      "resumen": "Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.",
+      "resumen": "Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basada en fuentes oficiales (UE + Protección Civil).",
       "guia": {
         "antes": [
           "Calcula agua y comida para todas las personas de casa × 3 días",
@@ -1141,10 +1141,10 @@
     },
     {
       "id": "montana",
-      "titulo": "Kit montaña / senderismo",
+      "titulo": "Kit Montaña: 13 esenciales para supervivencia outdoor (2026)",
       "slug": "kit-montana",
       "icono": "⛰️",
-      "resumen": "Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.",
+      "resumen": "Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.",
       "guia": {
         "antes": [
           "Comparte siempre ruta y hora de vuelta con alguien",
@@ -1294,10 +1294,10 @@
     },
     {
       "id": "calor",
-      "titulo": "Kit ola de calor",
+      "titulo": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
       "slug": "kit-calor",
       "icono": "🔥",
-      "resumen": "España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas en casa o en el trabajo sin acabar en urgencias.",
+      "resumen": "Kit calor: 7 artículos que salvan vidas ante ola de calor extrema. Hidratación, abrigo solar y primeros auxilios.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante altas temperaturas",
         "url": "https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/meterologicos/altas-temperaturas",
@@ -1401,10 +1401,10 @@
     },
     {
       "id": "evacuacion",
-      "titulo": "Mochila de evacuación",
+      "titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
       "slug": "kit-evacuacion",
       "icono": "🧳",
-      "resumen": "Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.",
+      "resumen": "Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencial en 30 segundos. Preparación rápida 2026.",
       "guia": {
         "antes": [
           "Mochila en el recibidor, siempre el mismo sitio",
@@ -1571,10 +1571,10 @@
     },
     {
       "id": "autosuficiencia",
-      "titulo": "Huerto y autosuficiencia",
+      "titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
       "slug": "huerto-autosuficiencia",
       "icono": "🌱",
-      "resumen": "No todo es survive: producir tu propia comida en balcon, terraza o patio te da independencia real. Guia completa de cultivo urbano paso a paso, con el material que de verdad funciona.",
+      "resumen": "Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.",
       "fuente": {
         "nombre": "Referencias: FAO — Agricultura urbana y perurbana + manuales de huerto urbano",
         "url": "https://www.fao.org/urban-peri-urban-agriculture/es",
@@ -1743,10 +1743,10 @@
     },
     {
       "id": "kit30dias",
-      "titulo": "Kit 30 días",
+      "titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
       "slug": "kit-30-dias",
       "icono": "🗓️",
-      "resumen": "Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA que se alarga. Provisión completa de agua, comida y energía para 2 personas durante un mes, sin cocinar con electricidad.",
+      "resumen": "Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía para sobrevivir un mes sin red 2026.",
       "fuente": {
         "nombre": "Recopilación propia a partir de: Estrategia de Preparación UE, Protección Civil y FAO (reservas alimentarias domésticas)",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
@@ -1929,10 +1929,10 @@
     },
     {
       "id": "bebe",
-      "titulo": "Kit bebé y lactancia",
+      "titulo": "Kit Bebé: 32 artículos esenciales para proteger a tu hijo (2026)",
       "slug": "kit-bebe",
       "icono": "🍼",
-      "resumen": "Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.",
+      "resumen": "Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.",
       "paraQuien": "Hogares con bebés de 0-18 meses, y también quien espera uno: se monta en dos tardes y se amortiza igual en el día a día. Si amamantas, gran parte de este kit es tranquilidad extra; si no, es imprescindible.",
       "paraQuien_no": "Si el niño ya come solo de todo, con el kit básico más dos o tres cosas de aquí (snacks, entretener, abrigo) sobra. Este kit está pensado para lactantes, no para niños mayores.",
       "coste_total": "90-170 € (gran parte es lo que ya usas a diario: rotarlo, no duplicarlo)",
@@ -2325,10 +2325,10 @@
     },
     {
       "id": "mayores",
-      "titulo": "Kit persona mayor",
+      "titulo": "Kit Mayores: 27 artículos para proteger a personas dependientes (2026)",
       "slug": "kit-mayores",
       "icono": "🧓",
-      "resumen": "Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.",
+      "resumen": "Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.",
       "paraQuien": "Hogares con personas de 70 años o más, sobre todo si viven solas, toman medicación crónica o dependen de audífonos, gafas o movilidad asistida. Lo monta un familiar en una tarde y se revisa con la cartera de recetas.",
       "paraQuien_no": "No sustituye a la teleasistencia ni al plan de cuidadores: es material, no servicio. Y si la persona requiere cuidados sanitarios diarios (oxígeno, diálisis), el plan se habla con su centro de salud, no con esta lista.",
       "coste_total": "60-120 € (sin contar la propia medicación, que es receta)",
@@ -2679,10 +2679,10 @@
     },
     {
       "id": "mascotas",
-      "titulo": "Kit mascotas",
+      "titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
       "slug": "kit-mascotas",
       "icono": "🐾",
-      "resumen": "Tu perro o tu gato no puede abrir la despensa ni pedir ayuda. Este kit cubre sus 72 horas: agua, comida, forma de llevarlo contigo y sus papeles en regla.",
+      "resumen": "Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentación, identificación y primeros auxilios.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones (animales de compañía en emergencias)",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
@@ -2937,10 +2937,10 @@
     },
     {
       "id": "frio",
-      "titulo": "Kit frío, nieve y calefacción caída",
+      "titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
       "slug": "kit-frio",
       "icono": "❄️",
-      "resumen": "Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.",
+      "resumen": "Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante nevadas y temperaturas extremas",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
@@ -3227,10 +3227,10 @@
     },
     {
       "id": "terremoto",
-      "titulo": "Kit terremoto",
+      "titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
       "slug": "kit-terremoto",
       "icono": "🌍",
-      "resumen": "España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.",
+      "resumen": "Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante riesgo sísmico",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
@@ -3500,10 +3500,10 @@
     },
     {
       "id": "incendio",
-      "titulo": "Kit incendio forestal y humo",
+      "titulo": "Kit Incendio: 21 artículos para protección contra incendios (2026)",
       "slug": "kit-incendio",
       "icono": "🔥",
-      "resumen": "En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.",
+      "resumen": "Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante incendios forestales",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",
@@ -3741,10 +3741,10 @@
     },
     {
       "id": "comunicacion",
-      "titulo": "Kit comunicación de emergencia",
+      "titulo": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
       "slug": "kit-comunicacion",
       "icono": "📡",
-      "resumen": "Walkies PMR446, radio de pilas y messenger satelital: cuando caen todas las redes, esto es lo que te mantiene en contacto con los tuyos y con los avisos oficiales.",
+      "resumen": "Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.",
       "fuente": {
         "nombre": "Protección Civil — Red Nacional de Radio de Emergencia (REMER)",
         "url": "https://www.proteccioncivil.es/coordinacion/redes/remer",
@@ -3852,10 +3852,10 @@
     },
     {
       "id": "starlink",
-      "titulo": "Conectividad Starlink",
+      "titulo": "Kit Starlink: internet satelital para emergencias (2026)",
       "slug": "kit-starlink",
       "icono": "📡",
-      "resumen": "Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Terminal + suscripción. 50-200 Mbps reales desde cualquier punto del planeta con visibilidad del cielo. La mejor solución de comunicación cuando la red se va.",
+      "resumen": "Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.",
       "fuente": {
         "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -3970,11 +3970,11 @@
     },
     {
       "id": "profesional",
-      "titulo": "Kit profesional de energía y autonomía",
+      "titulo": "Kit Profesional: energía y autonomía total (2026)",
       "slug": "kit-kit-profesional",
       "icono": "⚡",
       "premium": true,
-      "resumen": "SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter y nevera solar. Preparación seria para hogares que buscan independencia total frente a apagones, cortes de suministro y crisis de infraestructura.",
+      "resumen": "Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.",
       "fuente": {
         "nombre": "Protección Civil — Recomendaciones ante emergencias",
         "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones",

@@ -4,8 +4,8 @@ Fuente: https://kit72h.com · Guía independiente de preparación civil.
 
 ## Kits
 
-### Kit básico 72 horas — https://kit72h.com/kit/kit-basico-72h/
-La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante apagón, DANA o cualquier catástrofe.
+### Kit 72h Básico: los 16 esenciales de la UE (2026) → Guía completa — https://kit72h.com/kit/kit-basico-72h/
+Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
 **Agua e hidratación**
 - Botella o garrafa de agua (3 L por persona y día): Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día. (~5-15 €)
 - Pastillas potabilizadoras de agua: Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada. (~8-15 €)
@@ -30,8 +30,8 @@ La mochila de resiliencia que recomienda la UE: autonomía para 72 horas ante ap
 - Manta térmica de emergencia: Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco. (~3-8 €)
 - Chubasquero o poncho impermeable: Impermeable ligero reutilizable. Mantente seco = mantente caliente. (~15-30 €)
 
-### Kit DANA / inundación — https://kit72h.com/kit/kit-dana/
-Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las recomendaciones de Protección Civil para lluvias intensas.
+### Kit DANA / Inundación: 14 artículos que protegen tu hogar (2026) — https://kit72h.com/kit/kit-dana/
+Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
 **Protección personal frente al agua**
 - Chubasquero impermeable con capucha: Capucha ajustada y costuras selladas para lluvia torrencial. (~20-40 €)
 - Botas de agua: Goma hasta la rodilla: agua contaminada, lodo y objetos cortados. (~15-30 €)
@@ -52,8 +52,8 @@ Preparación específica ante lluvias torrenciales e inundaciones, siguiendo las
 - Batería externa (power bank) 10.000-20.000 mAh, dos salidas: Sin luz, el móvil es tu linterna, tu mapa y tu contacto con la familia: se agota en horas. Cárgala al 100 % con el aviso naranja y no la gastes en vídeos; con un panel solar pequeño o el cargador del coche la vuelves a llenar. Guarda el cable corto dentro de la misma bolsa. (~20-40 €)
 - Mascarilla FFP2 (pack) y gafas de protección para la limpieza: El lodo de una inundación trae aguas fecales y, cuando se seca, se inhala: al retirar barro y al tirar paredes mojadas, mascarilla puesta y ojos tapados. Se usa el primer día, no cuando ya huele. Si tienes asma o problemas respiratorios, hazlo con otra persona delante y descansando. (~15-30 €)
 
-### Kit apagón / corte eléctrico — https://kit72h.com/kit/kit-apagon/
-Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la lección del apagón del 28 de abril de 2025.
+### Kit Apagón: 15 artículos para sobrevivir sin luz (2026) — https://kit72h.com/kit/kit-apagon/
+Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).
 **Luz**
 - Lámparas LED a pilas con imán (para nevera/despensa): Se adhiere a nevera, despensa o capó del coche. Manos libres. (~10-25 €)
 - Linterna frontal (manos libres): Ilumina sin ocupar las manos: imprescindible para trabajar de noche. (~12-25 €)
@@ -75,8 +75,8 @@ Qué necesitas si la luz (y la intermitencia) se va durante horas o días: la le
 - Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
 - SAI / UPS pequeño (600-900 VA) para router y ONT: Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora. (~60-110 €)
 
-### Kit coche — https://kit72h.com/kit/kit-coche/
-Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturnas o largas esperas en carretera.
+### Kit Coche 2026: obligatorios + opcionales DGT (guardar en maletero) — https://kit72h.com/kit/kit-coche/
+Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.
 **Obligatorio en España (DGT)**
 - Dos triángulos de emergencia homologados: Desde el 1 de enero de 2026 ya no son válidos para señalizar en España (los sustituye la baliza V-16 conectada); aún útiles para viajes por países fuera de la Convención de Viena. (~10-20 €)
 - Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026): Obligatoria desde el 1 de enero de 2026: sustituye a los triángulos. Solo valen modelos homologados y conectados a la DGT (lista oficial en dgt.es). Verifica el certificado IDIADA/LCOE grabado en la tulipa. (~8-25 €)
@@ -92,8 +92,8 @@ Kit para quedarte tirado o atascado: atascos por DANA, nevadas, averías nocturn
 - Agua embotellada (renovar cada 6 meses): Renueva cada 6 meses: el plástico degrada con el calor del coche. (~2-5 €)
 - Barritas energéticas: Energía rápida en formato compacto. 400-500 kcal por barrita. (~10-15 €/pack)
 
-### Kit hogar / confinamiento — https://kit72h.com/kit/kit-hogar/
-Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinamiento o temporal extremo.
+### Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026) — https://kit72h.com/kit/kit-hogar/
+Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basada en fuentes oficiales (UE + Protección Civil).
 **Agua y comida**
 - Garrafas de agua 8 L (2 por persona): Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día. (~5-15 €)
 - Conservas variadas (15-20 latas): Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~1-3 €/lata)
@@ -124,8 +124,8 @@ Para aguantar en casa 72 horas sin salir: apagón, cuarentena, aviso de confinam
 - Radio FM/AM a pilas o de dinamo: Cuando cae la red móvil, la radio sigue emitiendo avisos oficiales sin internet ni batería del móvil. Sintoniza las emisoras locales antes de guardarla y prueba la recepción donde la vayas a usar. (~15-35 €)
 - Batería externa (powerbank) de 10.000-20.000 mAh: Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses. (~15-35 €)
 
-### Kit montaña / senderismo — https://kit72h.com/kit/kit-montana/
-Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este kit te mantiene seguro mientras llega ayuda.
+### Kit Montaña: 13 esenciales para supervivencia outdoor (2026) — https://kit72h.com/kit/kit-montana/
+Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.
 **Orientación y comunicación**
 - Powerbank ligero + cable USB: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
 - Silbato de emergencia: Se oye a 1 km de distancia; tu voz, a 100 metros. Sin batería. (~3-8 €)
@@ -143,8 +143,8 @@ Para rutas de senderismo: si te pierdes, lesionas o te sorprende la niebla, este
 - Kit de costura de emergencia: Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta. (~3-8 €)
 - Frontal con pilas de repuesto: Manos libres para caminar de noche o reparar material. (~15-35 €)
 
-### Kit ola de calor — https://kit72h.com/kit/kit-calor/
-España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas en casa o en el trabajo sin acabar en urgencias.
+### Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026) — https://kit72h.com/kit/kit-calor/
+Kit calor: 7 artículos que salvan vidas ante ola de calor extrema. Hidratación, abrigo solar y primeros auxilios.
 **Frescura**
 - Ventilador USB o a pilas: Moviliza el aire cuando el calor es sofocante. Funciona con powerbank. (~12-30 €)
 - Toalla de enfriamiento instantáneo: Se moja y baja temperatura corporal por evaporación. Reutilizable. (~8-15 €)
@@ -156,8 +156,8 @@ España cada vez tiene más olas de calor. Este kit te prepara para aguantarlas 
 - Protector solar SPF 50: Quemaduras graves deshidratan aún más. Renueva cada 2 horas. (~10-20 €)
 - Gafas de sol categoría 3-4: Protección UV real, no estética. La vista también se quema. (~15-40 €)
 
-### Mochila de evacuación — https://kit72h.com/kit/kit-evacuacion/
-Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación ordenada: todo listo en una mochila.
+### Kit Evacuación: 14 artículos para huir con vida (2026) — https://kit72h.com/kit/kit-evacuacion/
+Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencial en 30 segundos. Preparación rápida 2026.
 **Documentación esencial**
 - Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas): DNI, escrituras, pólizas, cartilla sanitaria y recetas en un solo sitio. (~8-18 €)
 - Copia digital en USB cifrado: Backup de documentos escaneados. Cífralo con contraseña. (~8-20 €)
@@ -176,8 +176,8 @@ Si tienes que salir de casa en 5 minutos por incendio, fuga de gas o evacuación
 - Navaja multiusos: 23 herramientas en un cuerpo compacto: cuchillo, sierra, destornilladores, abrebotellas. Lo justo para reparaciones de emergencia. (~10-20 €)
 - Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones): Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no. (~3-10 €)
 
-### Huerto y autosuficiencia — https://kit72h.com/kit/huerto-autosuficiencia/
-No todo es survive: producir tu propia comida en balcon, terraza o patio te da independencia real. Guia completa de cultivo urbano paso a paso, con el material que de verdad funciona.
+### Huerto Autosuficiente: 13 herramientas para autoprovisión (2026) — https://kit72h.com/kit/huerto-autosuficiencia/
+Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
 **Para empezar a sembrar**
 - Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
 - Bandejas de germinacion (pack 5, 112 alveolos): Semillero para arrancar plantas fuertes antes de pasarlas a maceta. Reutilizable, material reciclable. (~12 €)
@@ -196,8 +196,8 @@ No todo es survive: producir tu propia comida en balcon, terraza o patio te da i
 - Kit riego por goteo básico (10-20 plantas): Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas. (~20-35 €)
 - Red antipájaros para huerto (1x3 m, malla fina 2 cm): La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente. (~5-12 €)
 
-### Kit 30 días — https://kit72h.com/kit/kit-30-dias/
-Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA que se alarga. Provisión completa de agua, comida y energía para 2 personas durante un mes, sin cocinar con electricidad.
+### Kit 30 Días: 16 artículos para un mes sin suministros (2026) — https://kit72h.com/kit/kit-30-dias/
+Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía para sobrevivir un mes sin red 2026.
 **Agua (180 L para 2 personas / 30 días)**
 - Garrafas 8 L con grifo dispensador (x8 = 64 L): Bezoya 8 L con grifo: cómodas para dosificar. Calcula 3 L/día por persona para beber y cocina. (~~3 €/ud)
 - Renueva el agua cada 6 meses: La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo. (~—)
@@ -220,8 +220,8 @@ Si el 72h es para sobrevivir el golpe, el de 30 días es para un apagón o DANA 
 - Multivitaminas 450 comprimidos: Cubre carencias si tu dieta de emergencia es monótona (sin fruta ni verdura fresca). (~~11 €)
 - Espirulina + chlorella ecológica (500 comprimidos): Superalimento denso en proteína y micronutrientes, caducidad larguísima. (~~14 €)
 
-### Kit bebé y lactancia — https://kit72h.com/kit/kit-bebe/
-Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin electricidad, pañales sin tienda, y una madre que puede necesitar amamantar sin saberlo. Esto es lo que hay que tener preparado.
+### Kit Bebé: 32 artículos esenciales para proteger a tu hijo (2026) — https://kit72h.com/kit/kit-bebe/
+Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.
 **Agua y alimentación sin electricidad**
 - Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
 - Pastillas potabilizadoras aptas para lactantes: Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo. (~8-15 €)
@@ -261,8 +261,8 @@ Una emergencia con un bebé multiplica por diez todo: agua para el biberón sin 
 - Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
 - Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
 
-### Kit persona mayor — https://kit72h.com/kit/kit-mayores/
-Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para una persona mayor, 72 horas sin servicios son un riesgo sanitario real. Este kit cubre lo que el kit básico no contempla.
+### Kit Mayores: 27 artículos para proteger a personas dependientes (2026) — https://kit72h.com/kit/kit-mayores/
+Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.
 **Medicación y crónicos**
 - Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
 - Ficha médico-identificativa plastificada: Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera. (~0-5 €)
@@ -297,8 +297,8 @@ Medicación crónica, audífonos sin pilas, gafas rotas y una casa sin luz: para
 - Espesantes para líquidos (si hay disfagia diagnosticada): Quien tiene disfagia, en una emergencia traga aire con el vaso y se atraganta. Sigue la pauta de su logopeda/médico: esto sólo lo indica su profesional. (~8-16 €)
 - Botella con asa y boquilla fácil + vaso con tapa: Beber solo, sin derramar y con una mano. La deshidratación del mayor aparece sin sed: que el agua esté delante y sea fácil. (~8-16 €)
 
-### Kit mascotas — https://kit72h.com/kit/kit-mascotas/
-Tu perro o tu gato no puede abrir la despensa ni pedir ayuda. Este kit cubre sus 72 horas: agua, comida, forma de llevarlo contigo y sus papeles en regla.
+### Kit Mascotas: 23 artículos para proteger a tu animal (2026) — https://kit72h.com/kit/kit-mascotas/
+Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentación, identificación y primeros auxilios.
 **Agua y comida para 72 horas**
 - Agua para el animal (garrafa de 8 L reservada): Un perro mediano bebe cerca de 1 litro al día y un gato unos 250 ml. La garrafa va aparte de la tuya: no compitas por el agua. (~5-15 €)
 - Comida para mascotas extra (pienso o latas para 72 h): Reserva cerrada y a la vista, no medio saco abierto. Pienso o latas, el que ya coma: en una emergencia no es momento de cambiar de dieta. (~5-15 €)
@@ -329,8 +329,8 @@ Tu perro o tu gato no puede abrir la despensa ni pedir ayuda. Este kit cubre sus
 - Lista de residencias y hoteles que admiten animales: En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina. (~0 €)
 - Protección de datos del animal (copia digital de vacunas con el microchip visible): Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes. (~8-20 €)
 
-### Kit frío, nieve y calefacción caída — https://kit72h.com/kit/kit-frio/
-Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o calefacción caída en enero: sin calefacción, una casa española pasa de 21 a 8 grados en dos días.
+### Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026) — https://kit72h.com/kit/kit-frio/
+Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.
 **Calor corporal: la capa que salva**
 - Ropa térmica interior (camiseta y legging, 2 juegos): La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor. (~20-45 €)
 - Forro polar o jersey de lana: Segunda capa: retiene el aire caliente del cuerpo. La lana abriga incluso ligeramente húmeda. (~15-40 €)
@@ -365,8 +365,8 @@ Frente a la ola de calor hay kit; frente a la de frío, no. Nevada, helada o cal
 - Powerbank de 10.000-20.000 mAh: Ojo: el frío reduce la capacidad hasta la mitad si lo guardas en el coche. Va dentro de casa, en un bolsillo interior si sales. (~15-35 €)
 - Pilas alcalinas surtidas (AA/AAA): Radio, linterna y detector de CO funcionan a pilas. El detector de CO que se queda sin pilas es un adorno. (~10-20 €)
 
-### Kit terremoto — https://kit72h.com/kit/kit-terremoto/
-España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada de 2021. Un terremoto no avisa, dura segundos y deja la casa en pie pero sin servicios.
+### Kit Terremoto: 26 artículos para protección sísmica (2026) — https://kit72h.com/kit/kit-terremoto/
+Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.
 **Cabeza y pies: lo que se rompe primero**
 - Casco de protección: Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila. (~12-35 €)
 - Guantes de trabajo reforzados: Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida. (~8-20 €)
@@ -400,8 +400,8 @@ España tiembla más de lo que creemos: Lorca 2011, la serie sísmica de Granada
 - Efectivo en billetes pequeños: Sin luz ni red, el datáfono no funciona y los cajeros están caídos. 100-150 € en billetes de 10 y 20 resuelven agua, comida y combustible. (~20-45 €)
 - Copia digital en USB cifrado: Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños. (~8-20 €)
 
-### Kit incendio forestal y humo — https://kit72h.com/kit/kit-incendio/
-En un incendio forestal la orden de evacuación llega con prisa y el humo mata más que las llamas. Este kit es para salir rápido, respirar y no perder los papeles por el camino.
+### Kit Incendio: 21 artículos para protección contra incendios (2026) — https://kit72h.com/kit/kit-incendio/
+Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
 **Respirar: el humo mata antes que el fuego**
 - Mascarillas FFP2 (pack de 10-20): Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad. (~8-15 €)
 - Gafas de protección ajustadas (o de sol cerradas): El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando. (~8-25 €)
@@ -429,8 +429,8 @@ En un incendio forestal la orden de evacuación llega con prisa y el humo mata m
 - Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
 - Bastón, andador o silla plegable de repuesto: Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque. (~15-35 €)
 
-### Kit comunicación de emergencia — https://kit72h.com/kit/kit-comunicacion/
-Walkies PMR446, radio de pilas y messenger satelital: cuando caen todas las redes, esto es lo que te mantiene en contacto con los tuyos y con los avisos oficiales.
+### Kit Comunicación: walkies, radio y messenger satelital (2026) — https://kit72h.com/kit/kit-comunicacion/
+Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.
 **Comunicación local: walkies PMR446**
 - Walkie-talkies PMR446 (pareja, recargables): Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común. (~40-80 €)
 - Walkie-talkies PMR446 de gama media (alcance ampliado): Mejor antena y sensibilidad: hasta 5-10 km en campo abierto. (~60-120 €)
@@ -440,8 +440,8 @@ Walkies PMR446, radio de pilas y messenger satelital: cuando caen todas las rede
 - Messenger satelital (tipo Garmin inReach): Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual. (~250-400 € + 5-25 €/mes)
 - Pilas de repuesto (AA/AAA) fuera de los aparatos: Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase. (~8-18 €)
 
-### Conectividad Starlink — https://kit72h.com/kit/kit-starlink/
-Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Terminal + suscripción. 50-200 Mbps reales desde cualquier punto del planeta con visibilidad del cielo. La mejor solución de comunicación cuando la red se va.
+### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
+Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.
 **Starlink: internet desde cualquier lugar**
 - Terminal Starlink Gen 3 (residencial / móvil): Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve. (~500-1.200 € · 45-60 €/mes)
 - Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
@@ -453,8 +453,8 @@ Internet satelital cuando se caen todas las redes: móviles, fibra, LTE. Termina
 - Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
 - Powerbank de 20.000 mAh + cables: Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C. (~25-50 €)
 
-### Kit profesional de energía y autonomía — https://kit72h.com/kit/kit-kit-profesional/
-SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlink, generador inverter y nevera solar. Preparación seria para hogares que buscan independencia total frente a apagones, cortes de suministro y crisis de infraestructura.
+### Kit Profesional: energía y autonomía total (2026) — https://kit72h.com/kit/kit-kit-profesional/
+Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.
 **Energía solar: el sol es tu generador**
 - Panel solar 400W monocristalino (×2 unidades): Panel de alta eficiencia (21%+), resistente a granizo y viento. 800 W totales producen ~4 kWh/día en zona de buena insolación. Los monocristalinos (PERC) rinden más en superficie limitada. (~400 € (x2))
 - Inversor híbrido 3000W-5000W: Convierte DC de paneles y baterías en AC 230V. Acepta entrada solar, red y baterías a la vez. Busca MPPT integrado y conmutación automática <5 ms. Marcas de referencia: Victron, Growatt, EcoFlow. (~600-900 €)
@@ -486,7 +486,7 @@ SAI, paneles solares 800W, baterías litio LFP 200Ah, inversor híbrido, Starlin
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas) — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
+### Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas (2026) — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
 Cuánta capacidad de verdad necesitas en un apagón: 4 cargas por 20.000 mAh reales, 4 modelos comparados y los errores que vacían la batería del kit.
 El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil al 2%. La mayoría lo resolvió con el powerbank que tenía cargado en un cajón. Pero si la luz se va varios días, ese cajón se acaba: en 24-48 horas tu móvil pasa a ser un peso de cristal, y con él la radio por streaming, el mapa, el WhatsApp de la familia y la linterna del teléfono. Esta es la guía para elegir el powerbank de emergencia que de verdad te sostiene 72 horas — con la capacidad real que necesitas, la cifra honesta que las marcas esconden (los mAh) y cuatro modelos comparados.
 
@@ -570,7 +570,7 @@ El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil a
 
  Un powerbank de 20.000 mAh con USB-C y doble salida es el estándar del kit 72h: 4 cargas de móvil, 74 Wh (vuela sin papeleo) y 25-50 € bien gastados. Si tienes pareja o hijos, añade un segundo de 10.000-20.000 mAh — la redundancia barata que convierte un susto en un detalle. Y recuerda la única regla que importa: sale del cajón cargado al 100% y se rota cada 3-6 meses . La lista completa del kit, con la energía ya resuelta, está en el kit básico de 72 horas .
 
-### Alimentos para emergencias: rotación sin desperdicio — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
+### Alimentos para emergencias: rotación sin desperdicio (2026) — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
 Alimentos para emergencias: rotación sin desperdicio
 El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
 
@@ -614,7 +614,7 @@ El error más común en los kits 72h es comprar comida que luego caduca antes de
 
  No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
 
-### El botiquín de emergencia para todo hogar — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
+### El botiquín de emergencia para todo hogar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
 El botiquín de emergencia para todo hogar
 La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
 
@@ -667,7 +667,7 @@ La salud es el segundo bloque del kit 72h (después del agua) y el que más vari
 
  Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
 
-### Las 7 mejores linternas para un kit de emergencia 72h — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
+### Las 7 mejores linternas para un kit de emergencia 72h (2026) — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
 Las 7 mejores linternas para un kit de emergencia 72h
 Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linterna es uno de los primeros cinco objetos que aparecen en TODAS las guías de preparación civil de España, Europa y EE. UU. No es negociable.
 
@@ -746,7 +746,7 @@ Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linter
 
  Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
 
-### La mejor radio de emergencia con manivela y panel solar — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
+### La mejor radio de emergencia con manivela y panel solar (2026) — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
 La mejor radio de emergencia con manivela y panel solar
 Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
 
@@ -790,7 +790,7 @@ Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba e
 
  La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
 
-### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
+### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
 Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
 Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
 
@@ -837,8 +837,8 @@ Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irr
 
  Una antena externa de 30-50€ puede transformar tu experiencia de cobertura móvil. Si vives en zona rural, es una inversión de menos de 100€ que puede ser crucial en una emergencia.
 
-### Conectividad de emergencia: Starlink, radio, satélite y redundancia — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
-Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger satelital y estrategias de redundancia triple.
+### Conectividad de emergencia: Starlink, radio, satélite y redundancia (2026) — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
+Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger s...
 Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, la cobertura móvil. En una DANA, un apagón prolongado o un terremoto, los tres sistemas más usados —WiFi, móvil y fibra— pueden morir simultáneamente. Y sin comunicación, no hay coordinación, no hay información, no hay ayuda.
 
 
@@ -1202,7 +1202,7 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.
 
-### Generador solar para emergencias de 72h: autonomía cuando se va la luz — https://kit72h.com/blog/generador-solar-emergencia-72h/
+### Generador solar para emergencias de 72h: autonomía cuando se va la luz (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
 Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
 Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.
 
@@ -1271,7 +1271,7 @@ Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefac
 
  Nota: La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.
 
-### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
+### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan (2026) — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
 Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
 El móvil no es la mejor herramienta para tener internet durante días. Un router 4G/5G portátil con batería integrada es mucho más práctico.
 
@@ -1324,7 +1324,7 @@ El móvil no es la mejor herramienta para tener internet durante días. Un route
 
  Un router 4G de emergencia cuesta 50-200€ y es mucho más práctico que depender del móvil para internet durante una emergencia prolongada.
 
-### Las mejores SIM de datos de emergencia: cobertura cuando todo falla — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
+### Las mejores SIM de datos de emergencia: cobertura cuando todo falla (2026) — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
 Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
 Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero no todas las operadoras son iguales.
 
@@ -1374,7 +1374,7 @@ Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero 
 
  Una SIM de Vodafone (o cualquier operadora con buena cobertura rural) es un seguro contra el aislamiento. 10-20€/mes y puedes estar comunicado durante una emergencia.
 
-### Nevera portátil para emergencias de 72h: conserva comida sin electricidad — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
+### Nevera portátil para emergencias de 72h: conserva comida sin electricidad (2026) — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
 Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
 Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y empiezas a tener hambre. Una nevera portátil te mantiene la comida fresca sin electricidad.
 
@@ -1422,7 +1422,7 @@ Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y e
 
  Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).
 
-### Panel solar portátil para emergencias: energía cuando no hay red — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
+### Panel solar portátil para emergencias: energía cuando no hay red (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
 Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
 Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.
 
@@ -1459,7 +1459,7 @@ Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera pa
 
  Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.
 
-### Starlink en emergencias de 72h: conectividad cuando todo falla — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
+### Starlink en emergencias de 72h: conectividad cuando todo falla (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
 Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
 Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a zona rural sin cobertura. Móvil sin señal, WiFi muerto, radio insuficiente. Aquí entra Starlink.
 
@@ -1500,7 +1500,7 @@ Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a z
 
  Nota: Starlink en España está limitado a zonas rurales seleccionadas. Verifica cobertura antes de comprar.
 
-### Terremoto en España: qué hacer antes, durante y después — https://kit72h.com/blog/terremoto-espana-que-hacer/
+### Terremoto en España: qué hacer antes, durante y después (2026) — https://kit72h.com/blog/terremoto-espana-que-hacer/
 Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
 El martes 18 de agosto de 2026, a las 10:37 , un terremoto de magnitud 4,8 y 5 kilómetros de profundidad sacudió la provincia de Granada, con el epicentro al noroeste de Gójar. Ese mismo día hubo cuatro seísmos de magnitud 4 o superior, con réplicas de 4,3 y 4,2 en Alhendín, y la Junta de Andalucía ordenó el desalojo preventivo de seis bloques de Las Gabias: 371 viviendas y unas 600 personas fuera de casa mientras los técnicos revisaban pilares y fisuras. Tres personas resultaron heridas de carácter leve.
 
@@ -1622,8 +1622,8 @@ El martes 18 de agosto de 2026, a las 10:37 , un terremoto de magnitud 4,8 y 5 k
 
  El detalle objeto a objeto está en el kit de terremoto y en la mochila de evacuación ; si solo vas a montar uno, que sea el kit básico de 72 horas , el que te sostiene cuando el edificio aguanta pero no hay luz, agua ni gas.
 
-### Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio — https://kit72h.com/blog/kit-emergencia-trabajo-oficina/
-Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y qué hacer si no puedes salir), y las cuatro preguntas sobre el plan de autoprotección que casi nadie hace. Con la ley y las guías del INSST citadas.
+### Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio (2026) — https://kit72h.com/blog/kit-emergencia-trabajo-oficina/
+Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y ...
 Son las 9:12 de un martes. Estás en la tercera planta de un edificio con cuarenta personas, la mochila en el respaldo de la silla, el coche en el sótano y el móvil al 30 %. Si ahora mismo sonara la alarma de incendios: ¿sabes por qué puerta se sale desde tu mesa, dónde queda el punto de reunión y qué tienes en el cajón para pasar las dos horas siguientes sin depender de nadie?
 
 
@@ -1802,8 +1802,8 @@ Son las 9:12 de un martes. Estás en la tercera planta de un edificio con cuaren
 
  Un kit de trabajo no se compra de golpe y no hace falta gastar 200 euros: son nueve objetos, cuatro preguntas y tres minutos de caminar despacio mirando puertas. Hoy, en la pausa del café, puedes hacer las cinco cosas de la lista. Mañana, si suena la alarma, ya sabrás que no es una alarma más.
 
-### Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena — https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/
-Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marco de primera ayuda psicológica de la OMS, turnos de noche, higiene del sueño, cómo hablar con niños y mayores, y un kit de descanso de diez objetos.
+### Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena (2026) — https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/
+Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marc...
 Son las 21:40 y se va la luz. En veinte minutos ya tienes resuelta la nevera: sabes qué tirar y qué no. Lo que nadie te ha enseñado a resolver es lo otro. El niño que pregunta si la luz volverá antes de dormir, tu madre que a las dos de la mañana te llama asustada porque no ve nada, o tu propio cerebro que a las tres sigue repasando la lista de cosas que aún pueden ir mal. Las emergencias no se ganan solo con linternas y garrafas de agua: se ganan durmiendo, comiendo y con la cabeza en su sitio. Esta es la parte del kit que no se guarda en una caja.
 
 
@@ -1983,8 +1983,8 @@ Son las 21:40 y se va la luz. En veinte minutos ya tienes resuelta la nevera: sa
 
  Con esto tienes cubierto lo que ninguna linterna arregla: dormir, comer, no perder la cabeza y saber a quién llamar. Si quieres repartir el trabajo por escenarios, empieza por montar tu kit de 72 horas y por las primeras decisiones de un apagón ; y si esta noche ya estás en mitad del lío, lo urgente está en kit hogar o confinamiento .
 
-### Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar — https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/
-Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos caseros que funcionan (y los que son una trampa).
+### Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar (2026) — https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/
+Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos cas...
 Se va la luz a las 21:40. A las 21:55 ya has abierto la nevera «para ver qué hay», a las 22:10 el congelador, y al día siguiente tienes delante una nevera tibia con carne, queso fresco y sobras que no sabes si tirar. Ese momento —el de decidir qué se salva y qué va a la basura— es exactamente el que resuelve esta guía: horas y temperaturas medidos por la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) durante el apagón del 28 de abril de 2025, más una despensa que puedes montar hoy para no depender del frío.
 
 
@@ -2159,8 +2159,8 @@ Se va la luz a las 21:40. A las 21:55 ya has abierto la nevera «para ver qué h
 
  Lo que pasó el 28 de abril de 2025 dejó una lección muy concreta en los hogares españoles: la nevera aguantó, el agua salió del grifo en cuanto volvió la presión y lo que falló fue no saber qué hacer con la comida. Se resuelve en una tarde, y esa tarde es hoy. Tienes el repaso completo del día siguiente al apagón en lecciones del 28A y el agua —que es el otro pilar— en agua: cuánta necesitas y cómo potabilizarla .
 
-### Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia — https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/
-La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido para una crisis y cómo combinarlo con un powerbank para que funcione de verdad.
+### Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia (2026) — https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/
+La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido p...
 El apagón del 28 de abril de 2025 dejó a medio país sin luz y con un móvil al 2%. La mayoría de la gente lo resolvió con el powerbank que ya tenía cargado. Pero si la luz se va varios días y no hay sol (o llueve durante semanas), el powerbank se queda en cero y no se recarga. Aquí es donde entra el panel solar portátil y por qué casi todo lo que venden en Amazon no hace lo que promete.
  No te voy a vender un panel de 300 watts para tu balcón. Te voy a decir lo que un panel de verdad puede hacer — o no — cuando te queda sin luz, y qué combo de panel + batería tiene sentido para sobrevivir una semana sin red.
  La trampa de los watts anunciados
@@ -2215,8 +2215,8 @@ El apagón del 28 de abril de 2025 dejó a medio país sin luz y con un móvil a
  Recuerda: el panel no es la base del kit. El powerbank cargado, la radio a pilas y la comida no perecedera sí lo son. El panel solar te lleva de 3 días a una semana si el cielo se despeja.
  El kit de apagón incluye powerbank y panel solar como items recomendados; la guía de comer sin luz detalla el orden de consumo; el kit básico es la base sobre la que añadir cualquier otro elemento.
 
-### Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada — https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/
-Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un incendio. La guía práctica de qué poner, dónde y cómo mantenerlo, sin alarmismos.
+### Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada (2026) — https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/
+Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un ince...
 Un incendio doméstico es la emergencia más probable y la que menos tiempo te da para reaccionar: un fuego puede atravesar un piso entero en menos de cinco minutos y el humo tóxico es lo que mata más que las llamas. La seguridad pasiva del hogar son todos los elementos que funcionan sin que hagas nada : detectores, materiales ignífugos, extintores y normas de instalación eléctrica que actúan antes de que tengas que correr. No son gastos innecesarios: son la primera línea de defensa de tu familia.
  Qué es la seguridad pasiva
  En ingeniería de seguridad se distingue entre protección activa (extintores que pulsas, rociadores que disparas, llamadas al 112) y protección pasiva (detectores que suenan solos, puertas cortafuegos que cierran el paso del humo, cables que no se incendian, materiales que no propagan la llama). La protección pasiva es la que te avisa o te protege mientras duermes , sin que tengas que decidir nada. Y es también la más infravalorada en los hogares españoles.
@@ -2275,8 +2275,8 @@ Un incendio doméstico es la emergencia más probable y la que menos tiempo te d
  No revisar el extintor : una manómetro en rojo es un extintor de adorno. Revísalo una vez al mes, como cambiar las pilas del detector.
  Los elementos de seguridad pasiva no son un extra: son la base de cualquier hogar preparado. Si aún no tienes detectores de humo o extintor, el kit de hogar y el kit básico 72h incluyen estos elementos en sus listados. Para un plan completo de evacuación, lee el plan familiar de emergencia .
 
-### Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal — https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/
-No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de cómo usar las tres capas, con qué telas y por qué el algodón se lleva a todos a la cama.
+### Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal (2026) — https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/
+No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de...
 El Plan Frío del Ministerio de Sanidad para la temporada 2025-2026 registra que cada invierno las bajas temperaturas provocan cientos de muertes evitables en España. No son accidentes de montaña: son personas mayores en pisos sin calefacción suficiente, obreros que regresan a casa caminando con la ropa mojada, excursiones que se alargan cuando baja la temperatura. La recomendación más repetida en las guías oficiales es siempre la misma: viste por capas . No por moda — por física.
  ¿Por qué las capas y no una prenda gruesa?
  El cuerpo humano pierde calor principalmente a través de la piel. La ropa no genera calor: lo que hace es atraparlo. Y el mejor aislante térmico que existe es el aire parado. Tres capas de tela fina atrapan tres cámaras de aire ; una sola prenda gruesa atrapa una. Es la razón por la que Protección Civil y el Ministerio de Sanidad repiten literalmente: "Conviene tener en cuenta que varias capas de ropa fina protegen más que una sola gruesa, al formar cámaras de aire aislante entre ellas" .
@@ -2338,8 +2338,8 @@ El Plan Frío del Ministerio de Sanidad para la temporada 2025-2026 registra que
  El invierno 2025-2026 fue, según AEMET, el sexto invierno más cálido desde 1961 . Las temperaturas medias fueron 1 °C por encima de la normalidad. No viene de menos: los ocho últimos inviernos han sido más cálidos de lo normal. Pero las olas de frío extremo no desaparecen por la media: cuando vienen, vienen de golpe (como el episodio de aire ártico que alertó Protección Civil en diciembre de 2026) y las temperaturas pueden caer 15-20 °C en horas. El sistema de capas funciona para esa bajada brusca — para la que casi nadie está preparado.
  Esta entrada no sustituye la orientación de un profesional sanitario. Si tienes dudas sobre cómo vestirte en frío por condiciones médicas específicas (diabetes, problemas vasculares, medicación), consúltalo con tu médico. La lista completa de materiales recomendados para emergencias invernales está en la sección de abrigo y refugio del kit básico 72h .
 
-### Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia — https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/
-Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de 40 € el par, y legal en toda España. Cómo elegir, usar y por qué Protección Civil los tiene en cuenta.
+### Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia (2026) — https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/
+Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de ...
 El 28 de abril de 2025 demostró lo que las guías de preparación llevan años repitiendo: cuando todas las redes móviles colapsan a la vez, quedas mudo. WhatsApp no funciona, las llamadas no se cortan — simplemente no existen. Y en una DANA, las antenas pueden quedarse sin electricidad durante días. Aquí es donde entra la radiocomunicación PMR446, y por qué cada vez más familias la incluyen en su kit de emergencia.
  ¿Qué es PMR446?
  PMR446 (Personal Mobile Radio 446) es un servicio de radiocomunicación de uso personal que opera en la banda UHF de 446 MHz (concretamente 446,0 a 446,2 MHz). Está regulado a nivel europeo por la CEPT (Conferencia Europea de Administraciones de Correos y Telecomunicaciones) desde 1998 y es totalmente legal en España sin necesidad de licencia . No hay que tramitar nada, no hay que pagar cuota, no hay que examinarse. Cualquier persona puede comprar un equipo PMR446 y usarlo.
@@ -2388,8 +2388,8 @@ El 28 de abril de 2025 demostró lo que las guías de preparación llevan años 
  La radio como hábito, no como compra
  Un walkie PMR446 comprado y guardado en el armario no sirve de nada. Lo que funciona es el hábito de usarlo : prueba uno con tu pareja, con un vecino, con el grupo de senderismo. Verás que se quedan cortos en ciudad, que en montaña son otra cosa, y que el canal 7 con subtono 7 es el que te salvará si todo lo demás falla. Es un complemento barato (15-40 € el par) y legal que, en el momento justo, es el único medio que tienes para decir "estoy bien" a quien más importa.
 
-### Volver a casa después de una inundación: seguridad, lodo, humedad y seguros — https://kit72h.com/blog/volver-a-casa-tras-inundacion/
-La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar para que el seguro responda.
+### Volver a casa después de una inundación: seguridad, lodo, humedad y seguros (2026) — https://kit72h.com/blog/volver-a-casa-tras-inundacion/
+La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar...
 Los días posteriores a una inundación suman más sustos que la inundación misma: caídas sobre escombros ocultos, descargas en agua que ya parecía retirada, humaredas en instalaciones eléctricas dañadas, intoxicaciones por generadores metidos en el garaje. Volver es un procedimiento, no una emoción. Este es el orden, paso a paso.
  Antes de entrar: las comprobaciones
  Solo se vuelve cuando lo autorizan los canales oficiales —112, Protección Civil, tu ayuntamiento—. Que el portal de abajo esté abierto no es una autorización.
@@ -2418,8 +2418,8 @@ Los días posteriores a una inundación suman más sustos que la inundación mis
  Cada DANA deja hogares que inundan la planta baja por segunda vez con seis años de diferencia. La lección: en zona inundable, lo importante vive arriba, y el cuadro eléctrico también si es posible. El seguro es el parche, no el plan. Antes de firmar hipoteca o alquiler, pedid la cartografía de riesgo en el ayuntamiento o en la confederación hidrográfica; y si ya estás en ella, adapta el kit de DANA a tu historia real, no al miedo de moda.
  Las comprobaciones de reentrada y el equipo de acceso están en el kit DANA/inundación ; la documentación que necesitarás para el seguro viaja con la mochila de evacuación y se guarda original en el kit de hogar .
 
-### Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene — https://kit72h.com/blog/vivir-solo-estar-preparado/
-Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan de uno, pensado para uno.
+### Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene (2026) — https://kit72h.com/blog/vivir-solo-estar-preparado/
+Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan...
 Cada vez más hogares españoles tienen un solo ocupante, y la preparación de emergencias se ha escrito casi siempre para familias. Vivir solo cambia dos cosas: todo lo que necesitas es más pequeño y más barato , y casi todo depende de una sola cabeza —la tuya— incluso cuando esa cabeza tenga fiebre o esté en shock. Este es el plan para uno.
  La ventaja: un kit que cabe en una esquina
  Una persona, una mochila: 70-100 euros partiendo de cero, bastante menos si aprovechas lo que ya tienes. Nueve litros de agua para las 72 horas, un botiquín para un solo cuerpo, radio, frontal, powerbank, la carpeta con tus papeles y ya. Sin turnos ni dosificaciones compartidas: el plan entero es tan grande como tu mochila. A cambio exige un estándar: si algo depende de que tú estés bien para funcionar, tiene que estar cargado, probado y a mano . Aquí no hay segundo piloto.
@@ -2440,8 +2440,8 @@ Cada vez más hogares españoles tienen un solo ocupante, y la preparación de e
  Vivir solo tiene una tentación específica: creer que no hace falta, que tú te apañas. Te apañas hasta el día que no. Y otra: acumular trastos en vez de preparar decisiones. El test honesto es corto: si te evacuaran esta noche, ¿sabes en cinco minutos qué te llevas, a quién escribes y dónde duermes? Si la respuesta es un encogimiento de hombros, tienes un kit lleno y un plan vacío. Y el plan, esta vez, solo depende de ti.
  Las listas ajustadas a un solo cuerpo están en el kit de hogar y su versión compacta, el kit básico 72h . Y si conduces, revisa el kit de coche : para quien vive solo, el coche es a la vez transporte, refugio y teléfono.
 
-### Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo — https://kit72h.com/blog/plan-familiar-de-emergencia/
-Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mochila, fue el plan. Montarlo cuesta una cena de martes.
+### Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo (2026) — https://kit72h.com/blog/plan-familiar-de-emergencia/
+Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mo...
 Toda emergencia real destapa lo mismo: quien tenía plan familiar se mueve, y quien no improvisa con el corazón a mil. Un plan no es un documento: son cuatro decisiones tomadas de antemano y sabidas por todos , incluidas las personas que no viven contigo cada día (la abuela, el padre que recoge los viernes). Se construye en una tarde y se mantiene con un repaso cada seis meses.
  1. El punto de encuentro, en dos niveles
  Nivel barrio (inmediato) : un sitio concreto, visible y asequible a pie para un desalojo del edificio o la calle: la fuente de la plaza, la gasolinera de la salida, el bar de la esquina. No digáis la plaza: decid la fuente. En el caos, los puntos vagos separan más que juntan.
@@ -2469,8 +2469,8 @@ Toda emergencia real destapa lo mismo: quien tenía plan familiar se mueve, y qu
  Y un truco que funciona: en los ensayos, los niños llevan el cronómetro y puntúan . Lo que a los siete años es un juego con notas, a los doce sigue en la cabeza el día que suene de verdad.
  Las mochilas que materializan este plan están desglosadas en la guía de evacuación , y el contenido común de las 72 horas, en el kit básico . Si hay personas mayores en vuestra red, enlazad su parte con la guía para mayores y dependientes .
 
-### Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia — https://kit72h.com/blog/medicion-cronica-personas-dependientes/
-Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a cero, sin consejos médicos: solo logística.
+### Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia (2026) — https://kit72h.com/blog/medicion-cronica-personas-dependientes/
+Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a c...
 Una emergencia típica dura 72 horas; una rara, semanas. Para un hogar con tratamiento crónico, el problema no es el susto del día uno: es el día ocho, cuando se acaba la caja que quedaba y la farmacia de tu barrio está cerrada o inundada . Lo que sigue es logística pura: papeles, reservas y reciclaje para que la dependencia no se convierta en urgencia. Qué tomar y cuánto lo decide cada persona con su médico o su farmacéutica; aquí no se toca nada de eso.
  Paso 0: el inventario que todavía no has hecho
  Abre el cajón de la medicación y haz la lista de cada miembro de la casa. Sin lista no hay plan: es el equivalente a no saber cuánta agua queda cuando ya cortaron el suministro.
@@ -2500,8 +2500,8 @@ Una emergencia típica dura 72 horas; una rara, semanas. Para un hogar con trata
  Una vez al año, con la lista delante: fechas de caducidad, pilas de dispositivos, funda estanca intacta, reserva real en la mochila y no solo en el discurso. Y si el cuidado se reparte entre varias personas —hermanos, hijos que viven lejos, ayuda a domicilio—, los roles por escrito : quién coge la mochila, quién a la persona, quién avisa al centro. El cuidado compartido sin plan falla justo el día que coincide que cada uno creía que le tocaba al otro.
  La logística de cuidadores está desarrollada en la guía para personas mayores y dependientes , y la reserva de medicación encaja en el botiquín del kit de hogar . Si tu dependencia es energética, repasa antes del próximo verano el kit de apagón .
 
-### Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa — https://kit72h.com/blog/kit-emergencia-50-euros/
-No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presupuesto mínimo honesto.
+### Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa (2026) — https://kit72h.com/blog/kit-emergencia-50-euros/
+No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presu...
 La recomendación europea de 72 horas de autonomía suena a compra grande: mochila táctica, bidones, raciones militares, emisora de ondas. Falso. La preparación mínima útil cabe en 50 euros porque el 80% ya está en tu casa y no lo sabes . El método tiene tres movimientos: primero rebusca, después compra lo justo, al final ordena. No es tacañería: un kit comprado de golpe y sin costumbre muere en un armario; uno construido con lo que ya usas, sobrevive.
  Tarde de rebusca: lo que tienes y no contabas
  Antes de pasar por caja, da la vuelta a la casa con una caja de cartón y una libreta:
@@ -2529,8 +2529,8 @@ La recomendación europea de 72 horas de autonomía suena a compra grande: mochi
  El kit de 50 euros resuelve las 72 horas clásicas: apagón corto, corte de agua, tormenta, un desalojo de una noche. Se queda justo en el invierno largo sin calefacción, en un hogar con bebé, en el tratamiento crónico o en la vivienda aislada sin vecinos. Esos escenarios piden más inversión y más planificación: no porque el kit barato esté mal, sino porque la recomendación de la UE es un suelo, no un techo. Cuando toque crecer, se crece sobre lo que ya tienes: el dinero puesto en método no se tira, se completa.
  Para el salto de calidad, la lista del kit básico 72h separa lo esencial de lo accesorio, y el kit de apagón añade justo lo que este presupuesto deja fuera: energía y cocina sin electricidad.
 
-### Qué comer si se va la luz: menús de tres días sin cocina y sin nevera — https://kit72h.com/blog/comer-sin-luz-menus-3-dias/
-Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media compra a la basura.
+### Qué comer si se va la luz: menús de tres días sin cocina y sin nevera (2026) — https://kit72h.com/blog/comer-sin-luz-menus-3-dias/
+Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media ...
 El 28 de abril de 2025 demostró algo que las guías de kits dicen a medias: el problema de un apagón largo no es tener comida, es tener un frigorífico lleno convertido en cuenta atrás . Cocinar sin electricidad se improvisa; gestionar lo que se estropea, no. Aquí van tres días resueltos: orden de consumo, menús y la compra que cierra el círculo.
  Las dos reglas que gobiernan todo lo demás
  La nevera cerrada es tu amiga las primeras 24-48 horas : un frigorífico moderno, bien cargado y sin abrir, aguanta un día y medio en rango fresco; el congelador lleno, más. Cada apertura resta: decid cada mañana qué se va a comer y sacadlo de una vez. Y al abrir, narices atentas: lo que huela o se vea raro, a la basura. Una intoxicación alimentaria en plena crisis es lo último que necesitas, y ahí sí no hay heroicidad que valga.
@@ -2554,8 +2554,8 @@ El 28 de abril de 2025 demostró algo que las guías de kits dicen a medias: el 
  Guardar la reserva junto a la lejía (los vapores contaminan hasta el envase cerrado). Abrir la lata grande pensando en mañana. Fiarse del olfato como juez único con la leche de dos días fuera: ante la duda, fuera, sin debate. Y descubrir el día uno que todas las conservas del cajón exigen un abrelatas que está en casa de tu madre. Estos cuatro fallos, más la nevera abierta por curiosidad, explican el 90% de las comidas perdidas del 28-A.
  La reserva para este escenario está montada en el kit de apagón —hornillo, agua, comida sin frío— y escalada en el kit de 30 días si quieres despensa de verdad. Las bases de conservación de alimentos, en la web de AESAN .
 
-### Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12) — https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/
-Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios y con criterio.
+### Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12 (2026) — https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/
+Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios...
 La Estrategia de Preparación de la Unión Europea habla de hogares con 72 horas de autonomía, pero las listas estándar están escritas para adultos sanos. Un bebé no come conserva de fabada, no bebe de un bidón de cinco litros y no entiende por qué esta noche dormimos en el pasillo con linternas. Preparar un hogar con niños pequeños no es comprar más: es comprar distinto y repartir responsabilidades según la edad.
  Antes de la mochila: las tres preguntas
  Con un niño en casa, el plan se sostiene sobre tres decisiones que conviene tomar ahora, en frío, no el día que suene la alarma:
@@ -2586,7 +2586,7 @@ La Estrategia de Preparación de la Unión Europea habla de hogares con 72 horas
  Antes de dar el plan por bueno, haz la cuenta con la puerta cerrada: ¿sales de tu casa con dos niños, mochilas y carpeta en menos de diez minutos sin volver a por nada? Si la respuesta es no, quita cosas del kit, no añadas reflejos. La carpeta y las mochilas, juntas y en el camino de la puerta , no en el armario del fondo.
  La mochila para bebé del sitio trae la lista cerrada de la franja 0-3, y la mochila de evacuación explica cómo repartir el peso entre adultos y niños. Cuando los peques ya comen solos, se suma el kit básico 72h para toda la familia.
 
-### Frío y calor sin electricidad: cómo mantener la temperatura corporal — https://kit72h.com/blog/temperatura-sin-electricidad/
+### Frío y calor sin electricidad: cómo mantener la temperatura corporal (2026) — https://kit72h.com/blog/temperatura-sin-electricidad/
 La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.
 En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En una ola de calor sin aire acondicionado, es la deshidratación. Ambos problemas tienen solución con material barato y un poco de física.
  Conservar el calor
@@ -2605,8 +2605,8 @@ En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En
  Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.
  El material está en las guías de ola de calor y hogar ; la estufa y la tienda, en el kit de 30 días .
 
-### Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel) — https://kit72h.com/blog/recursos-oficiales-emergencia/
-En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás falla.
+### Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
+En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás ...
 En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.
  Los 7 imprescindibles
  112 : emergencias en toda la UE, gratis, sin saldo y funciona aunque tu operadora no tenga cobertura. Guárdalo, pero también saberte el número de memoria.
@@ -2620,7 +2620,7 @@ En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente
  Anota en tu carpeta: 112, teléfono de Protección Civil de tu municipio, de tu centro de salud, de dos contactos fuera de tu zona, y el número de póliza de tu seguro de hogar. Media página escrita a mano que funciona con el móvil al 0%.
  Esta web solo enlaza fuentes oficiales; puedes verlas todas en la página de Fuentes oficiales , y las listas de compra que derivan de ellas, en los kits .
 
-### Emergencias en montaña: el kit que te puede salvar — https://kit72h.com/blog/montana-kit-salvavidas/
+### Emergencias en montaña: el kit que te puede salvar (2026) — https://kit72h.com/blog/montana-kit-salvavidas/
 Cada año los rescates de montaña se repiten por los mismos fallos: salir tarde, ir ligero de mapa y no llevar lo que evita la hipotermia. La lista honesta.
 La montaña no perdona la improvisación. La mayoría de los rescates del GREIM y de la Guardia Civil no son por aventuras extremas: son excursiones normales que se alargan, niebla que aparece en 20 minutos y gente sin el material básico. Este es el kit que marca la diferencia.
  Los tres que salvan vidas
@@ -2637,7 +2637,7 @@ La montaña no perdona la improvisación. La mayoría de los rescates del GREIM 
  Dile a alguien ruta, horario y con quién . Consulta AEMET la víspera (en montaña, la predicción de cumbres, no la de valle). Y date la vuelta: la cumbre siempre estará ahí; volver el próximo fin de semana es gratis.
  La lista completa y verificada, en el kit de montaña . El botiquín ligero de trekking que recomienda incluye las curas y el material de reparación esenciales.
 
-### Mascotas en una emergencia: plan de evacuación con perros y gatos — https://kit72h.com/blog/mascotas-plan-emergencia/
+### Mascotas en una emergencia: plan de evacuación con perros y gatos (2026) — https://kit72h.com/blog/mascotas-plan-emergencia/
 No pienses en tu mascota cuando suena la alarma: piénsalo ahora. Sin transportín, chip y plan, un gato en mitad de una evacuación es un problema imposible.
 En las grandes emergencias hay gente que se arriesga (o se queda) por no abandonar a su animal. La forma de evitarlo no es valor, es planificación : un kit de mascota cuesta poco y soluciona el 90% de los problemas.
  Identificación primero
@@ -2654,7 +2654,7 @@ En las grandes emergencias hay gente que se arriesga (o se queda) por no abandon
  Si evacuas, llévate a la mascota . La promesa de volver a por él se repite en cada DANA; el retorno a una zona catastrófica puede estar prohibido durante días.
  El kit de hogar incluye comida para mascotas de reserva; para el kit de evacuación , añade el transportín junto a la mochila y no lo uses para nada más el resto del año.
 
-### Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero) — https://kit72h.com/blog/kit-72h-vs-30-dias/
+### Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero (2026) — https://kit72h.com/blog/kit-72h-vs-30-dias/
 Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.
 La Unión Europea pide a los hogares 72 horas de autonomía . ¿Por qué 72? Porque es el tiempo típico que tardan los servicios de emergencia en restablecer lo básico en una crisis grave: agua potable, carreteras despejadas, comunicaciones. Pero algunas crisis no se arreglan en tres días. Vamos a comparar los dos niveles.
  El kit 72h: para el 95% de los escenarios
@@ -2672,7 +2672,7 @@ La Unión Europea pide a los hogares 72 horas de autonomía . ¿Por qué 72? Por
  Huerto y germinados como refuerzo a largo plazo.
  Los dos kits están calculados para 2 personas y con productos reales verificados: 72 horas · 30 días .
 
-### Semillas, germinados y huerto de emergencia: tu seguridad alimentaria — https://kit72h.com/blog/huerto-emergencia-semillas-germinados/
+### Semillas, germinados y huerto de emergencia: tu seguridad alimentaria (2026) — https://kit72h.com/blog/huerto-emergencia-semillas-germinados/
 Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.
 El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimentaria larga. Y el puente entre ambos son los germinados : la forma más rápida y barata de producir comida comestible en casa, con o sin emergencia.
  Germinados: comida en 5 días
@@ -2690,8 +2690,8 @@ El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimen
  No es que tu balcón te alimente en una crisis: es que saber producir comida cambia tu mentalidad . Quien ha germinado, sembrado y cosechado una vez entiende el ciclo, deja de depender psicológicamente del supermercado y, en una emergencia larga, tiene la habilidad y las semillas. Además, las semillas guardadas de tus mejores plantas son la única reserva alimentaria que se multiplica con el tiempo.
  Empieza esta semana: un bote de yogur vacío, algodón, berros. En cinco días comes lo que has cultivado — y en el blog seguiremos ampliando el calendario de siembra español.
 
-### "El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero — https://kit72h.com/blog/el-conocimiento-dartnell/
-¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu kit 72h.
+### "El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero (2026) — https://kit72h.com/blog/el-conocimiento-dartnell/
+¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu ki...
 Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que empezar de cero ?
 
  El Conocimiento: Cómo reconstruir nuestra civilización desde cero ( The Knowledge , en inglés), de Lewis Dartnell — investigador de la Universidad de Westminster — es justamente eso: un manual de arranque de la civilización . No es ciencia ficción ni un ensayo catastrofista: es un recorrido riguroso y ameno por lo que haría falta saber para reconstruir lo esencial.
@@ -2722,7 +2722,7 @@ Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa
 
  Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.
 
-### DANA o apagón: qué hacer en los primeros 30 minutos — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
+### DANA o apagón: qué hacer en los primeros 30 minutos (2026) — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
 Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.
 En una emergencia, los primeros 30 minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Esta es la secuencia que enseñan Protección Civil y la propia UE, ordenada y sin florituras.
 
@@ -2760,8 +2760,8 @@ En una emergencia, los primeros 30 minutos deciden casi todo: qué información 
 
  Sigue solo instrucciones de fuentes oficiales (112, Protección Civil, radio FM). Desconfía de bulos en redes: en el apagón del 28 de abril de 2025 en España circularon decenas, y varios causaron daños reales.
 
-### Comunicar sin red: qué funciona cuando se cae el móvil — https://kit72h.com/blog/comunicar-sin-red-movil/
-En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de 40 €.
+### Comunicar sin red: qué funciona cuando se cae el móvil (2026) — https://kit72h.com/blog/comunicar-sin-red-movil/
+En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de...
 El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la red cae. Y en una DANA las antenas pueden quedarse sin electricidad ni fibra durante días. Si tu plan de familia depende de WhatsApp, no tienes plan. Alternativas reales, de gratis a baratas:
  1. SMS y mensajes cortos
  Los SMS usan una señal mínima que funciona cuando las llamadas y los datos no . Acuerda con tu familia: si la red va justa, no llaméis — mandad un SMS corto con estado y ubicación.
@@ -2777,7 +2777,7 @@ El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la r
  Si no hay red: todos mandan SMS al contacto fuera de zona con «estoy bien / dónde estoy / qué necesito», y nos reunimos en el punto acordado si pasan 24 horas sin contacto. Escribe ese punto en papel: bajo el campanario, la gasolinera de la autovía, casa de la tía.
  La radio y los powerbank que sostienen esta comunicación están en el kit básico 72h y en el kit de apagón .
 
-### Cómo montar tu kit de emergencia 72 horas paso a paso — https://kit72h.com/blog/como-montar-tu-kit-72h/
+### Cómo montar tu kit de emergencia 72 horas paso a paso (2026) — https://kit72h.com/blog/como-montar-tu-kit-72h/
 La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.
 Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomienda que todos los hogares tengan provisiones para 72 horas . No es paranoia: es lo mismo que Protección Civil lleva años diciendo sobre DANA, apagones y cortes de suministro. Un kit 72h bien montado son unos 100-150 € y cabe en una mochila.
 
@@ -2803,8 +2803,8 @@ Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomien
 
  Empieza por la lista del kit básico 72h y ve marcando lo que ya tienes. No hace falta comprarlo todo de golpe.
 
-### Coche y emergencias: lo obligatorio en 2026 y lo que conviene — https://kit72h.com/blog/coche-kit-emergencia-2026/
-La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA o en un atasco de nieve.
+### Coche y emergencias: lo obligatorio en 2026 y lo que conviene (2026) — https://kit72h.com/blog/coche-kit-emergencia-2026/
+La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA ...
 El kit del coche es el único que llevas encima todos los días, y también el más legislado. Repasamos qué es obligatorio en 2026 y qué conviene añadir por tu cuenta.
  Lo obligatorio
  Baliza V-16 conectada : desde el 1 de enero de 2026 es el único medio legal de señalizar una parada en vía. Debe llevar certificado de homologación de la DGT y conectividad: las falsas multan y no señalizan.
@@ -2820,8 +2820,8 @@ El kit del coche es el único que llevas encima todos los días, y también el m
  El coche es también tu refugio de emergencia en un DANA (nunca cruces un vado; 30 cm de agua arrastran un coche) y tu vivienda temporal si tu zona se ve afectada. Por eso el kit del coche repite varios elementos del de 72h.
  Revisa el kit del coche dos veces al año con el cambio horario: agua que no haya congelado, pilas nuevas y baliza con batería en fecha. La lista completa, en el kit de coche .
 
-### Documentos y dinero: la carpeta de emergencia que todo hogar debería tener — https://kit72h.com/blog/carpeta-de-emergencia-documentos/
-Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses menos de papeleo después.
+### Documentos y dinero: la carpeta de emergencia que todo hogar debería tener (2026) — https://kit72h.com/blog/carpeta-de-emergencia-documentos/
+Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses me...
 En cada DANA o incendio grave en España se repite la misma escena: familias que lo han perdido casi todo y que, además, no pueden probar que la casa era suya o que tenían el coche. La carpeta de emergencia es el elemento más barato y con mayor retorno de todo el kit: cuesta menos de 10 € y ahorra meses de trámites.
  Qué va dentro
  Fotocopias de DNI/NIE de todos los miembros de la familia, incluidos menores.
@@ -2836,7 +2836,7 @@ En cada DANA o incendio grave en España se repite la misma escena: familias que
  En un apagón los datáfonos y cajeros no funcionan — lo vivimos el 28 de abril de 2025. Ten en casa billetes pequeños (10-20 €) , en efectivo suficiente para 2-3 días de gasolina, comida y farmacia. Y no lo anuncies: el efectivo de emergencia es discreto.
  La mochila de evacuación ya contempla carpeta estanca y USB cifrado; la de hogar , una caja fuerte pequeña para los originales.
 
-### Botiquín de emergencia: qué llevar de verdad (y qué sobra) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
+### Botiquín de emergencia: qué llevar de verdad (y qué sobra (2026) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
 Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
 El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno de cosas que nunca usarás, y no tener ni un paquete de tu medicación habitual. Un botiquín de emergencia se diseña desde tu casa hacia fuera , no desde la tienda.
  La base que sí importa
@@ -2853,7 +2853,7 @@ El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno
  En un sitio fresco, seco, conocido por toda la familia y fuera del baño : la humedad de las duchas degrada medicación y apósitos. Una caja rígida con cierre te sirve; para el coche, una bolsa compacta.
  Si quieres una lista cerrada y equilibrada, el kit de hogar incluye la sección de salud completa y el kit de 30 días añade un botiquín de 222 piezas con lo esencial cubierto.
 
-### Apagón: lecciones del 28 de abril de 2025 en España — https://kit72h.com/blog/apagon-lecciones-28a/
+### Apagón: lecciones del 28 de abril de 2025 en España (2026) — https://kit72h.com/blog/apagon-lecciones-28a/
 El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
 El lunes 28 de abril de 2025, a las 12:33, se fue la luz en toda la península. En pocos minutos se pararon metros, semáforos, cajeros y datáfonos; las redes móviles colapsaron en horas. Para muchos fue la primera vez que vieron en primera persona por qué se recomienda un kit de emergencia. Estas son las lecciones.
  1. La información es lo primero que falta
@@ -2870,8 +2870,8 @@ El lunes 28 de abril de 2025, a las 12:33, se fue la luz en toda la península. 
  En muchas zonas la luz volvió en horas, pero en otras tardó toda la noche. Un kit pensado para 72 horas cubre con holgura un apagón nacional; el kit de 30 días cubre el caso extremo de que algo así se alargue.
  La lista completa para este escenario está en el kit de apagón : radio, luz, energía, cocina sin electricidad y efectivo, en cinco secciones.
 
-### Cómo almacenar agua y comida en casa sin que se estropee — https://kit72h.com/blog/almacenar-agua-comida-casa/
-Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la necesites.
+### Cómo almacenar agua y comida en casa sin que se estropee (2026) — https://kit72h.com/blog/almacenar-agua-comida-casa/
+Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la ne...
 Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el día que lo necesitas (a veces años después), es la parte que casi todo el mundo hace mal. Reglas que se aplican igual a un paquete de arroz que a una radio:
  Los tres enemigos: calor, luz y humedad
  El sitio ideal es fresco, oscuro y seco : un armario interior de pasillo suele ser mejor que el típico trastero junto a la caldera o la terraza. Nunca directamente sobre el suelo (humedad, plagas) ni junto a productos de limpieza (los vapores contaminan incluso envases cerrados).
@@ -2889,7 +2889,7 @@ Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el d�
  El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.
  Las cantidades por persona y periodo están calculadas en el kit 72h y en el kit de 30 días , con precios reales de Amazon para cada pack.
 
-### Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla — https://kit72h.com/blog/agua-cuanta-y-como/
+### Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla (2026) — https://kit72h.com/blog/agua-cuanta-y-como/
 3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
 El agua es la prioridad número uno de cualquier kit de emergencia. Un ser humano aguanta semanas sin comida, pero pocos días sin agua — y en una situación de calor o esfuerzo, mucho menos.
 

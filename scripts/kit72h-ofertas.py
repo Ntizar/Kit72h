@@ -29,6 +29,19 @@ IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 UMBRAL_BAJADA = 0.15  # 15% de bajada = oferta
 
 
+def _parse_precio(precio_str):
+    """Parsea precio de string tipo '17 €' o '5-15 €' a float (valor central o alto)."""
+    if not precio_str or not isinstance(precio_str, str):
+        return None
+    # Extraer números
+    nums = re.findall(r'[\d.]+', precio_str)
+    if not nums:
+        return None
+    valores = [float(n) for n in nums]
+    # Si hay rango, usar el valor superior
+    return max(valores)
+
+
 def run(*args, timeout=300):
     return subprocess.run(args, cwd=RAIZ, capture_output=True, text=True, timeout=timeout)
 
@@ -47,11 +60,10 @@ def obtener_precios_actualizados():
     productos = _cargar_catalogo()
 
     for asin, info in productos.items():
-        precio_ref = info.get('precio_ref')
-        if precio_ref and precio_ref > 0:
-            # En producción real, aquí se haría scraping o API call
-            # Por ahora, simulamos: si no hay Chrome, retornar dict vacío
-            precios_nuevos[asin] = precio_ref  # mismo precio por ahora
+        precio_ref_str = info.get('precio_ref')
+        precio_ref = _parse_precio(precio_ref_str)
+        if precio_ref is not None and precio_ref > 0:
+            precios_nuevos[asin] = {'precio_anterior': precio_ref, 'precio_actual': precio_ref}
 
     return precios_nuevos
 
@@ -77,8 +89,12 @@ def actualizar_precios(precios_nuevos):
     ofertas = []
 
     for asin, info in productos.items():
-        precio_ref = info.get("precio_ref", 0)
-        precio_nuevo = precios_nuevos.get(asin, precio_ref)
+        precio_ref_str = info.get("precio_ref", "0 €")
+        precio_ref = _parse_precio(precio_ref_str)
+        if precio_ref is None:
+            continue
+        precio_nuevo_dict = precios_nuevos.get(asin, {})
+        precio_nuevo = precio_nuevo_dict.get('precio_actual', precio_ref)
 
         if precio_ref > 0 and precio_nuevo > 0:
             cambio = (precio_nuevo - precio_ref) / precio_ref
