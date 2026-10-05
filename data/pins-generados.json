@@ -1,7 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-03",
-    "total": 63
+    "ultima_generacion": "2026-10-05",
+    "total": 63,
+    "png_total": 63
   },
   "pins": [
     {
@@ -10,7 +11,8 @@
       "titulo": "Kit básico 72 horas",
       "url": "https://kit72h.com/kit/kit-basico-72h/",
       "emoji": "🎒",
-      "pin": "pin-kit-kit-basico-72h.html"
+      "pin": "pin-kit-kit-basico-72h.html",
+      "png": "pin-kit-kit-basico-72h.png"
     },
     {
       "slug": "pin-kit-kit-dana",
@@ -18,7 +20,8 @@
       "titulo": "Kit DANA / inundación",
       "url": "https://kit72h.com/kit/kit-dana/",
       "emoji": "🌊",
-      "pin": "pin-kit-kit-dana.html"
+      "pin": "pin-kit-kit-dana.html",
+      "png": "pin-kit-kit-dana.png"
     },
     {
       "slug": "pin-kit-kit-apagon",
@@ -26,7 +29,8 @@
       "titulo": "Kit apagón / corte eléctrico",
       "url": "https://kit72h.com/kit/kit-apagon/",
       "emoji": "⚡",
-      "pin": "pin-kit-kit-apagon.html"
+      "pin": "pin-kit-kit-apagon.html",
+      "png": "pin-kit-kit-apagon.png"
     },
     {
       "slug": "pin-kit-kit-coche",
@@ -34,7 +38,8 @@
       "titulo": "Kit coche",
       "url": "https://kit72h.com/kit/kit-coche/",
       "emoji": "🚗",
-      "pin": "pin-kit-kit-coche.html"
+      "pin": "pin-kit-kit-coche.html",
+      "png": "pin-kit-kit-coche.png"
     },
     {
       "slug": "pin-kit-kit-hogar",
@@ -42,7 +47,8 @@
       "titulo": "Kit hogar / confinamiento",
       "url": "https://kit72h.com/kit/kit-hogar/",
       "emoji": "🏠",
-      "pin": "pin-kit-kit-hogar.html"
+      "pin": "pin-kit-kit-hogar.html",
+      "png": "pin-kit-kit-hogar.png"
     },
     {
       "slug": "pin-kit-kit-montana",
@@ -50,7 +56,8 @@
       "titulo": "Kit montaña / senderismo",
       "url": "https://kit72h.com/kit/kit-montana/",
       "emoji": "🏔️",
-      "pin": "pin-kit-kit-montana.html"
+      "pin": "pin-kit-kit-montana.html",
+      "png": "pin-kit-kit-montana.png"
     },
     {
       "slug": "pin-kit-kit-calor",
@@ -58,7 +65,8 @@
       "titulo": "Kit ola de calor",
       "url": "https://kit72h.com/kit/kit-calor/",
       "emoji": "☀️",
-      "pin": "pin-kit-kit-calor.html"
+      "pin": "pin-kit-kit-calor.html",
+      "png": "pin-kit-kit-calor.png"
     },
     {
       "slug": "pin-kit-kit-evacuacion",
@@ -66,7 +74,8 @@
       "titulo": "Mochila de evacuación",
       "url": "https://kit72h.com/kit/kit-evacuacion/",
       "emoji": "🚨",
-      "pin": "pin-kit-kit-evacuacion.html"
+      "pin": "pin-kit-kit-evacuacion.html",
+      "png": "pin-kit-kit-evacuacion.png"
     },
     {
       "slug": "pin-kit-huerto-autosuficiencia",
@@ -74,7 +83,8 @@
       "titulo": "Huerto y autosuficiencia",
       "url": "https://kit72h.com/kit/huerto-autosuficiencia/",
       "emoji": "🌱",
-      "pin": "pin-kit-huerto-autosuficiencia.html"
+      "pin": "pin-kit-huerto-autosuficiencia.html",
+      "png": "pin-kit-huerto-autosuficiencia.png"
     },
     {
       "slug": "pin-kit-kit-30-dias",
@@ -82,7 +92,8 @@
       "titulo": "Kit 30 días",
       "url": "https://kit72h.com/kit/kit-30-dias/",
       "emoji": "📦",
-      "pin": "pin-kit-kit-30-dias.html"
+      "pin": "pin-kit-kit-30-dias.html",
+      "png": "pin-kit-kit-30-dias.png"
     },
     {
       "slug": "pin-kit-kit-bebe",
@@ -90,7 +101,8 @@
       "titulo": "Kit bebé y lactancia",
       "url": "https://kit72h.com/kit/kit-bebe/",
       "emoji": "👶",
-      "pin": "pin-kit-kit-bebe.html"
+      "pin": "pin-kit-kit-bebe.html",
+      "png": "pin-kit-kit-bebe.png"
     },
     {
       "slug": "pin-kit-kit-mayores",
@@ -98,7 +110,8 @@
       "titulo": "Kit persona mayor",
       "url": "https://kit72h.com/kit/kit-mayores/",
       "emoji": "👴",
-      "pin": "pin-kit-kit-mayores.html"
+      "pin": "pin-kit-kit-mayores.html",
+      "png": "pin-kit-kit-mayores.png"
     },
     {
       "slug": "pin-kit-kit-mascotas",
@@ -106,7 +119,8 @@
       "titulo": "Kit mascotas",
       "url": "https://kit72h.com/kit/kit-mascotas/",
       "emoji": "🐾",
-      "pin": "pin-kit-kit-mascotas.html"
+      "pin": "pin-kit-kit-mascotas.html",
+      "png": "pin-kit-kit-mascotas.png"
     },
     {
       "slug": "pin-kit-kit-frio",
@@ -114,7 +128,8 @@
       "titulo": "Kit frío, nieve y calefacción caída",
       "url": "https://kit72h.com/kit/kit-frio/",
       "emoji": "❄️",
-      "pin": "pin-kit-kit-frio.html"
+      "pin": "pin-kit-kit-frio.html",
+      "png": "pin-kit-kit-frio.png"
     },
     {
       "slug": "pin-kit-kit-terremoto",
@@ -122,7 +137,8 @@
       "titulo": "Kit terremoto",
       "url": "https://kit72h.com/kit/kit-terremoto/",
       "emoji": "💥",
-      "pin": "pin-kit-kit-terremoto.html"
+      "pin": "pin-kit-kit-terremoto.html",
+      "png": "pin-kit-kit-terremoto.png"
     },
     {
       "slug": "pin-kit-kit-incendio",
@@ -130,7 +146,8 @@
       "titulo": "Kit incendio forestal y humo",
       "url": "https://kit72h.com/kit/kit-incendio/",
       "emoji": "🔥",
-      "pin": "pin-kit-kit-incendio.html"
+      "pin": "pin-kit-kit-incendio.html",
+      "png": "pin-kit-kit-incendio.png"
     },
     {
       "slug": "pin-kit-kit-comunicacion",
@@ -138,7 +155,8 @@
       "titulo": "Kit comunicación de emergencia",
       "url": "https://kit72h.com/kit/kit-comunicacion/",
       "emoji": "📻",
-      "pin": "pin-kit-kit-comunicacion.html"
+      "pin": "pin-kit-kit-comunicacion.html",
+      "png": "pin-kit-kit-comunicacion.png"
     },
     {
       "slug": "pin-kit-kit-starlink",
@@ -146,7 +164,8 @@
       "titulo": "Conectividad Starlink",
       "url": "https://kit72h.com/kit/kit-starlink/",
       "emoji": "📡",
-      "pin": "pin-kit-kit-starlink.html"
+      "pin": "pin-kit-kit-starlink.html",
+      "png": "pin-kit-kit-starlink.png"
     },
     {
       "slug": "pin-kit-kit-kit-profesional",
@@ -154,7 +173,8 @@
       "titulo": "Kit profesional de energía y autonomía",
       "url": "https://kit72h.com/kit/kit-kit-profesional/",
       "emoji": "🏭",
-      "pin": "pin-kit-kit-kit-profesional.html"
+      "pin": "pin-kit-kit-kit-profesional.html",
+      "png": "pin-kit-kit-kit-profesional.png"
     },
     {
       "slug": "pin-blog-mejor-powerbank-emergencia-capacidad",
@@ -162,7 +182,8 @@
       "titulo": "Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas)",
       "url": "https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/",
       "emoji": "📖",
-      "pin": "pin-blog-mejor-powerbank-emergencia-capacidad.html"
+      "pin": "pin-blog-mejor-powerbank-emergencia-capacidad.html",
+      "png": "pin-blog-mejor-powerbank-emergencia-capacidad.png"
     },
     {
       "slug": "pin-blog-alimentos-emergencia-caducidad-rotacion",
@@ -170,7 +191,8 @@
       "titulo": "Alimentos para emergencias: rotación sin desperdicio",
       "url": "https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/",
       "emoji": "📖",
-      "pin": "pin-blog-alimentos-emergencia-caducidad-rotacion.html"
+      "pin": "pin-blog-alimentos-emergencia-caducidad-rotacion.html",
+      "png": "pin-blog-alimentos-emergencia-caducidad-rotacion.png"
     },
     {
       "slug": "pin-blog-botiquin-emergencia-lista-completa",
@@ -178,7 +200,8 @@
       "titulo": "El botiquín de emergencia para todo hogar",
       "url": "https://kit72h.com/blog/botiquin-emergencia-lista-completa/",
       "emoji": "📖",
-      "pin": "pin-blog-botiquin-emergencia-lista-completa.html"
+      "pin": "pin-blog-botiquin-emergencia-lista-completa.html",
+      "png": "pin-blog-botiquin-emergencia-lista-completa.png"
     },
     {
       "slug": "pin-blog-mejor-linterna-emergencia-72h",
@@ -186,7 +209,8 @@
       "titulo": "Las 7 mejores linternas para un kit de emergencia 72h",
       "url": "https://kit72h.com/blog/mejor-linterna-emergencia-72h/",
       "emoji": "📖",
-      "pin": "pin-blog-mejor-linterna-emergencia-72h.html"
+      "pin": "pin-blog-mejor-linterna-emergencia-72h.html",
+      "png": "pin-blog-mejor-linterna-emergencia-72h.png"
     },
     {
       "slug": "pin-blog-mejor-radio-emergencia-manivela-solar",
@@ -194,7 +218,8 @@
       "titulo": "La mejor radio de emergencia con manivela y panel solar",
       "url": "https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/",
       "emoji": "📖",
-      "pin": "pin-blog-mejor-radio-emergencia-manivela-solar.html"
+      "pin": "pin-blog-mejor-radio-emergencia-manivela-solar.html",
+      "png": "pin-blog-mejor-radio-emergencia-manivela-solar.png"
     },
     {
       "slug": "pin-blog-antena-externa-movil-cobertura-montana",
@@ -202,7 +227,8 @@
       "titulo": "Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña",
       "url": "https://kit72h.com/blog/antena-externa-movil-cobertura-montana/",
       "emoji": "📖",
-      "pin": "pin-blog-antena-externa-movil-cobertura-montana.html"
+      "pin": "pin-blog-antena-externa-movil-cobertura-montana.html",
+      "png": "pin-blog-antena-externa-movil-cobertura-montana.png"
     },
     {
       "slug": "pin-blog-conectividad-emergencia-starlink-radios-redundancia",
@@ -210,7 +236,8 @@
       "titulo": "Conectividad de emergencia: Starlink, radio, satélite y redundancia",
       "url": "https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/",
       "emoji": "📖",
-      "pin": "pin-blog-conectividad-emergencia-starlink-radios-redundancia.html"
+      "pin": "pin-blog-conectividad-emergencia-starlink-radios-redundancia.html",
+      "png": "pin-blog-conectividad-emergencia-starlink-radios-redundancia.png"
     },
     {
       "slug": "pin-blog-generador-solar-emergencia-72h",
@@ -218,7 +245,8 @@
       "titulo": "Generador solar para emergencias de 72h: autonomía cuando se va la luz",
       "url": "https://kit72h.com/blog/generador-solar-emergencia-72h/",
       "emoji": "📖",
-      "pin": "pin-blog-generador-solar-emergencia-72h.html"
+      "pin": "pin-blog-generador-solar-emergencia-72h.html",
+      "png": "pin-blog-generador-solar-emergencia-72h.png"
     },
     {
       "slug": "pin-blog-mejor-router-4g-emergencia-sin-internet",
@@ -226,7 +254,8 @@
       "titulo": "El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan",
       "url": "https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/",
       "emoji": "📖",
-      "pin": "pin-blog-mejor-router-4g-emergencia-sin-internet.html"
+      "pin": "pin-blog-mejor-router-4g-emergencia-sin-internet.html",
+      "png": "pin-blog-mejor-router-4g-emergencia-sin-internet.png"
     },
     {
       "slug": "pin-blog-mejor-sim-datos-emergencia-cobertura",
@@ -234,7 +263,8 @@
       "titulo": "Las mejores SIM de datos de emergencia: cobertura cuando todo falla",
       "url": "https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/",
       "emoji": "📖",
-      "pin": "pin-blog-mejor-sim-datos-emergencia-cobertura.html"
+      "pin": "pin-blog-mejor-sim-datos-emergencia-cobertura.html",
+      "png": "pin-blog-mejor-sim-datos-emergencia-cobertura.png"
     },
     {
       "slug": "pin-blog-nevera-portatil-emergencia-72h",
@@ -242,7 +272,8 @@
       "titulo": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad",
       "url": "https://kit72h.com/blog/nevera-portatil-emergencia-72h/",
       "emoji": "📖",
-      "pin": "pin-blog-nevera-portatil-emergencia-72h.html"
+      "pin": "pin-blog-nevera-portatil-emergencia-72h.html",
+      "png": "pin-blog-nevera-portatil-emergencia-72h.png"
     },
     {
       "slug": "pin-blog-panel-solar-portatil-72h-emergencia",
@@ -250,7 +281,8 @@
       "titulo": "Panel solar portátil para emergencias: energía cuando no hay red",
       "url": "https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/",
       "emoji": "📖",
-      "pin": "pin-blog-panel-solar-portatil-72h-emergencia.html"
+      "pin": "pin-blog-panel-solar-portatil-72h-emergencia.html",
+      "png": "pin-blog-panel-solar-portatil-72h-emergencia.png"
     },
     {
       "slug": "pin-blog-starlink-emergencia-72h-conectividad",
@@ -258,7 +290,8 @@
       "titulo": "Starlink en emergencias de 72h: conectividad cuando todo falla",
       "url": "https://kit72h.com/blog/starlink-emergencia-72h-conectividad/",
       "emoji": "📖",
-      "pin": "pin-blog-starlink-emergencia-72h-conectividad.html"
+      "pin": "pin-blog-starlink-emergencia-72h-conectividad.html",
+      "png": "pin-blog-starlink-emergencia-72h-conectividad.png"
     },
     {
       "slug": "pin-blog-terremoto-espana-que-hacer",
@@ -266,7 +299,8 @@
       "titulo": "Terremoto en España: qué hacer antes, durante y después",
       "url": "https://kit72h.com/blog/terremoto-espana-que-hacer/",
       "emoji": "📖",
-      "pin": "pin-blog-terremoto-espana-que-hacer.html"
+      "pin": "pin-blog-terremoto-espana-que-hacer.html",
+      "png": "pin-blog-terremoto-espana-que-hacer.png"
     },
     {
       "slug": "pin-blog-kit-emergencia-trabajo-oficina",
@@ -274,7 +308,8 @@
       "titulo": "Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio",
       "url": "https://kit72h.com/blog/kit-emergencia-trabajo-oficina/",
       "emoji": "📖",
-      "pin": "pin-blog-kit-emergencia-trabajo-oficina.html"
+      "pin": "pin-blog-kit-emergencia-trabajo-oficina.html",
+      "png": "pin-blog-kit-emergencia-trabajo-oficina.png"
     },
     {
       "slug": "pin-blog-salud-mental-y-sueno-en-una-emergencia",
@@ -282,7 +317,8 @@
       "titulo": "Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena",
       "url": "https://kit72h.com/blog/salud-mental-y-sueno-en-una-emergencia/",
       "emoji": "📖",
-      "pin": "pin-blog-salud-mental-y-sueno-en-una-emergencia.html"
+      "pin": "pin-blog-salud-mental-y-sueno-en-una-emergencia.html",
+      "png": "pin-blog-salud-mental-y-sueno-en-una-emergencia.png"
     },
     {
       "slug": "pin-blog-conservar-comida-sin-nevera-ni-frio",
@@ -290,7 +326,8 @@
       "titulo": "Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar",
       "url": "https://kit72h.com/blog/conservar-comida-sin-nevera-ni-frio/",
       "emoji": "📖",
-      "pin": "pin-blog-conservar-comida-sin-nevera-ni-frio.html"
+      "pin": "pin-blog-conservar-comida-sin-nevera-ni-frio.html",
+      "png": "pin-blog-conservar-comida-sin-nevera-ni-frio.png"
     },
     {
       "slug": "pin-blog-panel-solar-portatil-realista-quantos-watts-urgente",
@@ -298,7 +335,8 @@
       "titulo": "Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia",
       "url": "https://kit72h.com/blog/panel-solar-portatil-realista-quantos-watts-urgente/",
       "emoji": "📖",
-      "pin": "pin-blog-panel-solar-portatil-realista-quantos-watts-urgente.html"
+      "pin": "pin-blog-panel-solar-portatil-realista-quantos-watts-urgente.html",
+      "png": "pin-blog-panel-solar-portatil-realista-quantos-watts-urgente.png"
     },
     {
       "slug": "pin-blog-seguridad-pasiva-hogar-incendios-electricos",
@@ -306,7 +344,8 @@
       "titulo": "Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada",
       "url": "https://kit72h.com/blog/seguridad-pasiva-hogar-incendios-electricos/",
       "emoji": "📖",
-      "pin": "pin-blog-seguridad-pasiva-hogar-incendios-electricos.html"
+      "pin": "pin-blog-seguridad-pasiva-hogar-incendios-electricos.html",
+      "png": "pin-blog-seguridad-pasiva-hogar-incendios-electricos.png"
     },
     {
       "slug": "pin-blog-vestirse-por-capas-ropa-emergencia-frio",
@@ -314,7 +353,8 @@
       "titulo": "Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal",
       "url": "https://kit72h.com/blog/vestirse-por-capas-ropa-emergencia-frio/",
       "emoji": "📖",
-      "pin": "pin-blog-vestirse-por-capas-ropa-emergencia-frio.html"
+      "pin": "pin-blog-vestirse-por-capas-ropa-emergencia-frio.html",
+      "png": "pin-blog-vestirse-por-capas-ropa-emergencia-frio.png"
     },
     {
       "slug": "pin-blog-radiocomunicacion-pmr446-walkie-talkies",
@@ -322,7 +362,8 @@
       "titulo": "Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia",
       "url": "https://kit72h.com/blog/radiocomunicacion-pmr446-walkie-talkies/",
       "emoji": "📖",
-      "pin": "pin-blog-radiocomunicacion-pmr446-walkie-talkies.html"
+      "pin": "pin-blog-radiocomunicacion-pmr446-walkie-talkies.html",
+      "png": "pin-blog-radiocomunicacion-pmr446-walkie-talkies.png"
     },
     {
       "slug": "pin-blog-volver-a-casa-tras-inundacion",
@@ -330,7 +371,8 @@
       "titulo": "Volver a casa después de una inundación: seguridad, lodo, humedad y seguros",
       "url": "https://kit72h.com/blog/volver-a-casa-tras-inundacion/",
       "emoji": "📖",
-      "pin": "pin-blog-volver-a-casa-tras-inundacion.html"
+      "pin": "pin-blog-volver-a-casa-tras-inundacion.html",
+      "png": "pin-blog-volver-a-casa-tras-inundacion.png"
     },
     {
       "slug": "pin-blog-vivir-solo-estar-preparado",
@@ -338,7 +380,8 @@
       "titulo": "Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene",
       "url": "https://kit72h.com/blog/vivir-solo-estar-preparado/",
       "emoji": "📖",
-      "pin": "pin-blog-vivir-solo-estar-preparado.html"
+      "pin": "pin-blog-vivir-solo-estar-preparado.html",
+      "png": "pin-blog-vivir-solo-estar-preparado.png"
     },
     {
       "slug": "pin-blog-plan-familiar-de-emergencia",
@@ -346,7 +389,8 @@
       "titulo": "Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo",
       "url": "https://kit72h.com/blog/plan-familiar-de-emergencia/",
       "emoji": "📖",
-      "pin": "pin-blog-plan-familiar-de-emergencia.html"
+      "pin": "pin-blog-plan-familiar-de-emergencia.html",
+      "png": "pin-blog-plan-familiar-de-emergencia.png"
     },
     {
       "slug": "pin-blog-medicion-cronica-personas-dependientes",
@@ -354,7 +398,8 @@
       "titulo": "Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia",
       "url": "https://kit72h.com/blog/medicion-cronica-personas-dependientes/",
       "emoji": "📖",
-      "pin": "pin-blog-medicion-cronica-personas-dependientes.html"
+      "pin": "pin-blog-medicion-cronica-personas-dependientes.html",
+      "png": "pin-blog-medicion-cronica-personas-dependientes.png"
     },
     {
       "slug": "pin-blog-kit-emergencia-50-euros",
@@ -362,7 +407,8 @@
       "titulo": "Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa",
       "url": "https://kit72h.com/blog/kit-emergencia-50-euros/",
       "emoji": "📖",
-      "pin": "pin-blog-kit-emergencia-50-euros.html"
+      "pin": "pin-blog-kit-emergencia-50-euros.html",
+      "png": "pin-blog-kit-emergencia-50-euros.png"
     },
     {
       "slug": "pin-blog-comer-sin-luz-menus-3-dias",
@@ -370,7 +416,8 @@
       "titulo": "Qué comer si se va la luz: menús de tres días sin cocina y sin nevera",
       "url": "https://kit72h.com/blog/comer-sin-luz-menus-3-dias/",
       "emoji": "📖",
-      "pin": "pin-blog-comer-sin-luz-menus-3-dias.html"
+      "pin": "pin-blog-comer-sin-luz-menus-3-dias.html",
+      "png": "pin-blog-comer-sin-luz-menus-3-dias.png"
     },
     {
       "slug": "pin-blog-bebes-ninos-emergencia-checklist-edades",
@@ -378,7 +425,8 @@
       "titulo": "Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12)",
       "url": "https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/",
       "emoji": "📖",
-      "pin": "pin-blog-bebes-ninos-emergencia-checklist-edades.html"
+      "pin": "pin-blog-bebes-ninos-emergencia-checklist-edades.html",
+      "png": "pin-blog-bebes-ninos-emergencia-checklist-edades.png"
     },
     {
       "slug": "pin-blog-temperatura-sin-electricidad",
@@ -386,7 +434,8 @@
       "titulo": "Frío y calor sin electricidad: cómo mantener la temperatura corporal",
       "url": "https://kit72h.com/blog/temperatura-sin-electricidad/",
       "emoji": "📖",
-      "pin": "pin-blog-temperatura-sin-electricidad.html"
+      "pin": "pin-blog-temperatura-sin-electricidad.html",
+      "png": "pin-blog-temperatura-sin-electricidad.png"
     },
     {
       "slug": "pin-blog-recursos-oficiales-emergencia",
@@ -394,7 +443,8 @@
       "titulo": "Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel)",
       "url": "https://kit72h.com/blog/recursos-oficiales-emergencia/",
       "emoji": "📖",
-      "pin": "pin-blog-recursos-oficiales-emergencia.html"
+      "pin": "pin-blog-recursos-oficiales-emergencia.html",
+      "png": "pin-blog-recursos-oficiales-emergencia.png"
     },
     {
       "slug": "pin-blog-montana-kit-salvavidas",
@@ -402,7 +452,8 @@
       "titulo": "Emergencias en montaña: el kit que te puede salvar",
       "url": "https://kit72h.com/blog/montana-kit-salvavidas/",
       "emoji": "📖",
-      "pin": "pin-blog-montana-kit-salvavidas.html"
+      "pin": "pin-blog-montana-kit-salvavidas.html",
+      "png": "pin-blog-montana-kit-salvavidas.png"
     },
     {
       "slug": "pin-blog-mascotas-plan-emergencia",
@@ -410,7 +461,8 @@
       "titulo": "Mascotas en una emergencia: plan de evacuación con perros y gatos",
       "url": "https://kit72h.com/blog/mascotas-plan-emergencia/",
       "emoji": "📖",
-      "pin": "pin-blog-mascotas-plan-emergencia.html"
+      "pin": "pin-blog-mascotas-plan-emergencia.html",
+      "png": "pin-blog-mascotas-plan-emergencia.png"
     },
     {
       "slug": "pin-blog-kit-72h-vs-30-dias",
@@ -418,7 +470,8 @@
       "titulo": "Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero)",
       "url": "https://kit72h.com/blog/kit-72h-vs-30-dias/",
       "emoji": "📖",
-      "pin": "pin-blog-kit-72h-vs-30-dias.html"
+      "pin": "pin-blog-kit-72h-vs-30-dias.html",
+      "png": "pin-blog-kit-72h-vs-30-dias.png"
     },
     {
       "slug": "pin-blog-huerto-emergencia-semillas-germinados",
@@ -426,7 +479,8 @@
       "titulo": "Semillas, germinados y huerto de emergencia: tu seguridad alimentaria",
       "url": "https://kit72h.com/blog/huerto-emergencia-semillas-germinados/",
       "emoji": "📖",
-      "pin": "pin-blog-huerto-emergencia-semillas-germinados.html"
+      "pin": "pin-blog-huerto-emergencia-semillas-germinados.html",
+      "png": "pin-blog-huerto-emergencia-semillas-germinados.png"
     },
     {
       "slug": "pin-blog-el-conocimiento-dartnell",
@@ -434,7 +488,8 @@
       "titulo": "\"El Conocimiento\" de Lewis Dartnell: el manual para reconstruir el mundo desde cero",
       "url": "https://kit72h.com/blog/el-conocimiento-dartnell/",
       "emoji": "📖",
-      "pin": "pin-blog-el-conocimiento-dartnell.html"
+      "pin": "pin-blog-el-conocimiento-dartnell.html",
+      "png": "pin-blog-el-conocimiento-dartnell.png"
     },
     {
       "slug": "pin-blog-dana-apagon-primeros-30-minutos",
@@ -442,7 +497,8 @@
       "titulo": "DANA o apagón: qué hacer en los primeros 30 minutos",
       "url": "https://kit72h.com/blog/dana-apagon-primeros-30-minutos/",
       "emoji": "📖",
-      "pin": "pin-blog-dana-apagon-primeros-30-minutos.html"
+      "pin": "pin-blog-dana-apagon-primeros-30-minutos.html",
+      "png": "pin-blog-dana-apagon-primeros-30-minutos.png"
     },
     {
       "slug": "pin-blog-comunicar-sin-red-movil",
@@ -450,7 +506,8 @@
       "titulo": "Comunicar sin red: qué funciona cuando se cae el móvil",
       "url": "https://kit72h.com/blog/comunicar-sin-red-movil/",
       "emoji": "📖",
-      "pin": "pin-blog-comunicar-sin-red-movil.html"
+      "pin": "pin-blog-comunicar-sin-red-movil.html",
+      "png": "pin-blog-comunicar-sin-red-movil.png"
     },
     {
       "slug": "pin-blog-como-montar-tu-kit-72h",
@@ -458,7 +515,8 @@
       "titulo": "Cómo montar tu kit de emergencia 72 horas paso a paso",
       "url": "https://kit72h.com/blog/como-montar-tu-kit-72h/",
       "emoji": "📖",
-      "pin": "pin-blog-como-montar-tu-kit-72h.html"
+      "pin": "pin-blog-como-montar-tu-kit-72h.html",
+      "png": "pin-blog-como-montar-tu-kit-72h.png"
     },
     {
       "slug": "pin-blog-coche-kit-emergencia-2026",
@@ -466,7 +524,8 @@
       "titulo": "Coche y emergencias: lo obligatorio en 2026 y lo que conviene",
       "url": "https://kit72h.com/blog/coche-kit-emergencia-2026/",
       "emoji": "📖",
-      "pin": "pin-blog-coche-kit-emergencia-2026.html"
+      "pin": "pin-blog-coche-kit-emergencia-2026.html",
+      "png": "pin-blog-coche-kit-emergencia-2026.png"
     },
     {
       "slug": "pin-blog-carpeta-de-emergencia-documentos",
@@ -474,7 +533,8 @@
       "titulo": "Documentos y dinero: la carpeta de emergencia que todo hogar debería tener",
       "url": "https://kit72h.com/blog/carpeta-de-emergencia-documentos/",
       "emoji": "📖",
-      "pin": "pin-blog-carpeta-de-emergencia-documentos.html"
+      "pin": "pin-blog-carpeta-de-emergencia-documentos.html",
+      "png": "pin-blog-carpeta-de-emergencia-documentos.png"
     },
     {
       "slug": "pin-blog-botiquin-emergencia-que-llevar",
@@ -482,7 +542,8 @@
       "titulo": "Botiquín de emergencia: qué llevar de verdad (y qué sobra)",
       "url": "https://kit72h.com/blog/botiquin-emergencia-que-llevar/",
       "emoji": "📖",
-      "pin": "pin-blog-botiquin-emergencia-que-llevar.html"
+      "pin": "pin-blog-botiquin-emergencia-que-llevar.html",
+      "png": "pin-blog-botiquin-emergencia-que-llevar.png"
     },
     {
       "slug": "pin-blog-apagon-lecciones-28a",
@@ -490,7 +551,8 @@
       "titulo": "Apagón: lecciones del 28 de abril de 2025 en España",
       "url": "https://kit72h.com/blog/apagon-lecciones-28a/",
       "emoji": "📖",
-      "pin": "pin-blog-apagon-lecciones-28a.html"
+      "pin": "pin-blog-apagon-lecciones-28a.html",
+      "png": "pin-blog-apagon-lecciones-28a.png"
     },
     {
       "slug": "pin-blog-almacenar-agua-comida-casa",
@@ -498,7 +560,8 @@
       "titulo": "Cómo almacenar agua y comida en casa sin que se estropee",
       "url": "https://kit72h.com/blog/almacenar-agua-comida-casa/",
       "emoji": "📖",
-      "pin": "pin-blog-almacenar-agua-comida-casa.html"
+      "pin": "pin-blog-almacenar-agua-comida-casa.html",
+      "png": "pin-blog-almacenar-agua-comida-casa.png"
     },
     {
       "slug": "pin-blog-agua-cuanta-y-como",
@@ -506,7 +569,8 @@
       "titulo": "Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla",
       "url": "https://kit72h.com/blog/agua-cuanta-y-como/",
       "emoji": "📖",
-      "pin": "pin-blog-agua-cuanta-y-como.html"
+      "pin": "pin-blog-agua-cuanta-y-como.html",
+      "png": "pin-blog-agua-cuanta-y-como.png"
     }
   ]
 }
