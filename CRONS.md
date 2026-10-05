@@ -39,7 +39,7 @@ Cada pin genera una tarjeta visual que enlaza a una página de kit72h.com.
 3. **Render automático HTML → PNG 1000x1500** (Chromium headless) → listo para subir
 4. Se ejecuta cada noche → pins nuevos si hay contenido nuevo
 
-**63 pins en el catálogo:** 19 kits + 44 blog entries. Los PNG viven en `pintout/`.
+**63 pins en el catálogo:** 19 kits + 44 blog entries. Los PNG viven en `pintout/png/`.
 
 ### Otros crons de venta
 

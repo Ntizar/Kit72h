@@ -19,7 +19,9 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
 PINTOUT_DIR = RAIZ / "pintout"
+PNG_DIR = PINTOUT_DIR / "png"
 PINTOUT_DIR.mkdir(exist_ok=True)
+PNG_DIR.mkdir(exist_ok=True)
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 
@@ -207,11 +209,11 @@ def renderizar_pins():
     renderizados = []
     for pin in indice.get("pins", []):
         html = PINTOUT_DIR / pin["pin"]
-        png = PINTOUT_DIR / (Path(pin["pin"]).stem + ".png")
+        png = PNG_DIR / (Path(pin["pin"]).stem + ".png")
         if not html.exists():
             continue
         if png.exists() and png.stat().st_mtime >= html.stat().st_mtime:
-            pin["png"] = png.name
+            pin["png"] = f"png/{png.name}"
             continue
         try:
             run(
@@ -228,7 +230,7 @@ def renderizar_pins():
             print(f"  ⚠️ timeout renderizando {png.name}")
             continue
         if png.exists() and png.stat().st_size > 5000:
-            pin["png"] = png.name
+            pin["png"] = f"png/{png.name}"
             renderizados.append(png.name)
         else:
             print(f"  ⚠️ render vacío: {png.name}")
@@ -242,7 +244,8 @@ def main():
     render = renderizar_pins()
     if render:
         print(f"PNG renderizados: {len(render)}")
-    if not pins and not render:
+    cambios = git("status", "--porcelain", "data/pins-generados.json", "pintout/").stdout.strip()
+    if not cambios:
         print("Pins: sin cambios")
         return
     git("add", "data/pins-generados.json", "pintout/")
