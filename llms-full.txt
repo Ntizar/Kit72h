@@ -4,7 +4,7 @@ Fuente: https://kit72h.com · Guía independiente de preparación civil.
 
 ## Kits
 
-### Kit 72h Básico: los 16 esenciales de la UE (2026) → Guía completa — https://kit72h.com/kit/kit-basico-72h/
+### Kit 72h Básico: 16 esenciales de la UE (2026) — https://kit72h.com/kit/kit-basico-72h/
 Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
 **Agua e hidratación**
 - Botella o garrafa de agua (3 L por persona y día): Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día. (~5-15 €)
@@ -30,7 +30,7 @@ Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta A
 - Manta térmica de emergencia: Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco. (~3-8 €)
 - Chubasquero o poncho impermeable: Impermeable ligero reutilizable. Mantente seco = mantente caliente. (~15-30 €)
 
-### Kit DANA / Inundación: 14 artículos que protegen tu hogar (2026) — https://kit72h.com/kit/kit-dana/
+### Kit DANA / Inundación: 14 artículos para proteger tu hogar — https://kit72h.com/kit/kit-dana/
 Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
 **Protección personal frente al agua**
 - Chubasquero impermeable con capucha: Capucha ajustada y costuras selladas para lluvia torrencial. (~20-40 €)
@@ -75,7 +75,7 @@ Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la 
 - Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
 - SAI / UPS pequeño (600-900 VA) para router y ONT: Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora. (~60-110 €)
 
-### Kit Coche 2026: obligatorios + opcionales DGT (guardar en maletero) — https://kit72h.com/kit/kit-coche/
+### Kit Coche 2026: obligatorios y opcionales DGT — https://kit72h.com/kit/kit-coche/
 Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.
 **Obligatorio en España (DGT)**
 - Dos triángulos de emergencia homologados: Desde el 1 de enero de 2026 ya no son válidos para señalizar en España (los sustituye la baliza V-16 conectada); aún útiles para viajes por países fuera de la Convención de Viena. (~10-20 €)
@@ -176,7 +176,7 @@ Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencia
 - Navaja multiusos: 23 herramientas en un cuerpo compacto: cuchillo, sierra, destornilladores, abrebotellas. Lo justo para reparaciones de emergencia. (~10-20 €)
 - Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones): Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no. (~3-10 €)
 
-### Huerto Autosuficiente: 13 herramientas para autoprovisión (2026) — https://kit72h.com/kit/huerto-autosuficiencia/
+### Huerto Autosuficiente: 13 herramientas para autoprovisión — https://kit72h.com/kit/huerto-autosuficiencia/
 Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
 **Para empezar a sembrar**
 - Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
@@ -220,7 +220,7 @@ Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía
 - Multivitaminas 450 comprimidos: Cubre carencias si tu dieta de emergencia es monótona (sin fruta ni verdura fresca). (~~11 €)
 - Espirulina + chlorella ecológica (500 comprimidos): Superalimento denso en proteína y micronutrientes, caducidad larguísima. (~~14 €)
 
-### Kit Bebé: 32 artículos esenciales para proteger a tu hijo (2026) — https://kit72h.com/kit/kit-bebe/
+### Kit Bebé: 32 esenciales para proteger a tu hijo (2026) — https://kit72h.com/kit/kit-bebe/
 Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.
 **Agua y alimentación sin electricidad**
 - Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
@@ -261,7 +261,7 @@ Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alim
 - Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
 - Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
 
-### Kit Mayores: 27 artículos para proteger a personas dependientes (2026) — https://kit72h.com/kit/kit-mayores/
+### Kit Mayores: 27 artículos para proteger dependientes (2026) — https://kit72h.com/kit/kit-mayores/
 Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.
 **Medicación y crónicos**
 - Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
@@ -329,7 +329,7 @@ Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentaci
 - Lista de residencias y hoteles que admiten animales: En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina. (~0 €)
 - Protección de datos del animal (copia digital de vacunas con el microchip visible): Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes. (~8-20 €)
 
-### Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026) — https://kit72h.com/kit/kit-frio/
+### Kit Frío/Invierno: 27 artículos para sobrevivir al frío — https://kit72h.com/kit/kit-frio/
 Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.
 **Calor corporal: la capa que salva**
 - Ropa térmica interior (camiseta y legging, 2 juegos): La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor. (~20-45 €)
@@ -400,7 +400,7 @@ Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación
 - Efectivo en billetes pequeños: Sin luz ni red, el datáfono no funciona y los cajeros están caídos. 100-150 € en billetes de 10 y 20 resuelven agua, comida y combustible. (~20-45 €)
 - Copia digital en USB cifrado: Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños. (~8-20 €)
 
-### Kit Incendio: 21 artículos para protección contra incendios (2026) — https://kit72h.com/kit/kit-incendio/
+### Kit Incendio: 21 artículos contra incendios (2026) — https://kit72h.com/kit/kit-incendio/
 Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
 **Respirar: el humo mata antes que el fuego**
 - Mascarillas FFP2 (pack de 10-20): Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad. (~8-15 €)

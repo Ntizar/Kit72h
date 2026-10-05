@@ -12,22 +12,22 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Kits
 
-- [Kit 72h Básico: los 16 esenciales de la UE (2026) → Guía completa](https://kit72h.com/kit/kit-basico-72h/): Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
-- [Kit DANA / Inundación: 14 artículos que protegen tu hogar (2026)](https://kit72h.com/kit/kit-dana/): Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
+- [Kit 72h Básico: 16 esenciales de la UE (2026)](https://kit72h.com/kit/kit-basico-72h/): Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
+- [Kit DANA / Inundación: 14 artículos para proteger tu hogar](https://kit72h.com/kit/kit-dana/): Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
 - [Kit Apagón: 15 artículos para sobrevivir sin luz (2026)](https://kit72h.com/kit/kit-apagon/): Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).
-- [Kit Coche 2026: obligatorios + opcionales DGT (guardar en maletero)](https://kit72h.com/kit/kit-coche/): Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.
+- [Kit Coche 2026: obligatorios y opcionales DGT](https://kit72h.com/kit/kit-coche/): Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.
 - [Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)](https://kit72h.com/kit/kit-hogar/): Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basada en fuentes oficiales (UE + Protección Civil).
 - [Kit Montaña: 13 esenciales para supervivencia outdoor (2026)](https://kit72h.com/kit/kit-montana/): Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.
 - [Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)](https://kit72h.com/kit/kit-calor/): Kit calor: 7 artículos que salvan vidas ante ola de calor extrema. Hidratación, abrigo solar y primeros auxilios.
 - [Kit Evacuación: 14 artículos para huir con vida (2026)](https://kit72h.com/kit/kit-evacuacion/): Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencial en 30 segundos. Preparación rápida 2026.
-- [Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)](https://kit72h.com/kit/huerto-autosuficiencia/): Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
+- [Huerto Autosuficiente: 13 herramientas para autoprovisión](https://kit72h.com/kit/huerto-autosuficiencia/): Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
 - [Kit 30 Días: 16 artículos para un mes sin suministros (2026)](https://kit72h.com/kit/kit-30-dias/): Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía para sobrevivir un mes sin red 2026.
-- [Kit Bebé: 32 artículos esenciales para proteger a tu hijo (2026)](https://kit72h.com/kit/kit-bebe/): Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.
-- [Kit Mayores: 27 artículos para proteger a personas dependientes (2026)](https://kit72h.com/kit/kit-mayores/): Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.
+- [Kit Bebé: 32 esenciales para proteger a tu hijo (2026)](https://kit72h.com/kit/kit-bebe/): Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.
+- [Kit Mayores: 27 artículos para proteger dependientes (2026)](https://kit72h.com/kit/kit-mayores/): Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.
 - [Kit Mascotas: 23 artículos para proteger a tu animal (2026)](https://kit72h.com/kit/kit-mascotas/): Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentación, identificación y primeros auxilios.
-- [Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)](https://kit72h.com/kit/kit-frio/): Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.
+- [Kit Frío/Invierno: 27 artículos para sobrevivir al frío](https://kit72h.com/kit/kit-frio/): Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.
 - [Kit Terremoto: 26 artículos para protección sísmica (2026)](https://kit72h.com/kit/kit-terremoto/): Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.
-- [Kit Incendio: 21 artículos para protección contra incendios (2026)](https://kit72h.com/kit/kit-incendio/): Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
+- [Kit Incendio: 21 artículos contra incendios (2026)](https://kit72h.com/kit/kit-incendio/): Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
 - [Kit Comunicación: walkies, radio y messenger satelital (2026)](https://kit72h.com/kit/kit-comunicacion/): Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.
 - [Kit Starlink: internet satelital para emergencias (2026)](https://kit72h.com/kit/kit-starlink/): Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.
 - [Kit Profesional: energía y autonomía total (2026)](https://kit72h.com/kit/kit-kit-profesional/): Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.

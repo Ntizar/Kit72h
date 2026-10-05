@@ -173,7 +173,7 @@
   "kits": [
     {
       "id": "basico-72h",
-      "titulo": "Kit 72h Básico: los 16 esenciales de la UE (2026) → Guía completa",
+      "titulo": "Kit 72h Básico: 16 esenciales de la UE (2026)",
       "slug": "kit-basico-72h",
       "icono": "🎒",
       "resumen": "Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.",
@@ -368,7 +368,7 @@
     },
     {
       "id": "dana",
-      "titulo": "Kit DANA / Inundación: 14 artículos que protegen tu hogar (2026)",
+      "titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar",
       "slug": "kit-dana",
       "icono": "🌊",
       "resumen": "Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.",
@@ -748,7 +748,7 @@
     },
     {
       "id": "coche",
-      "titulo": "Kit Coche 2026: obligatorios + opcionales DGT (guardar en maletero)",
+      "titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
       "slug": "kit-coche",
       "icono": "🚗",
       "resumen": "Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.",
@@ -1571,7 +1571,7 @@
     },
     {
       "id": "autosuficiencia",
-      "titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+      "titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión",
       "slug": "huerto-autosuficiencia",
       "icono": "🌱",
       "resumen": "Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "bebe",
-      "titulo": "Kit Bebé: 32 artículos esenciales para proteger a tu hijo (2026)",
+      "titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
       "slug": "kit-bebe",
       "icono": "🍼",
       "resumen": "Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.",
@@ -2325,7 +2325,7 @@
     },
     {
       "id": "mayores",
-      "titulo": "Kit Mayores: 27 artículos para proteger a personas dependientes (2026)",
+      "titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
       "slug": "kit-mayores",
       "icono": "🧓",
       "resumen": "Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.",
@@ -2937,7 +2937,7 @@
     },
     {
       "id": "frio",
-      "titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+      "titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío",
       "slug": "kit-frio",
       "icono": "❄️",
       "resumen": "Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.",
@@ -3500,7 +3500,7 @@
     },
     {
       "id": "incendio",
-      "titulo": "Kit Incendio: 21 artículos para protección contra incendios (2026)",
+      "titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
       "slug": "kit-incendio",
       "icono": "🔥",
       "resumen": "Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.",
