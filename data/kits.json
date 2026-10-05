@@ -2733,19 +2733,21 @@
             },
             {
               "producto": "Comedero y bebedero plegables de viaje",
-              "afiliado": "https://www.amazon.es/s?k=comedero+y+bebedero+plegables+de+viaje&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CR6BQ6X8?tag=nti0c8-21",
               "descripcion": "Ocupan nada y evitan que beba de un cuenco sucio improvisado. Con ellos puedes darle agua en la parada del coche.",
               "precio_aprox": "8-18 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Comida húmeda en lata (aporta agua y la come estresado)",
-              "afiliado": "https://www.amazon.es/s?k=comida+h%C3%BAmeda+en+lata&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0CTMWQG4T?tag=nti0c8-21",
               "descripcion": "Un animal asustado rechaza el pienso seco pero suele aceptar lata. La humedad le ayuda a hidratarse sin beber.",
               "precio_aprox": "6-14 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             }
           ]
         },
@@ -2755,27 +2757,30 @@
           "items": [
             {
               "producto": "Transportín rígido o jaula de transporte",
-              "afiliado": "https://www.amazon.es/s?k=transport%C3%ADn+r%C3%ADgido+o+jaula+de+transporte&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0BT4WZT3J?tag=nti0c8-21",
               "descripcion": "Con la puerta que cierre bien. Un gato suelto en una evacuación no se recupera: se esconde debajo del primer coche.",
               "precio_aprox": "25-60 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Correa y arnés de repuesto",
-              "afiliado": "https://www.amazon.es/s?k=correa+y+arn%C3%A9s+de+repuesto&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0FWRW5F67?tag=nti0c8-21",
               "descripcion": "Con la correa puesta y una segunda de reserva. En pánico un perro rompe la de siempre y sale corriendo hacia la carretera.",
               "precio_aprox": "8-20 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
-              "afiliado": "https://www.amazon.es/s?k=bozal&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B01KI70USQ?tag=nti0c8-21",
               "descripcion": "Exigido para razas PPP y necesario si va a estar rodeado de gente asustada. Un perro con bozal sube a cualquier transporte.",
               "precio_aprox": "6-15 €",
               "prioridad": "recomendado",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Manta o toalla con su olor de casa",
@@ -2786,11 +2791,12 @@
             },
             {
               "producto": "Bolsa de transporte acolchada (para animales pequeños)",
-              "afiliado": "https://www.amazon.es/s?k=bolsa+de+transporte+acolchada&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B08K3K3VBG?tag=nti0c8-21",
               "descripcion": "Alternativa ligera al transportín rígido para conejos, cobayas o cachorros pequeños.",
               "precio_aprox": "15-35 €",
               "prioridad": "extra",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             }
           ]
         },
@@ -2841,11 +2847,12 @@
             },
             {
               "producto": "Bandeja y arena para gato (o empapadores)",
-              "afiliado": "https://www.amazon.es/s?k=bandeja+y+arena+para+gato&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0DQSPGGDF?tag=nti0c8-21",
               "descripcion": "Un gato con estrés y sin bandeja retiene orina y acaba en el veterinario. La bandeja desechable vale para dos días.",
               "precio_aprox": "10-25 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Empapadores absorbentes",
@@ -2869,11 +2876,12 @@
           "items": [
             {
               "producto": "Placa de identificación con tu teléfono grabado",
-              "afiliado": "https://www.amazon.es/s?k=placa+de+identificaci%C3%B3n+con+tu+tel%C3%A9fono+grabado&tag=nti0c8-21",
+              "afiliado": "https://www.amazon.es/dp/B0D13383WR?tag=nti0c8-21",
               "descripcion": "Un microchip hay que leerlo con un lector; una placa la lee cualquiera. En una emergencia con personal saturado, la placa es más rápida.",
               "precio_aprox": "5-12 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-05"
             },
             {
               "producto": "Foto reciente del animal contigo (papel y móvil)",
