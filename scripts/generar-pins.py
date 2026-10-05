@@ -159,9 +159,90 @@ def generar_pins():
     return pins_created
 
 
+def encontrar_chromium():
+    """Localiza un binario de Chromium/Chrome para renderizar los pins a PNG."""
+    import glob
+    import shutil
+
+    candidatos = []
+    for var in ("KIT72H_CHROME", "CHROME_PATH", "CHROMIUM_PATH"):
+        ruta = os.environ.get(var)
+        if ruta and Path(ruta).exists():
+            candidatos.append(ruta)
+    for exe in ("chromium", "chromium-browser", "google-chrome",
+                "google-chrome-stable", "chrome", "msedge"):
+        ruta = shutil.which(exe)
+        if ruta:
+            candidatos.append(ruta)
+    local = os.environ.get("LOCALAPPDATA", "")
+    patrones = [
+        f"{local}/ms-playwright/chromium-*/chrome-win64/chrome.exe",
+        f"{local}/ms-playwright/chromium-*/chrome-win/chrome.exe",
+        str(Path.home() / ".cache/ms-playwright/chromium-*/chrome-linux/chrome"),
+        str(Path.home() / ".cache/ms-playwright/chromium_headless_shell-*/chrome-linux/headless_shell"),
+        str(Path.home() / "Library/Caches/ms-playwright/chromium-*/chrome-mac/Chromium.app/Contents/MacOS/Chromium"),
+        "/usr/bin/chromium", "/usr/bin/chromium-browser", "/usr/bin/google-chrome",
+    ]
+    for patron in patrones:
+        candidatos.extend(sorted(glob.glob(patron), reverse=True))
+    for c in candidatos:
+        if c and Path(c).exists():
+            return c
+    return None
+
+
+def renderizar_pins():
+    """Renderiza cada pin HTML a PNG 1000x1500 listo para subir a Pinterest.
+
+    Pinterest SOLO acepta imágenes: sin este paso los pins son inservibles.
+    Se salta un pin si su PNG ya existe y es más reciente que el HTML.
+    """
+    chromium = encontrar_chromium()
+    if not chromium:
+        print("  ⚠️ Render: sin Chromium/Chrome disponible — solo HTML")
+        return []
+
+    indice_path = RAIZ / "data" / "pins-generados.json"
+    indice = json.loads(indice_path.read_text(encoding="utf-8"))
+    renderizados = []
+    for pin in indice.get("pins", []):
+        html = PINTOUT_DIR / pin["pin"]
+        png = PINTOUT_DIR / (Path(pin["pin"]).stem + ".png")
+        if not html.exists():
+            continue
+        if png.exists() and png.stat().st_mtime >= html.stat().st_mtime:
+            pin["png"] = png.name
+            continue
+        try:
+            run(
+                chromium,
+                "--headless=new", "--disable-gpu", "--no-sandbox",
+                "--disable-dev-shm-usage", "--hide-scrollbars",
+                "--force-device-scale-factor=1", "--window-size=1000,1500",
+                "--virtual-time-budget=8000",
+                f"--screenshot={png.as_posix()}",
+                html.as_uri(),
+                timeout=90,
+            )
+        except subprocess.TimeoutExpired:
+            print(f"  ⚠️ timeout renderizando {png.name}")
+            continue
+        if png.exists() and png.stat().st_size > 5000:
+            pin["png"] = png.name
+            renderizados.append(png.name)
+        else:
+            print(f"  ⚠️ render vacío: {png.name}")
+    indice.setdefault("meta", {})["png_total"] = sum(1 for p in indice["pins"] if p.get("png"))
+    indice_path.write_text(json.dumps(indice, ensure_ascii=False, indent=2), encoding="utf-8")
+    return renderizados
+
+
 def main():
     pins = generar_pins()
-    if not pins:
+    render = renderizar_pins()
+    if render:
+        print(f"PNG renderizados: {len(render)}")
+    if not pins and not render:
         print("Pins: sin cambios")
         return
     git("add", "data/pins-generados.json", "pintout/")

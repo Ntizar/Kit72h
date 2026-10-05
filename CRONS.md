@@ -27,7 +27,7 @@ Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, 
 ## El sistema de tráfico (Pinterest + SEO)
 
 ```
-08:00  pins           script   → genera 27+ pins Pinterest (kits + blog)
+08:00  pins           script   → 63 pins Pinterest HTML + PNG (kits + blog)
 ```
 
 **Pinterest** = 500M+ usuarios, pins con vida de meses/años (no horas como Twitter).
@@ -35,11 +35,11 @@ Cada pin genera una tarjeta visual que enlaza a una página de kit72h.com.
 
 **Cómo funciona:**
 1. `generar-pins.py` genera HTML de pins (1000x1500px, estilo Aurora 7)
-2. Cada pin enlaza a un kit o blog con URL real
-3. Screenshot → subir a Pinterest → tráfico orgánico masivo
-4. Se ejecuta cada noche → pins frescos → más indexación
+2. Cada pin enlaza a un kit o blog con URL real (63 URLs verificadas 200)
+3. **Render automático HTML → PNG 1000x1500** (Chromium headless) → listo para subir
+4. Se ejecuta cada noche → pins nuevos si hay contenido nuevo
 
-**27 pins generados hoy:** 17 kits + 10 blog entries.
+**63 pins en el catálogo:** 19 kits + 44 blog entries. Los PNG viven en `pintout/`.
 
 ### Otros crons de venta
 
