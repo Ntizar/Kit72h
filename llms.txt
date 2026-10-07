@@ -30,6 +30,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Kit Incendio: 21 artículos contra incendios (2026)](https://kit72h.com/kit/kit-incendio/): Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
 - [Kit Comunicación: walkies, radio y messenger satelital (2026)](https://kit72h.com/kit/kit-comunicacion/): Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.
 - [Kit Starlink: internet satelital para emergencias (2026)](https://kit72h.com/kit/kit-starlink/): Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.
+- [Kit Electricidad: energía sin red cuando se va la luz (2026)](https://kit72h.com/kit/kit-electricidad/): Kit electricidad: generador solar, baterías y powerbanks grandes para tener luz y corriente cuando falla la red. Guía completa 2026.
 - [Kit Profesional: energía y autonomía total (2026)](https://kit72h.com/kit/kit-kit-profesional/): Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.
 
 ## Blog
