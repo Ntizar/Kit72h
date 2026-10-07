@@ -8,7 +8,7 @@
   La home queda en 4 bloques: `01 El plan` · `02 Tu lista` · `03 Los kits` · `04 Lecturas`.
 - El bloque de cifras (16 kits / 72 H / 180+ / 1-Clic), que no aportaba nada,
   se sustituye por un CTA grande: **«No pierdas el tiempo: compra tu kit completo»**
-  → `amazon.es/s?k=kit+emergencia+72+horas&tag=nti0c8-21`.
+  → `amazon.es/s?k=kit+emergencia+72+horas&tag=ntizar-21`.
 - Botones de producto **«Ver en Amazon ↗» → «Comprar ↗»** («Ver precios ↗» cuando
   no hay ficha, solo búsqueda). Cesta: «Llévate todo el kit →» /
   «Llévate solo lo esencial — los N imprescindibles →».

@@ -13,7 +13,7 @@ with io.open(RUTA, encoding='utf-8', newline='') as f:
 kits = data['kits']
 kit = [k for k in kits if k['slug'] == 'kit-apagon'][0]
 
-TAG = '&tag=nti0c8-21'
+TAG = '&tag=ntizar-21'
 S = 'https://www.amazon.es/s?k='
 PRE = 'https://www.amazon.es/s?k='
 

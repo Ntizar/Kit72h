@@ -52,7 +52,7 @@ la que se creó cada una.
 
 - `index.html`, `css/` y `js/` solo se tocan en rediseño; el resto es contenido.
 - Enlaces internos con **URL real** (`/kit/kit-apagon/`, `/blog/otra-entrada/`). Nunca `#hash`.
-- Todo enlace de Amazon lleva `tag=nti0c8-21` y `rel="sponsored nofollow noopener"`.
+- Todo enlace de Amazon lleva `tag=ntizar-21` y `rel="sponsored nofollow noopener"`.
 - **Privacidad**: ni nombres personales ni rutas personales en NINGÚN fichero del repo. Se comprueba con el veto local antes de cada commit: `git grep -f .veto-privacidad -E` (los términos viven en `.veto-privacidad`, fuera del repo).
 - Nada de secretos fuera de `.env`; los workflows usan `${{ secrets.* }}`.
 - Commits y mensajes en español.

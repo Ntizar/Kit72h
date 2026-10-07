@@ -223,7 +223,7 @@ def generate_blog_index(new_data, css_version):
     html_parts.append('</head><body>')
     # Header igual que la home
     html_parts.append('<div class="ubar"><div class="container"><span><span class="punto">\u25cf</span> PREPARACI\u00d3N CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPA\u00d1A</span></div></div>')
-    html_parts.append('<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit \u2192</a></nav></div></header>')
+    html_parts.append('<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit \u2192</a></nav></div></header>')
     html_parts.append('<main class="container">')
     html_parts.append('  <section class="sec oscura">')
     html_parts.append('    <div class="container">')

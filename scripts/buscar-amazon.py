@@ -35,7 +35,7 @@ D_KITS = RAIZ / "data" / "kits.json"
 D_PROP = RAIZ / "data" / "propuestas-fichas.json"
 D_XLSX = RAIZ / "data" / "productos-pendientes.xlsx"
 D_LOG = RAIZ / "data" / "buscador-log.json"
-TAG = "nti0c8-21"
+TAG = "ntizar-21"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126 Safari/537.36")
 

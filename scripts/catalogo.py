@@ -32,7 +32,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parents[1]
 KITS = RAIZ / "data" / "kits.json"
 CATALOGO = RAIZ / "data" / "catalogo.json"
-TAG = "nti0c8-21"
+TAG = "ntizar-21"
 RX_ASIN = re.compile(r"(?:/dp/|/gp/product/)([A-Z0-9]{10})")
 NO_COMPRABLE = re.compile(
     r"efectivo|paracetamol|ibuprofeno|renueva el agua|recarga gratis|fotocopias|"

@@ -1,6 +1,6 @@
 /* Kit72h — ui: render de vistas tácticas (datos en data/kits.json y data/blog.json) */
 const ui = {
-  tag: 'nti0c8-21',
+  tag: 'ntizar-21',
 
   marquee(txt) {
     const span = `<span>${txt}</span>`;

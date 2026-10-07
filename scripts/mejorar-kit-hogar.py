@@ -13,7 +13,7 @@ for k in kits["kits"]:
         break
 assert kit is not None, "kit-hogar no encontrado"
 
-BUSQ = "https://www.amazon.es/s?k=%s&tag=nti0c8-21"
+BUSQ = "https://www.amazon.es/s?k=%s&tag=ntizar-21"
 
 # --- 1. Nuevos productos en "Cocina sin electricidad" ---
 cocina = [s for s in kit["secciones"] if s["titulo"] == "Cocina sin electricidad"][0]

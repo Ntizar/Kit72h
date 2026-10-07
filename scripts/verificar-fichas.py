@@ -48,7 +48,7 @@ DB = RAIZ / "data" / "fichas.db"
 ESTADO_WEB = RAIZ / "data" / "estado.json"
 JAR = RAIZ / "data" / "_cookies_amz.txt"
 TMP = RAIZ / "data" / "_tmp_ficha.html"
-TAG = "nti0c8-21"
+TAG = "ntizar-21"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
 RX_ASIN = re.compile(r"/dp/([A-Z0-9]{10})")

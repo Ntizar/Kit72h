@@ -58,7 +58,7 @@ if D_NUEVOS.exists():
 # Un item con afiliado=null se beneficia ya de un enlace de búsqueda con el tag
 # de afiliado: dirige a resultados reales de amazon.es y el cron buscador lo
 # sustituirá por la ficha concreta cuando esté verificada.
-TAG = "nti0c8-21"
+TAG = "ntizar-21"
 from urllib.parse import quote_plus
 import re as _re
 

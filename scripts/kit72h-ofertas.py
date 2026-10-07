@@ -178,7 +178,7 @@ def _insertar_pin_ofertas(ofertas):
                   <span class="precio-anterior">{o['precio_anterior']:.2f}€</span>
                   <span class="precio-actual">{o['precio_actual']:.2f}€</span>
                 </div>
-                <a class="btn ambar" href="https://www.amazon.es/dp/{o['asin']}?tag=nti0c8-21" target="_blank" rel="sponsored nofollow noopener">Ver oferta en Amazon ↗</a>
+                <a class="btn ambar" href="https://www.amazon.es/dp/{o['asin']}?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver oferta en Amazon ↗</a>
               </div>"""
             for o in ofertas[:3]  # Máximo 3 ofertas visibles
         ),

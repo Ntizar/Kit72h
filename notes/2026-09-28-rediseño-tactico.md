@@ -3,7 +3,7 @@
 ## Qué se hizo
 - Rediseño completo "táctico" (Anton + IBM Plex Mono, negro #0E0C09 / crema #F1EBDF, acentos #D14B27/#EFA02B/#A9D6E5, radius 0, bordes 2px, sin sombras): hero con atardecer flat (clip-path), tickers, plan 00:00→72H, watermarks. Commit 94bc0ce, deploy verde.
 - Footer sin "Hecho con ❤️" (eliminado .attribution).
-- Checklist marcable con barra de progreso (% sobre los esenciales con ASIN) y botón **cesta Amazon en 1 clic**: `https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=...&Quantity.1=1&...&tag=nti0c8-21` — un ASIN por línea, sin repetir; abre en pestaña nueva.
+- Checklist marcable con barra de progreso (% sobre los esenciales con ASIN) y botón **cesta Amazon en 1 clic**: `https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=...&Quantity.1=1&...&tag=ntizar-21` — un ASIN por línea, sin repetir; abre en pestaña nueva.
 - kit72h.com responde 200 end-to-end (CF proxied → GitHub Pages, SSL Full, edge LE). Enforce HTTPS activado por API.
 
 ## Lecciones (para no repetir)

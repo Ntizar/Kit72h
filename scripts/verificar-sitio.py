@@ -44,7 +44,7 @@ import sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
-TAG = "nti0c8-21"
+TAG = "ntizar-21"
 
 # Rutas publicables (espejo de .github/workflows/pages.yml, paso allowlist).
 PUBLICADAS = ["index.html"]
