@@ -236,6 +236,20 @@ const ui = {
         </div>
       </section>
       ${blogFeatured ? `
+      <section class="sec clara" id="faq">
+        <div class="container">
+          <div class="sec-inner">
+            <span class="label">DUDAS FRECUENTES</span>
+            <h2>Preguntas frecuentes</h2>
+            <div class="faq-lista">
+              <details class="faq-item"><summary>¿Qué es un kit de emergencia de 72 horas?</summary><p>Es el conjunto de suministros (agua, comida no perecedera, luz, radio, botiquín y documentación) para que un hogar sea autónomo 72 horas ante un apagón, DANA o catástrofe. La Estrategia de Preparación de la Unión Europea de marzo de 2025 recomienda que todos los hogares tengan provisiones para 72 horas. En Kit72h tienes la lista completa basada en fuentes oficiales.</p></details>
+              <details class="faq-item"><summary>¿Cuánta agua debo almacenar para una emergencia?</summary><p>3 litros por persona y día solo para beber, más 2-4 litros adicionales para higiene básica. Para 72 horas, una familia de 4 personas necesita unos 36 litros de agua potable. El agua debe renovarse cada 6 meses y guardarse lejos del sol y de productos de limpieza.</p></details>
+              <details class="faq-item"><summary>¿Qué es obligatorio llevar en el coche en España en 2026?</summary><p>Desde el 1 de enero de 2026, la baliza V-16 conectada homologada por la DGT es el único medio legal de señalizar una parada en vía, sustituyendo a los triángulos. Además son obligatorios el chaleco reflectante dentro del habitáculo y la documentación del vehículo.</p></details>
+              <details class="faq-item"><summary>¿Qué hacer en los primeros 30 minutos de un apagón?</summary><p>No llamar al 112 salvo emergencia real (usa mensajes), encender una radio a pilas o de dinamo para informarte de fuentes oficiales, desconectar electrodomésticos sensibles al retorno de la luz, usar linterna en lugar de velas y racionar la batería del móvil en modo avión.</p></details>
+            </div>
+          </div>
+        </div>
+      </section>
       <section class="sec clara" id="lecturas">
         <div class="container">
           <div class="watermark" aria-hidden="true">BLOG</div>
