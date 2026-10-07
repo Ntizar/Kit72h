@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-05",
-    "total": 63,
-    "png_total": 63
+    "ultima_generacion": "2026-10-07",
+    "total": 64,
+    "png_total": 64
   },
   "pins": [
     {
@@ -571,6 +571,15 @@
       "emoji": "📖",
       "pin": "pin-blog-agua-cuanta-y-como.html",
       "png": "png/pin-blog-agua-cuanta-y-como.png"
+    },
+    {
+      "slug": "pin-kit-kit-electricidad",
+      "tipo": "kit",
+      "titulo": "Kit Electricidad: energía sin red cuando se va la luz (2026)",
+      "url": "https://kit72h.com/kit/kit-electricidad/",
+      "emoji": "📋",
+      "pin": "pin-kit-kit-electricidad.html",
+      "png": "png/pin-kit-kit-electricidad.png"
     }
   ]
 }
