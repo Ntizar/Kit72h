@@ -395,6 +395,10 @@ def validar_privacidad(raiz: Path) -> None:
         m = rx.search(h)
         if m:
             err(f"{p.relative_to(raiz).as_posix()}: término vetado '{m.group()}'")
+        # Compliance Amazon Afiliados: toda página con enlaces Amazon exige disclosure visible.
+        if "amazon.es" in h and "tag=" in h and 'id="disclosure"' not in h:
+            err(f"{p.relative_to(raiz).as_posix()}: enlaces Amazon sin disclosure "
+                f"(política Afiliados — añadir <p id=\"disclosure\">)</p>")
 
 
 # ─────────────────────────────── main ───────────────────────────────
