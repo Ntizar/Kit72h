@@ -108,3 +108,11 @@ hermes cron list   # estado de todos los jobs
 ---
 
 Hecho con ❤️ por David Antizar
+
+---
+
+## ⚠️ Migración de ID de afiliado (2026-10-07)
+
+El ID de afiliado Amazon pasó de `nti0c8-21` a **`ntizar-21`** (nuevo alta aprobado con kit72h.com). Migración completa en repo: 1.161 enlaces en 87 ficheros + `TAG` en 6 scripts + `tag:` en `js/ui.js` (commit `763f3be`).
+
+**Pendiente en el PC**: hacer `git pull` del repo en el clon local para que los crons que ejecutan `scripts/*.py` (buscador, seo-audit, pins...) usen el tag nuevo. Los crons LLM (comparador, editor, ofertas, seo-ctr, vigilante) revisar en `jobs.json` que sus prompts no tengan `nti0c8-21` hardcodeado — si lo tienen, sustituirlo por `ntizar-21`.
