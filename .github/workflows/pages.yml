@@ -45,7 +45,7 @@ jobs:
       - name: Preparar el sitio con allowlist
         run: |
           mkdir -p /tmp/_site/data
-          cp index.html CNAME _headers robots.txt sitemap.xml feed.xml llms.txt llms-full.txt /tmp/_site/
+          cp index.html CNAME _headers robots.txt sitemap.xml feed.xml llms.txt llms-full.txt ccf78247a738a3e8795574e50bc2d87e.txt /tmp/_site/
           cp -r css js kit blog fuentes zona privacidad /tmp/_site/
           cp data/*.json /tmp/_site/data/
 
