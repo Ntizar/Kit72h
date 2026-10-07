@@ -235,21 +235,29 @@ const ui = {
           </div>
         </div>
       </section>
-      ${blogFeatured ? `
       <section class="sec clara" id="faq">
-        <div class="container">
-          <div class="sec-inner">
-            <span class="label">DUDAS FRECUENTES</span>
-            <h2>Preguntas frecuentes</h2>
-            <div class="faq-lista">
-              <details class="faq-item"><summary>¿Qué es un kit de emergencia de 72 horas?</summary><p>Es el conjunto de suministros (agua, comida no perecedera, luz, radio, botiquín y documentación) para que un hogar sea autónomo 72 horas ante un apagón, DANA o catástrofe. La Estrategia de Preparación de la Unión Europea de marzo de 2025 recomienda que todos los hogares tengan provisiones para 72 horas. En Kit72h tienes la lista completa basada en fuentes oficiales.</p></details>
-              <details class="faq-item"><summary>¿Cuánta agua debo almacenar para una emergencia?</summary><p>3 litros por persona y día solo para beber, más 2-4 litros adicionales para higiene básica. Para 72 horas, una familia de 4 personas necesita unos 36 litros de agua potable. El agua debe renovarse cada 6 meses y guardarse lejos del sol y de productos de limpieza.</p></details>
-              <details class="faq-item"><summary>¿Qué es obligatorio llevar en el coche en España en 2026?</summary><p>Desde el 1 de enero de 2026, la baliza V-16 conectada homologada por la DGT es el único medio legal de señalizar una parada en vía, sustituyendo a los triángulos. Además son obligatorios el chaleco reflectante dentro del habitáculo y la documentación del vehículo.</p></details>
-              <details class="faq-item"><summary>¿Qué hacer en los primeros 30 minutos de un apagón?</summary><p>No llamar al 112 salvo emergencia real (usa mensajes), encender una radio a pilas o de dinamo para informarte de fuentes oficiales, desconectar electrodomésticos sensibles al retorno de la luz, usar linterna en lugar de velas y racionar la batería del móvil en modo avión.</p></details>
-            </div>
-          </div>
-        </div>
-      </section>
+  <div class="container">
+    <div class="sec-inner">
+      <span class="label">DUDAS FRECUENTES</span>
+      <h2>Preguntas frecuentes</h2>
+      <div class="faq-lista">
+        <details class="faq-item"><summary>¿Qué es un kit de emergencia de 72 horas?</summary><p>Es el conjunto de suministros (agua, comida no perecedera, luz, radio, botiquín y documentación) para que un hogar sea autónomo 72 horas ante un apagón, DANA o catástrofe. La Estrategia de Preparación de la Unión Europea de marzo de 2025 recomienda que todos los hogares tengan provisiones para 72 horas. <a href="/kit/kit-basico-72h/">En Kit72h tienes la lista completa basada en fuentes oficiales, lista para llevar a la cesta →</a></p></details>
+        <details class="faq-item"><summary>¿Por dónde empiezo si no tengo nada?</summary><p>Por lo esencial: agua, luz, radio y botiquín. El <a href="/kit/kit-basico-72h/">kit básico 72h</a> reúne lo mínimo verificado y lo lleva todo a la cesta de Amazon en un clic. Si el escenario que te preocupa es un corte eléctrico largo, añade el <a href="/kit/kit-apagon/">kit de apagón</a>.</p></details>
+        <details class="faq-item"><summary>¿Cuánta agua debo almacenar para una emergencia?</summary><p>3 litros por persona y día solo para beber, más 2-4 litros adicionales para higiene básica. Para 72 horas, una familia de 4 personas necesita unos 36 litros de agua potable. El agua debe renovarse cada 6 meses y guardarse lejos del sol y de productos de limpieza. <a href="/kit/kit-basico-72h/">Garrafas, conservación y filtros: todo en el kit básico →</a></p></details>
+        <details class="faq-item"><summary>¿Qué es obligatorio llevar en el coche en España en 2026?</summary><p>Desde el 1 de enero de 2026, la baliza V-16 conectada homologada por la DGT es el único medio legal de señalizar una parada en vía, sustituyendo a los triángulos. Además son obligatorios el chaleco reflectante dentro del habitáculo y la documentación del vehículo. <a href="/kit/kit-coche/">El kit de coche lleva la V-16 homologada y lo que falta por ley →</a></p></details>
+        <details class="faq-item"><summary>¿Qué hacer en los primeros 30 minutos de un apagón?</summary><p>No llamar al 112 salvo emergencia real (usa mensajes), encender una radio a pilas o de dinamo para informarte de fuentes oficiales, desconectar electrodomésticos sensibles al retorno de la luz, usar linterna en lugar de velas y racionar la batería del móvil en modo avión. Si el corte va para largo: <a href="/kit/kit-apagon/">kit de apagón</a> y <a href="/kit/kit-electricidad/">kit de electricidad</a>.</p></details>
+        <details class="faq-item"><summary>¿Qué comida vale para 72 horas sin nevera?</summary><p>La no perecedera: latas, frascos, barritas, frutos secos y liofilizados, con menús pensados para 3 días sin cocinar o con cocina alternativa. <a href="/kit/kit-30-dias/">El kit de 30 días amplía la despensa si quieres margen extra →</a></p></details>
+        <details class="faq-item"><summary>¿Cuánto cuesta montar un kit 72h?</summary><p>Menos de lo que parece: un kit básico decente ronda los 60-120 € por persona, y el profesional completo (energía y conexión satelital) va de 2.000 a 5.000 €. Cada ficha muestra el precio aproximado de cada producto, sin sorpresas. <a href="/kit/kit-basico-72h/">Empieza por el básico →</a></p></details>
+      </div>
+      <div class="faq-compra">
+        <div class="faq-compra-txt"><strong>¿Dudas resueltas?</strong> El mejor kit es el que ya está montado.</div>
+        <a class="btn negro" href="/kit/kit-basico-72h/">Empieza por el kit básico →</a>
+      </div>
+    </div>
+  </div>
+</section>
+      ${blogFeatured ? `
+      
       <section class="sec clara" id="lecturas">
         <div class="container">
           <div class="watermark" aria-hidden="true">BLOG</div>

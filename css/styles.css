@@ -1329,3 +1329,7 @@ a.card-kit{color:inherit;text-decoration:none}
 .faq-item[open] summary::after{content:"\2013"}
 .faq-item[open] summary{border-bottom:1px solid rgba(20,17,13,.15)}
 .faq-item p{padding:12px 18px 16px;color:#3A342C;line-height:1.7;font-size:15px}
+
+.faq-item p a{color:var(--rojo-txt);font-weight:600;text-decoration:underline;text-underline-offset:3px}
+.faq-compra{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:22px;padding:16px 20px;border:2px solid var(--negro);border-radius:12px;background:rgba(255,255,255,.55)}
+.faq-compra-txt strong{color:var(--rojo-txt)}

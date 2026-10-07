@@ -64,7 +64,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
 </head>
 <body>
 <div class="ubar"><div class="container"><span><span class="punto">●</span> PREPARACIÓN CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPAÑA</span></div></div>
-<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit ↗</a></nav></div></header>
+<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a href="/#faq">FAQ</a><a href="/fuentes/">Fuentes</a><a href="/zona/">Tu zona</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit ↗</a></nav></div></header>
 <main class="container">
   <section class="sec oscura">
     <div class="container">
