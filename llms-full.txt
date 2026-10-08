@@ -502,6 +502,116 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor estufa sin luz: 5 tipos comparados para sobrevivir a un apagón de invierno — https://kit72h.com/blog/mejor-estufa-sin-luz-apagon/
+Butano, pellets o eléctrica: qué estufa funciona cuando se va la luz, cuánto cuesta cada hora y por qué la eléctrica no sirve en un apagón.
+En abril el apagón duró unas horas con dieciocho grados. En enero, el mismo corte a las tres de la mañana es otro asunto: sin calefacción una vivienda pierde grados en pocas horas, y el Plan Nacional de actuaciones preventivas por bajas temperaturas del Ministerio de Sanidad lo dice sin rodeos: el frío no solo provoca hipotermia, también «favorece los accidentes de tráfico y las caídas por placas de hielo, o los incendios e intoxicaciones por monóxido de carbono a partir de estufas de gas, braseros, etc.». Esa frase resume este artículo: elegir la mejor estufa para cuando se va la luz es cuestión de no convertir la sala de estar en un problema médico.
+
+
+ Comparo los cinco tipos que se compran en España —butano, pellets, eléctrica, catalítica y la opción sin estufa— con su coste por hora y con lo que necesitan para funcionar cuando la red está caída.
+
+
+ Cuánto calor necesitas (y por qué calentar la casa entera es una trampa)
+
+
+ Una estufa de 4.000 W no calienta un piso: calienta su habitación. La estrategia de un apagón es reducir el volumen —habitación pequeña, puerta cerrada, gente junta—. Regla orientativa para una estancia cerrada de 15-20 m²:
+
+
+ 
+ Bien aislada (paredes gruesas, ventana doble): bastan 700-1.000 W .
+
+ Mal aislada o con techos altos : pide 1.500-2.000 W .
+
+ Por encima de 2.500-3.000 W en 15 m² es dinero quemado y más riesgo.
+
+ 
+
+ Y una idea que pesa más que los vatios: la calefacción no sustituye a la ropa . Funciona ropa por capas + comida caliente + estufa baja; el desglose está en vestirse por capas en una emergencia y el plan de noche en cómo mantener la temperatura corporal sin electricidad .
+
+
+ Comparativa: los cinco tipos de estufa sin luz
+
+
+ 
+ Tipo Potencia / consumo Coste orientativo por hora ¿Funciona sin red? 
+ 
+ 
+ Estufa de butano con corte por falta de oxígeno 4.200 W · bombona de 12,5 kg ≈ 30-40 h 0,40-0,50 € Sí ✅ 
+
+ Estufa de pellets 6-8 kW · 1,2-1,6 kg de pellets/h 0,70-0,95 € Sí, pero necesita enchufe para agitador y ventilador 
+
+ Calefactor eléctrico (convector o split) 2.000 W · 0,15-0,18 €/kWh 0,30-0,36 € No ❌ (solo con luz o generador) 
+
+ Estufa catalítica de butano (sin llama) 2.400-3.000 W · bombona más pequeña 0,30-0,45 € Sí ✅ 
+
+ Sin estufa: capas + peto eléctrico + manta de supervivencia 0 W de consumo 0 € Siempre ✅ 
+
+ 
+ 
+
+ Precios orientativos para España: bombona de 12,5 kg a 15-18 €, pellet de palé a 0,45-0,60 €/kg y luz a 0,15-0,18 €/kWh. Sirven para comparar, no para firmar un contrato.
+
+
+ Ganador por categoría
+
+
+ 
+ Mejor para un apagón real: la estufa de butano con corte de oxígeno. No depende de nadie, calienta en minutos y una bombona aguanta varias noches: 4.200 W con corte automático por falta de oxígeno (unos 84 €). El corte evita que la estufa se apague y siga quemando en una habitación cerrada.
+
+ Mejor para una casa entera: pellets , si ya tienes la estufa y el palé. Calienta una planta entera y sale barato por hora, pero casi todas necesitan enchufe para el agitador, el ventilador y el encendido: sin luz, no arrancan.
+
+ Mejor combo cocina + calor: el hornillo de butano portátil (20-45 €). No es una estufa, pero calienta agua y comida sin encender la cocina de casa: en tres días de corte amortiza su precio con la primera olla.
+
+ Mejor presupuesto: la opción sin estufa. Una manta térmica de supervivencia (3-8 €), un peto eléctrico reutilizable cuando vuelva la luz y un saco de abrigo aguantan la noche: menos que una bombona, y no puede fallar.
+
+ 
+
+ ¿Y la estufa catalítica ? Es la versión más limpia del butano: quema sin llama visible y da un calor más suave, más agradable en una habitación pequeña. Vale la pena si quien pasa el día allí es una persona mayor o un niño; para un kit económico, el dinero está mejor en butano y detector de CO.
+
+
+ El error grave: comprar una estufa eléctrica para el apagón
+
+
+ Es el fallo más común: un convector de 2.000 W es barato, silencioso y no genera monóxido, por eso se vende tanto. El problema es que en un apagón no hay tensión y la estufa eléctrica se vuelve mueble. Para que funcione haría falta un generador de 1.500-2.000 W; lo que aguantan de verdad las baterías está en mejor powerbank para el apagón y en generador solar de emergencia .
+
+
+ Dato del contexto español: según el Panel de Hogares de la CNMC , el 43,2 % de los hogares tiene contratada una potencia de entre 4 y 6 kW y gastó una media de 47,8 € al mes en electricidad. Con dos convector de 2.000 W enchufados ya estás en el límite de esa potencia; en un corte eso no es un problema de factura: es que no hay corriente que consumir.
+
+
+ Monóxido de carbono: las cuatro reglas que salvan la noche
+
+
+ El CO no huele, no pica y no avisa: los síntomas iniciales (dolor de cabeza, mareo, náuseas) se confunden con un resfriado, y los casos se concentran de octubre a marzo , justo cuando se encienden las estufas. Las recomendaciones oficiales son idénticas en todas las administraciones:
+
+
+ 
+ Ventilar dos veces al día, 15 minutos cada vez , aunque haga frío. Es la indicación literal del Plan de frío del Ministerio de Sanidad.
+
+ Apagar las estufas eléctricas y de gas durante la noche. También del Plan de frío: dormir con la estufa encendida es la decisión que más se lamenta.
+
+ No usar hornillos de camping, barbacoas, braseros ni el horno de la cocina dentro de la vivienda, y no tapar las rejillas de ventilación. Es la recomendación de los servicios 112 y de Protección Civil.
+
+ Detector de monóxido a pilas en la pared , a un metro de la cama y lejos del techo. Cuesta entre 15 y 35 €: ver detectores de CO . Ninguna estufa de este artículo está completa sin él.
+
+ 
+
+ Checklist antes del primer frío
+
+
+ 
+ Estufa de butano con corte de oxígeno y dos bombonas de repuesto : la segunda se acaba siempre la primera noche.
+
+ Detector de CO con pilas nuevas y fecha de sustitución anotada.
+
+ Cinta y plástico para sellar ventanas : una habitación mal sellada pide el doble de potencia.
+
+ Mantas, saco de abrigo y ropa térmica; encendedores y cerillas largas fuera del alcance de los niños.
+
+ Comida y agua que no necesiten fuego: menús de tres días sin cocina .
+
+ 
+
+ Si el corte se alarga, la estufa es solo una pieza: la lista completa está en el kit de frío e invierno y en el kit apagón .
+
 ### Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas (2026) — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
 Cuánta capacidad de verdad necesitas en un apagón: 4 cargas por 20.000 mAh reales, 4 modelos comparados y los errores que vacían la batería del kit.
 El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil al 2%. La mayoría lo resolvió con el powerbank que tenía cargado en un cajón. Pero si la luz se va varios días, ese cajón se acaba: en 24-48 horas tu móvil pasa a ser un peso de cristal, y con él la radio por streaming, el mapa, el WhatsApp de la familia y la linterna del teléfono. Esta es la guía para elegir el powerbank de emergencia que de verdad te sostiene 72 horas — con la capacidad real que necesitas, la cifra honesta que las marcas esconden (los mAh) y cuatro modelos comparados.
@@ -586,102 +696,49 @@ El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil a
 
  Un powerbank de 20.000 mAh con USB-C y doble salida es el estándar del kit 72h: 4 cargas de móvil, 74 Wh (vuela sin papeleo) y 25-50 € bien gastados. Si tienes pareja o hijos, añade un segundo de 10.000-20.000 mAh — la redundancia barata que convierte un susto en un detalle. Y recuerda la única regla que importa: sale del cajón cargado al 100% y se rota cada 3-6 meses . La lista completa del kit, con la energía ya resuelta, está en el kit básico de 72 horas .
 
-### Alimentos para emergencias: rotación sin desperdicio (2026) — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
-Alimentos para emergencias: rotación sin desperdicio
-El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
+### La mejor radio de emergencia con manivela y panel solar (2026) — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
+La mejor radio de emergencia con manivela y panel solar
+Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
 
 
- La regla de oro: compra para comer, no para guardar
+ ¿Por qué una radio de manivela?
 
- El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
+ Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
 
 
- Alimentos no perecederos esenciales (lista)
+ Cualidades no negociables
 
  
- Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
+ FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
 
- Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
+ Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
 
- Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
+ USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
 
- Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
+ LED de linterna : Una radio sin linterna integrada es una radio incompleta.
 
- Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
-
- Miel : No caduca nunca. Energía rápida, antibacteriano natural.
-
- Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
-
- Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
-
- Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
-
- Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
+ USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
 
  
 
- Método de rotación: "primero entra, primero sale"
+ Las mejores opciones para un kit 72h
 
- Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
+ Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
+
+
+ RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
+
+ Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
+
+
+ RADIO DE EMERGENCIA CON MANIVELA
+
+ Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
 
 
  El veredicto
 
- No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
-
-### El botiquín de emergencia para todo hogar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
-El botiquín de emergencia para todo hogar
-La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
-
-
- El botiquín base: 15 objetos no negociables
-
- 
- Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
-
- Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
-
- Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
-
- Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
-
- Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
-
- Pinzas : Para sacar astillas o escombros de una herida.
-
- Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
-
- Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
-
- Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
-
- Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
-
- Antitermos (paracetamol infantil) : Si hay niños en casa.
-
- Guantes de nitrilo (par) : Para protegerte al atender a alguien.
-
- Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
-
- Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
-
- Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
-
- 
-
- Adaptaciones por situación
-
- Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
-
- Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
-
- Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
-
-
- El veredicto
-
- Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
+ La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
 
 ### Las 7 mejores linternas para un kit de emergencia 72h (2026) — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
 Las 7 mejores linternas para un kit de emergencia 72h
@@ -762,96 +819,400 @@ Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linter
 
  Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
 
-### La mejor radio de emergencia con manivela y panel solar (2026) — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
-La mejor radio de emergencia con manivela y panel solar
-Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
+### El botiquín de emergencia para todo hogar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
+El botiquín de emergencia para todo hogar
+La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
 
 
- ¿Por qué una radio de manivela?
-
- Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
-
-
- Cualidades no negociables
+ El botiquín base: 15 objetos no negociables
 
  
- FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
+ Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
 
- Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
+ Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
 
- USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
+ Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
 
- LED de linterna : Una radio sin linterna integrada es una radio incompleta.
+ Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
 
- USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
+ Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
+
+ Pinzas : Para sacar astillas o escombros de una herida.
+
+ Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
+
+ Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
+
+ Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
+
+ Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
+
+ Antitermos (paracetamol infantil) : Si hay niños en casa.
+
+ Guantes de nitrilo (par) : Para protegerte al atender a alguien.
+
+ Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
+
+ Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
+
+ Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
 
  
 
- Las mejores opciones para un kit 72h
+ Adaptaciones por situación
 
- Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
+ Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
 
+ Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
 
- RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
-
- Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
-
-
- RADIO DE EMERGENCIA CON MANIVELA
-
- Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
+ Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
 
 
  El veredicto
 
- La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
+ Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
 
-### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
-Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
-Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
+### Alimentos para emergencias: rotación sin desperdicio (2026) — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
+Alimentos para emergencias: rotación sin desperdicio
+El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
 
 
- ¿Cuándo necesitas una antena externa?
+ La regla de oro: compra para comer, no para guardar
 
- 
- Tu móvil muestra 1-2 barras de señal constantemente
+ El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
 
- Las llamadas caen frecuentemente
 
- La internet móvil es lenta o no funciona
-
- Vives en una zona de montaña o valle profundo
+ Alimentos no perecederos esenciales (lista)
 
  
+ Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
 
- Qué tipo de antena necesitas
+ Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
 
- Antena GSM/4G exterior
+ Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
 
- Es la que necesitas para mejorar la señal de tu móvil. Se instala fuera (ventana, pared, tejado) y conecta al móvil vía cable coaxial.
+ Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
+
+ Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
+
+ Miel : No caduca nunca. Energía rápida, antibacteriano natural.
+
+ Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
+
+ Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
+
+ Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
+
+ Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
+
+ 
+
+ Método de rotación: "primero entra, primero sale"
+
+ Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
 
 
- Amplificador de señal (repetidor)
+ El veredicto
 
- Si la antena por sí sola no basta, un amplificador (como los de weBoost o Poynting) multiplica la señal. Son más caros (200-500€) pero efectivos.
+ No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
 
+### Starlink en emergencias de 72h: conectividad cuando todo falla (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
+Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
+Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a zona rural sin cobertura. Móvil sin señal, WiFi muerto, radio insuficiente. Aquí entra Starlink.
+
+
+ ¿Qué es Starlink?
+
+ Constelación de satélites de SpaceX que ofrece internet de banda ancha desde cualquier punto del planeta con visibilidad del cielo. No necesita infraestructura terrestre: solo terminal + energía.
+
+
+ Ventajas para emergencias:
+
+ 
+ Funciona donde no hay cobertura móvil
+
+ Resistente a daños en infraestructura
+
+ 50-200 Mbps reales
+
+ Instalación en 5 minutos
+
+ 
+
+ Coste:
+
+ Terminal: 400-600€. Cuota mensual: ~50-60€/mes. Consumo: 50-100W (5-10W standby).
+
+
+ Alternativas:
+
+ 
+ Radio de emergencia (manivela/solar) → información oficial
+
+ Módem 4G/5G portátil → si hay cobertura
+
+ Redes mesh comunitarias → conocimiento avanzado
+
+ 
+
+ Nota: Starlink en España está limitado a zonas rurales seleccionadas. Verifica cobertura antes de comprar.
+
+### Panel solar portátil para emergencias: energía cuando no hay red (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
+Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
+Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.
+
+
+ ¿Qué es un panel solar portátil?
+
+ Un panel solar plegable (100-400W) que se conecta a una batería externa para cargar tus dispositivos: móvil, portátil, radio, iluminación LED.
+
+
+ Los mejores paneles para emergencias
+
+
+ 1. Bluetti PV200
+
+ 200W, eficiente (23%), resistente al agua. Ideal para mochila de emergencia. 200-300€.
+
+
+ 2. EcoFlow 110W Solar Panel
+
+ 110W, plegable, ligero. Ideal para complementar tu powerstation. 150-200€.
+
+
+ 3. Jackery SolarSaga 100W
+
+ 100W, plegable, resistente. Compatible con la mayoría de powerstations. 150-200€.
+
+
+ ¿Cuánta energía produce?
+
+ Un panel de 100W produce ~400-500Wh al día en condiciones ideales (6-8h de sol directo). En invierno y nuboso, ~200-300Wh.
+
+
+ Conclusión
+
+ Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.
+
+### Nevera portátil para emergencias de 72h: conserva comida sin electricidad (2026) — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
+Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
+Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y empiezas a tener hambre. Una nevera portátil te mantiene la comida fresca sin electricidad.
+
+
+ ¿Qué es una nevera portátil?
+
+ Una nevera portátil es un dispositivo que puede funcionar con 12V (coche) o 220V (enchufe), ideal para emergencias donde no hay luz pero sí energía de otros fuentes (powerstation, solar, coche).
+
+
+ Tipos de neveras portátiles
+
+ 
+ Compresión : Como una nevera normal, más cara (200-500€) pero eficiente
+
+ Termoeléctrica : Más barata (50-150€) pero menos eficiente
+
+ Absorción : Funciona con gas o 12V, ideal para camping pero menos común
+
+ 
+
+ Las mejores para emergencias
+
+
+ 1. Dometic CFX3 50
+
+ La mejor del mercado: -20°C a +20°C, 50L, eficiente, silenciosa. 500-700€.
+
+
+ 2. Whynter ARC-14S
+
+ Mejor relación calidad-precio: -20°C a +20°C, 3.2ft³, eficiente. 300-400€.
+
+
+ 3. ICECO VL60
+
+ Alternativa económica: -20°C a +20°C, 60L, eficiente. 200-300€.
+
+
+ ¿Cuánta energía consume?
+
+ Una nevera de compresión consume ~50-100W/h. Con una powerstation de 500Wh, puedes mantenerla funcionando ~5-10 horas. Con 1000Wh, ~10-20 horas.
+
+
+ Conclusión
+
+ Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).
+
+### Las mejores SIM de datos de emergencia: cobertura cuando todo falla (2026) — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
+Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
+Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero no todas las operadoras son iguales.
+
+
+ El problema
+
+ Las torres de telefonía necesitan electricidad. Las que tienen batería de emergencia (3-8h) sobreviven primero. Si la torre se daña físicamente (árboles, inundaciones), necesitas cobertura de otra operadora.
+
+
+ Las mejores operadoras para emergencias
+
+
+ 1. Vodafone
+
+ Mejor cobertura rural en España. Ideal para emergencias.
+
+
+ 2. Orange
+
+ Buena cobertura en norte y este. Comparte infraestructura con Movistar.
+
+
+ 3. Movistar
+
+ Más infraestructura en total, pero no siempre la mejor en zonas remotas.
+
+
+ 4. Operadoras virtuales (Lebara, O2, MásMóvil)
+
+ Usan la red de Movistar. Menos inversión en infraestructura propia.
+
+
+ Preparación
+
+ 
+ Tener SIM de al menos 2 operadoras
+
+ Planes con datos ilimitados o grandes bolsas
+
+ Router 4G/5G portátil con batería
+
+ Antena externa si vives en zona de mala cobertura
+
+ 
+
+ Conclusión
+
+ Una SIM de Vodafone (o cualquier operadora con buena cobertura rural) es un seguro contra el aislamiento. 10-20€/mes y puedes estar comunicado durante una emergencia.
+
+### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan (2026) — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
+Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
+El móvil no es la mejor herramienta para tener internet durante días. Un router 4G/5G portátil con batería integrada es mucho más práctico.
+
+
+ ¿Por qué un router y no el móvil?
+
+ 
+ Batería de 8-12h (vs 2-4h del móvil)
+
+ Antena externa opcional (mejor señal)
+
+ Conecta varios dispositivos a la vez
+
+ No gasta la batería de tu móvil (que necesitas para llamadas)
+
+ 
+
+ Los mejores routers 4G para emergencias
+
+
+ 1. Huawei B535
+
+ Router 4G fijo con bateria de respaldo. Ideal si tienes energía eléctrica pero no WiFi.
+
+
+ 2. ZTE MF286
+
+ Mini router 4G portátil con batería. Perfecto para mochila de emergencia.
+
+
+ 3. Peplink MAXRU 4G
+
+ Router profesional 4G con backup de antena externa. Para emergencias prolongadas.
+
+
+ Instalación
+
+ 
+ Introduces la SIM de datos
+
+ Lo enciendes (se conecta automáticamente)
+
+ Te conectas por WiFi
+
+ Listo
+
+ 
+
+ Conclusión
+
+ Un router 4G de emergencia cuesta 50-200€ y es mucho más práctico que depender del móvil para internet durante una emergencia prolongada.
+
+### Generador solar para emergencias de 72h: autonomía cuando se va la luz (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
+Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
+Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.
+
+
+ ¿Qué es un generador solar?
+
+ Son paneles solares plegables (100-400W) que cargan una batería externa (powerstation) para alimentar tus dispositivos: móvil, portátil, radio, iluminación LED y hasta pequeños electrodomésticos.
+
+
+ ¿Por qué solar y no gasolina?
+
+ 
+ Silencioso : 0dB (vs 70dB de gasolina)
+
+ Sin humos : No contamina, ideal para interiores
+
+ Sin combustible : Solo necesitas sol (o nuboso)
+
+ Puede dejarse conectado : Carga y descargra continuamente
+
+ 
+
+ Los mejores para tu kit 72h
+
+
+ 1. Bluetti AC200MAX + Solar 200W
+
+ La solución profesional: 2000Wh de batería + 200W de paneles. Carga tu portátil 15 veces, móvil 40 veces, nevera portátil 8 horas. 2000-3000€.
+
+
+ 2. EcoFlow River 2 Pro + Solar 100W
+
+ Más asequible: 768Wh + 100W solar. Carga móvil 10 veces, portátil 3 veces, iluminación LED 20 horas. 500-700€.
+
+
+ 3. Jackery Explorer 1000 + Solar 100W
+
+ Alternativa sólida: 1000Wh + 100W. Misma capacidad que el EcoFlow, mismo precio.
+
+
+ ¿Cuánta autonomía necesitas?
+
+ Depende de lo que vayas a usar:
+
+ 
+ Solo móvil + linterna : 100-200Wh (powerbank grande)
+
+ Móvil + portátil + radio : 500-1000Wh (EcoFlow/Jackery)
+
+ Móvil + portátil + nevera + iluminación : 2000Wh+ (Bluetti/EFK)
+
+ 
 
  Instalación básica
 
  
- Elige un punto alto y al exterior (tejado, pared orientada a la torre más cercana)
+ Coloca el panel solar al sol (o en ventana si estás dentro)
 
- Conecta el cable coaxial a la antena
+ Conecta el panel a la batería (cable MC4)
 
- Lleva el cable dentro y conéctalo al móvil/router
+ Conecta tus dispositivos a la batería (enchufe AC/USB)
 
- Prueba la mejora
+ Listo
 
  
 
- El veredicto
-
- Una antena externa de 30-50€ puede transformar tu experiencia de cobertura móvil. Si vives en zona rural, es una inversión de menos de 100€ que puede ser crucial en una emergencia.
+ Nota: La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.
 
 ### Conectividad de emergencia: Starlink, radio, satélite y redundancia (2026) — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
 Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger s...
@@ -1218,303 +1579,52 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.
 
-### Generador solar para emergencias de 72h: autonomía cuando se va la luz (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
-Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
-Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.
+### Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
+Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
+Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
 
 
- ¿Qué es un generador solar?
-
- Son paneles solares plegables (100-400W) que cargan una batería externa (powerstation) para alimentar tus dispositivos: móvil, portátil, radio, iluminación LED y hasta pequeños electrodomésticos.
-
-
- ¿Por qué solar y no gasolina?
+ ¿Cuándo necesitas una antena externa?
 
  
- Silencioso : 0dB (vs 70dB de gasolina)
+ Tu móvil muestra 1-2 barras de señal constantemente
 
- Sin humos : No contamina, ideal para interiores
+ Las llamadas caen frecuentemente
 
- Sin combustible : Solo necesitas sol (o nuboso)
+ La internet móvil es lenta o no funciona
 
- Puede dejarse conectado : Carga y descargra continuamente
+ Vives en una zona de montaña o valle profundo
 
  
 
- Los mejores para tu kit 72h
+ Qué tipo de antena necesitas
+
+ Antena GSM/4G exterior
+
+ Es la que necesitas para mejorar la señal de tu móvil. Se instala fuera (ventana, pared, tejado) y conecta al móvil vía cable coaxial.
 
 
- 1. Bluetti AC200MAX + Solar 200W
+ Amplificador de señal (repetidor)
 
- La solución profesional: 2000Wh de batería + 200W de paneles. Carga tu portátil 15 veces, móvil 40 veces, nevera portátil 8 horas. 2000-3000€.
+ Si la antena por sí sola no basta, un amplificador (como los de weBoost o Poynting) multiplica la señal. Son más caros (200-500€) pero efectivos.
 
-
- 2. EcoFlow River 2 Pro + Solar 100W
-
- Más asequible: 768Wh + 100W solar. Carga móvil 10 veces, portátil 3 veces, iluminación LED 20 horas. 500-700€.
-
-
- 3. Jackery Explorer 1000 + Solar 100W
-
- Alternativa sólida: 1000Wh + 100W. Misma capacidad que el EcoFlow, mismo precio.
-
-
- ¿Cuánta autonomía necesitas?
-
- Depende de lo que vayas a usar:
-
- 
- Solo móvil + linterna : 100-200Wh (powerbank grande)
-
- Móvil + portátil + radio : 500-1000Wh (EcoFlow/Jackery)
-
- Móvil + portátil + nevera + iluminación : 2000Wh+ (Bluetti/EFK)
-
- 
 
  Instalación básica
 
  
- Coloca el panel solar al sol (o en ventana si estás dentro)
+ Elige un punto alto y al exterior (tejado, pared orientada a la torre más cercana)
 
- Conecta el panel a la batería (cable MC4)
+ Conecta el cable coaxial a la antena
 
- Conecta tus dispositivos a la batería (enchufe AC/USB)
+ Lleva el cable dentro y conéctalo al móvil/router
 
- Listo
-
- 
-
- Nota: La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.
-
-### El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan (2026) — https://kit72h.com/blog/mejor-router-4g-emergencia-sin-internet/
-Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.
-El móvil no es la mejor herramienta para tener internet durante días. Un router 4G/5G portátil con batería integrada es mucho más práctico.
-
-
- ¿Por qué un router y no el móvil?
-
- 
- Batería de 8-12h (vs 2-4h del móvil)
-
- Antena externa opcional (mejor señal)
-
- Conecta varios dispositivos a la vez
-
- No gasta la batería de tu móvil (que necesitas para llamadas)
+ Prueba la mejora
 
  
 
- Los mejores routers 4G para emergencias
+ El veredicto
 
-
- 1. Huawei B535
-
- Router 4G fijo con bateria de respaldo. Ideal si tienes energía eléctrica pero no WiFi.
-
-
- 2. ZTE MF286
-
- Mini router 4G portátil con batería. Perfecto para mochila de emergencia.
-
-
- 3. Peplink MAXRU 4G
-
- Router profesional 4G con backup de antena externa. Para emergencias prolongadas.
-
-
- Instalación
-
- 
- Introduces la SIM de datos
-
- Lo enciendes (se conecta automáticamente)
-
- Te conectas por WiFi
-
- Listo
-
- 
-
- Conclusión
-
- Un router 4G de emergencia cuesta 50-200€ y es mucho más práctico que depender del móvil para internet durante una emergencia prolongada.
-
-### Las mejores SIM de datos de emergencia: cobertura cuando todo falla (2026) — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
-Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.
-Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero no todas las operadoras son iguales.
-
-
- El problema
-
- Las torres de telefonía necesitan electricidad. Las que tienen batería de emergencia (3-8h) sobreviven primero. Si la torre se daña físicamente (árboles, inundaciones), necesitas cobertura de otra operadora.
-
-
- Las mejores operadoras para emergencias
-
-
- 1. Vodafone
-
- Mejor cobertura rural en España. Ideal para emergencias.
-
-
- 2. Orange
-
- Buena cobertura en norte y este. Comparte infraestructura con Movistar.
-
-
- 3. Movistar
-
- Más infraestructura en total, pero no siempre la mejor en zonas remotas.
-
-
- 4. Operadoras virtuales (Lebara, O2, MásMóvil)
-
- Usan la red de Movistar. Menos inversión en infraestructura propia.
-
-
- Preparación
-
- 
- Tener SIM de al menos 2 operadoras
-
- Planes con datos ilimitados o grandes bolsas
-
- Router 4G/5G portátil con batería
-
- Antena externa si vives en zona de mala cobertura
-
- 
-
- Conclusión
-
- Una SIM de Vodafone (o cualquier operadora con buena cobertura rural) es un seguro contra el aislamiento. 10-20€/mes y puedes estar comunicado durante una emergencia.
-
-### Nevera portátil para emergencias de 72h: conserva comida sin electricidad (2026) — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
-Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
-Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y empiezas a tener hambre. Una nevera portátil te mantiene la comida fresca sin electricidad.
-
-
- ¿Qué es una nevera portátil?
-
- Una nevera portátil es un dispositivo que puede funcionar con 12V (coche) o 220V (enchufe), ideal para emergencias donde no hay luz pero sí energía de otros fuentes (powerstation, solar, coche).
-
-
- Tipos de neveras portátiles
-
- 
- Compresión : Como una nevera normal, más cara (200-500€) pero eficiente
-
- Termoeléctrica : Más barata (50-150€) pero menos eficiente
-
- Absorción : Funciona con gas o 12V, ideal para camping pero menos común
-
- 
-
- Las mejores para emergencias
-
-
- 1. Dometic CFX3 50
-
- La mejor del mercado: -20°C a +20°C, 50L, eficiente, silenciosa. 500-700€.
-
-
- 2. Whynter ARC-14S
-
- Mejor relación calidad-precio: -20°C a +20°C, 3.2ft³, eficiente. 300-400€.
-
-
- 3. ICECO VL60
-
- Alternativa económica: -20°C a +20°C, 60L, eficiente. 200-300€.
-
-
- ¿Cuánta energía consume?
-
- Una nevera de compresión consume ~50-100W/h. Con una powerstation de 500Wh, puedes mantenerla funcionando ~5-10 horas. Con 1000Wh, ~10-20 horas.
-
-
- Conclusión
-
- Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).
-
-### Panel solar portátil para emergencias: energía cuando no hay red (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
-Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
-Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.
-
-
- ¿Qué es un panel solar portátil?
-
- Un panel solar plegable (100-400W) que se conecta a una batería externa para cargar tus dispositivos: móvil, portátil, radio, iluminación LED.
-
-
- Los mejores paneles para emergencias
-
-
- 1. Bluetti PV200
-
- 200W, eficiente (23%), resistente al agua. Ideal para mochila de emergencia. 200-300€.
-
-
- 2. EcoFlow 110W Solar Panel
-
- 110W, plegable, ligero. Ideal para complementar tu powerstation. 150-200€.
-
-
- 3. Jackery SolarSaga 100W
-
- 100W, plegable, resistente. Compatible con la mayoría de powerstations. 150-200€.
-
-
- ¿Cuánta energía produce?
-
- Un panel de 100W produce ~400-500Wh al día en condiciones ideales (6-8h de sol directo). En invierno y nuboso, ~200-300Wh.
-
-
- Conclusión
-
- Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.
-
-### Starlink en emergencias de 72h: conectividad cuando todo falla (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
-Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
-Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a zona rural sin cobertura. Móvil sin señal, WiFi muerto, radio insuficiente. Aquí entra Starlink.
-
-
- ¿Qué es Starlink?
-
- Constelación de satélites de SpaceX que ofrece internet de banda ancha desde cualquier punto del planeta con visibilidad del cielo. No necesita infraestructura terrestre: solo terminal + energía.
-
-
- Ventajas para emergencias:
-
- 
- Funciona donde no hay cobertura móvil
-
- Resistente a daños en infraestructura
-
- 50-200 Mbps reales
-
- Instalación en 5 minutos
-
- 
-
- Coste:
-
- Terminal: 400-600€. Cuota mensual: ~50-60€/mes. Consumo: 50-100W (5-10W standby).
-
-
- Alternativas:
-
- 
- Radio de emergencia (manivela/solar) → información oficial
-
- Módem 4G/5G portátil → si hay cobertura
-
- Redes mesh comunitarias → conocimiento avanzado
-
- 
-
- Nota: Starlink en España está limitado a zonas rurales seleccionadas. Verifica cobertura antes de comprar.
+ Una antena externa de 30-50€ puede transformar tu experiencia de cobertura móvil. Si vives en zona rural, es una inversión de menos de 100€ que puede ser crucial en una emergencia.
 
 ### Terremoto en España: qué hacer antes, durante y después (2026) — https://kit72h.com/blog/terremoto-espana-que-hacer/
 Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
