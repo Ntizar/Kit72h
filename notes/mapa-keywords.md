@@ -45,7 +45,7 @@
 | mejor botiquín doméstico | media | compra | /blog/botiquin-emergencia-lista-completa/ | ✅ cubierto | P1 |
 | mejor purificador de agua emergencia | baja | compra | blog pendiente | pendiente | P2 |
 | mejores conservas larga duración | media | compra | blog pendiente | pendiente | P2 |
-| mejor estufa sin luz | media | compra | blog pendiente | pendiente | P2 |
+| mejor estufa sin luz | media | compra | /blog/mejor-estufa-sin-luz-apagon/ | ✅ hecha (2026-10-08) | P2 |
 | mejor Starlink España precio | media | compra | banner Starlink home | parcial | P2 |
 | comparativa generador vs power station | baja | compra | blog pendiente | pendiente | P3 |
 
