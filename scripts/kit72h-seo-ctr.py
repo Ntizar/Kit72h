@@ -85,8 +85,29 @@ KIT_DESCRIPCIONES = {
     "kit-starlink": "Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.",
 }
 
-HOME_TITLE = "Kit72h — Kits de emergencia 72h: guía completa 2026 (UE + Protección Civil)"
+HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"
 HOME_DESC = "Kits de emergencia 72 horas basados en las recomendaciones oficiales de la UE y Protección Civil. DANA, apagón, coche, hogar, montaña y más."
+
+# Reparaciones explícitas de títulos de blog (mandan sobre las reglas genéricas).
+# Bug histórico: `titulo.rstrip(")") + " (2026)"` se comía el paréntesis de cierre
+# legítimo y dejaba títulos desequilibrados / con el año duplicado (hasta 108 chars).
+# Reglas CTR de aquí: keyword delante, número o año, <=72 chars para no truncarse.
+BLOG_TITULOS = {
+    "mejor-powerbank-emergencia-capacidad":
+        "Mejor powerbank para kit de emergencia 2026: 4 modelos y mAh reales",
+    "bebes-ninos-emergencia-checklist-edades":
+        "Bebés y niños en una emergencia: checklist por edades 0-3 y 4-12 (2026)",
+    "recursos-oficiales-emergencia":
+        "Los 7 recursos oficiales para guardar en el móvil y en papel (2026)",
+    "kit-72h-vs-30-dias":
+        "Kit 72h o kit de 30 días: cuál te toca (spoiler: el primero) (2026)",
+    "coche-kit-emergencia-2026":
+        "Coche y emergencias: lo obligatorio en 2026 y lo que conviene",
+    "botiquin-emergencia-que-llevar":
+        "Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026)",
+    "mejor-estufa-sin-luz-apagon":
+        "Mejor estufa sin luz: 5 tipos para sobrevivir al apagón (2026)",
+}
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────
 
@@ -132,12 +153,30 @@ def aplicar_mejoras_blog():
         titulo = entrada.get("titulo", "")
         resumen = entrada.get("resumen", "")
 
-        # Regla 1: añadir (2026) si no está
-        if "(2026)" not in titulo and not titulo.endswith("(2025)"):
-            nuevo = titulo.rstrip(")") + " (2026)"
-            print(f"  ✏️  Blog title: {titulo[:50]}... → {nuevo[:60]}...")
+        # Regla 0: arreglo explícito (dict) — manda sobre las genéricas
+        arreglo = BLOG_TITULOS.get(slug)
+        if arreglo and titulo != arreglo:
+            print(f"  ✏️  Blog title (fix): {titulo[:60]} → {arreglo[:60]}")
+            entrada["titulo"] = arreglo
+            mejoradas.append({"slug": slug, "field": "title"})
+            titulo = arreglo
+
+        # Regla 0b: cerrar paréntesis abiertos (nunca rstrip: se comía los cerrados)
+        if titulo.count("(") > titulo.count(")"):
+            nuevo = titulo + ")" * (titulo.count("(") - titulo.count(")"))
+            print(f"  ✏️  Blog title (paréntesis): {titulo[:60]} → {nuevo[:60]}")
             entrada["titulo"] = nuevo
             mejoradas.append({"slug": slug, "field": "title"})
+            titulo = nuevo
+
+        # Regla 1: añadir (2026) si no lo lleva — solo si cabe en 72 chars
+        if "2026" not in titulo and not titulo.endswith("(2025)"):
+            nuevo = titulo + " (2026)"
+            if len(nuevo) <= 72:
+                print(f"  ✏️  Blog title: {titulo[:60]} → {nuevo[:60]}")
+                entrada["titulo"] = nuevo
+                mejoradas.append({"slug": slug, "field": "title"})
+                titulo = nuevo
 
         # Regla 2: resumen > 155 caracteres → trunca
         if len(resumen) > 155:
@@ -206,14 +245,17 @@ def analizar_paginas():
         m_desc = re.search(r'<meta name="description" content="([^"]+)"', html)
 
         if m_title:
-            new_title = HOME_TITLE if path_name == "zona" else "Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más"
+            # /zona/ conserva SU título (con HOME_TITLE se duplicaba el de la home)
+            new_title = ("Tu zona: hospital, farmacia, refugio y 112 — Kit72h"
+                         if path_name == "zona"
+                         else "Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más")
             if m_title.group(1) != new_title:
                 html = html.replace(m_title.group(0), f'<title>{new_title}</title>')
                 print(f"  ✏️  {path_name} title: {m_title.group(1)[:50]}... → {new_title[:60]}...")
                 mejoradas.append({"page": path_name, "field": "title"})
 
         if m_desc:
-            new_desc = "Tu zona: mapa interactivo con hospitales, farmacias, refugios y puntos de encuentro en OpenStreetMap. Consulta OpenStreetMap y la Overpass API en tiempo real." if path_name == "zona" else "Todas las fuentes oficiales de donde se basan los kits: UE, Protección Civil, AEMET, REE, AESAN y más. Actualizadas y verificadas."
+            new_desc = "Tu zona: mapa con hospitales, farmacias, refugios y puntos de encuentro cerca de ti. Elige ubicación y radio; el 112, siempre a mano." if path_name == "zona" else "Todas las fuentes oficiales de donde se basan los kits: UE, Protección Civil, AEMET, REE, AESAN y más. Actualizadas y verificadas."
             if m_desc.group(1) != new_desc:
                 html = html.replace(m_desc.group(0), f'<meta name="description" content="{new_desc}"')
                 print(f"  ✏️  {path_name} desc: {m_desc.group(1)[:50]}... → {new_desc[:60]}...")
