@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-07",
-    "total": 64,
-    "png_total": 64
+    "ultima_generacion": "2026-10-08",
+    "total": 65,
+    "png_total": 65
   },
   "pins": [
     {
@@ -580,6 +580,15 @@
       "emoji": "📋",
       "pin": "pin-kit-kit-electricidad.html",
       "png": "png/pin-kit-kit-electricidad.png"
+    },
+    {
+      "slug": "pin-blog-mejor-estufa-sin-luz-apagon",
+      "tipo": "blog",
+      "titulo": "Mejor estufa sin luz: 5 tipos comparados para sobrevivir a un apagón de invierno",
+      "url": "https://kit72h.com/blog/mejor-estufa-sin-luz-apagon/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-estufa-sin-luz-apagon.html",
+      "png": "png/pin-blog-mejor-estufa-sin-luz-apagon.png"
     }
   ]
 }
