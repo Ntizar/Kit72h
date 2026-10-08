@@ -49,3 +49,10 @@ revertido por el prerender dos veces. Ahora los valores nuevos están también e
   explícito `BLOG_TITULOS` + cierre de paréntesis sin rstrip + guardia de 72 chars.
 - `/zona/` recibía el `HOME_TITLE` (título duplicado con la home): ahora conserva el suyo.
 - `HOME_TITLE` nuevo (número + año + escenarios).
+
+### Verificación (2026-10-08 07:04 UTC)
+
+- Gate `scripts/verificar-sitio.py`: ✅ 0 errores (6 avisos preexistentes).
+- Push `51ddf69` + `bf69a58` → run de `pages.yml` **completed / success** (el gate bloquea el deploy, así que el verde = desplegado).
+- Producción verificada con curl: home, `/fuentes/`, `/zona/` y los 7 posts de blog sirven los títulos/descriptions nuevos; `styles.css?v=20261008a` en la home.
+- Rebase rutinario contra `eac03ad` (Action `auto-content.yml`): sus 5 páginas generadas traían `?v=20261001c` (versión obsoleta), 8 KB frente a 24 KB del horneado desde `blog.json`, y **sin `disclosure`** con enlaces `tag=ntizar-21` (el gate daría ERROR). Se resolvió a favor de la versión horneada desde la fuente de verdad. `git log -S` confirma que su HTML no está en `blog.json`: el horneado nocturno lo reescribe igual.
