@@ -502,7 +502,7 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Mejor estufa sin luz: 5 tipos comparados para sobrevivir a un apagón de invierno — https://kit72h.com/blog/mejor-estufa-sin-luz-apagon/
+### Mejor estufa sin luz: 5 tipos para sobrevivir al apagón (2026) — https://kit72h.com/blog/mejor-estufa-sin-luz-apagon/
 Butano, pellets o eléctrica: qué estufa funciona cuando se va la luz, cuánto cuesta cada hora y por qué la eléctrica no sirve en un apagón.
 En abril el apagón duró unas horas con dieciocho grados. En enero, el mismo corte a las tres de la mañana es otro asunto: sin calefacción una vivienda pierde grados en pocas horas, y el Plan Nacional de actuaciones preventivas por bajas temperaturas del Ministerio de Sanidad lo dice sin rodeos: el frío no solo provoca hipotermia, también «favorece los accidentes de tráfico y las caídas por placas de hielo, o los incendios e intoxicaciones por monóxido de carbono a partir de estufas de gas, braseros, etc.». Esa frase resume este artículo: elegir la mejor estufa para cuando se va la luz es cuestión de no convertir la sala de estar en un problema médico.
 
@@ -612,7 +612,7 @@ En abril el apagón duró unas horas con dieciocho grados. En enero, el mismo co
 
  Si el corte se alarga, la estufa es solo una pieza: la lista completa está en el kit de frío e invierno y en el kit apagón .
 
-### Mejor powerbank para kit de emergencia 2026: comparativa de 4 modelos (y cuántos mAh reales necesitas (2026) — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
+### Mejor powerbank para kit de emergencia 2026: 4 modelos y mAh reales — https://kit72h.com/blog/mejor-powerbank-emergencia-capacidad/
 Cuánta capacidad de verdad necesitas en un apagón: 4 cargas por 20.000 mAh reales, 4 modelos comparados y los errores que vacían la batería del kit.
 El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil al 2%. La mayoría lo resolvió con el powerbank que tenía cargado en un cajón. Pero si la luz se va varios días, ese cajón se acaba: en 24-48 horas tu móvil pasa a ser un peso de cristal, y con él la radio por streaming, el mapa, el WhatsApp de la familia y la linterna del teléfono. Esta es la guía para elegir el powerbank de emergencia que de verdad te sostiene 72 horas — con la capacidad real que necesitas, la cifra honesta que las marcas esconden (los mAh) y cuatro modelos comparados.
 
@@ -2680,7 +2680,7 @@ El 28 de abril de 2025 demostró algo que las guías de kits dicen a medias: el 
  Guardar la reserva junto a la lejía (los vapores contaminan hasta el envase cerrado). Abrir la lata grande pensando en mañana. Fiarse del olfato como juez único con la leche de dos días fuera: ante la duda, fuera, sin debate. Y descubrir el día uno que todas las conservas del cajón exigen un abrelatas que está en casa de tu madre. Estos cuatro fallos, más la nevera abierta por curiosidad, explican el 90% de las comidas perdidas del 28-A.
  La reserva para este escenario está montada en el kit de apagón —hornillo, agua, comida sin frío— y escalada en el kit de 30 días si quieres despensa de verdad. Las bases de conservación de alimentos, en la web de AESAN .
 
-### Bebés y niños pequeños en una emergencia: checklist por edades (0-3 y 4-12 (2026) — https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/
+### Bebés y niños en una emergencia: checklist por edades 0-3 y 4-12 (2026) — https://kit72h.com/blog/bebes-ninos-emergencia-checklist-edades/
 Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios...
 La Estrategia de Preparación de la Unión Europea habla de hogares con 72 horas de autonomía, pero las listas estándar están escritas para adultos sanos. Un bebé no come conserva de fabada, no bebe de un bidón de cinco litros y no entiende por qué esta noche dormimos en el pasillo con linternas. Preparar un hogar con niños pequeños no es comprar más: es comprar distinto y repartir responsabilidades según la edad.
  Antes de la mochila: las tres preguntas
@@ -2731,7 +2731,7 @@ En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En
  Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.
  El material está en las guías de ola de calor y hogar ; la estufa y la tienda, en el kit de 30 días .
 
-### Los 7 recursos oficiales que deberías tener guardados en el móvil (y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
+### Los 7 recursos oficiales para guardar en el móvil y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
 En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás ...
 En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.
  Los 7 imprescindibles
@@ -2780,7 +2780,7 @@ En las grandes emergencias hay gente que se arriesga (o se queda) por no abandon
  Si evacuas, llévate a la mascota . La promesa de volver a por él se repite en cada DANA; el retorno a una zona catastrófica puede estar prohibido durante días.
  El kit de hogar incluye comida para mascotas de reserva; para el kit de evacuación , añade el transportín junto a la mochila y no lo uses para nada más el resto del año.
 
-### Kit 72h o kit de 30 días: cuál necesitas tú (spoiler: primero el primero (2026) — https://kit72h.com/blog/kit-72h-vs-30-dias/
+### Kit 72h o kit de 30 días: cuál te toca (spoiler: el primero) (2026) — https://kit72h.com/blog/kit-72h-vs-30-dias/
 Todo el mundo habla del 72h de la UE, pero ¿y si la crisis dura semanas? Comparativa honesta de los dos niveles de preparación y por qué el orden importa.
 La Unión Europea pide a los hogares 72 horas de autonomía . ¿Por qué 72? Porque es el tiempo típico que tardan los servicios de emergencia en restablecer lo básico en una crisis grave: agua potable, carreteras despejadas, comunicaciones. Pero algunas crisis no se arreglan en tres días. Vamos a comparar los dos niveles.
  El kit 72h: para el 95% de los escenarios
@@ -2929,7 +2929,7 @@ Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomien
 
  Empieza por la lista del kit básico 72h y ve marcando lo que ya tienes. No hace falta comprarlo todo de golpe.
 
-### Coche y emergencias: lo obligatorio en 2026 y lo que conviene (2026) — https://kit72h.com/blog/coche-kit-emergencia-2026/
+### Coche y emergencias: lo obligatorio en 2026 y lo que conviene — https://kit72h.com/blog/coche-kit-emergencia-2026/
 La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA ...
 El kit del coche es el único que llevas encima todos los días, y también el más legislado. Repasamos qué es obligatorio en 2026 y qué conviene añadir por tu cuenta.
  Lo obligatorio
@@ -2962,7 +2962,7 @@ En cada DANA o incendio grave en España se repite la misma escena: familias que
  En un apagón los datáfonos y cajeros no funcionan — lo vivimos el 28 de abril de 2025. Ten en casa billetes pequeños (10-20 €) , en efectivo suficiente para 2-3 días de gasolina, comida y farmacia. Y no lo anuncies: el efectivo de emergencia es discreto.
  La mochila de evacuación ya contempla carpeta estanca y USB cifrado; la de hogar , una caja fuerte pequeña para los originales.
 
-### Botiquín de emergencia: qué llevar de verdad (y qué sobra (2026) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
+### Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
 Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
 El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno de cosas que nunca usarás, y no tener ni un paquete de tu medicación habitual. Un botiquín de emergencia se diseña desde tu casa hacia fuera , no desde la tienda.
  La base que sí importa

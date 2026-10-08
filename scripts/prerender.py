@@ -169,10 +169,10 @@ def main():
                                         reemplazar_desc=False)
                         dest = RAIZ / "index.html"
                     elif ruta == "/fuentes/":
-                        html = inyectar(html, titulo="Fuentes oficiales — Kit72h",
-                                        desc="Documentos oficiales (Comisión Europea, "
-                                             "Protección Civil, DGT) en los que se basan "
-                                             "los kits y guías de Kit72h.",
+                        html = inyectar(html, titulo="Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más",
+                                        desc="Todas las fuentes oficiales de donde se basan "
+                                             "los kits: UE, Protección Civil, AEMET, REE, "
+                                             "AESAN y más. Actualizadas y verificadas.",
                                         canonical=canonical,
                                         ld=[{
                                             "@context": "https://schema.org",
@@ -186,9 +186,9 @@ def main():
                         html = inyectar(
                             html,
                             titulo="Tu zona: hospital, farmacia, refugio y 112 — Kit72h",
-                            desc="Mapa de tu entorno en España con hospitales, centros de salud, "
-                                 "farmacias, comisarías, bomberos, refugios y puntos de "
-                                 "encuentro. Elige tu ubicación y el radio; el 112, siempre a mano.",
+                            desc="Tu zona: mapa con hospitales, farmacias, refugios y "
+                                 "puntos de encuentro cerca de ti. Elige ubicación y "
+                                 "radio; el 112, siempre a mano.",
                             canonical=canonical,
                             ld=[{
                                 "@context": "https://schema.org",

@@ -41,7 +41,7 @@ const ui = {
       document.title = `${kit.titulo} — Kit72h`;
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
-      document.title = 'Fuentes oficiales — Kit72h';
+      document.title = 'Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más';
     } else if (vista === 'zona') {
       app.innerHTML = this.htmlZona();
       document.title = 'Tu zona: hospital, farmacia, refugio y 112 — Kit72h';
@@ -54,7 +54,7 @@ const ui = {
       document.title = entrada ? `${entrada.titulo} — Blog Kit72h` : 'Blog — Kit72h';
     } else {
       app.innerHTML = this.htmlHome();
-      document.title = 'Kit72h — Kits de emergencia 72 horas: DANA, apagón, coche y más';
+      document.title = 'Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)';
     }
     const ancla = location.hash;
     const objetivo = ancla && !ancla.startsWith('#kit/') && !ancla.startsWith('#blog/')
