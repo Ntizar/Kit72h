@@ -3,12 +3,61 @@
     "sitio": "Kit72h — Blog de preparación",
     "descripcion": "Guías prácticas de preparación ante emergencias basadas en fuentes oficiales (UE, Protección Civil, DGT, OMS).",
     "reglas_editoriales": "Toda entrada se basa en fuentes oficiales citadas con enlace y fecha. No se inventan datos ni se recomienda medicación concreta: se remite a Protección Civil, AEMPS o al médico. Se añade o corrige, nunca se borra contenido existente sin dejar nota. Cada entrada enlaza con los kits que la completan y con al menos dos fuentes oficiales.",
-    "actualizado": "2026-10-08",
-    "total": 45,
-    "ultima_revision": "2026-10-08",
-    "nota_editor": "2026-10-08: generador automático reconectó 45 entradas. Escaneo completo de 45 directorios."
+    "actualizado": "2026-10-09",
+    "total": 46,
+    "ultima_revision": "2026-10-09",
+    "nota_editor": "2026-10-09: generador automático reconectó 46 entradas. Escaneo completo de 46 directorios."
   },
   "entradas": [
+    {
+      "slug": "mejor-purificador-agua-emergencia",
+      "titulo": "Mejor purificador de agua para emergencias (2026): 7 filtros comparados",
+      "fecha": "2026-10-09",
+      "lectura": "8 min",
+      "resumen": "Mejor purificador de agua para emergencias: 7 filtros comparados por precio y uso, qué elimina cada método y los 5 errores que dejan el agua igual.",
+      "autor": "Redacción Kit72h",
+      "fuente": [
+        {
+          "nombre": "BOE — Real Decreto 3/2023: criterios técnico-sanitarios del agua de consumo",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-628"
+        },
+        {
+          "nombre": "Ministerio de Sanidad — Legislación sobre aguas de consumo humano",
+          "url": "https://www.sanidad.gob.es/areas/sanidadAmbiental/calidadAguas/aguasConsumoHumano/legislacion/home.htm"
+        },
+        {
+          "nombre": "Protección Civil — Recomendaciones generales por riesgo",
+          "url": "https://www.proteccioncivil.es/gestion-riesgos/recomendaciones"
+        },
+        {
+          "nombre": "Protección Civil — Plan Familiar de Emergencias (agua para 3 días y pastillas potabilizadoras)",
+          "url": "https://www.proteccioncivil.es/catalogo/guiastecnicas/mujer-reduccion-desastres/presentaciones/p12.pdf"
+        },
+        {
+          "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (72 horas de autonomía)",
+          "url": "https://commission.europa.eu/topics/preparedness_es"
+        },
+        {
+          "nombre": "OMS — Directrices sobre la calidad del agua potable",
+          "url": "https://www.who.int/publications/i/item/9789241548151"
+        }
+      ],
+      "cuerpo": "<p>Después de la DANA, varios municipios se quedaron días sin agua potable mientras en las tiendas se agotaban las garrafas. Y en un apagón invernal el problema no es solo la luz: en tres días una vivienda llega a las <strong>72 horas de autonomía</strong> que recomienda la <strong>Estrategia de Preparación de la Unión Europea</strong>, y decides si bebes de la llave, del río o de la botella. Ahí entra el <strong>purificador de agua de emergencia</strong>: no es para sobrevivir en la selva, es para que cualquier agua turbia se pueda beber sin acabar en urgencias.</p>\n\n<p>Comparo siete opciones reales de Amazon España —filtros personales, filtros de gravedad para casa, botella con filtro y pastillas— con su precio, su uso ideal y, sobre todo, con lo que cada una <em>no</em> hace. En agua de emergencia el error no se nota hoy: se nota a las 36 horas.</p>\n\n<h2>Qué exige la normativa española y qué no resuelve un filtro</h2>\n\n<p>En España el agua de grifo está regulada por el <strong>Real Decreto 3/2023</strong>, que fija los criterios técnico-sanitarios y el control de calidad: si sale del grifo, es apta. El problema aparece cuando se corta el suministro o cuando sube la turbidez tras un temporal. Ahí manda <strong>Protección Civil</strong>: agua para tres días y, ante dudas sobre la calidad, hervir o desinfectar. Su guía del Plan Familiar de Emergencias incluye expresamente «pastillas potabilizadoras de agua» y «agua (para 3 días)».</p>\n\n<p>Y aquí viene la parte que casi nadie explica al comprar:</p>\n\n<ul>\n<li><strong>Los filtros de membrana (0,1-0,2 micras, según fabricante) retiran bacterias, parásitos y la mayor parte de los microplásticos.</strong> No retiran virus, que son mucho más pequeños, ni disolventes, pesticidos ni hidrocarburos.</li>\n<li><strong>Las pastillas de cloro o de dióxido de cloro sí cubren virus</strong>, pero dejan sabor y necesitan un tiempo de contacto (minutos) antes de beber, y tampoco eliminan turbidez ni productos químicos.</li>\n<li><strong>Hervir es lo más seguro y lo más tosco:</strong> mata todo lo vivo, pero no quita tierra, no quita metal pesado y consume gas o pilas justo cuando no las tienes.</li>\n<li><strong>Ningún método arregla agua con productos químicos</strong> (una fuga, un vertido, gasóleo en la ría). Esa agua no se potabiliza: se descarta.</li>\n</ul>\n\n<p>La conclusión: <strong>un filtro solo nunca basta</strong>. El combo real es filtro + pastillas + posibilidad de hervir. Y no olvides la reserva —los tres litros por persona y día—, montada paso a paso en <a href=\"/blog/agua-cuanta-y-como/\">cuánta agua necesitas y cómo guardarla</a>.</p>\n\n<h2>Comparativa: los siete purificadores de agua para emergencia</h2>\n\n<table>\n<thead><tr><th>Producto</th><th>Tipo</th><th>Precio orientativo</th><th>Ideal para</th></tr></thead>\n<tbody>\n<tr><td><a href=\"https://www.amazon.es/dp/B006QF3TW4?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">LifeStraw filtro personal</a></td><td>Pajita / filtro personal</td><td>26,95 €</td><td>Mochila, rutas y «el que no tiene nada»</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B0C62WZ2WY?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">LifeStraw Peak Series Solo</a></td><td>Filtro personal compacto</td><td>33,34 €</td><td>Uso recurrente, más caudal que una pajita básica</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B073R8F3HP?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Membrane Solutions 0,1 µm</a></td><td>Filtro de bombeo/pajita</td><td>18,99 €</td><td>Presupuesto ajustado (el más barato)</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B0F3D422BK?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Waterflow 3 fases</a></td><td>Filtro con carbón</td><td>24,97 €</td><td>Mejor relación calidad-precio</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B086QNLBB4?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Waterdrop con bolsa de gravedad</a></td><td>Filtro de gravedad</td><td>27,00 €</td><td>Casa: llenar, colgar y servir a varios</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B08MQMC8PL?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Membrane Solutions WS02</a></td><td>Filtro extraíble de mayor caudal</td><td>52,99 €</td><td>Autocaravana, casa de campo, equipo familiar</td></tr>\n<tr><td><a href=\"https://www.amazon.es/dp/B0BY39KS2D?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">LifeStraw Go con botella</a></td><td>Botella con filtro integrado</td><td>67,48 €</td><td>Un solo objeto que ya va lleno en la mochila</td></tr>\n<tr><td><a href=\"https://www.amazon.es/s?k=pastillas+potabilizadoras+de+agua&tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Pastillas potabilizadoras</a></td><td>Desinfección química</td><td>9-25 €</td><td>Cubrir virus, que ningún filtro de esta lista caza</td></tr>\n</tbody>\n</table>\n\n<p>Precios verificados hoy en la ficha de Amazon.es: cambian a diario, tómalos como orden de magnitud. Los enlaces van directos a la ficha con nuestro identificador de afiliado.</p>\n\n<h2>Ganador por categoría (según el escenario que te toque)</h2>\n\n<ul>\n<li><strong>Mejor para la mochila de evacuación: el <a href=\"https://www.amazon.es/dp/B006QF3TW4?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">LifeStraw</a>.</strong> Cabe en un bolsillo, no necesita recambios y funciona sin aprender nada: es el que compras si solo compras uno.</li>\n<li><strong>Mejor para casa: el <a href=\"https://www.amazon.es/dp/B086QNLBB4?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">filtro de gravedad con bolsa</a>.</strong> La llenas, la cuelgas y goterea sobre un recipiente: da de beber a varios sin agacharse a un charco. El más cómodo con niños y con mayores.</li>\n<li><strong>Mejor presupuesto: el <a href=\"https://www.amazon.es/dp/B073R8F3HP?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Membrane Solutions de 18,99 €</a>.</strong> Cumple sin gastar más que una caja de conservas.</li>\n<li><strong>Mejor relación calidad-precio: el <a href=\"https://www.amazon.es/dp/B0F3D422BK?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Waterflow de 3 fases</a>.</strong> Con carbón activo mejora olor y sabor: el agua de río o de aljibe, sin carbón, se bebe mal y acaba tirándose.</li>\n<li><strong>Mejor complemento obligatorio: las <a href=\"https://www.amazon.es/s?k=pastillas+potabilizadoras+de+agua&tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">pastillas potabilizadoras</a>.</strong> Baratas, ligeras y de fecha larga: lo único de esta lista que cubre virus. Sin ellas, el filtro solo deja un falso «agua segura».</li>\n</ul>\n\n<h2>Tres usos reales en un hogar español</h2>\n\n<ul>\n<li><strong>Tras una DANA o una inundación.</strong> Sale turbia o con aviso de hervir: filtro para beber y cloro para las superficies. El orden de limpieza está en <a href=\"/blog/volver-a-casa-tras-inundacion/\">volver a casa después de una inundación</a>.</li>\n<li><strong>Apagón de varios días.</strong> La cisterna y el termo siguen llenos, pero la bomba no funciona. Rellenar bidones de la bañera y filtrarlos es más rápido que subir garrafas. El guion completo está en <a href=\"/kit/kit-apagon/\">el kit de apagón</a>.</li>\n<li><strong>Agua de campo o de ruta.</strong> Río, manantial o depósito de autocaravana: el mismo filtro sirve el fin de semana. Que es justo lo que falta en la mayoría de kits: equipo que nunca se estrena.</li>\n</ul>\n\n<h2>Los cinco errores que dejan el agua igual que antes</h2>\n\n<ol>\n<li><strong>Filtrar agua muy turbia directamente.</strong> La tierra tapa el membrana y lo deja sin caudal en minutos. Primero se decanta o se prefiltra con un paño limpio, y después se filtra.</li>\n<li><strong>Usar el filtro para agua con químicos</strong> (gasóleo, disolvente, aljibe tratado con productos de jardinería). Nada de esta lista lo retira: se descarta el agua.</li>\n<li><strong>Comprar pastillas y no mirar la caducidad.</strong> Las pastillas pierden potencia; guárdalas secas, en su tarro cerrado, y apunta la fecha en el tarro con rotulador. Igual que con los <a href=\"/blog/alimentos-emergencia-caducidad-rotacion/\">alimentos de la despensa</a>: lo caducado no es reserva.</li>\n<li><strong>Filtrar y beber sin dejar el tiempo de contacto</strong> si además usas pastillas: con agua fría hacen falta varios minutos. Apúntalo en la etiqueta del bidón, para que no lo decida el que tiene más sed.</li>\n<li><strong>No probarlo antes.</strong> Un equipo que nunca se ha usado se usa mal. Filtra un vaso de agua en casa y mira cuánto tarda: en el apagón ya sabrás lo que hace.</li>\n</ol>\n\n<h2>Qué comprar hoy (y qué dejar preparado)</h2>\n\n<p>Lista mínima y barata: un <a href=\"https://www.amazon.es/dp/B0F3D422BK?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">filtro de tres fases</a> para la casa, un <a href=\"https://www.amazon.es/dp/B006QF3TW4?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">filtro personal</a> por quien salga de casa, una tira de <a href=\"https://www.amazon.es/s?k=pastillas+potabilizadoras+de+agua&tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">pastillas potabilizadoras</a> y una olla con tapa para hervir. Con eso cubres bacterias, virus y la vía de emergencia sin electricidad. El conjunto encaja en el <a href=\"/kit/kit-basico-72h/\">kit básico de 72 horas</a> y, si vives en zona de riada, en el <a href=\"/kit/kit-dana/\">kit de DANA e inundación</a>.</p>\n\n<p>Y una idea que ahorra dinero: <strong>la reserva de agua sigue siendo lo primero</strong>. Un purificador no sustituye a los bidones, los amplía. Regla de los tres litros por persona y día, envases y rotación en <a href=\"/blog/almacenar-agua-comida-casa/\">cómo almacenar agua y comida en casa</a>.</p>",
+      "kits_relacionados": [
+        "kit-basico-72h",
+        "kit-dana",
+        "kit-apagon"
+      ],
+      "etiquetas": [
+        "agua",
+        "potabilizador",
+        "purificador",
+        "comparativas",
+        "apagon",
+        "dana",
+        "preparacion"
+      ]
+    },
     {
       "slug": "mejor-estufa-sin-luz-apagon",
       "titulo": "Mejor estufa sin luz: 5 tipos para sobrevivir al apagón (2026)",

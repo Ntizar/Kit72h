@@ -43,7 +43,7 @@
 | mejor powerbank apagón | media | compra | /blog/mejor-powerbank-emergencia-capacidad/ | ✅ cubierto | P1 |
 | mejor radio manivela | baja | compra | /blog/mejor-radio-emergencia-manivela-solar/ | ✅ cubierto | P2 |
 | mejor botiquín doméstico | media | compra | /blog/botiquin-emergencia-lista-completa/ | ✅ cubierto | P1 |
-| mejor purificador de agua emergencia | baja | compra | blog pendiente | pendiente | P2 |
+| mejor purificador de agua emergencia | baja | compra | /blog/mejor-purificador-agua-emergencia/ | ✅ hecha (2026-10-09) | P2 |
 | mejores conservas larga duración | media | compra | blog pendiente | pendiente | P2 |
 | mejor estufa sin luz | media | compra | /blog/mejor-estufa-sin-luz-apagon/ | ✅ hecha (2026-10-08) | P2 |
 | mejor Starlink España precio | media | compra | banner Starlink home | parcial | P2 |

@@ -502,6 +502,118 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor purificador de agua para emergencias (2026): 7 filtros comparados — https://kit72h.com/blog/mejor-purificador-agua-emergencia/
+Mejor purificador de agua para emergencias: 7 filtros comparados por precio y uso, qué elimina cada método y los 5 errores que dejan el agua igual.
+Después de la DANA, varios municipios se quedaron días sin agua potable mientras en las tiendas se agotaban las garrafas. Y en un apagón invernal el problema no es solo la luz: en tres días una vivienda llega a las 72 horas de autonomía que recomienda la Estrategia de Preparación de la Unión Europea , y decides si bebes de la llave, del río o de la botella. Ahí entra el purificador de agua de emergencia : no es para sobrevivir en la selva, es para que cualquier agua turbia se pueda beber sin acabar en urgencias.
+
+
+ Comparo siete opciones reales de Amazon España —filtros personales, filtros de gravedad para casa, botella con filtro y pastillas— con su precio, su uso ideal y, sobre todo, con lo que cada una no hace. En agua de emergencia el error no se nota hoy: se nota a las 36 horas.
+
+
+ Qué exige la normativa española y qué no resuelve un filtro
+
+
+ En España el agua de grifo está regulada por el Real Decreto 3/2023 , que fija los criterios técnico-sanitarios y el control de calidad: si sale del grifo, es apta. El problema aparece cuando se corta el suministro o cuando sube la turbidez tras un temporal. Ahí manda Protección Civil : agua para tres días y, ante dudas sobre la calidad, hervir o desinfectar. Su guía del Plan Familiar de Emergencias incluye expresamente «pastillas potabilizadoras de agua» y «agua (para 3 días)».
+
+
+ Y aquí viene la parte que casi nadie explica al comprar:
+
+
+ 
+ Los filtros de membrana (0,1-0,2 micras, según fabricante) retiran bacterias, parásitos y la mayor parte de los microplásticos. No retiran virus, que son mucho más pequeños, ni disolventes, pesticidos ni hidrocarburos.
+
+ Las pastillas de cloro o de dióxido de cloro sí cubren virus , pero dejan sabor y necesitan un tiempo de contacto (minutos) antes de beber, y tampoco eliminan turbidez ni productos químicos.
+
+ Hervir es lo más seguro y lo más tosco: mata todo lo vivo, pero no quita tierra, no quita metal pesado y consume gas o pilas justo cuando no las tienes.
+
+ Ningún método arregla agua con productos químicos (una fuga, un vertido, gasóleo en la ría). Esa agua no se potabiliza: se descarta.
+
+ 
+
+ La conclusión: un filtro solo nunca basta . El combo real es filtro + pastillas + posibilidad de hervir. Y no olvides la reserva —los tres litros por persona y día—, montada paso a paso en cuánta agua necesitas y cómo guardarla .
+
+
+ Comparativa: los siete purificadores de agua para emergencia
+
+
+ 
+ Producto Tipo Precio orientativo Ideal para 
+ 
+ 
+ LifeStraw filtro personal Pajita / filtro personal 26,95 € Mochila, rutas y «el que no tiene nada» 
+
+ LifeStraw Peak Series Solo Filtro personal compacto 33,34 € Uso recurrente, más caudal que una pajita básica 
+
+ Membrane Solutions 0,1 µm Filtro de bombeo/pajita 18,99 € Presupuesto ajustado (el más barato) 
+
+ Waterflow 3 fases Filtro con carbón 24,97 € Mejor relación calidad-precio 
+
+ Waterdrop con bolsa de gravedad Filtro de gravedad 27,00 € Casa: llenar, colgar y servir a varios 
+
+ Membrane Solutions WS02 Filtro extraíble de mayor caudal 52,99 € Autocaravana, casa de campo, equipo familiar 
+
+ LifeStraw Go con botella Botella con filtro integrado 67,48 € Un solo objeto que ya va lleno en la mochila 
+
+ Pastillas potabilizadoras Desinfección química 9-25 € Cubrir virus, que ningún filtro de esta lista caza 
+
+ 
+ 
+
+ Precios verificados hoy en la ficha de Amazon.es: cambian a diario, tómalos como orden de magnitud. Los enlaces van directos a la ficha con nuestro identificador de afiliado.
+
+
+ Ganador por categoría (según el escenario que te toque)
+
+
+ 
+ Mejor para la mochila de evacuación: el LifeStraw . Cabe en un bolsillo, no necesita recambios y funciona sin aprender nada: es el que compras si solo compras uno.
+
+ Mejor para casa: el filtro de gravedad con bolsa . La llenas, la cuelgas y goterea sobre un recipiente: da de beber a varios sin agacharse a un charco. El más cómodo con niños y con mayores.
+
+ Mejor presupuesto: el Membrane Solutions de 18,99 € . Cumple sin gastar más que una caja de conservas.
+
+ Mejor relación calidad-precio: el Waterflow de 3 fases . Con carbón activo mejora olor y sabor: el agua de río o de aljibe, sin carbón, se bebe mal y acaba tirándose.
+
+ Mejor complemento obligatorio: las pastillas potabilizadoras . Baratas, ligeras y de fecha larga: lo único de esta lista que cubre virus. Sin ellas, el filtro solo deja un falso «agua segura».
+
+ 
+
+ Tres usos reales en un hogar español
+
+
+ 
+ Tras una DANA o una inundación. Sale turbia o con aviso de hervir: filtro para beber y cloro para las superficies. El orden de limpieza está en volver a casa después de una inundación .
+
+ Apagón de varios días. La cisterna y el termo siguen llenos, pero la bomba no funciona. Rellenar bidones de la bañera y filtrarlos es más rápido que subir garrafas. El guion completo está en el kit de apagón .
+
+ Agua de campo o de ruta. Río, manantial o depósito de autocaravana: el mismo filtro sirve el fin de semana. Que es justo lo que falta en la mayoría de kits: equipo que nunca se estrena.
+
+ 
+
+ Los cinco errores que dejan el agua igual que antes
+
+
+ 
+ Filtrar agua muy turbia directamente. La tierra tapa el membrana y lo deja sin caudal en minutos. Primero se decanta o se prefiltra con un paño limpio, y después se filtra.
+
+ Usar el filtro para agua con químicos (gasóleo, disolvente, aljibe tratado con productos de jardinería). Nada de esta lista lo retira: se descarta el agua.
+
+ Comprar pastillas y no mirar la caducidad. Las pastillas pierden potencia; guárdalas secas, en su tarro cerrado, y apunta la fecha en el tarro con rotulador. Igual que con los alimentos de la despensa : lo caducado no es reserva.
+
+ Filtrar y beber sin dejar el tiempo de contacto si además usas pastillas: con agua fría hacen falta varios minutos. Apúntalo en la etiqueta del bidón, para que no lo decida el que tiene más sed.
+
+ No probarlo antes. Un equipo que nunca se ha usado se usa mal. Filtra un vaso de agua en casa y mira cuánto tarda: en el apagón ya sabrás lo que hace.
+
+ 
+
+ Qué comprar hoy (y qué dejar preparado)
+
+
+ Lista mínima y barata: un filtro de tres fases para la casa, un filtro personal por quien salga de casa, una tira de pastillas potabilizadoras y una olla con tapa para hervir. Con eso cubres bacterias, virus y la vía de emergencia sin electricidad. El conjunto encaja en el kit básico de 72 horas y, si vives en zona de riada, en el kit de DANA e inundación .
+
+
+ Y una idea que ahorra dinero: la reserva de agua sigue siendo lo primero . Un purificador no sustituye a los bidones, los amplía. Regla de los tres litros por persona y día, envases y rotación en cómo almacenar agua y comida en casa .
+
 ### Mejor estufa sin luz: 5 tipos para sobrevivir al apagón (2026) — https://kit72h.com/blog/mejor-estufa-sin-luz-apagon/
 Butano, pellets o eléctrica: qué estufa funciona cuando se va la luz, cuánto cuesta cada hora y por qué la eléctrica no sirve en un apagón.
 En abril el apagón duró unas horas con dieciocho grados. En enero, el mismo corte a las tres de la mañana es otro asunto: sin calefacción una vivienda pierde grados en pocas horas, y el Plan Nacional de actuaciones preventivas por bajas temperaturas del Ministerio de Sanidad lo dice sin rodeos: el frío no solo provoca hipotermia, también «favorece los accidentes de tráfico y las caídas por placas de hielo, o los incendios e intoxicaciones por monóxido de carbono a partir de estufas de gas, braseros, etc.». Esa frase resume este artículo: elegir la mejor estufa para cuando se va la luz es cuestión de no convertir la sala de estar en un problema médico.
