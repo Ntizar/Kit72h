@@ -83,6 +83,52 @@ KIT_DESCRIPCIONES = {
     "kit-kit-profesional": "Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.",
     "kit-comunicacion": "Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.",
     "kit-starlink": "Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.",
+    "nevera-portatil-emergencia-72h":
+        "Nevera portátil para emergencias: conserva la comida sin luz (2026)",
+    "mejor-sim-datos-emergencia-cobertura":
+        "Mejor SIM de datos de emergencia: cobertura cuando todo falla (2026)",
+    "mejor-router-4g-emergencia-sin-internet":
+        "Mejor router 4G de emergencia: internet cuando todo falla (2026)",
+    "generador-solar-emergencia-72h":
+        "Generador solar para emergencias: luz cuando se va (2026)",
+    "conectividad-emergencia-starlink-radios-redundancia":
+        "Conectividad de emergencia: Starlink, radio y satélite (2026)",
+    "antena-externa-movil-cobertura-montana":
+        "Antenas externas para móvil: más cobertura en montaña (2026)",
+    "kit-emergencia-trabajo-oficina":
+        "Kit de emergencia en el trabajo: qué guardar y qué hacer (2026)",
+    "salud-mental-y-sueno-en-una-emergencia":
+        "Salud mental y sueño en una emergencia: cómo sostenerse (2026)",
+    "conservar-comida-sin-nevera-ni-frio":
+        "Conservar comida sin nevera: qué aguanta y qué tirar (2026)",
+    "panel-solar-portatil-realista-quantos-watts-urgente":
+        "Panel solar portátil: cuántos watts necesitas de verdad (2026)",
+    "seguridad-pasiva-hogar-incendios-electricos":
+        "Seguridad pasiva del hogar: salva vidas sin hacer nada (2026)",
+    "vestirse-por-capas-ropa-emergencia-frio":
+        "Vestirse por capas: la técnica que evita el frío mortal (2026)",
+    "radiocomunicacion-pmr446-walkie-talkies":
+        "Radiocomunicación PMR446: walkies legales sin licencia (2026)",
+    "volver-a-casa-tras-inundacion":
+        "Volver a casa tras una inundación: lodo, humedad y seguros (2026)",
+    "vivir-solo-estar-preparado":
+        "Vivir solo y estar preparado: kit y red de apoyo (2026)",
+    "plan-familiar-de-emergencia":
+        "Plan familiar de emergencia: punto de encuentro y ensayo (2026)",
+    "medicion-cronica-personas-dependientes":
+        "Medicación crónica sin farmacia: 2-4 semanas aseguradas (2026)",
+    "kit-emergencia-50-euros":
+        "Kit de emergencia por 50 €: casi todo ya está en casa (2026)",
+    "comer-sin-luz-menus-3-dias":
+        "Qué comer si se va la luz: menús de 3 días sin cocina (2026)",
+    "temperatura-sin-electricidad":
+        "Frío y calor sin electricidad: temperatura segura en casa (2026)",
+    "huerto-emergencia-semillas-germinados":
+        "Huerto de emergencia: semillas y germinados para comer (2026)",
+    "el-conocimiento-dartnell":
+        "«El Conocimiento» de Dartnell: reconstruir el mundo (2026)",
+    "carpeta-de-emergencia-documentos":
+        "Documentos y dinero: la carpeta de emergencia del hogar (2026)",
 }
 
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"

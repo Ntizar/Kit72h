@@ -194,7 +194,7 @@
       "cuerpo": "\n<p>Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.</p>\n\n<h2>¿Qué es un panel solar portátil?</h2>\n<p>Un panel solar plegable (100-400W) que se conecta a una batería externa para cargar tus dispositivos: móvil, portátil, radio, iluminación LED.</p>\n\n<h2>Los mejores paneles para emergencias</h2>\n\n<h3>1. Bluetti PV200</h3>\n<p>200W, eficiente (23%), resistente al agua. Ideal para mochila de emergencia. 200-300€.</p>\n\n<h3>2. EcoFlow 110W Solar Panel</h3>\n<p>110W, plegable, ligero. Ideal para complementar tu powerstation. 150-200€.</p>\n\n<h3>3. Jackery SolarSaga 100W</h3>\n<p>100W, plegable, resistente. Compatible con la mayoría de powerstations. 150-200€.</p>\n\n<h2>¿Cuánta energía produce?</h2>\n<p>Un panel de 100W produce ~400-500Wh al día en condiciones ideales (6-8h de sol directo). En invierno y nuboso, ~200-300Wh.</p>\n\n<h2>Conclusión</h2>\n<p>Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.</p>\n  "
     },
     {
-      "titulo": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad (2026)",
+      "titulo": "Nevera portátil para emergencias: conserva la comida sin luz (2026)",
       "resumen": "Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.",
       "fecha": "2026-10-01",
       "lectura": "1 min",
@@ -203,7 +203,7 @@
       "cuerpo": "\n<p>Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y empiezas a tener hambre. Una nevera portátil te mantiene la comida fresca sin electricidad.</p>\n\n<h2>¿Qué es una nevera portátil?</h2>\n<p>Una nevera portátil es un dispositivo que puede funcionar con 12V (coche) o 220V (enchufe), ideal para emergencias donde no hay luz pero sí energía de otros fuentes (powerstation, solar, coche).</p>\n\n<h2>Tipos de neveras portátiles</h2>\n<ul>\n<li><strong>Compresión</strong>: Como una nevera normal, más cara (200-500€) pero eficiente</li>\n<li><strong>Termoeléctrica</strong>: Más barata (50-150€) pero menos eficiente</li>\n<li><strong>Absorción</strong>: Funciona con gas o 12V, ideal para camping pero menos común</li>\n</ul>\n\n<h2>Las mejores para emergencias</h2>\n\n<h3>1. Dometic CFX3 50</h3>\n<p>La mejor del mercado: -20°C a +20°C, 50L, eficiente, silenciosa. 500-700€.</p>\n\n<h3>2. Whynter ARC-14S</h3>\n<p>Mejor relación calidad-precio: -20°C a +20°C, 3.2ft³, eficiente. 300-400€.</p>\n\n<h3>3. ICECO VL60</h3>\n<p>Alternativa económica: -20°C a +20°C, 60L, eficiente. 200-300€.</p>\n\n<h2>¿Cuánta energía consume?</h2>\n<p>Una nevera de compresión consume ~50-100W/h. Con una powerstation de 500Wh, puedes mantenerla funcionando ~5-10 horas. Con 1000Wh, ~10-20 horas.</p>\n\n<h2>Conclusión</h2>\n<p>Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).</p>\n  "
     },
     {
-      "titulo": "Las mejores SIM de datos de emergencia: cobertura cuando todo falla (2026)",
+      "titulo": "Mejor SIM de datos de emergencia: cobertura cuando todo falla (2026)",
       "resumen": "Comparativa de SIM de datos para emergencias en España. Cuál es la mejor operadora para zonas rurales y apagones.",
       "fecha": "2026-10-01",
       "lectura": "1 min",
@@ -212,7 +212,7 @@
       "cuerpo": "\n<p>Cuando se va la red eléctrica, la cobertura móvil es lo primero que cae. Pero no todas las operadoras son iguales.</p>\n\n<h2>El problema</h2>\n<p>Las torres de telefonía necesitan electricidad. Las que tienen batería de emergencia (3-8h) sobreviven primero. Si la torre se daña físicamente (árboles, inundaciones), necesitas cobertura de otra operadora.</p>\n\n<h2>Las mejores operadoras para emergencias</h2>\n\n<h3>1. Vodafone</h3>\n<p>Mejor cobertura rural en España. Ideal para emergencias.</p>\n\n<h3>2. Orange</h3>\n<p>Buena cobertura en norte y este. Comparte infraestructura con Movistar.</p>\n\n<h3>3. Movistar</h3>\n<p>Más infraestructura en total, pero no siempre la mejor en zonas remotas.</p>\n\n<h3>4. Operadoras virtuales (Lebara, O2, MásMóvil)</h3>\n<p>Usan la red de Movistar. Menos inversión en infraestructura propia.</p>\n\n<h2>Preparación</h2>\n<ol>\n<li>Tener SIM de al menos 2 operadoras</li>\n<li>Planes con datos ilimitados o grandes bolsas</li>\n<li>Router 4G/5G portátil con batería</li>\n<li>Antena externa si vives en zona de mala cobertura</li>\n</ol>\n\n<h2>Conclusión</h2>\n<p>Una SIM de Vodafone (o cualquier operadora con buena cobertura rural) es un seguro contra el aislamiento. 10-20€/mes y puedes estar comunicado durante una emergencia.</p>\n  "
     },
     {
-      "titulo": "El mejor router 4G de emergencia: cuando el WiFi y el móvil no bastan (2026)",
+      "titulo": "Mejor router 4G de emergencia: internet cuando todo falla (2026)",
       "resumen": "Router 4G portátil para emergencias: cuál comprar, cómo usarlo, alternativas cuando no hay cobertura móvil.",
       "fecha": "2026-10-01",
       "lectura": "1 min",
@@ -221,7 +221,7 @@
       "cuerpo": "\n<p>El móvil no es la mejor herramienta para tener internet durante días. Un router 4G/5G portátil con batería integrada es mucho más práctico.</p>\n\n<h2>¿Por qué un router y no el móvil?</h2>\n<ul>\n<li>Batería de 8-12h (vs 2-4h del móvil)</li>\n<li>Antena externa opcional (mejor señal)</li>\n<li>Conecta varios dispositivos a la vez</li>\n<li>No gasta la batería de tu móvil (que necesitas para llamadas)</li>\n</ul>\n\n<h2>Los mejores routers 4G para emergencias</h2>\n\n<h3>1. Huawei B535</h3>\n<p>Router 4G fijo con bateria de respaldo. Ideal si tienes energía eléctrica pero no WiFi.</p>\n\n<h3>2. ZTE MF286</h3>\n<p>Mini router 4G portátil con batería. Perfecto para mochila de emergencia.</p>\n\n<h3>3. Peplink MAXRU 4G</h3>\n<p>Router profesional 4G con backup de antena externa. Para emergencias prolongadas.</p>\n\n<h2>Instalación</h2>\n<ol>\n<li>Introduces la SIM de datos</li>\n<li>Lo enciendes (se conecta automáticamente)</li>\n<li>Te conectas por WiFi</li>\n<li>Listo</li>\n</ol>\n\n<h2>Conclusión</h2>\n<p>Un router 4G de emergencia cuesta 50-200€ y es mucho más práctico que depender del móvil para internet durante una emergencia prolongada.</p>\n  "
     },
     {
-      "titulo": "Generador solar para emergencias de 72h: autonomía cuando se va la luz (2026)",
+      "titulo": "Generador solar para emergencias: luz cuando se va (2026)",
       "resumen": "Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.",
       "fecha": "2026-10-01",
       "lectura": "1 min",
@@ -230,7 +230,7 @@
       "cuerpo": "\n<p>Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.</p>\n\n<h2>¿Qué es un generador solar?</h2>\n<p>Son paneles solares plegables (100-400W) que cargan una batería externa (powerstation) para alimentar tus dispositivos: móvil, portátil, radio, iluminación LED y hasta pequeños electrodomésticos.</p>\n\n<h2>¿Por qué solar y no gasolina?</h2>\n<ul>\n<li><strong>Silencioso</strong>: 0dB (vs 70dB de gasolina)</li>\n<li><strong>Sin humos</strong>: No contamina, ideal para interiores</li>\n<li><strong>Sin combustible</strong>: Solo necesitas sol (o nuboso)</li>\n<li><strong>Puede dejarse conectado</strong>: Carga y descargra continuamente</li>\n</ul>\n\n<h2>Los mejores para tu kit 72h</h2>\n\n<h3>1. Bluetti AC200MAX + Solar 200W</h3>\n<p>La solución profesional: 2000Wh de batería + 200W de paneles. Carga tu portátil 15 veces, móvil 40 veces, nevera portátil 8 horas. 2000-3000€.</p>\n\n<h3>2. EcoFlow River 2 Pro + Solar 100W</h3>\n<p>Más asequible: 768Wh + 100W solar. Carga móvil 10 veces, portátil 3 veces, iluminación LED 20 horas. 500-700€.</p>\n\n<h3>3. Jackery Explorer 1000 + Solar 100W</h3>\n<p>Alternativa sólida: 1000Wh + 100W. Misma capacidad que el EcoFlow, mismo precio.</p>\n\n<h2>¿Cuánta autonomía necesitas?</h2>\n<p>Depende de lo que vayas a usar:</p>\n<ul>\n<li><strong>Solo móvil + linterna</strong>: 100-200Wh (powerbank grande)</li>\n<li><strong>Móvil + portátil + radio</strong>: 500-1000Wh (EcoFlow/Jackery)</li>\n<li><strong>Móvil + portátil + nevera + iluminación</strong>: 2000Wh+ (Bluetti/EFK)</li>\n</ul>\n\n<h2>Instalación básica</h2>\n<ol>\n<li>Coloca el panel solar al sol (o en ventana si estás dentro)</li>\n<li>Conecta el panel a la batería (cable MC4)</li>\n<li>Conecta tus dispositivos a la batería (enchufe AC/USB)</li>\n<li>Listo</li>\n</ol>\n\n<p><strong>Nota:</strong> La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.</p>\n  "
     },
     {
-      "titulo": "Conectividad de emergencia: Starlink, radio, satélite y redundancia (2026)",
+      "titulo": "Conectividad de emergencia: Starlink, radio y satélite (2026)",
       "resumen": "Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger s...",
       "fecha": "2026-10-01",
       "lectura": "7 min",
@@ -239,7 +239,7 @@
       "cuerpo": "\n\n<p>Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, la cobertura móvil. En una DANA, un apagón prolongado o un terremoto, los tres sistemas más usados —WiFi, móvil y fibra— pueden morir simultáneamente. Y sin comunicación, no hay coordinación, no hay información, no hay ayuda.</p>\n\n<p>Aquí es donde la preparación seria se separa de la improvisación. No se trata de comprar lo más caro: se trata de tener <strong>tres sistemas independientes</strong> que funcionen de forma autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.</p>\n\n<p>Esta guía cubre las tres capas de conectividad de emergencia, desde la más fácil (Starlink) hasta la más robusta (radio HF), con productos, costes y cuándo usar cada cosa.</p>\n\n<hr>\n\n<h2>Capa 1: Internet satelital — Starlink</h2>\n\n<p>Starlink es la solución de internet más cercana a la banda ancha terrestre que existe. Funciona desde cualquier punto del planeta con visibilidad del cielo, sin infraestructura de fibra ni torres celulares.</p>\n\n<h3>¿Cómo funciona?</h3>\n\n<p>Una terminal plana (el «Dishy») se coloca en tejado, balcón o jardín y apunta a la constelación de satélites de SpaceX que orbitan a 550 km de altitud. La terminal consume entre 50 y 100W en funcionamiento normal (5-10W en standby), así que una batería de litio o un panel solar de 200W la mantienen encendida indefinidamente.</p>\n\n<h3>Especificaciones para emergencias</h3>\n\n<ul>\n<li><strong>Velocidad:</strong> 50-200 Mbps de descarga, 10-20 Mbps de subida (Gen 3)</li>\n<li><strong>Latencia:</strong> 30-80 ms (idéntica a la fibra en uso práctico)</li>\n<li><strong>Cobertura:</strong> Global en zonas con visibilidad del cielo — España está cubierta en la mayor parte del territorio</li>\n<li><strong>Instalación:</strong> 5 minutos, sin herramientas</li>\n<li><strong>Consumo:</strong> 50-100W (funcionando) · 5-10W (standby)</li>\n<li><strong>Resistencia:</strong> Resistente a viento de hasta 120 km/h, lluvia, nieve y granizo</li>\n</ul>\n\n<h3>Costes</h3>\n\n<table style=\"width:100%;border-collapse:collapse;margin:16px 0;font-family:var(--mono);font-size:13px\">\n  <tr style=\"border-bottom:var(--b);text-align:left\">\n    <th style=\"padding:8px 12px\">Plan</th>\n    <th style=\"padding:8px 12px\">Precio terminal</th>\n    <th style=\"padding:8px 12px\">Precio mensual</th>\n    <th style=\"padding:8px 12px\">Uso</th>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\">Residencial</td>\n    <td style=\"padding:8px 12px\">~500-600 EUR</td>\n    <td style=\"padding:8px 12px\">~50 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Fijo, misma ubicación</td>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\">Móvil en tránsito</td>\n    <td style=\"padding:8px 12px\">~1200 EUR</td>\n    <td style=\"padding:8px 12px\">~45 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Móvil (coche, barco, camping)</td>\n  </tr>\n  <tr>\n    <td style=\"padding:8px 12px\">Temporal</td>\n    <td style=\"padding:8px 12px\">~500-600 EUR</td>\n    <td style=\"padding:8px 12px\">~100 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Emergencia puntual, cancelable</td>\n  </tr>\n</table>\n\n<h3>¿Cuándo usar Starlink en una emergencia?</h3>\n\n<p>Starlink es ideal cuando necesitas <strong>internet de verdad</strong> — videollamadas, descarga de documentos, acceso a sistemas de emergencia — y no hay infraestructura terrestre disponible. Es especialmente útil para:</p>\n\n<ul>\n<li>Albergues de emergencia o puntos de coordinación con necesidad de conectividad</li>\n<li>Centros de mando donde se necesita transmitir información</li>\n<li>Hogares en zona rural sin fibra ni cobertura 4G</li>\n<li>Evacuación a zona donde la red se ha ido</li>\n</ul>\n\n<p><strong>Limitación:</strong> La terminal es grande (57 x 57 x 3 cm, 4.5 kg). No es transportable en una mochila de emergencia. Se requiere una ubicación fija con visibilidad del cielo.</p>\n\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=starlink+terminal+portatil&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Ver Starlink en Amazon ↗</a></p>\n\n<hr>\n\n<h2>Capa 2: Conectividad celular — redundancia</h2>\n\n<p>El móvil es el sistema de comunicación más usado. Y por eso es también el más vulnerable: una sola operadora caída deja a todo el mundo desconectado. La clave es tener <strong>dos operadoras diferentes</strong> y un router que las gestione.</p>\n\n<h3>Router 4G/5G industrial con dual SIM</h3>\n\n<p>Un router industrial como el <strong>Peplink MAX BR</strong>, <strong>Gargoyle</strong> o similares acepta dos SIMs de operadoras distintas (ej: Movistar + Orange). Si una torre se cae, el router cambia a la otra automáticamente. Además, ofrecen:</p>\n\n<ul>\n<li>WAN/LAN: puertos ethernet para conectar routers WiFi o Switch</li>\n<li>VPN: puedes conectar tu router doméstico a un punto remoto</li>\n<li>PoE: se alimenta por cable de red, ideal para instalación en tejado</li>\n<li>Antenas externas: conectores SMA para antenas de alta ganancia</li>\n<li>Monitorización web: dashboard para ver estado de red, batería y señal</li>\n</ul>\n\n<h3>Antena panel de alta ganancia</h3>\n\n<p>En zonas rurales, la señal 4G puede ser débil pero usable si se orienta la antena correctamente hacia la torre más cercana. Una antena panel de 18-23 dBi mejora la señal entre 10 y 20 dB.</p>\n\n<p><strong>Procedimiento:</strong></p>\n<ol>\n<li>Instalar la antena en un mástil de 3-5 metros en tejado o fachada</li>\n<li>Orientarla hacia la torre más cercana (hay apps como <em>CellMapper</em> que muestran las torres en mapa)</li>\n<li>Conectar el cable coaxial (LMR-400, baja pérdida) al router 4G/5G</li>\n<li>Configurar el router con las dos SIMs</li>\n</ol>\n\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=antena+4g+5g+panel+exterior+ganancia&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Buscar antenas panel 4G/5G ↗</a> · <a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=router+5g+industrial+dual+sim+4g&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Buscar routers industriales ↗</a></p>\n\n<hr>\n\n<h2>Capa 3: Mensajería satelital — el último recurso</h2>\n\n<p>Cuando cae todo — Starlink apagado por falta de energía, router sin señal, y radio inexistente — el messenger satelital es el último sistema que funciona. No requiere infraestructura terrestre ni visibilidad del cielo para enviar mensajes de texto.</p>\n\n<h3>Garmin inReach Mini 2</h3>\n\n<p>El dispositivo de comunicación satelital más conocido para emergencias. Funciona con la red Iridium (cobertura global, incluyendo polos). Ofrece:</p>\n\n<ul>\n<li>Mensajes bidireccionales por SMS o a contactos predefinidos</li>\n<li>SOS global (conecta con centros de coordinación de rescate)</li>\n<li>GPS integrado con ubicación en tiempo real</li>\n<li>Batería de 2-3 días en modo normal (semanas en modo ahorro)</li>\n<li>Resistente al agua (IPX7), resistente a caídas</li>\n<li>App para smartphone: enviar mensajes desde el móvil sin el dispositivo</li>\n</ul>\n\n<p><strong>Coste:</strong> ~350-450 EUR dispositivo + 30-50 EUR/mes plan de datos</p>\n\n<h3>Zoleo</h3>\n\n<p>Alternativa con dashboard web: puedes ver la ubicación de tu familia en tiempo real desde cualquier navegador. Funciona con redes Iridium y Globalstar (doble red para mayor probabilidad de conexión).</p>\n\n<p><strong>Coste:</strong> ~300-400 EUR dispositivo + 30-50 EUR/mes plan</p>\n\n<h3>¿Cuándo usar el messenger satelital?</h3>\n\n<p>Es el dispositivo que <strong>nunca debería ser el único</strong>, pero sí debería estar siempre en la mochila de evacuación. Se usa para:</p>\n\n<ul>\n<li>Enviar una señal de SOS cuando no hay ningún otro medio</li>\n<li>Comunicar ubicación a familiares cuando se está perdido</li>\n<li>Confirmar que se está bien a la familia cuando se recupera la conectividad</li>\n<li>Recibir alertas de emergencia (en algunos modelos)</li>\n</ul>\n\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=garmin+inreach+mini+2&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Ver Garmin inReach Mini 2 ↗</a></p>\n\n<hr>\n\n<h2>Capa 4: Radio — el sistema que no falla</h2>\n\n<p>La radio es el sistema de comunicación más antiguo, más barato y más fiable. No depende de satélites, no necesita infraestructura, no se satura con volumen. Cuando todo lo demás falla, la radio sigue funcionando.</p>\n\n<h3>Walkie-talkies profesionales PMR446</h3>\n\n<p>Los walkies PMR446 son el sistema de comunicación más básico y accesible. No requieren licencia, funcionan en 16 canales predefinidos y tienen alcance de 2 a 5 km en terreno abierto (menos en ciudad).</p>\n\n<p>Un set de 4 walkies profesionales (Motorola Talkabout o similar) cuesta ~100-200 EUR y se reparte entre los miembros de la familia. Son útiles para:</p>\n\n<ul>\n<li>Coordinar la evacuación intra-familiar (quién va dónde, cuándo)</li>\n<li>Comunicación en el hogar durante una emergencia (entre plantas)</li>\n<li>Coordinación con vecinos o equipos de rescate cercanos</li>\n<li>Comunicación en zonas donde el móvil no llega (aunque sea 2 km)</li>\n</ul>\n\n<p><strong>Especificaciones:</strong> 16 canales, 0,5-2W de potencia, IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.</p>\n\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=walkie+talkie+profesional+pmr446+pack+4&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Buscar walkies PMR446 ↗</a></p>\n\n<h3>Radio amateur HF (licencia CETIC)</h3>\n\n<p>La radio amateur es la capa más profunda de conectividad de emergencia. Con una antena de onda corta y una radio HF, puedes comunicarte con cualquier punto del planeta mediante propagación ionosférica. No necesita infraestructura alguna.</p>\n\n<p><strong>Para empezar:</strong></p>\n<ul>\n<li><strong>Licencia:</strong> examen gratuito en el CETIC (Centro de Ensayos de la Industria de las Telecomunicaciones). Se puede preparar con material online gratuito.</li>\n<li><strong>Radio:</strong> Icom IC-7100 o Yaesu FT-710 como punto de partida (~600-1200 EUR)</li>\n<li><strong>Antena:</strong> antena de onda corta o dipolo (100-300 EUR)</li>\n<li><strong>Alcance:</strong> local (VHF) → regional (HF día) → internacional (HF noche)</li>\n</ul>\n\n<p>Los radioaficionados colaboran activamente con Protección Civil en España a través de la <strong>REDVOL</strong> (Red de Voluntarios en Emergencias de Telecomunicaciones). Si tienes licencia y quieres colaborar, hay grupos locales en todas las comunidades.</p>\n\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/s?k=radio+aficionado+hf+icoma+yaesu&amp;tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Buscar radios HF ↗</a></p>\n\n<hr>\n\n<h2>Estrategia de redundancia triple</h2>\n\n<p>La preparación profesional no se basa en un único sistema, sino en la <strong>redundancia triple</strong>: tres sistemas independientes que funcione de manera autónoma. Si uno falla, los otros dos siguen vivos. Si dos fallan, el tercero aguanta.</p>\n\n<table style=\"width:100%;border-collapse:collapse;margin:16px 0;font-family:var(--mono);font-size:13px\">\n  <tr style=\"border-bottom:var(--b);text-align:left;background:#e8e0cf\">\n    <th style=\"padding:8px 12px\">Capa</th>\n    <th style=\"padding:8px 12px\">Sistema</th>\n    <th style=\"padding:8px 12px\">Coste total</th>\n    <th style=\"padding:8px 12px\">Independencia</th>\n    <th style=\"padding:8px 12px\">Cuándo falla</th>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\"><strong>1</strong></td>\n    <td style=\"padding:8px 12px\">Starlink (satélite)</td>\n    <td style=\"padding:8px 12px\">~500 EUR + 50 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Sin infraestructura terrestre</td>\n    <td style=\"padding:8px 12px\">Sin energía / sin visibilidad cielo</td>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\"><strong>2</strong></td>\n    <td style=\"padding:12px\">Router 4G/5G industrial (2 SIMs)</td>\n    <td style=\"padding:8px 12px\">~400-800 EUR + 80 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Operadora alternativa</td>\n    <td style=\"padding:8px 12px\">Torres caídas + sin energía</td>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\"><strong>3</strong></td>\n    <td style=\"padding:8px 12px\">Messenger satelital</td>\n    <td style=\"padding:8px 12px\">~350 EUR + 30 EUR/mes</td>\n    <td style=\"padding:8px 12px\">Red satelital independiente</td>\n    <td style=\"padding:8px 12px\">Sin batería</td>\n  </tr>\n  <tr style=\"border-bottom:1px solid #ddd\">\n    <td style=\"padding:8px 12px\"><strong>4</strong></td>\n    <td style=\"padding:8px 12px\">Walkies PMR446</td>\n    <td style=\"padding:8px 12px\">~100-200 EUR</td>\n    <td style=\"padding:8px 12px\">Cero infraestructura</td>\n    <td style=\"padding:8px 12px\">Sin batería / alcance limitado</td>\n  </tr>\n  <tr>\n    <td style=\"padding:8px 12px\"><strong>5</strong></td>\n    <td style=\"padding:8px 12px\">Radio HF amateur</td>\n    <td style=\"padding:8px 12px\">~600-1200 EUR</td>\n    <td style=\"padding:8px 12px\">Sin infraestructura alguna</td>\n    <td style=\"padding:8px 12px\">Necesita licencia + habilidad</td>\n  </tr>\n</table>\n\n<h3>El presupuesto mínimo funcional</h3>\n\n<p>Lo esencial para tener una conectividad decente cuando caen las redes:</p>\n\n<ul>\n<li><strong>Walkies PMR446 (4 unidades):</strong> ~150 EUR</li>\n<li><strong>Router 4G/5G industrial + 1 antena panel:</strong> ~600 EUR</li>\n<li><strong>Messenger satelital (Garmin inReach):</strong> ~350 EUR</li>\n<li><strong>Total mínimo:</strong> ~1.100 EUR (sin suscripciones)</li>\n</ul>\n\n<p>Con Starlink se sube a ~1.600 EUR inicial + ~80 EUR/mes de suscripciones, pero se obtiene internet real de banda ancha.</p>\n\n<h3>Lo que no necesitas comprar (todavía)</h3>\n\n<p>La radio HF amateur es la capa más potente pero requiere formación y licencia. No es imprescindible para la mayoría de hogares. Si te interesa, empieza con los walkies PMR446 y el messenger satelital; la radio HF es un camino de aprendizaje que puedes empezar a estudiar cuando tengas los sistemas básicos cubiertos.</p>\n\n<hr>\n\n<h2>Resumen: qué comprar, cuándo y por qué</h2>\n\n<div class=\"ruta-corta\" style=\"margin:30px 0\">\n  <div>\n    <h3 style=\"font-family:var(--display);font-size:20px;text-transform:uppercase;margin-bottom:8px\">La regla de las tres capas</h3>\n    <p style=\"color:#4a4238;font-size:14px\">Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.</p>\n  "
     },
     {
-      "titulo": "Antenas externas para móvil: mejora la cobertura en zonas rurales y montaña (2026)",
+      "titulo": "Antenas externas para móvil: más cobertura en montaña (2026)",
       "resumen": "Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.",
       "fecha": "2026-10-01",
       "lectura": "1 min",
@@ -311,7 +311,7 @@
     },
     {
       "slug": "kit-emergencia-trabajo-oficina",
-      "titulo": "Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio (2026)",
+      "titulo": "Kit de emergencia en el trabajo: qué guardar y qué hacer (2026)",
       "fecha": "2026-09-27",
       "lectura": "14 min",
       "resumen": "Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y ...",
@@ -372,7 +372,7 @@
     },
     {
       "slug": "salud-mental-y-sueno-en-una-emergencia",
-      "titulo": "Salud mental y sueño en una emergencia: cómo sostener la cabeza (y a los tuyos) cuando todo se desordena (2026)",
+      "titulo": "Salud mental y sueño en una emergencia: cómo sostenerse (2026)",
       "fecha": "2026-09-24",
       "lectura": "12 min",
       "resumen": "Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marc...",
@@ -426,7 +426,7 @@
     },
     {
       "slug": "conservar-comida-sin-nevera-ni-frio",
-      "titulo": "Conservar comida sin nevera: qué aguanta de verdad y qué hay que tirar (2026)",
+      "titulo": "Conservar comida sin nevera: qué aguanta y qué tirar (2026)",
       "fecha": "2026-09-21",
       "lectura": "12 min",
       "resumen": "Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos cas...",
@@ -482,7 +482,7 @@
     },
     {
       "slug": "panel-solar-portatil-realista-quantos-watts-urgente",
-      "titulo": "Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia (2026)",
+      "titulo": "Panel solar portátil: cuántos watts necesitas de verdad (2026)",
       "fecha": "2026-09-18",
       "lectura": "8 min",
       "resumen": "La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido p...",
@@ -533,7 +533,7 @@
     },
     {
       "slug": "seguridad-pasiva-hogar-incendios-electricos",
-      "titulo": "Seguridad pasiva del hogar: los elementos que salvan vidas sin que hagas nada (2026)",
+      "titulo": "Seguridad pasiva del hogar: salva vidas sin hacer nada (2026)",
       "fecha": "2026-09-15",
       "lectura": "8 min",
       "resumen": "Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un ince...",
@@ -587,7 +587,7 @@
     },
     {
       "slug": "vestirse-por-capas-ropa-emergencia-frio",
-      "titulo": "Vestirse por capas: la técnica que marca la diferencia entre una noche de frío y un riesgo mortal (2026)",
+      "titulo": "Vestirse por capas: la técnica que evita el frío mortal (2026)",
       "fecha": "2026-09-09",
       "lectura": "8 min",
       "resumen": "No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de...",
@@ -640,7 +640,7 @@
     },
     {
       "slug": "radiocomunicacion-pmr446-walkie-talkies",
-      "titulo": "Radiocomunicación PMR446: walkie-talkies legales para emergencias sin licencia (2026)",
+      "titulo": "Radiocomunicación PMR446: walkies legales sin licencia (2026)",
       "fecha": "2026-09-06",
       "lectura": "7 min",
       "resumen": "Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de ...",
@@ -685,7 +685,7 @@
     },
     {
       "slug": "volver-a-casa-tras-inundacion",
-      "titulo": "Volver a casa después de una inundación: seguridad, lodo, humedad y seguros (2026)",
+      "titulo": "Volver a casa tras una inundación: lodo, humedad y seguros (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
       "resumen": "La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar...",
@@ -713,7 +713,7 @@
     },
     {
       "slug": "vivir-solo-estar-preparado",
-      "titulo": "Vivir solo y estar preparado: el kit de una persona y la red que lo sostiene (2026)",
+      "titulo": "Vivir solo y estar preparado: kit y red de apoyo (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
       "resumen": "Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan...",
@@ -742,7 +742,7 @@
     },
     {
       "slug": "plan-familiar-de-emergencia",
-      "titulo": "Plan familiar de emergencia: punto de encuentro, contactos, roles y ensayo (2026)",
+      "titulo": "Plan familiar de emergencia: punto de encuentro y ensayo (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
       "resumen": "Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mo...",
@@ -770,7 +770,7 @@
     },
     {
       "slug": "medicion-cronica-personas-dependientes",
-      "titulo": "Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia (2026)",
+      "titulo": "Medicación crónica sin farmacia: 2-4 semanas aseguradas (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
       "resumen": "Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a c...",
@@ -802,7 +802,7 @@
     },
     {
       "slug": "kit-emergencia-50-euros",
-      "titulo": "Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa (2026)",
+      "titulo": "Kit de emergencia por 50 €: casi todo ya está en casa (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
       "resumen": "No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presu...",
@@ -830,7 +830,7 @@
     },
     {
       "slug": "comer-sin-luz-menus-3-dias",
-      "titulo": "Qué comer si se va la luz: menús de tres días sin cocina y sin nevera (2026)",
+      "titulo": "Qué comer si se va la luz: menús de 3 días sin cocina (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
       "resumen": "Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media ...",
@@ -894,7 +894,7 @@
     },
     {
       "slug": "temperatura-sin-electricidad",
-      "titulo": "Frío y calor sin electricidad: cómo mantener la temperatura corporal (2026)",
+      "titulo": "Frío y calor sin electricidad: temperatura segura en casa (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
       "resumen": "La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.",
@@ -989,7 +989,7 @@
     },
     {
       "slug": "huerto-emergencia-semillas-germinados",
-      "titulo": "Semillas, germinados y huerto de emergencia: tu seguridad alimentaria (2026)",
+      "titulo": "Huerto de emergencia: semillas y germinados para comer (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
       "resumen": "Un bote de berros en la ventana produce comida comestible en 5 días sin luz solar. Es el eslabón entre el kit de 72 horas y la autosuficiencia real.",
@@ -1006,7 +1006,7 @@
     },
     {
       "slug": "el-conocimiento-dartnell",
-      "titulo": "\"El Conocimiento\" de Lewis Dartnell: el manual para reconstruir el mundo desde cero (2026)",
+      "titulo": "«El Conocimiento» de Dartnell: reconstruir el mundo (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
       "resumen": "¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu ki...",
@@ -1096,7 +1096,7 @@
     },
     {
       "slug": "carpeta-de-emergencia-documentos",
-      "titulo": "Documentos y dinero: la carpeta de emergencia que todo hogar debería tener (2026)",
+      "titulo": "Documentos y dinero: la carpeta de emergencia del hogar (2026)",
       "fecha": "2026-08-31",
       "lectura": "1 min",
       "resumen": "Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses me...",

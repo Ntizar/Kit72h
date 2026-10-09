@@ -6,6 +6,49 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-09 — 23 títulos de blog acortados (≤72 chars)
+
+**Orden aplicado:** prerender PRIMERO → optimización DESPUÉS → re-horneado
+(final, para que el HTML publicado lleve los títulos nuevos — están en
+`data/blog.json`, la fuente de verdad, así que el horneado LOS REPRODUCE, no
+los revierte) → gate → commit. Horneado con `prerender-full-vm.py` (Playwright).
+
+**Situación:** `kit72h-seo-ctr.py` reporta 0 mejoras de sus reglas (todo ya
+optimizado por la ronda del 08), pero 23 de 46 entradas de blog tenían
+`<title>` de **74–111 chars**: Google los trunca en el SERP (~60-70 visibles),
+perdiendo el beneficio/keyword final. Keyword delante, año dentro, todo ≤72.
+
+### Títulos de blog (data/blog.json)
+
+| Slug | Antes | Después |
+|---|---|---|
+| salud-mental-y-sueno-en-una-emergencia | …cómo sostener la cabeza (y a los tuyos) cuando todo se desordena (2026) (111) | Salud mental y sueño en una emergencia: cómo sostenerse (2026) (62) |
+| vestirse-por-capas-ropa-emergencia-frio | …la técnica que marca la diferencia entre una noche de frío y un riesgo mortal (2026) (104) | Vestirse por capas: la técnica que evita el frío mortal (2026) (62) |
+| panel-solar-portatil-realista-quantos-watts-urgente | Panel solar portátil realista: cuántos watts de verdad necesitas para una emergencia (2026) (91) | Panel solar portátil: cuántos watts necesitas de verdad (2026) (62) |
+| el-conocimiento-dartnell | "El Conocimiento" de Lewis Dartnell: el manual para reconstruir el mundo desde cero (2026) (90) | «El Conocimiento» de Dartnell: reconstruir el mundo (2026) (58) |
+| kit-emergencia-trabajo-oficina | Kit de emergencia en el trabajo: qué guardar en el cajón y cómo salir del edificio (2026) (89) | Kit de emergencia en el trabajo: qué guardar y qué hacer (2026) (63) |
+| kit-emergencia-50-euros | Prepararse con 50 euros: el kit de emergencia que ya tienes casi entero en casa (2026) (86) | Kit de emergencia por 50 €: casi todo ya está en casa (2026) (60) |
+| medicion-cronica-personas-dependientes | Medicación crónica y personas dependientes: cómo asegurar 2-4 semanas sin farmacia (2026) (89) | Medicación crónica sin farmacia: 2-4 semanas aseguradas (2026) (62) |
+| + 16 más | 74–85 chars | 55–68 chars |
+
+*(16 restantes: nevera-portatil, mejor-sim-datos, mejor-router-4g, generador-solar,
+conectividad, antena-externa, conservar-comida, seguridad-pasiva, pmr446,
+volver-a-casa, vivir-solo, plan-familiar, comer-sin-luz, temperatura,
+huerto, carpeta-documentos — todos keyword delante + (2026) + ≤72.)*
+
+### Script `scripts/kit72h-seo-ctr.py`
+
+- Los 23 títulos nuevos añadidos al dict `BLOG_TITULOS` (mandan sobre las
+  reglas genéricas): el cron de las 06:30 es idempotente sobre ellos y no
+  vuelve a tocarlos.
+
+### Verificación (2026-10-09)
+
+- `prerender-full-vm.py`: 70 rutas, 0 fallos, 0 `index.html` a 0 bytes.
+- Gate `verificar-sitio.py`: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
 ## 2026-10-08 — 11 mejoras (7 títulos de blog + home + zona/fuentes)
 
 **Orden aplicado:** prerender PRIMERO → optimización DESPUÉS → commitear solo lo
