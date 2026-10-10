@@ -20,8 +20,11 @@ PLAN = REPO / "notes" / "plan-crecimiento"
 ENTRADA = PLAN / "_entrada.json"
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 # SOLO estos paths: nunca `git add -A` (arrastraría cambios ajenos del árbol).
-PATHS = ["data/blog.json", "blog", "index.html", "sitemap.xml", "feed.xml",
-         "llms.txt", "llms-full.txt", "notes/plan-crecimiento", "notes/mapa-keywords.md"]
+# OJO: incluir TODO lo que reescribe el horneado (kit/fuentes/zona/index/sitemap…)
+# o el árbol queda sucio y el `git pull --rebase` de la cadena siguiente falla.
+PATHS = ["data/blog.json", "blog", "kit", "fuentes", "zona", "index.html",
+         "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
+         "notes/plan-crecimiento", "notes/mapa-keywords.md"]
 
 
 def git(*args, timeout=300):
@@ -55,11 +58,11 @@ def main():
         print("❌ Publicador: la publicación de «%s» FALLÓ (ver arriba). NO se commitea." % slug)
         return 1
 
+    marca.write_text("publicado\n", encoding="utf-8")  # antes del add: entra en el commit
     git("add", *PATHS)
     st = git("status", "--porcelain")
     if not st.stdout.strip():
         print("Publicador: «%s» ya estaba en el árbol (sin cambios que commitear)." % slug)
-        marca.write_text("sin cambios\n", encoding="utf-8")
         return 0
 
     c = git(*IDENT, "commit", "-m", "consejero: publicar «%s» (blog)" % slug)

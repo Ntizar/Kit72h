@@ -30,6 +30,9 @@ LOG = PLAN_DIR / "log-decisiones.md"
 MAPA = RAIZ / "notes" / "mapa-keywords.md"
 HOY = date.today().isoformat()
 TAG = "ntizar-21"
+# paths que genera el publicador (para el rollback de una publicación fallida)
+PATHS_REVERT = ["data/blog.json", "blog", "index.html", "sitemap.xml", "feed.xml",
+                "llms.txt", "llms-full.txt", "notes/mapa-keywords.md"]
 
 MESES_ESTACION = {
     # mes → lista de tokens de escenario estacional
@@ -233,6 +236,29 @@ def construir_candidatos():
                       "destino": "data/kits.json", "prioridad": "P2",
                       "intencion": "compra", "volumen": "media",
                       "estado": "pendiente"})
+    # revamps: artículos «stub» (<800 palabras) — reescribir es MÁS rentable que
+    # escribir nuevos (ya están indexados y el contenido fino perjudica). Score
+    # moderado para que convivan con los candidatos de compra; el log penaliza
+    # los ya revampados.
+    blog = leer_json(RAIZ / "data" / "blog.json", {"entradas": []})
+    stubs = []
+    for e in blog.get("entradas", []):
+        c = e.get("cuerpo")
+        if isinstance(c, str):
+            w = len(re.sub(r"<[^>]+>", " ", c).split())
+            if w < 800:
+                stubs.append((w, e.get("slug", ""), e.get("titulo", "")))
+    stubs.sort()
+    for w, slug, tit in stubs[:6]:
+        cands.append({
+            "titulo": "Revamp: %s (%dw)" % (tit[:58], w), "tipo": "revamp",
+            "desc_tipo": "reescribir artículo fino existente (mismo slug)",
+            "ejecutable": True,
+            "score": round((40.0 + (800 - w) * 0.045) * _factor_novedad(slug, recientes), 1),
+            "fuente": "derivado", "destino": "/blog/%s/" % slug,
+            "prioridad": "P2", "intencion": "compra", "volumen": "media",
+            "estado": "stub %dw" % w, "slug": slug,
+        })
     cands.sort(key=lambda c: c["score"], reverse=True)
     return cands, recientes
 
@@ -327,12 +353,29 @@ def _cmd_prerender():
     return ["python3", "scripts/prerender.py"]
 
 
+def _norm(s):
+    return re.sub(r"\s+", " ", (s or "").strip().lower())
+
+
+def _rollback(slug, dir_es_nuevo):
+    """Revierte una publicación fallida: deja el árbol limpio para la siguiente
+    cadena (sin esto, un fallo bloqueaba el `git pull --rebase` de los crons).
+    Solo toca los paths que genera el publicador."""
+    import shutil
+    subprocess.run(["git", "-C", str(RAIZ), "checkout", "--", *PATHS_REVERT],
+                   capture_output=True, text=True)
+    if dir_es_nuevo:
+        shutil.rmtree(RAIZ / "blog" / slug, ignore_errors=True)
+    print("↩︎ rollback aplicado: árbol restaurado a HEAD")
+
+
 def publicar(ruta_json):
     entrada = json.loads(Path(ruta_json).read_text(encoding="utf-8"))
     slug = entrada.get("slug", "").strip()
     if not re.match(r"^[a-z0-9][a-z0-9-]{2,80}$", slug):
         print("FALLIDO: slug inválido «%s»" % slug)
         return 1
+    es_mejora = bool(entrada.pop("_mejora", False))
     cuerpo = entrada.get("cuerpo") or ""
     if len(cuerpo) < 800 or "<p>" not in cuerpo or "<h2>" not in cuerpo:
         print("FALLIDO: cuerpo demasiado corto o sin estructura (<p>/<h2>)")
@@ -342,14 +385,37 @@ def publicar(ruta_json):
         return 1
 
     palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
+    ruta_blog = RAIZ / "data" / "blog.json"
+    blog = json.loads(ruta_blog.read_text(encoding="utf-8"))
+    previas = {e.get("slug"): e for e in blog["entradas"]}
+    previa = previas.get(slug)
+
+    # guarda 1: canibalización — mismo título que OTRA entrada
+    t_norm = _norm(entrada.get("titulo"))
+    for s, e in previas.items():
+        if s != slug and _norm(e.get("titulo")) == t_norm:
+            print("FALLIDO: título duplicado con «%s» (canibalización)" % s)
+            return 1
+    # guarda 2: una «mejora» tiene que mejorar de verdad
+    if previa:
+        w_prev = len(re.sub(r"<[^>]+>", " ", previa.get("cuerpo") or "").split())
+        if es_mejora and w_prev >= 800:
+            print("FALLIDO: «%s» ya tiene %d palabras; no hace falta revamp" % (slug, w_prev))
+            return 1
+        if es_mejora and palabras < int(w_prev * 1.2):
+            print("FALLIDO: la mejora (%d palabras) no supera a la actual (%d)" % (palabras, w_prev))
+            return 1
+        # revamp: conservar la fecha original (no fingir artículo nuevo)
+        if es_mejora and not entrada.get("fecha"):
+            entrada["fecha"] = previa.get("fecha", HOY)
     entrada["fecha"] = entrada.get("fecha") or HOY
     entrada["lectura"] = "%d min" % max(3, round(palabras / 200))
     entrada["autor"] = "Redacción Kit72h"
     entrada.setdefault("kits_relacionados", [])
     entrada.setdefault("etiquetas", [])
 
-    ruta_blog = RAIZ / "data" / "blog.json"
-    blog = json.loads(ruta_blog.read_text(encoding="utf-8"))
+    dir_es_nuevo = not (RAIZ / "blog" / slug).exists()
+
     entradas = [e for e in blog["entradas"] if e.get("slug") != slug]
     entradas.append(entrada)
     entradas.sort(key=lambda e: (e.get("fecha", ""), e.get("slug", "")), reverse=True)
@@ -360,8 +426,8 @@ def publicar(ruta_json):
     with open(ruta_blog, "w", encoding="utf-8", newline="\r\n") as f:
         json.dump(blog, f, ensure_ascii=False, indent=2)
         f.write("\n")
-    print("blog.json: entrada «%s» insertada (%d palabras, %d entradas)"
-          % (slug, palabras, len(entradas)))
+    print("blog.json: «%s» %s (%d palabras, %d entradas)"
+          % (slug, "revamp" if previa else "nueva", palabras, len(entradas)))
 
     # materializar el directorio (prerender lo sobrescribe entero)
     destino = RAIZ / "blog" / slug
@@ -384,17 +450,19 @@ def publicar(ruta_json):
         if r.returncode != 0:
             cola = (r.stdout or r.stderr or "").strip().splitlines()[-3:]
             print("FALLIDO en %s (rc=%d): %s" % (nombre, r.returncode, " | ".join(cola)))
+            _rollback(slug, dir_es_nuevo)
             return 1
         print("ok: %s" % nombre)
-
-    _marcar_keyword_hecha(entrada.get("_keyword") or "")
 
     gate = run("python3", "scripts/verificar-sitio.py", timeout=300)
     if gate.returncode != 0:
         cola = (gate.stdout or gate.stderr or "").strip().splitlines()[-6:]
         print("FALLIDO en gate (rc=%d):\n%s" % (gate.returncode, "\n".join(cola)))
+        _rollback(slug, dir_es_nuevo)
         return 1
     print("ok: gate verificar-sitio.py ✅")
+
+    _marcar_keyword_hecha(entrada.get("_keyword") or "")
     print("PUBLICADO: /blog/%s/ (listo para commit+push)" % slug)
     return 0
 

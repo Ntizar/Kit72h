@@ -303,5 +303,32 @@ def main():
     sys.exit(1 if fallos else 0)
 
 
+def _reexec_playwright_si_procede():
+    """En el VM de NaN el CLI de Chrome (--dump-dom) cuelga; si existe el venv con
+    Playwright, delega en scripts/prerender_playwright.py (una sola verdad para
+    toda la cadena: buscador, vigilante, seo-audit, seo-ctr). Desactivable con
+    KIT72H_NO_REEXEC=1. En una máquina sin ese venv (p. ej. Windows) no hace nada
+    y se usa el CLI de siempre."""
+    import os
+    if os.environ.get("KIT72H_NO_REEXEC") == "1":
+        return
+    venv = Path.home() / ".mastermind" / "venv" / "bin" / "python"
+    if not venv.exists():
+        return
+    try:
+        if Path(sys.executable).resolve() == venv.resolve():
+            return
+    except OSError:
+        pass
+    alt = Path(__file__).resolve().parent / "prerender_playwright.py"
+    if not alt.exists():
+        return
+    print("prerender: el CLI cuelga en este VM → delegando en %s (Playwright)"
+          % alt.name, flush=True)
+    os.execve(str(venv), [str(venv), str(alt), *sys.argv[1:]],
+              dict(os.environ, KIT72H_NO_REEXEC="1"))
+
+
 if __name__ == "__main__":
+    _reexec_playwright_si_procede()
     main()
