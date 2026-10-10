@@ -40,6 +40,14 @@ def encontrar_chrome():
     pw = sorted(_glob.glob(os.path.expanduser(
         "~/.cache/ms-playwright/chromium-*/chrome-linux*/chrome")))
     if pw:
+        # el binario de playwright necesita las librerías de sistema extraídas
+        # (~/.chrome-libs): inyectarlas en el env que heredarán los subprocesos
+        libs = os.path.expanduser("~/.chrome-libs")
+        if os.path.isdir(libs):
+            extra = f"{libs}/usr/lib/x86_64-linux-gnu:{libs}/lib/x86_64-linux-gnu"
+            actual = os.environ.get("LD_LIBRARY_PATH", "")
+            if extra not in actual:
+                os.environ["LD_LIBRARY_PATH"] = f"{extra}:{actual}" if actual else extra
         return pw[-1]
     win = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
     if Path(win).exists():
