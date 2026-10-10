@@ -33,6 +33,14 @@ def encontrar_chrome():
     w = shutil.which("google-chrome") or shutil.which("chromium") or shutil.which("chromium-browser")
     if w:
         return w
+    # VM NaN (sin root): chromium de playwright + librerías extraídas en ~/.chrome-libs.
+    # El wrapper kit72h-prerender-vm.py exporta CHROME_BIN, pero llamadas directas
+    # (auto-fix del seo-audit) no llevan env → resolver aquí también (fix 2026-10-10).
+    import glob as _glob
+    pw = sorted(_glob.glob(os.path.expanduser(
+        "~/.cache/ms-playwright/chromium-*/chrome-linux*/chrome")))
+    if pw:
+        return pw[-1]
     win = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
     if Path(win).exists():
         return win
