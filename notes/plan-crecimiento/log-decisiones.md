@@ -6,4 +6,5 @@
 
 | Fecha | Slug/Keyword | Tipo | Estado | Nota |
 |---|---|---|---|---|
-| 2026-10-10 | kit emergencia bebé familia | guia | encolado | Guía blog kit-emergencia-bebe-familia (1048 palabras, 11 afiliados, 3 fuentes oficiales) encolada para el publicador |
+| 2026-10-10 | kit emergencia bebé familia | guia | publicado | Guía blog kit-emergencia-bebe-familia (1048 palabras, 11 afiliados, 3 fuentes oficiales) — publicada 16:33 UTC, commit `da63116`, viva en /blog/kit-emergencia-bebe-familia/ |
+| 2026-10-10 | mejor Starlink España precio | banner | propuesto | Banner Starlink en home (CSS .starlink-banner-* existe pero 0 páginas lo usan): copy listo, pendiente de OK; sin encolar |
