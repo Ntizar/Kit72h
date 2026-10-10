@@ -21,7 +21,7 @@
 | lista kit emergencia hogar | media | compra | /kit/kit-hogar/ | ✅ cubierto | P1 |
 | kit supervivencia completo | media | compra | /kit/kit-kit-profesional/ | ✅ cubierto | P1 |
 | maleta emergencia evacuación | media | compra | /kit/kit-evacuacion/ | ✅ cubierto | P1 |
-| kit emergencia bebé familia | media | compra | blog pendiente | pendiente | P2 |
+| kit emergencia bebé familia | media | compra | blog pendiente | ✅ hecha (2026-10-10) | P2 |
 | kit emergencia mascotas perro gato | media | compra | /kit/kit-mascotas/ | ✅ cubierto | P2 |
 
 ### Cluster B — escenarios (DANA, apagón, terremoto...) — donde España busca
