@@ -1239,46 +1239,150 @@ El error más común en los kits 72h es comprar comida que luego caduca antes de
 
  No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
 
-### Starlink en emergencias de 72h: conectividad cuando todo falla (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
-Cómo usar Starlink para conectividad de emergencia. Coste, instalación, alternativas cuando se va la red eléctrica.
-Imagina un apagón de 3 días, una DANA que aísla tu zona o una evacuación a zona rural sin cobertura. Móvil sin señal, WiFi muerto, radio insuficiente. Aquí entra Starlink.
+### Starlink en un apagón: cómo montarlo, alimentarlo y cuándo merece la pena (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
+Guía práctica de Starlink en emergencias: consumo real, cómo alimentarlo sin red, coste, instalación y qué alternativas apilar antes de comprar.
+Cuando se corta la luz en una zona entera, lo primero que cae no es la nevera: es la información. Se apaga el router, el móvil pierde datos y las redes locales se saturan. En ese momento mucha gente se acuerda de Starlink, la constelación de satélites de SpaceX que promete internet desde cualquier punto con cielo despejado. Este artículo es la guía práctica: qué resuelve Starlink en una emergencia de 72 horas, qué no resuelve, cuánto consume y cómo alimentarlo cuando no hay red eléctrica , para que decidas con cabeza si merece un hueco en tu plan de preparación — o si te basta con algo más simple y más barato.
 
 
- ¿Qué es Starlink?
-
- Constelación de satélites de SpaceX que ofrece internet de banda ancha desde cualquier punto del planeta con visibilidad del cielo. No necesita infraestructura terrestre: solo terminal + energía.
+ La recomendación oficial es la de siempre: la Estrategia de Preparación de la Unión Europea pide que los hogares tengan provisiones para 72 horas, y la Dirección General de Protección Civil y Emergencias insiste en mantener una fuente de información fiable durante cualquier incidente. Starlink puede ser esa fuente, pero solo si tienes claro cómo se sostiene sin enchufe. Vamos por partes.
 
 
- Ventajas para emergencias:
+ Qué es Starlink (y por qué suena en cada emergencia)
 
- 
- Funciona donde no hay cobertura móvil
+ Starlink es una constelación de satélites en órbita baja que ofrecen internet de banda ancha sin depender de infraestructura terrestre: no hay que tender fibra ni hay torres de telefonía de por medio. Solo necesitas tres cosas: una terminal con visión despejada del cielo, una conexión de datos activa a través de su red y energía eléctrica para alimentarla . Esa última condición es la que conviene retener, porque es la que suele faltar justo cuando más la necesitas.
 
- Resistente a daños en infraestructura
+ En un escenario de emergencia, esa arquitectura tiene una ventaja concreta: aunque las centrales, las subestaciones o las torres móviles de tu zona estén fuera de servicio, los satélites siguen ahí arriba. Si la red eléctrica local está caída pero la infraestructura de la operadora satelital funciona, puedes recuperar conectividad en minutos. Es exactamente lo contrario de lo que le pasa a la red móvil, que depende de torres con respaldo de baterías y generadores limitados.
 
- 50-200 Mbps reales
 
- Instalación en 5 minutos
+ Qué NO es Starlink: las tres expectativas equivocadas
+
+ Antes de gastarte dinero, conviene desmontar tres ideas frecuentes:
 
  
+ No es un plan B de emergencia barato. La terminal es una compra seria y la cuota mensual es recurrente. Si no vas a usarlo en el día a día, no tiene sentido comprarlo «por si acaso»: habrás gastado en una pieza que se devalúa en un cajón mientras tu plan de 72 horas sigue cojo de lo básico (agua, luz, botiquín, radio).
 
- Coste:
+ No funciona a ciegas ni dentro de casa. Necesita línea de visión al cielo: balcones estrechos, patios interiores con paredes altas o bosque denso degradan la señal de forma notable.
 
- Terminal: 400-600€. Cuota mensual: ~50-60€/mes. Consumo: 50-100W (5-10W standby).
-
-
- Alternativas:
+ No sustituye a la radio oficial ni al 112. Para alertas oficiales y avisos de Protección Civil, la vía sigue siendo la radio de emergencia y los canales de emergencia nacionales; para emergencias reales, el 112. Starlink te da caminos adicionales (mensajería, consulta de fuentes, llamadas por datos), no un reemplazo.
 
  
- Radio de emergencia (manivela/solar) → información oficial
+ Dicho esto, hay escenarios donde cambia por completo la situación: evacuaciones a zonas rurales sin cobertura, trabajos en montaña, casas en polígonos o aldeas con mala cobertura móvil, y por supuesto apagones largos donde la red móvil se satura de gente intentando llamar.
 
- Módem 4G/5G portátil → si hay cobertura
 
- Redes mesh comunitarias → conocimiento avanzado
+ Lo importante: cuánto consume y cómo alimentarlo sin red
+
+ Aquí está la pregunta que de verdad importa. Una terminal Starlink residente típica consume en torno a 60-75 W en uso activo y algo más de 20-40 W en reposo , dependiendo del modelo y de si está en modo de suspensión. Traducido a un apagón de tres días, con un uso razonable de unas 10-12 horas diarias, estás hablando de entre 0,7 y 1,2 kWh diarios … y ahí es donde la mayoría de los planes se rompen, porque eso supera con holgura la capacidad de casi cualquier powerbank de mano.
+
+ Las vías reales, por orden de practicidad:
+
+ 
+ Estación de energía (power station). Es la opción seria: una batería de 1.000-2.000 Wh con salida de 220 V te da uno o dos días de Starlink más el router, la luz y la carga del móvil. Enciéndela solo cuando la necesites y apaga la terminal en standby para estirar el margen. El Kit Electricidad recoge la selección y el artículo sobre paneles solares portátiles explica cuántos vatios necesitas de verdad para recargarla al sol.
+
+ Panel solar portátil. Con un panel de 100-200 W orientado bien, una mañana de sol decente devuelve buena parte del consumo de un día completo. Es la combinación que más días aguanta, pero depende del cielo: justo el día de tormenta o con nublado cerrado la generación cae y ahí entra el colchón de la batería.
+
+ Powerbank grande como reserva corta. Un powerbank de 20.000 mAh o más con salida de 65 W (el modelo de 20.000 mAh del kit es un ejemplo) alimenta la terminal unas pocas horas: sirve para un vistazo rápido a los mapas y avisos, no para trabajar ni para dejarla encendida toda la noche.
+
+ Alternativa al coche (con cuidado). Algunas terminales funcionan con adaptadores de 12 V del vehículo. Úsalo con el motor en marcha o con una batería auxiliar vigilada: dejar el vehículo drenando la batería de arranque es una forma segura de quedarte sin coche y sin internet a la vez.
+
+ 
+ Regla práctica de oro: Starlink es el último eslabón de la cadena de energía, no el primero . Primero aseguras agua, luz y calor o fresco; después comunicaciones; Starlink entra en esa tercera capa, junto con el móvil y la radio.
+
+
+ Cuánto cuesta de verdad, sin sorpresas
+
+ Hablamos de dos partidas separadas, y conviene no mezclarlas:
+
+ 
+ Equipo (una vez). La terminal ronda los 500-700 € para el modelo residencial estándar y sube por encima de esa cifra en versiones móviles o de mayor rendimiento. Añade accesorios según el montaje: soporte de tejado o mástil, cable extensor largo si la ventana buena está lejos, y un recipiente o funda de transporte si vas a moverla.
+
+ Suscripción (cada mes). En España el plan residencial ronda los 45-60 € al mes , con planes portátiles algo más caros por el uso en movimiento. Cancelar y volver a activar es posible, pero con coste de reposicionamiento en algunos casos: léelo antes, no después.
+
+ 
+ La cifra total del Kit Starlink (terminal + accesorios + un año de cuota) es fácilmente un presupuesto de un viaje familiar o más. La pregunta útil no es «¿me lo puedo permitir?», sino «¿qué otro hueco de mi plan de preparación deja sin cubrir este dinero?» . Si tu botiquín está vacío y tu kit básico no existe, prioriza eso primero; está todo en el kit básico de 72 horas .
+
+
+ Montarlo en 30 minutos: puesta en marcha
+
+ La instalación doméstica es sencilla, y el momento de probarla es AHORA, en buen día, no con la luz apagada:
+
+ 
+ Elige la ubicación con cielo despejado. Monta la terminal en tejado, balcón alto o ventana grande orientada a un ángulo amplio del cielo. El soporte de montaje adecuado evita que la primera racha de viento te la derribe.
+
+ Conecta y deja que haga su calibración. La terminal se orienta sola y busca satélites; la app te dice si la posición es buena. Si en el primer emplazamiento la app da señal pobre, sube o mueve la terminal antes de darlo por bueno.
+
+ Alimenta desde tu sistema de respaldo. Comprueba que arranca con la power station y apunta cuántos Wh gasta una hora real de uso. Ese dato, medido por ti, vale más que cualquier tabla de internet para planificar tus días de autonomía.
+
+ Prueba los casos de uso que te importan : videollamada familiar, consulta del mapa de avisos, mensajes. Fíjate en si el router de tu casa arranca también desde la batería — si no, tendrás WiFi sin nada detrás.
+
+ Deja TODO etiquetado y accesible : cables, adaptadores y manual en una bolsa estanca con la terminal. En un apagón nocturno nadie improvisa bien.
+
+ 
+ Un detalle de seguridad: si hay tormenta eléctrica o aviso de temporal, desconecta la terminal exterior. Puedes consultar el parte oficial de avisos de AEMET … usando la propia Starlink mientras haya luz, claro.
+
+
+ Redundancia: Starlink no debe ir solo
+
+ Ningún sistema único salva una emergencia, y el satelital no es la excepción: un árbol caído sobre la antena, una tormenta de arena o un fallo de la constelación te dejan sin vía. La preparación sensata apila vías independientes, en este orden de coste creciente:
+
+ 
+ Radio de emergencia a pilas, manivela o solar — información oficial sin internet, casi a cero coste. Base del Kit Comunicación .
+
+ Móvil con cobertura y SIM de datos — si la torre local aguanta. El análisis de qué SIM de datos sobrevive mejor a un apagón y el de routers 4G de emergencia cubren esta capa.
+
+ Mensajería satelital ligera — dispositivos tipo messenger satelital que envían posición y mensajes cortos sin cobertura móvil: la vía más fiable para decir «estoy bien» cuando nada más funciona.
+
+ Starlink — ancho de banda completo, el último escalón y el más hambriento de energía.
+
+ 
+ La filosofía completa —cuándo combinar cada vía y en qué orden— está desarrollada en la guía hermana Conectividad de emergencia: Starlink, radio y satélite y en cómo comunicarse sin red móvil . Este artículo se centra en que, si decides llevar Starlink, lo lleves funcionando de verdad.
+
+
+ Cobertura y legalidad en España
+
+ Dos precisiones que ahorran disgustos:
+
+ 
+ Cobertura. La disponibilidad del servicio residencial en España no es uniforme: hay zonas con cupo o lista de espera y otras donde el servicio portátil tiene restricciones de uso en movimiento. Comprueba la cobertura con tu dirección exacta ANTES de comprar la terminal ; la verificación oficial se hace en la web del operador y te evita pagar un equipo que no puedes activar.
+
+ Instalación. Montar una antena en cubierta o fachada de una comunidad somete la obra a la normativa de la comunidad y, en zonas con patrimonio o en azoteas accesibles, a trámites adicionales. En tejados aislados y casas unifamiliares es mucho más directo, pero vuelve a mirar la ordenanza municipal si tienes dudas.
+
+ Uso responsable. Aunque la terminal dependa de una red privada, en una emergencia tu consumo sigue contando: si hay saturación de red, prioriza mensajes cortos y llamadas de voz sobre retransmisiones en streaming. La misma lógica que con el 112: no saturar es parte de estar preparado.
 
  
 
- Nota: Starlink en España está limitado a zonas rurales seleccionadas. Verifica cobertura antes de comprar.
+ Checklist: no lo compres hasta responder esto
+
+ 
+ Pregunta Si la respuesta es «no»… 
+ 
+ 
+ ¿Tengo ya agua, luz, botiquín y comida para 72 h? …remata primero el kit básico . Starlink es lujo de plan completo. 
+
+ ¿Tengo energía suficiente para 1 kWh diario sin red? …necesitas power station o panel solar antes que terminal. 
+
+ ¿He comprobado la cobertura con mi dirección? …no compres el equipo todavía. 
+
+ ¿Tengo una vía de comunicación secundaria (radio, SIM, messenger)? …monta la redundancia base del kit de comunicación . 
+
+ ¿He probado todo en un día bueno, no en la emergencia? …reserva una tarde de fin de semana para la prueba completa. 
+
+ 
+ 
+
+ Los cuatro errores habituales
+
+ 
+ Comprar la terminal y no la energía. Es el fallo número uno: llega el apagón, la terminal arranca y la batería se agota en unas horas. Calcula primero tus Wh, después compra.
+
+ Instalarla el día del apagón. La calibración, la ubicación y los cables se prueban con sol y tiempo. El día de la emergencia solo se enciende lo que ya está probado.
+
+ Olvidar el router. Starlink te da conexión, pero si tu router no arranca desde la batería, el WiFi de casa sigue muerto. Revisa que la cadena completa (terminal + router + terminal móvil) esté alimentada.
+
+ Confiarse y quitar la radio. La conectividad satelital es una capa más, no la base. La radio a pilas y el 112 siguen siendo la columna vertebral de la información oficial.
+
+ 
+
+ En resumen: Starlink en una emergencia es una herramienta excelente para quien ya tiene cubiertas las capas básicas y puede alimentarla sin red. Empieza por ahí — lecciones de los apagones reales y los primeros 30 minutos de un apagón enseñan que la información manda — y decide con el plan completo delante: Kit Starlink si la energía ya está resuelta, o mejor sigue en la guía del blog comparando alternativas si todavía no.
 
 ### Panel solar portátil para emergencias: energía cuando no hay red (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
 Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
