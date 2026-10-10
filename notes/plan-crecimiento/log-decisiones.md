@@ -6,3 +6,4 @@
 
 | Fecha | Slug/Keyword | Tipo | Estado | Nota |
 |---|---|---|---|---|
+| 2026-10-10 | kit emergencia bebé familia | guia | encolado | Guía blog kit-emergencia-bebe-familia (1048 palabras, 11 afiliados, 3 fuentes oficiales) encolada para el publicador |
