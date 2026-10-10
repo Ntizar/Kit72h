@@ -3950,11 +3950,12 @@
           "items": [
             {
               "producto": "Messenger satelital (Garmin inReach Mini 3)",
-              "afiliado": "https://www.amazon.es/s?k=garmin+inreach+mini+3&tag=ntizar-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21",
+              "es_busqueda": false,
               "prioridad": "esencial",
               "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo.",
-              "precio_aprox": "400 € · 10-40 €/mes"
+              "precio_aprox": "400 € · 10-40 €/mes",
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Powerbank de 20.000 mAh + cables",
@@ -4006,35 +4007,39 @@
           "items": [
             {
               "producto": "Generador solar portátil con panel incluido (300-500 Wh)",
-              "afiliado": "https://www.amazon.es/s?k=generador+solar+portatil+emergencia&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0H8SDLQVQ?tag=ntizar-21",
               "descripcion": "Estación de energía con panel plegable: mantiene luces, móviles y router 1-3 días.",
               "precio_aprox": "250-450 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Powerbank 20.000-27.000 mAh (con salida AC o PD de 65 W)",
-              "afiliado": "https://www.amazon.es/s?k=powerbank+20000+mah+carga+rapida&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0FDWQPRYC?tag=ntizar-21",
               "descripcion": "El mínimo imprescindible: 4-6 cargas de móvil o 20 horas de luz LED.",
               "precio_aprox": "35-70 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Panel solar plegable 60-100 W",
-              "afiliado": "https://www.amazon.es/s?k=panel+solar+plegable+100w&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0H35BWBZX?tag=ntizar-21",
               "descripcion": "Recarga tu batería o powerbank en 4-6 h de sol directo. Imprescindible en apagones largos.",
               "precio_aprox": "80-160 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Batería LiFePO4 100 Ah",
-              "afiliado": "https://www.amazon.es/s?k=bateria+lifepo4+100ah&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0F1KH2MR7?tag=ntizar-21",
               "descripcion": "1.280 Wh reales, 3.000-6.000 ciclos. La opción seria para quienes preparan apagones de días.",
               "precio_aprox": "250-400 €",
               "prioridad": "conviene",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             }
           ]
         },
@@ -4044,27 +4049,30 @@
           "items": [
             {
               "producto": "Lámpara LED recargable de área (lanterna camping)",
-              "afiliado": "https://www.amazon.es/s?k=lampara+led+recargable+camping&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0CKMM8GX6?tag=ntizar-21",
               "descripcion": "Ilumina una habitación entera 8-30 h. Con gancho y imán para colgar.",
               "precio_aprox": "20-40 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Frontal LED con pilas AAA (2 unidades)",
-              "afiliado": "https://www.amazon.es/s?k=linterna+frontal+led+pilas&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0C1SB8J2C?tag=ntizar-21",
               "descripcion": "Manos libres para cocinar, trabajar o salir. Pilas AAA alcalinas de reserva siempre.",
               "precio_aprox": "15-30 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Velas de emergencia de larga duración (9-12 h)",
-              "afiliado": "https://www.amazon.es/s?k=velas+emergencia+larga+duracion&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0B7ZCB89G?tag=ntizar-21",
               "descripcion": "Plan C sin electricidad: una vela de cera ilumina y da algo de calor. Nunca sin vigilancia.",
               "precio_aprox": "10-20 €",
               "prioridad": "conviene",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             }
           ]
         },
@@ -4074,19 +4082,21 @@
           "items": [
             {
               "producto": "Regleta con protección sobretensiones (interruptor)",
-              "afiliado": "https://www.amazon.es/s?k=regleta+proteccion+sobretensiones&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B00EVMWKPQ?tag=ntizar-21",
               "descripcion": "Al volver la corriente, los picos queman cargadores y routers. Esta regleta los absorbe.",
               "precio_aprox": "15-30 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Multímetro digital básico",
-              "afiliado": "https://www.amazon.es/s?k=multimetro+digital+basico&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0F8NNTM8V?tag=ntizar-21",
               "descripcion": "Verifica si la batería carga, si el panel produce, si el fusible vive. 20 € que salvan días.",
               "precio_aprox": "15-25 €",
               "prioridad": "conviene",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-10"
             },
             {
               "producto": "Baterías AA y AAA alcalinas (paquete grande)",
