@@ -1730,7 +1730,7 @@
     "seccion": "Iluminación y seguridad perimetral",
     "busqueda": "cámara de seguridad solar 4g con batería",
     "rango_esperado": "150-300 €",
-    "fecha": "2026-10-04",
+    "fecha": "2026-10-11",
     "estado": "sin candidato verificado"
   },
   "kit-kit-profesional|Router 4G/5G industrial con dual SIM y antenas externas": {
@@ -1738,8 +1738,16 @@
     "seccion": "Conectividad: Starlink y redundancia",
     "busqueda": "router 4g 5g industrial con dual sim y antenas externas",
     "rango_esperado": "300-800 €",
-    "fecha": "2026-10-04",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-11",
+    "asin": "B0B711GG7N",
+    "titulo": "Cudy 5G NR AX3000 Wi-Fi 6 Router, 4X GE, Doble SIM, Antena integrada, P5",
+    "precio": 343.0,
+    "rating": 4.4,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0B711GG7N?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=router+5g+industrial+dual+sim+antena+externa&tag=ntizar-21"
   },
   "kit-kit-profesional|Messenger satelital (Garmin inReach Mini 3)": {
     "kit": "kit-kit-profesional",
@@ -2116,5 +2124,29 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=multimetro+digital+basico&tag=ntizar-21"
+  },
+  "kit-kit-profesional|Acumuladores de frío congelables (pack de 6)": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Conservación de alimentos sin red",
+    "busqueda": "acumuladores de frío congelables",
+    "rango_esperado": "25-40 €",
+    "fecha": "2026-10-11",
+    "asin": "B0GX114ZX1",
+    "titulo": "TaimeiMao 6 Piezas Acumuladores de Frio, Hielos para Nevera Portatil",
+    "precio": 11.99,
+    "rating": 4.3,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0GX114ZX1?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=acumuladores+frio+congelables+pack+6&tag=ntizar-21"
+  },
+  "kit-kit-profesional|Set de 10 luminarias LED solares de jardín": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Iluminación y seguridad perimetral",
+    "busqueda": "set de 10 luminarias led solares de jardín",
+    "rango_esperado": "100-200 €",
+    "fecha": "2026-10-11",
+    "estado": "sin candidato verificado"
   }
 }
