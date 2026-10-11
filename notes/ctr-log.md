@@ -6,6 +6,60 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-11 — 12 mejoras (6 títulos + 6 descriptions)
+
+**Orden aplicado:** prerender PRIMERO → optimización DESPUÉS → commitear solo lo
+optimizado, sin re-prerender encima (prompt del cron). El prerender previo salió
+**73 rutas, 0 fallos** y con el árbol ya sincronizado (0 desfases JSON↔HTML), así
+que no dejó nada pendiente. Optimización con `analizar_paginas()` a pelo (NO
+`main()`, que haría commit → generar-seo → prerender → push).
+
+**Dónde viven los cambios:** `data/kits.json`, `data/blog.json` (fuente de verdad)
+y `index.html`. La home ya sirve la description nueva en producción; los títulos
+de kits y los de blog los hornea el ciclo nocturno (`kit72h-editor`, 04:30, o el
+prerender de la propia run de mañana) — el horneado los REPRODUCE porque salen de
+los JSON, no los revierte.
+
+### Títulos (6)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| kit-dana | Kit DANA / Inundación: 14 artículos para proteger tu hogar (58) | …tu hogar (2026) (65) | año |
+| huerto-autosuficiencia | Huerto Autosuficiente: 13 herramientas para autoprovisión (57) | …autoprovisión (2026) (64) | año |
+| kit-frio | Kit Frío/Invierno: 27 artículos para sobrevivir al frío (55) | …al frío (2026) (62) | año |
+| kit-electricidad | Kit Electricidad: energía sin red cuando se va la luz (2026) (60) | Kit Electricidad: 10 artículos para tener luz sin red (2026) (60) | número real (10 items) > genérico |
+| starlink-emergencia-72h-conectividad | Starlink en un apagón: cómo montarlo, alimentarlo y cuándo merece la pena (2026) (**80, se trunca**) | Starlink en un apagón: montarlo, alimentarlo y si merece la pena (2026) (71) | ≤72, keyword delante |
+| kit-emergencia-bebe-familia | Kit de emergencia para bebé: qué necesitas en casa (lista por bloques) (70, sin año) | Kit de emergencia para bebé: qué llevar en casa por bloques (2026) (66) | año + ≤72 |
+
+### Descriptions (6)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| botiquin-emergencia-lista-completa | El botiquín de emergencia para todo hogar (**41**) | Qué lleva un botiquín de emergencia y qué sobra: lista por bloques… 8 errores que lo dejan inútil. (140) | snippet malgastado → beneficio + número |
+| mejor-linterna-emergencia-72h | Las 7 mejores linternas… (**53**) | 7 linternas comparadas por autonomía real (lúmenes y horas), precio y resistencia… (137) | ídem |
+| mejor-radio-emergencia-manivela-solar | La mejor radio… (**55**) | Radios con manivela y panel solar comparadas: autonomía sin pilas, alcance, cargador móvil… (133) | ídem |
+| alimentos-emergencia-caducidad-rotacion | Alimentos para emergencias… (**52**) | Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha… (132) | ídem |
+| kit-emergencia-bebe-familia | Qué guardar en casa para un bebé… (**157, se trunca**) | …agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques. (146) | ≤155 |
+| Home (index.html) | Kits de emergencia 72 horas basados en las recomendaciones oficiales… (140) | 20 kits de emergencia de 72 horas con checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. (150) | número + beneficio concreto + escenarios. Sobrevive al horneado: `prerender` usa `reemplazar_desc=False` en `/` |
+
+### Script `scripts/kit72h-seo-ctr.py`
+
+- Dict nuevo **`BLOG_DESCRIPCIONES`** (por slug, manda sobre la regla genérica de
+  truncado) + regla 0c en `aplicar_mejoras_blog()`.
+- `BLOG_TITULOS`: + starlink (80→71), + kit-emergencia-bebe-familia (año).
+- `KIT_TITULOS`: año en kit-dana / huerto / kit-frio y regla nueva para
+  `kit-electricidad` (kit nuevo que no tenía ninguna — el sondeo lo marcaba
+  «SIN-REGLA»).
+- El script sigue siendo idempotente: mañana reportará 0 mejoras.
+
+### Verificación (2026-10-11 06:50 UTC)
+
+- Prerender previo: 73 rutas, 0 fallos, 0 `index.html` a 0 bytes, árbol sin
+  cambios (HEAD ya estaba horneado).
+- Gate `verificar-sitio.py`: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
 ## 2026-10-09 — 23 títulos de blog acortados (≤72 chars)
 
 **Orden aplicado:** prerender PRIMERO → optimización DESPUÉS → re-horneado

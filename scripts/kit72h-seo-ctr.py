@@ -43,24 +43,25 @@ def git(*args):
 
 KIT_TITULOS = {
     "kit-basico-72h": "Kit 72h Básico: 16 esenciales de la UE (2026)",
-    "kit-dana": "Kit DANA / Inundación: 14 artículos para proteger tu hogar",
+    "kit-dana": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
     "kit-apagon": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
     "kit-coche": "Kit Coche 2026: obligatorios y opcionales DGT",
     "kit-hogar": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
     "kit-montana": "Kit Montaña: 13 esenciales para supervivencia outdoor (2026)",
     "kit-calor": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
     "kit-evacuacion": "Kit Evacuación: 14 artículos para huir con vida (2026)",
-    "huerto-autosuficiencia": "Huerto Autosuficiente: 13 herramientas para autoprovisión",
+    "huerto-autosuficiencia": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
     "kit-30-dias": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
     "kit-bebe": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
     "kit-mayores": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
     "kit-mascotas": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
-    "kit-frio": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío",
+    "kit-frio": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
     "kit-terremoto": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
     "kit-incendio": "Kit Incendio: 21 artículos contra incendios (2026)",
     "kit-kit-profesional": "Kit Profesional: energía y autonomía total (2026)",
     "kit-comunicacion": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
     "kit-starlink": "Kit Starlink: internet satelital para emergencias (2026)",
+    "kit-electricidad": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
 }
 
 KIT_DESCRIPCIONES = {
@@ -131,8 +132,23 @@ KIT_DESCRIPCIONES = {
         "Documentos y dinero: la carpeta de emergencia del hogar (2026)",
 }
 
+# Descripciones de blog con CTR: número/beneficio, 90-155 chars (las de 41-55
+# chars malgastaban el snippet de Google; el resto, muy genérico).
+BLOG_DESCRIPCIONES = {
+    "botiquin-emergencia-lista-completa":
+        "Qué lleva un botiquín de emergencia y qué sobra: lista por bloques para todo hogar, revisión de caducidades y 8 errores que lo dejan inútil.",
+    "mejor-linterna-emergencia-72h":
+        "7 linternas de emergencia comparadas por autonomía real (lúmenes y horas), precio y resistencia: cuál merece hueco en tu kit de 72 horas.",
+    "mejor-radio-emergencia-manivela-solar":
+        "Radios de emergencia con manivela y panel solar comparadas: autonomía sin pilas, alcance, cargador móvil y cuál elegir para 72 horas.",
+    "alimentos-emergencia-caducidad-rotacion":
+        "Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha, orden de consumo y cómo montar una despensa que no se tira.",
+    "kit-emergencia-bebe-familia":
+        "Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques.",
+}
+
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"
-HOME_DESC = "Kits de emergencia 72 horas basados en las recomendaciones oficiales de la UE y Protección Civil. DANA, apagón, coche, hogar, montaña y más."
+HOME_DESC = "20 kits de emergencia de 72 horas con checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. Basados en la UE y Protección Civil."
 
 # Reparaciones explícitas de títulos de blog (mandan sobre las reglas genéricas).
 # Bug histórico: `titulo.rstrip(")") + " (2026)"` se comía el paréntesis de cierre
@@ -153,6 +169,10 @@ BLOG_TITULOS = {
         "Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026)",
     "mejor-estufa-sin-luz-apagon":
         "Mejor estufa sin luz: 5 tipos para sobrevivir al apagón (2026)",
+    "starlink-emergencia-72h-conectividad":
+        "Starlink en un apagón: montarlo, alimentarlo y si merece la pena (2026)",
+    "kit-emergencia-bebe-familia":
+        "Kit de emergencia para bebé: qué llevar en casa por bloques (2026)",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────
@@ -206,6 +226,14 @@ def aplicar_mejoras_blog():
             entrada["titulo"] = arreglo
             mejoradas.append({"slug": slug, "field": "title"})
             titulo = arreglo
+
+        # Regla 0c: descripción CTR explícita (manda sobre la genérica)
+        arreglo_desc = BLOG_DESCRIPCIONES.get(slug)
+        if arreglo_desc and resumen != arreglo_desc:
+            print(f"  ✏️  Blog desc (fix): {resumen[:50]}... → {arreglo_desc[:60]}...")
+            entrada["resumen"] = arreglo_desc
+            mejoradas.append({"slug": slug, "field": "description"})
+            resumen = arreglo_desc
 
         # Regla 0b: cerrar paréntesis abiertos (nunca rstrip: se comía los cerrados)
         if titulo.count("(") > titulo.count(")"):
