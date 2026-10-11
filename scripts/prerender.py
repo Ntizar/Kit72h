@@ -315,11 +315,12 @@ def _reexec_playwright_si_procede():
     venv = Path.home() / ".mastermind" / "venv" / "bin" / "python"
     if not venv.exists():
         return
-    try:
-        if Path(sys.executable).resolve() == venv.resolve():
-            return
-    except OSError:
-        pass
+    # OJO: aquí había un `if sys.executable == venv: return` que daba por hecho que "venir del
+    # venv" ya significaba "versión Playwright". Falso: el wrapper del VM lanza ESTE fichero con
+    # el python del venv, así que se quedaba con el CLI de Chrome… y el CLI cuelga con el Chrome
+    # 153 que trae el propio Playwright (medido 2026-10-11: rc=124, stdout vacío, hasta con una
+    # página trivial). El antídoto contra el bucle ya estaba: la delegación exporta
+    # KIT72H_NO_REEXEC=1, así que aquí se delega siempre que haga falta.
     alt = Path(__file__).resolve().parent / "prerender_playwright.py"
     if not alt.exists():
         return
