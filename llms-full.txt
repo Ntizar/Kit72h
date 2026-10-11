@@ -502,6 +502,129 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla — https://kit72h.com/blog/baliza-v16-obligatoria-2026/
+Desde el 1 de enero de 2026 la baliza V16 conectada es el único medio legal para señalizar un coche parado: qué exige la DGT y cómo elegirla homologada.
+El 1 de enero de 2026 ya pasó y con él una costumbre de veintiséis años: los triángulos dejan de ser un medio válido para señalar un coche parado en carretera . Desde esa fecha el único dispositivo legal es la baliza luminosa V-16 conectada, y quien siga confiando en los triángulos del maletero va fuera de norma — la infracción es leve y se paga con 80 €.
+
+
+ No es un capricho tecnológico: la DGT cifra en unas 25 las personas que mueren cada año atropelladas en carretera después de haber bajado de su vehículo , muchas mientras colocaban precisamente los triángulos. Con la V-16 no sales del coche: se enciende desde dentro y, además de la luz, envía la posición del vehículo al resto de conductores. Aquí ves qué exige la norma, cómo funciona, dónde se coloca, la multa, los bulos y qué mirar antes de comprar.
+
+
+ Qué exige la norma desde el 1 de enero de 2026
+
+
+ La obligación está en el anexo XII del Reglamento General de Vehículos y entró en vigor el 1 de enero de 2026: desde esa fecha la V-16 conectada es «el único medio legal de señalización de vehículos inmovilizados», según la DGT.
+
+
+ 
+ Obligatoria para turismos, furgonetas, autobuses, vehículos mixtos, camiones y conjuntos no especiales. En motocicletas no es obligatoria, pero la DGT considera su uso «muy aconsejable».
+
+ Los triángulos pueden seguir en la dotación, pero ya no sirven para señalizar una avería en carretera.
+
+ En el extranjero vale en los países firmantes de la Convención de Viena (Portugal, Francia, Alemania, Italia…), que aceptan el dispositivo del país de matriculación.
+
+ Y un apunte de actualidad: desde el 1 de octubre de 2026 las motos llevan además chaleco reflectante de alta visibilidad en su dotación obligatoria (RD 518/2026). La baliza no sustituye al chaleco.
+
+ 
+
+ Por qué se cambió: la cuenta que nadie quería hacer
+
+
+ Señalizar con triángulo obliga a caminar mínimo 100 metros por la calzada con el tráfico pasando a tu lado; Reino Unido llegó a prohibirlos en vías de alta capacidad por ese motivo. La V-16 ataca los dos frentes: se activa sin salir del habitáculo y suma a la luz física una visibilidad virtual — la ubicación del vehículo parado aparece en navegadores, aplicaciones de movilidad y paneles de mensaje variable, para que quien circula frene antes de verte.
+
+
+ Cómo funciona: sin móvil, sin app y sin cuota
+
+
+ 
+ Autónoma: chip GPS y tarjeta SIM integrados y no extraíbles. Sin teléfono, sin aplicaciones, sin emparejamientos: se enciende y ya está.
+
+ Conectividad incluida en el precio , con un mínimo de 12 años garantizado por norma y sin recargo de las operadoras.
+
+ Al activarse envía la ubicación exacta a la plataforma DGT 3.0, que la reparte a navegadores, apps y paneles. Sin red de datos, la luz sigue funcionando.
+
+ No llama al 112 ni a tu aseguradora: solo señala y envía posición. La llamada la haces tú.
+
+ Después activa el artículo 130.3 del Reglamento General de Circulación: si el vehículo no puede reanudar la marcha y hay sitio seguro fuera, se sale por el lado contrario al tráfico ; si no es seguro, se permanece en el habitáculo con cinturón abrochado.
+
+ 
+
+ 
+ Baliza V-16 conectada Triángulo 
+ 
+ 
+ Estado desde 1/1/2026 Único medio legal No sirve para señalizar 
+
+ Colocación Desde dentro, en la parte más alta A pie, 100 m por la calzada 
+
+ Aviso al resto Luz + posición en DGT 3.0 Solo la luz reflejada 
+
+ Riesgo para quien señala Salta del coche solo si es seguro Expuesto a la circulación 
+
+ Precio orientativo 8-25 € — 
+
+ 
+ 
+
+ Dónde se guarda y cómo se coloca
+
+
+ Tres reglas de la DGT que se olvidan siempre: se guarda cargada en la guantera o en otro lugar accesible del vehículo — no en el maletero cerrado ni en casa —; se enciende y coloca desde el interior , en la parte más alta del vehículo; y en autobuses o camiones, donde el techo no está al alcance, en la puerta del conductor. Actívala una vez en casa para comprobar que funciona y saber dónde va el día que haga falta.
+
+
+ Antes de comprar: homologación sí o sí
+
+
+ Hay más de doscientos modelos en el mercado y la DGT es tajante: solo vale el que aparece en su listado oficial de dispositivos certificados, todos certificados por IDIADA o LCOE , con el laboratorio y el número de certificado grabados en la tulipa .
+
+
+ 
+ Comprueba la lista de la DGT antes de pagar , no las fotos del anuncio: es la única comprobación que te ahorra la sorpresa.
+
+ Desconfía de la suscripción: si te piden cuota mensual para «que se conecte», no es el modelo que pide la norma.
+
+ Sin registrarte con tus datos: ni app ni alta a tu nombre; al comprar no se asocia la baliza a ninguna persona ni matrícula.
+
+ Dónde comprarla: baliza V-16 conectada homologada (la del kit de coche ), comparar modelos de baliza V-16 homologada o, si todavía no lo tienes, chaleco reflectante .
+
+ 
+
+ La multa: infracción leve y 80 €
+
+
+ No llevar la baliza V-16 es una infracción leve sancionada con 80 € , la misma cantidad que se aplicaba antes a quien circulaba sin triángulos. Es la parte fácil: el coste real de ir sin ella es estar a pie en un arcén de noche esperando a que alguien te vea. Por eso el kit de coche la marca como imprescindible: cuesta como dos cenas y se compra una vez.
+
+
+ Tres bulos que circulan por redes
+
+
+ 
+ «Rastrea tus movimientos». Solo transmite cuando está activada, y lo que envía es la ubicación más un identificador técnico del propio dispositivo: la AEPD confirma que no hay registro que vincule la baliza con la identidad de quien la usa, ni con la matrícula, y la norma prohíbe funcionalidades adicionales.
+
+ «Hay que registrarla con el DNI o instalar una app». Falso: no necesita aplicación, ni teléfono, ni datos personales al comprarla.
+
+ «Llama sola al 112». También falso. Si hay heridos o la situación es grave, llamas tú al 112 y, si procede, a la asistencia de tu aseguradora.
+
+ 
+
+ Checklist de diez minutos para esta semana
+
+
+ 
+ Comprueba que tu baliza figura en el listado oficial de la DGT y que el número de certificado está grabado en la tulipa.
+
+ Cárgala y déjala en la guantera ; pruébala una vez y vuelve a guardarla cargada.
+
+ Ten el chaleco a mano — no debajo de la maleta en el maletero — y el móvil cargado.
+
+ Acordad en casa quién sale y por qué lado , o si simplemente os quedáis dentro con el cinturón abrochado.
+
+ Revisa el resto del kit del coche: botiquín, linterna, agua y powerbank , lo que mantiene viva esa llamada al 112.
+
+ 
+
+ La baliza resuelve la señalización, no el resto del escenario. El contexto está en las lecciones del apagón del 28 de abril y la lista completa de lo obligatorio y lo conveniente en el kit de coche para 2026 . La base — agua, luz y comida para 72 horas — sigue en el kit básico de 72 horas .
+
 ### Mejores conservas de larga duración para emergencias (2026) — https://kit72h.com/blog/mejores-conservas-larga-duracion/
 Mejores conservas de larga duración para emergencias: 9 productos comparados, qué fecha mirar en el envase y los 5 errores habituales de la despensa.
 Se va la luz a las 21:40 y lo primero que haces es abrir la nevera para mirar cuánto queda. A las doce horas el congelador ya está tibio y, a las treinta y seis, la pregunta ya no es qué apetece sino qué se puede comer todavía . Ahí vale más una conserva bien elegida que cualquier gadget: comida que aguanta meses o años sin frío, sin luz y sin que tú hagas nada.

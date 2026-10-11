@@ -56,7 +56,7 @@
 | qué recomienda Protección Civil kit emergencia | media | info | /fuentes/ + kit-basico | ✅ cubierto | P1 |
 | autosuficiencia 72 horas directiva europea | baja | info | /kit/kit-basico/ | ✅ cubierto | P2 |
 | alerta DGT kit coche obligatorio | media | info | /kit/kit-coche/ | ✅ cubierto | P1 |
-| señalización V16 obligatoria 2026 | alta (estacional) | info | /kit/kit-coche/ | parcial | P2 |
+| señalización V16 obligatoria 2026 | alta (estacional) | info | /blog/baliza-v16-obligatoria-2026/ (+ /kit/kit-coche/) | ✅ hecha (2026-10-11) | P2 |
 
 ### Cluster E — dudas prácticas (long tail, FAQ + rich results)
 | Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |

@@ -35,6 +35,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla](https://kit72h.com/blog/baliza-v16-obligatoria-2026/): Desde el 1 de enero de 2026 la baliza V16 conectada es el único medio legal para señalizar un coche parado: qué exige la DGT y cómo elegirla homologada.
 - [Mejores conservas de larga duración para emergencias (2026)](https://kit72h.com/blog/mejores-conservas-larga-duracion/): Mejores conservas de larga duración para emergencias: 9 productos comparados, qué fecha mirar en el envase y los 5 errores habituales de la despensa.
 - [Kit de emergencia para bebé: qué necesitas en casa (lista por bloques)](https://kit72h.com/blog/kit-emergencia-bebe-familia/): Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula de reserva, higiene sin agua, papeles y frío. Lista por bloques.
 - [Mejor purificador de agua para emergencias (2026): 7 filtros comparados](https://kit72h.com/blog/mejor-purificador-agua-emergencia/): Mejor purificador de agua para emergencias: 7 filtros comparados por precio y uso, qué elimina cada método y los 5 errores que dejan el agua igual.
