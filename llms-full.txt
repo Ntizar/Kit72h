@@ -30,7 +30,7 @@ Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta A
 - Manta térmica de emergencia: Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco. (~3-8 €)
 - Chubasquero o poncho impermeable: Impermeable ligero reutilizable. Mantente seco = mantente caliente. (~15-30 €)
 
-### Kit DANA / Inundación: 14 artículos para proteger tu hogar — https://kit72h.com/kit/kit-dana/
+### Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026) — https://kit72h.com/kit/kit-dana/
 Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
 **Protección personal frente al agua**
 - Chubasquero impermeable con capucha: Capucha ajustada y costuras selladas para lluvia torrencial. (~20-40 €)
@@ -176,7 +176,7 @@ Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencia
 - Navaja multiusos: 23 herramientas en un cuerpo compacto: cuchillo, sierra, destornilladores, abrebotellas. Lo justo para reparaciones de emergencia. (~10-20 €)
 - Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones): Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no. (~3-10 €)
 
-### Huerto Autosuficiente: 13 herramientas para autoprovisión — https://kit72h.com/kit/huerto-autosuficiencia/
+### Huerto Autosuficiente: 13 herramientas para autoprovisión (2026) — https://kit72h.com/kit/huerto-autosuficiencia/
 Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
 **Para empezar a sembrar**
 - Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
@@ -329,7 +329,7 @@ Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentaci
 - Lista de residencias y hoteles que admiten animales: En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina. (~0 €)
 - Protección de datos del animal (copia digital de vacunas con el microchip visible): Fotos hechas con el móvil de la cartilla, guardadas en un USB cifrado y en la nube: si te lo piden a distancia, lo tienes. (~8-20 €)
 
-### Kit Frío/Invierno: 27 artículos para sobrevivir al frío — https://kit72h.com/kit/kit-frio/
+### Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026) — https://kit72h.com/kit/kit-frio/
 Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.
 **Calor corporal: la capa que salva**
 - Ropa térmica interior (camiseta y legging, 2 juegos): La capa que está pegada a la piel es la que más importa: la térmica transpira y seca, el algodón se queda mojado y roba calor. (~20-45 €)
@@ -453,7 +453,7 @@ Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad re
 - Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
 - Powerbank de 20.000 mAh + cables: Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C. (~25-50 €)
 
-### Kit Electricidad: energía sin red cuando se va la luz (2026) — https://kit72h.com/kit/kit-electricidad/
+### Kit Electricidad: 10 artículos para tener luz sin red (2026) — https://kit72h.com/kit/kit-electricidad/
 Kit electricidad: generador solar, baterías y powerbanks grandes para tener luz y corriente cuando falla la red. Guía completa 2026.
 **Energía: baterías y paneles**
 - Generador solar portátil con panel incluido (300-500 Wh): Estación de energía con panel plegable: mantiene luces, móviles y router 1-3 días. (~250-450 €)
@@ -740,8 +740,8 @@ Se va la luz a las 21:40 y lo primero que haces es abrir la nevera para mirar cu
 
  Con esto cubres el flanco que ninguna linterna arregla. El montaje completo está en cómo almacenar agua y comida en casa y en la rotación de alimentos por fecha ; los menús sin luz, en comer sin luz: menús para 3 días ; y qué hacer con lo que se estropea al cortarse el frío, en conservar comida sin nevera . El conjunto encaja en el kit básico de 72 horas y en el kit de hogar o confinamiento .
 
-### Kit de emergencia para bebé: qué necesitas en casa (lista por bloques) — https://kit72h.com/blog/kit-emergencia-bebe-familia/
-Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula de reserva, higiene sin agua, papeles y frío. Lista por bloques.
+### Kit de emergencia para bebé: qué llevar en casa por bloques (2026) — https://kit72h.com/blog/kit-emergencia-bebe-familia/
+Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques.
 Se va la luz a las tres de la mañana y lo que más pesa no es la linterna: es el bebé que despierta. En un hogar con niños pequeños, las 72 horas de autonomía que recomienda la Estrategia de Preparación de la Unión Europea no se miden en latas ni en pilas, sino en biberones, pañales y agua segura : cosas que, sin luz y sin agua corriente, dejan de ser automáticas de golpe. Esta es la lista para montar el kit de emergencia de un bebé sin duplicar nada y sin gastar de más, porque buena parte ya está en casa.
 
 
@@ -1143,7 +1143,7 @@ El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil a
  Un powerbank de 20.000 mAh con USB-C y doble salida es el estándar del kit 72h: 4 cargas de móvil, 74 Wh (vuela sin papeleo) y 25-50 € bien gastados. Si tienes pareja o hijos, añade un segundo de 10.000-20.000 mAh — la redundancia barata que convierte un susto en un detalle. Y recuerda la única regla que importa: sale del cajón cargado al 100% y se rota cada 3-6 meses . La lista completa del kit, con la energía ya resuelta, está en el kit básico de 72 horas .
 
 ### La mejor radio de emergencia con manivela y panel solar (2026) — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
-La mejor radio de emergencia con manivela y panel solar
+Radios de emergencia con manivela y panel solar comparadas: autonomía sin pilas, alcance, cargador móvil y cuál elegir para 72 horas.
 Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
 
 
@@ -1187,7 +1187,7 @@ Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba e
  La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
 
 ### Las 7 mejores linternas para un kit de emergencia 72h (2026) — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
-Las 7 mejores linternas para un kit de emergencia 72h
+7 linternas de emergencia comparadas por autonomía real (lúmenes y horas), precio y resistencia: cuál merece hueco en tu kit de 72 horas.
 Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linterna es uno de los primeros cinco objetos que aparecen en TODAS las guías de preparación civil de España, Europa y EE. UU. No es negociable.
 
 
@@ -1266,7 +1266,7 @@ Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linter
  Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
 
 ### El botiquín de emergencia para todo hogar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
-El botiquín de emergencia para todo hogar
+Qué lleva un botiquín de emergencia y qué sobra: lista por bloques para todo hogar, revisión de caducidades y 8 errores que lo dejan inútil.
 La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
 
 
@@ -1319,7 +1319,7 @@ La salud es el segundo bloque del kit 72h (después del agua) y el que más vari
  Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
 
 ### Alimentos para emergencias: rotación sin desperdicio (2026) — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
-Alimentos para emergencias: rotación sin desperdicio
+Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha, orden de consumo y cómo montar una despensa que no se tira.
 El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
 
 
@@ -1362,7 +1362,7 @@ El error más común en los kits 72h es comprar comida que luego caduca antes de
 
  No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
 
-### Starlink en un apagón: cómo montarlo, alimentarlo y cuándo merece la pena (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
+### Starlink en un apagón: montarlo, alimentarlo y si merece la pena (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
 Guía práctica de Starlink en emergencias: consumo real, cómo alimentarlo sin red, coste, instalación y qué alternativas apilar antes de comprar.
 Cuando se corta la luz en una zona entera, lo primero que cae no es la nevera: es la información. Se apaga el router, el móvil pierde datos y las redes locales se saturan. En ese momento mucha gente se acuerda de Starlink, la constelación de satélites de SpaceX que promete internet desde cualquier punto con cielo despejado. Este artículo es la guía práctica: qué resuelve Starlink en una emergencia de 72 horas, qué no resuelve, cuánto consume y cómo alimentarlo cuando no hay red eléctrica , para que decidas con cabeza si merece un hueco en tu plan de preparación — o si te basta con algo más simple y más barato.
 
@@ -1507,42 +1507,147 @@ Cuando se corta la luz en una zona entera, lo primero que cae no es la nevera: e
 
  En resumen: Starlink en una emergencia es una herramienta excelente para quien ya tiene cubiertas las capas básicas y puede alimentarla sin red. Empieza por ahí — lecciones de los apagones reales y los primeros 30 minutos de un apagón enseñan que la información manda — y decide con el plan completo delante: Kit Starlink si la energía ya está resuelta, o mejor sigue en la guía del blog comparando alternativas si todavía no.
 
-### Panel solar portátil para emergencias: energía cuando no hay red (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
-Panel solar portátil para emergencias: cómo conseguir energía cuando no hay red eléctrica. Comparativa de los mejores paneles solares portátiles.
-Imagina 3 días sin luz. Tu móvil se muere, el portátil no carga, la nevera para. Un panel solar portátil te da energía del sol, sin gasolina ni ruido.
+### Panel solar portátil para emergencias: tipos, potencia real y cómo elegirlo (2026) — https://kit72h.com/blog/panel-solar-portatil-72h-emergencia/
+Panel solar portátil para emergencias: tipos de panel, cuánta energía da de verdad, comparativa por escenario y los cinco errores que lo dejan inútil. Enlaces y fuentes oficiales.
+Cuando se va la luz en tu calle —o en media comunidad—, el cuello de botilla no suele ser la comida ni el agua: es la energía. El móvil se apaga, el router muere y la nevera deja de hacer frío. Un panel solar portátil es la forma más limpia de reponer esa energía durante los días que dure el apagón: sin gasolina, sin ruido, sin humo y sin depender de que repongan el combustible. Ahora bien: comprar «un panel» a ciegas es la mejor manera de quedarse con un objeto inútil justo cuando lo necesitas. Aquí te explicamos qué tipo te toca, cuánta energía da de verdad y qué errores evitar.
 
 
- ¿Qué es un panel solar portátil?
+ Qué es un panel solar portátil (y qué no es)
 
- Un panel solar plegable (100-400W) que se conecta a una batería externa para cargar tus dispositivos: móvil, portátil, radio, iluminación LED.
+ Un panel solar portátil es una superficie de células fotovoltaicas, normalmente plegable, que convierte la luz del sol en electricidad continua. Esa electricidad no la puedes usar directamente en casa: hay que guardarla en una batería (una power station o un banco de baterías con regulador) y desde ahí sacar los 220 V o los puertos USB que alimentan tus aparatos.
+
+ 
+ No es un generador: por sí solo no enciende la lavadora ni la nevera de sobremesa. Necesita batería de por medio.
+
+ Solo produce de día: la energía se gana entre medias y se consume de noche, así que el diseño del sistema es la mitad del asunto.
+
+ No depende de red ni de combustible: mientras haya luz solar, hay carga. Esa es su ventaja frente al grupo electrógeno.
+
+ 
+
+ Cuánta energía necesitas de verdad
+
+ Antes de mirar vatios, hazte la pregunta correcta: ¿qué aparatos quiero mantener vivos y durante cuánto tiempo? La tabla siguiente da valores orientativos de consumo y de autonomía sobre una batería de 500 Wh (medio kilovatio-hora útil), que es un tamaño habitual en las power stations domésticas:
+
+ 
+ 
+ Aparato Consumo orientativo Autonomía con 500 Wh 
+
+ 
+ 
+ Móvil (carga completa) 10–15 Wh por carga Decenas de cargas 
+
+ Portátil 50–70 Wh por carga Unas 6–8 cargas 
+
+ Router o módem 4G 10–15 W continuos Varios días en ciclos 
+
+ Bombilla LED de 10 W 10 W continuos Decenas de horas 
+
+ Nevera portátil de 12 V 40–70 W en ciclo Medio día sin recarga 
+
+ Cargador de radio manivela 0 W (se genera a mano) Reserva eterna 
+
+ 
+ 
+ Fíjate en el patrón: la iluminación y la conectividad son baratas de mantener; la nevera es cara. Si tu prioridad es estar informado y localizable, con poco panel te llega. Si quieres conservar la comida, necesitas bastante más sistema. Para el cálculo completo por escenario, echa un ojo a cuántos watts necesita un panel solar portátil de verdad .
 
 
- Los mejores paneles para emergencias
+ Los tres tipos de panel (y cuál te toca)
+
+ 
+ Rígido monocristalino: más vatios por euro y más eficiente, pero ocupa y no se pliega. Merece la pena si lo vas a instalar fijo en un balcón o en una furgoneta.
+
+ Plegable de viaje (PET o ETFE): se dobla como una cartera, pesa pocos kilos y cabe en el maletero o en el armario. Es el formato estrella para un kit de emergencia, porque lo importante no es tener panel, es tenerlo donde estás cuando se va la luz.
+
+ Todo en uno (panel + batería integrada): sencillez total y buen compañero de sofá o de mesa de campamento, aunque la batería suele ser más pequeña.
+
+ 
+ Al comparar, mira más allá de los vatios: tipo de celda (monocristalina frente a policristalina), resistencia al agua (grado IP), los conectores que trae (MC4, XT60 o cable DC universal) y, sobre todo, si es compatible con la batería que ya tienes. Un panel excelente desconectado de tu batería no vale nada.
 
 
- 1. Bluetti PV200
+ Comparativa por escenario: qué potencia pedir
 
- 200W, eficiente (23%), resistente al agua. Ideal para mochila de emergencia. 200-300€.
+ 
+ 
+ Escenario Panel recomendado Batería recomendada En el sitio 
+
+ 
+ 
+ Solo móvil, radio y luces 20–60 W plegable 200–300 Wh Kit apagón 
+
+ Teletrabajo ligero 72 h (móvil + portátil + router) 100–200 W plegable 500–1000 Wh Kit electricidad 
+
+ Casa con nevera y bombillas de verdad 300–600 W (dos paneles) 2000 Wh o más Kit profesional 
+
+ Balcón o caravana fija Rígido de 100–200 W Depende del uso Kit hogar 
+
+ 
+ 
+
+ Cuánto produce un panel al día (el dato que nadie publicita)
+
+ Los vatios del catálogo son potencia instantánea bajo condiciones de laboratorio, no energía diaria. En la práctica, en España un panel de 100 W bien orientado suele entregar en torno a 300–500 Wh al día en verano, y bastante menos en invierno, con cielo cubierto o con sombras parciales. La regla útil: asume un rendimiento real muy por debajo del dato de la caja y diseña con margen. Un día nublado no es un apagón del panel, pero sí recorta mucho.
 
 
- 2. EcoFlow 110W Solar Panel
+ Cómo sacarle partido el día del apagón
 
- 110W, plegable, ligero. Ideal para complementar tu powerstation. 150-200€.
+ 
+ Si hay aviso previo, carga la batería antes: partir con la batería al 100 % te compra medio día de holgura.
+
+ Orientación y ángulo: cara al sol, con una inclinación de unos 30–45°. Un panel a la sombra rinde cerca de cero, no «un poco menos».
+
+ Horario: produce principalmente de 10:00 a 17:00; esa franja es la que hay que aprovechar para cargar.
+
+ Orden de prioridad: primero información y comunicación (móvil, router, radio), después iluminación y, si sobra, la nevera.
+
+ Ventila y desconecta: los aparatos en reposo también consumen; apagar lo que no toca alarga la autonomía varias horas.
+
+ 
+
+ Los cinco errores que hacen inútil tu panel
+
+ 
+ Comprar panel sin batería y descubrir que no enciende nada de 220 V.
+
+ Fijarse solo en los vatios y olvidar los Wh de la batería: el sistema es panel más batería.
+
+ Dejar el panel tras el cristal de una ventana: el vidrio recorta una parte grande de la producción.
+
+ Guardar la batería descargada durante meses; las celdas se resentirán cuando más la necesites.
+
+ No comprobar conectores y compatibilidad hasta el día del apagón.
+
+ 
+
+ Qué comprar: tres puntos de entrada
+
+ 
+ Entrada económica: un panel plegable pequeño de 20–40 W, pensado para mantener cargados móviles, linternas y la radio. Es el que recomienda el kit de apagón y está en la franja de 40–80 € : ver panel solar portátil en Amazon .
+
+ Opción recomendada para 72 h: un plegable de 100–200 W con células de alta eficiencia, que ya mueve un portátil y una nevera portátil sin dramatismos: buscar paneles solares plegables de 200 W .
+
+ Solución completa: un generador solar con panel incluido (300–500 Wh de batería), todo en una mochila. En la franja de 250–450 € y listo para conectar: buscar generadores solares portátiles .
+
+ 
+ Si ya tienes la batería y solo quieres ampliar, busca directamente paneles solares plegables de 100 W . Y si la emergencia previsible es un corte largo de días, el panel es solo una pieza: revísalo dentro del generador solar para emergencias y de la guía de powerbanks para el kit de emergencia .
 
 
- 3. Jackery SolarSaga 100W
+ Dónde encaja en tu preparación
 
- 100W, plegable, resistente. Compatible con la mayoría de powerstations. 150-200€.
-
-
- ¿Cuánta energía produce?
-
- Un panel de 100W produce ~400-500Wh al día en condiciones ideales (6-8h de sol directo). En invierno y nuboso, ~200-300Wh.
+ Un panel portátil no vive solo: vive dentro de un kit. En el kit básico de 72 horas la energía eléctrica es una de las categorías imprescindibles junto con agua, luz y comunicación. En el kit de electricidad encontrarás la combinación completa de panel, batería y accesorios, y si el apagón coincide con una DANA o con un aviso meteorológico, conviene repasar los primeros 30 minutos de un apagón por DANA antes incluso de conectar nada. Para cuando toque conservar la comida, aquí tienes qué aguanta sin nevera y qué tirar , y si la noche se hace larga, la mejor estufa para pasar la noche sin luz .
 
 
- Conclusión
+ Fuentes oficiales
 
- Un panel solar portátil es el complemento perfecto para una powerstation. Juntos te dan autonomía eléctrica para una emergencia de 72h.
+ 
+ IDAE (Instituto para la Diversificación y Ahorro de la Energía) — información oficial sobre autoconsumo y eficiencia energética.
+
+ Comisión Europea — Estrategia de la Unión de la Preparación — la recomendación europea de tener autonomía para 72 horas.
+
+ Red Eléctrica de España — datos oficiales sobre el suministro y la operación de la red.
+
+ 
+ Con panel, batería y un poco de disciplina, los tres días sin luz dejan de ser un problema de energía y pasan a ser un problema de organización. Y eso, siempre se puede preparar.
 
 ### Nevera portátil para emergencias: conserva la comida sin luz (2026) — https://kit72h.com/blog/nevera-portatil-emergencia-72h/
 Nevera portátil para emergencias de 72h: conserva comida sin electricidad. Comparativa de las mejores neveras portátiles para emergencias.
