@@ -502,6 +502,111 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Generador vs power station: comparativa 2026 para el apagón — https://kit72h.com/blog/generador-vs-power-station-comparativa/
+¿Generador o power station? Comparamos potencia, autonomía, ruido, coste por hora y normativa para aguantar un apagón en España.
+El 28 de abril de 2025, a las 12:33:30, el sistema eléctrico peninsular se quedó a cero. El Comité para el análisis de las circunstancias que concurrieron en la crisis de electricidad del 28 de abril —creado por el Consejo de Seguridad Nacional y cuyo informe aprobó el Consejo de Ministros el 17 de junio de 2025— concluyó que el origen fue multifactorial, descartó el ciberataque y situó la reposición completa del suministro el 29 de abril a las 14:36. En muchas casas la luz volvió mucho antes; el problema fue todo lo que se quedó sin alimentar mientras tanto: la nevera, la caldera, el portero, la bomba de agua.
+
+
+ Por eso la pregunta de compra ya no es «qué me falta en el kit», sino cuánta potencia necesitas y, sobre todo, dónde la vas a poner . Ahí se cruzan dos respuestas muy distintas: un generador de combustible o una power station (batería estacionaria con inversor y, opcionalmente, panel solar). Los comparamos con datos de España —potencia, autonomía, coste por hora, ruido y normativa— para que decidas antes del próximo corte, no durante.
+
+
+ Qué necesitas alimentar (haz esto antes de mirar precios)
+
+
+ La potencia se mide en vatios y se gasta muy deprisa. Regla práctica orientativa para las primeras 72 horas:
+
+
+ 
+ 100-200 W : router y ONT, cargadores de móvil, tres o cuatro luces LED, detector de monóxido. Cualquier cosa de este artículo lo mueve.
+
+ 300-700 W : portátil, televisión, hervidor, microondas a ratos, aspiradora.
+
+ 1.000-2.000 W : nevera doméstica en el arranque, caldera de gasóleo (solo la bomba de circulación), bomba de pozo.
+
+ Por encima de 2.500 W : vitrocerámica, horno, lavadora, aire acondicionado. Ahí un generador pequeño se queda corto y una power station de 500 Wh no llega ni a un ciclo de horno.
+
+ 
+
+ Con esa lista delante, la comparativa se aclara sola.
+
+
+ Generador vs power station: la tabla
+
+
+ 
+ Criterio Generador de gasolina (inverter) Power station + panel solar 
+ 
+ 
+ Potencia continua 1.000-3.000 W, con picos de hasta el doble al arrancar 600-2.000 W de salida y 500-2.000 Wh de capacidad 
+
+ Autonomía 4-8 h por depósito de 4-5 L, y mientras quede gasolina 500 Wh ≈ 6-10 h de nevera pequeña o unas 10 h de router, luces y cargadores 
+
+ Coste por hora 1-1,80 €/h de gasolina (orientativo) 0 € en uso; 150-400 € de gasto único en el panel 
+
+ Ruido 58-75 dB(A) a 7 m según modelo Silencioso : solo el ventilador 
+
+ Uso en piso Imposible ❌ (monóxido, ruido y normativa) Sí ✅ dentro de la vivienda 
+
+ Recarga Gasolina, con stock que caduca Sol, red o motor del coche: gratis y sin gestión 
+
+ Peso 15-30 kg 8-25 kg 
+
+ Precio orientativo 350-900 € + 50-100 € de depósito 400-1.200 € + 100-300 € de panel 
+
+ 
+ 
+
+ Cifras orientativas para España, hechas para comparar, no para firmar un pedido: se parte de una gasolina en torno a 1,5 €/L y de horquillas habituales de tienda. Un generador convencional sin inverter es más barato, pero entrega una onda que estropea electrónica sensible: si vas a enchufar el ordenador o el router, exige salida sinusoidal pura .
+
+
+ Ganador por categoría
+
+
+ 
+ Piso o apartamento en ciudad → power station . No quema combustible, no hace ruido y no emite monóxido. Con una estación de 1.000-1.500 Wh y un panel plegable se cubren nevera pequeña, luces y móviles: ver power stations portátiles y panel solar plegable de 20-40 W , el mínimo para no bajar la carga de móviles y linternas.
+
+ Casa con trastero, garaje ventilado o jardín → generador inverter . Es la única vía para hervir, calentar o mover una nevera grande durante días: ver generadores inverter .
+
+ Router y ordenador (lo primero que se salva) → SAI/UPS . Barato, silencioso e instantáneo: SAI de 600-900 VA . No sustituye a los dos anteriores: compra los primeros minutos mientras decides.
+
+ Escenario largo (varios días) → los dos : estación para el día a día y generador para los grandes consumos, con el panel como red de seguridad.
+
+ 
+
+ El ruido: por qué un generador no entra en un portal
+
+
+ Aquí la comparativa se gana por puntos, y es el dato que casi nadie se guarda antes de comprar. Un generador inverter «silenciado» ronda los 58-65 dB(A) a siete metros según ficha técnica; un convencional pasa de 70. Un portero automático de portal está en torno a los 50-55 dB. En una calle en calma a las tres de la mañana, un generador en el balcón se oye desde el piso de al lado.
+
+
+ Y el marco legal no da margen: el artículo 7.2 de la Ley de Propiedad Horizontal prohibe desarrollar en la vivienda actividades que «contravengan las disposiciones generales sobre actividades molestas, insalubres, nocivas, peligrosas o ilícitas», mientras que los valores límite de ruido en zona residencial los fija la Ley 37/2003 del Ruido y sus reales decretos de desarrollo (Código del Ruido, BOE) junto con la ordenanza municipal de cada ayuntamiento. Traducción práctica: enchufar un generador en el balcón o en el garaje de un edificio de vecinos es, a la vez, un conflicto de convivencia y una infracción. Si quieres el detalle normativo, está en el Código de la Comunidad de Propietarios del BOE .
+
+
+ El monóxido: el argumento que cierra la discusión
+
+
+ La regla es corta y no admite excepciones: un generador nunca se usa dentro de casa, ni en el garaje, ni en el portal, ni pegado a una ventana . El motor emite monóxido de carbono inodoro, y las intoxicaciones graves en apagones suelen ocurrir exactamente así, con alguien intentando pasar la noche más caliente o cargar el móvil en el trastero. Protección Civil y el plan de preparación de la Comisión Europea coinciden en lo mismo: distancia, ventilación y un detector de monóxido a pilas en la pared, a un metro de la cama y lejos del techo.
+
+
+ Si la casa es de piso, esa línea ni se plantea: el generador queda fuera de la ecuación y la power station gana por incomparecencia.
+
+
+ Compras en 10 minutos
+
+
+ 
+ Primero lo pequeño: kit básico de 72 horas y powerbank de 20.000 mAh . Cuestan menos que una hora de generador y resuelven el 80 % de las noches.
+
+ Si vives en piso: power station de 1.000 Wh más panel plegable. El cálculo de vatios está en panel solar portátil: cuántos vatios necesitas de verdad .
+
+ Si tienes trastero o jardín: generador inverter de 2.000 W con salida sinusoidal pura, y la alternativa de generador solar para no vivir de gasolina.
+
+ Lo que no se compra dos veces: antes de enchufar calefacción, revisa la comparativa de estufas sin luz ; la nevera y el resto de la lista están en kit apagón y en kit de electricidad .
+
+ 
+
+ Con el 28-A encima de la mesa —las conclusiones oficiales están en el informe no confidencial del Comité de análisis — la pregunta ya no es si habrá otro corte, sino si esa tarde tendrás la nevera funcionando o llamarás al vecino. Elegir entre generador y power station no es elegir tecnología: es elegir si tu casa tiene dónde guardar veinte kilos de hierro ruidoso… o no.
+
 ### Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla — https://kit72h.com/blog/baliza-v16-obligatoria-2026/
 Desde el 1 de enero de 2026 la baliza V16 conectada es el único medio legal para señalizar un coche parado: qué exige la DGT y cómo elegirla homologada.
 El 1 de enero de 2026 ya pasó y con él una costumbre de veintiséis años: los triángulos dejan de ser un medio válido para señalar un coche parado en carretera . Desde esa fecha el único dispositivo legal es la baliza luminosa V-16 conectada, y quien siga confiando en los triángulos del maletero va fuera de norma — la infracción es leve y se paga con 80 €.

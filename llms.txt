@@ -35,6 +35,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Generador vs power station: comparativa 2026 para el apagón](https://kit72h.com/blog/generador-vs-power-station-comparativa/): ¿Generador o power station? Comparamos potencia, autonomía, ruido, coste por hora y normativa para aguantar un apagón en España.
 - [Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla](https://kit72h.com/blog/baliza-v16-obligatoria-2026/): Desde el 1 de enero de 2026 la baliza V16 conectada es el único medio legal para señalizar un coche parado: qué exige la DGT y cómo elegirla homologada.
 - [Mejores conservas de larga duración para emergencias (2026)](https://kit72h.com/blog/mejores-conservas-larga-duracion/): Mejores conservas de larga duración para emergencias: 9 productos comparados, qué fecha mirar en el envase y los 5 errores habituales de la despensa.
 - [Kit de emergencia para bebé: qué llevar en casa por bloques (2026)](https://kit72h.com/blog/kit-emergencia-bebe-familia/): Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques.

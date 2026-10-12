@@ -5,7 +5,14 @@
   <link>https://kit72h.com/</link>
   <description>Kits de emergencia 72 horas y guías de preparación civil en España. Fuentes oficiales: Comisión Europea, Protección Civil y DGT.</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Generador vs power station: comparativa 2026 para el apagón</title>
+      <link>https://kit72h.com/blog/generador-vs-power-station-comparativa/</link>
+      <guid isPermaLink="true">https://kit72h.com/blog/generador-vs-power-station-comparativa/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>¿Generador o power station? Comparamos potencia, autonomía, ruido, coste por hora y normativa para aguantar un apagón en España.</description>
+    </item>
     <item>
       <title>Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla</title>
       <link>https://kit72h.com/blog/baliza-v16-obligatoria-2026/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://kit72h.com/blog/terremoto-espana-que-hacer/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.</description>
-    </item>
-    <item>
-      <title>Kit de emergencia en el trabajo: qué guardar y qué hacer (2026)</title>
-      <link>https://kit72h.com/blog/kit-emergencia-trabajo-oficina/</link>
-      <guid isPermaLink="true">https://kit72h.com/blog/kit-emergencia-trabajo-oficina/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y ...</description>
     </item>
 </channel>
 </rss>
