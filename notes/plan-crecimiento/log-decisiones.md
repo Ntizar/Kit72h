@@ -10,3 +10,4 @@
 | 2026-10-10 | mejor Starlink España precio | banner | propuesto | Banner Starlink en home (CSS .starlink-banner-* existe pero 0 páginas lo usan): copy listo, pendiente de OK; sin encolar |
 | 2026-10-10 | starlink-emergencia-72h-conectividad | revamp | encolado | Revamp del stub de 128w a 2.046 palabras (16x) con _mejora:true y fecha 2026-10-01 conservada; título nuevo sin canibalizar al hermano de conectividad; encola p |
 | 2026-10-11 | panel-solar-portatil-72h-emergencia | revamp | encolado | Revamp stub 149w → 1.322 palabras (8,9x): tabla consumo, comparativa por escenario, 11 internos, 4 afiliados tag=ntizar-21, 3 fuentes oficiales; propuesta y pub |
+| 2026-10-12 | mejor-router-4g-emergencia-sin-internet | revamp | encolado | Revamp stub 152w → 1.552 palabras (10,2x) con _mejora:true y fecha 2026-10-01 conservada: tabla móvil vs router, 3 formatos, checklist día del aviso, 12 interno |
