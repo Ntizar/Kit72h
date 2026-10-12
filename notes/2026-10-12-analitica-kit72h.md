@@ -71,3 +71,30 @@ en el PC (`%LOCALAPPDATA%\hermes\.env`) y, para el cron, al de la VM
 (`~/.hermes/.env`). El único fichero público es `js/analiticas.js`, y ahí solo
 puede vivir el **token del beacon** de Cloudflare (que es público por diseño: va
 en el HTML de todas formas).
+
+## Dos trampas que costaron un susto (¡leer antes de tocar esto!)
+
+1. **El sitio se re-hornea cada noche con Chromium** (`scripts/prerender.py`).
+   Todo lo que un JS añade al DOM **queda escrito** en el HTML estático. Si el
+   cargador inyectase el beacon en runtime sin comprobar nada, el beacon
+   acabaría **duplicado** al día siguiente (visitas contadas dos veces). Por eso
+   `cargar()` de `js/analiticas.js` no añade una etiqueta cuyo `src` ya exista.
+   Regla general: en esta web, cualquier cosa que se inyecte desde JS debe ser
+   **idempotente**.
+
+2. **Los crons LLM del repo hacen `git add -A` y publican.** El 12/10 a las
+   06:43 el cron de CTR barrió el árbol y **publicó en producción este trabajo
+   antes de que David diera el ✅** (commit `8be99b4`, que además añadió
+   `analiticas` a la lista de copia de `.github/workflows/pages.yml`, cambio
+   necesario sin el cual el panel no se habría desplegado). Consecuencia
+   operativa: **nunca dejar trabajo a medias en el árbol del repo** — se publica
+   solo. Si hay que preparar algo sin publicarlo, hacerlo en otra rama o en
+   `~/scratch`.
+
+3. **El pie también se toca por script**: el enlace discreto al panel lo pone
+   `scripts/instrumentar-analitica.py` (`--solo-pie` hace solo esa parte). El
+   bump de la versión del CSS es **quirúrgico** (solo el número tras `?v=`):
+   el 02/10 un regex goloso se comió el `">` del `<link>` en 67 ficheros y dejó
+   la web sin CSS. Validar siempre con `python3 scripts/verificar-sitio.py`
+   (chequea que `styles.css?v=` sea consistente en todas las páginas).
+

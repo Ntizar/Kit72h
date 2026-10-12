@@ -344,6 +344,9 @@ ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
 .site-footer{background:var(--negro);color:var(--gris);padding:34px 0 120px;border-top:var(--b) var(--rojo)}
 .site-footer p{font-size:11.5px;max-width:760px;line-height:1.7}
 .site-footer a{color:var(--tan)}
+/* Enlace discreto del pie al panel privado de analítica (no se anuncia). */
+.pie-panel{font-size:10px;letter-spacing:.08em;text-transform:uppercase;opacity:.45}
+.pie-panel:hover,.pie-panel:focus{opacity:.9}
 
 /* --- Móvil: una columna, botones a ancho completo --- */
 @media(max-width:640px){

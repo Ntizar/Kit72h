@@ -21,11 +21,16 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 VER = "20261012a"
 MARCA = "/js/analiticas.js"
+CSS_VER = "20261012b"          # versión de caché de /css/styles.css
+RUTA_PANEL = "/analiticas/"    # enlace discreto del pie al panel privado
 EXCLUIDOS = {".git", "node_modules", "pintout", "sketches", "__pycache__",
              "analiticas"}  # analiticas/ es nuestro panel: no se mide a sí mismo
 
 PATRON_EXISTENTE = re.compile(
     r'<script[^>]*src="/js/analiticas\.js(\?v=[^"]*)?"[^>]*></script>', re.I)
+PATRON_CSS_VER = re.compile(r'styles\.css\?v=[0-9a-zA-Z]+')
+ENLACE_PANEL = (' · <a class="pie-panel" href="' + RUTA_PANEL + '" rel="nofollow"'
+                ' title="Panel privado de analítica">Panel</a>')
 
 
 def version_actual(html):
@@ -51,10 +56,41 @@ def instrumentar(ruta, ver, aplicar):
     return "insertado"
 
 
+def pie_panel(html, aplicar, dry):
+    """Mete el enlace discreto al panel justo antes del último </footer>.
+    Idempotente: si la página ya enlaza /analiticas/, no hace nada."""
+    if RUTA_PANEL in html:
+        return "ya-ok"
+    corte = html.rfind("</footer>")
+    if corte == -1:
+        return "sin-footer"
+    nuevo = html[:corte] + ENLACE_PANEL + "\n" + html[corte:]
+    if aplicar:
+        dry.write_text(nuevo, encoding="utf-8")
+    return "pie-insertado"
+
+
+def normalizar_css(html, aplicar, dry):
+    """Alinea styles.css?v= a CSS_VER. Reemplazo quirúrgico SOLO del número de
+    versión (este repo ya se quedó sin CSS una vez por un regex demasiado
+    goloso: nunca tocar el resto de la etiqueta <link>)."""
+    if f"styles.css?v={CSS_VER}" in html:
+        return "css-ok"
+    nuevo, n = PATRON_CSS_VER.subn(f"styles.css?v={CSS_VER}", html)
+    if n == 0:
+        return "css-sin-ref"
+    if aplicar:
+        dry.write_text(nuevo, encoding="utf-8")
+    return "css-actualizado"
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="no escribe nada")
     ap.add_argument("--ver", default=VER, help="versión de caché (query ?v=)")
+    ap.add_argument("--css-ver", default=CSS_VER, help="versión de /css/styles.css")
+    ap.add_argument("--solo-pie", action="store_true",
+                    help="solo enlace del pie + css (no toca el tag de analítica)")
     args = ap.parse_args()
     aplicar = not args.dry_run
 
@@ -64,20 +100,31 @@ def main():
         rel = ruta.relative_to(REPO)
         if any(parte in EXCLUIDOS for parte in rel.parts):
             continue
-        estado = instrumentar(ruta, args.ver, aplicar)
-        resumen[estado] = resumen.get(estado, 0) + 1
-        if estado in ("insertado", "version-actualizada"):
+        html = ruta.read_text(encoding="utf-8", errors="replace")
+        marcas = []
+        if not args.solo_pie:
+            marcas.append(("tag:" + instrumentar(ruta, args.ver, aplicar)))
+            html = ruta.read_text(encoding="utf-8", errors="replace")
+        marcas.append(("pie:" + pie_panel(html, aplicar, ruta)))
+        html = ruta.read_text(encoding="utf-8", errors="replace")
+        marcas.append(("css:" + normalizar_css(html, aplicar, ruta)))
+
+        cambio = False
+        for m in marcas:
+            resumen[m] = resumen.get(m, 0) + 1
+            if m.split(":")[1] in ("insertado", "version-actualizada",
+                                   "pie-insertado", "css-actualizado"):
+                cambio = True
+        if cambio:
             tocados.append(str(rel))
 
     modo = "DRY-RUN (nada escrito)" if not aplicar else "APLICADO"
-    print(f"[{modo}] versión {args.ver} — {sum(resumen.values())} páginas HTML vistas")
-    for estado in ("insertado", "version-actualizada", "ya-ok", "sin-head"):
-        if resumen.get(estado):
-            print(f"  {estado}: {resumen[estado]}")
-    if resumen.get("sin-head"):
-        print("  AVISO: páginas sin </head> (revisar a mano)")
+    print(f"[{modo}] {sum(v for k, v in resumen.items() if k.startswith('tag:'))} "
+          f"páginas HTML · tag v{args.ver} · css v{args.css_ver}")
+    for clave in sorted(resumen):
+        print(f"  {clave}: {resumen[clave]}")
     if tocados:
-        print("  primeras tocadas: " + ", ".join(tocados[:5]))
+        print(f"  {len(tocados)} páginas tocadas · p.ej. " + ", ".join(tocados[:4]))
     return 0
 
 
