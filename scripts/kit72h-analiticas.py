@@ -302,13 +302,29 @@ def plantilla(estado, mensaje, fuente="ninguna"):
 
 
 def escribir(resultado, a_stdout):
-    """Escribe data/analiticas.json (salvo --stdout) e imprime el JSON si procede."""
+    """Escribe data/analiticas.json (salvo --stdout) e imprime el JSON si procede.
+
+    No reescribe el fichero si lo único que cambia es la marca de tiempo: el
+    cron diario no debe dejar un commit vacío (y un push) cada día. Sin datos
+    nuevos, el panel conserva el fichero anterior.
+    """
     payload = json.dumps(resultado, ensure_ascii=False, indent=2)
     if a_stdout:
         print(payload)
         return
     try:
         SALIDA.parent.mkdir(parents=True, exist_ok=True)
+        if SALIDA.exists():
+            try:
+                previo = json.loads(SALIDA.read_text(encoding="utf-8"))
+                a = dict(previo)
+                b = dict(resultado)
+                a.pop("generado", None)
+                b.pop("generado", None)
+                if a == b:
+                    return  # mismos datos: se deja el fichero como estaba
+            except Exception:
+                pass
         SALIDA.write_text(payload + "\n", encoding="utf-8")
     except Exception as exc:
         print("  ⚠️ no se pudo escribir %s: %s" % (SALIDA, exc), file=sys.stderr)
