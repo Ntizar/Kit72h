@@ -9,6 +9,12 @@ commitean datos sin regenerar, la web estatica queda desfasada y la auditoria
 diaria (kit72h-seo-audit) salta con "prerender desactualizado" — justo lo que
 paso el 2026-09-29: el buscador toco kits.json a las 05:17 y el audit de las
 06:00 cazo 50 paginas viejas.
+
+PRESUPUESTO DE TIEMPO (arreglo 2026-10-12): el job llevaba desde el 07-10 en `error`
+porque runner-kit72h.py corta a 900s y buscar-amazon.py tardaba más en el VM (1 vCPU):
+se rascaban 12 fichas y, como guardaba todo al final del bucle, se perdía el trabajo
+entero — todas las noches. Ahora el buscador recibe --max-segundos 540 y guarda item
+a item: corta limpio, imprime cuánto lleva, y lo que falte entra en la noche siguiente.
 """
 import os
 import subprocess
@@ -28,7 +34,15 @@ GENERADO = ("data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.
 
 
 def run(*args, timeout=900):
-    return subprocess.run(args, cwd=REPO, capture_output=True, text=True, timeout=timeout)
+    """Nunca muere por timeout: buscar-amazon.py guarda item a item, así que un corte
+    deja trabajo VÁLIDO en disco que hay que commitear igualmente (si no, cada noche
+    se rascaba Amazon para nada → cron kit72h-buscador en `error` desde 2026-10-07)."""
+    try:
+        return subprocess.run(args, cwd=REPO, capture_output=True, text=True, timeout=timeout)
+    except subprocess.TimeoutExpired as e:
+        salida = e.stdout if isinstance(e.stdout, str) else (e.stdout or b"").decode("utf-8", "replace")
+        print(f"⚠️ timeout de {timeout}s en {' '.join(str(a) for a in args[:2])}")
+        return subprocess.CompletedProcess(args, 1, salida, "timeout")
 
 
 def git(*args, timeout=300):
@@ -38,7 +52,10 @@ out = None
 if os.environ.get("KIT72H_SKIP_BUSCAR") == "1":
     print("(buscador de Amazon saltado: KIT72H_SKIP_BUSCAR=1)")
 else:
-    out = run(PY, "scripts/buscar-amazon.py", "--cupo", "12")
+    # Presupuesto de 540s: deja margen para generar-seo + prerender + commit dentro
+    # del corte de 900s de runner-kit72h.py, que era el que mataba el job.
+    # Lo que no entre hoy entra mañana (rotación + guardado incremental).
+    out = run(PY, "scripts/buscar-amazon.py", "--cupo", "12", "--max-segundos", "540")
 if out is not None:
     print(out.stdout[-2500:] if out.stdout else "")
     if out.returncode != 0 and out.stderr:
@@ -59,7 +76,12 @@ if seo.returncode != 0:
 pre = run(PY, "scripts/prerender.py")
 if pre.returncode != 0:
     cola = [l for l in (pre.stdout or "").splitlines() if l.strip()][-3:]
-    print("⚠️ prerender.py falló, la web estática queda desfasada: " + " | ".join(cola))
+    # GATE: sin prerender NO se pushea. La REGLA DE ORO de arriba dice que datos y
+    # HTML salen del mismo run; commitear solo los datos deja la web a medias y el
+    # audit de las 06:00 salta con "prerender desactualizado". Mejor un error honesto
+    # (el cron lo canta) que un deploy silenciosamente viejo.
+    print("❌ prerender.py falló → NO se commitea ni se pushea: " + " | ".join(cola))
+    sys.exit(1)
 
 # 2) Commit con datos + generado
 for f in GENERADO:

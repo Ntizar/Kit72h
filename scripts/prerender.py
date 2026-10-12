@@ -146,12 +146,22 @@ def main():
     for e in blog_d["entradas"]:
         rutas.append((f"/blog/{e['slug']}/", ("blog", e)))
 
-    srv = socketserver.TCPServer(("127.0.0.1", PUERTO), H)
+    # Puerto: si otro prerender lo tiene cogido (el vigilante semanal a la misma hora,
+    # o un run anterior que murió por timeout dejando el servidor huérfano), NO morir
+    # con EADDRINUSE: ese fallo rápido abortaba el prerender y el wrapper commiteaba
+    # igualmente HTML viejo — el incidente del 2026-09-29. Se pide al SO un puerto libre.
+    socketserver.TCPServer.allow_reuse_address = True
+    try:
+        srv = socketserver.TCPServer(("127.0.0.1", PUERTO), H)
+    except OSError:
+        srv = socketserver.TCPServer(("127.0.0.1", 0), H)
+        print(f"puerto {PUERTO} ocupado → usando el {srv.server_address[1]}")
+    puerto = srv.server_address[1]
     threading.Thread(target=srv.serve_forever, daemon=True).start()
     ok = fallos = 0
     try:
         for ruta, ctx in rutas:
-            url = f"http://127.0.0.1:{PUERTO}{ruta}"
+            url = f"http://127.0.0.1:{puerto}{ruta}"
             try:
                 # asserts de contenido horneado: se calculan ANTES del dump
                 # para que el reintentador de dump() pueda validarlos.

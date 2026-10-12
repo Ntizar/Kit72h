@@ -123,6 +123,9 @@ def coletilla_no_compra(producto):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cupo", type=int, default=12)
+    ap.add_argument("--max-segundos", type=int, default=0,
+                    help="presupuesto de tiempo para el lote (0 = sin límite). Al agotarse "
+                         "guarda lo hecho y sale con 0: un cron no debe morir por timeout")
     ap.add_argument("--producto", default=None, help="filtrar por substring (pruebas)")
     ap.add_argument("--limpieza", action="store_true", help="marcar N/A los no-compra y reescribir log")
     args = ap.parse_args()
@@ -169,7 +172,28 @@ def main():
     jar = RAIZ / "data" / "_cookies_amz.txt"
     nuevos = 0
     aplicadas = 0
+    t0 = time.monotonic()
+
+    def guardar():
+        """Persistencia INCREMENTAL: cada item se guarda al terminar el suyo.
+
+        Antes se escribía todo al salir del bucle, así que el timeout del cron
+        (runner-kit72h.py corta a 900s) se llevaba por delante el trabajo de toda
+        la noche: 12 fichas rascadas de Amazon y CERO guardadas, todas las noches
+        (cron kit72h-buscador en `error` desde 2026-10-07). El guardado por item
+        hace que cualquier corte conserve lo hecho.
+        """
+        D_PROP.write_text(json.dumps(propuestas, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
+        if aplicadas:
+            D_KITS.write_text(json.dumps(kits, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
     for kit, s, i, clave in lote:
+        # Comprobación ANTES de gastar: nunca pasarse del presupuesto por más de un item.
+        if args.max_segundos and (time.monotonic() - t0) > args.max_segundos:
+            print(f"⏱️  presupuesto de {args.max_segundos}s agotado: {nuevos}/{len(lote)} del lote "
+                  f"({aplicadas} aplicadas, guardadas). El resto, la próxima noche.")
+            break
         prod = i["producto"]
         q = i.get("busqueda") or re.sub(r"\(.*?\)|[—–:/]", " ", prod).strip().lower()
         lo, hi = rango_de(i.get("precio_aprox"))
@@ -209,12 +233,11 @@ def main():
         print(f"  {'✅' if ficha_ok else '·'} {prod[:55]:57s} -> "
               f"{(ficha_ok or {}).get('url', 'reintentar otra noche')}")
         time.sleep(2 + random.random() * 2)
+        guardar()
 
-    D_PROP.write_text(json.dumps(propuestas, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
+    guardar()
     jar.unlink(missing_ok=True)
     if aplicadas:
-        D_KITS.write_text(json.dumps(kits, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"kits.json actualizado con {aplicadas} fichas verificadas")
 
     # Excel de validación para David
