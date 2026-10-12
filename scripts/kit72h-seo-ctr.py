@@ -145,6 +145,8 @@ BLOG_DESCRIPCIONES = {
         "Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha, orden de consumo y cómo montar una despensa que no se tira.",
     "kit-emergencia-bebe-familia":
         "Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques.",
+    "panel-solar-portatil-72h-emergencia":
+        "Panel solar portátil para emergencias: tipos, vatios reales y comparativa por escenario, con 5 errores que lo dejan inútil. Fuentes oficiales.",
 }
 
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"

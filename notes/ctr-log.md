@@ -153,3 +153,31 @@ revertido por el prerender dos veces. Ahora los valores nuevos están también e
 - Push `51ddf69` + `bf69a58` → run de `pages.yml` **completed / success** (el gate bloquea el deploy, así que el verde = desplegado).
 - Producción verificada con curl: home, `/fuentes/`, `/zona/` y los 7 posts de blog sirven los títulos/descriptions nuevos; `styles.css?v=20261008a` en la home.
 - Rebase rutinario contra `eac03ad` (Action `auto-content.yml`): sus 5 páginas generadas traían `?v=20261001c` (versión obsoleta), 8 KB frente a 24 KB del horneado desde `blog.json`, y **sin `disclosure`** con enlaces `tag=ntizar-21` (el gate daría ERROR). Se resolvió a favor de la versión horneada desde la fuente de verdad. `git log -S` confirma que su HTML no está en `blog.json`: el horneado nocturno lo reescribe igual.
+
+---
+
+## Run 2026-10-12 (06:34 UTC) — horneado primero, CTR después
+
+**Orden ejecutado (el que no revierte títulos):** horneado Playwright completo
+(`prerender_playwright.py`, 73 rutas, 0 fallos, 0 ficheros a 0 bytes) →
+`analizar_paginas()` de `scripts/kit72h-seo-ctr.py` → sincronización de metas
+de la ficha afectada → gate → commit solo con lo optimizado (sin rehornear
+encima).
+
+**Cambio de la run — 1 página:**
+
+| Página | Campo | Antes | Después | Motivo |
+|---|---|---|---|---|
+| `/blog/panel-solar-portatil-72h-emergencia/` | description | …comparativa por escenario y los cinco errores que lo dejan inútil. Enlaces y fuentes oficiales. (179, Google lo cortaba) | Panel solar portátil para emergencias: tipos, vatios reales y comparativa por escenario, con 5 errores que lo dejan inútil. Fuentes oficiales. (142) | cabía entero en el snippet, número (5) + beneficio + autoridad («fuentes oficiales»); la regla genérica de truncado dejaba «…inútil. E…» cortado a media palabra, así que se fijó en `BLOG_DESCRIPCIONES` |
+
+**Detalles:**
+- La optimización se hizo DESPUÉS del horneado y los metas del HTML horneado se
+  igualaron a `data/blog.json` a mano (meta + og:description + JSON-LD
+  BlogPosting) para que el cambio llegue a producción hoy y lo reproduzca el
+  próximo horneado nocturno, sin rehornear encima.
+- Títulos: sin cambios — todos los títulos ya estaban optimizados y espejados en
+  `js/ui.js` / `scripts/prerender.py` (ningún revert en el horneado).
+- Trabajo pendiente de sesiones anteriores commiteado aparte antes de hornear:
+  `ca475f0` (ficha verificada del forro polar) y `b302d24` (analítica: beacon en
+  75 páginas, panel `/analiticas/`, cron, allowlist de `pages.yml`, robots).
+- Gate: ✅ 0 errores (6 avisos preexistentes).
