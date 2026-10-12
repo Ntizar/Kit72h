@@ -120,6 +120,28 @@ def coletilla_no_compra(producto):
     return EXCLUIR.search(producto)
 
 
+def n_agotado(clave, intentos, n_max):
+    """¿Este item lleva ya demasiadas noches sin candidato verificado?
+
+    n_max = 0 desactiva el agotado (comportamiento antiguo: reintentar siempre).
+    """
+    if not n_max:
+        return False
+    return (intentos.get(clave) or {}).get("n", 0) >= n_max
+
+
+def registrar_intento(clave, intentos, hoy):
+    """Suma una noche sin candidato y devuelve el total; conserva primera y ultima fecha."""
+    v = intentos.get(clave)
+    if not isinstance(v, dict):
+        v = {"n": 0, "primera": hoy.isoformat()}
+    v["n"] = int(v.get("n", 0)) + 1
+    v.setdefault("primera", hoy.isoformat())
+    v["ultima"] = hoy.isoformat()
+    intentos[clave] = v
+    return v["n"]
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cupo", type=int, default=12)
@@ -128,11 +150,26 @@ def main():
                          "guarda lo hecho y sale con 0: un cron no debe morir por timeout")
     ap.add_argument("--producto", default=None, help="filtrar por substring (pruebas)")
     ap.add_argument("--limpieza", action="store_true", help="marcar N/A los no-compra y reescribir log")
+    ap.add_argument("--agotado-n", type=int, default=3,
+                    help="noches sin candidato tras las que un item sale de la rotacion (0 = nunca)")
+    ap.add_argument("--reabrir", default=None,
+                    help="devolver a la rotacion los agotados cuyo nombre contenga este texto")
+    ap.add_argument("--simular", action="store_true",
+                    help="ensayo sin red: dice que items tocarian y cuantos hay agotados, sin buscar")
     args = ap.parse_args()
 
     kits = json.loads(D_KITS.read_text(encoding="utf-8"))
     propuestas = json.loads(D_PROP.read_text(encoding="utf-8")) if D_PROP.exists() else {}
-    log = json.loads(D_LOG.read_text(encoding="utf-8")) if D_LOG.exists() else {"resueltos": [], "na": [], "intentos": []}
+    log = json.loads(D_LOG.read_text(encoding="utf-8")) if D_LOG.exists() else {"resueltos": [], "na": [], "intentos": {}}
+    # `intentos` nacio como lista y nunca se lleno. Ahora es EL CONTADOR DE NOCHES SIN CANDIDATO
+    # por item (clave -> {n, primera, ultima}) y es la pieza que faltaba: sin el, un producto cuyo
+    # termino de busqueda no encuentra nada vuelve a caer en la rotacion cada noche, el contador
+    # de pendientes nunca baja y el cupo se gasta en los mismos. Al llegar a N (--agotado-n) sale
+    # de la rotacion y se lista como agotado; --reabrir lo devuelve tras arreglar su busqueda.
+    intentos = log.get("intentos")
+    if not isinstance(intentos, dict):
+        intentos = {}
+        log["intentos"] = intentos
 
     pendientes = []
     for kit in kits["kits"]:
@@ -152,9 +189,22 @@ def main():
                 # candidato verificado se reintentan en noches posteriores
                 if (propuestas.get(clave) or {}).get("url"):
                     continue
+                if n_agotado(clave, intentos, args.agotado_n):
+                    continue
                 if prod in log["resueltos"]:
                     continue
                 pendientes.append((kit, s, i, clave))
+
+    if args.reabrir:
+        # Valvula humana: tras arreglar el termino de busqueda de un producto agotado se le
+        # devuelve a la rotacion. Sin esto, "agotado" seria una condena permanente.
+        tocados = [c for c in list(intentos) if args.reabrir.lower() in c.lower()]
+        for c in tocados:
+            intentos.pop(c, None)
+        log["intentos"] = intentos
+        D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"reabiertos {len(tocados)}: {tocados or '(ninguno coincidio)'}")
+        return
 
     if args.limpieza:
         D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -168,7 +218,18 @@ def main():
     if args.producto:
         lote = [p for p in pendientes if args.producto.lower() in p[2]["producto"].lower()][:5]
 
-    print(f"Pendientes: {len(pendientes)} | lote de esta noche: {len(lote)} | N/A: {len(log['na'])}")
+    agotados = sorted(c for c, v in intentos.items()
+                      if (v or {}).get("n", 0) >= args.agotado_n > 0)
+    print(f"Pendientes: {len(pendientes)} | lote de esta noche: {len(lote)} | "
+          f"agotados: {len(agotados)} (de {len(intentos)} con intentos) | N/A: {len(log['na'])}")
+    if args.simular:
+        # Ensayo sin red: dice que haria esta noche y sale sin gastar una peticion a Amazon.
+        print(f"[simulacion] tocaria {len(lote)} de {len(pendientes)} pendientes:")
+        for kit, s, i, clave in lote:
+            v = intentos.get(clave) or {}
+            print(f"  · {i['producto'][:58]:60s} intentos={v.get('n', 0)}")
+        print(f"[simulacion] {len(agotados)} fuera de rotacion (agotado-n={args.agotado_n})")
+        return
     jar = RAIZ / "data" / "_cookies_amz.txt"
     nuevos = 0
     aplicadas = 0
@@ -217,6 +278,7 @@ def main():
             entry.update(ficha_ok)
             entry["aplicada"] = True
             log["resueltos"].append(prod)
+            intentos.pop(clave, None)          # resuelto: el contador de esa clave sobra
             # Auto-aplicar: la ficha está verificada (buybox + precio en rango + ≥4★).
             # El enlace conserva el tag de afiliado; queda registrado en propuestas
             # y en el Excel semanal por si David quiere revertir alguno.
@@ -227,11 +289,20 @@ def main():
             entry["anterior"] = anterior
             aplicadas += 1
         else:
-            entry["estado"] = "sin candidato verificado"
+            entry["intentos"] = registrar_intento(clave, intentos, hoy)
+            if n_agotado(clave, intentos, args.agotado_n):
+                entry["estado"] = f"agotado ({entry['intentos']} noches sin candidato)"
+            else:
+                entry["estado"] = f"sin candidato verificado (intento {entry['intentos']})"
         propuestas[clave] = entry
         nuevos += 1
-        print(f"  {'✅' if ficha_ok else '·'} {prod[:55]:57s} -> "
-              f"{(ficha_ok or {}).get('url', 'reintentar otra noche')}")
+        if ficha_ok:
+            print(f"  ✅ {prod[:55]:57s} -> {ficha_ok['url']}")
+        else:
+            n = (intentos.get(clave) or {}).get("n", 0)
+            cola = ("AGOTADO: %d noches sin candidato verificado" % n
+                    if n and n >= args.agotado_n > 0 else f"reintentar otra noche (intento {n})")
+            print(f"  ·  {prod[:55]:57s} -> {cola}")
         time.sleep(2 + random.random() * 2)
         guardar()
 
@@ -283,7 +354,16 @@ def main():
     except ImportError:
         print("openpyxl no disponible: solo JSON de propuestas")
 
-    print(f"DONE propuestas totales: {len(propuestas)} | resueltos: {len(log['resueltos'])} | pendientes restantes: {max(0, len(pendientes) - nuevos)}")
+    print(f"DONE propuestas totales: {len(propuestas)} | resueltos: {len(log['resueltos'])} | "
+          f"pendientes restantes: {max(0, len(pendientes) - nuevos)} | agotados: {len(agotados)}")
+    if agotados:
+        # Dejar de buscar un producto es una DECISION, no un silencio: se lista siempre, con
+        # cuantas noches lleva y desde cuando. El arreglo suele ser su termino de busqueda.
+        print(f"Fuera de la rotacion ({len(agotados)}; ya no cuentan como pendientes):")
+        for c in agotados:
+            v = intentos.get(c) or {}
+            print(f"  · {c[:76]:78s} {v.get('n', 0)} noches · ultima {v.get('ultima')}")
+        print('  reintentar uno tras arreglar su busqueda:  --reabrir "<trozo del producto>"')
 
 
 def es_busqueda(i):
