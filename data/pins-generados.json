@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-08",
-    "total": 65,
-    "png_total": 65
+    "ultima_generacion": "2026-10-12",
+    "total": 70,
+    "png_total": 70
   },
   "pins": [
     {
@@ -589,6 +589,51 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-estufa-sin-luz-apagon.html",
       "png": "png/pin-blog-mejor-estufa-sin-luz-apagon.png"
+    },
+    {
+      "slug": "pin-blog-generador-vs-power-station-comparativa",
+      "tipo": "blog",
+      "titulo": "Generador vs power station: comparativa 2026 para el apagón",
+      "url": "https://kit72h.com/blog/generador-vs-power-station-comparativa/",
+      "emoji": "📖",
+      "pin": "pin-blog-generador-vs-power-station-comparativa.html",
+      "png": "png/pin-blog-generador-vs-power-station-comparativa.png"
+    },
+    {
+      "slug": "pin-blog-baliza-v16-obligatoria-2026",
+      "tipo": "blog",
+      "titulo": "Baliza V16 obligatoria 2026: norma, multa de 80 € y cómo elegirla",
+      "url": "https://kit72h.com/blog/baliza-v16-obligatoria-2026/",
+      "emoji": "📖",
+      "pin": "pin-blog-baliza-v16-obligatoria-2026.html",
+      "png": "png/pin-blog-baliza-v16-obligatoria-2026.png"
+    },
+    {
+      "slug": "pin-blog-mejores-conservas-larga-duracion",
+      "tipo": "blog",
+      "titulo": "Mejores conservas de larga duración para emergencias (2026)",
+      "url": "https://kit72h.com/blog/mejores-conservas-larga-duracion/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejores-conservas-larga-duracion.html",
+      "png": "png/pin-blog-mejores-conservas-larga-duracion.png"
+    },
+    {
+      "slug": "pin-blog-kit-emergencia-bebe-familia",
+      "tipo": "blog",
+      "titulo": "Kit de emergencia para bebé: qué llevar en casa por bloques (2026)",
+      "url": "https://kit72h.com/blog/kit-emergencia-bebe-familia/",
+      "emoji": "📖",
+      "pin": "pin-blog-kit-emergencia-bebe-familia.html",
+      "png": "png/pin-blog-kit-emergencia-bebe-familia.png"
+    },
+    {
+      "slug": "pin-blog-mejor-purificador-agua-emergencia",
+      "tipo": "blog",
+      "titulo": "Mejor purificador de agua para emergencias (2026): 7 filtros comparados",
+      "url": "https://kit72h.com/blog/mejor-purificador-agua-emergencia/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-purificador-agua-emergencia.html",
+      "png": "png/pin-blog-mejor-purificador-agua-emergencia.png"
     }
   ]
 }
