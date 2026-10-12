@@ -53,9 +53,13 @@ Decisiones de diseño y por qué:
    *Aprendizaje:* el token que había era solo de DNS (no vale para leer RUM), y
    **Turnstile de Cloudflare bloquea el navegador automatizado** → la gestión de
    Cloudflare es manual de David, siempre.
-2. **Clics a Amazon**: elegir Umami Cloud (gratis, 10k eventos/mes) si se quieren
-   eventos por página. Alternativa sin terceros: *Cloudflare Pages Function + KV*
-   como contador propio (`/api/clic`) — más trabajo, control total.
+2. **Umami Cloud — elegido el 12/10**: cubre visitas Y clics de afiliado en el mismo
+   sitio (free tier 10k eventos/mes). Falta: pegar `UMAMI_API_KEY` en el `.env` de la
+   VM (secreto) y el `website_id` (público) en `CONFIG.umami` de `js/analiticas.js`.
+   API real: `https://api.umami.is/v1` (¡`/v1`, no `/api`), `Authorization: Bearer`,
+   timestamps en milisegundos. Detalle y trampas: skill `kit72h`,
+   `references/analitica.md`. Alternativa sin terceros (más trabajo, control total):
+   *Cloudflare Pages Function + KV* como contador propio (`/api/clic`).
 3. **«Quién compra y qué»** (fase 3): eso vive en **Amazon Associates**. Dos vías:
    informes de Associates (requiere login → hay que resolverlo con navegador real
    o exportando el CSV a mano) o **PA-API 5.0** con Access/Secret key, que sí es
