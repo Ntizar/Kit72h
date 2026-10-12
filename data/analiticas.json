@@ -1,8 +1,8 @@
 {
-  "generado": "2026-10-12T05:40:55Z",
+  "generado": "2026-10-12T07:11:44Z",
   "fuente": "ninguna",
   "estado": "sin-credenciales",
-  "mensaje": "Sin credenciales de analítica; faltan: CLOUDFLARE_API_TOKEN, UMAMI_API_KEY, UMAMI_WEBSITE_ID. El dashboard seguirá leyendo el fichero con totales a 0.",
+  "mensaje": "Sin credenciales de analítica. Falta UMAMI_API_KEY (Umami Cloud; el websiteId se autodescubre) o, en su lugar, CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID. El dashboard seguirá leyendo el fichero con totales a 0.",
   "ventana_dias": 30,
   "totales": {
     "visitas": 0,
