@@ -50,7 +50,14 @@ for f in paginas:
 # 3) robots abierto a IA
 robots = (R / "robots.txt").read_text(encoding="utf-8")
 for bot in ("GPTBot", "ClaudeBot", "PerplexityBot"):
-    if f"User-agent: {bot}" not in robots or "Disallow" in robots:
+    # El Disallow se mira SOLO en el bloque de ese bot: el global
+    # (`Disallow: /analiticas/` bajo `User-agent: *`) no prohíbe a nadie
+    # y antes marcaba los 3 bots en falso (falso positivo 2026-10-12).
+    bloque = re.search(
+        rf"User-agent:\s*{re.escape(bot)}\s*\n((?:(?!User-agent:)[^\n]*\n?)*)",
+        robots,
+    )
+    if not bloque or "Disallow" in bloque.group(1):
         problemas.append(f"robots.txt no deja claro el acceso de {bot}")
 
 # 4) feed + llms
