@@ -2987,11 +2987,12 @@
             },
             {
               "producto": "Forro polar o jersey de lana",
-              "afiliado": "https://www.amazon.es/s?k=forro+polar+o+jersey+de+lana&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B075SFXVQ1?tag=ntizar-21",
               "descripcion": "Segunda capa: retiene el aire caliente del cuerpo. La lana abriga incluso ligeramente húmeda.",
               "precio_aprox": "15-40 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-10-12"
             },
             {
               "producto": "Calcetines de lana (3-4 pares)",
