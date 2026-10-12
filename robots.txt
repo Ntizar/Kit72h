@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /analiticas/
 
 # Crawlers de IA — bienvenidos
 User-agent: GPTBot

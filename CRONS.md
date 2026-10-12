@@ -17,10 +17,11 @@ Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, 
 | `kit72h-seo-ctr` | diario 06:30 | LLM | ✅ |
 | `kit72h-ofertas` | diario 07:00 | LLM | ✅ |
 | `kit72h-vigilante` | lunes 09:00 | LLM | ✅ (reactivado) |
-| `kit72h-pins` | diario 08:00 | script | ✅ **NUEVO** |
+| `kit72h-pins` | diario 08:00 | script | ✅ |
+| `kit72h-analitica` | diario 08:45 | script | ⏳ se activa al configurar la analítica |
 | `kit72h-revision-urls` | 15 mes 09:00 | LLM | ✅ (bonus) |
 
-**8 crons activos + 1 bonus.** Todos verdes.
+**8 crons activos + 1 nuevo (analítica) + 1 bonus.**
 
 ---
 

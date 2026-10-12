@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Analítica de Kit72h — panel privado</title>
+<meta name="robots" content="noindex,nofollow">
+<meta name="description" content="Panel interno de analítica de kit72h.com. Página privada, no indexable.">
+<meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="../css/styles.css?v=20261008a">
+<link rel="icon" href="../favicon.ico" type="image/x-icon">
+<style>
+/* --- Analítica: panel privado. Estilos propios, mínimos, montados sobre el sistema "Táctico" del sitio (mismas variables: --negro, --crema, --rojo, --ambar, --azul, --tan, --mono, --display). --- */
+.an-solo-lectores{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.an-h1{font-family:var(--display);font-weight:400;text-transform:uppercase;font-size:clamp(34px,7vw,68px);line-height:.95;letter-spacing:.5px;margin:0 0 12px}
+.an-h1 b{color:var(--azul);font-weight:400}
+.an-codigo{font-family:var(--mono);color:var(--ambar);overflow-wrap:anywhere}
+.an-meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.an-dato{
+  display:inline-flex;align-items:center;gap:8px;border:1.5px solid currentColor;
+  padding:7px 11px;font-size:11px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;
+}
+.an-dato span{opacity:.72;font-weight:400}
+.an-dato b{font-weight:700;letter-spacing:1px}
+.an-dato--ok{border-color:var(--azul)}
+.an-badge{
+  display:inline-block;font-size:10.5px;font-weight:700;padding:3px 9px;
+  border:1.5px solid currentColor;letter-spacing:1.5px;text-transform:uppercase;
+}
+.an-badge--ok{color:#2e7d4f;border-color:#2e7d4f}
+.an-badge--aviso{color:var(--rojo-txt);border-color:var(--rojo)}
+.sec.oscura .an-badge--ok{color:#7fd6a2;border-color:#7fd6a2}
+
+/* KPIs */
+.an-kpis{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:26px}
+@media(min-width:820px){.an-kpis{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.an-kpi{border:var(--b);background:var(--crema);padding:16px 16px 14px;min-width:0}
+.an-kpi--destaca{background:var(--ambar)}
+.an-kpi__label{
+  display:block;font-size:10.5px;font-weight:700;letter-spacing:2px;
+  text-transform:uppercase;color:#5b544a;
+}
+.an-kpi__value{
+  display:block;font-family:var(--display);font-weight:400;line-height:1;
+  font-size:clamp(28px,7vw,40px);color:var(--negro);margin-top:9px;overflow-wrap:anywhere;
+}
+.an-kpi__pie{display:block;font-size:11px;color:#4a4238;margin-top:8px;line-height:1.5}
+
+/* Bloques */
+.an-bloque{border:var(--b);background:var(--crema);padding:18px;min-width:0;margin-top:18px}
+.an-bloque h2{
+  font-size:12px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;
+  color:var(--rojo-txt);margin-bottom:14px;
+}
+.sec.oscura .an-bloque{background:var(--negro2);color:var(--crema);border-color:var(--crema)}
+.sec.oscura .an-bloque h2{color:var(--ambar)}
+.an-bloques{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:760px){.an-bloques{grid-template-columns:1fr 1fr}}
+.an-bloques .an-bloque{margin-top:0}
+
+/* Barras horizontales */
+.an-rank{display:grid;gap:12px}
+.an-fila{display:grid;grid-template-columns:1fr auto;gap:5px 10px;align-items:baseline;min-width:0}
+.an-fila__nombre{font-size:13.5px;line-height:1.4;min-width:0;overflow-wrap:anywhere}
+.an-fila__valor{font-size:12.5px;font-weight:700;white-space:nowrap}
+.an-fila__barra{grid-column:1 / -1;height:12px;border:1.5px solid currentColor}
+.an-fila__fill{display:block;height:100%;background:var(--rojo)}
+.sec.oscura .an-fila__fill{background:var(--ambar)}
+
+/* Gráfico */
+.an-grafico{position:relative;margin-top:6px}
+.an-lienzo{min-height:200px}
+.an-lienzo svg{display:block;width:100%;height:auto;color:var(--tinta)}
+.an-barra{cursor:pointer}
+.an-barra:hover,.an-barra.is-hover{fill:var(--rojo)}
+.an-tip{
+  position:absolute;z-index:4;pointer-events:none;background:var(--negro);color:var(--crema);
+  border:2px solid var(--ambar);padding:5px 9px;font-size:11px;font-weight:700;
+  letter-spacing:.5px;white-space:nowrap;transform:translate(-50%,-100%);
+  max-width:min(280px,80vw);overflow:hidden;text-overflow:ellipsis;
+}
+.an-vacio{
+  border:2px dashed var(--gris);padding:20px 16px;font-size:13px;color:var(--gris);
+  text-align:center;margin:14px 0 0;
+}
+.sec.oscura .an-vacio{border-color:var(--gris);color:var(--tan)}
+
+/* Tabla de datos día a día */
+.an-detalle{margin-top:18px;border-top:var(--b);padding-top:6px}
+.an-detalle summary{
+  cursor:pointer;list-style:none;display:flex;align-items:center;min-height:44px;
+  font-size:11.5px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--rojo-txt);
+}
+.an-detalle summary::-webkit-details-marker{display:none}
+.an-detalle summary::before{content:"▸ ";margin-right:6px}
+.an-detalle[open] summary::before{content:"▾ "}
+.an-tabla-scroll{overflow-x:auto;max-width:100%}
+.an-tabla{width:100%;border-collapse:collapse;font-size:13px}
+.an-tabla caption{text-align:left;font-size:11px;color:var(--gris);padding-bottom:8px}
+.an-tabla th,.an-tabla td{border:1px solid #cfc4ad;padding:8px 10px;text-align:left}
+.an-tabla th{background:var(--marron);color:var(--crema);font-size:11px;letter-spacing:1px;text-transform:uppercase}
+.an-tabla tbody tr:nth-child(even){background:#e8e0cf}
+.an-tabla .an-num{text-align:right;font-weight:700;white-space:nowrap}
+.an-tabla tfoot td{background:var(--marron);color:var(--crema);font-weight:700}
+
+/* Aviso de estado (informativo, no alarmante) */
+.an-aviso{
+  border:var(--b);border-left:10px solid var(--ambar);background:#e8e0cf;
+  padding:16px 18px;margin-top:16px;
+}
+.an-aviso__titulo{display:block;font-size:13px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px}
+.an-aviso__simbolo{color:var(--rojo-txt);margin-right:8px}
+.an-aviso p{font-size:13px;line-height:1.65;margin:0 0 8px;color:#3b342b}
+.an-aviso ol,.an-aviso ul{margin:8px 0 0 20px;font-size:13px;color:#3b342b}
+.an-aviso li{margin-bottom:6px}
+.an-aviso code{font-family:var(--mono);font-size:12px;background:#fff;border:1px solid var(--tinta);padding:1px 5px;overflow-wrap:anywhere}
+.an-ok{border:var(--b);border-left:10px solid #2e7d4f;background:var(--crema);padding:16px 18px;margin-top:16px;font-size:13px}
+.an-ok b{letter-spacing:.5px}
+
+/* Eventos */
+.an-evento{border:var(--b);padding:14px 16px;margin-top:14px;background:var(--crema)}
+.an-evento__cab{display:flex;flex-wrap:wrap;gap:10px;align-items:baseline;justify-content:space-between}
+.an-evento__nombre{font-family:var(--display);font-weight:400;font-size:20px;text-transform:uppercase;letter-spacing:.5px}
+.an-evento__total{font-size:12.5px;font-weight:700}
+.an-sub{margin-top:10px;border-top:1.5px solid var(--tinta)}
+.an-sub__fila{
+  display:grid;grid-template-columns:1fr auto;gap:5px 10px;align-items:baseline;
+  border-bottom:1px solid #cfc4ad;padding:7px 0;font-size:13px;
+}
+.an-sub__ruta{font-family:var(--mono);overflow-wrap:anywhere;min-width:0}
+.an-sub__num{font-weight:700;white-space:nowrap}
+.an-sub__barra{grid-column:1 / -1;height:10px;border:1.5px solid currentColor}
+.an-sub__fill{display:block;height:100%;background:var(--rojo)}
+.sec.oscura .an-sub__fill{background:var(--ambar)}
+
+/* Pie del panel */
+.an-pie-lista{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center}
+</style>
+</head>
+<body id="app">
+<div class="ubar"><div class="container"><span><span class="punto">●</span> KIT72H · USO INTERNO</span><span>/</span><span>ANALÍTICA</span></div></div>
+<header class="site-header"><div class="container"><a href="../" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="../">Inicio</a><a href="../#kits">Kits</a><a href="../blog/">Blog</a><a href="../zona/">Tu zona</a></nav></div></header>
+<main>
+  <section class="sec oscura">
+    <div class="container">
+      <div class="sec-inner">
+        <span class="sec-label">Panel privado · noindex</span>
+        <h1 class="an-h1">Analítica de <b>Kit72h</b></h1>
+        <p class="sec-intro">Lo que hace la gente en kit72h.com: visitas, páginas que más tiran, de dónde vienen y cuántos clics se llevan los enlaces de Amazon. Se pinta tal cual llega de <span class="an-codigo">data/analiticas.json</span>, sin inventar ni un número. Sin cookies propias y sin datos personales: solo páginas y recuentos.</p>
+        <div class="an-meta" id="an-meta">
+          <span class="an-dato"><span>Ventana</span><b id="an-ventana">—</b></span>
+          <span class="an-dato"><span>Generado</span><b id="an-generado">—</b></span>
+          <span class="an-dato"><span>Fuente</span><b id="an-fuente">—</b></span>
+          <span class="an-dato"><span>Estado</span><b id="an-estado-badge" class="an-badge an-badge--aviso">Leyendo…</b></span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec clara">
+    <div class="container">
+      <div class="sec-inner">
+        <span class="sec-label">Resumen</span>
+        <h2>Los números de la ventana</h2>
+        <div class="an-kpis">
+          <div class="an-kpi">
+            <span class="an-kpi__label">Visitas</span>
+            <span class="an-kpi__value" id="an-kpi-visitas">—</span>
+            <span class="an-kpi__pie">Sesiones contadas sin cookies.</span>
+          </div>
+          <div class="an-kpi">
+            <span class="an-kpi__label">Páginas vistas</span>
+            <span class="an-kpi__value" id="an-kpi-paginas">—</span>
+            <span class="an-kpi__pie">Páginas servidas en total.</span>
+          </div>
+          <div class="an-kpi an-kpi--destaca">
+            <span class="an-kpi__label">Clics a Amazon</span>
+            <span class="an-kpi__value" id="an-kpi-clics">—</span>
+            <span class="an-kpi__pie">Veces que se pulsó un enlace de afiliado.</span>
+          </div>
+          <div class="an-kpi">
+            <span class="an-kpi__label">Clics / visita</span>
+            <span class="an-kpi__value" id="an-kpi-ratio">—</span>
+            <span class="an-kpi__pie">Intención de compra por sesión.</span>
+          </div>
+        </div>
+
+        <div class="an-bloque">
+          <h2>Visitas día a día</h2>
+          <div class="an-grafico">
+            <div class="an-lienzo" id="an-serie"><p class="an-vacio">Cargando los datos…</p></div>
+            <div class="an-tip" id="an-tip" hidden></div>
+          </div>
+          <details class="an-detalle">
+            <summary>Ver el dato de cada día</summary>
+            <div class="an-tabla-scroll">
+              <table class="an-tabla">
+                <caption>Visitas por día en la ventana analizada. La tabla es el dato exacto; el gráfico de arriba es la misma información, en dibujo.</caption>
+                <thead><tr><th scope="col">Día</th><th scope="col">Visitas</th></tr></thead>
+                <tbody id="an-serie-tabla"></tbody>
+                <tfoot id="an-serie-pie"></tfoot>
+              </table>
+            </div>
+          </details>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec oscura">
+    <div class="container">
+      <div class="sec-inner">
+        <span class="sec-label">Desglose</span>
+        <h2>De dónde viene cada visita</h2>
+        <div class="an-bloques">
+          <div class="an-bloque">
+            <h2>Páginas más vistas</h2>
+            <div class="an-rank" id="an-lista-paginas"></div>
+          </div>
+          <div class="an-bloque">
+            <h2>De dónde llegan</h2>
+            <div class="an-rank" id="an-lista-referrers"></div>
+          </div>
+          <div class="an-bloque">
+            <h2>Países</h2>
+            <div class="an-rank" id="an-lista-paises"></div>
+          </div>
+          <div class="an-bloque">
+            <h2>Dispositivos</h2>
+            <div class="an-rank" id="an-lista-dispositivos"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec clara">
+    <div class="container">
+      <div class="sec-inner">
+        <span class="sec-label">Estado</span>
+        <h2>Cómo va la recolección</h2>
+        <div id="an-estado"><p class="an-vacio">Leyendo el estado…</p></div>
+        <div class="an-bloque">
+          <h2>Clics de afiliado, por página</h2>
+          <div id="an-eventos"><p class="an-vacio">Leyendo los eventos…</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="site-footer"><div class="container"><p class="an-pie-lista">Hecho con ❤️ por David Antizar · <a href="https://kit72h.com" rel="noopener">kit72h.com</a></p></div></footer>
+<noscript><p style="background:#e8e0cf;border:2px solid #14110D;padding:16px;margin:20px;font-size:14px">Este panel necesita JavaScript para leer <b>data/analiticas.json</b> y pintarlo. Actívalo y recarga la página.</p></noscript>
+<script>
+(function () {
+  "use strict";
+
+  var RUTA_DATOS = "../data/analiticas.json";
+  var MES_CORTO = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+  var MES_LARGO = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+  var FUENTES = { cloudflare: "Cloudflare Web Analytics", umami: "Umami", ninguna: "Ninguna" };
+  var serieActual = [];
+  var nf = new Intl.NumberFormat("es-ES");
+
+  function el(id) { return document.getElementById(id); }
+  function num(v) {
+    if (v === null || v === undefined || v === "") { return "—"; }
+    var n = Number(v);
+    return isFinite(n) ? nf.format(n) : "—";
+  }
+  function uno(v) {
+    var n = Number(v);
+    return isFinite(n) ? n.toFixed(1).replace(".", ",") : "—";
+  }
+  function pct(v) { var t = uno(v); return t === "—" ? "—" : t + " %"; }
+  function txt(v, alt) { return (typeof v === "string" && v.trim() !== "") ? v.trim() : (alt || "—"); }
+  function plural(n, uno_txt, varios_txt) { return (Number(n) === 1 ? uno_txt : varios_txt); }
+
+  function leerFecha(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(iso || ""));
+    if (!m) { return null; }
+    return new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+  }
+  function fechaCorta(iso) {
+    var d = leerFecha(iso);
+    return d ? (d.getDate() + " " + MES_CORTO[d.getMonth()]) : txt(iso, "—");
+  }
+  function fechaLarga(iso) {
+    var d = leerFecha(iso);
+    return d ? (d.getDate() + " de " + MES_LARGO[d.getMonth()] + " de " + d.getFullYear()) : txt(iso, "—");
+  }
+  function fechaHora(iso) {
+    if (!iso) { return "—"; }
+    var d = new Date(iso);
+    if (isNaN(d.getTime())) { return String(iso); }
+    try {
+      return new Intl.DateTimeFormat("es-ES", {
+        day: "numeric", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit",
+        timeZone: "Europe/Madrid"
+      }).format(d) + " (hora peninsular)";
+    } catch (e) {
+      return d.toLocaleString("es-ES");
+    }
+  }
+  function nodo(etiqueta, clase, texto) {
+    var n = document.createElement(etiqueta);
+    if (clase) { n.className = clase; }
+    if (texto !== undefined && texto !== null) { n.textContent = texto; }
+    return n;
+  }
+  function vacio(texto) { return nodo("p", "an-vacio", texto); }
+
+  /* ---------- Cabecera ---------- */
+  function pintarCabecera(d) {
+    var ventana = (d && Number(d.ventana_dias) > 0) ? "Últimos " + num(d.ventana_dias) + " días" : "Sin definir";
+    el("an-ventana").textContent = ventana;
+    el("an-generado").textContent = d ? fechaHora(d.generado) : "—";
+    var f = d ? String(d.fuente || "ninguna") : "—";
+    el("an-fuente").textContent = d ? (FUENTES[f] || f) : "—";
+    var badge = el("an-estado-badge");
+    var est = d ? String(d.estado || "") : "";
+    if (est === "ok") {
+      badge.className = "an-badge an-badge--ok";
+      badge.textContent = "● Datos al día";
+    } else {
+      badge.className = "an-badge an-badge--aviso";
+      badge.textContent = "▲ " + (est ? est.replace("-", " ") : "sin datos");
+    }
+  }
+
+  /* ---------- KPIs ---------- */
+  function pintarKpis(d) {
+    var t = (d && d.totales) || {};
+    el("an-kpi-visitas").textContent = num(t.visitas);
+    el("an-kpi-paginas").textContent = num(t.paginas);
+    el("an-kpi-clics").textContent = num(t.clics_amazon);
+    var v = Number(t.visitas), c = Number(t.clics_amazon);
+    if (isFinite(v) && v > 0 && isFinite(c)) {
+      el("an-kpi-ratio").textContent = (c / v).toFixed(2).replace(".", ",");
+    } else {
+      el("an-kpi-ratio").textContent = "—";
+    }
+  }
+
+  /* ---------- Barras horizontales ---------- */
+  function pintarFilas(cont, lista, clave) {
+    cont.innerHTML = "";
+    if (!lista || !lista.length) {
+      cont.appendChild(vacio("Sin datos en esta ventana."));
+      return;
+    }
+    var max = 0;
+    lista.forEach(function (it) {
+      var v = Number(it && it.visitas);
+      if (isFinite(v) && v > max) { max = v; }
+    });
+    if (max <= 0) { max = 1; }
+    lista.forEach(function (it) {
+      var v = Number(it && it.visitas);
+      if (!isFinite(v) || v < 0) { v = 0; }
+      var valor = (it && it[clave] === undefined) ? "" : it[clave];
+      var fila = nodo("div", "an-fila");
+      fila.appendChild(nodo("span", "an-fila__nombre", txt(valor, "(sin nombre)")));
+      fila.appendChild(nodo("span", "an-fila__valor", num(v) + " · " + pct(it && it.pct)));
+      var barra = nodo("span", "an-fila__barra");
+      var relleno = nodo("span", "an-fila__fill");
+      relleno.style.width = Math.max(1.5, (v / max) * 100).toFixed(2) + "%";
+      barra.appendChild(relleno);
+      fila.appendChild(barra);
+      cont.appendChild(fila);
+    });
+  }
+
+  /* ---------- Gráfico SVG de la serie diaria ---------- */
+  function topeBonito(v) {
+    if (!(v > 0)) { return 1; }
+    var pot = Math.pow(10, Math.floor(Math.log(v) / Math.LN10));
+    var cands = [1, 1.5, 2, 2.5, 3, 4, 5, 7.5, 10];
+    for (var i = 0; i < cands.length; i++) {
+      if (v <= cands[i] * pot * 0.99999) { return cands[i] * pot; }
+    }
+    return 10 * pot;
+  }
+
+  function dibujarSerie(serie) {
+    var caja = el("an-serie");
+    var tip = el("an-tip");
+    if (!caja) { return; }
+    tip.hidden = true;
+    caja.innerHTML = "";
+    if (!serie || !serie.length) {
+      caja.appendChild(vacio("Todavía no hay visitas registradas en esta ventana. Cuando llegue tráfico, aquí aparecerá el dibujo día a día."));
+      return;
+    }
+
+    var ancho = Math.max(260, Math.round(caja.clientWidth || 320));
+    var movil = ancho < 520;
+    var alto = movil ? 210 : 260;
+    var mi = movil ? 32 : 42, md = 8, ma = 14, mb = movil ? 32 : 36;
+    var pw = ancho - mi - md, ph = alto - ma - mb;
+    var n = serie.length;
+    var vals = [], max = 0, diaMax = "";
+    serie.forEach(function (d) {
+      var v = Number(d && d.visitas);
+      if (!isFinite(v) || v < 0) { v = 0; }
+      vals.push(v);
+      if (v > max) { max = v; diaMax = d && d.fecha; }
+    });
+    var tope = topeBonito(max);
+    var paso = pw / n;
+    var bw = Math.max(3, Math.min(36, paso * 0.66));
+    var NS = "http://www.w3.org/2000/svg";
+
+    var svg = document.createElementNS(NS, "svg");
+    svg.setAttribute("viewBox", "0 0 " + ancho + " " + alto);
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", "Serie diaria de visitas: " + n + " días, un total de " + num(vals.reduce(function (a, b) { return a + b; }, 0)) + " visitas y un máximo de " + num(max) + (max > 0 ? " el " + fechaLarga(diaMax) : "") + ". El detalle exacto, en la tabla de abajo.");
+
+    [0, 0.5, 1].forEach(function (f) {
+      var y = ma + ph - f * ph;
+      var linea = document.createElementNS(NS, "line");
+      linea.setAttribute("x1", mi); linea.setAttribute("x2", mi + pw);
+      linea.setAttribute("y1", y); linea.setAttribute("y2", y);
+      linea.setAttribute("stroke", "currentColor");
+      linea.setAttribute("stroke-width", f === 0 ? 2 : 1);
+      if (f !== 0) { linea.setAttribute("opacity", "0.25"); }
+      svg.appendChild(linea);
+      var etq = document.createElementNS(NS, "text");
+      etq.setAttribute("x", mi - 6); etq.setAttribute("y", y + 4);
+      etq.setAttribute("text-anchor", "end");
+      etq.setAttribute("font-size", movil ? 10 : 11);
+      etq.setAttribute("fill", "currentColor");
+      etq.setAttribute("opacity", "0.75");
+      etq.textContent = num(Math.round(tope * f * 100) / 100);
+      svg.appendChild(etq);
+    });
+
+    vals.forEach(function (v, i) {
+      var h = tope > 0 ? (v / tope) * ph : 0;
+      h = Math.max(v > 0 ? 2 : 0, h);
+      var x = mi + i * paso + (paso - bw) / 2;
+      var r = document.createElementNS(NS, "rect");
+      r.setAttribute("class", "an-barra");
+      r.setAttribute("x", x.toFixed(2));
+      r.setAttribute("y", (ma + ph - h).toFixed(2));
+      r.setAttribute("width", bw.toFixed(2));
+      r.setAttribute("height", h.toFixed(2));
+      var ti = document.createElementNS(NS, "title");
+      ti.textContent = fechaLarga(serie[i] && serie[i].fecha) + ": " + num(v) + " " + plural(v, "visita", "visitas");
+      r.appendChild(ti);
+      svg.appendChild(r);
+
+      function muestra() {
+        r.classList.add("is-hover");
+        var br = r.getBoundingClientRect();
+        var gr = caja.getBoundingClientRect();
+        tip.textContent = fechaCorta(serie[i] && serie[i].fecha) + " · " + num(v) + " " + plural(v, "visita", "visitas");
+        tip.hidden = false;
+        var w = tip.offsetWidth, hh = tip.offsetHeight;
+        var xc = br.left - gr.left + br.width / 2;
+        xc = Math.max(w / 2 + 2, Math.min(xc, Math.max(w / 2 + 2, gr.width - w / 2 - 2)));
+        if (gr.width < w + 4) { tip.style.whiteSpace = "normal"; w = Math.min(w, gr.width); }
+        tip.style.left = xc + "px";
+        tip.style.top = Math.max(hh + 2, br.top - gr.top - 8) + "px";
+      }
+      function oculta() {
+        r.classList.remove("is-hover");
+        tip.hidden = true;
+      }
+      r.addEventListener("mouseenter", muestra);
+      r.addEventListener("mouseleave", oculta);
+      r.addEventListener("click", function () {
+        if (tip.hidden) { muestra(); } else { oculta(); }
+      });
+    });
+
+    var cada = Math.max(1, Math.ceil(n / (movil ? 3 : 6)));
+    for (var i = 0; i < n; i++) {
+      if (i % cada !== 0 && i !== n - 1) { continue; }
+      var t = document.createElementNS(NS, "text");
+      var xc2 = mi + i * paso + paso / 2;
+      t.setAttribute("x", xc2.toFixed(1));
+      t.setAttribute("y", ma + ph + (movil ? 16 : 18));
+      t.setAttribute("text-anchor", i === 0 ? "start" : (i === n - 1 ? "end" : "middle"));
+      t.setAttribute("font-size", movil ? 10 : 11);
+      t.setAttribute("fill", "currentColor");
+      t.setAttribute("opacity", "0.8");
+      t.textContent = fechaCorta(serie[i] && serie[i].fecha);
+      svg.appendChild(t);
+    }
+
+    caja.appendChild(svg);
+  }
+
+  /* ---------- Tabla del día a día ---------- */
+  function pintarTablaSerie(serie) {
+    var tb = el("an-serie-tabla"), pie = el("an-serie-pie");
+    tb.innerHTML = "";
+    pie.innerHTML = "";
+    if (!serie || !serie.length) {
+      var trv = document.createElement("tr");
+      var tdv = document.createElement("td");
+      tdv.setAttribute("colspan", "2");
+      tdv.textContent = "Sin datos en esta ventana.";
+      trv.appendChild(tdv);
+      tb.appendChild(trv);
+      return;
+    }
+    var suma = 0;
+    serie.forEach(function (d) {
+      var v = Number(d && d.visitas);
+      if (!isFinite(v)) { v = 0; }
+      suma += v;
+      var tr = document.createElement("tr");
+      var th = document.createElement("th");
+      th.setAttribute("scope", "row");
+      th.textContent = fechaLarga(d && d.fecha);
+      var td = document.createElement("td");
+      td.className = "an-num";
+      td.textContent = num(v);
+      tr.appendChild(th);
+      tr.appendChild(td);
+      tb.appendChild(tr);
+    });
+    var trp = document.createElement("tr");
+    var thp = document.createElement("th");
+    thp.setAttribute("scope", "row");
+    thp.textContent = "Total en la ventana";
+    var tdp = document.createElement("td");
+    tdp.className = "an-num";
+    tdp.textContent = num(suma);
+    trp.appendChild(thp);
+    trp.appendChild(tdp);
+    pie.appendChild(trp);
+  }
+
+  /* ---------- Estado ---------- */
+  function pintarEstado(d, url, motivo) {
+    var cont = el("an-estado");
+    cont.innerHTML = "";
+    var est = d ? String(d.estado || "") : "";
+
+    if (d && est === "ok") {
+      var ok = nodo("div", "an-ok");
+      var t = nodo("p", null, "");
+      var b = nodo("b", null, "Todo en orden. ");
+      t.appendChild(b);
+      t.appendChild(document.createTextNode(
+        "Los datos vienen de " + txt(FUENTES[String(d.fuente)] || d.fuente, "un proveedor sin identificar") +
+        " y la ventana es de " + num(d.ventana_dias) + " días. Última lectura: " + fechaHora(d.generado) + "."
+      ));
+      ok.appendChild(t);
+      cont.appendChild(ok);
+      return;
+    }
+
+    var titulos = {
+      "sin-credenciales": "Falta conectar el proveedor",
+      "sin-datos": "Proveedor conectado, todavía sin tráfico",
+      "error": "La última recolección falló"
+    };
+    var titulo = d ? (titulos[est] || "Estado de la recolección: " + (est || "desconocido")) : "Todavía no hay fichero de datos";
+
+    var aviso = nodo("div", "an-aviso");
+    var cab = nodo("span", "an-aviso__titulo");
+    cab.appendChild(nodo("span", "an-aviso__simbolo", "▲"));
+    cab.appendChild(document.createTextNode(titulo));
+    aviso.appendChild(cab);
+
+    if (d && d.mensaje) {
+      aviso.appendChild(nodo("p", null, String(d.mensaje)));
+    }
+    if (motivo) {
+      aviso.appendChild(nodo("p", null, "No se ha podido leer el fichero " + url + ": " + motivo + "."));
+    }
+
+    var pasos = document.createElement("ol");
+    var lista = [];
+    if (!d) {
+      lista = [
+        "El panel lee ../data/analiticas.json, el fichero que deja el trabajo de analítica del repo. Todavía no existe (o el navegador no deja leerlo).",
+        "Si abres esta página directamente con file://, el navegador bloquea la lectura de ficheros locales: sirve la carpeta con un servidor (por ejemplo python3 -m http.server) y recarga.",
+        "Si el fichero sí existe, revisa que el generador se haya ejecutado hoy y recarga esta página."
+      ];
+    } else if (est === "sin-credenciales") {
+      lista = [
+        "Activa el medidor en el sitio: rellena CONFIG.beacon_cloudflare (Cloudflare Web Analytics) o CONFIG.umami.website_id en js/analiticas.js.",
+        "Da al generador permiso de lectura en el proveedor (token o API key) en los secretos del repositorio.",
+        "Vuelve a lanzar el trabajo de analítica, espera a que escriba data/analiticas.json y recarga esta página."
+      ];
+    } else if (est === "sin-datos") {
+      lista = [
+        "El proveedor responde, pero no hay visitas en la ventana de " + num(d.ventana_dias) + " días.",
+        "Si acabas de activarlo, dale unas horas: los primeros datos tardan.",
+        "Para comprobar que el medidor ya corre, abre el sitio y mira el panel del proveedor."
+      ];
+    } else if (est === "error") {
+      lista = [
+        "El panel lee lo que dejó el último intento; el mensaje de arriba es el del generador.",
+        "Revisa los registros del trabajo de analítica y vuelve a lanzarlo.",
+        "Cuando escriba data/analiticas.json sin errores, esta página se actualiza sola al recargar."
+      ];
+    } else {
+      lista = [
+        "El fichero de datos no trae un estado reconocible (" + (est || "vacío") + ").",
+        "Vuelve a lanzar el trabajo que escribe data/analiticas.json y recarga."
+      ];
+    }
+    lista.forEach(function (p) { pasos.appendChild(nodo("li", null, p)); });
+    aviso.appendChild(pasos);
+    cont.appendChild(aviso);
+  }
+
+  /* ---------- Eventos ---------- */
+  function pintarEventos(d) {
+    var cont = el("an-eventos");
+    cont.innerHTML = "";
+    var evs = (d && Array.isArray(d.eventos)) ? d.eventos : [];
+    if (!evs.length) {
+      var av = nodo("div", "an-aviso");
+      var cab = nodo("span", "an-aviso__titulo");
+      cab.appendChild(nodo("span", "an-aviso__simbolo", "▲"));
+      cab.appendChild(document.createTextNode("Todavía sin eventos configurados"));
+      av.appendChild(cab);
+      av.appendChild(nodo("p", null, "Los clics a Amazon y la profundidad de scroll se registran como eventos. Cuando el medidor esté activo, aquí verás qué página se lleva los clics."));
+      var ul = document.createElement("ul");
+      ["clic-amazon — clics a enlaces de afiliado.", "scroll-50 y scroll-90 — quién llega a la mitad y al final de una ficha."].forEach(function (t) {
+        ul.appendChild(nodo("li", null, t));
+      });
+      av.appendChild(ul);
+      cont.appendChild(av);
+      return;
+    }
+    evs.forEach(function (ev) {
+      var caja = nodo("div", "an-evento");
+      var cab2 = nodo("div", "an-evento__cab");
+      cab2.appendChild(nodo("span", "an-evento__nombre", txt(ev && ev.nombre, "evento")));
+      var total = (ev && ev.total !== undefined) ? ev.total : 0;
+      cab2.appendChild(nodo("span", "an-evento__total", num(total) + " " + plural(total, "vez", "veces")));
+      caja.appendChild(cab2);
+      var pp = (ev && Array.isArray(ev.por_pagina)) ? ev.por_pagina : [];
+      if (!pp.length) {
+        caja.appendChild(vacio("Sin desglose por página."));
+      } else {
+        var sub = nodo("div", "an-sub");
+        var maxpp = 0;
+        pp.forEach(function (p) {
+          var v = Number(p && p.total);
+          if (isFinite(v) && v > maxpp) { maxpp = v; }
+        });
+        if (maxpp <= 0) { maxpp = 1; }
+        pp.forEach(function (p) {
+          var v = Number(p && p.total);
+          if (!isFinite(v) || v < 0) { v = 0; }
+          var cuota = (total > 0) ? (v / total * 100) : 0;
+          var fila = nodo("div", "an-sub__fila");
+          fila.appendChild(nodo("span", "an-sub__ruta", txt(p && p.ruta, "(sin ruta)")));
+          fila.appendChild(nodo("span", "an-sub__num",
+            num(v) + " · " + cuota.toFixed(1).replace(".", ",") + " %"));
+          var barra = nodo("span", "an-sub__barra");
+          var relleno = nodo("span", "an-sub__fill");
+          relleno.style.width = Math.max(2, (v / maxpp) * 100).toFixed(2) + "%";
+          barra.appendChild(relleno);
+          fila.appendChild(barra);
+          sub.appendChild(fila);
+        });
+        caja.appendChild(sub);
+      }
+      cont.appendChild(caja);
+    });
+  }
+
+  /* ---------- Pintado completo / degradado ---------- */
+  function pintarTodo(d) {
+    serieActual = Array.isArray(d.serie_diaria) ? d.serie_diaria : [];
+    pintarCabecera(d);
+    pintarKpis(d);
+    dibujarSerie(serieActual);
+    pintarTablaSerie(serieActual);
+    pintarFilas(el("an-lista-paginas"), d.paginas, "ruta");
+    pintarFilas(el("an-lista-referrers"), d.referrers, "origen");
+    pintarFilas(el("an-lista-paises"), d.paises, "pais");
+    pintarFilas(el("an-lista-dispositivos"), d.dispositivos, "tipo");
+    pintarEstado(d);
+    pintarEventos(d);
+  }
+
+  function pintarVacio(url, motivo) {
+    serieActual = [];
+    pintarCabecera(null);
+    pintarKpis(null);
+    dibujarSerie([]);
+    pintarTablaSerie([]);
+    pintarFilas(el("an-lista-paginas"), [], "ruta");
+    pintarFilas(el("an-lista-referrers"), [], "origen");
+    pintarFilas(el("an-lista-paises"), [], "pais");
+    pintarFilas(el("an-lista-dispositivos"), [], "tipo");
+    pintarEstado(null, url, motivo);
+    pintarEventos(null);
+  }
+
+  function urlDatos() {
+    var q = null;
+    try { q = new URLSearchParams(location.search).get("datos"); } catch (e) { q = null; }
+    if (q && /^[\w.\/-]+\.json$/.test(q) && q.indexOf(":") === -1 && q.indexOf("//") === -1 && q.charAt(0) !== "/") {
+      return q;
+    }
+    return RUTA_DATOS;
+  }
+
+  function cargar() {
+    var url = urlDatos();
+    if (typeof fetch !== "function") {
+      pintarVacio(url, "este navegador no sabe pedir el fichero (no tiene fetch)");
+      return;
+    }
+    fetch(url, { cache: "no-store" })
+      .then(function (r) {
+        if (!r.ok) { throw new Error("HTTP " + r.status + " " + (r.statusText || "")); }
+        return r.text();
+      })
+      .then(function (texto) {
+        var d;
+        try {
+          d = JSON.parse(texto);
+        } catch (e) {
+          throw new Error("el contenido no es un JSON válido");
+        }
+        if (!d || typeof d !== "object" || Array.isArray(d)) {
+          throw new Error("el contenido no tiene forma de objeto de datos");
+        }
+        pintarTodo(d);
+      })
+      .catch(function (err) {
+        var m = (err && err.message) ? err.message : "fallo de lectura";
+        if (location.protocol === "file:") {
+          m += " (con file:// el navegador no deja leer ficheros del disco)";
+        }
+        pintarVacio(url, m);
+      });
+  }
+
+  var tmr = null;
+  window.addEventListener("resize", function () {
+    if (tmr) { clearTimeout(tmr); }
+    tmr = setTimeout(function () { dibujarSerie(serieActual); }, 180);
+  });
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargar);
+  } else {
+    cargar();
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "generado": "2026-10-12T05:40:55Z",
+  "fuente": "ninguna",
+  "estado": "sin-credenciales",
+  "mensaje": "Sin credenciales de analítica; faltan: CLOUDFLARE_API_TOKEN, UMAMI_API_KEY, UMAMI_WEBSITE_ID. El dashboard seguirá leyendo el fichero con totales a 0.",
+  "ventana_dias": 30,
+  "totales": {
+    "visitas": 0,
+    "paginas": 0,
+    "clics_amazon": 0
+  },
+  "serie_diaria": [],
+  "paginas": [],
+  "referrers": [],
+  "paises": [],
+  "dispositivos": [],
+  "eventos": []
+}
