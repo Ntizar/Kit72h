@@ -11,7 +11,7 @@
   "entradas": [
     {
       "slug": "nevada-en-casa-que-necesito",
-      "titulo": "Nevada en casa: qué necesito para aguantar los días de nieve sin luz",
+      "titulo": "Nevada en casa: 8 claves para aguantar los días sin luz (2026)",
       "fecha": "2026-10-13",
       "lectura": "6 min",
       "resumen": "Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, luz, coche con cadenas y los errores que enseñó Filomena, con fuentes oficiales.",
@@ -378,7 +378,7 @@
       "lectura": "3 min"
     },
     {
-      "titulo": "El botiquín de emergencia para todo hogar (2026)",
+      "titulo": "Botiquín de emergencia completo: 15 objetos que no pueden faltar (2026)",
       "resumen": "Qué lleva un botiquín de emergencia y qué sobra: lista por bloques para todo hogar, revisión de caducidades y 8 errores que lo dejan inútil.",
       "slug": "botiquin-emergencia-lista-completa",
       "url": "/blog/botiquin-emergencia-lista-completa/",
@@ -434,7 +434,7 @@
     },
     {
       "slug": "panel-solar-portatil-72h-emergencia",
-      "titulo": "Panel solar portátil para emergencias: tipos, potencia real y cómo elegirlo (2026)",
+      "titulo": "Panel solar portátil para emergencias: 3 tipos y 5 errores (2026)",
       "resumen": "Panel solar portátil para emergencias: tipos, vatios reales y comparativa por escenario, con 5 errores que lo dejan inútil. Fuentes oficiales.",
       "fecha": "2026-10-01",
       "cuerpo": "<p>Cuando se va la luz en tu calle —o en media comunidad—, el cuello de botilla no suele ser la comida ni el agua: es la energía. El móvil se apaga, el router muere y la nevera deja de hacer frío. Un panel solar portátil es la forma más limpia de reponer esa energía durante los días que dure el apagón: sin gasolina, sin ruido, sin humo y sin depender de que repongan el combustible. Ahora bien: comprar «un panel» a ciegas es la mejor manera de quedarse con un objeto inútil justo cuando lo necesitas. Aquí te explicamos qué tipo te toca, cuánta energía da de verdad y qué errores evitar.</p>\n\n<h2>Qué es un panel solar portátil (y qué no es)</h2>\n<p>Un panel solar portátil es una superficie de células fotovoltaicas, normalmente plegable, que convierte la luz del sol en electricidad continua. Esa electricidad no la puedes usar directamente en casa: hay que guardarla en una batería (una power station o un banco de baterías con regulador) y desde ahí sacar los 220 V o los puertos USB que alimentan tus aparatos.</p>\n<ul>\n  <li><strong>No es un generador:</strong> por sí solo no enciende la lavadora ni la nevera de sobremesa. Necesita batería de por medio.</li>\n  <li><strong>Solo produce de día:</strong> la energía se gana entre medias y se consume de noche, así que el diseño del sistema es la mitad del asunto.</li>\n  <li><strong>No depende de red ni de combustible:</strong> mientras haya luz solar, hay carga. Esa es su ventaja frente al grupo electrógeno.</li>\n</ul>\n\n<h2>Cuánta energía necesitas de verdad</h2>\n<p>Antes de mirar vatios, hazte la pregunta correcta: ¿qué aparatos quiero mantener vivos y durante cuánto tiempo? La tabla siguiente da valores orientativos de consumo y de autonomía sobre una batería de 500 Wh (medio kilovatio-hora útil), que es un tamaño habitual en las power stations domésticas:</p>\n<table>\n  <thead>\n    <tr><th>Aparato</th><th>Consumo orientativo</th><th>Autonomía con 500 Wh</th></tr>\n  </thead>\n  <tbody>\n    <tr><td>Móvil (carga completa)</td><td>10–15 Wh por carga</td><td>Decenas de cargas</td></tr>\n    <tr><td>Portátil</td><td>50–70 Wh por carga</td><td>Unas 6–8 cargas</td></tr>\n    <tr><td>Router o módem 4G</td><td>10–15 W continuos</td><td>Varios días en ciclos</td></tr>\n    <tr><td>Bombilla LED de 10 W</td><td>10 W continuos</td><td>Decenas de horas</td></tr>\n    <tr><td>Nevera portátil de 12 V</td><td>40–70 W en ciclo</td><td>Medio día sin recarga</td></tr>\n    <tr><td>Cargador de radio manivela</td><td>0 W (se genera a mano)</td><td>Reserva eterna</td></tr>\n  </tbody>\n</table>\n<p>Fíjate en el patrón: la iluminación y la conectividad son baratas de mantener; la nevera es cara. Si tu prioridad es estar informado y localizable, con poco panel te llega. Si quieres conservar la comida, necesitas bastante más sistema. Para el cálculo completo por escenario, echa un ojo a <a href=\"/blog/panel-solar-portatil-realista-quantos-watts-urgente/\">cuántos watts necesita un panel solar portátil de verdad</a>.</p>\n\n<h2>Los tres tipos de panel (y cuál te toca)</h2>\n<ul>\n  <li><strong>Rígido monocristalino:</strong> más vatios por euro y más eficiente, pero ocupa y no se pliega. Merece la pena si lo vas a instalar fijo en un balcón o en una furgoneta.</li>\n  <li><strong>Plegable de viaje (PET o ETFE):</strong> se dobla como una cartera, pesa pocos kilos y cabe en el maletero o en el armario. Es el formato estrella para un kit de emergencia, porque lo importante no es tener panel, es tenerlo <em>donde estás</em> cuando se va la luz.</li>\n  <li><strong>Todo en uno (panel + batería integrada):</strong> sencillez total y buen compañero de sofá o de mesa de campamento, aunque la batería suele ser más pequeña.</li>\n</ul>\n<p>Al comparar, mira más allá de los vatios: tipo de celda (monocristalina frente a policristalina), resistencia al agua (grado IP), los conectores que trae (MC4, XT60 o cable DC universal) y, sobre todo, si es compatible con la batería que ya tienes. Un panel excelente desconectado de tu batería no vale nada.</p>\n\n<h2>Comparativa por escenario: qué potencia pedir</h2>\n<table>\n  <thead>\n    <tr><th>Escenario</th><th>Panel recomendado</th><th>Batería recomendada</th><th>En el sitio</th></tr>\n  </thead>\n  <tbody>\n    <tr><td>Solo móvil, radio y luces</td><td>20–60 W plegable</td><td>200–300 Wh</td><td><a href=\"/kit/kit-apagon/\">Kit apagón</a></td></tr>\n    <tr><td>Teletrabajo ligero 72 h (móvil + portátil + router)</td><td>100–200 W plegable</td><td>500–1000 Wh</td><td><a href=\"/kit/kit-electricidad/\">Kit electricidad</a></td></tr>\n    <tr><td>Casa con nevera y bombillas de verdad</td><td>300–600 W (dos paneles)</td><td>2000 Wh o más</td><td><a href=\"/kit/kit-kit-profesional/\">Kit profesional</a></td></tr>\n    <tr><td>Balcón o caravana fija</td><td>Rígido de 100–200 W</td><td>Depende del uso</td><td><a href=\"/kit/kit-hogar/\">Kit hogar</a></td></tr>\n  </tbody>\n</table>\n\n<h2>Cuánto produce un panel al día (el dato que nadie publicita)</h2>\n<p>Los vatios del catálogo son potencia instantánea bajo condiciones de laboratorio, no energía diaria. En la práctica, en España un panel de 100 W bien orientado suele entregar en torno a 300–500 Wh al día en verano, y bastante menos en invierno, con cielo cubierto o con sombras parciales. La regla útil: asume un rendimiento real muy por debajo del dato de la caja y diseña con margen. Un día nublado no es un apagón del panel, pero sí recorta mucho.</p>\n\n<h2>Cómo sacarle partido el día del apagón</h2>\n<ul>\n  <li><strong>Si hay aviso previo, carga la batería antes:</strong> partir con la batería al 100 % te compra medio día de holgura.</li>\n  <li><strong>Orientación y ángulo:</strong> cara al sol, con una inclinación de unos 30–45°. Un panel a la sombra rinde cerca de cero, no «un poco menos».</li>\n  <li><strong>Horario:</strong> produce principalmente de 10:00 a 17:00; esa franja es la que hay que aprovechar para cargar.</li>\n  <li><strong>Orden de prioridad:</strong> primero información y comunicación (móvil, router, radio), después iluminación y, si sobra, la nevera.</li>\n  <li><strong>Ventila y desconecta:</strong> los aparatos en reposo también consumen; apagar lo que no toca alarga la autonomía varias horas.</li>\n</ul>\n\n<h2>Los cinco errores que hacen inútil tu panel</h2>\n<ul>\n  <li>Comprar panel sin batería y descubrir que no enciende nada de 220 V.</li>\n  <li>Fijarse solo en los vatios y olvidar los Wh de la batería: el sistema es panel <em>más</em> batería.</li>\n  <li>Dejar el panel tras el cristal de una ventana: el vidrio recorta una parte grande de la producción.</li>\n  <li>Guardar la batería descargada durante meses; las celdas se resentirán cuando más la necesites.</li>\n  <li>No comprobar conectores y compatibilidad hasta el día del apagón.</li>\n</ul>\n\n<h2>Qué comprar: tres puntos de entrada</h2>\n<ul>\n  <li><strong>Entrada económica:</strong> un panel plegable pequeño de 20–40 W, pensado para mantener cargados móviles, linternas y la radio. Es el que recomienda el <a href=\"/kit/kit-apagon/\">kit de apagón</a> y está en la franja de <strong>40–80 €</strong>: <a href=\"https://www.amazon.es/dp/B0D9JMS8H2?tag=ntizar-21\">ver panel solar portátil en Amazon</a>.</li>\n  <li><strong>Opción recomendada para 72 h:</strong> un plegable de 100–200 W con células de alta eficiencia, que ya mueve un portátil y una nevera portátil sin dramatismos: <a href=\"https://www.amazon.es/s?k=panel+solar+plegable+200W&amp;tag=ntizar-21\">buscar paneles solares plegables de 200 W</a>.</li>\n  <li><strong>Solución completa:</strong> un generador solar con panel incluido (300–500 Wh de batería), todo en una mochila. En la franja de <strong>250–450 €</strong> y listo para conectar: <a href=\"https://www.amazon.es/s?k=generador+solar+portatil&amp;tag=ntizar-21\">buscar generadores solares portátiles</a>.</li>\n</ul>\n<p>Si ya tienes la batería y solo quieres ampliar, busca directamente <a href=\"https://www.amazon.es/s?k=panel+solar+plegable+100W&amp;tag=ntizar-21\">paneles solares plegables de 100 W</a>. Y si la emergencia previsible es un corte largo de días, el panel es solo una pieza: revísalo dentro del <a href=\"/blog/generador-solar-emergencia-72h/\">generador solar para emergencias</a> y de la <a href=\"/blog/mejor-powerbank-emergencia-capacidad/\">guía de powerbanks para el kit de emergencia</a>.</p>\n\n<h2>Dónde encaja en tu preparación</h2>\n<p>Un panel portátil no vive solo: vive dentro de un kit. En el <a href=\"/kit/kit-basico-72h/\">kit básico de 72 horas</a> la energía eléctrica es una de las categorías imprescindibles junto con agua, luz y comunicación. En el <a href=\"/kit/kit-electricidad/\">kit de electricidad</a> encontrarás la combinación completa de panel, batería y accesorios, y si el apagón coincide con una DANA o con un aviso meteorológico, conviene repasar los <a href=\"/blog/dana-apagon-primeros-30-minutos/\">primeros 30 minutos de un apagón por DANA</a> antes incluso de conectar nada. Para cuando toque conservar la comida, aquí tienes <a href=\"/blog/conservar-comida-sin-nevera-ni-frio/\">qué aguanta sin nevera y qué tirar</a>, y si la noche se hace larga, la <a href=\"/blog/mejor-estufa-sin-luz-apagon/\">mejor estufa para pasar la noche sin luz</a>.</p>\n\n<h2>Fuentes oficiales</h2>\n<ul>\n  <li><a href=\"https://www.idae.es/\">IDAE (Instituto para la Diversificación y Ahorro de la Energía)</a> — información oficial sobre autoconsumo y eficiencia energética.</li>\n  <li><a href=\"https://commission.europa.eu/topics/preparedness_es\">Comisión Europea — Estrategia de la Unión de la Preparación</a> — la recomendación europea de tener autonomía para 72 horas.</li>\n  <li><a href=\"https://www.ree.es/\">Red Eléctrica de España</a> — datos oficiales sobre el suministro y la operación de la red.</li>\n</ul>\n<p>Con panel, batería y un poco de disciplina, los tres días sin luz dejan de ser un problema de energía y pasan a ser un problema de organización. Y eso, siempre se puede preparar.</p>",
@@ -534,7 +534,7 @@
     },
     {
       "titulo": "Conectividad de emergencia: Starlink, radio y satélite (2026)",
-      "resumen": "Guía completa de conectividad de emergencia: cómo mantenerte conectado cuando caen todas las redes. Starlink, radio amateur, walkies PMR446, messenger s...",
+      "resumen": "Conectividad de emergencia: qué hacer cuando caen todas las redes. Starlink, radio amateur, walkies PMR446 y messenger satelital, con plan B.",
       "fecha": "2026-10-01",
       "lectura": "7 min",
       "slug": "conectividad-emergencia-starlink-radios-redundancia",
@@ -617,7 +617,7 @@
       "titulo": "Kit de emergencia en el trabajo: qué guardar y qué hacer (2026)",
       "fecha": "2026-09-27",
       "lectura": "14 min",
-      "resumen": "Un kit hecho para las nueve horas que pasas fuera de casa: qué guardar en el cajón de la oficina, cómo se sale de un edificio en una evacuación real (y ...",
+      "resumen": "Un kit para las nueve horas fuera de casa: qué guardar en el cajón de la oficina y cómo salir de un edificio en una evacuación real. Ley INSST citada.",
       "fuente": [
         {
           "nombre": "BOE — Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (art. 20: medidas de emergencia)",
@@ -678,7 +678,7 @@
       "titulo": "Salud mental y sueño en una emergencia: cómo sostenerse (2026)",
       "fecha": "2026-09-24",
       "lectura": "12 min",
-      "resumen": "Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman cuando llevas dos noches sin dormir. Guía práctica con el marc...",
+      "resumen": "Dormir, comer y calmarse no son la parte blanda del plan: son las decisiones que se toman tras dos noches sin dormir. Marco de la OMS, turnos y descanso.",
       "fuente": [
         {
           "nombre": "OMS / OPS — Primera ayuda psicológica: guía para trabajadores de campo (mirar, escuchar, conectar)",
@@ -732,7 +732,7 @@
       "titulo": "Conservar comida sin nevera: qué aguanta y qué tirar (2026)",
       "fecha": "2026-09-21",
       "lectura": "12 min",
-      "resumen": "Qué se tira y qué se salva cuando se va la luz, con las horas y temperaturas oficiales de AESAN: nevera, congelador, despensa sin frío y los métodos cas...",
+      "resumen": "Qué se tira y qué se salva cuando se va la luz: horas y temperaturas oficiales de AESAN para nevera, congelador y despensa, y métodos caseros fiables.",
       "fuente": [
         {
           "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (mínimo 72 horas de autonomía)",
@@ -788,7 +788,7 @@
       "titulo": "Panel solar portátil: cuántos watts necesitas de verdad (2026)",
       "fecha": "2026-09-18",
       "lectura": "8 min",
-      "resumen": "La mayoría de los paneles solares del kit de emergencia venden fantasmas. Esta guía te dice cuántos watts reales esperarte, qué potencia tiene sentido p...",
+      "resumen": "La mayoría de los paneles del kit de emergencia venden fantasmas: cuántos watts reales esperarte, qué potencia comprar y cómo combinarlo con un powerbank.",
       "fuente": [
         {
           "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación (26/03/2025)",
@@ -839,7 +839,7 @@
       "titulo": "Seguridad pasiva del hogar: salva vidas sin hacer nada (2026)",
       "fecha": "2026-09-15",
       "lectura": "8 min",
-      "resumen": "Los detectores de humo, los extintores y las normas de seguridad eléctrica no son decoración: son las primeras defensas de tu casa cuando ocurre un ince...",
+      "resumen": "Detectores de humo, extintores y normas eléctricas no son decoración: son las primeras defensas de tu casa: qué poner, dónde y cómo mantenerlo.",
       "fuente": [
         {
           "nombre": "Comunidad de Madrid — Seguridad en el hogar: detectores de humo (actualizado 21/04/2026)",
@@ -893,7 +893,7 @@
       "titulo": "Vestirse por capas: la técnica que evita el frío mortal (2026)",
       "fecha": "2026-09-09",
       "lectura": "8 min",
-      "resumen": "No es moda ni senderismo: es la recomendación repetida del Ministerio de Sanidad y Protección Civil para no terminar con hipotermia. La guía práctica de...",
+      "resumen": "No es moda ni senderismo: es la recomendación de Sanidad y Protección Civil contra la hipotermia: las tres capas, qué telas y por qué falla el algodón.",
       "fuente": [
         {
           "nombre": "Ministerio de Sanidad — Plan Nacional de actuaciones preventivas por bajas temperaturas (2025-2026)",
@@ -946,7 +946,7 @@
       "titulo": "Radiocomunicación PMR446: walkies legales sin licencia (2026)",
       "fecha": "2026-09-06",
       "lectura": "7 min",
-      "resumen": "Cuando caen las redes móviles, la radio PMR446 es el único medio de comunicación que no depende de antenas ni de operadoras. Sin licencia, por menos de ...",
+      "resumen": "Cuando caen las redes móviles, la PMR446 sigue: sin licencia, por menos de 40 € el par y legal en toda España. Cómo elegirla, según Protección Civil.",
       "fuente": [
         {
           "nombre": "Protección Civil — Red Nacional de Radio de Emergencia (REMER)",
@@ -991,7 +991,7 @@
       "titulo": "Volver a casa tras una inundación: lodo, humedad y seguros (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
-      "resumen": "La peor parte de una DANA no es el agua: es el día que vuelves y la hueles. Guía ordenada para reentrar sin susto, recuperar sin arruinarte y documentar...",
+      "resumen": "La peor parte de una DANA no es el agua: es el día que vuelves y la huele. Para reentrar sin susto, recuperar sin arruinarte y documentar para el seguro.",
       "fuente": [
         {
           "nombre": "Protección Civil — Recomendaciones",
@@ -1019,7 +1019,7 @@
       "titulo": "Vivir solo y estar preparado: kit y red de apoyo (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
-      "resumen": "Vivir solo tiene una ventaja enorme en emergencias: decides tú. Y un punto débil: si te pasa algo, nadie toca la puerta a las seis de la mañana. El plan...",
+      "resumen": "Vivir solo: decides tú, pero si te pasa algo nadie toca la puerta a las seis de la mañana. El kit, los contactos y los avisos de uno, pensado para uno.",
       "fuente": [
         {
           "nombre": "Protección Civil — Recomendaciones",
@@ -1048,7 +1048,7 @@
       "titulo": "Plan familiar de emergencia: punto de encuentro y ensayo (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
-      "resumen": "Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días en saberse entera. La diferencia no fue la mo...",
+      "resumen": "Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días. La diferencia no fue la mochila: fue el plan.",
       "fuente": [
         {
           "nombre": "Protección Civil — Recomendaciones",
@@ -1076,7 +1076,7 @@
       "titulo": "Medicación crónica sin farmacia: 2-4 semanas aseguradas (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
-      "resumen": "Si alguien de tu casa depende de un tratamiento para funcionar cada día, el apagón o la DANA no esperan a la reposición. Un sistema para no quedarte a c...",
+      "resumen": "Si alguien depende de un tratamiento a diario, el apagón o la DANA no esperan a la reposición: logística para no quedarte a cero, sin consejos médicos.",
       "fuente": [
         {
           "nombre": "AEMPS — Agencia Española de Medicamentos",
@@ -1108,7 +1108,7 @@
       "titulo": "Kit de emergencia por 50 €: casi todo ya está en casa (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
-      "resumen": "No hacen falta 150 euros ni tener trastero. Con medio centenar y una tarde de rebusca, cualquier casa alcanza autonomía real de 72 horas. Guía del presu...",
+      "resumen": "No hacen falta 150 euros ni trastero: con 50 € y una tarde de rebusca, cualquier casa alcanza 72 horas de autonomía. Presupuesto mínimo y errores.",
       "fuente": [
         {
           "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
@@ -1136,7 +1136,7 @@
       "titulo": "Qué comer si se va la luz: menús de 3 días sin cocina (2026)",
       "fecha": "2026-09-02",
       "lectura": "4 min",
-      "resumen": "Noventa horas con el frigorífico apagado y la vitrocerámica muerta. Planificación real: orden de consumo, menús día a día y los errores que tiran media ...",
+      "resumen": "Noventa horas con el frigorífico apagado y la vitrocerámica muerta: orden de consumo, menús día a día y los errores que tiran media compra a la basura.",
       "fuente": [
         {
           "nombre": "AESAN — Seguridad alimentaria",
@@ -1168,7 +1168,7 @@
       "titulo": "Bebés y niños en una emergencia: checklist por edades 0-3 y 4-12 (2026)",
       "fecha": "2026-09-02",
       "lectura": "5 min",
-      "resumen": "Un kit pensado para adultos deja fuera a quien más depende de ti. Qué necesita un bebé y qué un niño de 4 a 12 años cuando todo se complica, sin agobios...",
+      "resumen": "Un kit pensado para adultos deja fuera a quien más depende de ti: qué necesita un bebé y qué un niño de 4 a 12 años, sin agobios y con criterio.",
       "fuente": [
         {
           "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
@@ -1221,7 +1221,7 @@
       "titulo": "Los 7 recursos oficiales para guardar en el móvil y en papel (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
-      "resumen": "En una emergencia, la información correcta vale más que cualquier mochila. Estos son los canales oficiales españoles que funcionan cuando todo lo demás ...",
+      "resumen": "En una emergencia, la información correcta vale más que cualquier mochila: los canales oficiales españoles que funcionan cuando todo lo demás falla.",
       "cuerpo": "<p>En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.</p><h2>Los 7 imprescindibles</h2><ul><li><strong>112</strong>: emergencias en toda la UE, gratis, sin saldo y funciona aunque tu operadora no tenga cobertura. Guárdalo, pero también saberte el número de memoria.</li><li><strong>AlertCops</strong> (app oficial del Ministerio del Interior): alertas de seguridad ciudadana y emergencias geolocalizadas en tu zona. Descárgala ahora; en plena crisis las tiendas de apps también fallan.</li><li><strong>AEMET</strong> (aemet.es y su app): avisos meteorológicos por provincias. En una DANA, el aviso rojo de la AEMET llega horas antes que el agua.</li><li><strong>Protección Civil</strong> (proteccioncivil.es): guías de autoperparación por riesgo y, en crisis, las recomendaciones de conducta. Es la fuente de la que nacen las listas de esta web.</li><li><strong>Tráfico DGT</strong> (app y Twitter/X oficial): estado de carreteras, cortes y desvíos en tiempo real — imprescindible si hay que moverse o evacuar.</li><li><strong>Boletín y radio FM</strong>: la radio a pilas sintonizando las cadenas nacionales y autonómicas es el único medio que sobrevive a un colapso total de redes.</li><li><strong>Ayuntamiento y comunidad autónoma</strong>: cada municipio tiene su plan de emergencia y sus canales (112 autonómico, avisos municipales). Localízalos ahora, no cuando suene la sirena.</li></ul><h2>En papel, porque el móvil muere</h2><p>Anota en tu carpeta: 112, teléfono de Protección Civil de tu municipio, de tu centro de salud, de dos contactos fuera de tu zona, y el número de póliza de tu seguro de hogar. Media página escrita a mano que funciona con el móvil al 0%.</p><p class=\"nota-final\">Esta web solo enlaza fuentes oficiales; puedes verlas todas en la página de <a href=\"/fuentes/\">Fuentes oficiales</a>, y las listas de compra que derivan de ellas, en los <a href=\"/\">kits</a>.</p>",
       "kits_relacionados": [],
       "etiquetas": [
@@ -1312,7 +1312,7 @@
       "titulo": "«El Conocimiento» de Dartnell: reconstruir el mundo (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
-      "resumen": "¿Y si mañana se acabara todo? Este libro explica qué saber y cómo recomenzar: agricultura, química, medicina, energía. La lectura perfecta junto a tu ki...",
+      "resumen": "¿Y si mañana se acabara todo? Este libro explica qué saber para recomenzar: agricultura, química, medicina y energía. Junto a tu kit 72h.",
       "cuerpo": "<p>Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que <strong>empezar de cero</strong>?</p>\n<p><em>El Conocimiento: Cómo reconstruir nuestra civilización desde cero</em> (<em>The Knowledge</em>, en inglés), de Lewis Dartnell — investigador de la Universidad de Westminster — es justamente eso: un <strong>manual de arranque de la civilización</strong>. No es ciencia ficción ni un ensayo catastrofista: es un recorrido riguroso y ameno por lo que haría falta saber para reconstruir lo esencial.</p>\n<h2>Qué encontrarás dentro</h2>\n<ul>\n<li><strong>Agricultura de supervivencia</strong>: qué cultivar primero, cómo conservar semillas, rotación de cultivos. (Si te interesa esto, ya tienes la <a href=\"/kit/huerto-autosuficiencia/\">guía de huerto urbano del sitio</a> para empezar hoy.)</li>\n<li><strong>Química esencial</strong>: cómo hacer jabón, alcohol, ácido sulfúrico — la base de casi todo lo demás.</li>\n<li><strong>Materiales</strong>: del carbón vegetal al vidrio, y por qué la madera cocida fue el motor del desarrollo.</li>\n<li><strong>Medicina</strong>: antisépticos, anestesia básica, por qué la higiene vale más que los antibióticos.</li>\n<li><strong>Energía y máquinas</strong>: la rueda hidráulica, el vapor, y cómo saltarse siglos de prueba y error gracias a que sabes qué buscar.</li>\n</ul>\n<h2>Por qué merece la pena</h2>\n<p>Porque el kit de 72 horas te mantiene vivo, pero el conocimiento es lo que te permite <strong>reconstruir</strong>. Dartnell tiene una idea potente: no necesitaríamos reinventar la rueda — necesitaríamos recordar dónde está apuntada. La ventaja de un superviviente moderno no es la fuerza ni la comida: es que sabe <em>qué es posible</em>.</p>\n<h2>Dónde conseguirlo</h2>\n<p>Actualmente <strong>no hay edición en castellano</strong> en Amazon España — la edición original en inglés (<em>The Knowledge: How to Rebuild Our World After An Apocalypse</em>, paperback) está disponible y es muy legible incluso con inglés medio:</p>\n<p><a class=\"btn-amazon\" href=\"https://www.amazon.es/dp/0099575833?tag=ntizar-21\" target=\"_blank\" rel=\"sponsored nofollow noopener\">Ver \"The Knowledge\" en Amazon</a></p>\n<p class=\"nota-final\">Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.</p>",
       "kits_relacionados": [
         "huerto-autosuficiencia"
@@ -1347,7 +1347,7 @@
       "titulo": "Comunicar sin red: qué funciona cuando se cae el móvil (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
-      "resumen": "En cada gran emergencia las redes móviles colapsan en minutos. Hay formas de comunicarte que no dependen de antenas: algunas gratis y otras por menos de...",
+      "resumen": "En cada gran emergencia las redes móviles colapsan en minutos: formas de comunicarte que no dependen de antenas, algunas gratis y otras por menos de 40 €.",
       "cuerpo": "<p>El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la red cae. Y en una DANA las antenas pueden quedarse sin electricidad ni fibra durante días. Si tu plan de familia depende de WhatsApp, no tienes plan. Alternativas reales, de gratis a baratas:</p><h2>1. SMS y mensajes cortos</h2><p>Los SMS usan una señal mínima que <strong>funciona cuando las llamadas y los datos no</strong>. Acuerda con tu familia: si la red va justa, no llaméis — mandad un SMS corto con estado y ubicación.</p><h2>2. El contacto fuera de zona</h2><p>Técnica clásica de Protección Civil: designa a <strong>una persona que viva lejos</strong> (otra comunidad, otro país) como punto de contacto. Las llamadas locales saturan; una llamada larga distancia o a otra región a veces pasa. Todos llamáis a esa persona, ella centraliza.</p><h2>3. Radio FM/AM a pilas</h2><p>No es para hablar, es para saber: en un colapso de telecomunicaciones, la radiodifusión (emisores grandes, antenas propias) es el último canal de información en pie. La radio a pilas o de dinamo es el objeto más infravalorado del kit.</p><h2>4. Walkie-talkies PMR446</h2><p>Por 30-40 € el par, sin licencia en España, 2-5 km en ciudad (más en campo). Perfectos para coordinarse entre casas de la misma urbanización o en un camping. Guárdalos con pilas nuevas y sin usarlas como juguete.</p><h2>5. Mensajería que se apaga sola</h2><p>Aplicaciones de mesh (bridges sin antena, como las de radio Bluetooth entre móviles cercanos) existen, pero todas requieren que <strong>ambos</strong> las tengan instaladas de antes. Instálalas ahora en los móviles de la familia — en plena crisis no se puede descargar nada.</p><h2>El plan familiar en una frase</h2><p>Si no hay red: todos mandan SMS al contacto fuera de zona con «estoy bien / dónde estoy / qué necesito», y nos reunimos en el punto acordado si pasan 24 horas sin contacto. Escribe ese punto en papel: bajo el campanario, la gasolinera de la autovía, casa de la tía.</p><p class=\"nota-final\">La radio y los powerbank que sostienen esta comunicación están en el <a href=\"/kit/kit-basico-72h/\">kit básico 72h</a> y en el <a href=\"/kit/kit-apagon/\">kit de apagón</a>.</p>",
       "kits_relacionados": [
         "kit-apagon",
@@ -1385,7 +1385,7 @@
       "titulo": "Coche y emergencias: lo obligatorio en 2026 y lo que conviene",
       "fecha": "2026-08-31",
       "lectura": "1 min",
-      "resumen": "La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado. Pero hay más cosas en la guantera que pueden salvarte en un DANA ...",
+      "resumen": "La baliza V-16 conectada ya es el único señalamiento legal en vía si te quedas parado: qué más lleva la guantera para un DANA o un atasco de nieve.",
       "cuerpo": "<p>El kit del coche es el único que llevas encima todos los días, y también el más legislado. Repasamos qué es obligatorio en 2026 y qué conviene añadir por tu cuenta.</p><h2>Lo obligatorio</h2><ul><li><strong>Baliza V-16 conectada</strong>: desde el 1 de enero de 2026 es el único medio legal de señalizar una parada en vía. Debe llevar certificado de homologación de la DGT y conectividad: las falsas multan y no señalizan.</li><li><strong>Chaleco reflectante</strong> dentro del habitáculo, al alcance antes de bajar.</li><li><strong>Documentación</strong>: permiso de circulación, tarjeta ITV y seguro.</li></ul><h2>Lo que conviene (y no es obligatorio)</h2><ul><li><strong>Botiquín compacto</strong>: curas, gasas, antiséptico, guantes.</li><li><strong>Manta térmica</strong>: un atasco de nieve o una avería en febrero se hacen eternos sin ella.</li><li><strong>Agua y barritas</strong>: dos botellas y algo de comer no ocupan.</li><li><strong>Cadenas o calcetines textiles</strong> si transitas zonas de montaña o del norte en invierno.</li><li><strong>Linterna y powerbank cargado</strong>: el móvil es tu radio y tu mapa.</li></ul><h2>Escenarios que no son un accidente</h2><p>El coche es también tu <strong>refugio de emergencia</strong> en un DANA (nunca cruces un vado; 30 cm de agua arrastran un coche) y tu vivienda temporal si tu zona se ve afectada. Por eso el kit del coche repite varios elementos del de 72h.</p><p class=\"nota-final\">Revisa el kit del coche dos veces al año con el cambio horario: agua que no haya congelado, pilas nuevas y baliza con batería en fecha. La lista completa, en el <a href=\"/kit/kit-coche/\">kit de coche</a>.</p>",
       "kits_relacionados": [
         "kit-coche"
@@ -1402,7 +1402,7 @@
       "titulo": "Documentos y dinero: la carpeta de emergencia del hogar (2026)",
       "fecha": "2026-08-31",
       "lectura": "1 min",
-      "resumen": "Tras una evacuación por DANA o incendio, lo que más se echa de falta no es la tele: es el DNI, la escritura y las pólizas. Cinco minutos ahora, meses me...",
+      "resumen": "Tras una evacuación por DANA o incendio falta el DNI, la escritura y las pólizas —no la tele—. Cinco minutos ahora, meses menos de papeleo después.",
       "cuerpo": "<p>En cada DANA o incendio grave en España se repite la misma escena: familias que lo han perdido casi todo y que, además, no pueden probar que la casa era suya o que tenían el coche. La carpeta de emergencia es el elemento más barato y con mayor retorno de todo el kit: cuesta menos de 10 € y ahorra meses de trámites.</p><h2>Qué va dentro</h2><ul><li><strong>Fotocopias</strong> de DNI/NIE de todos los miembros de la familia, incluidos menores.</li><li><strong>Propiedad</strong>: escrituras o nota simple del Registro, contrato de alquiler, referencia catastral.</li><li><strong>Seguros</strong>: póliza de hogar, coche y vida, con número de póliza y teléfono de aviso destacado a mano.</li><li><strong>Salud</strong>: tarjeta sanitaria de cada uno, informe de medicación habitual, cartilla de vacunas de los niños.</li><li><strong>Finanzas</strong>: IBAN de tus cuentas, contrato de hipoteca, último recibo de cada servicio.</li><li><strong>Familia</strong>: teléfono de dos o tres contactos de confianza fuera de tu zona (si tu ciudad se queda sin red, alguien de fuera sí puede coordinar).</li></ul><h2>Formato papel + digital</h2><p>El papel sobrevive a un móvil sin batería; el digital sobrevive a una casa inundada. Necesitas ambos: la carpeta física en una <strong>funda estanca</strong> y una <strong>copia digital cifrada</strong> en un USB que guardas en otro lugar (trabajo, casa de un familiar), más una copia en la nube.</p><h2>Efectivo</h2><p>En un apagón los datáfonos y cajeros no funcionan — lo vivimos el 28 de abril de 2025. Ten en casa <strong>billetes pequeños (10-20 €)</strong>, en efectivo suficiente para 2-3 días de gasolina, comida y farmacia. Y no lo anuncies: el efectivo de emergencia es discreto.</p><p class=\"nota-final\">La <a href=\"/kit/kit-evacuacion/\">mochila de evacuación</a> ya contempla carpeta estanca y USB cifrado; la de <a href=\"/kit/kit-hogar/\">hogar</a>, una caja fuerte pequeña para los originales.</p>",
       "kits_relacionados": [
         "kit-evacuacion",
@@ -1458,7 +1458,7 @@
       "titulo": "Cómo almacenar agua y comida en casa sin que se estropee (2026)",
       "fecha": "2026-08-31",
       "lectura": "2 min",
-      "resumen": "Una despensa de emergencia mal guardada es dinero tirado. Dónde, cómo y en qué orden rotar cada alimento para que tu reserva siga buena el día que la ne...",
+      "resumen": "Una despensa de emergencia mal guardada es dinero tirado: dónde, cómo y en qué orden rotar cada alimento para que aguante hasta el día que lo necesites.",
       "cuerpo": "<p>Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el día que lo necesitas (a veces años después), es la parte que casi todo el mundo hace mal. Reglas que se aplican igual a un paquete de arroz que a una radio:</p><h2>Los tres enemigos: calor, luz y humedad</h2><p>El sitio ideal es <strong>fresco, oscuro y seco</strong>: un armario interior de pasillo suele ser mejor que el típico trastero junto a la caldera o la terraza. Nunca directamente sobre el suelo (humedad, plagas) ni junto a productos de limpieza (los vapores contaminan incluso envases cerrados).</p><h2>Agua: el calendario manda</h2><ul><li>Envases comerciales cerrados: <strong>renovar cada 6-12 meses</strong>. No es que el agua caduque: el envase degrada y el cloro residual se evapora.</li><li>Guárdala lejos del sol y de olores fuertes; el plástico absorbe gasolina, lejía o detergentes.</li><li>Si hay aviso previo (temporal, corte de agua), llena bañera, cubos y ollas: es agua de uso no potable, perfecta para cisterna e higiene.</li><li>Para almacenar agua propia a largo plazo, usa solo envases alimentarios nuevos con tapa hermética.</li></ul><h2>Comida: primero en entrar, primero en salir</h2><ul><li><strong>Escribe la fecha de compra en cada pack</strong> con rotulador. Sin fecha, en seis meses ya no sabrás qué es viejo.</li><li>Rotación real: consume de la despensa de emergencia en tu día a día y repon al hacer la compra. La reserva que nunca se come se tira; la que se rota, nunca caduca.</li><li>Vida útil orientativa de lo bien almacenado: latas y frascos <strong>3-5 años</strong> (o más), arroz y pasta <strong>2-3 años</strong>, comida deshidratada/militar <strong>2-5 años</strong>, leche en polvo <strong>2-3 años</strong> cerrada. Barritas y frutos secos: mucho menos, al año.</li><li>Descarta latas abombadas, oxidadas en costuras o con golpes profundos: botulismo, sin negociación.</li></ul><h2>Inventario cada 6 meses</h2><p>El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.</p><p class=\"nota-final\">Las cantidades por persona y periodo están calculadas en el <a href=\"/kit/kit-basico-72h/\">kit 72h</a> y en el <a href=\"/kit/kit-30-dias/\">kit de 30 días</a>, con precios reales de Amazon para cada pack.</p>",
       "kits_relacionados": [
         "kit-30-dias",

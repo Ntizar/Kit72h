@@ -92,7 +92,7 @@ CUERPO = """
 
 ENTRADA = {
     "slug": SLUG,
-    "titulo": "Nevada en casa: qué necesito para aguantar los días de nieve sin luz",
+    "titulo": "Nevada en casa: 8 claves para aguantar los días sin luz (2026)",
     "fecha": HOY,
     "lectura": "7 min",
     "resumen": "Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, "

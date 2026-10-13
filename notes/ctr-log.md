@@ -181,3 +181,60 @@ encima).
   `ca475f0` (ficha verificada del forro polar) y `b302d24` (analítica: beacon en
   75 páginas, panel `/analiticas/`, cron, allowlist de `pages.yml`, robots).
 - Gate: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
+## Run 2026-10-13 (06:37 UTC) — horneado primero, 3 títulos + 21 descriptions
+
+**Orden ejecutado (el que no revierte títulos):** horneado Playwright completo
+con el wrapper del cron (`kit72h-prerender-vm.py`, 457 s, exit 0) →
+`analizar_paginas()` de `scripts/kit72h-seo-ctr.py` (**0 mejoras automáticas**:
+las reglas genéricas ya estaban aplicadas en todo el árbol) → optimización
+manual → gate → commit SOLO con lo optimizado, **sin rehornear encima**.
+
+**Sanidad del horneado (el wrapper trunca el resumen de rutas):** las 75
+páginas publicadas tienen `mtime ≥ 06:37`, es decir, **0 rutas fallidas**; árbol
+limpio tras el horneado (idempotente), 0 ficheros a 0 bytes.
+
+**Cambio 1 — 3 títulos** (los únicos que no pasaban la auditoría CTR):
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| `/blog/nevada-en-casa-que-necesito/` | Nevada en casa: qué necesito para aguantar los días de nieve sin luz (68, **sin número y sin año**) | Nevada en casa: 8 claves para aguantar los días sin luz (2026) (62) | post del editor nocturno; «8 claves» = los 8 H2 numerados del artículo |
+| `/blog/panel-solar-portatil-72h-emergencia/` | Panel solar portátil para emergencias: tipos, potencia real y cómo elegirlo (2026) (**82** → Google lo cortaba a media palabra) | Panel solar portátil para emergencias: 3 tipos y 5 errores (2026) (65) | números exactos del artículo («Los tres tipos de panel», «Los cinco errores») |
+| `/blog/botiquin-emergencia-lista-completa/` | El botiquín de emergencia para todo hogar (2026) (48, genérico, sin número) | Botiquín de emergencia completo: 15 objetos que no pueden faltar (2026) (71) | «15 objetos» sale del H2 «El botiquín base: 15 objetos no negociables» |
+
+**Cambio 2 — 21 de 51 descriptions cortadas a media palabra**: la Regla 2 vieja
+hacía `resumen[:152] + "..."`, y 21 posts acababan en «…messenger s...»,
+«…Guía práctica con el marc...» o «…por menos de ...». Cada una se reescribió
+con el **texto original recuperado de la historia de git**
+(`git show 13ed362:data/blog.json`) y recortado limpio a ≤155 chars sin puntos
+suspensivos. Dos ejemplos:
+
+| Página | Antes | Después |
+|---|---|---|
+| `/blog/radiocomunicacion-pmr446-walkie-talkies/` | …Sin licencia, por menos de **…** (155, cortado) | Cuando caen las redes móviles, la PMR446 sigue: sin licencia, por menos de 40 € el par y legal en toda España. Cómo elegirla, según Protección Civil. (149) |
+| `/blog/plan-familiar-de-emergencia/` | …La diferencia no fue la mo**…** (155, cortado) | Dos familias, el mismo aviso, resultados opuestos: una se reencontró en dos horas, la otra tardó tres días. La diferencia no fue la mochila: fue el plan. (153) |
+
+Balance: **51/51 descriptions en 90–155 chars y 0 terminando en `...`**;
+**0 títulos de blog por encima de 72 chars**.
+
+**Mecánica:** reemplazo literal de las 24 cadenas (3 títulos + 21
+descriptions) en `data/blog.json` y en los 54 ficheros derivados que las
+repiten — páginas horneadas, interlinking «Sigue leyendo», `blog/index.html`,
+`index.html`, `feed.xml`, `llms.txt`, `llms-full.txt` y los generadores
+`scripts/agregar-blog-nevada.py` y `scripts/generar-articulos.py` — **sin
+rehornear** (el HTML queda igual que lo produciría el próximo horneado
+nocturno, porque la fuente `blog.json` ya lleva los valores nuevos).
+Verificación: 24/24 cadenas viejas fuera del árbol, JSON-LD parseando en todas
+las páginas tocadas, `html.parser` sin errores y gate en verde.
+
+**Regla raíz corregida en `scripts/kit72h-seo-ctr.py`:** Regla 2 ahora corta
+en límite de palabra y **sin `...`** (así el próximo corte no vuelve a dejar
+snippets a media palabra), y los 3 títulos nuevos se fijan en `BLOG_TITULOS`
+para que ninguna run futura los revierta.
+
+**Fuera de alcance a propósito:** `data/pins-generados.json` y `pintout/`
+(artefactos de Pinterest, se regeneran con su cron) y `notes/` (historial).
+
+- Gate: ✅ 0 errores (6 avisos preexistentes).

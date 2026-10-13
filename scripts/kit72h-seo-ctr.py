@@ -157,6 +157,13 @@ HOME_DESC = "20 kits de emergencia de 72 horas con checklist marcable y cesta en
 # legítimo y dejaba títulos desequilibrados / con el año duplicado (hasta 108 chars).
 # Reglas CTR de aquí: keyword delante, número o año, <=72 chars para no truncarse.
 BLOG_TITULOS = {
+    # CTR 2026-10-13: optimizaciones manuales (las genéricas no llegaban)
+    "nevada-en-casa-que-necesito":
+        "Nevada en casa: 8 claves para aguantar los días sin luz (2026)",
+    "panel-solar-portatil-72h-emergencia":
+        "Panel solar portátil para emergencias: 3 tipos y 5 errores (2026)",
+    "botiquin-emergencia-lista-completa":
+        "Botiquín de emergencia completo: 15 objetos que no pueden faltar (2026)",
     "mejor-powerbank-emergencia-capacidad":
         "Mejor powerbank para kit de emergencia 2026: 4 modelos y mAh reales",
     "bebes-ninos-emergencia-checklist-edades":
@@ -254,9 +261,11 @@ def aplicar_mejoras_blog():
                 mejoradas.append({"slug": slug, "field": "title"})
                 titulo = nuevo
 
-        # Regla 2: resumen > 155 caracteres → trunca
+        # Regla 2: resumen > 155 caracteres → corta en límite de palabra y SIN
+        # puntos suspensivos: el corte viejo a 152+"..." dejaba 21 descriptions
+        # cortadas a media palabra en el snippet («…messenger s...»).
         if len(resumen) > 155:
-            nuevo = resumen[:152] + "..."
+            nuevo = resumen[:155].rstrip().rsplit(" ", 1)[0].rstrip(" ,;:-.")
             print(f"  ✏️  Blog desc: {resumen[:50]}... → {nuevo[:60]}...")
             entrada["resumen"] = nuevo
             mejoradas.append({"slug": slug, "field": "description"})
