@@ -34,7 +34,7 @@
 | terremoto qué hacer España | media | info | /kit/kit-terremoto/ | ✅ cubierto | P1 |
 | kit incendio casa | media | compra | /kit/kit-incendio/ | ✅ cubierto | P1 |
 | ola de calor qué hacer | alto (estacional) | info | /kit/kit-calor/ | ✅ cubierto | P1 |
-| nevada hogar qúe necesito | baja (estacional) | info | /kit/kit-nieve/ | pendiente | P3 |
+| nevada hogar qúe necesito | baja (estacional) | info→compra | /blog/nevada-en-casa-que-necesito/ | ✅ hecha (2026-10-13) | P3 |
 
 ### Cluster C — comparativas «mejor X» (máxima conversión)
 | Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |

@@ -502,6 +502,119 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Nevada en casa: qué necesito para aguantar los días de nieve sin luz — https://kit72h.com/blog/nevada-en-casa-que-necesito/
+Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, luz, coche con cadenas y los errores que enseñó Filomena, con fuentes oficiales.
+Cuando la AEMET pinta el mapa de avisos de naranja, el problema no es la nieve de postal: son los días que vienen detrás. Carreteras cortadas, la luz que no vuelve, la calefacción parada y el súper con las estanterías vacías. La borrasca Filomena (enero de 2021) sigue siendo la referencia en España: la propia AEMET la describe como un episodio de carácter excepcional , con nieve acumulada de hasta 50 cm en Madrid capital y temperaturas mínimas de -26,5 °C. En muchas casas lo que falló no fue que nevara: fue que nadie se había preparado para tres días sin comprar.
+
+
+ Esta es la lista de qué necesito en casa cuando avisan nevada , en orden y con el porqué. Si solo haces una cosa, haz la primera.
+
+
+ 1. Mira el aviso oficial, no el grupo de WhatsApp
+
+
+ Todo empieza en el mapa de avisos de la AEMET : amarillo (ten cuidado), naranja (riesgo importante) y rojo (riesgo extremo, con implicaciones para tu seguridad). Complementa con las recomendaciones de Protección Civil y con el 112 si hay una emergencia real.
+
+
+ Y antes de mover el coche, la DGT lo repite en cada aviso invernal: consulta la previsión meteorológica y el estado de vialidad de las carreteras antes de salir, y ten cadenas o neumáticos de invierno a mano. Trafico puede restringir la circulación a los vehículos que no lleven ese equipamiento y llegar a cortar carreteras de forma preventiva. La regla práctica: si el desplazamiento no es imprescindible, no se hace .
+
+
+ 2. Calefacción: lo que calienta y lo que mata
+
+
+ Cuando se va la luz, lo que mata en invierno no es el frío sino el monóxido de carbono : inodoro, invisible y producido por cualquier combustión mal ventilada. Es la primera norma de la lista:
+
+
+ 
+ Un generador jamás dentro de casa , ni en el garaje, ni en el portal, ni pegado a una ventana. Por qué, en la comparativa de generador frente a power station : en un piso, la power station es la única opción.
+
+ Estufa de gas o de combustión: solo con la habitación ventilada y nunca mientras duermes. Una estufa de gas butano resuelve un salón, no una casa cerrada toda la noche.
+
+ Detector de monóxido a pilas en cada planta y cerca de los dormitorios. Cuesta menos que una cena y es lo único que te avisa antes de que sea tarde: detector de CO a pilas .
+
+ Abrigar la casa, no solo a la gente: tapar la ventana por la noche con una cortina o manta, cerrar las habitaciones que no se usen y vestir por capas en casa. El detalle está en mantener la temperatura corporal sin electricidad y en vestirse por capas .
+
+ 
+
+ Lo específico del frío está en el kit de frío y nevadas .
+
+
+ 3. Agua y comida: tres días sin poder comprar
+
+
+ Una nevada corta carreteras y retrasa el reparto, así que se calcula como mínimo 3 litros de agua por persona y día (beber, higiene y cocinar): la cifra y el cómo guardarla están en cuánta agua guardar por persona . Compra comida que se pueda comer sin gas y sin cocinar : conservas, legumbres de bote, frutos secos, pan de molde, café y un abrelatas (si olvidas el manual, un cuchillo y una olla no bastan).
+
+
+ Y en cuanto se va la luz, el orden es: consume primero lo fresco (carne, pescado, lácteos), después lo congelado. La nevera aguanta horas, no días; el calendario completo está en conservar comida sin nevera , y si vives solo o quieres margen extra, en nevera portátil para emergencias .
+
+
+ 4. Luz, información y baterías
+
+
+ Los sustos de una nevada son de madrugada, en un pasillo oscuro. Equipo que los resuelve, con precios orientativos:
+
+
+ 
+ Objeto Para qué sirve de verdad Precio orientativo 
+ 
+ 
+ Linterna frontal con pilas Manos libres para subir al desván, bajar al trastero o ayudar al vecino 8-15 € 
+
+ Surtido de pilas AA/AAA Linternas, radios y detectores; con fecha de caducidad anotada 10-20 € 
+
+ Radio a pilas o de dinamo Información oficial sin red ni batería: la radio es la primera fuente cuando cae la luz 15-35 € 
+
+ Powerbank de 20.000 mAh Tres o cuatro recargas de móvil: avisar y recibir avisos 25-50 € 
+
+ Panel solar plegable Alargar la batería varios días; con cielo cubierto produce poco, no lo cuentes como red principal 40-80 € 
+
+ Velas con portavelas estable Refuerzo puntual, siempre sobre superficie resistente y lejos de cortinas 5-12 € 
+
+ 
+ 
+
+ Las comparativas completas están en mejor linterna de emergencia , mejor powerbank y mejor radio de manivela y solar ; cuántos vatios necesitas de verdad, en panel solar portátil .
+
+
+ 5. El coche: cadenas, neumáticos y sentido común
+
+
+ La DGT lo repite cada invierno: llevar cadenas o neumáticos de invierno o de todo tiempo si vas a circular por zonas con aviso de nevada, consultar la vialidad antes de salir y dejar libre el carril izquierdo para los quitanieves. Si te cogió la nieve en la carretera: no abandones el vehículo, reduce la marcha y avisa al 112.
+
+
+ El material va en el maletero antes de que anuncien el temporal: cadenas para nieve , un par de guantes impermeables (montar cadenas con las manos heladas es imposible) y una manta térmica. La lista entera del vehículo está en el kit de coche .
+
+
+ 6. Vecinos, mayores y quien vive solo
+
+
+ En un edificio la logística se resuelve entre todos: quién compra si alguien no puede salir y quién tiene llave del piso de la persona mayor. Una llamada a la misma hora cada día a quien vive solo no es cortesía, es control de estado: el guion está en vivir solo y estar preparado , los equipos en el kit de persona mayor y los teléfonos que no pueden faltar en recursos oficiales de emergencia . Si hay medicación diaria, revisa la dosis de la semana y ten la receta al día: medicación crónica sin farmacia .
+
+
+ 7. Los cinco errores que se repiten en cada nevada
+
+
+ 
+ Salir «a mirar» con la nieve cayendo. La carretera que «está bien» a las diez puede estar cortada a las doce.
+
+ Encender el generador o la estufa en un espacio cerrado. Es el error que más hospitalizaciones causa en invierno.
+
+ Comprar solo comida que hay que cocinar y descubrir a las 21:00 que no hay gas, agua ni abrelatas.
+
+ Dejar los teléfonos y los papeles solo en el móvil. Sin luz y con la batería al 8 %, la lista de contactos no existe: imprimirla. La carpeta completa está en carpeta de emergencia y documentos .
+
+ Esperar a que avise el vecino. Cuando el supermercado desborda, ya es tarde para comprar lo importante: pilas, pilas de repuesto, botiquín y medicación.
+
+ 
+
+ 8. Por dónde empezar hoy
+
+
+ Si vienes de cero, el kit básico de 72 horas da la base común y encima va el equipo de frío y coche. El método para no dejarte nada está en cómo montar tu kit de 72 horas y las decisiones del primer momento, en qué nos enseñó un apagón .
+
+
+ La nevada avisa con días de antelación: úsalos, y cuando llegue solo tendrás que mirar por la ventana.
+
 ### Generador vs power station: comparativa 2026 para el apagón — https://kit72h.com/blog/generador-vs-power-station-comparativa/
 ¿Generador o power station? Comparamos potencia, autonomía, ruido, coste por hora y normativa para aguantar un apagón en España.
 El 28 de abril de 2025, a las 12:33:30, el sistema eléctrico peninsular se quedó a cero. El Comité para el análisis de las circunstancias que concurrieron en la crisis de electricidad del 28 de abril —creado por el Consejo de Seguridad Nacional y cuyo informe aprobó el Consejo de Ministros el 17 de junio de 2025— concluyó que el origen fue multifactorial, descartó el ciberataque y situó la reposición completa del suministro el 29 de abril a las 14:36. En muchas casas la luz volvió mucho antes; el problema fue todo lo que se quedó sin alimentar mientras tanto: la nevera, la caldera, el portero, la bomba de agua.

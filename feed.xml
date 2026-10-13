@@ -5,7 +5,14 @@
   <link>https://kit72h.com/</link>
   <description>Kits de emergencia 72 horas y guías de preparación civil en España. Fuentes oficiales: Comisión Europea, Protección Civil y DGT.</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Nevada en casa: qué necesito para aguantar los días de nieve sin luz</title>
+      <link>https://kit72h.com/blog/nevada-en-casa-que-necesito/</link>
+      <guid isPermaLink="true">https://kit72h.com/blog/nevada-en-casa-que-necesito/</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, luz, coche con cadenas y los errores que enseñó Filomena, con fuentes oficiales.</description>
+    </item>
     <item>
       <title>Generador vs power station: comparativa 2026 para el apagón</title>
       <link>https://kit72h.com/blog/generador-vs-power-station-comparativa/</link>
@@ -138,13 +145,6 @@
       <guid isPermaLink="true">https://kit72h.com/blog/antena-externa-movil-cobertura-montana/</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <description>Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.</description>
-    </item>
-    <item>
-      <title>Terremoto en España: qué hacer antes, durante y después (2026)</title>
-      <link>https://kit72h.com/blog/terremoto-espana-que-hacer/</link>
-      <guid isPermaLink="true">https://kit72h.com/blog/terremoto-espana-que-hacer/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.</description>
     </item>
 </channel>
 </rss>
