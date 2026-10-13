@@ -237,18 +237,14 @@
   <section class="sec clara">
     <div class="container">
       <div class="sec-inner">
-        <span class="sec-label">Estado</span>
-        <h2>Cómo va la recolección</h2>
-        <div id="an-estado"><p class="an-vacio">Leyendo el estado…</p></div>
-        <div class="an-bloque">
-          <h2>Clics de afiliado, por página</h2>
-          <div id="an-eventos"><p class="an-vacio">Leyendo los eventos…</p></div>
-        </div>
+        <span class="sec-label">Afiliación</span>
+        <h2>Clics de afiliado, por página</h2>
+        <div id="an-eventos"><p class="an-vacio">Leyendo los eventos…</p></div>
       </div>
     </div>
   </section>
 </main>
-<footer class="site-footer"><div class="container"><p class="an-pie-lista">Hecho con ❤️ por David Antizar · <a href="https://kit72h.com" rel="noopener">kit72h.com</a></p></div></footer>
+<footer class="site-footer"><div class="container"><p class="an-pie-lista">Hecho con ❤️ por el equipo Kit72h · <a href="https://kit72h.com" rel="noopener">kit72h.com</a></p></div></footer>
 <noscript><p style="background:#e8e0cf;border:2px solid #14110D;padding:16px;margin:20px;font-size:14px">Este panel necesita JavaScript para leer <b>data/analiticas.json</b> y pintarlo. Actívalo y recarga la página.</p></noscript>
 <script>
 (function () {
@@ -536,6 +532,9 @@
   /* ---------- Estado ---------- */
   function pintarEstado(d, url, motivo) {
     var cont = el("an-estado");
+    // El bloque de diagnóstico «por qué no hay datos» se retiró del panel.
+    // Si nadie lo reinserta en el HTML, esta función no pinta nada.
+    if (!cont) { return; }
     cont.innerHTML = "";
     var est = d ? String(d.estado || "") : "";
 
@@ -616,18 +615,7 @@
     cont.innerHTML = "";
     var evs = (d && Array.isArray(d.eventos)) ? d.eventos : [];
     if (!evs.length) {
-      var av = nodo("div", "an-aviso");
-      var cab = nodo("span", "an-aviso__titulo");
-      cab.appendChild(nodo("span", "an-aviso__simbolo", "▲"));
-      cab.appendChild(document.createTextNode("Todavía sin eventos configurados"));
-      av.appendChild(cab);
-      av.appendChild(nodo("p", null, "Los clics a Amazon y la profundidad de scroll se registran como eventos. Cuando el medidor esté activo, aquí verás qué página se lleva los clics."));
-      var ul = document.createElement("ul");
-      ["clic-amazon — clics a enlaces de afiliado.", "scroll-50 y scroll-90 — quién llega a la mitad y al final de una ficha."].forEach(function (t) {
-        ul.appendChild(nodo("li", null, t));
-      });
-      av.appendChild(ul);
-      cont.appendChild(av);
+      cont.appendChild(vacio("Sin clics de afiliado registrados en esta ventana."));
       return;
     }
     evs.forEach(function (ev) {

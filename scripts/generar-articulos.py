@@ -89,7 +89,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
     </div>
   </section>
 </main>
-<footer class="site-footer"><div class="container"><p>Kit72h · Preparación civil para España · Hecho con ❤️ por David Antizar · <a href="/blog/">Todos los artículos</a> · <a href="/fuentes/">Fuentes oficiales</a></p></footer>
+<footer class="site-footer"><div class="container"><p>Kit72h · Preparación civil para España · Hecho con ❤️ por el equipo Kit72h · <a href="/blog/">Todos los artículos</a> · <a href="/fuentes/">Fuentes oficiales</a></p></footer>
 <script src="/js/main.js?v=20260928c"></script>
 </body></html>'''
 
