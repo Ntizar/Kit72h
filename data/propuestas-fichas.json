@@ -50,16 +50,18 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
     "kit": "kit-mayores",
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
     "kit": "kit-mayores",
@@ -882,48 +884,54 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=ntizar-21",
     "rango_esperado": "20-35 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
     "kit": "huerto-autosuficiencia",
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=ntizar-21",
     "rango_esperado": "5-12 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
     "kit": "kit-bebe",
     "seccion": "Leche y comida de reserva",
     "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=ntizar-21",
     "rango_esperado": "10-18 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
     "kit": "kit-bebe",
     "seccion": "Higiene y pañales",
     "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=ntizar-21",
     "rango_esperado": "6-12 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
     "kit": "kit-bebe",
     "seccion": "Abrigo y sueño",
     "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=ntizar-21",
     "rango_esperado": "35-80 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
     "kit": "kit-bebe",
     "seccion": "Salud y calma",
     "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=ntizar-21",
     "rango_esperado": "5-10 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-mayores|Empapadores y pañales de incontinencia (pack para 3-5 días)": {
     "kit": "kit-mayores",
@@ -1410,8 +1418,9 @@
     "seccion": "Plan B: quién lo cuida si no puedes",
     "busqueda": "lista de residencias y hoteles que admiten animales",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-terremoto|Calzado cerrado y resistente junto a la cama": {
     "kit": "kit-terremoto",
@@ -1434,8 +1443,9 @@
     "seccion": "Botiquín, medicación y heridas",
     "busqueda": "medicación crónica   con copia de recetas",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-terremoto|Llave de corte para gas y agua (llave de cuadradillo o universal)": {
     "kit": "kit-terremoto",
@@ -1914,8 +1924,9 @@
     "seccion": "Salud y papeles",
     "busqueda": "medicación crónica del animal",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-mascotas|Bandeja y arena para gato (o empapadores)": {
     "kit": "kit-mascotas",
@@ -1954,8 +1965,9 @@
     "seccion": "Plan B: quién lo cuida si no puedes",
     "busqueda": "acuerdo con una persona de confianza",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-13",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-starlink|Router 4G/5G industrial con dual SIM y antenas externas": {
     "kit": "kit-starlink",
