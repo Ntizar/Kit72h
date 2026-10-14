@@ -137,59 +137,64 @@
       "ultima": "2026-10-13"
     },
     "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-mayores|Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-mascotas|Medicación crónica del animal (30 días)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-mascotas|Acuerdo con una persona de confianza (con llaves y ficha del animal)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-mascotas|Lista de residencias y hoteles que admiten animales": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
     },
     "kit-terremoto|Medicación crónica (7-30 días) con copia de recetas": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-13"
+      "ultima": "2026-10-14"
+    },
+    "kit-incendio|Medicación crónica y lista de tratamientos (personas mayores o dependientes)": {
+      "n": 1,
+      "primera": "2026-10-14",
+      "ultima": "2026-10-14"
     }
   }
 }
