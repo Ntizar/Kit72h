@@ -65,7 +65,7 @@
 | alimentos no perecederos lista | media | info | /blog/alimentos-emergencia-caducidad-rotacion/ | ✅ cubierto | P2 |
 | caducidad de los alimentos almacenados | baja | info | mismo post | ✅ cubierto | P3 |
 | cómo guardar agua correctamente | media | info | mismo post | ✅ cubierto | P2 |
-| generator ruido normativa comunidad | baja | info | blog pendiente | pendiente | P3 |
+| generator ruido normativa comunidad | baja | info | /blog/generador-ruido-normativa-comunidad/ | ✅ hecha (2026-10-14) | P3 |
 
 ## Reglas de contenido (para los crons)
 - Cada página nueva CITa fuente oficial con enlace (DG ECHO, Protección Civil, DGT, AEMET, 112).

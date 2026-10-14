@@ -502,6 +502,133 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Generador y ruido en la comunidad: qué dice la normativa y cuántos dB te toleran (2026) — https://kit72h.com/blog/generador-ruido-normativa-comunidad/
+Límites de dB según la Ley 37/2003, el RD 1367/2007 y tu ordenanza municipal: cómo usar el generador sin multa y sin vecinos enfadados.
+Un apagón de dos días, el generador que compraste «por si acaso» y, a las 23:40, un golpe en la puerta: el vecino no puede dormir. La respuesta a «¿y esto es legal?» no está en ningún foro: está en la Ley 37/2003 del Ruido , en la ordenanza de tu ayuntamiento y en la Ley de Propiedad Horizontal.
+
+
+ 1. La ley estatal: dónde empieza lo doméstico y dónde deja de serlo
+
+
+ La Ley 37/2003, de 17 de noviembre, del Ruido es la norma de cabecera, y su artículo 2.2.a) da la clave: quedan fuera de su ámbito «las actividades domésticas o los comportamientos de los vecinos, cuando la contaminación acústica producida por aquéllos se mantenga dentro de límites tolerables de conformidad con las ordenanzas municipales y los usos locales».
+
+
+ Traducción: encender tu generador es una actividad doméstica… hasta que deja de serlo . En cuanto excedes lo que tu ayuntamiento considera tolerable, entras en el régimen sancionador: el artículo 28.5 permite a las ordenanzas locales tipificar como infracción «el ruido producido por las actividades domésticas o los vecinos».
+
+
+ 
+ Gravedad Multa Cuándo aplica (resumen) 
+ 
+ 
+ Leve Hasta 600 € Incumplir la ley sin encajar en los supuestos graves 
+
+ Grave 601 – 12.000 € Superar los valores límite aplicables, sin daño grave 
+
+ Muy grave 12.001 – 300.000 € Superarlos con daño o riesgo grave para la salud 
+
+ 
+ 
+
+ 2. Los números del RD 1367/2007: cuántos dB se toleran de noche
+
+
+ El Real Decreto 1367/2007 fija los objetivos de calidad en su anexo II. Para un sector de suelo residencial en áreas urbanizadas existentes (tabla A): 65 dB de día, 65 de tarde y 55 de noche . Dentro de la vivienda (tabla B), que es lo que se mide en el dormitorio del vecino: 45/45/35 en las estancias y 40/40/30 en los dormitorios .
+
+
+ Los periodos los marca cada ciudad; la Ordenanza de la Comunidad de Madrid divide el día en diurno (7:00–19:00), vespertino (19:00–23:00) y nocturno (23:00–7:00). Entre los 65 de día y los 55 de noche hay 10 decibelios, que el oído percibe como el doble de ruido : lo que a las once es una molestia, a la una es un motivo de denuncia.
+
+
+ 3. Tu generador ya trae los dB en la etiqueta
+
+
+ Los grupos electrógenos no se escapan: la Directiva 2000/14/CE , transpuesta en España por el Real Decreto 212/2002 (BOE-A-2002-4099), obliga a declarar el nivel de potencia acústica garantizada de los grupos electrógenos de menos de 400 kW. Ese dato va en la etiqueta y en la ficha técnica. Valores típicos, medidos a 7 metros —la distancia estándar de las fichas—:
+
+
+ 
+ Tipo de equipo Ruido a 7 m Para qué sirve en casa 
+ 
+ 
+ Inverter insonorizado (maleta) 48 – 60 dB(A) La opción silenciosa: luces, nevera, router 
+
+ Open-frame portátil (barato) 70 – 80 dB(A) El más ruidoso: suena como una aspiradora 
+
+ Grupo instalado (standby) 60 – 75 dB(A) Vivienda unifamiliar con plazo del vecino 
+
+ Power station (batería) ~30 dB(A) Solo ventilador: cero ruido y cero humos 
+
+ 
+ 
+
+ Dos reglas de la física explican casi todos los conflictos: cada +10 dB se percibe como el doble de ruido y el sonido cae unos 6 dB cada vez que doblas la distancia . Un open-frame de 72 dB a 7 metros suena como 66 a 14 y 60 a 28: alejar el equipo del patio del vecino vale más que cualquier barrera.
+
+
+ 4. La ordenanza municipal: el texto que de verdad te multa
+
+
+ La ley estatal da el marco, pero la multa la pinta tu ayuntamiento. Busca «ordenanza contaminación acústica» más tu municipio: ahí están los decibelios por zona, los horarios y las sanciones. Como muestra, la Ordenanza de Sevilla : «Los grupos electrógenos y los transformadores deberán instalarse de forma que queden convenientemente aislados contra ruido y vibraciones».
+
+
+ Fíjate en aislados : no dice «silenciosos», dice aislados contra ruido y vibraciones . Las vibraciones viajan por la estructura del edificio y despiertan al vecino aunque el aire esté callado.
+
+
+ 5. La comunidad de vecinos: la vía rápida no es la multa
+
+
+ Si el ruido viene de un vecino —o lo provocas tú—, el camino más corto es la Ley de Propiedad Horizontal . Su artículo 7 prohíbe desarrollar en la vivienda actividades que contravengan las disposiciones generales sobre actividades molestas, insalubres, nocivas, peligrosas o ilícitas :
+
+
+ 
+ Requerimiento del presidente , a iniciativa propia o de cualquier propietario, con apercibimiento de acciones judiciales.
+
+ Acción de cesación si persiste y la Junta lo autoriza: el juez puede acordar de forma cautelar la cesación inmediata, «bajo apercibimiento de incurrir en delito de desobediencia».
+
+ Sentencia que, además de la cesación y la indemnización, puede privar del uso de la vivienda por un tiempo no superior a tres años .
+
+ 
+
+ Un generador mal colocado puede costarte la multa, la indemnización y, en el peor caso, el uso de tu propia vivienda.
+
+
+ 6. Cómo usarlo sin dormir con la sanción encima
+
+
+ 
+ Nunca dentro, ni en el garaje, ni en el trastero del portal. El monóxido mata antes que la multa; un detector de CO a pilas por planta es la medida más barata del kit.
+
+ Alejar y orientar. Los 6 dB por distancia doblada trabajan a tu favor; orienta el escape hacia fuera y nunca contra un muro que refleje el sonido.
+
+ Base antivibración. Una alfombrilla de goma corta el camino de vibración hacia la estructura —lo exige la ordenanza de Sevilla—: alfombrillas antivibración .
+
+ Horario. De 23:00 a 7:00 el objetivo baja de 65 a 55 dB: es cuando la misma molestia se convierte en expediente.
+
+ Modo eco y carga real. Las fichas declaran el ruido a cuarto de carga; con el equipo al tope de vatios sube. Para luces y cargadores, un generador inverter silencioso rinde igual con la mitad de ruido.
+
+ Si vives en piso, no compres motor. Una power station da corriente sin ruido, sin humo y sin discusión con la comunidad.
+
+ 
+
+ 7. Los errores que más salen caros
+
+
+ 
+ Creer que lo doméstico está siempre permitido: la ley te excluye solo «dentro de límites tolerables» según tu ordenanza.
+
+ Mirar solo los vatios en la tienda: si la ficha no trae dB(A) a 7 m, es un equipo que no quieres en un edificio.
+
+ Instalarlo pegado a la medianera: ruido y vibración al mismo vecino, y la ordenanza lo cita expresamente.
+
+ Olvidar el CO y el combustible: la seguridad está en la guía del kit de apagón y las primeras decisiones en qué nos enseñó un apagón .
+
+ 
+
+ 8. Por dónde empezar hoy
+
+
+ Si no tienes generador, decide antes si lo necesitas de verdad: para un piso, la comparativa entre generador y power station es contundente. Si ya lo tienes, saca la ficha técnica, anota los dB a 7 m, cuenta los metros hasta el patio del vecino y busca tu ordenanza municipal. Para calcular vatios antes de comprar: panel solar portátil y generador solar de emergencia .
+
+
+ El ruido no se resuelve con buena voluntad: se resuelve con decibelios, metros y horarios. Y qué debe aguantar tu casa sin luz está en el kit de electricidad y respaldo .
+
 ### Nevada en casa: 8 claves para aguantar los días sin luz (2026) — https://kit72h.com/blog/nevada-en-casa-que-necesito/
 Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, luz, coche con cadenas y los errores que enseñó Filomena, con fuentes oficiales.
 Cuando la AEMET pinta el mapa de avisos de naranja, el problema no es la nieve de postal: son los días que vienen detrás. Carreteras cortadas, la luz que no vuelve, la calefacción parada y el súper con las estanterías vacías. La borrasca Filomena (enero de 2021) sigue siendo la referencia en España: la propia AEMET la describe como un episodio de carácter excepcional , con nieve acumulada de hasta 50 cm en Madrid capital y temperaturas mínimas de -26,5 °C. En muchas casas lo que falló no fue que nevara: fue que nadie se había preparado para tres días sin comprar.
