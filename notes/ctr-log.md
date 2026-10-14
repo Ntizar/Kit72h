@@ -238,3 +238,51 @@ para que ninguna run futura los revierta.
 (artefactos de Pinterest, se regeneran con su cron) y `notes/` (historial).
 
 - Gate: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
+## Run 2026-10-14 (06:30 UTC) — horneado primero, 2 títulos + 4 descriptions
+
+**Orden aplicado:** prerender PRIMERO (**76 rutas, 0 fallos**; el árbol quedó
+limpio: la rerun resultó idempotente, 0 desfases JSON↔HTML) → optimización
+DESPUÉS con `analizar_paginas()` (NO `main()`, que haría commit → generar-seo →
+prerender → push) → commitear solo lo optimizado, **sin re-prerender encima**.
+
+**Auditoría:** las reglas automáticas ya no encontraban nada (0 cambios: los 52
+títulos llevan año y ninguna description se pasa de 155). La revisión manual
+encontró **6 mejoras reales**: 2 títulos que Google truncaba por encima de 80
+chars y 4 descriptions de 89–117 chars, que malgastaban el snippet.
+
+### Títulos (2)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/generador-ruido-normativa-comunidad | Generador y ruido en la comunidad: qué dice la normativa y cuántos dB te toleran (2026) (**87, se trunca**) | Generador y ruido en la comunidad: cuántos dB te toleran (2026) (63) | ≤70 con la keyword intacta y el gancho numérico (dB) antes del corte |
+| blog/mejor-sim-datos-emergencia-cobertura | Mejor SIM de datos de emergencia: qué operadora te salva cuando se va la luz (2026) (**83, se trunca**) | Mejor SIM de datos de emergencia (2026): qué operadora te salva (63) | año al medio, «qué operadora te salva» cabe entero en el snippet |
+
+### Descriptions (4)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/dana-apagon-primeros-30-minutos | Las primeras decisiones son las que importan. Una guía directa… (**108**) | Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan)… (151) | número + estructura real del artículo |
+| blog/como-montar-tu-kit-72h | La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas… (**114**) | Desde marzo de 2025 la UE recomienda 72 h de autonomía: agua, comida, luz y botiquín en una mochila por 100-150 €… (147) | fecha + coste concreto (100-150 €) del propio texto |
+| blog/agua-cuanta-y-como | 3 litros por persona y día es la cifra oficial, pero ¿en qué?… (**117**) | 3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro… (147) | la cuenta completa (9 L / 36 L), que es el gancho del artículo |
+| kit/kit-kit-profesional | Kit profesional: energía y autonomía total con paneles solares… (**89**) | Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para pasar un apagón largo sin cortes… (135) | datos reales de la ficha PRO (2×400 W, 2×9,6 kWh) en vez de «autonomía total» |
+
+**Dónde viven los cambios:** `data/blog.json` y `data/kits.json` (fuente de
+verdad) + `scripts/kit72h-seo-ctr.py` (`BLOG_TITULOS`, `BLOG_DESCRIPCIONES` y
+`KIT_DESCRIPCIONES` actualizados, para que ninguna run futura los revierta) +
+**55 ficheros derivados** con la cadena vieja reemplazada literalmente: las 6
+páginas tocadas (4-5 ocurrencias cada una: `<title>`, meta, og:*, JSON-LD
+`headline`/`description` y breadcrumb), el interlinking «Sigue leyendo» de otras
+40 páginas, `blog/index.html` (7), `index.html`, `feed.xml` (2), `llms.txt` y
+`llms-full.txt` (6 cada uno) y el generador
+`scripts/agregar-blog-generador-ruido.py` — **sin rehornear**.
+
+**Verificación:** 0 residuos de las 6 cadenas viejas (fuera de `notes/`); 72
+páginas con `<title>`, meta description, og:title, og:description y JSON-LD
+cuadrando con el JSON; `html.parser` sin errores; **segunda pasada de
+`analizar_paginas()` → 0 cambios** (idempotente); 52/52 títulos ≤72 chars y
+todas las descriptions en 90–155.
+
+- Gate: ✅ 0 errores (6 avisos preexistentes).

@@ -109,7 +109,7 @@ CUERPO = """
 
 ENTRADA = {
     "slug": SLUG,
-    "titulo": "Generador y ruido en la comunidad: qué dice la normativa y cuántos dB te toleran (2026)",
+    "titulo": "Generador y ruido en la comunidad: cuántos dB te toleran (2026)",
     "fecha": HOY,
     "lectura": "7 min",
     "resumen": "Límites de dB según la Ley 37/2003, el RD 1367/2007 y tu ordenanza municipal: cómo usar el generador sin multa y sin vecinos enfadados.",

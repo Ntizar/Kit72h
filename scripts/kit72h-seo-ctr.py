@@ -81,7 +81,7 @@ KIT_DESCRIPCIONES = {
     "kit-frio": "Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.",
     "kit-terremoto": "Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.",
     "kit-incendio": "Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.",
-    "kit-kit-profesional": "Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.",
+    "kit-kit-profesional": "Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para pasar un apagón largo sin cortes. Coste y montaje 2026.",
     "kit-comunicacion": "Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.",
     "kit-starlink": "Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.",
     "nevera-portatil-emergencia-72h":
@@ -147,6 +147,13 @@ BLOG_DESCRIPCIONES = {
         "Qué guardar en casa para un bebé cuando se va la luz o hay que evacuar: agua segura, fórmula, higiene sin agua, papeles y frío. Lista por bloques.",
     "panel-solar-portatil-72h-emergencia":
         "Panel solar portátil para emergencias: tipos, vatios reales y comparativa por escenario, con 5 errores que lo dejan inútil. Fuentes oficiales.",
+    # CTR 2026-10-14: descriptions por debajo de 120 chars → malgastaban snippet
+    "dana-apagon-primeros-30-minutos":
+        "Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan) para DANA o apagón.",
+    "como-montar-tu-kit-72h":
+        "Desde marzo de 2025 la UE recomienda 72 h de autonomía: agua, comida, luz y botiquín en una mochila por 100-150 €, paso a paso y sin gastar de más.",
+    "agua-cuanta-y-como":
+        "3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.",
 }
 
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"
@@ -182,6 +189,11 @@ BLOG_TITULOS = {
         "Starlink en un apagón: montarlo, alimentarlo y si merece la pena (2026)",
     "kit-emergencia-bebe-familia":
         "Kit de emergencia para bebé: qué llevar en casa por bloques (2026)",
+    # CTR 2026-10-14: los dos únicos títulos que Google truncaba (>80 chars)
+    "generador-ruido-normativa-comunidad":
+        "Generador y ruido en la comunidad: cuántos dB te toleran (2026)",
+    "mejor-sim-datos-emergencia-cobertura":
+        "Mejor SIM de datos de emergencia (2026): qué operadora te salva",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────

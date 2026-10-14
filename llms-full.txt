@@ -470,7 +470,7 @@ Kit electricidad: generador solar, baterías y powerbanks grandes para tener luz
 - Baterías AA y AAA alcalinas (paquete grande): El 90% de tus aparatos de emergencia van con pilas. Guarda 24 AA y 24 AAA mínimos. (~20-35 €)
 
 ### Kit Profesional: energía y autonomía total (2026) — https://kit72h.com/kit/kit-kit-profesional/
-Kit profesional: energía y autonomía total con paneles solares, baterías y Starlink 2026.
+Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para pasar un apagón largo sin cortes. Coste y montaje 2026.
 **Energía solar: el sol es tu generador**
 - Panel solar 400W monocristalino (×2 unidades): Panel de alta eficiencia (21%+), resistente a granizo y viento. 800 W totales producen ~4 kWh/día en zona de buena insolación. Los monocristalinos (PERC) rinden más en superficie limitada. (~400 € (x2))
 - Inversor híbrido 3000W-5000W: Convierte DC de paneles y baterías en AC 230V. Acepta entrada solar, red y baterías a la vez. Busca MPPT integrado y conmutación automática <5 ms. Marcas de referencia: Victron, Growatt, EcoFlow. (~600-900 €)
@@ -502,7 +502,7 @@ Kit profesional: energía y autonomía total con paneles solares, baterías y St
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Generador y ruido en la comunidad: qué dice la normativa y cuántos dB te toleran (2026) — https://kit72h.com/blog/generador-ruido-normativa-comunidad/
+### Generador y ruido en la comunidad: cuántos dB te toleran (2026) — https://kit72h.com/blog/generador-ruido-normativa-comunidad/
 Límites de dB según la Ley 37/2003, el RD 1367/2007 y tu ordenanza municipal: cómo usar el generador sin multa y sin vecinos enfadados.
 Un apagón de dos días, el generador que compraste «por si acaso» y, a las 23:40, un golpe en la puerta: el vecino no puede dormir. La respuesta a «¿y esto es legal?» no está en ningún foro: está en la Ley 37/2003 del Ruido , en la ordenanza de tu ayuntamiento y en la Ley de Propiedad Horizontal.
 
@@ -2042,7 +2042,7 @@ Imagina 3 días sin luz. Tu nevera se descongela, la comida se echa a perder y e
 
  Una nevera portátil es un lujo para emergencias, pero si vives en zona donde se va la luz a menudo, es una inversión que paga sola (evitas tirar comida cada 2-3 días).
 
-### Mejor SIM de datos de emergencia: qué operadora te salva cuando se va la luz (2026) — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
+### Mejor SIM de datos de emergencia (2026): qué operadora te salva — https://kit72h.com/blog/mejor-sim-datos-emergencia-cobertura/
 SIM de datos para emergencias: cómo elegir operadora, montar dos redes distintas y comprobar la cobertura antes de un apagón en España.
 Cuando se va la luz, lo primero que mucha gente comprueba no es el frigorífico: es si tiene línea. Un apagón largo, una dana o una tormenta fuerte dejan las torres de telefonía sin alimentación y entonces cada red muestra su verdadera cara. Este artículo no busca declarar una «mejor operadora» universal —eso no existe—, sino darte criterios para elegir la mejor SIM de datos para emergencias en España y, sobre todo, para no depender de una sola red.
 
@@ -4045,7 +4045,7 @@ Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa
  Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.
 
 ### DANA o apagón: qué hacer en los primeros 30 minutos (2026) — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
-Las primeras decisiones son las que importan. Una guía directa para no perder tiempo cuando pasa algo gordo.
+Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan) para DANA o apagón.
 En una emergencia, los primeros 30 minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Esta es la secuencia que enseñan Protección Civil y la propia UE, ordenada y sin florituras.
 
  Minuto 0-10: información y comunicación
@@ -4100,7 +4100,7 @@ El 28-A de 2025 quedó claro: cuando todo el mundo intenta llamar a la vez, la r
  La radio y los powerbank que sostienen esta comunicación están en el kit básico 72h y en el kit de apagón .
 
 ### Cómo montar tu kit de emergencia 72 horas paso a paso (2026) — https://kit72h.com/blog/como-montar-tu-kit-72h/
-La UE pide a cada hogar autonomía de 72 horas. Esto es lo que necesitas de verdad, sin dramas y sin gastar de más.
+Desde marzo de 2025 la UE recomienda 72 h de autonomía: agua, comida, luz y botiquín en una mochila por 100-150 €, paso a paso y sin gastar de más.
 Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomienda que todos los hogares tengan provisiones para 72 horas . No es paranoia: es lo mismo que Protección Civil lleva años diciendo sobre DANA, apagones y cortes de suministro. Un kit 72h bien montado son unos 100-150 € y cabe en una mochila.
 
  La regla de oro: agua primero
@@ -4212,7 +4212,7 @@ Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el d�
  Las cantidades por persona y periodo están calculadas en el kit 72h y en el kit de 30 días , con precios reales de Amazon para cada pack.
 
 ### Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla (2026) — https://kit72h.com/blog/agua-cuanta-y-como/
-3 litros por persona y día es la cifra oficial, pero ¿en qué? ¿Garrafas, bidones, pastillas o filtros? Lo resolvemos.
+3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.
 El agua es la prioridad número uno de cualquier kit de emergencia. Un ser humano aguanta semanas sin comida, pero pocos días sin agua — y en una situación de calor o esfuerzo, mucho menos.
 
  La cuenta
