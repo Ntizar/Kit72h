@@ -124,9 +124,17 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
     head.append('<meta property="og:type" content="website">')
     head.append(f'<meta property="og:url" content="{canonical}">')
     head.append('<meta property="og:site_name" content="Kit72h">')
-    head.append(f'<meta property="og:title" content="{escape(titulo or "Kit72h", quote=True)}">')
-    head.append(f'<meta property="og:description" content="{escape(desc or "", quote=True)}">')
-    head.append('<meta name="twitter:card" content="summary">')
+    head.append(f'<meta property="og:title" content="{escape(titulo or "Kit72h — Kits de emergencia 72 horas", quote=True)}">')
+    head.append(f'<meta property="og:description" content="{escape(desc or "Checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. Fuentes oficiales citadas.", quote=True)}">')
+    # OG image compartida (fix 2026-10-15: compartir en redes salia sin imagen)
+    head.append(f'<meta property="og:image" content="{BASE}/assets/og-kit72h.png">')
+    head.append('<meta property="og:image:width" content="1200">')
+    head.append('<meta property="og:image:height" content="630">')
+    head.append('<meta property="og:locale" content="es_ES">')
+    head.append('<meta name="twitter:card" content="summary_large_image">')
+    head.append(f'<meta name="twitter:image" content="{BASE}/assets/og-kit72h.png">')
+    # favicon inline (una sola definicion; quita el tag roto del shell si viniera)
+    head.append('<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 64 64\'%3E%3Crect width=\'64\' height=\'64\' fill=\'%23D14B27\'/%3E%3Ctext x=\'32\' y=\'42\' font-family=\'Arial Black,Arial\' font-size=\'26\' font-weight=\'900\' fill=\'%23F1EBDF\' text-anchor=\'middle\'%3E72%3C/text%3E%3C/svg%3E">')
     if ld:
         for bloque in ld:
             head.append(f'<script type="application/ld+json">\n{jsonld(bloque)}\n</script>')
@@ -191,7 +199,9 @@ def main():
                 canonical = BASE + ruta
                 if ctx is None:
                     if ruta == "/":
-                        html = inyectar(html, titulo="", desc="", canonical=BASE + "/",
+                        html = inyectar(html, titulo="Kit72h — 20 kits de emergencia 72h para España (UE + Protección Civil)",
+                                        desc="Checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. Fuentes oficiales citadas.",
+                                        canonical=BASE + "/",
                                         reemplazar_desc=False)
                         dest = RAIZ / "index.html"
                     elif ruta == "/fuentes/":
