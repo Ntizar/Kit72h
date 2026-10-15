@@ -2964,52 +2964,148 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.
 
-### Antenas externas para móvil: más cobertura en montaña (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
-Cómo instalar una antena externa para mejorar la cobertura móvil en zonas rurales y de montaña. Cuándo es necesario, qué comprar y cómo instalarlo.
-Si vives en una zona rural o de montaña donde la cobertura móvil es mala o irregular, una antena externa puede ser la solución. No es una solución para emergencias en sí (la antena necesita electricidad), pero sí para asegurar que tu comunicación funciona cuando más la necesitas.
+### Antena externa para móvil: cómo ganar cobertura en montaña y valle (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
+Guía práctica de antenas externas para móvil: cómo diagnosticar la señal, qué tipo compensa según el caso, cómo instalarla y qué errores evitar en montaña.
+Si vives o pasas temporadas en una zona de montaña, de valle profundo o en el campo, ya conoces el síntoma: una barra de señal, llamadas que se cortan y datos que no arrancan justo cuando más los necesitas. Una antena externa para el móvil no es un juguete tecnológico: es la manera más barata de convertir una cobertura precaria en una conexión estable en casa, en el refugio o en la segunda residencia. Esta guía explica qué falla, cómo diagnosticarlo en diez minutos, qué tipo de solución te conviene y cómo instalarla sin cometer los errores que dejan la mejora en nada.
 
 
- ¿Cuándo necesitas una antena externa?
+ Por qué la señal falla justo ahí
+
+
+ La cobertura móvil no es uniforme sobre el mapa: las antenas de las operadoras están pensadas para dar servicio a núcleos de población y a las vías de comunicación, y la orografía hace el resto. Un monte entre tú y la torre, un valle estrecho o un edificio con muros gruesos restan potencia a la señal que llega a tu aparato. El resultado es que dos casas a cien metros de distancia pueden vivir realidades distintas.
+
+
+ Los datos oficiales lo confirman. El Ministerio de Asuntos Económicos, Comercio y Empresa da una cobertura nacional de redes móviles de quinta generación (5G NSA+SA) del 99,27 % a 30 de junio de 2025, con un 98,10 % en modo standalone. Ese porcentaje es una media nacional : no te dice qué pasa en el patio de atrás de tu casa ni en la ladera norte. Por eso lo primero no es comprar, sino mirar el mapa oficial y luego medir en tu propio punto.
+
+
+ Y un matiz importante: una antena exterior no crea señal donde no la hay. Lo que hace es captar la que ya existe, más débil, y llevártela dentro con menos pérdidas. Si en tu ubicación ninguna operadora llega ni siquiera con una antena puesta en el tejado, la vía no es la antena, sino otra tecnología: satélite o radio. De ahí que convenga leer antes qué funciona cuando se cae el móvil y Starlink en una emergencia para no gastar en la solución equivocada.
+
+
+ Diagnóstico en 10 minutos antes de gastar dinero
+
 
  
- Tu móvil muestra 1-2 barras de señal constantemente
+ Consulta los mapas oficiales de cobertura de la CNMC y del Ministerio para tu dirección concreta: verás la cobertura de 4G y 5G por manzana y por operadora, y ahí empiezas a descartar.
 
- Las llamadas caen frecuentemente
+ Prueba varios puntos y varias ventanas : sube al piso alto, sal al jardín, acércate al lado opuesto del edificio. Anota dónde se comporta mejor el móvil; ese punto te dice por dónde debe entrar el cable.
 
- La internet móvil es lenta o no funciona
+ Cambia de operadora antes de culpar al aparato : con una segunda SIM de prepago (o con el móvil de un vecino) compruebas si el problema es tu red o es la ubicación.
 
- Vives en una zona de montaña o valle profundo
+ Prueba con otro dispositivo : un móvil viejo con antena deteriorada o una carcasa que bloquea simula mal cobertura. Si dos aparatos dan igual en el mismo sitio, el problema es de red.
 
- 
+ Mide antes y después : anota las barras o, mejor, el nivel de señal que muestra el propio teléfono en modo información de servicio. Sin medida de partida no sabrás si la antena ha servido de algo.
 
- Qué tipo de antena necesitas
-
- Antena GSM/4G exterior
-
- Es la que necesitas para mejorar la señal de tu móvil. Se instala fuera (ventana, pared, tejado) y conecta al móvil vía cable coaxial.
-
-
- Amplificador de señal (repetidor)
-
- Si la antena por sí sola no basta, un amplificador (como los de weBoost o Poynting) multiplica la señal. Son más caros (200-500€) pero efectivos.
-
-
- Instalación básica
-
- 
- Elige un punto alto y al exterior (tejado, pared orientada a la torre más cercana)
-
- Conecta el cable coaxial a la antena
-
- Lleva el cable dentro y conéctalo al móvil/router
-
- Prueba la mejora
+ Comprueba si el fallo es de datos o de voz : a veces las llamadas van y la navegación no (o al revés). La solución y el equipo adecuado no son los mismos.
 
  
 
- El veredicto
+ Qué tipo de solución necesitas
 
- Una antena externa de 30-50€ puede transformar tu experiencia de cobertura móvil. Si vives en zona rural, es una inversión de menos de 100€ que puede ser crucial en una emergencia.
+
+ No hay una antena universal: depende de la distancia a la torre, del número de usuarios y de si el problema está fuera o dentro de casa. Este es el mapa rápido de decisiones.
+
+
+ 
+ 
+ Solución Cuándo encaja Dónde se instala Coste orientativo 
+
+ 
+ 
+ Antena exterior omnidireccional Varias torres alrededor o torre no visible; uso doméstico sencillo Mástil o pared, lo más alto posible De unos 30 a 80 € 
+
+ Antena direccional (Yagi / panel) Torre concreta y conocida, a cierta distancia; mucha ganancia Apuntando a la torre, en tejado o balcón De unos 40 a 120 € 
+
+ Repetidor / amplificador de señal Señal débil pero existente en el exterior y muerta dentro del edificio Antena exterior + unidad interior + cable De unos 100 a 300 € 
+
+ Router 4G/5G con antenas externas Quieres internet en casa, no solo llamadas: varios dispositivos a la vez Sobre el router, antenas en exterior De unos 60 a 200 € 
+
+ Extensor WiFi interior La señal llega bien pero muere entre plantas o muros En el pasillo, entre el router y el hueco De unos 25 a 70 € 
+
+ 
+ 
+
+ Antena omnidireccional: la opción sencilla
+
+
+ Captura señal desde cualquier dirección, así que no hace falta apuntar a nada. Es la mejor opción si no sabes dónde está la torre más cercana o si tu zona cambia de operadora con frecuencia. Suele venir con mastilillo de ventanal y cable coaxial ya terminado. Búscala con una antena externa 4G/5G de alta ganancia .
+
+
+ Antena direccional: la que más rinde en zonas alejadas
+
+
+ Apunta a una torre concreta y concentra toda la ganancia en esa dirección. Rinde mucho más que la omnidireccional cuando la torre está lejos, pero exige orientación: unos grados de error se comen la mejora. Merece la pena si puedes ver la torre desde casa o localizarla en el mapa oficial.
+
+
+ Repetidor o amplificador: cuando el problema es el edificio
+
+
+ Si fuera hay señal y dentro no (muros de hormigón, ventanas con cámara metálica, sótanos), la antena sola no basta: necesitas una unidad que reciba fuera, amplifique y vuelva a emitir dentro. Es la solución típica de casas de piedra y edificios antiguos. Usa equipos con marcado CE y pensados para uso doméstico: un repetidor mal ajustado satura la celda de la torre y puede empeorar la red de todos los vecinos.
+
+
+ Router con antenas externas: si lo que quieres es internet
+
+
+ Si tu objetivo es llevar WiFi estable a varias habitaciones, a la caseta o al taller, el camino es un router 4G/5G que acepte antenas en el exterior (con conectores estándar) y, si viajas o cambias de sitio, con doble ranura SIM para poder saltar de operadora. En el mercado hay routers 4G/5G industriales con doble SIM y antenas externas pensados justo para esto; si el problema es solo WiFi dentro de casa, con un extensor WiFi de largo alcance con antena direccional suele bastar. Compara también los routers 4G de emergencia y revisa qué SIM de datos te salva antes de firmar nada.
+
+
+ Cómo instalarla: seis pasos
+
+
+ 
+ Elige el punto exterior : lo más alto y lo más despejado posible, idealmente con línea de visión hacia la torre y sin metal cerca ( canalones, persianas metálicas, toldos).
+
+ Orienta (si es direccional) : localiza la torre en el mapa oficial, alinea la antena y fija el mástil con holgura para poder corregir.
+
+ Pasa el cable con la menor longitud posible : cada metro de coaxial fino resta ganancia; si necesitas recorrido largo, usa coaxial de menor pérdida y evita codos innecesarios.
+
+ Sella la penetración : el agujero de la pared debe quedar sellado contra agua y humedad — en montaña, una gotera cara sale más que la propia antena.
+
+ Conecta a la unidad interior y alimenta (si es repetidor o router): deja la antena interior lejos de la exterior para evitar realimentación y bucle de ruido.
+
+ Mide otra vez y compara con tu nota del diagnóstico. Si la mejora es marginal, revisa orientación, conexiones y longitud de cable antes de dar la instalación por buena.
+
+ 
+
+ Cuatro errores que anulan la mejora
+
+
+ 
+ Antena tras un cristal con cámara metálica o persiana enrollable metálica : el blindaje corta la señal casi por completo. Si no puedes sacarla al exterior, no esperes milagros.
+
+ Cable barato y demasiado largo : es la causa número uno de instalaciones «que no funcionan». Compra coaxial adecuado y corta lo que sobre.
+
+ Amplificar ruido en lugar de señal : si fuera no hay nada que amplificar, el repetidor multiplica interferencias. Primero diagnóstico, después ganancia.
+
+ No medir antes y después : sin medida, la impresión subjetiva manda y acabas tirando una solución que quizá solo necesitaba dos grados de orientación.
+
+ 
+
+ Qué revisar antes de un aviso o de un apagón
+
+
+ La antena forma parte del mismo circuito que el resto de tu conectividad, y en una emergencia se caen a la vez varios eslabones. Antes de que llegue un temporal, una DANA o un corte programado, repasa la checklist de los primeros 30 minutos : comprueba que el router y el repetidor están protegidos por un protector de sobretensiones , ten a mano un powerbank cargado para el móvil y una radio de manivela con panel solar como vía de aviso cuando la red de datos se caiga del todo. Y si el escenario es pasar días sin servicio, monta el resto del circuito: kit de comunicación , kit Starlink y kit de montaña .
+
+
+ Recuerda además que la antena necesita electricidad: en un apagón prolongado, la red móvil cae antes de lo que la gente cree porque las baterías de respaldo de las torres no son infinitas. Esa es la razón por la que la cobertura no debería ser tu único canal — la radio PMR446 y la redundancia de conectividad existen para eso.
+
+
+ Veredicto
+
+
+ Una antena exterior bien elegida es de las mejoras con mejor relación coste-beneficio que puedes hacer en una casa de campo o de montaña: sin obras, sin cuota mensual y con un efecto inmediato sobre llamadas y datos. La regla es siempre la misma — mide primero, elige el tipo según dónde esté el problema (fuera, dentro o en el propio equipo), instala con cable corto y orientación correcta, y vuelve a medir. Y si el presupuesto no llega, empieza por lo gratuito: mapa oficial, cambio de ventana y segunda SIM para averiguar si te falta antena o te falta cobertura.
+
+
+ Fuentes oficiales
+
+
+ 
+ CNMC — Mapa de cobertura de fibra y móvil en España 
+
+ Ministerio — Mapas de servicios de banda ancha (incluye cobertura móvil 4G y 5G) 
+
+ Protección Civil y Emergencias (MITECO) 
+
+ AEMET — avisos meteorológicos
 
 ### Terremoto en España: qué hacer antes, durante y después (2026) — https://kit72h.com/blog/terremoto-espana-que-hacer/
 Qué hacer antes, durante y después de un terremoto en España: recomendaciones oficiales, datos del IGN y las lecciones de la serie de Granada.
