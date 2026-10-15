@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-14",
-    "total": 72,
-    "png_total": 72
+    "ultima_generacion": "2026-10-15",
+    "total": 73,
+    "png_total": 73
   },
   "pins": [
     {
@@ -652,6 +652,15 @@
       "emoji": "📖",
       "pin": "pin-blog-nevada-en-casa-que-necesito.html",
       "png": "png/pin-blog-nevada-en-casa-que-necesito.png"
+    },
+    {
+      "slug": "pin-blog-mejor-starlink-espana-precio",
+      "tipo": "blog",
+      "titulo": "Mejor Starlink en España: precio, planes y cuál elegir (2026)",
+      "url": "https://kit72h.com/blog/mejor-starlink-espana-precio/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-starlink-espana-precio.html",
+      "png": "png/pin-blog-mejor-starlink-espana-precio.png"
     }
   ]
 }
