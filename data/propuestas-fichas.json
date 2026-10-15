@@ -50,18 +50,18 @@
     "seccion": "Comunicación y compañía",
     "busqueda": "hoja de contactos en papel con letra grande",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
     "kit": "kit-mayores",
     "seccion": "Comunicación y compañía",
     "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-mayores|Juegos de naipes, libro de letra grande o rádio con altavoz": {
     "kit": "kit-mayores",
@@ -902,36 +902,36 @@
     "seccion": "Leche y comida de reserva",
     "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=ntizar-21",
     "rango_esperado": "10-18 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
     "kit": "kit-bebe",
     "seccion": "Higiene y pañales",
     "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=ntizar-21",
     "rango_esperado": "6-12 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
     "kit": "kit-bebe",
     "seccion": "Abrigo y sueño",
     "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=ntizar-21",
     "rango_esperado": "35-80 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
     "kit": "kit-bebe",
     "seccion": "Salud y calma",
     "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=ntizar-21",
     "rango_esperado": "5-10 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-mayores|Empapadores y pañales de incontinencia (pack para 3-5 días)": {
     "kit": "kit-mayores",
@@ -1418,9 +1418,9 @@
     "seccion": "Plan B: quién lo cuida si no puedes",
     "busqueda": "lista de residencias y hoteles que admiten animales",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-terremoto|Calzado cerrado y resistente junto a la cama": {
     "kit": "kit-terremoto",
@@ -1443,9 +1443,9 @@
     "seccion": "Botiquín, medicación y heridas",
     "busqueda": "medicación crónica   con copia de recetas",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-terremoto|Llave de corte para gas y agua (llave de cuadradillo o universal)": {
     "kit": "kit-terremoto",
@@ -1612,9 +1612,9 @@
     "seccion": "Animales y personas que no corren solos",
     "busqueda": "medicación crónica y lista de tratamientos",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-14",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-15",
+    "intentos": 2,
+    "estado": "sin candidato verificado (intento 2)"
   },
   "kit-comunicacion|Walkie-talkies PMR446 (pareja, recargables)": {
     "kit": "kit-comunicacion",
@@ -1925,9 +1925,9 @@
     "seccion": "Salud y papeles",
     "busqueda": "medicación crónica del animal",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-mascotas|Bandeja y arena para gato (o empapadores)": {
     "kit": "kit-mascotas",
@@ -1966,9 +1966,9 @@
     "seccion": "Plan B: quién lo cuida si no puedes",
     "busqueda": "acuerdo con una persona de confianza",
     "rango_esperado": "0 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-15",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-starlink|Router 4G/5G industrial con dual SIM y antenas externas": {
     "kit": "kit-starlink",
@@ -2169,5 +2169,21 @@
     "rango_esperado": "100-200 €",
     "fecha": "2026-10-11",
     "estado": "sin candidato verificado"
+  },
+  "kit-starlink|Cable extensor para Starlink (30 m / 60 m)": {
+    "kit": "kit-starlink",
+    "seccion": "Starlink: internet desde cualquier lugar",
+    "busqueda": "cable extensor para starlink",
+    "rango_esperado": "75-150 €",
+    "fecha": "2026-10-15",
+    "asin": "B0GWM8T485",
+    "titulo": "HanCenDa 2 en 1 para Starlink Mini Cable Ethernet 10 m/32.8 pies, para Starlink Mini Cable de Alimentación + Cable Ether",
+    "precio": 57.44,
+    "rating": 4.6,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0GWM8T485?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=cable+extensor+starlink+30m+60m&tag=ntizar-21"
   }
 }
