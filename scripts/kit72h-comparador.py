@@ -251,7 +251,7 @@ def generar_html(comp):
 <html lang="es"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(comp["titulo"])} — Kit72h</title>
+<title>{esc(comp["titulo"])}</title>
 <meta name="description" content="{esc(comp['resumen'] + ' Comparativa actualizada 2026. Guías basadas en fuentes oficiales.')}"  >
 <meta name="keywords" content="{meta_keywords}">
 <meta name="robots" content="index, follow">

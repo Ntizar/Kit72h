@@ -38,7 +38,7 @@ const ui = {
       const kit = state.kitPorSlug(slug);
       if (!kit) { location.hash = ''; return this.render(); }
       app.innerHTML = this.htmlKit(kit);
-      document.title = `${kit.titulo} — Kit72h`;
+      document.title = `${kit.titulo}`;
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
       document.title = 'Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más';
@@ -51,7 +51,7 @@ const ui = {
       const entrada = slug ? blog.porSlug(slug) : null;
       if (slug && !entrada) { location.hash = 'blog'; return this.render(); }
       app.innerHTML = entrada ? this.htmlEntrada(entrada) : this.htmlBlog();
-      document.title = entrada ? `${entrada.titulo} — Blog Kit72h` : 'Blog — Kit72h';
+      document.title = entrada ? entrada.titulo : 'Blog de preparación: guías de emergencia 2026 — Kit72h';
     } else {
       app.innerHTML = this.htmlHome();
       document.title = 'Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)';

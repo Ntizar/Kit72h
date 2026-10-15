@@ -197,6 +197,9 @@ BLOG_TITULOS = {
         "Generador y ruido en la comunidad: cuántos dB te toleran (2026)",
     "mejor-sim-datos-emergencia-cobertura":
         "Mejor SIM de datos de emergencia (2026): qué operadora te salva",
+    # CTR 2026-10-15: tenía 77 chars; el sufijo de marca ya no se añade al <title>
+    "nevera-portatil-emergencia-72h":
+        "Nevera portátil para emergencias: cuánto aguanta sin luz (2026)",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────

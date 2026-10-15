@@ -170,7 +170,7 @@ def generate_blog_index(new_data, css_version):
     html_parts.append('<html lang="es"><head>')
     html_parts.append('<meta charset="UTF-8">')
     html_parts.append('<meta name="viewport" content="width=device-width, initial-scale=1.0">')
-    html_parts.append('<title>Blog \u2014 Kit72h</title>')
+    html_parts.append('<title>Blog de preparación: guías de emergencia 2026 — Kit72h</title>')
     html_parts.append('<meta name="description" content="' + desc + '">')
     html_parts.append('<link rel="preconnect" href="https://fonts.googleapis.com">')
     html_parts.append('<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">')
