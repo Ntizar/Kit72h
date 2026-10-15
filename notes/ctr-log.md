@@ -6,6 +6,61 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-15 — 75 páginas: fin del sufijo de marca en `<title>` + 2 títulos
+
+**Orden aplicado:** el prerender ya había corrido a las 06:29 (lo lanzó antes que
+este cron la sesión de la feature OG-image) → optimización DESPUÉS, sin
+re-prerender encima. Previo: rebase de los 2 commits de `origin` (auto-content
+del jueves 06:00 + pins Pinterest) resolviendo a favor de nuestra versión
+horneada en los 5 posts que auto-content pisa (se quedan og:image + disclosure).
+`analizar_paginas()` sobre las reglas del script ya daba **0 cambios** (todo lo
+de las runs anteriores estaba aplicado); el trabajo real era otro:
+
+**El problema nuevo:** el `<title>` horneado añadía ` — Kit72h` / ` — Blog Kit72h`
+al título del JSON (cola de 10-14 chars). La medición de ayer «52/52 ≤72» era
+sobre el JSON *sin la cola*: con ella, **49 de 73 páginas se pasaban de 72**
+(47 posts + 2 kits; el peor, 91 chars) y Google truncaba el año y el gancho
+final del título. Además `feed.xml`/`llms.txt` ya publicaban el título *sin*
+cola → la página salía incoherente con el feed.
+
+### Títulos (75 páginas)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| 53 posts de blog | `<título JSON> — Blog Kit72h` (55-91) | `<título JSON>` (47-72) | la cola empujaba Google a cortar el `(2026)` final; ahora el `<title>` = el del feed = el JSON |
+| 20 kits | `<título JSON> — Kit72h` (64-74) | `<título JSON>` (54-64) | ídem; el `<title>` queda idéntico al H1 |
+| blog/index.html | Blog — Kit72h (13) | Blog de preparación: guías de emergencia 2026 — Kit72h (54) | keyword + año en el índice de sección |
+| nevera-portatil-emergencia-72h | Nevera portátil para emergencias: cuánto aguanta sin luz y cuál elegir (2026) (77) | …cuánto aguanta sin luz (2026) (63) | único >72 tras quitar la cola; hook de curiosidad intacto |
+| ej. mejor-purificador | Mejor purificador de agua para emergencias (2026): 7 filtros comparados — Blog Kit72h (85) | …comparados (71) | número + año enteros en el snippet |
+
+**Dónde viven los cambios (sobreviven al horneado):**
+- `js/ui.js` — `document.title` de kit/blog/índice: es lo que el prerender
+  vuelca al HTML, así que la próxima hornada lo REPRODUCE, no lo revierte.
+- `scripts/generar-blog-home.py` (plantilla del índice) y
+  `scripts/kit72h-comparador.py` (comparativas futuras) alineados.
+- `scripts/kit72h-seo-ctr.py` → `BLOG_TITULOS` fija el título nuevo de la nevera.
+- Sustitución literal SIN rehornear en los 75 HTML + `data/blog.json` +
+  `feed.xml` + `llms.txt` + `llms-full.txt`.
+- **`ui.js?v` 20261008a → 20261015a en las 77 páginas publicadas** (solo se
+  tocó ui.js; `styles.css` y `main.js` intactos, sin bump).
+- **`og:title` MANTIENE la cola** (`scripts/prerender.py`): en tarjetas
+  sociales la marca ayuda y ese fichero pertenecía a otra sesión; cosmético,
+  no afecta al SERP.
+
+**Verificación (receipts):**
+- `analizar_paginas()` 2ª pasada → **0 cambios** (idempotente).
+- Gate: ✅ **0 errores** (6 avisos preexistentes), antes y después de commitear.
+- 0 residuos de la cadena vieja (fuera de `notes/`), 0 `<title>` con cola en
+  kit/posts, 0 títulos JSON >72, `html.parser` sin rotos, `ui.js?v` única 77/77.
+- Commits: `a84b5c3` (feature OG-image ajena, commiteada por el cron ofertas
+  cuando su sesión murió sin commitear; la subí yo tras el rebase) +
+  **`72b6a13`** (este cambio). Actions de ambos: `conclusion: success`.
+- En vivo: `/kit/kit-basico-72h/` → `<title>Kit 72h Básico: 16 esenciales de la UE (2026)</title>`,
+  `/blog/nevera-portatil-emergencia-72h/` → título nuevo, `/blog/` → título de
+  índice nuevo, `js/ui.js?v=20261015a` → 200, `assets/og-kit72h.png` → 200.
+
+---
+
 ## 2026-10-11 — 12 mejoras (6 títulos + 6 descriptions)
 
 **Orden aplicado:** prerender PRIMERO → optimización DESPUÉS → commitear solo lo
