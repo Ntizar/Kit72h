@@ -242,8 +242,8 @@ ARTICLES = [
 <li><strong>Antiséptico en monodosis (10 unidades)</strong>: Clorhexidina o povidona yodada. Sin alcohol.</li>
 <li><strong>Tijeras de punta roma</strong>: Para cortar vendas o ropa si es necesario.</li>
 <li><strong>Pinzas</strong>: Para sacar astillas o escombros de una herida.</li>
-<li><strong>Paracetamol (500mg y 1g)</strong>: Dolor y fiebre. El más seguro, sin contraindicaciones mayores.</li>
-<li><strong>Antiinflamatorio (ibuprofeno 600mg)</strong>: Inflamación y dolor más intenso. Con comida siempre.</li>
+<li><strong>Paracetamol (500mg y 1g)</strong>: Dolor y fiebre. Sigue siempre el prospecto y no lo combines con otros medicamentos sin revisar su ficha técnica.</li>
+<li><strong>Antiinflamatorio (ibuprofeno 400mg)</strong>: Inflamación y dolor. No es apto para todo el mundo: alergias, problemas de estómago, riñón o corazón lo contraindican. Revisa su ficha técnica (AEMPS) y confírmalo con un profesional sanitario.</li>
 <li><strong>Antihistamínico (loratadina o cetirizina)</strong>: Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.</li>
 <li><strong>Antidiarreico (oralit + loperamida)</strong>: La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).</li>
 <li><strong>Antitermos (paracetamol infantil)</strong>: Si hay niños en casa.</li>
@@ -252,6 +252,8 @@ ARTICLES = [
 <li><strong>Crema para quemaduras</strong>: Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.</li>
 <li><strong>Lista médica de la familia</strong>: Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.</li>
 </ol>
+
+<p><em>Importante: esta lista es orientativa, no un consejo médico. Antes de tomar cualquier medicamento, lee el prospecto y su ficha técnica (disponible en la web de la AEMPS) y, si tienes dudas —embarazo, niños, enfermedades crónicas u otros medicamentos—, consulta a un profesional sanitario o farmacéutico.</em></p>
 
 <h2>Adaptaciones por situación</h2>
 <p><strong>Con bebés:</strong> añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.</p>

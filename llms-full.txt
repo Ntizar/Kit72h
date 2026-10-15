@@ -1752,9 +1752,9 @@ La salud es el segundo bloque del kit 72h (después del agua) y el que más vari
 
  Pinzas : Para sacar astillas o escombros de una herida.
 
- Paracetamol (500mg y 1g) : Dolor y fiebre. El más seguro, sin contraindicaciones mayores.
+ Paracetamol (500mg y 1g) : Dolor y fiebre. Sigue siempre el prospecto y no lo combines con otros medicamentos sin revisar su ficha técnica.
 
- Antiinflamatorio (ibuprofeno 600mg) : Inflamación y dolor más intenso. Con comida siempre.
+ Antiinflamatorio (ibuprofeno 400mg) : Inflamación y dolor. No es apto para todo el mundo: alergias, problemas de estómago, riñón o corazón lo contraindican. Revisa su ficha técnica (AEMPS) y confírmalo con un profesional sanitario.
 
  Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
 
@@ -1772,13 +1772,16 @@ La salud es el segundo bloque del kit 72h (después del agua) y el que más vari
 
  
 
+ Importante: esta lista es orientativa, no un consejo médico. Antes de tomar cualquier medicamento, lee el prospecto y su ficha técnica (disponible en la web de la AEMPS) y, si tienes dudas —embarazo, niños, enfermedades crónicas u otros medicamentos—, consulta a un profesional sanitario o farmacéutico. 
+
+
  Adaptaciones por situación
 
  Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
 
  Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
 
- Con mascotas: : Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
+ Con mascotas: Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
 
 
  El veredicto

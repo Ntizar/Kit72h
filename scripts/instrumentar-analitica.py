@@ -21,7 +21,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 VER = "20261012a"
 MARCA = "/js/analiticas.js"
-CSS_VER = "20261012b"          # versión de caché de /css/styles.css
+CSS_VER = "20261015b"          # versión de caché de /css/styles.css
 RUTA_PANEL = "/analiticas/"    # enlace discreto del pie al panel privado
 EXCLUIDOS = {".git", "node_modules", "pintout", "sketches", "__pycache__",
              "analiticas"}  # analiticas/ es nuestro panel: no se mide a sí mismo

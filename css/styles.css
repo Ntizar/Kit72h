@@ -615,6 +615,21 @@ a.card-kit{color:inherit;text-decoration:none}
 .cuerpo-blog tbody tr:nth-child(even){background:#e8e0cf}
 .tabla-scroll:has(table){position:relative}
 
+/* Móvil: la tabla se aprieta al ancho real (scroll solo si de verdad no cabe).
+   El min-width:520px fijo cortaba columnas fuera de pantalla en 375px. */
+@media(max-width:640px){
+  .cuerpo-blog table{min-width:0;font-size:12px}
+  .cuerpo-blog th,.cuerpo-blog td{padding:6px 7px}
+  .cuerpo-blog td{overflow-wrap:anywhere}
+  .tabla-scroll{border-left:3px solid var(--ambar);border-right:3px solid var(--ambar)}
+}
+
+/* PC: el cuerpo del artículo aprovecha el ancho del contenedor (preferencia
+   explícita: nada de columna ~550px con medio contenedor vacío) */
+@media(min-width:900px){
+  .entrada-blog .cuerpo-blog{max-width:none;font-size:15px}
+}
+
 @media(max-width:640px){.tagline{display:none}.hero-arte{height:min(240px,34vh)}}
 
 /* --- Tu zona: mapa de recursos (Leaflet + IGN + OpenStreetMap) --- */
