@@ -46,7 +46,7 @@
 | mejor purificador de agua emergencia | baja | compra | /blog/mejor-purificador-agua-emergencia/ | ✅ hecha (2026-10-09) | P2 |
 | mejores conservas larga duración | media | compra | /blog/mejores-conservas-larga-duracion/ | ✅ hecha (2026-10-10) | P2 |
 | mejor estufa sin luz | media | compra | /blog/mejor-estufa-sin-luz-apagon/ | ✅ hecha (2026-10-08) | P2 |
-| mejor Starlink España precio | media | compra | banner Starlink home | parcial | P2 |
+| mejor Starlink España precio | media | compra | /blog/mejor-starlink-espana-precio/ (+ banner home) | ✅ hecha (2026-10-15) | P2 |
 | comparativa generador vs power station | baja | compra | /blog/generador-vs-power-station-comparativa/ | ✅ hecha (2026-10-12) | P3 |
 
 ### Cluster D — normativa y autoridad (Google premia a quien la cita)

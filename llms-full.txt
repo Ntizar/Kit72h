@@ -502,6 +502,128 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor Starlink en España: precio, planes y cuál elegir (2026) — https://kit72h.com/blog/mejor-starlink-espana-precio/
+Starlink en España 2026: los tres planes residenciales con precio oficial, el alquiler del kit de 10 €/mes, Itinerante y cuál te conviene.
+Casi todas las preguntas sobre Starlink que llegan a este blog empiezan igual: ¿cuánto cuesta de verdad y qué plan me hace falta? En 2026 cambió dos veces: en marzo Starlink pasó de dos planes a tres, y en junio añadió 10 €/mes por el alquiler del kit a las nuevas altas. Aquí van los precios oficiales del día, la comparativa y el veredicto por caso.
+
+
+ No es un producto de nicho: según el tráfico de red, Starlink ya sería la sexta operadora de España, con más de medio millón de usuarios , y en el apagón del 28 de abril de 2025 la satélite fue de las pocas que siguieron funcionando. Ese es el argumento de este sitio: que la conexión no desaparezca justo cuando la necesitas. Las lecciones de aquel día, en el apagón del 28 de abril ; el equipo, en el kit de Starlink .
+
+
+ 1. Los cinco planes de Starlink en España, comparados
+
+
+ Starlink vende en España dos familias: Residencial (vivienda fija) e Itinerante (autocaravanas, veleros, uso en movimiento). Todos incluyen datos ilimitados y 30 días de prueba con devolución completa. Los precios son los de la web oficial de Starlink para España:
+
+
+ 
+ Plan Precio/mes Descarga Prioridad Para quién 
+ 
+ 
+ Residencial 100 35 € hasta 100 Mb/s (limitados) No Piso pequeño, segunda vivienda, uso básico 
+
+ Residencial 200 45 € hasta 200 Mb/s No Familia con teletrabajo y varios dispositivos 
+
+ Residencial Max 65 € más de 400 Mb/s Sí, la máxima Casa grande, red mallada, muchas pantallas 
+
+ Itinerante 100 GB 45 € 100 GB rápidos y luego a baja velocidad No Autocaravana o velero con uso puntual 
+
+ Itinerante ilimitada 95 € ilimitada en movimiento No Vida nómada, trabajo desde cualquier sitio 
+
+ 
+ 
+
+ Ganadores por categoría: el Residencial 200 (45 €) es el punto dulce: dobla la velocidad del básico sin pagar la prioridad del Max. Para un piso pequeño o segunda residencia, el Residencial 100 (35 €) sobra. El Max (65 €) solo compensa con varios conectados a la vez o prioridad real en horas punta. Para la furgoneta, el Itinerante de 100 GB (45 €) con Modo de espera.
+
+
+ Un aviso: Starlink reajusta tarifas con frecuencia (en 2026, dos veces). Mira el precio en la contratación en la web oficial de planes , no el de un artículo de hace seis meses.
+
+
+ 2. El equipo: desde junio de 2026 se alquila, no se compra
+
+
+ Lo que más gente se salta: desde junio de 2026, las nuevas altas pagan además 10 €/mes por el kit (antena y router):
+
+
+ 
+ Residencial 100: 45 €/mes reales (35 de tarifa + 10 de kit).
+
+ Residencial 200: 55 €/mes reales (45 + 10).
+
+ Residencial Max: 75 €/mes reales (65 + 10).
+
+ Los 10 € son 120 € al año, y el equipo no es tuyo : si te das de baja, se devuelve.
+
+ 
+
+ Dos matices: a menudo aparece un «ajuste del alquiler» que deja esos 10 € en 0, así que cuenta el precio de la contratación, no el de la tabla; y la instalación profesional es opcional, desde unos 172 € , solo para tejados complicados (la app te dice dónde apuntar; la básica la monta cualquiera).
+
+
+ Si eliges una sola cosa, el Starlink Mini : cabe en una mochila, router integrado, alimentación de CC directa y pasa de 200 Mb/s. Es el que tiene sentido en un kit de emergencia; aquí puedes ver accesorios y soportes para Starlink Mini ↗ .
+
+
+ 3. ¿Merece la pena en tu caso? Sí si…, no si…
+
+
+ Merece la pena cuando: no llega la fibra o llega a 20 Mb/s de verdad; el 5G fijo se cae por la noche; vives en un pueblo o una casa de montaña aislada; o es una segunda residencia de uso por semanas (con el Modo de espera a unos 10 €/mes en vez de pagar la tarifa completa todo el año).
+
+
+ No merece la pena cuando: tienes fibra estable y barata; cuando necesitas internet en cualquier punto del país y no en una dirección (para eso sirven los datos móviles); o si no quieres cuota mensual, porque la parte grande del coste es la de cada mes.
+
+
+ Y el punto que casi nadie calcula antes: la energía . Una terminal consume 60-75 W en activo y 20-40 W en reposo , así que sin luz hay que alimentarla: con una estación de energía portátil ↗ , con un panel solar plegable que recupera por el día o, si es instalación fija, con el SAI del router . Un powerbank de 20.000 mAh se queda corto para la antena. Cuántos vatios de verdad: panel solar portátil para 72 horas y generador frente a power station .
+
+
+ Hace falta además cielo despejado : un árbol o un tejado mal orientado estropean la conexión como un apagón. Si la antena no ve el cielo, Starlink no es tu solución: mira antes el mejor router 4G de emergencia .
+
+
+ 4. Alternativas más baratas antes de pagar 45 € al mes
+
+
+ 
+ Opción Cuándo gana Coste típico 
+ 
+ 
+ Router 4G/5G con SIM de datos ↗ Hay cobertura móvil en tu calle y no necesitas más de 100 GB Equipo 0-100 € + 15-40 €/mes 
+
+ eSIM / segunda SIM de datos Para salir del pueblo o el segundo dispositivo de la familia 0-20 € + franja de datos 
+
+ Starlink Residencial 100 No hay cobertura móvil fiable y necesitas ancho de banda real 35 €/mes (+ kit) 
+
+ Mensajería satelital y GPS Solo avisos y localización sin cobertura: poco tráfico, mucha autonomía Equipo + cuota anual 
+
+ Walkie-talkies PMR446 ↗ Comunicación interna del grupo sin ninguna red disponible 40-80 € el par 
+
+ 
+ 
+
+ La comparativa completa: conectividad de emergencia , mejor SIM de datos y comunicar sin red móvil . La regla: capas — móvil para el día a día, router o Starlink para la casa, satélite o radio cuando todo lo demás se cae.
+
+
+ 5. Los cinco errores que más se repiten al contratar
+
+
+ 
+ Contratar el Max por costumbre. La prioridad solo se nota en horas punta; para una casa normal, el Residencial 200 rinde igual 30 €/mes más barato.
+
+ Leer solo la tarifa. El precio real es tarifa + alquiler: 45, 55 o 75 € al mes. Mira siempre el total del primer recibo.
+
+ Instalarlo sin comprobar el cielo. La app tiene un mapa de obstrucciones: úsalo ANTES de pagar y de taladrar el tejado.
+
+ Dejar la prueba para el apagón. Tienes 30 días de devolución: pruébalo un día normal, con lluvia y con la tele puesta.
+
+ Olvidar de dónde saldrá la energía. Sin enchufe, Starlink es un plato de metal: primero la fuente de energía y la batería que la sostiene .
+
+ 
+
+ 6. Por dónde empezar hoy
+
+
+ Si la decisión es «sí, lo quiero», ve a la web oficial de contratación , comprueba tu dirección en el mapa de cobertura y decide entre el 100 y el 200. La instalación paso a paso, en Starlink en un apagón .
+
+
+ Para el plan completo, el kit de Starlink recoge la selección, la lista de un apagón cubre el resto de la casa y el método, en cómo montar tu kit de 72 horas . Pruébalo una tarde: el día que haga falta, importará que ya lo habías probado.
+
 ### Generador y ruido en la comunidad: cuántos dB te toleran (2026) — https://kit72h.com/blog/generador-ruido-normativa-comunidad/
 Límites de dB según la Ley 37/2003, el RD 1367/2007 y tu ordenanza municipal: cómo usar el generador sin multa y sin vecinos enfadados.
 Un apagón de dos días, el generador que compraste «por si acaso» y, a las 23:40, un golpe en la puerta: el vecino no puede dormir. La respuesta a «¿y esto es legal?» no está en ningún foro: está en la Ley 37/2003 del Ruido , en la ordenanza de tu ayuntamiento y en la Ley de Propiedad Horizontal.

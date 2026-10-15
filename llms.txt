@@ -35,6 +35,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Mejor Starlink en España: precio, planes y cuál elegir (2026)](https://kit72h.com/blog/mejor-starlink-espana-precio/): Starlink en España 2026: los tres planes residenciales con precio oficial, el alquiler del kit de 10 €/mes, Itinerante y cuál te conviene.
 - [Generador y ruido en la comunidad: cuántos dB te toleran (2026)](https://kit72h.com/blog/generador-ruido-normativa-comunidad/): Límites de dB según la Ley 37/2003, el RD 1367/2007 y tu ordenanza municipal: cómo usar el generador sin multa y sin vecinos enfadados.
 - [Nevada en casa: 8 claves para aguantar los días sin luz (2026)](https://kit72h.com/blog/nevada-en-casa-que-necesito/): Qué necesitas cuando avisan nevada: calefacción segura, agua, comida, luz, coche con cadenas y los errores que enseñó Filomena, con fuentes oficiales.
 - [Generador vs power station: comparativa 2026 para el apagón](https://kit72h.com/blog/generador-vs-power-station-comparativa/): ¿Generador o power station? Comparamos potencia, autonomía, ruido, coste por hora y normativa para aguantar un apagón en España.
