@@ -23,6 +23,8 @@ from pathlib import Path
 
 REPO = Path.home() / "Projects" / "kit72h"   # sin ruta personal en el repo
 PY = sys.executable
+os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main por diseño (exención auditable)
+
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 # ficheros de datos que justifican el commit

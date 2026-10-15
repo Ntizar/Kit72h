@@ -18,6 +18,9 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[1]
 PLAN = REPO / "notes" / "plan-crecimiento"
 ENTRADA = PLAN / "_entrada.json"
+import os
+os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main por diseño (exención auditable)
+
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 # SOLO estos paths: nunca `git add -A` (arrastraría cambios ajenos del árbol).
 # OJO: incluir TODO lo que reescribe el horneado (kit/fuentes/zona/index/sitemap…)

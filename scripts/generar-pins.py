@@ -22,6 +22,8 @@ PINTOUT_DIR = RAIZ / "pintout"
 PNG_DIR = PINTOUT_DIR / "png"
 PINTOUT_DIR.mkdir(exist_ok=True)
 PNG_DIR.mkdir(exist_ok=True)
+os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main por diseño (exención auditable)
+
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 
