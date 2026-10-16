@@ -157,6 +157,9 @@ BLOG_DESCRIPCIONES = {
         "Desde marzo de 2025 la UE recomienda 72 h de autonomía: agua, comida, luz y botiquín en una mochila por 100-150 €, paso a paso y sin gastar de más.",
     "agua-cuanta-y-como":
         "3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.",
+    # CTR 2026-10-16: 157 chars → el snippet cortaba a media palabra; quita «orientativo»
+    "mejor-detector-monoxido-carbono":
+        "Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio, dónde colocarlo y qué hacer si suena la alarma.",
 }
 
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"
@@ -200,6 +203,11 @@ BLOG_TITULOS = {
     # CTR 2026-10-15: tenía 77 chars; el sufijo de marca ya no se añade al <title>
     "nevera-portatil-emergencia-72h":
         "Nevera portátil para emergencias: cuánto aguanta sin luz (2026)",
+    # CTR 2026-10-16: los dos títulos que aún superaban 72 chars
+    "mejor-detector-monoxido-carbono":
+        "Mejor detector de monóxido de carbono: 6 tipos comparados (2026)",
+    "antena-externa-movil-cobertura-montana":
+        "Antena externa para móvil: cobertura real en montaña y valle (2026)",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────

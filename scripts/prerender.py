@@ -116,6 +116,11 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
     head.append(f'<link rel="canonical" href="{canonical}">')
     html = re.sub(r'<meta property="og:[^"]*" content="[^"]*">\s*', '', html)
     html = re.sub(r'<meta name="twitter:card" content="[^"]*">\s*', '', html)
+    # twitter:image y el favicon inline NO cubren los re.sub de arriba: sin
+    # esto cada horneado AÑADÍA otra copia (vistas duplicadas en 78 páginas
+    # el 2026-10-16). Se quitan antes de reponer, igual que og:*.
+    html = re.sub(r'<meta name="twitter:image" content="[^"]*">\s*', '', html)
+    html = re.sub(r'<link rel="icon" href="data:image/svg[^"]*">\s*', '', html)
     # JSON-LD inyectado en runs previos: quitar y reponer (los del shell: WebSite/FAQ/ItemList, se quedan)
     html = re.sub(
         r'<script type="application/ld\+json">\s*\{[\s\S]{0,3000}?"@type":\s*'

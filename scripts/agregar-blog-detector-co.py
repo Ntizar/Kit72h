@@ -103,10 +103,10 @@ CUERPO = """
 
 ENTRADA = {
     "slug": SLUG,
-    "titulo": "Mejor detector de monóxido de carbono para casa (2026): 6 tipos comparados y la norma que los valida",
+    "titulo": "Mejor detector de monóxido de carbono: 6 tipos comparados (2026)",
     "fecha": HOY,
     "lectura": "8 min",
-    "resumen": "Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio orientativo, dónde colocarlo y qué hacer si suena la alarma.",
+    "resumen": "Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio, dónde colocarlo y qué hacer si suena la alarma.",
     "autor": "Redacción Kit72h",
     "fuente": [
         {"nombre": "Ministerio de Sanidad — Plan Nacional de actuaciones preventivas por bajas temperaturas 2025-2026 (PDF)",

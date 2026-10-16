@@ -502,8 +502,8 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Mejor detector de monóxido de carbono para casa (2026): 6 tipos comparados y la norma que los valida — https://kit72h.com/blog/mejor-detector-monoxido-carbono/
-Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio orientativo, dónde colocarlo y qué hacer si suena la alarma.
+### Mejor detector de monóxido de carbono: 6 tipos comparados (2026) — https://kit72h.com/blog/mejor-detector-monoxido-carbono/
+Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio, dónde colocarlo y qué hacer si suena la alarma.
 Baja el frío, enciendes la estufa, cierras la habitación para que el calor no se escape y te quedas dormido. Ese escenario —casero, cotidiano, de cualquier invierno en España— es el que más veces termina en urgencias: el monóxido de carbono es incoloro, inodoro e insípido, no te avisa y el cuerpo tampoco. El detector de CO es el aparato más barato de toda la casa que decide si te despiertas a tiempo. Cuesta menos que una cena y no necesita instalación, ni electricidad, ni app.
 
 
@@ -3092,7 +3092,7 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  Cada capa es un sistema independiente. Si una falla, las otras dos siguen funcionando.
 
-### Antena externa para móvil: cómo ganar cobertura en montaña y valle (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
+### Antena externa para móvil: cobertura real en montaña y valle (2026) — https://kit72h.com/blog/antena-externa-movil-cobertura-montana/
 Guía práctica de antenas externas para móvil: cómo diagnosticar la señal, qué tipo compensa según el caso, cómo instalarla y qué errores evitar en montaña.
 Si vives o pasas temporadas en una zona de montaña, de valle profundo o en el campo, ya conoces el síntoma: una barra de señal, llamadas que se cortan y datos que no arrancan justo cuando más los necesitas. Una antena externa para el móvil no es un juguete tecnológico: es la manera más barata de convertir una cobertura precaria en una conexión estable en casa, en el refugio o en la segunda residencia. Esta guía explica qué falla, cómo diagnosticarlo en diez minutos, qué tipo de solución te conviene y cómo instalarla sin cometer los errores que dejan la mejora en nada.
 
