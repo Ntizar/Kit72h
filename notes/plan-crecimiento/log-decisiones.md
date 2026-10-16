@@ -15,3 +15,4 @@
 | 2026-10-13 | mejor-sim-datos-emergencia-cobertura | revamp | encolado | Revamp stub 163w → 1.484 palabras (9,1x) con _mejora:true: tabla tipos de SIM, regla de dos redes, checklist pre-aviso, 12 internos, 3 afiliados tag=ntizar-21,  |
 | 2026-10-14 | nevera-portatil-emergencia-72h | revamp | encolado | Revamp stub 200w → 1.411 palabras (7x) con _mejora:true y fecha 2026-10-01 conservada: tabla 3 tipos, regla 4h AESAN, checklist, 13 internos y 4 afiliados. |
 | 2026-10-15 | antena-externa-movil-cobertura-montana | revamp | encolado | Revamp stub 211w → 1.673 palabras (7,9x) con _mejora:true y fecha 2026-10-01 conservada: tabla 5 soluciones, diagnóstico 10 min, 6 pasos de instalación, 10 inte |
+| 2026-10-16 | coche-kit-emergencia-2026 | revamp | encolado | Revamp stub 245w → 1.479 palabras (6x) con _mejora:true, 6 afiliados kit-coche y 3 fuentes DGT/MITECO/CruzRoja; estacionalidad DANA mes 10 |
