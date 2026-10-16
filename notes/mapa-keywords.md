@@ -48,6 +48,7 @@
 | mejor estufa sin luz | media | compra | /blog/mejor-estufa-sin-luz-apagon/ | ✅ hecha (2026-10-08) | P2 |
 | mejor Starlink España precio | media | compra | /blog/mejor-starlink-espana-precio/ (+ banner home) | ✅ hecha (2026-10-15) | P2 |
 | comparativa generador vs power station | baja | compra | /blog/generador-vs-power-station-comparativa/ | ✅ hecha (2026-10-12) | P3 |
+| mejor detector de monóxido de carbono | media | compra | /blog/mejor-detector-monoxido-carbono/ | ✅ hecha (2026-10-16) | P2 |
 
 ### Cluster D — normativa y autoridad (Google premia a quien la cita)
 | Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |
