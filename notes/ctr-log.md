@@ -6,6 +6,54 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-16 — los 2 últimos títulos >72 + la description cortada del post de CO
+
+**Orden aplicado:** prerender PRIMERO (horneado Playwright completo, 06:43-06:48,
+0 páginas a 0 bytes) → optimización DESPUÉS → commit solo de lo optimizado, sin
+re-hornear encima. `analizar_paginas()` aplicó 3 mejoras; segunda pasada → 0
+(idempotente); gate 0 errores (6 avisos preexistentes).
+
+**Hallazgo del prerender:** el horneado ya NO era idempotente — `inyectar()`
+añadía `twitter:image` + favicon inline SIN quitar los existentes (bug del
+commit de ofertas `a84b5c3`): salían 78 páginas con las 2 etiquetas duplicadas
+(+2 líneas cada una). Se revirtió ese horneado y se arregló `inyectar()`
+(`re.sub` previo, igual que con `og:*`, en `scripts/prerender.py`) → la próxima
+horneda vuelve a ser cirugía cero.
+
+**Atención:** el commit de esta run lo barrió el cron `kit72h-ofertas` a las
+07:00:53 (`d4d3e92`, «cambios automáticos») mientras esta sesión tenía los
+cambios sin commitear (pitfall conocido). El contenido es 100% el de esta
+optimización (28 ficheros) y la CI acabó en `success`.
+
+### Títulos (2 posts)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/mejor-detector-monoxido-carbono | Mejor detector de monóxido de carbono para casa (2026): 6 tipos comparados y la norma que los valida (100) | Mejor detector de monóxido de carbono: 6 tipos comparados (2026) (64) | el título más largo del sitio: Google cortaba a media frase; keyword + número + año enteros |
+| blog/antena-externa-movil-cobertura-montana | Antena externa para móvil: cómo ganar cobertura en montaña y valle (2026) (73) | Antena externa para móvil: cobertura real en montaña y valle (2026) (67) | el único otro >72; «cobertura real» (beneficio) en vez de «cómo ganar» |
+
+### Descriptions (1)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/mejor-detector-monoxido-carbono | …6 tipos comparados con precio orientativo, dónde colocarlo y qué hacer si suena la alarma. (157) | …6 tipos comparados con precio, dónde colocarlo y qué hacer si suena la alarma. (145) | 157 > 155: el snippet cortaba a media palabra; se quita solo «orientativo» |
+
+**Dónde viven los cambios:** `scripts/kit72h-seo-ctr.py` (`BLOG_TITULOS` +
+`BLOG_DESCRIPCIONES`, para que ninguna run futura los revierta) + `data/blog.json`
++ **25 ficheros derivados** con las cadenas viejas reemplazadas literalmente (las
+2 páginas tocadas — `<title>`, meta, og:*, JSON-LD, breadcrumb —, el listado de
+`blog/index.html`, el interlinking de 10 páginas más, `feed.xml`, `index.html`,
+`llms.txt`, `llms-full.txt` y `scripts/agregar-blog-detector-co.py`) — **sin
+rehornear**.
+
+**Verificación:** 0 residuos de las 3 cadenas viejas (fuera de `notes/`); parser
+HTML sin errores; longitudes 64/67 (títulos) y 145 (description); segunda pasada
+de `analizar_paginas()` → 0 cambios; gate ✅ 0 errores; CI `Deploy GitHub Pages`
+de `d4d3e92` → `success`; producción comprobada con curl (título y description
+nuevos en las 2 páginas; `tag=ntizar-21` intacto).
+
+---
+
 ## 2026-10-15 — 75 páginas: fin del sufijo de marca en `<title>` + 2 títulos
 
 **Orden aplicado:** el prerender ya había corrido a las 06:29 (lo lanzó antes que
