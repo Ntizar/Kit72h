@@ -124,7 +124,18 @@
     "Acumuladores de frío congelables (pack de 6)",
     "Router 4G/5G industrial con dual SIM y antenas externas",
     "Forro polar o jersey de lana",
-    "Cable extensor para Starlink (30 m / 60 m)"
+    "Cable extensor para Starlink (30 m / 60 m)",
+    "Baterías AA y AAA alcalinas (paquete grande)",
+    "Panel solar 400W monocristalino (×2 unidades)",
+    "Inversor híbrido 3000W-5000W",
+    "Regulador de carga MPPT 60A",
+    "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
+    "Batería litio LFP 200Ah (48V) — 9,6 kWh",
+    "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
+    "Caja de fusibles y distribución DC para baterías",
+    "SAI (UPS) 3000VA-5000VA online doble conversión",
+    "SAI 1500VA online (equipos críticos individuales)",
+    "Generador inverter 2000-3000W (gasolina o gas)"
   ],
   "na": [
     "Paracetamol e ibuprofeno (caducidad larga)",
@@ -196,6 +207,11 @@
       "n": 2,
       "primera": "2026-10-14",
       "ultima": "2026-10-15"
+    },
+    "kit-starlink|Antena externa 4G/5G de alta ganancia": {
+      "n": 1,
+      "primera": "2026-10-16",
+      "ultima": "2026-10-16"
     }
   }
 }
