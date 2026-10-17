@@ -144,7 +144,7 @@ Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y co
 - Frontal con pilas de repuesto: Manos libres para caminar de noche o reparar material. (~15-35 €)
 
 ### Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026) — https://kit72h.com/kit/kit-calor/
-Kit calor: 7 artículos que salvan vidas ante ola de calor extrema. Hidratación, abrigo solar y primeros auxilios.
+Kit calor: 7 artículos que salvan vidas en una ola de calor — hidratación, frescura y protección solar. Desde 30 €, y la mayoría ya lo tienes.
 **Frescura**
 - Ventilador USB o a pilas: Moviliza el aire cuando el calor es sofocante. Funciona con powerbank. (~12-30 €)
 - Toalla de enfriamiento instantáneo: Se moja y baja temperatura corporal por evaporación. Reutilizable. (~8-15 €)
@@ -177,7 +177,7 @@ Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencia
 - Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones): Desde el 1/10/2026, quien camine por calzada o arcén de una vía interurbana entre el ocaso y la salida del sol, o con visibilidad reducida, debe llevar al menos un elemento luminoso o reflectante conforme a la normativa de EPI, visible a 150 m (RD 518/2026, art. 123 del Reglamento General de Circulación, BOE-A-2026-13889). En una evacuación nocturna tras una DANA o incendio, es la diferencia entre que te vean o no. (~3-10 €)
 
 ### Huerto Autosuficiente: 13 herramientas para autoprovisión (2026) — https://kit72h.com/kit/huerto-autosuficiencia/
-Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.
+Huerto autosuficiente: 13 herramientas para producir tu comida: semillas, compost, riego autónomo y protección. Desde 50 € para empezar; 300 € ya montado.
 **Para empezar a sembrar**
 - Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
 - Bandejas de germinacion (pack 5, 112 alveolos): Semillero para arrancar plantas fuertes antes de pasarlas a maceta. Reutilizable, material reciclable. (~12 €)
@@ -197,7 +197,7 @@ Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semilla
 - Red antipájaros para huerto (1x3 m, malla fina 2 cm): La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente. (~5-12 €)
 
 ### Kit 30 Días: 16 artículos para un mes sin suministros (2026) — https://kit72h.com/kit/kit-30-dias/
-Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía para sobrevivir un mes sin red 2026.
+Kit 30 días: 16 artículos para un mes sin suministros — 180 L de agua para 2, despensa, cocinar y cuidarse sin luz. 300-500 € que se amortizan comiéndolo.
 **Agua (180 L para 2 personas / 30 días)**
 - Garrafas 8 L con grifo dispensador (x8 = 64 L): Bezoya 8 L con grifo: cómodas para dosificar. Calcula 3 L/día por persona para beber y cocina. (~~3 €/ud)
 - Renueva el agua cada 6 meses: La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo. (~—)
@@ -221,7 +221,7 @@ Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía
 - Espirulina + chlorella ecológica (500 comprimidos): Superalimento denso en proteína y micronutrientes, caducidad larguísima. (~~14 €)
 
 ### Kit Bebé: 32 esenciales para proteger a tu hijo (2026) — https://kit72h.com/kit/kit-bebe/
-Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.
+Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, abrigo y documentos. Desde 90 €; casi todo ya lo tienes: rotar, no duplicar.
 **Agua y alimentación sin electricidad**
 - Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
 - Pastillas potabilizadoras aptas para lactantes: Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo. (~8-15 €)
@@ -262,7 +262,7 @@ Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alim
 - Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
 
 ### Kit Mayores: 27 artículos para proteger dependientes (2026) — https://kit72h.com/kit/kit-mayores/
-Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.
+Kit mayores: 27 artículos para personas dependientes — medicación crónica, ayudas técnicas, anti-caídas y comida adaptada. Desde 60 €, sin contar receta.
 **Medicación y crónicos**
 - Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
 - Ficha médico-identificativa plastificada: Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera. (~0-5 €)
@@ -366,7 +366,7 @@ Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alter
 - Pilas alcalinas surtidas (AA/AAA): Radio, linterna y detector de CO funcionan a pilas. El detector de CO que se queda sin pilas es un adorno. (~10-20 €)
 
 ### Kit Terremoto: 26 artículos para protección sísmica (2026) — https://kit72h.com/kit/kit-terremoto/
-Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.
+Kit terremoto: 26 artículos para protegerte de caídas y vidrios, cortar gas y agua y pedir ayuda. Luz, botiquín y dinero en efectivo: desde 90 €.
 **Cabeza y pies: lo que se rompe primero**
 - Casco de protección: Cornisas, lámparas, estanterías y ladrillos de tabique caen. Un casco de obra o de bici sirve y cabe en la mochila. (~12-35 €)
 - Guantes de trabajo reforzados: Para retirar escombros, cristales y muebles volcados. Sin guantes no puedes ayudar a nadie ni despejar tu propia salida. (~8-20 €)
@@ -401,7 +401,7 @@ Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación
 - Copia digital en USB cifrado: Fotos de la casa y de los bienes antes del seísmo: es la prueba que pide el seguro para valorar daños. (~8-20 €)
 
 ### Kit Incendio: 21 artículos contra incendios (2026) — https://kit72h.com/kit/kit-incendio/
-Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.
+Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, salir en 10 minutos, defender la casa y evacuar a los que no corren. Desde 60 €.
 **Respirar: el humo mata antes que el fuego**
 - Mascarillas FFP2 (pack de 10-20): Filtran partículas de humo: ceniza fina, hollín y humo denso. Unos pocos minutos de humo sin protección y te desorientas de verdad. (~8-15 €)
 - Gafas de protección ajustadas (o de sol cerradas): El humo y las chispas te lloran los ojos hasta que no ves la salida. Unas gafas cerradas te dejan seguir caminando. (~8-25 €)
@@ -430,7 +430,7 @@ Kit incendio: 21 artículos para protección contra incendios forestales. Respir
 - Bastón, andador o silla plegable de repuesto: Quien camina despacio marca el ritmo; tener una ayuda técnica de reserva evita que la evacuación se atasque. (~15-35 €)
 
 ### Kit Comunicación: walkies, radio y messenger satelital (2026) — https://kit72h.com/kit/kit-comunicacion/
-Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.
+Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y messenger satelital. 6 artículos desde 80 € para no quedarte sin avisos.
 **Comunicación local: walkies PMR446**
 - Walkie-talkies PMR446 (pareja, recargables): Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común. (~40-80 €)
 - Walkie-talkies PMR446 de gama media (alcance ampliado): Mejor antena y sensibilidad: hasta 5-10 km en campo abierto. (~60-120 €)
@@ -441,7 +441,7 @@ Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la r
 - Pilas de repuesto (AA/AAA) fuera de los aparatos: Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase. (~8-18 €)
 
 ### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
-Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.
+Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
 **Starlink: internet desde cualquier lugar**
 - Terminal Starlink Gen 3 (residencial / móvil): Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve. (~500-1.200 € · 45-60 €/mes)
 - Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
@@ -502,7 +502,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Mejor extintor doméstico 2026: 6 tipos comparados y dónde colocarlo en casa — https://kit72h.com/blog/mejor-extintor-domestico/
+### Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo — https://kit72h.com/blog/mejor-extintor-domestico/
 Qué extintor para casa: polvo, CO₂, espuma o clase F. Seis tipos comparados con precio, dónde colocarlo y la revisión mensual de un minuto.
 Se quema la sartén, salta la regleta o una vela cae sobre la cortina: entre el fuego de un plato y tener que salir corriendo hay muy poco margen, y en España ese margen se pierde todos los días. En 2024 murieron 234 personas en incendios y explosiones en España, 172 de ellas dentro de viviendas , y entre las probables causas encabezan las eléctricas, con el 41,9 % . Son las cifras del Estudio de víctimas de incendios de la Fundación MAPFRE y la APTB (Asociación Profesional de Técnicos de Bomberos), que desde 2010 recoge los datos de bomberos y de los institutos de medicina forense.
 
@@ -4664,7 +4664,7 @@ Desde marzo de 2025, la Estrategia de Preparación de la Unión Europea recomien
 
  Empieza por la lista del kit básico 72h y ve marcando lo que ya tienes. No hace falta comprarlo todo de golpe.
 
-### Kit de coche para emergencias 2026: obligatorios de la DGT y equipo para DANA, nieve y averías — https://kit72h.com/blog/coche-kit-emergencia-2026/
+### Coche y emergencias: lo obligatorio en 2026 y lo que conviene — https://kit72h.com/blog/coche-kit-emergencia-2026/
 La baliza V-16 conectada ya es el único señalamiento legal: qué más lleva la guantera para una DANA, una nevada o una avería de noche.
 El kit del coche es el único que llevas encima todos los días, y también el más legislado. Desde el 1 de enero de 2026 cambió la regla principal —la baliza V-16 conectada sustituyó a los triángulos como único medio legal de señalizar—, pero la norma solo cubre una parte del problema: señalar que estás parado. No cubre que te quedes sin agua en una carretera cortada por una DANA, que pases la noche en el coche con catorce grados bajo cero tras una nevada, o que un faro se te apague a mitad de un atasco de seis horas. Este artículo repasa las dos mitades: lo que exige la ley y lo que te conviene añadir por tu cuenta.
 

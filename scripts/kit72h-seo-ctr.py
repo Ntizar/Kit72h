@@ -74,19 +74,19 @@ KIT_DESCRIPCIONES = {
     "kit-coche": "Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.",
     "kit-hogar": "Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basada en fuentes oficiales (UE + Protección Civil).",
     "kit-montana": "Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.",
-    "kit-calor": "Kit calor: 7 artículos que salvan vidas ante ola de calor extrema. Hidratación, abrigo solar y primeros auxilios.",
+    "kit-calor": "Kit calor: 7 artículos que salvan vidas en una ola de calor — hidratación, frescura y protección solar. Desde 30 €, y la mayoría ya lo tienes.",
     "kit-evacuacion": "Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencial en 30 segundos. Preparación rápida 2026.",
-    "huerto-autosuficiencia": "Huerto autosuficiente: 13 herramientas para autoprovisión de alimentos. Semillas, compost y riego autónomo 2026.",
-    "kit-30-dias": "Kit 30 días: 16 artículos para un mes sin suministros. Agua, comida y energía para sobrevivir un mes sin red 2026.",
-    "kit-bebe": "Kit bebé: 32 artículos esenciales para proteger a tu hijo en emergencias. Alimentación, higiene y salud 2026.",
-    "kit-mayores": "Kit mayores: 27 artículos para proteger a personas dependientes. Medicación, movilidad y comunicación 2026.",
+    "huerto-autosuficiencia": "Huerto autosuficiente: 13 herramientas para producir tu comida: semillas, compost, riego autónomo y protección. Desde 50 € para empezar; 300 € ya montado.",
+    "kit-30-dias": "Kit 30 días: 16 artículos para un mes sin suministros — 180 L de agua para 2, despensa, cocinar y cuidarse sin luz. 300-500 € que se amortizan comiéndolo.",
+    "kit-bebe": "Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, abrigo y documentos. Desde 90 €; casi todo ya lo tienes: rotar, no duplicar.",
+    "kit-mayores": "Kit mayores: 27 artículos para personas dependientes — medicación crónica, ayudas técnicas, anti-caídas y comida adaptada. Desde 60 €, sin contar receta.",
     "kit-mascotas": "Kit mascotas: 23 artículos para proteger a tu animal en emergencias. Alimentación, identificación y primeros auxilios.",
     "kit-frio": "Kit frío: 27 artículos para sobrevivir al invierno extremo. Calefacción alternativa, abrigo y gestión del frío 2026.",
-    "kit-terremoto": "Kit terremoto: 26 artículos para protección sísmica. Estructura, iluminación y comunicación post-terremoto 2026.",
-    "kit-incendio": "Kit incendio: 21 artículos para protección contra incendios forestales. Respiración, refugio y evacuación 2026.",
+    "kit-terremoto": "Kit terremoto: 26 artículos para protegerte de caídas y vidrios, cortar gas y agua y pedir ayuda. Luz, botiquín y dinero en efectivo: desde 90 €.",
+    "kit-incendio": "Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, salir en 10 minutos, defender la casa y evacuar a los que no corren. Desde 60 €.",
     "kit-kit-profesional": "Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para pasar un apagón largo sin cortes. Coste y montaje 2026.",
-    "kit-comunicacion": "Kit comunicación: walkies PMR446, radio y messenger satelital cuando falla la red. Guía completa 2026.",
-    "kit-starlink": "Kit Starlink: internet satelital cuando se caen todas las redes. Conectividad real desde cualquier punto 2026.",
+    "kit-comunicacion": "Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y messenger satelital. 6 artículos desde 80 € para no quedarte sin avisos.",
+    "kit-starlink": "Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.",
     "nevera-portatil-emergencia-72h":
         "Nevera portátil para emergencias: conserva la comida sin luz (2026)",
     "mejor-sim-datos-emergencia-cobertura":
@@ -208,6 +208,9 @@ BLOG_TITULOS = {
         "Mejor detector de monóxido de carbono: 6 tipos comparados (2026)",
     "antena-externa-movil-cobertura-montana":
         "Antena externa para móvil: cobertura real en montaña y valle (2026)",
+    # CTR 2026-10-17: titulo nuevo de 75 chars (se truncaba en el SERP)
+    "mejor-extintor-domestico":
+        "Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────
