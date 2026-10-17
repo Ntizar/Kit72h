@@ -2784,74 +2784,228 @@ Cuando una dana corta la fibra, un apagón se lleva por delante la centralita de
 
  Protección Civil — Secretaría General de Protección Civil y Emergencias : recomendaciones de autoprotección ante emergencias.
 
-### Generador solar para emergencias: luz cuando se va (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
-Generador solar para emergencias de 72h: cómo conseguir autonomía eléctrica cuando se va la luz. Portátil, potente y silencioso.
-Imagina 3 días sin luz. Tu nevera se descongela, el móvil se muere, la calefacción para y el ordenador no carga. Un generador solar te da autonomía sin ruido, sin humos y sin gasolina.
+### Generador solar para emergencias: cuánta autonomía te da y cómo elegirlo (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
+Generador solar para emergencias: cuánta autonomía te da de verdad, qué carga y qué no, y cómo elegir panel y batería sin quedarte corto.
+Tres días sin luz no es un escenario exótico en España: es lo que pasa cuando una tormenta deja un barrio entero sin suministro, cuando la red se desajusta en plena ola de frío o cuando una obra corta un cable. Protección Civil mantenía el 16 de octubre de 2026 la alerta por chubascos y tormentas en el litoral mediterráneo peninsular y Baleares , y las tormentas de otoño son, año tras año, la causa más frecuente de cortes locales de electricidad. Lo que decide si esa noche es incómoda o desagradable no es el apagón: es si tenías dónde enchufar la luz del pasillo, el móvil y la nevera.
 
 
- ¿Qué es un generador solar?
-
- Son paneles solares plegables (100-400W) que cargan una batería externa (powerstation) para alimentar tus dispositivos: móvil, portátil, radio, iluminación LED y hasta pequeños electrodomésticos.
+ Un generador solar para emergencias resuelve exactamente eso: convierte sol en electricidad guardada en una batería, sin ruido, sin humos y sin combustible que almacenar. Aquí abajo va la cuenta completa —cuánta energía necesitas de verdad, cuánta batería y cuántos paneles hacen falta— y los errores que hacen que mucha gente acabe con un aparato que no mueve ni el frigorífico.
 
 
- ¿Por qué solar y no gasolina?
+ 1. Qué es un generador solar (y qué no es)
+
+
+ Conviene afinar los nombres porque en la tienda se usan como si fueran sinónimos y no lo son:
+
 
  
- Silencioso : 0dB (vs 70dB de gasolina)
+ Panel solar plegable : solo genera electricidad mientras le da el sol. Sin batería no guarda nada.
 
- Sin humos : No contamina, ideal para interiores
+ Batería externa o power station : guarda la energía y la entrega por toma corriente, USB o 12 V. No carga sola: necesita que alguien la alimente.
 
- Sin combustible : Solo necesitas sol (o nuboso)
+ Generador solar : los dos juntos —panel + batería— en un kit que funciona desde el primer minuto. Es de lo que hablamos aquí.
 
- Puede dejarse conectado : Carga y descargra continuamente
-
- 
-
- Los mejores para tu kit 72h
-
-
- 1. Bluetti AC200MAX + Solar 200W
-
- La solución profesional: 2000Wh de batería + 200W de paneles. Carga tu portátil 15 veces, móvil 40 veces, nevera portátil 8 horas. 2000-3000€.
-
-
- 2. EcoFlow River 2 Pro + Solar 100W
-
- Más asequible: 768Wh + 100W solar. Carga móvil 10 veces, portátil 3 veces, iluminación LED 20 horas. 500-700€.
-
-
- 3. Jackery Explorer 1000 + Solar 100W
-
- Alternativa sólida: 1000Wh + 100W. Misma capacidad que el EcoFlow, mismo precio.
-
-
- ¿Cuánta autonomía necesitas?
-
- Depende de lo que vayas a usar:
-
- 
- Solo móvil + linterna : 100-200Wh (powerbank grande)
-
- Móvil + portátil + radio : 500-1000Wh (EcoFlow/Jackery)
-
- Móvil + portátil + nevera + iluminación : 2000Wh+ (Bluetti/EFK)
+ Generador de gasolina o diésel : quema combustible para producir luz. Funciona de noche y con nubes, pero hace ruido, humo y necesita repostaje.
 
  
 
- Instalación básica
+ La diferencia práctica es simple: el solar no depende de un suministro externo que se agota , mientras haya sol sigue cargando, y puede quedarse montado en el balcón durante semanas. A cambio, su producción depende del cielo. Si quieres ver cara a cara el solar frente al combustible, la comparativa entre generador y power station desglosa escenarios, ruido y coste de uso; y si ya te encaja la vía solar, el post sobre panel solar portátil cubre los tres tipos y los errores de compra.
+
+
+ 2. La cuenta que importa: vatios-hora
+
+
+ Toda la decisión se resume en una sola cifra: los vatios-hora (Wh) que consume cada aparato por cada vez que lo usas, y cuántos Wh cabe en la batería. Nada más. La potencia (W) dice cuánto gasta mientras funciona; la capacidad (Wh) dice cuánto aguanta.
+
 
  
- Coloca el panel solar al sol (o en ventana si estás dentro)
+ Aparato Uso típico Consumo orientativo 
+ 
+ 
+ Móvil Una carga completa En torno a 10–15 Wh 
 
- Conecta el panel a la batería (cable MC4)
+ Portátil Trabajar 4 horas Entre 40 y 60 Wh por carga 
 
- Conecta tus dispositivos a la batería (enchufe AC/USB)
+ Router 4G/Wi-Fi Una hora encendido En torno a 10 Wh 
 
- Listo
+ Bombilla LED Una noche de uso Entre 5 y 10 Wh 
+
+ Radio de emergencia Varias horas Unos pocos Wh por hora 
+
+ Nevera portátil de auto Una hora de ciclo En torno a 30–50 Wh 
+
+ Cargador de pilas 4 pilas AA Menos de 20 Wh 
+
+ 
+ 
+
+ Son estimaciones de manual, no mediciones de laboratorio: tu portátil puede gastar bastante más si lleva tarjeta gráfica. La idea que hay que quedarse es el orden de magnitud —cargar el móvil cuesta una fracción diminuta de lo que cuesta calentar agua—, porque de ahí sale el tamaño de la batería.
+
+
+ 3. Cuánta batería necesitas por escenario
+
+
+ Con la tabla anterior, montar la noche es aritmética. Tres escenarios reales, sin aparejo extra:
+
+
+ 
+ Escenario de 72 horas Qué sostiene Capacidad recomendada 
+ 
+ 
+ Supervivencia básica Móviles, linternas, radio, router durante ratos Entre 300 y 600 Wh 
+
+ Casa en modo remoto Lo anterior más portátil, iluminación LED y nevera portátil Entre 1.000 y 1.500 Wh 
+
+ Autonomía alta Lo anterior más herramientas, bomba pequeña y cargas continuas Por encima de 2.000 Wh 
+
+ 
+ 
+
+ La tentación es comprar la batería más grande «por si acaso» y quedarse sin paneles, que es el error del punto 5. Conviene recordar que la batería no produce nada: solo guarda . Un móvil de 12 Wh cargado cuatro veces al día son unos 50 Wh diarios; una nevera portátil que trabaja por ciclos puede consumir en un día lo que tres móviles gastan en una semana. Si tu prioridad es la nevera —por medicamentos o por la comida de la nevera de casa—, prioriza capacidad antes que extras.
+
+
+ Si lo que buscas es la versión mínima y barata, el powerbank de mayor capacidad resuelve el nivel 1 sin instalar nada; y el plan de los primeros 30 minutos ante una DANA o un apagón te dice en qué orden actuar cuando se va la luz justo cuando estás cenando.
+
+
+ 4. Cuántos paneles y cuánto tardan en cargar
+
+
+ Los paneles se dimensionan con una regla tosca pero fiable: en condiciones buenas, un panel de 100 W entrega en torno a 300–400 Wh en un día completo de sol (luz directa de mañana a tarde, con inclinación razonable). Es decir, tres horas efectivas de sol son el punto de referencia habitual del cálculo. A partir de ahí:
+
+
+ 
+ Panel Entrega diaria orientativa Para qué sirve 
+ 
+ 
+ 20–40 W Unos 60–140 Wh Móvil, linternas, radio. Carga pequeña y constante 
+
+ 100 W Entre 300 y 400 Wh Casa en modo remoto: móviles, LED, router, algo de nevera 
+
+ 200 W Entre 600 y 800 Wh Portátil diario y nevera con margen 
+
+ 400 W (o dos de 200) Más de 1.000 Wh Baterías grandes y recargas rápidas entre tormentas 
+
+ 
+ 
+
+ El cielo manda, y en otoño e invierno manda más: con llovizna o cielo cubierto la producción cae a una fracción de la nominal —a menudo a la mitad o menos— y los días son más cortos. La AEMET es la fuente oficial para saber qué cielo te espera esta semana; la Red Eléctrica de España (REE) publica cómo se comporta el sistema eléctrico. La regla práctica: dimensiona para el peor día del año, no para el mejor día de agosto . Si vives en el norte o en una zona de niebla, suma un 50 % de panel a lo que te haya salido en la cuenta.
+
+
+ 5. Qué alimenta y qué no, sin engaños
+
+
+ Esta es la parte que se calla en muchas fichas de producto. La lista corta:
+
+
+ 
+ Sí, sobradamente : móviles, tablets, portátiles, linternas y bombillas LED, radio, router, cámaras de seguridad, cargadores de pilas, herramientas de mano, ventiladores.
+
+ Sí, con margen apurado : nevera portátil (por ciclos), cafetera de cápsulas, plancha, microondas pequeño —todo lo que caliente agua gasta mucho, muchísimo.
+
+ No, olvídate : vitrocerámica y horno, termo eléctrico, aire acondicionado, calefacción de resistencia, bomba de calor, secador de pelo. Un termo puede consumir en media hora lo que la batería entera guarda para tres días.
+
+ Con calculadora aparte : bomba de agua de pozo, soldador, compresor de taller. Se pueden arrancar con baterías grandes, pero hay que calcularlo aparato por aparato y comprobar los picos de arranque.
 
  
 
- Nota: La autonomía depende del sol. En invierno y con nuboso, reduce un 50-70%. En verano y soleado, es suficiente.
+ Si tu prioridad es la calefacción en invierno, la energía eléctrica no es el camino: mira el post de estufas sin luz y el kit de apagón , que organiza prioridades, luz y calor en el mismo sitio. Para mantener la casa a salva mientras la red vuelve, el kit de electricidad reúne todo lo que se enchufa.
+
+
+ 6. Los cinco errores que más se repiten
+
+
+ 
+ Comprar solo batería, sin paneles. Una power station sin panel es una piedra cara: la cargas en casa y cuando se va la luz la usas una vez. Si no puedes pagar los dos, empieza por el panel.
+
+ Contar con el sol de agosto para resolver el apagón de noviembre. El dimensionamiento se hace con el peor día, no con el mejor.
+
+ Medir en vatios en vez de en vatios-hora. «Tiene 1.000 W» no dice cuánto dura; «tiene 1.000 Wh» sí.
+
+ Dejar la batería descargada en el trastero. Las baterías de litio pierden carga por sí solas: recárgala cada tres meses y déjala a la mitad si no la vas a tocar largo tiempo.
+
+ Comprar por el número de tomas y no por la potencia. Ocho enchufes que solo admiten carga ligera no sirven para nada que caliente.
+
+ 
+
+ Y un sexto que es pura previsión: no comprar nada . La diferencia entre un apagón de una tarde y uno de tres días casi nunca está en el dinero, está en haberlo mirado con antelación.
+
+
+ 7. Montaje en cinco pasos
+
+
+ 
+ Coloca el panel al sol, orientado a sur y con la inclinación que marque el fabricante; en ventana o balcón sirve, pero rinde menos.
+
+ Conecta el panel a la batería con el cable correspondiente (los paneles llevan conectores MC4; la batería trae el suyo o lo compras aparte).
+
+ Espera a que la batería acepte carga: con buena luz empieza a llenarse en minutos.
+
+ Conecta tus aparatos a la batería —tomas corriente para lo de 220 V, USB para lo pequeño— y apaga lo que no estés usando.
+
+ Cierra el ciclo cada día: saca el panel al sol por la mañana, deja la batería arriba y anota cuánto consumiste. Con tres noches de registro sabes si te sobra o te falta.
+
+ 
+
+ Para que la noche vaya con luz sin quemar batería, apaga lo que no necesites y encienda solo dos o tres LED: una bombilla LED de pasillo gasta en una hora lo que el móvil gasta en minutos.
+
+
+ 8. Seguridad: lo que hay que saber antes de enchufar
+
+
+ Lo bueno de la vía solar es que no quema nada dentro de casa : no hay monóxido de carbono, no hay humo y no hay riesgo de incendio por combustión. Los generadores de combustible, en cambio, nunca deben funcionar en un espacio cerrado ni cerca de rejillas de ventilación —por eso el detector de monóxido de carbono es parte de la misma conversación.
+
+
+ Los puntos que sí hay que vigilar con el equipo solar:
+
+
+ 
+ Agua y conexiones al aire : saca el panel cuando llueva de verdad y protege las tomas. Los conectores mojados se corroen y dejan de dar buena carga.
+
+ Calor y ventilación : la batería aguanta mejor a temperatura ambiente fresca y con aireación; no la metas debajo de la cama ni en un armadero cerrado mientras carga.
+
+ Carga supervisada mientras haya gente en casa, como con cualquier aparato que lleve litio.
+
+ Ruido cero, normativa cero : al no hacer ruido no metes ruido a la comunidad. Si acabas usando un generador de combustible de refuerzo, revisa la normativa de ruido de la comunidad de vecinos antes de ponerlo a funcionar.
+
+ 
+
+ 9. Qué mirar antes de pagar nada
+
+
+ Checklist de compra, en orden de importancia:
+
+
+ 
+ Capacidad en Wh reales , no en mAh (los mAh a 5 V no son lo mismo que a 12 V, y las tiendas juegan con eso).
+
+ Potencia de salida en W —suficiente para lo que quieras enchufar—, y si el fabricante indica picos de arranque, compruébalos.
+
+ Tipo de batería : litio con química LFP dura muchos más ciclos que otras; para uso esporádico de emergencia, la que tengas a mano y bien conservada.
+
+ Entrada de carga solar en los mismos conectores que tus paneles , sin adaptadores improvisados.
+
+ Garantía y reposición de piezas en España, no solo tienda online.
+
+ Peso real : si pesa más de lo que quieres subir al balcón, no lo usarás.
+
+ 
+
+ Si prefieres ir por piezas sueltas, aquí van las búsquedas directas con lo más habitual: estaciones de energía portátiles , paneles solares plegables y un panel solar plegable de 20–40 W que ya está verificado en nuestro catálogo para cargar lo pequeño. Enlaces de afiliado: si compras a través de ellos, kit72h recibe una comisión sin coste extra para ti.
+
+
+ 10. Cómo encaja esto en un plan de 72 horas
+
+
+ La luz es solo una pieza. La recomendación que recogen las guías oficiales —tres días de autonomía sin servicios básicos— es el eje sobre el que está montado todo el sitio, y ahí la energía eléctrica convive con agua, comida, documentación y comunicación. La Secretaría General de Protección Civil y Emergencias publica recomendaciones preventivas por escenario, y la Dirección General de Protección Civil y Ayuda Humanitaria de la UE (DG ECHO) recoge el enfoque europeo de preparación ciudadana; en la página de fuentes oficiales los tienes enlazados todos con detalle.
+
+
+ El orden sensato, si partes de cero: cubre primero la comunicación y la información (móvil con batería y radio), después la luz , después el frío y la comida . Con el plan del kit básico de 72 horas y la lista del kit de apagón tienes la base; el generador solar es lo que le da autonomía eléctrica a ese plan. Si además quieres mantener la conexión cuando caiga la fibra, la comunicación sin red móvil te explica qué funciona y qué no cuando la red se va.
+
+
+ Resumen en tres líneas
+
+
+ La cuenta: apunta a 500 Wh si solo quieres móviles y luz, y a 1.500 Wh si quieres nevera y portátil. La recarga: 100 W de panel dan en torno a 300–400 Wh al día con sol bueno, y la mitad o menos en día nublado. La disciplina: batería cargada y panel probado antes de que haga falta, no durante. Con eso, un apagón de tres días se convierte en un día de trabajo a la sombra del balcón.
 
 ### Conectividad de emergencia: Starlink, radio y satélite (2026) — https://kit72h.com/blog/conectividad-emergencia-starlink-radios-redundancia/
 Conectividad de emergencia: qué hacer cuando caen todas las redes. Starlink, radio amateur, walkies PMR446 y messenger satelital, con plan B.
