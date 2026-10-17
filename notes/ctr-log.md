@@ -6,6 +6,63 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-17 — 2 títulos (post nuevo del extintor + coche) + 9 descriptions de kit <115
+
+**Orden aplicado:** prerender PRIMERO (79 rutas, 0 fallos; árbol limpio al terminar
+→ rerun idempotente) → optimización DESPUÉS con `analizar_paginas()` (NO `main()`),
+que aplicó 1 arreglo + auditoría manual de longitudes → commiteado **sin re-prerender
+encima**. Segunda pasada de `analizar_paginas()` → 0 cambios.
+
+**Automático (1):** `blog/coche-kit-emergencia-2026` — el consejero lo publicó el
+16/10 con «Kit de coche para emergencias 2026: obligatorios de la DGT y equipo para
+DANA, nieve y averías» (**94**) y las reglas lo devolvieron al fix de `BLOG_TITULOS`
+«Coche y emergencias: lo obligatorio en 2026 y lo que conviene» (**61**).
+
+### Títulos (1 automático + 1 manual)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/coche-kit-emergencia-2026 | Kit de coche para emergencias 2026: obligatorios de la DGT y equipo para DANA, nieve y averías (94) | Coche y emergencias: lo obligatorio en 2026 y lo que conviene (61) | automático: el fix ya vivía en `BLOG_TITULOS` y el publish del consejero lo había pisado |
+| blog/mejor-extintor-domestico | Mejor extintor doméstico 2026: 6 tipos comparados y dónde colocarlo en casa (75 → 70 con la cola « — Blog Kit72h», en el borde del corte) | Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo (56) | único título >72 del sitio (post nuevo del 17/10): keyword + año + número enteros, y «dónde colocarlo» es el gancho práctico |
+
+### Descriptions (9 de kit — todas <115, malgastaban 40-53 chars de snippet)
+
+| Página | Antes | Después |
+|---|---|---|
+| kit/kit-comunicacion | (102) | Kit comunicación sin red: walkies PMR446 sin licencia… 6 artículos desde 80 € (148) |
+| kit/kit-mayores | (107) | …medicación crónica, ayudas técnicas, anti-caídas… Desde 60 € (153) |
+| kit/kit-bebe | (109) | …alimentación sin luz, higiene, abrigo y documentos. Desde 90 € (149) |
+| kit/kit-starlink | (110) | …(400-600 € + 50-60 €/mes), router 4G de respaldo (144) |
+| kit/kit-incendio | (111) | …respirar sin humo, salir en 10 minutos… Desde 60 € (154) |
+| kit/huerto-autosuficiencia | (112) | …semillas, compost, riego autónomo. Desde 50 €; 300 € montado (154) |
+| kit/kit-terremoto | (112) | …caídas y vidrios, cortar gas y agua. Luz, botiquín y dinero (145) |
+| kit/kit-calor | (113) | …hidratación, frescura y protección solar. Desde 30 € (142) |
+| kit/kit-30-dias | (114) | …180 L de agua para 2, despensa, cocinar sin luz. 300-500 € (154) |
+
+Motivo común: **cifras reales de cada ficha** (nº de artículos, coste real del kit,
+180 L/30 días) + beneficio concreto, en vez del resumen genérico — sin inventar nada.
+
+**Dónde viven los cambios:** `data/kits.json`, `data/blog.json` y
+`scripts/kit72h-seo-ctr.py` (fuente de verdad: `KIT_DESCRIPCIONES` ×9 + nueva entrada
+de extintor en `BLOG_TITULOS`) + **30 ficheros derivados** parcheados con replace
+literal (las 9 páginas de kit ×4 apariciones, `index.html` ×9, el interlinking de
+10 posts, `blog/index.html`, `feed.xml`, `llms.txt` y `llms-full.txt`) — **sin
+rehornear**.
+
+**Atención (2ª vez):** el commit de esta run lo barrió de nuevo el cron
+`kit72h-ofertas` a las 07:00:52 (`137a19d`, «cambios automáticos») con los cambios
+aún sin commitear aquí. El diff son exactamente los **33 ficheros** de esta
+optimización (data + script + 30 derivados) y ya estaba en `origin/main`; esta
+entrada y la verificación final van en un commit propio.
+
+**Verificación:** 0 residuos de las 11 cadenas viejas (fuera de `notes/`); títulos
+JSON ≤72 (máx. 61) y descriptions en 90-155 (las 9 nuevas: 142-154); segunda pasada
+de `analizar_paginas()` → 0 (idempotente); gate ✅ **0 errores** (6 avisos
+preexistentes); `tag=ntizar-21` intacto (lo valida el gate en todos los enlaces
+Amazon).
+
+---
+
 ## 2026-10-16 — los 2 últimos títulos >72 + la description cortada del post de CO
 
 **Orden aplicado:** prerender PRIMERO (horneado Playwright completo, 06:43-06:48,
