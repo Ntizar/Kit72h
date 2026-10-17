@@ -135,7 +135,10 @@
     "Caja de fusibles y distribución DC para baterías",
     "SAI (UPS) 3000VA-5000VA online doble conversión",
     "SAI 1500VA online (equipos críticos individuales)",
-    "Generador inverter 2000-3000W (gasolina o gas)"
+    "Generador inverter 2000-3000W (gasolina o gas)",
+    "Depósito ampliado o conexión a gas natural",
+    "Nevera/congeladora solar 12V/220V (compresor)",
+    "Cámara de seguridad solar 4G con batería"
   ],
   "na": [
     "Paracetamol e ibuprofeno (caducidad larga)",
@@ -212,6 +215,11 @@
       "n": 1,
       "primera": "2026-10-16",
       "ultima": "2026-10-16"
+    },
+    "kit-kit-profesional|Set de 10 luminarias LED solares de jardín": {
+      "n": 1,
+      "primera": "2026-10-17",
+      "ultima": "2026-10-17"
     }
   }
 }

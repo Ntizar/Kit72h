@@ -1749,8 +1749,16 @@
     "seccion": "Iluminación y seguridad perimetral",
     "busqueda": "cámara de seguridad solar 4g con batería",
     "rango_esperado": "150-300 €",
-    "fecha": "2026-10-11",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-17",
+    "asin": "B0H8P2WXHV",
+    "titulo": "Cámara de seguridad 4G LTE para exteriores, inalámbrica, con tarjeta SIM, AOV 24/7, 4K, doble lente, cámara solar exteri",
+    "precio": 79.99,
+    "rating": 4.5,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0H8P2WXHV?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=camara+seguridad+4g+solar+bateria&tag=ntizar-21"
   },
   "kit-kit-profesional|Router 4G/5G industrial con dual SIM y antenas externas": {
     "kit": "kit-kit-profesional",
@@ -2168,8 +2176,9 @@
     "seccion": "Iluminación y seguridad perimetral",
     "busqueda": "set de 10 luminarias led solares de jardín",
     "rango_esperado": "100-200 €",
-    "fecha": "2026-10-11",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-17",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "kit-starlink|Cable extensor para Starlink (30 m / 60 m)": {
     "kit": "kit-starlink",
@@ -2362,5 +2371,37 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=generador+inverter+2000w+3000w&tag=ntizar-21"
+  },
+  "kit-kit-profesional|Depósito ampliado o conexión a gas natural": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Generador: respaldo cuando no hay sol",
+    "busqueda": "depósito ampliado o conexión a gas natural",
+    "rango_esperado": "200-600 €",
+    "fecha": "2026-10-17",
+    "asin": "B0CS2X1RR8",
+    "titulo": "CAMPLUX 11 L Calentador de Agua a Gas, Bajo NOx, 20 mbar, BD300NG",
+    "precio": 249.99,
+    "rating": 4.1,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=generador+inverter+gas+natural+conexion&tag=ntizar-21"
+  },
+  "kit-kit-profesional|Nevera/congeladora solar 12V/220V (compresor)": {
+    "kit": "kit-kit-profesional",
+    "seccion": "Conservación de alimentos sin red",
+    "busqueda": "nevera congeladora solar 12v 220v",
+    "rango_esperado": "300-600 €",
+    "fecha": "2026-10-17",
+    "asin": "B0919WPGR5",
+    "titulo": "Alpicool T50 50 litros Nevera portátil 12 V 24 V congelador, pequeño congelador para coche, camping, camión, barco y enc",
+    "precio": 269.99,
+    "rating": 4.4,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0919WPGR5?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=nevera+congeladora+solar+12v+220v+compresor&tag=ntizar-21"
   }
 }
