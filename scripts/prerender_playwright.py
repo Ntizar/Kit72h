@@ -39,6 +39,43 @@ except ImportError:
 _ctx = {"pw": None, "browser": None, "page": None}
 
 
+def _chromium_instalado():
+    """Build de Chromium realmente presente en ~/.cache/ms-playwright.
+
+    Playwright exige EXACTAMENTE el build de su propia versión (p. ej. 1243) y en
+    el VM a veces solo hay otro (1248): sin esto el horneado entero muere con
+    «Executable doesn't exist» y no se publica nada (incidente 2026-10-17).
+    Preferimos el headless shell (lo que Playwright lanza) y si no, el chromium
+    completo. Si no hay NINGUNO instalado devolvemos None → lanza él solo y el
+    error sigue siendo el de siempre («playwright install»).
+    """
+    import glob
+    casa = Path.home() / ".cache" / "ms-playwright"
+    patrones = ("chromium_headless_shell-*/chrome-headless-shell-linux64/chrome-headless-shell",
+                "chromium-*/chrome-linux*/chrome")
+    for p in patrones:
+        cands = sorted(glob.glob(str(casa / p)))
+        if cands:
+            return cands[-1]
+    return None
+
+
+def _launch(pw):
+    kw = {"args": ["--no-sandbox", "--disable-dev-shm-usage"]}
+    try:
+        esperado = Path(pw.chromium.executable_path)
+        falta = not esperado.exists()
+    except Exception:
+        esperado, falta = None, True
+    if falta:
+        exe = _chromium_instalado()
+        if exe:
+            kw["executable_path"] = exe
+            print("prerender_playwright: el build de Playwright (%s) no está → uso %s"
+                  % (esperado, exe), flush=True)
+    return pw.chromium.launch(**kw)
+
+
 def dump_pw(chrome, url, marca_esperada, timeout=45000):
     """Igual que P.dump pero con Playwright: 3 intentos hasta ver la marca."""
     html = ""
@@ -61,7 +98,7 @@ def main():
     P.dump = dump_pw
 
     _ctx["pw"] = sync_playwright().start()
-    _ctx["browser"] = _ctx["pw"].chromium.launch(args=["--no-sandbox", "--disable-dev-shm-usage"])
+    _ctx["browser"] = _launch(_ctx["pw"])
     _ctx["page"] = _ctx["browser"].new_page(viewport={"width": 1366, "height": 900})
     code = 0
     try:
