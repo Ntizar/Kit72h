@@ -502,8 +502,8 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### Mejor SAI (UPS) para casa y router en un apagón (2026): tipos y VA explicados — https://kit72h.com/blog/mejor-sai-ups-casa-apagon/
-SAI o UPS para casa: seis tipos comparados por VA y vatios, cuánto aguanta router y PC en un apagón, errores y ganadores por caso.
+### Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026) — https://kit72h.com/blog/mejor-sai-ups-casa-apagon/
+¿Cuánto aguanta tu router y PC en un apagón? 6 SAI comparados por VA y vatios, ganadores por caso y los 5 errores que más se repiten (2026).
 Son las 12:33 de un martes y se va la luz del router. Ocho segundos, vuelve la corriente y ya está — hasta que a la tercera semana el portátil se reinicia solo o el módem se cae cada vez que salta un diferencial. Ese es el trabajo del SAI (sistema de alimentación ininterrumpida) : aguantar los segundos que la red no da y proteger la casa cuando la luz vuelve.
 
 
@@ -2906,8 +2906,8 @@ Cuando una dana corta la fibra, un apagón se lleva por delante la centralita de
 
  Protección Civil — Secretaría General de Protección Civil y Emergencias : recomendaciones de autoprotección ante emergencias.
 
-### Generador solar para emergencias: cuánta autonomía te da y cómo elegirlo (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
-Generador solar para emergencias: cuánta autonomía te da de verdad, qué carga y qué no, y cómo elegir panel y batería sin quedarte corto.
+### Generador solar para emergencias: cuánta autonomía da y 5 errores (2026) — https://kit72h.com/blog/generador-solar-emergencia-72h/
+¿Cuánta batería necesitas de verdad? Autonomía real en vatios-hora, qué carga y qué no, cuántos paneles y 5 errores al elegir (2026).
 Tres días sin luz no es un escenario exótico en España: es lo que pasa cuando una tormenta deja un barrio entero sin suministro, cuando la red se desajusta en plena ola de frío o cuando una obra corta un cable. Protección Civil mantenía el 16 de octubre de 2026 la alerta por chubascos y tormentas en el litoral mediterráneo peninsular y Baleares , y las tormentas de otoño son, año tras año, la causa más frecuente de cortes locales de electricidad. Lo que decide si esa noche es incómoda o desagradable no es el apagón: es si tenías dónde enchufar la luz del pasillo, el móvil y la nevera.
 
 

@@ -6,6 +6,53 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-18 — 2 títulos de los posts nuevos (77/79 → 66/72) + 2 descriptions con gancho
+
+**Orden aplicado:** prerender PRIMERO (wrapper `kit72h-prerender-vm.py`, Playwright,
+06:33-06:39, **árbol limpio al terminar** → horneado idempotente y 0 páginas a 0
+bytes) → optimización DESPUÉS con `analizar_paginas()` (NO `main()`, que haría
+commit → generar-seo → prerender → push y revirtiera los títulos) → commiteado
+**sin re-prerender encima**.
+
+**Auditoría:** las reglas automáticas sobre el árbol ya existente daban **0 cambios**
+(todo lo de las runs anteriores aplicado). Los únicos problemas eran los **dos posts
+más recientes** (`mejor-sai-ups-casa-apagon`, publicado el 17-10, y
+`generador-solar-emergencia-72h`, rehecho por el consejero), ambos con `<title>` por
+encima de 72 (Google los cortaba a media frase) y descriptions planas sin gancho.
+
+### Títulos (2)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/mejor-sai-ups-casa-apagon | Mejor SAI (UPS) para casa y router en un apagón (2026): tipos y VA explicados (**77, se trunca**) | Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026) (66) | keyword «Mejor SAI (UPS)» + número real (H2 «Los seis tipos, comparados») + año enteros |
+| blog/generador-solar-emergencia-72h | Generador solar para emergencias: cuánta autonomía te da y cómo elegirlo (2026) (**79, se trunca**) | Generador solar para emergencias: cuánta autonomía da y 5 errores (2026) (72) | la pregunta del artículo + «5 errores» (H2 6) antes del corte |
+
+### Descriptions (2)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/mejor-sai-ups-casa-apagon | SAI o UPS para casa: seis tipos comparados por VA y vatios, cuánto aguanta router y PC… (130) | ¿Cuánto aguanta tu router y PC en un apagón? 6 SAI comparados por VA y vatios, ganadores por caso y los 5 errores que más se repiten (2026). (143) | gancho de pregunta + las secciones reales («Ganadores por caso», «los cinco errores») |
+| blog/generador-solar-emergencia-72h | Generador solar para emergencias: cuánta autonomía te da de verdad, qué carga y qué no… (137) | ¿Cuánta batería necesitas de verdad? Autonomía real en vatios-hora, qué carga y qué no, cuántos paneles y 5 errores al elegir (2026). (133) | la cuenta que abre el artículo (H2 «La cuenta que importa: vatios-hora») como pregunta |
+
+**Dónde viven los cambios:** `data/blog.json` (fuente de verdad) +
+`scripts/kit72h-seo-ctr.py` (`BLOG_TITULOS` + `BLOG_DESCRIPCIONES` con los 2 slugs,
+para que ninguna run futura los revierta) + **31 ficheros derivados** con las 4
+cadenas viejas reemplazadas literalmente (58 reemplazos: las 2 páginas ×5 y ×3
+ocurrencias — `<title>`, meta, og:*, JSON-LD, breadcrumb —, el interlinking de 21
+posts + 4 kits, `blog/index.html`, `index.html`, `feed.xml`, `llms.txt`,
+`llms-full.txt` y el generador `scripts/agregar-blog-sai.py`) — **sin rehornear**.
+Como los valores nuevos están en `blog.json`, el horneado nocturno los REPRODUCE.
+
+**Verificación:** 0 residuos de las 4 cadenas viejas (fuera de `notes/`); `<title>`
+y meta del HTML de los 2 posts cuadrando con `blog.json`; longitudes 66/72 (títulos)
+y 143/133 (descriptions, dentro de 90-155); `html.parser` sin errores en los 32
+ficheros tocados; **segunda pasada de `analizar_paginas()` → 0 cambios**
+(idempotente); 0 `index.html` a 0 bytes; `tag=ntizar-21` intacto (lo valida el gate).
+
+- Gate: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
 ## 2026-10-17 — 2 títulos (post nuevo del extintor + coche) + 9 descriptions de kit <115
 
 **Orden aplicado:** prerender PRIMERO (79 rutas, 0 fallos; árbol limpio al terminar

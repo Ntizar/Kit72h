@@ -102,10 +102,10 @@ CUERPO = """
 
 ENTRADA = {
     "slug": SLUG,
-    "titulo": "Mejor SAI (UPS) para casa y router en un apagón (2026): tipos y VA explicados",
+    "titulo": "Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026)",
     "fecha": HOY,
     "lectura": "7 min",
-    "resumen": "SAI o UPS para casa: seis tipos comparados por VA y vatios, cuánto aguanta router y PC en un apagón, errores y ganadores por caso.",
+    "resumen": "¿Cuánto aguanta tu router y PC en un apagón? 6 SAI comparados por VA y vatios, ganadores por caso y los 5 errores que más se repiten (2026).",
     "autor": "Redacción Kit72h",
     "fuente": [
         {"nombre": "Red Eléctrica — Energía no suministrada (ENS) y Tiempo de Interrupción Medio (TIM): 12 interrupciones y TIM de 0,25 min en 2025",

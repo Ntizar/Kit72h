@@ -160,6 +160,12 @@ BLOG_DESCRIPCIONES = {
     # CTR 2026-10-16: 157 chars → el snippet cortaba a media palabra; quita «orientativo»
     "mejor-detector-monoxido-carbono":
         "Cómo elegir detector de CO: los umbrales de la norma UNE-EN 50291, 6 tipos comparados con precio, dónde colocarlo y qué hacer si suena la alarma.",
+    # CTR 2026-10-18: descriptions de los dos posts nuevos → gancho de
+    # pregunta + cifras concretas (143 y 133 chars, dentro de 90-155)
+    "mejor-sai-ups-casa-apagon":
+        "¿Cuánto aguanta tu router y PC en un apagón? 6 SAI comparados por VA y vatios, ganadores por caso y los 5 errores que más se repiten (2026).",
+    "generador-solar-emergencia-72h":
+        "¿Cuánta batería necesitas de verdad? Autonomía real en vatios-hora, qué carga y qué no, cuántos paneles y 5 errores al elegir (2026).",
 }
 
 HOME_TITLE = "Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)"
@@ -211,6 +217,12 @@ BLOG_TITULOS = {
     # CTR 2026-10-17: titulo nuevo de 75 chars (se truncaba en el SERP)
     "mejor-extintor-domestico":
         "Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo",
+    # CTR 2026-10-18: los dos últimos títulos publicados (77 y 79 chars, se
+    # cortaban en el SERP). Keyword delante + número + año, <=72.
+    "mejor-sai-ups-casa-apagon":
+        "Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026)",
+    "generador-solar-emergencia-72h":
+        "Generador solar para emergencias: cuánta autonomía da y 5 errores (2026)",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────
