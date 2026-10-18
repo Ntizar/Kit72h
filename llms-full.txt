@@ -4859,43 +4859,159 @@ Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa
 
  Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.
 
-### DANA o apagón: qué hacer en los primeros 30 minutos (2026) — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
-Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan) para DANA o apagón.
-En una emergencia, los primeros 30 minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Esta es la secuencia que enseñan Protección Civil y la propia UE, ordenada y sin florituras.
+### DANA o apagón: los primeros 30 minutos, minuto a minuto (2026) — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
+Los primeros 30 minutos de una DANA o un apagón, tramo a tramo: información, casa y decisión, con la secuencia que enseña Protección Civil.
+En una emergencia, los primeros treinta minutos deciden casi todo: qué información tienes, dónde estás y qué recursos te quedan. Protección Civil lo reduce a tres actos — informarte, asegurar tu casa y decidir— y la Comisión Europea insiste desde su Estrategia de la Unión de la Preparación en que cada hogar debe poder sostenerse como mínimo 72 horas por sus propios medios mientras llega la ayuda. Esta es esa secuencia, tramo a tramo, con los errores que se repiten en cada aviso de DANA y en cada corte de luz.
 
- Minuto 0-10: información y comunicación
 
- 
- No llames si no es emergencia : el 112 y las líneas se colapsan. Usa mensajes (WhatsApp, SMS) que consumen menos red.
+ Si solo te quedas con una idea: los primeros diez minutos son de información, no de acción . Casi todos los daños evitables de la primera media hora —un coche arrastrado en un garaje, un televisor quemado justo cuando vuelve la luz, una llamada al 112 para preguntar algo que contesta la radio— vienen de saltarse ese orden.
 
- Enciende la radio a pilas — es la única fuente que funciona si se cae toda la red móvil.
 
- Mira si el corte afecta a tu calle, barrio o ciudad. Un apagón de portal se soluciona distinto que uno nacional.
+ Minuto 0-10: informarte y comunicar sin colapsar la red
 
- 
- Minuto 10-20: asegurar tu casa
+
+ Cuando se cae la luz o llega el aviso, el reflejo es llamar y publicar. Las dos cosas empeoran la situación:
+
 
  
- En DANA: baja del sótano, aleja de ventanas, sube lo que se moja . Nunca cruces un cauce de agua a pie ni en coche — 30 cm de agua arrastran un coche.
+ El 112 es para emergencias con personas en riesgo : heridos, gente atrapada, fuego, agua subiendo dentro de una vivienda habitada. Para saber si el aviso te afecta o por qué se ha ido la luz, hay canales mucho más rápidos.
 
- En apagón: desconecta electrodomésticos (el pico de retorno al restablecerse la luz quema televisores y ordenadores) y deja un interruptor encendido para saber cuándo vuelve.
+ Mensajes antes que llamadas : WhatsApp o SMS ocupan mucho menos de la red y se envían aunque las líneas de voz estén saturadas. Un «estoy bien» por mensaje es casi siempre suficiente.
 
- Luz: linterna, no velas si hay niños o si vas a dormirte.
+ Radio a pilas o a manivela : la FM es la única fuente que sigue viva cuando cae la red móvil, y es donde las autoridades dan instrucciones de boca en boca. Una radio de emergencia con manivela y solar cuesta poco y no depende de la red ni de la luz.
 
- 
- Minuto 20-30: plan
-
- 
- ¿Te quedas o evacúas? Por defecto, quédate en casa si no hay riesgo estructural: es el lugar más seguro y donde están tus recursos.
-
- Raciona batería del móvil: modo avión, brillo mínimo. Un powerbank de 20.000 mAh son 3-4 cargas completas.
-
- Si tienes que salir: abrigo, agua, documentos, algo de comida y silbato. Todo eso ya está pensado en la mochila de evacuación .
+ Mira el alcance, no solo la alerta : un aviso no es igual en todo el territorio. Cruza lo que oyes con los avisos meteorológicos de AEMET y con la información de tu ayuntamiento o Protección Civil local.
 
  
- Y después
 
- Sigue solo instrucciones de fuentes oficiales (112, Protección Civil, radio FM). Desconfía de bulos en redes: en el apagón del 28 de abril de 2025 en España circularon decenas, y varios causaron daños reales.
+ Si te llega un mensaje emergente con alarma en el móvil —el sistema ES-Alert que la Protección Civil española usa para avisar a la población por teléfono—, no es un bulo ni un error: es el mismo aviso que se da por radio y por megafonía. Y si el corte de luz es solo de tu portal o de tu calle, apunta a la finca; si no hay luz en todo el barrio y ves a la gente por la calle, es un corte de distribución y toca esperar, sin inventar diagnósticos. En el apagón del 28 de abril de 2025 la confusión sobre el alcance fue exactamente lo que alimentó la ola de bulos: las lecciones de aquel día siguen valiendo para cualquiera de los dos escenarios.
+
+
+ Todo lo que necesitas tener localizado antes de que haga falta —números, emisoras, contactos y dónde está tu documentación— está ordenado en recursos oficiales de emergencia y en el carpeta de emergencia del hogar .
+
+
+ Minuto 10-20: asegurar la casa (guion DANA, guion apagón)
+
+
+ Aquí el camino se bifurca.
+
+
+ Si viene agua (DANA o inundación)
+
+
+ 
+ Baja del sótano, del garaje y de las plantas bajas y sube lo que se moja: documentos, calzado, cuadros, llaves, cargadores y la medicación.
+
+ No bajes a por el coche. Treinta centímetros de agua bastan para arrastrar un vehículo, y el garaje es el sitio más peligroso de la finca cuando el agua entra.
+
+ Si el agua entra en la vivienda y puedes hacerlo sin mojarte , corta la luz desde el cuadro eléctrico y no uses el ascensor ni ningún aparato conectado.
+
+ No cruces cauces, vados, túneles ni calles inundadas , ni a pie ni en coche: la corriente es mucho más fuerte de lo que parece y el fondo no se ve.
+
+ Cierra contraventanas y ventanas, y guarda en una bolsa estanca los papeles que no puedas reponer.
+
+ 
+
+ El kit de escenario está en kit DANA ; el plan de salida, en kit de evacuación ; y lo que hay que hacer cuando el agua baja y vuelves a casa —lodo, humedad, seguros—, en volver a casa tras una inundación .
+
+
+ Si se va la luz (apagón)
+
+
+ 
+ Desconecta los equipos sensibles —televisor, ordenador, equipos de sonido—: el pico de retorno que llega cuando se restablece el suministro es lo que quema la electrónica. Deja un interruptor encendido con una lámpara pequeña: te avisará de que ha vuelto la luz.
+
+ No abras la nevera . Con la puerta cerrada el frío aguanta bastante rato; cada apertura lo recorta.
+
+ Luz de linterna, no de vela si hay niños, mascotas o si te vas a dormir. Y si recurres a una estufa de gas, un brasero o una cocina de camping para pasar frío, ventila o no lo uses para dormir : el monóxido de carbono no huele y es la causa clásica de intoxicaciones domésticas. Un detector de monóxido es la barata de verdad.
+
+ Prioriza qué alimentas : primero móvil y router, después la nevera. Un SAI para casa mantiene router y equipo sin que te enteres, y un generador solar da horas de luz sin ruido ni humos; la comparación entre ambos está en generador vs power station . Todo el escenario ordenado, en kit de apagón .
+
+ 
+
+ Si quieres ir más allá de la linterna del cajón, la búsqueda de linternas recargables de emergencia ↗ y la de powerbanks de buena capacidad ↗ dejan cada opción con su precio del día; los criterios para elegir están en mejor powerbank para emergencias .
+
+
+ Minuto 20-30: decidir si te quedas o te vas
+
+
+ Por defecto, quédate en casa si no hay riesgo estructural, no hay agua entrando y no ha nadie te ha ordenado evacuar: es el lugar más seguro y el que tiene tus recursos. Salir tiene sentido solo si hay orden de evacuación, si el edificio es inseguro o si el agua sigue subiendo.
+
+
+ Si te quedas:
+
+
+ 
+ Raciona la batería del móvil : modo avión, brillo al mínimo y datos solo cuando los necesites. Un powerbank cargado son varias cargas completas; sin él, el móvil se te apaga justo cuando más lo necesitas.
+
+ Recuenta lo que tienes : agua, comida lista, linterna, pilas, botiquín y medicación. Si falta algo, el kit básico de 72 horas y la guía de cuánta agua necesitas y cómo guardarla te dan la cuenta exacta.
+
+ Deja decidido el plan familiar : zonas de encuentro, un contacto fuera de la ciudad y a qué número se llama. Eso se prepara con calma, no en los 30 minutos: plan familiar de emergencia .
+
+ 
+
+ Si te vas, lleva solo lo que se pone en una mochila y se lleva andando: abrigo por capas, agua, algo de comida, documentos en bolsa estanca, cargador y powerbank, botiquín básico, medicación habitual, linterna, silbato y algo de efectivo. La lista completa está en cómo montar tu kit de 72 horas .
+
+
+ Los 30 minutos en una tabla
+
+
+ 
+ Tramo Objetivo Error típico 
+ 
+ 
+ 0-10 min Saber qué pasa y a quién escuchar Llamar al 112 para preguntar o compartir lo primero que llega por redes 
+
+ 10-20 min Asegurar la casa según el escenario Bajar al garaje por el coche o dejar equipos enchufados con la luz venida 
+
+ 20-30 min Decidir: quedarse o salir, y con qué Improvisar la salida sin documentos, sin agua ni sin plan de encuentro 
+
+ 
+ 
+
+ Cinco errores que se repiten en la primera media hora
+
+
+ 
+ Usar el 112 como línea de información. Las dudas se resuelven con la radio, el móvil y los canales oficiales; el 112 se reserva para quien está en peligro.
+
+ Bajar al garaje a salvar el coche. Es el error que más daños personales causa en inundaciones repentinas.
+
+ Calentarse con brasero o estufa de gas sin ventilar ni dormir con ella puesta. El monóxido se cuela sin avisar; lo explica el guía de detectores de monóxido .
+
+ Encenderlo todo de golpe al volver la luz y abrir la nevera cada dos minutos. Los equipos sensibles se desconectan antes y se reconectan poco a poco.
+
+ Creer y compartir cualquier cifra o bulo que circula. En el apagón de 2025 decenas de bulos causaron daños reales; contrasta siempre antes de reenviar.
+
+ 
+
+ Después de los 30 minutos
+
+
+ Los primeros media hora pasan y empieza lo largo: seguir solo instrucciones de fuentes oficiales (112, Protección Civil, autoridades locales y radio FM), no tocar cables caídos ni intentar reparaciones por tu cuenta, y esperar a que la compañía repare el suministro. Si el agua ha entrado, revisa antes de volver a usar cualquier cosa; si el corte se alarga, la comida y el frío se gestionan con las guías de comer sin luz tres días y de alimentos de emergencia con rotación .
+
+
+ Y cuando todo vuelva a la normalidad, repon lo que hayas gastado : una mochila que se usa el primer día y no se repone deja de servir para la siguiente emergencia. Ese es, literalmente, el último paso del plan de 72 horas .
+
+
+ Fuentes oficiales
+
+
+ 
+ Protección Civil — Recomendaciones generales por riesgo (Gobierno de España).
+
+ Protección Civil — Sistema de alerta a la población (ES-Alert) .
+
+ Comisión Europea — Estrategia de la Unión de la Preparación .
+
+ AEMET — Avisos meteorológicos .
+
+ 
+
+ Resumen en tres líneas
+
+
+ Primero información, después casa, al final decisión: esos son los tres tramos de la primera media hora y en ese orden. En DANA, no bajas al garaje; en apagón, no lo enciendes todo de golpe y la linterna va antes que la vela. Quédate en casa salvo orden de evacuación o riesgo real , y si sales, sale preparado y con un plan de encuentro acordado.
 
 ### Comunicar sin red: qué funciona cuando se cae el móvil (2026) — https://kit72h.com/blog/comunicar-sin-red-movil/
 En cada gran emergencia las redes móviles colapsan en minutos: formas de comunicarte que no dependen de antenas, algunas gratis y otras por menos de 40 €.
