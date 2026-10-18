@@ -138,7 +138,8 @@
     "Generador inverter 2000-3000W (gasolina o gas)",
     "Depósito ampliado o conexión a gas natural",
     "Nevera/congeladora solar 12V/220V (compresor)",
-    "Cámara de seguridad solar 4G con batería"
+    "Cámara de seguridad solar 4G con batería",
+    "Antena externa 4G/5G de alta ganancia"
   ],
   "na": [
     "Paracetamol e ibuprofeno (caducidad larga)",
@@ -147,14 +148,14 @@
   ],
   "intentos": {
     "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
-      "n": 1,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-13"
-    },
-    "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
       "n": 2,
       "primera": "2026-10-13",
-      "ultima": "2026-10-14"
+      "ultima": "2026-10-18"
+    },
+    "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
+      "n": 3,
+      "primera": "2026-10-13",
+      "ultima": "2026-10-18"
     },
     "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
       "n": 3,
@@ -207,19 +208,19 @@
       "ultima": "2026-10-15"
     },
     "kit-incendio|Medicación crónica y lista de tratamientos (personas mayores o dependientes)": {
-      "n": 2,
+      "n": 3,
       "primera": "2026-10-14",
-      "ultima": "2026-10-15"
-    },
-    "kit-starlink|Antena externa 4G/5G de alta ganancia": {
-      "n": 1,
-      "primera": "2026-10-16",
-      "ultima": "2026-10-16"
+      "ultima": "2026-10-18"
     },
     "kit-kit-profesional|Set de 10 luminarias LED solares de jardín": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-17",
-      "ultima": "2026-10-17"
+      "ultima": "2026-10-18"
+    },
+    "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
+      "n": 1,
+      "primera": "2026-10-18",
+      "ultima": "2026-10-18"
     }
   }
 }

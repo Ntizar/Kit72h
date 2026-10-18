@@ -3939,10 +3939,11 @@
             },
             {
               "producto": "Antena externa 4G/5G de alta ganancia",
-              "afiliado": "https://www.amazon.es/s?k=antena+externa+4g+5g+alta+ganancia&tag=ntizar-21",
-              "es_busqueda": true,
+              "afiliado": "https://www.amazon.es/dp/B0H864HPJ7?tag=ntizar-21",
+              "es_busqueda": false,
               "descripcion": "12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router.",
-              "precio_aprox": "50-150 €"
+              "precio_aprox": "50-150 €",
+              "verificado_ficha": "2026-10-18"
             }
           ]
         },

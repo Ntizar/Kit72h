@@ -876,26 +876,27 @@
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=ntizar-21",
     "rango_esperado": "10-18 €",
-    "fecha": "2026-10-12",
-    "estado": "sin candidato verificado"
+    "fecha": "2026-10-18",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   },
   "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
     "kit": "huerto-autosuficiencia",
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=ntizar-21",
     "rango_esperado": "20-35 €",
-    "fecha": "2026-10-13",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-18",
+    "intentos": 2,
+    "estado": "sin candidato verificado (intento 2)"
   },
   "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
     "kit": "huerto-autosuficiencia",
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=ntizar-21",
     "rango_esperado": "5-12 €",
-    "fecha": "2026-10-14",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-18",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
     "kit": "kit-bebe",
@@ -1612,9 +1613,9 @@
     "seccion": "Animales y personas que no corren solos",
     "busqueda": "medicación crónica y lista de tratamientos",
     "rango_esperado": "15-60 €",
-    "fecha": "2026-10-15",
-    "intentos": 2,
-    "estado": "sin candidato verificado (intento 2)"
+    "fecha": "2026-10-18",
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-comunicacion|Walkie-talkies PMR446 (pareja, recargables)": {
     "kit": "kit-comunicacion",
@@ -1991,9 +1992,16 @@
     "seccion": "Redundancia: router 4G/5G como respaldo",
     "busqueda": "antena externa 4g 5g de alta ganancia",
     "rango_esperado": "50-150 €",
-    "fecha": "2026-10-16",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-18",
+    "asin": "B0H864HPJ7",
+    "titulo": "Antena de refuerzo externa Omni de banda ancha para exteriores 4G LTE 5G de alta ganancia 10dBi",
+    "precio": 53.4,
+    "rating": 5.0,
+    "resenas": 0,
+    "url": "https://www.amazon.es/dp/B0H864HPJ7?tag=ntizar-21",
+    "verificacion": "buybox",
+    "aplicada": true,
+    "anterior": "https://www.amazon.es/s?k=antena+externa+4g+5g+alta+ganancia&tag=ntizar-21"
   },
   "kit-starlink|Messenger satelital (Garmin inReach Mini 3)": {
     "kit": "kit-starlink",
@@ -2176,9 +2184,9 @@
     "seccion": "Iluminación y seguridad perimetral",
     "busqueda": "set de 10 luminarias led solares de jardín",
     "rango_esperado": "100-200 €",
-    "fecha": "2026-10-17",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-18",
+    "intentos": 2,
+    "estado": "sin candidato verificado (intento 2)"
   },
   "kit-starlink|Cable extensor para Starlink (30 m / 60 m)": {
     "kit": "kit-starlink",
