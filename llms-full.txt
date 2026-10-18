@@ -502,6 +502,128 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor SAI (UPS) para casa y router en un apagón (2026): tipos y VA explicados — https://kit72h.com/blog/mejor-sai-ups-casa-apagon/
+SAI o UPS para casa: seis tipos comparados por VA y vatios, cuánto aguanta router y PC en un apagón, errores y ganadores por caso.
+Son las 12:33 de un martes y se va la luz del router. Ocho segundos, vuelve la corriente y ya está — hasta que a la tercera semana el portátil se reinicia solo o el módem se cae cada vez que salta un diferencial. Ese es el trabajo del SAI (sistema de alimentación ininterrumpida) : aguantar los segundos que la red no da y proteger la casa cuando la luz vuelve.
+
+
+ El dato que ordena este artículo es de Red Eléctrica: en 2025 el sistema peninsular registró 12 interrupciones de suministro, un 29 % menos que en 2024, con un Tiempo de Interrupción Medio de 0,25 minutos , muy lejos de los 15 minutos del artículo 26.2 del Real Decreto 1955/2000. La red española es excelente en promedio, pero el promedio no te consuela cuando el corte te toca a ti: aquí va qué SAI te hace falta y cuántos VA necesitas.
+
+
+ 1. Qué hace un SAI (y las tres cosas que no hace)
+
+
+ Un SAI es una batería con un inversor y un conmutador: cuando la red baja de tensión, desaparece o sube de golpe, conmuta a baterías en milisegundos y sigue dando corriente — el router ni se entera. Filtra además los picos que llegan justo al volver la luz.
+
+
+ 
+ Sí alimenta: router, ONT, portátil, tele, cargadores, luces LED, detector de monóxido: de 15 a 300 W.
+
+ No alimenta: nevera, horno, vitro, lavadora o calefacción: más de 1.000 W con arranque todavía mayor, que un SAI de 1.000 VA no mueve ni un segundo. Para eso hay generador o power station .
+
+ No es un estabilizador: corrige la tensión pero no da ni un segundo de batería. Si se va la luz, se apaga contigo.
+
+ No es un generador: no crea energía, la guarda. Su autonomía se mide en minutos.
+
+ 
+
+ 2. Los seis tipos, comparados
+
+
+ Precios orientativos en Amazon España: cada enlace abre la búsqueda del tipo, así que ves el precio del día, no el de cuando se escribió esto.
+
+
+ 
+ Tipo Cuándo compensa Precio orientativo 
+ 
+ 
+ Mini-UPS de CC para router y ONT ↗ Solo comunicación: lo más barato y lo que más horas da 30-60 € 
+
+ SAI offline de 400-650 VA ↗ Primer PC de sobremesa o tele + router 45-80 € 
+
+ Line-interactive de 1.000-1.500 VA con AVR ↗ Ordenador de trabajo con monitor y periféricos 70-140 € 
+
+ Online de doble conversión ↗ Equipo que no puede permitirse ni una microinterrupción 200-500 € 
+
+ SAI con baterías externas ampliables ↗ Quieres horas, no minutos: autonomía ampliable a mano 150-400 € 
+
+ SAI de 2.000-3.000 VA ↗ Varios equipos a la vez y cuadro eléctrico pequeño 180-350 € 
+
+ 
+ 
+
+ La diferencia entre la primera y la última no es la marca: es cuánta batería llevas dentro. Un detalle que decide la compra: la onda de salida — para router y tele sirve cualquier modelo, pero para fuentes de alimentación (portátiles, audio) lo ideal es onda sinusoidal pura , porque hay SAI baratos con senoide aplanada que los cargadores rechazan con un pitido.
+
+
+ 3. La cuenta de los VA: cuánto necesitas de verdad
+
+
+ Los SAI se venden en VA (voltiamperios) , no en vatios, y ahí está la confusión de casi todas las compras. Como la relación entre ambos es el factor de potencia —entre 0,6 y 0,7 en un SAI doméstico—, cuenta que W ≈ VA × 0,6 : un SAI de 1.000 VA mueve en torno a 600 W. La ficha técnica del modelo es la que manda.
+
+
+ 
+ Qué quieres alimentar Consumo orientativo SAI recomendado Autonomía orientativa 
+ 
+ 
+ Router + ONT 15-30 W Mini-UPS DC o SAI de 400-650 VA 2-4 h 
+
+ Router, tele y cargadores 80-150 W SAI de 650-1.000 VA 45-90 min 
+
+ Portátil + monitor 60-120 W SAI de 1.000-1.500 VA 1-2 h 
+
+ PC de sobremesa con monitor 300-500 W SAI de 1.500-2.000 VA (onda pura) 8-15 min 
+
+ Nevera, horno o calefacción 1.000-3.000 W Ninguno: power station o generador — 
+
+ 
+ 
+
+ Las autonomías son horquillas calculadas sobre la batería de serie (12 V y 7 Ah ronda los 84 Wh) y el rendimiento real del inversor: sirven para comparar modelos, no para firmar, y se desploman si la dejas descargada o con calor. Traducción: lo que un SAI compra no es horas de casa encendida, es que la comunicación no se te caiga mientras decides qué hacer — y esa decisión está en el kit de apagón .
+
+
+ 4. Ganadores por caso
+
+
+ 
+ Router y ONT, lo primero de todo: mini-UPS de CC, el que más horas da por el precio. Si prefieres SAI convencional, el de 600-900 VA para router y ONT ↗ es el punto dulce: aguanta el rato que hace falta y protege además contra el pico de retorno.
+
+ Teletrabajo con portátil: line-interactive de 1.000-1.500 VA con AVR: ver SAIs line-interactive ↗ . El AVR mantiene la tensión sin gastar batería en los bajones de la tarde.
+
+ PC de sobremesa que no puede reiniciarse: online de doble conversión, que alimenta siempre desde baterías: el del kit de electricidad .
+
+ Casa donde ya se han ido las luces varias veces: SAI con baterías externas ampliables: ver modelos ampliables ↗ . La única vía para pasar de minutos a horas.
+
+ Si el objetivo es la casa entera: no es un SAI, es una estación de energía portátil ↗ con panel solar : compara antes en generador frente a power station .
+
+ 
+
+ 5. Los cinco errores que más se repiten
+
+
+ 
+ Comprar por VA sin mirar los vatios reales. Calcula qué enchufas con la tabla de arriba y solo después mira el precio.
+
+ Cargarle la nevera. No solo no la moverá: dejará la batería muerta justo cuando la necesitas para el router.
+
+ Olvidar la batería. Las de plomo duran 3-5 años; una vencida es un SAI que se apaga contigo. Aviso en el calendario cada dos años.
+
+ Comprarlo y no probarlo. Desconecta la red un segundo: si el equipo se reinicia, o está mal conectado o el modelo no vale para esa carga.
+
+ Confundirlo con un estabilizador o un generador. Si necesitas horas de nevera o calefacción, estás en el artículo equivocado: mira powerbanks y estaciones de energía .
+
+ 
+
+ 6. Norma, mantenimiento y cómo encaja en tu kit
+
+
+ Para comprar con criterio basta con fijarse en que el modelo cumple la norma europea armonizada UNE-EN IEC 62040-1:2019 (requisitos de seguridad de los SAI, vigente en España con enmiendas de 2021, 2023 y 2025): garantiza que el aparato es seguro al tocarlo, no que aguante horas.
+
+
+ Mantenimiento en tres líneas: prueba de carga cada seis meses (desconecta la red un minuto), ventilación (que el SAI respire, nunca en mueble cerrado) y sustitución de baterías antes de que el equipo se queje. Regla de oro: pruébalo un día normal, no durante el apagón .
+
+
+ En marzo de 2026 la CNMC publicó su informe de recomendaciones sobre el incidente del 28 de abril de 2025: mitiga los cambios bruscos de tensión y refuerza la inspección de los sistemas de protección. La red mejorará, pero proteger tu casa sigue siendo cosa tuya. La lista está en el kit de apagón y en las lecciones del 28 de abril ; si aún no tienes la base montada, empieza por cómo montar tu kit de 72 horas .
+
 ### Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo — https://kit72h.com/blog/mejor-extintor-domestico/
 Qué extintor para casa: polvo, CO₂, espuma o clase F. Seis tipos comparados con precio, dónde colocarlo y la revisión mensual de un minuto.
 Se quema la sartén, salta la regleta o una vela cae sobre la cortina: entre el fuego de un plato y tener que salir corriendo hay muy poco margen, y en España ese margen se pierde todos los días. En 2024 murieron 234 personas en incendios y explosiones en España, 172 de ellas dentro de viviendas , y entre las probables causas encabezan las eléctricas, con el 41,9 % . Son las cifras del Estudio de víctimas de incendios de la Fundación MAPFRE y la APTB (Asociación Profesional de Técnicos de Bomberos), que desde 2010 recoge los datos de bomberos y de los institutos de medicina forense.
