@@ -56,6 +56,30 @@ CF_GRAPHQL = CF_API + "/graphql"
 TIMEOUT = 30  # segundos por petición HTTP
 
 
+def _cargar_env_local():
+    """Carga el .env del repo sin pisar lo que ya venga en el entorno.
+
+    Así funciona igual lanzado a mano que desde el cron (que solo hereda el
+    entorno de Hermes), y las credenciales viven en un único sitio: el .env
+    del repo (ignorado por git).
+    """
+    ruta = RAIZ / ".env"
+    if not ruta.is_file():
+        return
+    for linea in ruta.read_text(encoding="utf-8").splitlines():
+        linea = linea.strip()
+        if not linea or linea.startswith("#") or "=" not in linea:
+            continue
+        clave, valor = linea.split("=", 1)
+        clave = clave.strip()
+        valor = valor.strip().strip("\"'")
+        if clave and valor and clave not in os.environ:
+            os.environ[clave] = valor
+
+
+_cargar_env_local()
+
+
 def _dias_ventana():
     """Número de días de la ventana (env KIT72H_ANALITICAS_DIAS, por defecto 30)."""
     try:
