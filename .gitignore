@@ -37,6 +37,11 @@ data/_tmp_*.html
 data/_cookies_amz.txt
 data/fichas.db
 
+# secretos locales (token de Cloudflare y demás)
+.env
+.env.*
+!.env.example
+
 # privacidad: veto local y material de trabajo fuera del repo
 .veto-privacidad
 busquedas/

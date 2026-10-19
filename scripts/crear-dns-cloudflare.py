@@ -9,7 +9,6 @@ import sys
 import urllib.request
 from pathlib import Path
 
-ENV = Path(os.environ.get("LOCALAPPDATA", "")) / "hermes" / ".env"
 DOMINIO = "kit72h.com"
 GIT_USER = "ntizar"
 
@@ -18,11 +17,29 @@ A6 = ["2606:50c0:8000::153", "2606:50c0:8001::153",
       "2606:50c0:8002::153", "2606:50c0:8003::153"]  # api.github.com/meta, verificado 2026-09-28
 
 
+def _envs():
+    """Dónde buscar el token: .env del repo, .env de Hermes (Linux) y el de Windows."""
+    rutas = [Path(__file__).resolve().parents[1] / ".env", Path.home() / ".hermes" / ".env"]
+    localappdata = os.environ.get("LOCALAPPDATA")
+    if localappdata:
+        rutas.append(Path(localappdata) / "hermes" / ".env")
+    return rutas
+
+
 def token():
-    for linea in ENV.read_text(encoding="utf-8").splitlines():
-        if linea.startswith("CLOUDFLARE_API_TOKEN="):
-            return linea.split("=", 1)[1].strip()
-    sys.exit(f"CLOUDFLARE_API_TOKEN no encontrado en {ENV}")
+    directo = os.environ.get("CLOUDFLARE_API_TOKEN", "").strip()
+    if directo:
+        return directo
+    for ruta in _envs():
+        if not ruta.is_file():
+            continue
+        for linea in ruta.read_text(encoding="utf-8").splitlines():
+            if linea.startswith("CLOUDFLARE_API_TOKEN="):
+                valor = linea.split("=", 1)[1].strip().strip("\"'").strip()
+                if valor:
+                    return valor
+    sys.exit("CLOUDFLARE_API_TOKEN no encontrado: expórtalo o ponlo en el .env del repo")
+
 
 
 def api(metodo, ruta, datos=None):
