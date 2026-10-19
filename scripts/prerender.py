@@ -39,16 +39,24 @@ def encontrar_chrome():
     import glob as _glob
     pw = sorted(_glob.glob(os.path.expanduser(
         "~/.cache/ms-playwright/chromium-*/chrome-linux*/chrome")))
-    if pw:
-        # el binario de playwright necesita las librerías de sistema extraídas
-        # (~/.chrome-libs): inyectarlas en el env que heredarán los subprocesos
+    hs = (sorted(_glob.glob(os.path.expanduser(
+              "~/.cache/chrome/chrome-headless-shell*/chrome-headless-shell")))
+          + sorted(_glob.glob(os.path.expanduser(
+              "~/.cache/chrome/chrome-headless-shell/*/chrome-headless-shell-linux64/chrome-headless-shell"))))
+    elegido = pw[-1] if pw else (hs[-1] if hs else None)
+    if elegido:
+        # el binario necesita librerías de sistema extraídas (~/.chrome-libs):
+        # inyectarlas en el env que heredarán los subprocesos. Vale tanto para el
+        # chromium de Playwright como para el headless-shell de ~/.cache/chrome
+        # (fix 2026-10-19: en el VM ya no hay build de Playwright ni paquete, y
+        # el headless-shell es el único chrome que responde --dump-dom).
         libs = os.path.expanduser("~/.chrome-libs")
         if os.path.isdir(libs):
             extra = f"{libs}/usr/lib/x86_64-linux-gnu:{libs}/lib/x86_64-linux-gnu"
             actual = os.environ.get("LD_LIBRARY_PATH", "")
             if extra not in actual:
                 os.environ["LD_LIBRARY_PATH"] = f"{extra}:{actual}" if actual else extra
-        return pw[-1]
+        return elegido
     win = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
     if Path(win).exists():
         return win
@@ -341,11 +349,20 @@ def _reexec_playwright_si_procede():
     if not venv.exists():
         return
     # OJO: aquí había un `if sys.executable == venv: return` que daba por hecho que "venir del
-    # venv" ya significaba "versión Playwright". Falso: el wrapper del VM lanza ESTE fichero con
+    # venv" ya significaba "versión Playwright". Falso: wrapper del VM lanza ESTE fichero con
     # el python del venv, así que se quedaba con el CLI de Chrome… y el CLI cuelga con el Chrome
     # 153 que trae el propio Playwright (medido 2026-10-11: rc=124, stdout vacío, hasta con una
     # página trivial). El antídoto contra el bucle ya estaba: la delegación exporta
     # KIT72H_NO_REEXEC=1, así que aquí se delega siempre que haga falta.
+    # OJO 2026-10-19: el venv puede existir SIN el paquete playwright (venv rehecho;
+    # el build de Chromium de Playwright tampoco está en ~/.cache/ms-playwright).
+    # Delegar ahí es un SystemExit(3) «FALTA playwright» que rompe el horneado
+    # entero (buscador, publicador, seo-ctr incluidos) → solo se delega si el
+    # paquete está de verdad; si no, se sigue con el CLI de Chrome local.
+    if not list((venv.parent.parent).glob("lib/python*/site-packages/playwright/__init__.py")):
+        print("prerender: el venv no tiene playwright → uso el CLI de Chrome local",
+              flush=True)
+        return
     alt = Path(__file__).resolve().parent / "prerender_playwright.py"
     if not alt.exists():
         return
