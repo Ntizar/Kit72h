@@ -6,6 +6,49 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-19 — 1 description recuperada (post DANA) + 5 posts re-horneados
+
+**Orden aplicado:** prerender PRIMERO (`python3 scripts/prerender.py`, headless-shell
+del fix `a1766f0`, **81 rutas, 0 fallos**, 0 `index.html` a 0 bytes) → optimización
+DESPUÉS con `analizar_paginas()` (NO `main()`, que haría commit → generar-seo →
+prerender → push y revertiría) → commiteado **sin re-prerender encima**.
+
+**Hallazgo del prerender (11 errores heredados, gate en rojo al empezar):** la Action
+`auto-content` había reescrito 5 posts (`alimentos-emergencia-caducidad-rotacion`,
+`botiquin-emergencia-lista-completa`, `mejor-linterna-emergencia-72h`,
+`mejor-powerbank-emergencia-capacidad`, `mejor-radio-emergencia-manivela-solar`) con su
+plantilla: **sin `id="app"`, sin disclosure y con `styles.css?v=20261001c`** (11 = 5+5+1
+del `?v=` inconsistente). El horneado desde `blog.json` los reescribió y el gate pasó a
+**0 errores antes de tocar nada del CTR**.
+
+### Títulos (0)
+
+La auditoría da **0 títulos >72** y **0 descriptions fuera de 90-155** en los 73
+títulos/66 resúmenes de `kits.json` + `blog.json` y en los `<title>` horneados: nada que
+optimizar en títulos (todo lo de las runs del 13-18 sigue aplicado).
+
+### Descriptions (1)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/dana-apagon-primeros-30-minutos | Los primeros 30 minutos de una DANA o un apagón, tramo a tramo: información, casa y decisión, con la secuencia que enseña Protección Civil. (134) | Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan) para DANA o apagón. (151) | el consejero re-publicó el post el 18-10 y **pisó la description CTR fijada el 14-10**; la recupera `BLOG_DESCRIPCIONES` (número + estructura real del artículo), snippet completo en vez de 134 chars genéricos |
+
+**Dónde viven los cambios:** `data/blog.json` (fuente de verdad) + **4 ficheros
+derivados** con las 6 ocurrencias de la cadena vieja reemplazadas literalmente
+(`blog/dana-apagon-primeros-30-minutos/index.html` ×3 — meta, og:description, JSON-LD —,
+`blog/index.html`, `llms.txt`, `llms-full.txt`) + los **5 posts re-horneados** del
+reparo de auto-content — **sin re-prerender encima de la optimización**. Como el valor
+nuevo está en `blog.json`, el horneado nocturno lo REPRODUCE.
+
+**Verificación:** 0 residuos de la cadena vieja (fuera de `notes/`); metas del HTML de
+la página DANA cuadrando con `blog.json` (título 62, description 151); `html.parser` sin
+errores en los ficheros tocados; **segunda pasada de `analizar_paginas()` → 0 cambios**
+(idempotente); 0 `index.html` a 0 bytes; auditoría de longitudes → 0 problemas.
+
+- Gate: ✅ 0 errores (6 avisos preexistentes).
+
+---
+
 ## 2026-10-18 — 2 títulos de los posts nuevos (77/79 → 66/72) + 2 descriptions con gancho
 
 **Orden aplicado:** prerender PRIMERO (wrapper `kit72h-prerender-vm.py`, Playwright,
