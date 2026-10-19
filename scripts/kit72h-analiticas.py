@@ -42,6 +42,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -172,13 +173,23 @@ def cf_desglose(token, cuenta, site, ini, fin, dimension, orden, limite, con_sum
 
 
 def cf_consultar(token, cuenta, site, ini, fin, dimension, orden="count_DESC", limite=500):
-    """Consulta tolerante: primero con sum{visits}; si falla, reintenta solo con count."""
-    filas, err = cf_desglose(token, cuenta, site, ini, fin, dimension, orden, limite, True)
-    if filas is None:
-        filas, err = cf_desglose(token, cuenta, site, ini, fin, dimension, orden, limite, False)
-    if filas is None and err:
+    """Consulta tolerante con reintentos. Prefiere count; sum{visits} como fallback.
+
+    Verificado 2026-10-19: el GraphQL de RUM de Cloudflare es intermitente
+    («unable to execute query, please try again later») y con `sum { visits }`
+    devuelve muestras absurdas (series de 4 fechas con cifras redondas y
+    visitas=0 con count=1000). Sin `sum`, todo responde bien → primero count;
+    si la intermitencia lo bloquea, se reintenta alternando y con pausa.
+    """
+    filas, err = None, None
+    for intento, con_sum in enumerate((False, True, False, True, False)):
+        filas, err = cf_desglose(token, cuenta, site, ini, fin, dimension, orden, limite, con_sum)
+        if filas:
+            return filas
+        time.sleep(2 * (intento + 1))
+    if err:
         print("  ⚠️ consulta '%s' falló: %s" % (dimension, str(err)[:160]), file=sys.stderr)
-    return filas or []
+    return []
 
 
 # ─────────────────────────── Normalización ────────────────────────────────

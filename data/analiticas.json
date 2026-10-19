@@ -1,18 +1,408 @@
 {
-  "generado": "2026-10-12T07:11:44Z",
-  "fuente": "ninguna",
-  "estado": "sin-credenciales",
-  "mensaje": "Sin credenciales de analítica. Falta UMAMI_API_KEY (Umami Cloud; el websiteId se autodescubre) o, en su lugar, CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID. El dashboard seguirá leyendo el fichero con totales a 0.",
+  "generado": "2026-10-19T17:07:11Z",
+  "fuente": "cloudflare",
+  "estado": "ok",
+  "mensaje": "Métricas de Cloudflare Web Analytics leídas correctamente.",
   "ventana_dias": 30,
   "totales": {
-    "visitas": 0,
-    "paginas": 0,
+    "visitas": 2980,
+    "paginas": 2980,
     "clics_amazon": 0
   },
-  "serie_diaria": [],
-  "paginas": [],
-  "referrers": [],
-  "paises": [],
-  "dispositivos": [],
+  "serie_diaria": [
+    {
+      "fecha": "2026-09-20",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-21",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-22",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-23",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-24",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-25",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-26",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-27",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-09-28",
+      "visitas": 320
+    },
+    {
+      "fecha": "2026-09-29",
+      "visitas": 770
+    },
+    {
+      "fecha": "2026-09-30",
+      "visitas": 110
+    },
+    {
+      "fecha": "2026-10-01",
+      "visitas": 410
+    },
+    {
+      "fecha": "2026-10-02",
+      "visitas": 240
+    },
+    {
+      "fecha": "2026-10-03",
+      "visitas": 20
+    },
+    {
+      "fecha": "2026-10-04",
+      "visitas": 90
+    },
+    {
+      "fecha": "2026-10-05",
+      "visitas": 110
+    },
+    {
+      "fecha": "2026-10-06",
+      "visitas": 150
+    },
+    {
+      "fecha": "2026-10-07",
+      "visitas": 420
+    },
+    {
+      "fecha": "2026-10-08",
+      "visitas": 70
+    },
+    {
+      "fecha": "2026-10-09",
+      "visitas": 70
+    },
+    {
+      "fecha": "2026-10-10",
+      "visitas": 20
+    },
+    {
+      "fecha": "2026-10-11",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-10-12",
+      "visitas": 10
+    },
+    {
+      "fecha": "2026-10-13",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-10-14",
+      "visitas": 30
+    },
+    {
+      "fecha": "2026-10-15",
+      "visitas": 50
+    },
+    {
+      "fecha": "2026-10-16",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-10-17",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-10-18",
+      "visitas": 70
+    },
+    {
+      "fecha": "2026-10-19",
+      "visitas": 20
+    }
+  ],
+  "paginas": [
+    {
+      "ruta": "/",
+      "visitas": 2020,
+      "pct": 67.8
+    },
+    {
+      "ruta": "/kit/kit-basico-72h/",
+      "visitas": 230,
+      "pct": 7.7
+    },
+    {
+      "ruta": "/blog/",
+      "visitas": 170,
+      "pct": 5.7
+    },
+    {
+      "ruta": "/zona/",
+      "visitas": 110,
+      "pct": 3.7
+    },
+    {
+      "ruta": "/kit/kit-kit-profesional/",
+      "visitas": 90,
+      "pct": 3.0
+    },
+    {
+      "ruta": "/fuentes/",
+      "visitas": 80,
+      "pct": 2.7
+    },
+    {
+      "ruta": "/blog/terremoto-espana-que-hacer/",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/kit/kit-30-dias/",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/kit/kit-apagon/",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/kit/kit-calor/",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/kit/kit-starlink/",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/blog/botiquin-emergencia-que-llevar/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/comer-sin-luz-menus-3-dias/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/generador-solar-emergencia-72h/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/generador-vs-power-station-comparativa/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/mejor-powerbank-emergencia-capacidad/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/mejor-sim-datos-emergencia-cobertura/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/mejor-starlink-espana-precio/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/panel-solar-portatil-72h-emergencia/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/panel-solar-portatil-realista-quantos-watts-urgente/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/plan-familiar-de-emergencia/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/blog/salud-mental-y-sueno-en-una-emergencia/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-bebe/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-coche/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-dana/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-electricidad/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-hogar/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-incendio/",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "ruta": "/kit/kit-montana/",
+      "visitas": 10,
+      "pct": 0.3
+    }
+  ],
+  "referrers": [
+    {
+      "origen": "kit72h.com",
+      "visitas": 1460,
+      "pct": 49.0
+    },
+    {
+      "origen": "(directo)",
+      "visitas": 810,
+      "pct": 27.2
+    },
+    {
+      "origen": "t.co",
+      "visitas": 560,
+      "pct": 18.8
+    },
+    {
+      "origen": "www.google.com",
+      "visitas": 140,
+      "pct": 4.7
+    },
+    {
+      "origen": "yandex.com",
+      "visitas": 10,
+      "pct": 0.3
+    }
+  ],
+  "paises": [
+    {
+      "pais": "ES",
+      "visitas": 2580,
+      "pct": 86.6
+    },
+    {
+      "pais": "US",
+      "visitas": 170,
+      "pct": 5.7
+    },
+    {
+      "pais": "DE",
+      "visitas": 50,
+      "pct": 1.7
+    },
+    {
+      "pais": "CH",
+      "visitas": 30,
+      "pct": 1.0
+    },
+    {
+      "pais": "AE",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "pais": "CN",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "pais": "MX",
+      "visitas": 20,
+      "pct": 0.7
+    },
+    {
+      "pais": "AR",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "BE",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "CO",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "EE",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "GB",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "GR",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "IE",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "SI",
+      "visitas": 10,
+      "pct": 0.3
+    },
+    {
+      "pais": "TW",
+      "visitas": 10,
+      "pct": 0.3
+    }
+  ],
+  "dispositivos": [
+    {
+      "tipo": "móvil",
+      "visitas": 1650,
+      "pct": 55.4
+    },
+    {
+      "tipo": "escritorio",
+      "visitas": 1320,
+      "pct": 44.3
+    },
+    {
+      "tipo": "tableta",
+      "visitas": 10,
+      "pct": 0.3
+    }
+  ],
   "eventos": []
 }

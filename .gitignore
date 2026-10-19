@@ -42,3 +42,4 @@ data/fichas.db
 busquedas/
 productos-amazon*.xlsx
 productos-lista.txt
+.env
