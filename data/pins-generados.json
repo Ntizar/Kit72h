@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-15",
-    "total": 73,
-    "png_total": 73
+    "ultima_generacion": "2026-10-19",
+    "total": 77,
+    "png_total": 77
   },
   "pins": [
     {
@@ -661,6 +661,42 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-starlink-espana-precio.html",
       "png": "png/pin-blog-mejor-starlink-espana-precio.png"
+    },
+    {
+      "slug": "pin-blog-mejor-mochila-emergencia-evacuacion",
+      "tipo": "blog",
+      "titulo": "Mejor mochila de emergencia 2026: 6 mochilas de evacuación comparadas",
+      "url": "https://kit72h.com/blog/mejor-mochila-emergencia-evacuacion/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-mochila-emergencia-evacuacion.html",
+      "png": "png/pin-blog-mejor-mochila-emergencia-evacuacion.png"
+    },
+    {
+      "slug": "pin-blog-mejor-sai-ups-casa-apagon",
+      "tipo": "blog",
+      "titulo": "Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026)",
+      "url": "https://kit72h.com/blog/mejor-sai-ups-casa-apagon/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-sai-ups-casa-apagon.html",
+      "png": "png/pin-blog-mejor-sai-ups-casa-apagon.png"
+    },
+    {
+      "slug": "pin-blog-mejor-extintor-domestico",
+      "tipo": "blog",
+      "titulo": "Mejor extintor doméstico 2026: 6 tipos y dónde colocarlo",
+      "url": "https://kit72h.com/blog/mejor-extintor-domestico/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-extintor-domestico.html",
+      "png": "png/pin-blog-mejor-extintor-domestico.png"
+    },
+    {
+      "slug": "pin-blog-mejor-detector-monoxido-carbono",
+      "tipo": "blog",
+      "titulo": "Mejor detector de monóxido de carbono: 6 tipos comparados (2026)",
+      "url": "https://kit72h.com/blog/mejor-detector-monoxido-carbono/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-detector-monoxido-carbono.html",
+      "png": "png/pin-blog-mejor-detector-monoxido-carbono.png"
     }
   ]
 }
