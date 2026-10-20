@@ -19,3 +19,5 @@
 | 2026-10-17 | generador-solar-emergencia-72h | revamp | encolado | Revamp stub 267w a 2.210w (8,3x) con _mejora:true y titulo nuevo; 12 internos, 3 afiliados tag=ntizar-21, 4 fuentes oficiales verificadas; why-now: alerta de to |
 | 2026-10-18 | dana-apagon-primeros-30-minutos | revamp | encolado | Revamp stub 281w a 1.612w (5,7x) con _mejora:true, fecha 2026-08-31 conservada; 19 internos, 2 afiliados tag, 4 fuentes oficiales verificadas 200 |
 | 2026-10-19 | mascotas-plan-emergencia | revamp | encolado | Revamp stub 284w → 1.220w (x4,3) con _mejora:true y fecha 2026-08-31 conservada: plan de evacuación 4 pasos, tabla kit, 5 internos, 2 afiliados verificados, 3 f |
+| 2026-10-20 | carpeta-de-emergencia-documentos | revamp | encolado | Revamp stub 290w → 1.209 palabras (4,2x) con _mejora:true y fecha 2026-08-31 conservada: 7 bloques de documentos, tabla casa/mochila/nube, efectivo en apagón, c |
+| 2026-10-20 | mascotas-plan-emergencia | revamp | atrasada | Entrada del 19/10 (284w → 1.220w) NO publicada: publicador fallo 2 veces con rc=3 FALTA playwright y hizo rollback. Arreglado en 8262b32. Respaldada en _entrada |
