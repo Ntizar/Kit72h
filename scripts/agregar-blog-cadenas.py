@@ -87,7 +87,7 @@ CUERPO = """
 
 ENTRADA = {
     "slug": SLUG,
-    "titulo": "Mejores cadenas para la nieve 2026: 5 opciones comparadas y cuándo son obligatorias",
+    "titulo": "Mejores cadenas para la nieve 2026: 5 opciones y cuándo exige la DGT",
     "fecha": HOY,
     "lectura": "7 min",
     "resumen": "Metálicas, calcetines o neumáticos de invierno: 5 opciones comparadas por precio y uso, con lo que exige la DGT y los errores que más se repiten.",

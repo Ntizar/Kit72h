@@ -6,6 +6,44 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-20 — 1 título truncado del post nuevo (cadenas de nieve)
+
+**Orden aplicado:** prerender PRIMERO (`python3 scripts/prerender.py`, **82 rutas,
+0 fallos**, 0 `index.html` a 0 bytes, **diff = 0** → el árbol ya estaba horneado y
+sincronizado) → optimización DESPUÉS con `analizar_paginas()` (NO `main()`, que
+haría commit → generar-seo → prerender → push y revertiría) → commiteado **sin
+re-prerender encima**.
+
+**Auditoría de las 82 páginas publicadas:** 0 descuadres JSON↔HTML, 0 descriptions
+fuera de 90–155, 0 títulos sin 2026, **1 título fuera de rango** — el único post
+nuevo desde la última run (publicado el 20-10).
+
+### Títulos (1)
+
+| Página | Antes | Después | Motivo |
+|---|---|---|---|
+| blog/mejores-cadenas-para-la-nieve | Mejores cadenas para la nieve 2026: 5 opciones comparadas y cuándo son obligatorias (**83, se trunca**) | Mejores cadenas para la nieve 2026: 5 opciones y cuándo exige la DGT (68) | keyword + año + número delante; «exige la DGT» es la sección 1 del propio artículo (13 menciones de DGT), no un claim inventado |
+
+### Descriptions (0)
+
+Todas en 90–155 con números y gancho; la del post de las cadenas ya era buena
+(145: tipos, precio/uso, DGT y errores) → sin cambios.
+
+**Dónde viven los cambios:** `data/blog.json` (fuente de verdad) +
+`scripts/kit72h-seo-ctr.py` (`BLOG_TITULOS` con la entrada nueva y comentada, para
+que ninguna run futura lo revierta) + **15 ficheros derivados** con la cadena vieja
+reemplazada literalmente: la propia página (5 ocurrencias: `<title>`, og:title,
+JSON-LD `headline`, breadcrumb y tarjeta), `blog/index.html` (2), interlinking «Sigue
+leyendo» de 7 páginas, `index.html`, `feed.xml`, `llms.txt`, `llms-full.txt` y el
+generador `scripts/agregar-blog-cadenas.py` — **sin rehornear**.
+
+**Verificación:** 0 residuos del título viejo fuera de `notes/`; `html.parser` sin
+fallos en los 15 HTML tocados; `<title>` nuevo (68 chars) presente en su página;
+segunda pasada de `analizar_paginas()` → 0 cambios (idempotente); gate **✅ 0
+errores** (6 avisos preexistentes).
+
+---
+
 ## 2026-10-19 — 1 description recuperada (post DANA) + 5 posts re-horneados
 
 **Orden aplicado:** prerender PRIMERO (`python3 scripts/prerender.py`, headless-shell

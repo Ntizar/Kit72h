@@ -223,6 +223,11 @@ BLOG_TITULOS = {
         "Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026)",
     "generador-solar-emergencia-72h":
         "Generador solar para emergencias: cuánta autonomía da y 5 errores (2026)",
+    # CTR 2026-10-20: publicado el 20-10 con 83 chars → el SERP lo cortaba a
+    # media frase. Keyword + año + número delante; «cuándo exige la DGT» es la
+    # sección 1 del propio artículo («Qué exige la DGT, en cuatro puntos»).
+    "mejores-cadenas-para-la-nieve":
+        "Mejores cadenas para la nieve 2026: 5 opciones y cuándo exige la DGT",
 }
 
 # ── Aplicar mejoras ──────────────────────────────────────────────────────
