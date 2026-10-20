@@ -52,6 +52,7 @@
 | mejor extintor doméstico | media | compra | /blog/mejor-extintor-domestico/ (+ kit-incendio) | ✅ hecha (2026-10-17) | P2 |
 | mejor SAI UPS para casa y router apagón | media | compra | /blog/mejor-sai-ups-casa-apagon/ (+ kit-apagon) | ✅ hecha (2026-10-18) | P2 |
 | mejor mochila de emergencia y evacuación | media | compra | /blog/mejor-mochila-emergencia-evacuacion/ (+ /kit/kit-evacuacion/) | ✅ hecha (2026-10-19) | P2 |
+| mejores cadenas para la nieve | media (estacional nov-mar) | compra | /blog/mejores-cadenas-para-la-nieve/ (+ /kit/kit-coche/) | ✅ hecha (2026-10-20) | P2 |
 
 ### Cluster D — normativa y autoridad (Google premia a quien la cita)
 | Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |

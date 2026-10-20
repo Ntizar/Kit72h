@@ -502,6 +502,104 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejores cadenas para la nieve 2026: 5 opciones comparadas y cuándo son obligatorias — https://kit72h.com/blog/mejores-cadenas-para-la-nieve/
+Metálicas, calcetines o neumáticos de invierno: 5 opciones comparadas por precio y uso, con lo que exige la DGT y los errores que más se repiten.
+Cada invierno pasa lo mismo: llega el aviso de nieve, la sierra se llena y los conductores que solo bajan a la gasolinera descubren que no tienen cadenas, que no saben ponerlas o que las que compraron hace tres años ya no valen para el coche actual. Elegir bien evita quedarse tirado en un puerto con visibilidad escasa —y también llegar tarde a donde ibas—, y no es caro: entre una cadena y otra hay veinte o treinta euros.
+
+
+ La norma española es sencilla y conviene repetirla: no hay fechas fijas . La obligación de llevar cadenas (o neumáticos de invierno que los sustituyan) la marca la señalización de cada tramo y el estado de la vía que informa la DGT, no un calendario. Antes de salir, lo oficial es consultar el estado del tráfico en dgt.es o mapamovilidad.dgt.es, llamar al 011 o escuchar los boletines de radio; y si hay aviso de AEMET para la zona, mejor posponer el plan. Lo demás —qué comprar, cómo ponerlas y cómo guardarlas— está en esta comparativa.
+
+
+ 1. Qué exige la DGT, en cuatro puntos
+
+
+ 
+ La señal manda, no el calendario. Donde está puesta la señal de obligación de cadenas no se continúa sin ellas (ni sin otro dispositivo autorizado). El catálogo oficial de señales se actualizó con el Real Decreto 465/2025, así que en algunos mapas y manuales aparecen códigos distintos para la misma señal: fíjate en el panel del tramo, no en la letra de la norma.
+
+ Los neumáticos de invierno solo sustituyen a las cadenas si están marcados. La DGT admite circular sin cadenas —cuando la señal lo exige— con neumáticos marcados con el símbolo de la montaña de tres picos (3PMSF); la marca M+S sola no vale para sustituir. Están pensados para temperaturas por debajo de unos 7 °C.
+
+ Velocidades y colocación: máximo 30 km/h con cadenas metálicas y 50 km/h con las de tela; siempre en el eje motriz (las dos ruedas de ese eje) y, si el coche es a las cuatro ruedas, delante.
+
+ Conducir con cadenas no es conducir igual: nada de acelerones ni frenazos bruscos, y sobre calzada sin nieve la frenada es más larga — quítalas en cuanto termine el tramo.
+
+ 
+
+ 2. Los cinco tipos comparados
+
+
+ Precios orientativos en Amazon España. Cada enlace abre la búsqueda del tipo, así que ves el precio del día, no el de cuando se escribió esto. Y antes de pagar, mira la talla de tus neumáticos (algo como 205/55 R16, en el flanco del neumático o en la puerta del conductor): una cadena que no es tu medida no es una cadena, es un peso en el maletero.
+
+
+ 
+ Tipo Cuándo compensa Límite Precio orientativo 
+ 
+ 
+ Cadenas metálicas de eslabón ↗ La referencia: válidas en cualquier tramo con señal, duran años 30 km/h 30-80 € 
+
+ Cadenas con sujeción rápida (tensor) ↗ Se ponen en la mitad de tiempo y con las manos frías: mismas normas, montaje más cómodo 30 km/h 50-130 € 
+
+ Calcetines textiles ↗ Se ponen en un minuto y sin mancharse; valen donde la vía admite dispositivos textiles 50 km/h 20-55 € 
+
+ Neumáticos de invierno 3PMSF ↗ Zona nevada o salidas de fin de semana cada semana: sustituyen a las cadenas donde la señal lo exige Según neumático 60-120 € por rueda 
+
+ Neumáticos todo tiempo (all-season) ↗ Sin cambio de temporada; en nieve repetida rinden menos que un invierno de verdad Según neumático 70-140 € por rueda 
+
+ 
+ 
+
+ 3. Ganadores por caso
+
+
+ 
+ La mayoría de conductores (una salida a la sierra de vez en cuando): cadenas metálicas de tu talla , las básicas bien ajustadas. Es lo que todas las vías aceptan y lo más barato que funciona de verdad.
+
+ Vives en zona nevada o bajas varios fines de semana seguidos: neumáticos de invierno 3PMSF. Con ellos cumples donde la señal exige cadenas, y no llevas el resto del año con un juego de cadenas ocupando el maletero.
+
+ Manos frías, prisa o quien nunca las ha puesto: calcetines textiles en los tramos que admiten tejido (son los más rápidos de poner) — y si no sabes si tu ruta los admite, metálicas.
+
+ Todo terreno y caminos sin asfaltar: metálicas con tensor, siempre; guantes y frontal en la misma bolsa que ellas.
+
+ Presupuesto ajustado: mejor una cadena básica de tu talla que una «barata» de otra medida. El año siguiente le sumas los guantes y la linterna.
+
+ 
+
+ 4. Cómo ponerlas, según la propia DGT
+
+
+ 
+ Parar en un sitio seguro , fuera de la calzada y sin cuesta: mejor subir el coche a un aparcamiento ancho que ponerte en un arcén con poca visibilidad.
+
+ Eje motriz: delante si el coche es a las cuatro ruedas; atrás si es tracción trasera. Las dos ruedas de ese eje, nunca «una de cada lado».
+
+ Montaje: aro rígido por detrás de la rueda, centrado, anillo exterior, tensor y el sobrante enganchado para que no golpee el paso de rueda.
+
+ Marcha suave , sin acelerones ni frenazos, y al terminar el tramo de nieve se quitan: sobre asfalto limpio estorban y desgastan.
+
+ Al guardar: lavarlas y secarlas. La sal de la carretera las corroe por dentro, y una cadena oxidada se rompe justo cuando más la necesitas.
+
+ 
+
+ 5. Los cinco errores que más se repiten
+
+
+ 
+ No probarlas antes. El primer montaje en un aparcamiento con las manos templadas son dos minutos; en un puerto con nieve y sin guantes, veinte. Hazlo una vez en casa.
+
+ Comprar por precio sin mirar la talla. La cadena más barata que no abrocha en tus ruedas no es una ganga: es un viaje a la gasolinera para no salir del aparcamiento.
+
+ Llevar calcetines a un tramo que solo admite metálicas. Si el panel lo especifica o tu ruta habitual lo exige, metálicas: son las que valen en todos los casos.
+
+ Guardarlas mojadas o con elásticos rotos. Revisión de dos minutos al terminar la temporada: limpias, secas y en una bolsa sin agujeros.
+
+ Fiarse solo del GPS. El estado de la vía se consulta en dgt.es y mapamovilidad.dgt.es, en el 011 y en los boletines de radio; si hay restricción o aviso de AEMET, se pospone el viaje, no se fuerza.
+
+ 
+
+ 6. El kit del maletero, en seis objetos
+
+
+ Además de las cadenas de tu talla: guantes de trabajo (los de invierno se empapan), una linterna con pilas de repuesto, una toalla vieja para las manos y el barro, agua y algo de comer por si te quedas tirado un par de horas, y la manta o el abrigo extra para los pasajeros. Todo eso vive en el kit de coche junto a la baliza V-16, el chaleco y el botiquín; el reparto completo está en qué llevar en el coche de emergencia . Y si el aviso llega con la casa sin preparar, lo básico para pasar la nevada sin luz lo tienes en nevada en casa: qué necesitas ; el abrigo, paso a paso, en vestirse por capas .
+
 ### Mejor mochila de emergencia 2026: 6 mochilas de evacuación comparadas — https://kit72h.com/blog/mejor-mochila-emergencia-evacuacion/
 ¿Qué mochila coges si hay que salir de casa en diez minutos? 6 tipos comparados por litros, peso y precio, ganadores por caso y qué va dentro (2026).
 A las 23:40 llega la orden: el agua entra por la calle de abajo o el humo se ve desde el pueblo de al lado. Tienes minutos, no horas. Esa es la única razón de ser de la mochila de evacuación : preparada de antemano, en el mismo sitio desde hace semanas, lista para coger de un tirón mientras el resto de la casa se levanta.
