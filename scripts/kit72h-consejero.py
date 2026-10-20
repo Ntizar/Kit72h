@@ -349,7 +349,13 @@ def _cmd_prerender():
     (venv ~/.mastermind/venv). Si no hay venv/playwright, caemos al CLI."""
     venv = Path.home() / ".mastermind" / "venv" / "bin" / "python"
     if venv.exists():
-        return [str(venv), "scripts/prerender_playwright.py"]
+        # OJO 2026-10-20: el venv puede existir SIN el paquete playwright (venv
+        # rehecho): delegar ahí es un SystemExit(3) «FALTA playwright» que rompe
+        # el horneado del publicador. Mismo antídoto que
+        # prerender.py::_reexec_playwright_si_procede: solo delegar si el paquete
+        # está de verdad; si no, CLI de Chrome local (headless-shell).
+        if list((venv.parent.parent).glob("lib/python*/site-packages/playwright/__init__.py")):
+            return [str(venv), "scripts/prerender_playwright.py"]
     return ["python3", "scripts/prerender.py"]
 
 
