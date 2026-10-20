@@ -148,9 +148,9 @@
   ],
   "intentos": {
     "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
-      "n": 2,
+      "n": 3,
       "primera": "2026-10-13",
-      "ultima": "2026-10-18"
+      "ultima": "2026-10-20"
     },
     "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
       "n": 3,
@@ -218,9 +218,19 @@
       "ultima": "2026-10-19"
     },
     "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
-      "n": 1,
+      "n": 2,
       "primera": "2026-10-18",
-      "ultima": "2026-10-18"
+      "ultima": "2026-10-20"
+    },
+    "huerto-autosuficiencia|Medidor de humedad y pH del suelo (3-en-1)": {
+      "n": 1,
+      "primera": "2026-10-20",
+      "ultima": "2026-10-20"
+    },
+    "huerto-autosuficiencia|Compostera doméstica con grifo (20 L)": {
+      "n": 1,
+      "primera": "2026-10-20",
+      "ultima": "2026-10-20"
     }
   }
 }
