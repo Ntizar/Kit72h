@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-19",
-    "total": 77,
-    "png_total": 77
+    "ultima_generacion": "2026-10-21",
+    "total": 78,
+    "png_total": 78
   },
   "pins": [
     {
@@ -697,6 +697,15 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-detector-monoxido-carbono.html",
       "png": "png/pin-blog-mejor-detector-monoxido-carbono.png"
+    },
+    {
+      "slug": "pin-blog-mejores-cadenas-para-la-nieve",
+      "tipo": "blog",
+      "titulo": "Mejores cadenas para la nieve 2026: 5 opciones y cuándo exige la DGT",
+      "url": "https://kit72h.com/blog/mejores-cadenas-para-la-nieve/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejores-cadenas-para-la-nieve.html",
+      "png": "png/pin-blog-mejores-cadenas-para-la-nieve.png"
     }
   ]
 }
