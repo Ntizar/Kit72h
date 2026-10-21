@@ -21,3 +21,5 @@
 | 2026-10-19 | mascotas-plan-emergencia | revamp | encolado | Revamp stub 284w → 1.220w (x4,3) con _mejora:true y fecha 2026-08-31 conservada: plan de evacuación 4 pasos, tabla kit, 5 internos, 2 afiliados verificados, 3 f |
 | 2026-10-20 | carpeta-de-emergencia-documentos | revamp | encolado | Revamp stub 290w → 1.209 palabras (4,2x) con _mejora:true y fecha 2026-08-31 conservada: 7 bloques de documentos, tabla casa/mochila/nube, efectivo en apagón, c |
 | 2026-10-20 | mascotas-plan-emergencia | revamp | atrasada | Entrada del 19/10 (284w → 1.220w) NO publicada: publicador fallo 2 veces con rc=3 FALTA playwright y hizo rollback. Arreglado en 8262b32. Respaldada en _entrada |
+|| 2026-10-21 | botiquin-emergencia-que-llevar · revamp · encolado · Revamp stub 293w → 1.080w (3,7x) con _mejora:true, fecha 2026-08-31 conservada: 2 tablas, 4 perfiles familia, 4 afiliados tag=ntizar-21, 4 fuentes oficiales
+| 2026-10-21 | botiquin-emergencia-que-llevar | revamp | encolado | Revamp stub 293w → 1.080w con 2 tablas, 4 perfiles familia, 4 fuentes oficiales |
