@@ -5461,22 +5461,214 @@ Tras cada DANA, incendio grave o apagón prolongado en España se repite la mism
  Todo escaneado en un PDF cifrado y copiado al USB de fuera.
  La carpeta es solo una pieza: el plan familiar de emergencia decide quién hace qué, la guía del kit de 72 horas monta lo demás y la guía de los primeros 30 minutos ordena lo que haces el mismo día. Si toca salir de casa, la mochila de evacuación ya contempla carpeta estanca y USB, y el kit de hogar deja sitio para guardar originales donde no se mojen. Y si vives solo, el checklist de vivir solo te da el mismo esquema sin depender de nadie.
 
-### Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
-Un botiquín útil no es el que tiene 200 cosas: es el que tiene lo que tu familia usa de verdad, en cantidad suficiente y con caducidad en regla.
-El error clásico al montar un botiquín es comprar un kit de 200 piezas relleno de cosas que nunca usarás, y no tener ni un paquete de tu medicación habitual. Un botiquín de emergencia se diseña desde tu casa hacia fuera , no desde la tienda.
- La base que sí importa
- Medicación habitual con margen de 1-2 semanas mínimo (insulina, inhaladores, antihipertensivos). Es lo más crítico y lo primero que se agota en una crisis.
- Curas : tiras adhesivas, gasas estériles, esparadrapo, vendas de distintos tamaños.
- Antisépticos : povidona yodada o clorhexidina, suero fisiológico para limpiar heridas y ojos.
- Herramientas : tijeras, pinzas, termómetro digital, guantes desechables.
- Analgésicos y antitérmicos básicos (paracetamol, ibuprofeno), siguiendo siempre las indicaciones de tu farmacéutico.
- Qué sobra casi siempre
- Los grandes kits de tienda incluyen torniquetes de combate o instrumental que en un hogar normal no vas a usar jamás. Lo que te va a pasar es una cortadura, una quemadura de cocina o una gastroenteritis. Cubre eso de sobra antes de pensar en lo exótico.
- Caducidades: el punto débil
- Toda la medicación tiene fecha. Revisa el botiquín cada 6 meses (el mismo recordatorio que el agua del kit 72h) y apunta la fecha en la tapa. Cuando renueves, las farmacias aceptan el medicamento caducado para su correcta destrucción — por SIGRE, nunca a la basura.
- Dónde guardarlo
- En un sitio fresco, seco, conocido por toda la familia y fuera del baño : la humedad de las duchas degrada medicación y apósitos. Una caja rígida con cierre te sirve; para el coche, una bolsa compacta.
- Si quieres una lista cerrada y equilibrada, el kit de hogar incluye la sección de salud completa y el kit de 30 días añade un botiquín de 222 piezas con lo esencial cubierto.
+### Botiquín de emergencia: qué llevar de verdad (y qué sobra) — https://kit72h.com/blog/botiquin-emergencia-que-llevar/
+La lista de lo que tu familia necesita realmente en una emergencia sanitaria, sin innecesarios. Cuánto de cada cosa, caducidad y dónde comprarlo todo con un clic.
+El botiquín de emergencia no es el que tiene más cosas
+
+
+ Un botiquín útil no es el que se llena de 200 objetos de farmacia: es el que tiene lo que tu familia usa de verdad , en cantidad suficiente, con caducidad en regla y a mano cuando llega la emergencia. La mayoría de los kit de farmacia genéricos del supermercado traen lo básico y se quedan cortos en situaciones reales de urgencia — desde un corte profundo hasta una reacción alérgica o una fiebre que no baja.
+
+
+ En España, según datos de la Ministerio de Sanidad , más del 60 % de las llamadas al 112 son por problemas no urgentes que podrían resolverse con un botiquín bien montado. En emergencias reales — apagones, inundaciones, nevadas — el botiquín es lo primero que se busca.
+
+
+ Lo imprescindible: la base
+
+
+ Esto es lo que NO puede faltar, con cantidades suficientes para 72 horas:
+
+
+ 
+ 
+ Qué llevar Cantidad mínima Para qué 
+
+ 
+ 
+ Vendas elásticas 4 unidades Inmovilizar esguinces, sujetar apósitos 
+
+ Apósitos adhesivos (tallas variadas) 20 unidades Cortes pequeños, ampollas, heridas superficiales 
+
+ Tiritas 20 unidades Heridas menores de los peques y mayores 
+
+ Gasas estériles (10×10) 10 unidades Cubrir heridas medianas y grandes 
+
+ Cinta de papel hipoalergénica 1 rollo Sujetar vendas y gasas sin irritar 
+
+ Guantes de nitrilo 2 pares Protegerse al atender heridas (evitar infección cruzada) 
+
+ Antiséptico (clorhexidina o povidona yodada) 2 frascos Limpiar heridas antes de taparlas 
+
+ Cinta adhesiva sanitaria (micropore) 2 rollos Sujetar apósitos sin pegar a la piel 
+
+ 
+ 
+
+ Medicación: lo que marca la diferencia
+
+
+ No basta con curitas. Una emergencia sin analgésicos es un sufrimiento innecesario. Según la Sociedad Española de Farmacia Comunitaria , la automedicación es la primera línea de actuación en el 78 % de los casos menores. Lo esencial:
+
+
+ 
+ Paracetamol (tabletas o jarabe infantil): fiebre, dolor. Dosis según peso, nunca sobre los 4 g/día en adultos.
+
+ Ibuprofeno (400 mg): inflamación + dolor (esguinces, inflamación de heridas). No tomar con estómago vacío.
+
+ Loratadina o cetirizina (comprimidos): reacciones alérgicas, urticaria, picaduras. Un comprimido al día.
+
+ Suero oral (bolsas): diarrea, vómitos, deshidratación. Fundamental en DANA o inundaciones donde el agua del grifo puede contaminarse.
+
+ Antiácidos (compuestas): gastritis por estrés, mala alimentación en emergencia.
+
+ Pomada antibiótica (fresomicina): prevenir infección en heridas pequeñas.
+
+ 
+
+ ⚠️ Importante: si alguien de la familia toma medicación crónica (diabetes, hipertensión, tiroides), incluye un mínimo de 7 días de stock extra. Consulta con tu médico la cantidad adecuada.
+ 
+
+ Lo que sobra (y ocupa espacio)
+
+
+ El botiquín ideal se queda ligero. Evita estos innecesarios:
+
+
+ 
+ Termómetro digital (es caro y frágil — lleva uno analógico de mercurio, cuesta 5 € y no se rompe)
+
+ Bolsas de hielo instantáneas (ocupan volumen y caducan a los 2 años — lleva una toalla pequeña para compresas frías)
+
+ Antibióticos de venta sin receta (en España NO se venden sin receta desde 2021: es ilegal y peligroso)
+
+ Productos «multiusos» genéricos sin principio activo claro
+
+ Botiquines completos precosidos de supermercado: suelen traer lo básico en cantidad insuficiente (2 tiritas, 1 venda pequeña) y te cobran un 60 % más por la caja bonita
+
+ 
+
+ Caducidad: revisa cada 6 meses
+
+
+ La Agencia Española del Medicamento (AEMPS) recomienda revisar las caducidades cada 6 meses. Los medicamentos caducados no solo pierden eficacia: en algunos casos (como las tetraciclinas) pueden generar toxinas. Pon una regla mnemotécnica: cuando cambies la hora (marzo y octubre), revisa el botiquín. Anota la fecha de revisión en una etiqueta adhesiva dentro de la caja.
+
+
+ 
+ 
+ Producto Caducidad habitual Alternativa si caduca 
+
+ 
+ 
+ Paracetamol 3-5 años Mantener siempre 2 sobres extra en otra caja 
+
+ Antihielmínticos 2-3 años Reemplazar si la emergencia coincide con brotes de parásitos 
+
+ Pomadas antibióticas 2-3 años Povidona yodada en líquido (caduca menos rápido) 
+
+ Suero oral 2-3 años Sal y azúcar casero (9 g sal + 50 g azúcar en 1 L de agua potable) 
+
+ 
+ 
+
+ Kit por perfil de familia
+
+
+ El botiquín varía según quién vive contigo. La Protección Civil da estas recomendaciones según el perfil:
+
+
+ Familia con bebés (0-2 años)
+
+ 
+ Solución salina fisiológica (spray nasal): 3 botes extra para congestión y limpieza
+
+ Paracetamol infantil (jarabe) con jeringuilla dosificadora
+
+ Pañales de emergencia (5 unidades) por si no hay agua para cambiar
+
+ Protector térmico para quemaduras menores (gel hidroagel)
+
+ 
+
+ Personas mayores
+
+ 
+ Copia de medicación habitual (mínimo 7 días de stock extra)
+
+ Fibrina trombina en polvo para heridas que no cierran (úlceras por presión)
+
+ Medidor de glucosa con tiras reactivas (si son diabéticos)
+
+ Bálsamo labial hidratante (pieles mayores agrietan con facilidad)
+
+ 
+
+ Personas con alergias
+
+ 
+ Antihistamínico específico (si ya está recetado)
+
+ Antiacarianos para fundas (prevención)
+
+ Protector solar alta protección (algunos medicamentos aumentan fotosensibilidad)
+
+ 
+
+ Animales domésticos
+
+ 
+ Antiséptico para heridas menores (clorhexidina al 2 %)
+
+ Gasas no adhesivas para cubrir heridas sin pegar
+
+ Collar para contener al animal herido y evitar mordeduras
+
+ 
+
+ Dónde comprar todo el kit de un golpe
+
+
+ No hace falta ir a tres farmacias diferentes. Aquí tienes las búsquedas con todo lo esencial:
+
+
+ Botiquín básico completo (apósitos, vendas, gasas, antisépticos): Buscar en Amazon → 
+
+
+ Medicación de emergencia (paracetamol, ibuprofeno, loratadina): Buscar en Amazon → 
+
+
+ Guantes y material de protección: Buscar en Amazon → 
+
+
+ Suero oral y electrolitos: Buscar en Amazon → 
+
+
+ El botiquín dentro del kit 72h
+
+
+ El botiquín no es independiente: forma parte del Kit Básico 72 Horas y se integra perfectamente en la mochila de emergencia. Si tu prioridad es montar todo el kit desde cero, el guía paso a paso te lleva de la mano por cada categoría.
+
+
+ Recuerda: lo más importante no es lo que lleves en el botiquín, sino saber usarlo . Practica abrir las vendas, aplicar el antiséptico y poner un apósito al menos una vez al año. Una emergencia no perdona la torpeza.
+
+
+ 
+ ¿Cuánto cuesta montar un botiquín de emergencia? 
+ Un botiquín bien montado cuesta entre 25 € y 45 € si compras los componentes sueltos en farmacia o por Internet. Un botiquín precocinado de supermercado puede costar lo mismo e incluir menos productos.
+
+ 
+
+ 
+ ¿Dónde se guarda el botiquín? 
+ En un sitio seco, a temperatura ambiente (entre 15 y 25 °C), accesible pero fuera del alcance de los niños. No en el baño: la humedad acelera la caducidad. En el kit de evacuación, va en la mochila en un compartimento estanco.
+
+ 
+
+ 
+ ¿Cuántas veces al año hay que revisarlo? 
+ Dos veces al año: en marzo y en octubre, junto con el cambio de hora. Es el momento ideal para reemplazar caducados y reabastecer lo consumido.
+
+ 
+
+ Si te ha resultado útil este artículo, compártelo con quien tenga niños o mayores en casa. La preparación es una forma de cuidar a los que más quieres.
 
 ### Apagón: lecciones del 28 de abril de 2025 en España (2026) — https://kit72h.com/blog/apagon-lecciones-28a/
 El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
