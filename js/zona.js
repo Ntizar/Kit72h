@@ -59,10 +59,9 @@ const zona = {
     try {
       await this.cargarLeaflet();
     } catch (e) {
-      cont.innerHTML = '<p class="zona-aviso">No se ha podido cargar el mapa ' +
-        '(sin conexión o bloqueado por el navegador). ' +
-        'Llama al <b>112</b> y busca «hospital», «farmacia» o ' +
-        '<a href="https://www.google.com/maps/search/hospital" target="_blank" rel="noopener">míralo en un mapa ↗</a>.</p>';
+      cont.innerHTML = '<p class="zona-aviso">El mapa no está disponible en este ' +
+        'navegador ahora mismo. <b>El 112 no depende de esta web.</b></p>';
+      this.alertaMapa(navigator.onLine === false ? 'sinred' : 'leaflet');
       return;
     }
 
@@ -79,6 +78,12 @@ const zona = {
         { attribution: '© Esri, Maxar, Earthstar Geographics', maxZoom: 19 })
     };
     capasBase['IGN gris (recomendado)'].addTo(this.map);
+    // Si el mapa base no carga (CDN caído, red cortada), también se avisa:
+    // un mapa en blanco engaña más que un mapa ausente.
+    let teselasMalas = 0;
+    this.map.on('tileerror', () => {
+      if (++teselasMalas === 10) this.alertaMapa(navigator.onLine === false ? 'sinred' : 'teselas');
+    });
     L.control.layers(capasBase, null, { position: 'topright' }).addTo(this.map);
 
     this.CAPAS.forEach(c => {
@@ -128,6 +133,7 @@ const zona = {
       await this.buscarEn(parseFloat(d[0].lat), parseFloat(d[0].lon), d[0].display_name);
     } catch (e) {
       aviso.textContent = 'No he podido buscar esa ciudad. Toca el mapa directamente.';
+      this.alertaMapa(navigator.onLine === false ? 'sinred' : 'busqueda');
     }
   },
 
@@ -146,6 +152,7 @@ const zona = {
     aviso.textContent = `Leyendo OpenStreetMap en un radio de ${this.radio} km…`;
     try {
       const els = await this.overpass(lat, lon, this.radio);
+      this.alertaMapa(null);          // hubo respuesta: la alerta ya no aplica
       this.pintar(els);
       const total = Object.values(this.cuentas).reduce((a, b) => a + b, 0);
       const donde = this.esc(this.pos.etiqueta || '');
@@ -155,14 +162,57 @@ const zona = {
           `Prueba con más radio o con otra ubicación.`;
       this.pintarEstado();
     } catch (e) {
-      // Suele ser 429 (saturación puntual de Overpass), no un bug del mapa.
-      aviso.innerHTML = 'OpenStreetMap está saturado ahora mismo y no ha respondido. ' +
-        'Es raro y dura poco: <button type="button" class="zona-reintento" ' +
-        'onclick="zona.reintentar()">reintentar</button> — mientras tanto, ' +
-        '<b>el 112 no depende de esta web</b>.';
+      // Suele ser 429 (saturación puntual de Overpass) o un corte de red,
+      // no un bug del mapa. El fallo se cuenta como lo que es: el escenario.
+      aviso.innerHTML = 'Sin datos de OpenStreetMap ahora mismo. ' +
+        '<b>El 112 no depende de esta web.</b>';
+      this.alertaMapa(navigator.onLine === false ? 'sinred' : 'overpass');
     } finally {
       this.cargando = false;
     }
+  },
+
+  /* ---------- Alerta de fallo ----------
+     Cuando el mapa o OpenStreetMap fallan, no se pide disculpas: se usa el
+     fallo como el argumento de la casa. La web puede caerse; el kit no. */
+  alertaMapa(motivo) {
+    const caja = document.getElementById('zona-alerta');
+    if (!caja) return;
+    if (!motivo) { caja.hidden = true; caja.innerHTML = ''; return; }
+
+    const MOTIVOS = {
+      leaflet:  ['El mapa no ha cargado',
+                 'La librería del mapa no ha llegado: sin conexión, bloqueada por el navegador o el CDN caído.'],
+      overpass: ['OpenStreetMap no ha respondido',
+                 'La consulta de hospitales, farmacias y refugios ha fallado: servidor saturado o conexión cortada.'],
+      busqueda: ['No hemos podido buscar esa ciudad',
+                 'La consulta de direcciones de OpenStreetMap ha fallado. Toca el mapa o reintenta en unos segundos.'],
+      teselas:  ['El mapa se ha quedado en blanco',
+                 'Las teselas del mapa base (IGN) no cargan. El mapa existe, pero no se ve.'],
+      sinred:   ['Estás sin conexión',
+                 'Tu navegador dice que no hay red. Sin internet no hay mapa, ni datos, ni avisos que lleguen.']
+    };
+    const [titulo, que] = MOTIVOS[motivo] || MOTIVOS.overpass;
+
+    caja.innerHTML =
+      '<div class="zona-alerta-cuerpo">' +
+        '<span class="zona-alerta-label">Mapa no disponible</span>' +
+        '<h3 class="zona-alerta-tit">Y por esto mismo hay que estar preparado.</h3>' +
+        '<p>' + this.esc(que) + '</p>' +
+        '<p>Hoy es un incordio de treinta segundos. El 29 de octubre de 2024 fue otra cosa: ' +
+          'el agua se llevó la luz, la cobertura y los accesos, y la pantalla que te dice ' +
+          'dónde está el hospital se apagó justo cuando hacía falta. ' +
+          '<b>Lo que sigue funcionando es lo que preparaste antes:</b> el plan familiar en papel, ' +
+          'el kit de 72 horas y el <b>112</b>, que no depende de esta web.</p>' +
+        '<div class="zona-alerta-acciones">' +
+          '<a class="btn ambar" href="/blog/plan-familiar-de-emergencia/">Plan familiar en papel →</a>' +
+          '<a class="btn" href="/kit/kit-basico-72h/">Kit 72 h →</a>' +
+          '<button type="button" class="zona-reintento" onclick="zona.reintentar()">reintentar</button>' +
+        '</div>' +
+        '<p class="zona-alerta-nota">Emergencias reales: <a href="tel:112">112</a> · gratis, 24 h, ' +
+          'desde cualquier móvil aunque no tengas línea de tu operadora.</p>' +
+      '</div>';
+    caja.hidden = false;
   },
 
   reintentar() {
