@@ -5706,32 +5706,229 @@ Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el d�
  El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.
  Las cantidades por persona y periodo están calculadas en el kit 72h y en el kit de 30 días , con precios reales de Amazon para cada pack.
 
-### Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla (2026) — https://kit72h.com/blog/agua-cuanta-y-como/
-3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.
-El agua es la prioridad número uno de cualquier kit de emergencia. Un ser humano aguanta semanas sin comida, pero pocos días sin agua — y en una situación de calor o esfuerzo, mucho menos.
+### Agua para emergencias: cuánto almacenar, cómo guardarla y potabilizarla — https://kit72h.com/blog/agua-cuanta-y-como/
+3 litros por persona y día: la regla que todo mundo olvida. Cómo calcular la necesidad real de tu familia, qué bidones usar, pastillas de potabilización y errores mortales.
+Por qué el agua es lo primero que se agota
 
- La cuenta
 
- 3 litros por persona y día para beber , y añade 2-4 litros más si tienes que contemplar higiene básica (lavarse manos y dientes, limpiar heridas). Para 72 horas, una persona necesita 9 litros de beber. Una familia de 4: 36 litros. Es más de lo que la gente intuye, y por eso casi todo el mundo lleva poca.
+ Un ser humano aguanta semanas sin comida, pero solo 3-5 días sin agua — y en verano, o si hay que hacer esfuerzo (evacuar, salvar muebles), el margen baja a 24-36 horas. En España, según datos de la Protección Civil , el 80% de las emergencias que afectan a hogares no son catástrofes naturales, sino cortes de suministro: DANA que contamina el agua, apagones que paran las bombas, roturas de cañerías. El agua llega a grifo, pero cuando se corta, se corta.
 
- Cómo almacenarla
+
+ La Estrategia de Preparación de la Unión Europea (Estrategia de la UE para la Prevención de Riesgos y Catástrofes, actualizada 2025) recomienda que cada hogar mantenga provisiones para al menos 72 horas . El agua es la partida más pesada y la que la gente más infravalora.
+
+
+ La regla de los 3 litros: desglosada
+
+
+ 3 litros por persona y día solo para beber . Esa es la cifra base que marcan la OMS y Protección Civil. Pero si quieres ser realista:
+
 
  
- Garrafas alimentarias de 5-8 L: las más prácticas. Guárdalas en sitio fresco y oscuro, nunca junto a productos de limpieza.
+ Verano / calor (>30 °C): sube a 4-5 L/persona/día. El sudor, la sed y la necesidad de lavarte las manos (higiene básica en una emergencia sin agua corriente) disparan el consumo.
 
- Renueva el agua cada 6 meses . El agua no caduca, pero el envase puede degradar y las bacterias circulan. Cuando la renueves, usa la vieja para regar o limpiar.
+ Invierno / clima templado: 3 L son suficientes si solo contemplas bebida.
 
- Llena también la bañera y fregaderos si tienes aviso previo (DANA, tormenta): agua de uso no potable para descargar la cisterna y fregar.
+ Higiene básica (lavado de manos, limpiar heridas, enjuagarse la boca): añade 1-2 L/persona/día si el agua del grifo sigue disponible para uso no potable.
+
+ Cisternas y fregaderos: si tienes aviso previo (tormenta, DANA), llena la bañera y fregaderos. Son 100-200 L de reserva de uso no alimentario para descargar WC y limpiar.
 
  
- Potabilizar: tus tres opciones
 
- 1. Hervir (1 minuto de ebullición): el método más seguro si tienes fuego. Consumo de gas o electricidad.
+ 
+ 
+ Situación 1 persona (72h) 2 personas (72h) Familia 4 (72h) 
 
- 2. Pastillas potabilizadoras (cloro o plata coloidal): 30 minutos, no ocupan nada, aguante de años. La opción del kit por su relación peso-efectividad.
+ 
+ 
+ Solo beber (invierno) 9 L 18 L 36 L 
 
- 3. Filtro de cerámica o membrana : útil en montaña o si la emergencia dura. Más caro, requiere mantenimiento.
+ Beber + higiene (templado) 15 L 30 L 60 L 
 
- Errores típicos
+ Verano / calor 21 L 42 L 84 L 
 
- Guardar el agua en envases que no eran alimentarios (botellas de refresco recicladas durante años), dejar las garrafas al sol, y confiar en "ya me las apañaré". En el 90% de las emergencias reales en España (DANA, apagón, corte de suministro) el problema no es que no haya agua: es que no hay agua potable en tu casa el primer día .
+ 
+ 
+
+ Una familia de 4 necesita mínimo 36-60 litros para 72 horas. Eso son 8-12 garrafas de 5 L. Es más de lo que la mayoría de gente prevé, y por eso en la práctica se queda sin agua el primer día.
+
+
+ Cómo almacenarla sin errores
+
+
+ No basta con tener agua: hay que guardarla bien. El agua no caduca, pero el envase sí , y un envase degradado puede contaminar lo que lleva dentro.
+
+
+ Garrafas alimentarias (la opción recomendada)
+
+
+ Las garrafas de polietileno de 5-8 L son el estándar. Las ventajas:
+
+
+ 
+ Cabean bien en un armario o bajo la cama (no son botellas redondas que se caen).
+
+ Son reutilizables — cuando cambies el agua cada 6 meses, vacía, enjuaga y vuelve a llenar.
+
+ Precio: 3-5 € por garrafa de 5 L virgen. 20-30 € para 5 unidades (lo que cubre la necesidad base de una familia).
+
+ Caducidad del envase: el plástico alimentario dura entre 2 y 5 años. Si el envase está turbio, amarillento o con grietas, cámbialo.
+
+ 
+
+ Botellas de agua comerciales
+
+
+ Útiles para arranque rápido: un pallet de 6x1,5 L o 12x0,5 L se compra en cualquier supermercado y cabe en la cocina. Pero no son la solución a largo plazo: ocupan más volumen por litro, generan más residuos, y el plástico PET es menos resistente al paso del tiempo.
+
+
+ Bagues o bolsas estancas para agua
+
+
+ Los bagues (también llamados "pallets flexibles" o "bag-in-box" de 10-20 L) son la opción ideal para grandes reservas. Ocupan menos espacio que las garrafas (se apilan), son baratas (2-4 € cada una de 10 L), y puedes dejarlas medio llenas sin que se deforme el material. Ideales para el garaje o trastero.
+
+
+ Lo que NUNCA debes hacer
+
+
+ 
+ Reciclar botellas de refresco o zumo para guardar agua: el plástico de esas botellas no está diseñado para contener agua potable a largo plazo, y los residuos de azúcar o ácido láctico alimentan bacterias.
+
+ Guardar garrafas en el garaje al sol : la radiación UV degrada el plástico y transfiere sabores al agua. Sitio fresco y oscuro, siempre.
+
+ Dejar las garrafas juntas con productos de limpieza : los gases de disolventes pueden atravesar el plástico y contaminar el agua.
+
+ 
+
+ Renovación: cuándo y cómo
+
+
+ El agua almacenada se renueva cada 6 meses . Pon un recordatorio en el móvil o pega una etiqueta adhesiva en el armario con la fecha de la última renovación. La regla mnemotécnica: cuando cambies la hora (marzo y octubre), revisa las garrafas. Vuela el agua vieja para regar plantas o limpiar, y llena con agua del grifo nueva.
+
+
+ Si usas pastillas potabilizadoras (ver más abajo), puedes extender esa ventana a 12 meses, porque el cloro de las pastillas mantiene el agua estéril más tiempo.
+
+
+ Potabilizar: tres métodos que funcionan
+
+
+ Si el agua del grifo está disponible pero no es potable (una DANA contamina el suministro, por ejemplo), tienes tres vías:
+
+
+ 1. Hervir (el más fiable)
+
+
+ 1 minuto de ebullición elimina el 99,9% de los patógenos (bacterias, virus, protozoos). La OMS lo recomienda como método universal. Desventaja: necesitas combustible (gas, electricidad) y el agua se enfría antes de poderla beber. Ideal como método de emergencia puntual, no para mantener reservas a largo plazo.
+
+
+ 2. Pastillas potabilizadoras (la del kit)
+
+
+ Cloro (tipo ACCUQUICK ) o plata coloidal. El proceso es sencillo: una pastilla por litro, 30 minutos de espera , y el agua está potable. Ocupan un espacio mínimo (un bote de 50 pastillas cabe en el bolsillo), duran años, y son la opción preferida por Protección Civil como complemento del kit de emergencia.
+
+
+ Compra de pastillas: Buscar pastillas potabilizadoras en Amazon → 
+
+
+ 3. Filtro de agua (para emergencias prolongadas)
+
+
+ Los filtros de cerámica o membrana (tipo Berkey o filtros de bomba) eliminan bacterias y protozoos (no virus sin cloro adicional). Útiles si la emergencia dura más de 72 horas y no tienes combustible para hervir. Precio: 30-80 €. Desventaja: requieren mantenimiento (cambiar el filtro cada 1000-2000 L) y no eliminan metales pesados ni productos químicos.
+
+
+ Comparativa rápida
+
+
+ 
+ 
+ Método Coste Tiempo Ventaja Limitación 
+
+ 
+ 
+ Hervir Casi 0 € 5-10 min/litro Elimina todo Necesita combustible 
+
+ Pastillas (ACCUQUICK) ~2 €/100 uds 30 min/litro Ligero, largo plazo No filtra sedimentos 
+
+ Filtro cerámica 30-80 € Inmediato Sin energía, directo Mantenimiento, no virus 
+
+ 
+ 
+
+ ¿Cuánta agua necesitas según tu hogar?
+
+
+ No todos los hogares consumen igual. Si vives con:
+
+
+ 
+ Bebés: añade 2 L/persona/día (fórmula infantil, biberones, limpieza). Un bebé de 6 meses necesita ~200 mL para beber + 500 mL para la fórmula.
+
+ Mascotas: un perro mediano bebe 1-2 L/día; un gato, 0,3-0,5 L/día. Consulta el kit de mascotas .
+
+ Mayores: las personas mayores tienen menos sensación de sed y pueden deshidratarse sin saberlo. Asegura que tengan agua siempre accesible.
+
+ 
+
+ Errores que todo el mundo comete
+
+
+ 1. No tener suficiente. "Siempre hay agua del grifo" — no cuando se corta el suministro por una rotura. Los 36 L de una familia de 4 se acaban en un día si solo se piensan para beber.
+
+
+ 2. Guardar el agua mal. Garrafas al sol, junto a lejía, o en botellas de refresco recicladas durante 3 años. El resultado es agua con sabor a plástico que no se puede beber.
+
+
+ 3. Olvidar la higiene. En una emergencia sin agua corriente, lavarte las manos con jabón y agua es la forma número uno de prevenir enfermedades. 1-2 L extra de higiene no sobran nunca.
+
+
+ 4. No saber potabilizar. Tener 36 litros guardados es excelente. Pero si se contaminan y no sabes cómo purificarlos, el daño está hecho. Ten siempre un bote de pastillas ACCUQUICK o un filtro en el kit.
+
+
+ ¿Cuánto cuesta todo?
+
+
+ El despliegue completo de agua para 72h (familia de 4) cuesta entre 25 € y 50 € :
+
+
+ 
+ 8 garrafas de 5 L (virgen): ~24 €
+
+ Bote de 50 pastillas ACCUQUICK: ~12 €
+
+ 1 filtro de agua portátil (opcional): ~15-30 €
+
+ 
+
+ Compra de garrafas: Buscar garrafas alimentarias en Amazon → 
+
+
+ Compra de pastillas: Buscar pastillas potabilizadoras en Amazon → 
+
+
+ El agua dentro del kit 72h
+
+
+ El agua es la columna vertebral de cualquier kit de emergencia. Forma parte del Kit Básico 72 Horas , que reúne los 16 esenciales verificados. Si tu prioridad es tener todo listo de un golpe, el kit DANA incluye bidones y pastillas como parte del despliegue.
+
+
+ Recuerda: almacenar agua no es un acto único — es un hábito. Cada 6 meses, revisa. Cada cambio de hora, verifica. Y no esperes a que se corte el grifo para darte cuenta de que no tienes nada.
+
+
+ 
+ ¿Se puede beber agua del grifo tras una DANA? 
+ Depende. Las DANA (depresiones aisladas en niveles altos) suelen contaminar los ríos y acuíferos con sedimentos y bacterias, pero rara vez afectan a la potabilizadora. Sin embargo, las autoridades pueden emitir un aviso de "no beber agua del grifo" si las tuberías locales se contaminan. Sigue siempre las indicaciones de Protección Civil y, si hay duda, hierve el agua o usa pastillas potabilizadoras.
+
+ 
+
+ 
+ ¿Cuánto dura el agua embotellada sin abrir? 
+ Si está en envase comercial cerrado (botella PET de fábrica), el agua dura teóricamente indefinidamente. Lo que se degrada es el envase: el PET se vuelve frágil con el tiempo y la radiación UV. Recomendación práctica: cambia el agua cada 2 años si está en botella comercial sin abrir.
+
+ 
+
+ 
+ ¿Se puede potabilizar agua de charco o río? 
+ Técnicamente sí, pero no es recomendable a menos que sea estrictamente necesario. La potabilización con pastillas o ebullición elimina patógenos, pero no elimina metales pesados, pesticidas ni contaminantes químicos. Si no tienes otra opción, hierve el agua (10 min) y luego usa pastillas. Como paso previo, filtra con tela limpia para eliminar partículas visibles.
+
+ 
+
+ Si te ha resultado útil este artículo, compártelo con quien viva solo o con niños. La preparación no es paranoía: es responsabilidad.

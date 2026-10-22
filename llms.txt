@@ -92,7 +92,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026)](https://kit72h.com/blog/botiquin-emergencia-que-llevar/): La lista de lo que tu familia necesita realmente en una emergencia sanitaria, sin innecesarios. Cuánto de cada cosa, caducidad y dónde comprarlo todo con
 - [Apagón: lecciones del 28 de abril de 2025 en España (2026)](https://kit72h.com/blog/apagon-lecciones-28a/): El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
 - [Cómo almacenar agua y comida en casa sin que se estropee (2026)](https://kit72h.com/blog/almacenar-agua-comida-casa/): Una despensa de emergencia mal guardada es dinero tirado: dónde, cómo y en qué orden rotar cada alimento para que aguante hasta el día que lo necesites.
-- [Agua: cuánta necesitas, cómo almacenarla y cómo potabilizarla (2026)](https://kit72h.com/blog/agua-cuanta-y-como/): 3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.
+- [Agua para emergencias: cuánto almacenar, cómo guardarla y potabilizarla](https://kit72h.com/blog/agua-cuanta-y-como/): 3 litros por persona y día: la regla que todo mundo olvida. Cómo calcular la necesidad real de tu familia, qué bidones usar, pastillas de potabilización y errores mortales.
 
 ## Fuentes oficiales
 
