@@ -860,18 +860,18 @@
     "seccion": "Para empezar a sembrar",
     "busqueda": "https://www.amazon.es/s?k=medidor+humedad+ph+suelo&tag=ntizar-21",
     "rango_esperado": "8-15 €",
-    "fecha": "2026-10-20",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-22",
+    "intentos": 2,
+    "estado": "sin candidato verificado (intento 2)"
   },
   "huerto-autosuficiencia|Compostera doméstica con grifo (20 L)": {
     "kit": "huerto-autosuficiencia",
     "seccion": "Compostaje y protección",
     "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=ntizar-21",
     "rango_esperado": "25-35 €",
-    "fecha": "2026-10-20",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-10-22",
+    "intentos": 2,
+    "estado": "sin candidato verificado (intento 2)"
   },
   "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
     "kit": "huerto-autosuficiencia",
