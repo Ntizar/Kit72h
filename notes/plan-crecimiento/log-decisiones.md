@@ -23,3 +23,4 @@
 | 2026-10-20 | mascotas-plan-emergencia | revamp | atrasada | Entrada del 19/10 (284w → 1.220w) NO publicada: publicador fallo 2 veces con rc=3 FALTA playwright y hizo rollback. Arreglado en 8262b32. Respaldada en _entrada |
 || 2026-10-21 | botiquin-emergencia-que-llevar · revamp · encolado · Revamp stub 293w → 1.080w (3,7x) con _mejora:true, fecha 2026-08-31 conservada: 2 tablas, 4 perfiles familia, 4 afiliados tag=ntizar-21, 4 fuentes oficiales
 | 2026-10-21 | botiquin-emergencia-que-llevar | revamp | encolado | Revamp stub 293w → 1.080w con 2 tablas, 4 perfiles familia, 4 fuentes oficiales |
+| 2026-10-22 | agua-cuanta-y-como | revamp | encolado | Revamp 299w → 1300w+, 3 fuentes, tablas, FAQs |
