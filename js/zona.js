@@ -181,36 +181,41 @@ const zona = {
     if (!motivo) { caja.hidden = true; caja.innerHTML = ''; return; }
 
     const MOTIVOS = {
-      leaflet:  ['El mapa no ha cargado',
-                 'La librería del mapa no ha llegado: sin conexión, bloqueada por el navegador o el CDN caído.'],
-      overpass: ['OpenStreetMap no ha respondido',
-                 'La consulta de hospitales, farmacias y refugios ha fallado: servidor saturado o conexión cortada.'],
-      busqueda: ['No hemos podido buscar esa ciudad',
-                 'La consulta de direcciones de OpenStreetMap ha fallado. Toca el mapa o reintenta en unos segundos.'],
-      teselas:  ['El mapa se ha quedado en blanco',
-                 'Las teselas del mapa base (IGN) no cargan. El mapa existe, pero no se ve.'],
-      sinred:   ['Estás sin conexión',
-                 'Tu navegador dice que no hay red. Sin internet no hay mapa, ni datos, ni avisos que lleguen.']
+      leaflet:  ['EL MAPA NO HA CARGADO',
+                 'La librería del mapa no ha llegado. Bloqueada, sin conexión o el CDN caído. Da igual el motivo: ahora mismo no puedes ver dónde está el hospital más cercano.'],
+      overpass: ['OPENSTREETMAP NO CONTESTA',
+                 'La consulta de hospitales, farmacias y refugios ha muerto. Ahora mismo esta web no sabe decirte dónde hay ayuda.'],
+      busqueda: ['NO SÉ DÓNDE ESTÁS',
+                 'La búsqueda de direcciones ha fallado. La web se ha quedado sin saber en qué pueblo estás.'],
+      teselas:  ['EL MAPA ESTÁ EN BLANCO',
+                 'No carga ni el mapa base. Hay un mapa delante de ti y no se ve nada. Eso también pasa el día que de verdad hace falta.'],
+      sinred:   ['TE HAS QUEDADO SIN CONEXIÓN',
+                 'Sin red no hay mapa, ni datos, ni avisos que lleguen. Solo lo que tengas en casa y en la cabeza.']
     };
     const [titulo, que] = MOTIVOS[motivo] || MOTIVOS.overpass;
 
     caja.innerHTML =
       '<div class="zona-alerta-cuerpo">' +
-        '<span class="zona-alerta-label">Mapa no disponible</span>' +
-        '<h3 class="zona-alerta-tit">Y por esto mismo hay que estar preparado.</h3>' +
+        '<span class="zona-alerta-label">Sin mapa · sin datos</span>' +
+        '<p class="zona-alerta-motivo">' + this.esc(titulo) + '</p>' +
+        '<h3 class="zona-alerta-tit">Esto es exactamente lo que pasó el 29 de octubre de 2024.</h3>' +
         '<p>' + this.esc(que) + '</p>' +
-        '<p>Hoy es un incordio de treinta segundos. El 29 de octubre de 2024 fue otra cosa: ' +
-          'el agua se llevó la luz, la cobertura y los accesos, y la pantalla que te dice ' +
-          'dónde está el hospital se apagó justo cuando hacía falta. ' +
-          '<b>Lo que sigue funcionando es lo que preparaste antes:</b> el plan familiar en papel, ' +
-          'el kit de 72 horas y el <b>112</b>, que no depende de esta web.</p>' +
+        '<p>Ese día el agua se llevó la luz, la cobertura y los accesos. A las 20:11 sonó la ' +
+          'alerta en los móviles de Valencia: <b>cuando sonó, la mayoría de las 229 personas ' +
+          'que murieron ya habían muerto.</b> No les falló un mapa. Les faltó todo lo demás.</p>' +
+        '<p><b>Mira lo que tienes ahora mismo en casa.</b> ¿El plan familiar escrito en papel? ' +
+          '¿Agua para tres días? ¿Sabes a qué altura está tu casa y a dónde subirías? ' +
+          'Si la respuesta es no, este fallo acaba de enseñarte lo único que importa: ' +
+          'la web va a fallar, la luz va a fallar, la cobertura va a fallar. ' +
+          '<b>Lo que no falla es lo que preparaste antes.</b></p>' +
         '<div class="zona-alerta-acciones">' +
-          '<a class="btn ambar" href="/blog/plan-familiar-de-emergencia/">Plan familiar en papel →</a>' +
-          '<a class="btn" href="/kit/kit-basico-72h/">Kit 72 h →</a>' +
+          '<a class="btn rojo" href="/blog/plan-familiar-de-emergencia/">Prepáralo ahora →</a>' +
+          '<a class="btn ambar" href="/kit/kit-basico-72h/">Kit 72 h →</a>' +
           '<button type="button" class="zona-reintento" onclick="zona.reintentar()">reintentar</button>' +
         '</div>' +
-        '<p class="zona-alerta-nota">Emergencias reales: <a href="tel:112">112</a> · gratis, 24 h, ' +
-          'desde cualquier móvil aunque no tengas línea de tu operadora.</p>' +
+        '<p class="zona-alerta-nota">Emergencia real: <a href="tel:112">112</a> · gratis, 24 h, ' +
+          'marca aunque no tengas cobertura de tu operadora. Es lo único de esta página que ' +
+          'va a funcionar cuando todo lo demás se caiga.</p>' +
       '</div>';
     caja.hidden = false;
   },
