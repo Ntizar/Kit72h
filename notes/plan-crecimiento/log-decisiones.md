@@ -25,3 +25,5 @@
 | 2026-10-21 | botiquin-emergencia-que-llevar | revamp | encolado | Revamp stub 293w → 1.080w con 2 tablas, 4 perfiles familia, 4 fuentes oficiales |
 | 2026-10-22 | agua-cuanta-y-como | revamp | encolado | Revamp 299w → 1300w+, 3 fuentes, tablas, FAQs |
 | 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | encolado | Revamp 310w -> 1400w con tablas, 3 fuentes oficiales, 3 afiliados ntizar-21, 6 internos |
+| 2026-10-23 | mejor-generador-electrico-portatil-inverter | comparativa | encolado | Primer artículo de ticket alto (cluster F): 1.345 palabras, 2 tablas, 3 afiliados, 7 internos, 3 fuentes. Publicado por el publicador el 2026-10-23. Decisión de |
+| 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | atrasada | Encolado por el consejero a las 06:00 y sustituido el mismo día por el #1 de ticket alto (generador inverter). Se retoma cuando el cluster F esté cubierto. |
