@@ -24,3 +24,4 @@
 || 2026-10-21 | botiquin-emergencia-que-llevar · revamp · encolado · Revamp stub 293w → 1.080w (3,7x) con _mejora:true, fecha 2026-08-31 conservada: 2 tablas, 4 perfiles familia, 4 afiliados tag=ntizar-21, 4 fuentes oficiales
 | 2026-10-21 | botiquin-emergencia-que-llevar | revamp | encolado | Revamp stub 293w → 1.080w con 2 tablas, 4 perfiles familia, 4 fuentes oficiales |
 | 2026-10-22 | agua-cuanta-y-como | revamp | encolado | Revamp 299w → 1300w+, 3 fuentes, tablas, FAQs |
+| 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | encolado | Revamp 310w -> 1400w con tablas, 3 fuentes oficiales, 3 afiliados ntizar-21, 6 internos |
