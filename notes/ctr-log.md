@@ -6,6 +6,12 @@ urgencia honesta. Cada entrada: fecha · página · antes → después · motivo
 
 ---
 
+## 2026-10-23 — 1 mejora: agua-cuanta-y-como desc
+- **Página:** /blog/agua-cuanta-y-como/
+- **Title:** `Agua para emergencias: cuánto almacenar, cómo guardarla y potabilizarla` → `Agua para emergencias: 3 L/pers/día → 9 L (1), 36 L (familia 4). Bidones, garrafas, pastillas…`
+- **Desc:** `3 litros por persona y día: la regla que todo mund...` → `3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.`
+- **Motivo:** Añadir números concretos (9 L, 36 L) y palabras clave de búsqueda (garrafas, bidones, pastillas, filtro) para mejorar CTR.
+
 ## 2026-10-20 — 1 título truncado del post nuevo (cadenas de nieve)
 
 **Orden aplicado:** prerender PRIMERO (`python3 scripts/prerender.py`, **82 rutas,
