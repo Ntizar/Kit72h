@@ -21,7 +21,7 @@
   var CONFIG = {
     // Cloudflare Web Analytics: token del beacon (Web Analytics > kit72h.com).
     // Da visitas, páginas, referrers, países y dispositivos. Sin cookies.
-    beacon_cloudflare: "",
+    beacon_cloudflare: "2cd51d4e9fe241849269fc0bed3083cc",
     // Umami Cloud (opcional): permite EVENTOS personalizados (clic a Amazon).
     umami: { website_id: "", src: "https://cloud.umami.is/script.js" },
     // GoatCounter (opcional): alternativa gratuita con eventos.
