@@ -72,9 +72,30 @@
 | cómo guardar agua correctamente | media | info | mismo post | ✅ cubierto | P2 |
 | generator ruido normativa comunidad | baja | info | /blog/generador-ruido-normativa-comunidad/ | ✅ hecha (2026-10-14) | P3 |
 
+### Cluster F — TICKET ALTO (una venta pesa 20-100× más que la cola larga)
+
+> Con el 3% de comisión de Amazon: un generador de 800 € deja ~24 €; un powerbank de 30 € deja 0,90 €.
+> El consejero pondera estas keywords ×1,25 además de su prioridad. Fuente del dato: panel de
+> afiliados 30 días = 10 pedidos y 6,98 € → 0,70 €/pedido. El problema no es el clic, es el carrito.
+
+| Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |
+|---|---|---|---|---|---|
+| mejor generador eléctrico portátil inverter | alto | compra | blog pendiente | pendiente | P1 |
+| mejor power station para apagones en casa | media | compra | blog pendiente | pendiente | P1 |
+| mejor kit solar portátil para casa | media | compra | blog pendiente | pendiente | P1 |
+| mejor deshumidificador para inundaciones y humedad | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| mejor bomba de achique para inundación | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| mejor arrancador de batería para coche | media | compra | blog pendiente | pendiente | P2 |
+| mejor estufa de gas butano para apagón | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| mejor walkie talkie PMR446 largo alcance | media | compra | blog pendiente | pendiente | P2 |
+
 ## Reglas de contenido (para los crons)
 - Cada página nueva CITa fuente oficial con enlace (DG ECHO, Protección Civil, DGT, AEMET, 112).
 - SIEMPRE tag afiliado `ntizar-21`.
 - Enlaces internos: mínimo 3 por artículo hacia kits/otros posts con texto ancla descriptivo.
 - Estacionales: crear 45-60 días ANTES del pico (DANA: sep; calor: may; nieve: nov; V16: ya).
 - Nunca repetir título de página existente (canonical cannibalización).
+- **Ticket alto primero**: una comparativa de ticket alto vale 20-100× más que una guía de cola larga.
+  Cada una necesita ≥3 enlaces de producto con `tag=ntizar-21` (ficha `/dp/` SOLO si el ASIN está
+  verificado en `data/catalogo.json`; si no, búsqueda `/s?k=` — **nunca inventar un ASIN**), tabla
+  comparativa real y enlace a la ficha de kit que la use (`/kit/kit-apagon/`, `/kit/kit-dana/`…).

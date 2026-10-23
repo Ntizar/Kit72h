@@ -170,6 +170,21 @@ def _factor_prioridad(p):
     return 40.0
 
 
+# TICKET ALTO: una venta de estos productos pesa 20-100x más que una de cola larga.
+# Con el 3% de comisión de Amazon, un generador de 800 € deja ~24 €; un powerbank
+# de 30 € deja 0,90 €. El consejero debe preferirlos cuando compiten parecido.
+TICKET_ALTO = ("generador", "power station", "kit solar", "placa solar", "estufa de gas",
+               "deshumidificador", "bomba de achique", "arrancador", "sai", "ups",
+               "starlink", "nevera portátil", "walkie", "purificador")
+FACTOR_TICKET = 1.25
+
+
+def _factor_ticket(keyword):
+    """1.25 si la keyword apunta a un producto de ticket alto; 1.0 si no."""
+    k = keyword.lower()
+    return FACTOR_TICKET if any(t in k for t in TICKET_ALTO) else 1.0
+
+
 def _factor_estacional(volumen, keyword):
     tokens = MESES_ESTACION.get(date.today().month, [])
     k = keyword.lower()
@@ -212,10 +227,12 @@ def construir_candidatos():
                  * _factor_intencion(fila["intencion"])
                  * _factor_volumen(fila["volumen"])
                  * _factor_estacional(fila["volumen"], fila["keyword"])
-                 * _factor_novedad(fila["keyword"], recientes))
+                 * _factor_novedad(fila["keyword"], recientes)
+                 * _factor_ticket(fila["keyword"]))
         cands.append({
             "titulo": fila["keyword"], "tipo": tipo, "desc_tipo": desc_tipo,
             "ejecutable": ejecutable, "score": round(score, 1),
+            "ticket": "alto" if _factor_ticket(fila["keyword"]) > 1 else "normal",
             "fuente": "mapa-keywords", "destino": fila["destino"],
             "prioridad": fila["prioridad"], "intencion": fila["intencion"],
             "volumen": fila["volumen"], "estado": fila["estado"],
@@ -278,11 +295,12 @@ def briefing():
     print()
     print("## Candidatos rankeados")
     print()
-    print("| # | Score | Tipo | Ejecutable | Título / keyword | Destino | Prioridad |")
-    print("|---|---|---|---|---|---|---|")
+    print("| # | Score | Tipo | Ticket | Ejecutable | Título / keyword | Destino | Prioridad |")
+    print("|---|---|---|---|---|---|---|---|")
     for i, c in enumerate(cands[:15], 1):
-        print("| %d | %.1f | %s | %s | %s | %s | %s |" % (
-            i, c["score"], c["tipo"], "sí" if c["ejecutable"] else "no",
+        print("| %d | %.1f | %s | %s | %s | %s | %s | %s |" % (
+            i, c["score"], c["tipo"], c.get("ticket", "normal"),
+            "sí" if c["ejecutable"] else "no",
             c["titulo"], c["destino"], c["prioridad"]))
     print()
     print("## Decisiones recientes (últimos 14 días, para NO repetir)")
