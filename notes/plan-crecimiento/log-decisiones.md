@@ -27,3 +27,4 @@
 | 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | encolado | Revamp 310w -> 1400w con tablas, 3 fuentes oficiales, 3 afiliados ntizar-21, 6 internos |
 | 2026-10-23 | mejor-generador-electrico-portatil-inverter | comparativa | encolado | Primer artículo de ticket alto (cluster F): 1.345 palabras, 2 tablas, 3 afiliados, 7 internos, 3 fuentes. Publicado por el publicador el 2026-10-23. Decisión de |
 | 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | atrasada | Encolado por el consejero a las 06:00 y sustituido el mismo día por el #1 de ticket alto (generador inverter). Se retoma cuando el cluster F esté cubierto. |
+| 2026-10-24 | mejor-kit-solar-portatil-para-casa | comparativa | encolado | Comparativa 5 modelos power station solar: 1000-3840 Wh, 3 ganadores por categoría, 6 internos, 3 fuentes oficiales |
