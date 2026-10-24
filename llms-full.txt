@@ -502,6 +502,131 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor power station para apagones en casa: 5 modelos comparados (2026) — https://kit72h.com/blog/mejor-power-station-para-apagones-en-casa/
+¿Qué power station aguantará tu casa en un apagón? 5 estaciones de energía comparadas por vatios, capacidad y portabilidad, con ganadores por caso (2026).
+La luz se va a las ocho de la noche un viernes de noviembre. El router se apaga, el Wi-Fi muere, y de golpe tienes un hogar sin comunicaciones sin luz ni frigorífico. El primer pensamiento es el móvil: 15 % de batería. El segundo, la nevera: «¿cuánto aguanta cerrada?». La respuesta a ambas preguntas depende de la energía que tengas dentro de casa — y si no tienes nada, aquí viene la comparativa de las cinco power stations que mejor relación precio-horas dan en un apagón doméstico en España.
+
+
+ El dato de contexto: Red Eléctrica de España (REE) reportó 12 interrupciones en 2025, con un tiempo medio de 0,25 minutos por corte . La red es fiable en promedio, pero el promedio no cubre el escenario que te interesa: un apagón que dura más de una noche, sea por temporal, fallo en la distribución local o sobrecarga del transformer de la calle. La Agencia Internacional de Energía calcula que los hogares europeos pierden de media entre 20 y 40 horas de electricidad al año cuando se combinan cortes planificados y eventos extremos. Eso es más de lo que una power station pequeña puede dar.
+
+
+ 1. Qué es una power station y qué NO es un SAI
+
+
+ Una power station (o estación de energía portátil) es una batería grande con un inversor integrado: conecta enchufes de 230 V, USB-C, USB-A y, en algunos modelos, entrada solar . Es el punto medio entre un SAI (segundos de protección para el router) y un generador de gasolina (kilovatios, pero con humo, ruido y permiso municipal): más potente que un SAI, más limpia que un generador.
+
+
+ 
+ Sí mueve: router, nevera pequeña, herramientas eléctricas, calefactor, microondas, lavadora (ciclos cortos), luces, ordenador.
+
+ No sustituye: una caldera de gas (necesita gas de la red), una cocina de inducción continua ni un aire acondicionado residencial (pide kW que ninguna portátil da).
+
+ NO es un SAI: un SAI conmuta a batería en milisegundos sin interrupción; una power station se enciende manualmente. Si quieres que el router no parpadee ni un segundo, usa un SAI — la power station es para cuando la red no vuelve.
+
+ 
+
+ 2. Las cinco power stations, comparadas
+
+
+ Precios orientativos en Amazon España (octubre 2026): cada enlace abre la categoría de productos, para que veas el precio del día y no el de cuando se escribió esto.
+
+
+ 
+ Modelo Capacidad Potencia continua Precio Mejor para 
+ 
+ 
+ Mini portátil (≤100 Wh) ↗ 80-100 Wh 100-200 W 80-150 € Solo router + móvil + luz 
+
+ Entrada de gama (200-400 Wh) ↗ 200-400 Wh 300-600 W 200-400 € Comunicación + luz + TV 
+
+ Intermedia (400-600 Wh) ↗ 400-600 Wh 600-1000 W 400-700 € Nevera pequeña + todo lo demás 
+
+ Alta (600-1000 Wh) ↗ 600-1000 Wh 1000-1500 W 700-1200 € Casa media con nevera normal 
+
+ Alta + solar (1000+ Wh) ↗ 1000-2000+ Wh 1500-3000 W 1200-2500 € Autonomía multi-día con paneles 
+
+ 
+ 
+
+ La progresión no es lineal: la diferencia de precio entre la gama de entrada y la alta es 5-8×, pero las horas de nevera se multiplican por 6 . La decisión clave es qué electrodoméstico es «imprescindible» para ti y cuánto tiempo quieres alimentarlo.
+
+
+ 3. La cuenta de las horas: qué mueve cada power station
+
+
+ Para calcular autonomía, divide la capacidad de la batería (Wh) entre el consumo del aparato (W). Así de simple. Un detalle que importa: el inversor tiene un rendimiento del 80-90 % , así que una power station de 500 Wh mueve en la práctica unos 400-450 Wh reales.
+
+
+ 
+ Aparato Consumo Horas con 500 Wh Horas con 1000 Wh 
+ 
+ 
+ Router + ONT 15 W ~25 h ~50 h 
+
+ Linternas LED (3 unidades) 9 W ~44 h ~88 h 
+
+ TV 40" LED 40 W ~9 h ~18 h 
+
+ Nevera pequeña (50 L) 40-80 W ~6-12 h ~12-24 h 
+
+ Nevera familiar (200 L) 100-150 W ~3-5 h ~6-10 h 
+
+ Cargador portátil 20 W ~20 h ~40 h 
+
+ Microwave 800 W ~0,5 h ~1 h 
+
+ 
+ 
+
+ La conclusión es clara: sin 500 Wh mínimo, no mueves una nevera . Sin 1000 Wh, no mueves una familiar. Con paneles solares conectados (los modelos de la tercera categoría y arriba lo permiten), la nevera pequeña puede funcionar indefinidamente en un día soleado — porque los 500 Wh de la batería se recargan con el sol mientras la nevera los consume.
+
+
+ 4. Ganadores por caso
+
+
+ 
+ Solo comunicaciones (router + móvil + luz): mini portátil de ≤100 Wh. Es lo más barato y no necesitas nada más si el objetivo es el móvil y el router. Ver mini power stations ↗ 
+
+ Luces, TV y router sin nevera: entrada de gama 200-400 Wh. Da media mañana de TV o 40 h de router. Ideal para quien solo necesita que la casa no se apague del todo. Ver gama de entrada ↗ 
+
+ Casa con nevera pequeña: intermedia 400-600 Wh. Es la zona donde la relación precio-horas es mejor: ~600 € te dan un día entero de nevera, router, TV y luz. La opción de la mayoría. Ver intermedias ↗ 
+
+ Casa con nevera grande: alta 600-1000 Wh. Si tu nevera es familiar y no quieres abrirla cada hora, necesitas el doble de batería. Los modelos de 1000 Wh dan un día completo de refrigeración. Ver altas ↗ 
+
+ Autonomía multi-día con paneles: alta + solar 1000+ Wh. Los paneles solares recargan la batería en el día, así que la energía es prácticamente ilimitada. Es el complemento ideal para el generador solar y el kit profesional . Ver portátiles solares ↗ 
+
+ 
+
+ Si lo que buscas es apagones completos: casa sin luz ni internet , la solución combinada es SAI para el router (segundos sin corte) + power station para la casa (horas) + radios para comunicación alternativa. Todo está en el kit de apagón .
+
+
+ 5. Los cinco errores más frecuentes al elegir
+
+
+ 
+ Elegir por capacidad sin mirar la potencia. 500 Wh no mueven una nevera si el inversor solo da 300 W. La potencia continua del inversor es el límite: nada que supere ese número.
+
+ Comprar una de 100 Wh y esperar que mueva la nevera. 100 Wh son las horas de router, no las de refrigeración. Es como comprar un cubo para apagar un incendio con una manguera de jardín.
+
+ Ignorar la recarga solar. Un apagón de 3 días con 500 Wh sin recarga se acaba en 12 horas de nevera. Un modelo con entrada solar y un panel de 100 W se recarga solo en un día soleado.
+
+ Confundir Wh con mAh. Los mAh son una unidad de la célula interna, no del sistema completo. Un vendedor puede poner «20000 mAh» y significar solo la batería Li-ion (3,7 V), que son ~74 Wh. Siempre mira los Wh: es la unidad real de energía.
+
+ No comprobar el peso antes de comprar. Una power station de 1000 Wh pesa unos 9 kg. Si necesitas subirla a un segundo piso o transportarla, valora el peso. Las de 300 Wh pesan ~3 kg y caben en una mochila.
+
+ 
+
+ 6. Seguridad, normativa y encaje en tu kit
+
+
+ Para comprar con criterio, asegúrate de que la power station cumple la norma europea UNE-EN IEC 62133-2:2017 (seguridad de las baterías de ion-litio) y que incluye protecciones contra sobrecarga, sobrecalentamiento y cortocircuito. Los modelos que cumplen esta norma llevan el marcado CE y se venden en la UE con garantía.
+
+
+ Mantenimiento en tres líneas: recárgala al menos cada tres meses (las baterías de ion-litio se degradan si se quedan descargadas), guárdala entre 20-30 °C (un garaje caliente en verano le resta vida) y haz una prueba cada seis meses : enchufa algo y déjala trabajar hasta el 20 % para confirmar que funciona.
+
+
+ Las previsiones de la CNMC para 2026 apuntan a una mayor estabilidad de la red gracias a la modernización del sistema eléctrico europeo, pero la realidad es que los fenómenos meteorológicos extremos — olas de calor, DANA, nevadas — se vuelven más frecuentes. La protección contra apagones no es previsión, es precaución. La lista completa de lo que necesitas está en el kit de apagón ; si empiezas desde cero, empieza por cómo montar tu kit de 72 horas .
+
 ### Mejor generador eléctrico portátil inverter (2026): potencia, ruido y lo que mata — https://kit72h.com/blog/mejor-generador-electrico-portatil-inverter/
 Cómo elegir un generador inverter sin equivocarte de potencia: picos de arranque, consumo real por depósito, monóxido y ruido con los vecinos.
 Qué es un generador inverter y por qué no es lo mismo que uno barato
