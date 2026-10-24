@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-23T08:45:49Z",
+  "generado": "2026-10-24T08:45:45Z",
   "fuente": "cloudflare",
   "estado": "ok",
   "mensaje": "Métricas de Cloudflare Web Analytics leídas correctamente.",
@@ -10,10 +10,6 @@
     "clics_amazon": 0
   },
   "serie_diaria": [
-    {
-      "fecha": "2026-09-24",
-      "visitas": 0
-    },
     {
       "fecha": "2026-09-25",
       "visitas": 0
@@ -128,6 +124,10 @@
     },
     {
       "fecha": "2026-10-23",
+      "visitas": 0
+    },
+    {
+      "fecha": "2026-10-24",
       "visitas": 0
     }
   ],
