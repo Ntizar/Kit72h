@@ -627,6 +627,266 @@ La luz se va a las ocho de la noche un viernes de noviembre. El router se apaga,
 
  Las previsiones de la CNMC para 2026 apuntan a una mayor estabilidad de la red gracias a la modernización del sistema eléctrico europeo, pero la realidad es que los fenómenos meteorológicos extremos — olas de calor, DANA, nevadas — se vuelven más frecuentes. La protección contra apagones no es previsión, es precaución. La lista completa de lo que necesitas está en el kit de apagón ; si empiezas desde cero, empieza por cómo montar tu kit de 72 horas .
 
+### Mejor kit solar portátil para casa (2026): 5 modelos comparados — https://kit72h.com/blog/mejor-kit-solar-portatil-para-casa/
+Comparativa de 5 power stations solares portátiles para el hogar: la que soporta nevera, la más equilibrada y la que basta para móviles. Potencia, capacidad y precio.
+Mejor kit solar portátil para casa: 5 modelos comparados (2026)
+
+
+ Un kit solar portátil para casa es una power station —batería estacionaria con inversor y puertos AC/USB— a la que se le pueden conectar uno o más paneles solares flexibles. El resultado es un sistema que carga tu batería con el sol y te entrega electricidad limpia, sin ruido y sin humos. A diferencia del generador de gasolina, no necesitas almacenar combustible y puedes dejarlo enchufado días sin supervisión.
+
+
+ ¿Para qué sirve en tu casa? Mantener la nevera, el router de fibra, el móvil y las luces encendidos durante un apagón de horas o un par de días. No va a alimentar una vivienda entera (calefacción, electrodomésticos de cocina o la bomba de la piscina), pero sí lo que realmente necesitas cuando se va la luz.
+
+
+ He probado y comparado los cinco modelos más vendidos en España en la categoría de 500-1000 Wh (la que cabe en una maleta, no en un camión). La tabla al final te lo resume todo en un vistazo.
+
+
+ Cómo elegir tu power station solar: lo que realmente importa
+
+
+ Antes de mirar marcas, hay tres números que marcan la diferencia entre un kit que te salva el apagón y uno que no llega ni al mediodía.
+
+
+ Capacidad real (Wh): cuántas cargas te da
+
+
+ Los Wh (vatios-hora) son la medida de cuánto «combustible» tiene la batería. Una power station de 500 Wh puede cargar un portátil de 60 Wh unas 6-7 veces (pérdidas de conversión incluidas), o mantener un router de 15 W encendido 25-30 horas . Con 1000 Wh, multiplicas por dos.
+
+
+ La fórmula práctica: Wh del kit ÷ consumo del aparato en W = horas de autonomía . Para un hogar que quiere mantener nevera (100-200 W) + router (15 W) + luces (30 W), la carga combinada ronda los 150-250 W. Una power station de 500 Wh daría unas 2-3 horas de nevera (la nevera se abre y cierra cada cierto tiempo, así que en la práctica un poco más), mientras que una de 1000 Wh, 4-6 horas.
+
+
+ Para 72 horas de autonomía sin red, hace falta algo más: bien una power station de 1500-2000 Wh con paneles que carguen durante el día, o bien un generador de gasolina como respaldo para las noches sin sol.
+
+
+ Potencia de salida (W): qué puedes enchufar a la vez
+
+
+ Los vatios de salida indican cuántos aparatos puedes tener encendidos a la vez. Un modelo de 300-500 W vale para móvil, tablet, router y luces; uno de 800-1000 W, además, para una nevera pequeña, un cargador de herramientas o una tele pequeña. Si quieres mantener una nevera combi grande (300-400 W de arranque), necesitas al menos 1000 W continuos y 2000 W de pico.
+
+
+ Paneles incluidos: cuántos W y cómo se pliegan
+
+
+ El panel es lo que recarga la batería durante el día. Un panel de 100 W produce unos 60-80 Wh reales (pérdidas por temperatura, ángulo y nubosidad) en España en un día de primavera-verano; en invierno, la mitad. Lo ideal es un kit que incluya al menos un panel de 60-100 W y que permita añadir uno más en serie.
+
+
+ Los 5 mejores kits solares portátiles para casa en 2026
+
+
+ 1. EcoFlow Delta 2 — el que lo soporta todo
+
+
+ La EcoFlow Delta 2 (1024 Wh, 1800 W de salida) es, con diferencia, la más potente de la comparativa. Carga del 0 al 80 % en 50 minutos con enchufe y en unas 4-5 horas con un panel de 160 W. Tiene puerto de expansión para llegar a 2048 Wh si lo necesitas.
+
+
+ Lo bueno: la potencia de salida (1800 W) permite una nevera combi, microondas pequeño y herramientas; la carga ultra-rápida con enchufe; la app móvil para monitorizar carga y consumo. Lo malo: pesa 12 kg y su precio (cerca de 1000 €) es el más alto de la comparativa.
+
+
+ Ideal para: hogares que quieren una solución completa para 1-3 días sin red, con posibilidad de ampliar a 2000 Wh.
+
+
+ Ver EcoFlow Delta 2 en Amazon 
+
+
+ 2. BLUETTI AC200MAX — la robusta
+
+
+ La BLUETTI AC200MAX ofrece 2048 Wh (expandible a 4096 Wh) y 2200 W de salida. Es la más grande de la comparativa: 26,3 kg, pero cabe en un garaje. Carga de 0 a 80 % en 90 minutos con enchufe y con paneles solares hasta 500 W.
+
+
+ Lo bueno: capacidad brutal para 72 h, expandible con módulos, puertos USB-C PD 140 W. Lo malo: el peso (26 kg) limita su portabilidad real y el precio supera los 1500 € sin paneles.
+
+
+ Ideal para: hogares con espacio en garaje o trastero que quieran la máxima autonomía sin generador de gasolina.
+
+
+ Ver BLUETTI AC200MAX en Amazon 
+
+
+ 3. Jackery Explorer 1000 Pro — el equilibrio perfecto
+
+
+ La Jackery Explorer 1000 Pro (1002 Wh, 2000 W) está en el punto dulce: potencia de sobra para casi cualquier uso doméstico, 12 kg (no demasiado ligera pero manejable), y un precio competitivo con paneles incluidos (1-2× 100 W). Carga completa en 2 h con enchufe o unas 6-7 h con paneles.
+
+
+ Lo bueno: equilibrio entre potencia, peso y precio; la app de monitorización es sencilla y fiable; los paneles incluidos facilitan empezar sin complicaciones. Lo malo: sin expansión de capacidad como la Delta 2.
+
+
+ Ideal para: el usuario medio que quiere algo potente pero no quiere una estación de 25 kg en el garaje.
+
+
+ Ver Jackery Explorer 1000 Pro en Amazon 
+
+
+ 4. Anker Solix F3800 — la nueva con litio LFP
+
+
+ La Anker Solix F3800 es un modelo más nuevo con batería de litio hierro-fosfato (LFP, que aguanta 3000+ ciclos en vez de los 500-1000 del LFP) y 3840 Wh de capacidad. Con 3600 W de salida, es la bestia de la comparativa. Carga con paneles de hasta 3000 W de entrada solar.
+
+
+ Lo bueno: tecnología LFP (durabilidad mucho mayor), capacidad enorme, 3600 W de salida. Lo malo: precio (2000 €+), peso (40+ kg) y que solo tiene sentido si tienes espacio y presupuesto para una instalación semi-permanente.
+
+
+ Ideal para: hogares que quieren una solución a largo plazo, sin generar la gasolina, que puede reemplazar al generador de forma permanente.
+
+
+ Ver Anker Solix F3800 en Amazon 
+
+
+ 5. VTOMAN Flash 1500 — la opción calidad-precio
+
+
+ La VTOMAN Flash 1500 ofrece 1548 Wh y 2000 W a un precio que ronda los 700-900 € (sin panel). Batería LFP, pantalla táctil y puertos USB-C PD. Es la mejor relación capacidad-precio de la comparativa.
+
+
+ Lo bueno: la mejor relación Wh por euro (≈0,98 €/Wh), tecnología LFP, potencia de 2000 W. Lo malo: la marca tiene menos presencia en España que EcoFlow o Jackery, con servicio técnico más limitado.
+
+
+ Ideal para: quien quiere la máxima capacidad por su dinero y no le importa buscar el soporte técnico por su cuenta.
+
+
+ Ver VTOMAN Flash 1500 en Amazon 
+
+
+ Tabla comparativa: 5 kits solares portátiles
+
+
+ 
+ Modelo Capacidad (Wh) Potencia salida (W) Peso Paneles incluidos Desde (≈€) Ganador en 
+ 
+ 
+ EcoFlow Delta 2 1024 1800 12 kg Opcional (160 W) ~950 Mejor todo terreno 
+
+ BLUETTI AC200MAX 2048 2200 26 kg Opcional ~1500 Máxima capacidad 
+
+ Jackery Explorer 1000 Pro 1002 2000 12 kg Sí (2× 100 W) ~850 Mejor equilibrio 
+
+ Anker Solix F3800 3840 3600 40+ kg Opcional ~2100 Larga duración (LFP) 
+
+ VTOMAN Flash 1500 1548 2000 18 kg No incluido ~700 Mejor Wh/€ 
+
+ 
+ 
+
+ Ganadores por categoría
+
+
+ 
+ Categoría Ganador Por qué 
+ 
+ 
+ Mejor para la mayoría Jackery Explorer 1000 Pro 1000 Wh y 2000 W con paneles incluidos; precio justo; 12 kg manejables 
+
+ Máxima autonomía BLUETTI AC200MAX 2048 Wh expandibles a 4096 Wh; 26 kg pero no se mueve a diario 
+
+ Mejor relación calidad-precio VTOMAN Flash 1500 1548 Wh por ~700 €; LFP; 2000 W 
+
+ Máxima potencia Anker Solix F3800 3600 W de salida; soporta todo excepto calefacción 
+
+ Mejor carga rápida EcoFlow Delta 2 0-80 % en 50 min; app completa; expandible a 2000 Wh 
+
+ 
+ 
+
+ Paneles solares: cuánto producen en España
+
+
+ Un panel de 100 W en España produce, de media anual, entre 150 y 200 Wh por día (1,5-2 kWh), según la orientación y la época del año. En invierno (diciembre-enero), la irradiancia baja un 40-50 %: el mismo panel entrega 80-120 Wh. En verano, puede superar los 250 Wh.
+
+
+ Esto quiere decir que con un panel de 100 W no vas a recargar una power station de 1000 Wh un día nublado de invierno. La clave es tener paneles que sumen al menos el doble de lo que consumes al día, y orientarlos hacia el sur sin sombras.
+
+
+ Sí, también puedes usar los paneles con el kit de apagón como complemento, pero para uso principal necesitas algo más que un panel colgado en la ventana del balcón.
+
+
+ ¿Solar portátil o generador de gasolina?
+
+
+ No son excluyentes, y de hecho la combinación es la que más gente usa. El solar portátil carga cuando hay sol (ruido cero, sin humos); el generador de gasolina entra cuando se acerca la noche y se acabó la carga solar. La comparativa generador vs power station detalla cuándo cada uno tiene más sentido.
+
+
+ Si tu prioridad es el silencio, no tener que guardar gasolina y no subirla por escaleras, el solar portátil es la vía correcta. Si necesitas alimentar una nevera grande durante tres días sin sol, combina solar + generador.
+
+
+ Checklist antes de comprar
+
+
+ 
+ Capacidad ≥ 500 Wh para un uso mínimo (móvil, router, luces). ≥ 1000 Wh para nevera incluida.
+
+ Potencia de salida ≥ 800 W si quieres conectar una nevera pequeña. ≥ 1500 W si además quieres microondas o herramientas.
+
+ Batería LFP (hierro-fosfato) si la vas a usar a largo plazo: 3000+ ciclos vs 500-1000 del LFP antiguo.
+
+ Paneles incluidos o al menos compatibles (conectores MC4 o XT60).
+
+ Garantía mínima de 2 años con servicio técnico en España.
+
+ Peso y dimensiones : que puedas subirla por las escaleras si vives en un piso alto.
+
+ App de monitorización : saber cuánto queda de batería y cuántos W consumes en cada momento es esencial.
+
+ 
+
+ Errores frecuentes
+
+
+ 
+ Comprar solo la power station sin paneles. La batería se descarga en un par de días sin red y, si no tienes paneles, no se recarga hasta que vuelva la luz. Compra siempre el kit con al menos un panel.
+
+ Orientar el panel hacia el norte o a la sombra. Un panel en sombra parcial pierde hasta un 80 % de su producción. Orienta siempre al sur, sin obstáculos.
+
+ Subestimar el consumo de la nevera. La nevera consume 100-200 W de media pero al arrancar pide 300-900 W de pico. Si la potencia de salida no llega, la nevera no arranca y se cala.
+
+ Olvidar los cables de conexión. Los paneles llevan conectores MC4 que a veces no encajan directamente en la power station. Verifica antes o lleva adaptadores.
+
+ Pensar que va a alimentar todo. Una power station portátil no es un generador de obra. Apaga la calefacción, el aire acondicionado y las vitrocerámicas; mantén lo esencial y el sol lo mantendrá encendido.
+
+ 
+
+ Veredicto
+
+
+ Para la mayoría de hogares españoles, la Jackery Explorer 1000 Pro es el punto ideal: 1000 Wh para mantener la nevera y el router, 2000 W de salida para lo que pongas, paneles incluidos para empezar sin complicaciones y 12 kg que cualquier persona puede mover. Si tu presupuesto es más ajustado, la VTOMAN Flash 1500 te da más Wh por euro.
+
+
+ Si tu prioridad es la autonomía absoluta (72 h+ sin sol), la BLUETTI AC200MAX es la más capaz, aunque pesa 26 kg. Y si lo que quieres es el modelo más avanzado con la mayor potencia, la Anker Solix F3800 es la bestia definitiva: 3840 Wh, 3600 W y batería LFP para años de uso.
+
+
+ Y recuerda: un kit solar portátil es la pieza de energía de un kit de apagón . Sin agua, sin botiquín y sin radio no hay plan. Empieza por lo básico y añade energía limpia.
+
+
+ Si lo tuyo es la energía y la autonomía total, el kit profesional de energía y autonomía lleva todo lo necesario (SAI, 800 W de placas, baterías LFP, Starlink) para que tu casa funcione sin red.
+
+ 
+
+ Fuentes de esta comparativa
+
+ 
+ Protección Civil — Recomendaciones ante apagones 
+
+ Estrategia de Preparación de la Unión Europea (DG ECHO) 
+
+ Red Eléctrica de España — Datos de consumo doméstico 
+
+ 
+ 
+
+ Sigue leyendo
+
+ 
+ Generador vs power station: comparativa 2026 para el apagón 
+
+ Mejor power station para apagones en casa: 5 modelos comparados (2026) 
+
+ Mejor generador eléctrico portátil inverter (2026) 
+
+ Kit de apagón — 72 horas sin luz 
+
+ Kit básico 72 horas — lo esencial
+
 ### Mejor generador eléctrico portátil inverter (2026): potencia, ruido y lo que mata — https://kit72h.com/blog/mejor-generador-electrico-portatil-inverter/
 Cómo elegir un generador inverter sin equivocarte de potencia: picos de arranque, consumo real por depósito, monóxido y ruido con los vecinos.
 Qué es un generador inverter y por qué no es lo mismo que uno barato

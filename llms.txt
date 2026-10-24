@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 ## Blog
 
 - [Mejor power station para apagones en casa: 5 modelos comparados (2026)](https://kit72h.com/blog/mejor-power-station-para-apagones-en-casa/): ¿Qué power station aguantará tu casa en un apagón? 5 estaciones de energía comparadas por vatios, capacidad y portabilidad, con ganadores por caso (2026).
+- [Mejor kit solar portátil para casa (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-kit-solar-portatil-para-casa/): Comparativa de 5 power stations solares portátiles para el hogar: la que soporta nevera, la más equilibrada y la que basta para móviles. Potencia, capacidad y precio.
 - [Mejor generador eléctrico portátil inverter (2026): potencia, ruido y lo que mata](https://kit72h.com/blog/mejor-generador-electrico-portatil-inverter/): Cómo elegir un generador inverter sin equivocarte de potencia: picos de arranque, consumo real por depósito, monóxido y ruido con los vecinos.
 - [Mejores cadenas para la nieve 2026: 5 opciones y cuándo exige la DGT](https://kit72h.com/blog/mejores-cadenas-para-la-nieve/): Metálicas, calcetines o neumáticos de invierno: 5 opciones comparadas por precio y uso, con lo que exige la DGT y los errores que más se repiten.
 - [Mejor mochila de emergencia 2026: 6 mochilas de evacuación comparadas](https://kit72h.com/blog/mejor-mochila-emergencia-evacuacion/): ¿Qué mochila coges si hay que salir de casa en diez minutos? 6 tipos comparados por litros, peso y precio, ganadores por caso y qué va dentro (2026).
