@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-25T21:50:09+01:00",
+  "actualizado": "2026-10-25T22:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "La Patagonia frente a un desafío creciente: expertos se reunirán en Neuquén para debatir sobre incendios forestales",
+     "url": "https://www.mejorinformado.com/neuquen/patagonia-frente-desafio-creciente-expertos-reuniran-neuquen-debatir-incendios-forestales_1792946945",
+     "fuente": "Mejor Informado",
+     "resumen": "Del 27 al 29 de octubre, Junín de los Andes será escenario de un encuentro internacional que reunirá a especialistas de Argentina, Chile, Canadá y España para analizar cómo prevenir y enfrentar incend ...",
+     "fecha": "2026-10-25T11:04:00+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
      "titulo": "Los incendios de julio en Madrid, Ávila y Toledo calcinaron más de 77.000 hectáreas",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnptdWZSNmhLcFBFOHBkUUFPQ3BldEVKMVg1dHZxa1JvR0dEU1o3bWdmQ2xQMmwtQ2VQcE13cmZPbTRtRDJrdWRIaVhPZUY4V2VMQzVoUGJ4RkREb0RnajI3RzEtSFdSZTRubmJrZzFjOEpfWlRMMDl1RWREclJTOS1UaXpHa29zVXpWYkhZOVZpUy1XTVBLMUdRZmkzMldNY3YxOE9CV1A0eE1NdWVKeTVYUVNYWWM?oc=5",
      "fuente": "MadridPress",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-21T05:30:22+02:00",
      "fecha_txt": "21 oct"
-    },
-    {
-     "titulo": "El fuego arrasa durante 2026 casi 280.000 hectáreas forestales en España, 2,5 veces la media del último decenio",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzdU02ZFJZUUtBbEpkYXAtZFJ5UXhDanpqU3JsT3h0Q1hlbGktZlBVUy1aRzJpWmlTcTFkMW0zUTQxdTQwU1dlUnFKZndmRWNrWmhkZzlwMkN4c3lscDNZMXEzcUVhZkxnV3dpbE9ISDdlRVE?oc=5",
-     "fuente": "EFE Verde",
-     "resumen": "",
-     "fecha": "2026-10-20T13:21:57+02:00",
-     "fecha_txt": "20 oct"
     }
    ]
   },
@@ -162,6 +162,14 @@
      "fecha_txt": "25 oct"
     },
     {
+     "titulo": "El nuevo Patricova amplía las zonas de riesgo de inundación y revisa dónde se puede construir en la Comunitat Valenciana",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-nuevo-patricova-ampl%C3%ADa-las-zonas-de-riesgo-de-inundaci%C3%B3n-y-revisa-d%C3%B3nde-se-puede-construir-en-la-comunitat-valenciana/ar-AA2g1nSe",
+     "fuente": "Moncloa on MSN",
+     "resumen": "El nuevo Patricova redibuja el riesgo de inundación en la Comunitat Valenciana y abre el debate sobre demoler miles de viviendas en suelo inundable. La entrada El nuevo Patricova amplía las zonas de r ...",
+     "fecha": "2026-10-25T05:42:32+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
      "titulo": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
      "url": "https://www.diariodenavarra.es/noticias/magazine/sociedad/2026/10/25/tecnologia-concienciacion-factores-basicos-evitar-desastres-inundaciones-840001-106.html",
      "fuente": "Diario de Navarra",
@@ -171,10 +179,10 @@
     },
     {
      "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDJWU25hZHk0WnpmWnhVTDV6WGNkNzkwcTVrczZKWkVGcjhUSU1WNWFTZ0lRT1FUUWhvQ2Y3a3hkQm5aSE9RM21rcnpvYU90aWFGS0hIdW1JWmVBYnVna3ROZjZtVmFxM183RndjcWZWVHMwSzBSTXBzdDJNdVgzU1N4OFFlLXg4QzUwSkdJVzlkNnY4T0hyd1duOFl4Q2dJOEFHelhPU0Z1SkFVYk82ejZXT05YSFBVaUlrX2RKTkt3QkRwWmxQR1V1ZzFyX1hBemJfR09ENGQ1ZURZaVR4QmZLS0x5ZzdwZURMSTZfQmhmUkRSay04V0o4OVJWRVFIYmfSAYcCQVVfeXFMTnI2RGpNUlBJZDYxVmYzdFV3QkNSRHlabWdZM1E0TngzbHRoU1VKeUhseVZtTHRCYnR1UjNXSGNpc3Q0Q2JXSjU1eGh3MUZhSm5Ma2JEQUFNcVpwV21nOVFaNlprbzRUQ0VFT1Y3djRQUW9TRnJWbFdqdV9iNEdJQ2FpNlBWNm9DZTNTWTBpeW5lTGRWbm5XNUhpZkdlQlNLREd1TEt4eFh6aVVmSkpwRzFsaEE5cGxfUnN4dEp4dlNvbW1VZ0dCMEhwMTN1dTJGSU1GSWN2Nmplb182WDhPd0tWMW9oc2UwWHdtYXlQb0tVdTFfVE5iZ29WQ3hNdElSNEFaTTBIeFU?oc=5",
-     "fuente": "Diario digital Nueva Tribuna",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1RoYVdKSkFueW5JakQyNkJsc213aHdKVkFvSm0zSW5DaHR2R3ZfdUp1cGlwTGxQS1JwNFB6WmZKWnJlUWpHTFVDMnhGckdaZnRPM3RhOXpFMjVUU1UtWjNlcHpGQU1CbVF6bjJhUWxyVG9UWExwS0ZnQ2k5U0JKQ2ZpQlJIN2QwUzBpMl9TUVpramhOZmNyX0UxV2JhdWc?oc=5",
+     "fuente": "ECOticias.com",
      "resumen": "",
-     "fecha": "2026-10-24T16:58:43+02:00",
+     "fecha": "2026-10-24T12:40:19+02:00",
      "fecha_txt": "24 oct"
     },
     {
@@ -194,28 +202,20 @@
      "fecha_txt": "24 oct"
     },
     {
+     "titulo": "Día Internacional contra el Cambio Climático: del calor a las inundaciones, los riesgos que afronta España",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG5yaUhqWVgwQ1RvbGExOTZZNUtYWHBmbjhkOFFONG1WY1dWVUdzSU44bWxYRFU3VVdVZzBJVnJjTmV6THFxNWFzU0JEdks1cTF4d3cxY2lMU2ZsXy1mOXhHckYwYzhVTHY4ZXpFSmhiVzVqX3puV0k2N21kXzlzTnlTS05PYXJI?oc=5",
+     "fuente": "EFE Verde",
+     "resumen": "",
+     "fecha": "2026-10-24T10:16:22+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
      "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este sábado 24 de octubre en España: estabilidad generalizada y lluvias con nevadas débiles en los Pirineos",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZUVxcEp3enJfNXNCRmlsODUyOWRQQk05aUdCd1I0UGFXcmZRc3l1THQxaFgwbnhraF9aekpGSENLMUQtZTRTU25aTUwzY1dZcW5lNlpCUnBRYkphUTc3cV9XcktxUmc4alFCSjhVdktUUWpjckpEODJ5WmdpNC1kNV9xQkFtOUJGRktCTEs5WUF4WF9VTDE3RXV4VXFJNGpDQVpJZXM5SU5IWTZ6SjVIUHZCVC1CaEhSWGNHVlJkTE1DTi1yNHpubnhWd3FoNHN4MXdxR2ZXVkRsbi1pbUJ4SGdGbUlGLWpPQjNkazBKaHpBUFRBRE13N0VUTzJBUkppV2FPV1JVeXNWVzlZNWl5T3Z2d2pZWk9aVzl5WXhB0gGyAkFVX3lxTE1aWjU4QXVOcVVacG0wYTg1bEs1TFhYZXo4d19YYVFadGVobkVzcTFyQ21FajR6RXpzUVBZanNHTlRjd2hDanVBVmp3dGp5cnlOZHRoTkUyTkhma2MtRG85a2pfQW5QeDVtMUh4blFvWXE4UTl1Rm5YLW9mOW04Y1JGMnJfNFlZd1VZWkxCY19wSWhOeXpQTEdzM3pacUZsQVB1c2pzWi1zZ1BVNGR5VkdLYjhNT0JnTTlwMEVXVEpLcFNXY3VYSlFYeS00T1FveXl1UkttS3JNMXI3SW56WlZQVUFFNFRWMGh2WUJkd2tQdV9xTHdFVXFsdFJTYm01MXFETDlOc3RKaWNBWkhXd0xad1l3NVJIdU8yRkVsdmJVeDhFeVYtd1RpNnpLRVhOZkJNdw?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-10-24T07:00:22+02:00",
      "fecha_txt": "24 oct"
-    },
-    {
-     "titulo": "Inundaciones en España dejan muertos y miles de evacuados tras el paso de la tormenta Adam",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFdRdU5ZVGJmejJNcmNTbHhVeDgyRi1YUThDV1BtMFRtX0NCV2VYZFRBQkhDdWlHd0ZxWlA5X091c3FWT3hJYTRnOGFxbUs3S3lmSm5YTzY4Y0JCWHlCMFRETnZod2lKQUd0TE5GUFRic240RTVpTUJ6UVg5YWlXMFhrbG53SlBEc2ptUURLR1dvQkZDRkRfTS02a2V0MkhHR01GcE1zN1BBcGpPREctTlk2UDR6SW5fcWNYbVhMYV8xa3lHcUdxeDZWc1JkZlh5VG5uX0ZaTQ?oc=5",
-     "fuente": "Univision",
-     "resumen": "",
-     "fecha": "2026-10-24T03:29:00+02:00",
-     "fecha_txt": "24 oct"
-    },
-    {
-     "titulo": "Dana Adam: cómo solicitar una indemnización al Consorcio de Compensación de Seguros por los daños",
-     "url": "https://www.cronista.com/espana/actualidad-es/dana-adam-como-solicitar-una-indemnizacion-al-consorcio-de-compensacion-de-seguros-por-los-danos/",
-     "fuente": "El Cronista",
-     "resumen": "Las personas afectadas por la dana Adam ya pueden solicitar una indemnización al Consorcio de Compensación de Seguros, que hasta el momento acumula miles de pedidos provenientes principalmente de la ...",
-     "fecha": "2026-10-23T07:10:00+02:00",
-     "fecha_txt": "23 oct"
     }
    ]
   },
