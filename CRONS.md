@@ -18,7 +18,8 @@ Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, 
 | `kit72h-ofertas` | diario 07:00 | LLM | ✅ |
 | `kit72h-vigilante` | lunes 09:00 | LLM | ✅ (reactivado) |
 | `kit72h-pins` | diario 08:00 | script | ✅ |
-| `kit72h-analitica` | diario 08:45 | script | ⏳ se activa al configurar la analítica |
+| `kit72h-analitica` | diario 08:45 | script | ✅ |
+| `kit72h-noticias` | cada 3 h (:10) | script | ✅ (nuevo 2026-10-25) |
 | `kit72h-revision-urls` | 15 mes 09:00 | LLM | ✅ (bonus) |
 
 **8 crons activos + 1 nuevo (analítica) + 1 bonus.**
@@ -117,3 +118,27 @@ Hecho con ❤️ por David Antizar
 El ID de afiliado Amazon pasó de `nti0c8-21` a **`ntizar-21`** (nuevo alta aprobado con kit72h.com). Migración completa en repo: 1.161 enlaces en 87 ficheros + `TAG` en 6 scripts + `tag:` en `js/ui.js` (commit `763f3be`).
 
 **Pendiente en el PC**: hacer `git pull` del repo en el clon local para que los crons que ejecutan `scripts/*.py` (buscador, seo-audit, pins...) usen el tag nuevo. Los crons LLM (comparador, editor, ofertas, seo-ctr, vigilante) revisar en `jobs.json` que sus prompts no tengan `nti0c8-21` hardcodeado — si lo tienen, sustituirlo por `ntizar-21`.
+
+
+---
+
+## `kit72h-noticias` — lo que está pasando (cada 3 h)
+
+Script puro (`--no-agent`, 0 tokens) → `scripts/noticias.py` vía
+`~/.hermes/scripts/kit72h-noticias-vm.py` y `runner-kit72h.py` (commit + push
+solo si hay cambios; ~11 s de run).
+
+- **Prensa**: Bing News RSS (enlace real del medio) + Google News RSS (volumen)
+  para cuatro bloques: países que piden provisiones, incendios, inundaciones y
+  apagones. Filtro por palabras clave y, en los tres últimos, por ámbito España
+  (topónimos + AEMET/112/UME/Red Eléctrica): sin eso entraba «incendio en
+  California». Ventana de 30 días, 8 titulares por bloque, dedupe por titular.
+- **Avisos oficiales**: la página de avisos de AEMET publica un
+  `geojson_<epoch>.tar.gz` con las zonas en alerta **y su polígono**
+  (`r_D+0_*_penbal_*` + `_can_*`; nivel 1 rojo / 2 naranja / 3 amarillo). De ahí
+  salen `data/alertas-es.json` (provincias, zonas, avisos con descripción y
+  horario) y las manchas que pinta `/zona/`. Nada se inventa ni se reconstruye.
+- Las páginas leen los JSON en cada visita → **no hace falta rehornear** para
+  publicar lo nuevo; el HTML horneado es la foto para SEO/sin JS.
+- Si una fuente falla, el bloque conserva lo último bueno y se anota en
+  `meta.aviso`: nunca se pisa una lista con vacío.
