@@ -35,6 +35,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Mejor bomba de achique para inundación (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-bomba-achuite-inundacion/): Comparativa de 5 bombas de achique para inundación: la más potente, la más silenciosa y la que mejor relación calidad-precio. Desaloja agua sucia de tu casa en horas.
 - [Mejor power station para apagones en casa: 5 modelos comparados (2026)](https://kit72h.com/blog/mejor-power-station-para-apagones-en-casa/): ¿Qué power station aguantará tu casa en un apagón? 5 estaciones de energía comparadas por vatios, capacidad y portabilidad, con ganadores por caso (2026).
 - [Mejor kit solar portátil para casa (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-kit-solar-portatil-para-casa/): Comparativa de 5 power stations solares portátiles para el hogar: la que soporta nevera, la más equilibrada y la que basta para móviles. Potencia
 - [Mejor generador eléctrico portátil inverter (2026): potencia, ruido y lo que mata](https://kit72h.com/blog/mejor-generador-electrico-portatil-inverter/): Cómo elegir un generador inverter sin equivocarte de potencia: picos de arranque, consumo real por depósito, monóxido y ruido con los vecinos.
