@@ -1,0 +1,294 @@
+{
+ "meta": {
+  "actualizado": "2026-10-25T21:39:57+01:00",
+  "fuente": "Bing News + Google News RSS (edición España)",
+  "ventana_dias": 30,
+  "aviso": ""
+ },
+ "temas": [
+  {
+   "id": "provisiones",
+   "titulo": "Países que piden provisiones",
+   "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
+   "items": [
+    {
+     "titulo": "Reino Unido pide preparar un kit de emergencia para sobrevivir 72 horas: la lista de productos que recomienda tener en casa",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmFQcWVMUWlHdjFYejM5UFVQcW9nZGVvaGZjRHdqZkFnMGsxazgtamtEdFpURHRjbDZ1bURBLWFmU1ZoTmxxNC1FTVBEN2pVV25DV0VJZlJ2ZUIxS0F2WTJHYVg0R0JSdEZ0ZWZIbG9tVGpvUlNjYXhXbEhFSGZpYVJ6V01OajhIaUxpbjZLekY5R21Ud1l0ZnE0cnQ1Z09weWo3YzVLLUhTV2p6U2NFMGkzOTNGOG1aOTQ4a05vSll2LTI1YTlBZUpZZ0RYQUEwV1RCYjJWYkjSAd4BQVVfeXFMUGFzWVNHVW80cEpGdlFObDQxb0VwelZvZ0FzMkVKcXFPVmY1cnZuMjZILWtrWXZuRFpmV3RxOGlyaVdlOFZlNTlGVWRYMXhtZ0lhdUFOTXNtSW90akFKSXpoRXhPOUx2TXdfQ2V6SXkzR3JHQy1od3dIVmtOT2tIYWFMcE9JR1Z1azVNc0swVTJlQ0M5OUJaamJLSGpFYmk4NVY0MzNBVXBvSFdCZ3g5cktWb2pPN01XdHNQVS1CRWkwWGk1UnBXN0NYMTdFVmtZLV82dTVFQnVWZjBXUGln?oc=5",
+     "fuente": "Demócrata",
+     "resumen": "",
+     "fecha": "2026-10-25T12:24:29+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "Reino Unido actualiza su kit de emergencia para los hogares con dinero en efectivo, mantas y copias de documentos",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVNCTEl3OEZ4ckttQ01HcGYya1N2TU1ueVdOaVg5Y192SmRNWU1FOFlqVFRYR2F4OEl2N2JQVWhhMW1KcDZPYVdnNDNVX2dSWG9FY1A4ZnFJNFNNeWRKVV9sY3VSdjJfV2E3SXV0aHFRek9XdzZEem5xYzc2R1k0XzdwZEpHZXRIbkFCbkZwcHV1ZGl1cjVYTmZ5RThSVElTZTktcktBNWl3WVVKMGfSAa4BQVVfeXFMTVlTQkxJdzhGeHJLbUNNR3BmMmtTdk1NbnlXTmlYOWNfdkpkTVlNRThZalRUWEdheDhJdjdiUFVoYTFtSnA2T2FXZzQzVV9nUlhvRWNQOGZxSTRTTXlkSlVfbGN1UnYyX1dhN0l1dGhxUXpPV3c2RHpucWM3NkdZNF83cGRKR2V0SG5BQm5GcHB1dWRpdXI1WE5meUU4UlRJU2U5LXJLQTVpd1lVSjBn?oc=5",
+     "fuente": "El HuffPost",
+     "resumen": "",
+     "fecha": "2026-10-24T16:56:50+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Llamamiento a los británicos a prepararse para situaciones de crisis",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZld2S3czV3JEVGllbS1fTXhfZ2ZnUUE5RnVYSndYb2xrSnRqVXVmVXhYZmwwTjVNdDliZk1TMkt5Znh6WElBQ1dJb0p3dmhqSTQyVGhMd0VDWDJNZkVpNWk1b0lrcVhWcksxSEQ4WGJXQlc0MF9WNjFrWkVoVlhrUzhWRGRIRW9WTEs3X1dzQ1V6QnpvdnJPYjZZeGdxWTJPbTZNR2pWcWViZUJ0RXRCOEJMN2x6dXlvWEpFYTUtNUdaZ2pU?oc=5",
+     "fuente": "France 24",
+     "resumen": "",
+     "fecha": "2026-10-24T16:08:55+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "El Gobierno británico pide a sus ciudadanos que preparen un kit de supervivencia para emergencias",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVp4WkpIWGR5Y3d5eGZEZjIxdEZwVmNtdkVaTHpCMWczTnl1ckIySnNFVG80RjNVUm5ISjhNZXNFSEx1TDdTMHU4aUNEdXUwVVJSUUFGcVVnck5zNExDTTVuTTQ4eHFFLTdIUXRhWjhuRkJxcEZFNV80aWI0a2V1TzMwMW1qelBjSFJFVzU2RlptVU5ic2xwTmdYUHBzUXdJV04xWUVTeW5ES1BZQ3d4ektoOHBZc0dI0gG-AUFVX3lxTE1RVU00NW9yd1hfNGRqcThZVU1lT0RXMll4UzUzUHhwX1hRNzlmT3BBZFRYeGlqa3FRRXlhakM0TnVYdEh2VVFNQXI4R216M0NJZ09MM1BkTm1TMDhCQ0gyYXI0OHN3YkZ0R3o2WWhxRl9hSEt4ZTAwZHZ3X2xtTjZmNXpkSUVCSVlKQlVyUFZwTVFjemdYbHBDMHZnZHlwNzFpRXRQUXJXOTJhOWdxaDllTHIzU2VrTlRXYTRrRlE?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-10-23T21:30:01+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Reino Unido pide a su población tener provisiones para tres días tras fallo informático de PHP",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDBpVms1dmtlWGQ1dFFxazlQYm9udll4TDE2aFBwRDFfSmRYbW1PNmUzRWZCLTVpZi1wbWhSd29BLU8zYk1EZnVXSl83VkZsVEE0enpkdlJucWU2WmcxT0djcTFMSkMyOWd4cmpDYVZCLTVlaEpQaE5kYzhpQUFyTlBOOWhEbGJnRmZNd3V1a3EtZGNDYmxXSFJBZW9Hb181MXQtWm51dnhrd3hNUWZLWHpyb05XSmY4NGd3cDlkTE1LUGJLZFg3ZG96ZlgtYUxSODZCZQ?oc=5",
+     "fuente": "UnoTV",
+     "resumen": "",
+     "fecha": "2026-10-23T19:02:16+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Como en 1940: gobierno británico pide a la población que almacene comida enlatada y agua",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFZhZVBsNklmV2JqZTRnbHhxUnlOYlZJb09Na1NkNktEWEc1bnZJMGJGYmFtQWRncjd3ZnFya3c2SW8xeGhMeUpYWEhaTG0wMGRzaS12cDJWT3A2Wkc3d25iSWltOEhqeEF3Z3EyWHRDak5CMno3dngtSThNaGxzYXpMMW9OMElxOEt3a2JmTlA1Z2YyclJFRmZDdnB1WExMRkxRUDJyTHFCYjZRTjYtZXE2al9jVTZXZ3dZYS1pNWVVa0tPOU15MTE2Q1AzQ0t60gH0AUFVX3lxTE9tVmFySkFZVk43QjZRZGR4cFNnZGhPb3JFTXk2ams0RHR5aUFjaVJFN0FpcTFyLW9FeFI3emYxMFRDd2dLaEhnbThuX2dpdWhLRV80a285YlllRUN5RW9WVUxDclA5YVhZZGVjbDdjWnRDbUcwMWhtN3QxUG5UTG5SZ1lpSzZqdXhVVUthY21RVDZBY1NZdXNpazhtVkt4T3FmZmx5b3hveGhfYjd2RzdyQWNGaFFlYU52eGp3WV93eHRtSHp5WXJFYlpEV0NyVkFmUlkzdmVETVFYUm90ZS1tU0o3aXZaTGdkRC1vYzhUYjB4bno?oc=5",
+     "fuente": "Montevideo Portal",
+     "resumen": "",
+     "fecha": "2026-10-23T18:43:00+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "El Gobierno de Reino Unido insta a la población a almacenar provisiones de emergenciä para subsistïr al menos tres días",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ2ZHczk4RHVybTQ4cHZaOFpDX1dNTGFPa01ya1VGUDVjOGRtaUF0eURXSTlpWlNXWjFiWVo0WGZ5VmN6c3gycU42VGJiVTR2c0hNSkJxdkU2bUVleFpsNVRhODA4M0wtVTdocHFQVGh0R1Z5ZlREcFlpclhQWkE4VGxIV2h2b2FYVHV4WnVNb3dBQTI0ZHVrNVdMcUpQZDdpRmtBUjBXSlhZSnlVSnEyeFlHb21tT1Y2cEwyQ0NjeEFJTWc2R0IxaG5xUHZCTlBjZkNOdzFXQ1F6Y2tQb3VyYzNONkVfZUMx?oc=5",
+     "fuente": "Noticias24hrs.com.ve",
+     "resumen": "",
+     "fecha": "2026-10-23T17:49:24+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Reino Unido avisa discretamente a sus ciudadanos de que se preparen para lo peor e insta a los hogares a tener suministros para una emergencia nacional",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTnhMQklibHFoVHZLeGM5UUx3eW9uV3k0N3Vza0h1ZEs3YlpmMWprWnI2VlJXNTJ2dTdXYmg5ZTVkZVlkRVdVSnduU3RzUGlBMEtBUHZmaXVGaXBhSUw0UTVvSExLWUlwTm10X0duM2ctQ1ZrdnM1b1lRdjNPbUd2QjNoa1NBb2xZTnFWMjROSnhjMU1HS21VcVQwT2NNRS1XeDBoZVhfeE1tS1BXWFhPMFZqdjBkZGdMaFVFQ3RoX081TXRNa2wxTHd4WWczWEZBbVhmWlJXdnFNelBpZUtiZTNKS0FnNzNVdWwtRkNrTk9vN0N6azhyRDFmRTRYVmQ2NGlIVXE5b3E4OTdKRFZCS2xMRnBmc0ZjVHNmNWhvVE1SSmh3a0NLQUh4bjZ2UWJmejl5Q1E5MGdIeDJyN2M5StIBqwJBVV95cUxOYjd2YzZLY1E5aDFWRjRJMDZXTDBtTEtLOTV3ZW81Sm05eHhUNjgtZVo1elg0Zlk5Y3RkNDNwMVFOSy1yUF9hR3dDT0Nsbmx6SmVGTlZXOWlnam5JRk9uSmhqSWY2SzlZdGFVYy16WVlldTZpdlpTVHdCWl9JWVltb2JVWTFvb2JQMmRoMXVhNHNaRVVEaS11eFZleU9jWWxaYmNfUlVUSmRuWjB2Y1h2ejlId1FOQmNSWG54aHNULUpxOHVFQkxkNGItTVhHUnhOY0xHc09teDdFUTdmR2xiU2ZIUHY1SEdBTFM4TDhTMWZjMFhWNmxkYm9LUDVyNHBjZFpIdkd0OTg0cUFnX293V2F2RzN5TVJxaUc3QmNXa2U2OFBLZWEyT2h0cw?oc=5",
+     "fuente": "El Economista",
+     "resumen": "",
+     "fecha": "2026-10-23T15:51:15+02:00",
+     "fecha_txt": "23 oct"
+    }
+   ]
+  },
+  {
+   "id": "incendios",
+   "titulo": "Incendios",
+   "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
+   "items": [
+    {
+     "titulo": "Los incendios de julio en Madrid, Ávila y Toledo calcinaron más de 77.000 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnptdWZSNmhLcFBFOHBkUUFPQ3BldEVKMVg1dHZxa1JvR0dEU1o3bWdmQ2xQMmwtQ2VQcE13cmZPbTRtRDJrdWRIaVhPZUY4V2VMQzVoUGJ4RkREb0RnajI3RzEtSFdSZTRubmJrZzFjOEpfWlRMMDl1RWREclJTOS1UaXpHa29zVXpWYkhZOVZpUy1XTVBLMUdRZmkzMldNY3YxOE9CV1A0eE1NdWVKeTVYUVNYWWM?oc=5",
+     "fuente": "MadridPress",
+     "resumen": "",
+     "fecha": "2026-10-23T12:59:19+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Puede lanzar 20.000 litros de agua en menos de 10 segundos, se fabrica en España y se convertirá en un avión bombero para extinguir grandes incendios",
+     "url": "https://www.diariomotor.com/noticia/airbus-a400m-apagafuegos/",
+     "fuente": "Diariomotor",
+     "resumen": "Un gigantesco avión militar de cuatro motores, diseñado para transportar soldados, vehículos y material de guerra, tendrá una misión muy difer ...",
+     "fecha": "2026-10-23T08:00:00+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Un total de 301.413 hectáreas se quemaron en España hasta el 21 de octubre, el 43% de la UE, según Copernicus",
+     "url": "https://www.msn.com/es-es/eltiempo/general/un-total-de-301-413-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-21-de-octubre-el-43-de-la-ue-seg%C3%BAn-copernicus/ar-AA2fTZHV",
+     "fuente": "Europa Press on MSN",
+     "resumen": "MADRID, 23 (EUROPA PRESS) España ha registrado un total de 301.413 hectáreas (ha) quemadas desde el 1 de enero hasta el 21 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
+     "fecha": "2026-10-23T06:04:53+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Los incendios forestales queman más de 275.000 hectáreas en España en 2026",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50ODhucVNKNFJJOGZrRFZFVS1GLWZIUHZZMFZJYjc3dkVnX0pQWnZxVmxhU3MwcjF1c2FmcjFfR3hJOGJuQU9GZ3V0THAxWWMtVDFDbDloT0VDemJ6NEhUemlhaFpKdW9qWnBCLUdqek15aTQ?oc=5",
+     "fuente": "Cuadernos de Seguridad",
+     "resumen": "",
+     "fecha": "2026-10-22T08:13:32+02:00",
+     "fecha_txt": "22 oct"
+    },
+    {
+     "titulo": "España registra 275.209 hectáreas quemadas en 2026, la mayor superficie arrasada por incendios forestales de los últimos diez años",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM3E1ZUJldGpwbENsUkwyREs0TWxPZW00MjBHUW8wQ2pheEhpejhZSDN2elZ2ZUhHNkFZTWZIdF9Sazh6NDEydFduZXI5UVBvczVJQlJ3b1BwUTV5ZzRfbGZNSC1TN3RiNHdfcGd4Y1lUZ1pPUy1FYndtQjBwYlltQzJ4cjVrMGVGWVc2TjJmZzBKbENxc1VwVnc0eWNQNXczOVNfeGVzdUFlMU5oVVdnOW9nSWFVM1lRb2NERkstenI1S1U4dUUwdk9zUnJWUXRPaXUwTUVZM1BjMk5rN1ZCQlQwM01kNHBnZXVpaHQ0Z3FZZHR0Yjdpbm0xelM5MktFUVJEeA?oc=5",
+     "fuente": "Servicios Emergencia",
+     "resumen": "",
+     "fecha": "2026-10-21T13:01:00+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Vivienda, incendios y \"megaproyectos\" como los previstos en Zamora: los \"problemas\" que unen a la Revuelta de la España Vaciada",
+     "url": "https://www.laopiniondezamora.es/comarcas/2026/10/21/vivienda-incendios-megaproyectos-previstos-zamora-135578356.html",
+     "fuente": "La Opinión de Zamora",
+     "resumen": "La Federación Coordinadora Rural Zamora participa este fin de semana en la asamblea general del movimiento, que analizará las carencias de los pueblos y las nuevas 'amenazas' ...",
+     "fecha": "2026-10-21T08:53:00+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Almería arde: cerca de 72.000 hectáreas por incendios forestales desde los años 80",
+     "url": "https://www.diariodealmeria.es/provincia/almeria-incendios-forestales-historico_0_2008307661.html",
+     "fuente": "Diario de Almería",
+     "resumen": "Almería acumula 71.901 hectáreas quemadas y 1.352 incendios forestales en el histórico disponible, una huella que permite dimensionar la magnitud de los grandes fuegos que han marcado la provincia dur ...",
+     "fecha": "2026-10-21T06:01:00+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Los incendios forestales queman 275.209 hectáreas en España: 2,5 veces la media de la última década",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUoxRk1tNkd3S2o5QzEwZDdLTXJoUFJGY0dzYmxVS0R1RUdaMmVOT1U5N1ZtTFYyWm0xT1B1aV9XU0RlcDVkSklCVThCb2tvaWR2R2NnNTBFNWQyZElId3VPVzFMTll2M29NV1pDYmhRcHUtMnB5ZkQxLWluZFhjcDdndHNtX3lYRG5BV1ByNFBOMVRRX1FIMWhiNVRnODdwMDV3ZUxEUmgzV0xVT2ktbjNzd1lNS3ZsU2pZ0gHAAUFVX3lxTE1xSGdWOHA2SXVVZnluMFVBNGlvV1duaDV4SUJVeGpWdGRIR2tRN3lFcGNaYzF0TUV4SUFzdWxfQkFtMzVRQ2NBS1R1UGU0STdsS0dEa1R5LU53TnNaZnpFRFZrakVYeUNsTzBvbWszYTVMYVlQTm1DUTZVaEhIYzAtMGd5aDJ2cGxNRDB5bFRZVEppNkFiVG9sQktzRHhMNDVFQmhJQWtET0lZQmNfaElGZlpRcEZ5V0kzMGhQcWM2bw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-10-21T05:30:22+02:00",
+     "fecha_txt": "21 oct"
+    }
+   ]
+  },
+  {
+   "id": "inundaciones",
+   "titulo": "Inundaciones",
+   "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
+   "items": [
+    {
+     "titulo": "Valencia proyecta 15 nuevos depósitos de tormentas para minimizar inundaciones",
+     "url": "https://www.antena3.com/noticias/el-tiempo/actualidad/valencia-proyecta-15-nuevos-depositos-tormentas-minimizar-inundaciones_202610256adde1341e53586bfbbd057e.html",
+     "fuente": "Antena 3",
+     "resumen": "Los depósitos reducen el estrés del alcantarillado y depuran el agua almacenada, consiguiendo contaminar menos los ríos y playas ...",
+     "fecha": "2026-10-25T09:51:00+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "El nuevo Patricova amplía las zonas de riesgo de inundación y revisa dónde se puede construir en la Comunitat Valenciana",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-nuevo-patricova-ampl%C3%ADa-las-zonas-de-riesgo-de-inundaci%C3%B3n-y-revisa-d%C3%B3nde-se-puede-construir-en-la-comunitat-valenciana/ar-AA2g1nSe",
+     "fuente": "Moncloa on MSN",
+     "resumen": "El nuevo Patricova redibuja el riesgo de inundación en la Comunitat Valenciana y abre el debate sobre demoler miles de viviendas en suelo inundable. La entrada El nuevo Patricova amplía las zonas de r ...",
+     "fecha": "2026-10-25T05:42:32+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
+     "url": "https://www.diariodenavarra.es/noticias/magazine/sociedad/2026/10/25/tecnologia-concienciacion-factores-basicos-evitar-desastres-inundaciones-840001-106.html",
+     "fuente": "Diario de Navarra",
+     "resumen": "Desde compañías tecnológicas hasta ONG se unen para evitar que se repitan episodios como la dana de hace dos años ...",
+     "fecha": "2026-10-25T04:53:00+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDJWU25hZHk0WnpmWnhVTDV6WGNkNzkwcTVrczZKWkVGcjhUSU1WNWFTZ0lRT1FUUWhvQ2Y3a3hkQm5aSE9RM21rcnpvYU90aWFGS0hIdW1JWmVBYnVna3ROZjZtVmFxM183RndjcWZWVHMwSzBSTXBzdDJNdVgzU1N4OFFlLXg4QzUwSkdJVzlkNnY4T0hyd1duOFl4Q2dJOEFHelhPU0Z1SkFVYk82ejZXT05YSFBVaUlrX2RKTkt3QkRwWmxQR1V1ZzFyX1hBemJfR09ENGQ1ZURZaVR4QmZLS0x5ZzdwZURMSTZfQmhmUkRSay04V0o4OVJWRVFIYmfSAYcCQVVfeXFMTnI2RGpNUlBJZDYxVmYzdFV3QkNSRHlabWdZM1E0TngzbHRoU1VKeUhseVZtTHRCYnR1UjNXSGNpc3Q0Q2JXSjU1eGh3MUZhSm5Ma2JEQUFNcVpwV21nOVFaNlprbzRUQ0VFT1Y3djRQUW9TRnJWbFdqdV9iNEdJQ2FpNlBWNm9DZTNTWTBpeW5lTGRWbm5XNUhpZkdlQlNLREd1TEt4eFh6aVVmSkpwRzFsaEE5cGxfUnN4dEp4dlNvbW1VZ0dCMEhwMTN1dTJGSU1GSWN2Nmplb182WDhPd0tWMW9oc2UwWHdtYXlQb0tVdTFfVE5iZ29WQ3hNdElSNEFaTTBIeFU?oc=5",
+     "fuente": "Diario digital Nueva Tribuna",
+     "resumen": "",
+     "fecha": "2026-10-24T16:58:43+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "En el Día del Cambio Climático, España afronta la amenaza del calor extremo y las inundaciones",
+     "url": "https://www.cronicabalear.es/mallorca/2026-10-24/en-el-dia-del-cambio-climatico-espana-afronta-la-amenaza-del-calor-extremo-y-las-inundaciones/",
+     "fuente": "Crónica Balear",
+     "resumen": "El verano de 2026 ha sido el más cálido desde, al menos, 1869, con una temperatura media en la España peninsular de 24,5 grados, 2,4 grados por encima de lo normal; Además, las condiciones de pleno ...",
+     "fecha": "2026-10-24T12:08:00+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Día del Cambio Climático: del calor a las inundaciones, los riesgos que afronta España",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2FQbjBneFZaMG5UejhveDM0Z2dfQTJjekE0d25Hcm9IczkwVTl2SXhyN01jUDNHUkkweW85WjgtZDhKa2pPX0VvVjYzNks0ZWdSMFlXbUxZUFF4QkdGQVNock5rZmNHX3JqeHdmN2tOV0J4a3doT2hKa21KWGJJVVhlSHpRdTd3ekQ5OE5aT01CUGx3RW5GQmRodmJKSnlrYnBBNm0wSDBEem9mRmhBaUt0bG11QXBQcUFjZTVQd25yMFpQOVZuTTIwWVNKLVdlRWdwYWVwNExGZnRWX2xFOGNB0gH-AUFVX3lxTE12VlhldVkwU2FuemxhN0Q3QmtJdEFNS2V1VURzZ3Q2V181QTAxLV94RkhGdGV4RFJObmlwamFIV1FHT1ZwdXAwc2NZbjVMUUtUX1hGN3hXRWdPYmdrcV8wcHFHSEZuQldHNjR0SGlCTEhBV3BwaE5VWWVsamZ4MW1wcE4zQUZhdVJSTzE0ekVSUDlrVERNUEpmTzJKS3U2YXV3WmJSYUJvSGFXNGRqdGR4cmVTOE52MHlDbDBFVWtvU1JWN2RhTGlrbnlpeUZ2bXdBYl9IZmFZMWpwUGJSQjhfME1vSWFURDRHOTdNV2VKMzlrWl9uVWZqRlVMZFN3?oc=5",
+     "fuente": "La Voz de Galicia",
+     "resumen": "",
+     "fecha": "2026-10-24T10:37:49+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este sábado 24 de octubre en España: estabilidad generalizada y lluvias con nevadas débiles en los Pirineos",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZUVxcEp3enJfNXNCRmlsODUyOWRQQk05aUdCd1I0UGFXcmZRc3l1THQxaFgwbnhraF9aekpGSENLMUQtZTRTU25aTUwzY1dZcW5lNlpCUnBRYkphUTc3cV9XcktxUmc4alFCSjhVdktUUWpjckpEODJ5WmdpNC1kNV9xQkFtOUJGRktCTEs5WUF4WF9VTDE3RXV4VXFJNGpDQVpJZXM5SU5IWTZ6SjVIUHZCVC1CaEhSWGNHVlJkTE1DTi1yNHpubnhWd3FoNHN4MXdxR2ZXVkRsbi1pbUJ4SGdGbUlGLWpPQjNkazBKaHpBUFRBRE13N0VUTzJBUkppV2FPV1JVeXNWVzlZNWl5T3Z2d2pZWk9aVzl5WXhB0gGyAkFVX3lxTE1aWjU4QXVOcVVacG0wYTg1bEs1TFhYZXo4d19YYVFadGVobkVzcTFyQ21FajR6RXpzUVBZanNHTlRjd2hDanVBVmp3dGp5cnlOZHRoTkUyTkhma2MtRG85a2pfQW5QeDVtMUh4blFvWXE4UTl1Rm5YLW9mOW04Y1JGMnJfNFlZd1VZWkxCY19wSWhOeXpQTEdzM3pacUZsQVB1c2pzWi1zZ1BVNGR5VkdLYjhNT0JnTTlwMEVXVEpLcFNXY3VYSlFYeS00T1FveXl1UkttS3JNMXI3SW56WlZQVUFFNFRWMGh2WUJkd2tQdV9xTHdFVXFsdFJTYm01MXFETDlOc3RKaWNBWkhXd0xad1l3NVJIdU8yRkVsdmJVeDhFeVYtd1RpNnpLRVhOZkJNdw?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-24T07:00:22+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Inundaciones en España dejan muertos y miles de evacuados tras el paso de la tormenta Adam",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFdRdU5ZVGJmejJNcmNTbHhVeDgyRi1YUThDV1BtMFRtX0NCV2VYZFRBQkhDdWlHd0ZxWlA5X091c3FWT3hJYTRnOGFxbUs3S3lmSm5YTzY4Y0JCWHlCMFRETnZod2lKQUd0TE5GUFRic240RTVpTUJ6UVg5YWlXMFhrbG53SlBEc2ptUURLR1dvQkZDRkRfTS02a2V0MkhHR01GcE1zN1BBcGpPREctTlk2UDR6SW5fcWNYbVhMYV8xa3lHcUdxeDZWc1JkZlh5VG5uX0ZaTQ?oc=5",
+     "fuente": "Univision",
+     "resumen": "",
+     "fecha": "2026-10-24T03:29:00+02:00",
+     "fecha_txt": "24 oct"
+    }
+   ]
+  },
+  {
+   "id": "apagones",
+   "titulo": "Apagones y red eléctrica",
+   "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
+   "items": [
+    {
+     "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGxWT1BZbElrV1ZTMzhwSHZyOVdkZEFzS042M1J2U2Jka1IwU3psbmJYRGpMZmZlZVhaVDg5WjAyQ3lvY1luc0J6NS1fU0diY2s1RjZtS2NiRFcwbldLZWdrUFFhS29EN2tJUUU0U3N6ZXhxbUp2Ym84WGt5SGgzb1NubllpdENYYzhGYmgtRTYyNlNjRzRJZTFncEdYQ1FKZzdPYUQxd19EXzNGSExIb2gtOFA2Wkw1SHZab2NSUEcycGNMOERmRk5fTzNVZ1A5OVE5aXA4NA?oc=5",
+     "fuente": "Gizmodo en Español",
+     "resumen": "",
+     "fecha": "2026-10-25T10:00:58+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón: qué supone para tu suministro",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-apercibe-a-red-el%C3%A9ctrica-por-fallos-de-coordinaci%C3%B3n-en-el-apag%C3%B3n-qu%C3%A9-supone-para-tu-suministro/ar-AA2fZx7p",
+     "fuente": "Diario Que! on MSN",
+     "resumen": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón y abre la revisión de protocolos que afectan a la fiabilidad de tu suministro. La entrada La CNMC apercibe a Red Eléctrica por ...",
+     "fecha": "2026-10-24T15:17:42+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
+     "url": "https://ecosistemastartup.com/red-electrica-blinda-la-red-con-8-compensadores-sincronos/",
+     "fuente": "ecosistemastartup",
+     "resumen": "Ocho máquinas que no generan electricidad y costarán 100 millones cada una El apagón del 28 de abril de 2025 dejó a toda la ...",
+     "fecha": "2026-10-24T07:51:00+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "España desperdició energía que hubiese abastecido a más de 6 millones de hogares por las restricciones tras el apagón",
+     "url": "https://www.lavozdegalicia.es/noticia/economia/2026/10/23/espana-desperdicio-energia-hubiese-abastecido-6-millones-hogares-restricciones-tras-apagon/00031792754351553208719.htm",
+     "fuente": "La Voz de Galicia",
+     "resumen": "Los hogares y las empresas se ahorraron 7.589 millones de euros en el 2025 gracias a la generación de energía renovable. Esta cantidad se refiere a la reducción del coste total de compra de electricid ...",
+     "fecha": "2026-10-23T08:30:00+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Ceuta ya tiene su apagón",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGtxa1IwYkJfS2dHb0VUNUk4eGZxVUQweEVpb3hlVE1OYWN0S29QZ2Raalk5aG14ZnFMbm90dkJTOVc1SGVBZ3dObGhEV1JndWE3d2RCTEt6aE9WT2ozNGNPNXZYaEptakdvZkhfd1dXOF82UXY2bHFVSk1Va2ZWY0t1OFlzcjFKSURmQ1gtcVZuX29Fak5CUy1PRTlJUm14cnFoOUtOeEpkWmJleUN0NVgxQThIRHpwWmIyWEtn?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-10-23T05:00:00+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Red Eléctrica desenchufa nueve veces a la industria desde julio en plena guerra con las centrales de gas",
+     "url": "https://www.abc.es/economia/red-electrica-desenchufa-veces-industria-ano-plena-20261022024217-nt.html",
+     "fuente": "ABC",
+     "resumen": "La disponibilidad de las centrales de ciclo combinado, que utilizan gas natural para generar electricidad, llegó a reducirse hasta el 65% de la potencia instalada, se queja el operador del sistema ...",
+     "fecha": "2026-10-22T19:00:00+02:00",
+     "fecha_txt": "22 oct"
+    },
+    {
+     "titulo": "El cable submarino de 330M se estrena en Ceuta con un apagón y sin que se active a tiempo la planta de reserva que pide Vivas",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm15ZHg5eDFqaVFUYVg5dDZ5WTRySENTWHI3Umkyb0d6Yy15MVR2a3loa3MwdEUzOGdkakxaQXBkSWxuaHhuMmRIZGdXVXoteFBBVzd4N19KUTZnRHNuLW0yNDhKZG1wczhtVXJqcVRablJod2ota19YZVZ2WWpJNHE1cDJ6QmZxYmVzS2ZCWUJZWnhHU0ZCMWhXa0xfS0ZVZmt4R190RlZWcEhzN1RPN21wRzk1N0ZJazM5SmRwYlJGandORWZ3N01fSFpsTXV2MGF5TTM5NHdJMU1Nai0waWJ6NGZndTDSAewBQVVfeXFMTWhsaEpweUFEYmc5QVdibG55TXpvQWJJQU9jZkdyY0lCcjVVckxPWUhwdHgzeEt4akpHZXl4VVFVQ3dxM2F2M1J3LTJZNTV0LTFRTE5BYnVzRDBXZlpfdkxkNHVvaENjUWltM005ZDYxaFVaSUw4S1EwS0FuUEFNcVNlY2VVdlpmTkJjZ3NJMXpKNXpZMlVwZTBEQVZtQWdoYVlibnVrRkVoZEhGdVYxcUx0RkhYc3dkV0pEcXBERHlUTGVaWC13bTZpNHNtWUdjNUl6TGhpOXYtQ0o1OEhYMGZtUThodWVsU09Bd0k?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-10-21T12:49:20+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Un apagón general deja a oscuras a la ciudad autónoma de Ceuta debido a un fallo masivo en el centro urbano",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3h3QlY5eGdBTlVXcFdGU2JmTnQ3eF9XNVdNX2hhajB3MElyMURnQlBNREJvZXpkS3F0UUF0UmVkUkNkZnFaNWxnNENIQ05RQ2VkbnowNkYxOXozYS1wZ3U0ZlNyNlp2Y0tfVEFWWmxiX1c0YlFadGs4dEhwZWRGZmZkTTJ2V2VDYVhqN2FZcUxDZkRKTm16dk9DWUZta3VPQVk1ZldOUC1vZzF1eGtrZnJpdTBPSVVLcV9BdExXd0xCejJPdXFCYXFnZHJfUldCYzhMSm43cmE3R2tPVnVLTDZMNTBRWllzalhoONIBgAJBVV95cUxNeU5ZUjI1SXIwcWFLeTBfQUNzb2ZCdHd6RHNxSWRKSGRRR2IyQktHOUpPNGdfWUNtb2VPZG5ZVXVpUmFrTU5seUFpWE00Q0xzOElvVk5LVTJOU0lMcjZuSnhvNS1XN2gtNWpVaFc2bWF6eDBkdnRPTDByc01PYTNESGVNcDFkV2hWdXFBZFZIUW1pYUdFZlJUQUM3YUJEbTZPRTFTcnVCdE1tWnE2bjF6X1ZXR3FaNUUxd2ttYzA0S3ZITE9aYllnUUtHU1lTbVBtOThVbHJJN09aWmQ1RGNnN19odUt6dFptZzdjMzJXN0hDd2QtUWk3N1ZHSGtBUWlX?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-21T11:45:14+02:00",
+     "fecha_txt": "21 oct"
+    }
+   ]
+  }
+ ]
+}

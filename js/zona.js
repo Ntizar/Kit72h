@@ -94,6 +94,9 @@ const zona = {
     // Clic en el mapa = buscar ahí (lo más rápido en móvil)
     this.map.on('click', e => this.buscarEn(e.latlng.lat, e.latlng.lng, null));
 
+    // Si los avisos ya estaban cargados (fetch más rápido que Leaflet), se pintan ahora
+    if (this.alertas) this.dibujarZonas(this.alertas);
+
     this.pintarEstado();
   },
 
@@ -103,6 +106,99 @@ const zona = {
       `&LAYER=${capa}&STYLE=default&TILEMATRIXSET=GoogleMapsCompatible` +
       '&TILEMATRIX={z}&TILECOL={x}&TILEROW={y}&FORMAT=image/jpeg',
       { attribution: '© IGN — Instituto Geográfico Nacional (CC BY 4.0)', maxZoom: 19 });
+  },
+
+  /* ---------- Avisos oficiales por zona (AEMET) ----------
+     Los avisos no dependen del mapa: si Leaflet o Overpass fallan, la lista
+     por provincia se pinta igual. Los polígonos son los de AEMET (las mismas
+     zonas con las que emite el aviso), no una reconstrucción nuestra. */
+  alertas: null,
+  grupoAvisos: null,
+
+  COLOR_NIVEL: { 1: '#D30000', 2: '#EE8B1C', 3: '#E3C400', 0: '#4C7A5A' },
+  TXT_NIVEL: { 1: 'Rojo', 2: 'Naranja', 3: 'Amarillo', 0: 'Sin aviso' },
+
+  async cargarAlertas() {
+    const caja = document.getElementById('zona-alertas');
+    if (!caja || this.alertas) return this.alertas;
+    const estado = document.getElementById('zona-alertas-estado');
+    try {
+      const r = await fetch('/data/alertas-es.json', { cache: 'no-store' });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const d = await r.json();
+      this.alertas = d;
+      this.pintarAlertas(d);
+      if (this.map) this.dibujarZonas(d);
+    } catch (e) {
+      if (estado) {
+        estado.innerHTML = 'No se han podido leer los avisos de AEMET ahora mismo. ' +
+          '<b>El 112 no depende de esta web:</b> ante una emergencia real, llama al 112.';
+      }
+    }
+    return this.alertas;
+  },
+
+  pintarAlertas(d) {
+    const estado = document.getElementById('zona-alertas-estado');
+    const lista = document.getElementById('zona-alertas-lista');
+    const fecha = document.getElementById('zona-alertas-fecha');
+    if (!lista) return;
+    const res = d.resumen || {};
+    const enAviso = (d.provincias || []).filter(p => p.nivel > 0);
+    if (fecha && d.meta && d.meta.elaborado) {
+      const e = d.meta.elaborado;   // AAAAMMDDHHMMSS
+      fecha.textContent = `AEMET · ${e.slice(8, 10)}/${e.slice(4, 6)} ${e.slice(10, 12)}:${e.slice(12, 14)}`;
+    }
+    if (estado) {
+      const partes = [];
+      if (res.rojo) partes.push(`<b>${res.rojo}</b> en rojo`);
+      if (res.naranja) partes.push(`<b>${res.naranja}</b> en naranja`);
+      if (res.amarillo) partes.push(`<b>${res.amarillo}</b> en amarillo`);
+      estado.innerHTML = partes.length
+        ? `Ahora mismo: ${partes.join(' · ')}. ${res.zonas_en_aviso || 0} zonas con aviso de ` +
+          `${res.provincias || 0} provincias.`
+        : `Ahora mismo no hay avisos activos en ninguna de las ${res.provincias || 0} provincias.`;
+    }
+    lista.innerHTML = enAviso.map(p => {
+      const color = this.COLOR_NIVEL[p.nivel] || this.COLOR_NIVEL[0];
+      const zonas = p.zonas.map(z => {
+        const fen = z.avisos.map(a => a.fenomeno_txt).filter(Boolean);
+        return `<li>${this.esc(z.nombre)}${fen.length ? ' — <i>' + this.esc(fen.join(', ')) + '</i>' : ''}</li>`;
+      }).join('');
+      return `<li class="aviso-prov">
+        <span class="aviso-punto" style="background:${color}"></span>
+        <div><b>${this.esc(p.nombre)}</b>
+        <small>${this.esc(this.TXT_NIVEL[p.nivel] || '')}${p.ccaa ? ' · ' + this.esc(p.ccaa) : ''}</small>
+        ${zonas ? `<ul class="aviso-zonas">${zonas}</ul>` : ''}</div>
+      </li>`;
+    }).join('') || '<li class="aviso-prov"><div>Sin avisos activos: toda España en verde.</div></li>';
+  },
+
+  dibujarZonas(d) {
+    if (!this.map || !d || !d.zonas || this.grupoAvisos) return;
+    this.grupoAvisos = L.geoJSON(d.zonas, {
+      style: ft => {
+        const n = ft.properties.nivel || 0;
+        return { color: this.COLOR_NIVEL[n] || this.COLOR_NIVEL[0], weight: 2,
+                 fillColor: this.COLOR_NIVEL[n] || this.COLOR_NIVEL[0],
+                 fillOpacity: 0.22 };
+      },
+      onEachFeature: (ft, capa) => {
+        const p = ft.properties;
+        const avisos = (p.avisos || []).map(a =>
+          `<li><b>${this.esc(a.fenomeno_txt)}</b> — ${this.esc(this.TXT_NIVEL[a.nivel] || '')}<br>` +
+          `${this.esc(a.descripcion)}<br><small>${this.esc((a.desde || '').slice(0, 16).replace('T', ' '))}` +
+          ` → ${this.esc((a.hasta || '').slice(0, 16).replace('T', ' '))}` +
+          `${a.probabilidad ? ' · ' + this.esc(a.probabilidad) : ''}</small></li>`).join('');
+        capa.bindPopup(`<b>${this.esc(p.zona)}</b><br>` +
+          `<span class="zona-pop-tipo">${this.esc(p.provincia)} · ${this.esc(this.TXT_NIVEL[p.nivel] || '')}</span>` +
+          `${avisos ? '<ul class="zona-pop-avisos">' + avisos + '</ul>' : ''}`);
+        capa.on('mouseover', () => capa.setStyle({ fillOpacity: 0.38 }));
+        capa.on('mouseout', () => capa.setStyle({ fillOpacity: 0.22 }));
+      }
+    }).addTo(this.map);
+    // Que los pines de recursos queden SIEMPRE por encima de las manchas de aviso
+    Object.values(this.grupos).forEach(g => g.bringToFront && g.bringToFront());
   },
 
   /* ---------- Entradas ---------- */

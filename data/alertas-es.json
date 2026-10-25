@@ -1,0 +1,2696 @@
+{
+ "meta": {
+  "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
+  "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
+  "elaborado": "20261024215001",
+  "actualizado": "2026-10-25T21:40:06+01:00",
+  "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
+  "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
+  "ficheros": [
+   "r_D+0_20261024215001_penbal_20261025CEST_1792958400.geojson"
+  ]
+ },
+ "resumen": {
+  "rojo": 0,
+  "naranja": 0,
+  "amarillo": 6,
+  "sin_aviso": 53,
+  "zonas_en_aviso": 7,
+  "provincias": 59
+ },
+ "provincias": [
+  {
+   "nombre": "A Coruña",
+   "ccaa": "Galicia",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Noroeste de A Coruña - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Asturias",
+   "ccaa": "Principado de Asturias",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Litoral occidental asturiano - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    },
+    {
+     "nombre": "Litoral oriental asturiano - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Bizkaia",
+   "ccaa": "País Vasco",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Bizkaia litoral - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Cantabria",
+   "ccaa": "Cantabria",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Litoral cántabro - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Gipuzkoa",
+   "ccaa": "País Vasco",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Gipuzkoa litoral - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Lugo",
+   "ccaa": "Galicia",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "A Mariña - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Alacant/Alicante",
+   "ccaa": "Comunitat Valenciana",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Albacete",
+   "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Almería",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Araba/Álava",
+   "ccaa": "País Vasco",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Badajoz",
+   "ccaa": "Extremadura",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Barcelona",
+   "ccaa": "Cataluña",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Burgos",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Castelló/Castellón",
+   "ccaa": "Comunitat Valenciana",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Ceuta",
+   "ccaa": "Ciudad de Ceuta",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Ciudad Real",
+   "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Cuenca",
+   "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Cáceres",
+   "ccaa": "Extremadura",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Cádiz",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Córdoba",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Girona",
+   "ccaa": "Cataluña",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Granada",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Guadalajara",
+   "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Huelva",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Huesca",
+   "ccaa": "Aragón",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Illes Balears (Ibiza-Formentera)",
+   "ccaa": "Illes Balears",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Illes Balears (Mallorca)",
+   "ccaa": "Illes Balears",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Illes Balears (Menorca)",
+   "ccaa": "Illes Balears",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Jaén",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "La Rioja",
+   "ccaa": "La Rioja",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Las Palmas (Fuerteventura)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Las Palmas (Gran Canaria)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Las Palmas (Lanzarote)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "León",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Lleida",
+   "ccaa": "Cataluña",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Madrid",
+   "ccaa": "Comunidad de Madrid",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Melilla",
+   "ccaa": "Ciudad de Melilla",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Murcia",
+   "ccaa": "Región de Murcia",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Málaga",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Navarra",
+   "ccaa": "Comunidad Foral de Navarra",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Ourense",
+   "ccaa": "Galicia",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Palencia",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Pontevedra",
+   "ccaa": "Galicia",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Salamanca",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife (El Hierro)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife (La Gomera)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife (La Palma)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Santa Cruz de Tenerife (Tenerife)",
+   "ccaa": "Canarias",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Segovia",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Sevilla",
+   "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Soria",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Tarragona",
+   "ccaa": "Cataluña",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Teruel",
+   "ccaa": "Aragón",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Toledo",
+   "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Valladolid",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "València/Valencia",
+   "ccaa": "Comunitat Valenciana",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Zamora",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Zaragoza",
+   "ccaa": "Aragón",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Ávila",
+   "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  }
+ ],
+ "zonas": {
+  "type": "FeatureCollection",
+  "features": [
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Litoral cántabro - Costa",
+     "provincia": "Cantabria",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -3.152,
+        43.3535
+       ],
+       [
+        -3.1915,
+        43.3641
+       ],
+       [
+        -3.2129,
+        43.3779
+       ],
+       [
+        -3.2195,
+        43.3938
+       ],
+       [
+        -3.256,
+        43.4036
+       ],
+       [
+        -3.2756,
+        43.4027
+       ],
+       [
+        -3.3012,
+        43.4098
+       ],
+       [
+        -3.3205,
+        43.4039
+       ],
+       [
+        -3.3252,
+        43.4163
+       ],
+       [
+        -3.3571,
+        43.4125
+       ],
+       [
+        -3.3809,
+        43.4157
+       ],
+       [
+        -3.4253,
+        43.4139
+       ],
+       [
+        -3.4449,
+        43.4334
+       ],
+       [
+        -3.4245,
+        43.4442
+       ],
+       [
+        -3.4341,
+        43.4651
+       ],
+       [
+        -3.4946,
+        43.4718
+       ],
+       [
+        -3.5287,
+        43.4909
+       ],
+       [
+        -3.5487,
+        43.5093
+       ],
+       [
+        -3.5771,
+        43.5068
+       ],
+       [
+        -3.5955,
+        43.5132
+       ],
+       [
+        -3.6104,
+        43.4988
+       ],
+       [
+        -3.6434,
+        43.4988
+       ],
+       [
+        -3.6862,
+        43.4756
+       ],
+       [
+        -3.7044,
+        43.4799
+       ],
+       [
+        -3.7238,
+        43.4629
+       ],
+       [
+        -3.7679,
+        43.4493
+       ],
+       [
+        -3.7782,
+        43.4246
+       ],
+       [
+        -3.8052,
+        43.413
+       ],
+       [
+        -3.8131,
+        43.4024
+       ],
+       [
+        -3.808,
+        43.4219
+       ],
+       [
+        -3.834,
+        43.4423
+       ],
+       [
+        -3.8131,
+        43.4496
+       ],
+       [
+        -3.8017,
+        43.4612
+       ],
+       [
+        -3.7809,
+        43.4634
+       ],
+       [
+        -3.7887,
+        43.4914
+       ],
+       [
+        -3.8107,
+        43.4954
+       ],
+       [
+        -3.8346,
+        43.4802
+       ],
+       [
+        -3.8915,
+        43.4774
+       ],
+       [
+        -3.9427,
+        43.4704
+       ],
+       [
+        -3.9572,
+        43.4546
+       ],
+       [
+        -3.9807,
+        43.4415
+       ],
+       [
+        -3.9977,
+        43.4398
+       ],
+       [
+        -4.0124,
+        43.4481
+       ],
+       [
+        -4.0513,
+        43.437
+       ],
+       [
+        -4.0536,
+        43.4341
+       ],
+       [
+        -4.093,
+        43.4277
+       ],
+       [
+        -4.1145,
+        43.4177
+       ],
+       [
+        -4.1502,
+        43.412
+       ],
+       [
+        -4.2177,
+        43.3957
+       ],
+       [
+        -4.2319,
+        43.4008
+       ],
+       [
+        -4.2706,
+        43.3937
+       ],
+       [
+        -4.2796,
+        43.3875
+       ],
+       [
+        -4.3062,
+        43.3929
+       ],
+       [
+        -4.3319,
+        43.3924
+       ],
+       [
+        -4.3395,
+        43.4064
+       ],
+       [
+        -4.3684,
+        43.3926
+       ],
+       [
+        -4.4141,
+        43.3985
+       ],
+       [
+        -4.4578,
+        43.3942
+       ],
+       [
+        -4.4726,
+        43.3892
+       ],
+       [
+        -4.4991,
+        43.3963
+       ],
+       [
+        -4.5109,
+        43.3935
+       ],
+       [
+        -4.5089,
+        43.5121
+       ],
+       [
+        -4.5237,
+        43.7289
+       ],
+       [
+        -4.4571,
+        43.7285
+       ],
+       [
+        -4.2964,
+        43.7322
+       ],
+       [
+        -4.2087,
+        43.7587
+       ],
+       [
+        -4.0661,
+        43.7888
+       ],
+       [
+        -4.0338,
+        43.7981
+       ],
+       [
+        -3.9997,
+        43.8028
+       ],
+       [
+        -3.938,
+        43.8158
+       ],
+       [
+        -3.8514,
+        43.8275
+       ],
+       [
+        -3.7632,
+        43.8271
+       ],
+       [
+        -3.7453,
+        43.8244
+       ],
+       [
+        -3.6557,
+        43.8423
+       ],
+       [
+        -3.5606,
+        43.8465
+       ],
+       [
+        -3.4664,
+        43.8364
+       ],
+       [
+        -3.3772,
+        43.8124
+       ],
+       [
+        -3.222,
+        43.7567
+       ],
+       [
+        -3.187,
+        43.741
+       ],
+       [
+        -3.1737,
+        43.6303
+       ],
+       [
+        -3.1521,
+        43.3946
+       ],
+       [
+        -3.152,
+        43.3535
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "A Mariña - Costa",
+     "provincia": "Lugo",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -7.0304,
+        43.5448
+       ],
+       [
+        -7.0347,
+        43.5455
+       ],
+       [
+        -7.0554,
+        43.5591
+       ],
+       [
+        -7.0744,
+        43.5538
+       ],
+       [
+        -7.1134,
+        43.5625
+       ],
+       [
+        -7.1551,
+        43.554
+       ],
+       [
+        -7.2217,
+        43.5639
+       ],
+       [
+        -7.2916,
+        43.5956
+       ],
+       [
+        -7.3089,
+        43.6175
+       ],
+       [
+        -7.3317,
+        43.6284
+       ],
+       [
+        -7.3536,
+        43.6567
+       ],
+       [
+        -7.3558,
+        43.672
+       ],
+       [
+        -7.3931,
+        43.6798
+       ],
+       [
+        -7.4376,
+        43.6987
+       ],
+       [
+        -7.4672,
+        43.7032
+       ],
+       [
+        -7.4793,
+        43.7238
+       ],
+       [
+        -7.5023,
+        43.723
+       ],
+       [
+        -7.5232,
+        43.7363
+       ],
+       [
+        -7.544,
+        43.7325
+       ],
+       [
+        -7.5584,
+        43.7108
+       ],
+       [
+        -7.5818,
+        43.7126
+       ],
+       [
+        -7.581,
+        43.689
+       ],
+       [
+        -7.6058,
+        43.6919
+       ],
+       [
+        -7.6298,
+        43.7292
+       ],
+       [
+        -7.6337,
+        43.7534
+       ],
+       [
+        -7.6482,
+        43.7443
+       ],
+       [
+        -7.6666,
+        43.7486
+       ],
+       [
+        -7.6797,
+        43.7308
+       ],
+       [
+        -7.6983,
+        43.7355
+       ],
+       [
+        -7.6815,
+        43.7393
+       ],
+       [
+        -7.6748,
+        43.7527
+       ],
+       [
+        -7.6474,
+        43.7676
+       ],
+       [
+        -7.6131,
+        43.8273
+       ],
+       [
+        -7.6068,
+        43.9246
+       ],
+       [
+        -7.6005,
+        44.1169
+       ],
+       [
+        -7.5197,
+        44.1007
+       ],
+       [
+        -7.4383,
+        44.0709
+       ],
+       [
+        -7.4189,
+        44.0599
+       ],
+       [
+        -7.3563,
+        44.0509
+       ],
+       [
+        -7.2471,
+        44.0206
+       ],
+       [
+        -7.1696,
+        43.9886
+       ],
+       [
+        -7.1022,
+        43.9465
+       ],
+       [
+        -7.0473,
+        43.8957
+       ],
+       [
+        -7.0379,
+        43.8822
+       ],
+       [
+        -7.0142,
+        43.8824
+       ],
+       [
+        -7.0165,
+        43.8227
+       ],
+       [
+        -7.0298,
+        43.607
+       ],
+       [
+        -7.0304,
+        43.5448
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Noroeste de A Coruña - Costa",
+     "provincia": "A Coruña",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -9.4238,
+        43.4553
+       ],
+       [
+        -9.3444,
+        43.4805
+       ],
+       [
+        -9.3134,
+        43.5088
+       ],
+       [
+        -9.2407,
+        43.5524
+       ],
+       [
+        -9.1998,
+        43.5721
+       ],
+       [
+        -9.1852,
+        43.5863
+       ],
+       [
+        -9.1183,
+        43.6302
+       ],
+       [
+        -9.0407,
+        43.6636
+       ],
+       [
+        -8.9555,
+        43.6853
+       ],
+       [
+        -8.8661,
+        43.6944
+       ],
+       [
+        -8.7781,
+        43.6929
+       ],
+       [
+        -8.7437,
+        43.6874
+       ],
+       [
+        -8.7137,
+        43.7347
+       ],
+       [
+        -8.6573,
+        43.7897
+       ],
+       [
+        -8.5865,
+        43.8352
+       ],
+       [
+        -8.5043,
+        43.8691
+       ],
+       [
+        -8.4412,
+        43.8891
+       ],
+       [
+        -8.4215,
+        43.9114
+       ],
+       [
+        -8.36,
+        43.9579
+       ],
+       [
+        -8.2871,
+        43.9949
+       ],
+       [
+        -8.1286,
+        44.0596
+       ],
+       [
+        -8.0422,
+        44.0867
+       ],
+       [
+        -7.9498,
+        44.1006
+       ],
+       [
+        -7.8505,
+        44.0998
+       ],
+       [
+        -7.7895,
+        44.1147
+       ],
+       [
+        -7.6989,
+        44.1231
+       ],
+       [
+        -7.6005,
+        44.1169
+       ],
+       [
+        -7.6068,
+        43.9246
+       ],
+       [
+        -7.6131,
+        43.8273
+       ],
+       [
+        -7.6474,
+        43.7676
+       ],
+       [
+        -7.6748,
+        43.7527
+       ],
+       [
+        -7.6815,
+        43.7393
+       ],
+       [
+        -7.6983,
+        43.7355
+       ],
+       [
+        -7.6853,
+        43.7433
+       ],
+       [
+        -7.6604,
+        43.7777
+       ],
+       [
+        -7.6856,
+        43.7763
+       ],
+       [
+        -7.7155,
+        43.7647
+       ],
+       [
+        -7.7411,
+        43.7452
+       ],
+       [
+        -7.7959,
+        43.7308
+       ],
+       [
+        -7.8099,
+        43.7223
+       ],
+       [
+        -7.8241,
+        43.7012
+       ],
+       [
+        -7.8541,
+        43.7057
+       ],
+       [
+        -7.8663,
+        43.698
+       ],
+       [
+        -7.8516,
+        43.6696
+       ],
+       [
+        -7.883,
+        43.6633
+       ],
+       [
+        -7.9013,
+        43.6704
+       ],
+       [
+        -7.8781,
+        43.7004
+       ],
+       [
+        -7.854,
+        43.725
+       ],
+       [
+        -7.8689,
+        43.7307
+       ],
+       [
+        -7.8577,
+        43.7596
+       ],
+       [
+        -7.8673,
+        43.7739
+       ],
+       [
+        -7.8872,
+        43.7634
+       ],
+       [
+        -7.9029,
+        43.7695
+       ],
+       [
+        -7.9209,
+        43.7434
+       ],
+       [
+        -7.9455,
+        43.7349
+       ],
+       [
+        -7.9587,
+        43.7234
+       ],
+       [
+        -8.0014,
+        43.7048
+       ],
+       [
+        -8.0141,
+        43.7123
+       ],
+       [
+        -8.0453,
+        43.7133
+       ],
+       [
+        -8.0636,
+        43.7011
+       ],
+       [
+        -8.0721,
+        43.6634
+       ],
+       [
+        -8.0687,
+        43.6432
+       ],
+       [
+        -8.0989,
+        43.6476
+       ],
+       [
+        -8.1333,
+        43.6366
+       ],
+       [
+        -8.1492,
+        43.617
+       ],
+       [
+        -8.1694,
+        43.6124
+       ],
+       [
+        -8.1866,
+        43.6215
+       ],
+       [
+        -8.1902,
+        43.6024
+       ],
+       [
+        -8.2144,
+        43.5927
+       ],
+       [
+        -8.2136,
+        43.5833
+       ],
+       [
+        -8.2565,
+        43.5592
+       ],
+       [
+        -8.2946,
+        43.5564
+       ],
+       [
+        -8.3118,
+        43.5465
+       ],
+       [
+        -8.2992,
+        43.5273
+       ],
+       [
+        -8.3225,
+        43.5257
+       ],
+       [
+        -8.3291,
+        43.5074
+       ],
+       [
+        -8.3174,
+        43.501
+       ],
+       [
+        -8.325,
+        43.4825
+       ],
+       [
+        -8.3419,
+        43.4701
+       ],
+       [
+        -8.3386,
+        43.4588
+       ],
+       [
+        -8.315,
+        43.4709
+       ],
+       [
+        -8.2982,
+        43.4611
+       ],
+       [
+        -8.2643,
+        43.4682
+       ],
+       [
+        -8.2573,
+        43.4791
+       ],
+       [
+        -8.2299,
+        43.4817
+       ],
+       [
+        -8.2049,
+        43.4769
+       ],
+       [
+        -8.1742,
+        43.4944
+       ],
+       [
+        -8.1689,
+        43.4843
+       ],
+       [
+        -8.1924,
+        43.4641
+       ],
+       [
+        -8.2211,
+        43.4584
+       ],
+       [
+        -8.2343,
+        43.4631
+       ],
+       [
+        -8.2725,
+        43.4639
+       ],
+       [
+        -8.2995,
+        43.4544
+       ],
+       [
+        -8.2945,
+        43.4358
+       ],
+       [
+        -8.2772,
+        43.4373
+       ],
+       [
+        -8.2557,
+        43.4203
+       ],
+       [
+        -8.2366,
+        43.4303
+       ],
+       [
+        -8.2134,
+        43.4191
+       ],
+       [
+        -8.2186,
+        43.3872
+       ],
+       [
+        -8.21,
+        43.3668
+       ],
+       [
+        -8.2108,
+        43.331
+       ],
+       [
+        -8.227,
+        43.3427
+       ],
+       [
+        -8.2506,
+        43.3502
+       ],
+       [
+        -8.2481,
+        43.3651
+       ],
+       [
+        -8.2736,
+        43.3869
+       ],
+       [
+        -8.2954,
+        43.3867
+       ],
+       [
+        -8.3032,
+        43.4046
+       ],
+       [
+        -8.3411,
+        43.399
+       ],
+       [
+        -8.3364,
+        43.3804
+       ],
+       [
+        -8.3479,
+        43.3455
+       ],
+       [
+        -8.3816,
+        43.341
+       ],
+       [
+        -8.3956,
+        43.3815
+       ],
+       [
+        -8.407,
+        43.3696
+       ],
+       [
+        -8.4383,
+        43.382
+       ],
+       [
+        -8.4734,
+        43.3535
+       ],
+       [
+        -8.4916,
+        43.3514
+       ],
+       [
+        -8.5087,
+        43.3275
+       ],
+       [
+        -8.5325,
+        43.3156
+       ],
+       [
+        -8.5553,
+        43.3109
+       ],
+       [
+        -8.5897,
+        43.3218
+       ],
+       [
+        -8.6177,
+        43.317
+       ],
+       [
+        -8.6367,
+        43.3075
+       ],
+       [
+        -8.7093,
+        43.2899
+       ],
+       [
+        -8.7219,
+        43.2971
+       ],
+       [
+        -8.7443,
+        43.2937
+       ],
+       [
+        -8.7739,
+        43.3001
+       ],
+       [
+        -8.8261,
+        43.3284
+       ],
+       [
+        -8.8305,
+        43.3448
+       ],
+       [
+        -8.8476,
+        43.3373
+       ],
+       [
+        -8.8441,
+        43.3201
+       ],
+       [
+        -8.8688,
+        43.3232
+       ],
+       [
+        -8.9092,
+        43.3216
+       ],
+       [
+        -8.9109,
+        43.2927
+       ],
+       [
+        -8.9824,
+        43.2825
+       ],
+       [
+        -8.9753,
+        43.2626
+       ],
+       [
+        -8.9586,
+        43.2657
+       ],
+       [
+        -8.9382,
+        43.2272
+       ],
+       [
+        -8.9793,
+        43.2296
+       ],
+       [
+        -8.9917,
+        43.2165
+       ],
+       [
+        -9.0086,
+        43.2247
+       ],
+       [
+        -9.0309,
+        43.2157
+       ],
+       [
+        -9.0398,
+        43.1938
+       ],
+       [
+        -9.0761,
+        43.1823
+       ],
+       [
+        -9.3475,
+        43.3919
+       ],
+       [
+        -9.4238,
+        43.4553
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Gipuzkoa litoral - Costa",
+     "provincia": "Gipuzkoa",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -2.386,
+        43.6929
+       ],
+       [
+        -2.3047,
+        43.6731
+       ],
+       [
+        -2.2263,
+        43.6404
+       ],
+       [
+        -2.2107,
+        43.6304
+       ],
+       [
+        -1.9637,
+        43.7047
+       ],
+       [
+        -1.8793,
+        43.7233
+       ],
+       [
+        -1.7414,
+        43.732
+       ],
+       [
+        -1.7306,
+        43.7103
+       ],
+       [
+        -1.7182,
+        43.6489
+       ],
+       [
+        -1.7184,
+        43.6238
+       ],
+       [
+        -1.7316,
+        43.4766
+       ],
+       [
+        -1.7385,
+        43.4378
+       ],
+       [
+        -1.7592,
+        43.3938
+       ],
+       [
+        -1.7794,
+        43.361
+       ],
+       [
+        -1.7911,
+        43.3677
+       ],
+       [
+        -1.7966,
+        43.3816
+       ],
+       [
+        -1.8268,
+        43.3847
+       ],
+       [
+        -1.864,
+        43.3727
+       ],
+       [
+        -1.8821,
+        43.3497
+       ],
+       [
+        -1.9153,
+        43.3369
+       ],
+       [
+        -1.9609,
+        43.3385
+       ],
+       [
+        -1.9905,
+        43.3163
+       ],
+       [
+        -2.0125,
+        43.3213
+       ],
+       [
+        -2.0436,
+        43.3174
+       ],
+       [
+        -2.111,
+        43.3001
+       ],
+       [
+        -2.126,
+        43.2893
+       ],
+       [
+        -2.14,
+        43.2934
+       ],
+       [
+        -2.1767,
+        43.2881
+       ],
+       [
+        -2.2144,
+        43.3091
+       ],
+       [
+        -2.2672,
+        43.3009
+       ],
+       [
+        -2.2664,
+        43.2997
+       ],
+       [
+        -2.2837,
+        43.295
+       ],
+       [
+        -2.3544,
+        43.2999
+       ],
+       [
+        -2.3563,
+        43.3025
+       ],
+       [
+        -2.4102,
+        43.3245
+       ],
+       [
+        -2.409,
+        43.322
+       ],
+       [
+        -2.4115,
+        43.3214
+       ],
+       [
+        -2.4062,
+        43.3867
+       ],
+       [
+        -2.386,
+        43.6929
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Litoral occidental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9399,
+        43.5946
+       ],
+       [
+        -5.9589,
+        43.5788
+       ],
+       [
+        -5.9967,
+        43.5786
+       ],
+       [
+        -6.0276,
+        43.5865
+       ],
+       [
+        -6.0632,
+        43.5658
+       ],
+       [
+        -6.1154,
+        43.5555
+       ],
+       [
+        -6.134,
+        43.5647
+       ],
+       [
+        -6.1687,
+        43.5699
+       ],
+       [
+        -6.1828,
+        43.563
+       ],
+       [
+        -6.2014,
+        43.5728
+       ],
+       [
+        -6.2075,
+        43.5854
+       ],
+       [
+        -6.24,
+        43.5924
+       ],
+       [
+        -6.3026,
+        43.5633
+       ],
+       [
+        -6.3306,
+        43.5616
+       ],
+       [
+        -6.3529,
+        43.5513
+       ],
+       [
+        -6.3951,
+        43.5604
+       ],
+       [
+        -6.4286,
+        43.5532
+       ],
+       [
+        -6.4683,
+        43.5709
+       ],
+       [
+        -6.4753,
+        43.5501
+       ],
+       [
+        -6.5002,
+        43.552
+       ],
+       [
+        -6.5383,
+        43.5478
+       ],
+       [
+        -6.5608,
+        43.5567
+       ],
+       [
+        -6.5969,
+        43.5542
+       ],
+       [
+        -6.6248,
+        43.5724
+       ],
+       [
+        -6.6654,
+        43.5656
+       ],
+       [
+        -6.6836,
+        43.5588
+       ],
+       [
+        -6.709,
+        43.5637
+       ],
+       [
+        -6.7196,
+        43.5568
+       ],
+       [
+        -6.757,
+        43.5617
+       ],
+       [
+        -6.773,
+        43.5686
+       ],
+       [
+        -6.7823,
+        43.5567
+       ],
+       [
+        -6.8076,
+        43.555
+       ],
+       [
+        -6.8293,
+        43.5672
+       ],
+       [
+        -6.8727,
+        43.5631
+       ],
+       [
+        -6.9127,
+        43.5731
+       ],
+       [
+        -6.9467,
+        43.5678
+       ],
+       [
+        -6.9955,
+        43.5547
+       ],
+       [
+        -7.0219,
+        43.5572
+       ],
+       [
+        -7.0304,
+        43.5448
+       ],
+       [
+        -7.0298,
+        43.607
+       ],
+       [
+        -7.0165,
+        43.8227
+       ],
+       [
+        -7.0142,
+        43.8824
+       ],
+       [
+        -6.4716,
+        43.8844
+       ],
+       [
+        -6.3885,
+        43.9115
+       ],
+       [
+        -6.308,
+        43.9254
+       ],
+       [
+        -6.2254,
+        43.9286
+       ],
+       [
+        -6.1549,
+        43.9221
+       ],
+       [
+        -6.0762,
+        43.9596
+       ],
+       [
+        -5.987,
+        43.9854
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9376,
+        43.5947
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Bizkaia litoral - Costa",
+     "provincia": "Bizkaia",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -2.4946,
+        43.3653
+       ],
+       [
+        -2.5083,
+        43.3779
+       ],
+       [
+        -2.5423,
+        43.3735
+       ],
+       [
+        -2.5614,
+        43.3912
+       ],
+       [
+        -2.5806,
+        43.3864
+       ],
+       [
+        -2.6002,
+        43.3948
+       ],
+       [
+        -2.6175,
+        43.3921
+       ],
+       [
+        -2.6368,
+        43.4035
+       ],
+       [
+        -2.6444,
+        43.4162
+       ],
+       [
+        -2.6772,
+        43.4125
+       ],
+       [
+        -2.7171,
+        43.4188
+       ],
+       [
+        -2.7171,
+        43.4202
+       ],
+       [
+        -2.7366,
+        43.4295
+       ],
+       [
+        -2.7523,
+        43.4575
+       ],
+       [
+        -2.7946,
+        43.4398
+       ],
+       [
+        -2.8056,
+        43.431
+       ],
+       [
+        -2.8496,
+        43.4303
+       ],
+       [
+        -2.9173,
+        43.4392
+       ],
+       [
+        -2.9441,
+        43.4359
+       ],
+       [
+        -2.9589,
+        43.4163
+       ],
+       [
+        -2.9896,
+        43.3919
+       ],
+       [
+        -3.0335,
+        43.3693
+       ],
+       [
+        -3.018,
+        43.3586
+       ],
+       [
+        -3.0092,
+        43.3381
+       ],
+       [
+        -3.0232,
+        43.3272
+       ],
+       [
+        -3.0328,
+        43.3379
+       ],
+       [
+        -3.0684,
+        43.3473
+       ],
+       [
+        -3.0922,
+        43.3632
+       ],
+       [
+        -3.1121,
+        43.3591
+       ],
+       [
+        -3.1121,
+        43.3521
+       ],
+       [
+        -3.152,
+        43.3535
+       ],
+       [
+        -3.1521,
+        43.3946
+       ],
+       [
+        -3.1737,
+        43.6303
+       ],
+       [
+        -3.187,
+        43.741
+       ],
+       [
+        -3.1604,
+        43.729
+       ],
+       [
+        -3.0976,
+        43.7502
+       ],
+       [
+        -3.0148,
+        43.7654
+       ],
+       [
+        -2.822,
+        43.7871
+       ],
+       [
+        -2.7212,
+        43.7902
+       ],
+       [
+        -2.622,
+        43.7773
+       ],
+       [
+        -2.5291,
+        43.7489
+       ],
+       [
+        -2.3949,
+        43.6944
+       ],
+       [
+        -2.386,
+        43.6929
+       ],
+       [
+        -2.4062,
+        43.3867
+       ],
+       [
+        -2.4115,
+        43.3214
+       ],
+       [
+        -2.4198,
+        43.3293
+       ],
+       [
+        -2.4313,
+        43.3339
+       ],
+       [
+        -2.4627,
+        43.339
+       ],
+       [
+        -2.469,
+        43.3505
+       ],
+       [
+        -2.4946,
+        43.3653
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Litoral oriental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinada del noroeste superior a 4 metros.",
+       "desde": "2026-10-25T14:00:00+01:00",
+       "hasta": "2026-10-25T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -4.5237,
+        43.7289
+       ],
+       [
+        -4.5089,
+        43.5121
+       ],
+       [
+        -4.5109,
+        43.3935
+       ],
+       [
+        -4.5331,
+        43.4009
+       ],
+       [
+        -4.576,
+        43.3936
+       ],
+       [
+        -4.6517,
+        43.4017
+       ],
+       [
+        -4.6768,
+        43.4101
+       ],
+       [
+        -4.7101,
+        43.4099
+       ],
+       [
+        -4.743,
+        43.4166
+       ],
+       [
+        -4.7682,
+        43.4307
+       ],
+       [
+        -4.8232,
+        43.4363
+       ],
+       [
+        -4.9446,
+        43.4617
+       ],
+       [
+        -5.0127,
+        43.4586
+       ],
+       [
+        -5.0429,
+        43.4617
+       ],
+       [
+        -5.0851,
+        43.4765
+       ],
+       [
+        -5.1143,
+        43.4772
+       ],
+       [
+        -5.121,
+        43.485
+       ],
+       [
+        -5.1698,
+        43.4752
+       ],
+       [
+        -5.2135,
+        43.4741
+       ],
+       [
+        -5.2632,
+        43.5179
+       ],
+       [
+        -5.2943,
+        43.5366
+       ],
+       [
+        -5.3523,
+        43.5327
+       ],
+       [
+        -5.3704,
+        43.5406
+       ],
+       [
+        -5.382,
+        43.5356
+       ],
+       [
+        -5.4074,
+        43.5565
+       ],
+       [
+        -5.4303,
+        43.5518
+       ],
+       [
+        -5.4661,
+        43.5532
+       ],
+       [
+        -5.4931,
+        43.5452
+       ],
+       [
+        -5.5155,
+        43.5535
+       ],
+       [
+        -5.5301,
+        43.5465
+       ],
+       [
+        -5.5467,
+        43.5506
+       ],
+       [
+        -5.6079,
+        43.55
+       ],
+       [
+        -5.6151,
+        43.5575
+       ],
+       [
+        -5.6479,
+        43.5428
+       ],
+       [
+        -5.68,
+        43.5428
+       ],
+       [
+        -5.6957,
+        43.5506
+       ],
+       [
+        -5.6997,
+        43.5693
+       ],
+       [
+        -5.7336,
+        43.5741
+       ],
+       [
+        -5.7588,
+        43.5878
+       ],
+       [
+        -5.7801,
+        43.6111
+       ],
+       [
+        -5.7797,
+        43.6288
+       ],
+       [
+        -5.7963,
+        43.6367
+       ],
+       [
+        -5.8249,
+        43.6398
+       ],
+       [
+        -5.8514,
+        43.659
+       ],
+       [
+        -5.8579,
+        43.6361
+       ],
+       [
+        -5.8875,
+        43.623
+       ],
+       [
+        -5.8992,
+        43.6282
+       ],
+       [
+        -5.9015,
+        43.6242
+       ],
+       [
+        -5.9114,
+        43.6086
+       ],
+       [
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.8956,
+        43.997
+       ],
+       [
+        -5.8028,
+        43.9952
+       ],
+       [
+        -5.7147,
+        43.9829
+       ],
+       [
+        -5.6328,
+        43.96
+       ],
+       [
+        -5.5584,
+        43.9264
+       ],
+       [
+        -5.4993,
+        43.8864
+       ],
+       [
+        -5.4354,
+        43.8893
+       ],
+       [
+        -5.3452,
+        43.8868
+       ],
+       [
+        -5.2575,
+        43.8717
+       ],
+       [
+        -5.1756,
+        43.8444
+       ],
+       [
+        -5.0533,
+        43.7924
+       ],
+       [
+        -4.874,
+        43.7698
+       ],
+       [
+        -4.8212,
+        43.7744
+       ],
+       [
+        -4.7334,
+        43.7699
+       ],
+       [
+        -4.6676,
+        43.7598
+       ],
+       [
+        -4.5843,
+        43.7393
+       ],
+       [
+        -4.561,
+        43.7297
+       ],
+       [
+        -4.5237,
+        43.7289
+       ]
+      ]
+     ]
+    }
+   }
+  ]
+ }
+}

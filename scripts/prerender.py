@@ -161,7 +161,8 @@ def main():
     blog_d = json.loads((RAIZ / "data/blog.json").read_text(encoding="utf-8"))
     rev = kits_d.get("meta", {}).get("ultima_revision", "2026-09-28")
 
-    rutas = [("/", None), ("/fuentes/", None), ("/blog/", None), ("/zona/", None)]
+    rutas = [("/", None), ("/fuentes/", None), ("/blog/", None), ("/zona/", None),
+             ("/noticias/", None)]
     for k in kits_d["kits"]:
         rutas.append((f"/kit/{k['slug']}/", ("kit", k)))
     for e in blog_d["entradas"]:
@@ -204,6 +205,8 @@ def main():
                     esperado = "fuentes-pagina"
                 elif ruta == "/zona/":
                     esperado = "zona-mapa"
+                elif ruta == "/noticias/":
+                    esperado = "noticias-pagina"
                 else:
                     esperado = "cta-kit"
                 html = dump(chrome, url, esperado)
@@ -231,6 +234,22 @@ def main():
                                             "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
                                         }])
                         dest = RAIZ / "fuentes" / "index.html"
+                    elif ruta == "/noticias/":
+                        html = inyectar(
+                            html,
+                            titulo="Lo que está pasando: provisiones, incendios, inundaciones y apagones — Kit72h",
+                            desc="Titulares reales sobre países que piden provisiones a su "
+                                 "población, incendios, inundaciones y apagones, y el nivel "
+                                 "de alerta oficial (AEMET) provincia a provincia.",
+                            canonical=canonical,
+                            ld=[{
+                                "@context": "https://schema.org",
+                                "@type": "CollectionPage",
+                                "name": "Lo que está pasando — Kit72h",
+                                "url": canonical,
+                                "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
+                            }])
+                        dest = RAIZ / "noticias" / "index.html"
                     elif ruta == "/zona/":
                         html = inyectar(
                             html,

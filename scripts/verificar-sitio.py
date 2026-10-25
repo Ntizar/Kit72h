@@ -48,7 +48,7 @@ TAG = "ntizar-21"
 
 # Rutas publicables (espejo de .github/workflows/pages.yml, paso allowlist).
 PUBLICADAS = ["index.html"]
-for carpeta in ("kit", "blog", "fuentes", "zona"):
+for carpeta in ("kit", "blog", "fuentes", "zona", "noticias"):
     PUBLICADAS.append(carpeta)
 
 # Marcadores de la HOME que NUNCA deben aparecer dentro de una ficha de kit.
@@ -85,7 +85,7 @@ def htmls_publicadas(raiz: Path) -> list[Path]:
     out: list[Path] = []
     if (raiz / "index.html").exists():
         out.append(raiz / "index.html")
-    for carpeta in ("kit", "blog", "fuentes", "zona"):
+    for carpeta in ("kit", "blog", "fuentes", "zona", "noticias"):
         d = raiz / carpeta
         if d.is_dir():
             out.extend(sorted(d.rglob("*.html")))

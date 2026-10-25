@@ -1395,3 +1395,76 @@ a.card-kit{color:inherit;text-decoration:none}
 .faq-item p a{color:var(--rojo-txt);font-weight:600;text-decoration:underline;text-underline-offset:3px}
 .faq-compra{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:22px;padding:16px 20px;border:2px solid var(--negro);border-radius:12px;background:rgba(255,255,255,.55)}
 .faq-compra-txt strong{color:var(--rojo-txt)}
+
+/* ───────────────────────── NOTICIAS: lo que está pasando ─────────────────────────
+   Mismo sistema táctico: borde 2px, radius 0, Anton + mono. El bloque de avisos
+   va en negro para que se lea como un marcador, no como otro artículo. */
+.noticias-pagina .noticias-lead{max-width:780px;font-size:14.5px;color:#4a4238;margin:10px 0 22px}
+.noticias-contexto{border-left:6px solid var(--rojo);background:#f7f2e7;padding:14px 16px;
+  max-width:820px;font-size:14px;margin:22px 0 6px}
+.noticias-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:24px 0 8px}
+.noticias-bloque{border:var(--b);background:#faf6ec;padding:16px 18px 8px;display:flex;
+  flex-direction:column;min-height:100%}
+.noticias-bloque-cab{border-bottom:2px solid var(--tinta);padding-bottom:10px;margin-bottom:4px}
+.noticias-bloque-cab h2{font-family:var(--display);font-size:22px;line-height:1.05;
+  letter-spacing:.5px;text-transform:uppercase;display:flex;align-items:center;gap:10px;
+  color:var(--negro)}
+.noticias-n{font-family:var(--mono);font-size:11px;background:var(--rojo);color:var(--crema);
+  padding:2px 7px;letter-spacing:1px}
+.noticias-bloque-cab p{font-size:12px;color:#6B655C;margin-top:6px;line-height:1.5}
+.noticias-lista{list-style:none;margin:0;padding:0}
+.noticia-item{padding:11px 0;border-bottom:1px dashed #d3c9b6}
+.noticia-item:last-child{border-bottom:0}
+.noticia-item a{font-weight:700;font-size:13.5px;line-height:1.4;text-decoration:none;
+  color:var(--tinta);display:block}
+.noticia-item a:hover{color:var(--rojo-txt);text-decoration:underline}
+.noticia-meta{display:block;margin-top:4px;font-size:10.5px;letter-spacing:1.2px;
+  text-transform:uppercase;color:var(--gris)}
+.noticias-vacio{font-size:13px;color:var(--gris);padding:14px 0}
+.noticias-cierre{border:var(--b);background:var(--crema);padding:20px 22px;margin:26px 0 18px;
+  box-shadow:8px 8px 0 var(--ambar)}
+.noticias-cierre h2{font-family:var(--display);font-size:26px;line-height:1.05;
+  text-transform:uppercase;margin-bottom:10px}
+.noticias-cierre p{font-size:14px;max-width:720px}
+.noticias-cierre-ctas{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+
+/* ── Bloque «nivel de alerta» (AEMET), compartido por /noticias/ y /zona/ ── */
+.avisos-esp{background:var(--negro);color:var(--crema);border:var(--b);padding:16px 18px;
+  margin:6px 0 22px}
+.avisos-esp-cab{display:flex;justify-content:space-between;align-items:baseline;
+  gap:12px;flex-wrap:wrap;border-bottom:1px solid #3a322a;padding-bottom:8px;margin-bottom:10px}
+.avisos-esp-cab h2{font-family:var(--display);font-size:20px;letter-spacing:.5px;
+  text-transform:uppercase;color:var(--crema);margin:0}
+.avisos-esp-fecha{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--ambar)}
+.avisos-esp-estado{font-size:13.5px;line-height:1.5;color:#e6dccb}
+.avisos-esp-estado b{color:var(--ambar)}
+.avisos-esp-lista{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));
+  gap:8px;margin:12px 0 0;padding:0}
+.aviso-chip{display:flex;align-items:center;gap:8px;border:1px solid #4a4038;padding:6px 8px;
+  font-size:12px;background:#171410}
+.aviso-chip b{font-weight:700}
+.aviso-chip small{margin-left:auto;font-size:10px;letter-spacing:1px;text-transform:uppercase;
+  color:#f1ebdf}
+.aviso-punto{width:12px;height:12px;display:inline-block;flex:0 0 12px;border:1px solid #0E0C09}
+.avisos-esp-pie{margin-top:12px;font-size:12px;line-height:1.8;color:#e2d8c6}
+.avisos-esp-pie a{color:var(--ambar)}
+.avisos-leyenda{display:inline-flex;align-items:center;gap:5px;margin-right:10px;
+  text-transform:uppercase;letter-spacing:1px;font-size:10.5px}
+.avisos-leyenda i{width:10px;height:10px;display:inline-block}
+.zona-avisos{margin:18px 0 22px}
+.zona-avisos .aviso-prov{display:flex;gap:10px;align-items:flex-start;border:1px solid #4a4038;
+  background:#171410;padding:10px 12px;font-size:13px}
+.zona-avisos .aviso-prov small{display:block;font-size:10.5px;letter-spacing:1px;
+  text-transform:uppercase;color:#f1ebdf}
+.zona-avisos .aviso-zonas{list-style:none;margin:6px 0 0;padding:0;font-size:12px;color:#ded4c2}
+.zona-avisos .aviso-zonas li{padding:2px 0}
+.zona-avisos .aviso-zonas i{color:#e6dccb;font-style:normal}
+.zona-pop-avisos{margin:6px 0 0;padding-left:16px;font-size:11px;line-height:1.45}
+.zona-pop-avisos li{margin-bottom:6px}
+
+@media (max-width:820px){
+  .noticias-grid{grid-template-columns:1fr}
+  .avisos-esp-lista{grid-template-columns:1fr}
+  .noticias-cierre-ctas .btn{width:100%}
+}
+.noticia-resumen{font-size:12px;color:#4a4238;line-height:1.5;margin-top:5px;max-width:60ch}

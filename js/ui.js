@@ -20,11 +20,13 @@ const ui = {
     if (p === '/blog' || p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
     if (p === '/fuentes') return { vista: 'fuentes' };
     if (p === '/zona') return { vista: 'zona' };
+    if (p === '/noticias') return { vista: 'noticias' };
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
     if (h.startsWith('blog/')) return { vista: 'blog', slug: h.split('/')[1] };
     if (h === 'blog') return { vista: 'blog' };
     if (h === 'fuentes') return { vista: 'fuentes' };
+    if (h === 'noticias') return { vista: 'noticias' };
     return { vista: 'home' };
   },
 
@@ -32,7 +34,8 @@ const ui = {
     const { vista, slug } = this.vistaDesdeHash();
     const app = document.getElementById('app');
     document.getElementById('disclosure').textContent = state.data.disclosure;
-    await Promise.all([estado.cargar(), blog.cargar()]);
+    await Promise.all([estado.cargar(), blog.cargar(),
+                       typeof noticias !== 'undefined' ? noticias.cargar() : null]);
 
     if (vista === 'kit') {
       const kit = state.kitPorSlug(slug);
@@ -47,6 +50,11 @@ const ui = {
       document.title = 'Tu zona: hospital, farmacia, refugio y 112 — Kit72h';
       // 'const zona' NO cuelga de window: no comprobar window.zona, nunca arrancaría.
       try { if (typeof zona !== 'undefined') zona.iniciar(); } catch (e) { /* sin mapa: el texto sigue ahí */ }
+      // Los avisos de AEMET no dependen del mapa: se pintan aunque Leaflet falle.
+      try { if (typeof zona !== 'undefined') zona.cargarAlertas(); } catch (e) { /* la lista queda vacía */ }
+    } else if (vista === 'noticias') {
+      app.innerHTML = this.htmlNoticias();
+      document.title = 'Lo que está pasando: provisiones, incendios, inundaciones y apagones — Kit72h';
     } else if (vista === 'blog') {
       const entrada = slug ? blog.porSlug(slug) : null;
       if (slug && !entrada) { location.hash = 'blog'; return this.render(); }
@@ -465,6 +473,116 @@ tablasSeguras(html) {
       .replace(/<\/table>/gi, '</table></div>');
   },
 
+  /* ---- NOTICIAS: lo que está pasando (datos de scripts/noticias.py) ---- */
+  htmlNoticias() {
+    const N = (typeof noticias !== 'undefined') ? noticias : null;
+    const esc = s => (N ? N.esc(s) : String(s == null ? '' : s));
+    const d = N && N.datos;
+    const al = N && N.alertas;
+
+    if (!d || !d.temas) {
+      return `
+      <section class="ficha noticias-pagina">
+        <a class="volver" href="/">← Inicio</a>
+        <span class="sec-label">Ahora</span>
+        <h1>Lo que está pasando</h1>
+        <p class="noticias-lead">No se han podido cargar los titulares ahora mismo
+        (sin conexión o el lector de noticias no ha respondido). <b>Recarga la página</b>
+        en unos segundos; el resto del sitio no depende de esto.</p>
+        <p><a class="btn negro" href="/zona/">Ver el nivel de alerta de tu zona →</a></p>
+      </section>`;
+    }
+
+    const fecha = N.fechaHora(d.meta && d.meta.actualizado);
+
+    // Bloque «España ahora» con el resumen oficial de AEMET
+    let espana = '';
+    if (al && al.resumen) {
+      const r = al.resumen;
+      const avisos = (al.provincias || []).filter(p => p.nivel > 0);
+      const chips = avisos.slice(0, 8).map(p => {
+        const nv = N.nivel(p.nivel);
+        return `<li class="aviso-chip ${nv.clase}"><span class="aviso-punto" style="background:${nv.color}"></span>
+          <b>${esc(p.nombre)}</b><small>${esc(nv.txt)}</small></li>`;
+      }).join('');
+      const cuenta = [];
+      if (r.rojo) cuenta.push(`<b>${r.rojo}</b> en rojo`);
+      if (r.naranja) cuenta.push(`<b>${r.naranja}</b> en naranja`);
+      if (r.amarillo) cuenta.push(`<b>${r.amarillo}</b> en amarillo`);
+      if (!cuenta.length) cuenta.push('Sin avisos activos');
+      espana = `
+      <div class="avisos-esp">
+        <div class="avisos-esp-cab">
+          <h2>España ahora · nivel de alerta</h2>
+          <span class="avisos-esp-fecha">AEMET · ${esc(al.meta && al.meta.elaborado ? al.meta.elaborado.slice(8, 10) + '/' + al.meta.elaborado.slice(4, 6) : fecha)}</span>
+        </div>
+        <p class="avisos-esp-estado">${cuenta.join(' · ')} — ${r.zonas_en_aviso} zonas con aviso
+        de ${r.provincias} provincias.</p>
+        ${chips ? `<ul class="avisos-esp-lista">${chips}</ul>` : ''}
+        <p class="avisos-esp-pie">El mapa de <a href="/zona/">tu zona</a> pinta estas zonas con
+        su color y te dice qué se espera en cada una. Los avisos los emite AEMET y se refrescan
+        en cada visita.</p>
+      </div>`;
+    }
+
+    const bloques = d.temas.map(t => {
+      const items = (t.items || []).map(it => `
+        <li class="noticia-item">
+          <a href="${esc(it.url)}" target="_blank" rel="noopener nofollow">${esc(it.titulo)}</a>
+          ${it.resumen ? `<p class="noticia-resumen">${esc(it.resumen)}</p>` : ''}
+          <span class="noticia-meta">${esc(it.fuente)} · ${esc(it.fecha_txt || N.fecha(it.fecha))}</span>
+        </li>`).join('');
+      return `
+      <article class="noticias-bloque" id="tema-${esc(t.id)}">
+        <header class="noticias-bloque-cab">
+          <h2>${esc(t.titulo)}<span class="noticias-n">${(t.items || []).length}</span></h2>
+          <p>${esc(t.claim)}</p>
+        </header>
+        ${items ? `<ul class="noticias-lista">${items}</ul>`
+                : `<p class="noticias-vacio">Sin titulares nuevos en los últimos días.</p>`}
+      </article>`;
+    }).join('');
+
+    return `
+      <section class="ficha noticias-pagina">
+        <a class="volver" href="/">← Inicio</a>
+        <span class="sec-label">Ahora</span>
+        <h1>Lo que está pasando</h1>
+        <p class="noticias-lead">Titulares reales, con su medio y su fecha: gobiernos que piden
+        provisiones a su población, incendios, inundaciones y apagones. Sin alarmismo y sin
+        inventar: si algo no está publicado en un medio o en AEMET, aquí no aparece.
+        Actualizado ${esc(fecha)}.</p>
+
+        ${espana}
+
+        <p class="noticias-contexto"><b>El patrón se repite.</b> La Estrategia de Preparación de la
+        UE (marzo de 2025) ya pedía a cada hogar autonomía para 72 horas, y en octubre de 2026 el
+        Gobierno británico ha dicho a sus ciudadanos que tengan en casa comida, agua y efectivo
+        para tres días. No es una profecía: es una recomendación oficial que casi nadie ha
+        cumplido todavía.</p>
+
+        <div class="noticias-grid">${bloques}</div>
+
+        <div class="noticias-cierre">
+          <h2>Leer esto no prepara a nadie. Tenerlo en casa, sí.</h2>
+          <p>Si has llegado hasta aquí y en tu casa no hay agua para tres días, una linterna que
+          funcione y una radio, el titular de hoy es tu lista de la compra.</p>
+          <p class="noticias-cierre-ctas">
+            <a class="btn rojo" href="/kit/kit-basico-72h/">Kit básico 72 h →</a>
+            <a class="btn negro" href="/blog/plan-familiar-de-emergencia/">Plan familiar →</a>
+            <a class="btn ambar" href="/zona/">Mi zona y sus avisos →</a>
+          </p>
+        </div>
+
+        <p class="disclaimer">Los titulares enlazan al medio que los publica y no se reproducen
+        íntegros. La selección la hace un lector automático sobre Google News (edición España) y
+        puede incluir noticias que no afecten a tu provincia. Los avisos por zona son de
+        <a href="https://www.aemet.es/es/eltiempo/prediccion/avisos" target="_blank" rel="noopener">AEMET</a>
+        (Meteoalerta) y no sustituyen a las indicaciones de Protección Civil:
+        <b>ante una emergencia real, llama al 112</b>.</p>
+      </section>`;
+  },
+
   /* ---- TU ZONA: mapa de recursos cerca de ti ---- */
   htmlZona() {
     const caps = zona.CAPAS.map(c => `
@@ -496,6 +614,22 @@ tablasSeguras(html) {
         <p id="zona-aviso" class="zona-aviso">Pulsa «Usar mi ubicación», escribe tu ciudad o toca
         directamente el mapa. <b>Nada se guarda</b>: la consulta va de tu navegador a
         OpenStreetMap y vuelta.</p>
+
+        <div class="avisos-esp zona-avisos" id="zona-alertas">
+          <div class="avisos-esp-cab">
+            <h2>Nivel de alerta en España</h2>
+            <span class="avisos-esp-fecha" id="zona-alertas-fecha">AEMET · Meteoalerta</span>
+          </div>
+          <p class="avisos-esp-estado" id="zona-alertas-estado">Leyendo los avisos oficiales de AEMET…</p>
+          <ul class="avisos-esp-lista" id="zona-alertas-lista"></ul>
+          <p class="avisos-esp-pie">
+            <span class="avisos-leyenda"><i style="background:#D30000"></i>Rojo</span>
+            <span class="avisos-leyenda"><i style="background:#EE8B1C"></i>Naranja</span>
+            <span class="avisos-leyenda"><i style="background:#E3C400"></i>Amarillo</span>
+            <span class="avisos-leyenda"><i style="background:#4C7A5A"></i>Sin aviso</span>
+            — Las zonas en aviso se pintan sobre el mapa con su color.
+          </p>
+        </div>
 
         <div class="zona-mapa-wrap">
           <div id="zona-mapa" class="zona-mapa" role="application"
@@ -535,7 +669,9 @@ tablasSeguras(html) {
         <p class="disclaimer">Los puntos proceden de <a href="https://www.openstreetmap.org/copyright"
         target="_blank" rel="noopener">OpenStreetMap</a> (ODbL) y se consultan en directo: pueden
         estar incompletos o desactualizados, sobre todo en refugios y protecciones civiles. El mapa
-        base es del <a href="https://www.ign.es" target="_blank" rel="noopener">IGN</a> (CC BY 4.0).
+        base es del <a href="https://www.ign.es" target="_blank" rel="noopener">IGN</a> (CC BY 4.0)
+        y los avisos por zona, de <a href="https://www.aemet.es/es/eltiempo/prediccion/avisos"
+        target="_blank" rel="noopener">AEMET</a> (Meteoalerta).
         <b>Esta página no sustituye a las indicaciones de Protección Civil ni a los servicios de
         emergencia: ante una emergencia real, llama al 112.</b></p>
       </section>`;
