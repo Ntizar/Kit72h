@@ -514,10 +514,10 @@ tablasSeguras(html) {
       <div class="avisos-esp">
         <div class="avisos-esp-cab">
           <h2>España ahora · nivel de alerta</h2>
-          <span class="avisos-esp-fecha">AEMET · ${esc(al.meta && al.meta.elaborado ? al.meta.elaborado.slice(8, 10) + '/' + al.meta.elaborado.slice(4, 6) : fecha)}</span>
+          <span class="avisos-esp-fecha">AEMET · ${esc(al.meta && al.meta.elaborado ? al.meta.elaborado.slice(6, 8) + '/' + al.meta.elaborado.slice(4, 6) + ' ' + al.meta.elaborado.slice(8, 10) + ':' + al.meta.elaborado.slice(10, 12) : fecha)}</span>
         </div>
-        <p class="avisos-esp-estado">${cuenta.join(' · ')} — ${r.zonas_en_aviso} zonas con aviso
-        de ${r.provincias} provincias.</p>
+        <p class="avisos-esp-estado">${cuenta.join(' · ')} — ${r.zonas_en_aviso} zonas en aviso,
+        ${r.sin_aviso} demarcaciones sin aviso.</p>
         ${chips ? `<ul class="avisos-esp-lista">${chips}</ul>` : ''}
         <p class="avisos-esp-pie">El mapa de <a href="/zona/">tu zona</a> pinta estas zonas con
         su color y te dice qué se espera en cada una. Los avisos los emite AEMET y se refrescan

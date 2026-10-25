@@ -147,7 +147,7 @@ const zona = {
     const enAviso = (d.provincias || []).filter(p => p.nivel > 0);
     if (fecha && d.meta && d.meta.elaborado) {
       const e = d.meta.elaborado;   // AAAAMMDDHHMMSS
-      fecha.textContent = `AEMET · ${e.slice(8, 10)}/${e.slice(4, 6)} ${e.slice(10, 12)}:${e.slice(12, 14)}`;
+      fecha.textContent = `AEMET · ${e.slice(6, 8)}/${e.slice(4, 6)} ${e.slice(8, 10)}:${e.slice(10, 12)}`;
     }
     if (estado) {
       const partes = [];
@@ -155,9 +155,9 @@ const zona = {
       if (res.naranja) partes.push(`<b>${res.naranja}</b> en naranja`);
       if (res.amarillo) partes.push(`<b>${res.amarillo}</b> en amarillo`);
       estado.innerHTML = partes.length
-        ? `Ahora mismo: ${partes.join(' · ')}. ${res.zonas_en_aviso || 0} zonas con aviso de ` +
-          `${res.provincias || 0} provincias.`
-        : `Ahora mismo no hay avisos activos en ninguna de las ${res.provincias || 0} provincias.`;
+        ? `Ahora mismo: ${partes.join(' · ')}. <b>${res.zonas_en_aviso || 0}</b> zonas en aviso; ` +
+          `${res.sin_aviso || 0} demarcaciones sin aviso.`
+        : `Ahora mismo no hay avisos activos en ninguna de las ${res.provincias || 0} demarcaciones.`;
     }
     lista.innerHTML = enAviso.map(p => {
       const color = this.COLOR_NIVEL[p.nivel] || this.COLOR_NIVEL[0];
