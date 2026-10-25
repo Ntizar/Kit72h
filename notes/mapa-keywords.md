@@ -83,7 +83,7 @@
 | mejor generador eléctrico portátil inverter | alto | compra | blog pendiente | ✅ hecha (2026-10-23) | P1 |
 | mejor power station para apagones en casa | media | compra | blog pendiente | ✅ hecha (2026-10-24) | P1 |
 | mejor kit solar portátil para casa | media | compra | blog pendiente | ✅ hecha (2026-10-24) | P1 |
-| mejor deshumidificador para inundaciones y humedad | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| mejor deshumidificador para inundaciones y humedad | media (estacional) | compra | /blog/mejor-deshumidificador-inundaciones-humedad/ | ✅ hecha (2026-10-25) | P2 |
 | mejor bomba de achique para inundación | media (estacional) | compra | blog pendiente | pendiente | P2 |
 | mejor arrancador de batería para coche | media | compra | blog pendiente | pendiente | P2 |
 | mejor estufa de gas butano para apagón | media (estacional) | compra | blog pendiente | pendiente | P2 |
