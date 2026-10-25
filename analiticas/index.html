@@ -30,6 +30,9 @@
 .an-badge--ok{color:#2e7d4f;border-color:#2e7d4f}
 .an-badge--aviso{color:var(--rojo-txt);border-color:var(--rojo)}
 .sec.oscura .an-badge--ok{color:#7fd6a2;border-color:#7fd6a2}
+/* Nota de procedencia: visible cuando el dato NO viene del beacon */
+.an-nota{border:1.5px solid var(--rojo);background:rgba(255,255,255,.05);padding:12px 15px;margin-top:16px;font-size:12.5px;line-height:1.6;color:var(--tan)}
+.an-nota b{color:#fff;letter-spacing:.5px}
 
 /* KPIs */
 .an-kpis{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:26px}
@@ -153,6 +156,7 @@
           <span class="an-dato"><span>Fuente</span><b id="an-fuente">—</b></span>
           <span class="an-dato"><span>Estado</span><b id="an-estado-badge" class="an-badge an-badge--aviso">Leyendo…</b></span>
         </div>
+        <p class="an-nota" id="an-nota" hidden></p>
       </div>
     </div>
   </section>
@@ -166,7 +170,7 @@
           <div class="an-kpi">
             <span class="an-kpi__label">Visitas</span>
             <span class="an-kpi__value" id="an-kpi-visitas">—</span>
-            <span class="an-kpi__pie">Sesiones contadas sin cookies.</span>
+            <span class="an-kpi__pie" id="an-kpi-visitas-pie">Sesiones contadas sin cookies.</span>
           </div>
           <div class="an-kpi">
             <span class="an-kpi__label">Páginas vistas</span>
@@ -253,7 +257,8 @@
   var RUTA_DATOS = "../data/analiticas.json";
   var MES_CORTO = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
   var MES_LARGO = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
-  var FUENTES = { cloudflare: "Cloudflare Web Analytics", umami: "Umami", ninguna: "Ninguna" };
+  var FUENTES = { cloudflare: "Cloudflare Web Analytics", umami: "Umami", ninguna: "Ninguna",
+                  "cloudflare-zona": "Cloudflare · analítica de zona" };
   var serieActual = [];
   var nf = new Intl.NumberFormat("es-ES");
 
@@ -314,12 +319,37 @@
     el("an-fuente").textContent = d ? (FUENTES[f] || f) : "—";
     var badge = el("an-estado-badge");
     var est = d ? String(d.estado || "") : "";
+    var esZona = d && String(d.fuente || "") === "cloudflare-zona";
     if (est === "ok") {
       badge.className = "an-badge an-badge--ok";
-      badge.textContent = "● Datos al día";
+      badge.textContent = esZona ? "● Zona (sin beacon)" : "● Datos al día";
     } else {
       badge.className = "an-badge an-badge--aviso";
       badge.textContent = "▲ " + (est ? est.replace("-", " ") : "sin datos");
+    }
+
+    // Nota de procedencia: solo cuando hay algo que contar (no se pinta nunca
+    // si el beacon mide bien). David prefiere el dato con su letra pequeña
+    // antes que un número limpio que miente.
+    var nota = el("an-nota");
+    if (nota) {
+      var msg = d ? String(d.mensaje || "").trim() : "";
+      var mostrar = msg !== "" && (esZona || est !== "ok" || msg.indexOf("Ojo") !== -1);
+      nota.hidden = !mostrar;
+      nota.innerHTML = "";
+      if (mostrar) {
+        nota.appendChild(nodo("b", null, esZona ? "Cómo se está midiendo: " : "Aviso: "));
+        nota.appendChild(document.createTextNode(msg));
+      }
+    }
+
+    // El pie del KPI de visitas cambia con la fuente: con zona no son sesiones
+    // sin cookies, son únicos diarios de la CDN (y meten bots).
+    var pieV = el("an-kpi-visitas-pie");
+    if (pieV) {
+      pieV.textContent = esZona
+        ? "Únicos por día sumados en la CDN (incluye bots)."
+        : "Sesiones contadas sin cookies.";
     }
   }
 

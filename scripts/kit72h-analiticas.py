@@ -259,6 +259,215 @@ def visitas_de(fila):
         return 0
 
 
+# ────────────── Cloudflare: analítica de ZONA (red de seguridad) ──────────
+# El dataset RUM (`rumPageloadEventsAdaptiveGroups`) depende de que Web
+# Analytics esté ACTIVO en la zona y de que el beacon llegue: si se desactiva,
+# el endpoint de ingesta `/cdn-cgi/rum` devuelve 404 y el panel se queda a 0
+# aunque la web tenga cientos de visitas (pasó el 2026-10-20: 0 visitas en el
+# panel con 327-410 únicos/día reales).
+#
+# La analítica de ZONA (`httpRequests*Groups`) NO depende del beacon: mide lo
+# que pasa por Cloudflare. Sirve de respaldo permanente. Contrapartidas que el
+# panel debe decir sin adornos: incluye bots/crawlers y no hay `refererHost`
+# (campo restringido en plan gratuito), así que los orígenes quedan vacíos.
+
+CF_ZONA_NOMBRE = "kit72h.com"
+
+
+def cf_zona_id(token):
+    """Zone id de CF_ZONA_NOMBRE (el token del repo puede leer /zones)."""
+    data, _err = http_json(CF_API + "/zones?name=" + urllib.parse.quote(CF_ZONA_NOMBRE),
+                           token=token)
+    for fila in ((data or {}).get("result") or []):
+        if fila.get("name") == CF_ZONA_NOMBRE and fila.get("id"):
+            return fila["id"]
+    return None
+
+
+def cf_zona_serie(token, zona, hoy, dias):
+    """(serie_diaria, total_paginas) desde httpRequests1dGroups.
+
+    `uniq.uniques` = visitantes únicos del día; `sum.pageViews` = páginas.
+    Devuelve ({fecha_iso: uniques}, total_pageViews).
+    """
+    ini = hoy - timedelta(days=dias - 1)
+    query = (
+        '{ viewer { zones(filter: {zoneTag: "%s"}) {'
+        ' g: httpRequests1dGroups(limit: %d,'
+        ' filter: {date_geq: "%s", date_leq: "%s"}) {'
+        ' dimensions { date } sum { pageViews } uniq { uniques } } } } }'
+    ) % (_esc(zona), dias + 2, ini.isoformat(), hoy.isoformat())
+    data, err = cf_graphql(token, query)
+    mapa, paginas = {}, 0
+    if err:
+        print("  ⚠️ zona serie: %s" % str(err)[:140], file=sys.stderr)
+        return mapa, paginas
+    try:
+        filas = data["data"]["viewer"]["zones"][0]["g"]
+    except (KeyError, IndexError, TypeError):
+        print("  ⚠️ zona serie: estructura inesperada", file=sys.stderr)
+        return mapa, paginas
+    for fila in filas:
+        dia = (fila.get("dimensions") or {}).get("date")
+        if not dia:
+            continue
+        try:
+            mapa[str(dia)[:10]] = int(((fila.get("uniq") or {}).get("uniques")) or 0)
+        except Exception:
+            mapa[str(dia)[:10]] = 0
+        try:
+            paginas += int(((fila.get("sum") or {}).get("pageViews")) or 0)
+        except Exception:
+            pass
+    return mapa, paginas
+
+
+def cf_zona_dim(token, zona, ini, fin, dimension, limite=500):
+    """Filas de httpRequestsAdaptiveGroups sobre una dimensión de la zona."""
+    query = (
+        '{ viewer { zones(filter: {zoneTag: "%s"}) {'
+        ' g: httpRequestsAdaptiveGroups(limit: %d,'
+        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z"},'
+        ' orderBy: [count_DESC]) { count dimensions { %s } } } } }'
+    ) % (_esc(zona), limite, ini, fin, dimension)
+    data, err = cf_graphql(token, query)
+    if err:
+        print("  ⚠️ zona %s: %s" % (dimension, str(err)[:140]), file=sys.stderr)
+        return []
+    try:
+        return data["data"]["viewer"]["zones"][0]["g"] or []
+    except (KeyError, IndexError, TypeError):
+        return []
+
+
+_EXT_ASSET = (".css", ".js", ".json", ".png", ".jpg", ".jpeg", ".webp", ".svg",
+              ".ico", ".txt", ".xml", ".woff", ".woff2", ".map", ".gz")
+
+
+def _es_pagina(ruta):
+    """¿La ruta es una página (no un asset, ni una ruta interna, ni un reto ACME)?"""
+    r = str(ruta or "")
+    if not r.startswith("/") or r.startswith("/cdn-cgi/") or r.startswith("/data/"):
+        return False
+    if r.startswith("/.well-known"):
+        return False
+    bajo = r.lower().split("?")[0]
+    if bajo.endswith(_EXT_ASSET):
+        return False
+    # Retos ACME / hostname-challenge: segmentos largos y aleatorios.
+    if any(len(seg) > 24 for seg in bajo.split("/") if seg):
+        return False
+    return bajo.endswith("/") or bajo.endswith(".html") or "." not in bajo.rsplit("/", 1)[-1]
+
+
+def cf_zona_paginas(token, zona, ini, fin):
+    """Ranking de páginas de la zona, sin assets. [(ruta, pageviews)]."""
+    filas = cf_zona_dim(token, zona, ini, fin, "clientRequestPath", 500)
+    pares = agrupar([f for f in filas
+                     if _es_pagina((f.get("dimensions") or {}).get("clientRequestPath"))],
+                    "clientRequestPath",
+                    lambda v: str(v or "/").replace("/index.html", "/"))
+    return pares
+
+
+def cf_zona_desgloses(token, zona, ini, fin):
+    """Páginas, países y dispositivos coherentes entre sí, con UNA sola query.
+
+    TRAMPA EVITADA: pedir el país o el dispositivo sin más cuenta TODOS los
+    requests (CSS, JS, /cdn-cgi/rum…) y devuelve cifras 7-9× mayores que las
+    visitas (`escritorio 64.960` en un panel que dice `9.580 visitas`). Se piden
+    las tres dimensiones juntas y solo se suman las filas que son página.
+
+    Devuelve (pares_paginas, pares_paises, pares_dispositivos).
+    """
+    query = (
+        '{ viewer { zones(filter: {zoneTag: "%s"}) {'
+        ' g: httpRequestsAdaptiveGroups(limit: 5000,'
+        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z"},'
+        ' orderBy: [count_DESC]) {'
+        ' count dimensions { clientRequestPath clientCountryName clientDeviceType }'
+        ' } } } }'
+    ) % (_esc(zona), ini, fin)
+    data, err = cf_graphql(token, query)
+    if err:
+        print("  ⚠️ zona desgloses: %s" % str(err)[:140], file=sys.stderr)
+        return [], [], []
+    try:
+        filas = data["data"]["viewer"]["zones"][0]["g"] or []
+    except (KeyError, IndexError, TypeError):
+        return [], [], []
+    acum = {"ruta": {}, "pais": {}, "tipo": {}}
+    for fila in filas:
+        dims = fila.get("dimensions") or {}
+        ruta = dims.get("clientRequestPath")
+        if not _es_pagina(ruta):
+            continue
+        try:
+            n = int(fila.get("count") or 0)
+        except Exception:
+            continue
+        ruta = str(ruta).replace("/index.html", "/")
+        pais = str(dims.get("clientCountryName") or "(desconocido)")
+        tipo = norm_dispositivo(dims.get("clientDeviceType"))
+        for clave, valor in (("ruta", ruta), ("pais", pais), ("tipo", tipo)):
+            acum[clave][valor] = acum[clave].get(valor, 0) + n
+    orden = {k: sorted(v.items(), key=lambda kv: (-kv[1], kv[0]))
+             for k, v in acum.items()}
+    return orden["ruta"], orden["pais"], orden["tipo"]
+
+
+def cf_zona_resultado(token, hoy, clics_amazon, motivo, eventos=None,
+                      zona=None, mapa=None, total_paginas=None):
+    """Resultado completo usando la analítica de zona (sin beacon).
+
+    Acepta la serie ya consultada (`zona`, `mapa`, `total_paginas`) para no
+    repetir la query cuando el que llama ya la tiene.
+
+    Devuelve None si la zona no se puede leer o no trae ni una visita: en ese
+    caso el que llama conserva lo que tuviera (nunca se empeora el panel).
+    """
+    zona = zona or cf_zona_id(token)
+    if not zona:
+        print("  ⚠️ zona: no se pudo resolver el zone id de %s" % CF_ZONA_NOMBRE,
+              file=sys.stderr)
+        return None
+    if mapa is None:
+        mapa, total_paginas = cf_zona_serie(token, zona, hoy, DIAS)
+    if not mapa:
+        return None
+    ini = (hoy - timedelta(days=DIAS - 1)).isoformat()
+    fin = hoy.isoformat()
+    serie = [{"fecha": (hoy - timedelta(days=i)).isoformat(),
+              "visitas": int(mapa.get((hoy - timedelta(days=i)).isoformat(), 0))}
+             for i in range(DIAS - 1, -1, -1)]
+    total_visitas = sum(p["visitas"] for p in serie)
+    if total_visitas == 0:
+        return None
+
+    pares_pag, pares_pais, pares_dev = cf_zona_desgloses(token, zona, ini, fin)
+    if not pares_pag:
+        pares_pag = cf_zona_paginas(token, zona, ini, fin)
+
+    resultado = plantilla(
+        "ok",
+        "%s Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): "
+        "cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede "
+        "desglosar orígenes ni clics a Amazon." % motivo,
+        fuente="cloudflare-zona")
+    resultado["totales"] = {
+        "visitas": total_visitas,
+        "paginas": total_paginas or sum(v for _, v in pares_pag),
+        "clics_amazon": clics_amazon,
+    }
+    resultado["serie_diaria"] = serie
+    resultado["paginas"] = con_pct_sobre(pares_pag, "ruta", limite=30)
+    resultado["referrers"] = []
+    resultado["paises"] = con_pct_sobre(pares_pais, "pais", limite=20)
+    resultado["dispositivos"] = con_pct_sobre(pares_dev, "tipo")
+    resultado["eventos"] = eventos or []
+    return resultado
+
+
 def paginas_vistas_de(fila):
     """Páginas vistas de una fila (campo `count`)."""
     try:
@@ -290,6 +499,22 @@ def con_pct(pares, clave):
     2026-10-12 con el arnés de pruebas de Umami).
     """
     total = sum(v for _, v in pares) or 1
+    return [
+        {clave: k, "visitas": v, "pct": round(100.0 * v / total, 1)}
+        for k, v in pares
+    ]
+
+
+def con_pct_sobre(pares, clave, total=None, limite=None):
+    """Como con_pct, pero con el % sobre un total dado (y recorte opcional).
+
+    El panel de zona puede traer 200 rutas: se muestran las 30 primeras, pero
+    el porcentaje se calcula sobre TODO el tráfico, no sobre el top (si no, el
+    top sumaría 100 % y parecería que la home es el 44 % de 30 páginas).
+    """
+    total = total or sum(v for _, v in pares) or 1
+    if limite:
+        pares = pares[:limite]
     return [
         {clave: k, "visitas": v, "pct": round(100.0 * v / total, 1)}
         for k, v in pares
@@ -680,11 +905,53 @@ def main(argv=None):
                 resultado["dispositivos"] = con_pct(pares_dev, "tipo")
                 resultado["eventos"] = eventos or []
 
-                if total_visitas == 0 and not filas_pag and not filas_serie:
+                if total_visitas == 0 and not filas_pag and not serie:
                     resultado["estado"] = "sin-datos"
                     resultado["mensaje"] = (
                         "Cloudflare respondió pero no hay visitas en los últimos %d días "
                         "(o el site tag no recibe tráfico aún)." % DIAS)
+
+                # ── Contraste con la ZONA (mide todo el tráfico de la CDN) ──
+                # El RUM depende del beacon: si Web Analytics se apaga o el beacon
+                # no llega, el panel marca 0 con la web llena. La zona no depende
+                # de nada: es lo que pasa por Cloudflare. Se guarda SIEMPRE como
+                # contraste y, si el beacon está claramente caído, se usa como
+                # fuente principal en vez de mentir con ceros.
+                zona = cf_zona_id(token)
+                if zona:
+                    mapa_zona, pag_zona = cf_zona_serie(token, zona, hoy, DIAS)
+                    if mapa_zona:
+                        serie_zona = [
+                            {"fecha": (hoy - timedelta(days=i)).isoformat(),
+                             "visitas": int(mapa_zona.get(
+                                 (hoy - timedelta(days=i)).isoformat(), 0))}
+                            for i in range(DIAS - 1, -1, -1)]
+                        reb_zona = sum(p["visitas"] for p in serie_zona[-3:])
+                        reb_rum = sum(p["visitas"] for p in serie[-3:])
+                        cobertura = (round(100.0 * reb_rum / reb_zona, 1)
+                                     if reb_zona else None)
+                        resultado["zona"] = {
+                            "totales": {"visitas": sum(p["visitas"] for p in serie_zona),
+                                        "paginas": pag_zona},
+                            "serie_diaria": serie_zona,
+                            "cobertura_ultimos_3_dias_pct": cobertura,
+                        }
+                        if reb_zona >= 50 and reb_rum < 10:
+                            respaldo = cf_zona_resultado(
+                                token, hoy, clics_amazon,
+                                "El beacon de Cloudflare Web Analytics está caído "
+                                "(últimos 3 días: %d medidos frente a %d reales en la CDN)."
+                                % (reb_rum, reb_zona),
+                                eventos=eventos, zona=zona, mapa=mapa_zona,
+                                total_paginas=pag_zona)
+                            if respaldo:
+                                resultado = respaldo
+                                print("  ℹ️ beacon caído: fuente = analítica de zona.",
+                                      file=sys.stderr)
+                        elif cobertura is not None and cobertura < 50:
+                            resultado["mensaje"] += (
+                                " Ojo: el beacon solo ve el %s %% del tráfico real "
+                                "de la CDN (incluye bots)." % cobertura)
 
     else:
         # Sin Cloudflare pero con Umami: usar lo que haya.
