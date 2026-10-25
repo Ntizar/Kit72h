@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-25T21:39:57+01:00",
+  "actualizado": "2026-10-25T21:50:09+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "España sigue sin kit de supervivencia mientras Europa se prepara para la guerra",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWJrY2w3bTNWdk5SdHJFQjBoVEJDQ0tEY0h1VGVuU2twRXZKUTlTWWZhcVFDWUxEWTlkMlZjM1JaTHhMNlBrekpZU3FxMWRzRDlzaENhbTJMUzBKakd6VThtSk9ldkZWZVpRRHZSeEdYbjlGaUtVRVY3MnFqRno5N0dObkMtdDVadTJZOXkySXplMjVnT3B1WWpadk5oc1I5ZnNKNGRGSQ?oc=5",
+     "fuente": "BilbaoHiria",
+     "resumen": "",
+     "fecha": "2026-10-25T21:38:25+01:00",
+     "fecha_txt": "25 oct"
+    },
     {
      "titulo": "Reino Unido pide preparar un kit de emergencia para sobrevivir 72 horas: la lista de productos que recomienda tener en casa",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmFQcWVMUWlHdjFYejM5UFVQcW9nZGVvaGZjRHdqZkFnMGsxazgtamtEdFpURHRjbDZ1bURBLWFmU1ZoTmxxNC1FTVBEN2pVV25DV0VJZlJ2ZUIxS0F2WTJHYVg0R0JSdEZ0ZWZIbG9tVGpvUlNjYXhXbEhFSGZpYVJ6V01OajhIaUxpbjZLekY5R21Ud1l0ZnE0cnQ1Z09weWo3YzVLLUhTV2p6U2NFMGkzOTNGOG1aOTQ4a05vSll2LTI1YTlBZUpZZ0RYQUEwV1RCYjJWYkjSAd4BQVVfeXFMUGFzWVNHVW80cEpGdlFObDQxb0VwelZvZ0FzMkVKcXFPVmY1cnZuMjZILWtrWXZuRFpmV3RxOGlyaVdlOFZlNTlGVWRYMXhtZ0lhdUFOTXNtSW90akFKSXpoRXhPOUx2TXdfQ2V6SXkzR3JHQy1od3dIVmtOT2tIYWFMcE9JR1Z1azVNc0swVTJlQ0M5OUJaamJLSGpFYmk4NVY0MzNBVXBvSFdCZ3g5cktWb2pPN01XdHNQVS1CRWkwWGk1UnBXN0NYMTdFVmtZLV82dTVFQnVWZjBXUGln?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-23T17:49:24+02:00",
      "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "Reino Unido avisa discretamente a sus ciudadanos de que se preparen para lo peor e insta a los hogares a tener suministros para una emergencia nacional",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOTnhMQklibHFoVHZLeGM5UUx3eW9uV3k0N3Vza0h1ZEs3YlpmMWprWnI2VlJXNTJ2dTdXYmg5ZTVkZVlkRVdVSnduU3RzUGlBMEtBUHZmaXVGaXBhSUw0UTVvSExLWUlwTm10X0duM2ctQ1ZrdnM1b1lRdjNPbUd2QjNoa1NBb2xZTnFWMjROSnhjMU1HS21VcVQwT2NNRS1XeDBoZVhfeE1tS1BXWFhPMFZqdjBkZGdMaFVFQ3RoX081TXRNa2wxTHd4WWczWEZBbVhmWlJXdnFNelBpZUtiZTNKS0FnNzNVdWwtRkNrTk9vN0N6azhyRDFmRTRYVmQ2NGlIVXE5b3E4OTdKRFZCS2xMRnBmc0ZjVHNmNWhvVE1SSmh3a0NLQUh4bjZ2UWJmejl5Q1E5MGdIeDJyN2M5StIBqwJBVV95cUxOYjd2YzZLY1E5aDFWRjRJMDZXTDBtTEtLOTV3ZW81Sm05eHhUNjgtZVo1elg0Zlk5Y3RkNDNwMVFOSy1yUF9hR3dDT0Nsbmx6SmVGTlZXOWlnam5JRk9uSmhqSWY2SzlZdGFVYy16WVlldTZpdlpTVHdCWl9JWVltb2JVWTFvb2JQMmRoMXVhNHNaRVVEaS11eFZleU9jWWxaYmNfUlVUSmRuWjB2Y1h2ejlId1FOQmNSWG54aHNULUpxOHVFQkxkNGItTVhHUnhOY0xHc09teDdFUTdmR2xiU2ZIUHY1SEdBTFM4TDhTMWZjMFhWNmxkYm9LUDVyNHBjZFpIdkd0OTg0cUFnX293V2F2RzN5TVJxaUc3QmNXa2U2OFBLZWEyT2h0cw?oc=5",
-     "fuente": "El Economista",
-     "resumen": "",
-     "fecha": "2026-10-23T15:51:15+02:00",
-     "fecha_txt": "23 oct"
     }
    ]
   },
@@ -123,14 +123,6 @@
      "fecha_txt": "21 oct"
     },
     {
-     "titulo": "Vivienda, incendios y \"megaproyectos\" como los previstos en Zamora: los \"problemas\" que unen a la Revuelta de la España Vaciada",
-     "url": "https://www.laopiniondezamora.es/comarcas/2026/10/21/vivienda-incendios-megaproyectos-previstos-zamora-135578356.html",
-     "fuente": "La Opinión de Zamora",
-     "resumen": "La Federación Coordinadora Rural Zamora participa este fin de semana en la asamblea general del movimiento, que analizará las carencias de los pueblos y las nuevas 'amenazas' ...",
-     "fecha": "2026-10-21T08:53:00+02:00",
-     "fecha_txt": "21 oct"
-    },
-    {
      "titulo": "Almería arde: cerca de 72.000 hectáreas por incendios forestales desde los años 80",
      "url": "https://www.diariodealmeria.es/provincia/almeria-incendios-forestales-historico_0_2008307661.html",
      "fuente": "Diario de Almería",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-10-21T05:30:22+02:00",
      "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "El fuego arrasa durante 2026 casi 280.000 hectáreas forestales en España, 2,5 veces la media del último decenio",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzdU02ZFJZUUtBbEpkYXAtZFJ5UXhDanpqU3JsT3h0Q1hlbGktZlBVUy1aRzJpWmlTcTFkMW0zUTQxdTQwU1dlUnFKZndmRWNrWmhkZzlwMkN4c3lscDNZMXEzcUVhZkxnV3dpbE9ISDdlRVE?oc=5",
+     "fuente": "EFE Verde",
+     "resumen": "",
+     "fecha": "2026-10-20T13:21:57+02:00",
+     "fecha_txt": "20 oct"
     }
    ]
   },
@@ -159,14 +159,6 @@
      "fuente": "Antena 3",
      "resumen": "Los depósitos reducen el estrés del alcantarillado y depuran el agua almacenada, consiguiendo contaminar menos los ríos y playas ...",
      "fecha": "2026-10-25T09:51:00+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "El nuevo Patricova amplía las zonas de riesgo de inundación y revisa dónde se puede construir en la Comunitat Valenciana",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-nuevo-patricova-ampl%C3%ADa-las-zonas-de-riesgo-de-inundaci%C3%B3n-y-revisa-d%C3%B3nde-se-puede-construir-en-la-comunitat-valenciana/ar-AA2g1nSe",
-     "fuente": "Moncloa on MSN",
-     "resumen": "El nuevo Patricova redibuja el riesgo de inundación en la Comunitat Valenciana y abre el debate sobre demoler miles de viviendas en suelo inundable. La entrada El nuevo Patricova amplía las zonas de r ...",
-     "fecha": "2026-10-25T05:42:32+01:00",
      "fecha_txt": "25 oct"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-10-24T03:29:00+02:00",
      "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Dana Adam: cómo solicitar una indemnización al Consorcio de Compensación de Seguros por los daños",
+     "url": "https://www.cronista.com/espana/actualidad-es/dana-adam-como-solicitar-una-indemnizacion-al-consorcio-de-compensacion-de-seguros-por-los-danos/",
+     "fuente": "El Cronista",
+     "resumen": "Las personas afectadas por la dana Adam ya pueden solicitar una indemnización al Consorcio de Compensación de Seguros, que hasta el momento acumula miles de pedidos provenientes principalmente de la ...",
+     "fecha": "2026-10-23T07:10:00+02:00",
+     "fecha_txt": "23 oct"
     }
    ]
   },
