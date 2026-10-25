@@ -168,9 +168,245 @@
     ],
     "ultima_revision": "2026-09-28",
     "nota_revision": "2026-09-28 — EDITOR NOCTURNO: kit-hogar ampliado con 4 productos reales que faltaban. Hueco detectado: un kit de confinamiento no tenía ninguna fuente de luz, radio ni energía. Seccion nueva «Luz, energía y comunicación» con linterna LED a pilas/dinamo, radio FM/AM a pilas o dinamo (la guia ya pedia escuchar la radio oficial dos veces al día sin que existiera el aparato) y powerbank de 10.000-20.000 mAh. Anadido a «Cocina sin electricidad» un detector de monóxido de carbono a pilas: el kit recomienda hornillo de butano dentro de casa y no había ninguna protección frente al CO. Los 4 apuntan a busqueda de Amazon (es_busqueda: true): no se inventan fichas /dp/. 4 consejos nuevos en la guia (antes: prueba trimestral y pilas de repuesto, powerbank con cambio de hora; durante: ventilacion con combustion y modo ahorro; despues: reponer el mismo dia y apuntar lo que faltó) y 2 errores nuevos (movil como linterna; pilas guardadas dentro de los aparatos). coste_total recalculado. paraQuien, paraQuien_no y resumen revisados: siguen exactos, sin cambios. // 2026-09-27 — VIGILANCIA 18ª: las 4 fuentes del encargo comparadas con scripts/vigilar-fuentes.py contra el snapshot del 26/09. eu-resilience-and-security_es sigue en 404 (la URL vigente de la Estrategia es preparedness_es, ya reflejada en meta.fuentes). preparedness_es, recomendaciones, lluvias-intensas y altas-temperaturas (HTTP 200): hashes IDENTICOS al snapshot del 26/09 — 0 lineas anadidas, 0 borradas. Vigilancia normativa y de novedades: (1) Baliza V-16 — sin cambios: Newtral (22/09/2026) desmonta el bulo de que la reforma del Reglamento General de Circulacion en vigor el 01/10/2026 (RD 518/2026) elimine la V-16; la obligatoriedad sigue igual y la DGT lo confirma. Kit-coche ya cubre ambas cosas. (2) UE: el discurso SOTEU de septiembre de 2026 de von der Leyen menciona preparacion, coordinacion civil-militar y una futura flota europea de extincion de incendios, pero NO modifica la guia de autosuficiencia de 72 h (marzo 2025) ni las listas para ciudadanos; preparedness_es sin cambios. (3) Proteccion Civil: nota del 15/09/2026 — el Consejo de Ministros declara 112 zonas afectadas gravemente por emergencias en catorce comunidades (serie sismica de Granada, incendios forestales, lluvias e inundaciones en Cataluna) — es gestion post-emergencia y ayudas, no nuevas recomendaciones ciudadanas. No toca kits. (4) Las cuatro Directrices Basicas de abril de 2026 (BOE-A-2026-9158/9159/9160), con ES-Alert consolidado, siguen siendo la novedad de referencia y ya estan citadas en meta.fuentes, kit basico y kit DANA. Cero cambios en los 12 kits; solo metadatos de revision.2026-09-26 — EDITOR NOCTURNO: kit-apagon ampliado con 4 productos reales que faltaban y una sección nueva «Seguridad durante el corte» (detector de monóxido de carbono a pilas + extintor de polvo ABC), acumuladores de frío congelables en «Cocina sin electricidad» y un SAI/UPS de 600-900 VA para router y ONT en «Dinero y comunicación». Los 4 apuntan a búsqueda de Amazon (es_busqueda: true): no se inventan fichas /dp/. 7 consejos nuevos en la guía (antes: gel congelado y test del detector/extintor; durante: cero combustión en recintos cerrados, orden de descongelación de la nevera y apagar todo menos el router; después: ventilar la estancia y reponer pilas, velas y gel). coste_total recalculado. paraQuien, paraQuien_no y errores revisados: siguen exactos, sin cambios.2026-09-26: decimoséptima vigilancia — las 4 fuentes del encargo comparadas contra snapshots del 25/09. eu-resilience-and-security_es sigue en 404 (la URL vigente de la Estrategia es preparedness_es, ya reflejada en meta.fuentes). preparedness_es, recomendaciones, lluvias-intensas y altas-temperaturas (HTTP 200): hashes IDÉNTICOS al snapshot del 25/09 — cero cambios sustantivos. Vigilancia normativa: (1) Baliza V-16 — sin cambios de facto: la enmienda parlamentaria (Vox) para mantener triángulos como alternativa sigue en tramitación sin aprobación; la DGT la rechaza y el RD 159/2021 sigue vigente: la V-16 conectada homologada es el único medio legal desde el 1/1/2026 (nota DGT 25/11/2025; prensa 12-13/09/2026 confirma «no hay marcha atrás»). No toca kits. (2) OTAN (sept. 2026) ha actualizado sus requisitos de resiliencia civil en 7 áreas (gobierno, energía, movimientos de población, alimentos y agua, sanidad, comunicaciones, transporte) y la UE mantiene la petición de autosuficiencia de 72 h: es presión geopolítica que refuerza el mensaje del kit básico, no cambia las listas oficiales de la Comisión ni de Protección Civil. No toca kits. (3) Campañas autonómicas (Generalitat de Catalunya, Comunidad de Madrid) difunden el kit básico con los mismos elementos (agua 1,5-3 L/persona/día, radio, linterna, botiquín, docs, efectivo) — sin productos nuevos que no estén ya en kits.json. No toca kits. CAMBIOS APLICADOS: ninguno en kits — solo fecha de revisión y nota. Todo en orden. // 2026-09-25 — EDITOR NOCTURNO: kit-dana ampliado con una sección nueva «Comunicación y avisos: cuando cae la red» (radio FM/AM a pilas o dinamo, walkie-talkies PMR446, batería externa 10.000-20.000 mAh y mascarilla FFP2 + gafas de protección para la limpieza post-inundación; los 4 apuntan a búsqueda de Amazon con es_busqueda: true, sin inventar fichas /dp/), 6 consejos nuevos en la guía (antes: avisos AEMET/Meteoalarm y subir el kit a planta alta; durante: abandonar el coche y no bajar al garaje; después: mascarilla al limpiar lodo y confirmar potabilidad del agua con el ayuntamiento), afilado el error de documentar daños con el Consorcio y corregida la errata «la priorida» en paraQuien_no. Nada borrado. // 2026-09-25: decimosexta vigilancia — eu-resilience-and-security_es sigue en 404 (URL vigente: preparedness_es). preparedness_es (HTTP 200): único diff = banner de menú «La Comisión Europea se moderniza» retirado del chrome; cuerpo sustantivo intacto (Estrategia de la Unión de la Preparación, autosuficiencia 72 h). recomendaciones, lluvias-intensas y altas-temperaturas (HTTP 200): hash idéntico al snapshot del 24/09 — sin cambios. Vigilancia normativa: RD 518/2026, de 24 de junio (BOE-A-2026-13889) entra en vigor el 1/10/2026. Verificado en el BOE: anexo XII del Reglamento General de Vehículos exige chaleco reflectante de alta visibilidad como dotación obligatoria en motocicletas; art. 123 del RGC obliga a los peatones en calzada/arcén de vías interurbanas de noche o con visibilidad reducida a llevar elemento luminoso o reflectante visible a 150 m; art. 32 del RGC: en autopista/autovía con nieve que dificulte la circulación, prohibido adelantar y obligatorio el carril derecho, libres los izquierdos para quitanieves y emergencias. La baliza V-16 se mantiene como único dispositivo de señalización obligatorio (sin cambios). CAMBIOS APLICADOS: añadido chaleco reflectante al kit coche (dotación moto), regla de nieve al kit coche, elemento reflectante peatonal + recomendación 'durante' al kit evacuación — todos citando el RD y su fecha. // 2026-09-24: decimoquinta vigilancia — las 4 fuentes del encargo responden y se comparan contra snapshots del 23/09. eu-resilience-and-security_es sigue en 404 (la URL vigente de la Estrategia es preparedness_es, ya reflejada en meta.fuentes). preparedness_es (HTTP 200): mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; diff de líneas sustantivas vacío (solo reflujo del menú multiidioma UE). recomendaciones (HTTP 200): misma clasificación FMA (tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas) — el único diff es una línea duplicada de menú; sin listas nuevas. lluvias-intensas y altas-temperaturas (HTTP 200): diffs solo tipográficos (espacio antes de dos puntos/paréntesis en 4 frases); umbrales de intensidad (15-30/30-60/>60 mm/h) y definición de ola de calor (3 días sobre percentil 95, serie 1981-2010) intactos. Vigilancia normativa V-16: sin cambios — baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); Maldita (23/09/2026) desmiente el bulo de que la DGT la elimina el 1/10: la reforma del Reglamento no la menciona y la DGT lo califica de «rotundamente falso». CAMBIO APLICADO: RD 518/2026, de 24 de junio (BOE-A-2026-13889, en vigor 01/10/2026), además de las medidas ya recogidas el 23/09 en el kit coche, elimina desde el 1/10/2026 las exenciones del cinturón de seguridad a taxistas, conductores de mercancías y monitores de autoescuela (art. 119.2 RGC; única excepción: pacientes en ambulancia en servicio de urgencia). Añadida recomendación 'durante' en el kit coche citando el RD y su fecha. Kits y productos: sin otros cambios. // 2026-09-23: decimocuarta vigilancia — las 4 fuentes oficiales responden sin cambios sustantivos. preparedness_es de la Comisión (HTTP 200) mantiene la Estrategia de la Unión de la Preparación y la directriz de autosuficiencia mínima de 72 horas; la URL eu-resilience-and-security_es del encargo sigue dando 404 (la vigente es preparedness_es, ya reflejada en meta.fuentes). proteccioncivil.es: recomendaciones (misma clasificación FMA —tormentas y rayos, vientos fuertes, altas temperaturas, lluvias intensas—, riesgos naturales, antrópicos y tecnológicos), lluvias intensas (umbrales iguales: fuertes 15-30 mm/h, muy fuertes 30-60, torrenciales >60) y altas temperaturas (ola de calor: 3 días consecutivos sobre el percentil 95, serie 1981-2010, mínimamente 10% de estaciones). Diff de contenido empty tras descontar chrome de menú/footer. NOTA TÉCNICA: hashes regenerados el 22/09 con formato de líneas normalizadas ya estable; la diferencia de hashes del 23/09 respecto al 22/09 es solo chrome (selector de idioma UE y bloques de navegación/móvil), líneas sustantivas idénticas. Vigilancia normativa V-16: sin cambios — la baliza V-16 conectada homologada sigue siendo el único dispositivo obligatorio desde el 1/1/2026 (RD 159/2021); la enmienda de Vox sigue en tramitación sin dictamen ni fecha de votación (Maldita, 08/09/2026) y Newtral (22/09/2026) confirma que la reforma del Reglamento General de Circulación no la afecta. CAMBIO APLICADO: nuevo Real Decreto 518/2026, de 24 de junio (BOE-A-2026-13889, publicado 26/06/2026, en vigor 01/10/2026), que modifica el Reglamento General de Circulación en materia de usuarios vulnerables — afecta al kit coche: al rebasar un vehículo inmovilizado por avería o accidente hay que reducir al menos 20 km/h el límite y dejar 1,5 m de separación lateral, y en retenciones los vehículos deben abrir un carril de emergencia central para servicios de asistencia. Añadida recomendación 'durante' en el kit coche citando el RD y su fecha; contenido de los kits y productos sin otros cambios. // EDITOR NOCTURNO 23/09/2026 (editor nocturno): kit-mayores ampliado con 4 productos reales que faltaban —tensiómetro de brazo a pilas (sección Medicación y crónicos), pulsera de identificación médica (Sentidos y ayudas técnicas) y sección nueva 'Higiene, incontinencia y frío' con empapadores/pañales, cuña con asa y manta térmica aluminizada—, 6 consejos nuevos en la guía (antes/durante/después) y un error típico más (no prever la incontinencia sin lavadora). paraQuien, paraQuien_no y el resto de secciones sin cambios. Productos nuevos apuntan a búsqueda de Amazon (es_busqueda: true): no se inventan fichas /dp/.",
-    "revision": 3
+    "revision": 3,
+    "total": 21
   },
   "kits": [
+    {
+      "id": "suiza",
+      "titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+      "slug": "kit-suiza",
+      "icono": "🇨🇭",
+      "bandera": "ch",
+      "resumen": "La lista que el Estado suizo recomienda tener en casa, traducida y comprada en España: 9 litros de agua por persona, comida para una semana, radio, hornillo, mascarillas y efectivo. Desde 120 €.",
+      "fuente": {
+        "nombre": "BWL / FONES (Suiza) — Emergency supplies, folleto oficial",
+        "url": "https://www.bwl.admin.ch/en/we-advise-emergency-supplies",
+        "fecha": "2025-10-13"
+      },
+      "guia": {
+        "antes": [
+          "Cuenta el agua con la regla suiza: 9 litros por persona, y súmale la mascota y el calor de tu zona",
+          "Rota la comida: la reserva es comida normal que comes y repones, no un armario aparte que caduca",
+          "Comprueba la fecha de cada garrafa y ponla en el tapón; el agua embotellada también caduca",
+          "Guarda la medicación crónica con receta y en un sitio fresco: es el punto que ningún kit genérico cubre",
+          "Deja el efectivo en billetes pequeños y separado de la cartera del día a día",
+          "Prueba el hornillo y la radio una vez al año, con pilas nuevas"
+        ],
+        "durante": [
+          "Bebe antes de tener sed: el agua es el primer suministro que falla y el que peor se improvisa",
+          "Escucha la radio oficial dos veces al día; es el canal que sigue vivo cuando la red móvil cae",
+          "Cocina de día y con ventilación: el hornillo de gas dentro de casa mata por monóxido si no hay aire",
+          "Raciona mascarillas y desinfectante si hay que salir o limpiar zonas contaminadas",
+          "No abras la nevera sin necesidad: cada apertura pierde horas de frío"
+        ],
+        "despues": [
+          "Repón lo consumido en la misma semana, no 'algún día': una reserva a medias no es una reserva",
+          "Revisa fechas y anota lo que se caducó sin usar (suele ser lo que no te gusta comer)",
+          "Lava el hornillo, seca las pilas y guarda todo donde lo encontraste la primera vez"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Agua: 9 litros por persona que no dependen del grifo",
+          "intro": "Es la cifra más concreta de toda la lista suiza y la que más gente incumple sin saberlo. Nueve litros son un pack de seis botellas de 1,5 L: bebida y cocina para unos días, sin contar higiene.",
+          "items": [
+            {
+              "producto": "Garrafas de agua de 8 litros (dos por persona)",
+              "descripcion": "La forma práctica de guardar 16 litros sin ocupar la cocina. Se apilan, se rotan y no dependen del grifo.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Agua embotellada para rotar cada 6 meses",
+              "descripcion": "Reserva de uso diario que se consume y se repone: así el agua nunca caduca en el armario.",
+              "precio_aprox": "2-5 €",
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/dp/B01DUW98CA?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Pastillas potabilizadoras de agua",
+              "descripcion": "Convierte agua dudosa en agua bebible. Es lo que separa 9 litros de una semana entera cuando el suministro vuelve turbio.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0GMXX2G9S?tag=ntizar-21",
+              "es_busqueda": false
+            }
+          ]
+        },
+        {
+          "titulo": "Comida para siete días (no para tres)",
+          "intro": "Suiza pide una semana de alimentos normales: arroz, pasta, aceite, conservas, leche UHT, fruta seca, chocolate. Nada de raciones especiales; comida que ya comes, para poder rotarla.",
+          "items": [
+            {
+              "producto": "Conservas variadas (15-20 latas)",
+              "descripcion": "La base que se come sin cocinar y sin frío. Alterna pescado, legumbre y verdura para no comer siempre lo mismo.",
+              "precio_aprox": "1-3 €/lata",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B09TBGX1MK?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Arroz parboiled (pack de 2 kg)",
+              "descripcion": "Aguanta años, llena y solo necesita agua y calor. Con el hornillo se cocina igual que en casa.",
+              "precio_aprox": "~3 €/pack",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0CG9R782W?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Pastas, arroz y legumbres en paquetes",
+              "descripcion": "Surtido de despensa para completar la semana sin depender de la nevera.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0H3WC3R53?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Abreconservas manual",
+              "descripcion": "El detalle que arruina una despensa perfecta: sin abrelatas, las latas no se abren.",
+              "precio_aprox": "3-8 €",
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/dp/B00B2N8IFS?tag=ntizar-21",
+              "es_busqueda": false
+            }
+          ]
+        },
+        {
+          "titulo": "Cocina sin red eléctrica",
+          "intro": "Suiza lo dice explícitamente: hornillo de gas. Guardar comida y no tener con qué calentarla es el error más común de las reservas domésticas.",
+          "items": [
+            {
+              "producto": "Hornillo de camping a gas con bombonas",
+              "descripcion": "Café, arroz y conservas calientes sin luz. Con bombonas de repuesto y usado siempre ventilado.",
+              "precio_aprox": "20-45 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0CRN5KNCT?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Estufa de gas butano (para casa)",
+              "descripcion": "Si tienes sitio, la estufa doméstica da autonomía de semanas con una bombona. Nunca dentro de un dormitorio cerrado.",
+              "precio_aprox": "~84 €",
+              "prioridad": "extra",
+              "afiliado": "https://www.amazon.es/dp/B01M1NCHK8?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Encendedores y cerillas largas",
+              "descripcion": "El mechero se gasta y no enciende boca abajo. Las cerillas largas alcanzan el quemador sin quemarte.",
+              "precio_aprox": "5-10 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21",
+              "es_busqueda": false
+            }
+          ]
+        },
+        {
+          "titulo": "Luz y avisos oficiales",
+          "intro": "Cuando cae la red móvil, la radio sigue emitiendo. Es el motivo por el que está en la lista suiza junto a las pilas de repuesto, y no el móvil.",
+          "items": [
+            {
+              "producto": "Radio FM/AM a pilas (avisos oficiales)",
+              "descripcion": "El canal de información que sobrevive a un apagón. Sintoniza antes las emisoras útiles y apunta la frecuencia.",
+              "precio_aprox": "12-25 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B06XWZ41RT?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Linterna LED con pilas de repuesto",
+              "descripcion": "Moverse por casa sin gastar la batería del teléfono, que es la que necesitas para llamar.",
+              "precio_aprox": "10-20 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Linterna frontal",
+              "descripcion": "Manos libres para cocinar, arreglar o bajar al garaje. Con el apagón, esto marca la diferencia.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=ntizar-21",
+              "es_busqueda": false
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y salud: las 50 mascarillas y la medicación",
+          "intro": "El dato suizo que más sorprende: 50 mascarillas por persona. Se añadió tras la pandemia porque una crisis sanitaria también deja a la gente sin suministros. En casa, 20 FFP2 cubren el escenario doméstico.",
+          "items": [
+            {
+              "producto": "Mascarillas FFP2 (pack)",
+              "descripcion": "Para salir, limpiar zonas contaminadas o convivir con un enfermo sin red sanitaria.",
+              "precio_aprox": "8-15 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0GM1QQW1C?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Botiquín completo (222 piezas)",
+              "descripcion": "Cortes, quemaduras del hornillo y golpes son las urgencias reales de un apagón, no las catástrofes de película.",
+              "precio_aprox": "~24 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0D9M3CWMW?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Desinfectante de superficies",
+              "descripcion": "Agua racionada significa menos limpieza: el desinfectante compensa.",
+              "precio_aprox": "5-12 €",
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/dp/B0CNTLKPLS?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Medicación crónica: una semana de tu tratamiento",
+              "descripcion": "El punto más personal de la lista y el único que no se compra en un pack. Con receta, en sitio fresco y con la caducidad a la vista.",
+              "precio_aprox": "según tratamiento",
+              "prioridad": "esencial",
+              "sin_enlace": true
+            }
+          ]
+        },
+        {
+          "titulo": "Lo que Suiza apunta y casi nadie copia",
+          "intro": "Efectivo, batería y comida de la mascota. Son tres líneas del folleto suizo que no aparecen en casi ninguna lista española y que en un apagón real se notan el primer día.",
+          "items": [
+            {
+              "producto": "Powerbank de 10.000-20.000 mAh",
+              "descripcion": "Mantiene el teléfono vivo un día entero y carga la radio si es recargable. Cárgalo el mismo día que revises la reserva.",
+              "precio_aprox": "15-35 €",
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/dp/B0HC4PGSVV?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Comida extra para la mascota",
+              "descripcion": "Si tienes perro o gato, su semana de comida cuenta igual que la tuya. Casi nadie la incluye.",
+              "precio_aprox": "5-15 €",
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/dp/B0FP5RJ53N?tag=ntizar-21",
+              "es_busqueda": false
+            },
+            {
+              "producto": "Efectivo en billetes pequeños",
+              "descripcion": "Cuando los datáfonos y cajeros no responden, el efectivo sigue comprando. Sesenta euros en billetes de 10 y 20.",
+              "precio_aprox": "50-100 €",
+              "prioridad": "recomendado",
+              "sin_enlace": true
+            }
+          ]
+        }
+      ],
+      "paraQuien": "Para quien quiere una reserva doméstica con números, no con buenas intenciones: la lista oficial suiza traducida a un piso español, con cantidades, precios y qué rotar cada seis meses.",
+      "paraQuien_no": "No es un kit de evacuación ni de mochila: es una reserva para quedarte en casa. Si tu plan es salir de la ciudad con lo puesto, necesitas el kit de evacuación. Y no sustituye a la medicación ni al plan familiar.",
+      "coste_total": "120-260 € por persona para 7 días (menos si rotas lo que ya comes)",
+      "busc": "kit reserva emergencia 7 dias agua comida hornillo"
+    },
     {
       "id": "basico-72h",
       "titulo": "Kit 72h Básico: 16 esenciales de la UE (2026)",

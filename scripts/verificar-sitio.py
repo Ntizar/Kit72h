@@ -149,14 +149,14 @@ def validar_kits_json(raiz: Path) -> list[dict]:
                 if not (it.get("precio_aprox") or "").strip():
                     avi(f"kit '{slug}' secc.{si} '{prod[:40]}': item sin precio_aprox")
                 enlace = it.get("afiliado") or it.get("busqueda")
-                if not enlace:
+                if not enlace and not it.get("sin_enlace"):
                     # Hay items legítimamente no comprables (medicación con receta,
                     # acuerdos, consejos). El render los pinta como «no se compra
                     # online». No es un error; el invariante real está en la ficha
                     # (debe tener compra), que se valida en validar_ficha_generada.
                     avi(f"kit '{slug}' secc.{si} '{prod[:40]}': item sin enlace "
                         f"(consejo/no comprable — marcar 'sin_enlace': true)")
-                elif "amazon." in enlace and f"tag={TAG}" not in enlace:
+                elif enlace and "amazon." in enlace and f"tag={TAG}" not in enlace:
                     err(f"kit '{slug}' secc.{si} '{prod[:40]}': enlace sin tag={TAG}")
         # Un kit debe ser comprable: si casi nada tiene enlace, es media página.
         con_enlace = sum(1 for s in secciones for it in (s.get("items") or [])

@@ -4,6 +4,35 @@ Fuente: https://kit72h.com · Guía independiente de preparación civil.
 
 ## Kits
 
+### Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona) — https://kit72h.com/kit/kit-suiza/
+La lista que el Estado suizo recomienda tener en casa, traducida y comprada en España: 9 litros de agua por persona, comida para una semana, radio, hornillo, mascarillas y efectivo. Desde 120 €.
+**Agua: 9 litros por persona que no dependen del grifo**
+- Garrafas de agua de 8 litros (dos por persona): La forma práctica de guardar 16 litros sin ocupar la cocina. Se apilan, se rotan y no dependen del grifo. (~5-15 €)
+- Agua embotellada para rotar cada 6 meses: Reserva de uso diario que se consume y se repone: así el agua nunca caduca en el armario. (~2-5 €)
+- Pastillas potabilizadoras de agua: Convierte agua dudosa en agua bebible. Es lo que separa 9 litros de una semana entera cuando el suministro vuelve turbio. (~8-15 €)
+**Comida para siete días (no para tres)**
+- Conservas variadas (15-20 latas): La base que se come sin cocinar y sin frío. Alterna pescado, legumbre y verdura para no comer siempre lo mismo. (~1-3 €/lata)
+- Arroz parboiled (pack de 2 kg): Aguanta años, llena y solo necesita agua y calor. Con el hornillo se cocina igual que en casa. (~~3 €/pack)
+- Pastas, arroz y legumbres en paquetes: Surtido de despensa para completar la semana sin depender de la nevera. (~10-20 €)
+- Abreconservas manual: El detalle que arruina una despensa perfecta: sin abrelatas, las latas no se abren. (~3-8 €)
+**Cocina sin red eléctrica**
+- Hornillo de camping a gas con bombonas: Café, arroz y conservas calientes sin luz. Con bombonas de repuesto y usado siempre ventilado. (~20-45 €)
+- Estufa de gas butano (para casa): Si tienes sitio, la estufa doméstica da autonomía de semanas con una bombona. Nunca dentro de un dormitorio cerrado. (~~84 €)
+- Encendedores y cerillas largas: El mechero se gasta y no enciende boca abajo. Las cerillas largas alcanzan el quemador sin quemarte. (~5-10 €)
+**Luz y avisos oficiales**
+- Radio FM/AM a pilas (avisos oficiales): El canal de información que sobrevive a un apagón. Sintoniza antes las emisoras útiles y apunta la frecuencia. (~12-25 €)
+- Linterna LED con pilas de repuesto: Moverse por casa sin gastar la batería del teléfono, que es la que necesitas para llamar. (~10-20 €)
+- Linterna frontal: Manos libres para cocinar, arreglar o bajar al garaje. Con el apagón, esto marca la diferencia. (~8-15 €)
+**Higiene y salud: las 50 mascarillas y la medicación**
+- Mascarillas FFP2 (pack): Para salir, limpiar zonas contaminadas o convivir con un enfermo sin red sanitaria. (~8-15 €)
+- Botiquín completo (222 piezas): Cortes, quemaduras del hornillo y golpes son las urgencias reales de un apagón, no las catástrofes de película. (~~24 €)
+- Desinfectante de superficies: Agua racionada significa menos limpieza: el desinfectante compensa. (~5-12 €)
+- Medicación crónica: una semana de tu tratamiento: El punto más personal de la lista y el único que no se compra en un pack. Con receta, en sitio fresco y con la caducidad a la vista. (~según tratamiento)
+**Lo que Suiza apunta y casi nadie copia**
+- Powerbank de 10.000-20.000 mAh: Mantiene el teléfono vivo un día entero y carga la radio si es recargable. Cárgalo el mismo día que revises la reserva. (~15-35 €)
+- Comida extra para la mascota: Si tienes perro o gato, su semana de comida cuenta igual que la tuya. Casi nadie la incluye. (~5-15 €)
+- Efectivo en billetes pequeños: Cuando los datáfonos y cajeros no responden, el efectivo sigue comprando. Sesenta euros en billetes de 10 y 20. (~50-100 €)
+
 ### Kit 72h Básico: 16 esenciales de la UE (2026) — https://kit72h.com/kit/kit-basico-72h/
 Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
 **Agua e hidratación**
@@ -932,7 +961,7 @@ Cuánta agua y comida guardar en casa: las cantidades oficiales de Suiza (y lo q
  Copia la idea de fondo: una lista cerrada, con cantidades y con fecha de revisión . Eso es lo que convierte la preparación en algo verificable en vez de una intención. Copia también el agua por persona y la semana de comida si tienes sitio.
 
 
- No copies el horizonte tal cual si vives en un piso pequeño: siete días de comida para cuatro personas ocupan una despensa entera. Empieza por 72 horas bien hechas —agua, comida que no necesite frío, radio, luz, botiquín— y amplía a una semana en agua y conservas, que es donde el espacio rinde más. Si quieres la versión ya resuelta, el kit básico de 72 horas cubre lo esencial y el kit de apagón añade lo que solo hace falta cuando no hay red.
+ No copies el horizonte tal cual si vives en un piso pequeño: siete días de comida para cuatro personas ocupan una despensa entera. Empieza por 72 horas bien hechas —agua, comida que no necesite frío, radio, luz, botiquín— y amplía a una semana en agua y conservas, que es donde el espacio rinde más. Si quieres la versión ya resuelta, el kit básico de 72 horas cubre lo esencial y el kit de apagón añade lo que solo hace falta cuando no hay red. Y si quieres la lista suiza completa, con sus cantidades y sus enlaces, ya está montada en el kit suizo de 7 días .
 
 
  Lo que no deberías copiar es la tranquilidad de tenerlo «apuntado en la cabeza». Una reserva que no está contada no existe: el día que la necesitas descubres que tienes seis botellas y medio paquete de arroz. Cuenta las botellas esta noche. Es el único paso de esta lista que no cuesta dinero.

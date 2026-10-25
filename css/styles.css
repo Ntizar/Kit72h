@@ -169,6 +169,30 @@ nav .btn{margin-left:8px}
   width:46px;height:46px;border:var(--b);background:var(--crema);
   display:grid;place-items:center;font-size:22px;flex-shrink:0;
 }
+/* Bandera suiza en SVG (el emoji 🇨🇭 no se pinta en Windows: sale "CH").
+   La bandera real es cuadrada, con la cruz de brazos 6:7. */
+.bandera-ch{display:block;width:100%;height:100%}
+.card-kit .icono--bandera{padding:0;overflow:hidden;background:#DA291C}
+.card-kit .icono--bandera .bandera-ch{border-radius:0}
+.ficha h1 .icono-h1--bandera{
+  display:inline-grid;place-items:center;width:.95em;height:.95em;
+  margin-right:12px;vertical-align:-.08em;
+}
+.banda-suiza{
+  display:flex;align-items:center;gap:14px;margin-top:18px;
+  background:#DA291C;color:#fff;border:var(--b);padding:14px 18px;
+}
+.banda-suiza .bandera-ch{width:46px;height:46px;flex:0 0 46px;border-radius:2px;box-shadow:0 0 0 2px rgba(255,255,255,.45)}
+.banda-suiza b{
+  display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:2px;
+  text-transform:uppercase;opacity:.92;margin-bottom:3px;
+}
+.banda-suiza span{font-size:14px;line-height:1.45}
+@media(max-width:700px){
+  .banda-suiza{padding:12px;gap:10px}
+  .banda-suiza .bandera-ch{width:36px;height:36px;flex-basis:36px}
+  .banda-suiza span{font-size:13px}
+}
 .card-kit .num{
   font-family:var(--mono);font-size:11px;font-weight:700;color:var(--gris);
   letter-spacing:2px;margin-left:auto;

@@ -12,6 +12,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Kits
 
+- [Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)](https://kit72h.com/kit/kit-suiza/): La lista que el Estado suizo recomienda tener en casa, traducida y comprada en España: 9 litros de agua por persona, comida para una semana, radio, hornillo, mascarillas y efectivo. Desde 120 €.
 - [Kit 72h Básico: 16 esenciales de la UE (2026)](https://kit72h.com/kit/kit-basico-72h/): Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
 - [Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)](https://kit72h.com/kit/kit-dana/): Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.
 - [Kit Apagón: 15 artículos para sobrevivir sin luz (2026)](https://kit72h.com/kit/kit-apagon/): Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).

@@ -1,8 +1,8 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
- "generado": "2026-10-02",
- "total_productos": 184,
- "compartidos": 56,
+ "generado": "2026-10-25",
+ "total_productos": 230,
+ "compartidos": 62,
  "productos": {
   "8419436623": {
    "nombre_canonico": "Huerto urbano (Larousse)",
@@ -206,10 +206,17 @@
    "nombre_canonico": "Abreconservas manual",
    "url": "https://www.amazon.es/dp/B00B2N8IFS?tag=ntizar-21",
    "categorias": [
+    "Comida para siete días (no para tres)",
     "Cocina sin electricidad",
     "Agua y comida sin cocina"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Abreconservas manual",
+     "prioridad": "recomendado",
+     "precio_aprox": "3-8 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Abreconservas manual",
@@ -225,9 +232,10 @@
    ],
    "kits": [
     "kit-hogar",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "3-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -261,6 +269,26 @@
    "precio_ref": "20-45 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B00EVMWKPQ": {
+   "nombre_canonico": "Regleta con protección sobretensiones (interruptor)",
+   "url": "https://www.amazon.es/dp/B00EVMWKPQ?tag=ntizar-21",
+   "categorias": [
+    "Control y seguridad eléctrica"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Regleta con protección sobretensiones (interruptor)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €"
   },
   "B00F2NGYAU": {
    "nombre_canonico": "Azada, rastrillo y desbrozadora manual",
@@ -341,6 +369,26 @@
    "precio_ref": "5-12 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B00RD0KTZQ": {
+   "nombre_canonico": "Mochila de agua a presión (16-20 L)",
+   "url": "https://www.amazon.es/dp/B00RD0KTZQ?tag=ntizar-21",
+   "categorias": [
+    "Defender la casa si aún hay tiempo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Mochila de agua a presión (16-20 L)",
+     "prioridad": "extra",
+     "precio_aprox": "25-50 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-50 €"
   },
   "B00XA5FJ9E": {
    "nombre_canonico": "Leche en polvo entera 1 kg (Asturiana)",
@@ -456,11 +504,18 @@
    "nombre_canonico": "Agua embotellada (renovar cada 6 meses)",
    "url": "https://www.amazon.es/dp/B01DUW98CA?tag=ntizar-21",
    "categorias": [
+    "Agua: 9 litros por persona que no dependen del grifo",
     "Agua e hidratación",
     "Energía y confort",
     "Agua y comida sin cocina"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Agua embotellada para rotar cada 6 meses",
+     "prioridad": "recomendado",
+     "precio_aprox": "2-5 €"
+    },
     {
      "kit": "kit-basico-72h",
      "producto": "Botella o garrafa de agua (3 L por persona y día)",
@@ -483,12 +538,33 @@
    "kits": [
     "kit-basico-72h",
     "kit-coche",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "2-5 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B01KI70USQ": {
+   "nombre_canonico": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
+   "url": "https://www.amazon.es/dp/B01KI70USQ?tag=ntizar-21",
+   "categorias": [
+    "Llevártelo contigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
+     "prioridad": "recomendado",
+     "precio_aprox": "6-15 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-15 €"
   },
   "B01LX6Q7XS": {
    "nombre_canonico": "Mapa físico de tu zona (papel, no digital)",
@@ -541,13 +617,20 @@
    "precio_ref": "8-20 €"
   },
   "B01M1NCHK8": {
-   "nombre_canonico": "Estufa de gas butano (Orbegozo 4200 W)",
+   "nombre_canonico": "Estufa de gas butano (para casa)",
    "url": "https://www.amazon.es/dp/B01M1NCHK8?tag=ntizar-21",
    "categorias": [
+    "Cocina sin red eléctrica",
     "Cocinar y calentar sin electricidad",
     "Calefacción sin luz ni gas"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Estufa de gas butano (para casa)",
+     "prioridad": "extra",
+     "precio_aprox": "~84 €"
+    },
     {
      "kit": "kit-30-dias",
      "producto": "Estufa de gas butano (Orbegozo 4200 W)",
@@ -563,9 +646,10 @@
    ],
    "kits": [
     "kit-30-dias",
-    "kit-frio"
+    "kit-frio",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "~84 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -618,10 +702,17 @@
    "nombre_canonico": "Radio FM/AM a pilas (avisos oficiales)",
    "url": "https://www.amazon.es/dp/B06XWZ41RT?tag=ntizar-21",
    "categorias": [
+    "Luz y avisos oficiales",
     "Comunicación y compañía",
     "Salir en 10 minutos"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Radio FM/AM a pilas (avisos oficiales)",
+     "prioridad": "esencial",
+     "precio_aprox": "12-25 €"
+    },
     {
      "kit": "kit-mayores",
      "producto": "Radio a pilas FM con volumen alto y dial grande",
@@ -637,12 +728,33 @@
    ],
    "kits": [
     "kit-incendio",
-    "kit-mayores"
+    "kit-mayores",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "12-25 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B071HT7BQ1": {
+   "nombre_canonico": "SAI (UPS) 3000VA-5000VA online doble conversión",
+   "url": "https://www.amazon.es/dp/B071HT7BQ1?tag=ntizar-21",
+   "categorias": [
+    "SAI (UPS): conmutación instantánea"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "SAI (UPS) 3000VA-5000VA online doble conversión",
+     "prioridad": "esencial",
+     "precio_aprox": "500-800 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "500-800 €"
   },
   "B071NWGL29": {
    "nombre_canonico": "Walkie-talkies PMR446 (pareja con cargador)",
@@ -685,6 +797,26 @@
    "precio_ref": "~11 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B075SFXVQ1": {
+   "nombre_canonico": "Forro polar o jersey de lana",
+   "url": "https://www.amazon.es/dp/B075SFXVQ1?tag=ntizar-21",
+   "categorias": [
+    "Calor corporal: la capa que salva"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-frio",
+     "producto": "Forro polar o jersey de lana",
+     "prioridad": "esencial",
+     "precio_aprox": "15-40 €"
+    }
+   ],
+   "kits": [
+    "kit-frio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-40 €"
   },
   "B07B9KD2JF": {
    "nombre_canonico": "Protector solar SPF 50",
@@ -901,6 +1033,26 @@
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B07NS2VK7J": {
+   "nombre_canonico": "SAI 1500VA online (equipos críticos individuales)",
+   "url": "https://www.amazon.es/dp/B07NS2VK7J?tag=ntizar-21",
+   "categorias": [
+    "SAI (UPS): conmutación instantánea"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "SAI 1500VA online (equipos críticos individuales)",
+     "prioridad": null,
+     "precio_aprox": "200-350 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "200-350 €"
   },
   "B07PDRY2T2": {
    "nombre_canonico": "Cinta y plástico para sellar ventanas",
@@ -1194,6 +1346,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B08J9YCB8M": {
+   "nombre_canonico": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
+   "url": "https://www.amazon.es/dp/B08J9YCB8M?tag=ntizar-21",
+   "categorias": [
+    "Comunicación local: walkies PMR446"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
+     "prioridad": "recomendado",
+     "precio_aprox": "60-120 €"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "60-120 €"
+  },
+  "B08K3K3VBG": {
+   "nombre_canonico": "Bolsa de transporte acolchada (para animales pequeños)",
+   "url": "https://www.amazon.es/dp/B08K3K3VBG?tag=ntizar-21",
+   "categorias": [
+    "Llevártelo contigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Bolsa de transporte acolchada (para animales pequeños)",
+     "prioridad": "extra",
+     "precio_aprox": "15-35 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-35 €"
+  },
   "B08QD2ZXFT": {
    "nombre_canonico": "Nevera portátil pequeña con paquetes fríos reutilizables",
    "url": "https://www.amazon.es/dp/B08QD2ZXFT?tag=ntizar-21",
@@ -1220,12 +1412,19 @@
    "nombre_canonico": "Garrafas de agua 8 L (2 por persona)",
    "url": "https://www.amazon.es/dp/B08S17DS6N?tag=ntizar-21",
    "categorias": [
+    "Agua: 9 litros por persona que no dependen del grifo",
     "Agua y comida",
     "Agua (180 L para 2 personas / 30 días)",
     "Agua y comida para 72 horas",
     "Respirar: el humo mata antes que el fuego"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Garrafas de agua de 8 litros (dos por persona)",
+     "prioridad": "esencial",
+     "precio_aprox": "5-15 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Garrafas de agua 8 L (2 por persona)",
@@ -1255,9 +1454,10 @@
     "kit-30-dias",
     "kit-hogar",
     "kit-incendio",
-    "kit-mascotas"
+    "kit-mascotas",
+    "kit-suiza"
    ],
-   "n_kits": 4,
+   "n_kits": 5,
    "precio_ref": "5-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -1304,6 +1504,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0919WPGR5": {
+   "nombre_canonico": "Nevera/congeladora solar 12V/220V (compresor)",
+   "url": "https://www.amazon.es/dp/B0919WPGR5?tag=ntizar-21",
+   "categorias": [
+    "Conservación de alimentos sin red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Nevera/congeladora solar 12V/220V (compresor)",
+     "prioridad": "esencial",
+     "precio_aprox": "300-600 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "300-600 €"
+  },
   "B094D3JGLT": {
    "nombre_canonico": "Pilas alcalinas surtidas (AA/AAA)",
    "url": "https://www.amazon.es/dp/B094D3JGLT?tag=ntizar-21",
@@ -1341,6 +1561,26 @@
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B094D3K2W9": {
+   "nombre_canonico": "Baterías AA y AAA alcalinas (paquete grande)",
+   "url": "https://www.amazon.es/dp/B094D3K2W9?tag=ntizar-21",
+   "categorias": [
+    "Control y seguridad eléctrica"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Baterías AA y AAA alcalinas (paquete grande)",
+     "prioridad": "esencial",
+     "precio_aprox": "20-35 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-35 €"
   },
   "B096TLBGVS": {
    "nombre_canonico": "Manual del huerto urbano y ecologico para principiantes",
@@ -1538,6 +1778,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B09QGFNB2L": {
+   "nombre_canonico": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
+   "url": "https://www.amazon.es/dp/B09QGFNB2L?tag=ntizar-21",
+   "categorias": [
+    "Energía solar: el sol es tu generador"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
+     "prioridad": null,
+     "precio_aprox": "80-120 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "80-120 €"
+  },
   "B09QSNTH9D": {
    "nombre_canonico": "Cables de arranque y anticongelante con protección hasta -25",
    "url": "https://www.amazon.es/dp/B09QSNTH9D?tag=ntizar-21",
@@ -1562,11 +1822,18 @@
    "nombre_canonico": "Conservas variadas (15-20 latas)",
    "url": "https://www.amazon.es/dp/B09TBGX1MK?tag=ntizar-21",
    "categorias": [
+    "Comida para siete días (no para tres)",
     "Alimentación",
     "Agua y comida",
     "Agua y comida sin cocina"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Conservas variadas (15-20 latas)",
+     "prioridad": "esencial",
+     "precio_aprox": "1-3 €/lata"
+    },
     {
      "kit": "kit-basico-72h",
      "producto": "Conservas y lata de legumbres (comida no perecedera)",
@@ -1589,12 +1856,41 @@
    "kits": [
     "kit-basico-72h",
     "kit-hogar",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "1-3 €/lata",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B09TJJ88LX": {
+   "nombre_canonico": "Walkie-talkies PMR446 (pareja, recargables)",
+   "url": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21",
+   "categorias": [
+    "Comunicación local: walkies PMR446",
+    "Comunicación local: radio amateur y walkies"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Walkie-talkies PMR446 (pareja, recargables)",
+     "prioridad": "esencial",
+     "precio_aprox": "40-80 €"
+    },
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
+     "prioridad": null,
+     "precio_aprox": "100-200 € (pack 4)"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion",
+    "kit-kit-profesional"
+   ],
+   "n_kits": 2,
+   "precio_ref": "40-80 €"
   },
   "B09XJ947XJ": {
    "nombre_canonico": "Juegos de naipes, libro de letra grande o rádio con altavoz",
@@ -1712,6 +2008,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0B711GG7N": {
+   "nombre_canonico": "Router 4G/5G industrial con dual SIM y antenas externas",
+   "url": "https://www.amazon.es/dp/B0B711GG7N?tag=ntizar-21",
+   "categorias": [
+    "Conectividad: Starlink y redundancia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+     "prioridad": "esencial",
+     "precio_aprox": "300-800 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "300-800 €"
+  },
+  "B0B7ZCB89G": {
+   "nombre_canonico": "Velas de emergencia de larga duración (9-12 h)",
+   "url": "https://www.amazon.es/dp/B0B7ZCB89G?tag=ntizar-21",
+   "categorias": [
+    "Luz: iluminación eficiente"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Velas de emergencia de larga duración (9-12 h)",
+     "prioridad": "conviene",
+     "precio_aprox": "10-20 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-20 €"
+  },
   "B0B9C9B8JT": {
    "nombre_canonico": "Botella con asa y boquilla fácil + vaso con tapa",
    "url": "https://www.amazon.es/dp/B0B9C9B8JT?tag=ntizar-21",
@@ -1755,6 +2091,34 @@
    "precio_ref": "10-25 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0BFBZR4KW": {
+   "nombre_canonico": "Messenger satelital (tipo Garmin inReach)",
+   "url": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21",
+   "categorias": [
+    "Escuchar y avisar al exterior",
+    "Último recurso: messenger satelital"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Messenger satelital (tipo Garmin inReach)",
+     "prioridad": "recomendado",
+     "precio_aprox": "250-400 € + 5-25 €/mes"
+    },
+    {
+     "kit": "kit-starlink",
+     "producto": "Messenger satelital (Garmin inReach Mini 3)",
+     "prioridad": "esencial",
+     "precio_aprox": "400 € · 10-40 €/mes"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion",
+    "kit-starlink"
+   ],
+   "n_kits": 2,
+   "precio_ref": "400 € · 10-40 €/mes"
   },
   "B0BG8XYDPR": {
    "nombre_canonico": "Patés variados (45 unidades)",
@@ -1843,6 +2207,26 @@
    "precio_ref": "~8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0BT4WZT3J": {
+   "nombre_canonico": "Transportín rígido o jaula de transporte",
+   "url": "https://www.amazon.es/dp/B0BT4WZT3J?tag=ntizar-21",
+   "categorias": [
+    "Llevártelo contigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Transportín rígido o jaula de transporte",
+     "prioridad": "esencial",
+     "precio_aprox": "25-60 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-60 €"
   },
   "B0BWJYXNK3": {
    "nombre_canonico": "Termo pequeño de boca ancha (350-500 ml)",
@@ -1948,6 +2332,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0C1SB8J2C": {
+   "nombre_canonico": "Frontal LED con pilas AAA (2 unidades)",
+   "url": "https://www.amazon.es/dp/B0C1SB8J2C?tag=ntizar-21",
+   "categorias": [
+    "Luz: iluminación eficiente"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Frontal LED con pilas AAA (2 unidades)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €"
+  },
   "B0C2HQ82L1": {
    "nombre_canonico": "Sustrato universal 80 L (Batlle)",
    "url": "https://www.amazon.es/dp/B0C2HQ82L1?tag=ntizar-21",
@@ -1971,13 +2375,20 @@
    "verificado": "2026-09-28"
   },
   "B0C3B4H4Z5": {
-   "nombre_canonico": "Linterna LED a pilas (con pilas de repuesto)",
+   "nombre_canonico": "Linterna LED con pilas de repuesto",
    "url": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=ntizar-21",
    "categorias": [
+    "Luz y avisos oficiales",
     "Luz y energía",
     "Seguridad eléctrica"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Linterna LED con pilas de repuesto",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    },
     {
      "kit": "kit-basico-72h",
      "producto": "Linterna LED a pilas (con pilas de repuesto)",
@@ -1993,9 +2404,10 @@
    ],
    "kits": [
     "kit-basico-72h",
-    "kit-dana"
+    "kit-dana",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2044,13 +2456,40 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0CF2LJMPP": {
+   "nombre_canonico": "Regulador de carga MPPT 60A",
+   "url": "https://www.amazon.es/dp/B0CF2LJMPP?tag=ntizar-21",
+   "categorias": [
+    "Energía solar: el sol es tu generador"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Regulador de carga MPPT 60A",
+     "prioridad": "esencial",
+     "precio_aprox": "120-180 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "120-180 €"
+  },
   "B0CG9R782W": {
    "nombre_canonico": "Arroz parboiled 1 kg (pack 2)",
    "url": "https://www.amazon.es/dp/B0CG9R782W?tag=ntizar-21",
    "categorias": [
+    "Comida para siete días (no para tres)",
     "Base de despensa (carbohidrato y leche)"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Arroz parboiled (pack de 2 kg)",
+     "prioridad": "esencial",
+     "precio_aprox": "~3 €/pack"
+    },
     {
      "kit": "kit-30-dias",
      "producto": "Arroz parboiled 1 kg (pack 2)",
@@ -2059,9 +2498,10 @@
     }
    ],
    "kits": [
-    "kit-30-dias"
+    "kit-30-dias",
+    "kit-suiza"
    ],
-   "n_kits": 1,
+   "n_kits": 2,
    "precio_ref": "~3 €/pack",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2106,6 +2546,46 @@
    "n_kits": 1,
    "precio_ref": "25-45 €"
   },
+  "B0CH9NJHRJ": {
+   "nombre_canonico": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
+   "url": "https://www.amazon.es/dp/B0CH9NJHRJ?tag=ntizar-21",
+   "categorias": [
+    "Comunicación local: radio amateur y walkies"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
+     "prioridad": null,
+     "precio_aprox": "600-1.200 € (radio + antena)"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "600-1.200 € (radio + antena)"
+  },
+  "B0CHZG1DKF": {
+   "nombre_canonico": "Caja de fusibles y distribución DC para baterías",
+   "url": "https://www.amazon.es/dp/B0CHZG1DKF?tag=ntizar-21",
+   "categorias": [
+    "Baterías de litio LFP: almacena tu energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Caja de fusibles y distribución DC para baterías",
+     "prioridad": "esencial",
+     "precio_aprox": "60-100 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "60-100 €"
+  },
   "B0CJDWWGNG": {
    "nombre_canonico": "Guantes impermeables",
    "url": "https://www.amazon.es/dp/B0CJDWWGNG?tag=ntizar-21",
@@ -2127,6 +2607,26 @@
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0CKMM8GX6": {
+   "nombre_canonico": "Lámpara LED recargable de área (lanterna camping)",
+   "url": "https://www.amazon.es/dp/B0CKMM8GX6?tag=ntizar-21",
+   "categorias": [
+    "Luz: iluminación eficiente"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Lámpara LED recargable de área (lanterna camping)",
+     "prioridad": "esencial",
+     "precio_aprox": "20-40 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-40 €"
   },
   "B0CKW3F157": {
    "nombre_canonico": "Cuerda de paracord 550 (30m)",
@@ -2204,9 +2704,16 @@
    "nombre_canonico": "Desinfectante de superficies",
    "url": "https://www.amazon.es/dp/B0CNTLKPLS?tag=ntizar-21",
    "categorias": [
+    "Higiene y salud: las 50 mascarillas y la medicación",
     "Post-DANA"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Desinfectante de superficies",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-12 €"
+    },
     {
      "kit": "kit-dana",
      "producto": "Desinfectante de superficies",
@@ -2215,9 +2722,10 @@
     }
    ],
    "kits": [
-    "kit-dana"
+    "kit-dana",
+    "kit-suiza"
    ],
-   "n_kits": 1,
+   "n_kits": 2,
    "precio_ref": "5-12 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2264,14 +2772,41 @@
    "n_kits": 1,
    "precio_ref": "15-35 €"
   },
+  "B0CR6BQ6X8": {
+   "nombre_canonico": "Comedero y bebedero plegables de viaje",
+   "url": "https://www.amazon.es/dp/B0CR6BQ6X8?tag=ntizar-21",
+   "categorias": [
+    "Agua y comida para 72 horas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Comedero y bebedero plegables de viaje",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-18 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-18 €"
+  },
   "B0CRN5KNCT": {
    "nombre_canonico": "Hornillo de camping a gas con bombonas",
    "url": "https://www.amazon.es/dp/B0CRN5KNCT?tag=ntizar-21",
    "categorias": [
+    "Cocina sin red eléctrica",
     "Cocina sin electricidad",
     "Calefacción sin luz ni gas"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Hornillo de camping a gas con bombonas",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    },
     {
      "kit": "kit-apagon",
      "producto": "Hornillo de camping a gas con bombonas",
@@ -2294,12 +2829,33 @@
    "kits": [
     "kit-apagon",
     "kit-frio",
-    "kit-hogar"
+    "kit-hogar",
+    "kit-suiza"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "20-45 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0CS2X1RR8": {
+   "nombre_canonico": "Depósito ampliado o conexión a gas natural",
+   "url": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21",
+   "categorias": [
+    "Generador: respaldo cuando no hay sol"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Depósito ampliado o conexión a gas natural",
+     "prioridad": null,
+     "precio_aprox": "200-600 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "200-600 €"
   },
   "B0CSDX8LR8": {
    "nombre_canonico": "Cadenas para nieve o calcetines textiles",
@@ -2360,6 +2916,26 @@
    "precio_ref": "3-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0CTMWQG4T": {
+   "nombre_canonico": "Comida húmeda en lata (aporta agua y la come estresado)",
+   "url": "https://www.amazon.es/dp/B0CTMWQG4T?tag=ntizar-21",
+   "categorias": [
+    "Agua y comida para 72 horas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Comida húmeda en lata (aporta agua y la come estresado)",
+     "prioridad": "recomendado",
+     "precio_aprox": "6-14 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-14 €"
   },
   "B0CVLH49QD": {
    "nombre_canonico": "Bandejas de germinacion (pack 5, 112 alveolos)",
@@ -2485,6 +3061,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0D13383WR": {
+   "nombre_canonico": "Placa de identificación con tu teléfono grabado",
+   "url": "https://www.amazon.es/dp/B0D13383WR?tag=ntizar-21",
+   "categorias": [
+    "Identificación y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Placa de identificación con tu teléfono grabado",
+     "prioridad": "esencial",
+     "precio_aprox": "5-12 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "5-12 €"
+  },
   "B0D3583RGC": {
    "nombre_canonico": "Mini invernadero de 3 niveles (59x39x127 cm)",
    "url": "https://www.amazon.es/dp/B0D3583RGC?tag=ntizar-21",
@@ -2553,10 +3149,17 @@
    "nombre_canonico": "Botiquín completo 222 piezas",
    "url": "https://www.amazon.es/dp/B0D9M3CWMW?tag=ntizar-21",
    "categorias": [
+    "Higiene y salud: las 50 mascarillas y la medicación",
     "Higiene y salud",
     "Botiquín, medicación y heridas"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Botiquín completo (222 piezas)",
+     "prioridad": "esencial",
+     "precio_aprox": "~24 €"
+    },
     {
      "kit": "kit-30-dias",
      "producto": "Botiquín completo 222 piezas",
@@ -2572,9 +3175,10 @@
    ],
    "kits": [
     "kit-30-dias",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "~24 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2727,6 +3331,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0DGK3NZXR": {
+   "nombre_canonico": "Inversor híbrido 3000W-5000W",
+   "url": "https://www.amazon.es/dp/B0DGK3NZXR?tag=ntizar-21",
+   "categorias": [
+    "Energía solar: el sol es tu generador"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Inversor híbrido 3000W-5000W",
+     "prioridad": "esencial",
+     "precio_aprox": "600-900 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "600-900 €"
+  },
   "B0DHGGGK1Q": {
    "nombre_canonico": "Botiquín ligero de trekking",
    "url": "https://www.amazon.es/dp/B0DHGGGK1Q?tag=ntizar-21",
@@ -2800,6 +3424,26 @@
    "precio_ref": "—",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0DHRGY75J": {
+   "nombre_canonico": "Generador inverter 2000-3000W (gasolina o gas)",
+   "url": "https://www.amazon.es/dp/B0DHRGY75J?tag=ntizar-21",
+   "categorias": [
+    "Generador: respaldo cuando no hay sol"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Generador inverter 2000-3000W (gasolina o gas)",
+     "prioridad": "esencial",
+     "precio_aprox": "800-1.500 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "800-1.500 €"
   },
   "B0DJPSJTPY": {
    "nombre_canonico": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
@@ -2973,6 +3617,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0DQSPGGDF": {
+   "nombre_canonico": "Bandeja y arena para gato (o empapadores)",
+   "url": "https://www.amazon.es/dp/B0DQSPGGDF?tag=ntizar-21",
+   "categorias": [
+    "Higiene y descanso"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Bandeja y arena para gato (o empapadores)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €"
+  },
+  "B0DRP2F54D": {
+   "nombre_canonico": "Transportín y correa a mano (mascotas)",
+   "url": "https://www.amazon.es/dp/B0DRP2F54D?tag=ntizar-21",
+   "categorias": [
+    "Animales y personas que no corren solos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Transportín y correa a mano (mascotas)",
+     "prioridad": "esencial",
+     "precio_aprox": "25-60 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-60 €"
+  },
   "B0DRWF7GZL": {
    "nombre_canonico": "Aspirador nasal + suero fisiológico en monodosis",
    "url": "https://www.amazon.es/dp/B0DRWF7GZL?tag=ntizar-21",
@@ -2994,6 +3678,26 @@
    "precio_ref": "4-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0DRWP2LV6": {
+   "nombre_canonico": "Terminal Starlink Gen 3 (residencial / móvil)",
+   "url": "https://www.amazon.es/dp/B0DRWP2LV6?tag=ntizar-21",
+   "categorias": [
+    "Starlink: internet desde cualquier lugar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
+     "prioridad": "esencial",
+     "precio_aprox": "500-1.200 € · 45-60 €/mes"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "500-1.200 € · 45-60 €/mes"
   },
   "B0DT6M79BB": {
    "nombre_canonico": "Empapadores absorbentes",
@@ -3046,6 +3750,26 @@
    "precio_ref": "6-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0F1KH2MR7": {
+   "nombre_canonico": "Batería LiFePO4 100 Ah",
+   "url": "https://www.amazon.es/dp/B0F1KH2MR7?tag=ntizar-21",
+   "categorias": [
+    "Energía: baterías y paneles"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Batería LiFePO4 100 Ah",
+     "prioridad": "conviene",
+     "precio_aprox": "250-400 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "250-400 €"
   },
   "B0F1TQD4C4": {
    "nombre_canonico": "Bolsas estancas para ropa sucia y pañales (pack)",
@@ -3157,6 +3881,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0F84D5PRT": {
+   "nombre_canonico": "Powerbank 10.000-20.000 mAh para los aparatos",
+   "url": "https://www.amazon.es/dp/B0F84D5PRT?tag=ntizar-21",
+   "categorias": [
+    "Escuchar y avisar al exterior"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Powerbank 10.000-20.000 mAh para los aparatos",
+     "prioridad": "esencial",
+     "precio_aprox": "20-40 €"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-40 €"
+  },
+  "B0F8NNTM8V": {
+   "nombre_canonico": "Multímetro digital básico",
+   "url": "https://www.amazon.es/dp/B0F8NNTM8V?tag=ntizar-21",
+   "categorias": [
+    "Control y seguridad eléctrica"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Multímetro digital básico",
+     "prioridad": "conviene",
+     "precio_aprox": "15-25 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-25 €"
+  },
   "B0F8RG1DV6": {
    "nombre_canonico": "Cargador de dinamo multiuso",
    "url": "https://www.amazon.es/dp/B0F8RG1DV6?tag=ntizar-21",
@@ -3210,13 +3974,20 @@
    "verificado": "2026-09-28"
   },
   "B0FB3WSWJ1": {
-   "nombre_canonico": "Linterna frontal y pilas",
+   "nombre_canonico": "Linterna frontal",
    "url": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=ntizar-21",
    "categorias": [
+    "Luz y avisos oficiales",
     "Caídas, noche y seguridad en casa",
     "Salir en 10 minutos"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Linterna frontal",
+     "prioridad": "recomendado",
+     "precio_aprox": "8-15 €"
+    },
     {
      "kit": "kit-mayores",
      "producto": "Linterna de cabecera con cordón/manillla grande",
@@ -3232,12 +4003,33 @@
    ],
    "kits": [
     "kit-incendio",
-    "kit-mayores"
+    "kit-mayores",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0FDWQPRYC": {
+   "nombre_canonico": "Powerbank 20.000-27.000 mAh (con salida AC o PD de 65 W)",
+   "url": "https://www.amazon.es/dp/B0FDWQPRYC?tag=ntizar-21",
+   "categorias": [
+    "Energía: baterías y paneles"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Powerbank 20.000-27.000 mAh (con salida AC o PD de 65 W)",
+     "prioridad": "esencial",
+     "precio_aprox": "35-70 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "35-70 €"
   },
   "B0FF4KS8T1": {
    "nombre_canonico": "Sacos de arena vacíos o barreras de inundación",
@@ -3467,10 +4259,17 @@
    "nombre_canonico": "Comida para mascotas extra",
    "url": "https://www.amazon.es/dp/B0FP5RJ53N?tag=ntizar-21",
    "categorias": [
+    "Lo que Suiza apunta y casi nadie copia",
     "Agua y comida",
     "Agua y comida para 72 horas"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Comida extra para la mascota",
+     "prioridad": "recomendado",
+     "precio_aprox": "5-15 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Comida para mascotas extra",
@@ -3486,9 +4285,10 @@
    ],
    "kits": [
     "kit-hogar",
-    "kit-mascotas"
+    "kit-mascotas",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "5-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -3514,6 +4314,26 @@
    "precio_ref": "5-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0FWRW5F67": {
+   "nombre_canonico": "Correa y arnés de repuesto",
+   "url": "https://www.amazon.es/dp/B0FWRW5F67?tag=ntizar-21",
+   "categorias": [
+    "Llevártelo contigo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mascotas",
+     "producto": "Correa y arnés de repuesto",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mascotas"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €"
   },
   "B0FX9NXD18": {
    "nombre_canonico": "Casquete o gorro de abrigo",
@@ -3575,6 +4395,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0FY65FTYM": {
+   "nombre_canonico": "Panel solar 400W monocristalino (×2 unidades)",
+   "url": "https://www.amazon.es/dp/B0FY65FTYM?tag=ntizar-21",
+   "categorias": [
+    "Energía solar: el sol es tu generador"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Panel solar 400W monocristalino (×2 unidades)",
+     "prioridad": "esencial",
+     "precio_aprox": "400 € (x2)"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "400 € (x2)"
+  },
   "B0FZC1F9NH": {
    "nombre_canonico": "Regadera 6 L con cabezal desmontable",
    "url": "https://www.amazon.es/dp/B0FZC1F9NH?tag=ntizar-21",
@@ -3601,10 +4441,17 @@
    "nombre_canonico": "Encendedores y cerillas largas",
    "url": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21",
    "categorias": [
+    "Cocina sin red eléctrica",
     "Cocina sin electricidad",
     "Calefacción sin luz ni gas"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Encendedores y cerillas largas",
+     "prioridad": "esencial",
+     "precio_aprox": "5-10 €"
+    },
     {
      "kit": "kit-apagon",
      "producto": "Encendedores y cerillas largas",
@@ -3620,9 +4467,10 @@
    ],
    "kits": [
     "kit-apagon",
-    "kit-frio"
+    "kit-frio",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "5-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -3777,6 +4625,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0GDTTG5JP": {
+   "nombre_canonico": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
+   "url": "https://www.amazon.es/dp/B0GDTTG5JP?tag=ntizar-21",
+   "categorias": [
+    "Escuchar y avisar al exterior"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
+     "prioridad": "extra",
+     "precio_aprox": "8-18 €"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-18 €"
+  },
   "B0GGY8TTR2": {
    "nombre_canonico": "Linterna LED a pilas o de dinamo",
    "url": "https://www.amazon.es/dp/B0GGY8TTR2?tag=ntizar-21",
@@ -3889,11 +4757,18 @@
    "nombre_canonico": "Mascarillas FFP2",
    "url": "https://www.amazon.es/dp/B0GM1QQW1C?tag=ntizar-21",
    "categorias": [
+    "Higiene y salud: las 50 mascarillas y la medicación",
     "Salud",
     "Polvo, papeles y dinero",
     "Respirar: el humo mata antes que el fuego"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Mascarillas FFP2 (pack)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Mascarillas FFP2",
@@ -3916,9 +4791,10 @@
    "kits": [
     "kit-hogar",
     "kit-incendio",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -3963,13 +4839,20 @@
   },
   "B0GMXX2G9S": {
    "nombre_canonico": "Pastillas potabilizadoras de agua",
-   "url": "https://www.amazon.es/Pastillas-Potabilizadoras-Tratamiento-Dep%C3%B3sitos-Emergencias/dp/B0GMXX2G9S?tag=ntizar-21",
+   "url": "https://www.amazon.es/dp/B0GMXX2G9S?tag=ntizar-21",
    "categorias": [
+    "Agua: 9 litros por persona que no dependen del grifo",
     "Agua e hidratación",
     "Supervivencia 24-72 h",
     "Agua y comida sin cocina"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Pastillas potabilizadoras de agua",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    },
     {
      "kit": "kit-basico-72h",
      "producto": "Pastillas potabilizadoras de agua",
@@ -3992,9 +4875,10 @@
    "kits": [
     "kit-basico-72h",
     "kit-evacuacion",
+    "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -4149,11 +5033,58 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0GTYPQVX6": {
+   "nombre_canonico": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
+   "url": "https://www.amazon.es/dp/B0GTYPQVX6?tag=ntizar-21",
+   "categorias": [
+    "Baterías de litio LFP: almacena tu energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
+     "prioridad": "esencial",
+     "precio_aprox": "800-1.200 €"
+    },
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
+     "prioridad": null,
+     "precio_aprox": "800-1.200 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "800-1.200 €"
+  },
+  "B0GWM8T485": {
+   "nombre_canonico": "Cable extensor para Starlink (30 m / 60 m)",
+   "url": "https://www.amazon.es/dp/B0GWM8T485?tag=ntizar-21",
+   "categorias": [
+    "Starlink: internet desde cualquier lugar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Cable extensor para Starlink (30 m / 60 m)",
+     "prioridad": null,
+     "precio_aprox": "75-150 €"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "75-150 €"
+  },
   "B0GWN9FJC7": {
    "nombre_canonico": "Radio FM/AM a pilas o de dinamo",
    "url": "https://www.amazon.es/dp/B0GWN9FJC7?tag=ntizar-21",
    "categorias": [
-    "Luz, energía y comunicación"
+    "Luz, energía y comunicación",
+    "Escuchar y avisar al exterior"
    ],
    "apariciones": [
     {
@@ -4161,12 +5092,19 @@
      "producto": "Radio FM/AM a pilas o de dinamo",
      "prioridad": "esencial",
      "precio_aprox": "15-35 €"
+    },
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Radio FM/AM a pilas o de dinamo (con linterna)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
     }
    ],
    "kits": [
+    "kit-comunicacion",
     "kit-hogar"
    ],
-   "n_kits": 1,
+   "n_kits": 2,
    "precio_ref": "15-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -4224,6 +5162,26 @@
    "precio_ref": "15-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0GX114ZX1": {
+   "nombre_canonico": "Acumuladores de frío congelables (pack de 6)",
+   "url": "https://www.amazon.es/dp/B0GX114ZX1?tag=ntizar-21",
+   "categorias": [
+    "Conservación de alimentos sin red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Acumuladores de frío congelables (pack de 6)",
+     "prioridad": null,
+     "precio_aprox": "25-40 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-40 €"
   },
   "B0GY43YPS8": {
    "nombre_canonico": "Botella isotérmica de acero (mantiene frío 12-24 h)",
@@ -4299,6 +5257,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0H2YWM29L": {
+   "nombre_canonico": "Soporte de montaje para Starlink (tejado / pared / mástil)",
+   "url": "https://www.amazon.es/dp/B0H2YWM29L?tag=ntizar-21",
+   "categorias": [
+    "Starlink: internet desde cualquier lugar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
+     "prioridad": null,
+     "precio_aprox": "50-150 €"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "50-150 €"
+  },
+  "B0H35BWBZX": {
+   "nombre_canonico": "Panel solar plegable 60-100 W",
+   "url": "https://www.amazon.es/dp/B0H35BWBZX?tag=ntizar-21",
+   "categorias": [
+    "Energía: baterías y paneles"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Panel solar plegable 60-100 W",
+     "prioridad": "esencial",
+     "precio_aprox": "80-160 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "80-160 €"
+  },
   "B0H37438Y1": {
    "nombre_canonico": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
    "url": "https://www.amazon.es/dp/B0H37438Y1?tag=ntizar-21",
@@ -4333,9 +5331,16 @@
    "nombre_canonico": "Pastas, arroz y legumbres en paquetes",
    "url": "https://www.amazon.es/dp/B0H3WC3R53?tag=ntizar-21",
    "categorias": [
+    "Comida para siete días (no para tres)",
     "Agua y comida"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Pastas, arroz y legumbres en paquetes",
+     "prioridad": "esencial",
+     "precio_aprox": "10-20 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Pastas, arroz y legumbres en paquetes",
@@ -4344,9 +5349,10 @@
     }
    ],
    "kits": [
-    "kit-hogar"
+    "kit-hogar",
+    "kit-suiza"
    ],
-   "n_kits": 1,
+   "n_kits": 2,
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -4447,6 +5453,46 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0H8418D5H": {
+   "nombre_canonico": "Extensor WiFi de largo alcance + antena direccional",
+   "url": "https://www.amazon.es/dp/B0H8418D5H?tag=ntizar-21",
+   "categorias": [
+    "Conectividad: Starlink y redundancia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Extensor WiFi de largo alcance + antena direccional",
+     "prioridad": null,
+     "precio_aprox": "30-200 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "30-200 €"
+  },
+  "B0H864HPJ7": {
+   "nombre_canonico": "Antena externa 4G/5G de alta ganancia",
+   "url": "https://www.amazon.es/dp/B0H864HPJ7?tag=ntizar-21",
+   "categorias": [
+    "Redundancia: router 4G/5G como respaldo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Antena externa 4G/5G de alta ganancia",
+     "prioridad": null,
+     "precio_aprox": "50-150 €"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "50-150 €"
+  },
   "B0H8J5NTW9": {
    "nombre_canonico": "Cortinas térmicas o manta de lana para tapar la ventana",
    "url": "https://www.amazon.es/dp/B0H8J5NTW9?tag=ntizar-21",
@@ -4466,6 +5512,46 @@
    ],
    "n_kits": 1,
    "precio_ref": "15-40 €"
+  },
+  "B0H8P2WXHV": {
+   "nombre_canonico": "Cámara de seguridad solar 4G con batería",
+   "url": "https://www.amazon.es/dp/B0H8P2WXHV?tag=ntizar-21",
+   "categorias": [
+    "Iluminación y seguridad perimetral"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Cámara de seguridad solar 4G con batería",
+     "prioridad": null,
+     "precio_aprox": "150-300 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "150-300 €"
+  },
+  "B0H8SDLQVQ": {
+   "nombre_canonico": "Generador solar portátil con panel incluido (300-500 Wh)",
+   "url": "https://www.amazon.es/dp/B0H8SDLQVQ?tag=ntizar-21",
+   "categorias": [
+    "Energía: baterías y paneles"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-electricidad",
+     "producto": "Generador solar portátil con panel incluido (300-500 Wh)",
+     "prioridad": "esencial",
+     "precio_aprox": "250-450 €"
+    }
+   ],
+   "kits": [
+    "kit-electricidad"
+   ],
+   "n_kits": 1,
+   "precio_ref": "250-450 €"
   },
   "B0H8X7LJTM": {
    "nombre_canonico": "Bolsas de residuos (50+ unidades)",
@@ -4583,10 +5669,17 @@
    "nombre_canonico": "Powerbank de 10.000-20.000 mAh",
    "url": "https://www.amazon.es/dp/B0HC4PGSVV?tag=ntizar-21",
    "categorias": [
+    "Lo que Suiza apunta y casi nadie copia",
     "Luz, energía y comunicación",
     "Luz, avisos y energía"
    ],
    "apariciones": [
+    {
+     "kit": "kit-suiza",
+     "producto": "Powerbank de 10.000-20.000 mAh",
+     "prioridad": "esencial",
+     "precio_aprox": "15-35 €"
+    },
     {
      "kit": "kit-hogar",
      "producto": "Batería externa (powerbank) de 10.000-20.000 mAh",
@@ -4602,9 +5695,10 @@
    ],
    "kits": [
     "kit-frio",
-    "kit-hogar"
+    "kit-hogar",
+    "kit-suiza"
    ],
-   "n_kits": 2,
+   "n_kits": 3,
    "precio_ref": "15-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"

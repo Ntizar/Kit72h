@@ -71,6 +71,11 @@ const ui = {
   },
 
   /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
+  /* Bandera suiza en SVG (Windows NO renderiza el emoji 🇨🇭: pinta "CH").
+     Cuadrada y con los brazos 6:7, como la bandera oficial. */
+  banderaCH(clase) {
+    return `<svg class="bandera-ch${clase ? ' ' + clase : ''}" viewBox="0 0 32 32" role="img" aria-label="Bandera de Suiza"><rect width="32" height="32" fill="#DA291C"/><rect x="13" y="6" width="6" height="20" fill="#fff"/><rect x="6" y="13" width="20" height="6" fill="#fff"/></svg>`;
+  },
   htmlHome() {
     const compra = `https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}`;
     const bloques = [
@@ -104,7 +109,7 @@ const ui = {
        destacada; y el PRO al final, ocupando las 3 columnas con holo. */
     const tarjetaKit = (k, i) => `
       <a class="card-kit" href="/kit/${k.slug}/">
-        <div class="fila-top"><span class="icono">${k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
+        <div class="fila-top"><span class="icono${k.bandera ? ' icono--bandera' : ''}">${k.bandera === 'ch' ? this.banderaCH() : k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
         <div class="pie">
@@ -415,12 +420,21 @@ const ui = {
     const fuente = kit.fuente ? `
       <p class="fuente">Fuente oficial: <a href="${kit.fuente.url}" target="_blank" rel="noopener">${kit.fuente.nombre}</a></p>` : '';
 
+    /* Banda de la bandera: rectángulo rojo con la cruz blanca, solo para el
+       kit que se apoya en una lista oficial extranjera (hoy, Suiza). */
+    const banda = kit.bandera === 'ch' ? `
+      <div class="banda-suiza">
+        ${this.banderaCH()}
+        <span><b>Lista oficial suiza · BWL/FONES</b>9 litros de agua · 7 días de comida · 50 mascarillas · efectivo</span>
+      </div>` : '';
+
     return `
       <section class="ficha">
         <div class="ficha-cab">
           <a class="volver" href="/">← Todos los kits</a>
-          <h1><span class="icono-h1">${kit.icono}</span>${kit.titulo}</h1>
+          <h1><span class="icono-h1${kit.bandera ? ' icono-h1--bandera' : ''}">${kit.bandera === 'ch' ? this.banderaCH() : kit.icono}</span>${kit.titulo}</h1>
           <p class="resumen">${kit.resumen}</p>
+          ${banda}
           ${fuente}
         </div>
         <div class="barra-progreso">
