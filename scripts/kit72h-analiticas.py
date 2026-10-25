@@ -216,6 +216,33 @@ def cf_consultar(token, cuenta, site, ini, fin, dimension, orden="count_DESC", l
     return []
 
 
+def cf_serie_diaria(token, cuenta, site, hoy, dias):
+    """Serie diaria de visitas consultando por VENTANAS de 7 días y fusionando.
+
+    TRAMPA EVITADA: una sola consulta de 30 días sobre `rumPageloadEventsAdaptiveGroups`
+    devuelve los días antiguos y CORTA los recientes (comprobado 2026-10-25: pedidos
+    2026-09-26..2026-10-25 devolvía hasta el 19-oct; el 20, 21 y 22 —con 9, 3 y 1
+    visitas reales— salían como 0, y el panel los pintaba como caída de tráfico).
+    Trocear en ventanas de 7 días devuelve todos los días. No subir VENTANA sin
+    volver a comprobar la serie contra la API (último día con datos y suma total).
+    Devuelve {fecha_iso: visitas}.
+    """
+    VENTANA = 7
+    mapa = {}
+    fin_dia = hoy
+    while fin_dia >= hoy - timedelta(days=dias - 1):
+        ini_dia = max(fin_dia - timedelta(days=VENTANA - 1), hoy - timedelta(days=dias - 1))
+        filas = cf_consultar(
+            token, cuenta, site,
+            ini_dia.strftime("%Y-%m-%dT00:00:00Z"),
+            fin_dia.strftime("%Y-%m-%dT23:59:59Z"),
+            "date", "date_ASC", 5000)
+        for fecha, visitas in agrupar(filas, "date"):
+            mapa[fecha] = mapa.get(fecha, 0) + int(visitas)
+        fin_dia = ini_dia - timedelta(days=1)
+    return mapa
+
+
 # ─────────────────────────── Normalización ────────────────────────────────
 
 def visitas_de(fila):
@@ -621,11 +648,10 @@ def main(argv=None):
                                           "count_DESC", 500)
                 filas_dev = cf_consultar(token, cuenta, site, ini, fin, "deviceType",
                                          "count_DESC", 50)
-                filas_serie = cf_consultar(token, cuenta, site, ini, fin, "date",
-                                           "date_ASC", 5000)
 
-                # Serie diaria rellenando con 0 los días sin datos.
-                mapa_fecha = dict(agrupar(filas_serie, "date"))
+                # Serie diaria por ventanas de 7 días (ver cf_serie_diaria: una sola
+                # consulta de 30 días corta los días recientes) y relleno con 0.
+                mapa_fecha = cf_serie_diaria(token, cuenta, site, hoy, DIAS)
                 serie = []
                 for i in range(DIAS - 1, -1, -1):
                     dia = (hoy - timedelta(days=i)).isoformat()

@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-25T08:45:46Z",
+  "generado": "2026-10-25T10:49:07Z",
   "fuente": "cloudflare",
   "estado": "ok",
   "mensaje": "Métricas de Cloudflare Web Analytics leídas correctamente.",
   "ventana_dias": 30,
   "totales": {
-    "visitas": 2830,
+    "visitas": 2841,
     "paginas": 2830,
     "clics_amazon": 0
   },
@@ -104,19 +104,19 @@
     },
     {
       "fecha": "2026-10-19",
-      "visitas": 30
+      "visitas": 28
     },
     {
       "fecha": "2026-10-20",
-      "visitas": 0
+      "visitas": 9
     },
     {
       "fecha": "2026-10-21",
-      "visitas": 0
+      "visitas": 3
     },
     {
       "fecha": "2026-10-22",
-      "visitas": 0
+      "visitas": 1
     },
     {
       "fecha": "2026-10-23",
