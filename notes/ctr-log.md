@@ -4,6 +4,17 @@ Registro de los cambios de `<title>` / meta description que hace el cron
 `kit72h-seo-ctr` (06:30) para maximizar CTR en Google: números, beneficio y
 urgencia honesta. Cada entrada: fecha · página · antes → después · motivo.
 
+## 2026-10-25 06:00 — SEO/CTR run
+
+**Resultado:** 1 mejora aplicada.
+
+**Páginas analizadas:** 85 rutas (20 kits + 62 blogs + 4 auxiliares + home).
+
+**Cambio aplicado:**
+- `mejor-kit-solar-portatil-para-casa`: resumen acortado (155→150 car.) para caber en SERP.
+
+**Commit:** 5e478d8 — `feat(seo): optimizar meta tags para CTR (1 mejoras)`
+
 ## 2026-10-24
 
 - SEO-CTR: 0 mejoras aplicadas — todos los meta tags ya optimizados. Sin cambios.
@@ -591,3 +602,14 @@ todas las descriptions en 90–155.
 **Páginas analizadas:** 82 rutas (20 kits + 58 blogs + 4 auxiliares + home).
 
 **Sin cambios necesarios hoy.**
+
+## 2026-10-25 06:00 — SEO/CTR run
+
+**Resultado:** 1 mejora aplicada.
+
+**Páginas analizadas:** 85 rutas (20 kits + 62 blogs + 4 auxiliares + home).
+
+**Cambio aplicado:**
+- : resumen acortado para caber en SERP (155→150 car.).
+
+**Commit:** 5e478d8 — 
