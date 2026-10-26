@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-26T19:10:40+01:00",
+  "actualizado": "2026-10-26T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,11 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Reino Unido lanza Be Ready, 3 días de provisiones y 1.000 para la guerra",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGFOU3Jwa3M1SU4xMEV3bFZSd1I5QkdtaWlNd0hhUjkwSkd0U1hVWUNNTEhWM2J5S3dpTWpJZlVnT01ZUlBFT0ZQVDljdEpxSlhhOHJfQ2JtTkQzbm9LN05IR1pzUkc5c0lOSFhDVW5lWm4tR0xYUGhnOVNfZnRtZ2VhSHkxUjRDOTFqcTRJOA?oc=5",
-     "fuente": "Pasquale Pillitteri",
-     "resumen": "",
-     "fecha": "2026-10-26T15:06:52+01:00",
+     "titulo": "La alerta de Reino Unido: llaman a almacenar agua y alimentos para tres días ante distintas emergencias",
+     "url": "https://www.msn.com/es-cl/noticias/mundo/la-alerta-de-reino-unido-llaman-a-almacenar-agua-y-alimentos-para-tres-d%C3%ADas-ante-distintas-emergencias/ar-AA2g6SHz",
+     "fuente": "24 horas on MSN",
+     "resumen": "Se trata de la campaña \"Be Ready” (“Estén preparados”), iniciativa impulsada por el primer ministro Andy Burnham.",
+     "fecha": "2026-10-26T13:31:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -25,14 +25,6 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T13:10:59+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Reino Unido alerta del riesgo de guerra antes de 2030 y pide a los ciudadanos preparar un kit de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9Qc0hUNDRTbkppVWRFb1BxRGYwQjJlWTlrNHdZdXVLZTZpMjJ1MXJ1NmhUSDVqLUZqZlo5akJka1lKXy0xeG40QVQ4TVJRY2t0NE1MMEVHWGZCQ0YxRnhwV1ZjTVk4YTVqRE1rckY2LV9XbXdZZVJKZExUd0VPMm5JUEc2azB5Skx2OW85bVpqR1B6eTlDSk1oN0w2aFpxa2VkeUNsSi1mcDRONVFpbEVNTWIybkVVMXdOZlM0MDhBNjRDYXB0X3BjazRRem83NHhSMdIB1AFBVV95cUxOZm9Qc0hUNDRTbkppVWRFb1BxRGYwQjJlWTlrNHdZdXVLZTZpMjJ1MXJ1NmhUSDVqLUZqZlo5akJka1lKXy0xeG40QVQ4TVJRY2t0NE1MMEVHWGZCQ0YxRnhwV1ZjTVk4YTVqRE1rckY2LV9XbXdZZVJKZExUd0VPMm5JUEc2azB5Skx2OW85bVpqR1B6eTlDSk1oN0w2aFpxa2VkeUNsSi1mcDRONVFpbEVNTWIybkVVMXdOZlM0MDhBNjRDYXB0X3BjazRRem83NHhSMQ?oc=5",
-     "fuente": "Onda Vasca",
-     "resumen": "",
-     "fecha": "2026-10-26T12:06:43+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -49,6 +41,14 @@
      "fuente": "Revelación.pe",
      "resumen": "",
      "fecha": "2026-10-26T06:44:46+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "La directiva de las 72 horas: por qué Europa prepara a sus hogares para lo peor",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9NeG1lYmI0ZTNOeXhMMlhZTHpXZU9JUFRLS1BMVUNuUE1sbFFNOXlaNU5MS08zNml2Z3Zv?oc=5",
+     "fuente": "Howl.Link",
+     "resumen": "",
+     "fecha": "2026-10-26T06:29:58+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Referentes del Splif viajaron a España para incorporar nuevas herramientas para combatir los incendios forestales",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFVrODNLM0pSY3JrU29WX0VkeE1zcUJUUkdUeVd6MkRRay02ZTFPRmh5ZFRfRXB6TmVUWUJiLTVLOE01S215dVJpck1BeHRkTExKWU1FdlJMbFlsTnNGZ2pXbU50MDRiNW8xMUw5RGdOWk93N01OTjc0ZXhMcGpPZmxZc1pTdlRsWWhXSmtQTjQybllOVFdWZkRZTlIzdzZlaVdHRkM1RFFKRVVWd0NVdXdkR0JVMVFMOHNyX2JkNDRZRlhjQ0MzRE8wSmhmaEV6T01ObGF2M0dVUHdXcWZHTGJEaUw1d9IB7gFBVV95cUxOZVBHMnhoV2pldENIWTZPUmRKNEZzMmtqX3VsdG1vTi1ZTnpnNW1PdXl0anZPOHp2XzA4c25ydTNoWmVIeGZnTEw2RnpvcElTZTF2R19rMEVHMzJCalAtMHYycU9ob0NUclRMNVBuQnFIYnJxS1ZURXM5eTk4bTFEQ285MkFIVWZFem5vOVgwcTM0MXJDam02cDhVanVLUFJPRDB0REFlNzktUk5PS0lrYmJ0eTMtSXBOaXZLcWpDTVJoUDl2aEdWN3M3TERfaWQ5eGNfQ180VTQyZTRvSnM4YzVjaG9sZDV0S0Juck13?oc=5",
+     "fuente": "Diario Río Negro",
+     "resumen": "",
+     "fecha": "2026-10-26T22:00:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Los incendios en España se cobraron menos víctimas en 2025: el riesgo se dispara entre quienes viven solos y los mayores de 64 años",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQelFxNXZXZmhkZnc5Si1MTTNLd2JKRS1VYlBJTmFwRWw0c0xvYXhnMHg3WV9rZlF1amRxZUNjRzl4N1R3ekN2U1FhWUVLNmFzX0R3d0hXc3RjQXg0MzFHdTBGVVFKOGR5R0w3NmNBeWhhaVNJYnRZdjg1aFR0M0drUmd0cFhCQW42YUI5QmFyTDZnbW5WekJ4NzVzR1lUMENHWXRwdWp0VmFUVHdzSms3cm45VmVYbmozQ0xyTW4zN0pXX2JPR2ctRWdSWWwwYUJoY1dtMEFEWVJUeXdRREE1NXhxZkhLRjVvMENKbzdRb0xIdTFTUnR2edIB_gFBVV95cUxQV09BU2ttRDBWX1RRV2hvRFphQXpidTBzcGoyS0NKY1pXbW5qcElBSDFKLVJVT0JqS0lOcmFGaEllNHN0RnctelphaWlmREx4a01tWlJJWUlXZVZYLWNYWENNVFpuNFVadUhDZm81YnRxd3BjUHZJbVlFTVZoTHJMN2hFdUd2dk53OUwxd0FJbmNqNklCWUxYeG5EMS14eGhKTzVQblpkbjRHeUNPVzZXUU93YmlyMVRraWFXcVdmd3pydS1DdXNoYURYR3BNRUt2UDlMMGxtWV9JaW91TlJMZ3NoZ2hfSmMzUUlvUFYta0hkMUVTUTBYN3RkZE5fQQ?oc=5",
      "fuente": "20Minutos",
@@ -99,19 +107,19 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "Río Negro busca fortalecer la prevención de incendios forestales con experiencias de España",
+     "url": "https://www.cipollettidigital.com.ar/noticias/2026/10/26/89070-rio-negro-busca-fortalecer-la-prevencion-de-incendios-forestales-con-experiencias-de-espana",
+     "fuente": "Cipolletti Digital",
+     "resumen": "Una delegación provincial participó de una misión técnica organizada por el Consejo Federal de Inversiones para conocer estrategias de prevención, combate y recuperación de áreas afectadas por el fueg ...",
+     "fecha": "2026-10-26T08:49:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "El incendio por «una regleta» obliga a desalojar la facultad de Ciencias de Santander",
      "url": "https://www.eldiariomontanes.es/cantabria/incendio-obliga-desalojar-facultad-ciencias-santander-20261026133118-nt.html",
      "fuente": "El Diario Montañés",
      "resumen": "El aviso al 112 se dio sobre las 12.30 horas y se movilizó a los bomberos de Santander, la Policía Local y Nacional hasta el edificio de Los Castros | El incidente se ha resuelto «sin más desperfectos ...",
      "fecha": "2026-10-26T06:31:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "León registró tres muertes en las labores de extinción de incendios forestales durante 2025",
-     "url": "https://www.lanuevacronica.com/actualidad/leon-registro-tres-muertes-en-labores-extincion-incendios-forestales-durante-2025_205319_102.html",
-     "fuente": "La Nueva Crónica",
-     "resumen": "El informe de Fundación Mapfre y la Asociación Profesional de Técnicos de Bomberos recoge el fallecimiento de un bombero y dos voluntarios en la provincia ...",
-     "fecha": "2026-10-26T06:15:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "MADRID, 23 (EUROPA PRESS) España ha registrado un total de 301.413 hectáreas (ha) quemadas desde el 1 de enero hasta el 21 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
      "fecha": "2026-10-23T06:04:53+02:00",
      "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "Los incendios forestales queman más de 275.000 hectáreas en España en 2026",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50ODhucVNKNFJJOGZrRFZFVS1GLWZIUHZZMFZJYjc3dkVnX0pQWnZxVmxhU3MwcjF1c2FmcjFfR3hJOGJuQU9GZ3V0THAxWWMtVDFDbDloT0VDemJ6NEhUemlhaFpKdW9qWnBCLUdqek15aTQ?oc=5",
-     "fuente": "Cuadernos de Seguridad",
-     "resumen": "",
-     "fecha": "2026-10-22T08:13:32+02:00",
-     "fecha_txt": "22 oct"
     }
    ]
   },
@@ -154,19 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Los meteorólogos lo confirman: las ciudades españolas afrontan más riesgo de calor extremo e inundaciones durante este siglo",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzFZRTRSdjJqMk4wVDJYeXpQVkdtclVIOU1mZzZoelNoSzh4NlAxelk3Y001aWRkN1A5cDJUcWRYOUgtVjg4LTJZdm1uM1V5RGwwa0tPWndkVzhqWFZBMFF6SWZVVWs5S1RVemUzdGdiOXpQdDBUaTRJUk5mWm9OTkZFRkgxR3dTdFNVYU43Vjd3LTc4YzJzODFHMFJwR3ViS2VzTnd0S3lSR1h4bHEwY1hoOE5fd2FUYmgta3RpdmZhQ21xNWpBNGVweEk4ejRPU2gwQkVGcGIxc2Z5Y0huMG5VSWt6RG54dXfSAe8BQVVfeXFMTURFa3VQQjA2STZGMXYxWXV5b19xT3JUd0pKRy1mN2tsYndHYVg0NkZUNXdsU01yWkhtOGJoeDJSTGdjei1TRnBTT1RrTTE5QWFWQl9hRmJWblBMMnJJZWtOc01OZy1vcnJZMWVwaktSXzc4Q1pUTHhVWU5Ib0IwaWRKQWRDRVo3SlYzNzYzeVdiY1FWbGZ5SVNQZlFkOGlIRUJQazh4cVpCRHNubHBzbDl1RUc4VXBQRF8zSGRDdVZfV2d5cl9WbVhUbVRZTU9wNXczRWZrbDZGczZTNUZHV0s2MmtQX2ZJUjVnQWtZSkE?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-10-26T20:27:25+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Esta semana, especial dana 2026 y segundo aniversario de la riada del 29 de octubre en À Punt",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVdfQUNNenJJQTNXQkRLc2Rua3ZTNF9ucFZhaV92a3liTlh6Z1M3X1dGSlVqZDRIVWktODRsWTA4amE1SXJKajU1NWEyUFB6aEpnX2FvZVNfNFUtLWwwRlVZLXB0X241OWRzcDNoNjlYYTd6ZDBzZVQtWUlDVndpQzJHcGl5aENxRGx6bEI0bGl3d1hfRVhQNXoxWjdiR1NOMWZaU2d5MzVNTlFCVlNzRE1BZ0NKM2JXcnpwcGUtTlBJdzE4dFh5WV9sMm9qWGtNT256aHpoSzFUcDYycGNB0gHkAUFVX3lxTFBxTThqU09lcmNuWTluMTRiYnljSWtwd2I1eGhQNm81ZGVxQURDT2YxZjB3czZJZ0ZCN2E2WF9VazU1VUFnTXdVOWx6Qmh2SVhOckZsV3o1VC1QY29zQklHeEJlazBBM1Z6Vmp5SmJHYmg0c2JhaDZPOHpjZDJ1Wm5DbURHRjF3NW9YT096c3I1TDVKS2xoLXpjck1HVU5FaG5GcWFqeEdIWnFzalMwaFM2Y09LcG9WTFBmVk01OWVkSXFjYlRkX3BkTWhIRVlKYjdzcEZBdFhhdUlEdGt3TUFGZ203ag?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-10-26T16:09:29+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El alcalde de Algemesí asegura que nadie le alertó antes del desbordamiento del Magro del 29N, que “no estaba limpio”",
-     "url": "https://www.democrata.es/tribunales/el-alcalde-de-algemesi-asegura-que-nadie-le-alerto-antes-del-desbordamiento-del-magro-del-29n-que-no-estaba-limpio/",
-     "fuente": "Demócrata",
-     "resumen": "Sanchís sostiene que nadie le alertó del desbordamiento del Magro el 29N, denuncia falta de limpieza en el cauce y detalla las medidas previas del Ayuntamiento.",
-     "fecha": "2026-10-26T07:43:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -194,14 +202,6 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Burgos se anticipa al riesgo de inundaciones con un nuevo sistema de alertas tempranas: 15 pluviómetros en la ciudad",
-     "url": "https://www.msn.com/es-es/noticias/otras/burgos-se-anticipa-al-riesgo-de-inundaciones-con-un-nuevo-sistema-de-alertas-tempranas-15-pluvi%C3%B3metros-en-la-ciudad/ar-AA2g5QXS",
-     "fuente": "El Español on MSN",
-     "resumen": "La herramienta combina previsiones meteorológicas con una red de pluviómetros para prever el impacto de las lluvias intensas y actuar antes de las incidencias. Más información: ProBurgos prevé un pres ...",
-     "fecha": "2026-10-26T05:02:50+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
      "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
      "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
      "fuente": "Granada Hoy",
@@ -226,7 +226,7 @@
    "items": [
     {
      "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFlFc05pbWZoRDR6SkswVjlHS0lsek8xdWtTM3dGRWZaSFlUc3AtV3dudm9JbWRhOEhtWk1PQ3lydlFMX0RuTUJNTk0yNHEtZTRCeWw2OWJLQkVXc2t4SkNaSXdncDdyMHhVR1B3NE5WaHBLaGtHWENIQWt1R1phSnR2c2RacnN4a3o2OFdjSHdaNUxjZE9LeEoyQ21lVmRtRWR3WDdZQmdDNEZfT1BFQ29PUWVyS3paOXRBUFAzYXhTTW1l0gHYAUFVX3lxTE9XVmw1blIzd0FNbUVQbWhZT3VjM1lUWjJHQUpRSlZBSUdHTDNRaXNQbVBHUGZHeUJHcFY5MFlPejEyTGYyQmZOZHBKdFFYRFBSbm95VzNKMEtBODVTZGZWcHRJbVlwYmtQMjByWVBwUnRRbTFuOExSUF9MbGhfOU1tVURGNDJEMjVPZUZqMVI0TlZ1U0N2TXN0MGVUczhjRUlHMGR3VmM0VjdTSjhpUGVNd3p3a0tZVWQ2OUtESUd0cWNQNFEwcmd3YXpqamF3bnoteERwdHhBdg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1ZsNW5SM3dBTW1FUG1oWU91YzNZVFoyR0FKUUpWQUlHR0wzUWlzUG1QR1BmR3lCR3BWOTBZT3oxMkxmMkJmTmRwSnRRWERQUm5veVczSjBLQTg1U2RmVnB0SW1ZcGJrUDIwcllQcFJ0UW0xbjhMUlBfTGxoXzlNbVVERjQyRDI1T2VGajFSNE5WdVNDdk1zdDBlVHM4Y0VJRzBkd1ZjNFY3U0o4aVBlTXd6d2tLWVVkNjlLRElHdHFjUDRRMHJnd2F6amphd256LXhEcHR4QXbSAdgBQVVfeXFMT1dWbDVuUjN3QU1tRVBtaFlPdWMzWVRaMkdBSlFKVkFJR0dMM1Fpc1BtUEdQZkd5QkdwVjkwWU96MTJMZjJCZk5kcEp0UVhEUFJub3lXM0owS0E4NVNkZlZwdEltWXBia1AyMHJZUHBSdFFtMW44TFJQX0xsaF85TW1VREY0MkQyNU9lRmoxUjROVnVTQ3ZNc3QwZVRzOGNFSUcwZHdWYzRWN1NKOGlQZU13endrS1lVZDY5S0RJR3RxY1A0UTByZ3dhempqYXduei14RHB0eEF2?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-10-26T11:16:35+01:00",
@@ -247,14 +247,6 @@
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón: qué supone para tu suministro",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-apercibe-a-red-el%C3%A9ctrica-por-fallos-de-coordinaci%C3%B3n-en-el-apag%C3%B3n-qu%C3%A9-supone-para-tu-suministro/ar-AA2fZx7p",
-     "fuente": "Diario Que! on MSN",
-     "resumen": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón y abre la revisión de protocolos que afectan a la fiabilidad de tu suministro. La entrada La CNMC apercibe a Red Eléctrica por ...",
-     "fecha": "2026-10-24T15:17:42+02:00",
-     "fecha_txt": "24 oct"
     },
     {
      "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
@@ -278,6 +270,14 @@
      "fuente": "ABC",
      "resumen": "La disponibilidad de las centrales de ciclo combinado, que utilizan gas natural para generar electricidad, llegó a reducirse hasta el 65% de la potencia instalada, se queja el operador del sistema ...",
      "fecha": "2026-10-22T19:00:00+02:00",
+     "fecha_txt": "22 oct"
+    },
+    {
+     "titulo": "España y Marruecos revisarán la conexión eléctrica submarina entre España y Marruecos año y medio después del gran apagón",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSlhma0ZQSEtWLVVoa1dnR1FRaUV4UnJuYUJQRTduLVJ2NFEySG96TGR3NnQ3a1VPV3ZpTUZPU2d6b3dYT2xjRExNYlZ0U1E0RXduNGNRc1FnOW90bHFiQTBDeGk2Q0J1bUhHRDdiNGtMbGJFaDZNMVNRSnJkS2N6bW9GN2dWYXJzSU5aY2NVYnJTWjZSWDNGOUhQWlhLajNuRzczMnNOODJGWXgxUl9IaXlwNWhVM1hfY3R6TTVjblRKYWVsWUV5c21jTF9sbFh6XzVqSHRmXzNScEgxSUVVX3VEbTU0LWwwdWNfNW9HUWh2YVR4RllTVVJqMTdGNDhYNkHSAZYCQVVfeXFMT2dlMl9pbC1md3ZjOUNRbVRkeUd0UERHbXgzUmQwLWxENXVRcTYza01nNGZURk5YQXBkNC14dTIwY3JEckJRdWE5NzZkQnNrSFZrOGRCc3lObmU2bVVJLUlSNlZOQlhUZjlmMGQ0NXFKdngwQkRYSndHeHEwOEJFZ1ZELVVUbXN3MXhnNUo0VmszR0tsLVNwU1JZejVqM2RWVEhOMW5qSC1XdGtxTmdEc1dPM1hlWENNQVdDMGo1dGEwSk1ualBIa24yNFpTeDJ6bXZmSktPUWc1M1NaNlI1Sk1jaS1MUWFXM1NETUlWQUxOTDVNT0I4UkJkM2hQWTdMa25OQmFZTVA2WHBFajBqTG1EVGxZN1E?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-22T14:02:34+02:00",
      "fecha_txt": "22 oct"
     },
     {
