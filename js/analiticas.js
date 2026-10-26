@@ -30,7 +30,7 @@
     // Worker propio (Cloudflare Workers + KV, carpeta worker-eventos/): el
     // contador de eventos de la casa. Sin cookies ni PII. Se rellena la URL
     // tras el despliegue (ver worker-eventos/README.md).
-    worker: { url: "" },
+    worker: { url: "https://kit72h-eventos.dantizar.workers.dev" },
     // Interruptor maestro para los eventos de clic/scroll (independiente del
     // proveedor: solo se envían si hay uno con soporte de eventos).
     eventos: true

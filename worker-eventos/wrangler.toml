@@ -7,4 +7,4 @@ workers_dev = true
 # El id se rellena tras crear el namespace (paso 2 del README).
 [[kv_namespaces]]
 binding = "EVENTOS"
-id = "PENDIENTE_DE_CREAR"
+id = "e6642d8a966042e1ad636b670ead57da"
