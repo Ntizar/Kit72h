@@ -33,13 +33,20 @@ La madrugada del 26 la VM pusheó 27 commits y hubo 2 conflictos:
    variables, verificar el nombre real en el árbol vigente, no en mi copia local.**
 2. Panel: unir FUENTES de ambos lados (su `cloudflare-zona` + mi `worker`).
 
-## Falta para dejarlo encendido (5 min de David)
+## Estado del despliegue (hecho el 26-10 por Mastermind)
 
-1. `npx wrangler kv namespace create EVENTOS` → pegar id en `worker-eventos/wrangler.toml`
-2. `npx wrangler secret put TOKEN` (generar: `openssl rand -hex 24`)
-3. `npx wrangler deploy` → anotar URL → ponerla en `CONFIG.worker.url` de
-   `js/analiticas.js` + env `KIT72H_EVENTOS_URL`/`KIT72H_EVENTOS_TOKEN` (repo y host del cron)
-4. Amazon Associates: 2-3 Tracking IDs por sección (atribución gratis en informes)
+- ✅ Namespace KV `kit72h-eventos-EVENTOS` creado (id `e6642d8a966042e1ad636b670ead57da` en wrangler.toml)
+- ✅ Worker desplegado: **https://kit72h-eventos.dantizar.workers.dev** (OAuth de dantizar@gmail.com)
+- ✅ Secret `TOKEN` subido (`openssl rand -hex 24`), también en `.env` local del PC
+- ✅ Test end-to-end en producción: ingesta válida agrega (incluida posición), evento inválido rechazado, `/resumen` exige token (401 sin él), origen malicioso rechazado. Datos de prueba borrados (KV `eventos: []`)
+- ✅ `CONFIG.worker.url` conectado → tag `v20261026b` en las 190 páginas, pusheado (CI verde)
+
+## Falta (2 cosillas)
+
+1. **`.env` de la VM** (para que el cron de analítica de allí lea el worker). Un comando desde cualquier terminal git-bash de este PC:
+   `grep "^KIT72H_EVENTOS" ~/Projects/kit72h/.env | ssh -p 30222 uuid@ssh.nan.builders 'cat >> ~/Projects/kit72h/.env'`
+   (pedirá la contraseña de la VM). Alternativa: pegar las 2 líneas `KIT72H_EVENTOS_URL/TOKEN` del `.env` local en el chat del agente de la VM.
+2. **Amazon Associates**: 2-3 Tracking IDs por sección (atribución gratis en informes) — 5 min en dash.amazon-adsystem.com.
 
 ## Cómo se usa (el oro)
 
