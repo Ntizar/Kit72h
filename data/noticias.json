@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-26T07:10:40+01:00",
+  "actualizado": "2026-10-26T10:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,14 +83,6 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Entró en vigor: los propietarios de fincas forestales en España de menos de 10 hectáreas no pueden dividirlas",
-     "url": "https://www.elespanol.com/ciencia/20261023/entro-vigor-propietarios-fincas-forestales-espana-hectareas-no-pueden-dividirlas/1003744430605_0.html",
-     "fuente": "El Español",
-     "resumen": "Ni para vender ni para repartir una herencia: Extremadura limita la división de fincas forestales de menos de 10 hectáreas. Más información: La psicología dice que los adultos nacidos entre 1972 y 200 ...",
-     "fecha": "2026-10-23T10:26:00+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
      "titulo": "Puede lanzar 20.000 litros de agua en menos de 10 segundos, se fabrica en España y se convertirá en un avión bombero para extinguir grandes incendios",
      "url": "https://www.diariomotor.com/noticia/airbus-a400m-apagafuegos/",
      "fuente": "Diariomotor",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-10-20T13:21:57+02:00",
      "fecha_txt": "20 oct"
+    },
+    {
+     "titulo": "Copernicus destapa el fracaso de España contra los incendios",
+     "url": "https://www.msn.com/es-es/noticias/otras/copernicus-destapa-el-fracaso-de-espa%C3%B1a-contra-los-incendios/ar-AA2ejA2r",
+     "fuente": "La Razón on MSN",
+     "resumen": "Registra 301.299 hectáreas calcinadas hasta el 14 de octubre, el 43,1% del total de la UE ...",
+     "fecha": "2026-10-15T09:29:53+02:00",
+     "fecha_txt": "15 oct"
     }
    ]
   },
@@ -170,11 +170,19 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "Balance del Comité de Expertos del Gobierno tras la DANA: una foto para la presentación, informes ignorados y ningún documento final",
+     "url": "https://cadenaser.com/comunitat-valenciana/2026/10/26/balance-del-comite-de-expertos-del-gobierno-tras-la-dana-una-foto-para-la-presentacion-informes-ignorados-y-ningun-documento-final-radio-valencia/",
+     "fuente": "Cadena SER",
+     "resumen": "Científicos e investigadores que integran el órgano asesor muestran su malestar y decepción ante \"la falta de coordinación\" del Comité | Cadena SER ...",
+     "fecha": "2026-10-26T01:00:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
      "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
      "fuente": "Granada Hoy",
      "resumen": "Las peticiones proceden de familias, comercios y empresas con daños en sus inmuebles tras las intensas precipitaciones ...",
-     "fecha": "2026-10-25T18:00:00+01:00",
+     "fecha": "2026-10-25T21:59:00+01:00",
      "fecha_txt": "25 oct"
     },
     {
@@ -191,14 +199,6 @@
      "fuente": "Crónica Balear",
      "resumen": "El verano de 2026 ha sido el más cálido desde, al menos, 1869, con una temperatura media en la España peninsular de 24,5 grados, 2,4 grados por encima de lo normal; Además, las condiciones de pleno ...",
      "fecha": "2026-10-24T12:08:00+02:00",
-     "fecha_txt": "24 oct"
-    },
-    {
-     "titulo": "Día del Cambio Climático: del calor a las inundaciones, los riesgos que afronta España",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0Y3aDZFcUk4SWRqaXl4OGtCQUdhQnNnTEgzVzNOMl83Q2VKZ3dudnR6M25MYlZjdjlPZWM5azItZzZsZnpfR1NSR3ZBSTBZaERac2JaZmJFZEdUT0NOZ29MVGxPM05WeWxydVd5alJFUGVWNXlpMnRER3lGakFob0FsUUQ?oc=5",
-     "fuente": "EFE - Agencia de noticias",
-     "resumen": "",
-     "fecha": "2026-10-24T10:44:24+02:00",
      "fecha_txt": "24 oct"
     },
     {
@@ -265,14 +265,6 @@
      "fecha_txt": "23 oct"
     },
     {
-     "titulo": "Ceuta ya tiene su apagón",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGtxa1IwYkJfS2dHb0VUNUk4eGZxVUQweEVpb3hlVE1OYWN0S29QZ2Raalk5aG14ZnFMbm90dkJTOVc1SGVBZ3dObGhEV1JndWE3d2RCTEt6aE9WT2ozNGNPNXZYaEptakdvZkhfd1dXOF82UXY2bHFVSk1Va2ZWY0t1OFlzcjFKSURmQ1gtcVZuX29Fak5CUy1PRTlJUm14cnFoOUtOeEpkWmJleUN0NVgxQThIRHpwWmIyWEtn?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-10-23T05:00:00+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
      "titulo": "Red Eléctrica desenchufa nueve veces a la industria desde julio en plena guerra con las centrales de gas",
      "url": "https://www.abc.es/economia/red-electrica-desenchufa-veces-industria-ano-plena-20261022024217-nt.html",
      "fuente": "ABC",
@@ -286,6 +278,14 @@
      "fuente": "El Español",
      "resumen": "",
      "fecha": "2026-10-21T12:49:20+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Un apagón general deja a oscuras a la ciudad autónoma de Ceuta debido a un fallo masivo en el centro urbano",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3h3QlY5eGdBTlVXcFdGU2JmTnQ3eF9XNVdNX2hhajB3MElyMURnQlBNREJvZXpkS3F0UUF0UmVkUkNkZnFaNWxnNENIQ05RQ2VkbnowNkYxOXozYS1wZ3U0ZlNyNlp2Y0tfVEFWWmxiX1c0YlFadGs4dEhwZWRGZmZkTTJ2V2VDYVhqN2FZcUxDZkRKTm16dk9DWUZta3VPQVk1ZldOUC1vZzF1eGtrZnJpdTBPSVVLcV9BdExXd0xCejJPdXFCYXFnZHJfUldCYzhMSm43cmE3R2tPVnVLTDZMNTBRWllzalhoONIBgAJBVV95cUxNeU5ZUjI1SXIwcWFLeTBfQUNzb2ZCdHd6RHNxSWRKSGRRR2IyQktHOUpPNGdfWUNtb2VPZG5ZVXVpUmFrTU5seUFpWE00Q0xzOElvVk5LVTJOU0lMcjZuSnhvNS1XN2gtNWpVaFc2bWF6eDBkdnRPTDByc01PYTNESGVNcDFkV2hWdXFBZFZIUW1pYUdFZlJUQUM3YUJEbTZPRTFTcnVCdE1tWnE2bjF6X1ZXR3FaNUUxd2ttYzA0S3ZITE9aYllnUUtHU1lTbVBtOThVbHJJN09aWmQ1RGNnN19odUt6dFptZzdjMzJXN0hDd2QtUWk3N1ZHSGtBUWlX?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-21T11:45:14+02:00",
      "fecha_txt": "21 oct"
     }
    ]
