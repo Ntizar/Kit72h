@@ -41,12 +41,17 @@ La madrugada del 26 la VM pusheó 27 commits y hubo 2 conflictos:
 - ✅ Test end-to-end en producción: ingesta válida agrega (incluida posición), evento inválido rechazado, `/resumen` exige token (401 sin él), origen malicioso rechazado. Datos de prueba borrados (KV `eventos: []`)
 - ✅ `CONFIG.worker.url` conectado → tag `v20261026b` en las 190 páginas, pusheado (CI verde)
 
-## Falta (2 cosillas)
+## Falta (2 cosillas — ambas requieren TU identificación)
 
 1. **`.env` de la VM** (para que el cron de analítica de allí lea el worker). Un comando desde cualquier terminal git-bash de este PC:
    `grep "^KIT72H_EVENTOS" ~/Projects/kit72h/.env | ssh -p 30222 uuid@ssh.nan.builders 'cat >> ~/Projects/kit72h/.env'`
    (pedirá la contraseña de la VM). Alternativa: pegar las 2 líneas `KIT72H_EVENTOS_URL/TOKEN` del `.env` local en el chat del agente de la VM.
-2. **Amazon Associates**: 2-3 Tracking IDs por sección (atribución gratis en informes) — 5 min en dash.amazon-adsystem.com.
+   (Probado ssh sin contraseña desde el PC: `id_ed25519_nan` no está autorizada — no hay vía sin contraseña.)
+2. **Amazon Associates — Tracking IDs**: el dominio antiguo `dash.amazon-adsystem.com` y `affiliate-program.amazon.es` están RETIRADOS (NXDOMAIN global, DNS de David correcto). El panel actual: **https://affiliate-program.amazon.com/** → login con tu cuenta amazon.es → "Manage Your Tracking IDs" → "Add Tracking ID". Crear estos 3:
+   - `kit72h-home-21` (portada)
+   - `kit72h-kits-21` (páginas de kits)
+   - `kit72h-blog-21` (artículos del blog)
+   (tag actual del sitio: `ntizar-21`; en F3 se asigna un Tracking ID por sección en el prerender).
 
 ## Cómo se usa (el oro)
 
