@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-26T04:10:41+01:00",
+  "actualizado": "2026-10-26T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "EPS de Puno podrán recurrir a reservas para afrontar escasez de agua",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2lXNGFONWJna2psV1k3T0RNTmhQZGlNMUlNLWh0UENHdy1sU3E2Y0ljcmtLa19zd09HaHFzSGlxNFF4WW0yTl9FNlVaNElVTnJXN1VJelJKRXNXakVjdkpCZkt2dGZkeFpUbnZVVVhhRHJMLVRRLU51ODNreUZoV01RSDZYYzBXLXM5cng0MzRKOC1jRnFDeDA0S2JQTzdHTmJaaQ?oc=5",
+     "fuente": "Revelación.pe",
+     "resumen": "",
+     "fecha": "2026-10-26T06:33:01+01:00",
+     "fecha_txt": "26 oct"
+    },
     {
      "titulo": "España sigue sin kit de supervivencia mientras Europa se prepara para la guerra",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWJrY2w3bTNWdk5SdHJFQjBoVEJDQ0tEY0h1VGVuU2twRXZKUTlTWWZhcVFDWUxEWTlkMlZjM1JaTHhMNlBrekpZU3FxMWRzRDlzaENhbTJMUzBKakd6VThtSk9ldkZWZVpRRHZSeEdYbjlGaUtVRVY3MnFqRno5N0dObkMtdDVadTJZOXkySXplMjVnT3B1WWpadk5oc1I5ZnNKNGRGSQ?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-23T18:56:16+02:00",
      "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "Como en 1940: gobierno británico pide a la población que almacene comida enlatada y agua",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFZhZVBsNklmV2JqZTRnbHhxUnlOYlZJb09Na1NkNktEWEc1bnZJMGJGYmFtQWRncjd3ZnFya3c2SW8xeGhMeUpYWEhaTG0wMGRzaS12cDJWT3A2Wkc3d25iSWltOEhqeEF3Z3EyWHRDak5CMno3dngtSThNaGxzYXpMMW9OMElxOEt3a2JmTlA1Z2YyclJFRmZDdnB1WExMRkxRUDJyTHFCYjZRTjYtZXE2al9jVTZXZ3dZYS1pNWVVa0tPOU15MTE2Q1AzQ0t60gH0AUFVX3lxTE9tVmFySkFZVk43QjZRZGR4cFNnZGhPb3JFTXk2ams0RHR5aUFjaVJFN0FpcTFyLW9FeFI3emYxMFRDd2dLaEhnbThuX2dpdWhLRV80a285YlllRUN5RW9WVUxDclA5YVhZZGVjbDdjWnRDbUcwMWhtN3QxUG5UTG5SZ1lpSzZqdXhVVUthY21RVDZBY1NZdXNpazhtVkt4T3FmZmx5b3hveGhfYjd2RzdyQWNGaFFlYU52eGp3WV93eHRtSHp5WXJFYlpEV0NyVkFmUlkzdmVETVFYUm90ZS1tU0o3aXZaTGdkRC1vYzhUYjB4bno?oc=5",
-     "fuente": "Montevideo Portal",
-     "resumen": "",
-     "fecha": "2026-10-23T18:43:00+02:00",
-     "fecha_txt": "23 oct"
     }
    ]
   },
@@ -83,11 +83,11 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Los incendios de julio en Madrid, Ávila y Toledo calcinaron más de 77.000 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnptdWZSNmhLcFBFOHBkUUFPQ3BldEVKMVg1dHZxa1JvR0dEU1o3bWdmQ2xQMmwtQ2VQcE13cmZPbTRtRDJrdWRIaVhPZUY4V2VMQzVoUGJ4RkREb0RnajI3RzEtSFdSZTRubmJrZzFjOEpfWlRMMDl1RWREclJTOS1UaXpHa29zVXpWYkhZOVZpUy1XTVBLMUdRZmkzMldNY3YxOE9CV1A0eE1NdWVKeTVYUVNYWWM?oc=5",
-     "fuente": "MadridPress",
-     "resumen": "",
-     "fecha": "2026-10-23T12:59:19+02:00",
+     "titulo": "Entró en vigor: los propietarios de fincas forestales en España de menos de 10 hectáreas no pueden dividirlas",
+     "url": "https://www.elespanol.com/ciencia/20261023/entro-vigor-propietarios-fincas-forestales-espana-hectareas-no-pueden-dividirlas/1003744430605_0.html",
+     "fuente": "El Español",
+     "resumen": "Ni para vender ni para repartir una herencia: Extremadura limita la división de fincas forestales de menos de 10 hectáreas. Más información: La psicología dice que los adultos nacidos entre 1972 y 200 ...",
+     "fecha": "2026-10-23T10:26:00+02:00",
      "fecha_txt": "23 oct"
     },
     {
@@ -154,19 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Valencia proyecta 15 nuevos depósitos de tormentas para minimizar inundaciones",
-     "url": "https://www.antena3.com/noticias/el-tiempo/actualidad/valencia-proyecta-15-nuevos-depositos-tormentas-minimizar-inundaciones_202610256adde1341e53586bfbbd057e.html",
-     "fuente": "Antena 3",
-     "resumen": "Los depósitos reducen el estrés del alcantarillado y depuran el agua almacenada, consiguiendo contaminar menos los ríos y playas ...",
-     "fecha": "2026-10-25T09:51:00+01:00",
-     "fecha_txt": "25 oct"
+     "titulo": "El aumento de las inundaciones y las tormentas presionan al alza el precio de los seguros en España",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0VkMWJWVFJDT0ExTE5MU0dRZkhfYjFyUU1SOUFoTGY0cDVDS0Q5X0cwYTRJYThScVRlcUZ3d0M0WHFZYkhPUWFnYTIxRlVhYW5UMFUwd0RpVTVKUm1MLTBPNk05YmJhNnNBTkNVajhDYmRkYjZNSF85SmhFWFNZUGNXN3hPajJybUtQUVRtbjUyX25IZllHYjRvM3FtUEpuZHh6eHdLZXRuT2xIQkZ0UmlSZXA3bHpJcUxGcUpQaEJ0R3pr0gHEAUFVX3lxTE5xQjVlYWJkbEVtb1Y4QzI0elRabWkxYk1WNDZsWF9SUFVRQ1ZJOFhlaHpmQWd2emU2cGJFN1VxT3pNU2N1Q1FiZVJMaV9CTnIxNkVUNm1hbk55WFlhX01BZFhjSVBEWmRWRWFVM09CODJZRnFwd2FYeW16RTB2dUU4VjRUbEoyRFlvS0dJbHc2YTY1dTJTdExCNlBNV1pyVHpQRWdYazlaTEpYLXhhMG04SVFiNlBFNVVHWUVyTjRxYWc4SW0?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-10-26T06:00:32+01:00",
+     "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
-     "url": "https://www.diariodenavarra.es/noticias/magazine/sociedad/2026/10/25/tecnologia-concienciacion-factores-basicos-evitar-desastres-inundaciones-840001-106.html",
-     "fuente": "Diario de Navarra",
-     "resumen": "Desde compañías tecnológicas hasta ONG se unen para evitar que se repitan episodios como la dana de hace dos años ...",
-     "fecha": "2026-10-25T04:53:00+01:00",
+     "titulo": "La memoria del agua: un estudio documenta señales urbanas de riadas históricas para advertir del peligro de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVVZY0JCY05LLTVQQWF6M0JXU2wycnd4WGVsMlpxSzlyZ0IxZC1ZUDhrMEJGOUktaGROZzdZbHhTaEpxZnRzMmRGSVlQNEZ0eFpqbHVVMTJMOW5zNm5NVmlzc05mMFBPblpxcXdLLVByRkRrZkJSLVRZRnNMYmZUdHJHQURsUmlhOGdjbzNQdVVpMTlhTWt5Qk1pR2d5MG90cXc4bmpYRXhYaFZBeGxsU3RQajRSM0Y2eDI3WThObHlfX212QW9rQ1pJNXBKLUgzTGdudVVmQW4yNS1vRXF2Tk1SOXUyUWVtWGwtcTJkTk9OZk9yZmxPM0VMUE9CSzdJ0gGUAkFVX3lxTFBxU3dkNmJ5QUZ3U3B3TTQySVdVYTlVQU5EVUhHUmppNTlpOU5JQ1l4Q1dCck1SZnJZYXZVWWw2UWFXdU9tYkItcGpmU0ZNVHdZcFBWMzhWMmhlN0N3MlFhSm9qTGlRQ2twb3QxU2tPZWl4ckx6V0lUeklNWC16amhqYnlkOTRXeG9fOGpWZUgxSHdKeWRpUE9YdVVmZjJaMUx5LWtlUmxIZmg4cldsZnJWMkltRE8wanJMUGUxUmd1MnNGQVJZejlEZjVhcDAtUzJjRW41c2lETTg0alhJX0E2NEJxbWJQRDFyWXFHS3RqVEFzZGdGaDcwbzhwM1laUXMxcFpnR29vSTBXWTNTOTZKU1MzMQ?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-10-26T05:30:01+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
+     "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
+     "fuente": "Granada Hoy",
+     "resumen": "Las peticiones proceden de familias, comercios y empresas con daños en sus inmuebles tras las intensas precipitaciones ...",
+     "fecha": "2026-10-25T18:00:00+01:00",
      "fecha_txt": "25 oct"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-10-24T03:29:00+02:00",
      "fecha_txt": "24 oct"
-    },
-    {
-     "titulo": "Dana Adam: cómo solicitar una indemnización al Consorcio de Compensación de Seguros por los daños",
-     "url": "https://www.cronista.com/espana/actualidad-es/dana-adam-como-solicitar-una-indemnizacion-al-consorcio-de-compensacion-de-seguros-por-los-danos/",
-     "fuente": "El Cronista",
-     "resumen": "Las personas afectadas por la dana Adam ya pueden solicitar una indemnización al Consorcio de Compensación de Seguros, que hasta el momento acumula miles de pedidos provenientes principalmente de la ...",
-     "fecha": "2026-10-23T07:10:00+02:00",
-     "fecha_txt": "23 oct"
     }
    ]
   },
@@ -238,14 +238,6 @@
      "fuente": "Gizmodo en Español",
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "España se sitúa ya detrás de Bangladés en seguridad energética",
-     "url": "https://www.larazon.es/economia/espana-situa-detras-banglades-seguridad-energetica_202610266adec11b7bb08b385f0bdcba.html",
-     "fuente": "La Razón",
-     "resumen": "Se hunde hasta el puesto 102 global por la dependencia del petróleo y el gas exterior y el apagón del 28A, según el índice del Instituto Adam Smith ...",
-     "fecha": "2026-10-25T07:55:00+01:00",
      "fecha_txt": "25 oct"
     },
     {
@@ -287,6 +279,14 @@
      "resumen": "La disponibilidad de las centrales de ciclo combinado, que utilizan gas natural para generar electricidad, llegó a reducirse hasta el 65% de la potencia instalada, se queja el operador del sistema ...",
      "fecha": "2026-10-22T19:00:00+02:00",
      "fecha_txt": "22 oct"
+    },
+    {
+     "titulo": "El cable submarino de 330M se estrena en Ceuta con un apagón y sin que se active a tiempo la planta de reserva que pide Vivas",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm15ZHg5eDFqaVFUYVg5dDZ5WTRySENTWHI3Umkyb0d6Yy15MVR2a3loa3MwdEUzOGdkakxaQXBkSWxuaHhuMmRIZGdXVXoteFBBVzd4N19KUTZnRHNuLW0yNDhKZG1wczhtVXJqcVRablJod2ota19YZVZ2WWpJNHE1cDJ6QmZxYmVzS2ZCWUJZWnhHU0ZCMWhXa0xfS0ZVZmt4R190RlZWcEhzN1RPN21wRzk1N0ZJazM5SmRwYlJGandORWZ3N01fSFpsTXV2MGF5TTM5NHdJMU1Nai0waWJ6NGZndTDSAewBQVVfeXFMTWhsaEpweUFEYmc5QVdibG55TXpvQWJJQU9jZkdyY0lCcjVVckxPWUhwdHgzeEt4akpHZXl4VVFVQ3dxM2F2M1J3LTJZNTV0LTFRTE5BYnVzRDBXZlpfdkxkNHVvaENjUWltM005ZDYxaFVaSUw4S1EwS0FuUEFNcVNlY2VVdlpmTkJjZ3NJMXpKNXpZMlVwZTBEQVZtQWdoYVlibnVrRkVoZEhGdVYxcUx0RkhYc3dkV0pEcXBERHlUTGVaWC13bTZpNHNtWUdjNUl6TGhpOXYtQ0o1OEhYMGZtUThodWVsU09Bd0k?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-10-21T12:49:20+02:00",
+     "fecha_txt": "21 oct"
     }
    ]
   }
