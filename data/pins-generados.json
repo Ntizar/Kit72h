@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-22",
-    "total": 78,
-    "png_total": 78
+    "ultima_generacion": "2026-10-26",
+    "total": 85,
+    "png_total": 85
   },
   "pins": [
     {
@@ -706,6 +706,69 @@
       "emoji": "📖",
       "pin": "pin-blog-mejores-cadenas-para-la-nieve.html",
       "png": "png/pin-blog-mejores-cadenas-para-la-nieve.png"
+    },
+    {
+      "slug": "pin-kit-kit-suiza",
+      "tipo": "kit",
+      "titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+      "url": "https://kit72h.com/kit/kit-suiza/",
+      "emoji": "📋",
+      "pin": "pin-kit-kit-suiza.html",
+      "png": "png/pin-kit-kit-suiza.png"
+    },
+    {
+      "slug": "pin-blog-mejor-arrancador-bateria-coche",
+      "tipo": "blog",
+      "titulo": "Mejor arrancador de batería para coche: 3 tipos comparados para emergencias",
+      "url": "https://kit72h.com/blog/mejor-arrancador-bateria-coche/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-arrancador-bateria-coche.html",
+      "png": "png/pin-blog-mejor-arrancador-bateria-coche.png"
+    },
+    {
+      "slug": "pin-blog-mejor-bomba-achuite-inundacion",
+      "tipo": "blog",
+      "titulo": "Mejor bomba de achique para inundación (2026): 5 modelos comparados",
+      "url": "https://kit72h.com/blog/mejor-bomba-achuite-inundacion/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-bomba-achuite-inundacion.html",
+      "png": "png/pin-blog-mejor-bomba-achuite-inundacion.png"
+    },
+    {
+      "slug": "pin-blog-cuanta-agua-comida-reserva-emergencia-casa",
+      "tipo": "blog",
+      "titulo": "Cuánta agua y comida guardar en casa: las cantidades oficiales de Suiza (y lo que dice España)",
+      "url": "https://kit72h.com/blog/cuanta-agua-comida-reserva-emergencia-casa/",
+      "emoji": "📖",
+      "pin": "pin-blog-cuanta-agua-comida-reserva-emergencia-casa.html",
+      "png": "png/pin-blog-cuanta-agua-comida-reserva-emergencia-casa.png"
+    },
+    {
+      "slug": "pin-blog-mejor-power-station-para-apagones-en-casa",
+      "tipo": "blog",
+      "titulo": "Mejor power station para apagones en casa: 5 modelos comparados (2026)",
+      "url": "https://kit72h.com/blog/mejor-power-station-para-apagones-en-casa/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-power-station-para-apagones-en-casa.html",
+      "png": "png/pin-blog-mejor-power-station-para-apagones-en-casa.png"
+    },
+    {
+      "slug": "pin-blog-mejor-kit-solar-portatil-para-casa",
+      "tipo": "blog",
+      "titulo": "Mejor kit solar portátil para casa (2026): 5 modelos comparados",
+      "url": "https://kit72h.com/blog/mejor-kit-solar-portatil-para-casa/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-kit-solar-portatil-para-casa.html",
+      "png": "png/pin-blog-mejor-kit-solar-portatil-para-casa.png"
+    },
+    {
+      "slug": "pin-blog-mejor-generador-electrico-portatil-inverter",
+      "tipo": "blog",
+      "titulo": "Mejor generador eléctrico portátil inverter (2026): potencia, ruido y lo que mata",
+      "url": "https://kit72h.com/blog/mejor-generador-electrico-portatil-inverter/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-generador-electrico-portatil-inverter.html",
+      "png": "png/pin-blog-mejor-generador-electrico-portatil-inverter.png"
     }
   ]
 }
