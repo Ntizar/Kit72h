@@ -613,3 +613,16 @@ todas las descriptions en 90–155.
 - : resumen acortado para caber en SERP (155→150 car.).
 
 **Commit:** 5e478d8 — 
+
+## 2026-10-26 06:03 — SEO/CTR run
+
+**Resultado:** 2 mejoras aplicadas (resumens acortados a ≤150 car.).
+
+**Páginas analizadas:** 85 rutas (20 kits + 62 blogs + 4 auxiliares + home).
+
+**Cambios aplicados:**
+- `blog/cuanta-agua-comida-reserva-emergencia-casa`: resumen 155→150 car. para caber en SERP.
+- `blog/mejor-bomba-achuite-inundacion`: resumen 155→150 car. para caber en SERP.
+
+**Commit:** 68e2a08 — `feat(seo): optimizar meta tags para CTR (2 mejoras)`
+**Push:** ✅ origin/main
