@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-26T10:10:40+01:00",
+  "actualizado": "2026-10-26T13:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,19 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Reino Unido alerta del riesgo de guerra antes de 2030 y pide a los ciudadanos preparar un kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZm9Qc0hUNDRTbkppVWRFb1BxRGYwQjJlWTlrNHdZdXVLZTZpMjJ1MXJ1NmhUSDVqLUZqZlo5akJka1lKXy0xeG40QVQ4TVJRY2t0NE1MMEVHWGZCQ0YxRnhwV1ZjTVk4YTVqRE1rckY2LV9XbXdZZVJKZExUd0VPMm5JUEc2azB5Skx2OW85bVpqR1B6eTlDSk1oN0w2aFpxa2VkeUNsSi1mcDRONVFpbEVNTWIybkVVMXdOZlM0MDhBNjRDYXB0X3BjazRRem83NHhSMdIB1AFBVV95cUxOZm9Qc0hUNDRTbkppVWRFb1BxRGYwQjJlWTlrNHdZdXVLZTZpMjJ1MXJ1NmhUSDVqLUZqZlo5akJka1lKXy0xeG40QVQ4TVJRY2t0NE1MMEVHWGZCQ0YxRnhwV1ZjTVk4YTVqRE1rckY2LV9XbXdZZVJKZExUd0VPMm5JUEc2azB5Skx2OW85bVpqR1B6eTlDSk1oN0w2aFpxa2VkeUNsSi1mcDRONVFpbEVNTWIybkVVMXdOZlM0MDhBNjRDYXB0X3BjazRRem83NHhSMQ?oc=5",
+     "fuente": "Onda Vasca",
+     "resumen": "",
+     "fecha": "2026-10-26T12:06:43+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "EPS de Puno podrán recurrir a reservas para afrontar escasez de agua",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2lXNGFONWJna2psV1k3T0RNTmhQZGlNMUlNLWh0UENHdy1sU3E2Y0ljcmtLa19zd09HaHFzSGlxNFF4WW0yTl9FNlVaNElVTnJXN1VJelJKRXNXakVjdkpCZkt2dGZkeFpUbnZVVVhhRHJMLVRRLU51ODNreUZoV01RSDZYYzBXLXM5cng0MzRKOC1jRnFDeDA0S2JQTzdHTmJaaQ?oc=5",
      "fuente": "Revelación.pe",
      "resumen": "",
-     "fecha": "2026-10-26T06:33:01+01:00",
+     "fecha": "2026-10-26T06:44:46+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -37,7 +45,7 @@
     },
     {
      "titulo": "Reino Unido actualiza su kit de emergencia para los hogares con dinero en efectivo, mantas y copias de documentos",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVNCTEl3OEZ4ckttQ01HcGYya1N2TU1ueVdOaVg5Y192SmRNWU1FOFlqVFRYR2F4OEl2N2JQVWhhMW1KcDZPYVdnNDNVX2dSWG9FY1A4ZnFJNFNNeWRKVV9sY3VSdjJfV2E3SXV0aHFRek9XdzZEem5xYzc2R1k0XzdwZEpHZXRIbkFCbkZwcHV1ZGl1cjVYTmZ5RThSVElTZTktcktBNWl3WVVKMGfSAa4BQVVfeXFMTVlTQkxJdzhGeHJLbUNNR3BmMmtTdk1NbnlXTmlYOWNfdkpkTVlNRThZalRUWEdheDhJdjdiUFVoYTFtSnA2T2FXZzQzVV9nUlhvRWNQOGZxSTRTTXlkSlVfbGN1UnYyX1dhN0l1dGhxUXpPV3c2RHpucWM3NkdZNF83cGRKR2V0SG5BQm5GcHB1dWRpdXI1WE5meUU4UlRJU2U5LXJLQTVpd1lVSjBn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1NjQks1VVo1Y0phUVhfWTVyLTB3cXoxRmM4VDdkTzF2Sk92THRlN1dCby16OTRIbWFhRnQxcE9uQWpGTmxzZDNxNFhrbEpORl9pbll2OFNQOUc0bWNvbnYycU0yRXZYNkpqNU5YY1VnM1VyNHpzTmpNcGhzZXMwclhXY2hfMUZfaFNiTXdWUHR4U0IyMDE0dExB0gGuAUFVX3lxTE1ZU0JMSXc4RnhyS21DTUdwZjJrU3ZNTW55V05pWDljX3ZKZE1ZTUU4WWpUVFhHYXg4SXY3YlBVaGExbUpwNk9hV2c0M1VfZ1JYb0VjUDhmcUk0U015ZEpVX2xjdVJ2Ml9XYTdJdXRocVF6T1d3NkR6bnFjNzZHWTRfN3BkSkdldEhuQUJuRnBwdXVkaXVyNVhOZnlFOFJUSVNlOS1yS0E1aXdZVUowZw?oc=5",
      "fuente": "El HuffPost",
      "resumen": "",
      "fecha": "2026-10-24T16:56:50+02:00",
@@ -65,14 +73,6 @@
      "fuente": "UnoTV",
      "resumen": "",
      "fecha": "2026-10-23T19:02:16+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "¿Por qué Reino Unido pide a sus ciudadanos prepararse para pasar 72 horas sin luz, agua ni internet?",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjZTYzVfV0JFdXAzZlI0VTJMcVJMdHVhN0JHTmVIX19BQ2NlWkx2UFVDSllkZGdWRV9xUFp1Zi1mSG5GdlNFSG1pUmozV0wxRkFnNmFpUXJBNTk1OEQxb0d5dXVmZUs2dmtlNm5nczIxRjhTQzlGa01GR1F1dHU2a09VQl9RUTRLVFNOZzkwOUpFVVk4dVVuT0RoLWwtcXN4RXliYjVxd04zenFGbVpMNFVzalRIZWFHbElLUXhvYmlnZVNFSTJXck9R0gHeAUFVX3lxTE5aQy1zRTVRc1g1eXJtazBnSHo4ejcweUlZcVVQWGIwZThqbUJJa1dzQWl0ZWJFbks5enFJTUtzbUg0S2RiVEs1RzRmMTI0Nmw1TndkYXJnUzlybkltRG1FcWhsVGdId3RXZWpHR2JPRjA1ZEppRzg5V0VNUXJHeGI1WnVQM3FMYmppNERTZUp0YXBmWEFPT0Q3X2lnR0l0T24yLUZkX2VJblJ5dVE1NkhQQ0VUbDBmTjVEX2dKU29JX3dybm01Zi16TG94TWJGdFpTMTZVcHRBTnoyTkdzUQ?oc=5",
-     "fuente": "ViveUSA.mx",
-     "resumen": "",
-     "fecha": "2026-10-23T18:56:16+02:00",
      "fecha_txt": "23 oct"
     }
    ]
@@ -139,11 +139,11 @@
      "fecha_txt": "20 oct"
     },
     {
-     "titulo": "Copernicus destapa el fracaso de España contra los incendios",
-     "url": "https://www.msn.com/es-es/noticias/otras/copernicus-destapa-el-fracaso-de-espa%C3%B1a-contra-los-incendios/ar-AA2ejA2r",
-     "fuente": "La Razón on MSN",
-     "resumen": "Registra 301.299 hectáreas calcinadas hasta el 14 de octubre, el 43,1% del total de la UE ...",
-     "fecha": "2026-10-15T09:29:53+02:00",
+     "titulo": "España registra 301.299 hectáreas quemadas hasta el 14 de octubre, el 43,1% del total de la UE, según Copernicus",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeG9YTEZ1dmMteGpHVjJGamVvRzN4OGFPNUVOSEZvOXlmOUt3NWlVbmtWSkJacjVEdjhJU3B4MTVoY1dTdVQwSExtdkxQencwQjRKaEU2QVVCb3NNa3B0VWFfNDdpbklXS2UwLUlqMjJKbGoxMmozTWxxTVUzcUQ5cGpIalRhTDNmUjFkREFEc0NmY0xrMFNfY2xyYWxWTVhXU3h6R2RsYXpKQV9HR19GZDNOQU5wcHlpUVY4VUpYcjNNaVlyX3Z0dWxaRXZ3WFRzRWE3UVRMdw?oc=5",
+     "fuente": "Europa Press",
+     "resumen": "",
+     "fecha": "2026-10-15T09:00:00+02:00",
      "fecha_txt": "15 oct"
     }
    ]
@@ -167,14 +167,6 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-10-26T05:30:01+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Balance del Comité de Expertos del Gobierno tras la DANA: una foto para la presentación, informes ignorados y ningún documento final",
-     "url": "https://cadenaser.com/comunitat-valenciana/2026/10/26/balance-del-comite-de-expertos-del-gobierno-tras-la-dana-una-foto-para-la-presentacion-informes-ignorados-y-ningun-documento-final-radio-valencia/",
-     "fuente": "Cadena SER",
-     "resumen": "Científicos e investigadores que integran el órgano asesor muestran su malestar y decepción ante \"la falta de coordinación\" del Comité | Cadena SER ...",
-     "fecha": "2026-10-26T01:00:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-10-24T03:29:00+02:00",
      "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "El Gobierno de España paga barreras antirriadas a municipios de la zona cero dos años después la dana",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPb3dIRWxLUEJmbWRTMEMxZDFsN0h2RXFuQU5fYW0tLU85dUxlX0YwbDQ4TWR3OGxGZHpmMThHcElVY0hUa3NNak1ta29pYlhPUTJ1dERURGxDZXBYdE9aV25aWERwUjJhVE1lM3FRb1FYMXd0a28walV2SHliX0JmMmJBNk5XaTBOSUc5ZFNHQ19Tejk2d01fY1dfY2JaelRvc3dhTjE0S01EZEhBdG9iRXVNZzF2NzZfYWtfZTRvN0dCZmJfWFRla3FWNDlnekF6NDNESUFnUVJlejFPdjZzcW9ReFVXQjRXQmlTdllXMGJLUmItOERyVkhSVml5SUM2N1FIa0hn0gGaAkFVX3lxTE1vNmlWeVZmTTdlRDBkVHVJZUwzWHZyVTBEV19xM0l0blVXaVdDU3JjXzU5SUNMNUFWdEY0WWxPZUdiNW1SZDdSc0g5Y3ZGYXZfTnFxcVV3aTY2MXVRWFdoQ0dpeFlrMEluVkRnODlHVkVaYWVOT2NqeEkwR1htUjRGdmpTU3MwSW55eW5ncFRCaElxLW9DNlNxQkdrSnh6WkJaTzA4ekg0UWZYTWNpM3l1STd0ZFIyenExUlZfQTRZSXpXazZrWjAxYW9Kdy1pazdVeXFwUXplbTNST3hKZ01rM2ZSM0ZUdlJ6TE1Gc1V3Z25jMGpOVkVHMFdDSlpVZlhqcC1OcjNYbDFvRUh5TS1sTnpzcXdSVUVjUQ?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-22T14:19:43+02:00",
+     "fecha_txt": "22 oct"
     }
    ]
   },
@@ -224,6 +224,22 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFlFc05pbWZoRDR6SkswVjlHS0lsek8xdWtTM3dGRWZaSFlUc3AtV3dudm9JbWRhOEhtWk1PQ3lydlFMX0RuTUJNTk0yNHEtZTRCeWw2OWJLQkVXc2t4SkNaSXdncDdyMHhVR1B3NE5WaHBLaGtHWENIQWt1R1phSnR2c2RacnN4a3o2OFdjSHdaNUxjZE9LeEoyQ21lVmRtRWR3WDdZQmdDNEZfT1BFQ29PUWVyS3paOXRBUFAzYXhTTW1l0gHYAUFVX3lxTE9XVmw1blIzd0FNbUVQbWhZT3VjM1lUWjJHQUpRSlZBSUdHTDNRaXNQbVBHUGZHeUJHcFY5MFlPejEyTGYyQmZOZHBKdFFYRFBSbm95VzNKMEtBODVTZGZWcHRJbVlwYmtQMjByWVBwUnRRbTFuOExSUF9MbGhfOU1tVURGNDJEMjVPZUZqMVI0TlZ1U0N2TXN0MGVUczhjRUlHMGR3VmM0VjdTSjhpUGVNd3p3a0tZVWQ2OUtESUd0cWNQNFEwcmd3YXpqamF3bnoteERwdHhBdg?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-26T11:16:35+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "España se sitúa ya detrás de Bangladés en seguridad energética",
+     "url": "https://www.larazon.es/economia/espana-situa-detras-banglades-seguridad-energetica_202610266adec11b7bb08b385f0bdcba.html",
+     "fuente": "La Razón",
+     "resumen": "Se hunde hasta el puesto 102 global por la dependencia del petróleo y el gas exterior y el apagón del 28A, según el índice del Instituto Adam Smith ...",
+     "fecha": "2026-10-25T21:56:00+01:00",
+     "fecha_txt": "25 oct"
+    },
     {
      "titulo": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
      "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
@@ -271,22 +287,6 @@
      "resumen": "La disponibilidad de las centrales de ciclo combinado, que utilizan gas natural para generar electricidad, llegó a reducirse hasta el 65% de la potencia instalada, se queja el operador del sistema ...",
      "fecha": "2026-10-22T19:00:00+02:00",
      "fecha_txt": "22 oct"
-    },
-    {
-     "titulo": "El cable submarino de 330M se estrena en Ceuta con un apagón y sin que se active a tiempo la planta de reserva que pide Vivas",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm15ZHg5eDFqaVFUYVg5dDZ5WTRySENTWHI3Umkyb0d6Yy15MVR2a3loa3MwdEUzOGdkakxaQXBkSWxuaHhuMmRIZGdXVXoteFBBVzd4N19KUTZnRHNuLW0yNDhKZG1wczhtVXJqcVRablJod2ota19YZVZ2WWpJNHE1cDJ6QmZxYmVzS2ZCWUJZWnhHU0ZCMWhXa0xfS0ZVZmt4R190RlZWcEhzN1RPN21wRzk1N0ZJazM5SmRwYlJGandORWZ3N01fSFpsTXV2MGF5TTM5NHdJMU1Nai0waWJ6NGZndTDSAewBQVVfeXFMTWhsaEpweUFEYmc5QVdibG55TXpvQWJJQU9jZkdyY0lCcjVVckxPWUhwdHgzeEt4akpHZXl4VVFVQ3dxM2F2M1J3LTJZNTV0LTFRTE5BYnVzRDBXZlpfdkxkNHVvaENjUWltM005ZDYxaFVaSUw4S1EwS0FuUEFNcVNlY2VVdlpmTkJjZ3NJMXpKNXpZMlVwZTBEQVZtQWdoYVlibnVrRkVoZEhGdVYxcUx0RkhYc3dkV0pEcXBERHlUTGVaWC13bTZpNHNtWUdjNUl6TGhpOXYtQ0o1OEhYMGZtUThodWVsU09Bd0k?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-10-21T12:49:20+02:00",
-     "fecha_txt": "21 oct"
-    },
-    {
-     "titulo": "Un apagón general deja a oscuras a la ciudad autónoma de Ceuta debido a un fallo masivo en el centro urbano",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3h3QlY5eGdBTlVXcFdGU2JmTnQ3eF9XNVdNX2hhajB3MElyMURnQlBNREJvZXpkS3F0UUF0UmVkUkNkZnFaNWxnNENIQ05RQ2VkbnowNkYxOXozYS1wZ3U0ZlNyNlp2Y0tfVEFWWmxiX1c0YlFadGs4dEhwZWRGZmZkTTJ2V2VDYVhqN2FZcUxDZkRKTm16dk9DWUZta3VPQVk1ZldOUC1vZzF1eGtrZnJpdTBPSVVLcV9BdExXd0xCejJPdXFCYXFnZHJfUldCYzhMSm43cmE3R2tPVnVLTDZMNTBRWllzalhoONIBgAJBVV95cUxNeU5ZUjI1SXIwcWFLeTBfQUNzb2ZCdHd6RHNxSWRKSGRRR2IyQktHOUpPNGdfWUNtb2VPZG5ZVXVpUmFrTU5seUFpWE00Q0xzOElvVk5LVTJOU0lMcjZuSnhvNS1XN2gtNWpVaFc2bWF6eDBkdnRPTDByc01PYTNESGVNcDFkV2hWdXFBZFZIUW1pYUdFZlJUQUM3YUJEbTZPRTFTcnVCdE1tWnE2bjF6X1ZXR3FaNUUxd2ttYzA0S3ZITE9aYllnUUtHU1lTbVBtOThVbHJJN09aWmQ1RGNnN19odUt6dFptZzdjMzJXN0hDd2QtUWk3N1ZHSGtBUWlX?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-10-21T11:45:14+02:00",
-     "fecha_txt": "21 oct"
     }
    ]
   }
