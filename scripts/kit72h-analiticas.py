@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 """Kit72h — analíticas web: descarga métricas y normaliza a data/analiticas.json.
 
-Proveedor principal: **Umami Cloud** (visitas + páginas + referrers + países +
-dispositivos + serie diaria + EVENTOS personalizados como `clic-amazon`).
-Alternativa: Cloudflare Web Analytics (RUM) vía GraphQL, cuando no hay Umami.
+Visitas: **Cloudflare Web Analytics** (RUM vía GraphQL) — o Umami Cloud si hay
+clave. Eventos del funnel (clic-amazon, scroll-50/90): **worker propio**
+(`worker-eventos/`, Cloudflare Workers + KV), que sustituye a Umami como
+contador de eventos (el plan gratis de Umami no da API de lectura, ver
+notes/2026-10-13-analitica-bloqueo-umami-free.md).
 
 Qué hace:
 1. Lee credenciales de entorno (nunca hardcodeadas).
@@ -31,6 +33,8 @@ Variables de entorno:
   CLOUDFLARE_API_TOKEN        (alternativa si no hay Umami)
   CLOUDFLARE_ACCOUNT_ID       (opcional; si falta, se autodescubre)
   CF_RUM_SITE_TAG             (opcional; si falta, se busca por 'kit72h')
+  KIT72H_EVENTOS_URL          (worker-eventos/ desplegado: URL base del worker)
+  KIT72H_EVENTOS_TOKEN        (token de /resumen; el mismo del secret TOKEN)
   KIT72H_ANALITICAS_DIAS      (opcional; por defecto 30)
 
 Uso:
@@ -731,6 +735,36 @@ def umami_completo():
     return resultado
 
 
+# ─────────────── Worker propio: eventos del funnel (casa) ─────────────────
+# worker-eventos/ (Cloudflare Workers + KV) agrega los eventos que manda
+# js/analiticas.js. Su GET /resumen devuelve ya el contrato de `eventos`,
+# con lectura protegida por token (env KIT72H_EVENTOS_TOKEN).
+
+def worker_eventos(dias=None):
+    """Eventos del worker propio. [] si respondió sin eventos, None si no está
+    configurado o falló."""
+    url = (os.environ.get("KIT72H_EVENTOS_URL") or "").rstrip("/")
+    token = os.environ.get("KIT72H_EVENTOS_TOKEN")
+    if not url or not token:
+        return None
+    data, err = http_json(url + "/resumen?dias=%d" % (dias or DIAS), token=token)
+    eventos = data.get("eventos") if isinstance(data, dict) else None
+    if not isinstance(eventos, list):
+        print("  ⚠️ worker-eventos: %s" % str(err or data)[:160], file=sys.stderr)
+        return None
+    limpias = []
+    for fila in eventos:
+        if not isinstance(fila, dict):
+            continue
+        por_pagina = fila.get("por_pagina")
+        limpias.append({
+            "nombre": str(fila.get("nombre") or "evento"),
+            "total": int(fila.get("total") or 0),
+            "por_pagina": por_pagina if isinstance(por_pagina, list) else [],
+        })
+    return limpias
+
+
 # ───────────────────────────── Salida ─────────────────────────────────────
 
 def plantilla(estado, mensaje, fuente="ninguna"):
@@ -810,9 +844,12 @@ def main(argv=None):
 
     token = os.environ.get("CLOUDFLARE_API_TOKEN")
     umami_key = os.environ.get("UMAMI_API_KEY")
+    worker_configurado = bool(
+        os.environ.get("KIT72H_EVENTOS_URL") and os.environ.get("KIT72H_EVENTOS_TOKEN"))
+    eventos_worker = worker_eventos()
 
     # Sin credenciales de nada → estado explícito, listas vacías, código 0.
-    if not token and not umami_key:
+    if not token and not umami_key and not worker_configurado:
         resultado = plantilla(
             "sin-credenciales",
             "Sin credenciales de analítica. Falta UMAMI_API_KEY (Umami Cloud; el "
@@ -842,6 +879,12 @@ def main(argv=None):
     eventos = umami_eventos() if umami_key else None
     clics_amazon = 0
     if eventos:
+        clics_amazon = sum(e["total"] for e in eventos if "amazon" in e["nombre"].lower())
+
+    # El worker propio es el contador de eventos de la casa: si tiene algo,
+    # sustituye a Umami (evita duplicar recuentos entre proveedores).
+    if eventos_worker:
+        eventos = eventos_worker
         clics_amazon = sum(e["total"] for e in eventos if "amazon" in e["nombre"].lower())
 
     # ── Recorrido Cloudflare (proveedor principal) ──
@@ -892,7 +935,7 @@ def main(argv=None):
 
                 resultado = plantilla(
                     "ok", "Métricas de Cloudflare Web Analytics leídas correctamente.",
-                    fuente="cloudflare")
+                    fuente="cloudflare+worker" if eventos_worker else "cloudflare")
                 resultado["totales"] = {
                     "visitas": total_visitas,
                     "paginas": total_paginas,
@@ -954,8 +997,25 @@ def main(argv=None):
                                 "de la CDN (incluye bots)." % cobertura)
 
     else:
-        # Sin Cloudflare pero con Umami: usar lo que haya.
-        if eventos:
+        # Sin Cloudflare: eventos del worker propio o de Umami, lo que haya.
+        if eventos_worker is not None:
+            resultado = plantilla(
+                "ok",
+                "Eventos del worker propio (worker-eventos/) leídos correctamente. "
+                "Las visitas necesitan además CLOUDFLARE_API_TOKEN.",
+                fuente="worker")
+            resultado["eventos"] = eventos_worker
+            resultado["totales"]["clics_amazon"] = sum(
+                e["total"] for e in eventos_worker if "amazon" in e["nombre"].lower())
+        elif worker_configurado:
+            resultado = plantilla(
+                "error",
+                "El worker propio (KIT72H_EVENTOS_URL) está configurado pero no "
+                "respondió bien: revisa KIT72H_EVENTOS_URL y KIT72H_EVENTOS_TOKEN "
+                "(el token debe ser el mismo del secret TOKEN del worker). El "
+                "detalle del fallo queda en el log del cron.",
+                fuente="worker")
+        elif eventos:
             resultado = plantilla(
                 "ok", "Solo se pudieron leer los eventos de Umami (falta CLOUDFLARE_API_TOKEN).",
                 fuente="umami")
@@ -964,8 +1024,8 @@ def main(argv=None):
         else:
             resultado = plantilla(
                 "error",
-                "Sin CLOUDFLARE_API_TOKEN y no se pudieron leer eventos de Umami "
-                "(revisa UMAMI_API_KEY/UMAMI_WEBSITE_ID o UMAMI_HOST).",
+                "Sin CLOUDFLARE_API_TOKEN y sin eventos (revisa KIT72H_EVENTOS_URL/"
+                "KIT72H_EVENTOS_TOKEN del worker propio o UMAMI_API_KEY).",
                 fuente="ninguna")
 
     escribir(resultado, args.stdout)

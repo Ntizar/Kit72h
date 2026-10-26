@@ -1,0 +1,10 @@
+# Kit72h — worker-eventos: contador del funnel sin cookies ni PII.
+name = "kit72h-eventos"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+# El id se rellena tras crear el namespace (paso 2 del README).
+[[kv_namespaces]]
+binding = "EVENTOS"
+id = "PENDIENTE_DE_CREAR"

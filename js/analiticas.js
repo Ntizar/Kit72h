@@ -11,9 +11,10 @@
  *  - Si no hay proveedor configurado, este fichero no hace ABSOLUTAMENTE NADA
  *    (ni una petición de red) y no rompe nada.
  *
- * Para activarlo: rellenar CONFIG.beacon_cloudflare (Cloudflare Web Analytics)
- * o CONFIG.umami.website_id (Umami Cloud, permite eventos personalizados) o
- * CONFIG.goatcounter.code. Ver notes/2026-10-12-analitica-kit72h.md
+ * Para activarlo: rellenar CONFIG.beacon_cloudflare (Cloudflare Web Analytics),
+ * CONFIG.umami.website_id (Umami Cloud, permite eventos personalizados),
+ * CONFIG.goatcounter.code o CONFIG.worker.url (worker-eventos/, eventos de la
+ * casa). Ver notes/2026-10-12-analitica-kit72h.md
  */
 (function () {
   "use strict";
@@ -26,6 +27,10 @@
     umami: { website_id: "", src: "https://cloud.umami.is/script.js" },
     // GoatCounter (opcional): alternativa gratuita con eventos.
     goatcounter: { code: "" },
+    // Worker propio (Cloudflare Workers + KV, carpeta worker-eventos/): el
+    // contador de eventos de la casa. Sin cookies ni PII. Se rellena la URL
+    // tras el despliegue (ver worker-eventos/README.md).
+    worker: { url: "" },
     // Interruptor maestro para los eventos de clic/scroll (independiente del
     // proveedor: solo se envían si hay uno con soporte de eventos).
     eventos: true
@@ -79,6 +84,11 @@
     hayEventos = true;
   }
 
+  // El worker propio no carga scripts: los eventos viajan por sendBeacon.
+  if (CONFIG.worker && CONFIG.worker.url) {
+    hayEventos = true;
+  }
+
   // --- Eventos: lo que de verdad mueve la aguja --------------------------
   function evento(nombre, datos) {
     if (!CONFIG.eventos || !hayEventos) { return; }
@@ -91,6 +101,38 @@
         window.goatcounter.count({ path: etiqueta, title: nombre, event: true });
       }
     } catch (e) { /* silencio */ }
+    encolar(nombre, (datos && datos.pagina) || ruta(), datos && datos.posicion);
+  }
+
+  // --- Transporte al worker propio (worker-eventos/) ---------------------
+  // Agrupa eventos en un solo POST (sendBeacon) para respetar el free tier
+  // del KV: 1 write por lote, no uno por evento. Flushea a los 15 s y al
+  // salir de la página. El prerender nocturno (navegador automatizado) no
+  // cuenta: navigator.webdriver lo delata y se le ignora.
+  var COLA = [];
+  var TEMPORIZADOR = null;
+  function encolar(nombre, pagina, posicion) {
+    if (!CONFIG.worker || !CONFIG.worker.url) { return; }
+    try {
+      if (navigator.webdriver === true) { return; }
+      COLA.push({ n: nombre, p: pagina, q: posicion });
+      if (!TEMPORIZADOR) { TEMPORIZADOR = setTimeout(flushEventos, 15000); }
+    } catch (e) { /* silencio */ }
+  }
+  function flushEventos() {
+    TEMPORIZADOR = null;
+    if (!COLA.length || !CONFIG.worker || !CONFIG.worker.url) { return; }
+    try {
+      var cuerpo = JSON.stringify({ e: COLA.splice(0, 20) });
+      if (navigator.sendBeacon &&
+          navigator.sendBeacon(CONFIG.worker.url + "/e", cuerpo)) { return; }
+      fetch(CONFIG.worker.url + "/e", {
+        method: "POST",
+        headers: { "Content-Type": "text/plain" },
+        body: cuerpo,
+        keepalive: true
+      });
+    } catch (e) { /* silencio: la analítica nunca rompe la página */ }
   }
 
   function ruta() {
@@ -144,6 +186,12 @@
   function arrancar() {
     try {
       if (CONFIG.eventos) { initClics(); initScroll(); }
+      if (CONFIG.worker && CONFIG.worker.url) {
+        window.addEventListener("pagehide", flushEventos);
+        document.addEventListener("visibilitychange", function () {
+          if (document.visibilityState === "hidden") { flushEventos(); }
+        });
+      }
     } catch (e) { /* silencio */ }
   }
 

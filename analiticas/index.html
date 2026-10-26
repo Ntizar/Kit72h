@@ -238,12 +238,29 @@
     </div>
   </section>
 
-  <section class="sec clara">
+  <section class="sec oscura">
     <div class="container">
       <div class="sec-inner">
         <span class="sec-label">Afiliación</span>
         <h2>Clics de afiliado, por página</h2>
         <div id="an-eventos"><p class="an-vacio">Leyendo los eventos…</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec clara">
+    <div class="container">
+      <div class="sec-inner">
+        <span class="sec-label">Funnel</span>
+        <h2>Dónde se muere la venta, página a página</h2>
+        <p class="sec-intro">De cada página: cuánta gente llegó, cuánta leyó (scroll del 50 %), cuánta llegó al final (90 %) y cuánta pulsó un enlace de Amazon. La fila con muchas visitas y pocos clics es la primera candidata a arreglarse.</p>
+        <div class="an-tabla-scroll">
+          <table class="an-tabla">
+            <caption>Cruce de las visitas (Cloudflare) con los eventos del funnel. Ordenado por visitas; el CTR es clics de Amazon divididos entre las visitas de esa página.</caption>
+            <thead><tr><th scope="col">Página</th><th scope="col">Visitas</th><th scope="col">Leyeron (50 %)</th><th scope="col">Al final (90 %)</th><th scope="col">Clics Amazon</th><th scope="col">CTR</th></tr></thead>
+            <tbody id="an-funnel"></tbody>
+          </table>
+        </div>
       </div>
     </div>
   </section>
@@ -257,8 +274,10 @@
   var RUTA_DATOS = "../data/analiticas.json";
   var MES_CORTO = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
   var MES_LARGO = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
-  var FUENTES = { cloudflare: "Cloudflare Web Analytics", umami: "Umami", ninguna: "Ninguna",
-                  "cloudflare-zona": "Cloudflare · analítica de zona" };
+  var FUENTES = { cloudflare: "Cloudflare Web Analytics", umami: "Umami",
+    "cloudflare-zona": "Cloudflare · analítica de zona",
+    "cloudflare+worker": "Cloudflare + Worker propio (eventos)",
+    worker: "Worker propio (eventos)", ninguna: "Ninguna" };
   var serieActual = [];
   var nf = new Intl.NumberFormat("es-ES");
 
@@ -687,6 +706,81 @@
     });
   }
 
+  /* ---------- Funnel: visitas → lectura → clic, por página ---------- */
+  function pintarFunnel(d) {
+    var tb = el("an-funnel");
+    if (!tb) { return; }
+    tb.innerHTML = "";
+
+    function mapaDe(nombre) {
+      var mapa = {};
+      var evs = (d && Array.isArray(d.eventos)) ? d.eventos : [];
+      evs.forEach(function (ev) {
+        if (String(ev && ev.nombre) !== nombre) { return; }
+        var pp = Array.isArray(ev.por_pagina) ? ev.por_pagina : [];
+        pp.forEach(function (p) {
+          var v = Number(p && p.total);
+          if (isFinite(v) && v > 0) {
+            var r = String(p && p.ruta);
+            mapa[r] = (mapa[r] || 0) + v;
+          }
+        });
+      });
+      return mapa;
+    }
+    var s50 = mapaDe("scroll-50");
+    var s90 = mapaDe("scroll-90");
+    var clics = mapaDe("clic-amazon");
+
+    var visitas = {};
+    ((d && Array.isArray(d.paginas)) ? d.paginas : []).forEach(function (p) {
+      var v = Number(p && p.visitas);
+      if (isFinite(v) && v > 0) {
+        var r = String(p && p.ruta);
+        visitas[r] = (visitas[r] || 0) + v;
+      }
+    });
+
+    var rutas = {};
+    var k;
+    for (k in visitas) { rutas[k] = true; }
+    for (k in clics) { rutas[k] = true; }
+    var lista = Object.keys(rutas).sort(function (a, b) {
+      return (visitas[b] || 0) - (visitas[a] || 0) ||
+             (clics[b] || 0) - (clics[a] || 0) || (a < b ? -1 : 1);
+    });
+
+    if (!lista.length) {
+      var trv = document.createElement("tr");
+      var tdv = document.createElement("td");
+      tdv.setAttribute("colspan", "6");
+      tdv.textContent = "Sin visitas ni clics en esta ventana.";
+      trv.appendChild(tdv);
+      tb.appendChild(trv);
+      return;
+    }
+
+    lista.slice(0, 25).forEach(function (r) {
+      var v = visitas[r] || 0;
+      var c = clics[r] || 0;
+      var ctr = v > 0 ? (c / v * 100) : null;
+      var tr = document.createElement("tr");
+      function celda(texto, clase) {
+        var td = document.createElement("td");
+        if (clase) { td.className = clase; }
+        td.textContent = texto;
+        tr.appendChild(td);
+      }
+      celda(r, "an-sub__ruta");
+      celda(num(v), "an-num");
+      celda(s50[r] !== undefined ? num(s50[r]) : "—", "an-num");
+      celda(s90[r] !== undefined ? num(s90[r]) : "—", "an-num");
+      celda(num(c), "an-num");
+      celda(ctr === null ? "—" : pct(ctr), "an-num");
+      tb.appendChild(tr);
+    });
+  }
+
   /* ---------- Pintado completo / degradado ---------- */
   function pintarTodo(d) {
     serieActual = Array.isArray(d.serie_diaria) ? d.serie_diaria : [];
@@ -700,6 +794,7 @@
     pintarFilas(el("an-lista-dispositivos"), d.dispositivos, "tipo");
     pintarEstado(d);
     pintarEventos(d);
+    pintarFunnel(d);
   }
 
   function pintarVacio(url, motivo) {
@@ -714,6 +809,7 @@
     pintarFilas(el("an-lista-dispositivos"), [], "tipo");
     pintarEstado(null, url, motivo);
     pintarEventos(null);
+    pintarFunnel(null);
   }
 
   function urlDatos() {
