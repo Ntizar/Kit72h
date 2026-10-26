@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-25T22:10:41+01:00",
+  "actualizado": "2026-10-26T01:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -60,19 +60,19 @@
      "fecha_txt": "23 oct"
     },
     {
+     "titulo": "¿Por qué Reino Unido pide a sus ciudadanos prepararse para pasar 72 horas sin luz, agua ni internet?",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjZTYzVfV0JFdXAzZlI0VTJMcVJMdHVhN0JHTmVIX19BQ2NlWkx2UFVDSllkZGdWRV9xUFp1Zi1mSG5GdlNFSG1pUmozV0wxRkFnNmFpUXJBNTk1OEQxb0d5dXVmZUs2dmtlNm5nczIxRjhTQzlGa01GR1F1dHU2a09VQl9RUTRLVFNOZzkwOUpFVVk4dVVuT0RoLWwtcXN4RXliYjVxd04zenFGbVpMNFVzalRIZWFHbElLUXhvYmlnZVNFSTJXck9R0gHeAUFVX3lxTE5aQy1zRTVRc1g1eXJtazBnSHo4ejcweUlZcVVQWGIwZThqbUJJa1dzQWl0ZWJFbks5enFJTUtzbUg0S2RiVEs1RzRmMTI0Nmw1TndkYXJnUzlybkltRG1FcWhsVGdId3RXZWpHR2JPRjA1ZEppRzg5V0VNUXJHeGI1WnVQM3FMYmppNERTZUp0YXBmWEFPT0Q3X2lnR0l0T24yLUZkX2VJblJ5dVE1NkhQQ0VUbDBmTjVEX2dKU29JX3dybm01Zi16TG94TWJGdFpTMTZVcHRBTnoyTkdzUQ?oc=5",
+     "fuente": "ViveUSA.mx",
+     "resumen": "",
+     "fecha": "2026-10-23T18:56:16+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
      "titulo": "Como en 1940: gobierno británico pide a la población que almacene comida enlatada y agua",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFZhZVBsNklmV2JqZTRnbHhxUnlOYlZJb09Na1NkNktEWEc1bnZJMGJGYmFtQWRncjd3ZnFya3c2SW8xeGhMeUpYWEhaTG0wMGRzaS12cDJWT3A2Wkc3d25iSWltOEhqeEF3Z3EyWHRDak5CMno3dngtSThNaGxzYXpMMW9OMElxOEt3a2JmTlA1Z2YyclJFRmZDdnB1WExMRkxRUDJyTHFCYjZRTjYtZXE2al9jVTZXZ3dZYS1pNWVVa0tPOU15MTE2Q1AzQ0t60gH0AUFVX3lxTE9tVmFySkFZVk43QjZRZGR4cFNnZGhPb3JFTXk2ams0RHR5aUFjaVJFN0FpcTFyLW9FeFI3emYxMFRDd2dLaEhnbThuX2dpdWhLRV80a285YlllRUN5RW9WVUxDclA5YVhZZGVjbDdjWnRDbUcwMWhtN3QxUG5UTG5SZ1lpSzZqdXhVVUthY21RVDZBY1NZdXNpazhtVkt4T3FmZmx5b3hveGhfYjd2RzdyQWNGaFFlYU52eGp3WV93eHRtSHp5WXJFYlpEV0NyVkFmUlkzdmVETVFYUm90ZS1tU0o3aXZaTGdkRC1vYzhUYjB4bno?oc=5",
      "fuente": "Montevideo Portal",
      "resumen": "",
      "fecha": "2026-10-23T18:43:00+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "El Gobierno de Reino Unido insta a la población a almacenar provisiones de emergenciä para subsistïr al menos tres días",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ2ZHczk4RHVybTQ4cHZaOFpDX1dNTGFPa01ya1VGUDVjOGRtaUF0eURXSTlpWlNXWjFiWVo0WGZ5VmN6c3gycU42VGJiVTR2c0hNSkJxdkU2bUVleFpsNVRhODA4M0wtVTdocHFQVGh0R1Z5ZlREcFlpclhQWkE4VGxIV2h2b2FYVHV4WnVNb3dBQTI0ZHVrNVdMcUpQZDdpRmtBUjBXSlhZSnlVSnEyeFlHb21tT1Y2cEwyQ0NjeEFJTWc2R0IxaG5xUHZCTlBjZkNOdzFXQ1F6Y2tQb3VyYzNONkVfZUMx?oc=5",
-     "fuente": "Noticias24hrs.com.ve",
-     "resumen": "",
-     "fecha": "2026-10-23T17:49:24+02:00",
      "fecha_txt": "23 oct"
     }
    ]
@@ -82,14 +82,6 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
-    {
-     "titulo": "La Patagonia frente a un desafío creciente: expertos se reunirán en Neuquén para debatir sobre incendios forestales",
-     "url": "https://www.mejorinformado.com/neuquen/patagonia-frente-desafio-creciente-expertos-reuniran-neuquen-debatir-incendios-forestales_1792946945",
-     "fuente": "Mejor Informado",
-     "resumen": "Del 27 al 29 de octubre, Junín de los Andes será escenario de un encuentro internacional que reunirá a especialistas de Argentina, Chile, Canadá y España para analizar cómo prevenir y enfrentar incend ...",
-     "fecha": "2026-10-25T11:04:00+01:00",
-     "fecha_txt": "25 oct"
-    },
     {
      "titulo": "Los incendios de julio en Madrid, Ávila y Toledo calcinaron más de 77.000 hectáreas",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnptdWZSNmhLcFBFOHBkUUFPQ3BldEVKMVg1dHZxa1JvR0dEU1o3bWdmQ2xQMmwtQ2VQcE13cmZPbTRtRDJrdWRIaVhPZUY4V2VMQzVoUGJ4RkREb0RnajI3RzEtSFdSZTRubmJrZzFjOEpfWlRMMDl1RWREclJTOS1UaXpHa29zVXpWYkhZOVZpUy1XTVBLMUdRZmkzMldNY3YxOE9CV1A0eE1NdWVKeTVYUVNYWWM?oc=5",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-10-21T05:30:22+02:00",
      "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "El fuego arrasa durante 2026 casi 280.000 hectáreas forestales en España, 2,5 veces la media del último decenio",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzdU02ZFJZUUtBbEpkYXAtZFJ5UXhDanpqU3JsT3h0Q1hlbGktZlBVUy1aRzJpWmlTcTFkMW0zUTQxdTQwU1dlUnFKZndmRWNrWmhkZzlwMkN4c3lscDNZMXEzcUVhZkxnV3dpbE9ISDdlRVE?oc=5",
+     "fuente": "EFE Verde",
+     "resumen": "",
+     "fecha": "2026-10-20T13:21:57+02:00",
+     "fecha_txt": "20 oct"
     }
    ]
   },
@@ -162,28 +162,12 @@
      "fecha_txt": "25 oct"
     },
     {
-     "titulo": "El nuevo Patricova amplía las zonas de riesgo de inundación y revisa dónde se puede construir en la Comunitat Valenciana",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-nuevo-patricova-ampl%C3%ADa-las-zonas-de-riesgo-de-inundaci%C3%B3n-y-revisa-d%C3%B3nde-se-puede-construir-en-la-comunitat-valenciana/ar-AA2g1nSe",
-     "fuente": "Moncloa on MSN",
-     "resumen": "El nuevo Patricova redibuja el riesgo de inundación en la Comunitat Valenciana y abre el debate sobre demoler miles de viviendas en suelo inundable. La entrada El nuevo Patricova amplía las zonas de r ...",
-     "fecha": "2026-10-25T05:42:32+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
      "titulo": "Tecnología y concienciación, factores básicos para evitar más desastres por inundaciones",
      "url": "https://www.diariodenavarra.es/noticias/magazine/sociedad/2026/10/25/tecnologia-concienciacion-factores-basicos-evitar-desastres-inundaciones-840001-106.html",
      "fuente": "Diario de Navarra",
      "resumen": "Desde compañías tecnológicas hasta ONG se unen para evitar que se repitan episodios como la dana de hace dos años ...",
      "fecha": "2026-10-25T04:53:00+01:00",
      "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1RoYVdKSkFueW5JakQyNkJsc213aHdKVkFvSm0zSW5DaHR2R3ZfdUp1cGlwTGxQS1JwNFB6WmZKWnJlUWpHTFVDMnhGckdaZnRPM3RhOXpFMjVUU1UtWjNlcHpGQU1CbVF6bjJhUWxyVG9UWExwS0ZnQ2k5U0JKQ2ZpQlJIN2QwUzBpMl9TUVpramhOZmNyX0UxV2JhdWc?oc=5",
-     "fuente": "ECOticias.com",
-     "resumen": "",
-     "fecha": "2026-10-24T12:40:19+02:00",
-     "fecha_txt": "24 oct"
     },
     {
      "titulo": "En el Día del Cambio Climático, España afronta la amenaza del calor extremo y las inundaciones",
@@ -210,11 +194,27 @@
      "fecha_txt": "24 oct"
     },
     {
+     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
+     "url": "https://www.nuevatribuna.es/articulo/sostenibilidad/clima-negacionismo-cambio-climatico-espana-seis-riesgos-que-conectan-calor-record-inundaciones/20261024165843255552.html",
+     "fuente": "Nueva Tribuna",
+     "resumen": "Seis puntos concentran el desafío: aumento de las temperaturas, inundaciones, daños sobre la salud, incendios forestales, calentamiento del Mediterráneo y ...",
+     "fecha": "2026-10-24T09:58:00+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
      "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este sábado 24 de octubre en España: estabilidad generalizada y lluvias con nevadas débiles en los Pirineos",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZUVxcEp3enJfNXNCRmlsODUyOWRQQk05aUdCd1I0UGFXcmZRc3l1THQxaFgwbnhraF9aekpGSENLMUQtZTRTU25aTUwzY1dZcW5lNlpCUnBRYkphUTc3cV9XcktxUmc4alFCSjhVdktUUWpjckpEODJ5WmdpNC1kNV9xQkFtOUJGRktCTEs5WUF4WF9VTDE3RXV4VXFJNGpDQVpJZXM5SU5IWTZ6SjVIUHZCVC1CaEhSWGNHVlJkTE1DTi1yNHpubnhWd3FoNHN4MXdxR2ZXVkRsbi1pbUJ4SGdGbUlGLWpPQjNkazBKaHpBUFRBRE13N0VUTzJBUkppV2FPV1JVeXNWVzlZNWl5T3Z2d2pZWk9aVzl5WXhB0gGyAkFVX3lxTE1aWjU4QXVOcVVacG0wYTg1bEs1TFhYZXo4d19YYVFadGVobkVzcTFyQ21FajR6RXpzUVBZanNHTlRjd2hDanVBVmp3dGp5cnlOZHRoTkUyTkhma2MtRG85a2pfQW5QeDVtMUh4blFvWXE4UTl1Rm5YLW9mOW04Y1JGMnJfNFlZd1VZWkxCY19wSWhOeXpQTEdzM3pacUZsQVB1c2pzWi1zZ1BVNGR5VkdLYjhNT0JnTTlwMEVXVEpLcFNXY3VYSlFYeS00T1FveXl1UkttS3JNMXI3SW56WlZQVUFFNFRWMGh2WUJkd2tQdV9xTHdFVXFsdFJTYm01MXFETDlOc3RKaWNBWkhXd0xad1l3NVJIdU8yRkVsdmJVeDhFeVYtd1RpNnpLRVhOZkJNdw?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-10-24T07:00:22+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "Inundaciones en España dejan muertos y miles de evacuados tras el paso de la tormenta Adam",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObFdRdU5ZVGJmejJNcmNTbHhVeDgyRi1YUThDV1BtMFRtX0NCV2VYZFRBQkhDdWlHd0ZxWlA5X091c3FWT3hJYTRnOGFxbUs3S3lmSm5YTzY4Y0JCWHlCMFRETnZod2lKQUd0TE5GUFRic240RTVpTUJ6UVg5YWlXMFhrbG53SlBEc2ptUURLR1dvQkZDRkRfTS02a2V0MkhHR01GcE1zN1BBcGpPREctTlk2UDR6SW5fcWNYbVhMYV8xa3lHcUdxeDZWc1JkZlh5VG5uX0ZaTQ?oc=5",
+     "fuente": "Univision",
+     "resumen": "",
+     "fecha": "2026-10-24T03:29:00+02:00",
      "fecha_txt": "24 oct"
     }
    ]
@@ -231,14 +231,6 @@
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón: qué supone para tu suministro",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-apercibe-a-red-el%C3%A9ctrica-por-fallos-de-coordinaci%C3%B3n-en-el-apag%C3%B3n-qu%C3%A9-supone-para-tu-suministro/ar-AA2fZx7p",
-     "fuente": "Diario Que! on MSN",
-     "resumen": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón y abre la revisión de protocolos que afectan a la fiabilidad de tu suministro. La entrada La CNMC apercibe a Red Eléctrica por ...",
-     "fecha": "2026-10-24T15:17:42+02:00",
-     "fecha_txt": "24 oct"
     },
     {
      "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
@@ -286,6 +278,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-10-21T11:45:14+02:00",
+     "fecha_txt": "21 oct"
+    },
+    {
+     "titulo": "Ceuta sufre un apagón general por una avería que dejó sin luz a toda la ciudad durante una hora",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEluUWhOR2hwY2FJMUpOT0ctaGN3R1RqUjhyT1RpUTM2NHpGSERFN1NoODBRTVBCR2p3NGo2Vl82dkFFYlg1ekFsU2JEXzlONHpmcUJGS3NKeHJyQ0hfbG5QS09LN0Y4VzdWSktaT0hiSVU4ei15cTJoUkpqYnBRd093Y1RxbTlmVEZ3bXhCeVVkYTlPX2E1WV9oUi03cm1pUFNhZm1sQXc1OEprXzZILTUwOThpVmFKejhB?oc=5",
+     "fuente": "20Minutos",
+     "resumen": "",
+     "fecha": "2026-10-21T11:33:50+02:00",
      "fecha_txt": "21 oct"
     }
    ]
