@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-26T16:10:41+01:00",
+  "actualizado": "2026-10-26T19:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -36,6 +36,14 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "Gobierno británico pide a ciudadanos prepararse para posibles emergencias: Recomiendan tener agua, comida y efectivo",
+     "url": "https://www.meganoticias.cl/mundo/534826-gobierno-britanico-llamado-emergencia-crisis-agua-comida-efectivo-incendios-26-10-2026.html",
+     "fuente": "Meganoticias",
+     "resumen": "Conoce detalles sobre el llamado que hizo hace unos días el gobierno británico a los ciudadanos. El primer ministro instó a prepararse para situaicones de emergencia y puso en marcha una campaña.",
+     "fecha": "2026-10-26T09:47:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "EPS de Puno podrán recurrir a reservas para afrontar escasez de agua",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2lXNGFONWJna2psV1k3T0RNTmhQZGlNMUlNLWh0UENHdy1sU3E2Y0ljcmtLa19zd09HaHFzSGlxNFF4WW0yTl9FNlVaNElVTnJXN1VJelJKRXNXakVjdkpCZkt2dGZkeFpUbnZVVVhhRHJMLVRRLU51ODNreUZoV01RSDZYYzBXLXM5cng0MzRKOC1jRnFDeDA0S2JQTzdHTmJaaQ?oc=5",
      "fuente": "Revelación.pe",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-24T16:56:50+02:00",
      "fecha_txt": "24 oct"
-    },
-    {
-     "titulo": "Llamamiento a los británicos a prepararse para situaciones de crisis",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZld2S3czV3JEVGllbS1fTXhfZ2ZnUUE5RnVYSndYb2xrSnRqVXVmVXhYZmwwTjVNdDliZk1TMkt5Znh6WElBQ1dJb0p3dmhqSTQyVGhMd0VDWDJNZkVpNWk1b0lrcVhWcksxSEQ4WGJXQlc0MF9WNjFrWkVoVlhrUzhWRGRIRW9WTEs3X1dzQ1V6QnpvdnJPYjZZeGdxWTJPbTZNR2pWcWViZUJ0RXRCOEJMN2x6dXlvWEpFYTUtNUdaZ2pU?oc=5",
-     "fuente": "France 24",
-     "resumen": "",
-     "fecha": "2026-10-24T16:08:55+02:00",
-     "fecha_txt": "24 oct"
     }
    ]
   },
@@ -88,6 +88,22 @@
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-10-26T15:20:17+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Greenpeace alerta del desastre natural producido en España con los incendios forestales",
+     "url": "https://www.laverdaddeceuta.com/medio-ambiente/noticias/sociedad/medio-ambiente/greenpeace-alerta-del-desastre-natural-producido-en-espana-con-los-incendios-forestales",
+     "fuente": "laverdaddeceuta",
+     "resumen": "Con motivo del próximo cierre de la campaña de incendios forestales este próximo 31 de octubre, Greenpeace hace balance de los datos de 2026. El mayor incendio de la historia de España, el más mortífe ...",
+     "fecha": "2026-10-26T09:29:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "El incendio por «una regleta» obliga a desalojar la facultad de Ciencias de Santander",
+     "url": "https://www.eldiariomontanes.es/cantabria/incendio-obliga-desalojar-facultad-ciencias-santander-20261026133118-nt.html",
+     "fuente": "El Diario Montañés",
+     "resumen": "El aviso al 112 se dio sobre las 12.30 horas y se movilizó a los bomberos de Santander, la Policía Local y Nacional hasta el edificio de Los Castros | El incidente se ha resuelto «sin más desperfectos ...",
+     "fecha": "2026-10-26T06:31:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -107,11 +123,11 @@
      "fecha_txt": "23 oct"
     },
     {
-     "titulo": "Puede lanzar 20.000 litros de agua en menos de 10 segundos, se fabrica en España y se convertirá en un avión bombero para extinguir grandes incendios",
-     "url": "https://www.diariomotor.com/noticia/airbus-a400m-apagafuegos/",
-     "fuente": "Diariomotor",
-     "resumen": "Un gigantesco avión militar de cuatro motores, diseñado para transportar soldados, vehículos y material de guerra, tendrá una misión muy difer ...",
-     "fecha": "2026-10-23T08:00:00+02:00",
+     "titulo": "Entró en vigor: los propietarios de fincas forestales en España de menos de 10 hectáreas no pueden dividirlas",
+     "url": "https://www.elespanol.com/ciencia/20261023/entro-vigor-propietarios-fincas-forestales-espana-hectareas-no-pueden-dividirlas/1003744430605_0.html",
+     "fuente": "El Español",
+     "resumen": "Ni para vender ni para repartir una herencia: Extremadura limita la división de fincas forestales de menos de 10 hectáreas. Más información: La psicología dice que los adultos nacidos entre 1972 y 200 ...",
+     "fecha": "2026-10-23T10:26:00+02:00",
      "fecha_txt": "23 oct"
     },
     {
@@ -129,22 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-22T08:13:32+02:00",
      "fecha_txt": "22 oct"
-    },
-    {
-     "titulo": "España registra 275.209 hectáreas quemadas en 2026, la mayor superficie arrasada por incendios forestales de los últimos diez años",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM3E1ZUJldGpwbENsUkwyREs0TWxPZW00MjBHUW8wQ2pheEhpejhZSDN2elZ2ZUhHNkFZTWZIdF9Sazh6NDEydFduZXI5UVBvczVJQlJ3b1BwUTV5ZzRfbGZNSC1TN3RiNHdfcGd4Y1lUZ1pPUy1FYndtQjBwYlltQzJ4cjVrMGVGWVc2TjJmZzBKbENxc1VwVnc0eWNQNXczOVNfeGVzdUFlMU5oVVdnOW9nSWFVM1lRb2NERkstenI1S1U4dUUwdk9zUnJWUXRPaXUwTUVZM1BjMk5rN1ZCQlQwM01kNHBnZXVpaHQ0Z3FZZHR0Yjdpbm0xelM5MktFUVJEeA?oc=5",
-     "fuente": "Servicios Emergencia",
-     "resumen": "",
-     "fecha": "2026-10-21T13:01:00+02:00",
-     "fecha_txt": "21 oct"
-    },
-    {
-     "titulo": "Almería arde: cerca de 72.000 hectáreas por incendios forestales desde los años 80",
-     "url": "https://www.diariodealmeria.es/provincia/almeria-incendios-forestales-historico_0_2008307661.html",
-     "fuente": "Diario de Almería",
-     "resumen": "Almería acumula 71.901 hectáreas quemadas y 1.352 incendios forestales en el histórico disponible, una huella que permite dimensionar la magnitud de los grandes fuegos que han marcado la provincia dur ...",
-     "fecha": "2026-10-21T06:01:00+02:00",
-     "fecha_txt": "21 oct"
     }
    ]
   },
@@ -154,11 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "El Gobierno aprobará este martes la declaración de zona catastrófica por la dana Adam",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDlJcEY2R21TZDVDR3dZRjJrb0JITXBkcE5WYzBqbkUwVFZjZVl0OUN3WmQ1RkxENmpleFZFc05YaVdxaXBJSWpWdVhCM3pPZlVwYm1kdFMxQkQ3bTZoVDEwaGR4RHotM2l6Y0JaeUdEWXRuRFdrMlhUUzB3ZWRScVA4LWVuUXN3VHc?oc=5",
-     "fuente": "EFE - Agencia de noticias",
+     "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
+     "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-10-26T14:47:11+01:00",
+     "fecha": "2026-10-26T16:04:33+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "El alcalde de Algemesí asegura que nadie le alertó antes del desbordamiento del Magro del 29N, que “no estaba limpio”",
+     "url": "https://www.democrata.es/tribunales/el-alcalde-de-algemesi-asegura-que-nadie-le-alerto-antes-del-desbordamiento-del-magro-del-29n-que-no-estaba-limpio/",
+     "fuente": "Demócrata",
+     "resumen": "Sanchís sostiene que nadie le alertó del desbordamiento del Magro el 29N, denuncia falta de limpieza en el cauce y detalla las medidas previas del Ayuntamiento.",
+     "fecha": "2026-10-26T07:43:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -194,14 +202,6 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Balance del Comité de Expertos del Gobierno tras la DANA: una foto para la presentación, informes ignorados y ningún documento final",
-     "url": "https://cadenaser.com/comunitat-valenciana/2026/10/26/balance-del-comite-de-expertos-del-gobierno-tras-la-dana-una-foto-para-la-presentacion-informes-ignorados-y-ningun-documento-final-radio-valencia/",
-     "fuente": "Cadena SER",
-     "resumen": "Científicos e investigadores que integran el órgano asesor muestran su malestar y decepción ante \"la falta de coordinación\" del Comité | Cadena SER ...",
-     "fecha": "2026-10-26T01:00:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
      "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
      "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
      "fuente": "Granada Hoy",
@@ -210,12 +210,12 @@
      "fecha_txt": "25 oct"
     },
     {
-     "titulo": "Sube el precio de los seguros en Valencia tras el aumento de inundaciones",
-     "url": "https://www.levante-emv.com/comunitat-valenciana/2026/10/26/sube-precio-seguros-aumento-inundaciones-135774356.html",
-     "fuente": "Levante-EMV",
-     "resumen": "Las pólizas de los seguros incorporan 'nuevas variables' en la evaluación del riesgo basadas en datos, análisis predictivo y prevención ...",
-     "fecha": "2026-10-25T19:50:00+01:00",
-     "fecha_txt": "25 oct"
+     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDJWU25hZHk0WnpmWnhVTDV6WGNkNzkwcTVrczZKWkVGcjhUSU1WNWFTZ0lRT1FUUWhvQ2Y3a3hkQm5aSE9RM21rcnpvYU90aWFGS0hIdW1JWmVBYnVna3ROZjZtVmFxM183RndjcWZWVHMwSzBSTXBzdDJNdVgzU1N4OFFlLXg4QzUwSkdJVzlkNnY4T0hyd1duOFl4Q2dJOEFHelhPU0Z1SkFVYk82ejZXT05YSFBVaUlrX2RKTkt3QkRwWmxQR1V1ZzFyX1hBemJfR09ENGQ1ZURZaVR4QmZLS0x5ZzdwZURMSTZfQmhmUkRSay04V0o4OVJWRVFIYmfSAYcCQVVfeXFMTnI2RGpNUlBJZDYxVmYzdFV3QkNSRHlabWdZM1E0TngzbHRoU1VKeUhseVZtTHRCYnR1UjNXSGNpc3Q0Q2JXSjU1eGh3MUZhSm5Ma2JEQUFNcVpwV21nOVFaNlprbzRUQ0VFT1Y3djRQUW9TRnJWbFdqdV9iNEdJQ2FpNlBWNm9DZTNTWTBpeW5lTGRWbm5XNUhpZkdlQlNLREd1TEt4eFh6aVVmSkpwRzFsaEE5cGxfUnN4dEp4dlNvbW1VZ0dCMEhwMTN1dTJGSU1GSWN2Nmplb182WDhPd0tWMW9oc2UwWHdtYXlQb0tVdTFfVE5iZ29WQ3hNdElSNEFaTTBIeFU?oc=5",
+     "fuente": "Diario digital Nueva Tribuna",
+     "resumen": "",
+     "fecha": "2026-10-24T16:58:43+02:00",
+     "fecha_txt": "24 oct"
     }
    ]
   },
@@ -249,6 +249,14 @@
      "fecha_txt": "25 oct"
     },
     {
+     "titulo": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón: qué supone para tu suministro",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-apercibe-a-red-el%C3%A9ctrica-por-fallos-de-coordinaci%C3%B3n-en-el-apag%C3%B3n-qu%C3%A9-supone-para-tu-suministro/ar-AA2fZx7p",
+     "fuente": "Diario Que! on MSN",
+     "resumen": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón y abre la revisión de protocolos que afectan a la fiabilidad de tu suministro. La entrada La CNMC apercibe a Red Eléctrica por ...",
+     "fecha": "2026-10-24T15:17:42+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
      "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
      "url": "https://ecosistemastartup.com/red-electrica-blinda-la-red-con-8-compensadores-sincronos/",
      "fuente": "ecosistemastartup",
@@ -273,19 +281,11 @@
      "fecha_txt": "22 oct"
     },
     {
-     "titulo": "El cable submarino de 330M se estrena en Ceuta con un apagón y sin que se active a tiempo la planta de reserva que pide Vivas",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm15ZHg5eDFqaVFUYVg5dDZ5WTRySENTWHI3Umkyb0d6Yy15MVR2a3loa3MwdEUzOGdkakxaQXBkSWxuaHhuMmRIZGdXVXoteFBBVzd4N19KUTZnRHNuLW0yNDhKZG1wczhtVXJqcVRablJod2ota19YZVZ2WWpJNHE1cDJ6QmZxYmVzS2ZCWUJZWnhHU0ZCMWhXa0xfS0ZVZmt4R190RlZWcEhzN1RPN21wRzk1N0ZJazM5SmRwYlJGandORWZ3N01fSFpsTXV2MGF5TTM5NHdJMU1Nai0waWJ6NGZndTDSAewBQVVfeXFMTWhsaEpweUFEYmc5QVdibG55TXpvQWJJQU9jZkdyY0lCcjVVckxPWUhwdHgzeEt4akpHZXl4VVFVQ3dxM2F2M1J3LTJZNTV0LTFRTE5BYnVzRDBXZlpfdkxkNHVvaENjUWltM005ZDYxaFVaSUw4S1EwS0FuUEFNcVNlY2VVdlpmTkJjZ3NJMXpKNXpZMlVwZTBEQVZtQWdoYVlibnVrRkVoZEhGdVYxcUx0RkhYc3dkV0pEcXBERHlUTGVaWC13bTZpNHNtWUdjNUl6TGhpOXYtQ0o1OEhYMGZtUThodWVsU09Bd0k?oc=5",
-     "fuente": "El Español",
+     "titulo": "Ceuta sufre un apagón general por una avería que dejó sin luz a toda la ciudad durante una hora",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEluUWhOR2hwY2FJMUpOT0ctaGN3R1RqUjhyT1RpUTM2NHpGSERFN1NoODBRTVBCR2p3NGo2Vl82dkFFYlg1ekFsU2JEXzlONHpmcUJGS3NKeHJyQ0hfbG5QS09LN0Y4VzdWSktaT0hiSVU4ei15cTJoUkpqYnBRd093Y1RxbTlmVEZ3bXhCeVVkYTlPX2E1WV9oUi03cm1pUFNhZm1sQXc1OEprXzZILTUwOThpVmFKejhB?oc=5",
+     "fuente": "20Minutos",
      "resumen": "",
-     "fecha": "2026-10-21T12:49:20+02:00",
-     "fecha_txt": "21 oct"
-    },
-    {
-     "titulo": "Un apagón general deja a oscuras a la ciudad autónoma de Ceuta debido a un fallo masivo en el centro urbano",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3h3QlY5eGdBTlVXcFdGU2JmTnQ3eF9XNVdNX2hhajB3MElyMURnQlBNREJvZXpkS3F0UUF0UmVkUkNkZnFaNWxnNENIQ05RQ2VkbnowNkYxOXozYS1wZ3U0ZlNyNlp2Y0tfVEFWWmxiX1c0YlFadGs4dEhwZWRGZmZkTTJ2V2VDYVhqN2FZcUxDZkRKTm16dk9DWUZta3VPQVk1ZldOUC1vZzF1eGtrZnJpdTBPSVVLcV9BdExXd0xCejJPdXFCYXFnZHJfUldCYzhMSm43cmE3R2tPVnVLTDZMNTBRWllzalhoONIBgAJBVV95cUxNeU5ZUjI1SXIwcWFLeTBfQUNzb2ZCdHd6RHNxSWRKSGRRR2IyQktHOUpPNGdfWUNtb2VPZG5ZVXVpUmFrTU5seUFpWE00Q0xzOElvVk5LVTJOU0lMcjZuSnhvNS1XN2gtNWpVaFc2bWF6eDBkdnRPTDByc01PYTNESGVNcDFkV2hWdXFBZFZIUW1pYUdFZlJUQUM3YUJEbTZPRTFTcnVCdE1tWnE2bjF6X1ZXR3FaNUUxd2ttYzA0S3ZITE9aYllnUUtHU1lTbVBtOThVbHJJN09aWmQ1RGNnN19odUt6dFptZzdjMzJXN0hDd2QtUWk3N1ZHSGtBUWlX?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-10-21T11:45:14+02:00",
+     "fecha": "2026-10-21T11:33:50+02:00",
      "fecha_txt": "21 oct"
     }
    ]
