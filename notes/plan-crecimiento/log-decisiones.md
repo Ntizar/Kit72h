@@ -29,3 +29,8 @@
 | 2026-10-23 | alimentos-emergencia-caducidad-rotacion | revamp | atrasada | Encolado por el consejero a las 06:00 y sustituido el mismo día por el #1 de ticket alto (generador inverter). Se retoma cuando el cluster F esté cubierto. |
 | 2026-10-24 | mejor-kit-solar-portatil-para-casa | comparativa | encolado | Comparativa 5 modelos power station solar: 1000-3840 Wh, 3 ganadores por categoría, 6 internos, 3 fuentes oficiales |
 | 2026-10-25 | mejor-bomba-achuite-inundacion | comparativa | encolado | 5 modelos, 1.400+ palabras, 3 fuentes oficiales, 6+ internos, ticket alto |
+
+- mejor-arrancador-bateria-coche · comparativa · publicado · Top #1 ranking: ya creado por auto-content.yml la noche anterior; no se repite.
+- mejor-walkie-talkie-pmr446 · comparativa · publicado · Top #2 ranking: ya creado por auto-content.yml; no se repite.
+- mejor-estufa-gas-butano-apagon · comparativa · publicado · Top #3 ranking: ya creado por auto-content (mejor-estufa-sin-luz-apagon); no se repite.
+- ningun contenido nuevo hoy · bloqueado · Los 3 top candidatos ya publicados por auto-content; no hay candidato ejecutable nuevo. Cuello de botella actual: Playwright no instalado en venv pero _cmd_prerender tiene fallback a chrome-headless-shell (funcional). Verificar que el publicador corre correctamente con el fallback.
