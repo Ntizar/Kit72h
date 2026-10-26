@@ -224,7 +224,7 @@ def generate_blog_index(new_data, css_version):
     # Header igual que la home
     html_parts.append('<div class="ubar"><div class="container"><span><span class="punto">\u25cf</span> PREPARACI\u00d3N CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPA\u00d1A</span></div></div>')
     html_parts.append('<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a href="/#faq">FAQ</a><a href="/fuentes/">Fuentes</a><a href="/zona/">Tu zona</a><a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit \u2192</a></nav></div></header>')
-    html_parts.append('<main class="container">')
+    html_parts.append('<main class="container" id="app">')
     html_parts.append('  <section class="sec oscura">')
     html_parts.append('    <div class="container">')
     html_parts.append('      <div class="watermark" aria-hidden="true">BLOG</div>')
@@ -239,6 +239,9 @@ def generate_blog_index(new_data, css_version):
     html_parts.append('    </div>')
     html_parts.append('  </section>')
     html_parts.append('</main>')
+    # Footer
+    html_parts.append('<footer class="site-footer"><div class="container"><p>Kits de emergencia para hogares en España. Preparación práctica basada en fuentes oficiales.</p><p style="font-size:10px;opacity:.45;letter-spacing:1px;text-transform:uppercase"><a href="/analiticas/" style="color:inherit;text-decoration:none;rel=\"nofollow\" noindex">· PANEL</a></p></div></footer>')
+    html_parts.append('<script id="disclosure" type="text/template"><p id="disclosure">Este sitio contiene enlaces de afiliado de Amazon. Si compras a través de ellos, Kit72h recibe una pequeña comisión sin coste adicional para ti. <strong>Soy afiliado de Amazon</strong> — estos enlaces me permiten recibir una commission por compras que cumplan los términos del programa de afiliados de Amazon. Como asociado de Amazon, ingreso en compras idóneas.</p></script>')
     html_parts.append('</body></html>')
 
     return '\n'.join(html_parts)
