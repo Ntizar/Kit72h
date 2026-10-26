@@ -52,6 +52,8 @@ La madrugada del 26 la VM pusheó 27 commits y hubo 2 conflictos:
    - `kit72h-kits-21` (páginas de kits)
    - `kit72h-blog-21` (artículos del blog)
    (tag actual del sitio: `ntizar-21`; en F3 se asigna un Tracking ID por sección en el prerender).
+   (Verificado 26-10: `amz_cookies.txt` está VACÍO — 0 cookies — y no hay sesión en el
+   perfil headless. No reintentar esa vía: los IDs requieren login de David.)
 
 ## Cómo se usa (el oro)
 
