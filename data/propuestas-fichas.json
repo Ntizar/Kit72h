@@ -2413,5 +2413,14 @@
     "verificacion": "buybox",
     "aplicada": true,
     "anterior": "https://www.amazon.es/s?k=nevera+congeladora+solar+12v+220v+compresor&tag=ntizar-21"
+  },
+  "kit-suiza|Medicación crónica: una semana de tu tratamiento": {
+    "kit": "kit-suiza",
+    "seccion": "Higiene y salud: las 50 mascarillas y la medicación",
+    "busqueda": "medicación crónica  una semana de tu tratamiento",
+    "rango_esperado": "según tratamiento",
+    "fecha": "2026-10-26",
+    "intentos": 1,
+    "estado": "sin candidato verificado (intento 1)"
   }
 }
