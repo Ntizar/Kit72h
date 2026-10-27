@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-27T07:10:40+01:00",
+  "actualizado": "2026-10-27T10:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,22 +28,6 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Ciberataque: Reino Unido alerta a su población almacenar provisiones",
-     "url": "https://cuartopodersalta.com.ar/ciberataque-reino-unido-alerta-a-su-poblacion-almacenar-provisiones/",
-     "fuente": "Cuarto Poder",
-     "resumen": "El Gobierno del Reino Unido lanzó la campaña nacional “Be Ready”, mediante la cual insta a los ciudadanos a mantener reservas de alimentos, agua ...",
-     "fecha": "2026-10-26T18:10:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "La alerta de Reino Unido: llaman a almacenar agua y alimentos para tres días ante distintas emergencias",
-     "url": "https://www.msn.com/es-cl/noticias/mundo/la-alerta-de-reino-unido-llaman-a-almacenar-agua-y-alimentos-para-tres-d%C3%ADas-ante-distintas-emergencias/ar-AA2g6SHz",
-     "fuente": "24 horas on MSN",
-     "resumen": "Se trata de la campaña \"Be Ready” (“Estén preparados”), iniciativa impulsada por el primer ministro Andy Burnham.",
-     "fecha": "2026-10-26T13:31:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
      "titulo": "El kit de emergencia de 72 horas que ya aconsejan tener en casa ante temporales extremos: qué productos básicos debe incluir",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGFRYU9wdV9RYVRMdmlxMW4tUTdWdUVjaXFnNEF6UWNocXMtdTlKeEtkNGkwZTJ6VUdnSGNiQTB1eU5CLTU0cVE2M0ZJU0dXQnE5TmctQ0ZyN0pHZkR4NEZzZU5UYWlPcXZBaDBlRXdQYXNRbW42UEdnYk1EZFpkb2VGUExMRWIwZnZGdS1RVzFtYnFCZVpiY1htd244cWthUVhsZnVvUzgweXdYWkNjQdIBtgFBVV95cUxNYUd2S2hvUVdkVEQtZl9RaFM4c2t0d1V0OF9XOWVVNF8zMFVDMExNcUlucDZCS3ZURnFrSUpIZ3dSbGdVZGNxWHdVejlRWHNSNUhaVDVXNl9ackh0VVFMVTRhd1FWbnVVS0RXRTdsVDJTRWNFbVpJaS1RZTJTZUV0OFltbm1sMmxTZ3pNMVpWdWFsc0JyaVZ5dmt0YjNtakhTZ3RRRGwwWFRzanFCYkRpdFd1Y045UQ?oc=5",
      "fuente": "ABC",
@@ -68,6 +52,22 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "La directiva de las 72 horas: por qué Europa prepara a sus hogares para lo peor",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9NeG1lYmI0ZTNOeXhMMlhZTHpXZU9JUFRLS1BMVUNuUE1sbFFNOXlaNU5MS08zNml2Z3Zv?oc=5",
+     "fuente": "Howl.Link",
+     "resumen": "",
+     "fecha": "2026-10-26T06:29:58+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "España sigue sin kit de supervivencia mientras Europa se prepara para la guerra",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWJrY2w3bTNWdk5SdHJFQjBoVEJDQ0tEY0h1VGVuU2twRXZKUTlTWWZhcVFDWUxEWTlkMlZjM1JaTHhMNlBrekpZU3FxMWRzRDlzaENhbTJMUzBKakd6VThtSk9ldkZWZVpRRHZSeEdYbjlGaUtVRVY3MnFqRno5N0dObkMtdDVadTJZOXkySXplMjVnT3B1WWpadk5oc1I5ZnNKNGRGSQ?oc=5",
+     "fuente": "BilbaoHiria",
+     "resumen": "",
+     "fecha": "2026-10-25T21:38:25+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
      "titulo": "Reino Unido pide preparar un kit de emergencia para sobrevivir 72 horas: la lista de productos que recomienda tener en casa",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYmFQcWVMUWlHdjFYejM5UFVQcW9nZGVvaGZjRHdqZkFnMGsxazgtamtEdFpURHRjbDZ1bURBLWFmU1ZoTmxxNC1FTVBEN2pVV25DV0VJZlJ2ZUIxS0F2WTJHYVg0R0JSdEZ0ZWZIbG9tVGpvUlNjYXhXbEhFSGZpYVJ6V01OajhIaUxpbjZLekY5R21Ud1l0ZnE0cnQ1Z09weWo3YzVLLUhTV2p6U2NFMGkzOTNGOG1aOTQ4a05vSll2LTI1YTlBZUpZZ0RYQUEwV1RCYjJWYkjSAd4BQVVfeXFMUGFzWVNHVW80cEpGdlFObDQxb0VwelZvZ0FzMkVKcXFPVmY1cnZuMjZILWtrWXZuRFpmV3RxOGlyaVdlOFZlNTlGVWRYMXhtZ0lhdUFOTXNtSW90akFKSXpoRXhPOUx2TXdfQ2V6SXkzR3JHQy1od3dIVmtOT2tIYWFMcE9JR1Z1azVNc0swVTJlQ0M5OUJaamJLSGpFYmk4NVY0MzNBVXBvSFdCZ3g5cktWb2pPN01XdHNQVS1CRWkwWGk1UnBXN0NYMTdFVmtZLV82dTVFQnVWZjBXUGln?oc=5",
      "fuente": "Demócrata",
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Tamajón recibe el premio COPE Guadalajara por su papel en el incendio de La Mierla y exige soluciones para la España Vaciada",
+     "url": "https://www.cope.es/emisoras/castilla-la-mancha/guadalajara-provincia/guadalajara/noticias/tamajon-recibe-premio-cope-guadalajara-papel-incendio-mierla-exige-soluciones-espana-vaciada-20261027_3458177.html",
+     "fuente": "COPE",
+     "resumen": "El alcalde, Eugenio Esteban de la Morena, agradece el reconocimiento por la gestión de la emergencia y denuncia el abandono de la comarca y ...",
+     "fecha": "2026-10-27T02:37:00+01:00",
+     "fecha_txt": "27 oct"
+    },
     {
      "titulo": "Referentes del Splif viajaron a España para incorporar nuevas herramientas para combatir los incendios forestales",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFVrODNLM0pSY3JrU29WX0VkeE1zcUJUUkdUeVd6MkRRay02ZTFPRmh5ZFRfRXB6TmVUWUJiLTVLOE01S215dVJpck1BeHRkTExKWU1FdlJMbFlsTnNGZ2pXbU50MDRiNW8xMUw5RGdOWk93N01OTjc0ZXhMcGpPZmxZc1pTdlRsWWhXSmtQTjQybllOVFdWZkRZTlIzdzZlaVdHRkM1RFFKRVVWd0NVdXdkR0JVMVFMOHNyX2JkNDRZRlhjQ0MzRE8wSmhmaEV6T01ObGF2M0dVUHdXcWZHTGJEaUw1d9IB7gFBVV95cUxOZVBHMnhoV2pldENIWTZPUmRKNEZzMmtqX3VsdG1vTi1ZTnpnNW1PdXl0anZPOHp2XzA4c25ydTNoWmVIeGZnTEw2RnpvcElTZTF2R19rMEVHMzJCalAtMHYycU9ob0NUclRMNVBuQnFIYnJxS1ZURXM5eTk4bTFEQ285MkFIVWZFem5vOVgwcTM0MXJDam02cDhVanVLUFJPRDB0REFlNzktUk5PS0lrYmJ0eTMtSXBOaXZLcWpDTVJoUDl2aEdWN3M3TERfaWQ5eGNfQ180VTQyZTRvSnM4YzVjaG9sZDV0S0Juck13?oc=5",
@@ -123,14 +131,6 @@
      "fecha_txt": "23 oct"
     },
     {
-     "titulo": "Entró en vigor: los propietarios de fincas forestales en España de menos de 10 hectáreas no pueden dividirlas",
-     "url": "https://www.elespanol.com/ciencia/20261023/entro-vigor-propietarios-fincas-forestales-espana-hectareas-no-pueden-dividirlas/1003744430605_0.html",
-     "fuente": "El Español",
-     "resumen": "Ni para vender ni para repartir una herencia: Extremadura limita la división de fincas forestales de menos de 10 hectáreas. Más información: La psicología dice que los adultos nacidos entre 1972 y 200 ...",
-     "fecha": "2026-10-23T10:26:00+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
      "titulo": "Un total de 301.413 hectáreas se quemaron en España hasta el 21 de octubre, el 43% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/eltiempo/general/un-total-de-301-413-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-21-de-octubre-el-43-de-la-ue-seg%C3%BAn-copernicus/ar-AA2fTZHV",
      "fuente": "Europa Press on MSN",
@@ -162,11 +162,35 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "El Gobierno aprobará este martes la declaración de zona catastrófica por la dana Adam",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDlJcEY2R21TZDVDR3dZRjJrb0JITXBkcE5WYzBqbkUwVFZjZVl0OUN3WmQ1RkxENmpleFZFc05YaVdxaXBJSWpWdVhCM3pPZlVwYm1kdFMxQkQ3bTZoVDEwaGR4RHotM2l6Y0JaeUdEWXRuRFdrMlhUUzB3ZWRScVA4LWVuUXN3VHc?oc=5",
+     "fuente": "EFE - Agencia de noticias",
+     "resumen": "",
+     "fecha": "2026-10-26T18:19:42+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Esta semana, especial dana 2026 y segundo aniversario de la riada del 29 de octubre en À Punt",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVdfQUNNenJJQTNXQkRLc2Rua3ZTNF9ucFZhaV92a3liTlh6Z1M3X1dGSlVqZDRIVWktODRsWTA4amE1SXJKajU1NWEyUFB6aEpnX2FvZVNfNFUtLWwwRlVZLXB0X241OWRzcDNoNjlYYTd6ZDBzZVQtWUlDVndpQzJHcGl5aENxRGx6bEI0bGl3d1hfRVhQNXoxWjdiR1NOMWZaU2d5MzVNTlFCVlNzRE1BZ0NKM2JXcnpwcGUtTlBJdzE4dFh5WV9sMm9qWGtNT256aHpoSzFUcDYycGNB0gHkAUFVX3lxTFBxTThqU09lcmNuWTluMTRiYnljSWtwd2I1eGhQNm81ZGVxQURDT2YxZjB3czZJZ0ZCN2E2WF9VazU1VUFnTXdVOWx6Qmh2SVhOckZsV3o1VC1QY29zQklHeEJlazBBM1Z6Vmp5SmJHYmg0c2JhaDZPOHpjZDJ1Wm5DbURHRjF3NW9YT096c3I1TDVKS2xoLXpjck1HVU5FaG5GcWFqeEdIWnFzalMwaFM2Y09LcG9WTFBmVk01OWVkSXFjYlRkX3BkTWhIRVlKYjdzcEZBdFhhdUlEdGt3TUFGZ203ag?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-10-26T16:09:29+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "La tormenta Adam pone de rodillas a España: al menos 4 muertos por inundaciones (y ahora se dirige hacia Italia)",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDZsdEYtYmFHbG5Dc01lWV91VDI0TmFWRktrTnZDdElCVDV6YzJoNFB3WE1wNlN1Zmp0SnB2VlE3ajdVZHdLaGR2NGtISFBweGhNNlhBb3JzcERLQjhGQ2ZNQldpdGdKWkp0bHJiSEUwaWFpYWx4QUc5UGNFcWM0T09XM2RTVTJkQTVWaTdXSm52UVFCTWl3a2N6RzJxcUZHeHg0TFFVZVExeWJhYkcyQW02WWo0b29JY0hKcGlwaE05Q2VMWDMwdjBHT2Q?oc=5",
+     "fuente": "Aconcagua.lat",
+     "resumen": "",
+     "fecha": "2026-10-26T10:29:38+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -192,30 +216,6 @@
      "resumen": "",
      "fecha": "2026-10-26T06:00:32+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "La memoria del agua: un estudio documenta señales urbanas de riadas históricas para advertir del peligro de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVVZY0JCY05LLTVQQWF6M0JXU2wycnd4WGVsMlpxSzlyZ0IxZC1ZUDhrMEJGOUktaGROZzdZbHhTaEpxZnRzMmRGSVlQNEZ0eFpqbHVVMTJMOW5zNm5NVmlzc05mMFBPblpxcXdLLVByRkRrZkJSLVRZRnNMYmZUdHJHQURsUmlhOGdjbzNQdVVpMTlhTWt5Qk1pR2d5MG90cXc4bmpYRXhYaFZBeGxsU3RQajRSM0Y2eDI3WThObHlfX212QW9rQ1pJNXBKLUgzTGdudVVmQW4yNS1vRXF2Tk1SOXUyUWVtWGwtcTJkTk9OZk9yZmxPM0VMUE9CSzdJ0gGUAkFVX3lxTFBxU3dkNmJ5QUZ3U3B3TTQySVdVYTlVQU5EVUhHUmppNTlpOU5JQ1l4Q1dCck1SZnJZYXZVWWw2UWFXdU9tYkItcGpmU0ZNVHdZcFBWMzhWMmhlN0N3MlFhSm9qTGlRQ2twb3QxU2tPZWl4ckx6V0lUeklNWC16amhqYnlkOTRXeG9fOGpWZUgxSHdKeWRpUE9YdVVmZjJaMUx5LWtlUmxIZmg4cldsZnJWMkltRE8wanJMUGUxUmd1MnNGQVJZejlEZjVhcDAtUzJjRW41c2lETTg0alhJX0E2NEJxbWJQRDFyWXFHS3RqVEFzZGdGaDcwbzhwM1laUXMxcFpnR29vSTBXWTNTOTZKU1MzMQ?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-10-26T05:30:01+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
-     "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
-     "fuente": "Granada Hoy",
-     "resumen": "Las peticiones proceden de familias, comercios y empresas con daños en sus inmuebles tras las intensas precipitaciones ...",
-     "fecha": "2026-10-25T21:59:00+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDJWU25hZHk0WnpmWnhVTDV6WGNkNzkwcTVrczZKWkVGcjhUSU1WNWFTZ0lRT1FUUWhvQ2Y3a3hkQm5aSE9RM21rcnpvYU90aWFGS0hIdW1JWmVBYnVna3ROZjZtVmFxM183RndjcWZWVHMwSzBSTXBzdDJNdVgzU1N4OFFlLXg4QzUwSkdJVzlkNnY4T0hyd1duOFl4Q2dJOEFHelhPU0Z1SkFVYk82ejZXT05YSFBVaUlrX2RKTkt3QkRwWmxQR1V1ZzFyX1hBemJfR09ENGQ1ZURZaVR4QmZLS0x5ZzdwZURMSTZfQmhmUkRSay04V0o4OVJWRVFIYmfSAYcCQVVfeXFMTnI2RGpNUlBJZDYxVmYzdFV3QkNSRHlabWdZM1E0TngzbHRoU1VKeUhseVZtTHRCYnR1UjNXSGNpc3Q0Q2JXSjU1eGh3MUZhSm5Ma2JEQUFNcVpwV21nOVFaNlprbzRUQ0VFT1Y3djRQUW9TRnJWbFdqdV9iNEdJQ2FpNlBWNm9DZTNTWTBpeW5lTGRWbm5XNUhpZkdlQlNLREd1TEt4eFh6aVVmSkpwRzFsaEE5cGxfUnN4dEp4dlNvbW1VZ0dCMEhwMTN1dTJGSU1GSWN2Nmplb182WDhPd0tWMW9oc2UwWHdtYXlQb0tVdTFfVE5iZ29WQ3hNdElSNEFaTTBIeFU?oc=5",
-     "fuente": "Diario digital Nueva Tribuna",
-     "resumen": "",
-     "fecha": "2026-10-24T16:58:43+02:00",
-     "fecha_txt": "24 oct"
     }
    ]
   },
@@ -250,10 +250,10 @@
     },
     {
      "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
-     "url": "https://es.gizmodo.com/espana-construye-ocho-maquinas-gigantes-que-no-generan-electricidad-su-mision-es-evitar-otro-apagon-masivo-2000267128",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGxWT1BZbElrV1ZTMzhwSHZyOVdkZEFzS042M1J2U2Jka1IwU3psbmJYRGpMZmZlZVhaVDg5WjAyQ3lvY1luc0J6NS1fU0diY2s1RjZtS2NiRFcwbldLZWdrUFFhS29EN2tJUUU0U3N6ZXhxbUp2Ym84WGt5SGgzb1NubllpdENYYzhGYmgtRTYyNlNjRzRJZTFncEdYQ1FKZzdPYUQxd19EXzNGSExIb2gtOFA2Wkw1SHZab2NSUEcycGNMOERmRk5fTzNVZ1A5OVE5aXA4NA?oc=5",
      "fuente": "Gizmodo en Español",
-     "resumen": "Después del histórico apagón de abril de 2025, España comenzó a reforzar su sistema eléctrico con enormes máquinas capaces de estabilizar la red sin producir electricidad. Los nuevos compensadores sín ...",
-     "fecha": "2026-10-25T00:00:00+02:00",
+     "resumen": "",
+     "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
     },
     {
