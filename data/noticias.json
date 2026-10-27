@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-27T04:10:40+01:00",
+  "actualizado": "2026-10-27T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -14,10 +14,18 @@
     {
      "titulo": "Europa alerta sobre emergencias: el kit de 72 horas que recomienda tener en casa",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQenZ0SXpITV9WMEpZZEF1aXRlVUQ1TU04d080VW9pRlhWNW1jX0JmdGNOYXEydnpmT0xsRmVWVnU1a055WDRtVzF4VVJaa1NsV18tNDd3ekF6ODRuUUZ5NHlDNnlJdWw5bDlvT0RidENoZ0hwTUFUU1owNjFwbmEtS3duTWV4QXJaZ0pOUnlqT1h0VzZkZzdmRzRhVF9seENjSzRlVXlEZnBTMnoxNGpKSmo3dmg2VkYzbTczZVJjRQ?oc=5",
-     "fuente": "www.elvacanudo.cl",
+     "fuente": "El Vacanudo",
      "resumen": "",
-     "fecha": "2026-10-27T03:26:19+01:00",
+     "fecha": "2026-10-27T04:29:46+01:00",
      "fecha_txt": "27 oct"
+    },
+    {
+     "titulo": "Los españoles aumentan sus reservas de efectivo: se dispara un 10% su percepción de utilidad tras el apagón",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-espa%C3%B1oles-aumentan-sus-reservas-de-efectivo-se-dispara-un-10-su-percepci%C3%B3n-de-utilidad-tras-el-apag%C3%B3n/ar-AA2g8qq0",
+     "fuente": "Okdiario on MSN",
+     "resumen": "El apagón que sufrió la península ibérica el 28 de abril de 2025 ha cambiado cómo una parte de la población española se relaciona con el dinero. Según la encuesta anual realizada por el Banco de Españ ...",
+     "fecha": "2026-10-26T23:45:00+01:00",
+     "fecha_txt": "26 oct"
     },
     {
      "titulo": "Ciberataque: Reino Unido alerta a su población almacenar provisiones",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-25T12:24:29+01:00",
      "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "Reino Unido actualiza su kit de emergencia para los hogares con dinero en efectivo, mantas y copias de documentos",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1NjQks1VVo1Y0phUVhfWTVyLTB3cXoxRmM4VDdkTzF2Sk92THRlN1dCby16OTRIbWFhRnQxcE9uQWpGTmxzZDNxNFhrbEpORl9pbll2OFNQOUc0bWNvbnYycU0yRXZYNkpqNU5YY1VnM1VyNHpzTmpNcGhzZXMwclhXY2hfMUZfaFNiTXdWUHR4U0IyMDE0dExB0gGuAUFVX3lxTE1ZU0JMSXc4RnhyS21DTUdwZjJrU3ZNTW55V05pWDljX3ZKZE1ZTUU4WWpUVFhHYXg4SXY3YlBVaGExbUpwNk9hV2c0M1VfZ1JYb0VjUDhmcUk0U015ZEpVX2xjdVJ2Ml9XYTdJdXRocVF6T1d3NkR6bnFjNzZHWTRfN3BkSkdldEhuQUJuRnBwdXVkaXVyNVhOZnlFOFJUSVNlOS1yS0E1aXdZVUowZw?oc=5",
-     "fuente": "El HuffPost",
-     "resumen": "",
-     "fecha": "2026-10-24T16:56:50+02:00",
-     "fecha_txt": "24 oct"
     }
    ]
   },
@@ -107,22 +107,6 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Greenpeace alerta del desastre natural producido en España con los incendios forestales",
-     "url": "https://www.laverdaddeceuta.com/medio-ambiente/noticias/sociedad/medio-ambiente/greenpeace-alerta-del-desastre-natural-producido-en-espana-con-los-incendios-forestales",
-     "fuente": "laverdaddeceuta",
-     "resumen": "Con motivo del próximo cierre de la campaña de incendios forestales este próximo 31 de octubre, Greenpeace hace balance de los datos de 2026. El mayor incendio de la historia de España, el más mortífe ...",
-     "fecha": "2026-10-26T09:29:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Río Negro busca fortalecer la prevención de incendios forestales con experiencias de España",
-     "url": "https://www.cipollettidigital.com.ar/noticias/2026/10/26/89070-rio-negro-busca-fortalecer-la-prevencion-de-incendios-forestales-con-experiencias-de-espana",
-     "fuente": "Cipolletti Digital",
-     "resumen": "Una delegación provincial participó de una misión técnica organizada por el Consejo Federal de Inversiones para conocer estrategias de prevención, combate y recuperación de áreas afectadas por el fueg ...",
-     "fecha": "2026-10-26T08:49:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
      "titulo": "El incendio por «una regleta» obliga a desalojar la facultad de Ciencias de Santander",
      "url": "https://www.eldiariomontanes.es/cantabria/incendio-obliga-desalojar-facultad-ciencias-santander-20261026133118-nt.html",
      "fuente": "El Diario Montañés",
@@ -139,12 +123,28 @@
      "fecha_txt": "23 oct"
     },
     {
+     "titulo": "Entró en vigor: los propietarios de fincas forestales en España de menos de 10 hectáreas no pueden dividirlas",
+     "url": "https://www.elespanol.com/ciencia/20261023/entro-vigor-propietarios-fincas-forestales-espana-hectareas-no-pueden-dividirlas/1003744430605_0.html",
+     "fuente": "El Español",
+     "resumen": "Ni para vender ni para repartir una herencia: Extremadura limita la división de fincas forestales de menos de 10 hectáreas. Más información: La psicología dice que los adultos nacidos entre 1972 y 200 ...",
+     "fecha": "2026-10-23T10:26:00+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
      "titulo": "Un total de 301.413 hectáreas se quemaron en España hasta el 21 de octubre, el 43% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/eltiempo/general/un-total-de-301-413-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-21-de-octubre-el-43-de-la-ue-seg%C3%BAn-copernicus/ar-AA2fTZHV",
      "fuente": "Europa Press on MSN",
      "resumen": "MADRID, 23 (EUROPA PRESS) España ha registrado un total de 301.413 hectáreas (ha) quemadas desde el 1 de enero hasta el 21 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
      "fecha": "2026-10-23T06:04:53+02:00",
      "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "Los incendios forestales queman más de 275.000 hectáreas en España en 2026",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50ODhucVNKNFJJOGZrRFZFVS1GLWZIUHZZMFZJYjc3dkVnX0pQWnZxVmxhU3MwcjF1c2FmcjFfR3hJOGJuQU9GZ3V0THAxWWMtVDFDbDloT0VDemJ6NEhUemlhaFpKdW9qWnBCLUdqek15aTQ?oc=5",
+     "fuente": "Cuadernos de Seguridad",
+     "resumen": "",
+     "fecha": "2026-10-22T08:13:32+02:00",
+     "fecha_txt": "22 oct"
     }
    ]
   },
@@ -162,27 +162,11 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Esta semana, especial dana 2026 y segundo aniversario de la riada del 29 de octubre en À Punt",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVdfQUNNenJJQTNXQkRLc2Rua3ZTNF9ucFZhaV92a3liTlh6Z1M3X1dGSlVqZDRIVWktODRsWTA4amE1SXJKajU1NWEyUFB6aEpnX2FvZVNfNFUtLWwwRlVZLXB0X241OWRzcDNoNjlYYTd6ZDBzZVQtWUlDVndpQzJHcGl5aENxRGx6bEI0bGl3d1hfRVhQNXoxWjdiR1NOMWZaU2d5MzVNTlFCVlNzRE1BZ0NKM2JXcnpwcGUtTlBJdzE4dFh5WV9sMm9qWGtNT256aHpoSzFUcDYycGNB0gHkAUFVX3lxTFBxTThqU09lcmNuWTluMTRiYnljSWtwd2I1eGhQNm81ZGVxQURDT2YxZjB3czZJZ0ZCN2E2WF9VazU1VUFnTXdVOWx6Qmh2SVhOckZsV3o1VC1QY29zQklHeEJlazBBM1Z6Vmp5SmJHYmg0c2JhaDZPOHpjZDJ1Wm5DbURHRjF3NW9YT096c3I1TDVKS2xoLXpjck1HVU5FaG5GcWFqeEdIWnFzalMwaFM2Y09LcG9WTFBmVk01OWVkSXFjYlRkX3BkTWhIRVlKYjdzcEZBdFhhdUlEdGt3TUFGZ203ag?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-10-26T16:09:29+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
      "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "La tormenta Adam pone de rodillas a España: al menos 4 muertos por inundaciones (y ahora se dirige hacia Italia)",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDZsdEYtYmFHbG5Dc01lWV91VDI0TmFWRktrTnZDdElCVDV6YzJoNFB3WE1wNlN1Zmp0SnB2VlE3ajdVZHdLaGR2NGtISFBweGhNNlhBb3JzcERLQjhGQ2ZNQldpdGdKWkp0bHJiSEUwaWFpYWx4QUc5UGNFcWM0T09XM2RTVTJkQTVWaTdXSm52UVFCTWl3a2N6RzJxcUZHeHg0TFFVZVExeWJhYkcyQW02WWo0b29JY0hKcGlwaE05Q2VMWDMwdjBHT2Q?oc=5",
-     "fuente": "Aconcagua.lat",
-     "resumen": "",
-     "fecha": "2026-10-26T10:29:38+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -216,6 +200,22 @@
      "resumen": "",
      "fecha": "2026-10-26T05:30:01+01:00",
      "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
+     "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
+     "fuente": "Granada Hoy",
+     "resumen": "Las peticiones proceden de familias, comercios y empresas con daños en sus inmuebles tras las intensas precipitaciones ...",
+     "fecha": "2026-10-25T21:59:00+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "Cambio climático en España: seis riesgos que conectan el calor récord con las inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdDJWU25hZHk0WnpmWnhVTDV6WGNkNzkwcTVrczZKWkVGcjhUSU1WNWFTZ0lRT1FUUWhvQ2Y3a3hkQm5aSE9RM21rcnpvYU90aWFGS0hIdW1JWmVBYnVna3ROZjZtVmFxM183RndjcWZWVHMwSzBSTXBzdDJNdVgzU1N4OFFlLXg4QzUwSkdJVzlkNnY4T0hyd1duOFl4Q2dJOEFHelhPU0Z1SkFVYk82ejZXT05YSFBVaUlrX2RKTkt3QkRwWmxQR1V1ZzFyX1hBemJfR09ENGQ1ZURZaVR4QmZLS0x5ZzdwZURMSTZfQmhmUkRSay04V0o4OVJWRVFIYmfSAYcCQVVfeXFMTnI2RGpNUlBJZDYxVmYzdFV3QkNSRHlabWdZM1E0TngzbHRoU1VKeUhseVZtTHRCYnR1UjNXSGNpc3Q0Q2JXSjU1eGh3MUZhSm5Ma2JEQUFNcVpwV21nOVFaNlprbzRUQ0VFT1Y3djRQUW9TRnJWbFdqdV9iNEdJQ2FpNlBWNm9DZTNTWTBpeW5lTGRWbm5XNUhpZkdlQlNLREd1TEt4eFh6aVVmSkpwRzFsaEE5cGxfUnN4dEp4dlNvbW1VZ0dCMEhwMTN1dTJGSU1GSWN2Nmplb182WDhPd0tWMW9oc2UwWHdtYXlQb0tVdTFfVE5iZ29WQ3hNdElSNEFaTTBIeFU?oc=5",
+     "fuente": "Diario digital Nueva Tribuna",
+     "resumen": "",
+     "fecha": "2026-10-24T16:58:43+02:00",
+     "fecha_txt": "24 oct"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Los españoles aumentan sus reservas de efectivo: se dispara un 10% su percepción de utilidad tras el apagón",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWkkxa2x0UXZQc1dIc3NCbjhoandSZDFkWUFUQWVxWEJjYkpxbWc2anVBdFdrVHhldXM3Qk5qNHBjRHg5eXhkcXhsenpiOUVLRllDSTg4NzNKOC1RZkZiVEZqQ1QzLTdKOF9qUy1JUndBZDNEZVpyX0k2Vm9PcmhENnRHTUo1RG00TGRBUXhIdGpvT0pRbnppaFhJeW8wZWRXaHppbG84d0Y5T2lTWEQzaUdocFZzN2RScGZuOVdzNm9ueG5xaGtxRHZoQmFYWUtscDlSR9IB2gFBVV95cUxOOG9nN3V0b2UxMEZhLXhPdEpSWDY0ZW85VHMtaEgyb1EzcUlYM2txamh1OUNMbTh2VUM1cVhVUEo1Y2Fwdm82eHpSNUFIb21GUkJpSzZISTN5cEJ6ZzF3VnNONDRRNGFHa1BsVXNmY092akJISVk2MmNhaE9YSFBRWmI0amRQMW40YkNzYW5YUFotODZaaVFSN3RpOW5JS200NXNOV2R6a0UwOUJvc0VoSkpwcGZOenl3Q1k2MlhkbXdUZE9GcEdxTnNKbS1vdVU1bFk1ckRzTm5idw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-10-27T05:45:21+01:00",
+     "fecha_txt": "27 oct"
+    },
     {
      "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1ZsNW5SM3dBTW1FUG1oWU91YzNZVFoyR0FKUUpWQUlHR0wzUWlzUG1QR1BmR3lCR3BWOTBZT3oxMkxmMkJmTmRwSnRRWERQUm5veVczSjBLQTg1U2RmVnB0SW1ZcGJrUDIwcllQcFJ0UW0xbjhMUlBfTGxoXzlNbVVERjQyRDI1T2VGajFSNE5WdVNDdk1zdDBlVHM4Y0VJRzBkd1ZjNFY3U0o4aVBlTXd6d2tLWVVkNjlLRElHdHFjUDRRMHJnd2F6amphd256LXhEcHR4QXbSAdgBQVVfeXFMT1dWbDVuUjN3QU1tRVBtaFlPdWMzWVRaMkdBSlFKVkFJR0dMM1Fpc1BtUEdQZkd5QkdwVjkwWU96MTJMZjJCZk5kcEp0UVhEUFJub3lXM0owS0E4NVNkZlZwdEltWXBia1AyMHJZUHBSdFFtMW44TFJQX0xsaF85TW1VREY0MkQyNU9lRmoxUjROVnVTQ3ZNc3QwZVRzOGNFSUcwZHdWYzRWN1NKOGlQZU13endrS1lVZDY5S0RJR3RxY1A0UTByZ3dhempqYXduei14RHB0eEF2?oc=5",
@@ -273,20 +281,12 @@
      "fecha_txt": "23 oct"
     },
     {
-     "titulo": "España y Marruecos revisarán la conexión eléctrica submarina entre España y Marruecos año y medio después del gran apagón",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSlhma0ZQSEtWLVVoa1dnR1FRaUV4UnJuYUJQRTduLVJ2NFEySG96TGR3NnQ3a1VPV3ZpTUZPU2d6b3dYT2xjRExNYlZ0U1E0RXduNGNRc1FnOW90bHFiQTBDeGk2Q0J1bUhHRDdiNGtMbGJFaDZNMVNRSnJkS2N6bW9GN2dWYXJzSU5aY2NVYnJTWjZSWDNGOUhQWlhLajNuRzczMnNOODJGWXgxUl9IaXlwNWhVM1hfY3R6TTVjblRKYWVsWUV5c21jTF9sbFh6XzVqSHRmXzNScEgxSUVVX3VEbTU0LWwwdWNfNW9HUWh2YVR4RllTVVJqMTdGNDhYNkHSAZYCQVVfeXFMT2dlMl9pbC1md3ZjOUNRbVRkeUd0UERHbXgzUmQwLWxENXVRcTYza01nNGZURk5YQXBkNC14dTIwY3JEckJRdWE5NzZkQnNrSFZrOGRCc3lObmU2bVVJLUlSNlZOQlhUZjlmMGQ0NXFKdngwQkRYSndHeHEwOEJFZ1ZELVVUbXN3MXhnNUo0VmszR0tsLVNwU1JZejVqM2RWVEhOMW5qSC1XdGtxTmdEc1dPM1hlWENNQVdDMGo1dGEwSk1ualBIa24yNFpTeDJ6bXZmSktPUWc1M1NaNlI1Sk1jaS1MUWFXM1NETUlWQUxOTDVNT0I4UkJkM2hQWTdMa25OQmFZTVA2WHBFajBqTG1EVGxZN1E?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-10-22T14:02:34+02:00",
+     "titulo": "Red Eléctrica desenchufa nueve veces a la industria desde julio en plena guerra con las centrales de gas",
+     "url": "https://www.abc.es/economia/red-electrica-desenchufa-veces-industria-ano-plena-20261022024217-nt.html",
+     "fuente": "ABC",
+     "resumen": "La disponibilidad de las centrales de ciclo combinado, que utilizan gas natural para generar electricidad, llegó a reducirse hasta el 65% de la potencia instalada, se queja el operador del sistema ...",
+     "fecha": "2026-10-22T19:00:00+02:00",
      "fecha_txt": "22 oct"
-    },
-    {
-     "titulo": "El cable submarino de 330M se estrena en Ceuta con un apagón y sin que se active a tiempo la planta de reserva que pide Vivas",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm15ZHg5eDFqaVFUYVg5dDZ5WTRySENTWHI3Umkyb0d6Yy15MVR2a3loa3MwdEUzOGdkakxaQXBkSWxuaHhuMmRIZGdXVXoteFBBVzd4N19KUTZnRHNuLW0yNDhKZG1wczhtVXJqcVRablJod2ota19YZVZ2WWpJNHE1cDJ6QmZxYmVzS2ZCWUJZWnhHU0ZCMWhXa0xfS0ZVZmt4R190RlZWcEhzN1RPN21wRzk1N0ZJazM5SmRwYlJGandORWZ3N01fSFpsTXV2MGF5TTM5NHdJMU1Nai0waWJ6NGZndTDSAewBQVVfeXFMTWhsaEpweUFEYmc5QVdibG55TXpvQWJJQU9jZkdyY0lCcjVVckxPWUhwdHgzeEt4akpHZXl4VVFVQ3dxM2F2M1J3LTJZNTV0LTFRTE5BYnVzRDBXZlpfdkxkNHVvaENjUWltM005ZDYxaFVaSUw4S1EwS0FuUEFNcVNlY2VVdlpmTkJjZ3NJMXpKNXpZMlVwZTBEQVZtQWdoYVlibnVrRkVoZEhGdVYxcUx0RkhYc3dkV0pEcXBERHlUTGVaWC13bTZpNHNtWUdjNUl6TGhpOXYtQ0o1OEhYMGZtUThodWVsU09Bd0k?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-10-21T12:49:20+02:00",
-     "fecha_txt": "21 oct"
     }
    ]
   }
