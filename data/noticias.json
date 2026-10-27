@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-27T13:10:41+01:00",
+  "actualizado": "2026-10-27T16:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Así es el kit de emergencia que la UE recomienda tener siempre en casa: cuántos litros de agua y cuánta comida necesitas para tres días",
+     "url": "https://www.msn.com/es-es/noticias/otras/as%C3%AD-es-el-kit-de-emergencia-que-la-ue-recomienda-tener-siempre-en-casa-cu%C3%A1ntos-litros-de-agua-y-cu%C3%A1nta-comida-necesitas-para-tres-d%C3%ADas/ar-AA2gap11",
+     "fuente": "La Razón on MSN",
+     "resumen": "La Unión Europea impulsa la preparación doméstica ante posibles crisis y recomienda disponer de suministros básicos para afrontar al menos 72 horas sin depender de la ayuda exterior, desde agua potabl ...",
+     "fecha": "2026-10-27T08:20:00+01:00",
+     "fecha_txt": "27 oct"
+    },
     {
      "titulo": "Europa alerta sobre emergencias: el kit de 72 horas que recomienda tener en casa",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQenZ0SXpITV9WMEpZZEF1aXRlVUQ1TU04d080VW9pRlhWNW1jX0JmdGNOYXEydnpmT0xsRmVWVnU1a055WDRtVzF4VVJaa1NsV18tNDd3ekF6ODRuUUZ5NHlDNnlJdWw5bDlvT0RidENoZ0hwTUFUU1owNjFwbmEtS3duTWV4QXJaZ0pOUnlqT1h0VzZkZzdmRzRhVF9seENjSzRlVXlEZnBTMnoxNGpKSmo3dmg2VkYzbTczZVJjRQ?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-26T12:06:43+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "EPS de Puno podrán recurrir a reservas para afrontar escasez de agua",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2lXNGFONWJna2psV1k3T0RNTmhQZGlNMUlNLWh0UENHdy1sU3E2Y0ljcmtLa19zd09HaHFzSGlxNFF4WW0yTl9FNlVaNElVTnJXN1VJelJKRXNXakVjdkpCZkt2dGZkeFpUbnZVVVhhRHJMLVRRLU51ODNreUZoV01RSDZYYzBXLXM5cng0MzRKOC1jRnFDeDA0S2JQTzdHTmJaaQ?oc=5",
-     "fuente": "Revelación.pe",
-     "resumen": "",
-     "fecha": "2026-10-26T06:44:46+01:00",
-     "fecha_txt": "26 oct"
     }
    ]
   },
@@ -84,10 +84,26 @@
    "items": [
     {
      "titulo": "Incendios forestales 2026: solo 47 grandes fuegos concentran casi el 80 % de la superficie quemada en España",
-     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-2026-solo-47-grandes-fuegos-concentran-casi-el-80-de-la-superficie-quemada-en-espa%C3%B1a/ar-AA2g9YSX",
-     "fuente": "Ecoticias on MSN",
-     "resumen": "Incendios forestales 2026: 47 grandes fuegos concentran casi el 80 % de la superficie quemada en España. Greenpeace reclama prevención durante todo el año.",
-     "fecha": "2026-10-27T05:03:35+01:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2tHTWxrVDZrY1haN3pxd0g2WU5wZDhwR3lGNzVlUHEtNG9scjVhTXVJMzV2c1ZzTFJXUXl0ZWVHM1BUVXBMTEppNXlzUm50SkVrOGgtekQyZjMwV3BEdzgzenVYR2RjMkpJd0NGelZMYkJJckpSeGhzY29LTUhjYndRYXNVdk40UjFUTjFhNFhFckpSSjlZZ0FJNEtYNVU5?oc=5",
+     "fuente": "ECOticias.com",
+     "resumen": "",
+     "fecha": "2026-10-27T12:03:35+01:00",
+     "fecha_txt": "27 oct"
+    },
+    {
+     "titulo": "El 65% de los incendios declarados este verano en Jaén quedó en conato",
+     "url": "https://www.ideal.es/jaen/jaen/incendios-declarados-verano-jaen-quedo-conato-20261027145800-nt.html",
+     "fuente": "IDEAL",
+     "resumen": "El 112 ha atendido del 1 de junio al 8 de octubre 2.046 llamadas por incendios agrícolas y forestales en la provincia ...",
+     "fecha": "2026-10-27T07:58:00+01:00",
+     "fecha_txt": "27 oct"
+    },
+    {
+     "titulo": "Neuquén reúne a especialistas internacionales para fortalecer la prevención de incendios forestales en la Patagonia",
+     "url": "https://neuquennews.com.ar/contenido/29363/neuquen-reune-a-especialistas-internacionales-para-fortalecer-la-prevencion-de-i",
+     "fuente": "neuquennews.com.ar",
+     "resumen": "Del 27 al 29 de octubre, Junín de los Andes será sede del Congreso Internacional “Patagonia, más allá del fuego”. Especialistas de Argentina, Chile, Canadá y España debatirán sobre prevención, cambio ...",
+     "fecha": "2026-10-27T04:29:00+01:00",
      "fecha_txt": "27 oct"
     },
     {
@@ -107,6 +123,14 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "Cerca del 65% de los incendios forestales en la provincia durante la época de peligro alto quedaron en conatos",
+     "url": "https://www.msn.com/es-es/noticias/otras/cerca-del-65-de-los-incendios-forestales-en-la-provincia-durante-la-%C3%A9poca-de-peligro-alto-quedaron-en-conatos/ar-AA2gbgtL",
+     "fuente": "Europa Press on MSN",
+     "resumen": "JAÉN, 27 (EUROPA PRESS) Cerca del 65 por ciento de los incendios registrados este año en la provincia de Jaén en el período de peligro alto de incendios --del 1 de junio al 8 de octubre-- han quedado ...",
+     "fecha": "2026-10-26T19:30:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Los incendios en España se cobraron menos víctimas en 2025: el riesgo se dispara entre quienes viven solos y los mayores de 64 años",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQelFxNXZXZmhkZnc5Si1MTTNLd2JKRS1VYlBJTmFwRWw0c0xvYXhnMHg3WV9rZlF1amRxZUNjRzl4N1R3ekN2U1FhWUVLNmFzX0R3d0hXc3RjQXg0MzFHdTBGVVFKOGR5R0w3NmNBeWhhaVNJYnRZdjg1aFR0M0drUmd0cFhCQW42YUI5QmFyTDZnbW5WekJ4NzVzR1lUMENHWXRwdWp0VmFUVHdzSms3cm45VmVYbmozQ0xyTW4zN0pXX2JPR2ctRWdSWWwwYUJoY1dtMEFEWVJUeXdRREE1NXhxZkhLRjVvMENKbzdRb0xIdTFTUnR2edIB_gFBVV95cUxQV09BU2ttRDBWX1RRV2hvRFphQXpidTBzcGoyS0NKY1pXbW5qcElBSDFKLVJVT0JqS0lOcmFGaEllNHN0RnctelphaWlmREx4a01tWlJJWUlXZVZYLWNYWENNVFpuNFVadUhDZm81YnRxd3BjUHZJbVlFTVZoTHJMN2hFdUd2dk53OUwxd0FJbmNqNklCWUxYeG5EMS14eGhKTzVQblpkbjRHeUNPVzZXUU93YmlyMVRraWFXcVdmd3pydS1DdXNoYURYR3BNRUt2UDlMMGxtWV9JaW91TlJMZ3NoZ2hfSmMzUUlvUFYta0hkMUVTUTBYN3RkZE5fQQ?oc=5",
      "fuente": "20Minutos",
@@ -121,30 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-26T13:15:00+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El incendio por «una regleta» obliga a desalojar la facultad de Ciencias de Santander",
-     "url": "https://www.eldiariomontanes.es/cantabria/incendio-obliga-desalojar-facultad-ciencias-santander-20261026133118-nt.html",
-     "fuente": "El Diario Montañés",
-     "resumen": "El aviso al 112 se dio sobre las 12.30 horas y se movilizó a los bomberos de Santander, la Policía Local y Nacional hasta el edificio de Los Castros | El incidente se ha resuelto «sin más desperfectos ...",
-     "fecha": "2026-10-26T06:31:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Los incendios de julio en Madrid, Ávila y Toledo calcinaron más de 77.000 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnptdWZSNmhLcFBFOHBkUUFPQ3BldEVKMVg1dHZxa1JvR0dEU1o3bWdmQ2xQMmwtQ2VQcE13cmZPbTRtRDJrdWRIaVhPZUY4V2VMQzVoUGJ4RkREb0RnajI3RzEtSFdSZTRubmJrZzFjOEpfWlRMMDl1RWREclJTOS1UaXpHa29zVXpWYkhZOVZpUy1XTVBLMUdRZmkzMldNY3YxOE9CV1A0eE1NdWVKeTVYUVNYWWM?oc=5",
-     "fuente": "MadridPress",
-     "resumen": "",
-     "fecha": "2026-10-23T12:59:19+02:00",
-     "fecha_txt": "23 oct"
-    },
-    {
-     "titulo": "Un total de 301.413 hectáreas se quemaron en España hasta el 21 de octubre, el 43% de la UE, según Copernicus",
-     "url": "https://www.msn.com/es-es/eltiempo/general/un-total-de-301-413-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-21-de-octubre-el-43-de-la-ue-seg%C3%BAn-copernicus/ar-AA2fTZHV",
-     "fuente": "Europa Press on MSN",
-     "resumen": "MADRID, 23 (EUROPA PRESS) España ha registrado un total de 301.413 hectáreas (ha) quemadas desde el 1 de enero hasta el 21 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
-     "fecha": "2026-10-23T06:04:53+02:00",
-     "fecha_txt": "23 oct"
     }
    ]
   },
@@ -241,20 +241,20 @@
      "fecha_txt": "26 oct"
     },
     {
-     "titulo": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
-     "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
-     "fuente": "ABC",
-     "resumen": "Planean un nuevo operador del sistema más independiente y neutral, despolitizado y ordenado para después estudiar la reducción paulatina de la participación pública ...",
-     "fecha": "2026-10-25T18:00:00+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
      "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGxWT1BZbElrV1ZTMzhwSHZyOVdkZEFzS042M1J2U2Jka1IwU3psbmJYRGpMZmZlZVhaVDg5WjAyQ3lvY1luc0J6NS1fU0diY2s1RjZtS2NiRFcwbldLZWdrUFFhS29EN2tJUUU0U3N6ZXhxbUp2Ym84WGt5SGgzb1NubllpdENYYzhGYmgtRTYyNlNjRzRJZTFncEdYQ1FKZzdPYUQxd19EXzNGSExIb2gtOFA2Wkw1SHZab2NSUEcycGNMOERmRk5fTzNVZ1A5OVE5aXA4NA?oc=5",
      "fuente": "Gizmodo en Español",
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón: qué supone para tu suministro",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-apercibe-a-red-el%C3%A9ctrica-por-fallos-de-coordinaci%C3%B3n-en-el-apag%C3%B3n-qu%C3%A9-supone-para-tu-suministro/ar-AA2fZx7p",
+     "fuente": "Diario Que! on MSN",
+     "resumen": "La CNMC apercibe a Red Eléctrica por fallos de coordinación en el apagón y abre la revisión de protocolos que afectan a la fiabilidad de tu suministro. La entrada La CNMC apercibe a Red Eléctrica por ...",
+     "fecha": "2026-10-24T15:17:42+02:00",
+     "fecha_txt": "24 oct"
     },
     {
      "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
