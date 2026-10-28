@@ -35,3 +35,4 @@
 - mejor-estufa-gas-butano-apagon · comparativa · publicado · Top #3 ranking: ya creado por auto-content (mejor-estufa-sin-luz-apagon); no se repite.
 - ningun contenido nuevo hoy · bloqueado · Los 3 top candidatos ya publicados por auto-content; no hay candidato ejecutable nuevo. Cuello de botella actual: Playwright no instalado en venv pero _cmd_prerender tiene fallback a chrome-headless-shell (funcional). Verificar que el publicador corre correctamente con el fallback.
 | 2026-10-27 | mejor-arrancador-bateria-coche | comparativa | encolado | 5 modelos, 900+ palabras, 3 fuentes, 6 internos, ticket alto P2 |
+| 2026-10-28 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno trabajando automáticamente |
