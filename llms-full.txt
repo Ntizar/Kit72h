@@ -531,6 +531,124 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Paneles solares sin batería: qué kit necesitas si tu casa tiene modo isla (2026) — https://kit72h.com/blog/paneles-solares-sin-bateria-que-kit-necesitas/
+Pregunta real de un lector de Málaga con 16 paneles y backup en modo isla sin batería. La respuesta: 4 capas de kit, del apagón a la power station, con lo que NO comprar y un plan de 3 pasos.
+Pregunta real de un lector de Málaga: «¿Qué kit recomiendas para una familia de 2 adultos, con casa unifamiliar, 16 paneles solares (sin batería para almacenar pero con sistema de backup para poder usar lo generado por las placas en modo isla) en la zona de Málaga?»
+
+ Es la mejor pregunta que nos ha llegado este mes, porque describe una casa que casi está preparada: mucha generación solar y capacidad de isla, pero cero almacenamiento . Vamos a responderla bien, porque la respuesta no es "compra el kit más caro".
+
+
+ Lo que ya tienes (y no hay que comprar)
+
+ Una casa unifamiliar con 16 paneles y vertido aislado («modo isla») tiene resuelto el problema más difícil de un apagón en una vivienda urbana: cierta electricidad propia mientras hay sol . La mayoría de la gente que prepara un kit de emergencia parte de cero; esta casa parte con ventaja. Málaga, además, es de las zonas con más horas de sol de Europa, así que la generación diurna no es el cuello de botella.
+
+ Lo que ya cubre la casa: nevera y congelador durante las horas de sol, luz LED durante el día, cargar móviles y portátiles, e incluso algunos electrodomésticos de uso puntual a mediodía.
+
+
+ El hueco real: la noche y los días grises
+
+ Sin batería, el sistema aísla la carga de la generación: el consumo instantáneo tiene que salir de los paneles. Por tanto, el punto débil aparece:
+
+ 
+ De noche: sin sol, sin luz de placas. La casa vuelve a depender de la red… y en un apagón la red no está.
+
+ En días nublados o de tormenta: la generación cae un 70-90%. Si el corte coincide con un temporal (la DANA de octubre de 2024 en la Comunidad Valenciana, por ejemplo), tienes generación mínima justo cuando más lo necesitas.
+
+ En picos de consumo: un hornillo, un horno o una bomba de riego pueden exceder la potencia instantánea disponible en modo isla.
+
+ 
+ Y ojo: el modo isla tiene un riesgo propio . Si la red vuelve y el sistema de backup no conmuta bien, puede volcar energía a la red (peligro para los técnicos que la reparan) o entrar en discrepancia con el contador. La protección anti-isla es obligatoria y se verifica en una inspección; si llevas años sin revisar el instalador, este es el momento.
+
+
+ La recomendación: cuatro capas, en este orden
+
+ 1. Kit Apagón — la base no negociable (~90-200 €)
+
+ Da igual lo buena que sea la instalación solar: el 28 de abril de 2025 la península se quedó más de 12 horas sin luz y las casas con generación propia aislada fueron las mejor paradas… las que además tenían lo básico. Kit Apagón completo (90-200 €) : lámparas LED a pilas con imán, frontales, radio a pilas, detector de CO, hornillo a gas con bombonas, powerbank grande y acumuladores de frío para la nevera. Con la generación diurna cubriendo nevera y carga de dispositivos, esta base es económica y muy eficaz.
+
+
+ 2. Almacenamiento solar portátil — tapar el hueco nocturno (400-1.200 €)
+
+ Aquí está la mejora de mayor impacto: una power station (estación de energía portátil, 500-1.000 Wh, LiFePO4) . No es una batería doméstica: es una unidad autónoma que cargas con tus propios paneles en las horas de sol y te da luz, nevera y electrónica por la noche. Compara opciones en Mejor power station para apagones en casa (2026) y Mejor kit solar portátil para casa (2026) . Como la casa ya tiene placas, la power station no necesita traer panel: se puede cargar con el propio sistema en modo isla (o con el panel plegable del kit si el sistema aísla la carga).
+
+
+ 3. Kit Electricidad — completar el entorno de energía (100-500 €)
+
+ Kit Electricidad : panel plegable 60-100 W de respaldo, powerbanks de 20.000-27.000 mAh con salida AC o USB-C PD, lámpara LED recargable de área, frontales, regleta con protección de sobretensiones y baterías AA/AAA en cantidad. Es el complemento doméstico del kit solar: la casa tiene generación «grande» de día, pero cuando hay que mover energía punto a punto (cargar un móvil desde la power station, iluminar una estancia con la lámpara de área) la flexibilidad la da este kit.
+
+
+ 4. Riesgos propios de Málaga: calor, lluvia torrencial e incendios
+
+ La zona de Málaga acumula tres riesgos que el kit general no cubre del todo:
+
+ 
+ Ola de calor: el riesgo natural que más muertes deja en España. Kit Calor (30-70 €): ventilador USB, botella isotérmica, sales de rehidratación, toallas de enfriamiento. En julio y agosto, sin aire acondicionado si cae la red, esto es lo que evita el golpe de calor.
+
+ Gotas frías y lluvia torrencial: la costa del Sol tiene episodios tipo DANA con inundaciones puntuales. Kit DANA (90-160 €): bombas de achique, protecciones anti-humedad, sacos y barreras. La casa unifamiliar tiene más superficie expuesta que un piso.
+
+ Incendio periurbano: si la casa está a caballo entre zona urbana y monte, Kit Incendio (60-140 €) y el plan de evacuación.
+
+ 
+
+ Qué NO hace falta comprar
+
+ 
+ Generador de combustible: con 16 paneles y modo isla, un generador aporta poco salvo para herramientas o si hay consumos grandes obligatorios. Es ruido, mantenimiento, combustible que caduca y normativa de comunidad. Descártalo.
+
+ Kit Profesional (2.000-5.000 €): tiene sentido para quien parte de cero energético. Esta casa ya tiene la generación resuelta; el hueco es solo el almacenamiento nocturno, que cubre la power station por 400-1.200 €.
+ Segunda batería doméstica grande: si algún día se quiere almacenamiento fijo, es una obra aparte. Con la power station portátil se cubre el 80% del escenario de emergencia por una fracción del coste.
+ 
+
+ Resumen en una tabla
+
+ 
+ Capa Kit Coste Qué resuelve 
+ 
+ 
+ Base Kit Apagón 90-200 € Luz, cocina, radio, CO y nevera durante el corte 
+
+ Hueco nocturno Power station 500-1.000 Wh 400-1.200 € Luz, nevera y electrónica sin sol 
+
+ Energía flexible Kit Electricidad 100-500 € Powerbanks, luces de área, panel de respaldo y protección de sobretensiones 
+
+ Riesgos Málaga Kit Calor + Kit DANA (+ Kit Incendio si hay monte cerca) 180-400 € Ola de calor, lluvia torrencial e incendio periurbano 
+
+ 
+ 
+
+ El plan de 3 pasos
+
+ 
+ Esta semana: haz el Kit 72h Básico de 2 personas (100-180 €) — la reserva de agua y comida para 72 h que la UE pide como mínimo.
+
+ Este mes: añade el Kit Apagón y la power station. Prueba el modo isla de tu backup una tarde: desconecta el diferencial general, deja que el sistema aísle la carga, y comprueba qué se queda con y sin red. Lo que no pruebas, no funciona.
+
+ Este trimestre: Kit Electricidad completo + kits de riesgo local (Calor, DANA, Incendio) según el entorno exacto de la parcela.
+
+ 
+
+ Fuentes y contexto
+
+ 
+ Apagón: lecciones del 28 de abril de 2025 en España — qué funcionó y qué falló en casas reales.
+
+ Panel solar portátil: cuántos watts necesitas de verdad — para dimensionar la carga de la power station.
+
+ Generador vs power station (2026) — por qué descartamos el generador aquí.
+
+ 
+
+ Preguntas frecuentes
+
+ ¿Con 16 paneles y modo isla, necesito batería doméstica fija? Para emergencias, no. Una power station de 500-1.000 Wh cargada con tus propias placas cubre la noche (luz, nevera, comunicaciones) por 400-1.200 €. La batería doméstica fija es una mejora de confort para el día a día, no un requisito de preparación.
+ 
+ ¿Puedo cargar la power station desde mis paneles del tejado en modo isla? Depende del sistema de backup: muchos inversores híbridos permiten dedicar un circuito auxiliar a cargar la batería portátil de día. Verifica con tu instalador que el modo isla deja energía disponible en el circuito donde enchufes la estación; si no, el panel plegable del kit Electricidad es el plan B.
+ 
+ ¿Y si el apagón dura más de 72 horas? El Kit 72h Básico es el mínimo europeo; para 2 personas con casa unifamiliar, el Kit 30 Días (300-500 €) añade una semana extra de agua, comida y gas sin depender de la red. Con la generación solar de la casa, el agua caliente y la comida cocinada quedan resueltas de día.
+ 
+
+ ¿Tienes una casa parecida y dudas sobre tu setup? Escríbenos: las mejores respuestas acaban siendo artículos del blog como este.
+
 ### Mejor arrancador de batería para coche: 3 tipos comparados para emergencias — https://kit72h.com/blog/mejor-arrancador-bateria-coche/
 Li-ion, LiFePO4 o power-station: qué arrancador portátil necesitas para tu coche, amperaje mínimo y los 5 errores que lo dejan inútil.
 Tu coche no arranca. No porque el motor esté estropeado, sino porque la batería se ha descargado — un fallo de luz de 36 horas, un cable de las alarmas que no se cortó del todo, o simplemente porque el coche lleva dos semanas sin moverse. Sin arrancador, llamas a la grúa (200-400 €) o esperas a que alguien tenga un coche con cables de arrancada. Con un arrancador de batería portátiles (jump starter), resuelves en 5 minutos lo que antes te dejaba tirado toda la noche.

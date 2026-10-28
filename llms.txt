@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Paneles solares sin batería: qué kit necesitas si tu casa tiene modo isla (2026)](https://kit72h.com/blog/paneles-solares-sin-bateria-que-kit-necesitas/): Pregunta real de un lector de Málaga con 16 paneles y backup en modo isla sin batería. La respuesta: 4 capas de kit, del apagón a la power station, con lo que NO comprar y un plan de 3 pasos.
 - [Mejor arrancador de batería para coche: 3 tipos comparados para emergencias](https://kit72h.com/blog/mejor-arrancador-bateria-coche/): Li-ion, LiFePO4 o power-station: qué arrancador portátil necesitas para tu coche, amperaje mínimo y los 5 errores que lo dejan inútil.
 - [Mejor bomba de achique para inundación (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-bomba-achuite-inundacion/): Comparativa de 5 bombas de achique para inundación: la más potente, la más silenciosa y la que mejor relación calidad-precio. Desaloja agua sucia de tu
 - [Cuánta agua y comida guardar en casa: las cantidades oficiales de Suiza (y lo que dice España)](https://kit72h.com/blog/cuanta-agua-comida-reserva-emergencia-casa/): Suiza publica cantidades exactas de reserva doméstica: 9 litros de agua por persona, comida para una semana y 50 mascarillas. España recomienda 72 horas
