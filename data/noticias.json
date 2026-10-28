@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-28T19:10:40+01:00",
+  "actualizado": "2026-10-28T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -91,6 +91,30 @@
      "fecha_txt": "28 oct"
     },
     {
+     "titulo": "Córdoba cierra el periodo de alto riesgo con 100 incendios forestales y 966 hectáreas quemadas",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVZZTFQxRVZKbTZzSG9JZjhFYW4yWEt4Ty1GbFZ6dzFUUjlnZ0V2Z2VzM1k4Tk03dWtpS1Rac3FOQTU1VHVBMFlYVER4Yi1WLTBVeWJaZEJsMVpndFVvZUVQMG1vckhtT3E5S3Z0VTRqM3oxVF9RNW1UaFkyeWcwMmEzM3NMVUlnMHhtZWVQLWl3TlM3b0VXeTAySmxGb1R0Y0pUS0wycFZxUXdIQ0NhU0syRERIa0RDUnQ2eVplTk5DVi1PN09KZkZwRHFtei1ERWl5SmdQbjU3X3Zy0gHiAUFVX3lxTFBjazNrYkdXVWxvRjZXTnMzNmxaRWx0MGVQN0ZwdDJkRm53UXlraUtNRDR6aF80SnpySjFqV0NPaFROYkhGN3BhZTVqTHE2OUVMbmJJdFpmcDVpUkQ1WFlWMzYtZUVvT1dDRVFWSUJwNXVaaUR6RW16Q19Vd2U1c01zNVR0cXRmQ1VabDA4SHJwc010ZkprZGNjUjdIcmxFNWt0Sk11Z3R6NS01eEY0U0lWbXVwREppTWdTbUNmNDZxeWFVdnFyb25WbXBKZjBpRXdUanQ5Q2xqd2tYNE04bmFCenc?oc=5",
+     "fuente": "Cordoba Hoy",
+     "resumen": "",
+     "fecha": "2026-10-28T12:32:44+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "Incendios forestales en España: un solo país concentra casi la mitad de la superficie quemada en la UE",
+     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-en-espa%C3%B1a-un-solo-pa%C3%ADs-concentra-casi-la-mitad-de-la-superficie-quemada-en-la-ue/ar-AA2gfLPN",
+     "fuente": "ECOticias.com on MSN",
+     "resumen": "Los incendios forestales en España dejan unas 299.000 hectáreas quemadas hasta septiembre de 2026. Por qué el país concentra el 44 % del total de la UE.",
+     "fecha": "2026-10-28T12:27:00+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "El verano más caluroso en España dispara un 62% la superficie quemada en Córdoba",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1ZVMElGclVXbEZ5cmgxRnN6YXhZb0MtUkU1UHhxVVVuem5JNzM0cEt4ZExIU0NXZ3BOWF9oSDNjNnFWekUzM0RBOHFPSFdJdnc0YmM3VmN5VmNJanhrZEFGQ1VELUVzZHF6Rk5MeXYzMUs2cE40LTZWWUVYY2c5TE9BSHRFMURpS2FQaXVXbGx4X2hTR0kzMW41azhVUGJpSjBTNVBHQ1F2OTZtVzRpdmV4bHpNSHQyQTNzV3Y2V3NiQ25oOUE?oc=5",
+     "fuente": "elDiario.es",
+     "resumen": "",
+     "fecha": "2026-10-28T12:00:38+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
      "titulo": "Córdoba cierra la campaña de incendios con casi 1.000 hectáreas afectadas y el triple de superficie arbolada quemada",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMG5UV255UmIwODNMUkhsVDVNSWJWWWFGRUV1VHZRUzdENFpsSHZFYVJIMVdDdzlXQnl3Ymk1ekw3b3hyR2pYdlFMX2lyemd1NEhmdzNkZ2xFNFlwd29vb2NGUE9KT3hPak9HS1BmdUNfd21CUXZuSS12cEZ6NEJBZHpYSjQ0QmszWkpZbGVCbWozNHFWQUM5b21wNlRWbkptbGIzNGFFc0FmajZGdThRQUtRS1ZVUE1RRVlxMWRSWUVhMnfSAcgBQVVfeXFMT3Y4cHVDbGdaMnJGQjR3dkxaeFF5WVAya2lvZkNtOGJhUGt1NFM3QTdOSDRnSzJYRW9Ma2RjWG9jU1ZlNWJObzRCRXB5aU52QWhsT3FmREVCS3ZtdHFDWmY0Ql85d0I3WFp3M3lpMFItX3ZITVlORzdhS3RiMlhNVjVjZGNaa3lWbzIyTkFKM3lZVXNrNlhwN1FfV2ZJd0JrVlNjVTZtM3VRU3RuaGFtcjY0cWpsWmN2YkpiMV9hZXZZQXdpckJoYk0?oc=5",
      "fuente": "ABC",
@@ -115,35 +139,11 @@
      "fecha_txt": "28 oct"
     },
     {
-     "titulo": "Incendios forestales en España: un solo país concentra casi la mitad de la superficie quemada en la UE",
-     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-en-espa%C3%B1a-un-solo-pa%C3%ADs-concentra-casi-la-mitad-de-la-superficie-quemada-en-la-ue/ar-AA2gfLPN",
-     "fuente": "Ecoticias on MSN",
-     "resumen": "Los incendios forestales en España dejan unas 299.000 hectáreas quemadas hasta septiembre de 2026. Por qué el país concentra el 44 % del total de la UE.",
-     "fecha": "2026-10-28T09:38:05+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Córdoba cierra el periodo de alto riesgo con 100 incendios forestales y 966 hectáreas quemadas",
-     "url": "https://www.msn.com/es-es/eltiempo/general/c%C3%B3rdoba-cierra-el-periodo-de-alto-riesgo-con-100-incendios-forestales-y-966-hect%C3%A1reas-quemadas/ar-AA2geLbD",
-     "fuente": "Europa Press on MSN",
-     "resumen": "CÓRDOBA, 28 (EUROPA PRESS) La provincia de Córdoba ha cerrado el periodo de peligro alto de incendios forestales en 2026 con 100 siniestros en terreno forestal, de los que 42 se quedaron en conato y 5 ...",
-     "fecha": "2026-10-28T06:17:28+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "España concentra el 44% de la superficie quemada total de la Unión Europea en 2026, el año que se propagó el incendio más grande y destructivo",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVmZNM21Qd21XczBtTVFsanVxSXRNUUVjUDd1WkJLdVM4R2ljN0RuZ1NxNnliWDBsbTREQkhjWXdnMnlkQXRNSmMydG5FVUEtUXpRbUtZWnJ5NnpCUC15eUVpRl9FSVRGX056ZEI5WF8zQkZkMTdvTHBQZXprbkk1Y1RGX2VweDdmWUY2djJEQkp2Zkp6cWZTdnhKY1ZYcUpzMVJzLWJoZS1mSjhFQmxfRkl0UU1udTJRQUc4TkkyUzB1QTk0TnRxcEpsdmt3RFdJZmlJeUQ4bXo0WlZReHE1a3VpQkxhdHVBaEg3ZFg0OGVTQmlvMkR0X2wxMGN1b0xNOXU0bWNDamloelVnWXJmd9IBqwJBVV95cUxOMDcxWFA5b3RjUDM5R2ZhNkY5cEdCc0t6VjdSQnB2WVFEVVZ0V0VTdlZ1ZXZuSGFnVVBOdWQ4andnYUc0YndEN09ZUGFmUl9xYUp3M3gwUXluTmFQUVRzWFhTTlJfcElOTlBwUnVYR0lwdUszQ3hLVm83eHp2T3JQb0tuM19GTXlGRzhTdXhvQkhiMGxYYy1YUFl6dVp1VDhIaDFpYUxLZmVhLU5oM0tKZG5QQ28xUm9icFBBNmZVbk4xYXFfVW5zXzZMRWNUWXNTMUVVUnQ0U2FacGlYZVMyd2UzdnVocGt1WGVnc1Jyd1hUSEVUZ2p0VnFCdVZiU0RLTUQzYlBmSkU0c19XT1ZNMDZqTHZZOHNLYVhnZUdUY2pjVUZuN3h6Zkh6VQ?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-10-28T05:47:13+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
      "titulo": "España concentra el 44 % de la superficie quemada por incendios en la UE en 2026",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNy1RbG9KejRCdTdRWTdlel9VU1V2SFN0VTFuWXJYMkNfemVMdmVXdkd2eDd5Q0ZOc0R2ckVkYldyMFVFSVlnaW5NUzRhb2hVbUk2ZHZPMDVRel8zN2ZsVldsZmRFRGFiSkY0bGdpM2NJbzYtRnlrcEFuY0ZDSlU3QUZoZFBWb0pvM0tjR0tDYw?oc=5",
-     "fuente": "EFE - Agencia de noticias",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU12RDVLcGFpWFV3ZXpBa3dGYlVMVi1EeTc5TUFwSUgyc1NQOTMybThXLVB5bGRSVmloVVV6cXM1Z2JkSU9CUWhvSXBSU0ZaQTd2ZmI3bUphcDFFdHlTeDFiVDFkaWs1Y2Q0bEljSTdUaEhRYUl5UXdlZEhKM1ZyR2lTWHBRbXdwT2trc2IxOTd0RGdGVEUyUTlNSFBGMVRCRXc?oc=5",
+     "fuente": "EFE Verde",
      "resumen": "",
-     "fecha": "2026-10-28T05:44:33+01:00",
+     "fecha": "2026-10-28T08:52:27+01:00",
      "fecha_txt": "28 oct"
     }
    ]
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Víctimas de la dana aplazan por el accidente ferroviario el acto de mañana en Paiporta",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFptMzBld1RmRURGXzdtcTV0RkVRTzhPQURlMEpIWXl5QllMMUZPRXVDanNvWmdxZUUxUVZiTmpEWDdPdmc5a1RxcnBrZzZ5WU4yTmg5bkpPLUpYVTZDTTViUXZURVVkakxKa2lQOEI3SWMxQWdtRWVqUXMyQUVHUDlWYlhKZVNxbHFWaVppblN2Y2FCQnhHbDZvaEdoU09SS1pITEVTX3dlOHFISmQ4Y1lWVVY1NURjb2I2ZXRVVGtrODhmQllaSDNwUFA0OUZPZEFma9IB7wFBVV95cUxNUlNRU0dFX2VHZkpGZ1dKVkJZTFlpdXptSVB6TnFaeUVXQWJ5bFhNWEoyUWpPSHNuZW40QkppdFdvSXJwLUFKZ3Zyc3ZSdHpuSEg3NGNpTTlrMnY1a0lzTFFZbHFaY2k2a2xSREF2SlpsS0Fnd3lfUE0tdm92TW1EMk81dFFzTUVZLUJPMXZ2VFIxNkZrNUtnaTl2dFlDQ3NnWW9nT2JPWkZzcldEVG1CS1FaOThwZG9ZdXVzSjFSclpickszZGYyNnNwM0JDVDc4ZGJaTm85VFN5aU1vVTJYRzZSdXpCbjRUMVl4U1Zmbw?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-10-28T20:14:28+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
      "titulo": "📰 #EnPortada | Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkdNOHpQbUJDd3E5TUxLalVVenBrWFIzMHUydzAtbk1wUUxwQVZ0WUhibG9VWGtld0tTYjg0ZF9leG9lLW11SUgzZW5SRnAzRHduc1ZaQlBuXzRDQmVzWkNUUk5VejFqZDdVcTlneXQtb05mam9BQkVheGJ5TUNYdjJtUmg5WXVIRkJONTdyM010Q2ZvZHFMQnViOHg2VDR1R0RzMzZXbVV6c2h4RUZUdGtJSkRkODIxa3FjSHFwT3VwRFRxcndVVy1MTEJuY08xUlJfU1p5MXpJTzRX?oc=5",
      "fuente": "Facebook",
@@ -162,19 +170,11 @@
      "fecha_txt": "28 oct"
     },
     {
-     "titulo": "El Gobierno toma una decisión clave tras las inundaciones en Ibiza y Formentera: las ayudas que podrán llegar",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3JtME5FNVBQQjVFa3JwN1JMRG9hX3FmWU9SM2VqcWgxRTZqbzRuYk9LcFoyLUhweWQtWUIxUFVvRmM1bWs3MWZkS3ByT2tXeGx5TlEtSHFfVWY3bUFVS0szazg2dnRsNF9acnVsX09Ya0gwNmZ5NlpKWXlqU3Y4LXNpUWJxUHRrQ2w2a1hZT1hkc1pwMl9BUWNrQXZDMDBUbDlHVGJTLUY0M3ZsdzA1cEt0c0JES21iWnBnLWVHN0tiTVhrRFlSYVdYVDUtbHc3UFBCNms3Yw?oc=5",
-     "fuente": "La Voz de Ibiza",
-     "resumen": "",
-     "fecha": "2026-10-28T12:04:32+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
-     "fuente": "Expreso",
-     "resumen": "",
-     "fecha": "2026-10-28T12:01:01+01:00",
+     "titulo": "El cambio climático agravó hasta un 22% las inundaciones de la tormenta Boris en Europa, según un estudio",
+     "url": "https://www.heraldo.es/noticias/sociedad/2026/10/28/cambio-climatico-agravo-inundaciones-tormenta-boris-europa-2063819.html",
+     "fuente": "Heraldo de Aragón",
+     "resumen": "Una investigación revela que el aumento de las crecidas de los ríos fue mayor que el de las lluvias y advierte de que podría ocurrir también en España ...",
+     "fecha": "2026-10-28T13:14:00+01:00",
      "fecha_txt": "28 oct"
     },
     {
@@ -184,14 +184,6 @@
      "resumen": "Revista de información y actualidad económica de Cantabria, nacida en 1991. Empresas, emprendedores, industria y reportajes en profundidad.",
      "fecha": "2026-10-28T04:00:00+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Al menos 3 fallecidos, viviendas dañadas e inundaciones deja temporal invernal en Ecuador",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTdvNVlhOXZOT2dNd2t2ejBPYnpnXzdVQi1QTko4aUlWN2NMclBweGdFZV82MVRxcjBMRWJhcjZIeWpKVkN0QVVKN2tMQnZzVTRLMzV2Z2FLeFVCbEdJTGhyNi15SlRFQVNGZ1BqV3dhWWp3WXNQVjRseWszWE56UXlmSG1GbU1UQjJ6UFUzNGZseFRnRGtnczRxcno4enMzRmtIdF85N2ZLbFIyOXZIOWU5VQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-10-27T18:30:48+01:00",
-     "fecha_txt": "27 oct"
     },
     {
      "titulo": "Los meteorólogos lo confirman: las ciudades españolas afrontan más riesgo de calor extremo e inundaciones durante este siglo",
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
      "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "El alcalde de Els Poblets exige demoler el puente del río Girona y una solución para las cañas una semana después de la DANA",
+     "url": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/denia/noticias/alcalde-els-poblets-exige-demoler-puente-rio-girona-solucion-canas-semana-dana-20261026_3462679.html",
+     "fuente": "COPE",
+     "resumen": "José Luis Mas hace balance de los devastadores efectos de la riada, que afectó a más del 70% del casco urbano y a entre 250 y 300 vehículos ...",
+     "fecha": "2026-10-26T06:31:00+01:00",
+     "fecha_txt": "26 oct"
     }
    ]
   },
@@ -224,30 +224,6 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
-    {
-     "titulo": "No, Netanyahu no amenaza a España con “accidentes de tren” o “apagones” en este vídeo: sí que menciona a España, pero no dice nada relacionado con accidentes de tren",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmh3bVpsMDRKNE83NDFCZzQ3Zm5uRHZkT0FoYzcySkM2cWh1M08zYk5DWEV2YW50RzE0WGVMSjVPQ0J3aG9KY0JTaUlzTWI4emNQZzFVakFKSjJBUEl2YWs5b083dmZZajFPRXBDWHBlbU5MTk9pNHdYVURrOE11NTNJd3psNXhNZnJOQmZsUUtEMU5qbWdMU2oyNzhIU25meGlEcnZwNm5GdjNNZDRBeE5uSzV6Q0Z0WmxqVUo5U3ZvcW5oOHRxNDFhRTlFc3djaUpjbDV3YkNRMGc?oc=5",
-     "fuente": "Maldita.es",
-     "resumen": "",
-     "fecha": "2026-10-28T15:33:19+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Red Eléctrica eleva el beneficio y las inversiones en mitad de un 'boom' regulatorio",
-     "url": "https://www.abc.es/economia/red-electrica-eleva-beneficio-inversiones-mitad-boom-20261028090741-nt.html",
-     "fuente": "ABC",
-     "resumen": "Así, Red Eléctrica ha invertido 1.092 millones de euros en el proceso de transición energética. Esta cifra representa casi el 96% de las inversiones totales del grupo, que ascienden a 1.139 millones ...",
-     "fecha": "2026-10-28T02:07:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Red Eléctrica se protege con un 20% más de parones a la industria para 2027 en plena guerra con las eléctricas",
-     "url": "https://www.economiadigital.es/empresas/red-electrica-protege-20-parones-industria-2027-plena-guerra-electricas.html",
-     "fuente": "Economía Digital",
-     "resumen": "Red Eléctrica prepara el sistema eléctrico para la primera mitad de 2027 con más desconexiones de la industria a su disposición. El operador del sistema prepara ya la nueva subasta del servicio de res ...",
-     "fecha": "2026-10-27T22:55:00+01:00",
-     "fecha_txt": "27 oct"
-    },
     {
      "titulo": "Borja, ingeniero con 10 años de experiencia: \"Con una batería de menos de 500 € me puedo desconectar de la red eléctrica\"",
      "url": "https://www.3djuegos.com/tecnologia/noticias/borja-ingeniero-10-anos-experiencia-bateria-500-eur-me-puedo-desconectar-red-electrica",
@@ -287,6 +263,30 @@
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
+     "url": "https://ecosistemastartup.com/red-electrica-blinda-la-red-con-8-compensadores-sincronos/",
+     "fuente": "ecosistemastartup",
+     "resumen": "Ocho máquinas que no generan electricidad y costarán 100 millones cada una El apagón del 28 de abril de 2025 dejó a toda la ...",
+     "fecha": "2026-10-24T07:51:00+02:00",
+     "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "España desperdició energía que hubiese abastecido a más de 6 millones de hogares por las restricciones tras el apagón",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUXhIUzYxZHhteUJYcjkzLWw5Tl95VkNlNjZzTDI1alhEM25uVkwxMW5qZC1JYmkyaXZaQ2NWcEtMd2pNaTFBb1VjQzFIcUpIUWlkVW80UHBsMWN1WGg2b3BvVVcxdGpBdHlOeXZIWklkVFJxcFlmaGxEYUdwak9USm5CbEpOMUh3WUU4MWJRc25FZjFuY3RxemJ5LW5yTXJyNmdVS0NKeTNDaHhaSU55bnJicVhVRXR1aHRUTVgxcHk0YWdWUndCVXVKTzh5TlJEMlRlTF9PSUpZY0xOamItdUctVWt2X1hsUU5tdWRzR010bnprQzZmS3Bnd1ZiTWdabXJSYzBJd9IBowJBVV95cUxPS2V5SFEyMVhoLTZFbU5GS09STEVHNldfZUo2d2E3QTVuRXQyZHBDX0czUVBCcFRjZzVHRmEtS0lWRzVvb2RhbEhsVHAtTXZVNzRnZE1xM1ZVSy1iSFdGRE9EUFFRMlBQTTlBMDd0aVR3cXFHWWpGbEZGWTFoZmwxX1dxaXh4S05IbGVVbngwbEhNWE0xRG9Zb0RlZmhnQVFxTkVTbXBESHJmNmh3SzUzdnpJbjVyMUY3SmwySTh4dzVUbGZQdkdGVXQ2ZUJsQXBfakRQTExua1hoSzVRa1p6dF9HT1RBcnl0TzhQazEzTmVFS09Pclg5ckNKVEhaeXZxdXdtOGZBVmdINDV2bHZ1NDFJNHM5YU8zelN4RG94bVVpdVk?oc=5",
+     "fuente": "La Voz de Galicia",
+     "resumen": "",
+     "fecha": "2026-10-23T13:38:18+02:00",
+     "fecha_txt": "23 oct"
+    },
+    {
+     "titulo": "\"Red Eléctrica está prohibiendo a las centrales parar por mantenimiento y es porque, si hubiera un nuevo apagón, pueden decir que exigieron mantener las plantas disponibles ...",
+     "url": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/red-electrica-prohibiendo-centrales-parar-mantenimiento-hubiera-nuevo-apagon-decir-exigieron-mantener-plantas-disponibles-culpa-seria-empresas-20261020_3458755.html",
+     "fuente": "COPE",
+     "resumen": "La compañía deniega las paradas técnicas de seguridad en nucleares y térmicas, trasladando la responsabilidad legal a las eléctricas ante un ...",
+     "fecha": "2026-10-19T22:01:00+02:00",
+     "fecha_txt": "19 oct"
     }
    ]
   }
