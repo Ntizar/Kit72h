@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-28T16:10:40+01:00",
+  "actualizado": "2026-10-28T19:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Japón llama a sus ciudadanos a prepararse ante posibles catástrofes",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelB1SUpGQkhRMC16al9MRHVfVjNmeWsyS2twcHBqWW1MN1FuZS0yMmplWm9nS25wazU2c1RmUHNDQ285SkZTeGR1cEZtVWdfN3ZkV01aVGw1QVU2RlVQa0tsVUJwLS1vWXV1RlI3OXE1N2RxNGdqaDlISWdrQjJjc1hIODFzeWtnN3RMWkhhNEFEc0xkTzhYdkhmLWhNenNjVjNBVmhQVXdLSU5haGNybW9UNVRaZUdSLWlJRENB?oc=5",
+     "fuente": "El Caribe",
+     "resumen": "",
+     "fecha": "2026-10-28T14:58:36+01:00",
+     "fecha_txt": "28 oct"
+    },
     {
      "titulo": "Japón pide a la población almacenar agua y alimentos",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0FXWWhGcy1LclNzWFRTVGpiOHF3Slc2R0Rvd1N6MUtOWHpEWmxKMkJSTUF3ZWNGeXlsNjgwMUY0ekUzWU01TkFLSzAwcWxLTlhpZU43WF9aY2UwRDJOc1p2TGsxbHZMWElmSE9IUS1LMjJRTlQ4X2dWRjc4U0xRUUJTdWpnZS16a1VnTzF2dGs3QQ?oc=5",
@@ -52,14 +60,6 @@
      "fecha_txt": "28 oct"
     },
     {
-     "titulo": "Japón pedirá a toda su población almacenar alimentos y agua ante grandes desastres: ¿qué está pasando?",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRktpdEptcldVMnVHTWFQS1hQaFpMcm5Yd1pWcVBHQzN5d2RVZU1ZNHg3U3ZudGtUcmR3NUg0RFJSTHp2cFhBMVgxTUNSYVV0elFCTElWQkZQZU83eUVvLXdoRC1jVmZ6R1Vubmd0Ty0zaGh6S25FRUVQOTNTT2dLSE4wSkJVRDJSNVJVNV9hMXY0LVd1LTJUamc1R1Zmb0xzdk5UTG1vOHYySEFUSWRlZmc2QVdlZw?oc=5",
-     "fuente": "DSN Noticias",
-     "resumen": "",
-     "fecha": "2026-10-27T21:41:17+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
      "titulo": "¿Una guerra o una crisis global? Por qué varios países recomiendan tener reservas en casa",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQl8xSlBSbldoNHZRTkxpUnJwdlFBUEdHT05VelA5WXFHT0VnSHI0OGRfcGVaM242RENod2FjSW9YX2kwNUhqRUR4QXVtSVllYUkxRGN0QUw0V0dra2pMS2RNMGJMRzc0cF96VHRRcG5rZFU1eTZ1aW9VRmFvck5GNFJxY2I5UEttbUY3bk5uc28xSlJURWVOX19DUEpYc3R2WG8yY1dLa3czWWgtZDJwMTBaT3gtalowZzFiR9IB0AFBVV95cUxPWVpMREtMa2xwM2JEWXB5RWE0TGFaRC1jcjY1TXgxd1U5ekQ0T0ZjMGkxYnpPVTV2M3YzMlVmOHBtZXNKczV1X25hWHJ6OWp2RUg0VjFId1RzVkEwbUZvVHlsODJTX19MV2I2U1U1eFBsalJDZkFsbTJvXzExWlZvZnltaEZqOXFET0hlZ3pMZThJUzJmTWhnTU0xNk1oMkNySjlxUGJMTmpOY25oU2JxTTdnQ0VpbGhwTTlQbG0wZFZxaC1ScnNFOWtEUHNaXy1f?oc=5",
      "fuente": "ViveUSA.mx",
@@ -68,11 +68,11 @@
      "fecha_txt": "27 oct"
     },
     {
-     "titulo": "¿Por qué Japón y Europa piden almacenar agua y alimentos ante posibles emergencias?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWEtdnhLb2piUjZheWZzblQ3cl80SGFSQ0VYRlE4OV9oRl9wZnVmV2ttNGlKRGtqdmpKMkZtV0g2eEdnOG4zQ2xGN1BnUmJqSmxXZENtQ1BnM3hOWWRLUG5mZVczTV9MUFlheU15Y29sSFZqZUh0SGNPRVhDcGdlRDczb05uV1ZrUUJlQldzMENRczNpbG9veUlKcTV6eGNBbFhRMnlKU0UwTDctbjZIeXpB?oc=5",
-     "fuente": "El Buen Tono",
+     "titulo": "Japón pedirá a toda su población almacenar alimentos y agua ante grandes desastres: ¿qué está pasando?",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRktpdEptcldVMnVHTWFQS1hQaFpMcm5Yd1pWcVBHQzN5d2RVZU1ZNHg3U3ZudGtUcmR3NUg0RFJSTHp2cFhBMVgxTUNSYVV0elFCTElWQkZQZU83eUVvLXdoRC1jVmZ6R1Vubmd0Ty0zaGh6S25FRUVQOTNTT2dLSE4wSkJVRDJSNVJVNV9hMXY0LVd1LTJUamc1R1Zmb0xzdk5UTG1vOHYySEFUSWRlZmc2QVdlZw?oc=5",
+     "fuente": "DSN Noticias",
      "resumen": "",
-     "fecha": "2026-10-27T20:04:41+01:00",
+     "fecha": "2026-10-27T20:56:49+01:00",
      "fecha_txt": "27 oct"
     }
    ]
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Los incendios forestales en España queman 299.000 hectáreas, el 44% de toda la superficie arrasada en la UE",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSE0tT3lCd3VPVjF5VmZLcldlbmNKeHJXZXlOc2VLbDNnNVpoejJOTF9yOTNNeDA3d3lTMm95UUIwc2g4Z0xNLXdmdk9qTmlkUmFRRl9kR05ocy1xUFdTZGxaRjBYOWEtcmxTMzZQdHFsWk5XckM5MmtMTkx3bTBGcDY1ZjkxNEZ6R1dvaHRHVU9Cdw?oc=5",
+     "fuente": "MONCLOA.COM",
+     "resumen": "",
+     "fecha": "2026-10-28T18:16:24+01:00",
+     "fecha_txt": "28 oct"
+    },
     {
      "titulo": "Córdoba cierra la campaña de incendios con casi 1.000 hectáreas afectadas y el triple de superficie arbolada quemada",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMG5UV255UmIwODNMUkhsVDVNSWJWWWFGRUV1VHZRUzdENFpsSHZFYVJIMVdDdzlXQnl3Ymk1ekw3b3hyR2pYdlFMX2lyemd1NEhmdzNkZ2xFNFlwd29vb2NGUE9KT3hPak9HS1BmdUNfd21CUXZuSS12cEZ6NEJBZHpYSjQ0QmszWkpZbGVCbWozNHFWQUM5b21wNlRWbkptbGIzNGFFc0FmajZGdThRQUtRS1ZVUE1RRVlxMWRSWUVhMnfSAcgBQVVfeXFMT3Y4cHVDbGdaMnJGQjR3dkxaeFF5WVAya2lvZkNtOGJhUGt1NFM3QTdOSDRnSzJYRW9Ma2RjWG9jU1ZlNWJObzRCRXB5aU52QWhsT3FmREVCS3ZtdHFDWmY0Ql85d0I3WFp3M3lpMFItX3ZITVlORzdhS3RiMlhNVjVjZGNaa3lWbzIyTkFKM3lZVXNrNlhwN1FfV2ZJd0JrVlNjVTZtM3VRU3RuaGFtcjY0cWpsWmN2YkpiMV9hZXZZQXdpckJoYk0?oc=5",
@@ -107,6 +115,14 @@
      "fecha_txt": "28 oct"
     },
     {
+     "titulo": "Incendios forestales en España: un solo país concentra casi la mitad de la superficie quemada en la UE",
+     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-en-espa%C3%B1a-un-solo-pa%C3%ADs-concentra-casi-la-mitad-de-la-superficie-quemada-en-la-ue/ar-AA2gfLPN",
+     "fuente": "Ecoticias on MSN",
+     "resumen": "Los incendios forestales en España dejan unas 299.000 hectáreas quemadas hasta septiembre de 2026. Por qué el país concentra el 44 % del total de la UE.",
+     "fecha": "2026-10-28T09:38:05+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
      "titulo": "Córdoba cierra el periodo de alto riesgo con 100 incendios forestales y 966 hectáreas quemadas",
      "url": "https://www.msn.com/es-es/eltiempo/general/c%C3%B3rdoba-cierra-el-periodo-de-alto-riesgo-con-100-incendios-forestales-y-966-hect%C3%A1reas-quemadas/ar-AA2geLbD",
      "fuente": "Europa Press on MSN",
@@ -129,22 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-28T05:44:33+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "España concentra el 44% de la superficie quemada por incendios forestales en la Unión Europea en 2026",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX1B3NnF4dUxNcGpBdlgySFA2c3JFRDM0WnMxVnZSdnR4RjJfeVc0dUVCYXVfaTNHZ2F2S3RjdWh5b2staWRoSThncE9CTlhiTXB1cXpYSDRkeXYxSHlFc1JuNGozQzgyZnZsMUNuZWZPZ2tPSlhGMmRWRDhPV3ZIam0wNk1KVDF6VVdrZGs4RHZqdXpSbnpTNHRHRzMyMnhoOGpnZlB4T0pMZDlBRzRnMTg3S2VkX3hJelk3Vkk1TVotYWZzTXVQTU53UE5PSnpKM2NrdWZ4eGYzN1pVMTBpUmM2NA?oc=5",
-     "fuente": "Prensa Libre",
-     "resumen": "",
-     "fecha": "2026-10-28T05:30:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Incendios forestales cada vez más extremos, con España en el epicentro",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjlJRVVRZWRrR0VLbk5wVUlnOExIcjZzemhiclRvNG1xVnlwSXJBUVYzemtZOS1ob0dOSWM3amJxbXFhSlE1c0ZFcmxTVFJOUmtCUW05TkFEVjVrb3RkSmJDQ0ZTdmpyUmQ2SExBRW5uX1VpM1pNYml2MjFsUmRlVEl2U0JXX1NXd01YdW5UYUZDcHpERVJEcUtpa0pfX1h1cXlwZDZlZDhJc2_SAasBQVVfeXFMTjF0S01nSDczTDE1VktCa1Fsc0QwUE1QRDBnV25aVFFsMmNYRFZ5Tm9fdnQzbklINnhETHJOOG5KTmFBUlN5a3J3UEpnRG94MVlzS08xb204OVN3TUo2TFVHbEpjeW5QTDFHakZsdzJJaUk5NWJ6ZFFjUllwNGhMRDBkUXJ2XzFFMlJsZTd6VjljQXA1c1d0RjVHTUlDc19vbk9NZU02S3hnVVgw?oc=5",
-     "fuente": "Expansión",
-     "resumen": "",
-     "fecha": "2026-10-28T05:10:00+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -154,11 +154,35 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "📰 #EnPortada | Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkdNOHpQbUJDd3E5TUxLalVVenBrWFIzMHUydzAtbk1wUUxwQVZ0WUhibG9VWGtld0tTYjg0ZF9leG9lLW11SUgzZW5SRnAzRHduc1ZaQlBuXzRDQmVzWkNUUk5VejFqZDdVcTlneXQtb05mam9BQkVheGJ5TUNYdjJtUmg5WXVIRkJONTdyM010Q2ZvZHFMQnViOHg2VDR1R0RzMzZXbVV6c2h4RUZUdGtJSkRkODIxa3FjSHFwT3VwRFRxcndVVy1MTEJuY08xUlJfU1p5MXpJTzRX?oc=5",
+     "fuente": "Facebook",
+     "resumen": "",
+     "fecha": "2026-10-28T18:42:14+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "El Gobierno toma una decisión clave tras las inundaciones en Ibiza y Formentera: las ayudas que podrán llegar",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX3JtME5FNVBQQjVFa3JwN1JMRG9hX3FmWU9SM2VqcWgxRTZqbzRuYk9LcFoyLUhweWQtWUIxUFVvRmM1bWs3MWZkS3ByT2tXeGx5TlEtSHFfVWY3bUFVS0szazg2dnRsNF9acnVsX09Ya0gwNmZ5NlpKWXlqU3Y4LXNpUWJxUHRrQ2w2a1hZT1hkc1pwMl9BUWNrQXZDMDBUbDlHVGJTLUY0M3ZsdzA1cEt0c0JES21iWnBnLWVHN0tiTVhrRFlSYVdYVDUtbHc3UFBCNms3Yw?oc=5",
+     "fuente": "La Voz de Ibiza",
+     "resumen": "",
+     "fecha": "2026-10-28T12:04:32+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
+     "fuente": "Expreso",
+     "resumen": "",
+     "fecha": "2026-10-28T12:01:01+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
      "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.elconfidencialdigital.com/articulo/an/dos-anos-despues-dana-tormenta-adam-que-cubre-seguro-coche-inundacion/202610281002131497450.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de ...",
-     "fecha": "2026-10-28T05:02:00+01:00",
+     "url": "https://www.cantabriaeconomica.com/patrocinado/informacion-al-dia/dos-anos-despues-de-la-dana-y-tras-la-tormenta-adam-que-cubre-el-seguro-del-coche-ante-una-inundacion/",
+     "fuente": "Cantabria Económica",
+     "resumen": "Revista de información y actualidad económica de Cantabria, nacida en 1991. Empresas, emprendedores, industria y reportajes en profundidad.",
+     "fecha": "2026-10-28T04:00:00+01:00",
      "fecha_txt": "28 oct"
     },
     {
@@ -191,30 +215,6 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El alcalde de Algemesí asegura que nadie le alertó antes del desbordamiento del Magro del 29N, que “no estaba limpio”",
-     "url": "https://www.democrata.es/tribunales/el-alcalde-de-algemesi-asegura-que-nadie-le-alerto-antes-del-desbordamiento-del-magro-del-29n-que-no-estaba-limpio/",
-     "fuente": "Demócrata",
-     "resumen": "Sanchís sostiene que nadie le alertó del desbordamiento del Magro el 29N, denuncia falta de limpieza en el cauce y detalla las medidas previas del Ayuntamiento.",
-     "fecha": "2026-10-26T07:43:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El alcalde de Els Poblets exige demoler el puente del río Girona y una solución para las cañas una semana después de la DANA",
-     "url": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/denia/noticias/alcalde-els-poblets-exige-demoler-puente-rio-girona-solucion-canas-semana-dana-20261026_3462679.html",
-     "fuente": "COPE",
-     "resumen": "José Luis Mas hace balance de los devastadores efectos de la riada, que afectó a más del 70% del casco urbano y a entre 250 y 300 vehículos ...",
-     "fecha": "2026-10-26T06:31:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El aumento de las inundaciones y las tormentas presionan al alza el precio de los seguros en España",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0VkMWJWVFJDT0ExTE5MU0dRZkhfYjFyUU1SOUFoTGY0cDVDS0Q5X0cwYTRJYThScVRlcUZ3d0M0WHFZYkhPUWFnYTIxRlVhYW5UMFUwd0RpVTVKUm1MLTBPNk05YmJhNnNBTkNVajhDYmRkYjZNSF85SmhFWFNZUGNXN3hPajJybUtQUVRtbjUyX25IZllHYjRvM3FtUEpuZHh6eHdLZXRuT2xIQkZ0UmlSZXA3bHpJcUxGcUpQaEJ0R3pr0gHEAUFVX3lxTE5xQjVlYWJkbEVtb1Y4QzI0elRabWkxYk1WNDZsWF9SUFVRQ1ZJOFhlaHpmQWd2emU2cGJFN1VxT3pNU2N1Q1FiZVJMaV9CTnIxNkVUNm1hbk55WFlhX01BZFhjSVBEWmRWRWFVM09CODJZRnFwd2FYeW16RTB2dUU4VjRUbEoyRFlvS0dJbHc2YTY1dTJTdExCNlBNV1pyVHpQRWdYazlaTEpYLXhhMG04SVFiNlBFNVVHWUVyTjRxYWc4SW0?oc=5",
-     "fuente": "El Periódico",
-     "resumen": "",
-     "fecha": "2026-10-26T06:00:32+01:00",
      "fecha_txt": "26 oct"
     }
    ]
