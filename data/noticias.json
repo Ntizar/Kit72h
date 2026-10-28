@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-28T01:10:40+01:00",
+  "actualizado": "2026-10-28T04:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Por qué Reino Unido y Japón piden a sus ciudadanos preparar un kit de emergencia para sobrevivir 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2JpTV9mTzE0RUlCeE5wVXN5ek8wbWZMNjBhTGlvVGFPQnZoblN1NWxSZV9LbnVwb2hNbG9vVWJqUzZXTWpFSTVjWFlHX3dTSlR5X1laR3cxUE45VE1SRExjWmdKRktienhCSkRNeTJJNHZwV0hhTzd3VFNVVzFfbHQ0d3g5SlRoQ0hNT2F4T0p3MjF4MExqUHBnNFNjQ1luZU9pd0FjVFJ0NnNBY0hkMFpUN2xyTVgtQ2lIWUZXSWRuY1k0M0RXdER4bnRlTmEtQ3hSbV80czJHSld0SmRycm1jeHRQTk9Yc2c?oc=5",
+     "fuente": "Diario de Yucatán",
+     "resumen": "",
+     "fecha": "2026-10-28T02:58:30+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "Japón pide almacenar víveres: ¿qué hay detrás de la alerta?",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE52MjRFd3hSeHRabXptRWplM05sQlFyVGJKcVdMbU5NNy1YaVRXc1hmM2UxY2lsaGJSaDZqQkJXNzBMcHY1ZElWRWVsTHZYUG9rZXBobzFLcDMxcGVkaXVfY19ucVZzWk90V3RfZnpCM0JVc2lFcndEakU4TlhKOFJNNFEyMUlqOGVscllRSmdYVl9LeFpmQlBNLU93eGYwZUE3Z2gwVnl1V3Fsb1RqeTE3aEU4ekkwTEthcw?oc=5",
+     "fuente": "Ovaciones",
+     "resumen": "",
+     "fecha": "2026-10-28T02:01:00+01:00",
+     "fecha_txt": "28 oct"
+    },
     {
      "titulo": "¿Una guerra o una crisis global? Por qué varios países recomiendan tener reservas en casa",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQl8xSlBSbldoNHZRTkxpUnJwdlFBUEdHT05VelA5WXFHT0VnSHI0OGRfcGVaM242RENod2FjSW9YX2kwNUhqRUR4QXVtSVllYUkxRGN0QUw0V0dra2pMS2RNMGJMRzc0cF96VHRRcG5rZFU1eTZ1aW9VRmFvck5GNFJxY2I5UEttbUY3bk5uc28xSlJURWVOX19DUEpYc3R2WG8yY1dLa3czWWgtZDJwMTBaT3gtalowZzFiR9IB0AFBVV95cUxPWVpMREtMa2xwM2JEWXB5RWE0TGFaRC1jcjY1TXgxd1U5ekQ0T0ZjMGkxYnpPVTV2M3YzMlVmOHBtZXNKczV1X25hWHJ6OWp2RUg0VjFId1RzVkEwbUZvVHlsODJTX19MV2I2U1U1eFBsalJDZkFsbTJvXzExWlZvZnltaEZqOXFET0hlZ3pMZThJUzJmTWhnTU0xNk1oMkNySjlxUGJMTmpOY25oU2JxTTdnQ0VpbGhwTTlQbG0wZFZxaC1ScnNFOWtEUHNaXy1f?oc=5",
@@ -36,11 +52,11 @@
      "fecha_txt": "27 oct"
     },
     {
-     "titulo": "Se agotan las legumbres, las sopas y el agua embotellada tras el llamado del gobierno a almacenar provisiones",
-     "url": "https://www.independentespanol.com/noticias/mundo/reino-unido/agotado-legumbres-agua-embotellada-pedido-gobierno-almacenamiento-b3074492.html",
-     "fuente": "Independent en Español",
-     "resumen": "Las ventas de linternas y baterías portátiles aumentaron a más del doble después de que el Gobierno instara a la población a prepararse para una posible crisis ...",
-     "fecha": "2026-10-27T16:23:00+01:00",
+     "titulo": "Japón emite alerta de emergencia: ¿por qué pide guardar agua y comida?",
+     "url": "https://www.msn.com/es-mx/noticias/otras/jap%C3%B3n-emite-alerta-de-emergencia-por-qu%C3%A9-pide-guardar-agua-y-comida/ar-AA2gcWOG",
+     "fuente": "Ovaciones on MSN",
+     "resumen": "Japón lanzará una solicitud nacional para reforzar las reservas de agua, comida y suministros ante desastres ...",
+     "fecha": "2026-10-27T19:01:00+01:00",
      "fecha_txt": "27 oct"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "Moncloa on MSN",
      "resumen": "Reino Unido, Alemania y Suecia reparten planes de emergencia y acopio ante una posible crisis o guerra. España tiene la doctrina, pero no la campaña. La entrada Europa reparte planes de emergencia ant ...",
      "fecha": "2026-10-27T15:42:00+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "Reino Unido llama a sus habitantes a prepararse para enfrentar hasta 72 horas sin servicios básicos",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTBVLWs0aUNBckp0SkV3X2lCLW5VMktUMEhXMXlYUTFWUG5ZR2lYU0RsUlJ1Ym91OVdaNWhlVkJhaEQ1ZDdLSm5FN0JPZ1VYSkdZanJHRk5Gd0FHLU1HbldrVExlVmd2RnZ6WDhVLWxld1psYTY2N3JKN3huOEtjTnJmWHp5aDAyTUtjVVliRDdkT0RUWVJDXzZYNWlKNHpMTzV5WHBTbU9lZV9obmlTUzBHT3cyUWkwTEd4SW9VS2ZCeFJwbWRKWEdBdDJVZkxzUEJBUVY2YzY?oc=5",
-     "fuente": "musicaynoticias.cl",
-     "resumen": "",
-     "fecha": "2026-10-27T11:05:58+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "Japón pide a sus habitantes preparar alimentos y agua para 7 días ante riesgo de grandes desastres",
-     "url": "https://www.msn.com/es-mx/noticias/otras/jap%C3%B3n-pide-a-sus-habitantes-preparar-alimentos-y-agua-para-7-d%C3%ADas-ante-riesgo-de-grandes-desastres/ar-AA2gaPE8",
-     "fuente": "Debate on MSN",
-     "resumen": "El Gobierno de Japón anunció que emitirá una solicitud de emergencia para que la población almacene alimentos, agua y artículos sanitarios ante posibles terremotos y otras catástrofes naturales. La me ...",
-     "fecha": "2026-10-27T10:22:00+01:00",
      "fecha_txt": "27 oct"
     }
    ]
@@ -162,14 +162,6 @@
      "fecha_txt": "27 oct"
     },
     {
-     "titulo": "Unai Sordo y Ana García, CCOO: \"Con aviso rojo ante una dana, hay que preservar la vida antes que el negocio\"",
-     "url": "https://www.msn.com/es-es/noticias/other/unai-sordo-y-ana-garc%C3%ADa-ccoo-con-aviso-rojo-ante-una-dana-hay-que-preservar-la-vida-antes-que-el-negocio/ar-AA2gcpaO",
-     "fuente": "elDiario.es on MSN",
-     "resumen": "Los secretarios generales de CCOO en España y el País Valencià reclaman protocolos obligatorios ante las emergencias climáticas y denuncia la desprotección de los trabajadores durante la dana de 2024, ...",
-     "fecha": "2026-10-27T15:14:58+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
      "titulo": "Los meteorólogos lo confirman: las ciudades españolas afrontan más riesgo de calor extremo e inundaciones durante este siglo",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzFZRTRSdjJqMk4wVDJYeXpQVkdtclVIOU1mZzZoelNoSzh4NlAxelk3Y001aWRkN1A5cDJUcWRYOUgtVjg4LTJZdm1uM1V5RGwwa0tPWndkVzhqWFZBMFF6SWZVVWs5S1RVemUzdGdiOXpQdDBUaTRJUk5mWm9OTkZFRkgxR3dTdFNVYU43Vjd3LTc4YzJzODFHMFJwR3ViS2VzTnd0S3lSR1h4bHEwY1hoOE5fd2FUYmgta3RpdmZhQ21xNWpBNGVweEk4ejRPU2gwQkVGcGIxc2Z5Y0huMG5VSWt6RG54dXfSAe8BQVVfeXFMTURFa3VQQjA2STZGMXYxWXV5b19xT3JUd0pKRy1mN2tsYndHYVg0NkZUNXdsU01yWkhtOGJoeDJSTGdjei1TRnBTT1RrTTE5QWFWQl9hRmJWblBMMnJJZWtOc01OZy1vcnJZMWVwaktSXzc4Q1pUTHhVWU5Ib0IwaWRKQWRDRVo3SlYzNzYzeVdiY1FWbGZ5SVNQZlFkOGlIRUJQazh4cVpCRHNubHBzbDl1RUc4VXBQRF8zSGRDdVZfV2d5cl9WbVhUbVRZTU9wNXczRWZrbDZGczZTNUZHV0s2MmtQX2ZJUjVnQWtZSkE?oc=5",
      "fuente": "El Español",
@@ -178,11 +170,35 @@
      "fecha_txt": "26 oct"
     },
     {
+     "titulo": "Esta semana, especial dana 2026 y segundo aniversario de la riada del 29 de octubre en À Punt",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcVdfQUNNenJJQTNXQkRLc2Rua3ZTNF9ucFZhaV92a3liTlh6Z1M3X1dGSlVqZDRIVWktODRsWTA4amE1SXJKajU1NWEyUFB6aEpnX2FvZVNfNFUtLWwwRlVZLXB0X241OWRzcDNoNjlYYTd6ZDBzZVQtWUlDVndpQzJHcGl5aENxRGx6bEI0bGl3d1hfRVhQNXoxWjdiR1NOMWZaU2d5MzVNTlFCVlNzRE1BZ0NKM2JXcnpwcGUtTlBJdzE4dFh5WV9sMm9qWGtNT256aHpoSzFUcDYycGNB0gHkAUFVX3lxTFBxTThqU09lcmNuWTluMTRiYnljSWtwd2I1eGhQNm81ZGVxQURDT2YxZjB3czZJZ0ZCN2E2WF9VazU1VUFnTXdVOWx6Qmh2SVhOckZsV3o1VC1QY29zQklHeEJlazBBM1Z6Vmp5SmJHYmg0c2JhaDZPOHpjZDJ1Wm5DbURHRjF3NW9YT096c3I1TDVKS2xoLXpjck1HVU5FaG5GcWFqeEdIWnFzalMwaFM2Y09LcG9WTFBmVk01OWVkSXFjYlRkX3BkTWhIRVlKYjdzcEZBdFhhdUlEdGt3TUFGZ203ag?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-10-26T16:09:29+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
      "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-26T16:04:33+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "La tormenta Adam pone de rodillas a España: al menos 4 muertos por inundaciones (y ahora se dirige hacia Italia)",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDZsdEYtYmFHbG5Dc01lWV91VDI0TmFWRktrTnZDdElCVDV6YzJoNFB3WE1wNlN1Zmp0SnB2VlE3ajdVZHdLaGR2NGtISFBweGhNNlhBb3JzcERLQjhGQ2ZNQldpdGdKWkp0bHJiSEUwaWFpYWx4QUc5UGNFcWM0T09XM2RTVTJkQTVWaTdXSm52UVFCTWl3a2N6RzJxcUZHeHg0TFFVZVExeWJhYkcyQW02WWo0b29JY0hKcGlwaE05Q2VMWDMwdjBHT2Q?oc=5",
+     "fuente": "Aconcagua.lat",
+     "resumen": "",
+     "fecha": "2026-10-26T10:29:38+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "El alcalde de Algemesí asegura que nadie le alertó antes del desbordamiento del Magro del 29N, que “no estaba limpio”",
+     "url": "https://www.democrata.es/tribunales/el-alcalde-de-algemesi-asegura-que-nadie-le-alerto-antes-del-desbordamiento-del-magro-del-29n-que-no-estaba-limpio/",
+     "fuente": "Demócrata",
+     "resumen": "Sanchís sostiene que nadie le alertó del desbordamiento del Magro el 29N, denuncia falta de limpieza en el cauce y detalla las medidas previas del Ayuntamiento.",
+     "fecha": "2026-10-26T07:43:00+01:00",
      "fecha_txt": "26 oct"
     },
     {
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-10-26T06:00:32+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "La memoria del agua: un estudio documenta señales urbanas de riadas históricas para advertir del peligro de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRVVZY0JCY05LLTVQQWF6M0JXU2wycnd4WGVsMlpxSzlyZ0IxZC1ZUDhrMEJGOUktaGROZzdZbHhTaEpxZnRzMmRGSVlQNEZ0eFpqbHVVMTJMOW5zNm5NVmlzc05mMFBPblpxcXdLLVByRkRrZkJSLVRZRnNMYmZUdHJHQURsUmlhOGdjbzNQdVVpMTlhTWt5Qk1pR2d5MG90cXc4bmpYRXhYaFZBeGxsU3RQajRSM0Y2eDI3WThObHlfX212QW9rQ1pJNXBKLUgzTGdudVVmQW4yNS1vRXF2Tk1SOXUyUWVtWGwtcTJkTk9OZk9yZmxPM0VMUE9CSzdJ0gGUAkFVX3lxTFBxU3dkNmJ5QUZ3U3B3TTQySVdVYTlVQU5EVUhHUmppNTlpOU5JQ1l4Q1dCck1SZnJZYXZVWWw2UWFXdU9tYkItcGpmU0ZNVHdZcFBWMzhWMmhlN0N3MlFhSm9qTGlRQ2twb3QxU2tPZWl4ckx6V0lUeklNWC16amhqYnlkOTRXeG9fOGpWZUgxSHdKeWRpUE9YdVVmZjJaMUx5LWtlUmxIZmg4cldsZnJWMkltRE8wanJMUGUxUmd1MnNGQVJZejlEZjVhcDAtUzJjRW41c2lETTg0alhJX0E2NEJxbWJQRDFyWXFHS3RqVEFzZGdGaDcwbzhwM1laUXMxcFpnR29vSTBXWTNTOTZKU1MzMQ?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-10-26T05:30:01+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Granada suma 12 solicitudes de indemnización por la DANA",
-     "url": "https://www.granadahoy.com/provincia/granada-suma-12-solicitudes-indemnizacion-dana_0_2008337316.html",
-     "fuente": "Granada Hoy",
-     "resumen": "Las peticiones proceden de familias, comercios y empresas con daños en sus inmuebles tras las intensas precipitaciones ...",
-     "fecha": "2026-10-25T21:59:00+01:00",
-     "fecha_txt": "25 oct"
     }
    ]
   },
