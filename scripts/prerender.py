@@ -43,7 +43,26 @@ def encontrar_chrome():
               "~/.cache/chrome/chrome-headless-shell*/chrome-headless-shell")))
           + sorted(_glob.glob(os.path.expanduser(
               "~/.cache/chrome/chrome-headless-shell/*/chrome-headless-shell-linux64/chrome-headless-shell"))))
-    elegido = pw[-1] if pw else (hs[-1] if hs else None)
+    # Sondeo: un binario que no arranca (p. ej. chromium nuevo de Playwright sin
+    # todas las libs de sistema, visto 2026-10-28 con chromium-1248 sin libcups)
+    # no vale aunque exista. Preferir el primero que responda a --version:
+    # primero el headless-shell (probado en este VM), luego el chromium completo.
+    sondeo = hs + pw
+    elegido = None
+    libs = os.path.expanduser("~/.chrome-libs")
+    env_sondeo = dict(os.environ)
+    if os.path.isdir(libs):
+        extra = f"{libs}/usr/lib/x86_64-linux-gnu:{libs}/lib/x86_64-linux-gnu"
+        env_sondeo["LD_LIBRARY_PATH"] = (
+            f"{extra}:{env_sondeo['LD_LIBRARY_PATH']}" if env_sondeo.get("LD_LIBRARY_PATH") else extra)
+    for cand in sondeo:
+        try:
+            v = subprocess.run([cand, "--version"], capture_output=True, timeout=20, env=env_sondeo)
+            if v.returncode == 0 and v.stdout.strip():
+                elegido = cand
+                break
+        except Exception:
+            continue
     if elegido:
         # el binario necesita librerías de sistema extraídas (~/.chrome-libs):
         # inyectarlas en el env que heredarán los subprocesos. Vale tanto para el
