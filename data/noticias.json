@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-28T10:10:40+01:00",
+  "actualizado": "2026-10-28T13:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -16,7 +16,7 @@
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2o2c2pCN3U4WVEtU0RVMjk5VXFkdWRPVTBwNF9ndXNvUVl3aFlsSncyVGZ2QVFhQmg1X0UyTzhXYjA1b1RIeWt3VGdwQ1BLUmQwV0N2U0JNenI1NGREdzhEdkR3QzdnQ1F6U2ZibVRMMU92NUhGekRuS0FSbmIxc1BneDJlcE1STUVBWmxST0JScGFnMmo00gGcAUFVX3lxTFBDVFZNRXpBNGV6T0hVbHJjdXlDWDRkUUV2T2RqTG50YXpfRzNJenJ2aDBnVFJhN2hTcHhZd3NxMXZ3ZUZZT2oxamViY2o1eVlnaDJRclBGLXZTWElhVTlIZ0Q2aGpQRTNHcWUzLVVCNENka0M5UTNtMlpOejdhTUxzUWhpZFdHWklYUTdlZEY2ZUMxZTdaNnNzN2RCSA?oc=5",
      "fuente": "Diario de Avisos",
      "resumen": "",
-     "fecha": "2026-10-28T09:48:45+01:00",
+     "fecha": "2026-10-28T09:36:21+01:00",
      "fecha_txt": "28 oct"
     },
     {
@@ -48,7 +48,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQl8xSlBSbldoNHZRTkxpUnJwdlFBUEdHT05VelA5WXFHT0VnSHI0OGRfcGVaM242RENod2FjSW9YX2kwNUhqRUR4QXVtSVllYUkxRGN0QUw0V0dra2pMS2RNMGJMRzc0cF96VHRRcG5rZFU1eTZ1aW9VRmFvck5GNFJxY2I5UEttbUY3bk5uc28xSlJURWVOX19DUEpYc3R2WG8yY1dLa3czWWgtZDJwMTBaT3gtalowZzFiR9IB0AFBVV95cUxPWVpMREtMa2xwM2JEWXB5RWE0TGFaRC1jcjY1TXgxd1U5ekQ0T0ZjMGkxYnpPVTV2M3YzMlVmOHBtZXNKczV1X25hWHJ6OWp2RUg0VjFId1RzVkEwbUZvVHlsODJTX19MV2I2U1U1eFBsalJDZkFsbTJvXzExWlZvZnltaEZqOXFET0hlZ3pMZThJUzJmTWhnTU0xNk1oMkNySjlxUGJMTmpOY25oU2JxTTdnQ0VpbGhwTTlQbG0wZFZxaC1ScnNFOWtEUHNaXy1f?oc=5",
      "fuente": "ViveUSA.mx",
      "resumen": "",
-     "fecha": "2026-10-27T21:13:00+01:00",
+     "fecha": "2026-10-27T21:31:00+01:00",
      "fecha_txt": "27 oct"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
      "titulo": "Japón emite alerta de emergencia: ¿por qué pide guardar agua y comida?",
-     "url": "https://www.msn.com/es-mx/noticias/otras/jap%C3%B3n-emite-alerta-de-emergencia-por-qu%C3%A9-pide-guardar-agua-y-comida/ar-AA2gcWOG",
+     "url": "https://www.msn.com/es-mx/noticias/other/jap%C3%B3n-emite-alerta-de-emergencia-por-qu%C3%A9-pide-guardar-agua-y-comida/ar-AA2gcWOG",
      "fuente": "Ovaciones on MSN",
      "resumen": "Japón lanzará una solicitud nacional para reforzar las reservas de agua, comida y suministros ante desastres ...",
      "fecha": "2026-10-27T19:01:00+01:00",
@@ -82,6 +82,38 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Córdoba cierra el periodo de alto riesgo con 100 incendios forestales y 966 hectáreas quemadas",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPamdtUzhKQ0szdFlBWTRpS0szQWlIeExKdnAxOGV4RFNuMVdVUDRkZ2tVb0JoT0VUM28yTi1ZcWlZQmd2MUlMWi15MVd0Zm9DTjZLVE1NVjRFS1FlbFhhWC1GbGxUbFpRamcxZ0swNzd0Z21oMmE2MmlkMWRaeXU3cndQV1A4dTU4d2JBT2diWUVBc3VJVW5fQk5qeFBPNFc0MFZpSFpwZTlTa1E3V25XYW1TNURoUm9YblBLRFp5WTVTdUxKUDFNUGtzTkRxWGxndVpadkI5eEtkUGlPUjFHRWJ4LVRTVzVmV2RENEJR?oc=5",
+     "fuente": "Europa Press",
+     "resumen": "",
+     "fecha": "2026-10-28T12:17:28+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "Córdoba cierra la campaña de incendios con casi 1.000 hectáreas afectadas y el triple de superficie arbolada quemada",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMG5UV255UmIwODNMUkhsVDVNSWJWWWFGRUV1VHZRUzdENFpsSHZFYVJIMVdDdzlXQnl3Ymk1ekw3b3hyR2pYdlFMX2lyemd1NEhmdzNkZ2xFNFlwd29vb2NGUE9KT3hPak9HS1BmdUNfd21CUXZuSS12cEZ6NEJBZHpYSjQ0QmszWkpZbGVCbWozNHFWQUM5b21wNlRWbkptbGIzNGFFc0FmajZGdThRQUtRS1ZVUE1RRVlxMWRSWUVhMnfSAcgBQVVfeXFMT3Y4cHVDbGdaMnJGQjR3dkxaeFF5WVAya2lvZkNtOGJhUGt1NFM3QTdOSDRnSzJYRW9Ma2RjWG9jU1ZlNWJObzRCRXB5aU52QWhsT3FmREVCS3ZtdHFDWmY0Ql85d0I3WFp3M3lpMFItX3ZITVlORzdhS3RiMlhNVjVjZGNaa3lWbzIyTkFKM3lZVXNrNlhwN1FfV2ZJd0JrVlNjVTZtM3VRU3RuaGFtcjY0cWpsWmN2YkpiMV9hZXZZQXdpckJoYk0?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-10-28T11:26:10+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "España arde: 299.000 hectáreas quemadas, el 44% de la UE",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JTzVTN0J2QU5nbl9WemhwSHMyUUlpSWNmb3pBSExLVHFTSHdjajRvZWpNaG5BNnQ1VnRFRDdkT1lrbEtQQjFicEJsbXVfYjlQM1BmMDV1REl0MWlFYThhT1Y0dTlldUl0Z2Y0TUtNS28zM00?oc=5",
+     "fuente": "Canarias en Pleno",
+     "resumen": "",
+     "fecha": "2026-10-28T10:43:59+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "España acumula 299 000 hectáreas quemadas y concentra el 44 % del total de la UE",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHpqUXk3MWE4R2xqY3FzV1B1N3VDZk5FanVndUJ1NnpNbUh1eWNjNDhSQnBLZmt2emQ2Z1BPSWFsYzdIbVhkUHRpVENXdG9Hc3B2RFJBc2xDeFNtNmhyUGpCb2NSb0wxUkxrS29DeTRoY2x3bUREUTlLTzZEYnROU0NlcllBaXFsSGRweWk2NHYzOFRGTVZEV2FCUnM3Q3FhQzdKUWNqenhfalAwd1JQVU1wc1Q?oc=5",
+     "fuente": "Sinc",
+     "resumen": "",
+     "fecha": "2026-10-28T10:25:00+01:00",
+     "fecha_txt": "28 oct"
+    },
     {
      "titulo": "España concentra el 44% de la superficie quemada total de la Unión Europea en 2026, el año que se propagó el incendio más grande y destructivo",
      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVmZNM21Qd21XczBtTVFsanVxSXRNUUVjUDd1WkJLdVM4R2ljN0RuZ1NxNnliWDBsbTREQkhjWXdnMnlkQXRNSmMydG5FVUEtUXpRbUtZWnJ5NnpCUC15eUVpRl9FSVRGX056ZEI5WF8zQkZkMTdvTHBQZXprbkk1Y1RGX2VweDdmWUY2djJEQkp2Zkp6cWZTdnhKY1ZYcUpzMVJzLWJoZS1mSjhFQmxfRkl0UU1udTJRQUc4TkkyUzB1QTk0TnRxcEpsdmt3RFdJZmlJeUQ4bXo0WlZReHE1a3VpQkxhdHVBaEg3ZFg0OGVTQmlvMkR0X2wxMGN1b0xNOXU0bWNDamloelVnWXJmd9IBqwJBVV95cUxOMDcxWFA5b3RjUDM5R2ZhNkY5cEdCc0t6VjdSQnB2WVFEVVZ0V0VTdlZ1ZXZuSGFnVVBOdWQ4andnYUc0YndEN09ZUGFmUl9xYUp3M3gwUXluTmFQUVRzWFhTTlJfcElOTlBwUnVYR0lwdUszQ3hLVm83eHp2T3JQb0tuM19GTXlGRzhTdXhvQkhiMGxYYy1YUFl6dVp1VDhIaDFpYUxLZmVhLU5oM0tKZG5QQ28xUm9icFBBNmZVbk4xYXFfVW5zXzZMRWNUWXNTMUVVUnQ0U2FacGlYZVMyd2UzdnVocGt1WGVnc1Jyd1hUSEVUZ2p0VnFCdVZiU0RLTUQzYlBmSkU0c19XT1ZNMDZqTHZZOHNLYVhnZUdUY2pjVUZuN3h6Zkh6VQ?oc=5",
@@ -113,38 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-28T05:10:00+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Río Negro busca adaptar la experiencia de España para prevenir incendios forestales",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVEhlSWtHMWtKb0tmQzlJMGdaVnpRYXlOSmo2aGNLaGZDRXpPSjVQYmU5N3JpbUNlQkdpNWpZRE9mdU9oLUhCQkpBal8xV0VFd1dNbTdEN3MtUmJGdmxoRDhnbEVFX0pPY1dqR2ZEN1ZlWG1pb29KQ2RxVUVvQ1cwRjhEbm5pR0JjTWlNd1o1ODROa2hKakJ0OFFyUkdTNDJFMW5SbmlkMWpqemd1STdNdzRKcGJoc0VKczhrLTNDSHg0V2VZVE9NNUFIRUVLMVNXNzluakwtNTTSAd4BQVVfeXFMTWNOVkFHSkpSZ1R2M3hCNmlpcEYzWHMyUE4tTkN2eDF4aHBvbTJjVjRQdkJSNTFwT3BOdWpoN3o1d0JYcUlMYTBkNXZwQW5rTkROU0o5dG56Nko1d0VKUDhwclFXNWItNExJQlltenhNdkhqLWxrd2d4YUlEd2Z4dko2OFJaTmJsY1BXY294MUN0RG1wX2JVVXBNSWZvaHBiaWNHZ3VHcWVHQ2tpOG5QeF8ySzhIOGZOanBFN1RpOVJwd2ZBbnRaRHVuQkRYcWlCb0FGMDF1emJMX1cxN1dn?oc=5",
-     "fuente": "Bariloche2000",
-     "resumen": "",
-     "fecha": "2026-10-27T20:29:59+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "Incendios forestales 2026: solo 47 grandes fuegos concentran casi el 80 % de la superficie quemada en España",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2tHTWxrVDZrY1haN3pxd0g2WU5wZDhwR3lGNzVlUHEtNG9scjVhTXVJMzV2c1ZzTFJXUXl0ZWVHM1BUVXBMTEppNXlzUm50SkVrOGgtekQyZjMwV3BEdzgzenVYR2RjMkpJd0NGelZMYkJJckpSeGhzY29LTUhjYndRYXNVdk40UjFUTjFhNFhFckpSSjlZZ0FJNEtYNVU5?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
-     "resumen": "",
-     "fecha": "2026-10-27T12:03:35+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "Tamajón recibe el premio COPE Guadalajara por su papel en el incendio de La Mierla y exige soluciones para la España Vaciada",
-     "url": "https://www.cope.es/emisoras/castilla-la-mancha/guadalajara-provincia/guadalajara/noticias/tamajon-recibe-premio-cope-guadalajara-papel-incendio-mierla-exige-soluciones-espana-vaciada-20261027_3458177.html",
-     "fuente": "COPE",
-     "resumen": "El alcalde, Eugenio Esteban de la Morena, agradece el reconocimiento por la gestión de la emergencia y denuncia el abandono de la comarca y ...",
-     "fecha": "2026-10-27T02:37:00+01:00",
-     "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "Referentes del Splif viajaron a España para incorporar nuevas herramientas para combatir los incendios forestales",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFVrODNLM0pSY3JrU29WX0VkeE1zcUJUUkdUeVd6MkRRay02ZTFPRmh5ZFRfRXB6TmVUWUJiLTVLOE01S215dVJpck1BeHRkTExKWU1FdlJMbFlsTnNGZ2pXbU50MDRiNW8xMUw5RGdOWk93N01OTjc0ZXhMcGpPZmxZc1pTdlRsWWhXSmtQTjQybllOVFdWZkRZTlIzdzZlaVdHRkM1RFFKRVVWd0NVdXdkR0JVMVFMOHNyX2JkNDRZRlhjQ0MzRE8wSmhmaEV6T01ObGF2M0dVUHdXcWZHTGJEaUw1d9IB7gFBVV95cUxOZVBHMnhoV2pldENIWTZPUmRKNEZzMmtqX3VsdG1vTi1ZTnpnNW1PdXl0anZPOHp2XzA4c25ydTNoWmVIeGZnTEw2RnpvcElTZTF2R19rMEVHMzJCalAtMHYycU9ob0NUclRMNVBuQnFIYnJxS1ZURXM5eTk4bTFEQ285MkFIVWZFem5vOVgwcTM0MXJDam02cDhVanVLUFJPRDB0REFlNzktUk5PS0lrYmJ0eTMtSXBOaXZLcWpDTVJoUDl2aEdWN3M3TERfaWQ5eGNfQ180VTQyZTRvSnM4YzVjaG9sZDV0S0Juck13?oc=5",
-     "fuente": "Diario Río Negro",
-     "resumen": "",
-     "fecha": "2026-10-26T22:00:00+01:00",
-     "fecha_txt": "26 oct"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
+     "fuente": "Diario Expreso",
+     "resumen": "",
+     "fecha": "2026-10-28T12:01:01+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "Dos años de la dana que segó la vida de 233 personas y enseñó la importancia de los avisos",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNE9uaENfZ3NOV1F1bG5NdnNGMnhwWHhvVTZXczExTGFmbWMwRFpTTS1IOUJDX0dGN2JsSlFTamU5cVNoUWRGNm43Tmc1Y1F0X0NTaGxDVF9LQ2pja1JrVnRjSFJ3dVdBOG12LWZYVzhod2tmRDlGMVlpaVFTdnYzTEhVZDJUSjdqMksxNVNWX0dDNWZINy1nenE5VXlEY01ZVkZHRWVISWpLbXRNWGxQUWx4T3RHcWVkQUdtMEh0YmotNXNJT0lKR2FHM3ZMa2hVblVGNVlmY0JxUdIB9AFBVV95cUxPM3htLWVqVjVuNjNpQ2xueHVaUUZ6R2xMbWhGLU41N1pPazQ5VmJOQkt3UkZEWU1BclZFRGYxQzZMWUVBNFVlYnBXQUd6U2dPaHdrTGttZHNaVEVBSkttaklqQkdWRXVGMi1haDVnWU05U1pIMDFsZ1F6ZnZRVXZNQmRuQlJPRVJEeHBuNjh5VldtZ2NSYlNOc1d0c2hUTURQeWM3bmFNN2lKZmVEZUY2bm5PaWprX2NPTkZYMVpuQVNGU0NIb2FwdDJOckxwUHVoZUtSREZNSGxGVGgwLTZ1NTRJbnl2ZFhkNG5STjkxLWgySXlM?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-10-28T10:24:27+01:00",
+     "fecha_txt": "28 oct"
+    },
     {
      "titulo": "Al menos 3 fallecidos, viviendas dañadas e inundaciones deja temporal invernal en Ecuador",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOTdvNVlhOXZOT2dNd2t2ejBPYnpnXzdVQi1QTko4aUlWN2NMclBweGdFZV82MVRxcjBMRWJhcjZIeWpKVkN0QVVKN2tMQnZzVTRLMzV2Z2FLeFVCbEdJTGhyNi15SlRFQVNGZ1BqV3dhWWp3WXNQVjRseWszWE56UXlmSG1GbU1UQjJ6UFUzNGZseFRnRGtnczRxcno4enMzRmtIdF85N2ZLbFIyOXZIOWU5VQ?oc=5",
@@ -200,22 +216,6 @@
      "resumen": "Sanchís sostiene que nadie le alertó del desbordamiento del Magro el 29N, denuncia falta de limpieza en el cauce y detalla las medidas previas del Ayuntamiento.",
      "fecha": "2026-10-26T07:43:00+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El alcalde de Els Poblets exige demoler el puente del río Girona y una solución para las cañas una semana después de la DANA",
-     "url": "https://www.cope.es/emisoras/comunidad-valenciana/alicante-provincia/denia/noticias/alcalde-els-poblets-exige-demoler-puente-rio-girona-solucion-canas-semana-dana-20261026_3462679.html",
-     "fuente": "COPE",
-     "resumen": "José Luis Mas hace balance de los devastadores efectos de la riada, que afectó a más del 70% del casco urbano y a entre 250 y 300 vehículos ...",
-     "fecha": "2026-10-26T06:31:00+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "El aumento de las inundaciones y las tormentas presionan al alza el precio de los seguros en España",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0VkMWJWVFJDT0ExTE5MU0dRZkhfYjFyUU1SOUFoTGY0cDVDS0Q5X0cwYTRJYThScVRlcUZ3d0M0WHFZYkhPUWFnYTIxRlVhYW5UMFUwd0RpVTVKUm1MLTBPNk05YmJhNnNBTkNVajhDYmRkYjZNSF85SmhFWFNZUGNXN3hPajJybUtQUVRtbjUyX25IZllHYjRvM3FtUEpuZHh6eHdLZXRuT2xIQkZ0UmlSZXA3bHpJcUxGcUpQaEJ0R3pr0gHEAUFVX3lxTE5xQjVlYWJkbEVtb1Y4QzI0elRabWkxYk1WNDZsWF9SUFVRQ1ZJOFhlaHpmQWd2emU2cGJFN1VxT3pNU2N1Q1FiZVJMaV9CTnIxNkVUNm1hbk55WFlhX01BZFhjSVBEWmRWRWFVM09CODJZRnFwd2FYeW16RTB2dUU4VjRUbEoyRFlvS0dJbHc2YTY1dTJTdExCNlBNV1pyVHpQRWdYazlaTEpYLXhhMG04SVFiNlBFNVVHWUVyTjRxYWc4SW0?oc=5",
-     "fuente": "El Periódico",
-     "resumen": "",
-     "fecha": "2026-10-26T06:00:32+01:00",
-     "fecha_txt": "26 oct"
     }
    ]
   },
@@ -224,14 +224,6 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
-    {
-     "titulo": "Red Eléctrica eleva el beneficio y las inversiones en mitad de un 'boom' regulatorio",
-     "url": "https://www.abc.es/economia/red-electrica-eleva-beneficio-inversiones-mitad-boom-20261028090741-nt.html",
-     "fuente": "ABC",
-     "resumen": "Así, Red Eléctrica ha invertido 1.092 millones de euros en el proceso de transición energética. Esta cifra representa casi el 96% de las inversiones totales del grupo, que ascienden a 1.139 millones ...",
-     "fecha": "2026-10-28T02:07:00+01:00",
-     "fecha_txt": "28 oct"
-    },
     {
      "titulo": "Red Eléctrica se protege con un 20% más de parones a la industria para 2027 en plena guerra con las eléctricas",
      "url": "https://www.economiadigital.es/empresas/red-electrica-protege-20-parones-industria-2027-plena-guerra-electricas.html",
@@ -287,6 +279,14 @@
      "resumen": "Ocho máquinas que no generan electricidad y costarán 100 millones cada una El apagón del 28 de abril de 2025 dejó a toda la ...",
      "fecha": "2026-10-24T07:51:00+02:00",
      "fecha_txt": "24 oct"
+    },
+    {
+     "titulo": "España desperdició energía que hubiese abastecido a más de 6 millones de hogares por las restricciones tras el apagón",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUXhIUzYxZHhteUJYcjkzLWw5Tl95VkNlNjZzTDI1alhEM25uVkwxMW5qZC1JYmkyaXZaQ2NWcEtMd2pNaTFBb1VjQzFIcUpIUWlkVW80UHBsMWN1WGg2b3BvVVcxdGpBdHlOeXZIWklkVFJxcFlmaGxEYUdwak9USm5CbEpOMUh3WUU4MWJRc25FZjFuY3RxemJ5LW5yTXJyNmdVS0NKeTNDaHhaSU55bnJicVhVRXR1aHRUTVgxcHk0YWdWUndCVXVKTzh5TlJEMlRlTF9PSUpZY0xOamItdUctVWt2X1hsUU5tdWRzR010bnprQzZmS3Bnd1ZiTWdabXJSYzBJd9IBowJBVV95cUxPS2V5SFEyMVhoLTZFbU5GS09STEVHNldfZUo2d2E3QTVuRXQyZHBDX0czUVBCcFRjZzVHRmEtS0lWRzVvb2RhbEhsVHAtTXZVNzRnZE1xM1ZVSy1iSFdGRE9EUFFRMlBQTTlBMDd0aVR3cXFHWWpGbEZGWTFoZmwxX1dxaXh4S05IbGVVbngwbEhNWE0xRG9Zb0RlZmhnQVFxTkVTbXBESHJmNmh3SzUzdnpJbjVyMUY3SmwySTh4dzVUbGZQdkdGVXQ2ZUJsQXBfakRQTExua1hoSzVRa1p6dF9HT1RBcnl0TzhQazEzTmVFS09Pclg5ckNKVEhaeXZxdXdtOGZBVmdINDV2bHZ1NDFJNHM5YU8zelN4RG94bVVpdVk?oc=5",
+     "fuente": "La Voz de Galicia",
+     "resumen": "",
+     "fecha": "2026-10-23T13:38:18+02:00",
+     "fecha_txt": "23 oct"
     }
    ]
   }
