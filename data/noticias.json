@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T01:10:40+01:00",
+  "actualizado": "2026-10-29T04:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "¿Qué países recomiendan almacenar agua y alimentos ante posibles emergencias y por qué?",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFNTRFAyblA2MVZ1bERRbU1SV1VqekE0blZJMFVRaFpoQ0MyOE1iOFR3Nk9VdVdZNUpoRUFCS3dXX3JaQzhCUXk3dmpodDAzRGwtTF9jc3psZGpzMXZNRmVrOVFSbDNQYWcydk9hRWlxMXpCei1ubWg4NVZBY0JQRGFLN1kweVgyVmZkT1VlaVo3RzFHN1VBXy1ycGx0TEFaTmEtY1dJbnZYTFBwOHRLZXdfOGwxbFE2ZzQ3WUdiaE5Fdw?oc=5",
+     "fuente": "oncenoticias.hn",
+     "resumen": "",
+     "fecha": "2026-10-29T02:06:36+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Japón lanza convocatoria nacional para reforzar reservas ante desastres naturales",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkhTaTBodFd3TFlPc3AwM04yc3ZRWVN3al9BcjZBNTAxZzhOLXE1VEVkbDZxalBLTXRwbkFSSmluZzh3a2NoS0N6Yk9jNWNNYzBYZHdERmdIZE1SOHJkYUxVdExDRWwtMm1nNmZpb3RiMzU4eFV0Zm1hTHpnVzhsSWRLQzdCOW1fYnZHZUM3XzVUY3Nl0gGaAUFVX3lxTE41RG5uY2JRZ1NPZkxMMnFHVVJfUXJTOGFsWjM0NnhyS3FqTFJMWWVZWVdNV2tFajlzbFZtR01xU2lRdWRhdE1SbTQ4MXVVSlJEZEdpRnRmcG9haF9GX0ZMWGZ1dWlocWdEYTFGQUk0S3Q1aERaMjVPZFV2X1lWaUxfN0hfaU1qU0dtWnlTWXpxR1NpWFBWTEVYN0E?oc=5",
+     "fuente": "Diario Presente",
+     "resumen": "",
+     "fecha": "2026-10-29T00:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
     {
      "titulo": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
@@ -52,27 +68,11 @@
      "fecha_txt": "28 oct"
     },
     {
-     "titulo": "Varios países piden a sus ciudadanos almacenar comida y agua ante posibles emergencias",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2o2c2pCN3U4WVEtU0RVMjk5VXFkdWRPVTBwNF9ndXNvUVl3aFlsSncyVGZ2QVFhQmg1X0UyTzhXYjA1b1RIeWt3VGdwQ1BLUmQwV0N2U0JNenI1NGREdzhEdkR3QzdnQ1F6U2ZibVRMMU92NUhGekRuS0FSbmIxc1BneDJlcE1STUVBWmxST0JScGFnMmo00gGcAUFVX3lxTFBDVFZNRXpBNGV6T0hVbHJjdXlDWDRkUUV2T2RqTG50YXpfRzNJenJ2aDBnVFJhN2hTcHhZd3NxMXZ3ZUZZT2oxamViY2o1eVlnaDJRclBGLXZTWElhVTlIZ0Q2aGpQRTNHcWUzLVVCNENka0M5UTNtMlpOejdhTUxzUWhpZFdHWklYUTdlZEY2ZUMxZTdaNnNzN2RCSA?oc=5",
-     "fuente": "Diario de Avisos",
-     "resumen": "",
-     "fecha": "2026-10-28T09:49:14+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Por qué Reino Unido y Japón piden a sus ciudadanos preparar un kit de emergencia para sobrevivir 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ2JpTV9mTzE0RUlCeE5wVXN5ek8wbWZMNjBhTGlvVGFPQnZoblN1NWxSZV9LbnVwb2hNbG9vVWJqUzZXTWpFSTVjWFlHX3dTSlR5X1laR3cxUE45VE1SRExjWmdKRktienhCSkRNeTJJNHZwV0hhTzd3VFNVVzFfbHQ0d3g5SlRoQ0hNT2F4T0p3MjF4MExqUHBnNFNjQ1luZU9pd0FjVFJ0NnNBY0hkMFpUN2xyTVgtQ2lIWUZXSWRuY1k0M0RXdER4bnRlTmEtQ3hSbV80czJHSld0SmRycm1jeHRQTk9Yc2c?oc=5",
-     "fuente": "Diario de Yucatán",
-     "resumen": "",
-     "fecha": "2026-10-28T02:58:30+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Japón pide almacenar víveres: ¿qué hay detrás de la alerta?",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUE52MjRFd3hSeHRabXptRWplM05sQlFyVGJKcVdMbU5NNy1YaVRXc1hmM2UxY2lsaGJSaDZqQkJXNzBMcHY1ZElWRWVsTHZYUG9rZXBobzFLcDMxcGVkaXVfY19ucVZzWk90V3RfZnpCM0JVc2lFcndEakU4TlhKOFJNNFEyMUlqOGVscllRSmdYVl9LeFpmQlBNLU93eGYwZUE3Z2gwVnl1V3Fsb1RqeTE3aEU4ekkwTEthcw?oc=5",
-     "fuente": "Ovaciones",
-     "resumen": "",
-     "fecha": "2026-10-28T02:01:00+01:00",
+     "titulo": "¡No solo Japón! Estos países piden tener un kit de emergencia para enfrentar una crisis",
+     "url": "https://www.aztecajalisco.com/tendenciayviral/no-solo-japon-estos-paises-piden-tener-un-kit-de-emergencia-para-enfrentar-una-crisis/",
+     "fuente": "TV Azteca Jalisco",
+     "resumen": "Reino Unido, Japón y otras naciones han reforzado sus recomendaciones para que las familias preparen kits de emergencia en casa, con reservas de agua potable, alimentos, medicamentos y artículos ...",
+     "fecha": "2026-10-28T12:07:00+01:00",
      "fecha_txt": "28 oct"
     }
    ]
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "España aglutina el 44% del terreno quemado por incendios este año en la UE",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTE1QVIwd09PekZ4MDczS3c2ajBMM01QLVptSlhZQ2VlSllpMjJ4UkRCVWkxc3d5N0xzTEE1am1sbV9aemJFSjU0NUs5TlVnYmo5c005Tk9WT3hRQW5wZ0U4OFpCWFlpV3UyME5sUFg4b0Y0SnRyTWZJYnlzNkJ4cGdvZkdHWWhSZUlOQXdkbFNTV3FGNi16UndYeUdVX2hN0gGmAUFVX3lxTFBkMUdDUjlYZXBSeWk4RkpvYUsxR2tjYmhXSTJ0WDdDX204X3FFQXJ3UHJpYTVMeGhfYllVcmNxUkt2WlZrUmNUdGJRODVJQ2ctUktzTHVia2phallFbHgxRHlZS0gzeW5hVHhiRG1Mb0ZxSGs4RHR4YmItXzFnQl9mWWtwaVRueWlqSzdaRjdwN3dZNWdyYUtXeGFaMTFwNmlRdzJKZVE?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-10-29T01:21:00+01:00",
+     "fecha_txt": "29 oct"
+    },
     {
      "titulo": "Los incendios forestales en España queman 299.000 hectáreas, el 44% de toda la superficie arrasada en la UE",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSE0tT3lCd3VPVjF5VmZLcldlbmNKeHJXZXlOc2VLbDNnNVpoejJOTF9yOTNNeDA3d3lTMm95UUIwc2g4Z0xNLXdmdk9qTmlkUmFRRl9kR05ocy1xUFdTZGxaRjBYOWEtcmxTMzZQdHFsWk5XckM5MmtMTkx3bTBGcDY1ZjkxNEZ6R1dvaHRHVU9Cdw?oc=5",
@@ -136,14 +144,6 @@
      "fuente": "Sinc",
      "resumen": "",
      "fecha": "2026-10-28T10:25:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "España concentra el 44 % de la superficie quemada por incendios en la UE en 2026",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU12RDVLcGFpWFV3ZXpBa3dGYlVMVi1EeTc5TUFwSUgyc1NQOTMybThXLVB5bGRSVmloVVV6cXM1Z2JkSU9CUWhvSXBSU0ZaQTd2ZmI3bUphcDFFdHlTeDFiVDFkaWs1Y2Q0bEljSTdUaEhRYUl5UXdlZEhKM1ZyR2lTWHBRbXdwT2trc2IxOTd0RGdGVEUyUTlNSFBGMVRCRXc?oc=5",
-     "fuente": "EFE Verde",
-     "resumen": "",
-     "fecha": "2026-10-28T08:52:27+01:00",
      "fecha_txt": "28 oct"
     }
    ]
