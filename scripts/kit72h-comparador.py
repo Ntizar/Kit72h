@@ -256,7 +256,7 @@ def generar_html(comp):
 <meta name="keywords" content="{meta_keywords}">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{esc(url)}">
-<link rel="stylesheet" href="/css/styles.css?v=20261002a">
+<link rel="stylesheet" href="/css/styles.css?v=20261025cb">
 <script type="application/ld+json">
 {schema_json}
 </script>
@@ -305,7 +305,7 @@ def generar_html(comp):
   </div>
 </header>
 
-<main class="container">
+<main id="app" class="container">
   <article class="entrada-blog">
     <span class="sec-label sec-clara">Comparativa · {esc(comp['titulo'][:30])}</span>
     <h1>{esc(comp["titulo"])}</h1>
@@ -317,6 +317,7 @@ def generar_html(comp):
     </div>
   </article>
 
+  <p id="disclosure">Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar.</p>
   <!-- Disclosure afiliado -->
   <section class="sec oscura">
     <div class="container">
@@ -336,7 +337,7 @@ def generar_html(comp):
     </div>
   </div>
 </footer>
-<script src="/js/main.js?v=20261002a"></script>
+<script src="/js/main.js?v=20261008b"></script>
 <!-- GENERADO por scripts/kit72h-comparador.py — no editar a mano -->
 </body></html>
 """
