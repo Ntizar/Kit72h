@@ -531,6 +531,123 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor arrancador de batería para coche (2026): 5 modelos comparados — https://kit72h.com/blog/mejor-arrancador-bateria-coche/
+Comparativa de arrancadores de batería portátiles para coche: qué potencia necesitas, qué no arranca y cuál elige Protección Civil para las emergencias de carretera.
+Un coche que no arranca por falta de batería es una de las emergencias más frecuentes en carretera, y no todas tienen que ver con un alternador roto. En invierno, las descargas profundas son la primera causa; en verano, el calor acelera la degradación de las celdas. Un arrancador de batería portátil (también llamado booster o jumper pack) te permite poner en marcha el coche sin necesidad de un coche vecino ni de esperar a la grúa.
+
+
+ Qué es un arrancador de batería y para qué sirve
+
+
+ Un arrancador de batería es una batería de ion de litio compacta, con pinzas o cables con gancho tipo cocodrilo, que se conecta a la batería del coche (o directamente a los bornes positivo y negativo) para aportar el amperaje necesario al motor de arranque. Un coche de gasolina necesita entre 200 y 300 A de corriente de arranque (CCA); un diésel, entre 400 y 600 A. El booster se carga con el encendedor del coche y aguanta entre 20 y 60 arranques completos con una sola carga.
+
+
+ A diferencia de las pinzas de las baterías, un booster no pone en paralelo dos coches ni requiere que otro vehículo esté cerca. Eso lo convierte en la herramienta ideal para carreteras secundarias, aparcamientos subterráneos sin salida o noches de invierno cuando no hay nadie cerca.
+
+
+ La Protección Civil incluye las herramientas de primeros auxilios en carretera como parte del kit de seguridad del vehículo, y un arrancador portátil es, con diferencia, el más versátil: además de arrancar, muchos modelos incluyen linterna LED, cargador USB para el móvil y compresor de aire para neumáticos.
+
+
+ Los 5 mejores arrancadores de batería comparados
+
+
+ He comparado 5 modelos representativos del mercado español, ordenados de mayor a menor potencia de arranque. La clave no es el precio más bajo, sino la capacidad real (mAh y A de arranque) y la presencia de protecciones de polaridad inversa y cortocircuito — sin ellas, puedes dañar el alternador del coche.
+
+
+ 
+ Modelo Arranque (A) Capacidad (mAh) Extra Precio aprox. 
+ 
+ 
+ Ozito 2000 Peak A 2000 A 20000 mAh Linterna, USB-C, compresor 120–150 € 
+
+ NOCO Boost Plus GB40 1000 A 10000 mAh Linterna, USB, gancho antideslizante 100–130 € 
+
+ YUENGEN 3000 Peak 3000 A 25000 mAh Linterna, USB-C, pantalla digital 80–110 € 
+
+ Baseus Jump 1200 A 20000 mAh USB-C, linterna, pantalla 60–80 € 
+
+ PowerTank 4000 4000 A 30000 mAh Compresor, linterna, USB-C, display 150–180 € 
+
+ 
+ 
+
+ ¿Cuál necesitas según tu coche
+
+
+ No todos los coches necesitan la misma potencia. Un pequeño urbano de gasolina (1.0-1.2 L) se arranca con 500 A de un booster; un diésel compacto (1.6-2.0 L), con 800-1000 A; un SUV o furgoneta diésel, con 1500 A como mínimo. Si vives en zona de mucho frío (meseta norte, interior), sube al menos un escalón: el frío reduce la capacidad efectiva de la batería un 30 % y el motor de arranque necesita más fuerza para mover el aceite más viscoso.
+
+
+ La DGT recuerda que las condiciones climatológicas extremas aumentan la demanda de asistencia en carretera. Un booster de buena capacidad te evita depender de grúas y esperas de 2-4 horas cuando no las necesitas.
+
+
+ Errores comunes al comprar un arrancador
+
+
+ 
+ Comprar el más barato sin protecciones : los modelos sin inversión de polaridad pueden dañar el alternador. Busca siempre "reverse polarity protection" en las especificaciones.
+
+ Creer que 500 A bastan para un diésel : un 1.6 TDI necesita al menos 800 A; con 500 A el booster se apaga a medio arranque y tendrás que esperar a que se recargue para reintentar.
+
+ No recargarlo cada 3 meses : los boosters de litio se autofrustran entre un 2-5 % al mes. Si lo dejas un año sin tocar, llegará a una emergencia con 0 %. Recarga cada trimestre y tendrás batería lista.
+
+ Olvidar la linterna : un booster de 20000 mAh suele tener linterna LED con modo SOS. En un coche averiado a oscuras, una linterna integrada vale más que un pack extra.
+
+ 
+
+ Checklist: antes de comprar
+
+
+ 
+ Verifica el tipo de motor de tu coche (gasolina o diésel) y su cilindrada → eso dicta el amperaje mínimo.
+
+ Comprueba que incluye protección contra polaridad inversa y cortocircuito.
+
+ Revisa que tenga al menos un puerto USB-C (para cargar el móvil durante la avería).
+
+ Valora si necesitas un compresor de aire integrado: en invierno los neumáticos pierden presión y un compresor manual es una tortura con las manos heladas.
+
+ Busca un modelo con pantalla digital: te indica el porcentaje de batería restante sin tener que pulsar botones.
+
+ 
+
+ Mantenimiento: que funcione el día que lo necesitas
+
+
+ Los arrancadores portátiles usan celdas de ion de litio (generalmente 18650). Para alargar su vida útil:
+
+
+ 
+ Recarga al menos cada 3 meses, aunque no lo uses.
+
+ Guárdalo en un lugar seco y a temperatura ambiente (entre 10 y 25 °C). El frío extremo reduce la capacidad; el calor la degrada.
+
+ Antes del invierno (octubre-noviembre), haz una carga completa y verifica el indicador. Si no hay indicación, la batería interna puede estar muerta.
+
+ No lo dejes en el habitáculo si vives en zonas de verano muy caluroso: el salpicadero puede superar los 60 °C y dañar las celdas permanentemente.
+
+ 
+
+ Veredicto
+
+
+ Para la mayoría de coches de gasolina: el Ozito 2000 Peak A o el YUENGEN 3000 Peak ofrecen la mejor relación potencia/precio. Para diésel de cilindrada media: el Ozito 2000 Peak A es el punto dulce. Para SUVs, furgonetas o climas extremos: el PowerTank 4000 es el que más margen de maniobra da.
+
+
+ El NOCO GB40 es la opción de marca reconocida y fiabilidad probada, aunque a precio premium. Si lo que buscas es un booster fiable para llevar siempre en el maletero sin preocuparte de nada, y no necesitas compresor, es una elección segura.
+
+
+ Fuentes de esta guía
+ Protección Civil — Asistencia en carretera y emergencias 
+ DGT — Condiciones de riesgo y seguridad vial 
+ Comisión Europea — Seguridad de productos (DG GROW) 
+ 
+
+ Sigue leyendo
+ Kit de emergencia para coche: checklist marcable 
+ Mejor generador eléctrico portátil inverter (2026) 
+ Mejor SAI (UPS) para casa y router: 6 tipos por VA y vatios (2026) 
+ Mejor power station para apagones en casa (2026)
+
 ### Paneles solares sin batería: qué kit necesitas si tu casa tiene modo isla (2026) — https://kit72h.com/blog/paneles-solares-sin-bateria-que-kit-necesitas/
 Pregunta real de un lector de Málaga con 16 paneles y backup en modo isla sin batería. La respuesta: 4 capas de kit, del apagón a la power station, con
 Pregunta real de un lector de Málaga: «¿Qué kit recomiendas para una familia de 2 adultos, con casa unifamiliar, 16 paneles solares (sin batería para almacenar pero con sistema de backup para poder usar lo generado por las placas en modo isla) en la zona de Málaga?»
@@ -648,102 +765,6 @@ Pregunta real de un lector de Málaga: «¿Qué kit recomiendas para una familia
  
 
  ¿Tienes una casa parecida y dudas sobre tu setup? Escríbenos: las mejores respuestas acaban siendo artículos del blog como este.
-
-### Mejor arrancador de batería para coche: 3 tipos comparados para emergencias — https://kit72h.com/blog/mejor-arrancador-bateria-coche/
-Li-ion, LiFePO4 o power-station: qué arrancador portátil necesitas para tu coche, amperaje mínimo y los 5 errores que lo dejan inútil.
-Tu coche no arranca. No porque el motor esté estropeado, sino porque la batería se ha descargado — un fallo de luz de 36 horas, un cable de las alarmas que no se cortó del todo, o simplemente porque el coche lleva dos semanas sin moverse. Sin arrancador, llamas a la grúa (200-400 €) o esperas a que alguien tenga un coche con cables de arrancada. Con un arrancador de batería portátiles (jump starter), resuelves en 5 minutos lo que antes te dejaba tirado toda la noche.
-
-
- El arrancador de batería es un pack compacto (del tamaño de una lata de café grande a una tableta) que lleva dentro una batería LiFePO4 o Li-ion y un circuito seguro para dar la chispa sin necesidad de otro vehículo. En una emergencia, el mismo pack que arranca el coche puede cargar el móvil, iluminar la vivienda y, en algunos modelos de gama alta, funcionar como power station. No es un gadget: es la herramienta que convierte un problema de 200 € en uno de 0 €.
-
-
- Comparo los tres tipos de arrancadores disponibles en España, qué potencia necesitas según el motor y los errores más frecuentes que te dejan el pack inútil justo cuando lo necesitas.
-
-
- Tres tipos de arrancador portátil
-
-
- 
- Tipo Pico (A) Peso Extras Precio 
- 
- 
- Li-ion compacto 300-600 A 300-700 g Linterna, USB/powerbank 40-80 € 
-
- LiFePO4 medio 600-1200 A 1-2 kg LED, USB-C, compresor opcional 80-150 € 
-
- Power-station con arranque 1000-2000 A 3-8 kg Enchufes 230 V, solar, SAI 200-600 € 
-
- 
- 
-
- Para la mayoría de turismos con gasolina, un pack de 300-600 A basta: un motor de 1.2-1.6L necesita unos 200-300 A pico. Diésel (2.0L+): mínimo 600 A. SUVs y furgonetas diésel: 1000 A+. Si tu coche es un 1.0 petrolero de ciudad, el compacto de 400 A es suficiente; si llevas un 2.0 diésel de SUV, baja a 300 A y no vas a arrancar nada.
-
-
- Precios orientativos para España: compacto Li-ion entre 40-80 €, LiFePO4 medio entre 80-150 €, y power-station con arrancador integrado entre 200-600 €. El LiFePO4 destaca porque conserva la carga durante meses (hasta 12-18 meses sin cargar) mientras el Li-ion se descarga solo en 2-3 meses.
-
-
- Ganador por categoría
-
-
- Mejor relación tamaño/arranque (el para la mayoría): LiFePO4 de 800-1200 A. Packs como los de Nocktek, Schumacher o Tacklife ofrecen 1000 A pico en un envase de 1,5 kg que cabe en la guantera. Arrancan turismos y diéses pequeños, incluyen linterna LED y carga el móvil por USB-C. El LiFePO4 aguanta hasta 3000 ciclos de carga (frente a 500-1000 del Li-ion), así que no se degrada en un año como el compacto. Ver arrancadores LiFePO4 en Amazon .
-
-
- El más compacto (solo gasolina, ciudad): Li-ion de 300-500 A. Para un citycar con motor de menos de 1.4L, un pack de 400 A cuesta 40-60 € y cabe en la mano. No tiene complicaciones: dos pinzas roja/negra, lo enchufas al coche, arranca. Perfecto como coche de back-up en la guantera. Ver arrancadores compactos en Amazon .
-
-
- El todo-en-uno (apagón + coche): power-station con arrancador. Marcas como EcoFlow o Jackery venden packs de 200-500 Wh con salida 230 V, puerto USB, linterna y circuitos de arranque. Con 500 Wh arrancas el coche unas 20-30 veces y, de paso, alimentas el router, la nevera portátil o la radio durante horas. Si el apagón se alarga más de dos días, es la inversión que más sacas. Ver power stations con arrancador en Amazon .
-
-
- Cuándo comprarlo y cómo usarlo
-
-
- Hay dos momentos para un arrancador portátil en una emergencia:
-
-
- 
- Prevención (antes): tener el pack en la guantera siempre cargado es como tener un botiquín en el maletero. Revisa la carga cada 3 meses (todos los packs modernos tienen LED de estado) y mantenlo por encima del 50%. Un pack olvidado a 0% es un ladrillo de plástico caro.
-
- Emergencia (cuando no arranca): conecta las pinzas (roja a positivo, negra a chasis/metálico) — NO al negativo de la batería descargada por riesgo de chispa —, espera 10 segundos, y giras la llave. Si no arranca al primer intento, espera 30 segundos entre intentos para no sobrecalentar el pack. En frío extremo (menos de -5 °C), un LiFePO4 puede perder un 30% de capacidad: guárdalo dentro del coche, no en la guantera exterior.
-
- 
-
- Regla de los 3 meses: anota en el calendario la fecha de la última revisión. El Li-ion pierde 2-3% de carga por mes de forma natural; el LiFePO4 pierde 0,5%. Si el pack lleva más de 6 meses sin revisarlo, cárgalo al 100% y pruébalo con un móvil o una linterna antes de confiar en él para arrancar.
-
-
- Errores frecuentes
-
-
- 
- Conectar las pinzas al revés: el pack se protege con un diodo de bloqueo, pero si las conectas al revés y el circuito de protección no es de calidad, puedes quemar el pack. Siempre: rojo positivo, negro negativo (o chasis). Y primero al pack, luego al coche al conectar; al revés al desconectar.
-
- Crear que basta con cualquier pack: un arrancador de 200 A no va a arrancar un diésel de 2.0L en invierno. Verifica el amperaje mínimo recomendado por el fabricante de tu coche y elige un pack que lo supere un 50% (margen de seguridad). Si el manual dice "mínimo 250 A", compra uno de 400 A+.
-
- Dejar el pack descargado: un pack a 0% no tiene forma de cargarse él solo. Si se olvida, llega un día de frío y no arranca el coche. La regla de los 3 meses lo evita.
-
- Intentar arrancar un motor fundido: si el coche no arranca por un alternador fundido (no la batería), el arrancador portátil no lo va a solucionar. Confírmalo midiendo la batería con un multímetro (12,6 V = cargada, 11,8 V = muerta) antes de gastar los ciclos del pack.
-
- Ocultar el pack bajo un asiento: el frío extremo baja la capacidad del LiFePO4 un 30% y el calor extremo (coche aparcado al sol en julio) reduce la vida útil. Guarda el pack en la guantera o maletero: temperatura ambiente, no exterior.
-
- 
-
- Kit de arranque básico
-
-
- 
- Arrancador LiFePO4 1000 A: el caballo de batalla para un diésel mediano. Ver arrancadores LiFePO4 en Amazon — suficiente para turismos y diéses pequeños.
-
- Multímetro digital: para verificar la batería antes de usar el arrancador. 8-12 € y decide si el pack es necesario. Ver multímetros digitales en Amazon .
-
- Cables de ponte (jump cables): respaldo de emergencia por si el pack no funciona o se olvida. 10-20 €. Ver cables de ponte en Amazon .
-
- Linterna con imán: para iluminar las pinzas de noche o en un garaje oscuro. Ver linternas con imán en Amazon .
-
- 
-
- El arrancador de batería es un complemento directo del kit profesional de energía y autonomía (que incluye SAI, power station y Starlink) y del kit de apagón . Para el día a día, no es indispensable, pero un día de -5 °C con la batería muerta y el coche tirado en la puerta del garaje te hace valorar los 60 € de un pack LiFePO4.
-
-
- Este artículo contiene enlaces de afiliado de Amazon. Si compras a través de ellos, Kit72h recibe una pequeña comisión sin coste adicional para ti. Gracias por apoyar contenido independiente. Soy afiliado de Amazon — estos enlaces me permiten recibir una commission por compras que cumplan los términos del programa de afiliados de Amazon. Como asociado de Amazon, ingreso en compras idóneas.
 
 ### Mejor bomba de achique para inundación (2026): 5 modelos comparados — https://kit72h.com/blog/mejor-bomba-achuite-inundacion/
 Comparativa de 5 bombas de achique para inundación: la más potente, la más silenciosa y la que mejor relación calidad-precio. Desaloja agua sucia de tu
