@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T16:10:40+01:00",
+  "actualizado": "2026-10-29T19:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,11 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVkQ3cVBheEw0cVloanVjRW9XS3FsMklLZFJ0ZERMeUk4Sk5JTWFHeC1WOE1oZHZ5VUJqZ29XMDBwdFFTMDZMRHJhNEtHUmg5VFAzOWJzbUE3cHZqRmVGN3ZrZkJzQW9pb1lKTU9oYVUydw?oc=5",
-     "fuente": "El Canal de las Noticias",
+     "titulo": "Advertencias internacionales: ¿Por qué varios gobiernos piden a su población mantener reservas de emergencia?",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUV9sRjhSVXNVVWh1dmxrc3FwNmhqRzhQdzg0bk1INVhpQmk5azl4ZHFQT2xRQzVMTEl1dW80Q19XTUtkNDFOekstdVBEbWtiYUc3eVdDTW81cVlINzRJTlFqT1FXN2t5Yl9FdW1fQ0Mtc0RJYnlHUTlwR0hNQzZqMlFKMGx4bTZLWG9EWU0xZ0tvLU8zdjdjeFdWaG95OEJzVU85RXFoaUQ4SVlYeFh2dGxrMmZlbkw4OEVicW9xM1owWlhQMnpvUWFNMG5XRWpMQXgxNVFYTEVKUU5jY2lWdmlRQlpXUkJUeEE?oc=5",
+     "fuente": "La Tribuna (México)",
      "resumen": "",
-     "fecha": "2026-10-29T09:20:48+01:00",
+     "fecha": "2026-10-29T17:55:06+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -25,6 +25,14 @@
      "fuente": "oncenoticias.hn",
      "resumen": "",
      "fecha": "2026-10-29T03:16:03+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
+     "url": "https://canal44.com/japon-alerta-emergencia-guardar-agua-comida/",
+     "fuente": "Canal 44",
+     "resumen": "Japón recomienda almacenar agua, alimentos y artículos sanitarios para enfrentar al menos tres días sin servicios básicos ante un posible desastre natural.",
+     "fecha": "2026-10-29T02:14:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-28T22:22:00+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Este es el verdadero motivo por el que diversos gobiernos han pedido a sus habitantes tener provisiones",
-     "url": "https://www.msn.com/es-mx/estilo-de-vida/moda/este-es-el-verdadero-motivo-por-el-que-diversos-gobiernos-han-pedido-a-sus-habitantes-tener-provisiones/ar-AA2gheL8",
-     "fuente": "Revista Fama on MSN",
-     "resumen": "En redes sociales circulan advertencias de algunos países en los que se ha pedido a la población prevenirse ...",
-     "fecha": "2026-10-28T15:22:00+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -96,6 +96,14 @@
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-10-29T12:47:06+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Un total de 301.560 hectáreas ardieron en España hasta el 28 de octubre, el 42,9% de la UE, según Copernicus",
+     "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301560-hect%C3%A1reas-ardieron-en-espa%C3%B1a-hasta-el-28-de-octubre-el-429-de-la-ue-seg%C3%BAn-copernicus/ar-AA2glGrZ",
+     "fuente": "Europa Press on MSN",
+     "resumen": "MADRID, 29 (EUROPA PRESS) España ha registrado un total de 301.560 hectáreas (ha) quemadas desde el 1 de enero hasta el 28 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
+     "fecha": "2026-10-29T11:21:44+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-28T12:32:44+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "El verano más caluroso en España dispara un 62% la superficie quemada en Córdoba",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV1ZVMElGclVXbEZ5cmgxRnN6YXhZb0MtUkU1UHhxVVVuem5JNzM0cEt4ZExIU0NXZ3BOWF9oSDNjNnFWekUzM0RBOHFPSFdJdnc0YmM3VmN5VmNJanhrZEFGQ1VELUVzZHF6Rk5MeXYzMUs2cE40LTZWWUVYY2c5TE9BSHRFMURpS2FQaXVXbGx4X2hTR0kzMW41azhVUGJpSjBTNVBHQ1F2OTZtVzRpdmV4bHpNSHQyQTNzV3Y2V3NiQ25oOUE?oc=5",
-     "fuente": "elDiario.es",
-     "resumen": "",
-     "fecha": "2026-10-28T12:00:38+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -162,11 +162,11 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Dana en Canarias: qué es y cómo afectará al tiempo este fin de semana",
-     "url": "https://www.eldiario.es/canariasahora/tiempo-canarias/dana-canarias-afectara-tiempo-semana_1_13624179.html",
-     "fuente": "elDiario.es",
-     "resumen": "El puente de Todos los Santos estará marcado por las tormentas, las lluvias y un notable descenso térmico en el Archipiélago. Te explicamos de forma sencilla cómo se origina este temido fenómeno meteo ...",
-     "fecha": "2026-10-29T06:31:00+01:00",
+     "titulo": "Las inundaciones de la dana de 2024 dispararon la contaminación fecal en l'Albufera con efectos 6 meses después",
+     "url": "https://www.ultimahora.es/noticias/comunidades/2026/10/29/2739107/inundaciones-dana-2024-dispararon-contaminacion-fecal-albufera-efectos-meses-despues.html",
+     "fuente": "Última Hora",
+     "resumen": "Las inundaciones provocadas por la dana del 29 de octubre de 2024 dejaron una huella ambiental en l'Albufera y sus alrededores: aunque la situación mejoró con el tiempo, seis meses después seguían det ...",
+     "fecha": "2026-10-29T07:57:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
      "titulo": "Comunicado: Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.msn.com/es-es/noticias/other/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
+     "url": "https://www.msn.com/es-es/noticias/otras/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
      "fuente": "Europa Press on MSN",
      "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
      "fecha": "2026-10-29T03:34:10+01:00",
@@ -225,11 +225,27 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
+     "url": "https://www.xataka.com/energia/red-electrica-esta-pidiendo-a-sus-centrales-electricas-que-no-se-apaguen-para-hacer-mantenimiento-senal-tensionado-que-esta-sistema",
+     "fuente": "Xataka",
+     "resumen": "Red Eléctrica, como operador del sistema eléctrico en nuestro país, ha solicitado mantener disponibles más de un centenar de instalaciones esenciales y ...",
+     "fecha": "2026-10-29T12:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Qué está fallando en España? Del apagón a los accidentes ferroviarios: las grietas de un país que empieza a desconfiar de sus servicios esenciales",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbUNfaXh1cDAzS1RJUFdXSVRCM1dDYnhac0I4eXdEX2FTQk5uOVJES05SOGViLVdRYnhINUd1U3RXNDZCcXVrMDFZenBnMG1OeVFzWlA1S2Nqd2c5WU8tb0Y0SVA5VldZbEdVdHI2TzlnUU9VZU1mVWZyV1RxUC12VjhOT3YxaWVrUjFkYnFtZ0M4S2pDM0dxS1l5eXA3NjduTU5Wc2h3Rmdkako4SEE2bUFRYnQ1UERaVkxWUU5LczFEVTdhSDlhZlVTSWlmd2xKcHAyWG5xemtTbFdZUEU2RkVTS2pOQ0U?oc=5",
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Mientras España avanza hacia el apagón del 3G, Movistar acaba de mejorar las condiciones de un grupo de clientes",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUxYNXdOT2xpaXNaNWVQdUZVQnZXTWVjd0l1YmRZRU9XaERCbzlaM2VXQWR5WWNLSFBiclQxblQ2emN0c1NlSFlBVDRHSkhxVFNQMG1WU3dTSmNKNEd4OVJKdGJXb2h0d3dkdnBuRk9BOEcwMVZJUC1yQkI3YU52WXNxZ1ZoRFUwY2o2MDV3c3FteVJKZ2UtV180SDZCUdIBowFBVV95cUxQNmRiSFQzT3puOU1Mc2gzZVVXTTU4a2FKZi1nQ2pyMGcwZFplUGRibUw1aGxZSE1IQUd3d3NDajBJM0FCSnNfOGhiTVp3TXF1RXV6YTh2eDlKNDcwSGZtTEliRHdTZFJxMUhDNTNENnMtWW8xUTRpOG1pSmlZZ0lqMVpUdXRBcmJ5blQtVjZLUGtxLW44V0U4Y0pnay1CV2czaERB?oc=5",
+     "fuente": "Xataka Móvil",
+     "resumen": "",
+     "fecha": "2026-10-29T09:07:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -271,22 +287,6 @@
      "resumen": "",
      "fecha": "2026-10-25T10:00:58+01:00",
      "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "Nuevos cortes de luz afectan a Madrid y otros 34 municipios del 26 al 31 de octubre (listado completo de calles aquí)",
-     "url": "https://gacetinmadrid.com/2026/10/25/nuevos-cortes-luz-madrid-34-municipios-2631-aqui/",
-     "fuente": "Gacetín Madrid",
-     "resumen": "Iberdrola va a llevar a cabo, del 26 al 31 de octubre, una serie de cortes en el suministro eléctrico, tanto en la ciudad de Madrid como en otros 34 ...",
-     "fecha": "2026-10-25T06:03:00+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "Red Eléctrica blinda la red con 8 compensadores síncronos",
-     "url": "https://ecosistemastartup.com/red-electrica-blinda-la-red-con-8-compensadores-sincronos/",
-     "fuente": "ecosistemastartup",
-     "resumen": "Ocho máquinas que no generan electricidad y costarán 100 millones cada una El apagón del 28 de abril de 2025 dejó a toda la ...",
-     "fecha": "2026-10-24T07:51:00+02:00",
-     "fecha_txt": "24 oct"
     }
    ]
   }
