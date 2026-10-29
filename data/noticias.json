@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T04:10:40+01:00",
+  "actualizado": "2026-10-29T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -20,19 +20,19 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Japón lanza convocatoria nacional para reforzar reservas ante desastres naturales",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkhTaTBodFd3TFlPc3AwM04yc3ZRWVN3al9BcjZBNTAxZzhOLXE1VEVkbDZxalBLTXRwbkFSSmluZzh3a2NoS0N6Yk9jNWNNYzBYZHdERmdIZE1SOHJkYUxVdExDRWwtMm1nNmZpb3RiMzU4eFV0Zm1hTHpnVzhsSWRLQzdCOW1fYnZHZUM3XzVUY3Nl0gGaAUFVX3lxTE41RG5uY2JRZ1NPZkxMMnFHVVJfUXJTOGFsWjM0NnhyS3FqTFJMWWVZWVdNV2tFajlzbFZtR01xU2lRdWRhdE1SbTQ4MXVVSlJEZEdpRnRmcG9haF9GX0ZMWGZ1dWlocWdEYTFGQUk0S3Q1aERaMjVPZFV2X1lWaUxfN0hfaU1qU0dtWnlTWXpxR1NpWFBWTEVYN0E?oc=5",
-     "fuente": "Diario Presente",
-     "resumen": "",
-     "fecha": "2026-10-29T00:00:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
      "fuente": "Excélsior",
      "resumen": "",
      "fecha": "2026-10-28T23:08:35+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "¿Qué hay detrás de esto? Países como Japón y Reino unido piden almacenar agua y comida para sobrevivir",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjl6X0FDbUo5OHRKN3pNaXQyODlfVDdCcWFxS016YXRpSDh5TWcwMWdXV2FXSy1abkVWR2NGUl90MEdtNG1OaW8zbmUzUjdXa2oyMXAzY0ZRcWpHbERaMG1wSjBySHVYNmhOQ1dLZGVpLU93LXdrUVhYaUtjT0VOajlLbG5hT0ZwNW5wd3JZQQ?oc=5",
+     "fuente": "Emisoras Unidas",
+     "resumen": "",
+     "fecha": "2026-10-28T22:52:44+01:00",
      "fecha_txt": "28 oct"
     },
     {
@@ -154,12 +154,28 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
+     "fuente": "Vozpopuli",
+     "resumen": "",
+     "fecha": "2026-10-29T04:45:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "📰 #EnPortada | Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkdNOHpQbUJDd3E5TUxLalVVenBrWFIzMHUydzAtbk1wUUxwQVZ0WUhibG9VWGtld0tTYjg0ZF9leG9lLW11SUgzZW5SRnAzRHduc1ZaQlBuXzRDQmVzWkNUUk5VejFqZDdVcTlneXQtb05mam9BQkVheGJ5TUNYdjJtUmg5WXVIRkJONTdyM010Q2ZvZHFMQnViOHg2VDR1R0RzMzZXbVV6c2h4RUZUdGtJSkRkODIxa3FjSHFwT3VwRFRxcndVVy1MTEJuY08xUlJfU1p5MXpJTzRX?oc=5",
      "fuente": "Facebook",
      "resumen": "",
      "fecha": "2026-10-29T00:44:09+01:00",
      "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Dos años después de la dana: la reconstrucción pendiente en Valencia está en los comercios y los barrancos",
+     "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-29/dos-anos-dana-reconstruccion-comercios-barrancos_4454694/",
+     "fuente": "El Confidencial",
+     "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
+     "fecha": "2026-10-28T23:00:00+01:00",
+     "fecha_txt": "28 oct"
     },
     {
      "titulo": "El cambio climático agravó hasta un 22% las inundaciones de la tormenta Boris en Europa, según un estudio",
@@ -170,19 +186,11 @@
      "fecha_txt": "28 oct"
     },
     {
-     "titulo": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
-     "fuente": "Expreso",
-     "resumen": "",
-     "fecha": "2026-10-28T12:01:01+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
      "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.cantabriaeconomica.com/patrocinado/informacion-al-dia/dos-anos-despues-de-la-dana-y-tras-la-tormenta-adam-que-cubre-el-seguro-del-coche-ante-una-inundacion/",
-     "fuente": "Cantabria Económica",
-     "resumen": "Revista de información y actualidad económica de Cantabria, nacida en 1991. Empresas, emprendedores, industria y reportajes en profundidad.",
-     "fecha": "2026-10-28T04:00:00+01:00",
+     "url": "https://www.elconfidencialdigital.com/articulo/an/dos-anos-despues-dana-tormenta-adam-que-cubre-seguro-coche-inundacion/202610281002131497450.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de ...",
+     "fecha": "2026-10-28T05:02:00+01:00",
      "fecha_txt": "28 oct"
     },
     {
@@ -207,14 +215,6 @@
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-10-26T16:09:29+01:00",
-     "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Galicia busca blindarse contra las inundaciones: 34 millones para acondicionar 43 kilómetros de ríos",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUVfV2w2Qkd4Y0RwSHI2QWRDcEoyQ2tORklxU1lUTUZhTnFWRTdvUnpEQVZES1ZxcURYcURLTFNBX0lJNXlEUzdSX1BoZW9EWmRpRUR0NWxGN0VuUFBOMlJ0eFJHazBNQlJ1bmotNGpEVWRlY3ZBYXE0OV9XbURKemJfWWVQRDd5V1FLMG5CUS1CWGpmMU1VclNsX1pfXzlINGFFc1d4ek5YalpDNEphQ1NoZGNGNjM5ZFJ6R1pKNzFmcjFC0gHKAUFVX3lxTE90Ym5NclNYamxjc2JtZjdTWTdaRjMwQVIzdG1VVTNXZFpMTDhtdEpjM1BOSVN1V1Y0R1VEbmZpbDdPQUtDTzl2dVIyeDVlMjRMMzNCOFpsdW95a3c4MjV0M2kzbGlPNXYwRkx2Q19sQWJuSUM0VVdYWldEeG5GcmQxQ194c2J3SnR5eFhxQVV6U2FhbFRpRHI2UlUwcEJhcVFqRVB3N3ZEcmd4RGNTQ0Y3RllxS19JT0lfci10S2VlYTlCSWZvUVhHX0E?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-10-26T16:04:33+01:00",
      "fecha_txt": "26 oct"
     }
    ]
@@ -281,12 +281,12 @@
      "fecha_txt": "23 oct"
     },
     {
-     "titulo": "España y Marruecos revisarán la conexión eléctrica submarina entre España y Marruecos año y medio después del gran apagón",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSlhma0ZQSEtWLVVoa1dnR1FRaUV4UnJuYUJQRTduLVJ2NFEySG96TGR3NnQ3a1VPV3ZpTUZPU2d6b3dYT2xjRExNYlZ0U1E0RXduNGNRc1FnOW90bHFiQTBDeGk2Q0J1bUhHRDdiNGtMbGJFaDZNMVNRSnJkS2N6bW9GN2dWYXJzSU5aY2NVYnJTWjZSWDNGOUhQWlhLajNuRzczMnNOODJGWXgxUl9IaXlwNWhVM1hfY3R6TTVjblRKYWVsWUV5c21jTF9sbFh6XzVqSHRmXzNScEgxSUVVX3VEbTU0LWwwdWNfNW9HUWh2YVR4RllTVVJqMTdGNDhYNkHSAZYCQVVfeXFMT2dlMl9pbC1md3ZjOUNRbVRkeUd0UERHbXgzUmQwLWxENXVRcTYza01nNGZURk5YQXBkNC14dTIwY3JEckJRdWE5NzZkQnNrSFZrOGRCc3lObmU2bVVJLUlSNlZOQlhUZjlmMGQ0NXFKdngwQkRYSndHeHEwOEJFZ1ZELVVUbXN3MXhnNUo0VmszR0tsLVNwU1JZejVqM2RWVEhOMW5qSC1XdGtxTmdEc1dPM1hlWENNQVdDMGo1dGEwSk1ualBIa24yNFpTeDJ6bXZmSktPUWc1M1NaNlI1Sk1jaS1MUWFXM1NETUlWQUxOTDVNT0I4UkJkM2hQWTdMa25OQmFZTVA2WHBFajBqTG1EVGxZN1E?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-10-22T14:02:34+02:00",
-     "fecha_txt": "22 oct"
+     "titulo": "El Gobierno se pone las pilas para contener otro gran apagón",
+     "url": "https://www.abc.es/economia/maria-jesus-perez-gobierno-entra-panico-ante-gran-apagon-20261018012707-nt.html",
+     "fuente": "ABC",
+     "resumen": "España ha estado hace solo unos días al borde de otro colapso eléctrico. Año y medio después del 'cero peninsular' poco se ha hecho para reforzar el sistema, salvo cubrir responsabilidades, y ahora Mo ...",
+     "fecha": "2026-10-17T18:27:00+02:00",
+     "fecha_txt": "17 oct"
     }
    ]
   }
