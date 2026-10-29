@@ -532,7 +532,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 
 ## Blog
 ### Paneles solares sin batería: qué kit necesitas si tu casa tiene modo isla (2026) — https://kit72h.com/blog/paneles-solares-sin-bateria-que-kit-necesitas/
-Pregunta real de un lector de Málaga con 16 paneles y backup en modo isla sin batería. La respuesta: 4 capas de kit, del apagón a la power station, con lo que NO comprar y un plan de 3 pasos.
+Pregunta real de un lector de Málaga con 16 paneles y backup en modo isla sin batería. La respuesta: 4 capas de kit, del apagón a la power station, con
 Pregunta real de un lector de Málaga: «¿Qué kit recomiendas para una familia de 2 adultos, con casa unifamiliar, 16 paneles solares (sin batería para almacenar pero con sistema de backup para poder usar lo generado por las placas en modo isla) en la zona de Málaga?»
 
  Es la mejor pregunta que nos ha llegado este mes, porque describe una casa que casi está preparada: mucha generación solar y capacidad de isla, pero cero almacenamiento . Vamos a responderla bien, porque la respuesta no es "compra el kit más caro".
