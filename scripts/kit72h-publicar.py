@@ -72,8 +72,19 @@ def main():
     if c.returncode != 0:
         print("❌ commit falló: %s" % (c.stderr or c.stdout).strip()[:200])
         return 1
-    git("pull", "--rebase", "-q", "origin", "main")
-    push = git("push", "-q", "origin", "main")
+    # Rebase resistente: un cron hermano (noticias, etc.) puede haber pusheado
+    # mientras se horneaba, o dejar el árbol sucio. Se reintenta con stash.
+    rc_rebase = git("pull", "--rebase", "-q", "origin", "main").returncode
+    if rc_rebase != 0:
+        git("stash", "-q")
+        if git("pull", "--rebase", "-q", "origin", "main").returncode != 0:
+            git("stash", "pop", "-q")
+            print("❌ rebase falló (conflicto): se queda local, revisar a mano")
+            return 1
+        push = git("push", "-q", "origin", "main")
+        git("stash", "pop", "-q")
+    else:
+        push = git("push", "-q", "origin", "main")
     if push.returncode != 0:
         print("❌ push falló: %s" % (push.stderr or "").strip()[:200])
         return 1
