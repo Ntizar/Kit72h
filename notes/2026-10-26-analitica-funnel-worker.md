@@ -61,3 +61,13 @@ Panel → /analiticas/ → sección Funnel: página con MUCHAS visitas y CTR baj
 ahí muere la venta → cambiar CTA/copy/orden → medir la semana siguiente.
 La analítica no vende: el ciclo dato→cambio→medir semanal (F3) es lo que mueve
 la aguja hacia 1 k€/mes.
+
+## v2 — modo tranquilo (2026-10-29)
+
+Alerta Cloudflare: 90% del límite diario de ops KV. Commit c9841de: la ingesta
+acumula en memoria del aislado (flush 50 eventos o 300 s, vía waitUntil) y el
+/resumen cachea 15 min + cacheTtl 300 + fallback si KV da 429. Bugs cazados en
+test local: clave de volcado sin prefijo d: (escribía d:26-10-29) y fundir()
+anidando el mapa del día dentro del value. Tests con KV simulado en verde.
+PENDIENTE: deploy bloqueado — el token del .env no tiene Workers Scripts:Edit.
+Mientras no se despliegue, sigue corriendo la v1 (la que quema el cupo).
