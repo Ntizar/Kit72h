@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T13:10:41+01:00",
+  "actualizado": "2026-10-29T16:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -36,6 +36,14 @@
      "fecha_txt": "29 oct"
     },
     {
+     "titulo": "Japón lanza convocatoria nacional para reforzar reservas ante desastres naturales",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkhTaTBodFd3TFlPc3AwM04yc3ZRWVN3al9BcjZBNTAxZzhOLXE1VEVkbDZxalBLTXRwbkFSSmluZzh3a2NoS0N6Yk9jNWNNYzBYZHdERmdIZE1SOHJkYUxVdExDRWwtMm1nNmZpb3RiMzU4eFV0Zm1hTHpnVzhsSWRLQzdCOW1fYnZHZUM3XzVUY3Nl0gGaAUFVX3lxTE41RG5uY2JRZ1NPZkxMMnFHVVJfUXJTOGFsWjM0NnhyS3FqTFJMWWVZWVdNV2tFajlzbFZtR01xU2lRdWRhdE1SbTQ4MXVVSlJEZEdpRnRmcG9haF9GX0ZMWGZ1dWlocWdEYTFGQUk0S3Q1aERaMjVPZFV2X1lWaUxfN0hfaU1qU0dtWnlTWXpxR1NpWFBWTEVYN0E?oc=5",
+     "fuente": "Diario Presente",
+     "resumen": "",
+     "fecha": "2026-10-29T00:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
      "fuente": "Excélsior",
@@ -66,14 +74,6 @@
      "resumen": "En redes sociales circulan advertencias de algunos países en los que se ha pedido a la población prevenirse ...",
      "fecha": "2026-10-28T15:22:00+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Japón llama a sus ciudadanos a prepararse ante posibles catástrofes",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelB1SUpGQkhRMC16al9MRHVfVjNmeWsyS2twcHBqWW1MN1FuZS0yMmplWm9nS25wazU2c1RmUHNDQ285SkZTeGR1cEZtVWdfN3ZkV01aVGw1QVU2RlVQa0tsVUJwLS1vWXV1RlI3OXE1N2RxNGdqaDlISWdrQjJjc1hIODFzeWtnN3RMWkhhNEFEc0xkTzhYdkhmLWhNenNjVjNBVmhQVXdLSU5haGNybW9UNVRaZUdSLWlJRENB?oc=5",
-     "fuente": "El Caribe",
-     "resumen": "",
-     "fecha": "2026-10-28T14:58:36+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RmdYQ3BLWFY1N2ZUcXFyblkta0tSMDQ2QU54Y0JacXZSY0tVSVJYcHFneDY2alhFOENYQTdYSDQybXBYa2xBTlMwUnhORHhoR201QUY2b2lKcW13Qk1hZzB0a1haUXdzUXV3OVFGN0JvakJGSEltUGZ5bw?oc=5",
+     "fuente": "Qué.es",
+     "resumen": "",
+     "fecha": "2026-10-29T16:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
     {
      "titulo": "España concentra el 44 % del total de hectáreas quemadas de la UE",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlpYZ3QxLTRuRlBfX1kzV3VSZWJLU0FhUW1mZC1QMEpVZkhuZklDb2VwUHhBbG8yN21mVUExdV9hX2dlZHpwUjBvaFVKSlNEeVpUN0dRMzZrelpoNTYzRlBwVktKOUhBT1lScmR2X21HWFdkZGZsWDNoN01jZ0F4M29YVU50WUxvSVBOUGswVFhSRGdmeVA3WWZuVDYwNV9mUzVfQ2dHYjlNclZnMDNxWEwzcmdFSkY3aHlqaWtBQnBjcTlD0gHKAUFVX3lxTE9fdUdQWW5TRWNjLXhNV01FZzYtZk9neFg2azY0dFhIbUlIZVM5SXhqX3N3YjIxdXdKSndrQUtJY2daOEJnSXpuem8xUXBSd1d0cnllQVNFWlZYMFE1OUpFTkFybHMwdl9aWThQN2ZSWGR6YnBNZ2duazFWVXJpWTF1ZFQ5MlRQbWc4ZVNnWXM3bW55NUIxYnV4bUdITFpFQlVIN0xWUUJWTUF3ekJqQ2lDNUF2R1IzNUNLQ1JIV3p0Z0o1akltLTdUYWc?oc=5",
@@ -105,14 +113,6 @@
      "resumen": "",
      "fecha": "2026-10-29T01:21:00+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Incendios: dramática situación en España y Francia",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
-     "fuente": "DW.com",
-     "resumen": "",
-     "fecha": "2026-10-28T19:19:37+01:00",
-     "fecha_txt": "28 oct"
     },
     {
      "titulo": "Los incendios forestales en España queman 299.000 hectáreas, el 44% de toda la superficie arrasada en la UE",
@@ -154,6 +154,22 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Del siglo XIX a la DANA de 2024: la historia de las grandes inundaciones del Mediterráneo y por qué preocupan más ahora",
+     "url": "https://www.msn.com/es-es/eltiempo/general/del-siglo-xix-a-la-dana-de-2024-la-historia-de-las-grandes-inundaciones-del-mediterr%C3%A1neo-y-por-qu%C3%A9-preocupan-m%C3%A1s-ahora/ar-AA2glr0g",
+     "fuente": "Meteored on MSN",
+     "resumen": "Las inundaciones han marcado durante siglos la historia de las regiones mediterráneas, pero el calentamiento global, las lluvias más intensas y la ocupación del territorio agravan sus impactos. Las in ...",
+     "fecha": "2026-10-29T08:15:28+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Dana en Canarias: qué es y cómo afectará al tiempo este fin de semana",
+     "url": "https://www.eldiario.es/canariasahora/tiempo-canarias/dana-canarias-afectara-tiempo-semana_1_13624179.html",
+     "fuente": "elDiario.es",
+     "resumen": "El puente de Todos los Santos estará marcado por las tormentas, las lluvias y un notable descenso térmico en el Archipiélago. Te explicamos de forma sencilla cómo se origina este temido fenómeno meteo ...",
+     "fecha": "2026-10-29T06:31:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
      "fuente": "Vozpopuli",
@@ -179,7 +195,7 @@
     },
     {
      "titulo": "Comunicado: Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.msn.com/es-es/noticias/otras/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
+     "url": "https://www.msn.com/es-es/noticias/other/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
      "fuente": "Europa Press on MSN",
      "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
      "fecha": "2026-10-29T03:34:10+01:00",
@@ -199,22 +215,6 @@
      "fuente": "El Confidencial",
      "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
      "fecha": "2026-10-28T23:00:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "La dana, dos años después: las cuentas pendientes de la reconstrucción",
-     "url": "https://www.elperiodicodeaqui.com/valencia/horta/dana-dos-anos-despues-cuentas-pendientes-reconstruccion_100123142_102.html",
-     "fuente": "El Periódico de Aquí",
-     "resumen": "De las obras millonarias a los proyectos para prevenir nuevas inundaciones, la recuperación avanza mientras persisten dificultades económicas, secuelas emocionales e infraestructuras pendientes ...",
-     "fecha": "2026-10-28T18:00:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "El cambio climático agravó hasta un 22% las inundaciones de la tormenta Boris en Europa, según un estudio",
-     "url": "https://www.heraldo.es/noticias/sociedad/2026/10/28/cambio-climatico-agravo-inundaciones-tormenta-boris-europa-2063819.html",
-     "fuente": "Heraldo de Aragón",
-     "resumen": "Una investigación revela que el aumento de las crecidas de los ríos fue mayor que el de las lluvias y advierte de que podría ocurrir también en España ...",
-     "fecha": "2026-10-28T13:14:00+01:00",
      "fecha_txt": "28 oct"
     }
    ]
