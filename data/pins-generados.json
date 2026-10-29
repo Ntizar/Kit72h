@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-28",
-    "total": 85,
-    "png_total": 85
+    "ultima_generacion": "2026-10-29",
+    "total": 86,
+    "png_total": 86
   },
   "pins": [
     {
@@ -769,6 +769,15 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-generador-electrico-portatil-inverter.html",
       "png": "png/pin-blog-mejor-generador-electrico-portatil-inverter.png"
+    },
+    {
+      "slug": "pin-blog-paneles-solares-sin-bateria-que-kit-necesitas",
+      "tipo": "blog",
+      "titulo": "Paneles solares sin batería: qué kit necesitas si tu casa tiene modo isla (2026)",
+      "url": "https://kit72h.com/blog/paneles-solares-sin-bateria-que-kit-necesitas/",
+      "emoji": "📖",
+      "pin": "pin-blog-paneles-solares-sin-bateria-que-kit-necesitas.html",
+      "png": "png/pin-blog-paneles-solares-sin-bateria-que-kit-necesitas.png"
     }
   ]
 }
