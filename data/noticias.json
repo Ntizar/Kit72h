@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T19:10:40+01:00",
+  "actualizado": "2026-10-29T22:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,6 +12,14 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿Por qué Japón, Reino Unido y otros países piden almacenar agua y comida?",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcG9zbjh0QURwNk96dzFTVnAzdzVLZURMU19EOElrRGwwcHhteHhVcFdINktGRE03YndDclhVVVVYU2JsYVNad3lMMEpqQ3N1MkczVWZjdGx4a29PV2pTdkdvLVUydmdJMWRlRmVWeF9RWGt0ZlVKaENUSDJPZzE2bzBLNU9WV3RLU0RSS0J0bDUwN0FkdFlheDJsNXdCZklYSVpGQVZUTWdVTW1SaUdSMVRSS1A3aWxvOW8yRUZGRjVOcVppcURBUmV3Zml1dHVkUDlyZ1ltcFZQMEFnT3ZiVTlLRjRzU05PalRkMnRSc25YblpRcWRpeWt6WmIxaXB6SkFycEVhWXhlQQ?oc=5",
+     "fuente": "El Universal",
+     "resumen": "",
+     "fecha": "2026-10-29T19:20:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Advertencias internacionales: ¿Por qué varios gobiernos piden a su población mantener reservas de emergencia?",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUV9sRjhSVXNVVWh1dmxrc3FwNmhqRzhQdzg0bk1INVhpQmk5azl4ZHFQT2xRQzVMTEl1dW80Q19XTUtkNDFOekstdVBEbWtiYUc3eVdDTW81cVlINzRJTlFqT1FXN2t5Yl9FdW1fQ0Mtc0RJYnlHUTlwR0hNQzZqMlFKMGx4bTZLWG9EWU0xZ0tvLU8zdjdjeFdWaG95OEJzVU85RXFoaUQ4SVlYeFh2dGxrMmZlbkw4OEVicW9xM1owWlhQMnpvUWFNMG5XRWpMQXgxNVFYTEVKUU5jY2lWdmlRQlpXUkJUeEE?oc=5",
      "fuente": "La Tribuna (México)",
@@ -20,19 +28,27 @@
      "fecha_txt": "29 oct"
     },
     {
+     "titulo": "¿Se acerca una Tercera Guerra Mundial? Japón, Reino Unido y otros países piden almacenar agua y suministros; esto hay detrás de las alertas",
+     "url": "https://www.msn.com/es-mx/noticias/otras/se-acerca-una-tercera-guerra-mundial-jap%C3%B3n-reino-unido-y-otros-pa%C3%ADses-piden-almacenar-agua-y-suministros-esto-hay-detr%C3%A1s-de-las-alertas/ar-AA2glR8A",
+     "fuente": "El Universal on MSN",
+     "resumen": "Las recomendaciones han despertado dudas entre la población ...",
+     "fecha": "2026-10-29T12:14:34+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVkQ3cVBheEw0cVloanVjRW9XS3FsMklLZFJ0ZERMeUk4Sk5JTWFHeC1WOE1oZHZ5VUJqZ29XMDBwdFFTMDZMRHJhNEtHUmg5VFAzOWJzbUE3cHZqRmVGN3ZrZkJzQW9pb1lKTU9oYVUydw?oc=5",
+     "fuente": "El Canal de las Noticias",
+     "resumen": "",
+     "fecha": "2026-10-29T09:20:48+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "¿Qué países recomiendan almacenar agua y alimentos ante posibles emergencias y por qué?",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFNTRFAyblA2MVZ1bERRbU1SV1VqekE0blZJMFVRaFpoQ0MyOE1iOFR3Nk9VdVdZNUpoRUFCS3dXX3JaQzhCUXk3dmpodDAzRGwtTF9jc3psZGpzMXZNRmVrOVFSbDNQYWcydk9hRWlxMXpCei1ubWg4NVZBY0JQRGFLN1kweVgyVmZkT1VlaVo3RzFHN1VBXy1ycGx0TEFaTmEtY1dJbnZYTFBwOHRLZXdfOGwxbFE2ZzQ3WUdiaE5Fdw?oc=5",
      "fuente": "oncenoticias.hn",
      "resumen": "",
      "fecha": "2026-10-29T03:16:03+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
-     "url": "https://canal44.com/japon-alerta-emergencia-guardar-agua-comida/",
-     "fuente": "Canal 44",
-     "resumen": "Japón recomienda almacenar agua, alimentos y artículos sanitarios para enfrentar al menos tres días sin servicios básicos ante un posible desastre natural.",
-     "fecha": "2026-10-29T02:14:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-28T23:08:35+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "¿Qué hay detrás de esto? Países como Japón y Reino unido piden almacenar agua y comida para sobrevivir",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjl6X0FDbUo5OHRKN3pNaXQyODlfVDdCcWFxS016YXRpSDh5TWcwMWdXV2FXSy1abkVWR2NGUl90MEdtNG1OaW8zbmUzUjdXa2oyMXAzY0ZRcWpHbERaMG1wSjBySHVYNmhOQ1dLZGVpLU93LXdrUVhYaUtjT0VOajlLbG5hT0ZwNW5wd3JZQQ?oc=5",
-     "fuente": "Emisoras Unidas",
-     "resumen": "",
-     "fecha": "2026-10-28T22:52:44+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Por qué diversos gobiernos piden comprar provisiones: La verdad",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVdMUVV3WWw3N2hmRVZBcG9oZmk2a3JfWldmS25mZ3dJWDRSNFFMM3lJWWIxblNvQjl3SDdZY3J1Q2thX1pBeGJNYTFyRU5ZWEFvLWs0b2t0cTM0Q0ZhNXdvR1ZBdnVtMzZFN09haF9pVXIzckNjWnlNZUhKLWpqcDRJdzNJNzFIV1pLOUJXSno5NndOdmw2VkRlMVd0emdsSUkxZlluTXFUQQ?oc=5",
-     "fuente": "Revista Fama",
-     "resumen": "",
-     "fecha": "2026-10-28T22:22:00+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -88,6 +88,14 @@
      "fuente": "Qué.es",
      "resumen": "",
      "fecha": "2026-10-29T16:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Copernicus confirma que 301.560 hectáreas se quemaron en España hasta el 28 de octubre",
+     "url": "https://www.msn.com/es-es/noticias/otras/copernicus-confirma-que-301560-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-28-de-octubre/ar-AA2gmjFf",
+     "fuente": "Público on MSN",
+     "resumen": "Según el Sistema de Información de Incendios Forestales de la Comisión Europea (EFFIS) esta cifra supone el 42,9% de la superficie que ha ardido en la Unión Europea, que este año suma ya 701.480 hectá ...",
+     "fecha": "2026-10-29T13:10:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-28T16:38:05+01:00",
      "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Córdoba cierra el periodo de alto riesgo con 100 incendios forestales y 966 hectáreas quemadas",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVZZTFQxRVZKbTZzSG9JZjhFYW4yWEt4Ty1GbFZ6dzFUUjlnZ0V2Z2VzM1k4Tk03dWtpS1Rac3FOQTU1VHVBMFlYVER4Yi1WLTBVeWJaZEJsMVpndFVvZUVQMG1vckhtT3E5S3Z0VTRqM3oxVF9RNW1UaFkyeWcwMmEzM3NMVUlnMHhtZWVQLWl3TlM3b0VXeTAySmxGb1R0Y0pUS0wycFZxUXdIQ0NhU0syRERIa0RDUnQ2eVplTk5DVi1PN09KZkZwRHFtei1ERWl5SmdQbjU3X3Zy0gHiAUFVX3lxTFBjazNrYkdXVWxvRjZXTnMzNmxaRWx0MGVQN0ZwdDJkRm53UXlraUtNRDR6aF80SnpySjFqV0NPaFROYkhGN3BhZTVqTHE2OUVMbmJJdFpmcDVpUkQ1WFlWMzYtZUVvT1dDRVFWSUJwNXVaaUR6RW16Q19Vd2U1c01zNVR0cXRmQ1VabDA4SHJwc010ZkprZGNjUjdIcmxFNWt0Sk11Z3R6NS01eEY0U0lWbXVwREppTWdTbUNmNDZxeWFVdnFyb25WbXBKZjBpRXdUanQ5Q2xqd2tYNE04bmFCenc?oc=5",
-     "fuente": "Cordoba Hoy",
-     "resumen": "",
-     "fecha": "2026-10-28T12:32:44+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -154,8 +154,40 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Las inundaciones de Ibiza y el negacionismo climático de Vox",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUV3b1QxLUxJOUNIYnhKdzlVOVRiajJsenpUUEVuVDc3YS1zVjE0RXBkMTd6VWpzT0Q1U2xhTGdVeXdvdUpNM0ZSTmFuMUwtdHh6Q0NTNzFoSWI0R0Z6cUp1OXlacmRnTTNtTTVJRkxqcHo1X3ZPVG9lTkVSOEc3bWQ3U2R0RFZxYXY1V2J3?oc=5",
+     "fuente": "Ara Balears",
+     "resumen": "",
+     "fecha": "2026-10-29T21:00:46+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España vive una jornada de luto y problemas en el transporte mientras Valencia recuerda la dana",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzFrbzYxOURYODFGaUtBQ3MxdFM2QUI3Zk1HSDJwcHJnWjJTRmZNdlJyS0s2SklleWNPSlVGRzZiLTllQ0RyalNHRm03aEVEV0RJcmJQZ3NwbUo5Zkw4YjlBWUp4OHhIblRNQTdmSVVfX3NKclFfZFJPZk8xWDJkMk8wcmlmbl96d2EzM0RELXpxRkpMblJwT3E0UTk4bDl5eGRjYg?oc=5",
+     "fuente": "La Noción",
+     "resumen": "",
+     "fecha": "2026-10-29T20:11:39+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "«Están siendo días muy duros»: Page recuerda a las víctimas de la dana en medio del dolor por el accidente ferroviario de Urda",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjlfWFRkUnFhSDNLWnBmSnBMazhZb2pLTkNiOERpcXlUWjVMdWJPTUdua0hDSjJnRmNPUWNUTkJWYXpNZVNBcjhzVUlTYnRUcHBIUHdBZ0pUYmRGcFB0eXhvNTZSMHRxVzNXR0h1TmZvOV9vNFFYMmJVdGZmYnR2NGFNaUViN0k4R0xheTB0aEJzaE9vZElibXJoOVdrUzYyMFhlMU53SnlQaHdkSkVCeWdB0gG3AUFVX3lxTFBGQk5LbHFaTWdnUGJfSXJMT2RzV1J4Mmg3Q3RZWEU0a24yV3dKR1hDeUF1WjJaRmV6QlZuODVXS2RzdURYQjUwcnpBbHl2NXdKQTZac2xHck03dV9nUWxzRFBLc2dvLTl1aXh0UHI4dmVmeDd0TzhFNF9nTkRfNVVMSm1tcEhTbi1Sd2ZzQk4yanRRV3lyZUQ3dDBuOVNRdzNFMk0tTVl2UHB6b0lLS2dQeFMzNUJpOA?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-10-29T19:52:13+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Aulas en barracones, colectores por renovar y teatros cerrados: el atasco de las grandes obras en Algemesí tras la dana",
+     "url": "https://www.levante-emv.com/ribera/2026/10/29/aulas-barracones-colectores-renovar-teatros-135900364.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
+     "fecha": "2026-10-29T12:30:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Del siglo XIX a la DANA de 2024: la historia de las grandes inundaciones del Mediterráneo y por qué preocupan más ahora",
-     "url": "https://www.msn.com/es-es/eltiempo/general/del-siglo-xix-a-la-dana-de-2024-la-historia-de-las-grandes-inundaciones-del-mediterr%C3%A1neo-y-por-qu%C3%A9-preocupan-m%C3%A1s-ahora/ar-AA2glr0g",
+     "url": "https://www.msn.com/es-es/noticias/otras/del-siglo-xix-a-la-dana-de-2024-la-historia-de-las-grandes-inundaciones-del-mediterr%C3%A1neo-y-por-qu%C3%A9-preocupan-m%C3%A1s-ahora/ar-AA2glr0g",
      "fuente": "Meteored on MSN",
      "resumen": "Las inundaciones han marcado durante siglos la historia de las regiones mediterráneas, pero el calentamiento global, las lluvias más intensas y la ocupación del territorio agravan sus impactos. Las in ...",
      "fecha": "2026-10-29T08:15:28+01:00",
@@ -163,9 +195,9 @@
     },
     {
      "titulo": "Las inundaciones de la dana de 2024 dispararon la contaminación fecal en l'Albufera con efectos 6 meses después",
-     "url": "https://www.ultimahora.es/noticias/comunidades/2026/10/29/2739107/inundaciones-dana-2024-dispararon-contaminacion-fecal-albufera-efectos-meses-despues.html",
-     "fuente": "Última Hora",
-     "resumen": "Las inundaciones provocadas por la dana del 29 de octubre de 2024 dejaron una huella ambiental en l'Albufera y sus alrededores: aunque la situación mejoró con el tiempo, seis meses después seguían det ...",
+     "url": "https://www.europapress.es/comunitat-valenciana/noticia-inundaciones-dana-2024-dispararon-contaminacion-fecal-lalbufera-efectos-meses-despues-20261029135805.html",
+     "fuente": "Europa Press",
+     "resumen": "Las inundaciones provocadas por la dana del 29 de octubre de 2024 dejaron una huella ambiental en l'Albufera y sus alrededores: aunque la situación mejoró con el tiempo, seis meses después seguían ...",
      "fecha": "2026-10-29T07:57:00+01:00",
      "fecha_txt": "29 oct"
     },
@@ -180,42 +212,10 @@
     {
      "titulo": "Sarai y Carlos perdieron casi todo a causa de la dana en España. Sus fotos todavía podían salvarse",
      "url": "https://www.msn.com/es-us/noticias/otras/sarai-y-carlos-perdieron-casi-todo-a-causa-de-la-dana-en-espa%C3%B1a-sus-fotos-todav%C3%ADa-pod%C3%ADan-salvarse/ar-AA2gkigE",
-     "fuente": "CNN en Español on MSN",
+     "fuente": "CNN (Español) on MSN",
      "resumen": "Sarai y Carlos perdieron su casa en la dana que arrasó parte de Valencia. Gracias a Salvem les Fotos, pudieron recuperar sus fotografías familiares.",
      "fecha": "2026-10-29T04:00:16+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Las 'catástrofes' que ha sufrido Urda, Toledo, en los últimos meses: inundaciones, incendios y el accidente ferroviario",
-     "url": "https://www.telecinco.es/noticias/sociedad/20261029/catastrofes-urda-toledo-inundaciones-incendios-accidente-ferroviario_18_020568270.html",
-     "fuente": "Telecinco",
-     "resumen": "La localidad toledana de Urda ha sido el escenario de la actualidad en España en las últimas horas. A las 08:54 horas de este pasado miércoles, un A ...",
-     "fecha": "2026-10-29T03:55:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Comunicado: Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.msn.com/es-es/noticias/otras/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
-     "fuente": "Europa Press on MSN",
-     "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
-     "fecha": "2026-10-29T03:34:10+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-dos-anos-despues-dana-tormenta-adam-cubre-seguro-coche-inundacion-20261029093410.html",
-     "fuente": "Europa Press",
-     "resumen": "Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de Seguros, cuáles ...",
-     "fecha": "2026-10-29T03:34:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Dos años después de la dana: la reconstrucción pendiente en Valencia está en los comercios y los barrancos",
-     "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-29/dos-anos-dana-reconstruccion-comercios-barrancos_4454694/",
-     "fuente": "El Confidencial",
-     "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
-     "fecha": "2026-10-28T23:00:00+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -238,6 +238,14 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
+     "fuente": "EDATV News",
+     "resumen": "",
+     "fecha": "2026-10-29T10:32:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -271,14 +279,6 @@
      "resumen": "",
      "fecha": "2026-10-26T11:16:35+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
-     "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
-     "fuente": "ABC",
-     "resumen": "Planean un nuevo operador del sistema más independiente y neutral, despolitizado y ordenado para después estudiar la reducción paulatina de la participación pública ...",
-     "fecha": "2026-10-25T18:00:00+01:00",
-     "fecha_txt": "25 oct"
     },
     {
      "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
