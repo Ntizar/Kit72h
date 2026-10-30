@@ -1,4 +1,7 @@
-# Log de optimizaciones CTR (titles y meta descriptions)
+## 2026-10-30 — 1 mejora
+- Comparativa de arrancadores de batería portátiles: "Comparativa de arrancadores de batería portátiles ..." → "Comparativa de arrancadores de batería portátiles para coche..." (completado título incompleto)
+
+---
 
 Registro de los cambios de `<title>` / meta description que hace el cron
 `kit72h-seo-ctr` (06:30) para maximizar CTR en Google: números, beneficio y
