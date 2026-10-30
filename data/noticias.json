@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-30T19:10:41+01:00",
+  "actualizado": "2026-10-30T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFlLZFc0aVpOak5Ka0U0WlJKcFhzQTdGbWV5MXE3Q0Z2YmdhcE5KRmVzWU1Ia0NNUXVsaEZFYW9sTUVGdG1DaFBtU05LVEg5ZDlVOTNuZGhoQUVTTWk2UHdJZEdZdEREZXFhNjZXU1ViYmJfUzRkQ1NZWmpZV3NNY0k2NDMyWEdqdDhaemdocGZQSGg1eG1aLUdUTnRqUDVnMkpLbWFIZVc3S0w0T0o4c081V2JVRmfSAbwBQVVfeXFMUFRLcUN1TzdaYldvOXI3MEFla2FVVV9OTm40aHI0WkhxYUZnRG45TkZNTTkzSkxleFFjb0lXSUlKbC01RERHUUowWmRVNmlhNG84ejF5UG8zUm85MVlnMHNOYXRQd3RheWk0bUd0V1VzLU9wYlNlOExWQnJnNWJqeGpoek8yRnVuOFZNT0ZBODZOYi1ReS16N2VZV1o2QVJsdEM3RGJaX2Exa1Q1U1UzWWwySG8yNUNub2h6Z3k?oc=5",
+     "fuente": "Imagen Radio",
+     "resumen": "",
+     "fecha": "2026-10-30T21:19:51+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
      "titulo": "Marc Vidal, inversor: \"Que Europa esté pidiendo prepararse para horas sin luz ni agua es una confesión, te están diciendo que no puede garantizarte el suministro en varias horas\"",
      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbzlsbTBuUENHQVdRQ2Rqd3pYaUdTa21mdy1BODNLMDVtdXVvTmQtMjRZci1vNGlNY2xvS3BBS0Q4dUhUQm1BSnNuUjR3bTZTNDBrcVdja2ZfOUFnaWtXQkdESTJQdDlxSk4wWURYV3c5T1J4ajJzSVZLRXl6UlJLVm9Fem5lMURwejZ3R2l2clA4dmZfVFFqelI2UjJMdHFpa09ydUxDY1J2SVhsWHB2eEdNZGl4OTZkTUd1eG42TzlrSXl4dVFkSURwTm12blJLdThhZDZvTGZjcEQ1TkxWT09FWUNkcGlBcDhJT29KSHpINnltcEdaZGo4Y3F0eV9aS1BVWXRmRzZUbjctOVNkN2pWcWM1WEVIeE13VVFwVE1sMGhLSDZvajhhMzBsX2t5UjRkTF9uUEFKNncy0gG8AkFVX3lxTE9vOWxtMG5QQ0dBV1FDZGp3elhpR1NrbWZ3LUE4M0swNW11dW9OZC0yNFlyLW80aU1jbG9LcEFLRDh1SFRCbUFKc25SNHdtNlM0MGtxV2NrZl85QWdpa1dCR0RJMlB0OXFKTjBZRFhXdzlPUnhqMnNJVktFeXpSUktWb0V6bmUxRHB6NndHaXZyUDh2Zl9UUWp6UjZSMkx0cWlrT3J1TENjUnZJWGxYcHZ4R01kaXg5NmRNR3V4bjZPOWtJeXh1UWRJRHBObXZuUkt1OGFkNm9MZmNwRDVOTFZPT0VZQ2RwaUFwOElPb0pIekg2eW1wR1pkajhjcXR5X1pLUFVZdGZHNlRuNy05U2Q3alZxYzVYRUh4TXdVUXBUTWwwaEtINm9qOGEzMGxfa3lSNGRMX25QQUo2dzI?oc=5",
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-10-30T11:22:08+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "¡ALERTA NACIONAL! Piden preparar MOCHILAS DE EMERGENCIA con suministros para 72 HORAS; esta es la razón que preocupa a varios países",
+     "url": "https://www.aztecabajio.com/noticias/mochilas-de-emergencia-por-que-recomiendan-almacenar-suministros-para-hasta-72-horas/",
+     "fuente": "TV Azteca Bajío",
+     "resumen": "Conoce por qué se promueven los suministros para 72 horas y qué artículos debe incluir una mochila de emergencia en México.",
+     "fecha": "2026-10-30T07:51:00+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "La Tribuna (México)",
      "resumen": "",
      "fecha": "2026-10-29T17:55:06+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
-     "url": "https://canal44.com/japon-alerta-emergencia-guardar-agua-comida/",
-     "fuente": "Canal 44",
-     "resumen": "Japón recomienda almacenar agua, alimentos y artículos sanitarios para enfrentar al menos tres días sin servicios básicos ante un posible desastre natural.",
-     "fecha": "2026-10-29T02:14:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Potencias mundiales piden a ciudadanos “prepararse para una crisis”",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHJzOGJOeklKR18zb1hSeDF4ZUtaZGNLa2FkSGRaLWhESUZ2T0J3ejM2SHE5U2w1czhFYXBKSHBRdmUwSl9oVVBsamxVOXZ3czNpQkVfZEpOMVM4R25CYWRkeXVwNU9QcGgxS3lJOVdQZDZIVVpiNElBOUtiZ2gxVHM5ZF9ldFVKZW12UTkwZHBrRzFIR2djUVpIYW10NUtEU0lWSEwtV2Zqb29H?oc=5",
-     "fuente": "sipse.com",
-     "resumen": "",
-     "fecha": "2026-10-29T01:13:01+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -154,6 +154,38 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T18:44:44+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "La jueza suma una víctima más de la dana de 2024: murió un mes después por una bacteria",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-jueza-suma-una-v%C3%ADctima-m%C3%A1s-de-la-dana-de-2024-muri%C3%B3-un-mes-despu%C3%A9s-por-una-bacteria/ar-AA2gqNzJ",
+     "fuente": "La Razón on MSN",
+     "resumen": "Sufrió heridas tras inundarse su casa y días más tarde empezó a sufrir un cuadro de diarrea, vómitos y fiebre ...",
+     "fecha": "2026-10-30T14:11:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "Las víctimas de la DANA, dos años después: \"No queremos tener miedo cada vez que llueve\"",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzVwY3k5SnRpc3daeHJBaDd5bHNoLThaSEJkVklva1dFazhUVDh4YUJ3aW5yOVd6TUNJR2wwblVjRnQ3b0NXN1dVZGpSU2RjNzBneXEyd05UdzJodjhGX0E4Wmt2TFBka2JNbjFZSWFpajlpRGJRZm1yTVB6TzdIUlFObDhBT2dHRWktMGVpR2I1ckpIZUo3NHFtRndDVGdWWUpUc0pUNWhTVVhVTVlpWXNXRzU?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T13:18:09+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "La jueza eleva a 234 la cifra oficial de víctimas mortales de la dana tras incluir a un vecino de Paiporta",
+     "url": "https://www.rtve.es/noticias/20261030/jueza-eleva-a-234-cifra-oficial-victimas-mortales-dana-tras-incluir-a-vecino-paiporta/17294248.shtml",
+     "fuente": "RTVE",
+     "resumen": "La anterior actualización de la cifra total de víctimas mortales fue el pasado 28 de septiembre, para incluir a una mujer que falleció casi un mes después de las inundaciones en el hospital de La Fe ...",
+     "fecha": "2026-10-30T11:35:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
      "titulo": "Elevan a 234 las víctimas mortales por la dana en Valencia tras incluir a un vecino de Paiporta",
      "url": "https://www.abc.es/espana/comunidad-valenciana/elevan-234-victimas-mortales-dana-tras-incluir-20261030163635-nt.html",
      "fuente": "ABC",
@@ -183,38 +215,6 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-10-29T19:52:13+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Aulas en barracones, colectores por renovar y teatros cerrados: el atasco de las grandes obras en Algemesí tras la dana",
-     "url": "https://www.levante-emv.com/ribera/2026/10/29/aulas-barracones-colectores-renovar-teatros-135900364.html",
-     "fuente": "Levante-EMV",
-     "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
-     "fecha": "2026-10-29T12:30:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
-     "fuente": "Vozpopuli",
-     "resumen": "",
-     "fecha": "2026-10-29T04:45:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Las 'catástrofes' que ha sufrido Urda, Toledo, en los últimos meses: inundaciones, incendios y el accidente ferroviario",
-     "url": "https://www.telecinco.es/noticias/sociedad/20261029/catastrofes-urda-toledo-inundaciones-incendios-accidente-ferroviario_18_020568270.html",
-     "fuente": "Telecinco",
-     "resumen": "La localidad toledana de Urda ha sido el escenario de la actualidad en España en las últimas horas. A las 08:54 horas de este pasado miércoles, un A ...",
-     "fecha": "2026-10-29T03:55:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-dos-anos-despues-dana-tormenta-adam-cubre-seguro-coche-inundacion-20261029093410.html",
-     "fuente": "Europa Press",
-     "resumen": "Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de Seguros, cuáles ...",
-     "fecha": "2026-10-29T03:34:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -249,14 +249,6 @@
      "fecha_txt": "30 oct"
     },
     {
-     "titulo": "Óscar Puente, los trenes y la degradación de España",
-     "url": "https://www.msn.com/es-es/noticias/otras/%C3%B3scar-puente-los-trenes-y-la-degradaci%C3%B3n-de-espa%C3%B1a/ar-AA2gnfm7",
-     "fuente": "EL MUNDO on MSN",
-     "resumen": "Asistimos a un proceso de tercermundización en el que casi nada funciona como debería y no se asumen responsabilidades. Tragedias ferroviarias, apagón, vivienda, corrupción, Ceuta, Dana... ¿se está de ...",
-     "fecha": "2026-10-29T19:54:11+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Red Eléctrica frena el mantenimiento de 100 centrales",
      "url": "https://ecosistemastartup.com/red-electrica-frena-el-mantenimiento-de-100-centrales/",
      "fuente": "ecosistemastartup",
@@ -278,6 +270,14 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
+     "fuente": "EDATV News",
+     "resumen": "",
+     "fecha": "2026-10-29T10:32:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
