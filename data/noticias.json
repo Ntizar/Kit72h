@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-30T04:10:40+01:00",
+  "actualizado": "2026-10-30T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -131,19 +131,19 @@
      "fecha_txt": "29 oct"
     },
     {
+     "titulo": "Incendios: dramática situación en España y Francia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
+     "fuente": "DW.com",
+     "resumen": "",
+     "fecha": "2026-10-28T19:19:37+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
      "titulo": "Los incendios forestales en España queman 299.000 hectáreas, el 44% de toda la superficie arrasada en la UE",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSE0tT3lCd3VPVjF5VmZLcldlbmNKeHJXZXlOc2VLbDNnNVpoejJOTF9yOTNNeDA3d3lTMm95UUIwc2g4Z0xNLXdmdk9qTmlkUmFRRl9kR05ocy1xUFdTZGxaRjBYOWEtcmxTMzZQdHFsWk5XckM5MmtMTkx3bTBGcDY1ZjkxNEZ6R1dvaHRHVU9Cdw?oc=5",
      "fuente": "MONCLOA.COM",
      "resumen": "",
      "fecha": "2026-10-28T18:16:24+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "Incendios forestales en España: un solo país concentra casi la mitad de la superficie quemada en la UE",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHpFdWNJOXh5TktPVk41S1RzLW1yUEZvcjkwT1p4X3FUUHRtVVA1enQxN1pqMG1jZktQSUVhOExfTS1QUEhUa1cxNWNTWHNCaTJrZ0V0bDdWTWNyVGxDQXIzTFcyMXpiWXFGM1N3YzBhX1Vfb21WQ2d5LUtmZkVuS09vbVBwUWdJblE2dDYydGRYQm0xUjJEUVVOaw?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
-     "resumen": "",
-     "fecha": "2026-10-28T16:38:05+01:00",
      "fecha_txt": "28 oct"
     }
    ]
@@ -194,14 +194,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Comunicado: Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
-     "url": "https://www.msn.com/es-es/noticias/otras/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
-     "fuente": "Europa Press on MSN",
-     "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
-     "fecha": "2026-10-29T03:34:10+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
      "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-dos-anos-despues-dana-tormenta-adam-cubre-seguro-coche-inundacion-20261029093410.html",
      "fuente": "Europa Press",
@@ -214,6 +206,14 @@
      "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-29/dos-anos-dana-reconstruccion-comercios-barrancos_4454694/",
      "fuente": "El Confidencial",
      "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
+     "fecha": "2026-10-28T23:00:00+01:00",
+     "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "La dana, dos años después: las cuentas pendientes de la reconstrucción",
+     "url": "https://www.elperiodicodeaqui.com/valencia/horta/dana-dos-anos-despues-cuentas-pendientes-reconstruccion_100123142_102.html",
+     "fuente": "El Periódico de Aquí",
+     "resumen": "De las obras millonarias a los proyectos para prevenir nuevas inundaciones, la recuperación avanza mientras persisten dificultades económicas, secuelas emocionales e infraestructuras pendientes ...",
      "fecha": "2026-10-28T23:00:00+01:00",
      "fecha_txt": "28 oct"
     }
@@ -257,14 +257,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
-     "fuente": "EDATV News",
-     "resumen": "",
-     "fecha": "2026-10-29T10:32:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Mientras España avanza hacia el apagón del 3G, Movistar acaba de mejorar las condiciones de un grupo de clientes",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUxYNXdOT2xpaXNaNWVQdUZVQnZXTWVjd0l1YmRZRU9XaERCbzlaM2VXQWR5WWNLSFBiclQxblQ2emN0c1NlSFlBVDRHSkhxVFNQMG1WU3dTSmNKNEd4OVJKdGJXb2h0d3dkdnBuRk9BOEcwMVZJUC1yQkI3YU52WXNxZ1ZoRFUwY2o2MDV3c3FteVJKZ2UtV180SDZCUdIBowFBVV95cUxQNmRiSFQzT3puOU1Mc2gzZVVXTTU4a2FKZi1nQ2pyMGcwZFplUGRibUw1aGxZSE1IQUd3d3NDajBJM0FCSnNfOGhiTVp3TXF1RXV6YTh2eDlKNDcwSGZtTEliRHdTZFJxMUhDNTNENnMtWW8xUTRpOG1pSmlZZ0lqMVpUdXRBcmJ5blQtVjZLUGtxLW44V0U4Y0pnay1CV2czaERB?oc=5",
      "fuente": "Xataka Móvil",
@@ -287,6 +279,14 @@
      "resumen": "",
      "fecha": "2026-10-27T05:45:21+01:00",
      "fecha_txt": "27 oct"
+    },
+    {
+     "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFlFc05pbWZoRDR6SkswVjlHS0lsek8xdWtTM3dGRWZaSFlUc3AtV3dudm9JbWRhOEhtWk1PQ3lydlFMX0RuTUJNTk0yNHEtZTRCeWw2OWJLQkVXc2t4SkNaSXdncDdyMHhVR1B3NE5WaHBLaGtHWENIQWt1R1phSnR2c2RacnN4a3o2OFdjSHdaNUxjZE9LeEoyQ21lVmRtRWR3WDdZQmdDNEZfT1BFQ29PUWVyS3paOXRBUFAzYXhTTW1l0gHYAUFVX3lxTE9XVmw1blIzd0FNbUVQbWhZT3VjM1lUWjJHQUpRSlZBSUdHTDNRaXNQbVBHUGZHeUJHcFY5MFlPejEyTGYyQmZOZHBKdFFYRFBSbm95VzNKMEtBODVTZGZWcHRJbVlwYmtQMjByWVBwUnRRbTFuOExSUF9MbGhfOU1tVURGNDJEMjVPZUZqMVI0TlZ1U0N2TXN0MGVUczhjRUlHMGR3VmM0VjdTSjhpUGVNd3p3a0tZVWQ2OUtESUd0cWNQNFEwcmd3YXpqamF3bnoteERwdHhBdg?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-10-26T11:16:35+01:00",
+     "fecha_txt": "26 oct"
     }
    ]
   }
