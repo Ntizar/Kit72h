@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-30T13:10:40+01:00",
+  "actualizado": "2026-10-30T16:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -13,10 +13,10 @@
    "items": [
     {
      "titulo": "Comida para 7 días y provisiones: el llamado desde Europa a Japón para que ciudadanos se preparen con kits de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVB6U2R6Nzl2N29sbFFyVVNyOHEycGJsZlc4VmttcmVOcWNiVFpVODF4TmNZUXJDT3dPeE1HeU54ODdwZEdaeTJNYXFYSWN0QUVIREVVUXVfdzdiMkRSZUFWLS1qamtEYlAyZzRoWnJ6WlNTc0daQ0t3VjlrcXVzMmtHNDcyQThZbTdYOTNZQjRJbkJmYzdYamVoOW0yWHFBMzZGb1Rzcmowd190MHJnZzFB0gGyAUFVX3lxTE5JUHpTZHo3OXY3b2xsUXJVU3I4cTJwYmxmVzhWa21yZU5xY2JUWlU4MXhOY1lRckNPd094TUd5Tng4N3BkR1p5Mk1hcVhJY3RBRUhERVVRdV93N2IyRFJlQVYtLWpqa0RiUDJnNGhacnpaU1NzR1pDS3dWOWtxdXMya0c0NzJBOFltN1g5M1lCNEluQmZjN1hqZWg5bTJYcUEzNkZvVHNyajB3X3QwcmdnMUE?oc=5",
+     "url": "https://www.t13.cl/noticia/mundo/llamado-europa-japon-para-ciudadanos-se-preparen-kits-emergencia-30-10-2026",
      "fuente": "Teletrece",
-     "resumen": "",
-     "fecha": "2026-10-30T11:13:00+01:00",
+     "resumen": "En el caso de los asiáticos, apunta a la posibilidad de sobrevivir al menos tres días sin ayuda externa por alguna catástrofe natural. En Europa estaría vinculado a la guerra en Ucrania.",
+     "fecha": "2026-10-30T01:13:00+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -91,36 +91,20 @@
      "fecha_txt": "30 oct"
     },
     {
+     "titulo": "Detenido un hombre como presunto autor del incendio forestal de Santa Elena en Jaén",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnlTaHY0UlRrb01BMXhSN0JlSXRHNHJ2a3l3S1M2Q2hBZU9Gd0h6aTN3c1JrTFgyejFLTGxRS01LQlJDbGU0VkhLSVJRUXBPbEtlUUxrbl9TaXZZWUYyZ0J0X1poOEtwSWczVmdCeUhELVFjYzd6MGtaaHMyWWpiYVdSUS1lc29MSXdrclZlUmswcF91ZVhGQWdDNUpGeGNnNzJaWWJZbzVnTHY2M09RM0cxWjMzM1ZqVHBV0gHAAUFVX3lxTE05MDc5U3lQal9jWWtSSlNRNWtxc3hLakxiY0hVaEtZZkRxT0g0WFowdjJkMFpZYWY1eUtDcmxLSDh6Nk92RDFHVDNnMjJraVNqLVNSQTNrd0dRRWJheVNiQXk2c2ZjdHpCSDNnTlRpN3VCdXRScEhLRm5YbkpKMHNYSktQRnppaXYxSTNwQkd3VEE1OUFlY2dROFdfUnQ2QjhacjZ4WHVyaWJSUFp3WlFyM0I3ZkM0WnZCU2JnRnhYNQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-10-30T11:01:51+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
      "titulo": "España cierra la campaña de incendios 2026 con el segundo peor año en lo que va de siglo",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQjlDc3puX0Jvd0NoWTJOX0VOZU5zeUVpOW5pNEJLbnJ4aWpIZ0FDQnNPUF92VFRnTlk4bU9IS3NwZGlZYmo0TUhCaGRYSktPY2RMZktvS3hBdF8zM3d0SjhXRzhqZ2lVVVg2Q3ZqdzRuaGtIbVpOZmtBaGpVUkthVWFGcGdFd0NhLTNoWHh5MTNaMFhXZE44S0tqLWFpby1QWXVlNHdlS29DUWxxTDdlT2s3bWxrOVdGX3VpemhSYk03ejVacmEySndQOEZvZzZpTFgzMmYxRdIB8gFBVV95cUxQYVlxOV9JOG1NOWtLdEFDNi1YQUdvUHhWeDNVMnE3NFoyOS1JT2ZwN2dwMmszYkVhMUh6R25EaXZ0X2lwMDlqX0tiT2w0X21lS3dPdWdVYmdkZjdLYzU2WXFJUEp1SWo4Y2RlZ1dIQlVCbk4xdHk3c2syZ2dQZ25VOV9sS2lldWlwMC1weDVETTYxNEx1Sk5xVDVaOVJQaHZZLVVXWi0yc294TlNDeG9LN2t2YTdmWWdMRjROUFJndlJvQlp2clhHTHp3Zl9fSU15VE1IZUR4YnoxdzJ6Nlplem8zTEtlWVh4NE9GQUdRRkIzZw?oc=5",
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-10-30T09:55:01+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Detenido un hombre como presunto autor del incendio forestal de Santa Elena en Jaén",
-     "url": "https://www.abc.es/espana/andalucia/jaen/detenido-hombre-presunto-autor-incendio-forestal-santa-20261030110150-nts.html",
-     "fuente": "ABC",
-     "resumen": "Agentes del Seprona de la Guardia Civil han determinado que unos trabajos de desbroce fueron la causa del fuego que motivó el desalojo de 190 personas ...",
-     "fecha": "2026-10-30T04:01:00+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "El BOPA publica el plan de acción contra incendios forestales, que movilizará 100 millones",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-bopa-publica-el-plan-de-acci%C3%B3n-contra-incendios-forestales-que-movilizar%C3%A1-100-millones/ar-AA2gpxuv",
-     "fuente": "Europa Press on MSN",
-     "resumen": "OVIEDO, 30 (EUROPA PRESS) El Boletín Oficial del Principado de Asturias (BOPA) ha publicado este viernes el Plan Anual de Prevención, Vigilancia y Extinción de Incendios Forestales para el próximo año ...",
-     "fecha": "2026-10-29T16:22:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RmdYQ3BLWFY1N2ZUcXFyblkta0tSMDQ2QU54Y0JacXZSY0tVSVJYcHFneDY2alhFOENYQTdYSDQybXBYa2xBTlMwUnhORHhoR201QUY2b2lKcW13Qk1hZzB0a1haUXdzUXV3OVFGN0JvakJGSEltUGZ5bw?oc=5",
-     "fuente": "Qué.es",
-     "resumen": "",
-     "fecha": "2026-10-29T16:00:00+01:00",
-     "fecha_txt": "29 oct"
     },
     {
      "titulo": "Copernicus confirma que 301.560 hectáreas se quemaron en España hasta el 28 de octubre",
@@ -144,6 +128,22 @@
      "fuente": "Europa Press on MSN",
      "resumen": "MADRID, 29 (EUROPA PRESS) España ha registrado un total de 301.560 hectáreas (ha) quemadas desde el 1 de enero hasta el 28 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
      "fecha": "2026-10-29T11:21:44+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-incendios-en-espa%C3%B1a-han-calcinado-casi-300000-hect%C3%A1reas-el-44-del-total-de-la-ue-en-2026/ar-AA2glSmi",
+     "fuente": "Diario Que! on MSN",
+     "resumen": "Los incendios en España calcinan casi 300.000 hectáreas en 2026, el 44% del total de la UE y casi el doble de su media histórica. La entrada Los incendios en España han calcinado casi 300.000 hectárea ...",
+     "fecha": "2026-10-29T10:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España concentra el 44 % de los incendios forestales de la Unión Europea en un año marcado por el cambio climático",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWp5UUNnSjJtaFlXVnp2U2tMYW94WUdBMDRvbVBTM0QwYXFGNG5ib05GOUxPTXdiZ1JCd1NPb0xIU040ZDVHclliYXo5S0NiSFlxalBKQmtTTjgxY0VfLWJFN1F1MFJuajI3VUVTZGFPMWx6RmhYc0hCdnBnMVdfQ0FiTmpmVHFRZklld25xNS0xVG82MnREbm00RklMVDRFWWlfWVNxMlA2dmtQUFNQUkttQWZqTXRGcHF6T2N4SURDUTE3aFFqR3RhQWRLTGJsRkJFN3lOOTlXaEZsblVj?oc=5",
+     "fuente": "Gizmodo en Español",
+     "resumen": "",
+     "fecha": "2026-10-29T09:15:44+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -178,14 +178,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "España despierta de luto por la tragedia ferroviaria en Urda, cuando se cumplen dos años de la DANA: \"Estaremos unidas para siempre\"",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNek9OVFdORmtXZVRsT3dPVlhsdkVBTXdHVmtQUC1mSlkwWWFob3JvSWFNRTJRMUMwYmpkT3EzeGV1OUUwdkZSNlJ2UFF0Yl9xRVozaEJDWkF6ZGphODVtZUR5TTh6UmVvZzkxbUlKNTZ0ZFNmOWM4b3E2MllMWXJNU3ljOHZ5S2lkdExubjJxOFF1VU4yeTVjMkpCY3ZTeGdjX1FVSDQtMS12RWRmYWF0TmpyclgwbXcwR1dER3BicnBDRFZJUndaMDBNbk13Sjl1OWNGS2lqdDNoNHFXaFpsb3RIX3oxLXFZN28tSzJvYWFtU0Y0Y0owdmJMd3FMeFVpTVBWVnRtTVpFaUNLYnfSAY4CQVVfeXFMTmJkQkk1MHZ1cUd0RF9lSEkyUkZjcjNYaWxKMndKY1BIX0NWYUV0OV9KOGFveHJlOVMtRXRua1l0cE5LZVZqUW5OZklwMVF3U0VoLWQzT0ZfLWZDcTdXT3JVOFhoYjZ4dXFhT3M4aVh5WnZNMjN1S1ozb2t5ZmZXNXFQSUdwUDV6UF9sckVac0JzYW9EdUNTaG15dnJhTDlIcFRtemtvSGhFbHBLeFp0d2E5TWFTYU9scDRFOU9BT3RfeS10N1hWeDR0N0dYdFNmUEVxUThiMTlxbjBKeFNRVXBZSlFtOUkzNXJ3N1ZWTkg5OVhydV82b01XWURQSXRRNnlPS01ERHVSbGpwdXd3?oc=5",
-     "fuente": "Antena 3 Noticias",
-     "resumen": "",
-     "fecha": "2026-10-29T08:12:26+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
      "fuente": "Vozpopuli",
@@ -216,6 +208,14 @@
      "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
      "fecha": "2026-10-28T23:00:00+01:00",
      "fecha_txt": "28 oct"
+    },
+    {
+     "titulo": "La dana, dos años después: las cuentas pendientes de la reconstrucción",
+     "url": "https://www.elperiodicodeaqui.com/valencia/horta/dana-dos-anos-despues-cuentas-pendientes-reconstruccion_100123142_102.html",
+     "fuente": "El Periódico de Aquí",
+     "resumen": "De las obras millonarias a los proyectos para prevenir nuevas inundaciones, la recuperación avanza mientras persisten dificultades económicas, secuelas emocionales e infraestructuras pendientes ...",
+     "fecha": "2026-10-28T23:00:00+01:00",
+     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -238,6 +238,14 @@
      "fuente": "La Razón on MSN",
      "resumen": "Tras el apagón sucedido el lunes 28 de abril de 2025 que todos los españoles recuerdan, el sistema eléctrico genera cada vez más dudas entre los escépticos ...",
      "fecha": "2026-10-30T03:54:58+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
+     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
+     "fuente": "Periodista Digital",
+     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
+     "fecha": "2026-10-30T02:44:00+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-10-29T09:07:00+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Borja, ingeniero con 10 años de experiencia: \"Con una batería de menos de 500 € me puedo desconectar de la red eléctrica\"",
-     "url": "https://www.3djuegos.com/tecnologia/noticias/borja-ingeniero-10-anos-experiencia-bateria-500-eur-me-puedo-desconectar-red-electrica",
-     "fuente": "3DJuegos",
-     "resumen": "Se nos ha olvidado pronto cómo ese día de abril de 2025, España se quedó completamente a oscuras por el apagón. Acordándose de aquello, y de la posibilidad ...",
-     "fecha": "2026-10-27T18:00:00+01:00",
-     "fecha_txt": "27 oct"
     }
    ]
   }
