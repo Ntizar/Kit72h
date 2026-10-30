@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-29T22:10:41+01:00",
+  "actualizado": "2026-10-30T01:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,19 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿Una guerra o una crisis global? Por qué varios países recomiendan tener reservas en casa",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQl8xSlBSbldoNHZRTkxpUnJwdlFBUEdHT05VelA5WXFHT0VnSHI0OGRfcGVaM242RENod2FjSW9YX2kwNUhqRUR4QXVtSVllYUkxRGN0QUw0V0dra2pMS2RNMGJMRzc0cF96VHRRcG5rZFU1eTZ1aW9VRmFvck5GNFJxY2I5UEttbUY3bk5uc28xSlJURWVOX19DUEpYc3R2WG8yY1dLa3czWWgtZDJwMTBaT3gtalowZzFiR9IB0AFBVV95cUxPWVpMREtMa2xwM2JEWXB5RWE0TGFaRC1jcjY1TXgxd1U5ekQ0T0ZjMGkxYnpPVTV2M3YzMlVmOHBtZXNKczV1X25hWHJ6OWp2RUg0VjFId1RzVkEwbUZvVHlsODJTX19MV2I2U1U1eFBsalJDZkFsbTJvXzExWlZvZnltaEZqOXFET0hlZ3pMZThJUzJmTWhnTU0xNk1oMkNySjlxUGJMTmpOY25oU2JxTTdnQ0VpbGhwTTlQbG0wZFZxaC1ScnNFOWtEUHNaXy1f?oc=5",
+     "fuente": "ViveUSA.mx",
+     "resumen": "",
+     "fecha": "2026-10-29T21:32:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "¿Por qué Japón, Reino Unido y otros países piden almacenar agua y comida?",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcG9zbjh0QURwNk96dzFTVnAzdzVLZURMU19EOElrRGwwcHhteHhVcFdINktGRE03YndDclhVVVVYU2JsYVNad3lMMEpqQ3N1MkczVWZjdGx4a29PV2pTdkdvLVUydmdJMWRlRmVWeF9RWGt0ZlVKaENUSDJPZzE2bzBLNU9WV3RLU0RSS0J0bDUwN0FkdFlheDJsNXdCZklYSVpGQVZUTWdVTW1SaUdSMVRSS1A3aWxvOW8yRUZGRjVOcVppcURBUmV3Zml1dHVkUDlyZ1ltcFZQMEFnT3ZiVTlLRjRzU05PalRkMnRSc25YblpRcWRpeWt6WmIxaXB6SkFycEVhWXhlQQ?oc=5",
      "fuente": "El Universal",
      "resumen": "",
-     "fecha": "2026-10-29T19:20:00+01:00",
+     "fecha": "2026-10-29T19:14:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -28,19 +36,19 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "¿Se acerca una Tercera Guerra Mundial? Japón, Reino Unido y otros países piden almacenar agua y suministros; esto hay detrás de las alertas",
-     "url": "https://www.msn.com/es-mx/noticias/otras/se-acerca-una-tercera-guerra-mundial-jap%C3%B3n-reino-unido-y-otros-pa%C3%ADses-piden-almacenar-agua-y-suministros-esto-hay-detr%C3%A1s-de-las-alertas/ar-AA2glR8A",
-     "fuente": "El Universal on MSN",
-     "resumen": "Las recomendaciones han despertado dudas entre la población ...",
-     "fecha": "2026-10-29T12:14:34+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVkQ3cVBheEw0cVloanVjRW9XS3FsMklLZFJ0ZERMeUk4Sk5JTWFHeC1WOE1oZHZ5VUJqZ29XMDBwdFFTMDZMRHJhNEtHUmg5VFAzOWJzbUE3cHZqRmVGN3ZrZkJzQW9pb1lKTU9oYVUydw?oc=5",
      "fuente": "El Canal de las Noticias",
      "resumen": "",
      "fecha": "2026-10-29T09:20:48+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Gobiernos piden a sus habitantes tener provisiones ante contingencias",
+     "url": "https://unomasuno.com.mx/mundo/gobiernos-piden-a-sus-habitantes-tener-provisiones-ante-contingencias/",
+     "fuente": "unomasuno",
+     "resumen": "Estados Unidos, Reino Unido, Francia y otras naciones han reforzado sus recomendaciones de preparación ante posibles emergencias, con indicaciones para almacenar alimentos, agua, medicamentos y ...",
+     "fecha": "2026-10-29T05:07:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-29T00:00:00+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
-     "fuente": "Excélsior",
-     "resumen": "",
-     "fecha": "2026-10-28T23:08:35+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -194,14 +194,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Las inundaciones de la dana de 2024 dispararon la contaminación fecal en l'Albufera con efectos 6 meses después",
-     "url": "https://www.europapress.es/comunitat-valenciana/noticia-inundaciones-dana-2024-dispararon-contaminacion-fecal-lalbufera-efectos-meses-despues-20261029135805.html",
-     "fuente": "Europa Press",
-     "resumen": "Las inundaciones provocadas por la dana del 29 de octubre de 2024 dejaron una huella ambiental en l'Albufera y sus alrededores: aunque la situación mejoró con el tiempo, seis meses después seguían ...",
-     "fecha": "2026-10-29T07:57:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
      "fuente": "Vozpopuli",
@@ -210,11 +202,19 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Sarai y Carlos perdieron casi todo a causa de la dana en España. Sus fotos todavía podían salvarse",
-     "url": "https://www.msn.com/es-us/noticias/otras/sarai-y-carlos-perdieron-casi-todo-a-causa-de-la-dana-en-espa%C3%B1a-sus-fotos-todav%C3%ADa-pod%C3%ADan-salvarse/ar-AA2gkigE",
-     "fuente": "CNN (Español) on MSN",
-     "resumen": "Sarai y Carlos perdieron su casa en la dana que arrasó parte de Valencia. Gracias a Salvem les Fotos, pudieron recuperar sus fotografías familiares.",
-     "fecha": "2026-10-29T04:00:16+01:00",
+     "titulo": "Las 'catástrofes' que ha sufrido Urda, Toledo, en los últimos meses: inundaciones, incendios y el accidente ferroviario",
+     "url": "https://www.telecinco.es/noticias/sociedad/20261029/catastrofes-urda-toledo-inundaciones-incendios-accidente-ferroviario_18_020568270.html",
+     "fuente": "Telecinco",
+     "resumen": "La localidad toledana de Urda ha sido el escenario de la actualidad en España en las últimas horas. A las 08:54 horas de este pasado miércoles, un A ...",
+     "fecha": "2026-10-29T03:55:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Comunicado: Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
+     "url": "https://www.msn.com/es-es/noticias/otras/comunicado-dos-a%C3%B1os-despu%C3%A9s-de-la-dana-y-tras-la-tormenta-adam-qu%C3%A9-cubre-el-seguro-del-coche-ante-una-inundaci%C3%B3n/ar-AA2gjUr8",
+     "fuente": "Europa Press on MSN",
+     "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
+     "fecha": "2026-10-29T03:34:10+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Red Eléctrica frena el mantenimiento de 100 centrales",
+     "url": "https://ecosistemastartup.com/red-electrica-frena-el-mantenimiento-de-100-centrales/",
+     "fuente": "ecosistemastartup",
+     "resumen": "Red Eléctrica rechaza el calendario de mantenimiento de más de 100 centrales Red Eléctrica (REE) ha mostrado su no conformidad con los ...",
+     "fecha": "2026-10-29T12:27:00+01:00",
+     "fecha_txt": "29 oct"
+    },
     {
      "titulo": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
      "url": "https://www.xataka.com/energia/red-electrica-esta-pidiendo-a-sus-centrales-electricas-que-no-se-apaguen-para-hacer-mantenimiento-senal-tensionado-que-esta-sistema",
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-10-26T11:16:35+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGxWT1BZbElrV1ZTMzhwSHZyOVdkZEFzS042M1J2U2Jka1IwU3psbmJYRGpMZmZlZVhaVDg5WjAyQ3lvY1luc0J6NS1fU0diY2s1RjZtS2NiRFcwbldLZWdrUFFhS29EN2tJUUU0U3N6ZXhxbUp2Ym84WGt5SGgzb1NubllpdENYYzhGYmgtRTYyNlNjRzRJZTFncEdYQ1FKZzdPYUQxd19EXzNGSExIb2gtOFA2Wkw1SHZab2NSUEcycGNMOERmRk5fTzNVZ1A5OVE5aXA4NA?oc=5",
-     "fuente": "Gizmodo en Español",
-     "resumen": "",
-     "fecha": "2026-10-25T10:00:58+01:00",
-     "fecha_txt": "25 oct"
     }
    ]
   }
