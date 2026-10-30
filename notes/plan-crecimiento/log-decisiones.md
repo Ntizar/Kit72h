@@ -37,3 +37,4 @@
 | 2026-10-27 | mejor-arrancador-bateria-coche | comparativa | encolado | 5 modelos, 900+ palabras, 3 fuentes, 6 internos, ticket alto P2 |
 | 2026-10-28 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno trabajando automáticamente |
 | 2026-10-29 | mejor-arrancador-bateria-coche | comparativa | encolado | 5 modelos, 900+ palabras, 3 fuentes, 6 internos, ticket alto P2 — _entrada.json listo para publicador |
+| 2026-10-30 | como-montar-tu-kit-72h | revamp | encolado | Revamp stub 312w a 1200w+, 7 pasos, 2 fuentes oficiales (UE+Proteccion Civil), 19 internos, sin afiliados directos |
