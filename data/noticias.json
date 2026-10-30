@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-30T16:10:41+01:00",
+  "actualizado": "2026-10-30T19:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Marc Vidal, inversor: \"Que Europa esté pidiendo prepararse para horas sin luz ni agua es una confesión, te están diciendo que no puede garantizarte el suministro en varias horas\"",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbzlsbTBuUENHQVdRQ2Rqd3pYaUdTa21mdy1BODNLMDVtdXVvTmQtMjRZci1vNGlNY2xvS3BBS0Q4dUhUQm1BSnNuUjR3bTZTNDBrcVdja2ZfOUFnaWtXQkdESTJQdDlxSk4wWURYV3c5T1J4ajJzSVZLRXl6UlJLVm9Fem5lMURwejZ3R2l2clA4dmZfVFFqelI2UjJMdHFpa09ydUxDY1J2SVhsWHB2eEdNZGl4OTZkTUd1eG42TzlrSXl4dVFkSURwTm12blJLdThhZDZvTGZjcEQ1TkxWT09FWUNkcGlBcDhJT29KSHpINnltcEdaZGo4Y3F0eV9aS1BVWXRmRzZUbjctOVNkN2pWcWM1WEVIeE13VVFwVE1sMGhLSDZvajhhMzBsX2t5UjRkTF9uUEFKNncy0gG8AkFVX3lxTE9vOWxtMG5QQ0dBV1FDZGp3elhpR1NrbWZ3LUE4M0swNW11dW9OZC0yNFlyLW80aU1jbG9LcEFLRDh1SFRCbUFKc25SNHdtNlM0MGtxV2NrZl85QWdpa1dCR0RJMlB0OXFKTjBZRFhXdzlPUnhqMnNJVktFeXpSUktWb0V6bmUxRHB6NndHaXZyUDh2Zl9UUWp6UjZSMkx0cWlrT3J1TENjUnZJWGxYcHZ4R01kaXg5NmRNR3V4bjZPOWtJeXh1UWRJRHBObXZuUkt1OGFkNm9MZmNwRDVOTFZPT0VZQ2RwaUFwOElPb0pIekg2eW1wR1pkajhjcXR5X1pLUFVZdGZHNlRuNy05U2Q3alZxYzVYRUh4TXdVUXBUTWwwaEtINm9qOGEzMGxfa3lSNGRMX25QQUo2dzI?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-10-30T11:22:08+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "¿Prepararse para una emergencia o una crisis mundial? Países piden almacenar agua y alimentos",
+     "url": "https://billieparkernoticias.com/prepararse-para-una-emergencia-o-una-crisis-mundial-paises-piden-almacenar-agua-y-alimentos/",
+     "fuente": "billieparkernoticias.com",
+     "resumen": "* 30.10.2026.- Las recomendaciones de gobiernos de Europa y Estados Unidos para que la población tenga en sus domicilios reservas de agua potable y alimentos ...",
+     "fecha": "2026-10-30T03:21:00+01:00",
+     "fecha_txt": "30 oct"
+    },
     {
      "titulo": "Comida para 7 días y provisiones: el llamado desde Europa a Japón para que ciudadanos se preparen con kits de emergencia",
      "url": "https://www.t13.cl/noticia/mundo/llamado-europa-japon-para-ciudadanos-se-preparen-kits-emergencia-30-10-2026",
@@ -44,14 +60,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "¿Qué países recomiendan almacenar agua y alimentos ante posibles emergencias y por qué?",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFNTRFAyblA2MVZ1bERRbU1SV1VqekE0blZJMFVRaFpoQ0MyOE1iOFR3Nk9VdVdZNUpoRUFCS3dXX3JaQzhCUXk3dmpodDAzRGwtTF9jc3psZGpzMXZNRmVrOVFSbDNQYWcydk9hRWlxMXpCei1ubWg4NVZBY0JQRGFLN1kweVgyVmZkT1VlaVo3RzFHN1VBXy1ycGx0TEFaTmEtY1dJbnZYTFBwOHRLZXdfOGwxbFE2ZzQ3WUdiaE5Fdw?oc=5",
-     "fuente": "oncenoticias.hn",
-     "resumen": "",
-     "fecha": "2026-10-29T03:16:03+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
      "url": "https://canal44.com/japon-alerta-emergencia-guardar-agua-comida/",
      "fuente": "Canal 44",
@@ -65,14 +73,6 @@
      "fuente": "sipse.com",
      "resumen": "",
      "fecha": "2026-10-29T01:13:01+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Japón lanza convocatoria nacional para reforzar reservas ante desastres naturales",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkhTaTBodFd3TFlPc3AwM04yc3ZRWVN3al9BcjZBNTAxZzhOLXE1VEVkbDZxalBLTXRwbkFSSmluZzh3a2NoS0N6Yk9jNWNNYzBYZHdERmdIZE1SOHJkYUxVdExDRWwtMm1nNmZpb3RiMzU4eFV0Zm1hTHpnVzhsSWRLQzdCOW1fYnZHZUM3XzVUY3Nl0gGaAUFVX3lxTE41RG5uY2JRZ1NPZkxMMnFHVVJfUXJTOGFsWjM0NnhyS3FqTFJMWWVZWVdNV2tFajlzbFZtR01xU2lRdWRhdE1SbTQ4MXVVSlJEZEdpRnRmcG9haF9GX0ZMWGZ1dWlocWdEYTFGQUk0S3Q1aERaMjVPZFV2X1lWaUxfN0hfaU1qU0dtWnlTWXpxR1NpWFBWTEVYN0E?oc=5",
-     "fuente": "Diario Presente",
-     "resumen": "",
-     "fecha": "2026-10-29T00:00:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -107,6 +107,22 @@
      "fecha_txt": "30 oct"
     },
     {
+     "titulo": "Castilla y León prolonga la época de peligro medio de incendios forestales hasta el 9 de noviembre",
+     "url": "https://www.abc.es/espana/castilla-leon/castilla-leon-prolonga-epoca-peligro-medio-incendios-20261030093515-nt.html",
+     "fuente": "ABC",
+     "resumen": "La medida responde a las temperaturas superiores a las habituales para esta época, la escasa probabilidad de precipitaciones y la persistencia de la sequía ...",
+     "fecha": "2026-10-30T02:38:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RmdYQ3BLWFY1N2ZUcXFyblkta0tSMDQ2QU54Y0JacXZSY0tVSVJYcHFneDY2alhFOENYQTdYSDQybXBYa2xBTlMwUnhORHhoR201QUY2b2lKcW13Qk1hZzB0a1haUXdzUXV3OVFGN0JvakJGSEltUGZ5bw?oc=5",
+     "fuente": "Qué.es",
+     "resumen": "",
+     "fecha": "2026-10-29T16:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Copernicus confirma que 301.560 hectáreas se quemaron en España hasta el 28 de octubre",
      "url": "https://www.msn.com/es-es/noticias/otras/copernicus-confirma-que-301560-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-28-de-octubre/ar-AA2gmjFf",
      "fuente": "Público on MSN",
@@ -129,22 +145,6 @@
      "resumen": "MADRID, 29 (EUROPA PRESS) España ha registrado un total de 301.560 hectáreas (ha) quemadas desde el 1 de enero hasta el 28 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
      "fecha": "2026-10-29T11:21:44+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
-     "url": "https://www.msn.com/es-es/noticias/otras/los-incendios-en-espa%C3%B1a-han-calcinado-casi-300000-hect%C3%A1reas-el-44-del-total-de-la-ue-en-2026/ar-AA2glSmi",
-     "fuente": "Diario Que! on MSN",
-     "resumen": "Los incendios en España calcinan casi 300.000 hectáreas en 2026, el 44% del total de la UE y casi el doble de su media histórica. La entrada Los incendios en España han calcinado casi 300.000 hectárea ...",
-     "fecha": "2026-10-29T10:00:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "España concentra el 44 % de los incendios forestales de la Unión Europea en un año marcado por el cambio climático",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYWp5UUNnSjJtaFlXVnp2U2tMYW94WUdBMDRvbVBTM0QwYXFGNG5ib05GOUxPTXdiZ1JCd1NPb0xIU040ZDVHclliYXo5S0NiSFlxalBKQmtTTjgxY0VfLWJFN1F1MFJuajI3VUVTZGFPMWx6RmhYc0hCdnBnMVdfQ0FiTmpmVHFRZklld25xNS0xVG82MnREbm00RklMVDRFWWlfWVNxMlA2dmtQUFNQUkttQWZqTXRGcHF6T2N4SURDUTE3aFFqR3RhQWRLTGJsRkJFN3lOOTlXaEZsblVj?oc=5",
-     "fuente": "Gizmodo en Español",
-     "resumen": "",
-     "fecha": "2026-10-29T09:15:44+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Elevan a 234 las víctimas mortales por la dana en Valencia tras incluir a un vecino de Paiporta",
+     "url": "https://www.abc.es/espana/comunidad-valenciana/elevan-234-victimas-mortales-dana-tras-incluir-20261030163635-nt.html",
+     "fuente": "ABC",
+     "resumen": "El fallecimiento se produjo casi dos meses después de la inundación a consecuencia de una infección bacteriana ...",
+     "fecha": "2026-10-30T09:36:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "La jueza eleva a 234 las víctimas mortales oficiales de la DANA de 2024",
+     "url": "https://actualidadvalencia.com/victimas-mortales-dana-2024-jueza-catarroja/",
+     "fuente": "actualidadvalencia",
+     "resumen": "La magistrada que investiga la gestión de la DANA del 29 de octubre de 2024 ha actualizado el balance oficial a 234 fallecidos, al incorporar un nuevo caso en Paiporta.",
+     "fecha": "2026-10-30T08:39:00+01:00",
+     "fecha_txt": "30 oct"
+    },
     {
      "titulo": "España vive una jornada de luto y problemas en el transporte mientras Valencia recuerda la dana",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzFrbzYxOURYODFGaUtBQ3MxdFM2QUI3Zk1HSDJwcHJnWjJTRmZNdlJyS0s2SklleWNPSlVGRzZiLTllQ0RyalNHRm03aEVEV0RJcmJQZ3NwbUo5Zkw4YjlBWUp4OHhIblRNQTdmSVVfX3NKclFfZFJPZk8xWDJkMk8wcmlmbl96d2EzM0RELXpxRkpMblJwT3E0UTk4bDl5eGRjYg?oc=5",
@@ -200,22 +216,6 @@
      "resumen": "Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de Seguros, cuáles ...",
      "fecha": "2026-10-29T03:34:00+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Dos años después de la dana: la reconstrucción pendiente en Valencia está en los comercios y los barrancos",
-     "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-29/dos-anos-dana-reconstruccion-comercios-barrancos_4454694/",
-     "fuente": "El Confidencial",
-     "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
-     "fecha": "2026-10-28T23:00:00+01:00",
-     "fecha_txt": "28 oct"
-    },
-    {
-     "titulo": "La dana, dos años después: las cuentas pendientes de la reconstrucción",
-     "url": "https://www.elperiodicodeaqui.com/valencia/horta/dana-dos-anos-despues-cuentas-pendientes-reconstruccion_100123142_102.html",
-     "fuente": "El Periódico de Aquí",
-     "resumen": "De las obras millonarias a los proyectos para prevenir nuevas inundaciones, la recuperación avanza mientras persisten dificultades económicas, secuelas emocionales e infraestructuras pendientes ...",
-     "fecha": "2026-10-28T23:00:00+01:00",
-     "fecha_txt": "28 oct"
     }
    ]
   },
