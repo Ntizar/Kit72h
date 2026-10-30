@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-30T01:10:40+01:00",
+  "actualizado": "2026-10-30T04:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -36,14 +36,6 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVkQ3cVBheEw0cVloanVjRW9XS3FsMklLZFJ0ZERMeUk4Sk5JTWFHeC1WOE1oZHZ5VUJqZ29XMDBwdFFTMDZMRHJhNEtHUmg5VFAzOWJzbUE3cHZqRmVGN3ZrZkJzQW9pb1lKTU9oYVUydw?oc=5",
-     "fuente": "El Canal de las Noticias",
-     "resumen": "",
-     "fecha": "2026-10-29T09:20:48+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "Gobiernos piden a sus habitantes tener provisiones ante contingencias",
      "url": "https://unomasuno.com.mx/mundo/gobiernos-piden-a-sus-habitantes-tener-provisiones-ante-contingencias/",
      "fuente": "unomasuno",
@@ -52,11 +44,11 @@
      "fecha_txt": "29 oct"
     },
     {
-     "titulo": "¿Qué países recomiendan almacenar agua y alimentos ante posibles emergencias y por qué?",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFNTRFAyblA2MVZ1bERRbU1SV1VqekE0blZJMFVRaFpoQ0MyOE1iOFR3Nk9VdVdZNUpoRUFCS3dXX3JaQzhCUXk3dmpodDAzRGwtTF9jc3psZGpzMXZNRmVrOVFSbDNQYWcydk9hRWlxMXpCei1ubWg4NVZBY0JQRGFLN1kweVgyVmZkT1VlaVo3RzFHN1VBXy1ycGx0TEFaTmEtY1dJbnZYTFBwOHRLZXdfOGwxbFE2ZzQ3WUdiaE5Fdw?oc=5",
-     "fuente": "oncenoticias.hn",
-     "resumen": "",
-     "fecha": "2026-10-29T03:16:03+01:00",
+     "titulo": "Japón emite alerta de emergencia nacional y pide a la población almacenar agua y alimentos de inmediato",
+     "url": "https://canal44.com/japon-alerta-emergencia-guardar-agua-comida/",
+     "fuente": "Canal 44",
+     "resumen": "Japón recomienda almacenar agua, alimentos y artículos sanitarios para enfrentar al menos tres días sin servicios básicos ante un posible desastre natural.",
+     "fecha": "2026-10-29T02:14:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-10-29T00:00:00+01:00",
      "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
+     "fuente": "Excélsior",
+     "resumen": "",
+     "fecha": "2026-10-28T23:08:35+01:00",
+     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -154,14 +154,6 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Las inundaciones de Ibiza y el negacionismo climático de Vox",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUV3b1QxLUxJOUNIYnhKdzlVOVRiajJsenpUUEVuVDc3YS1zVjE0RXBkMTd6VWpzT0Q1U2xhTGdVeXdvdUpNM0ZSTmFuMUwtdHh6Q0NTNzFoSWI0R0Z6cUp1OXlacmRnTTNtTTVJRkxqcHo1X3ZPVG9lTkVSOEc3bWQ3U2R0RFZxYXY1V2J3?oc=5",
-     "fuente": "Ara Balears",
-     "resumen": "",
-     "fecha": "2026-10-29T21:00:46+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
      "titulo": "España vive una jornada de luto y problemas en el transporte mientras Valencia recuerda la dana",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzFrbzYxOURYODFGaUtBQ3MxdFM2QUI3Zk1HSDJwcHJnWjJTRmZNdlJyS0s2SklleWNPSlVGRzZiLTllQ0RyalNHRm03aEVEV0RJcmJQZ3NwbUo5Zkw4YjlBWUp4OHhIblRNQTdmSVVfX3NKclFfZFJPZk8xWDJkMk8wcmlmbl96d2EzM0RELXpxRkpMblJwT3E0UTk4bDl5eGRjYg?oc=5",
      "fuente": "La Noción",
@@ -183,14 +175,6 @@
      "fuente": "Levante-EMV",
      "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
      "fecha": "2026-10-29T12:30:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Del siglo XIX a la DANA de 2024: la historia de las grandes inundaciones del Mediterráneo y por qué preocupan más ahora",
-     "url": "https://www.msn.com/es-es/noticias/otras/del-siglo-xix-a-la-dana-de-2024-la-historia-de-las-grandes-inundaciones-del-mediterr%C3%A1neo-y-por-qu%C3%A9-preocupan-m%C3%A1s-ahora/ar-AA2glr0g",
-     "fuente": "Meteored on MSN",
-     "resumen": "Las inundaciones han marcado durante siglos la historia de las regiones mediterráneas, pero el calentamiento global, las lluvias más intensas y la ocupación del territorio agravan sus impactos. Las in ...",
-     "fecha": "2026-10-29T08:15:28+01:00",
      "fecha_txt": "29 oct"
     },
     {
@@ -216,6 +200,22 @@
      "resumen": "(Información remitida por la empresa firmante) Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el ...",
      "fecha": "2026-10-29T03:34:10+01:00",
      "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Dos años después de la DANA y tras la tormenta Adam; qué cubre el seguro del coche ante una inundación",
+     "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-dos-anos-despues-dana-tormenta-adam-cubre-seguro-coche-inundacion-20261029093410.html",
+     "fuente": "Europa Press",
+     "resumen": "Madrid, 29 de octubre de 2026.- La nueva DANA de octubre ya acumula más de 6.500 solicitudes de indemnización. Allianz Direct explica qué daños asume el Consorcio de Compensación de Seguros, cuáles ...",
+     "fecha": "2026-10-29T03:34:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Dos años después de la dana: la reconstrucción pendiente en Valencia está en los comercios y los barrancos",
+     "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-10-29/dos-anos-dana-reconstruccion-comercios-barrancos_4454694/",
+     "fuente": "El Confidencial",
+     "resumen": "Carreteras y el grueso de las infraestructuras han recuperado su actividad, pero las grandes obras para reducir el riesgo de inundación siguen en ejecución. El comercio y las pymes afrontan un horizon ...",
+     "fecha": "2026-10-28T23:00:00+01:00",
+     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Óscar Puente, los trenes y la degradación de España",
+     "url": "https://www.msn.com/es-es/noticias/otras/%C3%B3scar-puente-los-trenes-y-la-degradaci%C3%B3n-de-espa%C3%B1a/ar-AA2gnfm7",
+     "fuente": "EL MUNDO on MSN",
+     "resumen": "Asistimos a un proceso de tercermundización en el que casi nada funciona como debería y no se asumen responsabilidades. Tragedias ferroviarias, apagón, vivienda, corrupción, Ceuta, Dana... ¿se está de ...",
+     "fecha": "2026-10-29T19:54:11+01:00",
+     "fecha_txt": "29 oct"
+    },
     {
      "titulo": "Red Eléctrica frena el mantenimiento de 100 centrales",
      "url": "https://ecosistemastartup.com/red-electrica-frena-el-mantenimiento-de-100-centrales/",
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-10-27T05:45:21+01:00",
      "fecha_txt": "27 oct"
-    },
-    {
-     "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFlFc05pbWZoRDR6SkswVjlHS0lsek8xdWtTM3dGRWZaSFlUc3AtV3dudm9JbWRhOEhtWk1PQ3lydlFMX0RuTUJNTk0yNHEtZTRCeWw2OWJLQkVXc2t4SkNaSXdncDdyMHhVR1B3NE5WaHBLaGtHWENIQWt1R1phSnR2c2RacnN4a3o2OFdjSHdaNUxjZE9LeEoyQ21lVmRtRWR3WDdZQmdDNEZfT1BFQ29PUWVyS3paOXRBUFAzYXhTTW1l0gHYAUFVX3lxTE9XVmw1blIzd0FNbUVQbWhZT3VjM1lUWjJHQUpRSlZBSUdHTDNRaXNQbVBHUGZHeUJHcFY5MFlPejEyTGYyQmZOZHBKdFFYRFBSbm95VzNKMEtBODVTZGZWcHRJbVlwYmtQMjByWVBwUnRRbTFuOExSUF9MbGhfOU1tVURGNDJEMjVPZUZqMVI0TlZ1U0N2TXN0MGVUczhjRUlHMGR3VmM0VjdTSjhpUGVNd3p3a0tZVWQ2OUtESUd0cWNQNFEwcmd3YXpqamF3bnoteERwdHhBdg?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-10-26T11:16:35+01:00",
-     "fecha_txt": "26 oct"
     }
    ]
   }
