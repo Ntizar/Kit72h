@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-31T16:10:41+01:00",
+  "actualizado": "2026-10-31T19:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,28 +12,28 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Japón anuncia un llamado de emergencia para el 2 de noviembre: ¿por qué pide almacenar provisiones para siete días?",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQei02azdZN1NaeE9SMXJsZjgxc1V4dzhueVVDZ21Vc0NIcHg2QkNSQ0w2T1VwWTlyUlhqVUdKUUFXZTM4blJLaTdheWVIOFptSGUyNEtjYVVQWkg5ak9BX21xRGoyX0xadDdUcm1vMEVxNkdtZ1VxRVdSNHF5OU5mX1JWbnV0aUVULXoxc1pBQlZOMkphSXdCTy1wT2VrdnpCbVhxTE51b2hOWW1LVGtWRERLRTdnMmZoOEJMZWZhQXE4RDdRY2o4?oc=5",
-     "fuente": "DSN Noticias",
+     "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
+     "fuente": "Pasquale Pillitteri",
      "resumen": "",
-     "fecha": "2026-10-31T15:31:20+01:00",
+     "fecha": "2026-10-31T08:52:58+01:00",
      "fecha_txt": "31 oct"
     },
     {
-     "titulo": "Por qué Europa, Japón y otros países piden a sus habitantes prepararse para una crisis",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMng5aTVDdGNUc2lrMk03ZXZUeUJIZERZVnFlZHVhMm5nMUtnM2N6d1hSYnFKdWpUYzMtRGJPRHdUamRiaUhlYXlNb2dpTXJzTDJKR1F0WUFwNzJOb3VNR0tVVk5mamdwUHZZZWw0UWFsc2pvV25qazYwSmxldURCQTdjNnB5aXRxV01GcXdTWmlNUUZVUGU0VkxwcDdxLWNGXzE3Yl9NWlFoVzFvaGt5YTM2Vi1aRWFiR2ZaanhUVEZIZw?oc=5",
-     "fuente": "VirasoroVirtual",
-     "resumen": "",
-     "fecha": "2026-10-31T13:47:48+01:00",
+     "titulo": "Japón anuncia un llamado de emergencia para el 2 de noviembre: ¿por qué pide almacenar provisiones para siete días?",
+     "url": "https://dsn.pe/japon-anuncia-un-llamado-de-emergencia-para-el-2-de-noviembre-por-que-pide-almacenar-provisiones-para-siete-dias/",
+     "fuente": "dsn",
+     "resumen": "El Gobierno de Japón emitirá este lunes 2 de noviembre de 2026 una solicitud de emergencia dirigida a toda su población, en la que pedirá reforzar las ...",
+     "fecha": "2026-10-31T08:29:00+01:00",
      "fecha_txt": "31 oct"
     },
     {
      "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXhwZHNVRFl6OWVCUXlKTzFPcVhhbC1CMkdubF9RdnMzSUJxMnJxSXhsbW14LTUtUENWUV94LXNBVHp6RHZyUWdUdnpoSnpDWVdmM3hvaEJpQm5waEd2V1Q2UG5RbVA0ME1ZRGJ4OFp4WTlsS1J3LUZMdHNSWnF2VkdsNkM?oc=5",
-     "fuente": "Grupo Animal",
-     "resumen": "",
-     "fecha": "2026-10-31T12:01:38+01:00",
-     "fecha_txt": "31 oct"
+     "url": "https://grupoanimal.mx/explicaciones/gobiernos-paises-almacenar-agua-alimentos",
+     "fuente": "grupoanimal",
+     "resumen": "Gobiernos de distintos países han reforzado sus recomendaciones para que la población tenga agua y alimentos ante posibles emergencias. Aunque esto ha generado teorías conspirativas, las medidas son p ...",
+     "fecha": "2026-10-30T23:00:00+01:00",
+     "fecha_txt": "30 oct"
     },
     {
      "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
@@ -162,20 +162,12 @@
      "fecha_txt": "31 oct"
     },
     {
-     "titulo": "La jueza eleva a 234 las víctimas oficiales de la DANA al sumar un muerto por infección en Paiporta",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-jueza-eleva-a-234-las-v%C3%ADctimas-oficiales-de-la-dana-al-sumar-un-muerto-por-infecci%C3%B3n-en-paiporta/ar-AA2gtbji",
-     "fuente": "Moncloa on MSN",
-     "resumen": "La jueza de Catarroja eleva a 234 las víctimas oficiales de la DANA al reconocer la muerte de un vecino de Paiporta por una infección bacteriana. La entrada La jueza eleva a 234 las víctimas oficiales ...",
-     "fecha": "2026-10-31T02:39:12+01:00",
+     "titulo": "¿Qué son las 'ciudades esponja', ideadas para luchar contra las inundaciones?",
+     "url": "https://www.msn.com/es-es/noticias/otras/qu%C3%A9-son-las-ciudades-esponja-ideadas-para-luchar-contra-las-inundaciones/ar-AA2gtKHH",
+     "fuente": "El Periódico on MSN",
+     "resumen": "Ya se aplica en España un proyecto basado en la naturaleza para mitigar el impacto de los núcleos urbanos ...",
+     "fecha": "2026-10-31T05:58:00+01:00",
      "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "El paso de la DANA Adam deja víctimas mortales y graves inundaciones en el este de España",
-     "url": "https://espanol.cgtn.com/2026/10/31/ARTI1793415657148364",
-     "fuente": "CGTN en Español",
-     "resumen": "Del 17 al 20 de octubre, la DANA Adam ha dejado al menos seis fallecidos en España, además de graves inundaciones y numerosos daños materiales, especialmente en la Comunidad Valenciana. Las lluvias to ...",
-     "fecha": "2026-10-30T21:02:00+01:00",
-     "fecha_txt": "30 oct"
     },
     {
      "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
@@ -216,6 +208,14 @@
      "resumen": "El fallecimiento se produjo casi dos meses después de la inundación a consecuencia de una infección bacteriana ...",
      "fecha": "2026-10-30T09:36:00+01:00",
      "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "La jueza eleva a 234 las víctimas mortales oficiales de la DANA de 2024",
+     "url": "https://actualidadvalencia.com/victimas-mortales-dana-2024-jueza-catarroja/",
+     "fuente": "actualidadvalencia",
+     "resumen": "La magistrada que investiga la gestión de la DANA del 29 de octubre de 2024 ha actualizado el balance oficial a 234 fallecidos, al incorporar un nuevo caso en Paiporta.",
+     "fecha": "2026-10-30T08:39:00+01:00",
+     "fecha_txt": "30 oct"
     }
    ]
   },
@@ -242,11 +242,19 @@
     },
     {
      "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG56VnNLLWNXTHZpVW0xU3dzU3hPcUFuRWVYZ3FXSGZER0p6U1gxem9ZVFc0SEZIcG5nbTFXNFE3eWpWLXhrWTgzM2NGdUFMWTFYemFIdkppS3dva2w0ZVRobnI5WnNlZEhaRDREMFVneUFYVlk0TGdNSVd2LUpZcnp3bTQ1U2JUR1RIWHVnR2VOZTIxNmo0dm5jbkhtbVlHenFmVnFoenVkVzN6a2pIYzlXV2NvNzhlY2dHdXItaktsdlI1b0JULW9tbzgtd9IB0gFBVV95cUxOS1pMZWtTZTZVQmFhS2ZzQVY4c2VOS2Z4eHJSQlVPaU96WHpNd19obXVrU0FWdy04NmxwTjBCU3RrTVBZUl9XM0plREM4emx4LS1JcVVzMWtpT3JwQU1HR2gyd2NzdDB2ZWZ6STJEUTFoeDNhNDJCV3ZPZzVWS2RyX2JKaktXYUlWZ0RNUXZreHVOMHVFUlV2VWx2eVRGRGJwYnBBWGwwZkxabzhPSTJLREpIVXlJbTZWbVBVR1dGVFhDRURBOUNIbm5wNElubm9vYVE?oc=5",
+     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
      "fuente": "Periodista Digital",
-     "resumen": "",
-     "fecha": "2026-10-30T09:44:00+01:00",
+     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
+     "fecha": "2026-10-30T02:44:00+01:00",
      "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "Red Eléctrica frena el mantenimiento de 100 centrales",
+     "url": "https://ecosistemastartup.com/red-electrica-frena-el-mantenimiento-de-100-centrales/",
+     "fuente": "ecosistemastartup",
+     "resumen": "Red Eléctrica rechaza el calendario de mantenimiento de más de 100 centrales Red Eléctrica (REE) ha mostrado su no conformidad con los ...",
+     "fecha": "2026-10-29T12:27:00+01:00",
+     "fecha_txt": "29 oct"
     },
     {
      "titulo": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
@@ -262,14 +270,6 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
-     "fuente": "EDATV News",
-     "resumen": "",
-     "fecha": "2026-10-29T10:32:00+01:00",
      "fecha_txt": "29 oct"
     },
     {
