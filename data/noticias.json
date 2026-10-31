@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-31T13:10:40+01:00",
+  "actualizado": "2026-10-31T16:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,20 +12,28 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
-     "fuente": "Pasquale Pillitteri",
+     "titulo": "Japón anuncia un llamado de emergencia para el 2 de noviembre: ¿por qué pide almacenar provisiones para siete días?",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQei02azdZN1NaeE9SMXJsZjgxc1V4dzhueVVDZ21Vc0NIcHg2QkNSQ0w2T1VwWTlyUlhqVUdKUUFXZTM4blJLaTdheWVIOFptSGUyNEtjYVVQWkg5ak9BX21xRGoyX0xadDdUcm1vMEVxNkdtZ1VxRVdSNHF5OU5mX1JWbnV0aUVULXoxc1pBQlZOMkphSXdCTy1wT2VrdnpCbVhxTE51b2hOWW1LVGtWRERLRTdnMmZoOEJMZWZhQXE4RDdRY2o4?oc=5",
+     "fuente": "DSN Noticias",
      "resumen": "",
-     "fecha": "2026-10-31T08:52:58+01:00",
+     "fecha": "2026-10-31T15:31:20+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "Por qué Europa, Japón y otros países piden a sus habitantes prepararse para una crisis",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMng5aTVDdGNUc2lrMk03ZXZUeUJIZERZVnFlZHVhMm5nMUtnM2N6d1hSYnFKdWpUYzMtRGJPRHdUamRiaUhlYXlNb2dpTXJzTDJKR1F0WUFwNzJOb3VNR0tVVk5mamdwUHZZZWw0UWFsc2pvV25qazYwSmxldURCQTdjNnB5aXRxV01GcXdTWmlNUUZVUGU0VkxwcDdxLWNGXzE3Yl9NWlFoVzFvaGt5YTM2Vi1aRWFiR2ZaanhUVEZIZw?oc=5",
+     "fuente": "VirasoroVirtual",
+     "resumen": "",
+     "fecha": "2026-10-31T13:47:48+01:00",
      "fecha_txt": "31 oct"
     },
     {
      "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
-     "url": "https://grupoanimal.mx/explicaciones/gobiernos-paises-almacenar-agua-alimentos",
-     "fuente": "grupoanimal",
-     "resumen": "Gobiernos de distintos países han reforzado sus recomendaciones para que la población tenga agua y alimentos ante posibles emergencias. Aunque esto ha generado teorías conspirativas, las medidas son p ...",
-     "fecha": "2026-10-30T23:00:00+01:00",
-     "fecha_txt": "30 oct"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXhwZHNVRFl6OWVCUXlKTzFPcVhhbC1CMkdubF9RdnMzSUJxMnJxSXhsbW14LTUtUENWUV94LXNBVHp6RHZyUWdUdnpoSnpDWVdmM3hvaEJpQm5waEd2V1Q2UG5RbVA0ME1ZRGJ4OFp4WTlsS1J3LUZMdHNSWnF2VkdsNkM?oc=5",
+     "fuente": "Grupo Animal",
+     "resumen": "",
+     "fecha": "2026-10-31T12:01:38+01:00",
+     "fecha_txt": "31 oct"
     },
     {
      "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
@@ -66,14 +74,6 @@
      "resumen": "En el caso de los asiáticos, apunta a la posibilidad de sobrevivir al menos tres días sin ayuda externa por alguna catástrofe natural. En Europa estaría vinculado a la guerra en Ucrania.",
      "fecha": "2026-10-30T01:13:00+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "¿Una guerra o una crisis global? Por qué varios países recomiendan tener reservas en casa",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQl8xSlBSbldoNHZRTkxpUnJwdlFBUEdHT05VelA5WXFHT0VnSHI0OGRfcGVaM242RENod2FjSW9YX2kwNUhqRUR4QXVtSVllYUkxRGN0QUw0V0dra2pMS2RNMGJMRzc0cF96VHRRcG5rZFU1eTZ1aW9VRmFvck5GNFJxY2I5UEttbUY3bk5uc28xSlJURWVOX19DUEpYc3R2WG8yY1dLa3czWWgtZDJwMTBaT3gtalowZzFiR9IB0AFBVV95cUxPWVpMREtMa2xwM2JEWXB5RWE0TGFaRC1jcjY1TXgxd1U5ekQ0T0ZjMGkxYnpPVTV2M3YzMlVmOHBtZXNKczV1X25hWHJ6OWp2RUg0VjFId1RzVkEwbUZvVHlsODJTX19MV2I2U1U1eFBsalJDZkFsbTJvXzExWlZvZnltaEZqOXFET0hlZ3pMZThJUzJmTWhnTU0xNk1oMkNySjlxUGJMTmpOY25oU2JxTTdnQ0VpbGhwTTlQbG0wZFZxaC1ScnNFOWtEUHNaXy1f?oc=5",
-     "fuente": "ViveUSA.mx",
-     "resumen": "",
-     "fecha": "2026-10-29T21:32:00+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   },
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Los familiares recuerdan a las 234 víctimas de la dana con los reconocimientos 'Memoria'",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEpUTHh0V0lHbFRZMTNQYzhTdGtFNUlSWjdBU3U3bTM5Q1ZnTWQxTngyakdwaEZOcmhTTC0yVWpqY1VEaG4yMTJYcFVLMkl1cDUtNFN4a3J6bENwdVYzOERhUDFsUlFudWhPak92NURtckFZMVUxcWQ1RTF6ZktLX1lKUXktSk0zbUtYaWxid0ZrWV9weFdpTXgxUUJZelZPb3FiOFgwdy1feDljQzJGenlmX1pMWjFHZWQ2YnpuUmZXOUNMOEJ1QUJIU1ZldlVMdUhPONIB7wFBVV95cUxOejJkQ0ZpNThMNjJudnhYLUp4OEh5LWRkMVo0MXdWYTFucFlOVWlCNXhDY1pXM0hJR0xXVjhITlBPSExkZFZNV2RKUW9kRy1MRW4yZjhfWnpib1VuZ1ZBNkZZMVU0bWIxdnJVTVptcGdBd1VUN0NOTm5WMFN5ZGxLQ0tRWFR6SlNVUHc2X1dycmFKVWY2R1JyYzQzWEkxbEc5SGxFclBTNHhIaTYxQndqanBWUnJfeHNBb2JyVW1QSWFUR1VRUnhNYllCQjJpOVlUS0Z0X2prSW5CZVNNczNzXzZFMDJKbFVST2ZWVzE0UQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-10-31T15:42:23+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
      "titulo": "La jueza eleva a 234 las víctimas oficiales de la DANA al sumar un muerto por infección en Paiporta",
      "url": "https://www.msn.com/es-es/noticias/otras/la-jueza-eleva-a-234-las-v%C3%ADctimas-oficiales-de-la-dana-al-sumar-un-muerto-por-infecci%C3%B3n-en-paiporta/ar-AA2gtbji",
      "fuente": "Moncloa on MSN",
@@ -170,11 +178,27 @@
      "fecha_txt": "30 oct"
     },
     {
+     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T18:44:44+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
      "titulo": "La jueza suma una víctima más de la dana de 2024: murió un mes después por una bacteria",
      "url": "https://www.msn.com/es-es/noticias/otras/la-jueza-suma-una-v%C3%ADctima-m%C3%A1s-de-la-dana-de-2024-muri%C3%B3-un-mes-despu%C3%A9s-por-una-bacteria/ar-AA2gqNzJ",
      "fuente": "La Razón on MSN",
      "resumen": "Sufrió heridas tras inundarse su casa y días más tarde empezó a sufrir un cuadro de diarrea, vómitos y fiebre ...",
      "fecha": "2026-10-30T14:11:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "Las víctimas de la DANA, dos años después: \"No queremos tener miedo cada vez que llueve\"",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzVwY3k5SnRpc3daeHJBaDd5bHNoLThaSEJkVklva1dFazhUVDh4YUJ3aW5yOVd6TUNJR2wwblVjRnQ3b0NXN1dVZGpSU2RjNzBneXEyd05UdzJodjhGX0E4Wmt2TFBka2JNbjFZSWFpajlpRGJRZm1yTVB6TzdIUlFObDhBT2dHRWktMGVpR2I1ckpIZUo3NHFtRndDVGdWWUpUc0pUNWhTVVhVTVlpWXNXRzU?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T13:18:09+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -192,30 +216,6 @@
      "resumen": "El fallecimiento se produjo casi dos meses después de la inundación a consecuencia de una infección bacteriana ...",
      "fecha": "2026-10-30T09:36:00+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "La jueza eleva a 234 las víctimas mortales oficiales de la DANA de 2024",
-     "url": "https://actualidadvalencia.com/victimas-mortales-dana-2024-jueza-catarroja/",
-     "fuente": "actualidadvalencia",
-     "resumen": "La magistrada que investiga la gestión de la DANA del 29 de octubre de 2024 ha actualizado el balance oficial a 234 fallecidos, al incorporar un nuevo caso en Paiporta.",
-     "fecha": "2026-10-30T08:39:00+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "«Están siendo días muy duros»: Page recuerda a las víctimas de la dana en medio del dolor por el accidente ferroviario de Urda",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjlfWFRkUnFhSDNLWnBmSnBMazhZb2pLTkNiOERpcXlUWjVMdWJPTUdua0hDSjJnRmNPUWNUTkJWYXpNZVNBcjhzVUlTYnRUcHBIUHdBZ0pUYmRGcFB0eXhvNTZSMHRxVzNXR0h1TmZvOV9vNFFYMmJVdGZmYnR2NGFNaUViN0k4R0xheTB0aEJzaE9vZElibXJoOVdrUzYyMFhlMU53SnlQaHdkSkVCeWdB0gG3AUFVX3lxTFBGQk5LbHFaTWdnUGJfSXJMT2RzV1J4Mmg3Q3RZWEU0a24yV3dKR1hDeUF1WjJaRmV6QlZuODVXS2RzdURYQjUwcnpBbHl2NXdKQTZac2xHck03dV9nUWxzRFBLc2dvLTl1aXh0UHI4dmVmeDd0TzhFNF9nTkRfNVVMSm1tcEhTbi1Sd2ZzQk4yanRRV3lyZUQ3dDBuOVNRdzNFMk0tTVl2UHB6b0lLS2dQeFMzNUJpOA?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-10-29T19:52:13+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Aulas en barracones, colectores por renovar y teatros cerrados: el atasco de las grandes obras en Algemesí tras la dana",
-     "url": "https://www.levante-emv.com/ribera/2026/10/29/aulas-barracones-colectores-renovar-teatros-135900364.html",
-     "fuente": "Levante-EMV",
-     "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
-     "fecha": "2026-10-29T12:30:00+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   },
@@ -242,10 +242,10 @@
     },
     {
      "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
-     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG56VnNLLWNXTHZpVW0xU3dzU3hPcUFuRWVYZ3FXSGZER0p6U1gxem9ZVFc0SEZIcG5nbTFXNFE3eWpWLXhrWTgzM2NGdUFMWTFYemFIdkppS3dva2w0ZVRobnI5WnNlZEhaRDREMFVneUFYVlk0TGdNSVd2LUpZcnp3bTQ1U2JUR1RIWHVnR2VOZTIxNmo0dm5jbkhtbVlHenFmVnFoenVkVzN6a2pIYzlXV2NvNzhlY2dHdXItaktsdlI1b0JULW9tbzgtd9IB0gFBVV95cUxOS1pMZWtTZTZVQmFhS2ZzQVY4c2VOS2Z4eHJSQlVPaU96WHpNd19obXVrU0FWdy04NmxwTjBCU3RrTVBZUl9XM0plREM4emx4LS1JcVVzMWtpT3JwQU1HR2gyd2NzdDB2ZWZ6STJEUTFoeDNhNDJCV3ZPZzVWS2RyX2JKaktXYUlWZ0RNUXZreHVOMHVFUlV2VWx2eVRGRGJwYnBBWGwwZkxabzhPSTJLREpIVXlJbTZWbVBVR1dGVFhDRURBOUNIbm5wNElubm9vYVE?oc=5",
      "fuente": "Periodista Digital",
-     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
-     "fecha": "2026-10-30T02:44:00+01:00",
+     "resumen": "",
+     "fecha": "2026-10-30T09:44:00+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -265,6 +265,14 @@
      "fecha_txt": "29 oct"
     },
     {
+     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
+     "fuente": "EDATV News",
+     "resumen": "",
+     "fecha": "2026-10-29T10:32:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Mientras España avanza hacia el apagón del 3G, Movistar acaba de mejorar las condiciones de un grupo de clientes",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUxYNXdOT2xpaXNaNWVQdUZVQnZXTWVjd0l1YmRZRU9XaERCbzlaM2VXQWR5WWNLSFBiclQxblQ2emN0c1NlSFlBVDRHSkhxVFNQMG1WU3dTSmNKNEd4OVJKdGJXb2h0d3dkdnBuRk9BOEcwMVZJUC1yQkI3YU52WXNxZ1ZoRFUwY2o2MDV3c3FteVJKZ2UtV180SDZCUdIBowFBVV95cUxQNmRiSFQzT3puOU1Mc2gzZVVXTTU4a2FKZi1nQ2pyMGcwZFplUGRibUw1aGxZSE1IQUd3d3NDajBJM0FCSnNfOGhiTVp3TXF1RXV6YTh2eDlKNDcwSGZtTEliRHdTZFJxMUhDNTNENnMtWW8xUTRpOG1pSmlZZ0lqMVpUdXRBcmJ5blQtVjZLUGtxLW44V0U4Y0pnay1CV2czaERB?oc=5",
      "fuente": "Xataka Móvil",
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-10-26T11:16:35+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Un Gobierno PP-Vox reformará en su totalidad la Red Eléctrica 'intervenida' que acabará en fusión con Enagás",
-     "url": "https://www.abc.es/economia/gobierno-ppvox-reformara-totalidad-red-electrica-intervenida-20261026015013-nt.html",
-     "fuente": "ABC",
-     "resumen": "Planean un nuevo operador del sistema más independiente y neutral, despolitizado y ordenado para después estudiar la reducción paulatina de la participación pública ...",
-     "fecha": "2026-10-25T18:50:00+01:00",
-     "fecha_txt": "25 oct"
     }
    ]
   }
