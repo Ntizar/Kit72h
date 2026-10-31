@@ -629,3 +629,15 @@ todas las descriptions en 90–155.
 
 **Commit:** 68e2a08 — `feat(seo): optimizar meta tags para CTR (2 mejoras)`
 **Push:** ✅ origin/main
+
+## 2026-10-31 06:00 — SEO/CTR run
+
+**Resultado:** 1 mejora aplicada (description de un blog).
+
+**Páginas analizadas:** 85 rutas (20 kits + 62 blogs + 4 auxiliares + home).
+
+**Cambio aplicado:**
+- `blog/paso-paso-mochila-emergencia`: description acortada para caber en SERP.
+
+**Commit:** faae574 — `feat(seo): optimizar meta tags para CTR (1 mejoras)`
+**Push:** ✅ origin/main
