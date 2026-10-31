@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-10-31T10:10:40+01:00",
+  "actualizado": "2026-10-31T13:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
+     "fuente": "Pasquale Pillitteri",
+     "resumen": "",
+     "fecha": "2026-10-31T08:52:58+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
+     "url": "https://grupoanimal.mx/explicaciones/gobiernos-paises-almacenar-agua-alimentos",
+     "fuente": "grupoanimal",
+     "resumen": "Gobiernos de distintos países han reforzado sus recomendaciones para que la población tenga agua y alimentos ante posibles emergencias. Aunque esto ha generado teorías conspirativas, las medidas son p ...",
+     "fecha": "2026-10-30T23:00:00+01:00",
+     "fecha_txt": "30 oct"
+    },
     {
      "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFlLZFc0aVpOak5Ka0U0WlJKcFhzQTdGbWV5MXE3Q0Z2YmdhcE5KRmVzWU1Ia0NNUXVsaEZFYW9sTUVGdG1DaFBtU05LVEg5ZDlVOTNuZGhoQUVTTWk2UHdJZEdZdEREZXFhNjZXU1ViYmJfUzRkQ1NZWmpZV3NNY0k2NDMyWEdqdDhaemdocGZQSGg1eG1aLUdUTnRqUDVnMkpLbWFIZVc3S0w0T0o4c081V2JVRmfSAbwBQVVfeXFMUFRLcUN1TzdaYldvOXI3MEFla2FVVV9OTm40aHI0WkhxYUZnRG45TkZNTTkzSkxleFFjb0lXSUlKbC01RERHUUowWmRVNmlhNG84ejF5UG8zUm85MVlnMHNOYXRQd3RheWk0bUd0V1VzLU9wYlNlOExWQnJnNWJqeGpoek8yRnVuOFZNT0ZBODZOYi1ReS16N2VZV1o2QVJsdEM3RGJaX2Exa1Q1U1UzWWwySG8yNUNub2h6Z3k?oc=5",
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-10-29T21:32:00+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "¿Por qué Japón, Reino Unido y otros países piden almacenar agua y comida?",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcG9zbjh0QURwNk96dzFTVnAzdzVLZURMU19EOElrRGwwcHhteHhVcFdINktGRE03YndDclhVVVVYU2JsYVNad3lMMEpqQ3N1MkczVWZjdGx4a29PV2pTdkdvLVUydmdJMWRlRmVWeF9RWGt0ZlVKaENUSDJPZzE2bzBLNU9WV3RLU0RSS0J0bDUwN0FkdFlheDJsNXdCZklYSVpGQVZUTWdVTW1SaUdSMVRSS1A3aWxvOW8yRUZGRjVOcVppcURBUmV3Zml1dHVkUDlyZ1ltcFZQMEFnT3ZiVTlLRjRzU05PalRkMnRSc25YblpRcWRpeWt6WmIxaXB6SkFycEVhWXhlQQ?oc=5",
-     "fuente": "El Universal",
-     "resumen": "",
-     "fecha": "2026-10-29T19:20:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Advertencias internacionales: ¿Por qué varios gobiernos piden a su población mantener reservas de emergencia?",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUV9sRjhSVXNVVWh1dmxrc3FwNmhqRzhQdzg0bk1INVhpQmk5azl4ZHFQT2xRQzVMTEl1dW80Q19XTUtkNDFOekstdVBEbWtiYUc3eVdDTW81cVlINzRJTlFqT1FXN2t5Yl9FdW1fQ0Mtc0RJYnlHUTlwR0hNQzZqMlFKMGx4bTZLWG9EWU0xZ0tvLU8zdjdjeFdWaG95OEJzVU85RXFoaUQ4SVlYeFh2dGxrMmZlbkw4OEVicW9xM1owWlhQMnpvUWFNMG5XRWpMQXgxNVFYTEVKUU5jY2lWdmlRQlpXUkJUeEE?oc=5",
-     "fuente": "La Tribuna (México)",
-     "resumen": "",
-     "fecha": "2026-10-29T17:55:06+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   },
@@ -107,14 +107,6 @@
      "fecha_txt": "30 oct"
     },
     {
-     "titulo": "Detenido el supuesto autor del incendio que calcinó 134 hectáreas en Despeñaperros (Jaén)",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHFIVGo4Z1AyMEVqUjZrVUMxWEVpU0FLVHBTNGJBQklCTHQ1RkdmeS13dy1kOEp4Z0ZnR3dLTGdxQkR6Rl9YLTVBQTk1YnNsOG04TXV5WTZJRjk2YXhNYXBndk9Ja1JaRGN2ZEZUS0tJYmNUT0pINzdVZ3BaT2hWcVcxMWRRTXoxcnZscmFJUmJVTFN5Xy1VMW80N2owRlAzZE85cWM4Y2Z5VF9HZHlPUHMtSXc3N1dCbUV4RnFzcEYwZkJBRFlLY2JmUEpYRkJXa3Z5SjZR0gHwAUFVX3lxTE5pbDktUXp2Qmx1YkpzLV9mMTJBRnlhU2JrMV9vQTVHX056aC1NYzFoT1UtVm8ybS0xS2pqRHFTcmhnZHp3QjFiVDhPS2tlNEJWWHduemx2ZHNsR1JpekJrbS1kZW5ESnVqem1rZTBSQVdtNFU4NmEyeC16Ty1RR29KOEUzNnhqdDl5QWhMU0dURWhMTktWX1h0UXdNWFhvSmVUWWtuR09KajIzQmo3LTVhSHd5d1VZYmwzVWZjZWxDclAyZENIY2FrdTRIeFdIOWlHTVRPb3Z0ZTlpeHBFejhqZy04ck9hcHIxRjZuQjN0RQ?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-10-30T11:32:35+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
      "titulo": "Detenido un hombre como presunto autor del incendio forestal de Santa Elena en Jaén",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnlTaHY0UlRrb01BMXhSN0JlSXRHNHJ2a3l3S1M2Q2hBZU9Gd0h6aTN3c1JrTFgyejFLTGxRS01LQlJDbGU0VkhLSVJRUXBPbEtlUUxrbl9TaXZZWUYyZ0J0X1poOEtwSWczVmdCeUhELVFjYzd6MGtaaHMyWWpiYVdSUS1lc29MSXdrclZlUmswcF91ZVhGQWdDNUpGeGNnNzJaWWJZbzVnTHY2M09RM0cxWjMzM1ZqVHBV0gHAAUFVX3lxTE05MDc5U3lQal9jWWtSSlNRNWtxc3hLakxiY0hVaEtZZkRxT0g0WFowdjJkMFpZYWY1eUtDcmxLSDh6Nk92RDFHVDNnMjJraVNqLVNSQTNrd0dRRWJheVNiQXk2c2ZjdHpCSDNnTlRpN3VCdXRScEhLRm5YbkpKMHNYSktQRnppaXYxSTNwQkd3VEE1OUFlY2dROFdfUnQ2QjhacjZ4WHVyaWJSUFp3WlFyM0I3ZkM0WnZCU2JnRnhYNQ?oc=5",
      "fuente": "ABC",
@@ -144,6 +136,14 @@
      "fuente": "Público on MSN",
      "resumen": "Según el Sistema de Información de Incendios Forestales de la Comisión Europea (EFFIS) esta cifra supone el 42,9% de la superficie que ha ardido en la Unión Europea, que este año suma ya 701.480 hectá ...",
      "fecha": "2026-10-29T13:10:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España concentra el 44 % del total de hectáreas quemadas de la UE",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlpYZ3QxLTRuRlBfX1kzV3VSZWJLU0FhUW1mZC1QMEpVZkhuZklDb2VwUHhBbG8yN21mVUExdV9hX2dlZHpwUjBvaFVKSlNEeVpUN0dRMzZrelpoNTYzRlBwVktKOUhBT1lScmR2X21HWFdkZGZsWDNoN01jZ0F4M29YVU50WUxvSVBOUGswVFhSRGdmeVA3WWZuVDYwNV9mUzVfQ2dHYjlNclZnMDNxWEwzcmdFSkY3aHlqaWtBQnBjcTlD0gHKAUFVX3lxTE9fdUdQWW5TRWNjLXhNV01FZzYtZk9neFg2azY0dFhIbUlIZVM5SXhqX3N3YjIxdXdKSndrQUtJY2daOEJnSXpuem8xUXBSd1d0cnllQVNFWlZYMFE1OUpFTkFybHMwdl9aWThQN2ZSWGR6YnBNZ2duazFWVXJpWTF1ZFQ5MlRQbWc4ZVNnWXM3bW55NUIxYnV4bUdITFpFQlVIN0xWUUJWTUF3ekJqQ2lDNUF2R1IzNUNLQ1JIV3p0Z0o1akltLTdUYWc?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-10-29T12:47:06+01:00",
      "fecha_txt": "29 oct"
     }
    ]
