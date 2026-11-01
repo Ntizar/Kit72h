@@ -2,13 +2,13 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261101083706",
-  "actualizado": "2026-11-01T10:10:51+01:00",
+  "elaborado": "20261101102924",
+  "actualizado": "2026-11-01T13:10:51+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261101083706_penbal_20261101CET_1793523600.geojson",
-   "r_D+0_20261101083706_can_20261101WET_1793523600.geojson"
+   "r_D+0_20261101102924_penbal_20261101CET_1793534400.geojson",
+   "r_D+0_20261101102924_can_20261101WET_1793534400.geojson"
   ]
  },
  "resumen": {
@@ -35,7 +35,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del norte o nordeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
        "desde": "2026-11-01T20:00:00+01:00",
-       "hasta": "2026-11-01T23:59:59+01:00",
+       "hasta": "2026-11-02T02:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -49,7 +49,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del norte o nordeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
        "desde": "2026-11-01T20:00:00+01:00",
-       "hasta": "2026-11-01T23:59:59+01:00",
+       "hasta": "2026-11-02T05:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -481,7 +481,7 @@
        "severidad": "Amarillo",
        "descripcion": "Viento del norte o nordeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
        "desde": "2026-11-01T20:00:00+01:00",
-       "hasta": "2026-11-01T23:59:59+01:00",
+       "hasta": "2026-11-02T02:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -754,7 +754,7 @@
        "severidad": "Amarillo",
        "descripcion": "Viento del norte o nordeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
        "desde": "2026-11-01T20:00:00+01:00",
-       "hasta": "2026-11-01T23:59:59+01:00",
+       "hasta": "2026-11-02T05:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }

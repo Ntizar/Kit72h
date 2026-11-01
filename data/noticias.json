@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-01T10:10:40+01:00",
+  "actualizado": "2026-11-01T13:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -60,19 +60,19 @@
      "fecha_txt": "31 oct"
     },
     {
+     "titulo": "Mochila de emergencia de 72 horas: ¿por qué varios países recomiendan preparar un kit de supervivencia?",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzhybFBOcGZ1ZEFNVHJaNnVrNmxVaWpwVmNob04wSElZUU81UmJfZWNiYjNhSkNkYlJaYzZBaWNLTU56ZkhpUWpGZ3owSjgwYVJ2alFzWGxNanpEWlVKX2JZd0w5cEpEel9QLVBXOENPMjZBZUR0b3I5VWxzR3RTYnAzMnNyb3pnZ3plSG9nTHA4TkFJWGRuclFqOTc4T1M5Ml9sQzlyVQ?oc=5",
+     "fuente": "DosPuntos.media",
+     "resumen": "",
+     "fecha": "2026-10-31T00:29:46+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
      "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFlLZFc0aVpOak5Ka0U0WlJKcFhzQTdGbWV5MXE3Q0Z2YmdhcE5KRmVzWU1Ia0NNUXVsaEZFYW9sTUVGdG1DaFBtU05LVEg5ZDlVOTNuZGhoQUVTTWk2UHdJZEdZdEREZXFhNjZXU1ViYmJfUzRkQ1NZWmpZV3NNY0k2NDMyWEdqdDhaemdocGZQSGg1eG1aLUdUTnRqUDVnMkpLbWFIZVc3S0w0T0o4c081V2JVRmfSAbwBQVVfeXFMUFRLcUN1TzdaYldvOXI3MEFla2FVVV9OTm40aHI0WkhxYUZnRG45TkZNTTkzSkxleFFjb0lXSUlKbC01RERHUUowWmRVNmlhNG84ejF5UG8zUm85MVlnMHNOYXRQd3RheWk0bUd0V1VzLU9wYlNlOExWQnJnNWJqeGpoek8yRnVuOFZNT0ZBODZOYi1ReS16N2VZV1o2QVJsdEM3RGJaX2Exa1Q1U1UzWWwySG8yNUNub2h6Z3k?oc=5",
      "fuente": "Imagen Radio",
      "resumen": "",
      "fecha": "2026-10-30T21:19:51+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "COE llama a preparar mochila de emergencia para 72 horas: ¿cuáles artículos debe incluir?",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdERHbjloQng1VldYdGEtRVRPUVBqUXNLMHBQTi1NRzJyUklZbXNHSm13Zkx1TWlpcEw0TTRWaW05YUdZbGdWem9saGVlTkFCRS1XX3B4TFVkcmZ4LXg3ZXlvTi1UeUhuTGdnc0tTY3o0UDBMNFZWUzEtRDkwNVJmSDM2SWZfRWphMXhIdUhuV1VEbGRqX3RtWVZubDRSQkVZUU8xdEFQSWRHamRv?oc=5",
-     "fuente": "El Dia.com.do",
-     "resumen": "",
-     "fecha": "2026-10-30T13:45:00+01:00",
      "fecha_txt": "30 oct"
     }
    ]
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Apagón en Tenerife: más de 160.000 viviendas se quedan sin suministro",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmZ3b1JiOTdBUTBKVWdjYnVydmNFOW1FdlNObFF4OEZ3enVKZE9xQVJzcV9zLWFVVTczV1ZlcHBkNU81MEdJWjdkMEVEZlc0aS0zZnVNYmdxYWdwYm94MWlpWDN5RWJKVFZPbF9LQUhRcEM1MGFKRzVVR1dnd0RTVExrYUdTb3JvOVVOZk9ZamhGV3QzYzhlc2lLelI1UXpaRWEwMG0xOGN0MXVM0gGyAUFVX3lxTE1PTXN4Z3V6YmdJUjBwZ2pNcFpVanNJbFBfVjNVTGdVa0dJUFhhcGEzbFBSUHJkV21Ja3ZnSG1pazR0VEx1SmVtWjRYQWtTeXBoT0lGN1FqNWtlYm5DdGpkQmNOSGVsSFJrUUZiU0E2TUdIaktmdmZNUi04SlJqNmtwMloyRlBDMHRnQzR3TjRxdW9PZHZQVklMSTIwbXdQTDlxcWZMcmU3SzdBVHY2b3B6SXc?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-01T12:22:02+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
      "titulo": "Red Eléctrica, contra las cuerdas: seis apagones, dos paradas industriales y la desconexión de la central de Cofrentes hacen saltar todas las alarmas",
      "url": "https://gaceta.es/espana/red-electrica-contra-las-cuerdas-seis-apagones-dos-paradas-industriales-y-la-desconexion-de-la-central-de-cofrentes-hacen-saltar-todas-las-alarmas-20261101-0105/",
      "fuente": "La Gaceta",
@@ -278,14 +286,6 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Mientras España avanza hacia el apagón del 3G, Movistar acaba de mejorar las condiciones de un grupo de clientes",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUxYNXdOT2xpaXNaNWVQdUZVQnZXTWVjd0l1YmRZRU9XaERCbzlaM2VXQWR5WWNLSFBiclQxblQ2emN0c1NlSFlBVDRHSkhxVFNQMG1WU3dTSmNKNEd4OVJKdGJXb2h0d3dkdnBuRk9BOEcwMVZJUC1yQkI3YU52WXNxZ1ZoRFUwY2o2MDV3c3FteVJKZ2UtV180SDZCUdIBowFBVV95cUxQNmRiSFQzT3puOU1Mc2gzZVVXTTU4a2FKZi1nQ2pyMGcwZFplUGRibUw1aGxZSE1IQUd3d3NDajBJM0FCSnNfOGhiTVp3TXF1RXV6YTh2eDlKNDcwSGZtTEliRHdTZFJxMUhDNTNENnMtWW8xUTRpOG1pSmlZZ0lqMVpUdXRBcmJ5blQtVjZLUGtxLW44V0U4Y0pnay1CV2czaERB?oc=5",
-     "fuente": "Xataka Móvil",
-     "resumen": "",
-     "fecha": "2026-10-29T09:07:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
