@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-01T13:10:40+01:00",
+  "actualizado": "2026-11-01T16:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -44,14 +44,6 @@
      "fecha_txt": "31 oct"
     },
     {
-     "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXhwZHNVRFl6OWVCUXlKTzFPcVhhbC1CMkdubF9RdnMzSUJxMnJxSXhsbW14LTUtUENWUV94LXNBVHp6RHZyUWdUdnpoSnpDWVdmM3hvaEJpQm5waEd2V1Q2UG5RbVA0ME1ZRGJ4OFp4WTlsS1J3LUZMdHNSWnF2VkdsNkM?oc=5",
-     "fuente": "Grupo Animal",
-     "resumen": "",
-     "fecha": "2026-10-31T12:27:57+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
      "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
      "fuente": "Pasquale Pillitteri",
@@ -60,12 +52,12 @@
      "fecha_txt": "31 oct"
     },
     {
-     "titulo": "Mochila de emergencia de 72 horas: ¿por qué varios países recomiendan preparar un kit de supervivencia?",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzhybFBOcGZ1ZEFNVHJaNnVrNmxVaWpwVmNob04wSElZUU81UmJfZWNiYjNhSkNkYlJaYzZBaWNLTU56ZkhpUWpGZ3owSjgwYVJ2alFzWGxNanpEWlVKX2JZd0w5cEpEel9QLVBXOENPMjZBZUR0b3I5VWxzR3RTYnAzMnNyb3pnZ3plSG9nTHA4TkFJWGRuclFqOTc4T1M5Ml9sQzlyVQ?oc=5",
-     "fuente": "DosPuntos.media",
-     "resumen": "",
-     "fecha": "2026-10-31T00:29:46+01:00",
-     "fecha_txt": "31 oct"
+     "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
+     "url": "https://grupoanimal.mx/explicaciones/gobiernos-paises-almacenar-agua-alimentos",
+     "fuente": "grupoanimal",
+     "resumen": "Gobiernos de distintos países han reforzado sus recomendaciones para que la población tenga agua y alimentos ante posibles emergencias. Aunque esto ha generado teorías conspirativas, las medidas son p ...",
+     "fecha": "2026-10-30T23:00:00+01:00",
+     "fecha_txt": "30 oct"
     },
     {
      "titulo": "¿Crisis mundial a la vista? Países emiten alertas y piden a su población almacenar víveres",
@@ -73,6 +65,14 @@
      "fuente": "Imagen Radio",
      "resumen": "",
      "fecha": "2026-10-30T21:19:51+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "COE llama a preparar mochila de emergencia para 72 horas: ¿cuáles artículos debe incluir?",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdERHbjloQng1VldYdGEtRVRPUVBqUXNLMHBQTi1NRzJyUklZbXNHSm13Zkx1TWlpcEw0TTRWaW05YUdZbGdWem9saGVlTkFCRS1XX3B4TFVkcmZ4LXg3ZXlvTi1UeUhuTGdnc0tTY3o0UDBMNFZWUzEtRDkwNVJmSDM2SWZfRWphMXhIdUhuV1VEbGRqX3RtWVZubDRSQkVZUU8xdEFQSWRHamRv?oc=5",
+     "fuente": "El Dia.com.do",
+     "resumen": "",
+     "fecha": "2026-10-30T13:45:00+01:00",
      "fecha_txt": "30 oct"
     }
    ]
@@ -84,11 +84,11 @@
    "items": [
     {
      "titulo": "España encadena sus dos peores campañas de incendios del siglo: 630.000 hectáreas arrasadas en solo dos años",
-     "url": "https://elcierredigital.com/sucesos/espana-encadena-dos-peores-campanas-incendios-siglo-630000-hectareas-arrasadas-dos-anos",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTR2YTNzNklEYW1LZmlSWWN5TW1xbW5tR0tiVDhobmh4ZzB4Q2RRLW56M01KMHk4bjFNSWZySlhfVlpiZ2lmbFhMdmJKaUJyNzJTTHhhV1IwU25kekV6WHJrNnMwdUpvMzZ6RDdzM09tZnlldGhsczdud3ZTa3FsYktLMFg5bUc1YkNzWlRtRGVsVjQyNHhFZGdTYjRrNlh5MzlXVlV3YTE5ek9UMjZ3Q2UyS2lXLWtYRlpjeVVZMG4?oc=5",
      "fuente": "El Cierre Digital",
-     "resumen": "España cierra 2026 con unas 275.000 hectáreas quemadas, que se suman a las casi 355.000 de 2025, en el peor bienio de incendios forestales de las últimas cuatro décadas. Según Copernicus, el país conc ...",
-     "fecha": "2026-10-31T21:59:00+01:00",
-     "fecha_txt": "31 oct"
+     "resumen": "",
+     "fecha": "2026-11-01T04:00:03+01:00",
+     "fecha_txt": "1 nov"
     },
     {
      "titulo": "Galicia presenta el quinto mejor balance de incendios del siglo mientras España afronta su segundo peor año",
@@ -123,6 +123,14 @@
      "fecha_txt": "30 oct"
     },
     {
+     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RmdYQ3BLWFY1N2ZUcXFyblkta0tSMDQ2QU54Y0JacXZSY0tVSVJYcHFneDY2alhFOENYQTdYSDQybXBYa2xBTlMwUnhORHhoR201QUY2b2lKcW13Qk1hZzB0a1haUXdzUXV3OVFGN0JvakJGSEltUGZ5bw?oc=5",
+     "fuente": "Qué.es",
+     "resumen": "",
+     "fecha": "2026-10-29T16:00:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Copernicus confirma que 301.560 hectáreas se quemaron en España hasta el 28 de octubre",
      "url": "https://www.msn.com/es-es/noticias/otras/copernicus-confirma-que-301560-hect%C3%A1reas-se-quemaron-en-espa%C3%B1a-hasta-el-28-de-octubre/ar-AA2gmjFf",
      "fuente": "Público on MSN",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-10-29T12:47:06+01:00",
      "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Un total de 301.560 hectáreas ardieron en España hasta el 28 de octubre, el 42,9% de la UE, según Copernicus",
-     "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301560-hect%C3%A1reas-ardieron-en-espa%C3%B1a-hasta-el-28-de-octubre-el-429-de-la-ue-seg%C3%BAn-copernicus/ar-AA2glGrZ",
-     "fuente": "Europa Press on MSN",
-     "resumen": "MADRID, 29 (EUROPA PRESS) España ha registrado un total de 301.560 hectáreas (ha) quemadas desde el 1 de enero hasta el 28 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
-     "fecha": "2026-10-29T11:21:44+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Un análisis sobre las últimas catástrofes acontecidas en España: DANA y Alta Velocidad",
+     "url": "https://informativos.net/2026/un-analisis-sobre-las-ultimas-catastrofes-acontecidas-en-espana-dana-y-alta-velocidad/",
+     "fuente": "Informativos.net",
+     "resumen": "Hace dos años, una riada en España se llevó 234 vidas y anegó 567 kilómetros cuadrados, de los cuales un 10 % era superficie urbana. Antes de analizar cómo se gestionó aquella emergencia, deberíamos r ...",
+     "fecha": "2026-11-01T05:49:00+01:00",
+     "fecha_txt": "1 nov"
+    },
     {
      "titulo": "900 euros al mes por un piso pequeño en Catarroja: ni la mortífera dana ha frenado los precios en Valencia",
      "url": "https://www.msn.com/es-es/noticias/otras/900-euros-al-mes-por-un-piso-peque%C3%B1o-en-catarroja-ni-la-mort%C3%ADfera-dana-ha-frenado-los-precios-en-valencia/ar-AA2gvqlM",
@@ -168,22 +176,6 @@
      "resumen": "",
      "fecha": "2026-10-31T19:56:07+01:00",
      "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-10-30T18:44:44+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Las víctimas de la DANA, dos años después: \"No queremos tener miedo cada vez que llueve\"",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzVwY3k5SnRpc3daeHJBaDd5bHNoLThaSEJkVklva1dFazhUVDh4YUJ3aW5yOVd6TUNJR2wwblVjRnQ3b0NXN1dVZGpSU2RjNzBneXEyd05UdzJodjhGX0E4Wmt2TFBka2JNbjFZSWFpajlpRGJRZm1yTVB6TzdIUlFObDhBT2dHRWktMGVpR2I1ckpIZUo3NHFtRndDVGdWWUpUc0pUNWhTVVhVTVlpWXNXRzU?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-10-30T13:18:09+01:00",
-     "fecha_txt": "30 oct"
     },
     {
      "titulo": "La jueza eleva a 234 la cifra oficial de víctimas mortales de la dana tras incluir a un vecino de Paiporta",
@@ -210,11 +202,19 @@
      "fecha_txt": "30 oct"
     },
     {
-     "titulo": "España vive una jornada de luto y problemas en el transporte mientras Valencia recuerda la dana",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzFrbzYxOURYODFGaUtBQ3MxdFM2QUI3Zk1HSDJwcHJnWjJTRmZNdlJyS0s2SklleWNPSlVGRzZiLTllQ0RyalNHRm03aEVEV0RJcmJQZ3NwbUo5Zkw4YjlBWUp4OHhIblRNQTdmSVVfX3NKclFfZFJPZk8xWDJkMk8wcmlmbl96d2EzM0RELXpxRkpMblJwT3E0UTk4bDl5eGRjYg?oc=5",
-     "fuente": "La Noción",
+     "titulo": "Aulas en barracones, colectores por renovar y teatros cerrados: el atasco de las grandes obras en Algemesí tras la dana",
+     "url": "https://www.levante-emv.com/ribera/2026/10/29/aulas-barracones-colectores-renovar-teatros-135900364.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
+     "fecha": "2026-10-29T12:30:00+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
+     "fuente": "Vozpopuli",
      "resumen": "",
-     "fecha": "2026-10-29T20:11:39+01:00",
+     "fecha": "2026-10-29T04:45:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -258,19 +258,11 @@
     },
     {
      "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
-     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeG56VnNLLWNXTHZpVW0xU3dzU3hPcUFuRWVYZ3FXSGZER0p6U1gxem9ZVFc0SEZIcG5nbTFXNFE3eWpWLXhrWTgzM2NGdUFMWTFYemFIdkppS3dva2w0ZVRobnI5WnNlZEhaRDREMFVneUFYVlk0TGdNSVd2LUpZcnp3bTQ1U2JUR1RIWHVnR2VOZTIxNmo0dm5jbkhtbVlHenFmVnFoenVkVzN6a2pIYzlXV2NvNzhlY2dHdXItaktsdlI1b0JULW9tbzgtd9IB0gFBVV95cUxOS1pMZWtTZTZVQmFhS2ZzQVY4c2VOS2Z4eHJSQlVPaU96WHpNd19obXVrU0FWdy04NmxwTjBCU3RrTVBZUl9XM0plREM4emx4LS1JcVVzMWtpT3JwQU1HR2gyd2NzdDB2ZWZ6STJEUTFoeDNhNDJCV3ZPZzVWS2RyX2JKaktXYUlWZ0RNUXZreHVOMHVFUlV2VWx2eVRGRGJwYnBBWGwwZkxabzhPSTJLREpIVXlJbTZWbVBVR1dGVFhDRURBOUNIbm5wNElubm9vYVE?oc=5",
      "fuente": "Periodista Digital",
-     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
-     "fecha": "2026-10-30T02:44:00+01:00",
+     "resumen": "",
+     "fecha": "2026-10-30T09:44:00+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Red Eléctrica frena el mantenimiento de 100 centrales",
-     "url": "https://ecosistemastartup.com/red-electrica-frena-el-mantenimiento-de-100-centrales/",
-     "fuente": "ecosistemastartup",
-     "resumen": "Red Eléctrica rechaza el calendario de mantenimiento de más de 100 centrales Red Eléctrica (REE) ha mostrado su no conformidad con los ...",
-     "fecha": "2026-10-29T12:27:00+01:00",
-     "fecha_txt": "29 oct"
     },
     {
      "titulo": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
@@ -286,6 +278,14 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
+     "fuente": "EDATV News",
+     "resumen": "",
+     "fecha": "2026-10-29T10:32:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
