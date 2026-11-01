@@ -39,3 +39,4 @@
 | 2026-10-29 | mejor-arrancador-bateria-coche | comparativa | encolado | 5 modelos, 900+ palabras, 3 fuentes, 6 internos, ticket alto P2 — _entrada.json listo para publicador |
 | 2026-10-30 | como-montar-tu-kit-72h | revamp | encolado | Revamp stub 312w a 1200w+, 7 pasos, 2 fuentes oficiales (UE+Proteccion Civil), 19 internos, sin afiliados directos |
 | 2026-10-31 | recursos-oficiales-emergencia | revamp | encolado | Revamp 319w->1200w+, 3 afiliados, tabla, fuentes oficiales |
+| 2026-11-01 | mejor-walkie-talkie-pmr446-largo-alcance | comparativa | encolado | 5 walkies PMR446 + tabla + 2 fuentes oficiales. Estacionalidad: noviembre/invierno/apagones |
