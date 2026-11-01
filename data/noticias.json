@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-01T16:10:41+01:00",
+  "actualizado": "2026-11-01T19:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -20,6 +20,14 @@
      "fecha_txt": "1 nov"
     },
     {
+     "titulo": "¡ALERTA! Autoridades nacionales piden tener listas mochilas de EMERGENCIA para SOBREVIVIR 72 horas",
+     "url": "https://www.aztecalaguna.com/noticias/alerta-autoridades-nacionales-piden-tener-listas-mochilas-de-emergencia-para-sobrevivir-72-horas/",
+     "fuente": "aztecalaguna",
+     "resumen": "Campañas de prevención ciudadana en diversos países buscan asegurar insumos básicos ante posibles fallas de servicios o desastres naturales.",
+     "fecha": "2026-11-01T03:03:00+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
      "titulo": "Reino Unido promueve kit de emergencia para sobrevivir 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnl2U2M2UFRKWUpJRFZ5YjdEcnN2S3dlUWFXZ0tnYnB2TVNjREdCdW9odEU4TFBja3k5RWVTWEFXZG9zYWxUaFFSaXZxeExOT3pfSEdDUlRmblE1WXdVWjdNR3hYUWpYOE40Nm5SRDVrZkp3TjctMnQwUHBySkx3dlZCTDd3QWhGVHkw?oc=5",
      "fuente": "Diario Primicia",
@@ -33,14 +41,6 @@
      "fuente": "DSN Noticias",
      "resumen": "",
      "fecha": "2026-10-31T15:29:12+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Por qué Europa, Japón y otros países piden a sus habitantes prepararse para una crisis",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMng5aTVDdGNUc2lrMk03ZXZUeUJIZERZVnFlZHVhMm5nMUtnM2N6d1hSYnFKdWpUYzMtRGJPRHdUamRiaUhlYXlNb2dpTXJzTDJKR1F0WUFwNzJOb3VNR0tVVk5mamdwUHZZZWw0UWFsc2pvV25qazYwSmxldURCQTdjNnB5aXRxV01GcXdTWmlNUUZVUGU0VkxwcDdxLWNGXzE3Yl9NWlFoVzFvaGt5YTM2Vi1aRWFiR2ZaanhUVEZIZw?oc=5",
-     "fuente": "VirasoroVirtual",
-     "resumen": "",
-     "fecha": "2026-10-31T13:47:48+01:00",
      "fecha_txt": "31 oct"
     },
     {
@@ -154,14 +154,6 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Un análisis sobre las últimas catástrofes acontecidas en España: DANA y Alta Velocidad",
-     "url": "https://informativos.net/2026/un-analisis-sobre-las-ultimas-catastrofes-acontecidas-en-espana-dana-y-alta-velocidad/",
-     "fuente": "Informativos.net",
-     "resumen": "Hace dos años, una riada en España se llevó 234 vidas y anegó 567 kilómetros cuadrados, de los cuales un 10 % era superficie urbana. Antes de analizar cómo se gestionó aquella emergencia, deberíamos r ...",
-     "fecha": "2026-11-01T05:49:00+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
      "titulo": "900 euros al mes por un piso pequeño en Catarroja: ni la mortífera dana ha frenado los precios en Valencia",
      "url": "https://www.msn.com/es-es/noticias/otras/900-euros-al-mes-por-un-piso-peque%C3%B1o-en-catarroja-ni-la-mort%C3%ADfera-dana-ha-frenado-los-precios-en-valencia/ar-AA2gvqlM",
      "fuente": "elDiario.es on MSN",
@@ -176,6 +168,14 @@
      "resumen": "",
      "fecha": "2026-10-31T19:56:07+01:00",
      "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T18:44:44+01:00",
+     "fecha_txt": "30 oct"
     },
     {
      "titulo": "La jueza eleva a 234 la cifra oficial de víctimas mortales de la dana tras incluir a un vecino de Paiporta",
@@ -202,19 +202,19 @@
      "fecha_txt": "30 oct"
     },
     {
+     "titulo": "España vive una jornada de luto y problemas en el transporte mientras Valencia recuerda la dana",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSzFrbzYxOURYODFGaUtBQ3MxdFM2QUI3Zk1HSDJwcHJnWjJTRmZNdlJyS0s2SklleWNPSlVGRzZiLTllQ0RyalNHRm03aEVEV0RJcmJQZ3NwbUo5Zkw4YjlBWUp4OHhIblRNQTdmSVVfX3NKclFfZFJPZk8xWDJkMk8wcmlmbl96d2EzM0RELXpxRkpMblJwT3E0UTk4bDl5eGRjYg?oc=5",
+     "fuente": "La Noción",
+     "resumen": "",
+     "fecha": "2026-10-29T20:11:39+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
      "titulo": "Aulas en barracones, colectores por renovar y teatros cerrados: el atasco de las grandes obras en Algemesí tras la dana",
      "url": "https://www.levante-emv.com/ribera/2026/10/29/aulas-barracones-colectores-renovar-teatros-135900364.html",
      "fuente": "Levante-EMV",
      "resumen": "La lentitud administrativa frena el nuevo colegio y las obras clave en los edificios emblemáticos tras dos años desde la riada que dejó tres víctimas mortales y numerosos daños ...",
      "fecha": "2026-10-29T12:30:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "El Gobierno mantiene a medio millón de valencianos indefensos ante inundaciones dos años después de la dana",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjRKdXllVHloVGh6UThac2REc0dFLTljOXZOYjQ2UWdkSy1oNGZkUW1XNExEaUJhdmRQeGpsR01iNkJLeWhNWkZFMU1aMDVqSHBaYkpWZmEyLUp4V0NPQ2xxQjMwTFA2Tm5yUXdBV1JIa0RRNkttRkpLMW1TQno4MjBfWGtvVEtwRy1YYk4wS0hxWHA0MTJhRmlEOXNWcUV4NTZ2RVJSZ3BwMVY4WjJJQnN4SVhvQ0FLV184LTVDTFg2Y29VNF8zZHYzRGUzc2hmM2dMYTVFZ3EtclRQQ0c3MThUSEQzVGJpdDNOUkpJblRZcDBKaTBsZUpR0gH_AUFVX3lxTE5vNTA0OXoyV19WQkZKbkNkOVk0bmdJdFdGNUpnZXNjTTJLRWJXQWhsN3kzVjUtM00xTlU1ZkhHOFpYUFROQkpVYWwzWEtWMGFEU3I0QVI1eVZjZEs2eXphTl9JVWttRDA0WUhFeTExdl9DYVhxRGZmY0VGRUNHa1JDQ2ZFV1FBY2xOSVBxU1FyT25aTndlcldIWkRZMlZScFZVVmtwd1NHWjJ6b3lXajRMUU45bWFFdVVvU0pnRi1nXzZhY0JuQ2tuMTZzeVh6UU44Q0NOVnBTdDl2eVp2Rk0wQ3ZZSFhVa1JLTkk1cUpCZGx1TGNSZmFCTy1XVnlCVQ?oc=5",
-     "fuente": "Vozpopuli",
-     "resumen": "",
-     "fecha": "2026-10-29T04:45:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Málaga registra cortes de luz en ocho municipios tras el apagón de este sábado en La Línea",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ09KcVFrZGdQSDd3RjBZR1FRU2dFdGxZd2lFX3ZpSjlOdkt1VXo2bVJlam1pMjh4VVloazJSbkFHRGlVdmU3U01CWUdfUHVhQm1BU3ljY3d1eUFVUEFWRUpUWXl5Z2RZcE5XYWVQT1FKQ3RTcmdRNC1QWDZEWU9zTTdLaWJyVlRZNzBEX2ViQm9fWUYybnlJREdYblNhR2t6clJOdDMtNnduNWxCblY5SEFRV2FZa0NET0c5UDRYY0M5Q05TLTkyWWJycXFxVER4UWlwM0Nn?oc=5",
+     "fuente": "lavozdelsur.es",
+     "resumen": "",
+     "fecha": "2026-11-01T19:00:20+01:00",
+     "fecha_txt": "1 nov"
+    },
     {
      "titulo": "Apagón en Tenerife: más de 160.000 viviendas se quedan sin suministro",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmZ3b1JiOTdBUTBKVWdjYnVydmNFOW1FdlNObFF4OEZ3enVKZE9xQVJzcV9zLWFVVTczV1ZlcHBkNU81MEdJWjdkMEVEZlc0aS0zZnVNYmdxYWdwYm94MWlpWDN5RWJKVFZPbF9LQUhRcEM1MGFKRzVVR1dnd0RTVExrYUdTb3JvOVVOZk9ZamhGV3QzYzhlc2lLelI1UXpaRWEwMG0xOGN0MXVM0gGyAUFVX3lxTE1PTXN4Z3V6YmdJUjBwZ2pNcFpVanNJbFBfVjNVTGdVa0dJUFhhcGEzbFBSUHJkV21Ja3ZnSG1pazR0VEx1SmVtWjRYQWtTeXBoT0lGN1FqNWtlYm5DdGpkQmNOSGVsSFJrUUZiU0E2TUdIaktmdmZNUi04SlJqNmtwMloyRlBDMHRnQzR3TjRxdW9PZHZQVklMSTIwbXdQTDlxcWZMcmU3SzdBVHY2b3B6SXc?oc=5",
@@ -278,14 +286,6 @@
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-10-29T11:23:08+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "España, de referente en infraestructuras al deterioro bajo el mandato de Sánchez: un apagón y dos tragedias ferroviarias",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0ZkRTJKNzdManh5c2FMeEw2d19yXzNFSEhBaGN6ZmdyR2U1M195d3dXYWJjdFNrY1ZqSGdlYkNKUTBXUVFmWGR3RDliZTJ0dnprSl92THQzenVJRTkyN2Zkc2hfbFZEZFJTMk1zOVZYeU11Y2xERnBFNUlSQ2l3RkdfeGRtb3lGbnBQekRFdkp3NEVwR3NDdUlHQzZoeUhDNV9CbTRsM0JvLXdhR2tQMHJiTm82RW01YlRVdkEtem53UFQ3?oc=5",
-     "fuente": "EDATV News",
-     "resumen": "",
-     "fecha": "2026-10-29T10:32:00+01:00",
      "fecha_txt": "29 oct"
     }
    ]
