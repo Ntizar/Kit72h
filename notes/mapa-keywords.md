@@ -87,7 +87,7 @@
 | mejor bomba de achique para inundación | media (estacional) | compra | blog pendiente | ✅ hecha (2026-10-25) | P2 |
 | mejor arrancador de batería para coche | media | compra | blog pendiente | ✅ hecha (2026-10-29) | P2 |
 | mejor estufa de gas butano para apagón | media (estacional) | compra | blog pendiente | pendiente | P2 |
-| mejor walkie talkie PMR446 largo alcance | media | compra | blog pendiente | pendiente | P2 |
+| mejor walkie talkie PMR446 largo alcance | media | compra | blog pendiente | ✅ hecha (2026-11-01) | P2 |
 
 ## Reglas de contenido (para los crons)
 - Cada página nueva CITa fuente oficial con enlace (DG ECHO, Protección Civil, DGT, AEMET, 112).
