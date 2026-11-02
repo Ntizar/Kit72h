@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-02T01:10:41+01:00",
+  "actualizado": "2026-11-02T04:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,22 +17,6 @@
      "fuente": "Amazon.com",
      "resumen": "",
      "fecha": "2026-11-01T19:10:34+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Cada vez más países recomiendan tener un kit de emergencia en casa: qué debemos incluir y cuánto tiempo debe durar",
-     "url": "https://www.lasexta.com/noticias/sociedad/cada-vez-mas-paises-recomiendan-tener-kit-emergencia-casa-que-debemos-incluir-cuanto-tiempo-debe-durar_202611016ae7bdd4a5f83c2fb8ebf236.html",
-     "fuente": "laSexta",
-     "resumen": "Los detalles: El último país en sumarse a estas recomendaciones ha sido Australia, que se une así a otros gobiernos que insisten en la importancia de estar preparados. El mensaje es claro: conviene di ...",
-     "fecha": "2026-11-01T15:31:00+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Japón y Reino Unido piden almacenar agua y comida: ¿qué implica para México esta emergencia?",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3N3SDNzaWlla3hZdUpwWmNBMkoyQVBrdEViUWhPS3dhR2NnOUZRdGozaFo2cEdCMndpWTRJRTFZXy1oNy1aaThPdG8yR1R4ZlJoR3k3dEhhdEFvY0pqdEZ5QzRPNWRIWWVGS0RxclI0ZWY1ODliRTczS2xXR3hoZ0JFZ21MU2tVbDNpam9yNzlUSXQycmx2OHdxUHlZN05WVmplRVhoYlhSY2MyZGFVTWV0bWg1LTFtY1hQMGtmaE9tRmpjSHgwdzdwSzBrRjRobHc?oc=5",
-     "fuente": "Diario del Yaqui",
-     "resumen": "",
-     "fecha": "2026-11-01T04:22:45+01:00",
      "fecha_txt": "1 nov"
     },
     {
@@ -73,6 +57,22 @@
      "fuente": "Diario Primicia",
      "resumen": "La campaña Be Ready recomienda almacenar agua, alimentos y suministros básicos para afrontar hasta 72 horas sin servicios esenciales.",
      "fecha": "2026-10-31T12:45:00+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXhwZHNVRFl6OWVCUXlKTzFPcVhhbC1CMkdubF9RdnMzSUJxMnJxSXhsbW14LTUtUENWUV94LXNBVHp6RHZyUWdUdnpoSnpDWVdmM3hvaEJpQm5waEd2V1Q2UG5RbVA0ME1ZRGJ4OFp4WTlsS1J3LUZMdHNSWnF2VkdsNkM?oc=5",
+     "fuente": "Grupo Animal",
+     "resumen": "",
+     "fecha": "2026-10-31T12:27:57+01:00",
+     "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
+     "fuente": "Pasquale Pillitteri",
+     "resumen": "",
+     "fecha": "2026-10-31T08:52:58+01:00",
      "fecha_txt": "31 oct"
     }
    ]
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "🔴 Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte: ¿qué se sabe de la alerta?",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2FoZUs2THM3Q1I2YmUxLXhqRXkxMWJ4VEJRMTlwSVE0ZERqcjZHZF9VS3BrWG1IN1Mzcmxpamp1TXpNekdLVnQ3aFhEcG1tQVVRV19sSUZCMWFpSFAxdy1ial9Udkw3T1IyTTFqN3VNT3E1RVFNTS1ENzJCQXdIM3EyejQzeW90WFpQbk9UN3hwdmNwOHlIV2c2LXFETGpTamVWUkVGVUpBdDA2MUg5Q0N2cGRqOGhwMzE3NHAwZFBiTFk1bndXd0lNR3h6STRvY0p1MUd5bmF4Z0ZQVXRtV2N0REthUTBGeFE?oc=5",
+     "fuente": "Facebook",
+     "resumen": "",
+     "fecha": "2026-11-02T01:42:52+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Keiko Fujimori cancela viaje a España para atender emergencia por lluvias en el norte del Perú",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZoOGpER2F3ay1PZ09DWGQyZnJyNXV0ckUtcndqOEpZYnRIRUNiRnRTZFJkZjliT1Z1cFBGY2FTdjN1YjBMTkUyb05VUDNfUmtaZHFiaG5JR00yOVFYeEFPNFF6WkcxcFNtRi15djhiTU5keklSa3RDNFUxTS1YREZ3amJPUDRnVWJKTHpyNG9sVFRrX3Mya05OdGtGYVB0S1FkV3M4cEpjaDdCdGx1OEl3?oc=5",
      "fuente": "Willax",
@@ -202,19 +210,11 @@
      "fecha_txt": "31 oct"
     },
     {
-     "titulo": "La jueza eleva a 234 la cifra oficial de víctimas mortales de la dana tras incluir a un vecino de Paiporta",
-     "url": "https://www.rtve.es/noticias/20261030/jueza-eleva-a-234-cifra-oficial-victimas-mortales-dana-tras-incluir-a-vecino-paiporta/17294248.shtml",
-     "fuente": "RTVE",
-     "resumen": "La anterior actualización de la cifra total de víctimas mortales fue el pasado 28 de septiembre, para incluir a una mujer que falleció casi un mes después de las inundaciones en el hospital de La Fe ...",
-     "fecha": "2026-10-30T11:35:00+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Elevan a 234 las víctimas mortales por la dana en Valencia tras incluir a un vecino de Paiporta",
-     "url": "https://www.abc.es/espana/comunidad-valenciana/elevan-234-victimas-mortales-dana-tras-incluir-20261030163635-nt.html",
-     "fuente": "ABC",
-     "resumen": "El fallecimiento se produjo casi dos meses después de la inundación a consecuencia de una infección bacteriana ...",
-     "fecha": "2026-10-30T09:36:00+01:00",
+     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-10-30T18:44:44+01:00",
      "fecha_txt": "30 oct"
     }
    ]
@@ -225,11 +225,11 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Decretan la situación de emergencia: apagón en 160.000 viviendas en Tenerife y La Gomera",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTZxU3F1ZnFuVU93dXhsSW54YXU2Z3o2R3RFa1dvRXJuNmVuQkNNMWIyVGY0V1B6NkFWcl9NVHkwWmdlc3V0NDlmamZZdFdteHE3WUhGTWhmN0lESWNHOUVQcnVXLWxkdVh2YTNRNUt4TWdQRnVhX2JEM1hBLXQyc29ET1l2UWNVZVZER21GVHNsWm9SMUZ0TnhUM2ZaTWxkMU8zakN6MjhUQmpPRlRkbWxZbXhlRlhFQzBLbE5ad0dab2xjdlk00gHHAUFVX3lxTFBWNnpUOEVPcFNQNl9mRU0yTkgxUVkyTDd3enk2dlE5MnhCcXFfaUNnWXJaQ2pMYW1UUW9OT2llYTNtd3paa3JIU1RhRHlJYktrd1NpMkpiWXE4SUZlWl83N1hibnczcGlSVEhRSC1KZXo0V2hBUFJHOXZUbGJmWXdFbDZYRUl4bHYwNlpQdUZJakJjTEo4Xzk1NEEwS0NfeGRVR0tFdWM0czUya1dXM0ZQYjJGdVp4WHdYWmJwejdoSnl2cTFvSGs?oc=5",
-     "fuente": "MARCA",
-     "resumen": "",
-     "fecha": "2026-11-01T15:54:40+01:00",
+     "titulo": "Accidentes normales, fallos anormales",
+     "url": "https://www.elmundo.es/opinion/columnistas/2026/11/01/6ae7684921efa0647c8b4580.html",
+     "fuente": "EL MUNDO",
+     "resumen": "Pandemia, DANA, apagón, Adamuz, Ceuta, Urda. España encadena crisis y catástrofes. En todas, el Estado ha fallado a la ciudadanía, abriéndose un debate sobre si adjudicar ...",
+     "fecha": "2026-11-01T15:42:00+01:00",
      "fecha_txt": "1 nov"
     },
     {
@@ -241,12 +241,12 @@
      "fecha_txt": "1 nov"
     },
     {
-     "titulo": "Red Eléctrica, contra las cuerdas: seis apagones, dos paradas industriales y la desconexión de la central de Cofrentes hacen saltar todas las alarmas",
-     "url": "https://gaceta.es/espana/red-electrica-contra-las-cuerdas-seis-apagones-dos-paradas-industriales-y-la-desconexion-de-la-central-de-cofrentes-hacen-saltar-todas-las-alarmas-20261101-0105/",
-     "fuente": "La Gaceta",
-     "resumen": "La red ferroviaria no es la única que vive una situación límite a escasas semanas de las elecciones generales. Red Eléctrica, en manos de Redeia, presidida por la exministra socialista Beatriz Corredo ...",
-     "fecha": "2026-10-31T18:00:00+01:00",
-     "fecha_txt": "31 oct"
+     "titulo": "Red Eléctrica, contra las cuerdas: seis apagones, dos paradas industriales y la desconexión de la central de...",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPV2JGZ3JsUHBXeW04NF9BNEJIUVBCbVR6ZjN3U01ITXc0OTVhWGJVMnNMWjAwRXlMUVVyQ0c5LVR0TGNwWnFGel9iUTU5ekFyaEZGOGN4M3BqOE8xQXNaV3VnOFc5WnNOWGlyT2tSVmdZMmpNMkdSWkFIX1RIb2RianM5ZzhtRTFDaXNqWFRTV3pnTF9NWVdWcS15c0c3dnY0bDlnYXNDbzJsak1aWEFQNVBVaV9rVmpNWWFvX3pWd2xzSXdOeTN1M0pUSVFHWVdRdUxVeG1CREdoZnp2SXBTSjI5NnRUdzkyem81Nk4tZG1qX1NPTzlDSk5obllnQ1lHOEpxR0o3cEh6UGdGOW5ZYWF6OUTSAZoCQVVfeXFMTTdEOFZfM3pENE0yS28xMU9QZHpfb0VOR1d6T2V6b3N2a3lET2dOc2UxOG4wWEpORG9tZ3Bud1RKVTZsZ05oN0VnTmk3Wnc4QkRFT1JTWFVlWG5MXzdIZWU2eFRJb2pwYUF4U0dFUXBnWGNqWGY3X2FtdHRPeW5VX1hEdV9SR1Roa1NoaWluYkZJVDRIZnpURFpYVVRyRFJCUDVIa2diR1BNSXRCU0dxUm9HY1I1VE1QUHFaMzFtTDNjWGlaVVhfMXpKbUdCcFZCOTFGZzVDS0cyVDBlOFhsaTdtaTlGSDFsbnhGT1Q5V1NVcVVLTzBQTFdSVnZ0MVZVQ21LOXI0YnVrMFVSdDBVa2MtMkNJWGdaYjhB?oc=5",
+     "fuente": "La Gaceta de la Iberosfera",
+     "resumen": "",
+     "fecha": "2026-11-01T02:03:35+01:00",
+     "fecha_txt": "1 nov"
     },
     {
      "titulo": "Gonzalo Bernardos, economista: \"Después de lo de Adamuz, el apagón eléctrico, la invasión de Ceuta y lo de Urda, España no parece un país europeo, sino bananero\"",
