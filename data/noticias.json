@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-02T04:10:40+01:00",
+  "actualizado": "2026-11-02T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,6 +17,22 @@
      "fuente": "Amazon.com",
      "resumen": "",
      "fecha": "2026-11-01T19:10:34+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
+     "titulo": "Japón inaugura Agencia de Desastres y emite «llamado urgente» a la población",
+     "url": "https://internationalpress.jp/2026/11/02/japon-inaugura-agencia-de-desastres-y-emite-llamado-urgente-a-la-poblacion/",
+     "fuente": "internationalpress",
+     "resumen": "El gobierno japonés emitió un «llamado urgente» instando a toda la población a prepararse almacenando agua, alimentos y baños portátiles.",
+     "fecha": "2026-11-01T17:01:00+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
+     "titulo": "Japón y Reino Unido piden almacenar agua y comida: ¿qué implica para México esta emergencia?",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3N3SDNzaWlla3hZdUpwWmNBMkoyQVBrdEViUWhPS3dhR2NnOUZRdGozaFo2cEdCMndpWTRJRTFZXy1oNy1aaThPdG8yR1R4ZlJoR3k3dEhhdEFvY0pqdEZ5QzRPNWRIWWVGS0RxclI0ZWY1ODliRTczS2xXR3hoZ0JFZ21MU2tVbDNpam9yNzlUSXQycmx2OHdxUHlZN05WVmplRVhoYlhSY2MyZGFVTWV0bWg1LTFtY1hQMGtmaE9tRmpjSHgwdzdwSzBrRjRobHc?oc=5",
+     "fuente": "Diario del Yaqui",
+     "resumen": "",
+     "fecha": "2026-11-01T04:22:45+01:00",
      "fecha_txt": "1 nov"
     },
     {
@@ -58,22 +74,6 @@
      "resumen": "La campaña Be Ready recomienda almacenar agua, alimentos y suministros básicos para afrontar hasta 72 horas sin servicios esenciales.",
      "fecha": "2026-10-31T12:45:00+01:00",
      "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "¿Por qué los gobiernos de distintos países piden almacenar agua y alimentos para emergencias?",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXhwZHNVRFl6OWVCUXlKTzFPcVhhbC1CMkdubF9RdnMzSUJxMnJxSXhsbW14LTUtUENWUV94LXNBVHp6RHZyUWdUdnpoSnpDWVdmM3hvaEJpQm5waEd2V1Q2UG5RbVA0ME1ZRGJ4OFp4WTlsS1J3LUZMdHNSWnF2VkdsNkM?oc=5",
-     "fuente": "Grupo Animal",
-     "resumen": "",
-     "fecha": "2026-10-31T12:27:57+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Kit de emergencia ante un ciberataque, radio y batería externa",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmd1ejBzLUdJSEVObmN2VHM3SUxZeDBpSTBUY194NG9Td1lsRjFRRENZYThqUUFJTjhBTnVZNGY4WXJ1VU1CUVZMcGhSNjR0aEZ2QW9NZ3FRaTFPdnh0Wjc2VS1yTzhPS0ctYXJZRGxYempqd093X2tfa25Vd25KTHZMRU5OQ1Foa2E3Tg?oc=5",
-     "fuente": "Pasquale Pillitteri",
-     "resumen": "",
-     "fecha": "2026-10-31T08:52:58+01:00",
-     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -84,11 +84,11 @@
    "items": [
     {
      "titulo": "España encadena sus dos peores campañas de incendios del siglo: 630.000 hectáreas arrasadas en solo dos años",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTR2YTNzNklEYW1LZmlSWWN5TW1xbW5tR0tiVDhobmh4ZzB4Q2RRLW56M01KMHk4bjFNSWZySlhfVlpiZ2lmbFhMdmJKaUJyNzJTTHhhV1IwU25kekV6WHJrNnMwdUpvMzZ6RDdzM09tZnlldGhsczdud3ZTa3FsYktLMFg5bUc1YkNzWlRtRGVsVjQyNHhFZGdTYjRrNlh5MzlXVlV3YTE5ek9UMjZ3Q2UyS2lXLWtYRlpjeVVZMG4?oc=5",
+     "url": "https://elcierredigital.com/sucesos/espana-encadena-dos-peores-campanas-incendios-siglo-630000-hectareas-arrasadas-dos-anos",
      "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-01T04:00:03+01:00",
-     "fecha_txt": "1 nov"
+     "resumen": "España cierra 2026 con unas 275.000 hectáreas quemadas, que se suman a las casi 355.000 de 2025, en el peor bienio de incendios forestales de las últimas cuatro décadas. Según Copernicus, el país conc ...",
+     "fecha": "2026-10-31T21:59:00+01:00",
+     "fecha_txt": "31 oct"
     },
     {
      "titulo": "Galicia presenta el quinto mejor balance de incendios del siglo mientras España afronta su segundo peor año",
@@ -108,10 +108,10 @@
     },
     {
      "titulo": "España cierra la campaña de incendios 2026 con el segundo peor año en lo que va de siglo",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yVGlKZC1CdDh4ZmtqN2ZLR0llYkdGek55QUY3RnNSaWtoM0ljb0EzUjNBRXhqRnJ2MmJucFBtRjBIUUVxODFJcXVKUzFlbUdJNElWQVFWaHlJamRGZXB4c0hldW8xd3NncHlZUldfX2EweC11RHJoNWpGTjZsOWs?oc=5",
-     "fuente": "EFE Verde",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWEhETWJwQVYzNEhLeTlhQ2IyUXhJX0FlVnlJTzJkcXJZeXJacXNXa1ZJM0lBbmxFVkRXUTd5NE9wajNkaTl6RkQ0Vkd6TGZoOTZKWjhCZE9jRk9JSEpscnk5a1N5YXdTVFZnamlRcmlxQkdrYmJNVDJvMWg4Nlp5UFB5RllCdkV1XzBDN3JVRHliaTljMV9sb0RNdlBUMHZsOE5tOUhTTGJEYVdlZWZFdUFLX2wxUlRSSC1fMk1RUkRCRUVLU0xGYzRVOXBROUdjRzhmYkNNVGN1NUlpTHhtTEVqSQ?oc=5",
+     "fuente": "Diario del Alto Aragón",
      "resumen": "",
-     "fecha": "2026-10-30T17:22:55+01:00",
+     "fecha": "2026-10-30T21:51:35+01:00",
      "fecha_txt": "30 oct"
     },
     {
@@ -121,14 +121,6 @@
      "resumen": "",
      "fecha": "2026-10-30T11:01:51+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Los incendios en España han calcinado casi 300.000 hectáreas, el 44 % del total de la UE en 2026",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43RmdYQ3BLWFY1N2ZUcXFyblkta0tSMDQ2QU54Y0JacXZSY0tVSVJYcHFneDY2alhFOENYQTdYSDQybXBYa2xBTlMwUnhORHhoR201QUY2b2lKcW13Qk1hZzB0a1haUXdzUXV3OVFGN0JvakJGSEltUGZ5bw?oc=5",
-     "fuente": "Qué.es",
-     "resumen": "",
-     "fecha": "2026-10-29T16:00:00+01:00",
-     "fecha_txt": "29 oct"
     },
     {
      "titulo": "Copernicus confirma que 301.560 hectáreas se quemaron en España hasta el 28 de octubre",
@@ -144,6 +136,14 @@
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-10-29T12:47:06+01:00",
+     "fecha_txt": "29 oct"
+    },
+    {
+     "titulo": "Un total de 301.560 hectáreas ardieron en España hasta el 28 de octubre, el 42,9% de la UE, según Copernicus",
+     "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301560-hect%C3%A1reas-ardieron-en-espa%C3%B1a-hasta-el-28-de-octubre-el-429-de-la-ue-seg%C3%BAn-copernicus/ar-AA2glGrZ",
+     "fuente": "Europa Press on MSN",
+     "resumen": "MADRID, 29 (EUROPA PRESS) España ha registrado un total de 301.560 hectáreas (ha) quemadas desde el 1 de enero hasta el 28 de octubre de 2026, según el Sistema de Información de Incendios Forestales d ...",
+     "fecha": "2026-10-29T11:21:44+01:00",
      "fecha_txt": "29 oct"
     }
    ]
@@ -167,6 +167,14 @@
      "fuente": "Willax",
      "resumen": "",
      "fecha": "2026-11-01T21:14:05+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
+     "titulo": "Keiko Fujimori cancela su viaje a España por incremento de lluvias por el Fenómeno El Niño",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUWxmQ1RIYVlOeWlmNGJSY082a1FvOVIxaTB3cUF2Q1FCTVFFWU15c3VMLUlzUGh3c0RSNW5BbmFGQ3o4UEFVaUhjQWhtY2pCYm05UDJiR3p0VVIwQ3RZaFVucmJkQVBoM2FNWFhRbkV1bHY3VjkwY3NqTHAtMzk2YXBObzlXemhHQnkwUGNCWTc4WXdIUDc1OTBEMWZTVTRsYWtFTnBMWE93QVhzRkxCQnduOXdJd0RiRUtXR2ZlTlFkSjRPXy1DaEtOakk0YmtNWml0TFRuQ3RTS0JaMkHSAeMBQVVfeXFMTWFNaEg0c3Y1Z1hWWndhN1JjSEtoSUpPWUN1YVdOT3VjSXpnN2tkejFlUWdxUjkydTR4M050bnQxaHdYZE90WmZwMjVNNU9RUE0zaXExS0kyQUVYM1ZPb1B3YnpKaUJIR0VSSDBQRVdSRzRVY3NoeUVFS01rVE1ucGVlTzduRGZ4SENjYjJOQW9PM084aGNSRHVZNnFTbklGR0dyb2ptVWNmMUNpVTdwMnR2MmFFN0tRdEJFU2ZaQ2ZoOGUtdGlRd0FsYXFxM0p4WU94Y1B3bWE3N1czMk9sVWctdEU?oc=5",
+     "fuente": "La República",
+     "resumen": "",
+     "fecha": "2026-11-01T19:27:48+01:00",
      "fecha_txt": "1 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-10-31T19:56:07+01:00",
      "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Elevan a 234 el número oficial de víctimas mortales en la DANA de Valencia",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGc5NnFqajF5bzIydWcwc3N1TmZUWk82TnYyaHFKM0JQLVp4aEJWUmxUQlpOckd3c1NVODJXQzVZMi1UdlNvYnA0R2NhWUNIRUMybDJCQ3pTcTVKNEhNdklSMXRiTnNzTjlwYnlpOXpsdDJZRDdRQS10MXBsdE50MC1DTENqLUhMbjV6U2FWRkdPTkdJS01zUlFlcUZpSkFyWTB4bw?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-10-30T18:44:44+01:00",
-     "fecha_txt": "30 oct"
     }
    ]
   },
@@ -225,11 +225,11 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Accidentes normales, fallos anormales",
-     "url": "https://www.elmundo.es/opinion/columnistas/2026/11/01/6ae7684921efa0647c8b4580.html",
-     "fuente": "EL MUNDO",
-     "resumen": "Pandemia, DANA, apagón, Adamuz, Ceuta, Urda. España encadena crisis y catástrofes. En todas, el Estado ha fallado a la ciudadanía, abriéndose un debate sobre si adjudicar ...",
-     "fecha": "2026-11-01T15:42:00+01:00",
+     "titulo": "Decretan la situación de emergencia: apagón en 160.000 viviendas en Tenerife y La Gomera",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTZxU3F1ZnFuVU93dXhsSW54YXU2Z3o2R3RFa1dvRXJuNmVuQkNNMWIyVGY0V1B6NkFWcl9NVHkwWmdlc3V0NDlmamZZdFdteHE3WUhGTWhmN0lESWNHOUVQcnVXLWxkdVh2YTNRNUt4TWdQRnVhX2JEM1hBLXQyc29ET1l2UWNVZVZER21GVHNsWm9SMUZ0TnhUM2ZaTWxkMU8zakN6MjhUQmpPRlRkbWxZbXhlRlhFQzBLbE5ad0dab2xjdlk00gHHAUFVX3lxTFBWNnpUOEVPcFNQNl9mRU0yTkgxUVkyTDd3enk2dlE5MnhCcXFfaUNnWXJaQ2pMYW1UUW9OT2llYTNtd3paa3JIU1RhRHlJYktrd1NpMkpiWXE4SUZlWl83N1hibnczcGlSVEhRSC1KZXo0V2hBUFJHOXZUbGJmWXdFbDZYRUl4bHYwNlpQdUZJakJjTEo4Xzk1NEEwS0NfeGRVR0tFdWM0czUya1dXM0ZQYjJGdVp4WHdYWmJwejdoSnl2cTFvSGs?oc=5",
+     "fuente": "MARCA",
+     "resumen": "",
+     "fecha": "2026-11-01T15:54:40+01:00",
      "fecha_txt": "1 nov"
     },
     {
