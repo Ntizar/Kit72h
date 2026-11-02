@@ -71,3 +71,27 @@ test local: clave de volcado sin prefijo d: (escribía d:26-10-29) y fundir()
 anidando el mapa del día dentro del value. Tests con KV simulado en verde.
 PENDIENTE: deploy bloqueado — el token del .env no tiene Workers Scripts:Edit.
 Mientras no se despliegue, sigue corriendo la v1 (la que quema el cupo).
+
+## v2.1 — techo de seguridad (2026-11-02, VM)
+
+Alerta de GRADO: 1.000 writes/día AGOTADOS (KV bloqueado hasta el 03-11 00:00
+UTC). Causa confirmada: la v1 sigue en producción y el tráfico (~1.000 visitas
+con evento/día) quema los dos cupos a la par (1 get + 1 put por POST; también
+explica la alerta de lecturas del 29-10).
+
+Commit a00d151 (VM, pusheado):
+- FLUSH_SECS 300→1200: peor caso continuo 72 writes/día (7 % del cupo) aunque
+  el aislado reciba un evento cada 20 min todo el día.
+- `worker-eventos/test.cjs` NUEVO: batería con KV simulado, 5 bloques en verde
+  (POST sin ops KV, umbral 50 con MAX_POR_POST=20, fundir plano, vencimiento
+  temporal con FLUSH_SECS acortado, resumen con cache + 401 + 403).
+  Ejecutar: `~/.hermes/node/bin/node test.cjs` (package.json tiene type:module).
+
+DEPLOY SIGUE BLOQUEADO DESDE LA VM (no hay OAuth de wrangler aquí; el token
+del .env no tiene Workers Scripts:Edit). Dos vías, cualquiera vale:
+1. Desde el PC (donde está el OAuth del 26-10):
+   `cd Projects/kit72h/worker-eventos && npx wrangler deploy`
+2. Crear un token de API con permiso Account → Workers Scripts → Edit,
+   validarlo con scripts/sondear-cloudflare.py y dejarlo en el .env.
+Recibo del deploy: `curl https://kit72h-eventos.dantizar.workers.dev/` → ok
+y la alerta de Cloudflare no vuelve al día siguiente.
