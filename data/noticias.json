@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-02T16:10:40+01:00",
+  "actualizado": "2026-11-02T19:10:42+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,8 +12,48 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "México pide preparar mochila de emergencia para 72 horas y desata teorías sobre una posible guerra mundial",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGczdHdRbFZ2RGVlNFFUUTVqTkhlN0p4eDBIU0NKUzNnNk80OVllZmYxY18zWkd3NGJkOGp1endoTW9aWUM1emZXelNLNkZKYVlKSHJRZlc2bUkwV0h0cElKaXpsRTRqWXFGeF9BTmxvVVZmUTNfUmF6WkVyYlhzZWF4WTN5am1lX0YzZ2VhNWhMSjhlRy1hQzNSaE93RmtndFB2TXQ3Y2R2UDhfNXFHSFd4VnU1VDI1M0FNbml0V05sSTExcjI5N1Jqbk9WcF9PVEFMQ0V1a2YxMzFzVWRCLUxhLWlMTVhQX3A1VnQwRFo?oc=5",
+     "fuente": "Debate",
+     "resumen": "",
+     "fecha": "2026-11-02T17:48:31+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Gobiernos de 11 países piden almacenar alimentos y agua ante posibles emergencias: ¿qué está pasando?",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM3U5Tm9oV2FIYjJzVjRmVGZJZ25UNVNZTC1XbVhpMmxTR3JTdTQ5bGJvYmI4Q3R2WW9ZSjBUalU1MlQ3dnpKdkdjR3lTaTFRclowNVEyQ0pXSlpqei1xbUNnN09ibms4MzB3TW9NNllPOElwUXlsOUlyQ0NtVHA3OExOclJvTlk0aXFiaTVoX21OY0hnNlgzb25rbkY3SDZyczc4bVdHbFc4MEliMkZPdU5tYmdLMHJDMlhwZ2tLb3RiZGFuSllxeUVpOGxsUnFpa2lDdmtCLU1yVy1adVQ0eEtlaw?oc=5",
+     "fuente": "Debate",
+     "resumen": "",
+     "fecha": "2026-11-02T17:20:23+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "México, Reino Unido y Japón refuerzan llamados para preparar kits de emergencia de 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbm1mRHN4Y0hDSGs1S1R3cWxQTEo3UTROU1JBVkF3Q0hxYy1SbVpjZENQSEhqMDBqaGx3OXhzRU8yaHUtQk5MRlVuc3ptLTFQWjFPX1hOS1BZNG9hVTlhNVdaMUdoOER5MGlnNHV6NkxwMG0zSmZQYlVvV21uZ3B1dlF2YXZKUU9xb2c?oc=5",
+     "fuente": "Tribuna de la Bahia",
+     "resumen": "",
+     "fecha": "2026-11-02T17:03:25+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Países recomiendan preparar reservas para 72 horas: ¿cuál es el motivo?",
+     "url": "https://notigram.com/internacional/tendencias/paises-recomiendan-preparar-reservas-para-72-horas-cual-es-el-motivo-20261102-1817950",
+     "fuente": "Notigram",
+     "resumen": "Japón, Alemania, Francia, Reino Unido, México y otras naciones han reforzado sus recomendaciones para que la población cuente con agua, alimentos y artículos básicos ante posibles emergencias. Estas m ...",
+     "fecha": "2026-11-02T09:45:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "¿Por qué hay países recomendando armar mochilas de emergencia?",
+     "url": "https://revistaespejo.com/2026/11/02/por-que-hay-paises-recomendando-armar-mochilas-de-emergencia/",
+     "fuente": "Revista Espejo",
+     "resumen": "Países de Europa y autoridades de México recomiendan preparar mochilas de emergencia para sobrevivir al menos 72 horas sin ayuda. La guerra entre Rusia y Ucrania, los ciberataques y los desastres natu ...",
+     "fecha": "2026-11-02T01:44:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Impulsan países planes para sobrevivir 72 horas",
-     "url": "https://laopcion.com.mx/nacional/impulsan-paises-planes-para-sobrevivir-72-horas-sin-servicios-20261102-531485.html",
+     "url": "https://laopcion.com.mx/nacional/impulsan-paises-planes-para-sobrevivir-72-horas-20261102-531485.html",
      "fuente": "La Opción de Chihuahua",
      "resumen": "Reino Unido.- En las últimas semanas ha circulado en redes sociales que países como Japón y Reino Unido han emitido recomendaciones para que los hogares almacenen agua, alimentos y otros artículos de ...",
      "fecha": "2026-11-02T01:02:00+01:00",
@@ -28,52 +68,12 @@
      "fecha_txt": "1 nov"
     },
     {
-     "titulo": "El Pentágono prepara a EE UU para escenarios extremos y exagentes piden reservas de emergencia: ¿qué se sabe?",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkNSOVFpOEdGQnpmUGVMQVhoREo5WnZBXzE1Rmw3cHFOMm5hc25wRDllTG5idzdJaHhoRURSTElRX014S3hpYTB2RUFycWlsMXk0bEtxS1A1MU9JVmh0MDNfdm9FbnFoc1N0cGJ1YkhvNXcwLVRXN29GeFNWS0hTaXJlZVFUZU5wTVNnMFRhOG5PQ0NyMUdfRXU2bWJUd2QzUl9qS1lGdTVZTHlkTm5yM0c2TDhrcGJFMG43UUdLTWZaaUwwQWJheW9BQVcyU1N0LWViZG9R?oc=5",
-     "fuente": "Amazon.com",
-     "resumen": "",
-     "fecha": "2026-11-01T19:10:34+01:00",
+     "titulo": "Doce países recomiendan almacenar agua y alimentos ante emergencias: ¿qué está pasando en el mundo?",
+     "url": "https://dsn.pe/doce-paises-recomiendan-almacenar-agua-y-alimentos-ante-emergencias-que-esta-pasando-en-el-mundo/",
+     "fuente": "dsn",
+     "resumen": "Una serie de recomendaciones oficiales de 12 países de Europa, Asia y Norteamérica ha despertado inquietud internacional este lunes 2 de noviembre de ...",
+     "fecha": "2026-11-01T22:00:00+01:00",
      "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "¡ALERTA! Autoridades nacionales piden tener listas mochilas de EMERGENCIA para SOBREVIVIR 72 horas",
-     "url": "https://www.aztecalaguna.com/noticias/alerta-autoridades-nacionales-piden-tener-listas-mochilas-de-emergencia-para-sobrevivir-72-horas/",
-     "fuente": "aztecalaguna",
-     "resumen": "Campañas de prevención ciudadana en diversos países buscan asegurar insumos básicos ante posibles fallas de servicios o desastres naturales.",
-     "fecha": "2026-11-01T03:03:00+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Japón y Reino Unido piden almacenar agua y comida: ¿qué implica para México esta emergencia?",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3N3SDNzaWlla3hZdUpwWmNBMkoyQVBrdEViUWhPS3dhR2NnOUZRdGozaFo2cEdCMndpWTRJRTFZXy1oNy1aaThPdG8yR1R4ZlJoR3k3dEhhdEFvY0pqdEZ5QzRPNWRIWWVGS0RxclI0ZWY1ODliRTczS2xXR3hoZ0JFZ21MU2tVbDNpam9yNzlUSXQycmx2OHdxUHlZN05WVmplRVhoYlhSY2MyZGFVTWV0bWg1LTFtY1hQMGtmaE9tRmpjSHgwdzdwSzBrRjRobHc?oc=5",
-     "fuente": "Diario del Yaqui",
-     "resumen": "",
-     "fecha": "2026-11-01T02:43:00+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Reino Unido lanza campaña Be Ready para prepararse ante emergencias",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnl2U2M2UFRKWUpJRFZ5YjdEcnN2S3dlUWFXZ0tnYnB2TVNjREdCdW9odEU4TFBja3k5RWVTWEFXZG9zYWxUaFFSaXZxeExOT3pfSEdDUlRmblE1WXdVWjdNR3hYUWpYOE40Nm5SRDVrZkp3TjctMnQwUHBySkx3dlZCTDd3QWhGVHkw?oc=5",
-     "fuente": "Diario Primicia",
-     "resumen": "",
-     "fecha": "2026-10-31T20:28:14+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Japón anuncia un llamado de emergencia para el 2 de noviembre: ¿por qué pide almacenar provisiones para siete días?",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQei02azdZN1NaeE9SMXJsZjgxc1V4dzhueVVDZ21Vc0NIcHg2QkNSQ0w2T1VwWTlyUlhqVUdKUUFXZTM4blJLaTdheWVIOFptSGUyNEtjYVVQWkg5ak9BX21xRGoyX0xadDdUcm1vMEVxNkdtZ1VxRVdSNHF5OU5mX1JWbnV0aUVULXoxc1pBQlZOMkphSXdCTy1wT2VrdnpCbVhxTE51b2hOWW1LVGtWRERLRTdnMmZoOEJMZWZhQXE4RDdRY2o4?oc=5",
-     "fuente": "DSN Noticias",
-     "resumen": "",
-     "fecha": "2026-10-31T15:29:12+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Reino Unido promueve kit de emergencia para sobrevivir 72 horas",
-     "url": "https://primicia.com.ve/mundo/reino-unido-campana-be-ready-kit-emergencia-72-horas/",
-     "fuente": "Diario Primicia",
-     "resumen": "La campaña Be Ready recomienda almacenar agua, alimentos y suministros básicos para afrontar hasta 72 horas sin servicios esenciales.",
-     "fecha": "2026-10-31T12:45:00+01:00",
-     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -82,6 +82,22 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-02T17:47:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Declarado un incendio forestal en Velefique (Almería) que moviliza a unos 80 efectivos terrestres y tres helicópteros",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFZwUU9qRWFfZGQ2QU4yNHZfN01mbHFZWHhMYlNTRGdfRk90a1BLOXBTOEZRbDlsVU9FdUN3WTJaMERSZWdKTVlrNHZKVWRPVGt0RGYtaUxtZ1ZSNXpnd010dkUtaURsM3BRZ3p0LThwT0xSRjl1RDR5cGNOYXJyaVd2TWFPd29FbzlNYmdieDJSdEVDX09WdEM1cG53eHdhNWFnYjY2ZTN4RWc3ajNmN1BGMA?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-02T16:52:00+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Ante el inicio de la temporada de incendios forestales, expertos de Chile y España se reunirán para fortalecer la prevención y respuesta ante emergencias",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzU0WWotUlhkVWY0MV9CUmU0U3dndFo2Vk9GRm5mS2E3Y0dwMklhNzBGd0ItV0UxZ1ZZVVVrVnNWaW5fQ2lFNTRHWGRPbkVCamwyQmNzVWtBUTdDN1Z4NFk3Z0k5VmRVcWFtWk5GdC10WlZsalUzMmZVQUFQMlAxaWpadXBzcDR5WUVXLVdlOW5YcHZKMEhXWg?oc=5",
@@ -95,7 +111,7 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHVnM3VXQnZlWG41d2JwaTdwQTJFdTB0RlBaU2NwSi13bS1Jc0FxQ1EzcjVmMTNRUnJHUmluUTBySUZDWUhzLXI5cTdEeGZjVVFCUlU2cXZMcFVEa0M5QWhKYTl3MEl6aVkzRkJkMFFteUcwdXF1em1SdUt0QnVkUEtOZXc2aVJEOEZDNm52UkNXN1lXbHNYOHNCYW5rNURTQ0E?oc=5",
      "fuente": "elTOQUE",
      "resumen": "",
-     "fecha": "2026-11-02T12:04:27+01:00",
+     "fecha": "2026-11-02T14:30:00+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -129,22 +145,6 @@
      "resumen": "El Ministerio del Interior ha confirmado que el Gobierno de España ha solicitado a la Unión Europea la creación de una base aérea en Mallorca para combatir los ...",
      "fecha": "2026-11-02T03:48:00+01:00",
      "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "España encadena sus dos peores campañas de incendios del siglo: 630.000 hectáreas arrasadas en solo dos años",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTR2YTNzNklEYW1LZmlSWWN5TW1xbW5tR0tiVDhobmh4ZzB4Q2RRLW56M01KMHk4bjFNSWZySlhfVlpiZ2lmbFhMdmJKaUJyNzJTTHhhV1IwU25kekV6WHJrNnMwdUpvMzZ6RDdzM09tZnlldGhsczdud3ZTa3FsYktLMFg5bUc1YkNzWlRtRGVsVjQyNHhFZGdTYjRrNlh5MzlXVlV3YTE5ek9UMjZ3Q2UyS2lXLWtYRlpjeVVZMG4?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-01T04:00:03+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Galicia presenta el quinto mejor balance de incendios del siglo mientras España afronta su segundo peor año",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVURwSUdvUmxJSjFTY0hhWURsY0VVRWN0Tk13MFhqYUZCOTYxdjVZLXd1ZzdZYjN1bFNBYnVkcDhZN3djc1ZhNVU5anNIVUNhdHBDckk0bko2aVpSSEtHVEF0SEg0VUtGLVM1cHdJeHA3MDJoN3NOWWtjZTMxcFhXdXJZaW1fOUdmMzVwRnEwQ0FRN04wVEZwQTcxYmFjQdIBowFBVV95cUxQV25RMVg3WExIQ3BXSFpJR3p5RXVaVl91YURFdFZoaFhHOC1IZFo5Z291NUVoeWhrRU9zcHVnX2g2RTFjbFBTR0xlMElyQmswRkhmV1dTd0ZWbXlxV0ljdzlLbkRYdG01OW9qUEFBakxKRVJGNXhyWnFxaXBPOHBBcU9YRFJNcncwUFlJZFJPeTJ5WnJlTEhzT3otVi1ndm9NSmFv?oc=5",
-     "fuente": "Faro de Vigo",
-     "resumen": "",
-     "fecha": "2026-10-31T06:01:02+01:00",
-     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -186,6 +186,14 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "Paterna refuerza su protección frente a inundaciones con seis balsas ajardinadas de laminación",
+     "url": "https://www.msn.com/es-es/noticias/otras/paterna-refuerza-su-protecci%C3%B3n-frente-a-inundaciones-con-seis-balsas-ajardinadas-de-laminaci%C3%B3n/ar-AA2gC4se",
+     "fuente": "Europa Press on MSN",
+     "resumen": "VALÈNCIA, 2 (EUROPA PRESS) El Ayuntamiento de Paterna (Valencia) está proyectando la construcción de seis balsas ajardinadas de laminación en diferentes puntos de la ciudad para mejorar la gestión de ...",
+     "fecha": "2026-11-01T21:49:00+01:00",
+     "fecha_txt": "1 nov"
+    },
+    {
      "titulo": "Un análisis sobre las últimas catástrofes acontecidas en España: DANA y Alta Velocidad",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOThnUFY2NmdjdVpMYml4QVUzeDl6Z1lhQS14aG1MX3diZmZOcWs2TGhFVE5ucFNkT1pWWHkxZEFyTFJ3MDh5amRjSzBkWXJNVzF0enNETGRFWVJualhma3VsWlNmNXl1VlZXS0JkOFNROVo5cng1Nk8zd2pZa1ByMUltbGdvYlRCMU1xLW9NYWMwcWtJTlhKUVRUMzJiSDlob2hxWXRORWtWVXNZNjdqNG5IZHFERjg?oc=5",
      "fuente": "Informativos.Net",
@@ -208,14 +216,6 @@
      "resumen": "Antes de la dana de 2024, la renta de un piso en esta localidad tenía un coste de 8,9 euros el metro cuadrado. Ahora la cifra ha trepado a 11 euros, un aumento del 23%. En Paiporta, un panorama simila ...",
      "fecha": "2026-10-31T23:30:00+01:00",
      "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXRKUE4wY0FLUUFZMXZGdXhlVFFhc19zYjV5d29JU0QtZzE2RXNUakVDMDZsLU1qdnBlOEltVmlmVm80UmQtTkVTbmx6eG1VZzdzUXFBN1lqZWowUFpPZU1Yb2FWeWVJYVlNY1FoSUM0LWVkY21CM256Mm5QaWEwcW5TQTJWZkRNeVp4V3doRmZGNTBwM0pubW5RS1FVZzl6Y21qaHdMZlBGUnMxaHVNYmFFYUxrQ1VxVFAzMkJ6Y1FBYmdsd09UalhDUExzNTdDZG9VME96YmJpdHU4OVdveGNjMUvSAeoBQVVfeXFMUF9RY1JRUXljVjllb1V0S3Y2UV9oQ1JZdnRjcnRkYlhObDROMUN6ZUhpR3YtQW5WWW5sMC1CYWFzZ3psM05qT2Q4MXZnT3V4OWRRWWgtaEpzNzN3ZUNiVUZ6Q3dLZE16QjlLRVNUR055S1Z3OF9FVzg4c2VLM2ZPV1BmZksyblpZYl9YWEJKU0lqbzNHSkZDd0F4bjJVZGU0a2JGa2NqMThvZm16UFl4M3Y1LTV2VTEzNDhjZVRLdmN4NUI4S1diZ0prLUlFTk5yRDJicjZBQXJQd0FXaFJCRFpCa1ZXTWdTLTlR?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-10-31T19:56:07+01:00",
-     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -224,6 +224,30 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Garriga carga contra el Gobierno tras el apagón de La Palma: «Han traído la tercermundización a España»",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXRpYjNCTDE5ckR3NThoZ2VJbXdhNkRYS25mUHp4Sm1GaVF6VHN1TGVwUlpMeGUtSVpoRFhHWldhSFQtdWZySlFRSEl0My1ibU1DNWFtQjNadG1DdkxwalVlYU1hTFpxRllvUnlYQ3QzbTFab1Q3OEgyTWhiRmlxWFdWTnZYN2cybmhDUXZXYWJkOUhjVWhNdG93V2Z5QTVHaXVHcGlfeDEwQ0FPdEJzN1p1SmZtU1NHMmZCY08yUk4yd0wtbDVfQjZXeHhKYzFGclHSAdcBQVVfeXFMTjFBQUxYLV9GbEtERmx0WThxWkU2djJWSEFzRWJ2QnJZOHhWXzJBYUU1UGNheUFPbFZ0VllQbzlCaTV2c2ZCS21CV1pTcTNmRjhIU3IxRHltckkzOXZVQXpVMzRtQ3UzbmQzUktKUjE3dmZvem1SWTNfTEFXVXhuaW8xT0c0T1YtV3Q2OW85eEpETDNrbGZTbGV0Rmxwa245eE5Ucjhob190N2pxQlRFTmhOOTB2VVhmR2NfR3EwWWRzRmRHTHExMHVBdkhpMWlRSHAxcEFCWGs?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-11-02T16:57:51+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Abascal denuncia la \"tercermundización\" de España bajo el Gobierno del PSOE tras el apagón de La Palma",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU5Na2MyUDg3dHg0WVJkSnhHUUkwWmExd0ZycTRrR0FpTWhrd3prT0FSa0V1Y3lmOFA2alBkNGdyUi04WHY2R1dtNnlEdW5iWDNFRVJmQ19lVGZ0WVRjekFSdVRDTk1YaDQzTW5aZVotUEhXMTYwWHVvaWNhNHNNX25QSjNJLVYwS0NianExdFFtWjVjN05GUk1OdWZHLVhYd1BDeDJkeGRqdw?oc=5",
+     "fuente": "EDATV News",
+     "resumen": "",
+     "fecha": "2026-11-02T16:10:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
+     "fuente": "Milenio",
+     "resumen": "",
+     "fecha": "2026-11-02T15:34:00+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Declaran alerta en una isla española tras apagón que dejó sin luz a toda la población",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmlhS3lYTmVTcm9KZUZqVFFMMHhPUzk2SS00M2dNMjlkR2h4d2JTNGdwbWF1YnZrV00xLUJLSE9GSUZ2VHNXRDRsaGhDU2JzRENWM0tkTmNIYzRsSlllX2lWVkxDZkxGYmx4QW1NakcwelpKQV9uLS1hc2JPRDdnT193VEdJdw?oc=5",
@@ -249,43 +273,19 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "La Palma vuelve a sufrir un apagón general: Más de 50.000 afectados y una red eléctrica 'bajo sospecha'",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmRSaGJBaF9tODZscm0zNlRTbGZMemFtQ2JYTGhzSDZOWmNUNGN6UlBFbkdVVHNrb0J1blFRMFhITDFSN3BJbFpRcHNRMXJTSEozd3JwbTc3VmFLSmR1OTc3WU1DcWplSEJyMFdZVFJLX2pOdjJndGtHX1RUVFgxS01yRUx6WWY0S0JQeDZxMzJ2dl9XZklMcU9nUl9TVm1vczhVYTdQYy1PMkZmMHQxRlpocS1sZzN2X0dKNjJB?oc=5",
+     "fuente": "El Cierre Digital",
+     "resumen": "",
+     "fecha": "2026-11-02T12:36:21+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Vox dice que el apagón en La Palma es \"un signo más\" de la \"tercermundización\" de España",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWczMGlmWkkzNUFlZUdZaFVqczN5bWdySUVMVDVwdWRRZ1JycllrOUdMQk5rZmtUYTM5aWRYMXVQci01bHl0SFJmb1JPbGVwTldOeG9ocGNyMS01aXJiWDg1OXJncURWSVRSMGhxU3B4MVJtRUdpYmluajJRTlhGSHFheG9TNUJfdWZYOEt3aXVRZWhwTmRkZjJoVWVlaWNtd2ZBX0R3?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-02T12:00:47+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "La Palma, España, habría sufrido un apagón total",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQMUdLeW1IV2gxbUVqbzVaWjA3RlBBZkN1emVtQWlzUkZEUlE0UFZaSnhKWklreWsxck5fT1B2TTZtQ3l3c3l4N3hmeDRtZmZjN0tkSnJscFYzcERndWIwNTZxQUJvamRRSFE?oc=5",
-     "fuente": "cedarnews.net",
-     "resumen": "",
-     "fecha": "2026-11-02T11:27:47+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "El Gobierno se muestra «pendiente» del apagón de La Palma y de los temporales en Canarias",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVdqNjVfSzhzNlV0WEJTdEhUTXJQd19uV3ZFaFZlekptWldzbThLUGVCZ29fRlNUaTNVbm5VSDdzWm1qalZMS2FiT1JDT0loWk92aXduZW05ZUVDSk9rSjJocC1VWUNzbFlwUXVCa2dWRW5MX0VTRmZQd25VZERUZGpIMNIBiAFBVV95cUxPb3BkdGE1TlJTVTZVbzBxdWlBT2JFRFNsaWQ3aHFHT2xzRkdTVjQ4TXQ4ZldCVzNDRWx3d2J0VEdBS0FHQ2F0X3BaVmhMYmRwMVkxR0xUNjVjREdFV1dzTjNJZ2ZxUkRmdXpHSEw4cUtFQjl2UEZnWVpFeW8temlQa1VVQ21NMXJy?oc=5",
-     "fuente": "The Objective",
-     "resumen": "",
-     "fecha": "2026-11-02T10:22:44+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Quién es Beatriz Corredor y cuánto cobra la presidenta de Red Eléctrica en España: mas de 500.000 euros al año",
-     "url": "https://www.msn.com/es-es/noticias/otras/qui%C3%A9n-es-beatriz-corredor-y-cu%C3%A1nto-cobra-la-presidenta-de-red-el%C3%A9ctrica-en-espa%C3%B1a-mas-de-500000-euros-al-a%C3%B1o/ar-AA2gAw3r",
-     "fuente": "La Razón on MSN",
-     "resumen": "La exministra madrileña encabeza la firma corporativa participada en un 20% por la Sociedad Estatal de Participaciones Industriales desde febrero de 2020 ...",
-     "fecha": "2026-11-02T04:55:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Restablecido por completo el suministro eléctrico en La Palma tras el cero energético",
-     "url": "https://www.elespanol.com/invertia/empresas/energia/20261102/apagon-total-palma-hoy-directo-ultima-hora-cero-energetico-dejado-isla-sin-suministro-electrico-emergencia/1003744443080_10.html",
-     "fuente": "El Español",
-     "resumen": "Operar con instrumentos financieros o criptomonedas conlleva altos riesgos, incluyendo la pérdida de parte o la totalidad de la inversión, y puede ser una actividad no recomendada para todos los inver ...",
-     "fecha": "2026-11-02T04:42:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
