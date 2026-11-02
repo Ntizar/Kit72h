@@ -40,3 +40,4 @@
 | 2026-10-30 | como-montar-tu-kit-72h | revamp | encolado | Revamp stub 312w a 1200w+, 7 pasos, 2 fuentes oficiales (UE+Proteccion Civil), 19 internos, sin afiliados directos |
 | 2026-10-31 | recursos-oficiales-emergencia | revamp | encolado | Revamp 319w->1200w+, 3 afiliados, tabla, fuentes oficiales |
 | 2026-11-01 | mejor-walkie-talkie-pmr446-largo-alcance | comparativa | encolado | 5 walkies PMR446 + tabla + 2 fuentes oficiales. Estacionalidad: noviembre/invierno/apagones |
+| 2026-11-02 | mejor-estufa-gas-butano-apagon | comparativa | encolado | 5 estufas butano, ~2200 palabras, 3 fuentes oficiales, 5 afiliados ntizar-21, tabla comparativa |
