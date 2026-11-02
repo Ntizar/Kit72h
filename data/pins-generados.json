@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-10-29",
-    "total": 86,
-    "png_total": 86
+    "ultima_generacion": "2026-11-02",
+    "total": 87,
+    "png_total": 87
   },
   "pins": [
     {
@@ -778,6 +778,15 @@
       "emoji": "📖",
       "pin": "pin-blog-paneles-solares-sin-bateria-que-kit-necesitas.html",
       "png": "png/pin-blog-paneles-solares-sin-bateria-que-kit-necesitas.png"
+    },
+    {
+      "slug": "pin-blog-mejor-walkie-talkie-pmr446-largo-alcance",
+      "tipo": "blog",
+      "titulo": "Mejor walkie talkie PMR446 (2026): 5 modelos probados para emergencias",
+      "url": "https://kit72h.com/blog/mejor-walkie-talkie-pmr446-largo-alcance/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-walkie-talkie-pmr446-largo-alcance.html",
+      "png": "png/pin-blog-mejor-walkie-talkie-pmr446-largo-alcance.png"
     }
   ]
 }
