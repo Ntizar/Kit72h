@@ -38,8 +38,12 @@ const EVENTOS_VALIDOS = ["clic-amazon", "scroll-50", "scroll-90"];
 const MAX_POR_POST = 20;
 const MAX_RUTA = 200;
 // v2 modo tranquilo: parámetros del flush a KV.
-const FLUSH_EVERY = 50;   // eventos acumulados → escribir ya
-const FLUSH_SECS = 300;   // o 5 min desde el primer evento pendiente
+// Techo de seguridad (alerta 01-11: 1.000 writes/día agotados con la v1).
+// Cálculo: 24 h / 20 min = 72 writes/día en el PEOR caso continuo (al menos
+// un evento cada 20 min todo el día); 5 días así ni rozan el cupo. Si un día
+// hay mucho tráfico, FLUSH_EVERY agrupa aún más (50 eventos = 1 write).
+const FLUSH_EVERY = 50;    // eventos acumulados → escribir ya
+const FLUSH_SECS = 1200;   // o 20 min desde el primer evento pendiente
 
 /* Memoria del aislado: comparte entre peticiones el mismo global (ver
  * https://developers.cloudflare.com/workers/runtime-apis/global-scope/).
