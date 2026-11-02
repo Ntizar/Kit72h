@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-02T07:10:40+01:00",
+  "actualizado": "2026-11-02T10:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Cada vez más países recomiendan tener un kit de emergencia en casa: qué debemos incluir y cuánto tiempo debe durar",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYWdJRlJXc1IzX0ZxdEtEMWROcmNkN1BZbnhzaVdqRUxzUUx1SWRIUjVPZnlkNXdVSVo1M1h1eXB5M05HQlBNaDhCT3J0ZkNDQXY4OXlCbmVxLTR1NlppOHlTTHJpV1hySkJINUU3YXY1ODBwVTI5dXRRak5tSDBvRzRFS2tOZmlpUHZja2dPclFPNUtXT3QwY0xDZU5RV2NjazVsZFhGeWF0THRNb05rSjZqWEpvOXVSNklpTVlhLUhPVUV3U2FxY1dVX0t6V216UkN4Y0c3SmxCOTl2UWliSEVEa0MzRkpBSVpxOVNzYzBjVzZqNU0yVXZSZUkwMWtmNHYtbDFwVkRTOUltalYw0gGPAkFVX3lxTFA1dnRJcFlDT3ZSRklDMlZxMGN3SUJHVlEyZldMa1pSTEhTMEFySkd2UWhLbUwtTzNlSFVBRlVJYld5TGVsd1FOZUowZmZMY2phOWpsaEtzNVY1NjN3cTczWEFUR1pNNkhqbGFkaHd1RXRwbTNpRmFDb3pmSUpBM3E0VHRJLVM0bkZOSGhCRHJCM0tiMjczT0V4NmFHbG45c0IzckJZdE9kV1dzVEVSZzhrQzAwODNUcHFrcmJacmxMaVZKbmdOVWI0Y2dBUlBELWFlbXNBLVdEMXNSdkFHUW04eGdLYy1PSjVENTBVWWdPZExWUnc5eU9qUW96XzBUYnFUQndJd1RHbEJvbFlpOEU?oc=5",
+     "fuente": "LaSexta",
+     "resumen": "",
+     "fecha": "2026-11-01T23:31:48+01:00",
+     "fecha_txt": "1 nov"
+    },
     {
      "titulo": "El Pentágono prepara a EE UU para escenarios extremos y exagentes piden reservas de emergencia: ¿qué se sabe?",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkNSOVFpOEdGQnpmUGVMQVhoREo5WnZBXzE1Rmw3cHFOMm5hc25wRDllTG5idzdJaHhoRURSTElRX014S3hpYTB2RUFycWlsMXk0bEtxS1A1MU9JVmh0MDNfdm9FbnFoc1N0cGJ1YkhvNXcwLVRXN29GeFNWS0hTaXJlZVFUZU5wTVNnMFRhOG5PQ0NyMUdfRXU2bWJUd2QzUl9qS1lGdTVZTHlkTm5yM0c2TDhrcGJFMG43UUdLTWZaaUwwQWJheW9BQVcyU1N0LWViZG9R?oc=5",
@@ -57,14 +65,6 @@
      "fuente": "DSN Noticias",
      "resumen": "",
      "fecha": "2026-10-31T15:29:12+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Por qué Europa, Japón y otros países piden a sus habitantes prepararse para una crisis",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMng5aTVDdGNUc2lrMk03ZXZUeUJIZERZVnFlZHVhMm5nMUtnM2N6d1hSYnFKdWpUYzMtRGJPRHdUamRiaUhlYXlNb2dpTXJzTDJKR1F0WUFwNzJOb3VNR0tVVk5mamdwUHZZZWw0UWFsc2pvV25qazYwSmxldURCQTdjNnB5aXRxV01GcXdTWmlNUUZVUGU0VkxwcDdxLWNGXzE3Yl9NWlFoVzFvaGt5YTM2Vi1aRWFiR2ZaanhUVEZIZw?oc=5",
-     "fuente": "VirasoroVirtual",
-     "resumen": "",
-     "fecha": "2026-10-31T13:47:48+01:00",
      "fecha_txt": "31 oct"
     },
     {
@@ -154,11 +154,11 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "🔴 Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte: ¿qué se sabe de la alerta?",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2FoZUs2THM3Q1I2YmUxLXhqRXkxMWJ4VEJRMTlwSVE0ZERqcjZHZF9VS3BrWG1IN1Mzcmxpamp1TXpNekdLVnQ3aFhEcG1tQVVRV19sSUZCMWFpSFAxdy1ial9Udkw3T1IyTTFqN3VNT3E1RVFNTS1ENzJCQXdIM3EyejQzeW90WFpQbk9UN3hwdmNwOHlIV2c2LXFETGpTamVWUkVGVUpBdDA2MUg5Q0N2cGRqOGhwMzE3NHAwZFBiTFk1bndXd0lNR3h6STRvY0p1MUd5bmF4Z0ZQVXRtV2N0REthUTBGeFE?oc=5",
-     "fuente": "Facebook",
+     "titulo": "Alerta por tormentas este lunes | La Aemet anuncia lluvias fuertes y persistentes en Canarias",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTFkcXQzMkJUNERsX0duTWpvaWV6U0JRYVMxSGt3WFBHM0ExVHhtbGItRXliS0Z1XzRZbzVHVkUyenFhMUpqeWVkcW9ETFVvbzR2YmhmZUhJY19HdlMwbTF1Zmw2Nnl1QlY4bXMwaEFHc2hXZHB5dW8wRkRMS0gtOHZHVkhVcndmMGtiOU91U0xucVFYSTByaTQtNEpfWHp3eHpQQnBQV1hiOFRwYm1xcTFUTWhGcXJRQ1pGcEFWNS1ka2lwdjdGVFdpMVgySE5Jazg1dtIB7wFBVV95cUxNNTQxamxqM25hbkZVOW5vYWZobmladEpRNVl0eG5YZXRrT2ZqN3dvbEM2d1JUbkdiZEc5RExpbUZMM2ItMGs0UGh1RDYtNjFmdmhSRU8waUo2eUJUX3JGV3kwdS1qeGVROVF2b0xHOGRMX3NQV0NHTFFrenNITUxmNTQ4OHNJN0VBc01yWnduZTB5V29qOUtwazZudTVlTDBJZVhDQjFQWFdxUmZ1RFpiUDVTNkdncTNiN1pvdHIxbzF3QXlBVlpxMWJwVXIxWGVCcmhCN052OTRVVGw2UDBTRHIzdWNPRnlqVzBubHZOcw?oc=5",
+     "fuente": "El Cronista",
      "resumen": "",
-     "fecha": "2026-11-02T01:42:52+01:00",
+     "fecha": "2026-11-02T07:02:57+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -170,19 +170,11 @@
      "fecha_txt": "1 nov"
     },
     {
-     "titulo": "Keiko Fujimori cancela su viaje a España por incremento de lluvias por el Fenómeno El Niño",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUWxmQ1RIYVlOeWlmNGJSY082a1FvOVIxaTB3cUF2Q1FCTVFFWU15c3VMLUlzUGh3c0RSNW5BbmFGQ3o4UEFVaUhjQWhtY2pCYm05UDJiR3p0VVIwQ3RZaFVucmJkQVBoM2FNWFhRbkV1bHY3VjkwY3NqTHAtMzk2YXBObzlXemhHQnkwUGNCWTc4WXdIUDc1OTBEMWZTVTRsYWtFTnBMWE93QVhzRkxCQnduOXdJd0RiRUtXR2ZlTlFkSjRPXy1DaEtOakk0YmtNWml0TFRuQ3RTS0JaMkHSAeMBQVVfeXFMTWFNaEg0c3Y1Z1hWWndhN1JjSEtoSUpPWUN1YVdOT3VjSXpnN2tkejFlUWdxUjkydTR4M050bnQxaHdYZE90WmZwMjVNNU9RUE0zaXExS0kyQUVYM1ZPb1B3YnpKaUJIR0VSSDBQRVdSRzRVY3NoeUVFS01rVE1ucGVlTzduRGZ4SENjYjJOQW9PM084aGNSRHVZNnFTbklGR0dyb2ptVWNmMUNpVTdwMnR2MmFFN0tRdEJFU2ZaQ2ZoOGUtdGlRd0FsYXFxM0p4WU94Y1B3bWE3N1czMk9sVWctdEU?oc=5",
-     "fuente": "La República",
+     "titulo": "🔴 Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte: ¿qué se sabe de la alerta?",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2FoZUs2THM3Q1I2YmUxLXhqRXkxMWJ4VEJRMTlwSVE0ZERqcjZHZF9VS3BrWG1IN1Mzcmxpamp1TXpNekdLVnQ3aFhEcG1tQVVRV19sSUZCMWFpSFAxdy1ial9Udkw3T1IyTTFqN3VNT3E1RVFNTS1ENzJCQXdIM3EyejQzeW90WFpQbk9UN3hwdmNwOHlIV2c2LXFETGpTamVWUkVGVUpBdDA2MUg5Q0N2cGRqOGhwMzE3NHAwZFBiTFk1bndXd0lNR3h6STRvY0p1MUd5bmF4Z0ZQVXRtV2N0REthUTBGeFE?oc=5",
+     "fuente": "Facebook",
      "resumen": "",
-     "fecha": "2026-11-01T19:27:48+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "Keiko Fujimori cancela viaje a España por lluvias",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem5lS1Z5N0lsWHlYUFJqYWlrM0tJcHE1Qm5EcmZRR2JHVGdPTDZtUTVWSGZfU3ZFMHpYUjFoMDNUX0dvZDdUWmd5U3laclZVTGFiZl9yQUVSMVdTS1JGN1AwZlo5QnRoMFFCM3RaY2xITTdJQm9DRTlLMmc1RGpCTjAyMGliaGJ5VFlpaGNtNWJlQW5jYnJvMDVpdkVlN0MzVjE1bldRTEnSAa4BQVVfeXFMTkRZbjRFcVhxOWowX1lFNmVWV01PMFNPci0zZjNPaHNTNzFUa3BYS21JbDZGQjFwWEJKZHlZSVBrc2xBWHl5R1RtQWJITmlqOTd6M051QjcyVnRPSUJza2FOOXE2aUx4N3drUGROSHBRS2NUckJrc0J6ZnhGM0RQUmk0NGhHd0hEeGFKX2pOMmpIU0Q3dDB1c1FoOWp3Y3NNdzdrUVJVM2VoSDFWaEJn?oc=5",
-     "fuente": "América TV",
-     "resumen": "",
-     "fecha": "2026-11-01T19:05:00+01:00",
+     "fecha": "2026-11-01T19:47:25+01:00",
      "fecha_txt": "1 nov"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-10-31T19:56:07+01:00",
      "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "La jueza eleva a 234 la cifra oficial de víctimas mortales de la dana tras incluir a un vecino de Paiporta",
+     "url": "https://www.rtve.es/noticias/20261030/jueza-eleva-a-234-cifra-oficial-victimas-mortales-dana-tras-incluir-a-vecino-paiporta/17294248.shtml",
+     "fuente": "RTVE",
+     "resumen": "La anterior actualización de la cifra total de víctimas mortales fue el pasado 28 de septiembre, para incluir a una mujer que falleció casi un mes después de las inundaciones en el hospital de La Fe ...",
+     "fecha": "2026-10-30T11:35:00+01:00",
+     "fecha_txt": "30 oct"
     }
    ]
   },
@@ -225,12 +225,28 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Decretan la situación de emergencia: apagón en 160.000 viviendas en Tenerife y La Gomera",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTZxU3F1ZnFuVU93dXhsSW54YXU2Z3o2R3RFa1dvRXJuNmVuQkNNMWIyVGY0V1B6NkFWcl9NVHkwWmdlc3V0NDlmamZZdFdteHE3WUhGTWhmN0lESWNHOUVQcnVXLWxkdVh2YTNRNUt4TWdQRnVhX2JEM1hBLXQyc29ET1l2UWNVZVZER21GVHNsWm9SMUZ0TnhUM2ZaTWxkMU8zakN6MjhUQmpPRlRkbWxZbXhlRlhFQzBLbE5ad0dab2xjdlk00gHHAUFVX3lxTFBWNnpUOEVPcFNQNl9mRU0yTkgxUVkyTDd3enk2dlE5MnhCcXFfaUNnWXJaQ2pMYW1UUW9OT2llYTNtd3paa3JIU1RhRHlJYktrd1NpMkpiWXE4SUZlWl83N1hibnczcGlSVEhRSC1KZXo0V2hBUFJHOXZUbGJmWXdFbDZYRUl4bHYwNlpQdUZJakJjTEo4Xzk1NEEwS0NfeGRVR0tFdWM0czUya1dXM0ZQYjJGdVp4WHdYWmJwejdoSnl2cTFvSGs?oc=5",
-     "fuente": "MARCA",
+     "titulo": "Última hora. Un apagón total deja sin electricidad a la isla de La Palma y activa la alerta en Canarias",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVlJvb3lueEZhbFdXcjNMbDVDVXJLZTlCWEdFQnFjTEt1NUFVZjFvVGlYYThnS1pDSHpRcWhqeE5tMmdwUlV0WDJNNjMtRzFFa3ZyYXZuWC1UdVVSd3Qtck9LaEJxb01sR1YwbVVfbzUwUjBnazRSMl92a25MeHhMamc2bGJDUzY1MlJHQ3VlUFAzUHZGTngwMWxWSTJtSXJPd3Y2cm0wR1A1eXk3ejlnM2xSeFJqb3dNSEJNaVdhU0xIZW8?oc=5",
+     "fuente": "Euronews.com",
      "resumen": "",
-     "fecha": "2026-11-01T15:54:40+01:00",
-     "fecha_txt": "1 nov"
+     "fecha": "2026-11-02T09:53:35+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico y Canarias activa el plan de emergencias",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JQmpwaG1xSVh2Um9KUUdjR2FlRS11aDg1VzJyZk4zcVgtd2Z3QjltZjh6Rll0R3Y0VllvRUtWVDlKN3pGeDJXeXVLTFNwd3ZRbUJEdVZyZThFeDg1NnFpbzZjSkFlZTIwcDQ4ckVScnBySVdHaE1IaE930gF6QVVfeXFMTV9GcjZqNFd0UkZPVWRDbG03b0JlWjluSW1sWjlrMEFnekRhc3NBYzNzdzhSODNpZWxsU1lhMFBtc1N1S1hSUUlrRTdjcU1RNWFZMzZNN0syZW94cUo4OUJDQlJRS2FBYXRMcmxBbm1KZ2hBS2RzczNEMGc?oc=5",
+     "fuente": "El Mundo",
+     "resumen": "",
+     "fecha": "2026-11-02T09:38:51+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Un apagón total deja sin electricidad a la isla de La Palma y activa la alerta en Canarias",
+     "url": "https://www.msn.com/es-mx/dinero/general/un-apag%C3%B3n-total-deja-sin-electricidad-a-la-isla-de-la-palma-y-activa-la-alerta-en-canarias/ar-AA2gA3GZ",
+     "fuente": "Euronews (Español) on MSN",
+     "resumen": "La interrupción del suministro se produjo a primera hora de este lunes debido a un fallo general del sistema eléctrico. El Gobierno canario ha activado el plan de emergencias para coordinar la respues ...",
+     "fecha": "2026-11-02T02:02:30+01:00",
+     "fecha_txt": "2 nov"
     },
     {
      "titulo": "Apagón en Tenerife: más de 160.000 viviendas se quedan sin suministro",
@@ -271,22 +287,6 @@
      "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
      "fecha": "2026-10-30T02:44:00+01:00",
      "fecha_txt": "30 oct"
-    },
-    {
-     "titulo": "Red Eléctrica está pidiendo a sus centrales eléctricas que no se apaguen ni para hacer mantenimiento. Es una señal de lo tensionado que está el sistema",
-     "url": "https://www.xataka.com/energia/red-electrica-esta-pidiendo-a-sus-centrales-electricas-que-no-se-apaguen-para-hacer-mantenimiento-senal-tensionado-que-esta-sistema",
-     "fuente": "Xataka",
-     "resumen": "Red Eléctrica, como operador del sistema eléctrico en nuestro país, ha solicitado mantener disponibles más de un centenar de instalaciones esenciales y ...",
-     "fecha": "2026-10-29T12:00:00+01:00",
-     "fecha_txt": "29 oct"
-    },
-    {
-     "titulo": "Qué está fallando en España? Del apagón a los accidentes ferroviarios: las grietas de un país que empieza a desconfiar de sus servicios esenciales",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbUNfaXh1cDAzS1RJUFdXSVRCM1dDYnhac0I4eXdEX2FTQk5uOVJES05SOGViLVdRYnhINUd1U3RXNDZCcXVrMDFZenBnMG1OeVFzWlA1S2Nqd2c5WU8tb0Y0SVA5VldZbEdVdHI2TzlnUU9VZU1mVWZyV1RxUC12VjhOT3YxaWVrUjFkYnFtZ0M4S2pDM0dxS1l5eXA3NjduTU5Wc2h3Rmdkako4SEE2bUFRYnQ1UERaVkxWUU5LczFEVTdhSDlhZlVTSWlmd2xKcHAyWG5xemtTbFdZUEU2RkVTS2pOQ0U?oc=5",
-     "fuente": "Asturias Mundial",
-     "resumen": "",
-     "fecha": "2026-10-29T11:23:08+01:00",
-     "fecha_txt": "29 oct"
     }
    ]
   }
