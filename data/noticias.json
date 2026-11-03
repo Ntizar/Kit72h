@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-02T22:10:40+01:00",
+  "actualizado": "2026-11-03T01:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "¿Por qué México y otros 32 países están pidiendo tener provisiones en una mochila de emergencia?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmZYVDlqTk1iTDhZU0ZUd210a3llWG1LbHRvUUxWZXh1c29OTWprSDB1RDVIQ2trSkhIaDRuVzdJaEhGZFg3em1BMGJWTEhjNmlWemRMOFRjMWF6TWhwWnMtb0l1bHdzT3ZnTDhTbFpjNWdoaHdBV3RpblJXaTc4ektSRVJRTWhSMVVxZkxZd1BlcTVlOHB3MmI0VURZUHltZDN5TlBqSFN1ZUwzQ3lmczNBQQ?oc=5",
+     "fuente": "UnoTV",
+     "resumen": "",
+     "fecha": "2026-11-02T22:40:34+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Por qué tantos países están advirtiendo repentinamente a sus ciudadanos que se preparen para una emergencia y almacenen suministros esenciales de supervivencia",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVEzbnhleEpmMHkyY0Vtal9JUkhPQVU2cUhwM0NsWEc5Ni1vTWp0SnY3M2s5VmVUVnJObTFmc3FHOHFhNjV2U3lQWU5WZTdmTWVsMTRMTlN2TDdrbU5sMGxJR3Vvczg0RnFGUS1wcC04VnVUdUxqcWRNRmdFTlFLdDJUR25qQQ?oc=5",
@@ -28,19 +36,19 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "Ante amenazas globales, gobiernos piden almacenar alimentos y agua",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQenNaaDJYNWtJMEc4RE1GR0o1VzNsVnN5UWpEOGNnVVE3MG1maDV4QkF0dDJWZUVqMXB3V2c2dTYxV0ZQZWIzOXJTZFZpMVJISWxtOXY3NmJEb1A0YkJXSDU3ZlFEU2p1M1BTWE03QUUwa3NBSXRoRVRIQUhwOGJSYzR4ZnZnRjB3b0NrTTNJTEVPS1ZfeXB3?oc=5",
+     "fuente": "24-horas",
+     "resumen": "",
+     "fecha": "2026-11-02T20:15:47+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Kits de emergencia: ¿Por qué México, EU, Japón y otros países están recomendando almacenar agua y alimentos?",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN002cTNsZ28wRVZtV3RZc0JpT3IteHJ2eWdObWt5c0VDMFBMbDh3eTl4d2J0MkRSOFRPS3pyYW1zMzJXMzEzVWlYVnZLNjRKMDVmOXZXbVpGYzE2SDB0NHpoLWpOSGtsX2U0a05MQWJhWnV3R0dpdDRqcFM5aWRXcERjLWNBQnV2SldqOE9sZG9vSVBVYnFEQXFlSGJnSzZvY2E4WE9pY2FXT21zWHNob3pkem5wQVcxdVN1V1hnRlVDdmJmVTI4ZEtIY2o3Z3lGcFRlcGV1M0RNb0EzemJ4dUtDcU1HV1Bp?oc=5",
      "fuente": "La Crónica de Hoy",
      "resumen": "",
      "fecha": "2026-11-02T20:08:41+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Doce países recomiendan almacenar agua y alimentos ante emergencias: ¿qué está pasando en el mundo?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmdWZnlHWk9neEdoMXNGWXdLU1lscVpRdnViU2NfaXpQUjQ5Z3JPODlRTGxJcnUzZ0s5dWVmckJrekhvSzJUVEE5OHRyaE5tSmV4NGRub2ttbDF0RklHMERtTTA3cWVsY1dhRU12elNsdmdmOV9TaE9qU2FCQjZ1OE94NjhBZE1EUFlOM3hOdEtsMjlPZ0dzbGxhbE1vQ2JyTXRseHFqQTZQOGRHeElLWVlR?oc=5",
-     "fuente": "DSN Noticias",
-     "resumen": "",
-     "fecha": "2026-11-02T20:05:00+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -52,27 +60,19 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "México se suma al llamado internacional: piden preparar reservas para sobrevivir 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnlPYzFDbU1zOFhFbVdsT2VqbDBWMUR1YkVsZXE5dzB5eE9mRWNOLXRZbjVqTlZCQ1pBWnA3YUt2VFBDck9BMEdjWm94N1NIcHVndW5NQU82RlhBS2FxQkQ4NlVKbE1wRG83SksxYmVRSW14UHZtRGpFaWV0T3RFbnBwUmpYTWllRFU3UDliWXM5eXBmVnNRWXJHZkJjeGZQUHNzMHVvQTVLMy1TRTE4WXhfb0JCSHpYVG1wN0FULUF3Q1VxSFBSYVB3?oc=5",
+     "fuente": "Diario del Yaqui",
+     "resumen": "",
+     "fecha": "2026-11-02T19:42:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "México pide preparar mochila de emergencia para 72 horas y desata teorías sobre una posible guerra mundial",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGczdHdRbFZ2RGVlNFFUUTVqTkhlN0p4eDBIU0NKUzNnNk80OVllZmYxY18zWkd3NGJkOGp1endoTW9aWUM1emZXelNLNkZKYVlKSHJRZlc2bUkwV0h0cElKaXpsRTRqWXFGeF9BTmxvVVZmUTNfUmF6WkVyYlhzZWF4WTN5am1lX0YzZ2VhNWhMSjhlRy1hQzNSaE93RmtndFB2TXQ3Y2R2UDhfNXFHSFd4VnU1VDI1M0FNbml0V05sSTExcjI5N1Jqbk9WcF9PVEFMQ0V1a2YxMzFzVWRCLUxhLWlMTVhQX3A1VnQwRFo?oc=5",
      "fuente": "Debate",
      "resumen": "",
      "fecha": "2026-11-02T17:48:31+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Gobiernos de 11 países piden almacenar alimentos y agua ante posibles emergencias: ¿qué está pasando?",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM3U5Tm9oV2FIYjJzVjRmVGZJZ25UNVNZTC1XbVhpMmxTR3JTdTQ5bGJvYmI4Q3R2WW9ZSjBUalU1MlQ3dnpKdkdjR3lTaTFRclowNVEyQ0pXSlpqei1xbUNnN09ibms4MzB3TW9NNllPOElwUXlsOUlyQ0NtVHA3OExOclJvTlk0aXFiaTVoX21OY0hnNlgzb25rbkY3SDZyczc4bVdHbFc4MEliMkZPdU5tYmdLMHJDMlhwZ2tLb3RiZGFuSllxeUVpOGxsUnFpa2lDdmtCLU1yVy1adVQ0eEtlaw?oc=5",
-     "fuente": "Debate",
-     "resumen": "",
-     "fecha": "2026-11-02T17:20:23+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "México, Reino Unido y Japón refuerzan llamados para preparar kits de emergencia de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbm1mRHN4Y0hDSGs1S1R3cWxQTEo3UTROU1JBVkF3Q0hxYy1SbVpjZENQSEhqMDBqaGx3OXhzRU8yaHUtQk5MRlVuc3ptLTFQWjFPX1hOS1BZNG9hVTlhNVdaMUdoOER5MGlnNHV6NkxwMG0zSmZQYlVvV21uZ3B1dlF2YXZKUU9xb2c?oc=5",
-     "fuente": "Tribuna de la Bahia",
-     "resumen": "",
-     "fecha": "2026-11-02T17:03:25+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -115,6 +115,14 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "Incendios forestales: ¿abandono rural o cambio climático?",
+     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-abandono-rural-o-cambio-clim%C3%A1tico/ar-AA2gCCHv",
+     "fuente": "The Conversation on MSN",
+     "resumen": "En los dos últimos veranos se han intensificado los incendios en España. En 2025 se quemaron más de 390 000 ha y, en entre enro y septiembre de 2026 llevamos más de 300 000. El área quemada de estos d ...",
+     "fecha": "2026-11-02T14:10:57+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Evacuado por inhalación de humo tras un incendio en la cocina de su vivienda en Ourense",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmloeTlLUk9idHZyWGVEVTdXemxTNWxOTWk3QjF2RFp0WWg1czBvMFBTUmIwcl9tOXdTdU1zR1hlV3UtTlJOc29mR1NOSURNWk5tbVdOU1lKSUQ3VUdNYy1DYlJ2cWNzVy1adUJPU0c0Uklrbkp4WGFzX2lVSnZKb2QteGhHck43QjFPQkVrMzlTUmNiM0M1djBZQ3pPVzRzUkRuckdWRU8zTHdjYndhTGFsbTlaaGIw0gG-AUFVX3lxTE94cFJyelI3YUtjckVuQzEyWWVCVkw0ek9SZ2xPUGRTUTNHckJGV1pMSkpNcFlySUVuaDFodXhZd2JUejRNNTB0TlNHZHotYnFpR1gzWTltRE1vczN4TTJDRk16V2dRWU5PMWwzZFNJRVpzWFJxaUo0SUtOb1RPRnM5eUNhMFYyU1NrM3VQWEdZRjdIQWF1MHNkb09KOXJuNzBqLU42a2tBTTM4S2JwZ0dHRzV4bF9vNENLVzFqZ3c?oc=5",
      "fuente": "Faro de Vigo",
@@ -128,14 +136,6 @@
      "fuente": "ECOticias.com - El Periódico Verde",
      "resumen": "",
      "fecha": "2026-11-02T10:13:55+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "El INFOCA moviliza medios terrestres y un helicóptero para extinguir el incendio declarado en Los Guájares (Granada)",
-     "url": "https://www.moncloa.com/2026/11/02/incendio-los-guajares-granada-infoca-helicoptero-3460288/",
-     "fuente": "Moncloa",
-     "resumen": "El INFOCA despliega bomberos forestales, una autobomba y un helicóptero semipesado para atajar el incendio declarado en Los Guájares, en Granada.",
-     "fecha": "2026-11-02T09:53:00+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Protección Civil alerta de lluvias torrenciales en Cataluña, con acumulaciones de hasta 60 litros en tres horas",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3NCOHY5S25YQVBpOFZRWlpJbnNwUzhIdy0zNjM1UnJfY0tQOWZfYWp2U3puVl9XcHFBaURYaDVkb3RXNjZSbXQzb1FqUnlOb3JOcUo4MFljU1VwSU9qNmJ0QnRDTV94di1sanlnclNLZ2U3X0o5MEV5NlVwV0twVHFhYU5hZWxwRXRJSGJEdF9VR3drbjIwUnkweG5USVhuY1NLNHZiX3pSWmM2WFJXaC1feVkwTExNaklmUmVzWDhwU2VvZ0NXQXFxZzF0Q2dfN0tlbTRHSFBjSXAxQVHSAeMBQVVfeXFMTjBtRDVIRS1mZEtIMW82QmZra3lpTnFLYUk5TXNhMldEVS14c3M0dElRQW5xREdCOHB2U09IZ3I1VjRkVnUycjg4Q0ExOWd5VVdJVjl1ODhkLS1ObzZfVDM1YTgwLWRJUUFvLXp3enZ1TjNlRnVGcFBSRDV0c2hIMXdReVZkLXhZbmJYdHk1NXViVDZqaDA5RzNOcXgyemRONXA1eUJvOEdiOWhaUU1OWk85R1M4b0w3V0pwbmhTZmJ6amFGVS1wNHhfU1JQdGJOYUNYS0xEV2dQS2sxdjBGdTAzTVE?oc=5",
+     "fuente": "Diario de León",
+     "resumen": "",
+     "fecha": "2026-11-02T18:04:15+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUQ?oc=5",
@@ -183,14 +191,6 @@
      "fuente": "EL PAÍS",
      "resumen": "Todas las noticias sobre Inundaciones publicadas en EL PAÍS. Información, novedades y última hora sobre Inundaciones.",
      "fecha": "2026-11-02T06:10:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Andrea Danta, meteoróloga: \"La DANA, con lluvias de 80 l/m2, se quedará sobre la España peninsular hasta el jueves\"",
-     "url": "https://www.msn.com/es-es/eltiempo/meteorolog%C3%ADa/andrea-danta-meteor%C3%B3loga-la-dana-con-lluvias-de-80-l-m2-se-quedar%C3%A1-sobre-la-espa%C3%B1a-peninsular-hasta-el-jueves/ar-AA2gARcU",
-     "fuente": "Meteored on MSN",
-     "resumen": "El inicio de noviembre estará marcado por la inestabilidad en las comunidades mediterráneas y en Canarias, así como por un ambiente invernal que dejará las primeras heladas y mínimas negativas. Noviem ...",
-     "fecha": "2026-11-02T05:44:05+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -249,14 +249,6 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
-     "fuente": "Milenio",
-     "resumen": "",
-     "fecha": "2026-11-02T15:34:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
      "titulo": "Declaran alerta en una isla española tras apagón que dejó sin luz a toda la población",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmlhS3lYTmVTcm9KZUZqVFFMMHhPUzk2SS00M2dNMjlkR2h4d2JTNGdwbWF1YnZrV00xLUJLSE9GSUZ2VHNXRDRsaGhDU2JzRENWM0tkTmNIYzRsSlllX2lWVkxDZkxGYmx4QW1NakcwelpKQV9uLS1hc2JPRDdnT193VEdJdw?oc=5",
      "fuente": "La iguana TV",
@@ -286,6 +278,14 @@
      "fuente": "El Cierre Digital",
      "resumen": "",
      "fecha": "2026-11-02T12:36:21+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Vox dice que el apagón en La Palma es \"un signo más\" de la \"tercermundización\" de España",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWczMGlmWkkzNUFlZUdZaFVqczN5bWdySUVMVDVwdWRRZ1JycllrOUdMQk5rZmtUYTM5aWRYMXVQci01bHl0SFJmb1JPbGVwTldOeG9ocGNyMS01aXJiWDg1OXJncURWSVRSMGhxU3B4MVJtRUdpYmluajJRTlhGSHFheG9TNUJfdWZYOEt3aXVRZWhwTmRkZjJoVWVlaWNtd2ZBX0R3?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-02T12:00:47+01:00",
      "fecha_txt": "2 nov"
     }
    ]
