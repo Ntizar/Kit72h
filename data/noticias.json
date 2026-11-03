@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-03T01:10:40+01:00",
+  "actualizado": "2026-11-03T04:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,19 +12,35 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "El kit de emergencia de 72 horas que Reino Unido aconseja tener en casa ante una crisis",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0tTSlhCWU1KQ2wwM3g2QzNBTlMzMlkxdVpPMUlMWmFtUFlQNzN2WFM4cENQVXlGMVc0Uks2UTUzcTBscmVZcklGQk1Xc2pwOHhjcmxZNW93UXdJNmdKckEzaUJDM01RSmZYSjN6RHVTb3lFNkRiaUNoajF6cllBZWJaUFhxbkljeUFKT25ZZnIzNVZfS2gzSXdnVEJOd0xKd3REN1FPMEQ5WlVZ0gGyAUFVX3lxTE1HdHUxY09IdDFSWXFrMWpKeXlEQWpYOVFUZmFVLTNvVV9HU0NJa1RBcm8wNnAyX0RheWxfRHRhUGh5dUFhTTFZQ2dvVk9HTVhpUW1wSnZmekZ2SlplQmRRQ2ZjY2Qya3RQanB2RmR3ZE1vaURvNTJSNGxXVVVwRDJId21Gc0JzX1g2MFZWLTRaZkxSUnlZeVl1N3FfYWlXWXcydXFxSy1iSEt6OXpfSGJSclE?oc=5",
+     "fuente": "Las Provincias",
+     "resumen": "",
+     "fecha": "2026-11-03T01:15:19+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "México se suma a más de 50 países que piden preparar un kit de emergencia para sobrevivir 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXY1LUI5SjRjT2hoT1gtNHJ2WDNJYUV2UURXLVpJTnFOZlp2cnI0NzgwY2NqaEt2TEdSbUl4UXZaRkFBamtEc0g5c2xsd3NIMDdoNEZ1LXVsWnBqVXZ0VVZhSW9NaU1rR1VoeGtxcmw0MzVTV0FnYnc2YzJfLVRFYlpESS1XU2J2ejcxVy1LTGlmOEV3czVneXVuTzRyNWdMSDIxeHJ0aWtNQQ?oc=5",
+     "fuente": "Quinto Poder",
+     "resumen": "",
+     "fecha": "2026-11-02T22:56:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Kits de emergencia: por qué más de 50 países recomiendan almacenar agua y alimentos",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTUUyMGgtQ09NUHR1cHFETlplbTAyeDgtdUFwOTFCZG5LNDMyTEtwS2hsRjZWVU1aN09WMGxXNjZ6eEJoX2Ewb1cxM3RQTkRzYkZVRmM0TnJybFZ4MEo4Y01ycHdnOHl3UmFWZWhUWXZPc2lOZEVFWkEydHVHWi1FWlJDNTVOUXpFR1JLQjJYZ2paQ2k5ZTAzTVJ0ZjN6ZDk0dlJwRllCN2ozNkZ1NVpyVXgzZ0V6SVBC?oc=5",
+     "fuente": "Serpientes y Escaleras",
+     "resumen": "",
+     "fecha": "2026-11-02T22:52:36+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "¿Por qué México y otros 32 países están pidiendo tener provisiones en una mochila de emergencia?",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmZYVDlqTk1iTDhZU0ZUd210a3llWG1LbHRvUUxWZXh1c29OTWprSDB1RDVIQ2trSkhIaDRuVzdJaEhGZFg3em1BMGJWTEhjNmlWemRMOFRjMWF6TWhwWnMtb0l1bHdzT3ZnTDhTbFpjNWdoaHdBV3RpblJXaTc4ektSRVJRTWhSMVVxZkxZd1BlcTVlOHB3MmI0VURZUHltZDN5TlBqSFN1ZUwzQ3lmczNBQQ?oc=5",
      "fuente": "UnoTV",
      "resumen": "",
      "fecha": "2026-11-02T22:40:34+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Por qué tantos países están advirtiendo repentinamente a sus ciudadanos que se preparen para una emergencia y almacenen suministros esenciales de supervivencia",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVEzbnhleEpmMHkyY0Vtal9JUkhPQVU2cUhwM0NsWEc5Ni1vTWp0SnY3M2s5VmVUVnJObTFmc3FHOHFhNjV2U3lQWU5WZTdmTWVsMTRMTlN2TDdrbU5sMGxJR3Vvczg0RnFGUS1wcC04VnVUdUxqcWRNRmdFTlFLdDJUR25qQQ?oc=5",
-     "fuente": "Bitfinanzas",
-     "resumen": "",
-     "fecha": "2026-11-02T21:02:16+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -52,27 +68,11 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "CDMX te recuerda la mochila de emergencia en medio de llamado mundial a almacenar suministros",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGNneU5mMmRURndZRGhhYzQ4LW4zd1ZhQXFaR01rNnpDQzM0YjNCN0lKb3hJV3pDUk0wZVZjNHE2LVNWMXpTR1M0WnFTNW5pY2gwSFljTGQ5Uk1tTWhveWlfbHJSdjlLeTM4WEwxVF92UVNlVV92WHVGc0ZUeTU2YzNfdVhMVFY0N24zTTVPa29rbGtlWktGdlQxanhwVXVFczNnWEtkLWZYUFBQckNRZlNEZkZOUzNpWGUyTDRsRFY5bUdJRjhUSXVwTjBaS1BYTlA0RTI2WnfSAd4BQVVfeXFMUGZyS0x2SGxDTUVSQm5tUzlmNnpkWDZuM1V3RXJ2SG1Jb2l5YkZUcFl0R2lONmZPR0gzN0pUU2x0MkY2UTRLZU9KSy1saTExYVNoUWJreHMzZHdMUkNFVFdOVDc1VHh0eFNDbWxWMkJJVll5cmNvY3gzbEZ4LXRrZnhwR0U2Y3RjZnFMbkMzQmVxS0l1bHlyRjZ5RVExMXNfdEtSUGRwS2JmU3VrdjU4RUtWbXJWSVZSSnFTWmh6NHljWnBsd0pKZmNnd05qZndoY08xRkFubkpxN2VJQ1NB?oc=5",
-     "fuente": "El Economista",
+     "titulo": "Doce países recomiendan almacenar agua y alimentos ante emergencias: ¿qué está pasando en el mundo?",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmdWZnlHWk9neEdoMXNGWXdLU1lscVpRdnViU2NfaXpQUjQ5Z3JPODlRTGxJcnUzZ0s5dWVmckJrekhvSzJUVEE5OHRyaE5tSmV4NGRub2ttbDF0RklHMERtTTA3cWVsY1dhRU12elNsdmdmOV9TaE9qU2FCQjZ1OE94NjhBZE1EUFlOM3hOdEtsMjlPZ0dzbGxhbE1vQ2JyTXRseHFqQTZQOGRHeElLWVlR?oc=5",
+     "fuente": "DSN Noticias",
      "resumen": "",
-     "fecha": "2026-11-02T19:49:23+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "México se suma al llamado internacional: piden preparar reservas para sobrevivir 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVnlPYzFDbU1zOFhFbVdsT2VqbDBWMUR1YkVsZXE5dzB5eE9mRWNOLXRZbjVqTlZCQ1pBWnA3YUt2VFBDck9BMEdjWm94N1NIcHVndW5NQU82RlhBS2FxQkQ4NlVKbE1wRG83SksxYmVRSW14UHZtRGpFaWV0T3RFbnBwUmpYTWllRFU3UDliWXM5eXBmVnNRWXJHZkJjeGZQUHNzMHVvQTVLMy1TRTE4WXhfb0JCSHpYVG1wN0FULUF3Q1VxSFBSYVB3?oc=5",
-     "fuente": "Diario del Yaqui",
-     "resumen": "",
-     "fecha": "2026-11-02T19:42:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "México pide preparar mochila de emergencia para 72 horas y desata teorías sobre una posible guerra mundial",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGczdHdRbFZ2RGVlNFFUUTVqTkhlN0p4eDBIU0NKUzNnNk80OVllZmYxY18zWkd3NGJkOGp1endoTW9aWUM1emZXelNLNkZKYVlKSHJRZlc2bUkwV0h0cElKaXpsRTRqWXFGeF9BTmxvVVZmUTNfUmF6WkVyYlhzZWF4WTN5am1lX0YzZ2VhNWhMSjhlRy1hQzNSaE93RmtndFB2TXQ3Y2R2UDhfNXFHSFd4VnU1VDI1M0FNbml0V05sSTExcjI5N1Jqbk9WcF9PVEFMQ0V1a2YxMzFzVWRCLUxhLWlMTVhQX3A1VnQwRFo?oc=5",
-     "fuente": "Debate",
-     "resumen": "",
-     "fecha": "2026-11-02T17:48:31+01:00",
+     "fecha": "2026-11-02T20:05:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -115,14 +115,6 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Incendios forestales: ¿abandono rural o cambio climático?",
-     "url": "https://www.msn.com/es-es/noticias/otras/incendios-forestales-abandono-rural-o-cambio-clim%C3%A1tico/ar-AA2gCCHv",
-     "fuente": "The Conversation on MSN",
-     "resumen": "En los dos últimos veranos se han intensificado los incendios en España. En 2025 se quemaron más de 390 000 ha y, en entre enro y septiembre de 2026 llevamos más de 300 000. El área quemada de estos d ...",
-     "fecha": "2026-11-02T14:10:57+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
      "titulo": "Evacuado por inhalación de humo tras un incendio en la cocina de su vivienda en Ourense",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmloeTlLUk9idHZyWGVEVTdXemxTNWxOTWk3QjF2RFp0WWg1czBvMFBTUmIwcl9tOXdTdU1zR1hlV3UtTlJOc29mR1NOSURNWk5tbVdOU1lKSUQ3VUdNYy1DYlJ2cWNzVy1adUJPU0c0Uklrbkp4WGFzX2lVSnZKb2QteGhHck43QjFPQkVrMzlTUmNiM0M1djBZQ3pPVzRzUkRuckdWRU8zTHdjYndhTGFsbTlaaGIw0gG-AUFVX3lxTE94cFJyelI3YUtjckVuQzEyWWVCVkw0ek9SZ2xPUGRTUTNHckJGV1pMSkpNcFlySUVuaDFodXhZd2JUejRNNTB0TlNHZHotYnFpR1gzWTltRE1vczN4TTJDRk16V2dRWU5PMWwzZFNJRVpzWFJxaUo0SUtOb1RPRnM5eUNhMFYyU1NrM3VQWEdZRjdIQWF1MHNkb09KOXJuNzBqLU42a2tBTTM4S2JwZ0dHRzV4bF9vNENLVzFqZ3c?oc=5",
      "fuente": "Faro de Vigo",
@@ -145,6 +137,14 @@
      "resumen": "El Ministerio del Interior ha confirmado que el Gobierno de España ha solicitado a la Unión Europea la creación de una base aérea en Mallorca para combatir los ...",
      "fecha": "2026-11-02T03:48:00+01:00",
      "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "España encadena sus dos peores campañas de incendios del siglo: 630.000 hectáreas arrasadas en solo dos años",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTR2YTNzNklEYW1LZmlSWWN5TW1xbW5tR0tiVDhobmh4ZzB4Q2RRLW56M01KMHk4bjFNSWZySlhfVlpiZ2lmbFhMdmJKaUJyNzJTTHhhV1IwU25kekV6WHJrNnMwdUpvMzZ6RDdzM09tZnlldGhsczdud3ZTa3FsYktLMFg5bUc1YkNzWlRtRGVsVjQyNHhFZGdTYjRrNlh5MzlXVlV3YTE5ek9UMjZ3Q2UyS2lXLWtYRlpjeVVZMG4?oc=5",
+     "fuente": "El Cierre Digital",
+     "resumen": "",
+     "fecha": "2026-11-01T04:00:03+01:00",
+     "fecha_txt": "1 nov"
     }
    ]
   },
@@ -162,8 +162,16 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "Andrea Danta, meteoróloga: \"la dana, con lluvias de 80 l/m2, se quedará sobre la España peninsular hasta el jueves\"",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQWFBRFdYaVRmdU5IWVhWSHZQcWg4dWV6ZjRld2JsWUlGcjRnSkxHM2VpZzRNQTFVRmVndi1QcmIxMXlFR3lrSnVnd1gtNjBDQm9BMHpuOXFIdGFjR1ZNWDhmUlVzbmJicFh5NlhReVV1WWw1T25JdExnVU9tWG8tYkNmX1BzRlNEanlPa0Z1NnJBWmg0d0Y5bXFLRjB2cVg0NlRXN2N5TG1UelFoVDgwMllPZ3dhOE9nM2xPdHZDZjExdjh0aTZmMV9QRjdpbnJGN01TRU80QzA1amRPMUFwM3lrYkNoUzk5bm55QnJB?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-02T13:00:54+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUdIBsgFBVV95cUxNX2dRSU1ORGZOSXNDanBLTTh3cnVTSHpEYW83RkZ2c1IydFZ0c2xTZ3p4Ri16aHdsWW9Ma0hWeXBMSWVQY25jYV85bVgweklkRUlhQ3Zxc2JXRnlmS1hmNUxIUWFVREh6bVJnY1JwUGhiZnQtWjBFZVNVT3FHaExsTjhsOVBQR1hxQzN3T0JVRVVBaWU1VTdLQm05VXpqbzBjLWdYVmVKZFFONnZwN1Z3ZDFR?oc=5",
      "fuente": "Diario Correo",
      "resumen": "",
      "fecha": "2026-11-02T13:00:00+01:00",
@@ -207,14 +215,6 @@
      "fuente": "Willax",
      "resumen": "",
      "fecha": "2026-11-01T21:14:05+01:00",
-     "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "🔴 Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte: ¿qué se sabe de la alerta?",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2FoZUs2THM3Q1I2YmUxLXhqRXkxMWJ4VEJRMTlwSVE0ZERqcjZHZF9VS3BrWG1IN1Mzcmxpamp1TXpNekdLVnQ3aFhEcG1tQVVRV19sSUZCMWFpSFAxdy1ial9Udkw3T1IyTTFqN3VNT3E1RVFNTS1ENzJCQXdIM3EyejQzeW90WFpQbk9UN3hwdmNwOHlIV2c2LXFETGpTamVWUkVGVUpBdDA2MUg5Q0N2cGRqOGhwMzE3NHAwZFBiTFk1bndXd0lNR3h6STRvY0p1MUd5bmF4Z0ZQVXRtV2N0REthUTBGeFE?oc=5",
-     "fuente": "Facebook",
-     "resumen": "",
-     "fecha": "2026-11-01T19:47:25+01:00",
      "fecha_txt": "1 nov"
     }
    ]
