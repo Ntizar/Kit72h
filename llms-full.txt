@@ -6715,37 +6715,105 @@ El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimen
  No es que tu balcón te alimente en una crisis: es que saber producir comida cambia tu mentalidad . Quien ha germinado, sembrado y cosechado una vez entiende el ciclo, deja de depender psicológicamente del supermercado y, en una emergencia larga, tiene la habilidad y las semillas. Además, las semillas guardadas de tus mejores plantas son la única reserva alimentaria que se multiplica con el tiempo.
  Empieza esta semana: un bote de yogur vacío, algodón, berros. En cinco días comes lo que has cultivado — y en el blog seguiremos ampliando el calendario de siembra español.
 
-### «El Conocimiento» de Dartnell: reconstruir el mundo (2026) — https://kit72h.com/blog/el-conocimiento-dartnell/
-¿Y si mañana se acabara todo? Este libro explica qué saber para recomenzar: agricultura, química, medicina y energía. Junto a tu kit 72h.
-Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que empezar de cero ?
+### «El Conocimiento» de Dartnell: qué leer para reconstruir todo tras el colapso — https://kit72h.com/blog/el-conocimiento-dartnell/
+Lewis Dartnell explica paso a paso cómo reconstruir la civilización desde cero: agricultura, jabón, medicina, energía. El manual que tu kit 72h no puede comprar.
+Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que empezar de cero ? Porque los kits compran tiempo, pero el conocimiento es lo que convierte ese tiempo en una nueva vida.
 
- El Conocimiento: Cómo reconstruir nuestra civilización desde cero ( The Knowledge , en inglés), de Lewis Dartnell — investigador de la Universidad de Westminster — es justamente eso: un manual de arranque de la civilización . No es ciencia ficción ni un ensayo catastrofista: es un recorrido riguroso y ameno por lo que haría falta saber para reconstruir lo esencial.
 
- Qué encontrarás dentro
+ ¿Qué es «El Conocimiento»?
+
+
+ El Conocimiento: Cómo reconstruir nuestra civilización desde cero ( The Knowledge: How to Rebuild Our World After an Apocalypse , 2015), de Lewis Dartnell — investigador de astrobiología en la Universidad de Westminster — es un manual práctico, no un ensayo catastrofista. La premisa es simple pero poderosa: no necesitas reinventar nada , solo recordar dónde está apuntada la rueda.
+
+
+ Dartnell parte de un supuesto realista: que la sociedad colapsa mañana por una pandemia, un apagón eléctrico prolongado, una DANA como la de Valencia en 2024, o un evento solar (una CME de nivel G5 como el Evento Carrington de 1859). No hay supervivientes de élite ni refugios subterráneos: gente normal, con acceso limitado a herramientas, tiene que recomenzar. La buena noticia es que 99 % del saber necesario ya existe en libros de biblioteca o manuales viejos .
+
+
+ Y lo mejor: todo el saber necesario para los primeros 6 meses (lo más crítico) está condensado en ~300 páginas que puedes leer en un fin de semana.
+
+
+ Los 7 bloques del saber esencial
+
+
+ Dartnell organiza el manual en bloques que se construyen unos sobre otros. No son teoría: son recetas prácticas con ingredientes locales. Estos son los bloques que más importan en un escenario español de emergencia prolongada:
+
+
+ 1. Alimentación — lo que no puede faltar
+
+ El primer problema tras el colapso no es la falta de comida, es la falta de conocimiento para producirla . Dartnell explica por qué cultivar trigo y legumbres es la base de toda supervivencia: el trigo da harina (pan), las legumbres dan proteína y fijan nitrógeno en el suelo. La rotación trigo-leguminosa-cultivo fue la base de la agricultura mediterránea durante milenios, y sigue siéndolo.
+
+ El libro detalla cómo conservar semillas (seleccionar las mejores mazorcas y guardarlas en lugar seco), cómo hacer compost rápido (residuos orgánicos + cenizas + agua), y por qué el compostaje a 60 °C elimina patógenos y semillas malas. Además cubre métodos de conservación sin electricidad: secado al sol, salazón, y la conservación en grasa (confit) que los españoles ya practicaban en la Edad Media.
+
+ Si te interesa empezar hoy con productos prácticos, la guía de huerto autosuficiente reúne las herramientas esenciales para cultivar en cualquier espacio, y el kit de 30 días amplía tu despensa más allá de las 72 horas.
+
+
+ 2. Agua — potabilizar sin electricidad
+
+ El agua es el recurso más crítico: sin ella, la primera semana ya es mortal. Dartnell describe tres métodos de purificación sin electricidad: ebullición (5 min a ebullición, suficiente para 99,9 % de patógenos), filtración con arena y carbón (un filtro casero con grava, arena fina y carbón vegetal reduce bacterias y mejora sabor), y cloración con lejía (dos gotas de lejía sin perfumar por litro, esperar 30 min). La combinación filtro + ebullición da agua potable fiable en cualquier condición.
+
+ La Estrategia de Preparación de la Unión Europea (marzo 2025) recomienda almacenar 3 litros por persona y día solo para beber. Para 72 horas, una familia de 4 personas necesita 36 litros. El agua se renueva cada 6 meses y se guarda en garrafas opacas, lejos del sol.
+
+
+ 3. Energía — del agua al fuego
+
+ El primer salto tecnológico de la humanidad fue el fuego, pero el primero que multiplifica tu capacidad de trabajo es la rueda hidráulica. Un molino de agua básico muele grano, acciona un fuelle para la fragua y bombea agua. Dartnell detalla cómo construirla con materiales locales: madera, piedra y cuerdas. Una rueda de 2 m de diámetro con un caudal de 50 l/s produce suficiente energía para una casa rural.
+
+ Para el caso español: un arroyo con caudal mínimo en temporada de lluvias (noviembre-abril en gran parte de España) basta para mantener un molino en funcionamiento. En verano, la energía de respaldo con baterías y la generación solar toman el relevo. Para quien necesite autonomía total en un apagón, el kit profesional de energía cubre desde 800 W de placas hasta SAI y Starlink.
+
+
+ 4. Química — jabón, alcohol y ácido
+
+ El jabón es probablemente la invención química más importante de la historia: la higiene es lo que más ha reducido la mortalidad desde 1800. Dartnell explica el proceso de saponificación : mezclar grasas (sebo, aceite usado) con sosa cáustica (hidróxido de sodio) y agua. La sosa se obtiene de las cenizas de madera lavadas con agua (lixiviado) y concentradas por ebullición con cenizas. Con un termómetro casero (agua hirviendo = 100 °C) se controla la reacción.
+
+ El alcohol etílico se produce por fermentación de azúcares (mismo proceso que la cerveza o el vino) y destilación. Sirve como desinfectante, combustible y conservante. El ácido sulfúrico se obtiene calentando yeso (sulfato de calcio) a 900 °C, condensando el vapor, y diluyendo — con las debidas precauciones. A partir del ácido sulfúrico se pueden hacer otros compuestos esenciales: nitrato de potasio para la pólvora, sulfato de cobre como fungicida, y cloro para purificar agua.
+
+
+ 5. Medicina — prevenir antes que curar
+
+ Sin antibióticos modernos, la medicina del colapso se reduce a prevención y tratamientos básicos . Dartnell enfatiza que la mayoría de las muertes post-colapso serían por infecciones, deshidratación y hambre, no por heridas. Las claves:
 
  
- Agricultura de supervivencia : qué cultivar primero, cómo conservar semillas, rotación de cultivos. (Si te interesa esto, ya tienes la guía de huerto urbano del sitio para empezar hoy.)
+ Higiene : lavar manos con jabón, tratar agua, eliminar residuos lejos de viviendas.
 
- Química esencial : cómo hacer jabón, alcohol, ácido sulfúrico — la base de casi todo lo demás.
+ Antisépticos naturales : miel (antibacteriana), alcohol (desinfectante), té de manzanilla (antiinflamatorio).
 
- Materiales : del carbón vegetal al vidrio, y por qué la madera cocida fue el motor del desarrollo.
+ Anestesia básica : la DMT de la hoja de coca se estudiaba históricamente, pero en España el uso de manzanilla y romero como calmantes es tradición.
 
- Medicina : antisépticos, anestesia básica, por qué la higiene vale más que los antibióticos.
-
- Energía y máquinas : la rueda hidráulica, el vapor, y cómo saltarse siglos de prueba y error gracias a que sabes qué buscar.
+ Fracturas : inmovilización con tablas y vendas, elevación, hielo (nieve del invierno).
 
  
- Por qué merece la pena
+ Un kit de evacuación bien montado incluye torniquete, gasas, vendas y antiseptico — lo que no se puede fabricar en casa en 24 horas.
 
- Porque el kit de 72 horas te mantiene vivo, pero el conocimiento es lo que te permite reconstruir . Dartnell tiene una idea potente: no necesitaríamos reinventar la rueda — necesitaríamos recordar dónde está apuntada. La ventaja de un superviviente moderno no es la fuerza ni la comida: es que sabe qué es posible .
 
- Dónde conseguirlo
+ 6. Materiales — de la arcilla al vidrio
 
- Actualmente no hay edición en castellano en Amazon España — la edición original en inglés ( The Knowledge: How to Rebuild Our World After An Apocalypse , paperback) está disponible y es muy legible incluso con inglés medio:
+ La cerámica (arcilla + fuego) es la base de la artesanía: alfarería, ladrillos, azulejos. Dartnell explica cómo identificar arcilla en el terreno (se siente grasosa al tacto, se modela húmeda) y cocer piezas a 1000 °C (un horno de campaña con chimenea alcanza las temperaturas necesarias). El vidrio se hace de arena (sílice), cenizas (carbonato de sodio) y cal (carbonato de calcio), fundido a 1200 °C. En la práctica, el vidrio es lo más difícil de producir — pero la cerámica basta para la mayoría de necesidades domésticas.
 
- Ver "The Knowledge" en Amazon 
 
- Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya.
+ 7. Sociedad y organización
+
+ El último capítulo de Dartnell es sobre el tema más olvidado: la organización social . En el colapso, el individuo no sobrevive: sobrevive la comunidad. El libro propone un modelo de organización basado en «círculos de conocimiento» — grupos de 20-30 personas donde cada miembro aporta una especialidad (agricultor, curandero, herrero, constructor). La comunidad de 300-500 personas (el tamaño de una aldea española tradicional) es el mínimo viable para mantener agricultura, artesanía, defensa y educación.
+
+
+ Por qué este libro ahora
+
+
+ España lleva tres años de eventos climáticos extremos: la DANA de Valencia (2024) dejó 200 muertos y miles de damnificados; la ola de calor de 2023 fue la más intensa en 500 años; los incendios de Galicia y Lisboa mostraron la vulnerabilidad de las zonas rurales. La Protección Civil española ha actualizado sus planes de emergencia incorporando escenarios de «colapso prolongado de suministros» — el mismo escenario que Dartnell explora.
+
+ La diferencia entre estar preparado y estar listo es el conocimiento. Un kit de emergencia te da agua y comida para 72 horas, pero el conocimiento te da las herramientas para que, cuando se acabe, no te quedes a oscuras.
+
+
+ ¿Dónde conseguirlo?
+
+
+ Actualmente no hay edición en castellano de «El Conocimiento» en Amazon España. La edición original en inglés ( The Knowledge: How to Rebuild Our World After an Apocalypse , ISBN 0099575833, paperback) está disponible:
+
+ Ver «The Knowledge» en Amazon 
+
+ Incluso con un nivel de inglés medio (B1), el libro es totalmente accesible: Dartnell escribe para el público general, no para académicos. Las recetas y procesos están ilustrados con diagramas claros que se entienden independientemente del idioma.
+
+
+ Si lo lees, combínalo con la práctica: un germinador en la ventana enseña más de agricultura de supervivencia que cien páginas. Empieza pequeño, empieza ya. Y siempre — el conocimiento es lo que nadie te puede quitar .
 
 ### DANA o apagón: los primeros 30 minutos, minuto a minuto (2026) — https://kit72h.com/blog/dana-apagon-primeros-30-minutos/
 Los primeros 30 minutos deciden casi todo: secuencia de Protección Civil minuto a minuto (0-10 información, 10-20 casa, 20-30 plan) para DANA o apagón.
