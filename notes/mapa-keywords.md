@@ -88,6 +88,7 @@
 | mejor arrancador de batería para coche | media | compra | blog pendiente | ✅ hecha (2026-10-29) | P2 |
 | mejor estufa de gas butano para apagón | media (estacional) | compra | blog pendiente | ✅ hecha (2026-11-02) | P2 |
 | mejor walkie talkie PMR446 largo alcance | media | compra | blog pendiente | ✅ hecha (2026-11-01) | P2 |
+| mejor depósito de agua plegable para emergencias | baja | compra | /blog/deposito-agua-plegable-hydrapak-seeker-3l/ | ✅ hecha (2026-11-03) | P2 |
 
 ## Reglas de contenido (para los crons)
 - Cada página nueva CITa fuente oficial con enlace (DG ECHO, Protección Civil, DGT, AEMET, 112).

@@ -153,8 +153,11 @@ Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basad
 - Radio FM/AM a pilas o de dinamo: Cuando cae la red móvil, la radio sigue emitiendo avisos oficiales sin internet ni batería del móvil. Sintoniza las emisoras locales antes de guardarla y prueba la recepción donde la vayas a usar. (~15-35 €)
 - Batería externa (powerbank) de 10.000-20.000 mAh: Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses. (~15-35 €)
 
-### Kit Montaña: 13 esenciales para supervivencia outdoor (2026) — https://kit72h.com/kit/kit-montana/
-Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.
+### Kit Montaña: 15 esenciales para supervivencia outdoor (2026) — https://kit72h.com/kit/kit-montana/
+Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.
+**Agua e hidratación**
+- Depósito de agua plegable 3 L (HydraPak Seeker): 3 litros en 92 g. Se amolda a cualquier hueco de la mochila y vacío no ocupa nada. Acepta filtros de rosca de 42 mm (Katadyn BeFree) y aguanta agua caliente hasta 60 °C. (~20-30 €)
+- Pastillas potabilizadoras de agua: Convierten agua de riachuelo o fuente en agua bebible en 30 minutos, sin filtro ni batería. (~8-15 €)
 **Orientación y comunicación**
 - Powerbank ligero + cable USB: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
 - Silbato de emergencia: Se oye a 1 km de distancia; tu voz, a 100 metros. Sin batería. (~3-8 €)
@@ -531,6 +534,217 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026) — https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/
+3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué es el mejor depósito para un kit de 72 horas.
+HydraPak Seeker 3L y 10 L: el depósito de agua plegable que sí merece un hueco en tu kit
+
+
+ Hay un momento en el que montar un kit de emergencia deja de ser una lista y se convierte en un problema de espacio. La comida entra. La radio entra. La linterna entra. Y entonces llega el agua, y todo se rompe: tres litros por persona y día son nueve litros para 72 horas, que en botellas de litro y medio son seis botellas por persona. Seis botellas que ocupan, que pesan, que suenan a cada paso y que, vacías, siguen ocupando lo mismo que llenas.
+
+
+ El HydraPak Seeker de 3 litros ataca ese problema por el único lado que funciona: quita el envase del problema. Es un depósito flexible de 92 gramos que se llena cuando hay agua y se aplasta hasta caber en un bolsillo cuando no. No es un gadget de excursionista: es la pieza que convierte «llevo agua» en «puedo llevar agua y, cuando se acaba, puedo ir a por más».
+
+
+ Qué es exactamente (con las cifras de la ficha del fabricante)
+
+
+ El Seeker es una bolsa de agua, no una botella. Eso cambia todo lo demás. Estos son los datos que da HydraPak y que conviene tener a mano antes de decidir:
+
+
+ 
+ Capacidad: 3 litros (100 onzas).
+
+ Peso en vacío: 92 gramos. Menos que un móvil.
+
+ Medidas lleno: 37 × 14 cm, plano. Cabe de pie en el bolsillo lateral de casi cualquier mochila.
+
+ Material: TPU con costuras soldadas por radiofrecuencia, más polipropileno y nailon en asa y refuerzos. Sin BPA ni PVC.
+
+ Boca: 42 mm, con tapón roscado unido a la bolsa (no se pierde) y asa de lona recubierta para verter.
+
+ Compatibilidad: filtros de rosca de 42 mm — el Katadyn BeFree y el tapón filtrante de la propia marca. Con el tapón Plug-N-Play y un adaptador de 28 mm (aparte) se puede usar como vejiga con tubo.
+
+ Temperatura: se puede congelar y admite agua caliente hasta 60 °C. No es un termos y no aguanta agua hirviendo.
+
+ Extras: dos puntos de anclaje laterales para colgarla o montar un filtrado por gravedad, medidor de capacidad exterior y bolsa de transporte incluida.
+
+ 
+
+ Precio de referencia: entre 20 y 30 € según acabado y tienda. Para lo que resuelve, es de las compras más rentables del kit.
+
+
+ Por qué 3 litros es la cifra que cuadra
+
+
+ Las guías de autoprotección españolas manejan dos números: 1,5 litros por persona y día solo para beber y 3 litros por persona y día si con esa agua también cocinas. En 72 horas eso son entre 4,5 y 9 litros por persona. Un depósito de 3 litros no cubre el escenario completo, y eso es exactamente lo que lo hace útil: cubre una jornada completa de una persona con margen, o un día de bebida para dos.
+
+
+ Ese tamaño encaja con la lógica real del kit de 72 horas, que no es «llevar toda el agua» sino llevar agua para el tramo crítico y tener con qué reponerla . La reserva grande se queda en casa, en garrafas de 8 litros que no vas a mover. El Seeker es la parte que sale contigo: al coche, al refugio, al punto de reparto, a la fuente pública que sigue funcionando cuando el grifo de casa no.
+
+
+ Si quieres el cálculo completo de cuánta agua necesita una casa, está desarrollado en la guía de cuánta agua guardar y cómo almacenarla . Aquí la pregunta es otra: cómo la mueves.
+
+
+ Las cinco razones por las que gana a una garrafa
+
+
+ 1. Vacía no ocupa. Es la razón principal y no hace falta explicarla mucho: una garrafa de 5 litros vacía sigue siendo una garrafa de 5 litros. El Seeker vacío se dobla, se aplasta y se guarda en su bolsa, que ocupa menos que una cartera. En una mochila de evacuación, donde cada litro de volumen compite con la ropa y el botiquín, ese hueco es oro.
+
+
+ 2. Se adapta al hueco que hay, no al revés. Al no ser rígida, se amolda a la forma del macuto, entra en un bolsillo lateral, se cuelga del asa de transporte y no genera esa presión incómoda en la espalda que hace una botella rígida cuando la mochila va llena. En el maletero del coche pasa lo mismo: se mete en cualquier recoveco entre cajas.
+
+
+ 3. Convierte la fuente en grifo. Aquí está lo que casi nadie valora hasta que lo usa: el tapón de 42 mm acepta filtros de rosca. Llenas la bolsa en un río, en una acequia o en un depósito dudoso, enroscas el filtro y bebes directo o por gravedad colgándola de los anclajes. Es la diferencia entre llevar agua y poder fabricarla. Los filtros que encajan sin adaptador son los de rosca de 42 mm, como el Katadyn BeFree . Si el escenario es una inundación con el suministro cortado o contaminado, esa capacidad deja de ser un extra de montaña y se convierte en el centro del plan. Más sobre esto en la comparativa de purificadores de agua para emergencias .
+
+
+ 4. Sirve para más que beber. Tres litros de agua caliente (hasta 60 °C) dentro del saco de dormir son una bolsa de calor de cuerpo entero. Congelada, es un bloque de hielo que mantiene fría una nevera portátil o una caja con comida. Con el tapón cerrado hace de ducha de emergencia colgada de una rama. Y cuando vuelves a casa, sirve para lavar la vajilla en un apagón sin gastar la reserva potable. Una garrafa hace una cosa; esto hace cinco.
+
+
+ 5. Aguanta el trato. El TPU con costuras soldadas por radiofrecuencia es el mismo material que usan las vejigas de hidratación de gama alta. No es una bolsa de plástico de usar y tirar: se puede congelar, llenar de agua caliente, pisar y guardar mojada sin que reviente. La marca da garantía de por vida frente a fallos de fabricación, que en un producto de 25 € dice bastante de lo que esperan de él.
+
+
+ Seeker 3L frente a las alternativas (comparativa honesta)
+
+
+ 
+ HydraPak Seeker 3L Garrafa rígida 5-8 L Vejiga con tubo (2-3 L) Botellas PET 1,5 L 
+ 
+ 
+ Peso en vacío 92 g 250-400 g 150-250 g ~40 g cada una (×6) 
+
+ Volumen vacío Casi nulo (bolsa incluida) Idéntico al lleno Casi nulo Idéntico al lleno 
+
+ Beber en marcha Hay que parar y verter Parar y verter Sí, por tubo Parar y verter 
+
+ Filtro de rosca Sí (42 mm) No Solo algunos modelos No 
+
+ Agua caliente Sí, hasta 60 °C Sí (según plástico) No recomendable Se deforma 
+
+ Duración Años, con cuidado Años, se agrieta 2-4 años Caduca el plástico 
+
+ Rotación de reserva No sirve para almacenar Sí, es su función No Sí 
+
+ Precio orientativo 20-30 € 10-25 € 30-50 € 3-6 € el pack 
+
+ 
+ 
+
+ La lectura de la tabla es sencilla: no compiten, se reparten el trabajo . La garrafa rígida es almacén y no debe moverse de casa. La botella PET es reserva barata que se rota cada seis meses. La vejiga con tubo es para beber sin parar en marcha, si haces deporte. El Seeker es el transporte: el envase que va y vuelve, el que se llena en la fuente y vuelve a la mochila, el que no te obliga a elegir entre agua y espacio.
+
+
+ Dónde flojea (y cómo se arregla)
+
+
+ Ninguna herramienta es perfecta y esta menos que otras. Lo que hay que saber antes de comprarla:
+
+
+ 
+ Al principio sabe a plástico. Es lo primero que dice la gente que la usa y es cierto: el TPU nuevo deja sabor en las primeras cargas. Se arregla con dos lavados de agua tibia con un poco de bicarbonato, dejándola llena un par de horas y secándola abierta. Después desaparece. Quien no lave antes del primer uso, se va a arrepentir en el peor momento.
+
+ Llena no se sostiene sola. Es flexible: si la dejas de pie sobre la mesa, se tumba. No es un problema real (se cuelga del asa o se apoya en la mochila), pero si esperabas una botella que aguante de pie, no lo es.
+
+ No es para beber en marcha. Sin el tapón Plug-N-Play y el adaptador de 28 mm, hay que parar, abrir y verter. Si tu plan es correr con ella, compra una vejiga con tubo. Si tu plan es un kit de emergencia, este detalle es irrelevante.
+
+ El tapón de 42 mm no encaja con filtros de 28 mm sin adaptador. Antes de comprar el filtro, mira la rosca: Katadyn BeFree y los tapones de la propia HydraPak sí; muchas bombas de manivela, no.
+
+ No es un bidón de almacenamiento. Dejar agua dentro semanas es pedirle pereza al material: coge sabor y cría biofilm. Se vacía, se seca abierta y se guarda.
+
+ En un apagón largo, tres litros se acaban. Es un depósito de transporte, no la reserva. La reserva son las garrafas de casa. Quien confunda las dos cosas se queda corto el segundo día.
+
+ 
+
+ Cómo lo monto yo en un kit de 72 horas
+
+
+ No hace falta complicarlo. Esta es la configuración que tiene sentido, de lo pequeño a lo grande:
+
+
+ 
+ En casa: dos garrafas de agua de 8 litros por persona, rotadas cada seis meses, más un potabilizador . Eso es el almacén y no se toca salvo emergencia.
+ En la mochila de evacuación: el Seeker vacío (92 g no se notan) y un filtro de rosca de 42 mm. Peso total comprometido: menos de 200 g, y la capacidad de beber de cualquier fuente razonablemente limpia.
+
+ En el coche: un segundo Seeker vacío en la guantera o bajo el asiento, con dos litros de reserva en botellas PET que se rotan. El depósito es para rellenar en una gasolinera o en una fuente cuando la cosa se alarga.
+
+ La rutina: antes de cada temporada de riesgo (otoño de DANAs, verano de incendios), se revisa: bolsa seca, tapón limpio, filtro con su vida útil, y una prueba de llenado para descartar poros.
+
+ 
+
+ Si estás montando el kit desde cero, el orden correcto es agua primero y aparato después. La guía del kit básico de 72 horas tiene los 16 esenciales ordenados por prioridad; el kit de montaña y el kit de evacuación son los dos escenarios donde este depósito encaja mejor, y la guía de qué mochila de evacuación comprar te dice en qué bolsillo va.
+
+
+ El hermano mayor: el Seeker de 10 litros
+
+
+ Si tu problema no es mover agua sino tenerla quieta en un sitio, la misma bolsa existe en 10 litros. Son 261 gramos vacía y 49 cm de alto, y viene con tapón Plug-N-Play y grifo de campamento (Camp Tap): se cuelga de una viga, del marco de una puerta o de la lona de la tienda y se sirve agua con una mano, sin levantar nada. Ese detalle es lo que la separa de una garrafa: una garrafa hay que inclinarla, esta se queda colgada y tú solo abres el grifo.
+
+
+ Los números encajan con la recomendación oficial. Diez litros son casi exactamente los tres litros por persona y día que piden las guías para 72 horas: para una persona cubre los tres días completos y para una familia de tres cubre el primer día sin tocar el resto de la reserva. Llena pesa 10 kilos, así que se queda donde la pongas; vacía ocupa menos que una carpeta y, bien seca, no coge olor entre emergencias.
+
+
+ Se puede congelar, admite agua caliente hasta 60 °C, es de TPU sin BPA ni PVC y comparte la compatibilidad con filtros de la gama. En un piso su sitio natural es el fondo del armario: se llena el día del aviso, se cuelga en la cocina o el baño y se vacía cuando pasa el aviso.
+
+
+ Ver el HydraPak Seeker 10 L en Amazon 
+
+
+ La combinación que tiene sentido es esa: 3 litros para ir y volver, 10 litros para aguantar . Con las dos tienes 13 litros de capacidad y, vacías, no ocupan ni el hueco de una caja de zapatos. Es la reserva de agua de una casa pequeña sin renunciar a un centímetro de armario.
+
+
+ Para quién sí y para quién no
+
+
+ Cómpralo si: tienes o estás montando un kit de 72 horas, una mochila de evacuación, un kit de coche o un equipo de montaña; vives en zona de inundación, incendio o cortes de suministro; o simplemente quieres poder coger agua de una fuente sin cargar con botellas. Por 20-30 € es de las mejores relaciones peso/utilidad del kit entero.
+
+
+ No lo compres si: buscas almacenar agua en casa (necesitas garrafas rígidas), quieres beber sin parar mientras corres (necesitas vejiga con tubo), o esperas una botella que aguante de pie en la mesa. Tampoco si el plan es hervir agua dentro: no es un cazo.
+
+
+ El veredicto
+
+
+ El Seeker 3L no es el producto más vistoso de un kit de emergencia y probablemente sea el que más veces uses sin que haya ninguna emergencia: una excursión, un día de playa, un viaje en coche, rellenar en una fuente. Ese es justo el argumento a su favor. Un kit que solo se usa en catástrofes se oxida en el armario; uno que sale de casa de vez en cuando se conoce, se prueba y se tiene a mano el día que hace falta.
+
+
+ Si lo quieres para tu kit, aquí están las dos fichas exactas: el de 3 litros para llevar y el de 10 para la reserva de casa.
+
+
+ Seeker 3 L   Seeker 10 L 
+
+
+ Y si prefieres montar el kit completo antes que ir pieza a pieza, empieza por el kit básico de 72 horas : están las 16 piezas que de verdad se usan, con su prioridad y su precio orientativo.
+
+
+ Un último consejo que vale más que el depósito: llénalo antes de necesitarlo . El día del aviso meteorológico no es el día de descubrir que el tapón no cierra.
+
+ 
+
+ Fuentes
+
+ 
+ HydraPak — Seeker 3L: especificaciones oficiales (capacidad, peso, materiales, compatibilidad de filtros) 
+
+ REI — Ficha técnica del HydraPak Seeker 3L (temperaturas de uso, TPU sin BPA ni PVC) 
+
+ Dirección General de Protección Civil y Emergencias — Recomendaciones de autoprotección y kit de 72 horas 
+
+ Comisión Europea (DG ECHO) — Preparación ante emergencias: agua y kit de 72 horas 
+
+ 
+ 
+
+ Sigue leyendo
+
+ 
+ Cuánta agua guardar y cómo almacenarla en casa 
+
+ Mejor purificador de agua para emergencias 
+
+ Cómo almacenar agua y comida en un piso 
+
+ Kit básico 72 horas — los 16 esenciales 
+
+ Kit Montaña — supervivencia outdoor
+
 ### Mejor estufa de gas butano para apagón (2026): 5 modelos comparados — https://kit72h.com/blog/mejor-estufa-gas-butano-apagon/
 Butano, pellets o inducción: cuál es la mejor estufa para un apagón de invierno, cuánto cuesta calentar una habitación y por qué el butano sigue ganando.
 Mejor estufa de gas butano para apagón (2026): 5 modelos comparados — Blog Kit72h 
