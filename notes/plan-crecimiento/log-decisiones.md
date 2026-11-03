@@ -41,3 +41,4 @@
 | 2026-10-31 | recursos-oficiales-emergencia | revamp | encolado | Revamp 319w->1200w+, 3 afiliados, tabla, fuentes oficiales |
 | 2026-11-01 | mejor-walkie-talkie-pmr446-largo-alcance | comparativa | encolado | 5 walkies PMR446 + tabla + 2 fuentes oficiales. Estacionalidad: noviembre/invierno/apagones |
 | 2026-11-02 | mejor-estufa-gas-butano-apagon | comparativa | encolado | 5 estufas butano, ~2200 palabras, 3 fuentes oficiales, 5 afiliados ntizar-21, tabla comparativa |
+| 2026-11-03 | el-conocimiento-dartnell | revamp | encolado | Revamp 324w -> 1300w+ con 7 bloques, fuentes UE+PC, 5 internos, 1 afiliado |
