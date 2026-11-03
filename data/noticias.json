@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-03T04:10:41+01:00",
+  "actualizado": "2026-11-03T07:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,20 +12,20 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Japón pide almacenar agua y alimentos ante riesgo de desastres naturales",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUg1RUUzWno5Yml1Tm5yMG9iRGoydzB2aWNsS1VNcW5Dc2dqajBCb3hmbDJTQXFBQ1pNaTBETGNrVjlKSlVYTVdKalFLbUJfb1NfUlBuZnVKZm5NQXk1Z3k4bkxnZGIxLWh3YXJYS3NZZ1ZGOUl3OWVpVFVvbXNTN0gtbHJIdnhQZk1SOUpvWUtZOXFEaEJaQmo0VERtTUN5U0UxM05JTmFGV2FxVmhydHVn0gGyAUFVX3lxTE5hSDVFRTNaejliaXVObnIwb2JEajJ3MHZpY2xLVU1xbkNzZ2pqMEJveGZsMlNBcUFDWk1pMERMY2tWOUpKVVhNV0pqUUttQl9vU19SUG5mdUpmbk1BeTVneThuTGdkYjEtaHdhclhLc1lnVkY5SXc5ZWlUVW9tc1M3SC1sckh2eFBmTVI5Sm9ZS1k5cURoQlpCajRURG1NQ3lTRTEzTklOYUZXYXFWaHJ0dWc?oc=5",
+     "fuente": "Capital México",
+     "resumen": "",
+     "fecha": "2026-11-03T01:19:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "El kit de emergencia de 72 horas que Reino Unido aconseja tener en casa ante una crisis",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0tTSlhCWU1KQ2wwM3g2QzNBTlMzMlkxdVpPMUlMWmFtUFlQNzN2WFM4cENQVXlGMVc0Uks2UTUzcTBscmVZcklGQk1Xc2pwOHhjcmxZNW93UXdJNmdKckEzaUJDM01RSmZYSjN6RHVTb3lFNkRiaUNoajF6cllBZWJaUFhxbkljeUFKT25ZZnIzNVZfS2gzSXdnVEJOd0xKd3REN1FPMEQ5WlVZ0gGyAUFVX3lxTE1HdHUxY09IdDFSWXFrMWpKeXlEQWpYOVFUZmFVLTNvVV9HU0NJa1RBcm8wNnAyX0RheWxfRHRhUGh5dUFhTTFZQ2dvVk9HTVhpUW1wSnZmekZ2SlplQmRRQ2ZjY2Qya3RQanB2RmR3ZE1vaURvNTJSNGxXVVVwRDJId21Gc0JzX1g2MFZWLTRaZkxSUnlZeVl1N3FfYWlXWXcydXFxSy1iSEt6OXpfSGJSclE?oc=5",
      "fuente": "Las Provincias",
      "resumen": "",
      "fecha": "2026-11-03T01:15:19+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "México se suma a más de 50 países que piden preparar un kit de emergencia para sobrevivir 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYXY1LUI5SjRjT2hoT1gtNHJ2WDNJYUV2UURXLVpJTnFOZlp2cnI0NzgwY2NqaEt2TEdSbUl4UXZaRkFBamtEc0g5c2xsd3NIMDdoNEZ1LXVsWnBqVXZ0VVZhSW9NaU1rR1VoeGtxcmw0MzVTV0FnYnc2YzJfLVRFYlpESS1XU2J2ejcxVy1LTGlmOEV3czVneXVuTzRyNWdMSDIxeHJ0aWtNQQ?oc=5",
-     "fuente": "Quinto Poder",
-     "resumen": "",
-     "fecha": "2026-11-02T22:56:00+01:00",
-     "fecha_txt": "2 nov"
     },
     {
      "titulo": "Kits de emergencia: por qué más de 50 países recomiendan almacenar agua y alimentos",
@@ -68,11 +68,11 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Doce países recomiendan almacenar agua y alimentos ante emergencias: ¿qué está pasando en el mundo?",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmdWZnlHWk9neEdoMXNGWXdLU1lscVpRdnViU2NfaXpQUjQ5Z3JPODlRTGxJcnUzZ0s5dWVmckJrekhvSzJUVEE5OHRyaE5tSmV4NGRub2ttbDF0RklHMERtTTA3cWVsY1dhRU12elNsdmdmOV9TaE9qU2FCQjZ1OE94NjhBZE1EUFlOM3hOdEtsMjlPZ0dzbGxhbE1vQ2JyTXRseHFqQTZQOGRHeElLWVlR?oc=5",
-     "fuente": "DSN Noticias",
+     "titulo": "CDMX te recuerda la mochila de emergencia en medio de llamado mundial a almacenar suministros",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaGNneU5mMmRURndZRGhhYzQ4LW4zd1ZhQXFaR01rNnpDQzM0YjNCN0lKb3hJV3pDUk0wZVZjNHE2LVNWMXpTR1M0WnFTNW5pY2gwSFljTGQ5Uk1tTWhveWlfbHJSdjlLeTM4WEwxVF92UVNlVV92WHVGc0ZUeTU2YzNfdVhMVFY0N24zTTVPa29rbGtlWktGdlQxanhwVXVFczNnWEtkLWZYUFBQckNRZlNEZkZOUzNpWGUyTDRsRFY5bUdJRjhUSXVwTjBaS1BYTlA0RTI2WnfSAd4BQVVfeXFMUGZyS0x2SGxDTUVSQm5tUzlmNnpkWDZuM1V3RXJ2SG1Jb2l5YkZUcFl0R2lONmZPR0gzN0pUU2x0MkY2UTRLZU9KSy1saTExYVNoUWJreHMzZHdMUkNFVFdOVDc1VHh0eFNDbWxWMkJJVll5cmNvY3gzbEZ4LXRrZnhwR0U2Y3RjZnFMbkMzQmVxS0l1bHlyRjZ5RVExMXNfdEtSUGRwS2JmU3VrdjU4RUtWbXJWSVZSSnFTWmh6NHljWnBsd0pKZmNnd05qZndoY08xRkFubkpxN2VJQ1NB?oc=5",
+     "fuente": "El Economista",
      "resumen": "",
-     "fecha": "2026-11-02T20:05:00+01:00",
+     "fecha": "2026-11-02T19:49:23+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "La inteligencia artificial encuentra una nueva forma de anticiparse a los incendios forestales",
+     "url": "https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20261103/inteligencia-artificial-encuentra-nueva-forma-anticiparse-incendios-forestales_475674.html",
+     "fuente": "El Debate",
+     "resumen": "El Colegio de Ingenieros Forestales recalca que la IA debe entenderse como un instrumento de apoyo a los profesionales forestales y no como un ...",
+     "fecha": "2026-11-02T21:30:00+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
@@ -137,14 +145,6 @@
      "resumen": "El Ministerio del Interior ha confirmado que el Gobierno de España ha solicitado a la Unión Europea la creación de una base aérea en Mallorca para combatir los ...",
      "fecha": "2026-11-02T03:48:00+01:00",
      "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "España encadena sus dos peores campañas de incendios del siglo: 630.000 hectáreas arrasadas en solo dos años",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTR2YTNzNklEYW1LZmlSWWN5TW1xbW5tR0tiVDhobmh4ZzB4Q2RRLW56M01KMHk4bjFNSWZySlhfVlpiZ2lmbFhMdmJKaUJyNzJTTHhhV1IwU25kekV6WHJrNnMwdUpvMzZ6RDdzM09tZnlldGhsczdud3ZTa3FsYktLMFg5bUc1YkNzWlRtRGVsVjQyNHhFZGdTYjRrNlh5MzlXVlV3YTE5ek9UMjZ3Q2UyS2lXLWtYRlpjeVVZMG4?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-01T04:00:03+01:00",
-     "fecha_txt": "1 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
+     "url": "https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/y-si-la-dana-de-2024-hubiera-desbordado-el-carraixet-asi-afectaria-la-inundacion-a-lhorta-nord",
+     "fuente": "Valencia Plaza",
+     "resumen": "Una simulación de la UPV muestra cómo el desbordamiento habría afectado a municipios de la comarca con su punto crítico a las 20.00h VALÈNCIA. El 29 de octubre de 2024, el barranco del Poyo se ...",
+     "fecha": "2026-11-02T23:00:00+01:00",
+     "fecha_txt": "2 nov"
+    },
     {
      "titulo": "Protección Civil alerta de lluvias torrenciales en Cataluña, con acumulaciones de hasta 60 litros en tres horas",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3NCOHY5S25YQVBpOFZRWlpJbnNwUzhIdy0zNjM1UnJfY0tQOWZfYWp2U3puVl9XcHFBaURYaDVkb3RXNjZSbXQzb1FqUnlOb3JOcUo4MFljU1VwSU9qNmJ0QnRDTV94di1sanlnclNLZ2U3X0o5MEV5NlVwV0twVHFhYU5hZWxwRXRJSGJEdF9VR3drbjIwUnkweG5USVhuY1NLNHZiX3pSWmM2WFJXaC1feVkwTExNaklmUmVzWDhwU2VvZ0NXQXFxZzF0Q2dfN0tlbTRHSFBjSXAxQVHSAeMBQVVfeXFMTjBtRDVIRS1mZEtIMW82QmZra3lpTnFLYUk5TXNhMldEVS14c3M0dElRQW5xREdCOHB2U09IZ3I1VjRkVnUycjg4Q0ExOWd5VVdJVjl1ODhkLS1ObzZfVDM1YTgwLWRJUUFvLXp3enZ1TjNlRnVGcFBSRDV0c2hIMXdReVZkLXhZbmJYdHk1NXViVDZqaDA5RzNOcXgyemRONXA1eUJvOEdiOWhaUU1OWk85R1M4b0w3V0pwbmhTZmJ6amFGVS1wNHhfU1JQdGJOYUNYS0xEV2dQS2sxdjBGdTAzTVE?oc=5",
@@ -208,14 +216,6 @@
      "resumen": "El Consorcio de Compensación de Seguros paga los daños de una DANA solo si la póliza cubre el coche. Claves de qué entra y qué queda fuera.",
      "fecha": "2026-11-02T02:25:00+01:00",
      "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Keiko Fujimori cancela viaje a España para atender emergencia por lluvias en el norte del Perú",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZoOGpER2F3ay1PZ09DWGQyZnJyNXV0ckUtcndqOEpZYnRIRUNiRnRTZFJkZjliT1Z1cFBGY2FTdjN1YjBMTkUyb05VUDNfUmtaZHFiaG5JR00yOVFYeEFPNFF6WkcxcFNtRi15djhiTU5keklSa3RDNFUxTS1YREZ3amJPUDRnVWJKTHpyNG9sVFRrX3Mya05OdGtGYVB0S1FkV3M4cEpjaDdCdGx1OEl3?oc=5",
-     "fuente": "Willax",
-     "resumen": "",
-     "fecha": "2026-11-01T21:14:05+01:00",
-     "fecha_txt": "1 nov"
     }
    ]
   },
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Los hogares españoles asumen ya 123 euros adicionales en la factura eléctrica por los costes asociados al apagón",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdmNxR0tyTkQyT05laDM5Ty0wVHZEMUFfWncxdmNESGRuMzduY0RabDdTTlRSMUdnc25BQ2RIQ2R1bldlV0JNb0R4YkN3MFYxVmtNY1c1Q1lFQ0UwT3V3MXhZT0dVX3BEdG5ZS09iTlNMQWt1c01lUWNUV1diSEs1WENEVkF0SEZzWDdFTWhCOGFsSjBicGlpdGJvX1o2dmFUdElRcElRc1phVFVLclBuMHdyN2FHdmRPLWpDa2EzVEpvOGpVQmw2MWh0WWZ4X2hmdENyOTJWUjhSaTdsdEM3bmZhVFlrcWIyWmJUcDZaZW0yZ3PSAfgBQVVfeXFMUGFtNTAyVDdra2ZmV3hoUVRMX1hjTFRWSy1idXNuaHRFSW9YNjBCQU1OOGR4RFo0Q0toVTFHUVJRYm4yVWwzM01nLWRIWmdtOFBXQ3QxZDBDWWU4WVgtTUl4SW5jRmZ5TTdiVEdEd3cyenBuaURBT3ozdzlKVkJyMEg2SHYwVDB4dmZvaEJaV3VWQTRFQlFMalBFSmp1NDlaQW51a05JNjhTWVR0RDRzWnhwYjV4QU1NS1RmYXNDQVFfeFhmX21KNEhZUmw4NUh0bDJlZnlTb3BOTWp3bDNaZHBaR0NiY2w4WWlKcWZtSlBlRDYtcDUzZEE?oc=5",
+     "fuente": "Vozpopuli",
+     "resumen": "",
+     "fecha": "2026-11-03T04:45:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "España, hoy 2 de noviembre: Urda marca la jornada y La Palma recupera la luz tras un apagón general",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUFDYjY4TjREOFZBUjEwLVpFSVZGREdyYmF3eHN0OG03S09tVWpuR0UzMkgyYXU2Tk1xN2ItLTIyWkNUVmxEV29uN2YybEVjSlh2ZFVEWWMwbVlsMUVTWVd4b2NrTkI2RllGOG5reU10bHF0OFpPWkVJZXduYmVZRF9VZmlnMjlYUjNYVkVfX0tvOHFaT2F4cXg4b3hRQl9uY1E?oc=5",
      "fuente": "La Noción",
@@ -233,19 +241,19 @@
      "fecha_txt": "2 nov"
     },
     {
+     "titulo": "Red Eléctrica niega una inestabilidad crónica en el suministro de energía",
+     "url": "https://www.europasur.es/andalucia/red-electrica-niega-inestabilidad-cronica-suministro-energia_0_2008410258.html",
+     "fuente": "Europa Sur",
+     "resumen": "Defiende que no se puede vincular el mix de generación eléctrica que había a la hora y el día del accidente mortal ferroviario de Urda (a las 8:30 de la mañana del 28 de octubre) con la calidad y segu ...",
+     "fecha": "2026-11-02T17:00:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
      "titulo": "Garriga carga contra el Gobierno tras el apagón de La Palma: «Han traído la tercermundización a España»",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXRpYjNCTDE5ckR3NThoZ2VJbXdhNkRYS25mUHp4Sm1GaVF6VHN1TGVwUlpMeGUtSVpoRFhHWldhSFQtdWZySlFRSEl0My1ibU1DNWFtQjNadG1DdkxwalVlYU1hTFpxRllvUnlYQ3QzbTFab1Q3OEgyTWhiRmlxWFdWTnZYN2cybmhDUXZXYWJkOUhjVWhNdG93V2Z5QTVHaXVHcGlfeDEwQ0FPdEJzN1p1SmZtU1NHMmZCY08yUk4yd0wtbDVfQjZXeHhKYzFGclHSAdcBQVVfeXFMTjFBQUxYLV9GbEtERmx0WThxWkU2djJWSEFzRWJ2QnJZOHhWXzJBYUU1UGNheUFPbFZ0VllQbzlCaTV2c2ZCS21CV1pTcTNmRjhIU3IxRHltckkzOXZVQXpVMzRtQ3UzbmQzUktKUjE3dmZvem1SWTNfTEFXVXhuaW8xT0c0T1YtV3Q2OW85eEpETDNrbGZTbGV0Rmxwa245eE5Ucjhob190N2pxQlRFTmhOOTB2VVhmR2NfR3EwWWRzRmRHTHExMHVBdkhpMWlRSHAxcEFCWGs?oc=5",
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-11-02T16:57:51+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Abascal denuncia la \"tercermundización\" de España bajo el Gobierno del PSOE tras el apagón de La Palma",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaU5Na2MyUDg3dHg0WVJkSnhHUUkwWmExd0ZycTRrR0FpTWhrd3prT0FSa0V1Y3lmOFA2alBkNGdyUi04WHY2R1dtNnlEdW5iWDNFRVJmQ19lVGZ0WVRjekFSdVRDTk1YaDQzTW5aZVotUEhXMTYwWHVvaWNhNHNNX25QSjNJLVYwS0NianExdFFtWjVjN05GUk1OdWZHLVhYd1BDeDJkeGRqdw?oc=5",
-     "fuente": "EDATV News",
-     "resumen": "",
-     "fecha": "2026-11-02T16:10:00+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -270,14 +278,6 @@
      "fuente": "El Diario Venezuela",
      "resumen": "",
      "fecha": "2026-11-02T12:58:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "La Palma vuelve a sufrir un apagón general: Más de 50.000 afectados y una red eléctrica 'bajo sospecha'",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmRSaGJBaF9tODZscm0zNlRTbGZMemFtQ2JYTGhzSDZOWmNUNGN6UlBFbkdVVHNrb0J1blFRMFhITDFSN3BJbFpRcHNRMXJTSEozd3JwbTc3VmFLSmR1OTc3WU1DcWplSEJyMFdZVFJLX2pOdjJndGtHX1RUVFgxS01yRUx6WWY0S0JQeDZxMzJ2dl9XZklMcU9nUl9TVm1vczhVYTdQYy1PMkZmMHQxRlpocS1sZzN2X0dKNjJB?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-02T12:36:21+01:00",
      "fecha_txt": "2 nov"
     },
     {
