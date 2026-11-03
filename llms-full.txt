@@ -1073,6 +1073,104 @@ Pregunta real de un lector de Málaga: «¿Qué kit recomiendas para una familia
 
  ¿Tienes una casa parecida y dudas sobre tu setup? Escríbenos: las mejores respuestas acaban siendo artículos del blog como este.
 
+### Mejor deshumidificador para inundaciones y humedad: 4 tipos comparados — https://kit72h.com/blog/mejor-deshumidificador-inundaciones-humedad/
+Compresor, desecante o peltier: qué deshumidificador sirve tras una inundación o lluvia intensa, cuánto gasta cada tipo y la regla de los 3 días.
+La humedad oculta es la que más destruye después de una inundación o de una temporada de lluvia. No necesitas que entre el agua en casa para que los muros, la ropa o los muebles de aglomérado se echen a perder: con un 70% de humedad relativa basta para que aparezcan los primeros mohos, y a partir de 75% el hongo Stachybotrys —el de las toxinas— empieza a proliferar. En España, el INMET lo tiene claro: la humedad relativa ideal en interiores oscila entre el 40 y el 60%. Supera el 65% y empiezan los problemas.
+
+
+ El deshumidificador es la herramienta que controla esa humedad cuando no hay calefacción suficiente para secar las paredes o cuando la lluvia ha dejado una capa de agua que no llega a secar con un trapo. Y en un escenario de apagón post-inundación, cuando la red falla y no puedes encender el ventilador del coche para ventilar el salón, es la diferencia entre recuperar las cosas o enterrarlas.
+
+
+ Comparo los tres tipos disponibles en España —compresor, desecante y membrana— con su consumo, su capacidad real y su utilidad en emergencia.
+
+
+ Cuatro tipos, un objetivo: el 50% de humedad
+
+
+ 
+ Tipo ¿Cómo funciona? Capacidad (L/día) Consumo ¿Sirve en frío? 
+ 
+ 
+ Compresor (el más efectivo) Enfría el aire para condensar la humedad como un frigorífico al revés 10-50 L/día 200-400 W Sí, pero pierde eficiencia por debajo de 15 °C 
+
+ Desecante (sales o silicato) Absorbe el agua en un material higroscópico que se recalienta para secarlo 5-25 L/día 200-500 W Sí, funciona bien a cualquier temperatura ✅ 
+
+ Membrana (peltier) Termoeléctrico mini: como el deshumidificador de coche 1-5 L/día 30-70 W Sí, pero capacidad muy limitada 
+
+ Sin deshumidificador: ventilación cruzada + bórax Abrir ventanas (si no llueve), sacos de sílice o bórax Variable 0 W Sí ✅ (solo si el exterior está más seco) 
+
+ 
+ 
+
+ Precios orientativos para España: compresor de 20 L/día entre 150-300 €, desecante entre 100-200 €, y peltier entre 30-60 €. Los de compresor rinden más pero consumen más: si el apagón se alarga, un compresor de 300 W sobre un generador pequeño puede vaciar el depósito de combustible antes que la estufa.
+
+
+ Ganador por categoría
+
+
+ Mayor capacidad: el compresor de 30-50 L/día. Ideal para un sótano inundado o un piso tras la DANA. Marcas como De'Longhi, Pro Breeze o Mila ofrecen modelos de 20-30 L/día a precio razonable. Ver deshumidificadores compresor en Amazon .
+
+
+ Mejor para frío: el desecante de sal. A 5 °C sigue sacando 10 L/día mientras el compresor baja a 3-4 L. Si vives en zonas de montaña o inviernos duros, es la opción más fiable cuando no hay calefacción. Ver deshumidificadores desecantes en Amazon .
+
+
+ Mejor relación tamaño/rendimiento: el peltier de 3-5 L para armarios o cuartos pequeños. No sirve para un salón inundado, pero es suficiente para evitar que el armario se llenen de moho tras una temporada de lluvia intensa. Ver deshumidificadores pequeños en Amazon .
+
+
+ Gratis: la ventilación cruzada con bórax (cristato de bórax, no bórax puro). Un saquito de bórax en cada armario absorbe 1-2 L/día de forma pasiva. No es un deshumidificador, pero en un apagón es la opción que no necesita enchufe. El bórax se compra en ferreterías por 2-5 € el kilo y no caduca.
+
+
+ Cuándo comprarlo y cómo usarlo
+
+
+ Hay dos momentos para un deshumidificador en una emergencia:
+
+
+ 
+ Prevención (antes): si vives en zona de lluvia frecuente o piso bajo, tener un compresor de 10-15 L/día en el trastero o debajo de la cocina es como tener un paraguas cerrado que no estorba. Conéctalo en temporada de lluvia y mantén la humedad entre 45-55%. El consumo es bajo: un compresor de 15 L gasta unas 250 W-h/día ≈ 0,04 €/día.
+
+ Recuperación (después de inundación): tras la DANA o una riada, los muros mojados tardan semanas en secar solos. Un compresor de 20-30 L secará una vivienda de 70 m² en 3-5 días si se mantiene cerrado (ventanas cerradas, puerta de la habitación sellada con plástico). Sin él, puede tardar 2-3 semanas y aparecer moho en 48-72 h.
+
+ 
+
+ Regla de los tres días: si después de una inundación no puedes secar la vivienda en 72 horas, necesitarás un deshumidificador de capacidad media o alta (20+ L/día). Los materiales de aglomerado (MDF, aglomerado) que se mojan y no se secan a tiempo se hinchan y pierden estructura para siempre: una mesa de MDF que se moja no vuelve a ser igual aunque se seque.
+
+
+ Errores frecuentes
+
+
+ 
+ Dejar las ventanas abiertas: un deshumidificador no funciona si el exterior está más húmedo. En una tormenta o justo después, el aire exterior puede tener 95% de humedad; abrir la ventana es como echar leña al fuego. Cierra todo y deja que la máquina trabaje.
+
+ Comprar un peltier para un salón: el peltier de 3 L solo sirve para un cajón o un armario pequeño. Si la superficie a secar supera 30 m², pide un compresor de al menos 15 L/día.
+
+ No vaciar el depósito: un compresor de 20 L en un piso muy húmedo puede llenarse en 6-8 horas. Si se llena y no lo vacías, la máquina se para y la humedad sube de golpe. Ponle un drenaje continuo o recuerda vaciarlo cada 4-6 horas.
+
+ Creer que ventila: un deshumidificador no renueva el aire: solo lo seca. Si hay moho visible, necesitas limpieza con lejía diluida (1 parte de lejía por 10 de agua) antes de secar. El deshumidificador evita que vuelva a aparecer, pero no elimina lo que ya crece.
+
+ 
+
+ Kit de deshumedecimiento básico
+
+
+ 
+ Deshumidificador de compresor 20 L/día: Ver modelos en Amazon — el caballo de batalla, para un piso normal de 70-90 m².
+
+ Sacos de bórax o sílice: para armarios y zonas pequeñas donde no llega el compresor. Ver sacos deshumidificantes en Amazon .
+
+ Higrómetro digital: para medir la humedad real, no adivinarla. Unos 8-12 € y se cuelga en la pared. Ver higrómetros digitales en Amazon .
+
+ Lejía concentrada: para limpiar moho visible antes de secar. 1 parte de lejía por 10 de agua. Ver lejía concentrada en Amazon .
+
+ Plástico de burbujas o film industrial: para sellar puertas y ventanas durante el secado. Ver plástico de burbujas en Amazon .
+
+ 
+
+ La humedad es la razón número uno por la que los seguros rechazan claims post-inundación: si el moho lleva más de 30 días creciendo, se considera «deterioro progresivo» y no «daño repentino». Por eso, actuar en las primeras 72 horas no es una sugerencia, es una obligación contractual.
+
+
+ Para la lista completa de productos tras una inundación, consulta el kit DANA e inundación y el kit de hogar .
+
 ### Mejor bomba de achique para inundación (2026): 5 modelos comparados — https://kit72h.com/blog/mejor-bomba-achuite-inundacion/
 Comparativa de 5 bombas de achique para inundación: la más potente, la más silenciosa y la que mejor relación calidad-precio. Desaloja agua sucia de tu
 Mejor bomba de achique para inundación: 5 modelos comparados (2026)
