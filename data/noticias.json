@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-03T19:10:40+01:00",
+  "actualizado": "2026-11-03T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Mochila de emergencia de 72 horas: ¿por qué la recomiendan en México y la UE?",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYU5RUkdteHpLYlY1cXlOd0lTSTVTNDRXUjF0QjhCYVlMOHNyZ2c2WnF4ek51WmRzcTVETWF5ci1JejF0NlM3SkhDb3RPMEY2RGQtVDRsT2h5clJHUnlfOG9vd0dhd1Q0cVhtX19rb0lWQkFQVTNSSFRhMk1GbzlkQW9pcy1EYU1Xdm91RnRGbkNvQ3VsVmlFOXVBRXpZQS1yeklFUkE5NVJNc2RIaWgzQ2hoSVRybGhKUklPRmdBS0FUclhwQmc0Tg?oc=5",
-     "fuente": "Mi bolsillo",
+     "titulo": "Kit de emergencia 72 horas, la UE presenta su guía oficial",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0hmdlBPQVBjNzljUGQyWVkxWFlxMTZQclJEY25KaGE1ZTNXN3NsRXdkZVBXUzF1dE0tY3VTQ0ozZlJmbjlCMFFBbHRSMHFncmMwZElXVGFmMEVrUWlBMlBSVVRIRUh1MEdUa0w2c3BXTV82czhPbGE2WVl5R3REOUJjWmJWQkZyMGc?oc=5",
+     "fuente": "Pasquale Pillitteri",
      "resumen": "",
-     "fecha": "2026-11-03T18:25:00+01:00",
+     "fecha": "2026-11-03T20:58:38+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "¿México debe prepararse para una crisis? Pide preparar una Mochila de emergencia con suministros de 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnBXanhVbFQtV1I2VnBzUlU0cTdtMFdZRFVaVEx3TUlZdDZ2VUFIOWNEU0JPeTZyeGRCSnRneWhFYUlMQnE2LVBMTmdtMHlVMW8tcDRFWWlqWGMyTGVITE1NS3JEYWJQV2haX0JZcFo2RXBUelhnTjBTcUpvSjI1SUFPSVVKQ0dmMmF0cXhfeFRHNl9Ya2NibGJGcWV3YW9SZnZFTnM2TVljX3ZweUZNWEdtdlY2dTVCWXg0T0dnQnRqZUlzekFz0gHbAUFVX3lxTFBaVFpoelhXeWlOZ284N0JmRGdqa2VTUXRuTElkcW5VYllzakhYbU0ySVFOVDlwMWZhRlBGdHgzNW11OThGdmU2TVRVb0dBV2dPbV9zWVVBQ3pJOWxNOHZNSEtsTkZvaXpYeTFkRUFLRzJTUFRVZlVxSVpQbV9fblFwS2xmb1lEdThwRGpqYjBvUE9GbUUxSWYwc2VfYWtLLU9Lai1XX0s5enJQQURGSUxES3N2ZEpmLW9mTndvR1RMU1pIMTdRYk9yck85WlIzdVhoTHYzMHEzbEhHYw?oc=5",
+     "fuente": "ViveUSA.mx",
+     "resumen": "",
+     "fecha": "2026-11-03T18:15:20+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Protección Civil recomendó a los mexicanos a armar una mochila de emergencia con alimento, agua y otros suministros",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNS0yYzl6VzlrX1kza2RZRFZ4eENGNEotdFUtZ0hHVHI4Q3JuYjhEdklXbk1QaXdUNEJQWGJrOWF1S0NNTDBMUnBwWW1BcHFxTVdjZU9GOFNkM29ILUNTX3Uzd01HR0FVendPZF9LRWRyZjVPNkFwZDBFUzBGNWpTdlNqLTJoV3AyeTFSVEp5ODNYb0ZBWWJib3U2ZkYxa09paDFXOFh1cHB6S2FDT1NjaWlwcllrZVN3SE0yWWYwSXJyOFExb0JXVWtjS0xfcjNCcEN4RzFLYUZEY0hYUXJoVlhBWkhLdlZKVk4yQzlaclVBV3pJb1c0ZkVYN2h2RWp2R2ktY1E5MHhiVng0V1HSAY4CQVVfeXFMTzUtMmM5elc5a19ZM2tkWURWeHhDRjRKLXRVLWdIR1RyOENybmI4RHZJV25NUGl3VDRCUFhiazlhdUtDTUwwTFJwcFltQXBxcU1XY2VPRjhTZDNvSC1DU191M3dNR0dBVXp3T2RfS0VkcmY1TzZBcGQwRVMwRjVqU3ZTai0yaFdwMnkxUlRKeTgzWG9GQVliYm91NmZGMWtPaWgxVzhYdXBwekthQ09TY2lpcHJZa2VTd0hNMllmMElycjhRMW9CV1VrY0tMX3IzQnBDeEcxS2FGRGNIWFFyaFZYQVpIS3ZWSlZOMkM5WnJVQVd6SW9XNGZFWDdodkVqdkdpLWNROTB4YlZ4NFdR?oc=5",
+     "fuente": "El Cronista",
+     "resumen": "",
+     "fecha": "2026-11-03T17:46:16+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -28,19 +44,19 @@
      "fecha_txt": "3 nov"
     },
     {
+     "titulo": "México activa alerta para preparar la mochila de emergencia de 72 horas: ¿Qué debe contener y por qué es clave?",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVdBY29iZVBncTBmLVhOU1A2MWg1MVFhMkkwZUZxWmhoZTJ2TS1MOU45RmQzTGtCNXRvTDBMSGVQNDNMNXlEb3VyWFNiVm5YdnBsWGhFTUdoZEsyOGlBTFpPTjhHYmNmXzVpTE1QMER6dTljNC1wc1AxVVQtT1VLdVZaRXhnZzVxR2xCemNmWFljV0RKbVRacmYtVU45R0Qzc1piazVEWjBscndYOGg4amFKeS1pRmlLeVVlX0EtNmFLQ0p2SHFla09rclN1RFNrVXMwNkZyTU9VMVpHRmc?oc=5",
+     "fuente": "Mercurio Sinaloa",
+     "resumen": "",
+     "fecha": "2026-11-03T14:29:25+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "¿Por qué varios países piden almacenar alimentos y agua? Lo que tienes que saber",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFdwS0hrSEFoZGZ6TmtJQzhsTGtKZHVfTkt2VllhdFZnTFpCT0xzV2doLTJFdWZjYkhYakR3VjlNUWxwX1NoSmJPUVVjMUF4VEZtdE9iTmc3M0hkOXV0OF9DQzN1Qzd4MFJrTi1XS0ZVUXZTYXFoQXluMHcxRENkbHdVaFUtVDhxV1ZZeUp1aHJzbUgyTnltM2ZXWUs5NjRCN0F0X2kxQzZ6ZDAyaG8tLVE3ZFllLUFfYmZuRzNCXzhXRkFNS1FTNDBoa2Q?oc=5",
      "fuente": "El Sol de México",
      "resumen": "",
      "fecha": "2026-11-03T14:24:34+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "México activa alerta para preparar la mochila de emergencia de 72 horas: ¿Qué debe contener y por qué es clave?",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVdBY29iZVBncTBmLVhOU1A2MWg1MVFhMkkwZUZxWmhoZTJ2TS1MOU45RmQzTGtCNXRvTDBMSGVQNDNMNXlEb3VyWFNiVm5YdnBsWGhFTUdoZEsyOGlBTFpPTjhHYmNmXzVpTE1QMER6dTljNC1wc1AxVVQtT1VLdVZaRXhnZzVxR2xCemNmWFljV0RKbVRacmYtVU45R0Qzc1piazVEWjBscndYOGg4amFKeS1pRmlLeVVlX0EtNmFLQ0p2SHFla09rclN1RFNrVXMwNkZyTU9VMVpHRmc?oc=5",
-     "fuente": "Mercurio Sinaloa",
-     "resumen": "",
-     "fecha": "2026-11-03T14:23:24+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -52,27 +68,11 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "Bruselas vuelve a pedir kits de emergencia para 72 horas y plantea enseñar a los niños cómo actuar ante crisis",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZ1U5a1owdGpZNERPUENVdnRTWVVxd2NtSDVyc1BIVXBXTl9ieDdweUNPYVpzVUFEbUZSYlloNWROUjBSamZCVzc5N3djdF9vX1pZdTJ4MDZBWlRfMGxGSlNxaVZyUmF6TTFjYnZzZGo2aTJVQncyczRoaTNjRlFoWGVLdGhieGJUUTNoX2pMWnIyZkM1M1VYQVhDeWZRUHd6WDJCRlpfZGNIbkt3YUtPdHdyUExXT2ZLbHBmSldSSXp4cUhva3gzVEhwNnBiejhWb0ptdXJoWnpjYUh0NVNBMENFVFlScFdxTlBfSnJWMllhaGpQMUxlYzFPUjlQXzNUdjhzekZTaXVJblhLWjRSONIBkAJBVV95cUxOZ1U5a1owdGpZNERPUENVdnRTWVVxd2NtSDVyc1BIVXBXTl9ieDdweUNPYVpzVUFEbUZSYlloNWROUjBSamZCVzc5N3djdF9vX1pZdTJ4MDZBWlRfMGxGSlNxaVZyUmF6TTFjYnZzZGo2aTJVQncyczRoaTNjRlFoWGVLdGhieGJUUTNoX2pMWnIyZkM1M1VYQVhDeWZRUHd6WDJCRlpfZGNIbkt3YUtPdHdyUExXT2ZLbHBmSldSSXp4cUhva3gzVEhwNnBiejhWb0ptdXJoWnpjYUh0NVNBMENFVFlScFdxTlBfSnJWMllhaGpQMUxlYzFPUjlQXzNUdjhzekZTaXVJblhLWjRSOA?oc=5",
-     "fuente": "Infobae",
+     "titulo": "Bruselas insiste en que los ciudadanos tengan un kit de emergencia y llama a preparar a los niños para reaccionar ante las crisis",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU1VOd2JFZUJlVnh6TkVuNkRIZHpyLXppcmF6cEF4OUoxWGlRZzZRS2JkWVlaRE1mbDhGaUV4cW5lcUdxRVFuRmRfMEpTeE9kZEtXSW5rZFRBdzhhZUFKN3Z5VXdVWE9NNERJYTRLUmZVVWRUdGxETFpvalVIcVVCVFM2WXRfNmFJdjc4aTZjV3F0UUl3WElsbmVmNEZaSkRhM2dpZFI2bzczUkZJRFJHTXpndlFUckFfYXNSLWhVdWxTMVVhdFhPZ1NnUHdOLTVERWZybnRGc0toYjJZSkx5cm4tOExsdXF6VFhoNXBOdnlLUFNwSlg4NEVSbS1qV3M00gGGAkFVX3lxTE8xczFGeHMxbURqck1ta3BoR1czUWZDc3JRQVVFakFQckFESDUxb3pILUs5cnR6aEJQQVVnTmlmdFdTZE84UTFkU2JXai1nOWJaWm42ay1GbGRBQVFFbHlsWXYxVUtHVXJYUXZOcjZjTW1nYjZEX1hpd3hXY1cwcUZQLVZUMHVQQ1JfTzlXWHZpOWxXeWoySlB6eWFLRHhyby1qLVF2VzJ6cTZOLVpSOW82a3B5UFlYZDFsR1diZV9JTDBpeklZMFNIeWR1dkhYbzJnd1I3djZZbjFwMnF1R1NxMXVYOFlzVWdWdDNmd3EyZGFXUHFodFNRNEZNNlBLamVjdjBsYmc?oc=5",
+     "fuente": "20Minutos",
      "resumen": "",
-     "fecha": "2026-11-03T13:32:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Bruselas insiste en kits para 72 horas y propone formar a los niños ante emergencias",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYVFVSlAzdlZlQjZMWWtjVjI3SV9GUHRHYURJUkJxREJ6R29OczlFSDduRjdJOC15bXlzSjNpbnNkd25ha0o4U1djMWxlSXdrZkhmdWp4TEpiQzRRdFI1OHBWcFp3NHNsRkRQSy1USFBvdzFLZXJ2TVphQWpCRGdrTEZhc250dHlYbUpPOGhVbUkzWENuUlIxdzBtMURaTjNjVmpOMjRXWWNGVjUtODdWbDBCb0RCajlyQ0VrMU5hTWJRUdIBxwFBVV95cUxNcExaa1pzeVVfZDBFcnJ4M3BvQ29fOXVSVkhrTy1PWENKdDBJdUJsRVZCRWZKbW9tTGZwSUZtZlVpcmg5bWN0SkkxYlh6NktDbUlmMXNnWTJqT2pLcDlxR2R0b1VaUmlYa0ZaYmFPdEptWnJyakhIbUM1T2lPcWhlTXBCbnE5SzVTUnRUem9fRlRTWDRvS25OUnpFbEN3MTZJZExaOVpNTms1d1R3VjJxYmpiU2dST2lxQXZLTHNfRHRBbkdnaDM0?oc=5",
-     "fuente": "Demócrata",
-     "resumen": "",
-     "fecha": "2026-11-03T13:11:05+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Gobiernos de 33 países orientan a la población a almacenar alimentos, agua y medicamentos para posibles crisis",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORmJQcmp6OWVmdzQ3M1JOMi12NTY1LUd1TEEtN0dYOUtQV0Z4akhIbVJQUW9NZnNEVV92YWF3QTRSN29zemhtdWp1NXYzLWE4T0ZBX05TOENudEw4em5faFk5VXRUT0xaeHlTUG9KcnNLc1NzTWZGaTBUbEpPdzdGWDBkdUI0c2c0OTN6WWRGX2puRmZBNE5JbVFRaHlEeVNBOHR4UjlTMVZ2YzhMNjlpejUwazZjZ3Y2RlFweFVGYkl6UEhtay1vN1c3X0FvVXhDeWtxaDlPY3NPZw?oc=5",
-     "fuente": "Jetss Latam",
-     "resumen": "",
-     "fecha": "2026-11-03T12:29:52+01:00",
+     "fecha": "2026-11-03T13:49:28+01:00",
      "fecha_txt": "3 nov"
     }
    ]
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Extinguido el incendio forestal de Velefique (Almería) tras más de un día de trabajos",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWpkTElGbFRDSGlJXzlVcDI5eTMwOURIcnEyWlNoc2x1aE5mWXVWTGhnXzlBeEl3dUhfbFhxUGw0ZGxDSE9HMndCTTFQSlRFeDNOUC1zaVM4dzBHbkFKOWVMYUJtelpzVUlXc1ROQ28xYTFVNFl2MHJqZXdfcWdLRTRSeHRVZnNCcUZZeGgya0pUZXUyT0pwVjg2QlN3QURFUngxLTg1Y0RUYXNNNngzUDlmbzlyaVpkRDRxYTctTk5GRDBvM2wteml4WUpkQXEx0gHrAUFVX3lxTFBFY2ZUc3VhMV9QUTd2c1lXQ3lZTWZyaC1TV0lTOGxBdTBNS2NaNUJjaGJCTFNjNldhM3dVdjd6dlNqay01Z0h1SmtzSTgzSC1IT3dJM3pmcW00NWlqWi14dmtUemtLWHJ2bHh5Tm1TdU1XZWxxdFcwYXEwY3BTbGdFQW1BaEo2V2pPRDJldHZ3MkVkdV9hQ1p1RnhSVmtzV0xodHNpdEg2T3poaWNLWURlVEU5VE5XeFdRMVoyOVozM1B3ZnFsY1RfT2szSm9lakpjVTVZZUg2MHprNnBRNk9VZUdzTFQ3dldza1U?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-03T20:33:00+01:00",
+     "fecha_txt": "3 nov"
+    },
     {
      "titulo": "Galicia cierra la campaña de incendios con un 95% menos de superficie quemada que en 2025",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzR5U2JOWmZHRl9JSmhWOFJ0OF9CdmJyR0M4QUVZUlNLVkpCRXgzX1VCSnhEN0NUanpZY3Q1RDVJVVppQnE5OHNRT0Y1LURfb2g4SG9YWHJRQ3ZtTVcySjBocmFFYlU4dUpfR0tvbEs3SWJRVnktZnVUaDlKYWw5N1lpbVZvRUdVUzF5ZW9iSHhiZHpYbi0teWdUa2QyeWtDM2hqR0lQVWotUklFZnJaazI4c9IBuAFBVV95cUxNYmcxcVVtX0EtMUpUaF9jM2JCVG11Ykd1dEVneXhKWUcwTjRSZ2kxUTJ2d0xMcnlUVms2MHI3UEJBc1FCVHh4Wk41UF9wZDFKcV9wVHJYeTBBckwzNXFOaFh0bTN0SDBzNVN1bUM2anlFZWdZUTFwVm5CcElNeUpSSHhYWnJSa3hJVWVFZVJNLWNYTndoSDU2ZWNhZkRoMVViN3AtVlo0T1h2QVQ2TnZiX1ZDMGh1OTl2?oc=5",
@@ -96,14 +104,6 @@
      "fuente": "El Mirón de Soria",
      "resumen": "",
      "fecha": "2026-11-03T13:02:13+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "CSIF lamenta que Castilla y León vuelva a encabezar las cifras de incendios forestales en España y que la Junta mire hacia otro lado",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVGNKR283WlFiYUdmTHVIUEI2R2t4bUN5eFZRaHFZWjNoczBNbzZoYXd2a3VXaFlHRkJNcEF2Y3FEMXhOd2xwWVNHb0YxMWRMcGlGdm5oMTN4MnNDSmZ0Z0RRZWIxSGJzRnowTHBjVDBYSWhJRHVkS25DSWR1STZRQWE3MENoZnlyTnJyYkNoQXpsN3dFcktQUWtDZER2VDRRbzBmbldrbnpBQXIyRFRHSkRiQjAxaVVrX0g3V1YzZHhudl9WTTRJSjlyWlNib0RXVDFTMVVqVDJ1ZzQxNklPaFpyNXBtQlhFeFZxT29pUWI?oc=5",
-     "fuente": "ZA3.0",
-     "resumen": "",
-     "fecha": "2026-11-03T12:04:33+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -124,10 +124,10 @@
     },
     {
      "titulo": "CSIF denuncia que Castilla y León vuelve a encabezar la cifra de incendios en España: \"La Junta mira hacia otro lado\"",
-     "url": "https://www.elespanol.com/castilla-y-leon/region/20261103/csif-denuncia-castilla-leon-vuelve-encabezar-cifra-incendios-espana-junta-mira-lado/1003744444595_0.html",
-     "fuente": "ESPAÑOL",
-     "resumen": "La Central Sindical Independiente y de Funcionarios (CSIF) ha denunciado este martes que Castilla y León \"vuelve a ser la comunidad autónoma con mayor superficie afectada por los incendios forestales, ...",
-     "fecha": "2026-11-03T07:24:00+01:00",
+     "url": "https://www.msn.com/es-es/noticias/otras/csif-denuncia-que-castilla-y-le%C3%B3n-vuelve-a-encabezar-la-cifra-de-incendios-en-espa%C3%B1a-la-junta-mira-hacia-otro-lado/ar-AA2gGoBp",
+     "fuente": "El Español on MSN",
+     "resumen": "El sindicato independiente asegura que la Junta declara peligro medio hasta el 9 de noviembre \"con cerca de la mitad de las cuadrillas inoperativas\". Más información: Los agentes medioambientales de C ...",
+     "fecha": "2026-11-03T08:24:57+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -139,12 +139,12 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
-     "fuente": "Infobae",
+     "titulo": "Incendios: dramática situación en España y Francia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
+     "fuente": "DW.com",
      "resumen": "",
-     "fecha": "2026-11-02T17:47:00+01:00",
-     "fecha_txt": "2 nov"
+     "fecha": "2026-11-03T01:28:46+01:00",
+     "fecha_txt": "3 nov"
     }
    ]
   },
@@ -267,7 +267,7 @@
     {
      "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
-     "fuente": "Milenio",
+     "fuente": "MILENIO",
      "resumen": "",
      "fecha": "2026-11-02T15:34:00+01:00",
      "fecha_txt": "2 nov"
@@ -281,11 +281,11 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Declaran alerta en una isla española tras apagón que dejó sin luz a toda la población",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmlhS3lYTmVTcm9KZUZqVFFMMHhPUzk2SS00M2dNMjlkR2h4d2JTNGdwbWF1YnZrV00xLUJLSE9GSUZ2VHNXRDRsaGhDU2JzRENWM0tkTmNIYzRsSlllX2lWVkxDZkxGYmx4QW1NakcwelpKQV9uLS1hc2JPRDdnT193VEdJdw?oc=5",
-     "fuente": "La iguana TV",
+     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
+     "fuente": "El Mundo Today",
      "resumen": "",
-     "fecha": "2026-11-02T13:52:50+01:00",
+     "fecha": "2026-11-02T14:04:06+01:00",
      "fecha_txt": "2 nov"
     }
    ]
