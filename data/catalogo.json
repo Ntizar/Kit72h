@@ -1,8 +1,8 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
  "generado": "2026-11-03",
- "total_productos": 231,
- "compartidos": 62,
+ "total_productos": 236,
+ "compartidos": 61,
  "productos": {
   "8419436623": {
    "nombre_canonico": "Huerto urbano (Larousse)",
@@ -25,6 +25,26 @@
    "precio_ref": "17 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "8449811031": {
+   "nombre_canonico": "Mapa Oficial de Carreteras 2026 (papel)",
+   "url": "https://www.amazon.es/dp/8449811031?tag=ntizar-21",
+   "categorias": [
+    "Información y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Mapa Oficial de Carreteras 2026 (papel)",
+     "prioridad": "recomendado",
+     "precio_aprox": "12-20 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "12-20 €"
   },
   "8498381495": {
    "nombre_canonico": "Libros de bolsillo",
@@ -70,12 +90,19 @@
   },
   "B000IAZDE0": {
    "nombre_canonico": "Navaja multiuso",
-   "url": "https://www.amazon.es/Victorinox-Multiuso-Funciones-Sacacorchos-Transparente/dp/B000IAZDE0?tag=ntizar-21",
+   "url": "https://www.amazon.es/dp/B000IAZDE0?tag=ntizar-21",
    "categorias": [
+    "Herramientas",
     "Salud y reparación",
     "Cortar gas, agua y luz"
    ],
    "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Navaja multiuso Victorinox Spartan",
+     "prioridad": "esencial",
+     "precio_aprox": "25-40 €"
+    },
     {
      "kit": "kit-montana",
      "producto": "Navaja multiuso",
@@ -90,11 +117,12 @@
     }
    ],
    "kits": [
+    "kit-basico-72h",
     "kit-montana",
     "kit-terremoto"
    ],
-   "n_kits": 2,
-   "precio_ref": "15-35 €",
+   "n_kits": 3,
+   "precio_ref": "25-40 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -122,7 +150,7 @@
   },
   "B006G5N4XS": {
    "nombre_canonico": "Ración de comida deshidratada",
-   "url": "https://www.amazon.es/TREKN-EAT-BEEF-STROGANOFF-RICE/dp/B006G5N4XS?tag=ntizar-21",
+   "url": "https://www.amazon.es/dp/B006G5N4XS?tag=ntizar-21",
    "categorias": [
     "Alimentación",
     "Supervivencia 24-72 h",
@@ -131,7 +159,7 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Raciones militares de emergencia (comida deshidratada)",
+     "producto": "Ración deshidratada Trek'n Eat (515 kcal)",
      "prioridad": "esencial",
      "precio_aprox": "8-12 €/ud"
     },
@@ -319,6 +347,26 @@
    "precio_ref": "15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B00GOPHOSQ": {
+   "nombre_canonico": "Pastillas potabilizadoras Aquatabs (50 uds, 1 L/ud)",
+   "url": "https://www.amazon.es/dp/B00GOPHOSQ?tag=ntizar-21",
+   "categorias": [
+    "Agua e hidratación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Pastillas potabilizadoras Aquatabs (50 uds, 1 L/ud)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-15 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-15 €"
   },
   "B00KSGFXBW": {
    "nombre_canonico": "Rasqueta y cepillo de hielo para el coche",
@@ -518,9 +566,9 @@
     },
     {
      "kit": "kit-basico-72h",
-     "producto": "Botella o garrafa de agua (3 L por persona y día)",
+     "producto": "Agua mineral en botellas de 1,5 L (pack 6 = 9 L)",
      "prioridad": "esencial",
-     "precio_aprox": "5-15 €"
+     "precio_aprox": "5-9 €"
     },
     {
      "kit": "kit-coche",
@@ -567,19 +615,12 @@
    "precio_ref": "6-15 €"
   },
   "B01LX6Q7XS": {
-   "nombre_canonico": "Mapa físico de tu zona (papel, no digital)",
+   "nombre_canonico": "Mapa físico de tu zona (carreteras, salidas alternativas)",
    "url": "https://www.amazon.es/dp/B01LX6Q7XS?tag=ntizar-21",
    "categorias": [
-    "Información y comunicación",
     "Salir en 10 minutos"
    ],
    "apariciones": [
-    {
-     "kit": "kit-basico-72h",
-     "producto": "Mapa físico de tu zona (papel, no digital)",
-     "prioridad": "recomendado",
-     "precio_aprox": "5-15 €"
-    },
     {
      "kit": "kit-incendio",
      "producto": "Mapa físico de tu zona (carreteras, salidas alternativas)",
@@ -588,10 +629,9 @@
     }
    ],
    "kits": [
-    "kit-basico-72h",
     "kit-incendio"
    ],
-   "n_kits": 2,
+   "n_kits": 1,
    "precio_ref": "5-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -775,6 +815,26 @@
    ],
    "n_kits": 1,
    "precio_ref": "40-80 €"
+  },
+  "B07539S9G3": {
+   "nombre_canonico": "Poncho impermeable unisex con capucha (talla única)",
+   "url": "https://www.amazon.es/dp/B07539S9G3?tag=ntizar-21",
+   "categorias": [
+    "Abrigo y refugio"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Poncho impermeable unisex con capucha (talla única)",
+     "prioridad": "esencial",
+     "precio_aprox": "18-30 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "18-30 €"
   },
   "B075RCPZ3P": {
    "nombre_canonico": "Multivitaminas 450 comprimidos",
@@ -1386,6 +1446,26 @@
    "n_kits": 1,
    "precio_ref": "15-35 €"
   },
+  "B08L1Y7M8J": {
+   "nombre_canonico": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+   "url": "https://www.amazon.es/dp/B08L1Y7M8J?tag=ntizar-21",
+   "categorias": [
+    "Higiene y salud"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+     "prioridad": "esencial",
+     "precio_aprox": "20-35 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-35 €"
+  },
   "B08QD2ZXFT": {
    "nombre_canonico": "Nevera portátil pequeña con paquetes fríos reutilizables",
    "url": "https://www.amazon.es/dp/B08QD2ZXFT?tag=ntizar-21",
@@ -1429,10 +1509,11 @@
    "precio_ref": "20-30 €"
   },
   "B08S17DS6N": {
-   "nombre_canonico": "Garrafas de agua 8 L (2 por persona)",
+   "nombre_canonico": "Garrafa de 8 L con grifo dosificador",
    "url": "https://www.amazon.es/dp/B08S17DS6N?tag=ntizar-21",
    "categorias": [
     "Agua: 9 litros por persona que no dependen del grifo",
+    "Agua e hidratación",
     "Agua y comida",
     "Agua (180 L para 2 personas / 30 días)",
     "Agua y comida para 72 horas",
@@ -1444,6 +1525,12 @@
      "producto": "Garrafas de agua de 8 litros (dos por persona)",
      "prioridad": "esencial",
      "precio_aprox": "5-15 €"
+    },
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Garrafa de 8 L con grifo dosificador",
+     "prioridad": "recomendado",
+     "precio_aprox": "4-8 €"
     },
     {
      "kit": "kit-hogar",
@@ -1472,13 +1559,14 @@
    ],
    "kits": [
     "kit-30-dias",
+    "kit-basico-72h",
     "kit-hogar",
     "kit-incendio",
     "kit-mascotas",
     "kit-suiza"
    ],
-   "n_kits": 5,
-   "precio_ref": "5-15 €",
+   "n_kits": 6,
+   "precio_ref": "4-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -1555,7 +1643,7 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Pilas alcalinas surtidas (AA/AAA)",
+     "producto": "Pilas alcalinas AA y AAA (24 + 24, 10 años)",
      "prioridad": "esencial",
      "precio_aprox": "10-20 €"
     },
@@ -1625,7 +1713,7 @@
    "verificado": "2026-09-28"
   },
   "B096V89H69": {
-   "nombre_canonico": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+   "nombre_canonico": "Bolsa estanca para documentos (3 piezas)",
    "url": "https://www.amazon.es/dp/B096V89H69?tag=ntizar-21",
    "categorias": [
     "Documentación y dinero"
@@ -1633,16 +1721,16 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+     "producto": "Bolsa estanca para documentos (3 piezas)",
      "prioridad": "esencial",
-     "precio_aprox": "5-12 €"
+     "precio_aprox": "8-15 €"
     }
    ],
    "kits": [
     "kit-basico-72h"
    ],
    "n_kits": 1,
-   "precio_ref": "5-12 €",
+   "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -1856,9 +1944,9 @@
     },
     {
      "kit": "kit-basico-72h",
-     "producto": "Conservas y lata de legumbres (comida no perecedera)",
+     "producto": "Sardinas en aceite de oliva (5 latas × 120 g)",
      "prioridad": "esencial",
-     "precio_aprox": "1-3 €/lata"
+     "precio_aprox": "4-7 €"
     },
     {
      "kit": "kit-hogar",
@@ -1880,7 +1968,7 @@
     "kit-terremoto"
    ],
    "n_kits": 4,
-   "precio_ref": "1-3 €/lata",
+   "precio_ref": "4-7 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -2399,19 +2487,12 @@
    "url": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=ntizar-21",
    "categorias": [
     "Luz y avisos oficiales",
-    "Luz y energía",
     "Seguridad eléctrica"
    ],
    "apariciones": [
     {
      "kit": "kit-suiza",
      "producto": "Linterna LED con pilas de repuesto",
-     "prioridad": "esencial",
-     "precio_aprox": "10-20 €"
-    },
-    {
-     "kit": "kit-basico-72h",
-     "producto": "Linterna LED a pilas (con pilas de repuesto)",
      "prioridad": "esencial",
      "precio_aprox": "10-20 €"
     },
@@ -2423,11 +2504,10 @@
     }
    ],
    "kits": [
-    "kit-basico-72h",
     "kit-dana",
     "kit-suiza"
    ],
-   "n_kits": 3,
+   "n_kits": 2,
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -2699,7 +2779,7 @@
    "precio_ref": "15-30 €"
   },
   "B0CLLSK9BC": {
-   "nombre_canonico": "Faja portadocumentos / riñonera oculta para efectivo",
+   "nombre_canonico": "Riñonera interior oculta para efectivo",
    "url": "https://www.amazon.es/dp/B0CLLSK9BC?tag=ntizar-21",
    "categorias": [
     "Documentación y dinero"
@@ -2707,16 +2787,16 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Faja portadocumentos / riñonera oculta para efectivo",
+     "producto": "Riñonera interior oculta para efectivo",
      "prioridad": "recomendado",
-     "precio_aprox": "8-15 €"
+     "precio_aprox": "7-12 €"
     }
    ],
    "kits": [
     "kit-basico-72h"
    ],
    "n_kits": 1,
-   "precio_ref": "8-15 €",
+   "precio_ref": "7-12 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -3032,9 +3112,9 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Manta térmica de emergencia",
+     "producto": "Mantas térmicas reutilizables 210×160 cm (5 uds)",
      "prioridad": "esencial",
-     "precio_aprox": "3-8 €"
+     "precio_aprox": "6-12 €"
     },
     {
      "kit": "kit-coche",
@@ -3317,9 +3397,9 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Powerbank de alta capacidad (≥ 20.000 mAh)",
+     "producto": "Powerbank INIU 20.000 mAh (22,5 W, USB-C)",
      "prioridad": "esencial",
-     "precio_aprox": "25-50 €"
+     "precio_aprox": "25-40 €"
     },
     {
      "kit": "kit-apagon",
@@ -3347,7 +3427,7 @@
     "kit-terremoto"
    ],
    "n_kits": 4,
-   "precio_ref": "25-50 €",
+   "precio_ref": "25-40 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -3403,7 +3483,7 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Barritas energéticas y frutos secos",
+     "producto": "Barritas de fruta y frutos secos (18 × 35 g)",
      "prioridad": "recomendado",
      "precio_aprox": "10-15 €/pack"
     },
@@ -3770,6 +3850,26 @@
    "precio_ref": "6-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0F1F5DFSG": {
+   "nombre_canonico": "Linterna frontal a pilas AAA (1300 lux)",
+   "url": "https://www.amazon.es/dp/B0F1F5DFSG?tag=ntizar-21",
+   "categorias": [
+    "Luz y energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Linterna frontal a pilas AAA (1300 lux)",
+     "prioridad": "esencial",
+     "precio_aprox": "15-25 €"
+    }
+   ],
+   "kits": [
+    "kit-basico-72h"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-25 €"
   },
   "B0F1KH2MR7": {
    "nombre_canonico": "Batería LiFePO4 100 Ah",
@@ -4314,7 +4414,7 @@
    "verificado": "2026-09-28"
   },
   "B0FQ5TJY9K": {
-   "nombre_canonico": "Gel hidroalcohólico y toallitas húmedas",
+   "nombre_canonico": "Gel hidroalcohólico 70% (6 × 250 ml)",
    "url": "https://www.amazon.es/dp/B0FQ5TJY9K?tag=ntizar-21",
    "categorias": [
     "Higiene y salud"
@@ -4322,16 +4422,16 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Gel hidroalcohólico y toallitas húmedas",
+     "producto": "Gel hidroalcohólico 70% (6 × 250 ml)",
      "prioridad": "esencial",
-     "precio_aprox": "5-10 €"
+     "precio_aprox": "12-18 €"
     }
    ],
    "kits": [
     "kit-basico-72h"
    ],
    "n_kits": 1,
-   "precio_ref": "5-10 €",
+   "precio_ref": "12-18 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4462,6 +4562,7 @@
    "url": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21",
    "categorias": [
     "Cocina sin red eléctrica",
+    "Herramientas",
     "Cocina sin electricidad",
     "Calefacción sin luz ni gas"
    ],
@@ -4471,6 +4572,12 @@
      "producto": "Encendedores y cerillas largas",
      "prioridad": "esencial",
      "precio_aprox": "5-10 €"
+    },
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Cerillas largas de 17 cm (4 cajas)",
+     "prioridad": "esencial",
+     "precio_aprox": "6-10 €"
     },
     {
      "kit": "kit-apagon",
@@ -4487,10 +4594,11 @@
    ],
    "kits": [
     "kit-apagon",
+    "kit-basico-72h",
     "kit-frio",
     "kit-suiza"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "5-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -4709,18 +4817,11 @@
    "nombre_canonico": "Botiquín de bolsillo",
    "url": "https://www.amazon.es/REVOLRACE-Primeros-Auxilios-Coche-Piezas/dp/B0GK6PV1M4?tag=ntizar-21",
    "categorias": [
-    "Higiene y salud",
     "Utilidad",
     "Salud y papeles",
     "Botiquín, medicación y heridas"
    ],
    "apariciones": [
-    {
-     "kit": "kit-basico-72h",
-     "producto": "Botiquín de primeros auxilios básico",
-     "prioridad": "esencial",
-     "precio_aprox": "15-30 €"
-    },
     {
      "kit": "kit-evacuacion",
      "producto": "Botiquín de bolsillo",
@@ -4741,13 +4842,12 @@
     }
    ],
    "kits": [
-    "kit-basico-72h",
     "kit-evacuacion",
     "kit-mascotas",
     "kit-terremoto"
    ],
-   "n_kits": 4,
-   "precio_ref": "15-30 €",
+   "n_kits": 3,
+   "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4778,6 +4878,7 @@
    "url": "https://www.amazon.es/dp/B0GM1QQW1C?tag=ntizar-21",
    "categorias": [
     "Higiene y salud: las 50 mascarillas y la medicación",
+    "Higiene y salud",
     "Salud",
     "Polvo, papeles y dinero",
     "Respirar: el humo mata antes que el fuego"
@@ -4786,6 +4887,12 @@
     {
      "kit": "kit-suiza",
      "producto": "Mascarillas FFP2 (pack)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-15 €"
+    },
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Mascarillas FFP2 certificadas (50 uds)",
      "prioridad": "esencial",
      "precio_aprox": "8-15 €"
     },
@@ -4809,12 +4916,13 @@
     }
    ],
    "kits": [
+    "kit-basico-72h",
     "kit-hogar",
     "kit-incendio",
     "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 4,
+   "n_kits": 5,
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -4823,17 +4931,10 @@
    "nombre_canonico": "Chubasquero ligero",
    "url": "https://www.amazon.es/dp/B0GMQVNSRC?tag=ntizar-21",
    "categorias": [
-    "Abrigo y refugio",
     "Protección personal frente al agua",
     "Refugio y abrigo"
    ],
    "apariciones": [
-    {
-     "kit": "kit-basico-72h",
-     "producto": "Chubasquero o poncho impermeable",
-     "prioridad": "recomendado",
-     "precio_aprox": "15-30 €"
-    },
     {
      "kit": "kit-dana",
      "producto": "Chubasquero impermeable con capucha",
@@ -4848,12 +4949,11 @@
     }
    ],
    "kits": [
-    "kit-basico-72h",
     "kit-dana",
     "kit-montana"
    ],
-   "n_kits": 3,
-   "precio_ref": "15-30 €",
+   "n_kits": 2,
+   "precio_ref": "20-40 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4869,12 +4969,6 @@
    "apariciones": [
     {
      "kit": "kit-suiza",
-     "producto": "Pastillas potabilizadoras de agua",
-     "prioridad": "esencial",
-     "precio_aprox": "8-15 €"
-    },
-    {
-     "kit": "kit-basico-72h",
      "producto": "Pastillas potabilizadoras de agua",
      "prioridad": "esencial",
      "precio_aprox": "8-15 €"
@@ -4899,13 +4993,12 @@
     }
    ],
    "kits": [
-    "kit-basico-72h",
     "kit-evacuacion",
     "kit-montana",
     "kit-suiza",
     "kit-terremoto"
    ],
-   "n_kits": 5,
+   "n_kits": 4,
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -5149,9 +5242,9 @@
    "apariciones": [
     {
      "kit": "kit-basico-72h",
-     "producto": "Radio FM/AM a pilas o dinamo",
+     "producto": "Radio FM/AM con dinamo, solar y USB (2.000 mAh)",
      "prioridad": "esencial",
-     "precio_aprox": "15-35 €"
+     "precio_aprox": "20-35 €"
     },
     {
      "kit": "kit-apagon",
@@ -5186,7 +5279,7 @@
     "kit-terremoto"
    ],
    "n_kits": 5,
-   "precio_ref": "15-35 €",
+   "precio_ref": "20-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -5734,11 +5827,18 @@
    "nombre_canonico": "Silbato de emergencia",
    "url": "https://www.amazon.es/dp/B0HD6RLST6?tag=ntizar-21",
    "categorias": [
+    "Información y comunicación",
     "Orientación y comunicación",
     "Caídas, noche y seguridad en casa",
     "Salir en 10 minutos"
    ],
    "apariciones": [
+    {
+     "kit": "kit-basico-72h",
+     "producto": "Silbatos de aluminio de emergencia (5 uds)",
+     "prioridad": "esencial",
+     "precio_aprox": "8-14 €"
+    },
     {
      "kit": "kit-montana",
      "producto": "Silbato de emergencia",
@@ -5759,11 +5859,12 @@
     }
    ],
    "kits": [
+    "kit-basico-72h",
     "kit-incendio",
     "kit-mayores",
     "kit-montana"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "3-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"

@@ -409,10 +409,10 @@
     },
     {
       "id": "basico-72h",
-      "titulo": "Kit 72h Básico: 16 esenciales de la UE (2026)",
+      "titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
       "slug": "kit-basico-72h",
       "icono": "🎒",
-      "resumen": "Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.",
+      "resumen": "Mochila de resiliencia UE: 21 artículos verificados uno a uno, checklist marcable y cesta Amazon en 1 clic. Guía actualizada 2026.",
       "fuente": {
         "nombre": "Estrategia de Preparación de la Unión Europea — Comunicación JOIN(2025) 90",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -438,164 +438,206 @@
       "secciones": [
         {
           "titulo": "Agua e hidratación",
+          "intro": "Lo primero que falta y lo único que no se improvisa. 3 litros por persona y día para beber, una reserva con grifo y un sistema para hacer potable agua dudosa cuando se acabe.",
           "items": [
             {
-              "producto": "Botella o garrafa de agua (3 L por persona y día)",
+              "producto": "Agua mineral en botellas de 1,5 L (pack 6 = 9 L)",
               "afiliado": "https://www.amazon.es/dp/B01DUW98CA?tag=ntizar-21",
-              "descripcion": "Bidón alimentario para almacenar agua potable. Calcula 3 litros por persona y día.",
-              "precio_aprox": "5-15 €",
+              "descripcion": "Nueve litros embotellados: los 3 L/día de una persona durante los tres días. Se rota cada seis meses y se aprovecha en la cocina.",
+              "precio_aprox": "5-9 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Pastillas potabilizadoras de agua",
-              "afiliado": "https://www.amazon.es/Pastillas-Potabilizadoras-Tratamiento-Dep%C3%B3sitos-Emergencias/dp/B0GMXX2G9S?tag=ntizar-21",
-              "descripcion": "Purifican agua dudosa en 30 minutos. Vital si se acaba el agua embotellada.",
-              "precio_aprox": "8-15 €",
+              "producto": "Garrafa de 8 L con grifo dosificador",
+              "afiliado": "https://www.amazon.es/dp/B08S17DS6N?tag=ntizar-21",
+              "descripcion": "Ocho litros con grifo incorporado: se dosifica sin abrir nada y aguanta de pie en la despensa. La reserva base de la casa.",
+              "precio_aprox": "4-8 €",
+              "prioridad": "recomendado"
+            },
+            {
+              "producto": "Pastillas potabilizadoras Aquatabs (50 uds, 1 L/ud)",
+              "afiliado": "https://www.amazon.es/dp/B00GOPHOSQ?tag=ntizar-21",
+              "descripcion": "Un comprimido por litro: 50 litros de agua potable por caja. Dosis clara para una botella, no para un depósito, que es lo que hace falta de verdad.",
+              "precio_aprox": "10-15 €",
               "prioridad": "esencial"
             }
-          ],
-          "intro": "Lo primero que falta y lo único que no se improvisa. 3 litros por persona y día para beber, y un sistema para hacer potable agua dudosa cuando se acabe."
+          ]
         },
         {
           "titulo": "Alimentación",
+          "intro": "Comida que se come sin cocinar, sin agua y sin electricidad, y que de verdad te apetezca comer tres días seguidos.",
           "items": [
             {
-              "producto": "Raciones militares de emergencia (comida deshidratada)",
-              "afiliado": "https://www.amazon.es/TREKN-EAT-BEEF-STROGANOFF-RICE/dp/B006G5N4XS?tag=ntizar-21",
-              "descripcion": "Comida deshidratada con 2 años de vida útil. Solo necesita agua caliente.",
+              "producto": "Ración deshidratada Trek'n Eat (515 kcal)",
+              "afiliado": "https://www.amazon.es/dp/B006G5N4XS?tag=ntizar-21",
+              "descripcion": "515 kcal por ración, se prepara con agua caliente en 8 minutos y se come del propio sobre. Vida útil de años.",
               "precio_aprox": "8-12 €/ud",
               "prioridad": "esencial"
             },
             {
-              "producto": "Conservas y lata de legumbres (comida no perecedera)",
+              "producto": "Sardinas en aceite de oliva (5 latas × 120 g)",
               "afiliado": "https://www.amazon.es/dp/B09TBGX1MK?tag=ntizar-21",
-              "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
-              "precio_aprox": "1-3 €/lata",
+              "descripcion": "Proteína y grasa buena sin nevera ni cocina: se abren y se comen. Cinco latas dan para varios almuerzos.",
+              "precio_aprox": "4-7 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Barritas energéticas y frutos secos",
+              "producto": "Barritas de fruta y frutos secos (18 × 35 g)",
               "afiliado": "https://www.amazon.es/dp/B0DHH7TMGF?tag=ntizar-21",
-              "descripcion": "Energía rápida en formato compacto. 400-500 kcal por barrita.",
+              "descripcion": "Unas 130 kcal por barrita de 35 g: aperitivo compacto para el bolsillo, no una comida completa. Suma, no sustituye.",
               "precio_aprox": "10-15 €/pack",
               "prioridad": "recomendado"
             }
-          ],
-          "intro": "Comida que se come sin cocinar, sin agua y sin electricidad, y que de verdad te apetezca comer tres días seguidos."
+          ]
         },
         {
           "titulo": "Luz y energía",
+          "intro": "Ver y que te vean, y mantener vivo el móvil y la radio. El frontal deja las manos libres: es la linterna que se usa de verdad.",
           "items": [
             {
-              "producto": "Linterna LED a pilas (con pilas de repuesto)",
-              "afiliado": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=ntizar-21",
-              "descripcion": "Modelo LED con 100+ lúmenes. Lleva pilas de repuesto aparte.",
-              "precio_aprox": "10-20 €",
+              "producto": "Linterna frontal a pilas AAA (1300 lux)",
+              "afiliado": "https://www.amazon.es/dp/B0F1F5DFSG?tag=ntizar-21",
+              "descripcion": "3 pilas AAA, 22 h en modo bajo y 6 h en alto, luz roja para no deslumbrar. Manos libres para bajar escaleras a oscuras.",
+              "precio_aprox": "15-25 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Powerbank de alta capacidad (≥ 20.000 mAh)",
+              "producto": "Powerbank INIU 20.000 mAh (22,5 W, USB-C)",
               "afiliado": "https://www.amazon.es/dp/B0DFLHZQ18?tag=ntizar-21",
-              "descripcion": "Batería externa de 20.000 mAh: 4-5 cargas completas de móvil.",
-              "precio_aprox": "25-50 €",
+              "descripcion": "Cuatro o cinco cargas de móvil, con cable USB-C incluido. El móvil es tu mapa, tu linterna y tu emisora: sin batería no hay nada.",
+              "precio_aprox": "25-40 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Pilas alcalinas surtidas (AA/AAA)",
+              "producto": "Pilas alcalinas AA y AAA (24 + 24, 10 años)",
               "afiliado": "https://www.amazon.es/dp/B094D3JGLT?tag=ntizar-21",
-              "descripcion": "Surtido AA/AAA. Los aparatos del kit mueren sin pilas de repuesto.",
+              "descripcion": "Veinticuatro de cada tipo, con diez años de estantería. Alimentan la radio, el frontal y lo que llegue después.",
               "precio_aprox": "10-20 €",
               "prioridad": "esencial"
             }
-          ],
-          "intro": "Ver y que te vean, y mantener vivo el móvil y la radio. El frontal deja las manos libres: es la linterna que se usa de verdad."
+          ]
         },
         {
           "titulo": "Información y comunicación",
+          "intro": "Saber qué está pasando y dónde está el resto de la familia. Con la red caída, la radio y el papel ganan.",
           "items": [
             {
-              "producto": "Radio FM/AM a pilas o dinamo",
+              "producto": "Radio FM/AM con dinamo, solar y USB (2.000 mAh)",
               "afiliado": "https://www.amazon.es/dp/B0GWNDVR7S?tag=ntizar-21",
-              "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
-              "precio_aprox": "15-35 €",
+              "descripcion": "Tres formas de cargarla —manivela, panel solar y USB— más linterna y botón SOS. Si caen internet y la red móvil, es el único canal que sigue emitiendo.",
+              "precio_aprox": "20-35 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Mapa físico de tu zona (papel, no digital)",
-              "afiliado": "https://www.amazon.es/dp/B01LX6Q7XS?tag=ntizar-21",
-              "descripcion": "Papel, no digital. El GPS puede caerse; el papel no.",
-              "precio_aprox": "5-15 €",
+              "producto": "Mapa Oficial de Carreteras 2026 (papel)",
+              "afiliado": "https://www.amazon.es/dp/8449811031?tag=ntizar-21",
+              "descripcion": "El mapa oficial del Ministerio de Transportes: carreteras, núcleos y salidas alternativas. Funciona sin batería y sin cobertura.",
+              "precio_aprox": "12-20 €",
               "prioridad": "recomendado"
+            },
+            {
+              "producto": "Silbatos de aluminio de emergencia (5 uds)",
+              "afiliado": "https://www.amazon.es/dp/B0HD6RLST6?tag=ntizar-21",
+              "descripcion": "Cinco silbatos con cordón: se oyen muchísimo más lejos que la voz y no gastan nada. El localizador más barato del kit.",
+              "precio_aprox": "8-14 €",
+              "prioridad": "esencial"
             }
-          ],
-          "intro": "Saber qué está pasando y dónde está el resto de la familia. Con la red caída, la radio y el papel ganan."
+          ]
         },
         {
           "titulo": "Documentación y dinero",
+          "intro": "Fotocopias y algo de efectivo en billetes pequeños. Cinco minutos de preparación que te ahorran meses de gestiones.",
           "items": [
             {
-              "producto": "Bolsa estanca para documentos (DNI, pólizas, recetas)",
+              "producto": "Bolsa estanca para documentos (3 piezas)",
               "afiliado": "https://www.amazon.es/dp/B096V89H69?tag=ntizar-21",
-              "descripcion": "Bolsa de cierre zip de grado militar: DNI, pólizas y recetas secos siempre.",
-              "precio_aprox": "5-12 €",
+              "descripcion": "Cierre impermeable: DNI, pólizas, recetas y el móvil secos aunque la mochila acabe en un charco.",
+              "precio_aprox": "8-15 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Faja portadocumentos / riñonera oculta para efectivo",
+              "producto": "Riñonera interior oculta para efectivo",
               "afiliado": "https://www.amazon.es/dp/B0CLLSK9BC?tag=ntizar-21",
-              "descripcion": "Riñonera oculta bajo la ropa para llevar efectivo y documentación encima.",
-              "precio_aprox": "8-15 €",
+              "descripcion": "Dos bolsillos planos que van bajo la ropa: efectivo, tarjetas y copia de llaves pegados al cuerpo. Si pierdes la mochila, no pierdes los papeles.",
+              "precio_aprox": "7-12 €",
               "prioridad": "recomendado"
             }
-          ],
-          "intro": "Fotocopias y algo de efectivo en billetes pequeños. Cinco minutos de preparación que te ahorran meses de gestiones."
+          ]
         },
         {
           "titulo": "Higiene y salud",
+          "intro": "Lo que evita que un corte pequeño se convierta en un problema en un sitio sin agua corriente ni farmacia.",
           "items": [
             {
-              "producto": "Botiquín de primeros auxilios básico",
-              "afiliado": "https://www.amazon.es/REVOLRACE-Primeros-Auxilios-Coche-Piezas/dp/B0GK6PV1M4?tag=ntizar-21",
-              "descripcion": "Vendas, antiséptico, gasas, tijeras y guantes. Base de cualquier kit.",
-              "precio_aprox": "15-30 €",
+              "producto": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+              "afiliado": "https://www.amazon.es/dp/B08L1Y7M8J?tag=ntizar-21",
+              "descripcion": "309 piezas conformes a la norma europea de botiquín: gasas, vendas, esparadrapo, tijeras, guantes y apósitos. Base real, no un estuche de adorno.",
+              "precio_aprox": "20-35 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Gel hidroalcohólico y toallitas húmedas",
+              "producto": "Gel hidroalcohólico 70% (6 × 250 ml)",
               "afiliado": "https://www.amazon.es/dp/B0FQ5TJY9K?tag=ntizar-21",
-              "descripcion": "Higiene sin agua. Fundamental cuando falla el suministro.",
-              "precio_aprox": "5-10 €",
+              "descripcion": "Un litro y medio de gel al 70%: higiene de manos sin agua durante días. Uno en la mochila, otro en el coche.",
+              "precio_aprox": "12-18 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Mascarillas FFP2 certificadas (50 uds)",
+              "afiliado": "https://www.amazon.es/dp/B0GM1QQW1C?tag=ntizar-21",
+              "descripcion": "Cincuenta FFP2 con certificado CE: humo, polvo y aire insalubre. La lista europea las incorporó tras la pandemia y siguen teniendo sentido.",
+              "precio_aprox": "8-15 €",
               "prioridad": "esencial"
             }
-          ],
-          "intro": "Lo que evita que un corte pequeño se convierta en un problema en un sitio sin agua corriente ni farmacia."
+          ]
         },
         {
           "titulo": "Abrigo y refugio",
+          "intro": "Mantener la temperatura corporal es lo que separa una noche incómoda de una urgencia médica. Y mojado = frío.",
           "items": [
             {
-              "producto": "Manta térmica de emergencia",
+              "producto": "Mantas térmicas reutilizables 210×160 cm (5 uds)",
               "afiliado": "https://www.amazon.es/dp/B0CYDF32J3?tag=ntizar-21",
-              "descripcion": "Retiene el 90% del calor corporal. Ocupa el espacio de un paquete de tabaco.",
-              "precio_aprox": "3-8 €",
+              "descripcion": "Cinco mantas grandes que retienen el calor corporal y pesan 55 g cada una. Una por persona y dos de repuesto.",
+              "precio_aprox": "6-12 €",
               "prioridad": "esencial"
             },
             {
-              "producto": "Chubasquero o poncho impermeable",
-              "afiliado": "https://www.amazon.es/dp/B0GMQVNSRC?tag=ntizar-21",
-              "descripcion": "Impermeable ligero reutilizable. Mantente seco = mantente caliente.",
-              "precio_aprox": "15-30 €",
-              "prioridad": "recomendado"
+              "producto": "Poncho impermeable unisex con capucha (talla única)",
+              "afiliado": "https://www.amazon.es/dp/B07539S9G3?tag=ntizar-21",
+              "descripcion": "Poncho unisex de ripstop, 8.000 mm de columna de agua, con capucha y talla única; también sirve de lona. Cubre a la persona y la mochila.",
+              "precio_aprox": "18-30 €",
+              "prioridad": "esencial"
             }
-          ],
-          "intro": "Mantener la temperatura corporal es lo que separa una noche incómoda de una urgencia médica."
+          ]
+        },
+        {
+          "titulo": "Herramientas",
+          "intro": "Abrir, cortar, atornillar y encender. Sin batería, sin cobertura y sin depender de nadie.",
+          "items": [
+            {
+              "producto": "Navaja multiuso Victorinox Spartan",
+              "afiliado": "https://www.amazon.es/dp/B000IAZDE0?tag=ntizar-21",
+              "descripcion": "Hoja, sierra, abrelatas, sacacorchos y destornilladores en 60 gramos. La herramienta que resuelve lo que no estaba previsto.",
+              "precio_aprox": "25-40 €",
+              "prioridad": "esencial"
+            },
+            {
+              "producto": "Cerillas largas de 17 cm (4 cajas)",
+              "afiliado": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21",
+              "descripcion": "Cuatro cajas de cerillas XXL: encienden una vela o un hornillo sin quemarte los dedos y aguantan mejor la humedad que un mechero.",
+              "precio_aprox": "6-10 €",
+              "prioridad": "esencial"
+            }
+          ]
         }
       ],
-      "paraQuien": "Para cualquier hogar de España, empiece por donde empiece. Es la bolsa de resiliencia que pide la UE desde marzo de 2025: agua, comida, luz, información, documentos y abrigo para aguantar 72 horas sin servicios. Si sólo vas a montar un kit, que sea éste.",
+      "paraQuien": "Para cualquier hogar de España, empiece por donde empiece. Es la bolsa de resiliencia que pide la UE desde marzo de 2025 —agua, comida, luz, información, documentos y abrigo para aguantar 72 horas sin servicios— con cada producto comprobado: nada de fichas que dicen una cosa y venden otra. Si sólo vas a montar un kit, que sea éste.",
       "paraQuien_no": "No es una mochila para irte caminando ni sustituye al kit específico de tu riesgo (DANA, montaña, coche). Si vives en zona inundable o con personas dependientes, completa con el kit de evacuación y el kit de bebés o el de persona mayor.",
-      "coste_total": "100-180 € (2 personas, comprando con calma y aprovechando lo de casa)",
+      "coste_total": "180-300 € (hogar de 2 personas; botiquín y herramientas son de casa, no por persona)",
       "errores": [
-        "Comprar sólo agua embotellada y no tener plan B: si se acaba, unas pastillas potabilizadoras de 8 € te dan agua del grifo o de lluvia tratada.",
+        "Comprar sin mirar la ficha real: media lista de «esenciales» de internet lleva enlaces a un chubasquero de mujer, a un póster decorativo en vez de un mapa o a pastillas para depósitos de 200 litros. Antes de pagar, comprueba que la foto, el género/talla y la unidad de dosificación son los que necesitas.",
+        "Comprar sólo agua embotellada y no tener plan B: si se acaba, unas pastillas potabilizadoras de 10 € te dan agua del grifo o de lluvia tratada.",
         "Guardarlo todo en el trastero o en el armario de arriba. En un apagón sin luz tienes que encontrarlo en 30 segundos, mejor junto a la puerta.",
         "No escribir la fecha de compra en cada pack: a los dos años no sabrás qué es viejo y tirarás media reserva.",
         "Olvidarse de la radio. En una crisis larga el móvil se queda mudo; la radio a pilas es tu único enlace con lo que manda Protección Civil.",

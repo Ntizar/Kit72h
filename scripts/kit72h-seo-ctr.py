@@ -45,12 +45,12 @@ def git(*args):
 # en <title>, <meta description>, og:title, og:description del HTML.
 
 KIT_TITULOS = {
-    "kit-basico-72h": "Kit 72h Básico: 16 esenciales de la UE (2026)",
+    "kit-basico-72h": "Kit 72h Básico: 21 esenciales de la UE (2026)",
     "kit-dana": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
     "kit-apagon": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
     "kit-coche": "Kit Coche 2026: obligatorios y opcionales DGT",
     "kit-hogar": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
-    "kit-montana": "Kit Montaña: 13 esenciales para supervivencia outdoor (2026)",
+    "kit-montana": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
     "kit-calor": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
     "kit-evacuacion": "Kit Evacuación: 14 artículos para huir con vida (2026)",
     "huerto-autosuficiencia": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
@@ -68,12 +68,12 @@ KIT_TITULOS = {
 }
 
 KIT_DESCRIPCIONES = {
-    "kit-basico-72h": "Mochila de resiliencia UE: 16 artículos esenciales, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.",
+    "kit-basico-72h": "Mochila de resiliencia UE: 21 artículos verificados, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.",
     "kit-dana": "Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada en recomendaciones oficiales de Protección Civil.",
     "kit-apagon": "Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).",
     "kit-coche": "Kit coche obligatorios DGT 2026: baliza V-16, chaleco y todo lo esencial. Lista verificada y cesta Amazon en 1 clic.",
     "kit-hogar": "Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basada en fuentes oficiales (UE + Protección Civil).",
-    "kit-montana": "Kit montaña: 13 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.",
+    "kit-montana": "Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo, agua y comunicación sin red. Guía práctica 2026.",
     "kit-calor": "Kit calor: 7 artículos que salvan vidas en una ola de calor — hidratación, frescura y protección solar. Desde 30 €, y la mayoría ya lo tienes.",
     "kit-evacuacion": "Kit evacuación: 14 artículos para huir con vida. Mochila ligera con lo esencial en 30 segundos. Preparación rápida 2026.",
     "huerto-autosuficiencia": "Huerto autosuficiente: 13 herramientas para producir tu comida: semillas, compost, riego autónomo y protección. Desde 50 € para empezar; 300 € ya montado.",
