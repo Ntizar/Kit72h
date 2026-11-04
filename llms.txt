@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [El kit que compraría C. Tangana para salvar la música española](https://kit72h.com/blog/kit-que-salva-la-musica-espanola/): Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que mantendría en marcha la gira, el estudio y la sesión aunque la ciudad se quede a oscuras.
 - [HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026)](https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/): 3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué
 - [Mejor estufa de gas butano para apagón (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-estufa-gas-butano-apagon/): Butano, pellets o inducción: cuál es la mejor estufa para un apagón de invierno, cuánto cuesta calentar una habitación y por qué el butano sigue ganando.
 - [Mejor walkie talkie PMR446 (2026): 5 modelos probados para emergencias](https://kit72h.com/blog/mejor-walkie-talkie-pmr446-largo-alcance/): Comparativa de los 5 mejores walkies PMR446 para emergencias: alcance real, batería, resistencia y precio. Desde 15 € hasta 70 €.

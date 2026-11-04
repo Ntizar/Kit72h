@@ -540,6 +540,33 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### El kit que compraría C. Tangana para salvar la música española — https://kit72h.com/blog/kit-que-salva-la-musica-espanola/
+Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que mantendría en marcha la gira, el estudio y la sesión aunque la ciudad se quede a oscuras.
+C. Tangana llenó estadios cantando que «el madrileño» no se rinde. Pero hay una cosa que ni él ni ningún artista puede vencer a pulso: un apagón . El 29-O lo vimos a escala de país — se fue la luz, la cobertura y los accesos — y lo que empezó como una anécdota acabó siendo la mejor demostración de por qué la música española, literalmente, depende de un enchufe.
+ Piénsalo: la gira es un camión de amplificadores que necesitan corriente en cada pabellón. El estudio es una torre de máquinas que no admiten un corte de luz en mitad de una toma. Y el negocio entero — streaming, merchandising, tickets — vive en la nube, que resulta que está en un datacenter que sí tiene generadores, porque alguien se acordó de comprarlos. Este artículo es un ejercicio editorial: si «CT» nos llamara mañana y dijera «que la música no se pare», esto es lo que le meteríamos en las dos bolsas — las de la foto de la marca, ya sabes.
+ Minuto 0: se va la luz en mitad de una mezcla
+ El primer perjudicado no es el concierto, es el estudio. Un corte de 200 milisegundos borra la sesión, tuesta una fuente de alimentación y apaga el router justo cuando estabas subiendo el master. Lo primero que compra un profesional de la energía no es un generador: es un SAI (el «UPS» de toda la vida), una batería puente que da 10-20 minutos para guardar, cerrar y apagar sin dramatizar. Es el artículo más barato y más rentable de toda la lista: un SAI de 600-900 VA cubre router, ONT y el ordenador de mezclas por el precio de una cena.
+ Y para lo que no admite interrupción ni de 10 minutos — el portátil donde vive Ableton — un powerbank de 20.000 mAh con salida AC mantiene la sesión viva toda la noche. No es poesía: es la diferencia entre perder una toma y perder la tarde.
+ Hora 2: el concierto de esta noche no puede suspenderse
+ Aquí cambia el mundo: 3.000 personas con entrada no se van a casa porque la red eléctrica haya tenido un mal día. Un escenario pequeño puede sostenerse con un generador solar portátil de 300-500 Wh : sonido de la sesión, monitores, la luz del backline y los móviles del equipo. No arranca un sistema de PA de estadio — eso requiere otra liga — pero salva la acústica, la sala pequeña y la masterclass.
+ La fórmula que usan los que saben es combinada: la batería guarda, el panel solar plegable de 60-100 W recarga en silencio (los vecinos agradecen que no sea un generador de gasolina a las 2 de la mañana) y si la cosa se alarga, una batería LiFePO4 de 100 Ah multiplica la autonomía por diez. Es la misma arquitectura que recomendamos en cualquier kit de electricidad, solo que aquí la cargamos de significado: sin energía no hay cultura .
+ Hora 6: la ciudad está oscura y hay que organizar al equipo
+ Un apagón largo convierte a cualquier equipo de gira en un equipo de emergencia. Ahí entran los aparatos que nadie asociaría con la música y que de todo salvan:
+ Ver en la oscuridad sin matar la batería: un frontal LED con manos libres para cargar el furgón, y una lámpara de área recargable para el backline.
+ Saber qué pasa: si los datos se caen, una radio FM/AM a pilas es el único canal que sigue emitiendo (y sí, la SER seguiría dando la noticia con o sin streaming).
+ Coordinarse sin cobertura: una pareja de walkie-talkies PMR446 entre FOH y escenario evita media hora de gritos a través de un pabellón vacío.
+ Las cañas (y el jamón): una nevera portátil no es un capricho — en una emergencia, conservar es parte del plan.
+ La comparativa: tres setups según el tamaño de tu «gira»
+ Lo mismo aplica a quien tiene un local de ensayo, un estudio de barrio o simplemente no quiere que su música (ni su vida) dependa del interruptor general. Tres presupuestos, misma idea:
+ Setup Qué lleva Coste estimado 
+ Sesión de balconada SAI + powerbank AC + frontal 120-250 € 
+ Estudio de barrio lo anterior + generador solar 300-500 Wh + panel plegable + regleta con protección 400-700 € 
+ Gira sin excusas lo anterior + LiFePO4 100 Ah + walkies + lámpara de área + nevera portátil 800-1.400 € 
+ La regleta con protección de sobretensiones de la fila del medio es el accesorio que todos olvidan: cuando la luz vuelve, vuelve con un golpe que se carga fuentes de alimentación enteras. Cuesta menos que un cable de instrumentos.
+ La lección que deja el apagón
+ C. Tangana no ha pedido esto (ojo: esto es una imaginación editorial, no un patrocinio — como Afiliados solo ganamos si compras a través de los enlaces, y el artista no ha visto este artículo). Pero la idea de fondo es suya casi sin saberlo: hacer las cosas bien, sin depender de que nadie te las arregle. La red eléctrica de este país aguanta lo que aguanta; el equipo de tu estudio, tu local o tu próximo directo puede aguantar mucho más si lo decides antes del siguiente 29-O.
+ Para montar el kit completo paso a paso, con guía de uso y errores frecuentes: ficha del Kit Apagón , ficha del Kit Electricidad y ficha del Kit Comunicación . Y si quieres la versión de estudio más fina, la de internet satelital para que la sesión en la nube nunca se caiga, es esta .
+
 ### HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026) — https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/
 3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué
 HydraPak Seeker 3L y 10 L: el depósito de agua plegable que sí merece un hueco en tu kit
