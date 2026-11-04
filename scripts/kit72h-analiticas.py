@@ -327,11 +327,17 @@ def cf_zona_serie(token, zona, hoy, dias):
 
 
 def cf_zona_dim(token, zona, ini, fin, dimension, limite=500):
-    """Filas de httpRequestsAdaptiveGroups sobre una dimensión de la zona."""
+    """Filas de httpRequestsAdaptiveGroups sobre una dimensión de la zona.
+
+    Solo respuestas 200: sin ese filtro entran los 404 de las sondas de bots y,
+    además, el conjunto es tan grande que Cloudflare lo muestrea de forma
+    inestable (el mismo mes daba 57.650 y 50.530 en dos lecturas seguidas).
+    """
     query = (
         '{ viewer { zones(filter: {zoneTag: "%s"}) {'
         ' g: httpRequestsAdaptiveGroups(limit: %d,'
-        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z"},'
+        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z",'
+        ' edgeResponseStatus: 200},'
         ' orderBy: [count_DESC]) { count dimensions { %s } } } } }'
     ) % (_esc(zona), limite, ini, fin, dimension)
     data, err = cf_graphql(token, query)
@@ -348,12 +354,37 @@ _EXT_ASSET = (".css", ".js", ".json", ".png", ".jpg", ".jpeg", ".webp", ".svg",
               ".ico", ".txt", ".xml", ".woff", ".woff2", ".map", ".gz")
 
 
+# Sondas de vulnerabilidades y rutas de administración: NO son páginas del sitio
+# y ensucian el ranking (el 2026-11-04 salían /proc/self/environ y /_profiler/phpinfo
+# entre las más visitadas por la ola de bots). Se descartan por trozo de ruta.
+_SONDAS = (
+    "/proc/", "/etc/", "/api/w/", "/_profiler", "phpinfo", "/wp-", "xmlrpc",
+    "/cgi-bin", "/.env", "/.git", "/vendor/", "/actuator", "/server-status",
+    "/boaform", "/hnap", "/solr/", "/jenkins", "/owa/", "/autodiscover",
+    "/ecm/", "/hudson", "/config", "/docker", "/credentials", "/aws/",
+    "/console", "/manager/", "/admin", "/login", "/shell", "/debug",
+    "/backup", "/db/", "/sql", "/.well-known",
+)
+_EXT_SONDA = (".php", ".asp", ".aspx", ".jsp", ".cgi", ".env", ".ini", ".bak",
+              ".sql", ".yml", ".yaml", ".conf", ".old", ".swp")
+
+
+def _es_sonda(ruta):
+    """¿La ruta es una sonda de bot (traversal, panel de admin, fichero sensible)?"""
+    bajo = str(ruta or "").lower().split("?")[0]
+    if ".." in bajo or "%2e" in bajo or "%2f" in bajo or "%00" in bajo:
+        return True
+    if bajo.endswith(_EXT_SONDA):
+        return True
+    return any(trozo in bajo for trozo in _SONDAS)
+
+
 def _es_pagina(ruta):
-    """¿La ruta es una página (no un asset, ni una ruta interna, ni un reto ACME)?"""
+    """¿La ruta es una página (no un asset, ni una ruta interna, ni una sonda)?"""
     r = str(ruta or "")
     if not r.startswith("/") or r.startswith("/cdn-cgi/") or r.startswith("/data/"):
         return False
-    if r.startswith("/.well-known"):
+    if _es_sonda(r):
         return False
     bajo = r.lower().split("?")[0]
     if bajo.endswith(_EXT_ASSET):
@@ -387,7 +418,8 @@ def cf_zona_desgloses(token, zona, ini, fin):
     query = (
         '{ viewer { zones(filter: {zoneTag: "%s"}) {'
         ' g: httpRequestsAdaptiveGroups(limit: 5000,'
-        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z"},'
+        ' filter: {datetime_geq: "%sT00:00:00Z", datetime_leq: "%sT23:59:59Z",'
+        ' edgeResponseStatus: 200},'
         ' orderBy: [count_DESC]) {'
         ' count dimensions { clientRequestPath clientCountryName clientDeviceType }'
         ' } } } }'
@@ -421,7 +453,8 @@ def cf_zona_desgloses(token, zona, ini, fin):
 
 
 def cf_zona_resultado(token, hoy, clics_amazon, motivo, eventos=None,
-                      zona=None, mapa=None, total_paginas=None):
+                      zona=None, mapa=None, total_paginas=None,
+                      clics_estado="sin-medidor"):
     """Resultado completo usando la analítica de zona (sin beacon).
 
     Acepta la serie ya consultada (`zona`, `mapa`, `total_paginas`) para no
@@ -460,13 +493,17 @@ def cf_zona_resultado(token, hoy, clics_amazon, motivo, eventos=None,
         fuente="cloudflare-zona")
     resultado["totales"] = {
         "visitas": total_visitas,
-        "paginas": total_paginas or sum(v for _, v in pares_pag),
+        # MISMA métrica que el ranking de páginas: si el KPI dijera `pageViews`
+        # (una métrica distinta) y la lista sumara otra cosa, el panel se
+        # contradiría a sí mismo en la primera pantalla.
+        "paginas": sum(v for _, v in pares_pag) or (total_paginas or 0),
         "clics_amazon": clics_amazon,
     }
+    resultado["clics_estado"] = clics_estado
     resultado["serie_diaria"] = serie
-    resultado["paginas"] = con_pct_sobre(pares_pag, "ruta", limite=30)
+    resultado["paginas"] = con_pct_sobre(pares_pag, "ruta")
     resultado["referrers"] = []
-    resultado["paises"] = con_pct_sobre(pares_pais, "pais", limite=20)
+    resultado["paises"] = con_pct_sobre(pares_pais, "pais")
     resultado["dispositivos"] = con_pct_sobre(pares_dev, "tipo")
     resultado["eventos"] = eventos or []
     return resultado
@@ -782,6 +819,10 @@ def plantilla(estado, mensaje, fuente="ninguna"):
         "paises": [],
         "dispositivos": [],
         "eventos": [],
+        # ¿Hay medidor de clics de afiliado? "ok" = worker/Umami responden;
+        # "sin-medidor" = un 0 en clics significa «no se está midiendo», no
+        # «nadie pulsó». El panel lo dice así en vez de pintar un cero falso.
+        "clics_estado": "sin-medidor",
     }
 
 
@@ -887,6 +928,10 @@ def main(argv=None):
         eventos = eventos_worker
         clics_amazon = sum(e["total"] for e in eventos if "amazon" in e["nombre"].lower())
 
+    # Un 0 en clics solo es un dato si hay medidor detrás. Si no lo hay, el JSON
+    # lo dice y el panel pinta «—» en vez de un cero que parece una verdad.
+    clics_estado = "ok" if eventos is not None else "sin-medidor"
+
     # ── Recorrido Cloudflare (proveedor principal) ──
     if token:
         ahora = datetime.now(timezone.utc)
@@ -986,7 +1031,7 @@ def main(argv=None):
                                 "(últimos 3 días: %d medidos frente a %d reales en la CDN)."
                                 % (reb_rum, reb_zona),
                                 eventos=eventos, zona=zona, mapa=mapa_zona,
-                                total_paginas=pag_zona)
+                                total_paginas=pag_zona, clics_estado=clics_estado)
                             if respaldo:
                                 resultado = respaldo
                                 print("  ℹ️ beacon caído: fuente = analítica de zona.",
@@ -1005,6 +1050,7 @@ def main(argv=None):
                 "Las visitas necesitan además CLOUDFLARE_API_TOKEN.",
                 fuente="worker")
             resultado["eventos"] = eventos_worker
+            resultado["clics_estado"] = "ok"
             resultado["totales"]["clics_amazon"] = sum(
                 e["total"] for e in eventos_worker if "amazon" in e["nombre"].lower())
         elif worker_configurado:
@@ -1027,6 +1073,9 @@ def main(argv=None):
                 "Sin CLOUDFLARE_API_TOKEN y sin eventos (revisa KIT72H_EVENTOS_URL/"
                 "KIT72H_EVENTOS_TOKEN del worker propio o UMAMI_API_KEY).",
                 fuente="ninguna")
+
+    if clics_estado == "ok":
+        resultado["clics_estado"] = "ok"
 
     escribir(resultado, args.stdout)
     resumen(resultado)

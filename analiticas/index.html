@@ -136,6 +136,26 @@
 .an-sub__fill{display:block;height:100%;background:var(--rojo)}
 .sec.oscura .an-sub__fill{background:var(--ambar)}
 
+/* Nada ocupa hueco cuando se oculta por falta de datos */
+.an-bloque[hidden],.sec[hidden],#an-nota-origenes[hidden]{display:none !important}
+.an-nota-linea{margin:12px 0 0;font-size:13px;line-height:1.6;border-left:4px solid var(--ambar);padding-left:10px;color:var(--tan)}
+.an-resto{margin:10px 0 0;font-size:11.5px;letter-spacing:.5px;opacity:.7}
+
+/* Funnel en móvil: la tabla de 6 columnas no se lee, se convierte en fichas */
+@media(max-width:640px){
+  .an-tabla--funnel thead{display:none}
+  .an-tabla--funnel,.an-tabla--funnel tbody,.an-tabla--funnel tr,.an-tabla--funnel td{display:block;width:100%}
+  .an-tabla--funnel tr{border:1.5px solid #cfc4ad;margin-bottom:10px;padding:8px 12px;background:var(--crema)}
+  .an-tabla--funnel tr:nth-child(even){background:#efe7d6}
+  .an-tabla--funnel td{border:0;padding:3px 0;display:flex;justify-content:space-between;gap:12px;align-items:baseline;text-align:right}
+  .an-tabla--funnel td::before{
+    content:attr(data-label);font-size:10.5px;font-weight:700;letter-spacing:1px;
+    text-transform:uppercase;color:var(--gris);text-align:left;
+  }
+  .an-tabla--funnel td:first-child{font-weight:700;border-bottom:1.5px solid var(--tinta);margin-bottom:5px;padding-bottom:6px;text-align:left}
+  .an-tabla--funnel td:first-child::before{content:none}
+}
+
 /* Pie del panel */
 .an-pie-lista{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center}
 </style>
@@ -175,12 +195,12 @@
           <div class="an-kpi">
             <span class="an-kpi__label">Páginas vistas</span>
             <span class="an-kpi__value" id="an-kpi-paginas">—</span>
-            <span class="an-kpi__pie">Páginas servidas en total.</span>
+            <span class="an-kpi__pie">Peticiones a páginas (misma base que el ranking de abajo).</span>
           </div>
           <div class="an-kpi an-kpi--destaca">
             <span class="an-kpi__label">Clics a Amazon</span>
             <span class="an-kpi__value" id="an-kpi-clics">—</span>
-            <span class="an-kpi__pie">Veces que se pulsó un enlace de afiliado.</span>
+            <span class="an-kpi__pie" id="an-kpi-clics-pie">Veces que se pulsó un enlace de afiliado.</span>
           </div>
           <div class="an-kpi">
             <span class="an-kpi__label">Clics / visita</span>
@@ -216,12 +236,14 @@
       <div class="sec-inner">
         <span class="sec-label">Desglose</span>
         <h2>De dónde viene cada visita</h2>
+        <p class="sec-intro">Los desgloses cuentan peticiones a páginas — la misma base que el KPI «Páginas vistas» —, no visitantes únicos. Pedir la ruta sin país ni dispositivo contaba también CSS, JS y sondas de bots, así que se piden las tres cosas juntas y solo se suman páginas reales con respuesta 200.</p>
+        <p class="an-nota-linea" id="an-nota-origenes" hidden></p>
         <div class="an-bloques">
           <div class="an-bloque">
             <h2>Páginas más vistas</h2>
             <div class="an-rank" id="an-lista-paginas"></div>
           </div>
-          <div class="an-bloque">
+          <div class="an-bloque" id="an-bloque-referrers">
             <h2>De dónde llegan</h2>
             <div class="an-rank" id="an-lista-referrers"></div>
           </div>
@@ -248,14 +270,14 @@
     </div>
   </section>
 
-  <section class="sec clara">
+  <section class="sec clara" id="an-sec-funnel">
     <div class="container">
       <div class="sec-inner">
         <span class="sec-label">Funnel</span>
         <h2>Dónde se muere la venta, página a página</h2>
         <p class="sec-intro">De cada página: cuánta gente llegó, cuánta leyó (scroll del 50 %), cuánta llegó al final (90 %) y cuánta pulsó un enlace de Amazon. La fila con muchas visitas y pocos clics es la primera candidata a arreglarse.</p>
         <div class="an-tabla-scroll">
-          <table class="an-tabla">
+          <table class="an-tabla an-tabla--funnel">
             <caption>Cruce de las visitas (Cloudflare) con los eventos del funnel. Ordenado por visitas; el CTR es clics de Amazon divididos entre las visitas de esa página.</caption>
             <thead><tr><th scope="col">Página</th><th scope="col">Visitas</th><th scope="col">Leyeron (50 %)</th><th scope="col">Al final (90 %)</th><th scope="col">Clics Amazon</th><th scope="col">CTR</th></tr></thead>
             <tbody id="an-funnel"></tbody>
@@ -375,11 +397,18 @@
   /* ---------- KPIs ---------- */
   function pintarKpis(d) {
     var t = (d && d.totales) || {};
+    var mideClics = !!(d && String(d.clics_estado || "") === "ok");
     el("an-kpi-visitas").textContent = num(t.visitas);
     el("an-kpi-paginas").textContent = num(t.paginas);
-    el("an-kpi-clics").textContent = num(t.clics_amazon);
+    el("an-kpi-clics").textContent = mideClics ? num(t.clics_amazon) : "—";
+    var pie = el("an-kpi-clics-pie");
+    if (pie) {
+      pie.textContent = mideClics
+        ? "Veces que se pulsó un enlace de afiliado."
+        : "Sin medidor de clics activo: un 0 aquí no sería un dato.";
+    }
     var v = Number(t.visitas), c = Number(t.clics_amazon);
-    if (isFinite(v) && v > 0 && isFinite(c)) {
+    if (mideClics && isFinite(v) && v > 0 && isFinite(c)) {
       el("an-kpi-ratio").textContent = (c / v).toFixed(2).replace(".", ",");
     } else {
       el("an-kpi-ratio").textContent = "—";
@@ -664,7 +693,10 @@
     cont.innerHTML = "";
     var evs = (d && Array.isArray(d.eventos)) ? d.eventos : [];
     if (!evs.length) {
-      cont.appendChild(vacio("Sin clics de afiliado registrados en esta ventana."));
+      var mide = !!(d && String(d.clics_estado || "") === "ok");
+      cont.appendChild(vacio(mide
+        ? "El medidor de eventos funciona: en esta ventana no hay ni un clic de afiliado registrado."
+        : "No hay medidor de clics en marcha: el beacon de Web Analytics está caído y el lector de eventos del worker no tiene credenciales. Mientras siga así, este bloque no puede decir cuántos clics se llevan los enlaces; el dato bueno está en el panel de Amazon Afiliados."));
       return;
     }
     evs.forEach(function (ev) {
@@ -712,6 +744,15 @@
     if (!tb) { return; }
     tb.innerHTML = "";
 
+    var evsTodos = (d && Array.isArray(d.eventos)) ? d.eventos : [];
+    var sec = el("an-sec-funnel");
+    if (!evsTodos.length) {
+      // Sin eventos no hay funnel: una tabla de ceros no informa de nada y
+      // además deja la página llena de ceros que parecen un derrumbe de ventas.
+      if (sec) { sec.hidden = true; }
+      return;
+    }
+    if (sec) { sec.hidden = false; }
     function mapaDe(nombre) {
       var mapa = {};
       var evs = (d && Array.isArray(d.eventos)) ? d.eventos : [];
@@ -765,20 +806,63 @@
       var c = clics[r] || 0;
       var ctr = v > 0 ? (c / v * 100) : null;
       var tr = document.createElement("tr");
-      function celda(texto, clase) {
+      function celda(texto, clase, etiqueta) {
         var td = document.createElement("td");
         if (clase) { td.className = clase; }
+        if (etiqueta) { td.setAttribute("data-label", etiqueta); }
         td.textContent = texto;
         tr.appendChild(td);
       }
       celda(r, "an-sub__ruta");
-      celda(num(v), "an-num");
-      celda(s50[r] !== undefined ? num(s50[r]) : "—", "an-num");
-      celda(s90[r] !== undefined ? num(s90[r]) : "—", "an-num");
-      celda(num(c), "an-num");
-      celda(ctr === null ? "—" : pct(ctr), "an-num");
+      celda(num(v), "an-num", "Visitas");
+      celda(s50[r] !== undefined ? num(s50[r]) : "—", "an-num", "Leyeron (50 %)");
+      celda(s90[r] !== undefined ? num(s90[r]) : "—", "an-num", "Al final (90 %)");
+      celda(num(c), "an-num", "Clics Amazon");
+      celda(ctr === null ? "—" : pct(ctr), "an-num", "CTR");
       tb.appendChild(tr);
     });
+  }
+
+  /* ---------- Orígenes: panel o nota según lo que la fuente pueda dar ---------- */
+  function pintarOrigenes(d) {
+    var refs = (d && Array.isArray(d.referrers)) ? d.referrers : [];
+    var esZona = !!(d && String(d.fuente || "") === "cloudflare-zona");
+    var caja = el("an-bloque-referrers");
+    var nota = el("an-nota-origenes");
+    var lista = el("an-lista-referrers");
+    if (refs.length) {
+      if (caja) { caja.hidden = false; }
+      if (nota) { nota.hidden = true; nota.textContent = ""; }
+      if (lista) { pintarFilas(lista, refs, "origen"); }
+      return;
+    }
+    // Sin orígenes el panel quedaría como un hueco enorme de «sin datos»:
+    // se retira y se explica en una línea.
+    if (caja) { caja.hidden = true; }
+    if (nota) {
+      nota.hidden = false;
+      nota.textContent = esZona
+        ? "De dónde llegan las visitas: la medición de zona de Cloudflare no entrega el origen (referrer). Se recupera cuando vuelva el beacon de Web Analytics."
+        : "De dónde llegan las visitas: sin datos de origen en esta ventana.";
+    }
+  }
+
+  /* ---------- Ranking con tope: top N y el resto resumido ---------- */
+  function pintarRanking(cont, lista, clave, tope) {
+    if (!cont) { return; }
+    lista = lista || [];
+    pintarFilas(cont, lista.slice(0, tope), clave);
+    var resto = lista.slice(tope);
+    if (!resto.length) { return; }
+    var suma = 0, cuota = 0;
+    resto.forEach(function (p) {
+      var v = Number(p && p.visitas);
+      if (isFinite(v)) { suma += v; }
+      var c = Number(p && p.pct);
+      if (isFinite(c)) { cuota += c; }
+    });
+    cont.appendChild(nodo("p", "an-resto",
+      "+ " + num(resto.length) + " más · " + num(suma) + " peticiones · " + pct(cuota)));
   }
 
   /* ---------- Pintado completo / degradado ---------- */
@@ -788,9 +872,9 @@
     pintarKpis(d);
     dibujarSerie(serieActual);
     pintarTablaSerie(serieActual);
-    pintarFilas(el("an-lista-paginas"), d.paginas, "ruta");
-    pintarFilas(el("an-lista-referrers"), d.referrers, "origen");
-    pintarFilas(el("an-lista-paises"), d.paises, "pais");
+    pintarRanking(el("an-lista-paginas"), d.paginas, "ruta", 30);
+    pintarOrigenes(d);
+    pintarRanking(el("an-lista-paises"), d.paises, "pais", 20);
     pintarFilas(el("an-lista-dispositivos"), d.dispositivos, "tipo");
     pintarEstado(d);
     pintarEventos(d);
@@ -803,9 +887,9 @@
     pintarKpis(null);
     dibujarSerie([]);
     pintarTablaSerie([]);
-    pintarFilas(el("an-lista-paginas"), [], "ruta");
-    pintarFilas(el("an-lista-referrers"), [], "origen");
-    pintarFilas(el("an-lista-paises"), [], "pais");
+    pintarRanking(el("an-lista-paginas"), [], "ruta", 30);
+    pintarOrigenes(null);
+    pintarRanking(el("an-lista-paises"), [], "pais", 20);
     pintarFilas(el("an-lista-dispositivos"), [], "tipo");
     pintarEstado(null, url, motivo);
     pintarEventos(null);
