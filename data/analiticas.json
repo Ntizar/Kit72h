@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-04T21:06:44Z",
+  "generado": "2026-11-04T21:11:02Z",
   "fuente": "cloudflare-zona",
   "estado": "ok",
-  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 7079 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
+  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 7153 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
   "ventana_dias": 30,
   "totales": {
-    "visitas": 22756,
+    "visitas": 22830,
     "paginas": 27960,
     "clics_amazon": 0
   },
@@ -128,7 +128,7 @@
     },
     {
       "fecha": "2026-11-04",
-      "visitas": 715
+      "visitas": 789
     }
   ],
   "paginas": [
@@ -429,6 +429,226 @@
       "pais": "IE",
       "visitas": 100,
       "pct": 0.4
+    },
+    {
+      "pais": "CL",
+      "visitas": 90,
+      "pct": 0.3
+    },
+    {
+      "pais": "HK",
+      "visitas": 80,
+      "pct": 0.3
+    },
+    {
+      "pais": "MX",
+      "visitas": 80,
+      "pct": 0.3
+    },
+    {
+      "pais": "PL",
+      "visitas": 80,
+      "pct": 0.3
+    },
+    {
+      "pais": "CA",
+      "visitas": 70,
+      "pct": 0.3
+    },
+    {
+      "pais": "PE",
+      "visitas": 70,
+      "pct": 0.3
+    },
+    {
+      "pais": "PT",
+      "visitas": 70,
+      "pct": 0.3
+    },
+    {
+      "pais": "KR",
+      "visitas": 60,
+      "pct": 0.2
+    },
+    {
+      "pais": "AD",
+      "visitas": 50,
+      "pct": 0.2
+    },
+    {
+      "pais": "RU",
+      "visitas": 50,
+      "pct": 0.2
+    },
+    {
+      "pais": "VE",
+      "visitas": 50,
+      "pct": 0.2
+    },
+    {
+      "pais": "SE",
+      "visitas": 40,
+      "pct": 0.1
+    },
+    {
+      "pais": "AE",
+      "visitas": 30,
+      "pct": 0.1
+    },
+    {
+      "pais": "AT",
+      "visitas": 30,
+      "pct": 0.1
+    },
+    {
+      "pais": "AL",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "AU",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "EC",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "HR",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "MY",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "PY",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "RO",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "TH",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "TN",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "UA",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "VN",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "ZA",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "BD",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "BO",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "CI",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "CR",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "CZ",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "DK",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "DO",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "KE",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "KZ",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "LU",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "MT",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "NP",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "OM",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "PK",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "PR",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "TG",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "TR",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "pais": "UY",
+      "visitas": 10,
+      "pct": 0.0
     }
   ],
   "dispositivos": [
