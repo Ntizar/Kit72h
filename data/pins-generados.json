@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-02",
-    "total": 87,
-    "png_total": 87
+    "ultima_generacion": "2026-11-04",
+    "total": 90,
+    "png_total": 90
   },
   "pins": [
     {
@@ -787,6 +787,33 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-walkie-talkie-pmr446-largo-alcance.html",
       "png": "png/pin-blog-mejor-walkie-talkie-pmr446-largo-alcance.png"
+    },
+    {
+      "slug": "pin-blog-deposito-agua-plegable-hydrapak-seeker-3l",
+      "tipo": "blog",
+      "titulo": "HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026)",
+      "url": "https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/",
+      "emoji": "📖",
+      "pin": "pin-blog-deposito-agua-plegable-hydrapak-seeker-3l.html",
+      "png": "png/pin-blog-deposito-agua-plegable-hydrapak-seeker-3l.png"
+    },
+    {
+      "slug": "pin-blog-mejor-estufa-gas-butano-apagon",
+      "tipo": "blog",
+      "titulo": "Mejor estufa de gas butano para apagón (2026): 5 modelos comparados",
+      "url": "https://kit72h.com/blog/mejor-estufa-gas-butano-apagon/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-estufa-gas-butano-apagon.html",
+      "png": "png/pin-blog-mejor-estufa-gas-butano-apagon.png"
+    },
+    {
+      "slug": "pin-blog-mejor-deshumidificador-inundaciones-humedad",
+      "tipo": "blog",
+      "titulo": "Mejor deshumidificador para inundaciones y humedad: 4 tipos comparados",
+      "url": "https://kit72h.com/blog/mejor-deshumidificador-inundaciones-humedad/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-deshumidificador-inundaciones-humedad.html",
+      "png": "png/pin-blog-mejor-deshumidificador-inundaciones-humedad.png"
     }
   ]
 }
