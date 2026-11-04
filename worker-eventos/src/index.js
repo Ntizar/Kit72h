@@ -67,7 +67,10 @@ function fundir(destino, mapa) {
 
 /* Escribe los pendientes a KV (1 write por día con eventos). Devuelve la
  * promesa para event.waitUntil; los errores solo se registran: el cupo
- * diario puede estar agotado y no debe romper la respuesta al visitante. */
+ * diario puede estar agotado y no debe romper la respuesta al visitante.
+ * El get de read-modify-write NO se cachea en el aislado: otro aislado puede
+ * haber escrito recuentos desde nuestra última lectura (probado en test: la
+ * caché los pisaba). 1 get por flush = techo 72 gets/día, despreciable. */
 function volcar(env) {
   const pendientes = MEMORIA.pendientes;
   MEMORIA.pendientes = {};
