@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-03T22:10:40+01:00",
+  "actualizado": "2026-11-04T01:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,6 +12,30 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Cruz Roja aclara que la mochila de emergencia de 72 horas es una medida preventiva, no una alerta",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjBTdFF0cW41V09GaVh1eFpGblhxck5iTGJEVWQ3UDRwTzNPSDVqWjlnSjBoWmFUVEVaYkc0MzZSbVZpcEdNZjkta29DZ0NvZ2hKbzR6Z1VZUEctd0gwNVdJRndvWm9GM0tGbHVUS3djX1Z2dHBjVDlGaXo0aDBEdTk4ckFWRHJhUUtPVnpxY2JXRzRrZEQxWWF1aDBkU3VOY0UzVmltNnlnYWVtMmFyWnpHMDZuWUppWkM1ZDhvel8?oc=5",
+     "fuente": "Nuevo Día - El Periódico de Nogales",
+     "resumen": "",
+     "fecha": "2026-11-04T00:23:54+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "Ante alerta de gobiernos mundiales: Esto debe tener un kit de emergencia en Chile según SENAPRED",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaU9rUmFRRV9XMVZpTmFuZzg3Q2tULU1UdS14b3JUTW9EVjllYlVORmk4VDNhOFo1eXJwZ181WE8wOF9qMDM2bnlNem40WmJWb0lvM1VxMDJ3YWVJczlMTFVVUTd3U2FZVU9ETWxTWEpyT3NHRTNOY1YtNFdBZV9qUkZaTjhjdFVkZW5PX21SMEFhcTBPVEc3R1ZZSVNQSUV2RFlVTzFKQkVsN2lQY3RjcmRKSGNMYl81X0Q0b2F1WnBuR1ZUbWxFaXJ30gHPAUFVX3lxTE9ERGVaSlVDVmdPSnJta3BCVkZPaVUzbF9PYmdYT2pHbENXVHhkSGc3R3A3SXNSd0tYMXQwZGhUbWo4ZXpPYkFmc1BaMVowVG1hLUJxa29JUlE2WW12cVREdm5YVS00RUdhaHdWcXdoR1VIaHdCQjlSaUNXcXpqLXZtMUVyLUxXZTNRV093Y19oNFF6eDVUamNzZjV6NjQ0RVAwMXVYeURWMFJjUEhYTkk2U1FHUjIyVFFHV0tjeE5oYWtiOHFiTGxzX1V2MkJ2bw?oc=5",
+     "fuente": "Rock&Pop",
+     "resumen": "",
+     "fecha": "2026-11-03T22:00:07+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Por qué más de 10 países están pidiendo guardar agua y comida para 72 horas o más",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3ZCR1MzWHdyZWI4T2RtUjRJUUxYRHdtNDN2REFfdDJCMXlHb3p2Q1ZZdmd6SUk5OV81THlkY3BtTFJQa3VoT2J6RWtzZjA1LVhLcFRVTHJHeDk1X1dEdDhXMUdTYnNqSER1a3lVZHR3RjdhcU85UXNsdHVJdUpZTy1zUHlnOXlaYjBENi0zY1MtM0JkVzUxd2EyNGN3c253bk9RbFdDUG5pOFQxZWp0OGZhRkxYNWs4SmJr0gHPAUFVX3lxTFBsUXB1aUZPaThZSE1MczU3eUVibzRmX01KY0FnSDl1b2JYMzlxQ3ZBaG5hbHBJNjIwZUhQc2dkekxObmZMMzAtQXAzUVZlN1dobzhsRnlrdUc1SUlhRkRVSHlHVDNockQwYmx4b2ltbC13X2lQejMzazhjVi1lYjJkbDlTQXowY3RWbnlMX1BJQUhSNjZiZW9tSXp4X1ZtbWZQUkZYeW5lTl9lYm9LR0dfOUVQLVZUQWpYTkNKYzYxbDh0aHJrUXowYkpOeEtvUQ?oc=5",
+     "fuente": "Bloomberg Línea",
+     "resumen": "",
+     "fecha": "2026-11-03T21:32:41+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "Kit de emergencia 72 horas, la UE presenta su guía oficial",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0hmdlBPQVBjNzljUGQyWVkxWFlxMTZQclJEY25KaGE1ZTNXN3NsRXdkZVBXUzF1dE0tY3VTQ0ozZlJmbjlCMFFBbHRSMHFncmMwZElXVGFmMEVrUWlBMlBSVVRIRUh1MEdUa0w2c3BXTV82czhPbGE2WVl5R3REOUJjWmJWQkZyMGc?oc=5",
      "fuente": "Pasquale Pillitteri",
@@ -20,19 +44,27 @@
      "fecha_txt": "3 nov"
     },
     {
+     "titulo": "¿Por qué gobiernos recomiendan reservas de comida y agua para 3 días?",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2trb1dWTVZTbUFhNUxfY0dKSXVQcElvNHdZT2c2c1V1eTBmZnlDd3piWEFWbzhFNEFmbmdnQmtFdi04UlRkSlh1b3VlTHRKUndwVnZrRDkzaGpXUVNrYlFFd1Y0Q3BUVVNrZkxWcDByNWRoc0MyS0VRNmNGdFBGdFB5UkZGMjNJeUpLNVczODRYRTBJbUhwYTBpQQ?oc=5",
+     "fuente": "Chic Magazine",
+     "resumen": "",
+     "fecha": "2026-11-03T20:20:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia de 72 horas: ¿por qué la recomiendan en México y la UE?",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYU5RUkdteHpLYlY1cXlOd0lTSTVTNDRXUjF0QjhCYVlMOHNyZ2c2WnF4ek51WmRzcTVETWF5ci1JejF0NlM3SkhDb3RPMEY2RGQtVDRsT2h5clJHUnlfOG9vd0dhd1Q0cVhtX19rb0lWQkFQVTNSSFRhMk1GbzlkQW9pcy1EYU1Xdm91RnRGbkNvQ3VsVmlFOXVBRXpZQS1yeklFUkE5NVJNc2RIaWgzQ2hoSVRybGhKUklPRmdBS0FUclhwQmc0Tg?oc=5",
+     "fuente": "Mi bolsillo",
+     "resumen": "",
+     "fecha": "2026-11-03T18:25:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "¿México debe prepararse para una crisis? Pide preparar una Mochila de emergencia con suministros de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnBXanhVbFQtV1I2VnBzUlU0cTdtMFdZRFVaVEx3TUlZdDZ2VUFIOWNEU0JPeTZyeGRCSnRneWhFYUlMQnE2LVBMTmdtMHlVMW8tcDRFWWlqWGMyTGVITE1NS3JEYWJQV2haX0JZcFo2RXBUelhnTjBTcUpvSjI1SUFPSVVKQ0dmMmF0cXhfeFRHNl9Ya2NibGJGcWV3YW9SZnZFTnM2TVljX3ZweUZNWEdtdlY2dTVCWXg0T0dnQnRqZUlzekFz0gHbAUFVX3lxTFBaVFpoelhXeWlOZ284N0JmRGdqa2VTUXRuTElkcW5VYllzakhYbU0ySVFOVDlwMWZhRlBGdHgzNW11OThGdmU2TVRVb0dBV2dPbV9zWVVBQ3pJOWxNOHZNSEtsTkZvaXpYeTFkRUFLRzJTUFRVZlVxSVpQbV9fblFwS2xmb1lEdThwRGpqYjBvUE9GbUUxSWYwc2VfYWtLLU9Lai1XX0s5enJQQURGSUxES3N2ZEpmLW9mTndvR1RMU1pIMTdRYk9yck85WlIzdVhoTHYzMHEzbEhHYw?oc=5",
      "fuente": "ViveUSA.mx",
      "resumen": "",
-     "fecha": "2026-11-03T18:15:20+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Protección Civil recomendó a los mexicanos a armar una mochila de emergencia con alimento, agua y otros suministros",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNS0yYzl6VzlrX1kza2RZRFZ4eENGNEotdFUtZ0hHVHI4Q3JuYjhEdklXbk1QaXdUNEJQWGJrOWF1S0NNTDBMUnBwWW1BcHFxTVdjZU9GOFNkM29ILUNTX3Uzd01HR0FVendPZF9LRWRyZjVPNkFwZDBFUzBGNWpTdlNqLTJoV3AyeTFSVEp5ODNYb0ZBWWJib3U2ZkYxa09paDFXOFh1cHB6S2FDT1NjaWlwcllrZVN3SE0yWWYwSXJyOFExb0JXVWtjS0xfcjNCcEN4RzFLYUZEY0hYUXJoVlhBWkhLdlZKVk4yQzlaclVBV3pJb1c0ZkVYN2h2RWp2R2ktY1E5MHhiVng0V1HSAY4CQVVfeXFMTzUtMmM5elc5a19ZM2tkWURWeHhDRjRKLXRVLWdIR1RyOENybmI4RHZJV25NUGl3VDRCUFhiazlhdUtDTUwwTFJwcFltQXBxcU1XY2VPRjhTZDNvSC1DU191M3dNR0dBVXp3T2RfS0VkcmY1TzZBcGQwRVMwRjVqU3ZTai0yaFdwMnkxUlRKeTgzWG9GQVliYm91NmZGMWtPaWgxVzhYdXBwekthQ09TY2lpcHJZa2VTd0hNMllmMElycjhRMW9CV1VrY0tMX3IzQnBDeEcxS2FGRGNIWFFyaFZYQVpIS3ZWSlZOMkM5WnJVQVd6SW9XNGZFWDdodkVqdkdpLWNROTB4YlZ4NFdR?oc=5",
-     "fuente": "El Cronista",
-     "resumen": "",
-     "fecha": "2026-11-03T17:46:16+01:00",
+     "fecha": "2026-11-03T18:15:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -40,39 +72,7 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEFxa2JSenE4bWZrbnpCVk9uYWFTMEs1ME1tOEpONWdYeVBMcWpaXzlBeEJiRGJKUGM3YTZLNU9RbzVnN3NGS2I4aS1pelV5XzY3Q0d4Q2puNnJnQURpRUlzRm02U2ZBYzF6eHJYdmM4cVhwTTdfT2RrU3g2cGVObmpiQllyeWd2MmxRU0JGdHZ2a1pYNlVSRC1vTTNLaXRKazdaTURaRnQtVDNVTFE?oc=5",
      "fuente": "infopoder",
      "resumen": "",
-     "fecha": "2026-11-03T16:37:29+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "México activa alerta para preparar la mochila de emergencia de 72 horas: ¿Qué debe contener y por qué es clave?",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTVdBY29iZVBncTBmLVhOU1A2MWg1MVFhMkkwZUZxWmhoZTJ2TS1MOU45RmQzTGtCNXRvTDBMSGVQNDNMNXlEb3VyWFNiVm5YdnBsWGhFTUdoZEsyOGlBTFpPTjhHYmNmXzVpTE1QMER6dTljNC1wc1AxVVQtT1VLdVZaRXhnZzVxR2xCemNmWFljV0RKbVRacmYtVU45R0Qzc1piazVEWjBscndYOGg4amFKeS1pRmlLeVVlX0EtNmFLQ0p2SHFla09rclN1RFNrVXMwNkZyTU9VMVpHRmc?oc=5",
-     "fuente": "Mercurio Sinaloa",
-     "resumen": "",
-     "fecha": "2026-11-03T14:29:25+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "¿Por qué varios países piden almacenar alimentos y agua? Lo que tienes que saber",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOFdwS0hrSEFoZGZ6TmtJQzhsTGtKZHVfTkt2VllhdFZnTFpCT0xzV2doLTJFdWZjYkhYakR3VjlNUWxwX1NoSmJPUVVjMUF4VEZtdE9iTmc3M0hkOXV0OF9DQzN1Qzd4MFJrTi1XS0ZVUXZTYXFoQXluMHcxRENkbHdVaFUtVDhxV1ZZeUp1aHJzbUgyTnltM2ZXWUs5NjRCN0F0X2kxQzZ6ZDAyaG8tLVE3ZFllLUFfYmZuRzNCXzhXRkFNS1FTNDBoa2Q?oc=5",
-     "fuente": "El Sol de México",
-     "resumen": "",
-     "fecha": "2026-11-03T14:24:34+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Tailandia aconseja a sus ciudadanos que preparen un kit de supervivencia para 72 horas.",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZHBaZEFBYWpJeFVXMlNkTzZxN3hjdFc3WTJoZy1YNURpcFkzeVpPczhGQmdMYzhrVk5VSW8tVG9meDhvTUVGeml1cDk2U0RpTWZtX3pYV2lvVWdWZDdsTnQzb1RraFNhQjl0NWpKVXREY0JHRlNMSkpzSlRNUGxWTXZwZXpNUlp5TjdaTA?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-03T13:56:04+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Bruselas insiste en que los ciudadanos tengan un kit de emergencia y llama a preparar a los niños para reaccionar ante las crisis",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU1VOd2JFZUJlVnh6TkVuNkRIZHpyLXppcmF6cEF4OUoxWGlRZzZRS2JkWVlaRE1mbDhGaUV4cW5lcUdxRVFuRmRfMEpTeE9kZEtXSW5rZFRBdzhhZUFKN3Z5VXdVWE9NNERJYTRLUmZVVWRUdGxETFpvalVIcVVCVFM2WXRfNmFJdjc4aTZjV3F0UUl3WElsbmVmNEZaSkRhM2dpZFI2bzczUkZJRFJHTXpndlFUckFfYXNSLWhVdWxTMVVhdFhPZ1NnUHdOLTVERWZybnRGc0toYjJZSkx5cm4tOExsdXF6VFhoNXBOdnlLUFNwSlg4NEVSbS1qV3M00gGGAkFVX3lxTE8xczFGeHMxbURqck1ta3BoR1czUWZDc3JRQVVFakFQckFESDUxb3pILUs5cnR6aEJQQVVnTmlmdFdTZE84UTFkU2JXai1nOWJaWm42ay1GbGRBQVFFbHlsWXYxVUtHVXJYUXZOcjZjTW1nYjZEX1hpd3hXY1cwcUZQLVZUMHVQQ1JfTzlXWHZpOWxXeWoySlB6eWFLRHhyby1qLVF2VzJ6cTZOLVpSOW82a3B5UFlYZDFsR1diZV9JTDBpeklZMFNIeWR1dkhYbzJnd1I3djZZbjFwMnF1R1NxMXVYOFlzVWdWdDNmd3EyZGFXUHFodFNRNEZNNlBLamVjdjBsYmc?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-03T13:49:28+01:00",
+     "fecha": "2026-11-03T16:39:29+01:00",
      "fecha_txt": "3 nov"
     }
    ]
@@ -96,6 +96,14 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-03T16:45:54+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "La superficie calcinada en Galicia por los incendios forestales se reduce un 95% respecto a 2025",
+     "url": "https://www.laregion.es/galicia/superficie-calcinada-galicia-incendios-forestales-reduce_1_20261103-4478218.html",
+     "fuente": "La Región",
+     "resumen": "Galicia registró 5.318,9 hectáreas quemadas entre enero y octubre, un 95,6% menos que en 2025 y el cuarto dato más bajo de la última década, pese a afrontar el verano más cálido desde 1961 y con un 22 ...",
+     "fecha": "2026-11-03T16:00:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "Archivo - Un helicóptero recoge agua para ayudar con las labores de extinción del incendio, a 26 de agosto de 2025, en Aguas Mestas, Lugo, Galicia (España). Las condiciones parecen mejorar en la ...",
      "fecha": "2026-11-03T03:35:00+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Incendios: dramática situación en España y Francia",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
-     "fuente": "DW.com",
-     "resumen": "",
-     "fecha": "2026-11-03T01:28:46+01:00",
-     "fecha_txt": "3 nov"
     }
    ]
   },
@@ -153,14 +153,6 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
-    {
-     "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
-     "url": "https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/y-si-la-dana-de-2024-hubiera-desbordado-el-carraixet-asi-afectaria-la-inundacion-a-lhorta-nord",
-     "fuente": "Valencia Plaza",
-     "resumen": "Una simulación de la UPV muestra cómo el desbordamiento habría afectado a municipios de la comarca con su punto crítico a las 20.00h ...",
-     "fecha": "2026-11-02T23:00:00+01:00",
-     "fecha_txt": "2 nov"
-    },
     {
      "titulo": "Protección Civil alerta de lluvias torrenciales en Cataluña, con acumulaciones de hasta 60 litros en tres horas",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3NCOHY5S25YQVBpOFZRWlpJbnNwUzhIdy0zNjM1UnJfY0tQOWZfYWp2U3puVl9XcHFBaURYaDVkb3RXNjZSbXQzb1FqUnlOb3JOcUo4MFljU1VwSU9qNmJ0QnRDTV94di1sanlnclNLZ2U3X0o5MEV5NlVwV0twVHFhYU5hZWxwRXRJSGJEdF9VR3drbjIwUnkweG5USVhuY1NLNHZiX3pSWmM2WFJXaC1feVkwTExNaklmUmVzWDhwU2VvZ0NXQXFxZzF0Q2dfN0tlbTRHSFBjSXAxQVHSAeMBQVVfeXFMTjBtRDVIRS1mZEtIMW82QmZra3lpTnFLYUk5TXNhMldEVS14c3M0dElRQW5xREdCOHB2U09IZ3I1VjRkVnUycjg4Q0ExOWd5VVdJVjl1ODhkLS1ObzZfVDM1YTgwLWRJUUFvLXp3enZ1TjNlRnVGcFBSRDV0c2hIMXdReVZkLXhZbmJYdHk1NXViVDZqaDA5RzNOcXgyemRONXA1eUJvOEdiOWhaUU1OWk85R1M4b0w3V0pwbmhTZmJ6amFGVS1wNHhfU1JQdGJOYUNYS0xEV2dQS2sxdjBGdTAzTVE?oc=5",
@@ -216,6 +208,14 @@
      "resumen": "Antes de la dana de 2024, la renta de un piso en esta localidad tenía un coste de 8,9 euros el metro cuadrado. Ahora la cifra ha trepado a 11 euros, un aumento del 23%. En Paiporta, un panorama simila ...",
      "fecha": "2026-10-31T23:30:00+01:00",
      "fecha_txt": "31 oct"
+    },
+    {
+     "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXRKUE4wY0FLUUFZMXZGdXhlVFFhc19zYjV5d29JU0QtZzE2RXNUakVDMDZsLU1qdnBlOEltVmlmVm80UmQtTkVTbmx6eG1VZzdzUXFBN1lqZWowUFpPZU1Yb2FWeWVJYVlNY1FoSUM0LWVkY21CM256Mm5QaWEwcW5TQTJWZkRNeVp4V3doRmZGNTBwM0pubW5RS1FVZzl6Y21qaHdMZlBGUnMxaHVNYmFFYUxrQ1VxVFAzMkJ6Y1FBYmdsd09UalhDUExzNTdDZG9VME96YmJpdHU4OVdveGNjMUvSAeoBQVVfeXFMUF9RY1JRUXljVjllb1V0S3Y2UV9oQ1JZdnRjcnRkYlhObDROMUN6ZUhpR3YtQW5WWW5sMC1CYWFzZ3psM05qT2Q4MXZnT3V4OWRRWWgtaEpzNzN3ZUNiVUZ6Q3dLZE16QjlLRVNUR055S1Z3OF9FVzg4c2VLM2ZPV1BmZksyblpZYl9YWEJKU0lqbzNHSkZDd0F4bjJVZGU0a2JGa2NqMThvZm16UFl4M3Y1LTV2VTEzNDhjZVRLdmN4NUI4S1diZ0prLUlFTk5yRDJicjZBQXJQd0FXaFJCRFpCa1ZXTWdTLTlR?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-10-31T19:56:07+01:00",
+     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -230,6 +230,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-03T17:51:27+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "El escudo antiapagón y la brecha de ayudas diluyen la ventaja renovable de España",
+     "url": "https://www.elcorreo.com/economia/escudo-antiapagon-brecha-ayudas-diluyen-ventaja-renovable-20261103001158-ntrc.html",
+     "fuente": "El Correo",
+     "resumen": "Las fábricas electrointensivas abonan hasta un 30% más que sus competidoras galas, mientras los hogares acumulan un sobrecoste de 123 euros en ajustes de la red ...",
+     "fecha": "2026-11-03T17:00:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -267,7 +275,7 @@
     {
      "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
-     "fuente": "MILENIO",
+     "fuente": "Milenio",
      "resumen": "",
      "fecha": "2026-11-02T15:34:00+01:00",
      "fecha_txt": "2 nov"
@@ -278,14 +286,6 @@
      "fuente": "El Observador",
      "resumen": "",
      "fecha": "2026-11-02T15:12:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
-     "fuente": "El Mundo Today",
-     "resumen": "",
-     "fecha": "2026-11-02T14:04:06+01:00",
      "fecha_txt": "2 nov"
     }
    ]
