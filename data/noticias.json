@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-04T01:10:40+01:00",
+  "actualizado": "2026-11-04T04:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,38 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Tailandia recomienda que cada familia prepare un kit de emergencia para 72 horas.",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkYxVnV6VjBpODRUamY1LXhseG9DMXZqM1BQUDF6N19jM1prYnZLVUpMM1JrMHUzb3ZaeGpMMm1TOERsang0Z3lJNWdTWEFyZl9qMnN0bVZQNGRuTFlhdkI1OEJiWU0yanJqVmtqVi1LRjh0WW9JUFlURlVMNVRTYzZtR2dPSnI0dFNaNUVET0oxQ1E3M2ppMFRsVmNReVRRS3B0SExncE0?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-04T03:21:04+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia: 10 países que piden prepararse; ¿Quién tiene la mejor?",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzI2a21WZWF0Wm1wTERBSzNjZDUtZlp0N05IV1BrS3YtOVZQMkNFOHdxaDcxOGN1VkUwaUZHRmdEaTFWMHk2eXVUamJ5ZWFkZmZNMWdBYkZaU2lXWFdxQ0VsVjhnSVdhZkZPOXlPd3NhLTJiMU1QZmc4cjExNE1MQ0RZbU1faURXOU11WTFkdHF2V0RkNFlJdmFlSmhFSFc0T3oxYkFNX3hmWXdzVEFkbFh6bTJrc21nMkE?oc=5",
+     "fuente": "Debate",
+     "resumen": "",
+     "fecha": "2026-11-04T02:02:50+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "Kit de emergencia 72 horas Unión Europea: guía para 27 países sin carácter obligatorio",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHg3VkZnNDNPUUpsaThTaEd6X1JZcTZyOUJQSTUzbFVqcHBDT0NZREVqOEZQemw5dE83bUJhRU9Sa0l1M0Y4RHp3bk5BX2kyZk94RnRPTVdiMUhHS2hmSG9lZG9Na2FnREM2ck95TEJ5aThteXE3ajNXRU14Q0lNUDB1Y01zbk90RnFKLWJUMDFUbGFUZlFoRWFseDFQdkRsRno3dzRn?oc=5",
+     "fuente": "Mix Vale",
+     "resumen": "",
+     "fecha": "2026-11-04T01:50:05+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "Arizona recomienda kits de emergencia de 72 horas y planes domésticos de hasta dos semanas para enfrentar contingencias",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORC1KVWNLSk9lTWlBdjFyMVZFNzlubExqdVA4YmZBNzgyMWhxNXNic18zYzBLUlV3WEZnQllxbXQtLVdVODdJejM3NGdjR2h5TDQ1UFdyUnpVYVh2UjNJUC10ZVB5ZjM4Unl0ZnN0ZVJ6YTNtVkc4dDg5dXNFclFOc0E4bldPc0lBYjAyT2dWb1VZM3VyZHg2RXkzV2paNEpDMGlveGtlNy1mVTNfOUhXelpoWGpjdUlKdHpBdktoUHFRbHN4M2o2UDVQZTZTQjRZZFRWeS1sekRFdDdxdjM1QVhzQVIzR3ZiRWhmSU5SR3FWdlVVM3A5YlpMVV9QSDRB0gGbAkFVX3lxTE4wSmZUcWczUFhnbjJaSGhnN3J3a05IdjliX1NJMFJuZklwQlV2N19UdlZxcWlfR0h0cjNKM3k5NjZ0akt3ajhBbWR4QlRuUFc0UkMyaEp2Z2U5TkVhZ2ZtUHJZcGpyZ0xZeDFUV0dTeGs5Z1hJbF9HVXc0QlRHcUNUSllOYnc4Z1YySlp3Sl91Tndac19HMWFtalY3MlJlMV8waDNRWE14NlJ0Tlc4WWszWTZhVUZjTjNhRjQ4VGRyRUZrb1ZGbzliQk1vTFVyMlFPNnFzTzk0clpzb0lVbW4xTHg2MGplTDJISmhRZ2VjSEtMa0lNYml6WndFeFdBX1J6WElUSDE5M0M0dmhKTXM3aFhSYUhaSHg0ZjA?oc=5",
+     "fuente": "El Imparcial",
+     "resumen": "",
+     "fecha": "2026-11-04T01:07:59+01:00",
+     "fecha_txt": "4 nov"
+    },
     {
      "titulo": "Cruz Roja aclara que la mochila de emergencia de 72 horas es una medida preventiva, no una alerta",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVjBTdFF0cW41V09GaVh1eFpGblhxck5iTGJEVWQ3UDRwTzNPSDVqWjlnSjBoWmFUVEVaYkc0MzZSbVZpcEdNZjkta29DZ0NvZ2hKbzR6Z1VZUEctd0gwNVdJRndvWm9GM0tGbHVUS3djX1Z2dHBjVDlGaXo0aDBEdTk4ckFWRHJhUUtPVnpxY2JXRzRrZEQxWWF1aDBkU3VOY0UzVmltNnlnYWVtMmFyWnpHMDZuWUppWkM1ZDhvel8?oc=5",
@@ -42,38 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-03T20:58:38+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "¿Por qué gobiernos recomiendan reservas de comida y agua para 3 días?",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2trb1dWTVZTbUFhNUxfY0dKSXVQcElvNHdZT2c2c1V1eTBmZnlDd3piWEFWbzhFNEFmbmdnQmtFdi04UlRkSlh1b3VlTHRKUndwVnZrRDkzaGpXUVNrYlFFd1Y0Q3BUVVNrZkxWcDByNWRoc0MyS0VRNmNGdFBGdFB5UkZGMjNJeUpLNVczODRYRTBJbUhwYTBpQQ?oc=5",
-     "fuente": "Chic Magazine",
-     "resumen": "",
-     "fecha": "2026-11-03T20:20:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia de 72 horas: ¿por qué la recomiendan en México y la UE?",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYU5RUkdteHpLYlY1cXlOd0lTSTVTNDRXUjF0QjhCYVlMOHNyZ2c2WnF4ek51WmRzcTVETWF5ci1JejF0NlM3SkhDb3RPMEY2RGQtVDRsT2h5clJHUnlfOG9vd0dhd1Q0cVhtX19rb0lWQkFQVTNSSFRhMk1GbzlkQW9pcy1EYU1Xdm91RnRGbkNvQ3VsVmlFOXVBRXpZQS1yeklFUkE5NVJNc2RIaWgzQ2hoSVRybGhKUklPRmdBS0FUclhwQmc0Tg?oc=5",
-     "fuente": "Mi bolsillo",
-     "resumen": "",
-     "fecha": "2026-11-03T18:25:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "¿México debe prepararse para una crisis? Pide preparar una Mochila de emergencia con suministros de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnBXanhVbFQtV1I2VnBzUlU0cTdtMFdZRFVaVEx3TUlZdDZ2VUFIOWNEU0JPeTZyeGRCSnRneWhFYUlMQnE2LVBMTmdtMHlVMW8tcDRFWWlqWGMyTGVITE1NS3JEYWJQV2haX0JZcFo2RXBUelhnTjBTcUpvSjI1SUFPSVVKQ0dmMmF0cXhfeFRHNl9Ya2NibGJGcWV3YW9SZnZFTnM2TVljX3ZweUZNWEdtdlY2dTVCWXg0T0dnQnRqZUlzekFz0gHbAUFVX3lxTFBaVFpoelhXeWlOZ284N0JmRGdqa2VTUXRuTElkcW5VYllzakhYbU0ySVFOVDlwMWZhRlBGdHgzNW11OThGdmU2TVRVb0dBV2dPbV9zWVVBQ3pJOWxNOHZNSEtsTkZvaXpYeTFkRUFLRzJTUFRVZlVxSVpQbV9fblFwS2xmb1lEdThwRGpqYjBvUE9GbUUxSWYwc2VfYWtLLU9Lai1XX0s5enJQQURGSUxES3N2ZEpmLW9mTndvR1RMU1pIMTdRYk9yck85WlIzdVhoTHYzMHEzbEhHYw?oc=5",
-     "fuente": "ViveUSA.mx",
-     "resumen": "",
-     "fecha": "2026-11-03T18:15:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "UE pide kit de emergencia de 72 horas: qué llevar y por qué",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEFxa2JSenE4bWZrbnpCVk9uYWFTMEs1ME1tOEpONWdYeVBMcWpaXzlBeEJiRGJKUGM3YTZLNU9RbzVnN3NGS2I4aS1pelV5XzY3Q0d4Q2puNnJnQURpRUlzRm02U2ZBYzF6eHJYdmM4cVhwTTdfT2RrU3g2cGVObmpiQllyeWd2MmxRU0JGdHZ2a1pYNlVSRC1vTTNLaXRKazdaTURaRnQtVDNVTFE?oc=5",
-     "fuente": "infopoder",
-     "resumen": "",
-     "fecha": "2026-11-03T16:39:29+01:00",
-     "fecha_txt": "3 nov"
     }
    ]
   },
@@ -96,14 +96,6 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-03T16:45:54+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "La superficie calcinada en Galicia por los incendios forestales se reduce un 95% respecto a 2025",
-     "url": "https://www.laregion.es/galicia/superficie-calcinada-galicia-incendios-forestales-reduce_1_20261103-4478218.html",
-     "fuente": "La Región",
-     "resumen": "Galicia registró 5.318,9 hectáreas quemadas entre enero y octubre, un 95,6% menos que en 2025 y el cuarto dato más bajo de la última década, pese a afrontar el verano más cálido desde 1961 y con un 22 ...",
-     "fecha": "2026-11-03T16:00:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -132,10 +124,10 @@
     },
     {
      "titulo": "CSIF denuncia que Castilla y León vuelve a encabezar la cifra de incendios en España: \"La Junta mira hacia otro lado\"",
-     "url": "https://www.msn.com/es-es/noticias/otras/csif-denuncia-que-castilla-y-le%C3%B3n-vuelve-a-encabezar-la-cifra-de-incendios-en-espa%C3%B1a-la-junta-mira-hacia-otro-lado/ar-AA2gGoBp",
-     "fuente": "El Español on MSN",
-     "resumen": "El sindicato independiente asegura que la Junta declara peligro medio hasta el 9 de noviembre \"con cerca de la mitad de las cuadrillas inoperativas\". Más información: Los agentes medioambientales de C ...",
-     "fecha": "2026-11-03T08:24:57+01:00",
+     "url": "https://www.elespanol.com/castilla-y-leon/region/20261103/csif-denuncia-castilla-leon-vuelve-encabezar-cifra-incendios-espana-junta-mira-lado/1003744444595_0.html",
+     "fuente": "ESPAÑOL",
+     "resumen": "La Central Sindical Independiente y de Funcionarios (CSIF) ha denunciado este martes que Castilla y León \"vuelve a ser la comunidad autónoma con mayor superficie afectada por los incendios forestales, ...",
+     "fecha": "2026-11-03T07:24:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -145,6 +137,14 @@
      "resumen": "Archivo - Un helicóptero recoge agua para ayudar con las labores de extinción del incendio, a 26 de agosto de 2025, en Aguas Mestas, Lugo, Galicia (España). Las condiciones parecen mejorar en la ...",
      "fecha": "2026-11-03T03:35:00+01:00",
      "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-02T17:47:00+01:00",
+     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -233,6 +233,22 @@
      "fecha_txt": "3 nov"
     },
     {
+     "titulo": "Un país averiado",
+     "url": "https://www.lavanguardia.com/opinion/20261104/11675112/pais-averiado.html",
+     "fuente": "La Vanguardia",
+     "resumen": "Urda, Ceuta, Adamuz, el gran apagón, los incendios, la dana, la crisis de los precios… Cunde entre una parte de la ciudadanía la sensación de que España es un país que no termina de funcionar en algun ...",
+     "fecha": "2026-11-03T17:05:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Los españoles ya pagan 123 euros más en su factura de luz por los ajustes del apagón",
+     "url": "https://www.abc.es/economia/cuentas-corrientes/espanoles-pagan-123-euros-factura-luz-ajustes-20261104014843-nt.html",
+     "fuente": "ABC",
+     "resumen": "Según el perfil del hogar, el impacto es mayor o menor. Un hogar pequeño ha pagado unos 53 euros, 19 euros más que antes del apagón. Un hogar mediano, 88, 32 euros más que antes del apagón. En el caso ...",
+     "fecha": "2026-11-03T17:00:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "El escudo antiapagón y la brecha de ayudas diluyen la ventaja renovable de España",
      "url": "https://www.elcorreo.com/economia/escudo-antiapagon-brecha-ayudas-diluyen-ventaja-renovable-20261103001158-ntrc.html",
      "fuente": "El Correo",
@@ -270,22 +286,6 @@
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-11-02T16:57:51+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
-     "fuente": "Milenio",
-     "resumen": "",
-     "fecha": "2026-11-02T15:34:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Vuelve el temor a un gran apagón: corte total de energía en La Palma y alerta en Canarias, tras un cero energético y fuertes lluvias",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMVMxNVZEcHZfWHdGSDBibG44U0k1c2ZEU1dLaTVRaWd0QWlpOVRaMGpOcEdKNkhldHluMXJXNUF5bERDZ3k0NE1NMTZGOGo3OFRET29uVlhpNVpFVDdlNVFPV3VJbDNMT2JuSHZUUVpiajlDY1FnRFpnOHBfNnEtY0RuTF9VQmM1dlpDQTdMSnp4M20zVm0yY0ZrR3A0RGZTc0h2VWw5anNpQ1BYcGV1dWtsaGEzLWlWS2x6R09wNWtjYXc1eVBqS0NobnRMSzhCYVdjNkJvVVNxSDMwYmhOTVlfUm4zQUZjSmfSAe8BQVVfeXFMTVktRF82ZUV4MHZPTko3bFF1YkhPX2pmbG8zTVc1cWpmSlUzcjJSTkM0QzdZYjNtU0dpQ3VETURpOU84QTVyLTY5eWRWOTBuck93TzRiQUxtdV9BRFh1U1EyNGd6TWtxa2o0WGhQbVFFbkVQU1dMZjVHd1pvdmVDM1NraEM4enc3QVRiemlaU2JvcWp3R2JFZzRTcnpaN3d0bTZ2cExNMFVzUzBnbTQ0LUZFYTZZZjkwc2Z5V05ja245RUlOQ0kxTDRnMExySWR4Ulo4VWM4c3RjUTBRVEFPUEYzdFF1TlluNU52WnBSbzg?oc=5",
-     "fuente": "El Observador",
-     "resumen": "",
-     "fecha": "2026-11-02T15:12:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
