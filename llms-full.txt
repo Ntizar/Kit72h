@@ -34,7 +34,7 @@ La lista que el Estado suizo recomienda tener en casa, traducida y comprada en E
 - Efectivo en billetes pequeños: Cuando los datáfonos y cajeros no responden, el efectivo sigue comprando. Sesenta euros en billetes de 10 y 20. (~50-100 €)
 
 ### Kit 72h Básico: 21 esenciales de la UE (2026) — https://kit72h.com/kit/kit-basico-72h/
-Mochila de resiliencia UE: 21 artículos verificados uno a uno, checklist marcable y cesta Amazon en 1 clic. Guía actualizada 2026.
+Mochila de resiliencia UE: 21 artículos verificados, checklist marcable, cesta Amazon en 1 clic. Guía actualizada 2026.
 **Agua e hidratación**
 - Agua mineral en botellas de 1,5 L (pack 6 = 9 L): Nueve litros embotellados: los 3 L/día de una persona durante los tres días. Se rota cada seis meses y se aprovecha en la cocina. (~5-9 €)
 - Garrafa de 8 L con grifo dosificador: Ocho litros con grifo incorporado: se dosifica sin abrir nada y aguanta de pie en la despensa. La reserva base de la casa. (~4-8 €)
@@ -160,7 +160,7 @@ Kit hogar: 22 artículos para confinamiento y emergencia doméstica. Guía basad
 - Batería externa (powerbank) de 10.000-20.000 mAh: Con el móvil al 20% te quedan dos llamadas. Un powerbank cargado da varias cargas completas y alimenta la radio o el ventilador por USB. Recárgalo cada seis meses aunque no lo uses. (~15-35 €)
 
 ### Kit Montaña: 15 esenciales para supervivencia outdoor (2026) — https://kit72h.com/kit/kit-montana/
-Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo y comunicación sin red. Guía práctica 2026.
+Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo, agua y comunicación sin red. Guía práctica 2026.
 **Agua e hidratación**
 - Depósito de agua plegable 3 L (HydraPak Seeker): 3 litros en 92 g. Se amolda a cualquier hueco de la mochila y vacío no ocupa nada. Acepta filtros de rosca de 42 mm (Katadyn BeFree) y aguanta agua caliente hasta 60 °C. (~20-30 €)
 - Pastillas potabilizadoras de agua: Convierten agua de riachuelo o fuente en agua bebible en 30 minutos, sin filtro ni batería. (~8-15 €)
@@ -541,7 +541,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 
 ## Blog
 ### HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026) — https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/
-3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué es el mejor depósito para un kit de 72 horas.
+3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué
 HydraPak Seeker 3L y 10 L: el depósito de agua plegable que sí merece un hueco en tu kit
 
 
@@ -675,7 +675,7 @@ HydraPak Seeker 3L y 10 L: el depósito de agua plegable que sí merece un hueco
 
  
 
- Si estás montando el kit desde cero, el orden correcto es agua primero y aparato después. La guía del kit básico de 72 horas tiene los 16 esenciales ordenados por prioridad; el kit de montaña y el kit de evacuación son los dos escenarios donde este depósito encaja mejor, y la guía de qué mochila de evacuación comprar te dice en qué bolsillo va.
+ Si estás montando el kit desde cero, el orden correcto es agua primero y aparato después. La guía del kit básico de 72 horas tiene los 21 esenciales ordenados por prioridad; el kit de montaña y el kit de evacuación son los dos escenarios donde este depósito encaja mejor, y la guía de qué mochila de evacuación comprar te dice en qué bolsillo va.
 
 
  El hermano mayor: el Seeker de 10 litros
@@ -747,7 +747,7 @@ HydraPak Seeker 3L y 10 L: el depósito de agua plegable que sí merece un hueco
 
  Cómo almacenar agua y comida en un piso 
 
- Kit básico 72 horas — los 16 esenciales 
+ Kit básico 72 horas — los 21 esenciales 
 
  Kit Montaña — supervivencia outdoor
 
@@ -6891,7 +6891,7 @@ El kit de emergencia resuelve una crisis corta; un huerto, la inseguridad alimen
  Empieza esta semana: un bote de yogur vacío, algodón, berros. En cinco días comes lo que has cultivado — y en el blog seguiremos ampliando el calendario de siembra español.
 
 ### «El Conocimiento» de Dartnell: qué leer para reconstruir todo tras el colapso — https://kit72h.com/blog/el-conocimiento-dartnell/
-Lewis Dartnell explica paso a paso cómo reconstruir la civilización desde cero: agricultura, jabón, medicina, energía. El manual que tu kit 72h no puede comprar.
+Lewis Dartnell explica paso a paso cómo reconstruir la civilización desde cero: agricultura, jabón, medicina, energía. El manual que tu kit 72h no puede
 Hay una pregunta que un kit de emergencia responde solo a medias: ¿y si la cosa no se arregla en 72 horas? ¿Y si hubiera que empezar de cero ? Porque los kits compran tiempo, pero el conocimiento es lo que convierte ese tiempo en una nueva vida.
 
 
@@ -8039,7 +8039,7 @@ Por qué el agua es lo primero que se agota
  El agua dentro del kit 72h
 
 
- El agua es la columna vertebral de cualquier kit de emergencia. Forma parte del Kit Básico 72 Horas , que reúne los 16 esenciales verificados. Si tu prioridad es tener todo listo de un golpe, el kit DANA incluye bidones y pastillas como parte del despliegue.
+ El agua es la columna vertebral de cualquier kit de emergencia. Forma parte del Kit Básico 72 Horas , que reúne los 21 esenciales verificados. Si tu prioridad es tener todo listo de un golpe, el kit DANA incluye bidones y pastillas como parte del despliegue.
 
 
  Recuerda: almacenar agua no es un acto único — es un hábito. Cada 6 meses, revisa. Cada cambio de hora, verifica. Y no esperes a que se corte el grifo para darte cuenta de que no tienes nada.
