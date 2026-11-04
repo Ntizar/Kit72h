@@ -1,6 +1,15 @@
 User-agent: *
 Allow: /
 Disallow: /analiticas/
+# rutas de probe que usan los scanners (ensucian la analítica; no compran nada)
+Disallow: /proc/
+Disallow: /_profiler/
+Disallow: /.profiler/
+Disallow: /api/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /.env
+Disallow: /phpmyadmin
 
 # Crawlers de IA — bienvenidos
 User-agent: GPTBot
