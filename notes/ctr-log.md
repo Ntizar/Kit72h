@@ -647,3 +647,12 @@ todas las descriptions en 90–155.
 ### 2026-11-01 — 06:00
 
 Sin cambios. Todos los meta tags ya están optimizados. Prerender corrió (2 páginas dinámicas actualizadas: noticias, zona). SEO-CTR sin mejoras pendientes.
+
+### 2026-11-04 — 06:00
+
+4 mejoras aplicadas:
+- `kit-basico-72h`: resumen acortado y más directo ("21 artículos verificados, checklist marcable, cesta Amazon en 1 clic")
+- `kit-montana`: resumen enriquecido con "agua" añadido ("Navegación, abrigo, agua y comunicación sin red")
+- `blog/el-conocimiento-dartnell`: título y description optimizados con gancho
+- `blog/mascotas-plan-emergencia`: título y description con dato medido ("3 litros en 92 gramos")
+Todos los meta tags verificados, prerender corrió OK. Push a main.
