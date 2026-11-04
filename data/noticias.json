@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-04T04:10:40+01:00",
+  "actualizado": "2026-11-04T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "72 horas de emergencia: Europa pide a los hogares «estar preparados»",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXc3VpUC1OaWdxZ0N4bmJvVEFrNE9URDBIaGFTNFBMLU9HT3prNDhSM3FCcVozZnZIM2M2M3NiQWo0UUlCSDJmbzdKQnFtRDdwODVBWUQ1eFhsMGRDcl9HbkdXRmVVd0QweXIzT3hnemx1S0x1ZXZjd3Zn?oc=5",
+     "fuente": "Infomigrante",
+     "resumen": "",
+     "fecha": "2026-11-04T07:02:00+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "Tailandia insta a todas las familias a preparar un kit de supervivencia para 72 horas.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0VnaDNpR3laOThjRWlZTk1lLWZxQ1JRcnkwWWZSMVh4WE9lTHVlZ2pnbExienNXTXVoWUZGRzdSWFpkWEVLaXpYYTJKZzV1aXBZdjdHNkwzbC1OZjlTSVpibmtTNkV4WS1sbVBwYkxWVTFQaWdBVUpnbV9vaEVOcUJLNl9UVUpVRkduaw?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-04T04:35:24+01:00",
+     "fecha_txt": "4 nov"
+    },
     {
      "titulo": "Tailandia recomienda que cada familia prepare un kit de emergencia para 72 horas.",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkYxVnV6VjBpODRUamY1LXhseG9DMXZqM1BQUDF6N19jM1prYnZLVUpMM1JrMHUzb3ZaeGpMMm1TOERsang0Z3lJNWdTWEFyZl9qMnN0bVZQNGRuTFlhdkI1OEJiWU0yanJqVmtqVi1LRjh0WW9JUFlURlVMNVRTYzZtR2dPSnI0dFNaNUVET0oxQ1E3M2ppMFRsVmNReVRRS3B0SExncE0?oc=5",
@@ -52,27 +68,11 @@
      "fecha_txt": "4 nov"
     },
     {
-     "titulo": "Ante alerta de gobiernos mundiales: Esto debe tener un kit de emergencia en Chile según SENAPRED",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaU9rUmFRRV9XMVZpTmFuZzg3Q2tULU1UdS14b3JUTW9EVjllYlVORmk4VDNhOFo1eXJwZ181WE8wOF9qMDM2bnlNem40WmJWb0lvM1VxMDJ3YWVJczlMTFVVUTd3U2FZVU9ETWxTWEpyT3NHRTNOY1YtNFdBZV9qUkZaTjhjdFVkZW5PX21SMEFhcTBPVEc3R1ZZSVNQSUV2RFlVTzFKQkVsN2lQY3RjcmRKSGNMYl81X0Q0b2F1WnBuR1ZUbWxFaXJ30gHPAUFVX3lxTE9ERGVaSlVDVmdPSnJta3BCVkZPaVUzbF9PYmdYT2pHbENXVHhkSGc3R3A3SXNSd0tYMXQwZGhUbWo4ZXpPYkFmc1BaMVowVG1hLUJxa29JUlE2WW12cVREdm5YVS00RUdhaHdWcXdoR1VIaHdCQjlSaUNXcXpqLXZtMUVyLUxXZTNRV093Y19oNFF6eDVUamNzZjV6NjQ0RVAwMXVYeURWMFJjUEhYTkk2U1FHUjIyVFFHV0tjeE5oYWtiOHFiTGxzX1V2MkJ2bw?oc=5",
-     "fuente": "Rock&Pop",
+     "titulo": "¿Por qué 12 países están pidiendo almacenar agua y alimentos? Esto hay detrás de las advertencias",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRl9Yb3NSYlJ1NzBpSEhjSU1uR2duRDFLT1ppRW9rMTlReEJBdVhCaTBOUnBBZnFLd0gtNWdiZWpLVDQweGRpSVd4c3o3OFRadmJZN3FndUI2ZU16bzdqSkNZN05SeDdBWVc4NFVuMXJkT0pMbXJaY0pqZFZ6RThOemJPR0FkZ09ZMUFmNFhTeDN4b1RuVEFueEttOUxORVRqcnI0dUtWd0EtdzZtbzlHUkxBU210dGV6WUFTN3ZRR3NUVTJTcUh3OGJBZDk1cUhWV1l2OVhSSQ?oc=5",
+     "fuente": "Vanguardia",
      "resumen": "",
-     "fecha": "2026-11-03T22:00:07+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Por qué más de 10 países están pidiendo guardar agua y comida para 72 horas o más",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb3ZCR1MzWHdyZWI4T2RtUjRJUUxYRHdtNDN2REFfdDJCMXlHb3p2Q1ZZdmd6SUk5OV81THlkY3BtTFJQa3VoT2J6RWtzZjA1LVhLcFRVTHJHeDk1X1dEdDhXMUdTYnNqSER1a3lVZHR3RjdhcU85UXNsdHVJdUpZTy1zUHlnOXlaYjBENi0zY1MtM0JkVzUxd2EyNGN3c253bk9RbFdDUG5pOFQxZWp0OGZhRkxYNWs4SmJr0gHPAUFVX3lxTFBsUXB1aUZPaThZSE1MczU3eUVibzRmX01KY0FnSDl1b2JYMzlxQ3ZBaG5hbHBJNjIwZUhQc2dkekxObmZMMzAtQXAzUVZlN1dobzhsRnlrdUc1SUlhRkRVSHlHVDNockQwYmx4b2ltbC13X2lQejMzazhjVi1lYjJkbDlTQXowY3RWbnlMX1BJQUhSNjZiZW9tSXp4X1ZtbWZQUkZYeW5lTl9lYm9LR0dfOUVQLVZUQWpYTkNKYzYxbDh0aHJrUXowYkpOeEtvUQ?oc=5",
-     "fuente": "Bloomberg Línea",
-     "resumen": "",
-     "fecha": "2026-11-03T21:32:41+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Kit de emergencia 72 horas, la UE presenta su guía oficial",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0hmdlBPQVBjNzljUGQyWVkxWFlxMTZQclJEY25KaGE1ZTNXN3NsRXdkZVBXUzF1dE0tY3VTQ0ozZlJmbjlCMFFBbHRSMHFncmMwZElXVGFmMEVrUWlBMlBSVVRIRUh1MEdUa0w2c3BXTV82czhPbGE2WVl5R3REOUJjWmJWQkZyMGc?oc=5",
-     "fuente": "Pasquale Pillitteri",
-     "resumen": "",
-     "fecha": "2026-11-03T20:58:38+01:00",
+     "fecha": "2026-11-03T23:35:00+01:00",
      "fecha_txt": "3 nov"
     }
    ]
@@ -88,6 +88,14 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-03T20:33:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "El jefe de gabinete de Presidencia de Adif era director de Interior cuando un tren se adentró en el incendio forestal de Bejís",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-jefe-de-gabinete-de-presidencia-de-adif-era-director-de-interior-cuando-un-tren-se-adentr%C3%B3-en-el-incendio-forestal-de-bej%C3%ADs/ar-AA2gI2Td",
+     "fuente": "El Debate on MSN",
+     "resumen": "El accidente ferroviario ocurrido el pasado 28 de octubre en la localidad toledana de Urda que dejó 69 víctimas mortales ha vuelto a poner en cuestionamiento la seguridad de las vías y de los pasajero ...",
+     "fecha": "2026-11-03T20:00:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -124,10 +132,10 @@
     },
     {
      "titulo": "CSIF denuncia que Castilla y León vuelve a encabezar la cifra de incendios en España: \"La Junta mira hacia otro lado\"",
-     "url": "https://www.elespanol.com/castilla-y-leon/region/20261103/csif-denuncia-castilla-leon-vuelve-encabezar-cifra-incendios-espana-junta-mira-lado/1003744444595_0.html",
-     "fuente": "ESPAÑOL",
-     "resumen": "La Central Sindical Independiente y de Funcionarios (CSIF) ha denunciado este martes que Castilla y León \"vuelve a ser la comunidad autónoma con mayor superficie afectada por los incendios forestales, ...",
-     "fecha": "2026-11-03T07:24:00+01:00",
+     "url": "https://www.msn.com/es-es/noticias/otras/csif-denuncia-que-castilla-y-le%C3%B3n-vuelve-a-encabezar-la-cifra-de-incendios-en-espa%C3%B1a-la-junta-mira-hacia-otro-lado/ar-AA2gGoBp",
+     "fuente": "El Español on MSN",
+     "resumen": "El sindicato independiente asegura que la Junta declara peligro medio hasta el 9 de noviembre \"con cerca de la mitad de las cuadrillas inoperativas\". Más información: Los agentes medioambientales de C ...",
+     "fecha": "2026-11-03T08:24:57+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "Archivo - Un helicóptero recoge agua para ayudar con las labores de extinción del incendio, a 26 de agosto de 2025, en Aguas Mestas, Lugo, Galicia (España). Las condiciones parecen mejorar en la ...",
      "fecha": "2026-11-03T03:35:00+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-02T17:47:00+01:00",
-     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "El tiempo hoy martes 3 de noviembre en España: se esperan lluvias y cambios con temperaturas en descenso",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmk1MDBBRDJnTUt0VThCZkhaYW5GejYxY09obWtZLXlXMEhYYkliTFF6OXE1Z3F5eElOTTdNS2M5bXhfTF9FT0JkY1pxR3RibFUwUmJwcXdPY2pzbC1qX1gxMFY4T0tra2tFV3lsbjVLYWUxVjV6elFDTVpkMVA4b1NlYw?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-03T08:35:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "Protección Civil alerta de lluvias torrenciales en Cataluña, con acumulaciones de hasta 60 litros en tres horas",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3NCOHY5S25YQVBpOFZRWlpJbnNwUzhIdy0zNjM1UnJfY0tQOWZfYWp2U3puVl9XcHFBaURYaDVkb3RXNjZSbXQzb1FqUnlOb3JOcUo4MFljU1VwSU9qNmJ0QnRDTV94di1sanlnclNLZ2U3X0o5MEV5NlVwV0twVHFhYU5hZWxwRXRJSGJEdF9VR3drbjIwUnkweG5USVhuY1NLNHZiX3pSWmM2WFJXaC1feVkwTExNaklmUmVzWDhwU2VvZ0NXQXFxZzF0Q2dfN0tlbTRHSFBjSXAxQVHSAeMBQVVfeXFMTjBtRDVIRS1mZEtIMW82QmZra3lpTnFLYUk5TXNhMldEVS14c3M0dElRQW5xREdCOHB2U09IZ3I1VjRkVnUycjg4Q0ExOWd5VVdJVjl1ODhkLS1ObzZfVDM1YTgwLWRJUUFvLXp3enZ1TjNlRnVGcFBSRDV0c2hIMXdReVZkLXhZbmJYdHk1NXViVDZqaDA5RzNOcXgyemRONXA1eUJvOEdiOWhaUU1OWk85R1M4b0w3V0pwbmhTZmJ6amFGVS1wNHhfU1JQdGJOYUNYS0xEV2dQS2sxdjBGdTAzTVE?oc=5",
      "fuente": "Diario de León",
      "resumen": "",
      "fecha": "2026-11-02T18:04:15+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUdIBsgFBVV95cUxNX2dRSU1ORGZOSXNDanBLTTh3cnVTSHpEYW83RkZ2c1IydFZ0c2xTZ3p4Ri16aHdsWW9Ma0hWeXBMSWVQY25jYV85bVgweklkRUlhQ3Zxc2JXRnlmS1hmNUxIUWFVREh6bVJnY1JwUGhiZnQtWjBFZVNVT3FHaExsTjhsOVBQR1hxQzN3T0JVRVVBaWU1VTdLQm05VXpqbzBjLWdYVmVKZFFONnZwN1Z3ZDFR?oc=5",
+     "fuente": "Diario Correo",
+     "resumen": "",
+     "fecha": "2026-11-02T13:00:00+01:00",
      "fecha_txt": "2 nov"
     },
     {
@@ -186,36 +202,20 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Un análisis sobre las últimas catástrofes acontecidas en España: DANA y Alta Velocidad",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOThnUFY2NmdjdVpMYml4QVUzeDl6Z1lhQS14aG1MX3diZmZOcWs2TGhFVE5ucFNkT1pWWHkxZEFyTFJ3MDh5amRjSzBkWXJNVzF0enNETGRFWVJualhma3VsWlNmNXl1VlZXS0JkOFNROVo5cng1Nk8zd2pZa1ByMUltbGdvYlRCMU1xLW9NYWMwcWtJTlhKUVRUMzJiSDlob2hxWXRORWtWVXNZNjdqNG5IZHFERjg?oc=5",
-     "fuente": "Informativos.Net",
+     "titulo": "Keiko Fujimori cancela viaje a España para atender emergencia por lluvias en el norte del Perú",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZoOGpER2F3ay1PZ09DWGQyZnJyNXV0ckUtcndqOEpZYnRIRUNiRnRTZFJkZjliT1Z1cFBGY2FTdjN1YjBMTkUyb05VUDNfUmtaZHFiaG5JR00yOVFYeEFPNFF6WkcxcFNtRi15djhiTU5keklSa3RDNFUxTS1YREZ3amJPUDRnVWJKTHpyNG9sVFRrX3Mya05OdGtGYVB0S1FkV3M4cEpjaDdCdGx1OEl3?oc=5",
+     "fuente": "Willax",
      "resumen": "",
-     "fecha": "2026-11-01T13:51:27+01:00",
+     "fecha": "2026-11-01T21:14:05+01:00",
      "fecha_txt": "1 nov"
     },
     {
-     "titulo": "La ruptura del vórtice polar se adelanta tres semanas al récord histórico: cómo afectará a las lluvias y temperaturas en España",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWG9xT1VMUGhkdzg0YkJtQ3E3VEFrdnUwZzdlbjZCT29oaUJ6eEdKd3l4YzEwaVZCM2xPdHpUZEJlNF8wV3RVNTExTVN5UjFUbkFaaGNRWnpxbnhzSy1zS3BGVXBXbjdIWlpzeGxFMkxLa3laaFNtVHFwRl8wc0JuWVFwZC1PU2FfbE5GeXF1RE1pRmY3bWd4Q19mUWdXTzE1SFc4d0dlZ0dtemJwaGpHZTRkdjhwM0g0WFhLVkRRTmtUOVQwQVJvN3NtRUJRVnVIMlFvOVNiYmcwT1hzOEFCV9IB5gFBVV95cUxQQ2s4UDZCQ2lTTDNadTEzUUE4SThxYVpVOUlPSXEyWUtScXowcDBwekdZdmpGdlI0REFueEhwdUxIT1FhUXdqVXpQS0xxdFB5bnhDTkgyNUtSOHpud2ZUMlRBQUxfSXJCclhHUEhhNVluRkJITFdULWlMQktlSGRzWS1raTIwdzBJdnVlV2p0aHdydVB1cHZUOWhLZEhsNk5hT0djLWNsVDRRd0FxSDdoT3FuUm0weHd4MmdlcVlIMEtXVUFacnJhdXBUdEVfMElicDloOWp0NHRwNzA1NFVUeGEwNlVGQQ?oc=5",
-     "fuente": "El Diario Vasco",
+     "titulo": "🔴 Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte: ¿qué se sabe de la alerta?",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb2FoZUs2THM3Q1I2YmUxLXhqRXkxMWJ4VEJRMTlwSVE0ZERqcjZHZF9VS3BrWG1IN1Mzcmxpamp1TXpNekdLVnQ3aFhEcG1tQVVRV19sSUZCMWFpSFAxdy1ial9Udkw3T1IyTTFqN3VNT3E1RVFNTS1ENzJCQXdIM3EyejQzeW90WFpQbk9UN3hwdmNwOHlIV2c2LXFETGpTamVWUkVGVUpBdDA2MUg5Q0N2cGRqOGhwMzE3NHAwZFBiTFk1bndXd0lNR3h6STRvY0p1MUd5bmF4Z0ZQVXRtV2N0REthUTBGeFE?oc=5",
+     "fuente": "Facebook",
      "resumen": "",
-     "fecha": "2026-11-01T13:37:06+01:00",
+     "fecha": "2026-11-01T19:47:25+01:00",
      "fecha_txt": "1 nov"
-    },
-    {
-     "titulo": "900 euros al mes por un piso pequeño en Catarroja: ni la mortífera dana ha frenado los precios en Valencia",
-     "url": "https://www.msn.com/es-es/noticias/otras/900-euros-al-mes-por-un-piso-peque%C3%B1o-en-catarroja-ni-la-mort%C3%ADfera-dana-ha-frenado-los-precios-en-valencia/ar-AA2gvqlM",
-     "fuente": "elDiario.es on MSN",
-     "resumen": "Antes de la dana de 2024, la renta de un piso en esta localidad tenía un coste de 8,9 euros el metro cuadrado. Ahora la cifra ha trepado a 11 euros, un aumento del 23%. En Paiporta, un panorama simila ...",
-     "fecha": "2026-10-31T23:30:00+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUXRKUE4wY0FLUUFZMXZGdXhlVFFhc19zYjV5d29JU0QtZzE2RXNUakVDMDZsLU1qdnBlOEltVmlmVm80UmQtTkVTbmx6eG1VZzdzUXFBN1lqZWowUFpPZU1Yb2FWeWVJYVlNY1FoSUM0LWVkY21CM256Mm5QaWEwcW5TQTJWZkRNeVp4V3doRmZGNTBwM0pubW5RS1FVZzl6Y21qaHdMZlBGUnMxaHVNYmFFYUxrQ1VxVFAzMkJ6Y1FBYmdsd09UalhDUExzNTdDZG9VME96YmJpdHU4OVdveGNjMUvSAeoBQVVfeXFMUF9RY1JRUXljVjllb1V0S3Y2UV9oQ1JZdnRjcnRkYlhObDROMUN6ZUhpR3YtQW5WWW5sMC1CYWFzZ3psM05qT2Q4MXZnT3V4OWRRWWgtaEpzNzN3ZUNiVUZ6Q3dLZE16QjlLRVNUR055S1Z3OF9FVzg4c2VLM2ZPV1BmZksyblpZYl9YWEJKU0lqbzNHSkZDd0F4bjJVZGU0a2JGa2NqMThvZm16UFl4M3Y1LTV2VTEzNDhjZVRLdmN4NUI4S1diZ0prLUlFTk5yRDJicjZBQXJQd0FXaFJCRFpCa1ZXTWdTLTlR?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-10-31T19:56:07+01:00",
-     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -225,19 +225,19 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "¿Está vinculado el apagón con Urda? Uno de los arquitectos de la seguridad del AVE llama a investigar los problemas de la red eléctrica",
+     "url": "https://www.msn.com/es-es/noticias/otras/est%C3%A1-vinculado-el-apag%C3%B3n-con-urda-uno-de-los-arquitectos-de-la-seguridad-del-ave-llama-a-investigar-los-problemas-de-la-red-el%C3%A9ctrica/ar-AA2gHIYJ",
+     "fuente": "El Debate on MSN",
+     "resumen": "Uno de los arquitectos del sistema de seguridad de la línea de Alta Velocidad entre Madrid y Andalucía reclama poner el foco en la situación de inestabilidad de la red eléctrica que culminó en el apag ...",
+     "fecha": "2026-11-03T20:20:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "Qué debe contener un kit de emergencia en casa para apagones: las claves de un oficial del Ejército español",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHpUQVVLMkZTR1dzaWNrMzgzaXh0Sm1GNW14eTRFSi11dzJPWU1YTWx1b2ozQ0ktMTRHTDBXNnczOHVWVTBSdmt4NHhFaW9UVERQQlc3a2hkbEg3ZERCUVRmQzNEWm1tYnJUejctUkx2V19PRWgycWVxWUVZWTBULU4yN0VhVU1Gc2h5ZUNBUTNoUjJMbGNTUmljaGZjVkxFOTZUbEhGYVlMZ2hrWEpxb1BQclAxV0F2RThkZllfalFPMGJsc0txMFRrTFV6RVg2MnlHcTAzSHJfazRxaTdEQnhTdWLSAfgBQVVfeXFMTzk4dFROVi1mQ1Z4eENVMDdLem9aUHpDc2l2R0RyeVB5bUE2YWhJd0lZa1EyWnRpX2RZNGVRR2ViUkxMTEtGbnBUTnZJUTdqV1U2aHkwRVpTLU8yYWFIS25HZDRBeEhiNkd5QXZYM1lNaFYwNDdiV21WN05wTXNLNmpvS3hoWExYVGpCd3pUa0dPdUhNOHFaS3ZKdXNVa1NaS21yUXQ2MWJFUFk5MDVsU2ljZ2NKblNMYXB5NFV3RFBvR3JTclRSQTF1V2tPYTN2bE83SmgwUWg3cDQyVU14TXBJMFRlRTVlNVVEM2lRX1E0M3IxMnNQSnc?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-03T17:51:27+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Un país averiado",
-     "url": "https://www.lavanguardia.com/opinion/20261104/11675112/pais-averiado.html",
-     "fuente": "La Vanguardia",
-     "resumen": "Urda, Ceuta, Adamuz, el gran apagón, los incendios, la dana, la crisis de los precios… Cunde entre una parte de la ciudadanía la sensación de que España es un país que no termina de funcionar en algun ...",
-     "fecha": "2026-11-03T17:05:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
