@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-05T10:10:41+01:00",
+  "actualizado": "2026-11-05T13:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Bruselas recomienda tener un kit de supervivencia en casa para afrontar posibles emergencias",
+     "url": "https://www.hitfm.es/2026/11/bruselas-recomienda-tener-un-kit-de-supervivencia-en-casa-para-afrontar-posibles-emergencias/",
+     "fuente": "hitfm",
+     "resumen": "La Comisión Europea insiste en la importancia de que los ciudadanos estén preparados ante posibles situaciones de emergencia y recomienda disponer en casa de un kit básico que permita afrontar las pri ...",
+     "fecha": "2026-11-04T23:45:00+01:00",
+     "fecha_txt": "4 nov"
+    },
     {
      "titulo": "¿Por qué cada vez más países recomiendan a su población almacenar agua y alimentos? Esto debes saber para ‘prepararte’ + Videos",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2JobjV4M2NMd2FmeVZtNkhJRXppcFF4eFVGSkU2QWs5MEdnSVlrZmpuYy1qRzNFUDJUX2plRHV2dzFPTHdlaC13VnItSEEyX013aGVJejdUeDBxcEhNZVpIVDhxQzEwaXlzMjRaX3VzdnVMQzFPdFNvVmJhUmFpUW54RlV5eTdhVlFMRTFRaFl6V2F6LUVFYjZqcDJDMDVpZGREb1VWcm9lbGVDS2lVMDFqNElsTk1LRTl3bkw4QmlRcm5xYmRTQXdkZlRkaEcxQ0JtdjZjZkFQWE5s?oc=5",
@@ -33,14 +41,6 @@
      "fuente": "El Faro de Ceuta",
      "resumen": "",
      "fecha": "2026-11-04T18:09:41+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "Bruselas recomienda tener un kit de supervivencia en casa para afrontar posibles emergencias",
-     "url": "https://www.hitfm.es/2026/11/bruselas-recomienda-tener-un-kit-de-supervivencia-en-casa-para-afrontar-posibles-emergencias/",
-     "fuente": "hitfm",
-     "resumen": "La Comisión Europea insiste en la importancia de que los ciudadanos estén preparados ante posibles situaciones de emergencia y recomienda disponer en casa de un kit básico que permita afrontar las pri ...",
-     "fecha": "2026-11-04T16:59:00+01:00",
      "fecha_txt": "4 nov"
     },
     {
@@ -83,6 +83,22 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Incendios en España: 301.681 ha quemadas",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekVXREhxRmVON1ptNE84NER5QzBJRHljQlJJOWRSb1plQTBpMkFESWVfZXVFV3c2Q3dIYS0tVEx5c09jR1NrcEtrZ2FCQUFpYTYzUUxTV2gwVHdNcHdnV3Yzdm1VVXVmTTV6UFVoVUR2dDdRbVRCUlFlR3dfU2lXNW9RZG1zT3JaX0J2RzRjTVVEQWpoMXFVQXBNZmJ4MXhZSHpBNXBXV3pJeXpUWHRfMmYySUptTjFMdHhaaVRQTUlmbWlvT1MxUHlON3ltVHpnOHEwWE1mV2NYUQ?oc=5",
+     "fuente": "Albaceteabierto",
+     "resumen": "",
+     "fecha": "2026-11-05T11:38:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "España concentra el 42,9% de la superficie quemada en la UE con 301.681 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkVUQV9EcWxScnBrM1o3MS1FQXpRRXh6SDRjemh4QV9MWi1MZlJFOEl0M3c3cmhud2NuNVFVSE9hcGE1ZmRNYlpKSGQ4WVRhYWVyUWpMZlZFM3p2N28yaTNjWldfRHRhcEt3bHdEMS1RdmhaSFlNSl9LcWZqWlV0bnFnVkgxa0luY3daa3pyeUtaUkhrVVoxNGtQbXdVTHNNVlhoMHQwdmh6bWpBVXdMR1U4VEVjOVNNbGdNMmpMd0kwMndla2xaNzJuUU9RTWJnQW5ja0Nzc9IB3AFBVV95cUxOTndyZ0toMXBjeVVtc0R6bVBld1JwQ2IyZFZTZDFXMm5QV3JlemlROUt2MVU4T09HVWtrWmxqbDg4VEZmYkY2aVNaWW9HYUhxS3pKYlQzTXVyVHowR2swNkJ6c01WSndrcFJGWFI1S3pYR2RYdUU3dTdjdjdRVDJsNDZKUDI0OGF2QkpwdkxLdkJfbk5CSnhpRnU1THM0RkYtckRnSlZZVEZUWU5yT0g4dkZ0RURwQVVzWjdpSFRqc1BRMG5ycVZncXVHTWxoNnpCdWRiWEota3JKQkFh?oc=5",
+     "fuente": "Andalucía Información",
+     "resumen": "",
+     "fecha": "2026-11-05T11:01:25+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
      "titulo": "Granada: El Infoca intervino en 87 incendios forestales en la provincia durante 2026, con más de 606 hectáreas afectadas",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHFZeTlEMTJMU1ZBamhFZERPNW9Ka2U5ZGs0b0JhZnVmOERQMXdSaDRFME9CQUp2eHY1aVJEb2ZrXzFUOXpQNkxoWEc0RHU0aFpub2haQXNWQ2dIeW5SZU5aSGdXRWVHNDE0VXZMLWYwUjdSQWdjbWJqcS1KNlZFdVNGdklQa0NyWjJxRXJsUmhJam9OODk3M0JsSGdOODNTZnpVMHNQSkpjdVoxRUlPTHZxc2VyNTVSWVFTbWNCeExMTnZ1UXoyc1hZT0o5eFcyX2NpaFlPczR1cHFEZXB5T09lYw?oc=5",
      "fuente": "Motril Digital",
@@ -123,27 +139,11 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "CaixaBank S A : Imagin moviliza a 175 voluntarios en Jerez en una jornada de prevención de incendios y conservación del Parque Forestal de Las Aguilillas",
-     "url": "https://es.marketscreener.com/noticias/caixabank-s-a-imagin-moviliza-a-175-voluntarios-en-jerez-en-una-jornada-de-prevenci-n-de-incendios-ce785fd9d18cfe27",
-     "fuente": "MarketScreener",
-     "resumen": "03 de Noviembre de 2026, 11:35h | min de lectura SOSTENIBILIDAD COMPROMISO SOCIAL Andalucía JEREZ DE LA FRONTERA ...",
-     "fecha": "2026-11-03T04:44:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
      "titulo": "Un incendio forestal en Velefique (Almería) obliga a movilizar un amplio dispositivo",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc05LYkhMMkNVMXhHNjFXVmZvaEhzdDhTTjVPbDVUZ0RzRG9hTERPem9FR3V1a21sWUY3ZmR3SXdGOHdMOTk5R3dtM1F5dG5CRTB2NDV2NHN3R2N1NkUxQ0tTZ2d6TUlsU2xnMDdQdUFEb2V6cWRwTkVUMzJYLW5WdGNqY0NDVXRJcTRhTW5kMEdxcV9MMzZqbm9iMFgwbTZFa1FqLTBJbnlPYTRFeHZPRjV6Y0RFSUF1ZS1yeHVPSnZoSExMZjRRN0xZZ1drMXfSAeoBQVVfeXFMT2lybURNRVRVWmljLUlPcmVlMjR0MC1SX3FJQUVrOFVPVklkQVE2NFdPdE11MXRaWURPMXRBdzNQd3hyUmExNFIyaWR2M0xZaFFtYlZZMGNnSEtUOUtFYUhiU2FPZWdiREJOcThjMndyX2RNQ2NELTdZLUJndlhKdkg0R0U5UGFFdHlVd2RYdXhMckdsN2F2eV8xWHVlT2twZmpHWkhuelVfelpqbW9WZFJKTlpkWVlVNlQ3bVlEc2FVWVZiNFhuMk53b3NDeEY3TkhmNlBMZHdsLTY4VGhucXVFUk15WDVwNk1R?oc=5",
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-02T17:47:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Declarado un incendio forestal en Velefique (Almería) que moviliza a unos 80 efectivos terrestres y tres helicópteros",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFZwUU9qRWFfZGQ2QU4yNHZfN01mbHFZWHhMYlNTRGdfRk90a1BLOXBTOEZRbDlsVU9FdUN3WTJaMERSZWdKTVlrNHZKVWRPVGt0RGYtaUxtZ1ZSNXpnd010dkUtaURsM3BRZ3p0LThwT0xSRjl1RDR5cGNOYXJyaVd2TWFPd29FbzlNYmdieDJSdEVDX09WdEM1cG53eHdhNWFnYjY2ZTN4RWc3ajNmN1BGMA?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-11-02T16:52:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Nuevo apagón en La Palma evidencia la fragilidad del sistema eléctrico y reaviva las exigencias al Gobierno de España",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0xKQ0wyZWl1M05YZmJVM2dYeVZab242bUFWOXZ3Z1owandnMzNyRWtXeVAzN1YycUlha2RZRnhjbU1XUHVfdk1fazdKVy1QLTFZMHdrU2M4dENEZU1JRFVoWTBmRkw2VHliRTJDVDlkcC1qR05Sa0x6MDFVbkpmX05DRjgwbVppT0doMDd2VnlOZUMwXy1VdzM0Q0lNZ2xNelNYQW5oMUxnSVQ0VmEtb2xSNDNpTHNoZ211ZWpseFY3Wi0tZUlnM25LWTJ0OVhmVEdHVG1BN1FLQm10UFRjN1hVVGR0NHR4QU8wOWt1eW5la0xyYXB2bGR6ZDRoZDE0cVZheDZYT2dYUdIBlAJBVV95cUxQUGhnLWV6Mmd6bDlLQUVzOGNTRGFYcmpDak9QWWVEcHhfQXZmZUJOaGtkWlM1YU1iVXliclBuYnlnUDJmMFBjaXB1dUVyNHlUZXAwdy1zYVdtRU9NVFJJYlo5NXRUeUt4UjkxQW53VEl3enRyN1JKYXlpZXJxalV4VWlxeW5IRzhTX2t1THcwcXA4R3dLMEU1VzJOcExrZEVFNU9VY1lNQ2YzWU9oMzRNQXdvLTFEd2xSNFBVU3MtLTdqSDdSWjZvMEZzX1JCZUFnYUFwQzB5bkwwaWtodWtMVGVKZmEzZUJwRXlGX095V18wU3VFMzFkSVh2WGRBMTVidGlsNHhYZTlFcHoweVB1VW9yZlc?oc=5",
+     "fuente": "Libertad Digital",
+     "resumen": "",
+     "fecha": "2026-11-05T05:29:39+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
      "titulo": "España y Marruecos revisarán el cable submarino tras el apagón",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0U4aUlTTlZ3U09taWk5U0hfQThaSG9pOTdtLVZvWVVDNVRGZWdPU2Qwb3hjOUs3ZjBleTJRd2d6VkVZUzFiWDlJa1JRQWRkLXdJT2NaTmtTVDZVeThVZWI0eVROeFN4S0V2UkRSTzNBa3dFUFJWcVJ2MVpkUHJqd1hJaTN6dXBXNTV1YUNPNU5wUFZMdFR6RUNjVHVEQ2RVSjRxMmVhZlYweUtieFBndk51eDB4WHdnMWZOUmdHYkZQZGI2Z3haRkNR0gHPAUFVX3lxTE5xRi1jVm04RmppY085Wm5qNi1EZFFYd2t4VWdYN1EycFU4R0JBWnpxUXZVa1pHb1JjdFNyNk1pMW5jWTYxMXdRWl9xdFlZeS1sWWQ4dURSUTM0dGgyUVRyVER6dUtBVmNDSk1GV25pVVVqMDQ0NE9XaXdobXIwSzM1QU5ndVAwQzdMbjY3dVFpQWN4WTNuMnpGTHp0WTQtSDdTTGNrVHFfV2FJSDJYYjdDMm81aERDdWMyUDZMY2xMNlNtUnR3M3pPUUI0UWJVOA?oc=5",
      "fuente": "Confidencial Digital",
@@ -278,14 +286,6 @@
      "fuente": "MILENIO",
      "resumen": "",
      "fecha": "2026-11-02T15:34:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Vuelve el temor a un gran apagón: corte total de energía en La Palma y alerta en Canarias, tras un cero energético y fuertes lluvias",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMVMxNVZEcHZfWHdGSDBibG44U0k1c2ZEU1dLaTVRaWd0QWlpOVRaMGpOcEdKNkhldHluMXJXNUF5bERDZ3k0NE1NMTZGOGo3OFRET29uVlhpNVpFVDdlNVFPV3VJbDNMT2JuSHZUUVpiajlDY1FnRFpnOHBfNnEtY0RuTF9VQmM1dlpDQTdMSnp4M20zVm0yY0ZrR3A0RGZTc0h2VWw5anNpQ1BYcGV1dWtsaGEzLWlWS2x6R09wNWtjYXc1eVBqS0NobnRMSzhCYVdjNkJvVVNxSDMwYmhOTVlfUm4zQUZjSmfSAe8BQVVfeXFMTVktRF82ZUV4MHZPTko3bFF1YkhPX2pmbG8zTVc1cWpmSlUzcjJSTkM0QzdZYjNtU0dpQ3VETURpOU84QTVyLTY5eWRWOTBuck93TzRiQUxtdV9BRFh1U1EyNGd6TWtxa2o0WGhQbVFFbkVQU1dMZjVHd1pvdmVDM1NraEM4enc3QVRiemlaU2JvcWp3R2JFZzRTcnpaN3d0bTZ2cExNMFVzUzBnbTQ0LUZFYTZZZjkwc2Z5V05ja245RUlOQ0kxTDRnMExySWR4Ulo4VWM4c3RjUTBRVEFPUEYzdFF1TlluNU52WnBSbzg?oc=5",
-     "fuente": "El Observador",
-     "resumen": "",
-     "fecha": "2026-11-02T15:12:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
