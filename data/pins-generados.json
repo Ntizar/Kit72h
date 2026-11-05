@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-04",
-    "total": 90,
-    "png_total": 90
+    "ultima_generacion": "2026-11-05",
+    "total": 91,
+    "png_total": 91
   },
   "pins": [
     {
@@ -814,6 +814,15 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-deshumidificador-inundaciones-humedad.html",
       "png": "png/pin-blog-mejor-deshumidificador-inundaciones-humedad.png"
+    },
+    {
+      "slug": "pin-blog-kit-que-salva-la-musica-espanola",
+      "tipo": "blog",
+      "titulo": "El kit que compraría C. Tangana para salvar la música española (2026)",
+      "url": "https://kit72h.com/blog/kit-que-salva-la-musica-espanola/",
+      "emoji": "📖",
+      "pin": "pin-blog-kit-que-salva-la-musica-espanola.html",
+      "png": "png/pin-blog-kit-que-salva-la-musica-espanola.png"
     }
   ]
 }
