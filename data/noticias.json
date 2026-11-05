@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-05T13:10:41+01:00",
+  "actualizado": "2026-11-05T16:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,30 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1l6TDBqT0ZORjRGcDlVbGkyRDNiRk00d0c4ZnpGeWZPdjZJb2Z4dkh6aVF5NmM5VFA0TUZIeTYtUDVzSGpJbkM0aDNFb2M2Wno0QVc3eG9xd2xhVmg2eDZFYmpseS1uV1lEM3E1N3I5Qkk0SkstR3JkVkNHeFJIVHpoYXZDcXBDUVhXd1RpR0xyZXg3eFNFNWZiQklhVVZ4Z0JtMGhfbkk0TWNES3dXb2Nhak9yd0tOTUxOVkdXcVY2V3FCZGJLZw?oc=5",
+     "fuente": "Periódico Zócalo",
+     "resumen": "",
+     "fecha": "2026-11-05T16:05:01+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "El primer ministro tailandés se pronuncia sobre la recomendación de un \"kit de supervivencia\" de 72 horas.",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14UHZlX09LMjUtaWVwX1ZvVEE3ZzJuZnJCYmQ5b0xCZmN0ZUxRRFpHV2s5WHczRDhibkpnZTNoMmFkWFNibEYyejFPeVFfdHRmV0RZ?oc=5",
+     "fuente": "شبكة تواصل الإخبارية",
+     "resumen": "",
+     "fecha": "2026-11-05T14:44:50+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "El primer ministro tailandés se pronuncia tras la recomendación de preparar un “kit de supervivencia para 72 horas”.",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHMtbkZCaFpib0dZX3lEY1paRVYxTUc2dzB1MHllWFdXLW5uei1TdUpleTVsc2ZtMkRQak9uUzFZdnBjUXFsTGFaU3poLWpfQlQ4Z3ptMWhhZ0lmMVU5VFRPMHl3MkgtdTRmcWtyTm1CbU94a3B0UzJSWFZmSlhtaGNZbXk1LXJnZkZORjhyV2IwLXM3S3VQMVpqOHdmRmM?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-05T13:50:28+01:00",
+     "fecha_txt": "5 nov"
+    },
     {
      "titulo": "Bruselas recomienda tener un kit de supervivencia en casa para afrontar posibles emergencias",
      "url": "https://www.hitfm.es/2026/11/bruselas-recomienda-tener-un-kit-de-supervivencia-en-casa-para-afrontar-posibles-emergencias/",
@@ -45,34 +69,10 @@
     },
     {
      "titulo": "Europa refuerza llamado a preparar kits de emergencia para 72 horas ante guerras, ciberataques y apagones",
-     "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNMFJEaW1fajkzd2VEc19BbnpaZHVZbjBGRUNMQ2I5Wm0tLXI5V3gwUUNHSDVrZGVzWTE4Qng3dElqaVViOU5EWlg5MGxMQkRmcDBqQTdqYVFiekZIRGRhTXdBdDVaMnl5NWp1blRteXJwcWtiRDl3N1NpMlhLMW9Ya1RrMmRZdzFGWHNBUDJ6OFd2WkZnWGZienpOMnBVbmhKSjd3dzRPUHE2Ulo0REhRX043T3N4a2VhUGlVQ0JIMHJXTWpzMTJld2F0ZEJRbDdhdVJyOWJaV05yZkY4ZVNmbGozNDZDXzlLN1JvSjdZR09SVU0tVXVGS3Y4QklSUmRhS0xlWFZJSklwc3NCS21obU1JQk5qeE9CODVLMy1Jb3JQbHp6UkhRQUhvd1IwSU12TmxMOE1xcDhsdVBPWXJsdjkxTDQ5ZERsTVBmSDJuN1ZxRTdTdDlFR2E4S1kyVnVqSV8xUmtfMllXUm1DUHpHLTdzTHNOVkZVaWN3Qkdzc0lnZDhRcXBNQmx3TkJyM21ORVNsNEpZSWhRUS00MWtWT2RUZnlqTVozODJhZlJWdU1aZUVp0gG0A0FVX3lxTE0wUkRpbV9qOTN3ZURzX0FuelpkdVluMEZFQ0xDYjlabS0tcjlXeDBRQ0dINWtkZXNZMThCeDd0SWppVWI5TkRaWDkwbExCRGZwMGpBN2phUWJ6RkhEZGFNd0F0NVoyeXk1anVuVG15cnBxa2JEOXc3U2kyWEsxb1hrVGsyZFl3MUZYc0FQMno4V3ZaRmdYZmJ6ek4ycFVuaEpKN3d3NE9QcTZSWjRESFFfTjdPc3hrZWFQaVVDQkgwcldNanMxMmV3YXRkQlFsN2F1UnI5YlpXTnJmRjhlU2ZsajM0NkNfOUs3Um9KN1lHT1JVTS1VdUZLdjhCSVJSZGFLTGVYVklKSXBzc0JLbWhtTUlCTmp4T0I4NUszLUlvclBsenpSSFFBSG93UjBJTXZObEw4TXFwOGx1UE9Zcmx2OTFMNDlkRGxNUGZIMm43VnFFN1N0OUVHYThLWTJWdWpJXzFSa18yWVdSbUNQekctN3NMc05WRlVpY3dCR3NzSWdkOFFxcE1CbHdOQnIzbU5FU2w0SllJaFFRLTQxa1ZPZFRmeWpNWjM4MmFmUlZ1TVplRWk?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ05IX0VKNzRxb2p3emU2clh5Yi1JWEp4U2FCZTBYMEc4eDM5OWk5Y1E5ak5mVTdGal8zR3RvWWNnNG9WckxFcEZIY21GeXI3WFFuY19UcTVxUFRIWkRVUDFONG1PTnJUMEZRYVpFN0s5SFVWdkVteUtMOVhTYU1xbGxwNG1ncDZzXzNaSkU1SHZQenZ6YkZjM05NSDVhZndKZlRPcnpfWFI5ZlNZc3FRUkJTX000WV9lQk9xSlJ3eW1VV0VVMjBDVHUwck1CVzRsM2FfaUhpQVU1LTVzZUHSAd4BQVVfeXFMUENOSF9FSjc0cW9qd3plNnJYeWItSVhKeFNhQmUwWDBHOHgzOTlpOWNROWpOZlU3RmpfM0d0b1ljZzRvVnJMRXBGSGNtRnlyN1hRbmNfVHE1cVBUSFpEVVAxTjRtT05yVDBGUWFaRTdLOUhVVnZFbXlLTDlYU2FNcWxscDRtZ3A2c18zWkpFNUh2UHp2emJGYzNOTUg1YWZ3SmZUT3J6X1hSOWZTWXNxUVJCU19NNFlfZUJPcUpSd3ltVVdFVTIwQ1R1MHJNQlc0bDNhX2lIaUFVNS01c2VB?oc=5",
      "fuente": "Loncoche Informado",
      "resumen": "",
      "fecha": "2026-11-04T16:57:47+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "Kit de supervivencia de 72 horas: qué es, para qué sirve y cómo armarlo en México",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlFXM2wxQlRncnFJZXFwamxEblQzRFduNm5VYkRPUjJGS3FCOWx1Y2VoNjlBVzZOMjZaQS1DYXZSNjNlQ3ktM1hlXzRsUkQ4MFhHN2FyRnkxV2xBZWdzT2U2YVdXUFdqbE9DNEZBQS1qY0QzZTY3dUVMb25SclN4OUFZZUVid1E1d3VNRWxzUk5WQnlBdUNodjZFZW4yaVR4Q1RaU05GSGVDSlhlbVV6djZlVmRkRjFQd2FleXBUc2EyMmtXS1VHd1pR?oc=5",
-     "fuente": "Mi bolsillo",
-     "resumen": "",
-     "fecha": "2026-11-04T16:15:00+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "La Unión Europea insta a los ciudadanos a preparar kits de supervivencia de emergencia: botellas de agua, comida y dinero en efectivo",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONHVkeTFoWEVGLVphZjhCUlNXMGtyRy1hSUR4Vkw3eGdycXpBVXVvajB6YjVrWkRkRnM4djJ6YVhtMnVrVWtqVnlCX0NxaGVQazg0Y3dNandOb0NNakxzakNkRGJuVE9NUVpiTnp5NlFIRUY5RmgzZV9aWGl3SnpBMU9VSkVlbVUtcHdlSWxSVkVCaXhvSmViQ0o5cDdaYVRpaTkydi1OTVhzS0RMbGN2Z2Z3NHlNZ3JrMG5MTERRR0JoaEtUZzVxQ2ZmYi15d1I4Slk0cW5IMFVhbmd4SWliYnZpMUxWekJsdDdPYXRnMUtjbTU3QndXeFNxd2RUdVczc1Zyc0FRWUF3NDBMLWxr0gGjAkFVX3lxTE1KT0l4TXZMRi1yb3hkcnpwTW5XbGdWSDNDNzVfOWFYTklMeGx3dWg3eG1SWnczMTVaU1hPRWNEbmtUUFhCRUlJbWpoLUh2ZHJHcG8yOUJoZktIajhzalRvQmIxM2NoSmVFRTdxT2hrQW5kMkZ5UFl0aFhONXkyLTN6Tzd5c2dTczMxZzR6MnNWSFpGNEFiNzlKeW4tQmFYV096VUE1eFJ5SlVHVk1yZmpmdVRrSVpPWnFrMnp0QTJaRkRadU9nWDlrNnpHMG53Z196N3FpTTE3X2lkNmZKYzFORXltaFhHelVVZ1hlNWVpcV9oQzhOM0NGd3Y5Q0Z2YkV2S0NZUUdiZnI3bC13Vlc2emh0R1lKU0QwV2dOVlZDdFduUQ?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-04T13:20:17+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "72 horas de emergencia: Europa pide a los hogares «estar preparados»",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXc3VpUC1OaWdxZ0N4bmJvVEFrNE9URDBIaGFTNFBMLU9HT3prNDhSM3FCcVozZnZIM2M2M3NiQWo0UUlCSDJmbzdKQnFtRDdwODVBWUQ1eFhsMGRDcl9HbkdXRmVVd0QweXIzT3hnemx1S0x1ZXZjd3Zn?oc=5",
-     "fuente": "Infomigrante",
-     "resumen": "",
-     "fecha": "2026-11-04T07:02:00+01:00",
      "fecha_txt": "4 nov"
     }
    ]
@@ -178,27 +178,11 @@
      "fecha_txt": "4 nov"
     },
     {
-     "titulo": "Más de cinco millones de euros para evitar las inundaciones en once municipios de Sevilla",
-     "url": "https://www.diariodesevilla.es/provincia/cinco-millones-euros-evitar-inundaciones_0_2008420857.html",
-     "fuente": "Diario de Sevilla",
-     "resumen": "Las ayudas financiarán proyectos de saneamiento, mejora del drenaje urbano y protección frente a las escorrentías que suelen provocar las lluvias abundantes ...",
-     "fecha": "2026-11-04T04:30:00+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
      "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXBOTkM0VnoyQUdSeGtNazFDbkRaX2gwVmxjcGIxN0N5SDRIV2pybE9wUTlsOGcyNFZncTJiSmg4dDNsM1pFMlNEcUhTeVZjazFGb2JyU19tRTVvMExOMlVzLUVtYkxiR1RyU2p4MDdkb2tRdk0tTjljZmtmWHktOFFhdHN6N3RvRFNZWkctTW5lellxXzNOYmswY1hQeWpzbjVsdWkyZFc0OXc4b3IzaFVHanhIblU5amFPSmpyRnNSWThYZlZNcU1tWGZKUE90VlVjWWlvYU12VnpvaW5DVVNKSTZRQ1E?oc=5",
      "fuente": "Valencia Plaza",
      "resumen": "",
      "fecha": "2026-11-03T06:01:44+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Giro inesperado en el tiempo de España en los próximos días: Hasta 8 ºC menos y una posible DANA",
-     "url": "https://www.msn.com/es-es/noticias/otras/giro-inesperado-en-el-tiempo-de-espa%C3%B1a-en-los-pr%C3%B3ximos-d%C3%ADas-hasta-8-%C2%BAc-menos-y-una-posible-dana/ar-AA2gEJpU",
-     "fuente": "National Geographic España on MSN",
-     "resumen": "El otoño parece dispuesto a mostrar su rostro más frío. Tras semanas de temperaturas inusualmente suaves, los meteorólogos prevén descensos de hasta 6-8 ºC en algunas zonas de Castilla y León durante ...",
-     "fecha": "2026-11-03T04:00:00+01:00",
      "fecha_txt": "3 nov"
     },
     {
@@ -215,6 +199,22 @@
      "fuente": "Diario Correo",
      "resumen": "",
      "fecha": "2026-11-02T13:00:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Alerta por tormentas este lunes | La Aemet anuncia lluvias fuertes y persistentes en Canarias",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcTFkcXQzMkJUNERsX0duTWpvaWV6U0JRYVMxSGt3WFBHM0ExVHhtbGItRXliS0Z1XzRZbzVHVkUyenFhMUpqeWVkcW9ETFVvbzR2YmhmZUhJY19HdlMwbTF1Zmw2Nnl1QlY4bXMwaEFHc2hXZHB5dW8wRkRMS0gtOHZHVkhVcndmMGtiOU91U0xucVFYSTByaTQtNEpfWHp3eHpQQnBQV1hiOFRwYm1xcTFUTWhGcXJRQ1pGcEFWNS1ka2lwdjdGVFdpMVgySE5Jazg1dtIB7wFBVV95cUxNNTQxamxqM25hbkZVOW5vYWZobmladEpRNVl0eG5YZXRrT2ZqN3dvbEM2d1JUbkdiZEc5RExpbUZMM2ItMGs0UGh1RDYtNjFmdmhSRU8waUo2eUJUX3JGV3kwdS1qeGVROVF2b0xHOGRMX3NQV0NHTFFrenNITUxmNTQ4OHNJN0VBc01yWnduZTB5V29qOUtwazZudTVlTDBJZVhDQjFQWFdxUmZ1RFpiUDVTNkdncTNiN1pvdHIxbzF3QXlBVlpxMWJwVXIxWGVCcmhCN052OTRVVGw2UDBTRHIzdWNPRnlqVzBubHZOcw?oc=5",
+     "fuente": "El Cronista",
+     "resumen": "",
+     "fecha": "2026-11-02T07:02:57+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Un gemelo digital del barranco del Poyo para predecir inundaciones como la de la dana de 2024",
+     "url": "https://elpais.com/noticias/inundaciones/",
+     "fuente": "EL PAÍS",
+     "resumen": "Todas las noticias sobre Inundaciones publicadas en EL PAÍS. Información, novedades y última hora sobre Inundaciones.",
+     "fecha": "2026-11-02T06:10:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
