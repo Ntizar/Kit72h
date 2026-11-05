@@ -43,3 +43,4 @@
 | 2026-11-02 | mejor-estufa-gas-butano-apagon | comparativa | encolado | 5 estufas butano, ~2200 palabras, 3 fuentes oficiales, 5 afiliados ntizar-21, tabla comparativa |
 | 2026-11-03 | el-conocimiento-dartnell | revamp | encolado | Revamp 324w -> 1300w+ con 7 bloques, fuentes UE+PC, 5 internos, 1 afiliado |
 | 2026-11-04 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno trabajando; no hay ejecutable hoy |
+| 2026-11-05 | mascotas-plan-emergencia | revamp | encolado | Revamp 284w->1236w: plan de evacuación con perros y gatos, 3 fuentes oficiales |
