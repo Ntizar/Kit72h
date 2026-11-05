@@ -48,3 +48,6 @@ busquedas/
 productos-amazon*.xlsx
 productos-lista.txt
 .env
+
+# dependencias del worker (nunca al repo)
+node_modules/

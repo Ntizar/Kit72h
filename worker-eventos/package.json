@@ -1,5 +1,8 @@
 {
   "name": "kit72h-eventos",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "wrangler": "^4.157.0"
+  }
 }
