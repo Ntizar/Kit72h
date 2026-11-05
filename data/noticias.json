@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-05T19:10:40+01:00",
+  "actualizado": "2026-11-05T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Cómo preparar una mochila de emergencia para 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE5NODlvUmtoMlBWTlFxZVhqRDFvTzlkM1lFWnh2Nkc3QW1zaUNXNHlnVmw0cFBKUzZvTi1ZTW03c1oxcG8tV01EelVHZFV6eHlRUmI0R0g4TXlMaFA2eWsxN29yNjMzOWZQaHRnRWUtU3RQbVl1MHJpdHd6M3pINDRTUWozNzZBVkczUU0xTXJBZjBtZFpkVmFGWGxaWHd4R01KQ2dZTWhBUEnSAbABQVVfeXFMTWxyc2RpM2xsVjlOSnQ4Vm1FUnpkeVFGZzQtMGR4Q2R6dXgyc0pVaVpnUzBmZTBEZzJKNXlWeEt5enZod05fdV9SY1YxUGR1R0dhOUowcGZ3c2ZmQVRudXZYVFN6YzJDRXlnS1MtdF9wRk14QmVLMThldWVtaGZrM19mSTlmUXN5cVdRZHU4bjdsc19UTjNyY3dwOUk1enNLSVhzMkctNzRrZ3RyT2NLX2U?oc=5",
+     "fuente": "Expreso",
+     "resumen": "",
+     "fecha": "2026-11-05T20:29:00+01:00",
+     "fecha_txt": "5 nov"
+    },
     {
      "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1l6TDBqT0ZORjRGcDlVbGkyRDNiRk00d0c4ZnpGeWZPdjZJb2Z4dkh6aVF5NmM5VFA0TUZIeTYtUDVzSGpJbkM0aDNFb2M2Wno0QVc3eG9xd2xhVmg2eDZFYmpseS1uV1lEM3E1N3I5Qkk0SkstR3JkVkNHeFJIVHpoYXZDcXBDUVhXd1RpR0xyZXg3eFNFNWZiQklhVVZ4Z0JtMGhfbkk0TWNES3dXb2Nhak9yd0tOTUxOVkdXcVY2V3FCZGJLZw?oc=5",
@@ -44,14 +52,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "¿Por qué las primeras 72 horas son tan importantes después de un desastre natural?",
-     "url": "https://www.msn.com/es-mx/noticias/other/por-qu%C3%A9-las-primeras-72-horas-son-tan-importantes-despu%C3%A9s-de-un-desastre-natural/ar-AA2gPNMq",
-     "fuente": "Debate on MSN",
-     "resumen": "Las primeras 72 horas después de un terremoto, huracán o inundación pueden representar un desafío para las familias. Protección Civil explica por qué es importante contar con suministros y un plan de ...",
-     "fecha": "2026-11-05T09:37:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
      "titulo": "¿Qué países recomiendan tener reservas de emergencia en casa y para cuántos días deben alcanzar?",
      "url": "https://www.msn.com/es-mx/noticias/otras/qu%C3%A9-pa%C3%ADses-recomiendan-tener-reservas-de-emergencia-en-casa-y-para-cu%C3%A1ntos-d%C3%ADas-deben-alcanzar/ar-AA2gPmz6",
      "fuente": "Debate on MSN",
@@ -68,11 +68,11 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Resiliencia y preparación: por qué contar con un kit de emergencia es un acto de responsabilidad, no de alarma",
-     "url": "https://diariodetoluca.com.mx/resiliencia-y-preparacion-por-que-contar-con-un-kit-de-emergencia-es-un-acto-de-responsabilidad-no-de-alarma/",
-     "fuente": "Diario de Toluca Digital",
-     "resumen": "En los últimos días, las conversaciones sobre la necesidad de contar con un kit de emergencia de 72 horas en los hogares han generado diversas opiniones. Mientras algunos lo perciben con inquietud, la ...",
-     "fecha": "2026-11-05T07:54:00+01:00",
+     "titulo": "¿Por qué EEUU, México y Europa recomiendan guardar provisiones para 72 horas?",
+     "url": "https://www.periodicocubano.com/por-que-eeuu-mexico-y-europa-recomiendan-guardar-provisiones-para-72-horas/",
+     "fuente": "Periódico Cubano",
+     "resumen": "EEUU, México, Canadá y Europa aconsejan guardar provisiones para 72 horas. Conoce las razones y qué recomiendan las autoridades ...",
+     "fecha": "2026-11-05T08:25:00+01:00",
      "fecha_txt": "5 nov"
     }
    ]
@@ -115,14 +115,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Castilla-La Mancha elevará a 139,4 millones el presupuesto para prevenir y extinguir incendios forestales",
-     "url": "https://www.eldiario.es/castilla-la-mancha/social/castilla-mancha-elevara-139-4-millones-presupuesto-prevenir-extinguir-incendios-forestales_1_13641936.html",
-     "fuente": "elDiario.es",
-     "resumen": "Entre el 1 de enero y el 30 de octubre se han quemado en la región 47.685,35 hectáreas, el 91% de ellas en seis grandes fuegos ...",
-     "fecha": "2026-11-05T10:10:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
      "titulo": "En lo que va del año, España registra el 40% de las hectáreas quemadas por incendios en la Unión Europea, con 3.000 edificios y 6.200 personas afectadas.",
      "url": "https://www.nuevaradio.org/2026/11/05/en-lo-que-va-del-ano-espana-registra-el-40-de-las-hectareas-quemadas-por-incendios-en-la-union-europea-con-3-000-edificios-y-6-200-personas-afectadas/",
      "fuente": "nuevaradio.org",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-04T18:29:43+01:00",
      "fecha_txt": "4 nov"
+    },
+    {
+     "titulo": "El 52,87 por ciento de los incendios forestales en la provincia de Granada han quedado en conato",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWk1PVEhNdWlkMVhVQ25MZmpBMGdvTHNGaWdUMi15UkVlTFZMVEt3SVIzVW1rNWJhZUViM20yZHdjdk1SeHBTZEpsdHBRdjQ5WGpPNTMtYXVveUdVX1lsdE1NMHBkM1FnWFJBeDJlbkhNMFBzTHVtWlFTcHBkODhVbTZaekxOZnVxSGtpQ0NmOGJNc2hWQ19sdlZYYWFfZlY3dE44Z2dQeEVCRDVldHVHZlRwMWlNc0RSMHdjQVU4c1dad2twbEs0R0lsVkN6ZUhuRG5zTTJn?oc=5",
+     "fuente": "Ultima Hora",
+     "resumen": "",
+     "fecha": "2026-11-04T14:00:37+01:00",
+     "fecha_txt": "4 nov"
     }
    ]
   },
@@ -154,8 +154,16 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Alerta por el temporal de lluvias en Canarias y la Península desde mañana hasta al menos el martes",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41S0RqTHp5bkxENTBQbjQzcUJnbXNxZzJORFRYR2JvUzJJQzEweEhDNHVqWjBYaDYxTXU5SXFqYXdGeUlCaW9ycDkyZTVtUF9UakRIemJiTEtKM1IxQXJCWnVha0I0NndjcTI5aDExZktkQUpCbEktVzV30gF6QVVfeXFMUHptUjBHT29SZzlIYXhqbkhWbEV5MlJXZjh1WnhqNF9YSFZvNndhNWU2ZFFzWmlxb2tBeDFiaS13TWNpLUFBVWdBOWlsd1BmRkFLdkx2cjIwdmlXd054RXBXNm10SkdiQUNPdXluVWQtck9QbF8yUmNJa2c?oc=5",
+     "fuente": "El Mundo",
+     "resumen": "",
+     "fecha": "2026-11-05T19:35:31+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
      "titulo": "Vuelve el mal tiempo a España: una borrasca traerá lluvias intensas y fuertes vientos",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3NmQmU4VFdFMjBPb3RRcGJZY0NFWUNmU0dxVFByQ3NZbTR0ZXlYYkprMTVXVlBILURSMlBTUnNhX2lVOXhQNVByMEpGTTJQWXgycS02ZHZRNEdLYnlPV2ZVbkpGakZ6ZEZGeXVDU1EtOHpXc2dxbTNTX3RSR3lPbFJXLWR5dlF5VHV1VEhTNDktTjNiNnBaRkdYZ0JmdUpERDloMXJsazVYd3NnZEpzQ2RDbWV5QTRXallIWE9mcTFGZXdH0gHKAUFVX3lxTE9CVWtTRUgwU2NHbl8tS2V2bG51OVFjQVh4QW41QVY2UEdYTDJOZlY1WHJoOVJubG5hZU1IYk4zMlREUkdaRW5hc1dpT001QUNYMC1YaWhXUU9UXzgweHBrdnB3azBXUFFjZjRhOHNsRHpMTUdjdWE3Wi12aERnZVkwdUtaWlM0YTkxUnNRZTljcnVrU1dzS2JlS2RxYm1ycjNZNWNFOU10YTR1SVJiTzVSSmJCN0Y3TTBnWkJ6RUNVR2tuUlN4bEJRNmc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3NmQmU4VFdFMjBPb3RRcGJZY0NFWUNmU0dxVFByQ3NZbTR0ZXlYYkprMTVXVlBILURSMlBTUnNhX2lVOXhQNVByMEpGTTJQWXgycS02ZHZRNEdLYnlPV2ZVbkpGakZ6ZEZGeXVDU1EtOHpXc2dxbTNTX3RSR3lPbFJXLWR5dlF5VHV1VEhTNDktTjNiNnBaRkdYZ0JmdUpERDloMXJsazVYd3NnZEpzQ2RDbWV5QTRXallIWE9mcTFGZXdH?oc=5",
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-11-05T17:53:14+01:00",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-02T18:04:15+01:00",
      "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUdIBsgFBVV95cUxNX2dRSU1ORGZOSXNDanBLTTh3cnVTSHpEYW83RkZ2c1IydFZ0c2xTZ3p4Ri16aHdsWW9Ma0hWeXBMSWVQY25jYV85bVgweklkRUlhQ3Zxc2JXRnlmS1hmNUxIUWFVREh6bVJnY1JwUGhiZnQtWjBFZVNVT3FHaExsTjhsOVBQR1hxQzN3T0JVRVVBaWU1VTdLQm05VXpqbzBjLWdYVmVKZFFONnZwN1Z3ZDFR?oc=5",
-     "fuente": "Diario Correo",
-     "resumen": "",
-     "fecha": "2026-11-02T13:00:00+01:00",
-     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
+     "fuente": "El Mundo Today",
+     "resumen": "",
+     "fecha": "2026-11-05T19:30:58+01:00",
+     "fecha_txt": "5 nov"
+    },
     {
      "titulo": "Nuevo apagón en La Palma evidencia la fragilidad del sistema eléctrico y reaviva las exigencias al Gobierno de España",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0xKQ0wyZWl1M05YZmJVM2dYeVZab242bUFWOXZ3Z1owandnMzNyRWtXeVAzN1YycUlha2RZRnhjbU1XUHVfdk1fazdKVy1QLTFZMHdrU2M4dENEZU1JRFVoWTBmRkw2VHliRTJDVDlkcC1qR05Sa0x6MDFVbkpmX05DRjgwbVppT0doMDd2VnlOZUMwXy1VdzM0Q0lNZ2xNelNYQW5oMUxnSVQ0VmEtb2xSNDNpTHNoZ211ZWpseFY3Wi0tZUlnM25LWTJ0OVhmVEdHVG1BN1FLQm10UFRjN1hVVGR0NHR4QU8wOWt1eW5la0xyYXB2bGR6ZDRoZDE0cVZheDZYT2dYUdIBlAJBVV95cUxQUGhnLWV6Mmd6bDlLQUVzOGNTRGFYcmpDak9QWWVEcHhfQXZmZUJOaGtkWlM1YU1iVXliclBuYnlnUDJmMFBjaXB1dUVyNHlUZXAwdy1zYVdtRU9NVFJJYlo5NXRUeUt4UjkxQW53VEl3enRyN1JKYXlpZXJxalV4VWlxeW5IRzhTX2t1THcwcXA4R3dLMEU1VzJOcExrZEVFNU9VY1lNQ2YzWU9oMzRNQXdvLTFEd2xSNFBVU3MtLTdqSDdSWjZvMEZzX1JCZUFnYUFwQzB5bkwwaWtodWtMVGVKZmEzZUJwRXlGX095V18wU3VFMzFkSVh2WGRBMTVidGlsNHhYZTlFcHoweVB1VW9yZlc?oc=5",
@@ -249,6 +257,14 @@
      "fecha_txt": "4 nov"
     },
     {
+     "titulo": "El apagón de datos del menú escolar: ¿de dónde viene lo que comen 2,5 millones de niños y niñas en España?",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnRvdU1YNHNGNzBRUGFwSmJMRlJoOGdpR1lzOWRUTUU3R1dNRjVSZUw5SVlxQlZkNHU0YWNMSVZHQk1WcmpYVzI0M3liUERTYU5pMjdrMFJKOWlBNDFvdFUzdXp3Nl9UcTVaR3c4ZFhMT3RtRm5fRDhhZWZ5NnAtUjE2ZVBwbjhIdlJKN2RpaDJFeHZUVUplSjd0VkhSQnFpREFsQkVOdXpWZ9IBrwFBVV95cUxQUmhZOFVuOTk4Rk0xX3RCaDM0c011bkI0RmhoNTBfT1Y5VWRyVGQ3WXQ4aGp2TVFyTFpybGhaNC0ta1RiWFhPTlhsQl9oY2N5VHI2TXN6M2x2M1RGN2FwWTNiU0VYWG9mTGVHb21ISlZsMzNFZmxTVXdrdF9yd1pPZHdSVHBlNDZscVR5WF85ZjlhMmpNcGU1V19lQld6MmxQNE05SGo0NlpZaXV2SnRV?oc=5",
+     "fuente": "Diario Público",
+     "resumen": "",
+     "fecha": "2026-11-04T07:00:00+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
      "titulo": "Qué debe contener un kit de emergencia en casa para apagones: las claves de un oficial del Ejército español",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHpUQVVLMkZTR1dzaWNrMzgzaXh0Sm1GNW14eTRFSi11dzJPWU1YTWx1b2ozQ0ktMTRHTDBXNnczOHVWVTBSdmt4NHhFaW9UVERQQlc3a2hkbEg3ZERCUVRmQzNEWm1tYnJUejctUkx2V19PRWgycWVxWUVZWTBULU4yN0VhVU1Gc2h5ZUNBUTNoUjJMbGNTUmljaGZjVkxFOTZUbEhGYVlMZ2hrWEpxb1BQclAxV0F2RThkZllfalFPMGJsc0txMFRrTFV6RVg2MnlHcTAzSHJfazRxaTdEQnhTdWLSAfgBQVVfeXFMTzk4dFROVi1mQ1Z4eENVMDdLem9aUHpDc2l2R0RyeVB5bUE2YWhJd0lZa1EyWnRpX2RZNGVRR2ViUkxMTEtGbnBUTnZJUTdqV1U2aHkwRVpTLU8yYWFIS25HZDRBeEhiNkd5QXZYM1lNaFYwNDdiV21WN05wTXNLNmpvS3hoWExYVGpCd3pUa0dPdUhNOHFaS3ZKdXNVa1NaS21yUXQ2MWJFUFk5MDVsU2ljZ2NKblNMYXB5NFV3RFBvR3JTclRSQTF1V2tPYTN2bE83SmgwUWg3cDQyVU14TXBJMFRlRTVlNVVEM2lRX1E0M3IxMnNQSnc?oc=5",
      "fuente": "La Razón",
@@ -270,22 +286,6 @@
      "fuente": "La Noción",
      "resumen": "",
      "fecha": "2026-11-02T20:59:08+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Garriga carga contra el Gobierno tras el apagón de La Palma: «Han traído la tercermundización a España»",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXRpYjNCTDE5ckR3NThoZ2VJbXdhNkRYS25mUHp4Sm1GaVF6VHN1TGVwUlpMeGUtSVpoRFhHWldhSFQtdWZySlFRSEl0My1ibU1DNWFtQjNadG1DdkxwalVlYU1hTFpxRllvUnlYQ3QzbTFab1Q3OEgyTWhiRmlxWFdWTnZYN2cybmhDUXZXYWJkOUhjVWhNdG93V2Z5QTVHaXVHcGlfeDEwQ0FPdEJzN1p1SmZtU1NHMmZCY08yUk4yd0wtbDVfQjZXeHhKYzFGclHSAdcBQVVfeXFMTjFBQUxYLV9GbEtERmx0WThxWkU2djJWSEFzRWJ2QnJZOHhWXzJBYUU1UGNheUFPbFZ0VllQbzlCaTV2c2ZCS21CV1pTcTNmRjhIU3IxRHltckkzOXZVQXpVMzRtQ3UzbmQzUktKUjE3dmZvem1SWTNfTEFXVXhuaW8xT0c0T1YtV3Q2OW85eEpETDNrbGZTbGV0Rmxwa245eE5Ucjhob190N2pxQlRFTmhOOTB2VVhmR2NfR3EwWWRzRmRHTHExMHVBdkhpMWlRSHAxcEFCWGs?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-02T16:57:51+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "¿Qué pasó en España? Un apagón deja sin electricidad a miles de personas en la isla de La Palma",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjJGZEF3Tk94RTB3cXV0dTdURzFWRjBrT3k3Ni0tYzdIakgxV2hZcHBpMmRwWHFKaVA2aVFnSnlJbEtYVjdYWGVXX3NvOE9DY1FTaHRvOXFfX0VFVnlMTkl3Ukp0S3piSnh1TGl2amlDQ3ZVZE0tWE9tSGFBb2g1NlhKUUw4Nk1oQUpyZDBtNk5pSmV5Z3RzZ3k5T1nSAZwBQVVfeXFMT2FjcExUQ2JnZlpob0JPVFdWSGUzUnJaYlFuOGo2REl2SXNqQmk2M1lFWmFodXVpcDVVLTRYeWQyWThDRkhXaXN2S1Q2R2xVOEV4a2RQQ3piLTZhbS1ZblNLT3lVTkhDRVk0VGRlcDhnU05oOWsxMHBSS3VyR3k0WjR4MlZtYVJSZFpWMVlfOTZwR2I0TUI4b2h1TFd1?oc=5",
-     "fuente": "MILENIO",
-     "resumen": "",
-     "fecha": "2026-11-02T15:34:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
