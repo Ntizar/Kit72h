@@ -31,6 +31,12 @@
     // contador de eventos de la casa. Sin cookies ni PII. Se rellena la URL
     // tras el despliegue (ver worker-eventos/README.md).
     worker: { url: "https://kit72h-eventos.dantizar.workers.dev" },
+    // v3 MUESTREO (2026-11-05): producción corre la v1 del worker (1 get+1 put
+    // por POST → 1.000 writes/día de cupo KV agotados, bloqueo 429). Mientras
+    // la v2 no se despliegue, solo 1 de cada 4 páginas envía eventos: los
+    // recuentos se leen x4 en el panel (muestra estadística, no censo).
+    // ~250 writes/día de techo. Al desplegar la v2, quitar MUESTREO (=1).
+    muestreo: 0.25,
     // Interruptor maestro para los eventos de clic/scroll (independiente del
     // proveedor: solo se envían si hay uno con soporte de eventos).
     eventos: true

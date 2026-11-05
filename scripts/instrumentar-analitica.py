@@ -19,7 +19,7 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
-VER = "20261026b"
+VER = "20261105a"
 MARCA = "/js/analiticas.js"
 CSS_VER = "20261025cb"          # versión de caché de /css/styles.css
 RUTA_PANEL = "/analiticas/"    # enlace discreto del pie al panel privado
