@@ -540,8 +540,8 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
-### El kit que compraría C. Tangana para salvar la música española — https://kit72h.com/blog/kit-que-salva-la-musica-espanola/
-Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que mantendría en marcha la gira, el estudio y la sesión aunque la ciudad se quede a oscuras.
+### El kit que compraría C. Tangana para salvar la música española (2026) — https://kit72h.com/blog/kit-que-salva-la-musica-espanola/
+Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que
 C. Tangana llenó estadios cantando que «el madrileño» no se rinde. Pero hay una cosa que ni él ni ningún artista puede vencer a pulso: un apagón . El 29-O lo vimos a escala de país — se fue la luz, la cobertura y los accesos — y lo que empezó como una anécdota acabó siendo la mejor demostración de por qué la música española, literalmente, depende de un enchufe.
  Piénsalo: la gira es un camión de amplificadores que necesitan corriente en cada pabellón. El estudio es una torre de máquinas que no admiten un corte de luz en mitad de una toma. Y el negocio entero — streaming, merchandising, tickets — vive en la nube, que resulta que está en un datacenter que sí tiene generadores, porque alguien se acordó de comprarlos. Este artículo es un ejercicio editorial: si «CT» nos llamara mañana y dijera «que la música no se pare», esto es lo que le meteríamos en las dos bolsas — las de la foto de la marca, ya sabes.
  Minuto 0: se va la luz en mitad de una mezcla
