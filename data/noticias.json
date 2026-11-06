@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-06T16:10:40+01:00",
+  "actualizado": "2026-11-06T19:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para la preparación ante desastres - Parte 1: Las recomendaciones no son señal de un desastre inminente.",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlRSelFnWHhkME8yeWdYcFczbWJFT0VqYXJRbzJnZ0EwbUs2cTBvUG5GZ3RJd0NmRk1QTExCM1NSa1dNN01EeTRQSzNfRVh2RmdRb0x3SlhQSWhiX0NpYXQybEM0Q1FHa1hYbzBSX3NCU2FZd1hZWk1UV3kzZnJOVndET04tMi1meS1SLXdVZmgwQ3ZsejlDNzI3SzE4ZDVQeW9YY2pESk9WeXpKLWgyWERuWUY0NGxKamNjaFp3?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-06T18:08:47+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "La OTAN activa por primera vez helicópteros españoles en Rumanía mientras Bruselas insiste en el kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVW1tRDVVVjBnanlwdWdpblpWSzN0aFNCVzFzME1WbDRuOFl4NTZWRnVLSThNM1l0UDR3WGdlSlFySHd2VlFfQnRtVlgtNmpyZXN3ZElsOWlMc3ZSMU13S1diS2E5cFlGWEl3RTJzRXBWUVhsYlZiblVYVTBZRHNKMTFoOUxuQ2tucnQwRXlIa3ZWRmhDZVZocS1IMU85bnY5VXU1WFA1bzBQODlINmFHZ3duN2VVX3h1TGUyY2xrb3ZsTEQwOXR0cEsyakxZMGVvSFZsdEt5TmpoR3k2cERvTkh3Vl8tZC1vbEV5SHdBZUJ3UnA4ZXZwMVBxMy05VWhWQ2fSAYICQVVfeXFMTS1DYThCaWF5Q2J6b0pRRnRSd0ZXc2JfRFhackt2NUVRT3A5aXF6VHI4dzhMcjN0SFdBSndzSkVpM0pwYUM5ZUxVWUVqSVdBTlVmVHVRSHlMblZndjFDRTJqU3BTYWxrZC1PR3A2aXZEUWFwV00tc1FDUktVVGhBVms5ZTIzYVQ4NFo4LXdaOGtEVnY4MmxKYUZ2aVJwRHR2ZUJQR3lHR3NXZ1c0bzhtTzg0X3hlT2xaTVI2RExfMEFlMzNkeTdfczVzSVUyMUpLVEpGN2wxYzJnWXpVVWNVaXEwQWFOZW1VX0NOd0ZaZzBkT0lCbVNwb0dmWXhPUmJpcWtR?oc=5",
+     "fuente": "Antena 3 Noticias",
+     "resumen": "",
+     "fecha": "2026-11-06T15:33:49+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "Así es el kit francés para sobrevivir 72 horas: por qué las autoridades europeas piden tener lista una mochila de emergencia",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnJDNzNKeEZ6TUlUTHR2eTN6LVp6SlJXS2I3N09YR01SODhROGhJUzl5Z2lqclNlLVBuenZISGxOeHhJT0NPRHpwRUhkbmo0RXJpNklybkJVTjN1UVZ3ZGVhb1pwSnR0UFgtWks1WFo5ZEU1RVRDOV9MWDFZbXZUTE9xbXNON2ZvTmFoQzJYTFl0UXp5MG8wNHR6Tk0tUlc3S0ZKY1ZveEQ5MlhmUTVseTQ3VElwM1FJZDZvYjVRTFlyWFpiS1RYbzQtdmdxMjdGRlE?oc=5",
@@ -52,27 +68,11 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Preparación de 72 horas: Respuesta proactiva ante situaciones de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0dLSTc3S2lRNXNFSWFKMGluWUpHeFhPcmFmS3Vqc0M0WUdHc0JJYkdJX2dfaGZSR0lnUU9ObDRVVGJXV2FGVE9FSjk0b3hPVmZQeVZMNmFiQXBYR0xHYjBueGdwaC1abHk1OUZMeEFHOW1QendYR3haR3FLWC1TMHEtYS1pS0dpN3BWdlc1S2Vwa1U1?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-06T07:02:40+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Así es el kit de emergencia de 72 horas que vuelve a recomendar Bruselas: qué debe llevar y cómo prepararlo",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZno5RkxEWjl1bmd3ZUlxUlpibVJMeWkzcTlmV3ByODBfODVLOC05cHQ1cGtpWWtHd0FkZGY2YjZBSjJFYlM5ZHFQZ1dhSHF4a3p5YXBzTzk5dTNub2VLa3hLYTNabFFKVjVvRk9uZVhDYjlTa1JfMUY5S1hMeV8wbXZyTlRJYWNPUEZkNEo1bFdMNkxSc3hvYXUtbGltWWc1WC0xWmVGdUFldDZxSHQxUVVXdUtZaDBKc3FkaDU3cC1nVFNtVFNoUjk4ZWlNV1hNNG9naWlKb2J4LU51dGxaNw?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-06T05:00:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Europa vuelve a recomendar el kit de emergencia de 72 horas: qué debe contener para estar \"preparados\" ante \"los crecientes riesgos de crisis\"",
-     "url": "https://www.telecinco.es/noticias/internacional/20261106/europa-recomienda-kit-emergencia-72-horas-riesgos-crisis-desastres-globales_18_020637254.html",
-     "fuente": "Telecinco",
-     "resumen": "La Comisión Europea ha vuelto a lanzar una campaña en la que advierte a los ciudadanos de la necesidad de estar \" preparados \" ante cualquier tipo d ...",
-     "fecha": "2026-11-06T01:37:00+01:00",
+     "titulo": "¿Qué está pasando? Crece la listas de países pidiendo tener kits de emergencia",
+     "url": "https://www.telemundohouston.com/noticias/local/alertas-kits-emergencia-paises/2589514/",
+     "fuente": "Telemundo Houston",
+     "resumen": "Guías oficiales hablan de 48 horas de suministros y hasta más días según el país. Mira qué debes tener en casa.",
+     "fecha": "2026-11-06T08:41:00+01:00",
      "fecha_txt": "6 nov"
     }
    ]
@@ -107,14 +107,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "España concentra el 42,9% de la superficie quemada en la UE con 301.681 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkVUQV9EcWxScnBrM1o3MS1FQXpRRXh6SDRjemh4QV9MWi1MZlJFOEl0M3c3cmhud2NuNVFVSE9hcGE1ZmRNYlpKSGQ4WVRhYWVyUWpMZlZFM3p2N28yaTNjWldfRHRhcEt3bHdEMS1RdmhaSFlNSl9LcWZqWlV0bnFnVkgxa0luY3daa3pyeUtaUkhrVVoxNGtQbXdVTHNNVlhoMHQwdmh6bWpBVXdMR1U4VEVjOVNNbGdNMmpMd0kwMndla2xaNzJuUU9RTWJnQW5ja0Nzc9IB3AFBVV95cUxOTndyZ0toMXBjeVVtc0R6bVBld1JwQ2IyZFZTZDFXMm5QV3JlemlROUt2MVU4T09HVWtrWmxqbDg4VEZmYkY2aVNaWW9HYUhxS3pKYlQzTXVyVHowR2swNkJ6c01WSndrcFJGWFI1S3pYR2RYdUU3dTdjdjdRVDJsNDZKUDI0OGF2QkpwdkxLdkJfbk5CSnhpRnU1THM0RkYtckRnSlZZVEZUWU5yT0g4dkZ0RURwQVVzWjdpSFRqc1BRMG5ycVZncXVHTWxoNnpCdWRiWEota3JKQkFh?oc=5",
-     "fuente": "Andalucía Información",
-     "resumen": "",
-     "fecha": "2026-11-05T11:01:25+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
      "titulo": "En lo que va del año, España registra el 40% de las hectáreas quemadas por incendios en la Unión Europea, con 3.000 edificios y 6.200 personas afectadas.",
      "url": "https://www.nuevaradio.org/2026/11/05/en-lo-que-va-del-ano-espana-registra-el-40-de-las-hectareas-quemadas-por-incendios-en-la-union-europea-con-3-000-edificios-y-6-200-personas-afectadas/",
      "fuente": "nuevaradio.org",
@@ -139,12 +131,20 @@
      "fecha_txt": "4 nov"
     },
     {
-     "titulo": "El 52,87 por ciento de los incendios forestales en la provincia han quedado en conato",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-5287-por-ciento-de-los-incendios-forestales-en-la-provincia-han-quedado-en-conato/ar-AA2gK1wV",
-     "fuente": "Europa Press on MSN",
-     "resumen": "GRANADA, 4 (EUROPA PRESS) El dispositivo del Plan Infoca ha intervenido en 87 ocasiones por incendios en la provincia de Granada durante la campaña del 1 de junio al 15 de octubre, periodo en el que s ...",
-     "fecha": "2026-11-04T07:00:37+01:00",
-     "fecha_txt": "4 nov"
+     "titulo": "Galicia cierra la campaña de incendios con un 95% menos de superficie quemada que en 2025",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzR5U2JOWmZHRl9JSmhWOFJ0OF9CdmJyR0M4QUVZUlNLVkpCRXgzX1VCSnhEN0NUanpZY3Q1RDVJVVppQnE5OHNRT0Y1LURfb2g4SG9YWHJRQ3ZtTVcySjBocmFFYlU4dUpfR0tvbEs3SWJRVnktZnVUaDlKYWw5N1lpbVZvRUdVUzF5ZW9iSHhiZHpYbi0teWdUa2QyeWtDM2hqR0lQVWotUklFZnJaazI4c9IBuAFBVV95cUxNYmcxcVVtX0EtMUpUaF9jM2JCVG11Ykd1dEVneXhKWUcwTjRSZ2kxUTJ2d0xMcnlUVms2MHI3UEJBc1FCVHh4Wk41UF9wZDFKcV9wVHJYeTBBckwzNXFOaFh0bTN0SDBzNVN1bUM2anlFZWdZUTFwVm5CcElNeUpSSHhYWnJSa3hJVWVFZVJNLWNYTndoSDU2ZWNhZkRoMVViN3AtVlo0T1h2QVQ2TnZiX1ZDMGh1OTl2?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-03T16:45:54+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "CSIF lamenta que Castilla y León vuelva a encabezar las cifras de incendios forestales en España y que la Junta mire hacia otro lado",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVGNKR283WlFiYUdmTHVIUEI2R2t4bUN5eFZRaHFZWjNoczBNbzZoYXd2a3VXaFlHRkJNcEF2Y3FEMXhOd2xwWVNHb0YxMWRMcGlGdm5oMTN4MnNDSmZ0Z0RRZWIxSGJzRnowTHBjVDBYSWhJRHVkS25DSWR1STZRQWE3MENoZnlyTnJyYkNoQXpsN3dFcktQUWtDZER2VDRRbzBmbldrbnpBQXIyRFRHSkRiQjAxaVVrX0g3V1YzZHhudl9WTTRJSjlyWlNib0RXVDFTMVVqVDJ1ZzQxNklPaFpyNXBtQlhFeFZxT29pUWI?oc=5",
+     "fuente": "ZA3.0",
+     "resumen": "",
+     "fecha": "2026-11-03T12:04:33+01:00",
+     "fecha_txt": "3 nov"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "La borrasca Bruna traerá lluvias intensas y fuertes vientos a España: qué tiempo hará en la Región",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFVoV2VsejQ5a1ZGMEdfYUdER1RQWGxfMzZVTm5zalVTZXdwZVd1WUNtLVNxRkZCRkZEZDJyZjRneFpzQmYxMW14TUI4b20tY1BCcEZ3VWlIdEZZMUNWSE02Sk5WNUdYcWttQndCUzhfQks3cnBSeFlaTHVHNS1MSjI1bnNabUo1UmNsRnhmTWlRczB3TklMUHg4ZUFvSldzUnowclNxMVp0cTdvVDhIaHE2OWNIczNlVFdzdER2TnczTDBoQWlrRnhOcUxpa0trOUE?oc=5",
+     "fuente": "MurciaEconomía.com",
+     "resumen": "",
+     "fecha": "2026-11-06T17:00:37+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "La borrasca Bruna llega a España con tres días de lluvias intensas y temporal en el oeste",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmZtcXoya084YUg2SGVTYjFkc1BMTWh3NVJ2NjNvNmI5R3UzaUJxc3l0b3A1VnZOUjNmMzVTZTBPZHd6Nl81dlAxaG14UWJzWUJ6Y0NWUndQTlVzeWY0YXpWOFliOGtyQTBEOXRGRkRYUzFkbFRueEloTUdHdkkyZVVJU1pXYy1sYXVCX0tJRjhvLVgtOXEzYWtKTmdaRmFJelBXUHlrTl9qTXNwb1lSOEVjenlHc3lp?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-06T15:32:42+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "La borrasca Bruna llega a España con lluvias muy fuertes y un ascenso de las temperaturas: así será el tiempo hasta el martes",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUGM3VHVzQW54a0h0cnhzRE4xVjJvV2pVOVF2VjEwTVFtLTd2bzhabmJVTGItTzVLSkw1YS1zUlNlOU5nR1VUdVEtU29QTzF4SF9lbWZqY1UwZ1UwSlJlYm1tY21wdGcwSUdKNGVZaHU1SWZVQnBuM0tHYVRkMWIzNkVDckVaNnNMY1YtaU5yVGt5ZDY4NXJmdTBzQmJoZjFZbnBXZ3NjNHJHSXRNRXFGalRqcnQxV280MFNtQ0c5QjRWZ05WdWRiVVJydzZkWk1BWU52OVQ0TG5LR0xWTzR6d1ltUFhPV3VQMkx1T3dQdTROZU1t0gGIAkFVX3lxTE5sZTZWcm5UMXUtR0hqV1dXVDJ4NkxpYnNMWVZ4LVZua2ZaM3ZJWExsN3pURjNOUld1QTRBTmRleTRxcmlaNDB3VVJyWjB3U0VGemVfalZUTHNpY1Z2X3Z3eWI2aGhMaENnX0pJek5vSGtvdkpSQWVYUjNpY1B5aTltektIMmRwUjJ3RUhRbmFWRTJTSFBUM0U4bi1CMnh5YU1ETGZQRk9UOXphMnBJaFhpRkdWdVFuQktUZ2lnc2p0cTRYd1UxRV9aSDhMTURJYU9oN0NUR1o3TFowcFNsd1FUaW5BaG1VRGdQRFZwTHMtQnZ5blFWaVR2c1kzWjVTWW9BNFNXY2VBNQ?oc=5",
@@ -167,6 +183,14 @@
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-11-06T13:54:54+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Territori y Adif planean construir un nuevo puente de Rodalies sobre el Besòs capaz de resistir grandes riadas",
+     "url": "https://www.elperiodico.com/es/barcelona/20261106/territori-adif-planean-construir-nuevo-puente-rodalies-sobre-besos-capaz-resistir-grandes-riadas-136172192",
+     "fuente": "El Periódico",
+     "resumen": "Las instituciones planean aumentar la altura del viaducto ferroviario en Sant Adrià de Besòs tras constatar que la actual estructura supone un obstáculo crítico ante las crecidas del río ...",
+     "fecha": "2026-11-06T10:11:00+01:00",
      "fecha_txt": "6 nov"
     },
     {
@@ -191,30 +215,6 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-06T07:11:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkw4NFA4aHFVMmZzblRuZHRtdF82TlNzTnVxUUFFOGZLdmhvR013bGsxeGp0aUdjbFFKNUQ3RVBMMm9nTHlDQVFhU0Z2SDIxRzNQdnN2bGtEdi1IeVFqOUFrMW9SSTZ3cjB5UlRHUDVoYmx2Um9QdWV4VkZzZVliTEpXZXRSTnhOTjdST3pudG9jeGdCN0IzWDVjb0N4Q3JuajJvQUNZTlJKSDY5S2JqZ2dpS1FwSWhjVDVVb0pLZldCRjJzUlBPZXh5MW5ud3M5WlZ6NFRMX24xZ9IB3wFBVV95cUxNQlhhczE3c1pDY1RSaEJvQXNTdkdOTlNuVURTYlktUlFxeTNLX0c3aG1EN0pnNW1sQ3J6TXFWZ2pOQVFKRDNCRHN6NzBvUUpaQlpYT1hxRmJSRnRhTG51Yjh5N3BHN2hyVnJCTTdHcTRFMkZVZnhjaUgxaGZ6NjVkZ0VuSmJUT2hDUW8zZDdoTTM2Z2J4YzJoVTlwWDJsZGlGSHZzbzdPZDV2ZVNFX0M0WGlXdUpvdGlpa2NoZnRxWXA5ZDBkV2tiQW1BcjB3SGR6enEzODZJdDR2ZUh6R1Fz?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-11-06T06:30:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna traerá este fin de semana un cambio importante de tiempo con fuertes lluvias, viento y riesgo de inundación",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-borrasca-bruna-traer%C3%A1-este-fin-de-semana-un-cambio-importante-de-tiempo-con-fuertes-lluvias-viento-y-riesgo-de-inundaci%C3%B3n/ar-AA2gTD09",
-     "fuente": "20 minutos on MSN",
-     "resumen": "España está a las puertas de un \"cambio importante de tiempo\" por la borrasca Bruna, que provocará a partir de este sábado lluvias fuertes y persistentes acompañadas de tormentas, vientos intensos y t ...",
-     "fecha": "2026-11-06T04:55:47+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Abascal no olvida la tragedia de la dana en Albacete: «Los responsables de los crímenes de hoy son los mismos»",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVFpFa0wxTFE0a1R0aHZxNHZ5M21YTDdOb0dyMUJPVzlTZXcxNGcxaTdUVDE0THJsSHh2cDRVWGVYb2gyNDlUQU5hRkJhVGVHbzQyOTdLVXdTMWl6aFlZdFlKM01zWmF6SUE3d21HeWN3Sk5BV3ZlcENHQmxVVjg1cGM1anE0QTlobXlZTlU1X05meEk5Zzk0NjR6cXluSGtWaUp0RHd1bm53d2JzNnFCdW9TQ3g0ZG5waS15OWs2TEZ2LWhiNGh2MUc3ZXdwcFdOZUhDMktKSmllcGVfYmN2QUlNY9IB6AFBVV95cUxNV3JxcE9nRlhGZVRQQ1N2bDVNVndDRzlXMDN0ai0wcUd2MjVCYmRLcWlzUk9qS1I5RHN0ZmtQSUY5blNVcmZxQWdkUXVBTU1YS20zN01ZVkliS3Iya2dDc05mMDE3TEhQZ3M4SEgzZk41VXJkekpCbGh1X3hJbjFDazFoS1drblE0OW5yRGJwdkxCNFFzdUJpaW8wbEgzcTNMNXk0Wmx0QXh6RWxPNGxWN1FGTDMxa19RWGxrT283a04yY3hxR1V0N0ZET1VJQ0J2VlZRWnUxamZoRUo0bHJhVXVjUkVoSnFI?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-06T04:30:00+01:00",
      "fecha_txt": "6 nov"
     }
    ]
