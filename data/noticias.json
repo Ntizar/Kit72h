@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-06T01:10:40+01:00",
+  "actualizado": "2026-11-06T04:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2hkVGt1b1h2VTVCUWJUQmdQcHhEM2hRd2pLUUp3aW5ZSDdXcDlJcm5ld1RQbmxmZ0hHZkhtZ0ZqZzR1ejNxUDFBTUJJNms0eGdlcE53VGZLR2IxREpDU1d0Y1o0R1hEVmlpWEN2ZHdvMjlqaTNmOTdUMS10V2pFakNrbEpQdWVJR2phd0g1clBvamF4MGlGS1cwVHR4Nlp0c0dVTko2eHhsVXFwbkxYbFgycXJNLWtJd2ZN?oc=5",
+     "fuente": "Super Channel 12",
+     "resumen": "",
+     "fecha": "2026-11-05T23:19:00+01:00",
+     "fecha_txt": "5 nov"
+    },
     {
      "titulo": "Cómo preparar una mochila de emergencia para 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE5NODlvUmtoMlBWTlFxZVhqRDFvTzlkM1lFWnh2Nkc3QW1zaUNXNHlnVmw0cFBKUzZvTi1ZTW03c1oxcG8tV01EelVHZFV6eHlRUmI0R0g4TXlMaFA2eWsxN29yNjMzOWZQaHRnRWUtU3RQbVl1MHJpdHd6M3pINDRTUWozNzZBVkczUU0xTXJBZjBtZFpkVmFGWGxaWHd4R01KQ2dZTWhBUEnSAbABQVVfeXFMTWxyc2RpM2xsVjlOSnQ4Vm1FUnpkeVFGZzQtMGR4Q2R6dXgyc0pVaVpnUzBmZTBEZzJKNXlWeEt5enZod05fdV9SY1YxUGR1R0dhOUowcGZ3c2ZmQVRudXZYVFN6YzJDRXlnS1MtdF9wRk14QmVLMThldWVtaGZrM19mSTlmUXN5cVdRZHU4bjdsc19UTjNyY3dwOUk1enNLSVhzMkctNzRrZ3RyT2NLX2U?oc=5",
@@ -25,22 +33,6 @@
      "fuente": "Grupo Marmor",
      "resumen": "",
      "fecha": "2026-11-05T16:55:59+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia para 72 horas: qué debe incluir y cada cuánto renovarla",
-     "url": "https://www.msn.com/es-mx/noticias/otras/mochila-de-emergencia-para-72-horas-qu%C3%A9-debe-incluir-y-cada-cu%C3%A1nto-renovarla/ar-AA2gR3R7",
-     "fuente": "EL IMPARCIAL on MSN",
-     "resumen": "Bomberos de Hermosillo recomiendan contar con agua, medicamentos, alimentos no perecederos y artículos de señalización para afrontar una emergencia ...",
-     "fecha": "2026-11-05T16:23:54+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1l6TDBqT0ZORjRGcDlVbGkyRDNiRk00d0c4ZnpGeWZPdjZJb2Z4dkh6aVF5NmM5VFA0TUZIeTYtUDVzSGpJbkM0aDNFb2M2Wno0QVc3eG9xd2xhVmg2eDZFYmpseS1uV1lEM3E1N3I5Qkk0SkstR3JkVkNHeFJIVHpoYXZDcXBDUVhXd1RpR0xyZXg3eFNFNWZiQklhVVZ4Z0JtMGhfbkk0TWNES3dXb2Nhak9yd0tOTUxOVkdXcVY2V3FCZGJLZw?oc=5",
-     "fuente": "Periódico Zócalo",
-     "resumen": "",
-     "fecha": "2026-11-05T16:05:01+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -73,6 +65,14 @@
      "fuente": "Debate on MSN",
      "resumen": "México, Estados Unidos y países de la Unión Europea recomiendan preparar reservas de agua, alimentos y artículos esenciales para afrontar desastres. Las indicaciones varían según los riesgos y las nec ...",
      "fecha": "2026-11-05T09:31:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "EEUU, México y varios países de Europa recomiendan guardar provisiones para 72 horas: ¿qué está pasando?",
+     "url": "https://www.asere.com/eeuu-mexico-y-varios-paises-de-europa-recomiendan-guardar-provisiones-para-72-horas-que-esta-pasando/",
+     "fuente": "Asere",
+     "resumen": "Gobiernos de América y Europa recomiendan guardar provisiones para 72 horas. Conoce las razones y las nuevas medidas de la UE ...",
+     "fecha": "2026-11-05T08:45:00+01:00",
      "fecha_txt": "5 nov"
     }
    ]
@@ -178,6 +178,14 @@
      "fecha_txt": "4 nov"
     },
     {
+     "titulo": "Una inundación obliga al corte total de una carretera en Alicante y bloquea el tráfico en ambos sentidos.",
+     "url": "https://www.cronista.com/espana/actualidad-es/una-inundacion-obliga-al-corte-total-de-una-carretera-en-alicante-y-bloquea-el-trafico-en-ambos-sentidos/",
+     "fuente": "El Cronista",
+     "resumen": "Quienes necesiten viajar hacia Oliva o la zona de playas pueden desviarse a través de la carretera CV-700 en dirección a El Verger para incorporarse posteriormente a la red nacional por la N-332. Este ...",
+     "fecha": "2026-11-04T07:53:00+01:00",
+     "fecha_txt": "4 nov"
+    },
+    {
      "titulo": "La histórica riada que arrasó la provincia de Alicante hace 39 años: seis muertos, pueblos aislados y lluvias de casi 400 litros por metro cuadrado",
      "url": "https://www.informacion.es/alicante/2026/11/04/historica-riada-arraso-provincia-alicante-136069905.html",
      "fuente": "INFORMACION",
@@ -207,14 +215,6 @@
      "fuente": "Diario de León",
      "resumen": "",
      "fecha": "2026-11-02T18:04:15+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUdIBsgFBVV95cUxNX2dRSU1ORGZOSXNDanBLTTh3cnVTSHpEYW83RkZ2c1IydFZ0c2xTZ3p4Ri16aHdsWW9Ma0hWeXBMSWVQY25jYV85bVgweklkRUlhQ3Zxc2JXRnlmS1hmNUxIUWFVREh6bVJnY1JwUGhiZnQtWjBFZVNVT3FHaExsTjhsOVBQR1hxQzN3T0JVRVVBaWU1VTdLQm05VXpqbzBjLWdYVmVKZFFONnZwN1Z3ZDFR?oc=5",
-     "fuente": "Diario Correo",
-     "resumen": "",
-     "fecha": "2026-11-02T13:00:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
