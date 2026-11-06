@@ -1,19 +1,15 @@
 {
-  "generado": "2026-11-05T08:46:52Z",
+  "generado": "2026-11-06T08:46:51Z",
   "fuente": "cloudflare-zona",
   "estado": "ok",
-  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 3074 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
+  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 3303 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
   "ventana_dias": 30,
   "totales": {
-    "visitas": 23791,
-    "paginas": 30220,
+    "visitas": 24397,
+    "paginas": 30800,
     "clics_amazon": 0
   },
   "serie_diaria": [
-    {
-      "fecha": "2026-10-07",
-      "visitas": 512
-    },
     {
       "fecha": "2026-10-08",
       "visitas": 454
@@ -128,39 +124,38 @@
     },
     {
       "fecha": "2026-11-05",
-      "visitas": 587
+      "visitas": 1579
+    },
+    {
+      "fecha": "2026-11-06",
+      "visitas": 126
     }
   ],
   "paginas": [
     {
       "ruta": "/",
-      "visitas": 19370,
+      "visitas": 19730,
       "pct": 64.1
     },
     {
       "ruta": "/kit/kit-basico-72h/",
-      "visitas": 1400,
+      "visitas": 1420,
       "pct": 4.6
     },
     {
       "ruta": "/kit/kit-suiza/",
-      "visitas": 1240,
-      "pct": 4.1
+      "visitas": 1310,
+      "pct": 4.3
     },
     {
       "ruta": "/kit/kit-kit-profesional/",
-      "visitas": 1000,
-      "pct": 3.3
+      "visitas": 1060,
+      "pct": 3.4
     },
     {
       "ruta": "/kit/kit-apagon/",
-      "visitas": 810,
-      "pct": 2.7
-    },
-    {
-      "ruta": "/kit/kit-dana/",
-      "visitas": 480,
-      "pct": 1.6
+      "visitas": 900,
+      "pct": 2.9
     },
     {
       "ruta": "/zona/",
@@ -168,28 +163,33 @@
       "pct": 1.6
     },
     {
-      "ruta": "/blog/",
-      "visitas": 460,
+      "ruta": "/kit/kit-dana/",
+      "visitas": 450,
       "pct": 1.5
     },
     {
+      "ruta": "/blog/",
+      "visitas": 410,
+      "pct": 1.3
+    },
+    {
       "ruta": "/fuentes/",
-      "visitas": 350,
-      "pct": 1.2
+      "visitas": 340,
+      "pct": 1.1
     },
     {
       "ruta": "/kit/kit-30-dias/",
-      "visitas": 320,
+      "visitas": 330,
       "pct": 1.1
     },
     {
       "ruta": "/analiticas/",
-      "visitas": 300,
+      "visitas": 320,
       "pct": 1.0
     },
     {
       "ruta": "/kit/kit-coche/",
-      "visitas": 290,
+      "visitas": 310,
       "pct": 1.0
     },
     {
@@ -198,24 +198,29 @@
       "pct": 0.8
     },
     {
-      "ruta": "/kit/kit-comunicacion/",
-      "visitas": 240,
-      "pct": 0.8
-    },
-    {
-      "ruta": "/kit/kit-evacuacion/",
-      "visitas": 220,
-      "pct": 0.7
-    },
-    {
       "ruta": "/kit/kit-starlink/",
       "visitas": 210,
       "pct": 0.7
     },
     {
+      "ruta": "/privacidad/",
+      "visitas": 210,
+      "pct": 0.7
+    },
+    {
+      "ruta": "/kit/kit-comunicacion/",
+      "visitas": 200,
+      "pct": 0.6
+    },
+    {
+      "ruta": "/kit/kit-evacuacion/",
+      "visitas": 200,
+      "pct": 0.6
+    },
+    {
       "ruta": "/noticias/",
       "visitas": 200,
-      "pct": 0.7
+      "pct": 0.6
     },
     {
       "ruta": "/kit/huerto-autosuficiencia/",
@@ -228,18 +233,8 @@
       "pct": 0.6
     },
     {
-      "ruta": "/privacidad/",
-      "visitas": 190,
-      "pct": 0.6
-    },
-    {
       "ruta": "/kit/kit-mayores/",
-      "visitas": 180,
-      "pct": 0.6
-    },
-    {
-      "ruta": "/kit/kit-mascotas/",
-      "visitas": 170,
+      "visitas": 190,
       "pct": 0.6
     },
     {
@@ -249,23 +244,28 @@
     },
     {
       "ruta": "/kit/kit-electricidad/",
-      "visitas": 150,
+      "visitas": 160,
       "pct": 0.5
     },
     {
       "ruta": "/kit/kit-frio/",
-      "visitas": 140,
+      "visitas": 160,
+      "pct": 0.5
+    },
+    {
+      "ruta": "/kit/kit-mascotas/",
+      "visitas": 160,
       "pct": 0.5
     },
     {
       "ruta": "/kit/kit-bebe/",
-      "visitas": 130,
-      "pct": 0.4
+      "visitas": 150,
+      "pct": 0.5
     },
     {
       "ruta": "/kit/kit-montana/",
-      "visitas": 130,
-      "pct": 0.4
+      "visitas": 140,
+      "pct": 0.5
     },
     {
       "ruta": "/blog/el-conocimiento-dartnell/",
@@ -332,18 +332,18 @@
   "paises": [
     {
       "pais": "ES",
-      "visitas": 19590,
-      "pct": 64.8
+      "visitas": 20210,
+      "pct": 65.6
     },
     {
       "pais": "US",
-      "visitas": 4580,
-      "pct": 15.2
+      "visitas": 4550,
+      "pct": 14.8
     },
     {
       "pais": "DE",
-      "visitas": 910,
-      "pct": 3.0
+      "visitas": 940,
+      "pct": 3.1
     },
     {
       "pais": "FR",
@@ -352,17 +352,17 @@
     },
     {
       "pais": "BE",
-      "visitas": 490,
-      "pct": 1.6
+      "visitas": 460,
+      "pct": 1.5
     },
     {
       "pais": "T1",
-      "visitas": 320,
-      "pct": 1.1
+      "visitas": 300,
+      "pct": 1.0
     },
     {
       "pais": "IT",
-      "visitas": 270,
+      "visitas": 280,
       "pct": 0.9
     },
     {
@@ -373,7 +373,7 @@
     {
       "pais": "NL",
       "visitas": 230,
-      "pct": 0.8
+      "pct": 0.7
     },
     {
       "pais": "AR",
@@ -387,8 +387,8 @@
     },
     {
       "pais": "CH",
-      "visitas": 170,
-      "pct": 0.6
+      "visitas": 160,
+      "pct": 0.5
     },
     {
       "pais": "JP",
@@ -401,22 +401,22 @@
       "pct": 0.5
     },
     {
+      "pais": "MX",
+      "visitas": 150,
+      "pct": 0.5
+    },
+    {
       "pais": "FI",
       "visitas": 140,
       "pct": 0.5
     },
     {
-      "pais": "IN",
-      "visitas": 140,
-      "pct": 0.5
-    },
-    {
-      "pais": "MX",
-      "visitas": 140,
-      "pct": 0.5
-    },
-    {
       "pais": "CO",
+      "visitas": 130,
+      "pct": 0.4
+    },
+    {
+      "pais": "IN",
       "visitas": 130,
       "pct": 0.4
     },
@@ -437,17 +437,12 @@
     },
     {
       "pais": "IE",
-      "visitas": 100,
-      "pct": 0.3
+      "visitas": 110,
+      "pct": 0.4
     },
     {
       "pais": "CL",
       "visitas": 90,
-      "pct": 0.3
-    },
-    {
-      "pais": "HK",
-      "visitas": 80,
       "pct": 0.3
     },
     {
@@ -457,6 +452,11 @@
     },
     {
       "pais": "CA",
+      "visitas": 70,
+      "pct": 0.2
+    },
+    {
+      "pais": "HK",
       "visitas": 70,
       "pct": 0.2
     },
@@ -536,6 +536,11 @@
       "pct": 0.1
     },
     {
+      "pais": "NO",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
       "pais": "PY",
       "visitas": 20,
       "pct": 0.1
@@ -611,11 +616,6 @@
       "pct": 0.0
     },
     {
-      "pais": "NO",
-      "visitas": 10,
-      "pct": 0.0
-    },
-    {
       "pais": "NP",
       "visitas": 10,
       "pct": 0.0
@@ -659,13 +659,13 @@
   "dispositivos": [
     {
       "tipo": "móvil",
-      "visitas": 17960,
+      "visitas": 18290,
       "pct": 59.4
     },
     {
       "tipo": "escritorio",
-      "visitas": 12180,
-      "pct": 40.3
+      "visitas": 12430,
+      "pct": 40.4
     },
     {
       "tipo": "tableta",
