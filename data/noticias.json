@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-06T10:10:40+01:00",
+  "actualizado": "2026-11-06T13:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,30 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Qué debe incluir y cómo preparar el kit de emergencia de 72 horas que recomienda Bruselas",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXFka3hXWnppcGlwQkJGMEpvSHdzUVZmdXdHWkFVOEQwTGRoRW9oRFJGZjZJOU5XQ1d1azJ3SkhCZ0JYbS1nVmRQT0NrTmhyTkp2TUU5NDJHZWU1NXJ6RTZfU2ZRMjFZSC1zU1lHVmVUTmpBS0dncUVCOXI4M3Jub3dZVUpvaEVpWjhLYjVHVGM4N3A2b3M3WVBfMnB6aUhYVFRfQUtoNTFQV2NmZ2RQVEFXeHZrNm5aREHSAb8BQVVfeXFMTkdBWDE5RE9xRk11clQ4SG80RUFXOXdiQWRrZTVxd0VtbmIwZHY0eEVSYy1Gb2NHMXhDakRoOEp0cGU0eXJNdkJieGgwaG41aW5OZnh1LVFVNVNGQTUtZmxLRTJNeTY3OEg4YmEwcjlVUDVVbW1qMmdMZjJrVXBYRVVWeUhjVE1wREpFVFhkYUNJVHhCSzVYYm5Wamg3QTlEUktKdmJFNkJSWnlnbzFDVUFKNm0yMWlvY0RQNkE4Y0U?oc=5",
+     "fuente": "elDiario.es",
+     "resumen": "",
+     "fecha": "2026-11-06T11:13:46+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "3 kits de supervivencia para apagones de 72 horas: con radio autónoma, batería externa y linterna incorporada",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFlQc1JoVUJhMEJXRzlRLW83Y050TzhFNlh4Vm9sQlA4d0puZDluX1VhSFF1OXVIUTU5UFZwNVJQQkJnLUtaQldiV2pVVmcwQWVmOVZVYWpVTjN5cWFQbHpMS21sZm9PanpTbEhoVTdDdWwtNFlPMlRTQU9tZXVsSy1sbzAtck1mQWZSb3p5OEJaR0ZneVRkaUp2ZU1CVVFzR0FpSEUwdVk?oc=5",
+     "fuente": "Diez Minutos ES",
+     "resumen": "",
+     "fecha": "2026-11-06T10:16:07+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Europa vuelve a recomendar el kit de emergencia de 72 horas: qué debe tener y cómo prepararlo",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdjFKUjdEUlp0UFZUS0tfRlAxbGNNS3lwTWV5TGRETU5NVFhENUVWVVZlVFhoWmhTY3hkT09zenJpSlpfSkM2Tm5uUWlGYm5pNnN2RWt6bEw5WWd0clYxN2VYVUQwWFY1YzR2YlFrZUVFeEhONTg3VFRzRkl3RzBmMzlPRjBQOGFMSTFxWTNCOGZWX0VpS0pPMGRXQVBCanJJVHpjOGFMcGR2V28xMlhNV25HX2Frc0lJQWV1TGN3Zm4tY3NuLWE0Q2V5cHhJVnBiOGh3VnRZSW5vWkNIb1hBMEE5akI?oc=5",
+     "fuente": "Telecinco",
+     "resumen": "",
+     "fecha": "2026-11-06T09:37:17+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "Preparación de 72 horas: Respuesta proactiva ante situaciones de emergencia",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0dLSTc3S2lRNXNFSWFKMGluWUpHeFhPcmFmS3Vqc0M0WUdHc0JJYkdJX2dfaGZSR0lnUU9ObDRVVGJXV2FGVE9FSjk0b3hPVmZQeVZMNmFiQXBYR0xHYjBueGdwaC1abHk1OUZMeEFHOW1QendYR3haR3FLWC1TMHEtYS1pS0dpN3BWdlc1S2Vwa1U1?oc=5",
@@ -28,6 +52,14 @@
      "fecha_txt": "6 nov"
     },
     {
+     "titulo": "Así es el kit de emergencia de 72 horas que recomienda la UE tener en casa: qué debe llevar y cómo prepararlo",
+     "url": "https://www.msn.com/es-es/noticias/other/as%C3%AD-es-el-kit-de-emergencia-de-72-horas-que-recomienda-la-ue-tener-en-casa-qu%C3%A9-debe-llevar-y-c%C3%B3mo-prepararlo/ar-AA2gSUnc",
+     "fuente": "Okdiario on MSN",
+     "resumen": "La Unión Europea (UE) desde hace años recomienda tener un kit de emergencia en los hogares. Ciberataques que afectan las temperaturas de las neveras de los supermercados, apagones y otros episodios pu ...",
+     "fecha": "2026-11-06T03:01:46+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
      "titulo": "Europa vuelve a recomendar el kit de emergencia de 72 horas: qué debe contener para estar \"preparados\" ante \"los crecientes riesgos de crisis\"",
      "url": "https://www.telecinco.es/noticias/internacional/20261106/europa-recomienda-kit-emergencia-72-horas-riesgos-crisis-desastres-globales_18_020637254.html",
      "fuente": "Telecinco",
@@ -36,44 +68,12 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2hkVGt1b1h2VTVCUWJUQmdQcHhEM2hRd2pLUUp3aW5ZSDdXcDlJcm5ld1RQbmxmZ0hHZkhtZ0ZqZzR1ejNxUDFBTUJJNms0eGdlcE53VGZLR2IxREpDU1d0Y1o0R1hEVmlpWEN2ZHdvMjlqaTNmOTdUMS10V2pFakNrbEpQdWVJR2phd0g1clBvamF4MGlGS1cwVHR4Nlp0c0dVTko2eHhsVXFwbkxYbFgycXJNLWtJd2ZN?oc=5",
-     "fuente": "Super Channel 12",
-     "resumen": "",
-     "fecha": "2026-11-05T23:19:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Cómo preparar una mochila de emergencia para 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE5NODlvUmtoMlBWTlFxZVhqRDFvTzlkM1lFWnh2Nkc3QW1zaUNXNHlnVmw0cFBKUzZvTi1ZTW03c1oxcG8tV01EelVHZFV6eHlRUmI0R0g4TXlMaFA2eWsxN29yNjMzOWZQaHRnRWUtU3RQbVl1MHJpdHd6M3pINDRTUWozNzZBVkczUU0xTXJBZjBtZFpkVmFGWGxaWHd4R01KQ2dZTWhBUEnSAbABQVVfeXFMTWxyc2RpM2xsVjlOSnQ4Vm1FUnpkeVFGZzQtMGR4Q2R6dXgyc0pVaVpnUzBmZTBEZzJKNXlWeEt5enZod05fdV9SY1YxUGR1R0dhOUowcGZ3c2ZmQVRudXZYVFN6YzJDRXlnS1MtdF9wRk14QmVLMThldWVtaGZrM19mSTlmUXN5cVdRZHU4bjdsc19UTjNyY3dwOUk1enNLSVhzMkctNzRrZ3RyT2NLX2U?oc=5",
-     "fuente": "Expreso",
-     "resumen": "",
-     "fecha": "2026-11-05T20:29:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "La Comisión Europea recomienda estar preparados para emergencias tras ciberataques",
-     "url": "https://www.elperiodicodeceuta.es/la-comision-europea-recomienda-estar-preparados-para-emergencias-tras-ciberataques/",
-     "fuente": "elperiodicodeceuta",
-     "resumen": "Bruselas aconseja tener un kit de emergencia para sobrevivir 72 horas sin ayuda exterior tras recientes ciberataques en Europa.",
-     "fecha": "2026-11-05T17:00:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Países piden guardar comida y agua para 72 horas o más",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40Rm5VYWJQaHRFd1l0bGpEbFcyeWtINTAxSWZWSDI1dGVvZmV2S0JvQ0VOakZ0RWVDQlBKRXM1VTNVcWZJWXdIQUloNEZXVjI1Vkg0X1J3Nllab2FJTjJWZnpBTnBSVFM4R21MRVV4MURXZmVk?oc=5",
-     "fuente": "QPASA",
-     "resumen": "",
-     "fecha": "2026-11-05T15:28:39+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "El primer ministro tailandés se pronuncia sobre la recomendación de un \"kit de supervivencia\" de 72 horas.",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14UHZlX09LMjUtaWVwX1ZvVEE3ZzJuZnJCYmQ5b0xCZmN0ZUxRRFpHV2s5WHczRDhibkpnZTNoMmFkWFNibEYyejFPeVFfdHRmV0RZ?oc=5",
-     "fuente": "شبكة تواصل الإخبارية",
-     "resumen": "",
-     "fecha": "2026-11-05T14:44:50+01:00",
-     "fecha_txt": "5 nov"
+     "titulo": "Bruselas insiste en el kit de emergencia: esto es todo lo debe llevar y por qué es tan importante",
+     "url": "https://www.marca.com/tiramillas/sociedad/2026/11/06/bruselas-insiste-kit-emergencia-esto-debe-llevar-importante.html",
+     "fuente": "MARCA",
+     "resumen": "Desde hace algunos años, y ante la crecida de peligros en el mundo (guerras, catástrofes naturales, amenazas nucleares, etc.), desde los organismos de la Unión Europea se recuerda a la población de la ...",
+     "fecha": "2026-11-06T01:00:00+01:00",
+     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -123,14 +123,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Granada: El Infoca intervino en 87 incendios forestales en la provincia durante 2026, con más de 606 hectáreas afectadas",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHFZeTlEMTJMU1ZBamhFZERPNW9Ka2U5ZGs0b0JhZnVmOERQMXdSaDRFME9CQUp2eHY1aVJEb2ZrXzFUOXpQNkxoWEc0RHU0aFpub2haQXNWQ2dIeW5SZU5aSGdXRWVHNDE0VXZMLWYwUjdSQWdjbWJqcS1KNlZFdVNGdklQa0NyWjJxRXJsUmhJam9OODk3M0JsSGdOODNTZnpVMHNQSkpjdVoxRUlPTHZxc2VyNTVSWVFTbWNCeExMTnZ1UXoyc1hZT0o5eFcyX2NpaFlPczR1cHFEZXB5T09lYw?oc=5",
-     "fuente": "Motril Digital",
-     "resumen": "",
-     "fecha": "2026-11-04T18:29:43+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
      "titulo": "El 52,87 por ciento de los incendios forestales en la provincia de Granada han quedado en conato",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWk1PVEhNdWlkMVhVQ25MZmpBMGdvTHNGaWdUMi15UkVlTFZMVEt3SVIzVW1rNWJhZUViM20yZHdjdk1SeHBTZEpsdHBRdjQ5WGpPNTMtYXVveUdVX1lsdE1NMHBkM1FnWFJBeDJlbkhNMFBzTHVtWlFTcHBkODhVbTZaekxOZnVxSGtpQ0NmOGJNc2hWQ19sdlZYYWFfZlY3dE44Z2dQeEVCRDVldHVHZlRwMWlNc0RSMHdjQVU4c1dad2twbEs0R0lsVkN6ZUhuRG5zTTJn?oc=5",
      "fuente": "Ultima Hora",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-03T16:45:54+01:00",
      "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Ante el inicio de la temporada de incendios forestales, expertos de Chile y España se reunirán para fortalecer la prevención y respuesta ante emergencias",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkdpT1FCa2JtLUVtMGZYZGEtT1RzTEZCU3NKSTg5cUMtYmZkX1N0OGdNNklCTjFVemw1ZU01Y2Jqc0tKWnlnakpwX2pQWmIzSVB6NzgxZDlnQnQ4dTBqeFJUZDc2Ni1LaWJaODFkTTVwSG1YSS0zN1ViYkJUVlJCd3VKamdXOGxYWWtZNnFReU5tRkdPWXdzclJ3?oc=5",
+     "fuente": "Austerra Society",
+     "resumen": "",
+     "fecha": "2026-11-02T15:30:00+01:00",
+     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -167,14 +167,6 @@
      "fuente": "Telecinco",
      "resumen": "",
      "fecha": "2026-11-06T08:30:21+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Así afectará la borrasca Bruna en España: más lluvias, viento e inestabilidad a lo largo del fin de semana",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeVlPTUo2VlgzSUZfb3hRbzJMcGd6bHducl9Tb3ZaQTV6SzgwLWxYT1UwdUpDNS1VMHdBTnJFRXRXaGgtWVNCNVppdkpINEo3WUM5Y1JGS3ljWUc4eDQ4dkRtVTg1ZnVYeE5iQmd1RHFwQk9kTVpkVzdRVVdmaFM5NjRVdVNRWThoVE1SRy00SWFnUmljcU1YeFpFWVE4bGdsQmhnUV9jWjJhc0syR05sbTJDTkRwU3lBY01DVWdEcVZmVGZXYzFr0gHHAUFVX3lxTE1IWlhXeElaQkI0OHdxanVIZWNFOU1EUjEtUzVxOHFJbE9YSGNOcFF1VlQ0R0NQUjhnS3djVVpKRWNoSXpCVkV4MXNqbnhwQ2pEMXY2eDJvOXEwaUxyc1RVWlYzeC1EQU9ObUhJWEx0SFkxTk5EU0JuMmcxajFpUzlxNFpPeUdLbVdPckZtRjhEbWZVcVpBYXJKMDRPSjFPMDVtWlhjMUtoTFlsc1VRWEI3dEhvVF91R3NTQkdyUkFkZlRIeGd1WGM?oc=5",
-     "fuente": "MARCA",
-     "resumen": "",
-     "fecha": "2026-11-06T07:58:54+01:00",
      "fecha_txt": "6 nov"
     },
     {
@@ -202,20 +194,28 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Alerta por el temporal de lluvias en Canarias y la Península desde mañana hasta al menos el martes",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41S0RqTHp5bkxENTBQbjQzcUJnbXNxZzJORFRYR2JvUzJJQzEweEhDNHVqWjBYaDYxTXU5SXFqYXdGeUlCaW9ycDkyZTVtUF9UakRIemJiTEtKM1IxQXJCWnVha0I0NndjcTI5aDExZktkQUpCbEktVzV30gF6QVVfeXFMUHptUjBHT29SZzlIYXhqbkhWbEV5MlJXZjh1WnhqNF9YSFZvNndhNWU2ZFFzWmlxb2tBeDFiaS13TWNpLUFBVWdBOWlsd1BmRkFLdkx2cjIwdmlXd054RXBXNm10SkdiQUNPdXluVWQtck9QbF8yUmNJa2c?oc=5",
-     "fuente": "El Mundo",
-     "resumen": "",
-     "fecha": "2026-11-05T19:35:31+01:00",
-     "fecha_txt": "5 nov"
+     "titulo": "Yolanda Pastor, alcaldesa de Oliva, lanza un SOS al Gobierno de España tras la dana Adam: \"No pedimos privilegios, sino los medios necesarios para que ninguna familia se quede ...",
+     "url": "https://www.levante-emv.com/safor/2026/11/06/yolanda-pastor-alcaldesa-oliva-lanza-136150570.html",
+     "fuente": "Levante-EMV",
+     "resumen": "El consistorio reclama un paquete extraordinario de ayudas para familias y municipios afectados y la financiación del 100 % de los gastos de emergencia, que ya superan el millón de euros ...",
+     "fecha": "2026-11-06T04:30:00+01:00",
+     "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Vuelve el mal tiempo a España: la borrasca Bruna traerá lluvias intensas y fuertes vientos",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3NmQmU4VFdFMjBPb3RRcGJZY0NFWUNmU0dxVFByQ3NZbTR0ZXlYYkprMTVXVlBILURSMlBTUnNhX2lVOXhQNVByMEpGTTJQWXgycS02ZHZRNEdLYnlPV2ZVbkpGakZ6ZEZGeXVDU1EtOHpXc2dxbTNTX3RSR3lPbFJXLWR5dlF5VHV1VEhTNDktTjNiNnBaRkdYZ0JmdUpERDloMXJsazVYd3NnZEpzQ2RDbWV5QTRXallIWE9mcTFGZXdH?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-05T17:53:14+01:00",
-     "fecha_txt": "5 nov"
+     "titulo": "El Ayuntamiento de Oliva confía en que el Gobierno de España apruebe para la Dana Adam un paquete de ayudas igual al de 2024",
+     "url": "https://www.elperiodic.com/oliva/ayuntamiento-oliva-confia-gobierno-espana-apruebe-para-dana-adam-paquete-ayudas-igual-2024_1101312",
+     "fuente": "El Periódico de Alicante",
+     "resumen": "El Ayuntamiento de Oliva ha valorado positivamente la declaración de zona afectada gravemente por una emergencia de protección civil aprobada por el Gobierno de España después de las inundaciones prov ...",
+     "fecha": "2026-11-06T03:31:00+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Los meteorólogos coinciden sobre el 'grifo atlántico' que llega entre el 7 y el 9: “Viene provocado por el cambio de patrón. Regresan las borrascas otoñales con ...",
+     "url": "https://www.lecturas.com/diario/meteorologos-coinciden-sobre-grifo-atlantico-que-llega-entre-viene-provocado-por-cambio-patron-regresan-borrascas-otonales-precipitaciones-muy-abundantes-inundaciones_200920",
+     "fuente": "Lecturas",
+     "resumen": "Las lluvias se intensifican durante la tarde del domingo 8 y los expertos de la AEMET no descartan inundaciones.",
+     "fecha": "2026-11-06T03:18:00+01:00",
+     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Canarias se planta en Madrid: «No podemos esperar al apagón»",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxlY1lqVzJseWw1VHp3dm9DN1ZQVTVJckFHZERTSFlEbW1LbHJuZkF3ekxXVVFSMUtNWW1sTkEwNVFrbmJ1RTJwbkw0cFFJbHN3TkJBazhBWTdMMzZuN2ZuWkZ0eHdfUGk4RUxJRllYR1ZKSlhrUXNsWlpfa3I3NkZaR1Zldw?oc=5",
+     "fuente": "Canarias en Pleno",
+     "resumen": "",
+     "fecha": "2026-11-06T12:50:03+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "La CNMC castiga a Red Eléctrica por disparar el uso de gas para estabilizar el sistema y fallos en sus previsiones",
      "url": "https://www.economiadigital.es/empresas/cnmc-castiga-red-electrica-disparar-uso-gas-estabilizar-sistema-fallos-sus-previsiones.html",
@@ -257,14 +265,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "4 de noviembre de 2006: el apagón que llegó a España tras una desconexión eléctrica en Alemania",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYnRZaEh5ZjdBdlVtQWloY1kyWFBqcDZJaWlvVTRVODNxVUF5a0xJaWpDVm5mRi04VXBUSUpWSFlkZ3ExaHZtem0yOFBDY2RBSjA0elpVTXlxYWZTLXBfVm1kdDhGTlNWa1lPdW9SUnVkZWlNSnBmRXFnN2sxNndvblNiQldhQzd3N2Y0Vm9TMFhBcFBEaXdkQkRJMTFUMkpFeEw4?oc=5",
-     "fuente": "La Noción",
-     "resumen": "",
-     "fecha": "2026-11-04T09:01:56+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
      "titulo": "El apagón de datos del menú escolar: ¿de dónde viene lo que comen 2,5 millones de niños y niñas en España?",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnRvdU1YNHNGNzBRUGFwSmJMRlJoOGdpR1lzOWRUTUU3R1dNRjVSZUw5SVlxQlZkNHU0YWNMSVZHQk1WcmpYVzI0M3liUERTYU5pMjdrMFJKOWlBNDFvdFUzdXp3Nl9UcTVaR3c4ZFhMT3RtRm5fRDhhZWZ5NnAtUjE2ZVBwbjhIdlJKN2RpaDJFeHZUVUplSjd0VkhSQnFpREFsQkVOdXpWZ9IBrwFBVV95cUxQUmhZOFVuOTk4Rk0xX3RCaDM0c011bkI0RmhoNTBfT1Y5VWRyVGQ3WXQ4aGp2TVFyTFpybGhaNC0ta1RiWFhPTlhsQl9oY2N5VHI2TXN6M2x2M1RGN2FwWTNiU0VYWG9mTGVHb21ISlZsMzNFZmxTVXdrdF9yd1pPZHdSVHBlNDZscVR5WF85ZjlhMmpNcGU1V19lQld6MmxQNE05SGo0NlpZaXV2SnRV?oc=5",
      "fuente": "Diario Público",
@@ -281,11 +281,11 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "Los hogares españoles asumen ya 123 euros adicionales en la factura eléctrica por los costes asociados al apagón",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdmNxR0tyTkQyT05laDM5Ty0wVHZEMUFfWncxdmNESGRuMzduY0RabDdTTlRSMUdnc25BQ2RIQ2R1bldlV0JNb0R4YkN3MFYxVmtNY1c1Q1lFQ0UwT3V3MXhZT0dVX3BEdG5ZS09iTlNMQWt1c01lUWNUV1diSEs1WENEVkF0SEZzWDdFTWhCOGFsSjBicGlpdGJvX1o2dmFUdElRcElRc1phVFVLclBuMHdyN2FHdmRPLWpDa2EzVEpvOGpVQmw2MWh0WWZ4X2hmdENyOTJWUjhSaTdsdEM3bmZhVFlrcWIyWmJUcDZaZW0yZ3PSAfgBQVVfeXFMUGFtNTAyVDdra2ZmV3hoUVRMX1hjTFRWSy1idXNuaHRFSW9YNjBCQU1OOGR4RFo0Q0toVTFHUVJRYm4yVWwzM01nLWRIWmdtOFBXQ3QxZDBDWWU4WVgtTUl4SW5jRmZ5TTdiVEdEd3cyenBuaURBT3ozdzlKVkJyMEg2SHYwVDB4dmZvaEJaV3VWQTRFQlFMalBFSmp1NDlaQW51a05JNjhTWVR0RDRzWnhwYjV4QU1NS1RmYXNDQVFfeFhmX21KNEhZUmw4NUh0bDJlZnlTb3BOTWp3bDNaZHBaR0NiY2w4WWlKcWZtSlBlRDYtcDUzZEE?oc=5",
-     "fuente": "Vozpopuli",
+     "titulo": "Canarias declara la alerta en La Palma tras un apagón total",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGFyaGU3RFhBYmZmR2pHZU1kcmRVVEJiUzdNaVh2ZHlGOWpmRFpUOEkxQ1hWeVBOV2VuRnRCYV82eHl1RnQ5aUoyU3JudHNIV3Y1LWpSNGhmNUpULUlsdDUzZ1pYbmpnZ0xFeWR6QmpuRS1VN0NiM0ptX25IaDZnc2lyNDRidnZ6ZWNUZVhfTE5JVi1UVFVNVjRocFF4Q0F6bXR3?oc=5",
+     "fuente": "Merca2.es",
      "resumen": "",
-     "fecha": "2026-11-03T04:45:00+01:00",
+     "fecha": "2026-11-03T11:59:10+01:00",
      "fecha_txt": "3 nov"
     }
    ]
