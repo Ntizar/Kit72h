@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-06T04:10:41+01:00",
+  "actualizado": "2026-11-06T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Preparación de 72 horas: Respuesta proactiva ante situaciones de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0dLSTc3S2lRNXNFSWFKMGluWUpHeFhPcmFmS3Vqc0M0WUdHc0JJYkdJX2dfaGZSR0lnUU9ObDRVVGJXV2FGVE9FSjk0b3hPVmZQeVZMNmFiQXBYR0xHYjBueGdwaC1abHk1OUZMeEFHOW1QendYR3haR3FLWC1TMHEtYS1pS0dpN3BWdlc1S2Vwa1U1?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-06T07:02:40+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Así es el kit de emergencia de 72 horas que vuelve a recomendar Bruselas: qué debe llevar y cómo prepararlo",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZno5RkxEWjl1bmd3ZUlxUlpibVJMeWkzcTlmV3ByODBfODVLOC05cHQ1cGtpWWtHd0FkZGY2YjZBSjJFYlM5ZHFQZ1dhSHF4a3p5YXBzTzk5dTNub2VLa3hLYTNabFFKVjVvRk9uZVhDYjlTa1JfMUY5S1hMeV8wbXZyTlRJYWNPUEZkNEo1bFdMNkxSc3hvYXUtbGltWWc1WC0xWmVGdUFldDZxSHQxUVVXdUtZaDBKc3FkaDU3cC1nVFNtVFNoUjk4ZWlNV1hNNG9naWlKb2J4LU51dGxaN9IB5gFBVV95cUxOQmp5TWU4Y3hrUXJZcmxWdjFZVTVzakxPQ0hfcjFlY1M0YnNYWFJpN2VWZlhqd2ZFTzNqT2xPQUladVJRLVhyZlpyNmx4b0x3b1JFUXJJNTlyc1VSMnlraWUzcnY2aFBGM0loYkRaNlYyVHg3NjJBS0puQXFLMWVEV0U4M1VxYjEwOS1RSlh3WkFkR1pOaVN0QmZLSnR4cWo1dVJmdndCekFsOF81M1NfV0hTbGNodmRSU01xOEJEQV82TDM3bmpDdGdzaE9FSF9FUkhFVTRjdndqRE9EVXFrMWpkLVR5Zw?oc=5",
+     "fuente": "20Minutos",
+     "resumen": "",
+     "fecha": "2026-11-06T05:00:00+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "Mochila de Vida: Los artículos indispensables para sobrevivir las primeras 72 horas ante una emergencia",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2hkVGt1b1h2VTVCUWJUQmdQcHhEM2hRd2pLUUp3aW5ZSDdXcDlJcm5ld1RQbmxmZ0hHZkhtZ0ZqZzR1ejNxUDFBTUJJNms0eGdlcE53VGZLR2IxREpDU1d0Y1o0R1hEVmlpWEN2ZHdvMjlqaTNmOTdUMS10V2pFakNrbEpQdWVJR2phd0g1clBvamF4MGlGS1cwVHR4Nlp0c0dVTko2eHhsVXFwbkxYbFgycXJNLWtJd2ZN?oc=5",
@@ -25,14 +41,6 @@
      "fuente": "Expreso",
      "resumen": "",
      "fecha": "2026-11-05T20:29:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Habrá un apagón mundial? La verdad detrás de la mochila de 72 horas que recomiendan varios países",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTlnNW01dE9RYWR2LTdFLTRYXzEteFpBQUxkcVc1RDNxQmJCekNmX0RZRk1La19VT0tOYTNfMUI5aWJ4TFN6dlA3OFQzVzFaR0p2Wm1ob0t0anEydUgyUWhXb2tuOVhKTUJYWXJ1Y1U5aU15N3dPV3VYRERkWDVJMHhaTQ?oc=5",
-     "fuente": "Grupo Marmor",
-     "resumen": "",
-     "fecha": "2026-11-05T16:55:59+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -57,14 +65,6 @@
      "fuente": "Vietnam.vn",
      "resumen": "",
      "fecha": "2026-11-05T13:50:28+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Qué países recomiendan tener reservas de emergencia en casa y para cuántos días deben alcanzar?",
-     "url": "https://www.msn.com/es-mx/noticias/otras/qu%C3%A9-pa%C3%ADses-recomiendan-tener-reservas-de-emergencia-en-casa-y-para-cu%C3%A1ntos-d%C3%ADas-deben-alcanzar/ar-AA2gPmz6",
-     "fuente": "Debate on MSN",
-     "resumen": "México, Estados Unidos y países de la Unión Europea recomiendan preparar reservas de agua, alimentos y artículos esenciales para afrontar desastres. Las indicaciones varían según los riesgos y las nec ...",
-     "fecha": "2026-11-05T09:31:00+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -154,6 +154,22 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkw4NFA4aHFVMmZzblRuZHRtdF82TlNzTnVxUUFFOGZLdmhvR013bGsxeGp0aUdjbFFKNUQ3RVBMMm9nTHlDQVFhU0Z2SDIxRzNQdnN2bGtEdi1IeVFqOUFrMW9SSTZ3cjB5UlRHUDVoYmx2Um9QdWV4VkZzZVliTEpXZXRSTnhOTjdST3pudG9jeGdCN0IzWDVjb0N4Q3JuajJvQUNZTlJKSDY5S2JqZ2dpS1FwSWhjVDVVb0pLZldCRjJzUlBPZXh5MW5ud3M5WlZ6NFRMX24xZ9IB3wFBVV95cUxNQlhhczE3c1pDY1RSaEJvQXNTdkdOTlNuVURTYlktUlFxeTNLX0c3aG1EN0pnNW1sQ3J6TXFWZ2pOQVFKRDNCRHN6NzBvUUpaQlpYT1hxRmJSRnRhTG51Yjh5N3BHN2hyVnJCTTdHcTRFMkZVZnhjaUgxaGZ6NjVkZ0VuSmJUT2hDUW8zZDdoTTM2Z2J4YzJoVTlwWDJsZGlGSHZzbzdPZDV2ZVNFX0M0WGlXdUpvdGlpa2NoZnRxWXA5ZDBkV2tiQW1BcjB3SGR6enEzODZJdDR2ZUh6R1Fz?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-11-06T06:30:00+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Abascal no olvida la tragedia de la dana en Albacete: «Los responsables de los crímenes de hoy son los mismos»",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVFpFa0wxTFE0a1R0aHZxNHZ5M21YTDdOb0dyMUJPVzlTZXcxNGcxaTdUVDE0THJsSHh2cDRVWGVYb2gyNDlUQU5hRkJhVGVHbzQyOTdLVXdTMWl6aFlZdFlKM01zWmF6SUE3d21HeWN3Sk5BV3ZlcENHQmxVVjg1cGM1anE0QTlobXlZTlU1X05meEk5Zzk0NjR6cXluSGtWaUp0RHd1bm53d2JzNnFCdW9TQ3g0ZG5waS15OWs2TEZ2LWhiNGh2MUc3ZXdwcFdOZUhDMktKSmllcGVfYmN2QUlNY9IB6AFBVV95cUxNV3JxcE9nRlhGZVRQQ1N2bDVNVndDRzlXMDN0ai0wcUd2MjVCYmRLcWlzUk9qS1I5RHN0ZmtQSUY5blNVcmZxQWdkUXVBTU1YS20zN01ZVkliS3Iya2dDc05mMDE3TEhQZ3M4SEgzZk41VXJkekpCbGh1X3hJbjFDazFoS1drblE0OW5yRGJwdkxCNFFzdUJpaW8wbEgzcTNMNXk0Wmx0QXh6RWxPNGxWN1FGTDMxa19RWGxrT283a04yY3hxR1V0N0ZET1VJQ0J2VlZRWnUxamZoRUo0bHJhVXVjUkVoSnFI?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-11-06T04:30:00+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
      "titulo": "Alerta por el temporal de lluvias en Canarias y la Península desde mañana hasta al menos el martes",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41S0RqTHp5bkxENTBQbjQzcUJnbXNxZzJORFRYR2JvUzJJQzEweEhDNHVqWjBYaDYxTXU5SXFqYXdGeUlCaW9ycDkyZTVtUF9UakRIemJiTEtKM1IxQXJCWnVha0I0NndjcTI5aDExZktkQUpCbEktVzV30gF6QVVfeXFMUHptUjBHT29SZzlIYXhqbkhWbEV5MlJXZjh1WnhqNF9YSFZvNndhNWU2ZFFzWmlxb2tBeDFiaS13TWNpLUFBVWdBOWlsd1BmRkFLdkx2cjIwdmlXd054RXBXNm10SkdiQUNPdXluVWQtck9QbF8yUmNJa2c?oc=5",
      "fuente": "El Mundo",
@@ -175,14 +191,6 @@
      "fuente": "101tv Sevilla",
      "resumen": "",
      "fecha": "2026-11-04T15:32:55+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "Una inundación obliga al corte total de una carretera en Alicante y bloquea el tráfico en ambos sentidos.",
-     "url": "https://www.cronista.com/espana/actualidad-es/una-inundacion-obliga-al-corte-total-de-una-carretera-en-alicante-y-bloquea-el-trafico-en-ambos-sentidos/",
-     "fuente": "El Cronista",
-     "resumen": "Quienes necesiten viajar hacia Oliva o la zona de playas pueden desviarse a través de la carretera CV-700 en dirección a El Verger para incorporarse posteriormente a la red nacional por la N-332. Este ...",
-     "fecha": "2026-11-04T07:53:00+01:00",
      "fecha_txt": "4 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "El otoño parece dispuesto a mostrar su rostro más frío. Tras semanas de temperaturas inusualmente suaves, los meteorólogos prevén descensos de hasta 6-8 ºC en algunas zonas de Castilla y León durante ...",
      "fecha": "2026-11-03T04:00:00+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Protección Civil alerta de lluvias torrenciales en Cataluña, con acumulaciones de hasta 60 litros en tres horas",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3NCOHY5S25YQVBpOFZRWlpJbnNwUzhIdy0zNjM1UnJfY0tQOWZfYWp2U3puVl9XcHFBaURYaDVkb3RXNjZSbXQzb1FqUnlOb3JOcUo4MFljU1VwSU9qNmJ0QnRDTV94di1sanlnclNLZ2U3X0o5MEV5NlVwV0twVHFhYU5hZWxwRXRJSGJEdF9VR3drbjIwUnkweG5USVhuY1NLNHZiX3pSWmM2WFJXaC1feVkwTExNaklmUmVzWDhwU2VvZ0NXQXFxZzF0Q2dfN0tlbTRHSFBjSXAxQVHSAeMBQVVfeXFMTjBtRDVIRS1mZEtIMW82QmZra3lpTnFLYUk5TXNhMldEVS14c3M0dElRQW5xREdCOHB2U09IZ3I1VjRkVnUycjg4Q0ExOWd5VVdJVjl1ODhkLS1ObzZfVDM1YTgwLWRJUUFvLXp3enZ1TjNlRnVGcFBSRDV0c2hIMXdReVZkLXhZbmJYdHk1NXViVDZqaDA5RzNOcXgyemRONXA1eUJvOEdiOWhaUU1OWk85R1M4b0w3V0pwbmhTZmJ6amFGVS1wNHhfU1JQdGJOYUNYS0xEV2dQS2sxdjBGdTAzTVE?oc=5",
-     "fuente": "Diario de León",
-     "resumen": "",
-     "fecha": "2026-11-02T18:04:15+01:00",
-     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -225,11 +225,27 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "La CNMC castiga a Red Eléctrica por disparar el uso de gas para estabilizar el sistema y fallos en sus previsiones",
+     "url": "https://www.economiadigital.es/empresas/cnmc-castiga-red-electrica-disparar-uso-gas-estabilizar-sistema-fallos-sus-previsiones.html",
+     "fuente": "Economía Digital",
+     "resumen": "El regulador recorta un 84% el incentivo a percibir por Red Eléctrica por su operación en 2025, año marcado por el apagón ...",
+     "fecha": "2026-11-05T21:55:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
      "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
      "fuente": "El Mundo Today",
      "resumen": "",
      "fecha": "2026-11-05T19:30:58+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "España — Apagón de la TDT: resintonización, DVB-T2, canales UHD 4K, La Séptima y todo lo que debes saber para no perderte nada",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcHl1WFRYYW9nRTFxTG5DRnp1Ulk0TUpzVmY1YW80ZzBEVm1yNTRVWXoyUVZiMFM2Q0szbm1pMVNNY0FIQUVhSnVFM3lMYWRveE9EbElJNTh4cTk5S3llUmlIeFZFM2pZWFVxM0xmTDNKR25rQ3ZTeklDdXZORnhndmpjcGZhZ3FJVTR4cUhzSHRJVjhoU3ZRVEs0Y21ZMzdpWTN0WWdURFdnQldSOGdfQUdJRWNOTHdMLWQ4T0hCQkZWQXNqckRQV01nakRZSGtWTTZwY2xLY1loRllETDJhdlR5ZEJpcWNfU0dTak95ZGg?oc=5",
+     "fuente": "Prensa Mercosur",
+     "resumen": "",
+     "fecha": "2026-11-05T12:48:26+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -271,22 +287,6 @@
      "resumen": "",
      "fecha": "2026-11-03T17:51:27+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Los hogares españoles asumen ya 123 euros adicionales en la factura eléctrica por los costes asociados al apagón",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdmNxR0tyTkQyT05laDM5Ty0wVHZEMUFfWncxdmNESGRuMzduY0RabDdTTlRSMUdnc25BQ2RIQ2R1bldlV0JNb0R4YkN3MFYxVmtNY1c1Q1lFQ0UwT3V3MXhZT0dVX3BEdG5ZS09iTlNMQWt1c01lUWNUV1diSEs1WENEVkF0SEZzWDdFTWhCOGFsSjBicGlpdGJvX1o2dmFUdElRcElRc1phVFVLclBuMHdyN2FHdmRPLWpDa2EzVEpvOGpVQmw2MWh0WWZ4X2hmdENyOTJWUjhSaTdsdEM3bmZhVFlrcWIyWmJUcDZaZW0yZ3PSAfgBQVVfeXFMUGFtNTAyVDdra2ZmV3hoUVRMX1hjTFRWSy1idXNuaHRFSW9YNjBCQU1OOGR4RFo0Q0toVTFHUVJRYm4yVWwzM01nLWRIWmdtOFBXQ3QxZDBDWWU4WVgtTUl4SW5jRmZ5TTdiVEdEd3cyenBuaURBT3ozdzlKVkJyMEg2SHYwVDB4dmZvaEJaV3VWQTRFQlFMalBFSmp1NDlaQW51a05JNjhTWVR0RDRzWnhwYjV4QU1NS1RmYXNDQVFfeFhmX21KNEhZUmw4NUh0bDJlZnlTb3BOTWp3bDNaZHBaR0NiY2w4WWlKcWZtSlBlRDYtcDUzZEE?oc=5",
-     "fuente": "Vozpopuli",
-     "resumen": "",
-     "fecha": "2026-11-03T04:45:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "España, hoy 2 de noviembre: Urda marca la jornada y La Palma recupera la luz tras un apagón general",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUFDYjY4TjREOFZBUjEwLVpFSVZGREdyYmF3eHN0OG03S09tVWpuR0UzMkgyYXU2Tk1xN2ItLTIyWkNUVmxEV29uN2YybEVjSlh2ZFVEWWMwbVlsMUVTWVd4b2NrTkI2RllGOG5reU10bHF0OFpPWkVJZXduYmVZRF9VZmlnMjlYUjNYVkVfX0tvOHFaT2F4cXg4b3hRQl9uY1E?oc=5",
-     "fuente": "La Noción",
-     "resumen": "",
-     "fecha": "2026-11-02T20:59:08+01:00",
-     "fecha_txt": "2 nov"
     }
    ]
   }
