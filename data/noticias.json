@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-05T22:10:40+01:00",
+  "actualizado": "2026-11-06T01:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,6 +17,22 @@
      "fuente": "Expreso",
      "resumen": "",
      "fecha": "2026-11-05T20:29:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "¿Habrá un apagón mundial? La verdad detrás de la mochila de 72 horas que recomiendan varios países",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTlnNW01dE9RYWR2LTdFLTRYXzEteFpBQUxkcVc1RDNxQmJCekNmX0RZRk1La19VT0tOYTNfMUI5aWJ4TFN6dlA3OFQzVzFaR0p2Wm1ob0t0anEydUgyUWhXb2tuOVhKTUJYWXJ1Y1U5aU15N3dPV3VYRERkWDVJMHhaTQ?oc=5",
+     "fuente": "Grupo Marmor",
+     "resumen": "",
+     "fecha": "2026-11-05T16:55:59+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia para 72 horas: qué debe incluir y cada cuánto renovarla",
+     "url": "https://www.msn.com/es-mx/noticias/otras/mochila-de-emergencia-para-72-horas-qu%C3%A9-debe-incluir-y-cada-cu%C3%A1nto-renovarla/ar-AA2gR3R7",
+     "fuente": "EL IMPARCIAL on MSN",
+     "resumen": "Bomberos de Hermosillo recomiendan contar con agua, medicamentos, alimentos no perecederos y artículos de señalización para afrontar una emergencia ...",
+     "fecha": "2026-11-05T16:23:54+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "Debate on MSN",
      "resumen": "México, Estados Unidos y países de la Unión Europea recomiendan preparar reservas de agua, alimentos y artículos esenciales para afrontar desastres. Las indicaciones varían según los riesgos y las nec ...",
      "fecha": "2026-11-05T09:31:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Por qué varios países recomiendan guardar agua, comida y dinero en efectivo ante una emergencia?",
-     "url": "https://www.msn.com/es-mx/noticias/otras/por-qu%C3%A9-varios-pa%C3%ADses-recomiendan-guardar-agua-comida-y-dinero-en-efectivo-ante-una-emergencia/ar-AA2gP9wZ",
-     "fuente": "Debate on MSN",
-     "resumen": "Países de Europa y América recomiendan almacenar agua, alimentos y dinero en efectivo para afrontar emergencias. Conoce por qué estas medidas pueden ser fundamentales durante las primeras 72 horas de ...",
-     "fecha": "2026-11-05T09:26:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Por qué EEUU, México y Europa recomiendan guardar provisiones para 72 horas?",
-     "url": "https://www.periodicocubano.com/por-que-eeuu-mexico-y-europa-recomiendan-guardar-provisiones-para-72-horas/",
-     "fuente": "Periódico Cubano",
-     "resumen": "EEUU, México, Canadá y Europa aconsejan guardar provisiones para 72 horas. Conoce las razones y qué recomiendan las autoridades ...",
-     "fecha": "2026-11-05T08:25:00+01:00",
      "fecha_txt": "5 nov"
     }
    ]
@@ -162,7 +162,7 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Vuelve el mal tiempo a España: una borrasca traerá lluvias intensas y fuertes vientos",
+     "titulo": "Vuelve el mal tiempo a España: la borrasca Bruna traerá lluvias intensas y fuertes vientos",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3NmQmU4VFdFMjBPb3RRcGJZY0NFWUNmU0dxVFByQ3NZbTR0ZXlYYkprMTVXVlBILURSMlBTUnNhX2lVOXhQNVByMEpGTTJQWXgycS02ZHZRNEdLYnlPV2ZVbkpGakZ6ZEZGeXVDU1EtOHpXc2dxbTNTX3RSR3lPbFJXLWR5dlF5VHV1VEhTNDktTjNiNnBaRkdYZ0JmdUpERDloMXJsazVYd3NnZEpzQ2RDbWV5QTRXallIWE9mcTFGZXdH?oc=5",
      "fuente": "20Minutos",
      "resumen": "",
@@ -175,14 +175,6 @@
      "fuente": "101tv Sevilla",
      "resumen": "",
      "fecha": "2026-11-04T15:32:55+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "Una inundación obliga al corte total de una carretera en Alicante y bloquea el tráfico en ambos sentidos.",
-     "url": "https://www.cronista.com/espana/actualidad-es/una-inundacion-obliga-al-corte-total-de-una-carretera-en-alicante-y-bloquea-el-trafico-en-ambos-sentidos/",
-     "fuente": "El Cronista",
-     "resumen": "Quienes necesiten viajar hacia Oliva o la zona de playas pueden desviarse a través de la carretera CV-700 en dirección a El Verger para incorporarse posteriormente a la red nacional por la N-332. Este ...",
-     "fecha": "2026-11-04T07:53:00+01:00",
      "fecha_txt": "4 nov"
     },
     {
@@ -215,6 +207,14 @@
      "fuente": "Diario de León",
      "resumen": "",
      "fecha": "2026-11-02T18:04:15+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Fujimori cancela viaje a España por lluvias en el norte",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWtnVzZ2bUVCcDNTTlBVN0hkb0tXZGhWcFU0UU45WUhKMGdSTXNmNWtrcExuNXV5Qnc0dGhCbE4yNUtQT0UzektjdU5PZ25nWHk1R25oZlpWbjlfaElCUGRMcW1UaTNtUmcxVFd3UGRueDlJM0xZcm13X0Z2ZENZUE5sQzhYTkZ3bkdxSllENHllRXpRb3JNMEJ4c05LUdIBsgFBVV95cUxNX2dRSU1ORGZOSXNDanBLTTh3cnVTSHpEYW83RkZ2c1IydFZ0c2xTZ3p4Ri16aHdsWW9Ma0hWeXBMSWVQY25jYV85bVgweklkRUlhQ3Zxc2JXRnlmS1hmNUxIUWFVREh6bVJnY1JwUGhiZnQtWjBFZVNVT3FHaExsTjhsOVBQR1hxQzN3T0JVRVVBaWU1VTdLQm05VXpqbzBjLWdYVmVKZFFONnZwN1Z3ZDFR?oc=5",
+     "fuente": "Diario Correo",
+     "resumen": "",
+     "fecha": "2026-11-02T13:00:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
