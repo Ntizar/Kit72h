@@ -44,3 +44,4 @@
 | 2026-11-03 | el-conocimiento-dartnell | revamp | encolado | Revamp 324w -> 1300w+ con 7 bloques, fuentes UE+PC, 5 internos, 1 afiliado |
 | 2026-11-04 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno trabajando; no hay ejecutable hoy |
 | 2026-11-05 | mascotas-plan-emergencia | revamp | encolado | Revamp 284w->1236w: plan de evacuación con perros y gatos, 3 fuentes oficiales |
+| 2026-11-06 | montana-kit-salvavidas | revamp | encolado | Revamp 325w->~1200w, 10+ enlaces ntizar-21, tabla, 4 fuentes oficiales, estacionalidad noviembre |
