@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-06T19:10:40+01:00",
+  "actualizado": "2026-11-06T22:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Europa y España piden tener en casa un kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ldlR1UDFqcEdWN1RiTk9NckI1UjUwbU9kdE5HZ3p5TE1rNGx0YjA1Q2p5Zy1XNEstSHllMlBXUkxEdHRFT3JRQU8zRlNHVjNIQzd2MkNYUWlLalp4MWZrMHJPZXgxdjN1LTJkY2FzUkt3YzM5bmZySHln?oc=5",
+     "fuente": "Malagaes",
+     "resumen": "",
+     "fecha": "2026-11-06T21:28:17+01:00",
+     "fecha_txt": "6 nov"
+    },
     {
      "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para la preparación ante desastres - Parte 1: Las recomendaciones no son señal de un desastre inminente.",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlRSelFnWHhkME8yeWdYcFczbWJFT0VqYXJRbzJnZ0EwbUs2cTBvUG5GZ3RJd0NmRk1QTExCM1NSa1dNN01EeTRQSzNfRVh2RmdRb0x3SlhQSWhiX0NpYXQybEM0Q1FHa1hYbzBSX3NCU2FZd1hZWk1UV3kzZnJOVndET04tMi1meS1SLXdVZmgwQ3ZsejlDNzI3SzE4ZDVQeW9YY2pESk9WeXpKLWgyWERuWUY0NGxKamNjaFp3?oc=5",
@@ -65,14 +73,6 @@
      "fuente": "Telecinco",
      "resumen": "",
      "fecha": "2026-11-06T09:37:17+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "¿Qué está pasando? Crece la listas de países pidiendo tener kits de emergencia",
-     "url": "https://www.telemundohouston.com/noticias/local/alertas-kits-emergencia-paises/2589514/",
-     "fuente": "Telemundo Houston",
-     "resumen": "Guías oficiales hablan de 48 horas de suministros y hasta más días según el país. Mira qué debes tener en casa.",
-     "fecha": "2026-11-06T08:41:00+01:00",
      "fecha_txt": "6 nov"
     }
    ]
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La borrasca Bruna pone en alerta al oeste de España: cuándo llegarán las lluvias a Zamora y Benavente",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0pXMFVEOFdaMkVQNzRxdS1lVTg0SnY3ZXhPdVNkaHZGclNoNHY5ZjdJUXdTZ2Nwc3NwVkJWYy1HUXVRTk1EOEN1SDJVdi1YM3VSVjVPeFA0UzEyb29ZazdjRmtqcUxVUktBdV9QcEJFa0lEZDJQak1aLUxrVXAyWWU4Zm5YX0diX3ZmZ2JEMTloSkNURG1FOS1n?oc=5",
+     "fuente": "Benavente Digital",
+     "resumen": "",
+     "fecha": "2026-11-06T17:57:43+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
      "titulo": "La borrasca Bruna traerá lluvias intensas y fuertes vientos a España: qué tiempo hará en la Región",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFVoV2VsejQ5a1ZGMEdfYUdER1RQWGxfMzZVTm5zalVTZXdwZVd1WUNtLVNxRkZCRkZEZDJyZjRneFpzQmYxMW14TUI4b20tY1BCcEZ3VWlIdEZZMUNWSE02Sk5WNUdYcWttQndCUzhfQks3cnBSeFlaTHVHNS1MSjI1bnNabUo1UmNsRnhmTWlRczB3TklMUHg4ZUFvSldzUnowclNxMVp0cTdvVDhIaHE2OWNIczNlVFdzdER2TnczTDBoQWlrRnhOcUxpa0trOUE?oc=5",
      "fuente": "MurciaEconomía.com",
@@ -162,7 +170,7 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "La borrasca Bruna llega a España con tres días de lluvias intensas y temporal en el oeste",
+     "titulo": "La borrasca Bruna llega a España con 3 días de lluvias intensas y temporal en el oeste",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmZtcXoya084YUg2SGVTYjFkc1BMTWh3NVJ2NjNvNmI5R3UzaUJxc3l0b3A1VnZOUjNmMzVTZTBPZHd6Nl81dlAxaG14UWJzWUJ6Y0NWUndQTlVzeWY0YXpWOFliOGtyQTBEOXRGRkRYUzFkbFRueEloTUdHdkkyZVVJU1pXYy1sYXVCX0tJRjhvLVgtOXEzYWtKTmdaRmFJelBXUHlrTl9qTXNwb1lSOEVjenlHc3lp?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
@@ -175,6 +183,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-06T14:53:58+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "La Generalitat localiza en Valencia 1.550 hectáreas para construir 131.000 viviendas a salvo de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONGNTc25RWVBTMXBCR1NxNDhCTF9hRml3MkkxR1ZqeGVsWnBtc1dFZTJkeVhJRFB1UFdVTFlqbEg0aUtBQ2R6dHBIT0FteHVEV0Vtd3ppbnNUelFLWkxqWDdMb0w2TURpaGVqYmt1RHRaYXo3V3pFUko4RFJiU3A5eFQzRHVGOW1PUFIzYnRhdzBuVTEyUE5qdUpObmsxdHhhWTM0MTc2UElhUXNxZjlBT0tUMk5PZFhYbGppQ2xyMDlUNGxCN29NUE5JZkZjUU9MWnZWOG9UVzZvUmw2bkVRVlJjQkp6UjRrbkFaMHhqX0xwNlY3dl82QtIB_gFBVV95cUxNTVVQX2NxVFUtWHk0eVJXSHdpNE9fbFRWckFIeVEyMVB0R0xBU1RzdEc1QUVobnlEUkhDbUVFS285NklJQ2wzeFVSWmRMdTdSdFpNU3g3LWcyVERFY0E0VVBkMi1GNTlZMXJqMU5QeWozS0lJYWQtTllkYlMxT1dIS29FSTdDZTctXy1FZUc5ZGUxa21fdFBlQkM4UHc1bl9oWmxxWU4zbVhkUXF0aUE2U1hDaWgzakJxU0xvZ01Sc2xnQ0xtcFZraHg1dHBPR2RFY2o3bGVCMUI0bVRlcWYwakVHVnZVa3c1eWdtZ1BvaXV3Z1pTajh0bmhUcFVqUQ?oc=5",
+     "fuente": "Vozpopuli",
+     "resumen": "",
+     "fecha": "2026-11-06T14:14:13+01:00",
      "fecha_txt": "6 nov"
     },
     {
@@ -199,22 +215,6 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-06T08:31:55+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Alertan de la llegada de un importante temporal atlántico en España",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWGFZYWVYOE1xTWdmUGZEczBxdVRFZEU5QzR5ZmlZYld2ZTFzYXJ0XzlVV2M4NEhqVFI1TmhMdGcwXzR0cVBPejdPeHZsZ0pEMm9kbWUzY0JYTUxQejZydGkzZDZsazR3cTZhM3ZBVjk1TTlKX1ctRVJTZDExWS1mOHNYNTBpaEk5bXBwZ1g4RjdJcnZpQ2FfbEdnZlhoRU5iNEFrN25rSE11bThrNGFkWUNNOXJtTnEyMlEta1RaZlRzRTZnS01MdGNZck45azg?oc=5",
-     "fuente": "Telecinco",
-     "resumen": "",
-     "fecha": "2026-11-06T08:30:21+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La Aemet alerta de la llegada a España de la borrasca Bruna: “Se pueden dar inundaciones locales en zonas bajas y crecidas en los ríos”",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdkhFX0RMbVVERnNrZWwtalViVkJKOHR1dWJiYmExeGJwM3ZyM3FVTldtZFg0Y0tJU052UjhjTVBFaS1rdE91VHVmNnpTMTVNUEJiaFJSSnI0UHgxUHZ2Y3VOcUZPQmI3Ukd6WjBsSzU2WkRpaGFSUTBEbVUwdW5qdTFRSDFVQ1ktcEFBemFqczFMUTFkV01NbGJhbFdjZUlBTTBsTHlsV1lDTE9SMjhUN1Z0d2lvSmJoZU1YejhUekduOHZCX2ZGWEZwRVlwVDd0b3ZCTDBhZmxndU1tU2lKOHZ5d242d253WUpkbU5ON0cyX0hVajZaWVluSFFKYWZnMEJ3Nl9B0gGgAkFVX3lxTE5YYi1xaF81Ujg5ZThrY3pseVhsc2hJUEhiTmtzTnpUWWRFc0JDdmxKdXdOY2R3Q0FrSmRBUjcyYW81WnRGZ1FXWkpUMlg4cDhFY296MUhGdDNKMGw5T1FTc0diSWZJUmE5cnhPNzNuekx0aWtSZGFaSkFkaHVFYmVzM0N3WUVJTER3V2hjZWRoVTdmVkRVdEpwV1NYdHhCeGEyTS1XdC1laHZlSUFrOHZiWmE0MzJnclFlQ0pBdEtrT2ozcVdsRUtIY1FNcWVEdElMVS11VkZRdzQ3SUlDeEpEZXR1VFZXX2tYX3dtM25FclpkbmxTYXd2T0NaS3k5VlBMUkNtMWdhaDVSOGFuMjVYTmhzSzJrUFBPY0FzS0dsdg?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-06T07:11:00+01:00",
      "fecha_txt": "6 nov"
     }
    ]
