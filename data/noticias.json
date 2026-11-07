@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T01:10:40+01:00",
+  "actualizado": "2026-11-07T04:10:41+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Kit de emergencia: por qué varios países lo piden y qué hay de cierto sobre una \"alerta mundial\"",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkhmWDduV2dfaFpFSGl1aGw4bTlPZm1hZ200MjZtMHRxNVh0UXJJdG1hTW9qTnFTM2c5MXF2WXVyaGJoSXZIaEhreWJkcXk2YjFFWkJFaTh5RVBIa2VYYVRjOTJwcjdYdzRXYTJsWGtTMFl1MEIxYkNPM1ZzQ3dLMWF1SGRQYzFiaDlCZ05kb2FhMi14a3RzNzZrdi1mMkRMNXFuSTgyTWpnRWwxS01kMmtEMHdnellZTmU1SklvVko2NWJaS0RjRWFYVDdLV01S?oc=5",
+     "fuente": "Telemundo Atlanta",
+     "resumen": "",
+     "fecha": "2026-11-07T02:30:00+01:00",
+     "fecha_txt": "7 nov"
+    },
     {
      "titulo": "Europa y España piden tener en casa un kit de emergencia",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ldlR1UDFqcEdWN1RiTk9NckI1UjUwbU9kdE5HZ3p5TE1rNGx0YjA1Q2p5Zy1XNEstSHllMlBXUkxEdHRFT3JRQU8zRlNHVjNIQzd2MkNYUWlLalp4MWZrMHJPZXgxdjN1LTJkY2FzUkt3YzM5bmZySHln?oc=5",
@@ -65,14 +73,6 @@
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-06T11:01:46+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "3 kits de supervivencia para apagones de 72 horas: con radio autónoma, batería externa y linterna incorporada",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFlQc1JoVUJhMEJXRzlRLW83Y050TzhFNlh4Vm9sQlA4d0puZDluX1VhSFF1OXVIUTU5UFZwNVJQQkJnLUtaQldiV2pVVmcwQWVmOVZVYWpVTjN5cWFQbHpMS21sZm9PanpTbEhoVTdDdWwtNFlPMlRTQU9tZXVsSy1sbzAtck1mQWZSb3p5OEJaR0ZneVRkaUp2ZU1CVVFzR0FpSEUwdVk?oc=5",
-     "fuente": "Diez Minutos ES",
-     "resumen": "",
-     "fecha": "2026-11-06T10:16:07+01:00",
      "fecha_txt": "6 nov"
     }
    ]
@@ -237,7 +237,7 @@
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxlY1lqVzJseWw1VHp3dm9DN1ZQVTVJckFHZERTSFlEbW1LbHJuZkF3ekxXVVFSMUtNWW1sTkEwNVFrbmJ1RTJwbkw0cFFJbHN3TkJBazhBWTdMMzZuN2ZuWkZ0eHdfUGk4RUxJRllYR1ZKSlhrUXNsWlpfa3I3NkZaR1Zldw?oc=5",
      "fuente": "Canarias en Pleno",
      "resumen": "",
-     "fecha": "2026-11-06T12:50:03+01:00",
+     "fecha": "2026-11-06T14:03:46+01:00",
      "fecha_txt": "6 nov"
     },
     {
