@@ -317,7 +317,7 @@ def generar_html(comp):
     </div>
   </article>
 
-  <p id="disclosure">Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar.</p>
+  <p id="disclosure">Como Afiliado de Amazon, Kit72h obtiene ingresos por las compras adscritas que cumplan los requisitos aplicables. Los precios pueden variar. Kit72h solo recomienda productos con fines informativos y de preparación: no nos responsabilizamos del uso que se haga de ellos ni de los resultados obtenidos, y este contenido no constituye asesoramiento legal, técnico ni de ningún otro tipo. Consulta siempre las fuentes oficiales y la normativa vigente.</p>
   <!-- Disclosure afiliado -->
   <section class="sec oscura">
     <div class="container">

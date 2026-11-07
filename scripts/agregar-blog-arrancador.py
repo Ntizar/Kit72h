@@ -73,7 +73,7 @@ CUERPO = """<p>Tu coche no arranca. No porque el motor esté estropeado, sino po
 
 <p>El arrancador de batería es un complemento directo del <a href="/kit/kit-kit-profesional/">kit profesional de energía y autonomía</a> (que incluye SAI, power station y Starlink) y del <a href="/kit/kit-apagon/">kit de apagón</a>. Para el día a día, no es indispensable, pero un día de -5 °C con la batería muerta y el coche tirado en la puerta del garaje te hace valorar los 60 € de un pack LiFePO4.</p>
 
-<p id="disclosure">Este artículo contiene enlaces de afiliado de Amazon. Si compras a través de ellos, Kit72h recibe una pequeña comisión sin coste adicional para ti. Gracias por apoyar contenido independiente. <strong>Soy afiliado de Amazon</strong> — estos enlaces me permiten recibir una commission por compras que cumplan los términos del programa de afiliados de Amazon. Como asociado de Amazon, ingreso en compras idóneas.</p>"""
+<p id="disclosure">Como Afiliado de Amazon, Kit72h obtiene ingresos por las compras adscritas que cumplan los requisitos aplicables. Los precios pueden variar. Kit72h solo recomienda productos con fines informativos y de preparación: no nos responsabilizamos del uso que se haga de ellos ni de los resultados obtenidos, y este contenido no constituye asesoramiento legal, técnico ni de ningún otro tipo. Consulta siempre las fuentes oficiales y la normativa vigente.</p>"""
 
 ENTRADA = {
     "slug": SLUG,

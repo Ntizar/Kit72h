@@ -987,8 +987,8 @@ Por qué el butano sigue siendo la apuesta más inteligente para el frío
  Kit de apagón — 15 artículos para sobrevivir sin luz (2026) 
  Kit frío/invierno — 27 artículos para sobrevivir al frío (2026)
 
-### Mejor walkie talkie PMR446 (2026): 5 modelos probados para emergencias — https://kit72h.com/blog/mejor-walkie-talkie-pmr446-largo-alcance/
-Comparativa de los 5 mejores walkies PMR446 para emergencias: alcance real, batería, resistencia y precio. Desde 15 € hasta 70 €.
+### Mejor walkie talkie PMR446 (2026): 3 modelos legales probados para emergencias — https://kit72h.com/blog/mejor-walkie-talkie-pmr446-largo-alcance/
+Comparativa de los 3 mejores walkies PMR446 para emergencias: alcance real, batería, resistencia y precio. Desde 15 € hasta 70 €.
 Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  Cuando se caen las redes móviles y no puedes avisar a tu familia, un walkie talkie PMR446 es el único medio de comunicación legal sin licencia. Pero no todos los modelos alcanzan lo mismo: el alcance teórico de 3-5 km se reduce a pocos cientos de metros en la ciudad y los más baratos pierden batería en horas. En esta comparativa te digo exactamente cuál merece la pena para tu kit de emergencia, con datos de alcance real, tiempo de batería y precio.
  Protección Civil Española recomienda llevar medios de comunicación alternativos al móvil para situaciones de emergencia (Plan Familiar 112). La PMR446 es la única radio que puedes usar sin licencia en toda la UE, y en una DANA o apagón de varias horas es tu única forma de coordinarte con la familia sin depender de baterías de teléfono.
@@ -996,35 +996,25 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  ¿Qué es la PMR446 y por qué no necesitas licencia?
  PMR446 significa "Portable Mobile Radio" y opera en la frecuencia de 446 MHz con un máximo de 2 vatios de potencia. Es un estándar europeo armonizado: en cualquier país de la UE puedes usar un walkie PMR446 sin licencia, sin examenes, sin tasas. Solo hay que respetar las condiciones de uso: antena fija (no desmontable) y potencia máxima de 2 W.
  Esto es importante: la PMR446 no compite con la banda de radioaficionados (que requiere licencia) ni con las radios profesionales de bomberos. Es una herramienta para comunicaciones a corta distancia entre particulares, ideal para emergencias donde la infraestructura de telecomunicaciones ha colapsado.
- Los 5 mejores walkies PMR446 para emergencias
- He seleccionado estos cinco modelos basándome en tres criterios para emergencias: alcance real (no el teórico de catálogo), duración de batería y resistencia a condiciones duras. El precio es orientativo y puede variar en Amazon.
+ Los 3 mejores walkies PMR446 para emergencias
+ He seleccionado estos tres modelos basándome en tres criterios para emergencias: alcance real (no el teórico de catálogo), duración de batería y resistencia a condiciones duras. El precio es orientativo y puede variar en Amazon.
  1. Motorola CP136 — El rey de la fiabilidad
  Motorola es la referencia absoluta en radios portátiles. El CP136 es un walkie básico pero resistente, con alcance real de 1-2 km en entorno urbano y hasta 3-4 km en campo abierto. La batería de 800 mAh dura fácilmente 12-15 horas de uso intermitente (lo normal en una emergencia).
  Puntos fuertes: resistencia IP54 (protección contra polvo y salpicaduras), teclado sellado, linterna LED integrada de emergencia. Es el modelo que lleva más tiempo en catálogo (más de 10 años) y por eso hay más accesorios y repuestos disponibles. Es la opción más sensata si buscas "comprar y olvidar" durante años.
  Precio: 20-30 € por unidad. Para un paquete familiar de 2-4 unidades, el coste es competitivo.
- 2. Baofeng UV-5R — El rey del alcance (con trampa)
- El Baofeng UV-5R es el walkie más vendido del mundo y su precio es imbatible (10-15 €). Pero tiene un problema: técnicamente NO es un PMR446 puro, ya que opera en un rango de frecuencias más amplio (136-174 MHz y 400-520 MHz). En su rango PMR446 funciona legalmente sin licencia, pero la gente a menudo se salta los canales PMR y se mete en bandas que requieren licencia.
- Para emergencias, su alcance real puede superar los 5 km en terreno abierto, pero la complejidad de uso (más de 100 canales programables) es un riesgo en el estrés de una emergencia. Lo recomiendo solo si alguien de tu grupo tiene experiencia con radioafición y puede gestionar los canales sin errores.
- Precio: 10-15 € por unidad. La trampa: a veces el precio bajo no vale la pena si lo usas mal y te metes en problemas legales.
- 3. Midland G10 Connect — El más moderno
+ 2. Midland G10 Connect — El más moderno
  Midland G10 Connect es el walkie más tecnológico de esta comparativa. Incluye GPS integrado (para compartir ubicación), chat de texto y conexión Bluetooth con tu móvil. Es ideal si quieres no solo comunicarte por voz sino compartir tu posición con la familia en caso de emergencia.
  Alcance real: 1-3 km en zona urbana, 4-5 km en campo abierto. Batería de 1500 mAh (más que el Motorola), pero el GPS la consume: sin GPS activo dura 12+ horas, con GPS activo se reduce a 4-6 horas.
  Precio: 50-60 € por unidad. Es caro para lo que es, pero si el GPS integrado es importante para tu plan familiar, puede ser el mejor candidato.
- 4. Altel A-308 — La opción económica inteligente
+ 3. Altel A-308 — La opción económica inteligente
  Altel A-308 es un walkie PMR446 auténtico, con 16 canales CTCSS, pantalla LCD y alcance real de 800 m - 1.5 km en ciudad. No tiene GPS, ni Bluetooth, ni linterna: es un walkie para lo que sirve. Pero cumple su función a un precio muy competitivo.
  La batería de 900 mAh dura entre 10 y 14 horas con uso normal. Es resistente a golpes moderados y la antena es desmontable (por lo que hay que tener cuidado de no perderla). Es la opción para familias numerosas: con 4-5 unidades tienes cobertura para toda la familia sin hacer un gran desembolso.
  Precio: 12-18 € por unidad. La mejor relación calidad-precio de la comparativa.
- 5. Motorola T460 — Con pantalla y alcance extendido
- El Motorola T460 no es estrictamente PMR446 (usa la banda FRS, muy similar), pero funciona exactamente igual en España: sin licencia, hasta 2 W, con alcance real de 2-5 km en campo abierto. Tiene pantalla de cristal líquido, lo que facilita la configuración de canales y tonos CTCSS.
- Lo más interesante del T460 es la función de escaneo de frecuencia automática (busca canales libres) y la función VOX (manos libres), muy útil cuando estás cargando algo y no puedes coger el walkie con las dos manos.
- Precio: 35-45 € por unidad. Un punto intermedio entre el CP136 básico y el G10 con GPS.
  Tabla comparativa
  Modelo Alcance real Batería Precio Mejor para 
  Motorola CP136 1-2 km 800 mAh (12-15 h) 20-30 € Fiabilidad y durabilidad 
- Baofeng UV-5R 3-5+ km 1500 mAh (10-15 h) 10-15 € Alcance máximo 
  Midland G10 1-3 km 1500 mAh (12 h / 4-6 h GPS) 50-60 € GPS y ubicación 
  Altel A-308 800 m-1.5 km 900 mAh (10-14 h) 12-18 € Presupuesto 
- Motorola T460 2-5 km 950 mAh (10-14 h) 35-45 € Pantalla y manos libres 
  Consejos para usar walkies en emergencias
  Tener los walkies no basta: hay que saber usarlos correctamente en una emergencia. Estos consejos vienen directamente de las guías de Protección Civil y del Plan Familiar 112:
  1. Pon todos los walkies en el mismo canal antes de la emergencia. El canal 1 es el más universal (no tiene subtono CTCSS), así que cualquier walkie PMR446 puede escucharlo. Configura los 16 canales y anota en el plan familiar qué canal se usa para qué (canal 1 = emergencia general, canal 2 = punto de encuentro).
@@ -1037,6 +1027,7 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  El veredicto
  Para la mayoría de familias españolas, el mejor walkie PMR446 para emergencias es el Motorola CP136 : es el más fiable, el más fácil de usar y tiene un precio razonable. Si tu presupuesto es ajustado, el Altel A-308 hace el trabajo a mitad de precio.
  Si el GPS te parece imprescindible para coordinar a la familia, el Midland G10 lo merece, pero prepárate para cargarlo cada 4-6 horas si lo usas con GPS activo.
+ Importante: todos los modelos de esta comparativa son PMR446 certificados (antena fija, máximo 0,5-2 W). Radios como el Baofeng UV-5R o cualquier walkie de banda FRS (p. ej. Motorola T460) no son legales en España sin licencia de radioaficionado : superan la potencia permitida, llevan antena desmontable o usan frecuencias no armonizadas. No los metas en tu kit aunque los encuentres más baratos: te expones a una sanción de la Subsecretaría de Telecomunicaciones y a interferir con servicios de emergencia.
  Recuerda: un walkie sin pilas no es un walkie. Y un walkie que no has probado en una emergencia puede fallarte justo cuando lo necesitas. Compra los walkies, ponlos en tu kit de emergencia y pruébalos cada pocos meses.
  Si aún no tienes tu kit de emergencia básico, te recomiendo empezar por nuestro kit básico de 72 horas — los walkies van justo después del agua y la comida en importancia. Y si te interesa la radiocomunicación en general, aquí tienes la guía completa de la banda PMR446 .
 
