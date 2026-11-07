@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T04:10:41+01:00",
+  "actualizado": "2026-11-07T07:10:40+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Francia recomienda preparar un kit de emergencia para sobrevivir 72 horas ante posibles catástrofes",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjNfZHBHd3NRckRjb1RCc0hXS1RBN1BybkpxU0M1TzRBNG9mOFFZNl9mQkdIaDlyRy14b2hkdjVNT1ZWRnlPbFpkWWNkNnVyTzJLQndqcHEwbnA0bkF2TmZHMGtCX190VDlPZ2w0MW9DSmxZa0hzOG8zNGFwQjBZaFJRVVJ2TExaY2lsc3NnR3FSSjVPc3dSNVFnSQ?oc=5",
+     "fuente": "HolaSalta Noticias",
+     "resumen": "",
+     "fecha": "2026-11-07T06:04:53+01:00",
+     "fecha_txt": "7 nov"
+    },
     {
      "titulo": "Kit de emergencia: por qué varios países lo piden y qué hay de cierto sobre una \"alerta mundial\"",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkhmWDduV2dfaFpFSGl1aGw4bTlPZm1hZ200MjZtMHRxNVh0UXJJdG1hTW9qTnFTM2c5MXF2WXVyaGJoSXZIaEhreWJkcXk2YjFFWkJFaTh5RVBIa2VYYVRjOTJwcjdYdzRXYTJsWGtTMFl1MEIxYkNPM1ZzQ3dLMWF1SGRQYzFiaDlCZ05kb2FhMi14a3RzNzZrdi1mMkRMNXFuSTgyTWpnRWwxS01kMmtEMHdnellZTmU1SklvVko2NWJaS0RjRWFYVDdLV01S?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-06T11:13:46+01:00",
      "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Así es el kit de emergencia de 72 horas que recomienda la UE tener en casa: qué debe llevar y cómo preparar...",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaG83R1JXSWNYc3dYQnRraEhiTHlqbk0yZDZHUmNJRmc1VjFaX19mVjU1eUlfbFlfeHpkaVQ2Q0Vhc3lselN2c3JmNTBFQUhhNzdicy1VSk1KM1NzQ0VadkJYZEsyS0dQd1hMNE9sYzdpa0ZIRmM4emRFai01blRBWHBMUmJhbkJTTVo3a21XMjR1ai1Bd0JsYVphU0JmU0tKNDhzZkFWWnFIdGZnS0IwbzFReEl0Q1NtTkl1ZXFVaFNoejJJVEtVdlJNONIB0AFBVV95cUxPVUhSNDV2NmVtRU9aS3J2ek1Gdk5pektPNzZjbUV4LW41amhYMnY2bTQ4MGJyMUxUVFJaLV9GTy1YUDdVMm9RVzZlbnh1a3hGUVowMHRjR1Iwa0xWbUd3UUdrMDVQb1hReGJJUUJZWk1tSU1rMjV5U19lVklZdGZSNEhoZDMwc1c2VUNabFdJOS14Z25nMThJRUd5ekI4cGFnUkZUUzdQNjhOWEpkT3hjVkN0V2JETjhVM3h3MXRBa3pWM3RSWVEwOExGSmpIUkNz?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-06T11:01:46+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -107,22 +107,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Granada: El Infoca intervino en 87 incendios forestales en la provincia durante 2026, con más de 606 hectáreas afectadas",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHFZeTlEMTJMU1ZBamhFZERPNW9Ka2U5ZGs0b0JhZnVmOERQMXdSaDRFME9CQUp2eHY1aVJEb2ZrXzFUOXpQNkxoWEc0RHU0aFpub2haQXNWQ2dIeW5SZU5aSGdXRWVHNDE0VXZMLWYwUjdSQWdjbWJqcS1KNlZFdVNGdklQa0NyWjJxRXJsUmhJam9OODk3M0JsSGdOODNTZnpVMHNQSkpjdVoxRUlPTHZxc2VyNTVSWVFTbWNCeExMTnZ1UXoyc1hZT0o5eFcyX2NpaFlPczR1cHFEZXB5T09lYw?oc=5",
-     "fuente": "Motril Digital",
-     "resumen": "",
-     "fecha": "2026-11-04T18:29:43+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
-     "titulo": "El 52,87 por ciento de los incendios forestales en la provincia de Granada han quedado en conato",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWk1PVEhNdWlkMVhVQ25MZmpBMGdvTHNGaWdUMi15UkVlTFZMVEt3SVIzVW1rNWJhZUViM20yZHdjdk1SeHBTZEpsdHBRdjQ5WGpPNTMtYXVveUdVX1lsdE1NMHBkM1FnWFJBeDJlbkhNMFBzTHVtWlFTcHBkODhVbTZaekxOZnVxSGtpQ0NmOGJNc2hWQ19sdlZYYWFfZlY3dE44Z2dQeEVCRDVldHVHZlRwMWlNc0RSMHdjQVU4c1dad2twbEs0R0lsVkN6ZUhuRG5zTTJn?oc=5",
-     "fuente": "Ultima Hora",
-     "resumen": "",
-     "fecha": "2026-11-04T14:00:37+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
      "titulo": "El 52,87 por ciento de los incendios forestales en la provincia han quedado en conato",
      "url": "https://www.msn.com/es-es/noticias/otras/el-5287-por-ciento-de-los-incendios-forestales-en-la-provincia-han-quedado-en-conato/ar-AA2gK1wV",
      "fuente": "Europa Press on MSN",
@@ -145,6 +129,22 @@
      "resumen": "",
      "fecha": "2026-11-02T15:30:00+01:00",
      "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Ya es oficial: el Ministerio del Interior confirma que España ha solicitado a la UE una nueva base aérea en Mallorca para combatir los incendios forestales",
+     "url": "https://www.mundodeportivo.com/actualidad/20261102/1004246127/oficial-ministerio-interior-confirma-espana-solicitado-ue-nueva-base-aerea-mallorca-combatir-incendios-forestales-dct.html",
+     "fuente": "Mundo Deportivo",
+     "resumen": "El Ministerio del Interior ha confirmado que el Gobierno de España ha solicitado a la Unión Europea la creación de una base aérea en Mallorca para combatir los ...",
+     "fecha": "2026-11-02T03:48:00+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Los incendios forestales en España arrasan cerca de 630.000 hectáreas en dos años",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-incendios-forestales-en-espa%C3%B1a-arrasan-cerca-de-630000-hect%C3%A1reas-en-dos-a%C3%B1os/ar-AA2gzfYG",
+     "fuente": "Ecoticias on MSN",
+     "resumen": "La combinación de altas temperaturas, sequía, vegetación seca y condiciones meteorológicas adversas están en la mayoría de las ocasiones detrás de los grandes incendios forestales en España y, además, ...",
+     "fecha": "2026-11-02T02:14:00+01:00",
+     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Borrasca Bruna España: ¿dónde llegará y qué días provocará lluvias intensas y fuertes vientos?",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEI4THBlSVhLVm5IOWNiS2RxUktEeFlxYktySGY2UHNRb0hldERrakVhM2szRTRzMEstZG5TYjc0bl9IOVdpXy1TOXV2V2NxSU42aFN6LUFQcE9FNVBzT3l5Tm0zemx4UDJRVEJteHZkeXRFUUhzRElaRjNOTEdzbm94QTkxTFBwN0FxTldaLVlYUDg0T2VBcGpFeUJOV3p6aDhPQ0Q0STJOeXRYZ1ZHUjVXQWJESU1rTlREbEpuMjFLTkN6d1VEeWVoSQ?oc=5",
+     "fuente": "TV Azteca",
+     "resumen": "",
+     "fecha": "2026-11-06T19:18:45+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
      "titulo": "La borrasca Bruna pone en alerta al oeste de España: cuándo llegarán las lluvias a Zamora y Benavente",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0pXMFVEOFdaMkVQNzRxdS1lVTg0SnY3ZXhPdVNkaHZGclNoNHY5ZjdJUXdTZ2Nwc3NwVkJWYy1HUXVRTk1EOEN1SDJVdi1YM3VSVjVPeFA0UzEyb29ZazdjRmtqcUxVUktBdV9QcEJFa0lEZDJQak1aLUxrVXAyWWU4Zm5YX0diX3ZmZ2JEMTloSkNURG1FOS1n?oc=5",
      "fuente": "Benavente Digital",
      "resumen": "",
      "fecha": "2026-11-06T17:57:43+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "La borrasca Bruna azotará España con intensas lluvias y fuertes vientos durante el fin de semana",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1VRRDY5NVRMaFhRMzJXWm5MeDB6MlJEckpIcXdMY0k0SWF0Umdtb3JCNXRhZ29kV0p1eF9pZEhscXVLOUR2V2xsbmhObVpCRHBRT0tmOHdNVnI1Ymk1U0pjbERkWlZHdTUtOVF0LVIxMUdpTk9URFgwaVBQZnJVb2FaR3B4d3BXMUlFVklLUlBUU3ZvVXEySTFvVnZrcllZRXRqMWoyZzJIcVMwb1FvM0hMcVlRUmYta29ibVBaVWdUUDZL?oc=5",
+     "fuente": "https://diariolapluma.com.ar/",
+     "resumen": "",
+     "fecha": "2026-11-06T17:38:13+01:00",
      "fecha_txt": "6 nov"
     },
     {
@@ -199,22 +215,6 @@
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-11-06T13:54:54+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Territori y Adif planean construir un nuevo puente de Rodalies sobre el Besòs capaz de resistir grandes riadas",
-     "url": "https://www.elperiodico.com/es/barcelona/20261106/territori-adif-planean-construir-nuevo-puente-rodalies-sobre-besos-capaz-resistir-grandes-riadas-136172192",
-     "fuente": "El Periódico",
-     "resumen": "Las instituciones planean aumentar la altura del viaducto ferroviario en Sant Adrià de Besòs tras constatar que la actual estructura supone un obstáculo crítico ante las crecidas del río ...",
-     "fecha": "2026-11-06T10:11:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Aviso especial de la AEMET por la borrasca Bruna: cinco días de lluvias muy fuertes, tormentas y riesgo de inundaciones en España",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYXN2QTIxNWpGQXlUYzJZWUpROVFkczJGVkRHNHlGRWd5TjMyMWdqYlpjSkd3dWc0ZWhMbU96Z3ZfbVlnNUNFZVlnV0JENm05RHZSREdSSkMwOEpVa2dBNk9EN0Q2cEZTdDl4bDcxc0swMTkyUVFEUldXcVN3Mmxkamp6U3FFSmF3cWtKNEZvLTI0TzlXQ0dmb0E1ZnZfU0pxcWJNTjVoVlZSa3FORUxpV2xGWDNnNmpEd3RSSGVYcWRGTXVlS1pIbjNIYTQ1R3BKYU4tZXhpWVZyNnJaNDNadHI1aTAyY2Q5SEl2dERKZ2lrQk5MeHRsenlaTEhXc3dJd0JJWdIBmAJBVV95cUxOLVhLYTZoWXB0YVhFLXkwdFdYSlh4OEhyeU9wclVPRlBiNk4xNkxxT24xbDR0bG8yZXBuMFV5aHY0S28xQXM1WnU1TDFqc3NBczU4eDBiNnhDMVgxaVNlUlVGZ0F0QnpsTXZrMWMzaXFsX0pyd3hWUDdtWWhLQm9IS1hlRzlkOVRaZEJrb2t2aXFyVkZhUF82ejZ0MGZCY051NUt1NEhmWUF6SmFnX1EwT2E4OHRkTW92eXlXMEx2SzRROVltM3hDRzRvbmlaZ2YxSWE2aFVkbzhwVEU4cFV2ZGVSZWE4U01JSGF1N1lwTEtFMUowVG9xY2tCUjh4V2cxbXFRMWFUNnZhRFBPTjZNa282VVU3WDJw?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-06T08:31:55+01:00",
      "fecha_txt": "6 nov"
     }
    ]
