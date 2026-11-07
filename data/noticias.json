@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T19:10:36+01:00",
+  "actualizado": "2026-11-07T22:10:37+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Por qué varios países piden tener lista la mochila de las 72 horas, incluido Guatemala y qué debe contener",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHRaeTUzaXpFVWFhazV4a2IyMmRwX0NKNEZhLUVTR3BiSGluNDBNV0tPZmZ3WFJCdHhVSEhJbThpY3hjZ0JCVklRYkF6TnZxdW5zX28zUGtvME1fRmZSYUR2Sjg5NnhFX0plUGx6MmRNRnhlX2M4SFVDZGVSWWdpXzdmYTMtYklENnd5SFRsNlg5QjZqa2dPVmdQamd3VXBDYVQ0WjBaTDBETzRNcm9TdWk1V1FwTUw2WWRoQUZpdUpPZHduT0xaZGk5R2kyY0N1N00xaklyam5JUnZfS3hsbmp1Wm5GVWZnZml2OQ?oc=5",
+     "fuente": "Prensa Libre",
+     "resumen": "",
+     "fecha": "2026-11-07T18:53:39+01:00",
+     "fecha_txt": "7 nov"
+    },
     {
      "titulo": "Mochilas de emergencia y provisiones: ¿qué originó las recomendaciones en México y otros países?",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDU4OTFnMklGZllVbXZ3ejJPd1Y1YUdsQzlQd2F5TUYwYmtxZjFZQ2tPTXNscVctYUxQWlNxVXFTaGhSNENIVHRPdVEycl92WklwVWNSampZbVVFdklyNEliRUc0R3hnb1Q4QzA2emZlNUpKVEZTblRNdlFPZEg1U2gyNzJNU240a3FwUkMtcm5CQXo5WUZPQy1CYzY5Mjg4ZHR6MVd6MnJSTmZ5N2M4Rkgtbzk1UnF1TlRhdnVoSXhBNi1mWF9mME4zWFYtY1JEMGQ00gHYAUFVX3lxTE5UYV9YdnNadzRGVHFVakJ2ZWtuQ3F5RDFsYWhxcnk4Q2VoQ1dTb3hLR3M5eW1zT0JYU0RmRmFqd1VTRTZKT3FCa004dUlJNEdkSFc4aW9iR3QyOE15LWRzZEVfYmQ3ZjNWaE9idFdYVWlXRzduMkY4YklFc2FVSFo0VVFXdVlvaHpVaFFzMGVkX3c3R1lyQ1NTNF9Rcl9wOXN2REQwT2dIV0xZb1pGWGoxY3VJWWp3eW9wdHd3Q0hiTnY5YTFMcGMyUlJ3OUNSenlMQTR5bUh5Qg?oc=5",
@@ -36,11 +44,27 @@
      "fecha_txt": "7 nov"
     },
     {
+     "titulo": "Mochila de emergencia: por qué México y otros países recomiendan almacenar provisiones",
+     "url": "https://cadenapolitica.com/2026/11/07/mochila-de-emergencia-por-que-mexico-y-otros-paises-recomiendan-almacenar-provisiones/",
+     "fuente": "cadenapolitica",
+     "resumen": "Conoce por qué México y países europeos recomiendan preparar una mochila de emergencia, almacenar provisiones y qué artículos debe contener.",
+     "fecha": "2026-11-07T09:56:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Por qué Bruselas vuelve a aconsejar un kit de emergencia solo un año y medio después del aviso anterior",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcE1GVnB5Q2FNVnhWVDhpRVoyRzVqdEI3S3pwWHZZWVZwZzdrU2tVM19qSHVCcThMbW4xUkRkemxBc0ZTM2dDbzFySW1GaEljWjE3RG8wQXRIVXkyMGNzTHFKWmNjdUpyeWJZZ2JRb3JaazJ6TWRVbXNNdU8wLUgzVl81ZDR6RXNyVnQwODhrdHk5czY4Qm9DdHNfTVRBVElSNXpDVWE1NGVVZmg3UjNxVy14M3hVTmRJYTE3ajllYkpjbmw3c2tibHRqclhSU1lZWGViQ0hmQUFMOThzbG9B?oc=5",
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-11-07T08:06:14+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "¿Habrá un ataque nuclear? Experto explica alerta por kits de emergencia",
+     "url": "https://www.tunota.com/mundo/habra-un-ataque-nuclear-experto-explica-alerta-por-kits-de-emergencia-2026-11-07",
+     "fuente": "tunota",
+     "resumen": "Varios países recomiendan preparar suministros para sobrevivir 72 horas. Un experto analiza las tensiones internacionales.",
+     "fecha": "2026-11-07T06:13:00+01:00",
      "fecha_txt": "7 nov"
     },
     {
@@ -50,30 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-07T06:04:53+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia para 72 horas y todo lo que debe llevar",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmhqWFhGaW5VdFltV2RQS1FzNlZ2WjZyZEo5UGJaY0xqVnNwdVY5SnRsYzA4LTEyQ2NRbTZnTGwzTERmX0Z1QmJtUEsyMWpNOTdRRVd6OUpzZEQtdnFBOEpBOEhkNzd3UGlQYXR5R3RTakV5WS1IZVFINVBCMVJwZGp5QQ?oc=5",
-     "fuente": "El Canal de las Noticias",
-     "resumen": "",
-     "fecha": "2026-11-07T04:41:54+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Kit de emergencia: por qué varios países lo piden y qué hay de cierto sobre una \"alerta mundial\"",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkhmWDduV2dfaFpFSGl1aGw4bTlPZm1hZ200MjZtMHRxNVh0UXJJdG1hTW9qTnFTM2c5MXF2WXVyaGJoSXZIaEhreWJkcXk2YjFFWkJFaTh5RVBIa2VYYVRjOTJwcjdYdzRXYTJsWGtTMFl1MEIxYkNPM1ZzQ3dLMWF1SGRQYzFiaDlCZ05kb2FhMi14a3RzNzZrdi1mMkRMNXFuSTgyTWpnRWwxS01kMmtEMHdnellZTmU1SklvVko2NWJaS0RjRWFYVDdLV01S?oc=5",
-     "fuente": "Telemundo Atlanta",
-     "resumen": "",
-     "fecha": "2026-11-07T02:30:00+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Europa y España piden tener en casa un kit de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ldlR1UDFqcEdWN1RiTk9NckI1UjUwbU9kdE5HZ3p5TE1rNGx0YjA1Q2p5Zy1XNEstSHllMlBXUkxEdHRFT3JRQU8zRlNHVjNIQzd2MkNYUWlLalp4MWZrMHJPZXgxdjN1LTJkY2FzUkt3YzM5bmZySHln?oc=5",
-     "fuente": "Malagaes",
-     "resumen": "",
-     "fecha": "2026-11-06T21:28:17+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -87,8 +87,8 @@
      "url": "https://www.laopinioncoruna.es/galicia/2026/11/07/galicia-registra-86-incendios-decadas-136205173.html",
      "fuente": "La Opinión A Coruña",
      "resumen": "Los grandes incendios, que afectan a más de 500 hectáreas, han aumentado un 70% y arrasan cinco veces más superficie ...",
-     "fecha": "2026-11-06T21:34:00+01:00",
-     "fecha_txt": "6 nov"
+     "fecha": "2026-11-07T11:34:00+01:00",
+     "fecha_txt": "7 nov"
     },
     {
      "titulo": "España concentra 4 de cada 10 hectáreas quemadas por los incendios en la Unión Europea en lo que va de año: suma 3.000 edificios y 6.200 personas afectadas",
@@ -233,27 +233,11 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Canarias se planta en Madrid: «No podemos esperar al apagón»",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxlY1lqVzJseWw1VHp3dm9DN1ZQVTVJckFHZERTSFlEbW1LbHJuZkF3ekxXVVFSMUtNWW1sTkEwNVFrbmJ1RTJwbkw0cFFJbHN3TkJBazhBWTdMMzZuN2ZuWkZ0eHdfUGk4RUxJRllYR1ZKSlhrUXNsWlpfa3I3NkZaR1Zldw?oc=5",
-     "fuente": "Canarias en Pleno",
-     "resumen": "",
-     "fecha": "2026-11-06T14:03:46+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
      "titulo": "La CNMC castiga a Red Eléctrica por disparar el uso de gas para estabilizar el sistema y fallos en sus previsiones",
      "url": "https://www.economiadigital.es/empresas/cnmc-castiga-red-electrica-disparar-uso-gas-estabilizar-sistema-fallos-sus-previsiones.html",
      "fuente": "Economía Digital",
      "resumen": "El regulador recorta un 84% el incentivo a percibir por Red Eléctrica por su operación en 2025, año marcado por el apagón ...",
      "fecha": "2026-11-05T21:55:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
-     "fuente": "El Mundo Today",
-     "resumen": "",
-     "fecha": "2026-11-05T19:30:58+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -265,28 +249,44 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Nuevo apagón en La Palma evidencia la fragilidad del sistema eléctrico y reaviva las exigencias al Gobierno de España",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0xKQ0wyZWl1M05YZmJVM2dYeVZab242bUFWOXZ3Z1owandnMzNyRWtXeVAzN1YycUlha2RZRnhjbU1XUHVfdk1fazdKVy1QLTFZMHdrU2M4dENEZU1JRFVoWTBmRkw2VHliRTJDVDlkcC1qR05Sa0x6MDFVbkpmX05DRjgwbVppT0doMDd2VnlOZUMwXy1VdzM0Q0lNZ2xNelNYQW5oMUxnSVQ0VmEtb2xSNDNpTHNoZ211ZWpseFY3Wi0tZUlnM25LWTJ0OVhmVEdHVG1BN1FLQm10UFRjN1hVVGR0NHR4QU8wOWt1eW5la0xyYXB2bGR6ZDRoZDE0cVZheDZYT2dYUdIBlAJBVV95cUxQUGhnLWV6Mmd6bDlLQUVzOGNTRGFYcmpDak9QWWVEcHhfQXZmZUJOaGtkWlM1YU1iVXliclBuYnlnUDJmMFBjaXB1dUVyNHlUZXAwdy1zYVdtRU9NVFJJYlo5NXRUeUt4UjkxQW53VEl3enRyN1JKYXlpZXJxalV4VWlxeW5IRzhTX2t1THcwcXA4R3dLMEU1VzJOcExrZEVFNU9VY1lNQ2YzWU9oMzRNQXdvLTFEd2xSNFBVU3MtLTdqSDdSWjZvMEZzX1JCZUFnYUFwQzB5bkwwaWtodWtMVGVKZmEzZUJwRXlGX095V18wU3VFMzFkSVh2WGRBMTVidGlsNHhYZTlFcHoweVB1VW9yZlc?oc=5",
-     "fuente": "Libertad Digital",
-     "resumen": "",
-     "fecha": "2026-11-05T05:29:39+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Canarias declara la alerta en La Palma tras un apagón total",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGFyaGU3RFhBYmZmR2pHZU1kcmRVVEJiUzdNaVh2ZHlGOWpmRFpUOEkxQ1hWeVBOV2VuRnRCYV82eHl1RnQ5aUoyU3JudHNIV3Y1LWpSNGhmNUpULUlsdDUzZ1pYbmpnZ0xFeWR6QmpuRS1VN0NiM0ptX25IaDZnc2lyNDRidnZ6ZWNUZVhfTE5JVi1UVFVNVjRocFF4Q0F6bXR3?oc=5",
-     "fuente": "Merca2.es",
-     "resumen": "",
-     "fecha": "2026-11-03T11:59:10+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Garriga carga contra el Gobierno tras el apagón de La Palma: «Han traído la tercermundización a España»",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXRpYjNCTDE5ckR3NThoZ2VJbXdhNkRYS25mUHp4Sm1GaVF6VHN1TGVwUlpMeGUtSVpoRFhHWldhSFQtdWZySlFRSEl0My1ibU1DNWFtQjNadG1DdkxwalVlYU1hTFpxRllvUnlYQ3QzbTFab1Q3OEgyTWhiRmlxWFdWTnZYN2cybmhDUXZXYWJkOUhjVWhNdG93V2Z5QTVHaXVHcGlfeDEwQ0FPdEJzN1p1SmZtU1NHMmZCY08yUk4yd0wtbDVfQjZXeHhKYzFGclHSAdcBQVVfeXFMTjFBQUxYLV9GbEtERmx0WThxWkU2djJWSEFzRWJ2QnJZOHhWXzJBYUU1UGNheUFPbFZ0VllQbzlCaTV2c2ZCS21CV1pTcTNmRjhIU3IxRHltckkzOXZVQXpVMzRtQ3UzbmQzUktKUjE3dmZvem1SWTNfTEFXVXhuaW8xT0c0T1YtV3Q2OW85eEpETDNrbGZTbGV0Rmxwa245eE5Ucjhob190N2pxQlRFTmhOOTB2VVhmR2NfR3EwWWRzRmRHTHExMHVBdkhpMWlRSHAxcEFCWGs?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-02T16:57:51+01:00",
+     "titulo": "Apagón en La Palma: un cero energético deja sin luz a toda la isla desde las 6:42 de este lunes",
+     "url": "https://tarifaluzhora.es/noticias/apagon-la-palma-2026-cero-energetico-luz",
+     "fuente": "tarifaluzhora",
+     "resumen": "Un fallo general del sistema eléctrico apagó la isla entera. Qué se sabe de la vuelta de la luz, si afecta al resto de España y qué puedes reclamar.",
+     "fecha": "2026-11-02T02:07:00+01:00",
      "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
+     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
+     "fuente": "Periodista Digital",
+     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
+     "fecha": "2026-10-30T02:44:00+01:00",
+     "fecha_txt": "30 oct"
+    },
+    {
+     "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
+     "url": "https://www.larazon.es/actualidad/gran-apagon-que-pasaria-espana-queda-luz-72-horas-b51m_202610266adf280ea2570c1961b17607.html",
+     "fuente": "La Razón",
+     "resumen": "España afrontó unas duras horas tras el gran apagón de abril de 2025. Te contamos qué podría suceder si ese corte de luz fuera aún más grave ...",
+     "fecha": "2026-10-26T05:16:00+01:00",
+     "fecha_txt": "26 oct"
+    },
+    {
+     "titulo": "Nuevos cortes de luz afectan a Madrid y otros 34 municipios del 26 al 31 de octubre (listado completo de calles aquí)",
+     "url": "https://gacetinmadrid.com/2026/10/25/nuevos-cortes-luz-madrid-34-municipios-2631-aqui/",
+     "fuente": "Gacetín Madrid",
+     "resumen": "Iberdrola va a llevar a cabo, del 26 al 31 de octubre, una serie de cortes en el suministro eléctrico, tanto en la ciudad de Madrid como en otros 34 ...",
+     "fecha": "2026-10-25T06:03:00+01:00",
+     "fecha_txt": "25 oct"
+    },
+    {
+     "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
+     "url": "https://es.gizmodo.com/espana-construye-ocho-maquinas-gigantes-que-no-generan-electricidad-su-mision-es-evitar-otro-apagon-masivo-2000267128",
+     "fuente": "Gizmodo en Español",
+     "resumen": "Después del histórico apagón de abril de 2025, España comenzó a reforzar su sistema eléctrico con enormes máquinas capaces de estabilizar la red sin producir electricidad. Los nuevos compensadores sín ...",
+     "fecha": "2026-10-25T03:00:00+01:00",
+     "fecha_txt": "25 oct"
     }
    ]
   }
