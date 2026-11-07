@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T10:10:40+01:00",
+  "actualizado": "2026-11-07T13:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,6 +12,22 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿Puede haber un ataque nuclear próximamente?: Experto habló sobre países que piden prepararse con kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdm1Rb0VhdVMzY2Jic3dPSmVUUGtoRkpvUW9mamZaeE9XdXkzWndXX21OVjBFUUlwMDZFbS01LXowODZWM1JGUzZGUE80aS1QZHRIU0xQWFpYMlY4TFdTQ09rU1hwSVFTcWF5THRjbUpocE5tRU5iOU1YbmtzNjM2Ync4MGxCZEZ1aEtLQTM0ZWIxeUNtWThySTdaN29xX1dRZjNZYWZCZWJubjBOaVpPNHZ6ZDRBTmRVdlY5UnlOU1lTdW5sV0pReW1Od3JGN0duY0NrOEhnNHV5WWs3X0dpcGlGZ3Q2N2R0b3BVTzlsVdIB9AFBVV95cUxQMnRmZml1TlVxb19DNTVzdnRIellMc3NZNl9zMmxEV2p5eGVya1BrbEZpNWdUNE1QdURybWdNcDV3MGhyVzNTeVFpd0E3SEdENWxmcnNMR3pqOEtxdGVELTV3ZEtiQWZGZ2V6UDVjOXBhZW01dmJrb256ZDVjRkJSSExaY1RvaVA4NV9FWWd4b1JsNzBvdHpKOURjS2g3Ymx3OVRCR2dtZ044QnZ2d2FpdTFLZnJOR3o0MnBuZDZ3UC0wNEFIY3dPS19YTlk0Uzd1cTNFaThyXy05ZEtMNWhNT1lkX0lnakFqNHZxVlNhXzZJTlB3?oc=5",
+     "fuente": "Revista Semana",
+     "resumen": "",
+     "fecha": "2026-11-07T12:16:22+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "Por qué Bruselas vuelve a aconsejar un kit de emergencia solo un año y medio después del aviso anterior",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcE1GVnB5Q2FNVnhWVDhpRVoyRzVqdEI3S3pwWHZZWVZwZzdrU2tVM19qSHVCcThMbW4xUkRkemxBc0ZTM2dDbzFySW1GaEljWjE3RG8wQXRIVXkyMGNzTHFKWmNjdUpyeWJZZ2JRb3JaazJ6TWRVbXNNdU8wLUgzVl81ZDR6RXNyVnQwODhrdHk5czY4Qm9DdHNfTVRBVElSNXpDVWE1NGVVZmg3UjNxVy14M3hVTmRJYTE3ajllYkpjbmw3c2tibHRqclhSU1lZWGViQ0hmQUFMOThzbG9B?oc=5",
+     "fuente": "20Minutos",
+     "resumen": "",
+     "fecha": "2026-11-07T08:06:14+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Francia recomienda preparar un kit de emergencia para sobrevivir 72 horas ante posibles catástrofes",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjNfZHBHd3NRckRjb1RCc0hXS1RBN1BybkpxU0M1TzRBNG9mOFFZNl9mQkdIaDlyRy14b2hkdjVNT1ZWRnlPbFpkWWNkNnVyTzJLQndqcHEwbnA0bkF2TmZHMGtCX190VDlPZ2w0MW9DSmxZa0hzOG8zNGFwQjBZaFJRVVJ2TExaY2lsc3NnR3FSSjVPc3dSNVFnSQ?oc=5",
      "fuente": "HolaSalta Noticias",
@@ -20,19 +36,19 @@
      "fecha_txt": "7 nov"
     },
     {
+     "titulo": "Más países avisan a sus ciudadanos de guardar provisiones por emergencia: ¿qué está pasando?",
+     "url": "https://diariodeavisos.elespanol.com/canariasenred/mas-paises-avisan-a-sus-ciudadanos-de-guardar-provisiones-por-emergencia-que-esta-pasando/",
+     "fuente": "Diario de Avisos",
+     "resumen": "Este artículo puede republicarse libremente en cualquier medio de comunicación, blog o página personal siempre que se cite a Canarias en Red como creador del artículo y se incluya un enlace activo hac ...",
+     "fecha": "2026-11-07T02:36:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Kit de emergencia: por qué varios países lo piden y qué hay de cierto sobre una \"alerta mundial\"",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkhmWDduV2dfaFpFSGl1aGw4bTlPZm1hZ200MjZtMHRxNVh0UXJJdG1hTW9qTnFTM2c5MXF2WXVyaGJoSXZIaEhreWJkcXk2YjFFWkJFaTh5RVBIa2VYYVRjOTJwcjdYdzRXYTJsWGtTMFl1MEIxYkNPM1ZzQ3dLMWF1SGRQYzFiaDlCZ05kb2FhMi14a3RzNzZrdi1mMkRMNXFuSTgyTWpnRWwxS01kMmtEMHdnellZTmU1SklvVko2NWJaS0RjRWFYVDdLV01S?oc=5",
      "fuente": "Telemundo Atlanta",
      "resumen": "",
      "fecha": "2026-11-07T02:30:00+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Por qué Bruselas vuelve a aconsejar un kit de emergencia solo un año y medio después del aviso anterior",
-     "url": "https://www.20minutos.es/internacional/por-que-bruselas-vuelve-aconsejar-un-kit-emergencia-solo-un-ano-medio-despues-aviso-anterior_7058384_0.html",
-     "fuente": "20 minutos",
-     "resumen": "La primera vez que la UE recomendó preparar un kit de emergencia fue a finales de marzo de 2025, un mes antes del apagón que dejó a oscuras a toda la península ibérica.",
-     "fecha": "2026-11-07T01:06:00+01:00",
      "fecha_txt": "7 nov"
     },
     {
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-06T15:33:49+01:00",
      "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Así es el kit francés para sobrevivir 72 horas: por qué las autoridades europeas piden tener lista una mochila de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnJDNzNKeEZ6TUlUTHR2eTN6LVp6SlJXS2I3N09YR01SODhROGhJUzl5Z2lqclNlLVBuenZISGxOeHhJT0NPRHpwRUhkbmo0RXJpNklybkJVTjN1UVZ3ZGVhb1pwSnR0UFgtWks1WFo5ZEU1RVRDOV9MWDFZbXZUTE9xbXNON2ZvTmFoQzJYTFl0UXp5MG8wNHR6Tk0tUlc3S0ZKY1ZveEQ5MlhmUTVseTQ3VElwM1FJZDZvYjVRTFlyWFpiS1RYbzQtdmdxMjdGRlE?oc=5",
-     "fuente": "Clarin.com",
-     "resumen": "",
-     "fecha": "2026-11-06T14:30:04+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Europa y España piden tener en casa un kit de emergencia para 72 horas: qué hay detrás de los avisos",
-     "url": "https://www.malagaes.com/europa-espana-kit-emergencia-72-horas-avisos/",
-     "fuente": "Periodico Digital de Málaga y Provincia",
-     "resumen": "La Comisión Europea pide a los hogares que puedan valerse solos durante tres días. Es una recomendación, no una orden, y no responde a una amenaza concreta e inminente.",
-     "fecha": "2026-11-06T13:28:00+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -83,11 +83,27 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Crece el presupuesto contra incendios para 2027 hasta 139 millones en Castilla-La Mancha",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3VJeVpiaFNhY3pWS1RqTGxSUDFtVWhhc3JIM28zVEVTeG1ZRDBJVnZVTFhvbV8wNEpKZENEajNCSW11Y00wOS1feWpiaTFLRElCdXFNNG45eWZHcWFGLW9pUkYwOFpVMmpoazBXUElXWkVGVWV4TkozS0ppWEZTYUtkbVV2Rk9Qd01VYklOc1hxUnlPSUNPWThxdmwxVHRHZ0VuSEZlNEI0dXdLak04aUVkVGdvdms?oc=5",
-     "fuente": "cmmedia.es",
+     "titulo": "España concentra 4 de cada 10 hectáreas quemadas por los incendios en la Unión Europea en lo que va de año: suma 3.000 edificios y 6.200 personas afectadas",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdFZZWHRqWXlCSnZQV0RSZUVCb3k4ckVaMmNNNFJzb0Z6ekY1RElJM0VyNFlmZVlIVkZyZmpHLVJwZXJjb2xpTjZrOTRRQU54Z2dVblg2VFFTN2VFRTdoWVg4OUNnakFIUUxmUkZwWXRKWHFId3FyMkZ5RVJfcnNtbnd3b2tuaEVDbWsxc0phVnpkcDU4VC1nM21pdDB5U0VoeE9JaGpROVhjbzZqLUFuTWEtdjNlNGxKWlh4RDJodGppRnZZLXRsSVJTQ0wwTGtfSXJ3bGxFaU44cGR0aFZYaDBWcHlsQkx3SFHSAYQCQVVfeXFMUHdiUkdnYlIzZ09HZGRDV1NEbGZJS0ViSDNxN25FYjJJNWVCc1lVdnRlWUI4SHo5c090VWYwa3E4anEwUHNLZkhUcXBUM0lWQXFZYzhIMldxVTFnc1pfVFBQa2tleXNxZGFhYUZiX3B4WnQyb25TMXNLeUtTcmViTnBnRU54RzB0MTUtTEdlRlpFam1feS1pVjRmdnVIRVZMbkhtaFh4QUNIZzNOc0R1eUZlcUdRYU5aeWJoSEpWVXRZd1dVUm9tRnFBck5LY2dzRGttZG1vTmpMMXZvX1MzOTN1NC1YS19LXzdCQXJVMkxSeXlRTTdfNkdhY0lfSkNmUGNQcTc?oc=5",
+     "fuente": "Infobae",
      "resumen": "",
-     "fecha": "2026-11-05T17:05:00+01:00",
+     "fecha": "2026-11-05T16:05:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "Incendios en España: 301.681 ha quemadas",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekVXREhxRmVON1ptNE84NER5QzBJRHljQlJJOWRSb1plQTBpMkFESWVfZXVFV3c2Q3dIYS0tVEx5c09jR1NrcEtrZ2FCQUFpYTYzUUxTV2gwVHdNcHdnV3Yzdm1VVXVmTTV6UFVoVUR2dDdRbVRCUlFlR3dfU2lXNW9RZG1zT3JaX0J2RzRjTVVEQWpoMXFVQXBNZmJ4MXhZSHpBNXBXV3pJeXpUWHRfMmYySUptTjFMdHhaaVRQTUlmbWlvT1MxUHlON3ltVHpnOHEwWE1mV2NYUQ?oc=5",
+     "fuente": "Albaceteabierto",
+     "resumen": "",
+     "fecha": "2026-11-05T11:38:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "España concentra el 42,9% de la superficie quemada en la UE con 301.681 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkVUQV9EcWxScnBrM1o3MS1FQXpRRXh6SDRjemh4QV9MWi1MZlJFOEl0M3c3cmhud2NuNVFVSE9hcGE1ZmRNYlpKSGQ4WVRhYWVyUWpMZlZFM3p2N28yaTNjWldfRHRhcEt3bHdEMS1RdmhaSFlNSl9LcWZqWlV0bnFnVkgxa0luY3daa3pyeUtaUkhrVVoxNGtQbXdVTHNNVlhoMHQwdmh6bWpBVXdMR1U4VEVjOVNNbGdNMmpMd0kwMndla2xaNzJuUU9RTWJnQW5ja0Nzc9IB3AFBVV95cUxOTndyZ0toMXBjeVVtc0R6bVBld1JwQ2IyZFZTZDFXMm5QV3JlemlROUt2MVU4T09HVWtrWmxqbDg4VEZmYkY2aVNaWW9HYUhxS3pKYlQzTXVyVHowR2swNkJ6c01WSndrcFJGWFI1S3pYR2RYdUU3dTdjdjdRVDJsNDZKUDI0OGF2QkpwdkxLdkJfbk5CSnhpRnU1THM0RkYtckRnSlZZVEZUWU5yT0g4dkZ0RURwQVVzWjdpSFRqc1BRMG5ycVZncXVHTWxoNnpCdWRiWEota3JKQkFh?oc=5",
+     "fuente": "Andalucía Información",
+     "resumen": "",
+     "fecha": "2026-11-05T11:01:25+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -96,14 +112,6 @@
      "fuente": "nuevaradio.org",
      "resumen": "El país representa el 42,9% de la superficie arrasada por incendios en la región, con 301.681 hectáreas afectadasEscucharPuntos claveResumenEspaña concentra ...",
      "fecha": "2026-11-05T08:30:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "España concentra 4 de cada 10 hectáreas quemadas por los incendios en la Unión Europea en lo que va de año: suma 3.000 edificios y 6.200 personas afectadas",
-     "url": "https://www.infobae.com/espana/2026/11/05/espana-concentra-4-de-cada-10-hectareas-quemadas-por-los-incendios-en-la-union-europea-en-lo-que-va-de-ano-xxxx/",
-     "fuente": "Infobae",
-     "resumen": "El país tiene el 42,9% de la superficie quemada en la región, con 301.681 hectáreas afectadas Por Gonzalo García Crespo España concentra el 42,9% de la superficie quemada en la Unión Europea en lo que ...",
-     "fecha": "2026-11-05T08:05:00+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -123,27 +131,19 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "CSIF lamenta que Castilla y León vuelva a encabezar las cifras de incendios forestales en España y que la Junta mire hacia otro lado",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVGNKR283WlFiYUdmTHVIUEI2R2t4bUN5eFZRaHFZWjNoczBNbzZoYXd2a3VXaFlHRkJNcEF2Y3FEMXhOd2xwWVNHb0YxMWRMcGlGdm5oMTN4MnNDSmZ0Z0RRZWIxSGJzRnowTHBjVDBYSWhJRHVkS25DSWR1STZRQWE3MENoZnlyTnJyYkNoQXpsN3dFcktQUWtDZER2VDRRbzBmbldrbnpBQXIyRFRHSkRiQjAxaVVrX0g3V1YzZHhudl9WTTRJSjlyWlNib0RXVDFTMVVqVDJ1ZzQxNklPaFpyNXBtQlhFeFZxT29pUWI?oc=5",
-     "fuente": "ZA3.0",
-     "resumen": "",
-     "fecha": "2026-11-03T12:04:33+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Ante el inicio de la temporada de incendios forestales, expertos de Chile y España se reunirán para fortalecer la prevención y respuesta ante emergencias",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkdpT1FCa2JtLUVtMGZYZGEtT1RzTEZCU3NKSTg5cUMtYmZkX1N0OGdNNklCTjFVemw1ZU01Y2Jqc0tKWnlnakpwX2pQWmIzSVB6NzgxZDlnQnQ4dTBqeFJUZDc2Ni1LaWJaODFkTTVwSG1YSS0zN1ViYkJUVlJCd3VKamdXOGxYWWtZNnFReU5tRkdPWXdzclJ3?oc=5",
-     "fuente": "Austerra Society",
-     "resumen": "",
-     "fecha": "2026-11-02T15:30:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
      "titulo": "Evacuado por inhalación de humo tras un incendio en la cocina de su vivienda en Ourense",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmloeTlLUk9idHZyWGVEVTdXemxTNWxOTWk3QjF2RFp0WWg1czBvMFBTUmIwcl9tOXdTdU1zR1hlV3UtTlJOc29mR1NOSURNWk5tbVdOU1lKSUQ3VUdNYy1DYlJ2cWNzVy1adUJPU0c0Uklrbkp4WGFzX2lVSnZKb2QteGhHck43QjFPQkVrMzlTUmNiM0M1djBZQ3pPVzRzUkRuckdWRU8zTHdjYndhTGFsbTlaaGIw0gG-AUFVX3lxTE94cFJyelI3YUtjckVuQzEyWWVCVkw0ek9SZ2xPUGRTUTNHckJGV1pMSkpNcFlySUVuaDFodXhZd2JUejRNNTB0TlNHZHotYnFpR1gzWTltRE1vczN4TTJDRk16V2dRWU5PMWwzZFNJRVpzWFJxaUo0SUtOb1RPRnM5eUNhMFYyU1NrM3VQWEdZRjdIQWF1MHNkb09KOXJuNzBqLU42a2tBTTM4S2JwZ0dHRzV4bF9vNENLVzFqZ3c?oc=5",
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-02T10:53:55+01:00",
+     "fecha_txt": "2 nov"
+    },
+    {
+     "titulo": "Los incendios forestales en España arrasan cerca de 630.000 hectáreas en dos años",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUkwWGVRajEzNEUzNllOTzgtd2RjN3hXWFc4MDdmUVFZcTRFSUNtSEkzM3plTUlnN09QU1pvN3ZENkVaQTNaZTU4M21BUEdBTzFIMDFBYlotdWU2aGJWaTVBQ2lnUGxweEJEc1YtMVM4b2swM1BMZ2xFUGpvc0E5d0V0MXJKOWV6ZnlRQVM4TkNieUVWTTNwRjhn?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-02T10:13:55+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -162,11 +162,11 @@
      "fecha_txt": "7 nov"
     },
     {
-     "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este sábado 7 de noviembre en España: lluvias en el norte y precipitaciones muy fuertes con tormentas en La Palma",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeEp1Vm1kdUxGdzRqWTNlN3pfQXQwY3lobS1mOTA3cGJuQ3pTYnJmZGo0MG0xWERTYnQ1RnUxQ0xJMFFiRlFScHVhdklORnF1eW1nYnktWHlPQkVQTk5iODVIT3NNdEh4TzBpQ0ZES21QNW44YmtNcmFtUy1lMS02SnJ5RG9zaVh5VkVHUTMwaGdlNXpMcElld0RJV2pnT3lyOTVJcTMwM08tcTJSWkVfd1Zid0ZWWDFsNVRsckZlMS1QaFNvT3YxWS1GT0pjNTZaR0ZPazc1ekJlNHQyMk1XeTIxVzRxM3VjQkNfenJRNE8xeWMweEFKMVZxV1lOcnRqZ05FSmE0a2cxWUR3YkVuOTlCcXTSAagCQVVfeXFMUC1sU19OMnpGY3lIWkhxSnJ1UzlEaG1WbkVsS2lzaW9mWGIzalNPZXB0WE1UeEwxbU9yWk5POGRHa0tldi1FT2h1QzMyY0xodmQyQ3lFb1FjLWZUZ0xhaVJoempseGpZQzk0VXdyOWlRLTlFcUdLbWhEYWtmWVVfb2FBLXY1SWhEeHpzekx3QkUyLUxJMklCWTB5Z3FmUHVteFRRUWRfRE0teHpKbnBjZ0s5ZkJmSU9SOXEyNVlLSDVndFAxd1hjTE14ZjdjRzJQN245WEN5QkJSMk5PMl9WV2M0S2Q0VDlFZnNvdVJ4WG9VYzhka3dUVkY3T1J6LWJZQUdlcDFyeVpEOG03UGRuWVJBQlpYaWpHUVVsZnp2bDBpWlVuZnBIZDY?oc=5",
-     "fuente": "La Razón",
+     "titulo": "La borrasca Bruna llega en las próximas horas a España con lluvias y fuertes vientos: estas son las zonas que esperan más agua",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjV4MGk3MkRTYkZic0dTY1YweXlVTzg5N3laWEo5czRNM2YzMGNNUkVDNzdvZWFBVGYwY3FVMG45SDRqNTgteV9kSWowWTJucnpHN0RwNTdnR1lIY3I3SGdXbE5FV2QybkdndUgwU28xR1AtelZwQ0NXY3JicXBxNzlXMDdWT3p2S0lEMjNjS3dlcFFEaldtcFlDMllEb0Z1c0wtbWcyNWpIUmNDTXJPYXBn?oc=5",
+     "fuente": "20Minutos",
      "resumen": "",
-     "fecha": "2026-11-07T07:00:20+01:00",
+     "fecha": "2026-11-07T07:53:33+01:00",
      "fecha_txt": "7 nov"
     },
     {

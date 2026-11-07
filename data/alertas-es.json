@@ -2,13 +2,13 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261107075840",
-  "actualizado": "2026-11-07T10:10:50+01:00",
+  "elaborado": "20261107102622",
+  "actualizado": "2026-11-07T13:10:47+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261107075840_penbal_20261107CET_1794042000.geojson",
-   "r_D+0_20261107075840_can_20261107WET_1794042000.geojson"
+   "r_D+0_20261107102622_penbal_20261107CET_1794052800.geojson",
+   "r_D+0_20261107102622_can_20261107WET_1794052800.geojson"
   ]
  },
  "resumen": {
@@ -35,7 +35,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-07T23:59:59+01:00",
+       "hasta": "2026-11-08T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -49,7 +49,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-07T23:59:59+01:00",
+       "hasta": "2026-11-08T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -71,7 +71,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del sur o suroeste de 50 a 61 km/h (fuerza 7) afectando principalmente al noroeste.",
        "desde": "2026-11-07T18:00:00+00:00",
-       "hasta": "2026-11-07T23:59:59+00:00",
+       "hasta": "2026-11-08T03:59:59+00:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -503,7 +503,7 @@
        "severidad": "Amarillo",
        "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-07T23:59:59+01:00",
+       "hasta": "2026-11-08T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -792,7 +792,7 @@
        "severidad": "Amarillo",
        "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-07T23:59:59+01:00",
+       "hasta": "2026-11-08T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -1219,7 +1219,7 @@
        "severidad": "Amarillo",
        "descripcion": "Viento del sur o suroeste de 50 a 61 km/h (fuerza 7) afectando principalmente al noroeste.",
        "desde": "2026-11-07T18:00:00+00:00",
-       "hasta": "2026-11-07T23:59:59+00:00",
+       "hasta": "2026-11-08T03:59:59+00:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
