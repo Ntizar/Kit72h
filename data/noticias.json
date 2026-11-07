@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T13:10:36+01:00",
+  "actualizado": "2026-11-07T16:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,7 +12,15 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "¿Puede haber un ataque nuclear próximamente?: Experto habló sobre países que piden prepararse con kit de emergencia",
+     "titulo": "Mochilas de emergencia y provisiones: ¿qué originó las recomendaciones en México y otros países?",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDU4OTFnMklGZllVbXZ3ejJPd1Y1YUdsQzlQd2F5TUYwYmtxZjFZQ2tPTXNscVctYUxQWlNxVXFTaGhSNENIVHRPdVEycl92WklwVWNSampZbVVFdklyNEliRUc0R3hnb1Q4QzA2emZlNUpKVEZTblRNdlFPZEg1U2gyNzJNU240a3FwUkMtcm5CQXo5WUZPQy1CYzY5Mjg4ZHR6MVd6MnJSTmZ5N2M4Rkgtbzk1UnF1TlRhdnVoSXhBNi1mWF9mME4zWFYtY1JEMGQ0?oc=5",
+     "fuente": "El Economista",
+     "resumen": "",
+     "fecha": "2026-11-07T15:00:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "¿Puede haber un ataque nuclear próximamente?: experto habló sobre países que piden prepararse con kit de emergencia",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdm1Rb0VhdVMzY2Jic3dPSmVUUGtoRkpvUW9mamZaeE9XdXkzWndXX21OVjBFUUlwMDZFbS01LXowODZWM1JGUzZGUE80aS1QZHRIU0xQWFpYMlY4TFdTQ09rU1hwSVFTcWF5THRjbUpocE5tRU5iOU1YbmtzNjM2Ync4MGxCZEZ1aEtLQTM0ZWIxeUNtWThySTdaN29xX1dRZjNZYWZCZWJubjBOaVpPNHZ6ZDRBTmRVdlY5UnlOU1lTdW5sV0pReW1Od3JGN0duY0NrOEhnNHV5WWs3X0dpcGlGZ3Q2N2R0b3BVTzlsVdIB9AFBVV95cUxQMnRmZml1TlVxb19DNTVzdnRIellMc3NZNl9zMmxEV2p5eGVya1BrbEZpNWdUNE1QdURybWdNcDV3MGhyVzNTeVFpd0E3SEdENWxmcnNMR3pqOEtxdGVELTV3ZEtiQWZGZ2V6UDVjOXBhZW01dmJrb256ZDVjRkJSSExaY1RvaVA4NV9FWWd4b1JsNzBvdHpKOURjS2g3Ymx3OVRCR2dtZ044QnZ2d2FpdTFLZnJOR3o0MnBuZDZ3UC0wNEFIY3dPS19YTlk0Uzd1cTNFaThyXy05ZEtMNWhNT1lkX0lnakFqNHZxVlNhXzZJTlB3?oc=5",
      "fuente": "Revista Semana",
      "resumen": "",
@@ -28,6 +36,14 @@
      "fecha_txt": "7 nov"
     },
     {
+     "titulo": "San Juan acordó con una empresa minera la provisión de carpas gigantes y grupos electrógenos para emergencias",
+     "url": "https://www.canal13sanjuan.com/politica/san-juan-acordo-con-una-empresa-minera-la-provision-de-carpas-gigantes-y-grupos-electrogenos-para-emergencias_a6aef3471696ebfa450b4b31d",
+     "fuente": "Diario 13 San Juan",
+     "resumen": "Gobierno y la proveedora minera sellaron la colaboración con Caterwest, que desplegará equipamiento y personal especializado ante posibles inundaciones.",
+     "fecha": "2026-11-07T07:33:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Francia recomienda preparar un kit de emergencia para sobrevivir 72 horas ante posibles catástrofes",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjNfZHBHd3NRckRjb1RCc0hXS1RBN1BybkpxU0M1TzRBNG9mOFFZNl9mQkdIaDlyRy14b2hkdjVNT1ZWRnlPbFpkWWNkNnVyTzJLQndqcHEwbnA0bkF2TmZHMGtCX190VDlPZ2w0MW9DSmxZa0hzOG8zNGFwQjBZaFJRVVJ2TExaY2lsc3NnR3FSSjVPc3dSNVFnSQ?oc=5",
      "fuente": "HolaSalta Noticias",
@@ -39,7 +55,7 @@
      "titulo": "Más países avisan a sus ciudadanos de guardar provisiones por emergencia: ¿qué está pasando?",
      "url": "https://diariodeavisos.elespanol.com/canariasenred/mas-paises-avisan-a-sus-ciudadanos-de-guardar-provisiones-por-emergencia-que-esta-pasando/",
      "fuente": "Diario de Avisos",
-     "resumen": "Este artículo puede republicarse libremente en cualquier medio de comunicación, blog o página personal siempre que se cite a Canarias en Red como creador del artículo y se incluya un enlace activo hac ...",
+     "resumen": "El punto de inflexión en Europa está fechado. Los países nórdicos reforzaron sus planes de emergencia desde la invasión a gran escala de Ucrania por parte de Rusia en 2022. Noruega fijó su estándar de ...",
      "fecha": "2026-11-07T02:36:00+01:00",
      "fecha_txt": "7 nov"
     },
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-06T21:28:17+01:00",
      "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para la preparación ante desastres - Parte 1: Las recomendaciones no son señal de un desastre inminente.",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlRSelFnWHhkME8yeWdYcFczbWJFT0VqYXJRbzJnZ0EwbUs2cTBvUG5GZ3RJd0NmRk1QTExCM1NSa1dNN01EeTRQSzNfRVh2RmdRb0x3SlhQSWhiX0NpYXQybEM0Q1FHa1hYbzBSX3NCU2FZd1hZWk1UV3kzZnJOVndET04tMi1meS1SLXdVZmgwQ3ZsejlDNzI3SzE4ZDVQeW9YY2pESk9WeXpKLWgyWERuWUY0NGxKamNjaFp3?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-06T18:08:47+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La OTAN activa por primera vez helicópteros españoles en Rumanía mientras Bruselas insiste en el kit de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVW1tRDVVVjBnanlwdWdpblpWSzN0aFNCVzFzME1WbDRuOFl4NTZWRnVLSThNM1l0UDR3WGdlSlFySHd2VlFfQnRtVlgtNmpyZXN3ZElsOWlMc3ZSMU13S1diS2E5cFlGWEl3RTJzRXBWUVhsYlZiblVYVTBZRHNKMTFoOUxuQ2tucnQwRXlIa3ZWRmhDZVZocS1IMU85bnY5VXU1WFA1bzBQODlINmFHZ3duN2VVX3h1TGUyY2xrb3ZsTEQwOXR0cEsyakxZMGVvSFZsdEt5TmpoR3k2cERvTkh3Vl8tZC1vbEV5SHdBZUJ3UnA4ZXZwMVBxMy05VWhWQ2fSAYICQVVfeXFMTS1DYThCaWF5Q2J6b0pRRnRSd0ZXc2JfRFhackt2NUVRT3A5aXF6VHI4dzhMcjN0SFdBSndzSkVpM0pwYUM5ZUxVWUVqSVdBTlVmVHVRSHlMblZndjFDRTJqU3BTYWxrZC1PR3A2aXZEUWFwV00tc1FDUktVVGhBVms5ZTIzYVQ4NFo4LXdaOGtEVnY4MmxKYUZ2aVJwRHR2ZUJQR3lHR3NXZ1c0bzhtTzg0X3hlT2xaTVI2RExfMEFlMzNkeTdfczVzSVUyMUpLVEpGN2wxYzJnWXpVVWNVaXEwQWFOZW1VX0NOd0ZaZzBkT0lCbVNwb0dmWXhPUmJpcWtR?oc=5",
-     "fuente": "Antena 3 Noticias",
-     "resumen": "",
-     "fecha": "2026-11-06T15:33:49+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -82,6 +82,22 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Galicia registra un 86% menos de incendios que hace dos décadas, pero apenas reduce la superficie quemada",
+     "url": "https://www.farodevigo.es/galicia/2026/11/07/galicia-registra-86-incendios-decadas-136193769.html",
+     "fuente": "Faro de Vigo",
+     "resumen": "Los grandes incendios, que afectan a más de 500 hectáreas, han aumentado un 70% y arrasan cinco veces más superficie ...",
+     "fecha": "2026-11-07T06:42:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "El incendio forestal de Manzaneda quema diez hectáreas en Bidueira y la Xunta lo estabiliza de madrugada",
+     "url": "https://www.msn.com/es-es/noticias/other/el-incendio-forestal-de-manzaneda-quema-diez-hect%C3%A1reas-en-bidueira-y-la-xunta-lo-estabiliza-de-madrugada/ar-AA2gXeEk",
+     "fuente": "Moncloa on MSN",
+     "resumen": "El fuego de Bidueira, en Manzaneda (Ourense), quema diez hectáreas y queda estabilizado de madrugada: la prevención vuelve al debate fuera de temporada. La entrada El incendio forestal de Manzaneda qu ...",
+     "fecha": "2026-11-07T06:17:18+01:00",
+     "fecha_txt": "7 nov"
+    },
     {
      "titulo": "España concentra 4 de cada 10 hectáreas quemadas por los incendios en la Unión Europea en lo que va de año: suma 3.000 edificios y 6.200 personas afectadas",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdFZZWHRqWXlCSnZQV0RSZUVCb3k4ckVaMmNNNFJzb0Z6ekY1RElJM0VyNFlmZVlIVkZyZmpHLVJwZXJjb2xpTjZrOTRRQU54Z2dVblg2VFFTN2VFRTdoWVg4OUNnakFIUUxmUkZwWXRKWHFId3FyMkZ5RVJfcnNtbnd3b2tuaEVDbWsxc0phVnpkcDU4VC1nM21pdDB5U0VoeE9JaGpROVhjbzZqLUFuTWEtdjNlNGxKWlh4RDJodGppRnZZLXRsSVJTQ0wwTGtfSXJ3bGxFaU44cGR0aFZYaDBWcHlsQkx3SFHSAYQCQVVfeXFMUHdiUkdnYlIzZ09HZGRDV1NEbGZJS0ViSDNxN25FYjJJNWVCc1lVdnRlWUI4SHo5c090VWYwa3E4anEwUHNLZkhUcXBUM0lWQXFZYzhIMldxVTFnc1pfVFBQa2tleXNxZGFhYUZiX3B4WnQyb25TMXNLeUtTcmViTnBnRU54RzB0MTUtTEdlRlpFam1feS1pVjRmdnVIRVZMbkhtaFh4QUNIZzNOc0R1eUZlcUdRYU5aeWJoSEpWVXRZd1dVUm9tRnFBck5LY2dzRGttZG1vTmpMMXZvX1MzOTN1NC1YS19LXzdCQXJVMkxSeXlRTTdfNkdhY0lfSkNmUGNQcTc?oc=5",
@@ -115,14 +131,6 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "El 52,87 por ciento de los incendios forestales en la provincia han quedado en conato",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-5287-por-ciento-de-los-incendios-forestales-en-la-provincia-han-quedado-en-conato/ar-AA2gK1wV",
-     "fuente": "Europa Press on MSN",
-     "resumen": "GRANADA, 4 (EUROPA PRESS) El dispositivo del Plan Infoca ha intervenido en 87 ocasiones por incendios en la provincia de Granada durante la campaña del 1 de junio al 15 de octubre, periodo en el que s ...",
-     "fecha": "2026-11-04T07:00:37+01:00",
-     "fecha_txt": "4 nov"
-    },
-    {
      "titulo": "Galicia cierra la campaña de incendios con un 95% menos de superficie quemada que en 2025",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzR5U2JOWmZHRl9JSmhWOFJ0OF9CdmJyR0M4QUVZUlNLVkpCRXgzX1VCSnhEN0NUanpZY3Q1RDVJVVppQnE5OHNRT0Y1LURfb2g4SG9YWHJRQ3ZtTVcySjBocmFFYlU4dUpfR0tvbEs3SWJRVnktZnVUaDlKYWw5N1lpbVZvRUdVUzF5ZW9iSHhiZHpYbi0teWdUa2QyeWtDM2hqR0lQVWotUklFZnJaazI4c9IBuAFBVV95cUxNYmcxcVVtX0EtMUpUaF9jM2JCVG11Ykd1dEVneXhKWUcwTjRSZ2kxUTJ2d0xMcnlUVms2MHI3UEJBc1FCVHh4Wk41UF9wZDFKcV9wVHJYeTBBckwzNXFOaFh0bTN0SDBzNVN1bUM2anlFZWdZUTFwVm5CcElNeUpSSHhYWnJSa3hJVWVFZVJNLWNYTndoSDU2ZWNhZkRoMVViN3AtVlo0T1h2QVQ2TnZiX1ZDMGh1OTl2?oc=5",
      "fuente": "ABC",
@@ -131,19 +139,11 @@
      "fecha_txt": "3 nov"
     },
     {
-     "titulo": "Evacuado por inhalación de humo tras un incendio en la cocina de su vivienda en Ourense",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmloeTlLUk9idHZyWGVEVTdXemxTNWxOTWk3QjF2RFp0WWg1czBvMFBTUmIwcl9tOXdTdU1zR1hlV3UtTlJOc29mR1NOSURNWk5tbVdOU1lKSUQ3VUdNYy1DYlJ2cWNzVy1adUJPU0c0Uklrbkp4WGFzX2lVSnZKb2QteGhHck43QjFPQkVrMzlTUmNiM0M1djBZQ3pPVzRzUkRuckdWRU8zTHdjYndhTGFsbTlaaGIw0gG-AUFVX3lxTE94cFJyelI3YUtjckVuQzEyWWVCVkw0ek9SZ2xPUGRTUTNHckJGV1pMSkpNcFlySUVuaDFodXhZd2JUejRNNTB0TlNHZHotYnFpR1gzWTltRE1vczN4TTJDRk16V2dRWU5PMWwzZFNJRVpzWFJxaUo0SUtOb1RPRnM5eUNhMFYyU1NrM3VQWEdZRjdIQWF1MHNkb09KOXJuNzBqLU42a2tBTTM4S2JwZ0dHRzV4bF9vNENLVzFqZ3c?oc=5",
-     "fuente": "Faro de Vigo",
+     "titulo": "Ante el inicio de la temporada de incendios forestales, expertos de Chile y España se reunirán para fortalecer la prevención y respuesta ante emergencias",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkdpT1FCa2JtLUVtMGZYZGEtT1RzTEZCU3NKSTg5cUMtYmZkX1N0OGdNNklCTjFVemw1ZU01Y2Jqc0tKWnlnakpwX2pQWmIzSVB6NzgxZDlnQnQ4dTBqeFJUZDc2Ni1LaWJaODFkTTVwSG1YSS0zN1ViYkJUVlJCd3VKamdXOGxYWWtZNnFReU5tRkdPWXdzclJ3?oc=5",
+     "fuente": "Austerra Society",
      "resumen": "",
-     "fecha": "2026-11-02T10:53:55+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Los incendios forestales en España arrasan cerca de 630.000 hectáreas en dos años",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUkwWGVRajEzNEUzNllOTzgtd2RjN3hXWFc4MDdmUVFZcTRFSUNtSEkzM3plTUlnN09QU1pvN3ZENkVaQTNaZTU4M21BUEdBTzFIMDFBYlotdWU2aGJWaTVBQ2lnUGxweEJEc1YtMVM4b2swM1BMZ2xFUGpvc0E5d0V0MXJKOWV6ZnlRQVM4TkNieUVWTTNwRjhn?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
-     "resumen": "",
-     "fecha": "2026-11-02T10:13:55+01:00",
+     "fecha": "2026-11-02T15:30:00+01:00",
      "fecha_txt": "2 nov"
     }
    ]
