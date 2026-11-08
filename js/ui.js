@@ -461,17 +461,20 @@ const ui = {
     const kit = state.kitPorSlug(slug);
     if (!kit) return;
     const soloEsenciales = modo === 'esenciales';
-    const vistos = new Set(); const asins = [];
+    // Un ASIN repetido en el kit (p.ej. 2ª batería LFP) NO es dedupe: hay que
+    // llevar N unidades, así que se acumula la cantidad en vez de descartarlo.
+    const cant = new Map();
     if (modo !== 'buscar') {
       kit.secciones.forEach(s => s.items.forEach(i => {
         if (!i.afiliado) return;
         if (soloEsenciales && i.prioridad !== 'esencial') return;
         const m = /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado);
-        if (m && !vistos.has(m[1])) { vistos.add(m[1]); asins.push(m[1]); }
+        if (m) cant.set(m[1], (cant.get(m[1]) || 0) + 1);
       }));
     }
+    const asins = [...cant.keys()];
     if (asins.length) {
-      const params = asins.map((a, idx) => `ASIN.${idx+1}=${a}&Quantity.${idx+1}=1`).join('&');
+      const params = asins.map((a, idx) => `ASIN.${idx+1}=${a}&Quantity.${idx+1}=${cant.get(a)}`).join('&');
       window.open(`https://www.amazon.es/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
       return;
     }

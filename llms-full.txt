@@ -90,8 +90,8 @@ Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada e
 ### Kit Apagón: 15 artículos para sobrevivir sin luz (2026) — https://kit72h.com/kit/kit-apagon/
 Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la Estrategia de Preparación de la UE (2025).
 **Luz**
-- Lámparas LED a pilas con imán (para nevera/despensa): Se adhiere a nevera, despensa o capó del coche. Manos libres. (~10-25 €)
-- Linterna frontal (manos libres): Ilumina sin ocupar las manos: imprescindible para trabajar de noche. (~12-25 €)
+- Lámparas LED recargables con imán (para nevera/despensa): Se adhiere a nevera, despensa o capó del coche. Manos libres. (~10-25 €)
+- Linterna frontal (manos libres): Ilumina sin ocupar las manos: imprescindible para trabajar de noche. (~6-10 €)
 - Velas de emergencia (solo como refuerzo, con portavelas seguro): Refuerzo de luz, nunca fuente principal. Con portavelas metálico. (~5-12 €)
 **Energía**
 - Powerbank ≥ 20.000 mAh con salida AC o USB-C PD: Batería externa de 20.000 mAh: 4-5 cargas completas de móvil. (~25-50 €)
@@ -100,10 +100,10 @@ Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la 
 **Cocina sin electricidad**
 - Hornillo de camping a gas con bombonas: Comida caliente sin electricidad. Usa siempre en zona ventilada. (~20-45 €)
 - Encendedores y cerillas largas: Cerillas de tormenta: encienden con viento y humedad. (~5-10 €)
-- Nevera portátil de conservas: Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~1-3 €/lata)
+- Nevera portátil de conservas: Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~45-60 €)
 - Acumuladores de frío (bloques de gel congelables) para nevera y congelador: Tenlos congelados desde antes: el día del corte pasan a la nevera, pegados a lo más delicado (carne, pescado, lácteos, embutido), y alargan las horas de frío sin que tengas que abrir la puerta para comprobar nada. Truco gratis equivalente: dos botellas de agua congeladas. Y lo que ya se ha descongelado no se vuelve a congelar: se cocina o se tira. (~10-20 €)
 **Seguridad durante el corte**
-- Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~15-35 €)
+- Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~17-30 €)
 - Extintor de polvo ABC de 1-2 kg con soporte: Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112. (~25-45 €)
 **Dinero y comunicación**
 - Caja fuerte pequeña portátil para efectivo: Guarda el efectivo y documentos críticos en casa. (~20-45 €)
@@ -520,7 +520,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Caja de fusibles y distribución DC para baterías: Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas. (~60-100 €)
 **SAI (UPS): conmutación instantánea**
 - SAI (UPS) 3000VA-5000VA online doble conversión: Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente. (~500-800 €)
-- SAI 1500VA online (equipos críticos individuales): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
+- SAI 1500VA (900W line-interactive): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
 **Generador: respaldo cuando no hay sol**
 - Generador inverter 2000-3000W (gasolina o gas): Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol. (~800-1.500 €)
 - Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
@@ -529,7 +529,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Acumuladores de frío congelables (pack de 6): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~25-40 €)
 **Iluminación y seguridad perimetral**
 - Set de 10 luminarias LED solares de jardín: Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización. (~100-200 €)
-- Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~150-300 €)
+- Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~80-120 €)
 **Conectividad: Starlink y redundancia**
 - Terminal Starlink Gen 3 (residencial / móvil): Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo. (~500-1.200 € · 45-60 €/mes)
 - Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)

@@ -871,7 +871,7 @@
           "titulo": "Luz",
           "items": [
             {
-              "producto": "Lámparas LED a pilas con imán (para nevera/despensa)",
+              "producto": "Lámparas LED recargables con imán (para nevera/despensa)",
               "afiliado": "https://www.amazon.es/dp/B0B9ZTKYW5?tag=ntizar-21",
               "descripcion": "Se adhiere a nevera, despensa o capó del coche. Manos libres.",
               "precio_aprox": "10-25 €",
@@ -879,9 +879,9 @@
             },
             {
               "producto": "Linterna frontal (manos libres)",
-              "afiliado": "https://www.amazon.es/Power-Bank-Solar-20000mAh-Linterna/dp/B0GRMM8ZQS?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0BY6SFKCS?tag=ntizar-21",
               "descripcion": "Ilumina sin ocupar las manos: imprescindible para trabajar de noche.",
-              "precio_aprox": "12-25 €",
+              "precio_aprox": "6-10 €",
               "prioridad": "recomendado"
             },
             {
@@ -913,10 +913,11 @@
             },
             {
               "producto": "Cargador de dinamo multiuso",
-              "afiliado": "https://www.amazon.es/dp/B0F8RG1DV6?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/s?k=radio%20dinamo%20solar%20fm%20am%20linterna%20cargador%20usb&tag=ntizar-21",
               "descripcion": "Manivela manual: energía infinita sin sol ni red.",
               "precio_aprox": "15-30 €",
-              "prioridad": "extra"
+              "prioridad": "extra",
+              "es_busqueda": true
             }
           ],
           "intro": "Mantener el móvil y la radio vivos 3-4 días. Powerbank grande, panel pequeño para recargarlo y cargador de dinamo como último recurso."
@@ -926,23 +927,25 @@
           "items": [
             {
               "producto": "Hornillo de camping a gas con bombonas",
-              "afiliado": "https://www.amazon.es/dp/B0CRN5KNCT?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/s?k=hornillo%20camping%20gas%20portatil%20bombona&tag=ntizar-21",
               "descripcion": "Comida caliente sin electricidad. Usa siempre en zona ventilada.",
               "precio_aprox": "20-45 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "es_busqueda": true
             },
             {
               "producto": "Encendedores y cerillas largas",
-              "afiliado": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/s?k=cerillas%20largas%2017%20cm%20seguridad&tag=ntizar-21",
               "descripcion": "Cerillas de tormenta: encienden con viento y humedad.",
               "precio_aprox": "5-10 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "es_busqueda": true
             },
             {
               "producto": "Nevera portátil de conservas",
               "afiliado": "https://www.amazon.es/dp/B0DM2728ZS?tag=ntizar-21",
               "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
-              "precio_aprox": "1-3 €/lata",
+              "precio_aprox": "45-60 €",
               "prioridad": "esencial"
             },
             {
@@ -964,12 +967,11 @@
           "items": [
             {
               "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
-              "afiliado": "https://www.amazon.es/s?k=detector+de+monoxido+de+carbono+co+a+pilas+con+alarma&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B09GKDQD8Y?tag=ntizar-21",
               "descripcion": "El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje.",
-              "precio_aprox": "15-35 €",
+              "precio_aprox": "17-30 €",
               "prioridad": "esencial",
-              "busqueda": "detector de monoxido de carbono co a pilas con alarma",
-              "es_busqueda": true
+              "busqueda": "detector de monoxido de carbono co a pilas con alarma"
             },
             {
               "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
@@ -994,19 +996,19 @@
             },
             {
               "producto": "Radio FM/AM a pilas o dinamo",
-              "afiliado": "https://www.amazon.es/dp/B0GWNDVR7S?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/s?k=radio%20portatil%20dinamo%20solar%20fm%20am%20linterna&tag=ntizar-21",
               "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
               "precio_aprox": "15-35 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "es_busqueda": true
             },
             {
               "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
-              "afiliado": "https://www.amazon.es/dp/B07DPWBBDP?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B08RZS5YBH?tag=ntizar-21",
               "descripcion": "Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora.",
               "precio_aprox": "60-110 €",
               "prioridad": "recomendado",
               "busqueda": "sai ups 600va router ont bateria",
-              "es_busqueda": false,
               "verificado_ficha": "2026-09-30"
             }
           ],
@@ -1314,8 +1316,7 @@
               "precio_aprox": "5-10 €",
               "prioridad": "esencial",
               "sin_enlace": true,
-              "busqueda": "paracetamol e ibuprofeno",
-              "es_busqueda": true
+              "busqueda": "paracetamol e ibuprofeno"
             },
             {
               "producto": "Mascarillas FFP2",
@@ -1812,8 +1813,7 @@
               "precio_aprox": "—",
               "prioridad": "esencial",
               "sin_enlace": true,
-              "busqueda": "efectivo en billetes pequeños",
-              "es_busqueda": true
+              "busqueda": "efectivo en billetes pequeños"
             },
             {
               "producto": "Radio FM/AM a pilas o dinamo",
@@ -1932,7 +1932,8 @@
               "es_busqueda": true,
               "descripcion": "Un medidor de 12 € te indica cuándo regar y si la tierra es ácida o alcalina. La mayoría de hortalizas prefieren pH 6-7; la lechuga aguanta hasta 7.5. Sin este dato, riegas a ciegas y pierdes el 60% del esfuerzo.",
               "precio_aprox": "8-15 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/s?k=medidor%20humedad%20ph%20suelo%203%20en%201&tag=ntizar-21"
             }
           ],
           "intro": "Semillas, bandejas, sustrato y medidor. Con menos de 60 € tienes medio año de ensaladas, germinados y tomates cherry bien regados."
@@ -1993,7 +1994,8 @@
               "es_busqueda": true,
               "descripcion": "Cubeta de 20 L con grifo para abon líquido (té de compost) y tapa que evita olores. Se usa en cocina, terraza o garaje. Los restos de cocina alimentan el huerto sin tener vertedero. La pila de 'barnes' (verde/marrón) se renueva cada semana.",
               "precio_aprox": "25-35 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/s?k=compostera%20domestica%20exterior%20grifo%20lixiviado&tag=ntizar-21"
             },
             {
               "producto": "Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)",
@@ -2001,7 +2003,8 @@
               "es_busqueda": true,
               "descripcion": "Red de 0.6 mm que bloquea mosca blanca, trips y pulgones sin químicos. Se fija con clips en marcos de ventana o túnel de plástico. Reduce un 80% las plagas y elimina la necesidad de insecticidas. Durabilidad 3-4 temporadas.",
               "precio_aprox": "10-18 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "afiliado": "https://www.amazon.es/s?k=malla%20anti%20afidos%20insectos%20invernadero&tag=ntizar-21"
             },
             {
               "producto": "Kit riego por goteo básico (10-20 plantas)",
@@ -2009,7 +2012,8 @@
               "es_busqueda": true,
               "descripcion": "Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas.",
               "precio_aprox": "20-35 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/s?k=kit%20riego%20goteo%20exterior%2020%20plantas&tag=ntizar-21"
             },
             {
               "producto": "Red antipájaros para huerto (1x3 m, malla fina 2 cm)",
@@ -2017,7 +2021,8 @@
               "es_busqueda": true,
               "descripcion": "La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente.",
               "precio_aprox": "5-12 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/s?k=red%20antipajaros%20huerto%20protector%20cultivos&tag=ntizar-21"
             }
           ],
           "intro": "Compostar convierte residuos en oro negro. La malla anti-áfidos evita que los insectos destruyan el huerto, la red antipájaros protege del suelo, y el riego por goteo lo salva cuando no estás."
@@ -2080,12 +2085,11 @@
             },
             {
               "producto": "Renueva el agua cada 6 meses",
-              "afiliado": "https://www.amazon.es/s?k=renueva+el+agua+cada+6+meses&tag=ntizar-21",
               "descripcion": "La garrafa de tu supermercado local sirve igual. Guarda también agua de la bañera si hay aviso previo.",
               "precio_aprox": "—",
               "prioridad": "esencial",
               "busqueda": "renueva el agua cada 6 meses",
-              "es_busqueda": true
+              "sin_enlace": true
             }
           ],
           "intro": "El cuello de botella real del mes. Envases grandes con grifo, rotación y un plan para potabilizar."
@@ -2386,7 +2390,8 @@
               "es_busqueda": true,
               "descripcion": "Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco.",
               "precio_aprox": "10-18 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/s?k=leche%20nutramigen%20aminoacidos%20pack&tag=ntizar-21"
             }
           ]
         },
@@ -2460,7 +2465,8 @@
               "es_busqueda": true,
               "descripcion": "Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas.",
               "precio_aprox": "6-12 €",
-              "prioridad": "recomendado"
+              "prioridad": "recomendado",
+              "afiliado": "https://www.amazon.es/s?k=pastillas%20esterilizar%20biberon%20agua%20fria%20milton&tag=ntizar-21"
             }
           ]
         },
@@ -2514,7 +2520,8 @@
               "es_busqueda": true,
               "descripcion": "En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco.",
               "precio_aprox": "35-80 €",
-              "prioridad": "extra"
+              "prioridad": "extra",
+              "afiliado": "https://www.amazon.es/s?k=cuna%20de%20viaje%20plegable%20bebe&tag=ntizar-21"
             }
           ]
         },
@@ -2578,7 +2585,8 @@
               "es_busqueda": true,
               "descripcion": "El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad.",
               "precio_aprox": "5-10 €",
-              "prioridad": "extra"
+              "prioridad": "extra",
+              "afiliado": "https://www.amazon.es/s?k=chupetes%20silicona%20talla%202%20pack%20%2B%20portachupetes&tag=ntizar-21"
             }
           ]
         },
@@ -2862,21 +2870,19 @@
             },
             {
               "producto": "Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)",
-              "afiliado": "https://www.amazon.es/s?k=hoja+de+contactos+en+papel+con+letra+grande&tag=ntizar-21",
               "descripcion": "Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra.",
               "precio_aprox": "0 €",
               "prioridad": "esencial",
               "busqueda": "hoja de contactos en papel con letra grande",
-              "es_busqueda": true
+              "sin_enlace": true
             },
             {
               "producto": "Acuerdo de vecindad con llamada/golpe de aviso",
-              "afiliado": "https://www.amazon.es/s?k=acuerdo+de+vecindad+con+llamada+golpe+de+aviso&tag=ntizar-21",
               "descripcion": "Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha.",
               "precio_aprox": "0 €",
               "prioridad": "esencial",
               "busqueda": "acuerdo de vecindad con llamada golpe de aviso",
-              "es_busqueda": true
+              "sin_enlace": true
             },
             {
               "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
@@ -3110,10 +3116,10 @@
             },
             {
               "producto": "Medicación crónica del animal (30 días)",
-              "afiliado": null,
               "descripcion": "Insulina, cardíaca, anti-epilépticos, antiparasitario. Si el animal toma algo a diario, en la mochila va un mes, no una semana.",
               "precio_aprox": "15-60 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "sin_enlace": true
             },
             {
               "producto": "Botiquín veterinario básico (gasas, suero, povidona, vendas)",
@@ -3202,17 +3208,17 @@
           "items": [
             {
               "producto": "Acuerdo con una persona de confianza (con llaves y ficha del animal)",
-              "afiliado": null,
               "descripcion": "Hospitalizo, estoy fuera o no llego: alguien con llaves, que sepa dónde está comida y transportín y que conozca el plan.",
               "precio_aprox": "0 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "sin_enlace": true
             },
             {
               "producto": "Lista de residencias y hoteles que admiten animales",
-              "afiliado": null,
               "descripcion": "En una evacuación no todos los albergues aceptan mascotas. Ten apuntados tres sitios aceptados con teléfono, en el municipio y en la provincia vecina.",
               "precio_aprox": "0 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "sin_enlace": true
             },
             {
               "producto": "Protección de datos del animal (copia digital de vacunas con el microchip visible)",
@@ -3703,10 +3709,10 @@
             },
             {
               "producto": "Medicación crónica (7-30 días) con copia de recetas",
-              "afiliado": null,
               "descripcion": "Diabéticos, anticoagulados, hipertensos, asmáticos. Si tu medicación está en una farmacia cerrada, tienes un problema grave en 24 horas.",
               "precio_aprox": "15-60 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "sin_enlace": true
             },
             {
               "producto": "Botiquín de bolsillo para llevar encima",
@@ -4014,10 +4020,10 @@
             },
             {
               "producto": "Medicación crónica y lista de tratamientos (personas mayores o dependientes)",
-              "afiliado": null,
               "descripcion": "Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño.",
               "precio_aprox": "15-60 €",
-              "prioridad": "esencial"
+              "prioridad": "esencial",
+              "sin_enlace": true
             },
             {
               "producto": "Bastón, andador o silla plegable de repuesto",
@@ -4503,8 +4509,8 @@
             },
             {
               "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
-              "afiliado": "https://www.amazon.es/dp/B09QGFNB2L?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=cable%20solar%206mm2%20conectores%20mc4&tag=ntizar-21",
+              "es_busqueda": true,
               "descripcion": "Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones.",
               "precio_aprox": "80-120 €",
               "verificado_ficha": "2026-10-16"
@@ -4517,8 +4523,8 @@
           "items": [
             {
               "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
-              "afiliado": "https://www.amazon.es/dp/B0GTYPQVX6?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=bateria%20lifepo4%2048v%20200ah%20solar&tag=ntizar-21",
+              "es_busqueda": true,
               "prioridad": "esencial",
               "descripcion": "9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo.",
               "precio_aprox": "800-1.200 €",
@@ -4526,16 +4532,16 @@
             },
             {
               "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
-              "afiliado": "https://www.amazon.es/dp/B0GTYPQVX6?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=bateria%20lifepo4%2048v%20200ah%20solar&tag=ntizar-21",
+              "es_busqueda": true,
               "descripcion": "Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje).",
               "precio_aprox": "800-1.200 €",
               "verificado_ficha": "2026-10-16"
             },
             {
               "producto": "Caja de fusibles y distribución DC para baterías",
-              "afiliado": "https://www.amazon.es/dp/B0CHZG1DKF?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=caja%20combinadora%20solar%20dc%20fusible%20mc4&tag=ntizar-21",
+              "es_busqueda": true,
               "prioridad": "esencial",
               "descripcion": "Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas.",
               "precio_aprox": "60-100 €",
@@ -4557,7 +4563,7 @@
               "verificado_ficha": "2026-10-16"
             },
             {
-              "producto": "SAI 1500VA online (equipos críticos individuales)",
+              "producto": "SAI 1500VA (900W line-interactive)",
               "afiliado": "https://www.amazon.es/dp/B07NS2VK7J?tag=ntizar-21",
               "es_busqueda": false,
               "descripcion": "Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad.",
@@ -4572,8 +4578,8 @@
           "items": [
             {
               "producto": "Generador inverter 2000-3000W (gasolina o gas)",
-              "afiliado": "https://www.amazon.es/dp/B0DHRGY75J?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=generador%20inverter%202000w%20gasolina%20insonorizado&tag=ntizar-21",
+              "es_busqueda": true,
               "prioridad": "esencial",
               "descripcion": "Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol.",
               "precio_aprox": "800-1.500 €",
@@ -4595,8 +4601,8 @@
           "items": [
             {
               "producto": "Nevera/congeladora solar 12V/220V (compresor)",
-              "afiliado": "https://www.amazon.es/dp/B0919WPGR5?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=nevera%20compresor%20portatil%2012v%20220v%2050%20l&tag=ntizar-21",
+              "es_busqueda": true,
               "prioridad": "esencial",
               "descripcion": "Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red.",
               "precio_aprox": "300-600 €",
@@ -4618,7 +4624,7 @@
           "items": [
             {
               "producto": "Set de 10 luminarias LED solares de jardín",
-              "afiliado": "https://www.amazon.es/s?k=luminarias+led+solar+jardin+10pack+sensor&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/s?k=luminarias%20solares%20jardin%20con%20sensor%20pack&tag=ntizar-21",
               "es_busqueda": true,
               "descripcion": "Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización.",
               "precio_aprox": "100-200 €"
@@ -4628,7 +4634,7 @@
               "afiliado": "https://www.amazon.es/dp/B0H8P2WXHV?tag=ntizar-21",
               "es_busqueda": false,
               "descripcion": "Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil.",
-              "precio_aprox": "150-300 €",
+              "precio_aprox": "80-120 €",
               "verificado_ficha": "2026-10-17"
             }
           ]
@@ -4677,16 +4683,15 @@
           "items": [
             {
               "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
-              "afiliado": "https://www.amazon.es/dp/B0CH9NJHRJ?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/s?k=icom%20ic-7100%20radioamador%20hf%20transceptor&tag=ntizar-21",
+              "es_busqueda": true,
               "descripcion": "Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito).",
               "precio_aprox": "600-1.200 € (radio + antena)",
               "verificado_ficha": "2026-10-04"
             },
             {
               "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
-              "afiliado": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21",
-              "es_busqueda": false,
+              "afiliado": "https://www.amazon.es/dp/B077XTVFHQ?tag=ntizar-21",
               "descripcion": "Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación.",
               "precio_aprox": "100-200 € (pack 4)",
               "verificado_ficha": "2026-10-04"

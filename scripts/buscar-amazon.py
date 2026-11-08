@@ -177,6 +177,8 @@ def main():
             for i in s["items"]:
                 prod = i.get("producto", "")
                 url = i.get("afiliado") or ""
+                if i.get("sin_enlace"):
+                    continue  # item no comprable (medicación, acuerdos, listas): nunca fue pendiente
                 sin_ficha = ("amazon.es/s?" in url) or not url or i.get("es_busqueda")
                 if not sin_ficha:
                     continue

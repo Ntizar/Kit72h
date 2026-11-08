@@ -1,8 +1,8 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
- "generado": "2026-11-03",
- "total_productos": 236,
- "compartidos": 61,
+ "generado": "2026-11-08",
+ "total_productos": 232,
+ "compartidos": 60,
  "productos": {
   "8419436623": {
    "nombre_canonico": "Huerto urbano (Larousse)",
@@ -878,6 +878,26 @@
    "n_kits": 1,
    "precio_ref": "15-40 €"
   },
+  "B077XTVFHQ": {
+   "nombre_canonico": "Walkie-talkies profesionales PMR446 (set de 4)",
+   "url": "https://www.amazon.es/dp/B077XTVFHQ?tag=ntizar-21",
+   "categorias": [
+    "Comunicación local: radio amateur y walkies"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
+     "prioridad": null,
+     "precio_aprox": "100-200 € (pack 4)"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "100-200 € (pack 4)"
+  },
   "B07B9KD2JF": {
    "nombre_canonico": "Protector solar SPF 50",
    "url": "https://www.amazon.es/Fotoprotector-ISDIN-Fusion-Water-Color/dp/B07B9KD2JF?tag=ntizar-21",
@@ -943,26 +963,6 @@
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
-  },
-  "B07DPWBBDP": {
-   "nombre_canonico": "SAI / UPS pequeño (600-900 VA) para router y ONT",
-   "url": "https://www.amazon.es/dp/B07DPWBBDP?tag=ntizar-21",
-   "categorias": [
-    "Dinero y comunicación"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-apagon",
-     "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
-     "prioridad": "recomendado",
-     "precio_aprox": "60-110 €"
-    }
-   ],
-   "kits": [
-    "kit-apagon"
-   ],
-   "n_kits": 1,
-   "precio_ref": "60-110 €"
   },
   "B07F82JW46": {
    "nombre_canonico": "Gafas de protección ajustadas (o de sol cerradas)",
@@ -1095,7 +1095,7 @@
    "verificado": "2026-09-28"
   },
   "B07NS2VK7J": {
-   "nombre_canonico": "SAI 1500VA online (equipos críticos individuales)",
+   "nombre_canonico": "SAI 1500VA (900W line-interactive)",
    "url": "https://www.amazon.es/dp/B07NS2VK7J?tag=ntizar-21",
    "categorias": [
     "SAI (UPS): conmutación instantánea"
@@ -1103,7 +1103,7 @@
    "apariciones": [
     {
      "kit": "kit-kit-profesional",
-     "producto": "SAI 1500VA online (equipos críticos individuales)",
+     "producto": "SAI 1500VA (900W line-interactive)",
      "prioridad": null,
      "precio_aprox": "200-350 €"
     }
@@ -1508,6 +1508,26 @@
    "n_kits": 1,
    "precio_ref": "20-30 €"
   },
+  "B08RZS5YBH": {
+   "nombre_canonico": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+   "url": "https://www.amazon.es/dp/B08RZS5YBH?tag=ntizar-21",
+   "categorias": [
+    "Dinero y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+     "prioridad": "recomendado",
+     "precio_aprox": "60-110 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "60-110 €"
+  },
   "B08S17DS6N": {
    "nombre_canonico": "Garrafa de 8 L con grifo dosificador",
    "url": "https://www.amazon.es/dp/B08S17DS6N?tag=ntizar-21",
@@ -1611,26 +1631,6 @@
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
-  },
-  "B0919WPGR5": {
-   "nombre_canonico": "Nevera/congeladora solar 12V/220V (compresor)",
-   "url": "https://www.amazon.es/dp/B0919WPGR5?tag=ntizar-21",
-   "categorias": [
-    "Conservación de alimentos sin red"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Nevera/congeladora solar 12V/220V (compresor)",
-     "prioridad": "esencial",
-     "precio_aprox": "300-600 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "300-600 €"
   },
   "B094D3JGLT": {
    "nombre_canonico": "Pilas alcalinas surtidas (AA/AAA)",
@@ -1764,6 +1764,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B09GKDQD8Y": {
+   "nombre_canonico": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "url": "https://www.amazon.es/dp/B09GKDQD8Y?tag=ntizar-21",
+   "categorias": [
+    "Seguridad durante el corte"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+     "prioridad": "esencial",
+     "precio_aprox": "17-30 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "17-30 €"
+  },
   "B09KNPHP9W": {
    "nombre_canonico": "Radio FM/AM a pilas o de manivela, con linterna integrada",
    "url": "https://www.amazon.es/dp/B09KNPHP9W?tag=ntizar-21",
@@ -1886,26 +1906,6 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
-  "B09QGFNB2L": {
-   "nombre_canonico": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
-   "url": "https://www.amazon.es/dp/B09QGFNB2L?tag=ntizar-21",
-   "categorias": [
-    "Energía solar: el sol es tu generador"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
-     "prioridad": null,
-     "precio_aprox": "80-120 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "80-120 €"
-  },
   "B09QSNTH9D": {
    "nombre_canonico": "Cables de arranque y anticongelante con protección hasta -25",
    "url": "https://www.amazon.es/dp/B09QSNTH9D?tag=ntizar-21",
@@ -1976,8 +1976,7 @@
    "nombre_canonico": "Walkie-talkies PMR446 (pareja, recargables)",
    "url": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21",
    "categorias": [
-    "Comunicación local: walkies PMR446",
-    "Comunicación local: radio amateur y walkies"
+    "Comunicación local: walkies PMR446"
    ],
    "apariciones": [
     {
@@ -1985,19 +1984,12 @@
      "producto": "Walkie-talkies PMR446 (pareja, recargables)",
      "prioridad": "esencial",
      "precio_aprox": "40-80 €"
-    },
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
-     "prioridad": null,
-     "precio_aprox": "100-200 € (pack 4)"
     }
    ],
    "kits": [
-    "kit-comunicacion",
-    "kit-kit-profesional"
+    "kit-comunicacion"
    ],
-   "n_kits": 2,
+   "n_kits": 1,
    "precio_ref": "40-80 €"
   },
   "B09XJ947XJ": {
@@ -2179,7 +2171,7 @@
    "verificado": "2026-09-28"
   },
   "B0B9ZTKYW5": {
-   "nombre_canonico": "Lámparas LED a pilas con imán (para nevera/despensa)",
+   "nombre_canonico": "Lámparas LED recargables con imán (para nevera/despensa)",
    "url": "https://www.amazon.es/dp/B0B9ZTKYW5?tag=ntizar-21",
    "categorias": [
     "Luz"
@@ -2187,7 +2179,7 @@
    "apariciones": [
     {
      "kit": "kit-apagon",
-     "producto": "Lámparas LED a pilas con imán (para nevera/despensa)",
+     "producto": "Lámparas LED recargables con imán (para nevera/despensa)",
      "prioridad": "esencial",
      "precio_aprox": "10-25 €"
     }
@@ -2365,6 +2357,26 @@
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0BY6SFKCS": {
+   "nombre_canonico": "Linterna frontal (manos libres)",
+   "url": "https://www.amazon.es/dp/B0BY6SFKCS?tag=ntizar-21",
+   "categorias": [
+    "Luz"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Linterna frontal (manos libres)",
+     "prioridad": "recomendado",
+     "precio_aprox": "6-10 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-10 €"
   },
   "B0BYP13RZQ": {
    "nombre_canonico": "Ventilador USB o a pilas",
@@ -2646,46 +2658,6 @@
    "n_kits": 1,
    "precio_ref": "25-45 €"
   },
-  "B0CH9NJHRJ": {
-   "nombre_canonico": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
-   "url": "https://www.amazon.es/dp/B0CH9NJHRJ?tag=ntizar-21",
-   "categorias": [
-    "Comunicación local: radio amateur y walkies"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
-     "prioridad": null,
-     "precio_aprox": "600-1.200 € (radio + antena)"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "600-1.200 € (radio + antena)"
-  },
-  "B0CHZG1DKF": {
-   "nombre_canonico": "Caja de fusibles y distribución DC para baterías",
-   "url": "https://www.amazon.es/dp/B0CHZG1DKF?tag=ntizar-21",
-   "categorias": [
-    "Baterías de litio LFP: almacena tu energía"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Caja de fusibles y distribución DC para baterías",
-     "prioridad": "esencial",
-     "precio_aprox": "60-100 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "60-100 €"
-  },
   "B0CJDWWGNG": {
    "nombre_canonico": "Guantes impermeables",
    "url": "https://www.amazon.es/dp/B0CJDWWGNG?tag=ntizar-21",
@@ -2908,12 +2880,6 @@
      "precio_aprox": "20-45 €"
     },
     {
-     "kit": "kit-apagon",
-     "producto": "Hornillo de camping a gas con bombonas",
-     "prioridad": "esencial",
-     "precio_aprox": "20-45 €"
-    },
-    {
      "kit": "kit-hogar",
      "producto": "Hornillo de butano portátil con bombonas",
      "prioridad": "esencial",
@@ -2927,12 +2893,11 @@
     }
    ],
    "kits": [
-    "kit-apagon",
     "kit-frio",
     "kit-hogar",
     "kit-suiza"
    ],
-   "n_kits": 4,
+   "n_kits": 3,
    "precio_ref": "20-45 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -3525,26 +3490,6 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
-  "B0DHRGY75J": {
-   "nombre_canonico": "Generador inverter 2000-3000W (gasolina o gas)",
-   "url": "https://www.amazon.es/dp/B0DHRGY75J?tag=ntizar-21",
-   "categorias": [
-    "Generador: respaldo cuando no hay sol"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Generador inverter 2000-3000W (gasolina o gas)",
-     "prioridad": "esencial",
-     "precio_aprox": "800-1.500 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "800-1.500 €"
-  },
   "B0DJPSJTPY": {
    "nombre_canonico": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
    "url": "https://www.amazon.es/dp/B0DJPSJTPY?tag=ntizar-21",
@@ -3618,14 +3563,14 @@
      "kit": "kit-apagon",
      "producto": "Nevera portátil de conservas",
      "prioridad": "esencial",
-     "precio_aprox": "1-3 €/lata"
+     "precio_aprox": "45-60 €"
     }
    ],
    "kits": [
     "kit-apagon"
    ],
    "n_kits": 1,
-   "precio_ref": "1-3 €/lata",
+   "precio_ref": "45-60 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4040,28 +3985,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "15-25 €"
-  },
-  "B0F8RG1DV6": {
-   "nombre_canonico": "Cargador de dinamo multiuso",
-   "url": "https://www.amazon.es/dp/B0F8RG1DV6?tag=ntizar-21",
-   "categorias": [
-    "Energía"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-apagon",
-     "producto": "Cargador de dinamo multiuso",
-     "prioridad": "extra",
-     "precio_aprox": "15-30 €"
-    }
-   ],
-   "kits": [
-    "kit-apagon"
-   ],
-   "n_kits": 1,
-   "precio_ref": "15-30 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
   },
   "B0F99LGY3V": {
    "nombre_canonico": "Pastillas potabilizadoras aptas para lactantes",
@@ -4563,7 +4486,6 @@
    "categorias": [
     "Cocina sin red eléctrica",
     "Herramientas",
-    "Cocina sin electricidad",
     "Calefacción sin luz ni gas"
    ],
    "apariciones": [
@@ -4580,12 +4502,6 @@
      "precio_aprox": "6-10 €"
     },
     {
-     "kit": "kit-apagon",
-     "producto": "Encendedores y cerillas largas",
-     "prioridad": "esencial",
-     "precio_aprox": "5-10 €"
-    },
-    {
      "kit": "kit-frio",
      "producto": "Encendedores y cerillas largas",
      "prioridad": "recomendado",
@@ -4593,12 +4509,11 @@
     }
    ],
    "kits": [
-    "kit-apagon",
     "kit-basico-72h",
     "kit-frio",
     "kit-suiza"
    ],
-   "n_kits": 4,
+   "n_kits": 3,
    "precio_ref": "5-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -5051,19 +4966,12 @@
    "nombre_canonico": "Linterna + batería externa",
    "url": "https://www.amazon.es/Power-Bank-Solar-20000mAh-Linterna/dp/B0GRMM8ZQS?tag=ntizar-21",
    "categorias": [
-    "Luz",
     "Salud y reparación",
     "Utilidad",
     "Luz, avisos y energía",
     "Luz, aviso y rescate"
    ],
    "apariciones": [
-    {
-     "kit": "kit-apagon",
-     "producto": "Linterna frontal (manos libres)",
-     "prioridad": "recomendado",
-     "precio_aprox": "12-25 €"
-    },
     {
      "kit": "kit-montana",
      "producto": "Frontal con pilas de repuesto",
@@ -5090,14 +4998,13 @@
     }
    ],
    "kits": [
-    "kit-apagon",
     "kit-evacuacion",
     "kit-frio",
     "kit-montana",
     "kit-terremoto"
    ],
-   "n_kits": 5,
-   "precio_ref": "12-25 €",
+   "n_kits": 4,
+   "precio_ref": "15-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -5152,32 +5059,6 @@
    "precio_ref": "8-15 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
-  },
-  "B0GTYPQVX6": {
-   "nombre_canonico": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
-   "url": "https://www.amazon.es/dp/B0GTYPQVX6?tag=ntizar-21",
-   "categorias": [
-    "Baterías de litio LFP: almacena tu energía"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
-     "prioridad": "esencial",
-     "precio_aprox": "800-1.200 €"
-    },
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
-     "prioridad": null,
-     "precio_aprox": "800-1.200 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "800-1.200 €"
   },
   "B0GWM8T485": {
    "nombre_canonico": "Cable extensor para Starlink (30 m / 60 m)",
@@ -5234,7 +5115,6 @@
    "url": "https://www.amazon.es/dp/B0GWNDVR7S?tag=ntizar-21",
    "categorias": [
     "Información y comunicación",
-    "Dinero y comunicación",
     "Utilidad",
     "Luz, avisos y energía",
     "Luz, aviso y rescate"
@@ -5245,12 +5125,6 @@
      "producto": "Radio FM/AM con dinamo, solar y USB (2.000 mAh)",
      "prioridad": "esencial",
      "precio_aprox": "20-35 €"
-    },
-    {
-     "kit": "kit-apagon",
-     "producto": "Radio FM/AM a pilas o dinamo",
-     "prioridad": "esencial",
-     "precio_aprox": "15-35 €"
     },
     {
      "kit": "kit-evacuacion",
@@ -5272,13 +5146,12 @@
     }
    ],
    "kits": [
-    "kit-apagon",
     "kit-basico-72h",
     "kit-evacuacion",
     "kit-frio",
     "kit-terremoto"
    ],
-   "n_kits": 5,
+   "n_kits": 4,
    "precio_ref": "20-35 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -5644,14 +5517,14 @@
      "kit": "kit-kit-profesional",
      "producto": "Cámara de seguridad solar 4G con batería",
      "prioridad": null,
-     "precio_aprox": "150-300 €"
+     "precio_aprox": "80-120 €"
     }
    ],
    "kits": [
     "kit-kit-profesional"
    ],
    "n_kits": 1,
-   "precio_ref": "150-300 €"
+   "precio_ref": "80-120 €"
   },
   "B0H8SDLQVQ": {
    "nombre_canonico": "Generador solar portátil con panel incluido (300-500 Wh)",
