@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T10:10:37+01:00",
+  "actualizado": "2026-11-08T13:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Así es el kit francés para sobrevivir 72 horas: por qué crece la idea de una una mochila de emergencia",
+     "url": "https://www.launion.digital/mundo/asi-kit-frances-sobrevivir-72-horas-crece-idea-una-una-mochila-emergencia-n245955",
+     "fuente": "La Unión Digital",
+     "resumen": "Francia y el Reino Unido impulsan recomendaciones para que sus habitantes puedan subsistir de manera autónoma durante tres días ante emergencias. La iniciativa de la Unión Europea contempla una mochil ...",
+     "fecha": "2026-11-08T01:22:00+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "Por qué varios países piden tener lista la mochila de las 72 horas, incluido Guatemala y qué debe contener",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHRaeTUzaXpFVWFhazV4a2IyMmRwX0NKNEZhLUVTR3BiSGluNDBNV0tPZmZ3WFJCdHhVSEhJbThpY3hjZ0JCVklRYkF6TnZxdW5zX28zUGtvME1fRmZSYUR2Sjg5NnhFX0plUGx6MmRNRnhlX2M4SFVDZGVSWWdpXzdmYTMtYklENnd5SFRsNlg5QjZqa2dPVmdQamd3VXBDYVQ0WjBaTDBETzRNcm9TdWk1V1FwTUw2WWRoQUZpdUpPZHduT0xaZGk5R2kyY0N1N00xaklyam5JUnZfS3hsbmp1Wm5GVWZnZml2OQ?oc=5",
@@ -57,14 +65,6 @@
      "fuente": "20Minutos",
      "resumen": "",
      "fecha": "2026-11-07T08:06:14+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Francia recomienda preparar un kit de emergencia para sobrevivir 72 horas ante posibles catástrofes",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjNfZHBHd3NRckRjb1RCc0hXS1RBN1BybkpxU0M1TzRBNG9mOFFZNl9mQkdIaDlyRy14b2hkdjVNT1ZWRnlPbFpkWWNkNnVyTzJLQndqcHEwbnA0bkF2TmZHMGtCX190VDlPZ2w0MW9DSmxZa0hzOG8zNGFwQjBZaFJRVVJ2TExaY2lsc3NnR3FSSjVPc3dSNVFnSQ?oc=5",
-     "fuente": "HolaSalta Noticias",
-     "resumen": "",
-     "fecha": "2026-11-07T06:04:53+01:00",
      "fecha_txt": "7 nov"
     },
     {
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La dana de 2024 aumentó el riesgo de partos prematuros, más en las zonas con mayores daños",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX2VoaTctZjVmLXpLUjNHdVR4d3lCSVhBeWx1R2dSSVZWZVJndm1kdnpOOWZBZHotdVlzR0hHRzJzdW5vc2VNMlhvSnc0UGJWZzlRTDlaSmo4cmZBb2NmNVYwYTJTb3hvaFZZbUJxSENIa2lQZ0Q4LWJ2b1dXZUhlUlE0R2dEVEpHOVVQNC1LS19ZWkRId3BZZXVkbTVld0tTQm83Q1lJVDFQeUVBejRGa0dQZGpmZHZhejdMLUZIMkx5ek9tc3JsMEplT00za3p2QkhxXzFYLXbSAfMBQVVfeXFMT0YyaDZVcFZoSmNEU3M2ZGVqVG1ncEx1dlJ4ZHZ1Uk13bFVVaktKYnMyWVVKLWZOYVF0bHdSa1dQRXFscGxxSEFBQ0lub09UZE1DVFV5dkNHVS1zaGIwWHhhVDBMaWFaRXRGemw0LUExcUF1Y1hoZEZpY1JNd0NjQW9qSkgxaDNCUktGd1YtVVRpUGZZQTFPVnlZRXdoZDNPQVdJUFdzbGtUY3dsNTJxWDJVVjllOFk2OGFVTHNCR2pkZG1PRk1qS20wVXlxc1ZJN3d5RGEzLVlMbzU3U2hXWjRJTzdra0dlMlJvbWhYbWxSa0Vz?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-08T10:17:00+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "Por qué hay que botar a Sánchez, quedan 21 días: la DANA y la emergencia nacional que no declaró",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjI1SGdXRDB2TGpjd0RJRllveklaU01JdlE1SHM3dUYzczZPZEFJSTlTUGNMbW5Id3lnNk45YkhBQ3VyVnd2MEN0OTZkamc1U1ZmR29KTXQyNUxPc2RxS25Hc1BkNkpBUUllVlJXQjRLWjN0X3VwMl9kN1BlRGN0dWZrQk5Hc25jNDJOOU5iQ3ZFQ3hSa0xjUWY0YmNTd25SLW1mWWFQbW05VlZaeXgwdVFQLWk4NklE0gG-AUFVX3lxTFBxS2tsLVUyQ1Ffb3lsM3NxUHExb3F0ZkEzOWFjUi1zc3RRUUxWaHFCWjhWVXJyTjhudDZMc3R6X202MHlUNFY0VUpQeTRsS1BGZVh2dm1DSXdwNUl3RURvbVgzeWJJMkhuem4wMEVxa3NRY3diaTN3QU80c2VYT0l6UGkycW1CMkFzLXVJSEllX3N5NXhWaENtYmMzNU5wTXhyYm1VUGstbC1TMk0wZWEwS01fRjhmRm1WbXZDWFE?oc=5",
      "fuente": "OkDiario",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-06T17:38:13+01:00",
      "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna traerá lluvias intensas y fuertes vientos a España: qué tiempo hará en la Región",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1RHcllodGVETGRQYWw0M2xoN0RwMmJzMF9DZHZSYUg2UVFvanoyMHZUS1pWUzhmUDdHajhJRmk4YXBwcUtxWER1cS1DX01ocUtZemJjbTJ6X1FFNm1qbWpOeGRJMVp0cThGWWpKQnlHWnBBejFxM3Z5TUdJeU1ZenF3V1lzSWYyVEc1VnZ5TWdhZzVFNG5Ia0Jlbi1oOUhrbk1oUnJndDZqUXlLeW5VZjU3bWpvZDM4QnQ1NlcwQ2VWN0dTNTdlMUFaa0dNMDUx?oc=5",
-     "fuente": "MurciaEconomía.com",
-     "resumen": "",
-     "fecha": "2026-11-06T17:00:37+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -231,6 +231,14 @@
      "resumen": "",
      "fecha": "2026-11-08T01:14:13+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Red Eléctrica amplía las horas en las que podrán parar ArcelorMittal o Azsa",
+     "url": "https://www.lne.es/asturias/2026/11/08/red-electrica-amplia-horas-podran-136220505.html",
+     "fuente": "La Nueva España",
+     "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
+     "fecha": "2026-11-07T21:00:00+01:00",
+     "fecha_txt": "7 nov"
     },
     {
      "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
@@ -278,14 +286,6 @@
      "fuente": "Prensa Mercosur",
      "resumen": "",
      "fecha": "2026-11-05T12:48:26+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Nuevo apagón en La Palma evidencia la fragilidad del sistema eléctrico y reaviva las exigencias al Gobierno de España",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0xKQ0wyZWl1M05YZmJVM2dYeVZab242bUFWOXZ3Z1owandnMzNyRWtXeVAzN1YycUlha2RZRnhjbU1XUHVfdk1fazdKVy1QLTFZMHdrU2M4dENEZU1JRFVoWTBmRkw2VHliRTJDVDlkcC1qR05Sa0x6MDFVbkpmX05DRjgwbVppT0doMDd2VnlOZUMwXy1VdzM0Q0lNZ2xNelNYQW5oMUxnSVQ0VmEtb2xSNDNpTHNoZ211ZWpseFY3Wi0tZUlnM25LWTJ0OVhmVEdHVG1BN1FLQm10UFRjN1hVVGR0NHR4QU8wOWt1eW5la0xyYXB2bGR6ZDRoZDE0cVZheDZYT2dYUdIBlAJBVV95cUxQUGhnLWV6Mmd6bDlLQUVzOGNTRGFYcmpDak9QWWVEcHhfQXZmZUJOaGtkWlM1YU1iVXliclBuYnlnUDJmMFBjaXB1dUVyNHlUZXAwdy1zYVdtRU9NVFJJYlo5NXRUeUt4UjkxQW53VEl3enRyN1JKYXlpZXJxalV4VWlxeW5IRzhTX2t1THcwcXA4R3dLMEU1VzJOcExrZEVFNU9VY1lNQ2YzWU9oMzRNQXdvLTFEd2xSNFBVU3MtLTdqSDdSWjZvMEZzX1JCZUFnYUFwQzB5bkwwaWtodWtMVGVKZmEzZUJwRXlGX095V18wU3VFMzFkSVh2WGRBMTVidGlsNHhYZTlFcHoweVB1VW9yZlc?oc=5",
-     "fuente": "Libertad Digital",
-     "resumen": "",
-     "fecha": "2026-11-05T05:29:39+01:00",
      "fecha_txt": "5 nov"
     }
    ]

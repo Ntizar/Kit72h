@@ -2,21 +2,21 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261108081054",
-  "actualizado": "2026-11-08T10:10:47+01:00",
+  "elaborado": "20261108104353",
+  "actualizado": "2026-11-08T13:10:46+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261108081054_can_20261108WET_1794128400.geojson",
-   "r_D+0_20261108081054_penbal_20261108CET_1794128400.geojson"
+   "r_D+0_20261108104353_can_20261108WET_1794139200.geojson",
+   "r_D+0_20261108104353_penbal_20261108CET_1794139200.geojson"
   ]
  },
  "resumen": {
   "rojo": 0,
   "naranja": 0,
-  "amarillo": 5,
-  "sin_aviso": 56,
-  "zonas_en_aviso": 37,
+  "amarillo": 4,
+  "sin_aviso": 57,
+  "zonas_en_aviso": 35,
   "provincias": 61
  },
  "provincias": [
@@ -57,42 +57,6 @@
    ]
   },
   {
-   "nombre": "Cádiz",
-   "ccaa": "Andalucía",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Litoral gaditano - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-08T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Estrecho - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-08T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "nombre": "Gran Canaria",
    "ccaa": "",
    "nivel": 3,
@@ -105,7 +69,7 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "En costa noroeste de Gran Canarias: Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "descripcion": "En costa noroeste de Gran Canaria: Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-08T12:00:00+00:00",
        "hasta": "2026-11-08T17:59:59+00:00",
        "probabilidad": "40%-70%"
@@ -287,6 +251,13 @@
   {
    "nombre": "Cáceres",
    "ccaa": "Extremadura",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Cádiz",
+   "ccaa": "Andalucía",
    "nivel": 0,
    "nivel_txt": "Sin aviso",
    "zonas": []
@@ -587,8 +558,8 @@
     "properties": {
      "zona": "Cumbres de Gran Canaria",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -861,8 +832,8 @@
     "properties": {
      "zona": "Este, sur y oeste de Gran Canaria",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -1122,8 +1093,8 @@
     "properties": {
      "zona": "La Gomera",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -1522,7 +1493,7 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "En costa noroeste de Gran Canarias: Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "descripcion": "En costa noroeste de Gran Canaria: Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
        "desde": "2026-11-08T12:00:00+00:00",
        "hasta": "2026-11-08T17:59:59+00:00",
        "probabilidad": "40%-70%",
@@ -1707,8 +1678,8 @@
     "properties": {
      "zona": "El Hierro",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -2609,8 +2580,8 @@
     "properties": {
      "zona": "Área metropolitana de Tenerife",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -2979,8 +2950,8 @@
     "properties": {
      "zona": "Este, sur y oeste de Tenerife",
      "provincia": "",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
      "avisos": []
     },
     "geometry": {
@@ -4086,295 +4057,6 @@
        [
         -6.1789,
         37.9415
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral gaditano - Costa",
-     "provincia": "Cádiz",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-08T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -6.8596,
-        36.6181
-       ],
-       [
-        -6.7669,
-        36.652
-       ],
-       [
-        -6.4844,
-        36.7572
-       ],
-       [
-        -6.3441,
-        36.7992
-       ],
-       [
-        -6.3853,
-        36.7684
-       ],
-       [
-        -6.4079,
-        36.7616
-       ],
-       [
-        -6.4194,
-        36.746
-       ],
-       [
-        -6.4414,
-        36.7383
-       ],
-       [
-        -6.4307,
-        36.7059
-       ],
-       [
-        -6.3975,
-        36.6592
-       ],
-       [
-        -6.3863,
-        36.6291
-       ],
-       [
-        -6.3627,
-        36.6199
-       ],
-       [
-        -6.3465,
-        36.6257
-       ],
-       [
-        -6.3139,
-        36.6231
-       ],
-       [
-        -6.2844,
-        36.6095
-       ],
-       [
-        -6.2631,
-        36.5804
-       ],
-       [
-        -6.2401,
-        36.5862
-       ],
-       [
-        -6.2234,
-        36.5717
-       ],
-       [
-        -6.2245,
-        36.5525
-       ],
-       [
-        -6.2403,
-        36.5067
-       ],
-       [
-        -6.2065,
-        36.5101
-       ],
-       [
-        -6.1844,
-        36.5255
-       ],
-       [
-        -6.1811,
-        36.5059
-       ],
-       [
-        -6.1913,
-        36.4988
-       ],
-       [
-        -6.1923,
-        36.4872
-       ],
-       [
-        -6.2276,
-        36.4631
-       ],
-       [
-        -6.2497,
-        36.4676
-       ],
-       [
-        -6.2477,
-        36.4479
-       ],
-       [
-        -6.233,
-        36.4368
-       ],
-       [
-        -6.2174,
-        36.3931
-       ],
-       [
-        -6.1833,
-        36.3712
-       ],
-       [
-        -6.1673,
-        36.3476
-       ],
-       [
-        -6.1497,
-        36.307
-       ],
-       [
-        -6.14,
-        36.2958
-       ],
-       [
-        -6.1119,
-        36.2937
-       ],
-       [
-        -6.0873,
-        36.2657
-       ],
-       [
-        -6.0778,
-        36.2437
-       ],
-       [
-        -6.052,
-        36.2035
-       ],
-       [
-        -6.0328,
-        36.1815
-       ],
-       [
-        -6.0216,
-        36.1866
-       ],
-       [
-        -5.9794,
-        36.1771
-       ],
-       [
-        -5.9434,
-        36.1871
-       ],
-       [
-        -5.9151,
-        36.1857
-       ],
-       [
-        -5.8713,
-        36.1567
-       ],
-       [
-        -5.8405,
-        36.1273
-       ],
-       [
-        -5.9629,
-        35.9222
-       ],
-       [
-        -6.0219,
-        35.8347
-       ],
-       [
-        -6.0465,
-        35.8495
-       ],
-       [
-        -6.0934,
-        35.8515
-       ],
-       [
-        -6.1702,
-        35.8671
-       ],
-       [
-        -6.2419,
-        35.8943
-       ],
-       [
-        -6.3059,
-        35.9322
-       ],
-       [
-        -6.3599,
-        35.9794
-       ],
-       [
-        -6.4672,
-        36.0935
-       ],
-       [
-        -6.5047,
-        36.1404
-       ],
-       [
-        -6.5159,
-        36.1481
-       ],
-       [
-        -6.5668,
-        36.2003
-       ],
-       [
-        -6.6039,
-        36.2597
-       ],
-       [
-        -6.6183,
-        36.297
-       ],
-       [
-        -6.6784,
-        36.368
-       ],
-       [
-        -6.7054,
-        36.4186
-       ],
-       [
-        -6.7404,
-        36.4534
-       ],
-       [
-        -6.7759,
-        36.51
-       ],
-       [
-        -6.8218,
-        36.5571
-       ],
-       [
-        -6.8596,
-        36.6181
        ]
       ]
      ]
@@ -11706,215 +11388,6 @@
        [
         -6.3441,
         36.7992
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Estrecho - Costa",
-     "provincia": "Cádiz",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento de Levante de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-07T21:00:00+01:00",
-       "hasta": "2026-11-08T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -6.0219,
-        35.8347
-       ],
-       [
-        -5.9629,
-        35.9222
-       ],
-       [
-        -5.8405,
-        36.1273
-       ],
-       [
-        -5.8242,
-        36.1035
-       ],
-       [
-        -5.7978,
-        36.0802
-       ],
-       [
-        -5.7709,
-        36.0873
-       ],
-       [
-        -5.7481,
-        36.0711
-       ],
-       [
-        -5.71,
-        36.0591
-       ],
-       [
-        -5.6874,
-        36.0678
-       ],
-       [
-        -5.6507,
-        36.0534
-       ],
-       [
-        -5.6041,
-        36.0104
-       ],
-       [
-        -5.5729,
-        36.0156
-       ],
-       [
-        -5.5173,
-        36.0377
-       ],
-       [
-        -5.4827,
-        36.055
-       ],
-       [
-        -5.4636,
-        36.0507
-       ],
-       [
-        -5.4242,
-        36.0776
-       ],
-       [
-        -5.4397,
-        36.0867
-       ],
-       [
-        -5.431,
-        36.1099
-       ],
-       [
-        -5.4458,
-        36.1392
-       ],
-       [
-        -5.4436,
-        36.1559
-       ],
-       [
-        -5.4265,
-        36.1754
-       ],
-       [
-        -5.4084,
-        36.182
-       ],
-       [
-        -5.3829,
-        36.1803
-       ],
-       [
-        -5.3379,
-        36.1525
-       ],
-       [
-        -5.3352,
-        36.1707
-       ],
-       [
-        -5.3146,
-        36.2314
-       ],
-       [
-        -5.2946,
-        36.2466
-       ],
-       [
-        -5.2677,
-        36.2997
-       ],
-       [
-        -5.251,
-        36.3118
-       ],
-       [
-        -4.9827,
-        36.1685
-       ],
-       [
-        -4.8963,
-        36.1235
-       ],
-       [
-        -4.9286,
-        36.0709
-       ],
-       [
-        -4.9199,
-        36.0587
-       ],
-       [
-        -5.058,
-        36.0377
-       ],
-       [
-        -5.2376,
-        36.0132
-       ],
-       [
-        -5.4641,
-        35.9779
-       ],
-       [
-        -5.4558,
-        35.9143
-       ],
-       [
-        -5.4883,
-        35.8972
-       ],
-       [
-        -5.509,
-        35.8715
-       ],
-       [
-        -5.5438,
-        35.8425
-       ],
-       [
-        -5.5958,
-        35.8219
-       ],
-       [
-        -5.7444,
-        35.8055
-       ],
-       [
-        -5.9187,
-        35.7906
-       ],
-       [
-        -5.9268,
-        35.7772
-       ],
-       [
-        -6.0219,
-        35.8347
        ]
       ]
      ]
