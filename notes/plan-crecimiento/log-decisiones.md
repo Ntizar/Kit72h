@@ -46,3 +46,4 @@
 | 2026-11-05 | mascotas-plan-emergencia | revamp | encolado | Revamp 284w->1236w: plan de evacuación con perros y gatos, 3 fuentes oficiales |
 | 2026-11-06 | montana-kit-salvavidas | revamp | encolado | Revamp 325w->~1200w, 10+ enlaces ntizar-21, tabla, 4 fuentes oficiales, estacionalidad noviembre |
 | 2026-11-07 | ningun-ejecutable-hoy | bloqueado | ninguno | Top 6 ya publicados (>2000 car); briefing con metrica erronia de palabras |
+| 2026-11-08 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno en curso, ~21 clavados |
