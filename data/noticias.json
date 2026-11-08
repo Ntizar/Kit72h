@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T07:10:36+01:00",
+  "actualizado": "2026-11-08T10:10:37+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -60,19 +60,19 @@
      "fecha_txt": "7 nov"
     },
     {
-     "titulo": "¿Habrá un ataque nuclear? Experto explica alerta por kits de emergencia",
-     "url": "https://www.tunota.com/mundo/habra-un-ataque-nuclear-experto-explica-alerta-por-kits-de-emergencia-2026-11-07",
-     "fuente": "tunota",
-     "resumen": "Varios países recomiendan preparar suministros para sobrevivir 72 horas. Un experto analiza las tensiones internacionales.",
-     "fecha": "2026-11-07T06:13:00+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
      "titulo": "Francia recomienda preparar un kit de emergencia para sobrevivir 72 horas ante posibles catástrofes",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjNfZHBHd3NRckRjb1RCc0hXS1RBN1BybkpxU0M1TzRBNG9mOFFZNl9mQkdIaDlyRy14b2hkdjVNT1ZWRnlPbFpkWWNkNnVyTzJLQndqcHEwbnA0bkF2TmZHMGtCX190VDlPZ2w0MW9DSmxZa0hzOG8zNGFwQjBZaFJRVVJ2TExaY2lsc3NnR3FSSjVPc3dSNVFnSQ?oc=5",
      "fuente": "HolaSalta Noticias",
      "resumen": "",
      "fecha": "2026-11-07T06:04:53+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia para 72 horas y todo lo que debe llevar",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmhqWFhGaW5VdFltV2RQS1FzNlZ2WjZyZEo5UGJaY0xqVnNwdVY5SnRsYzA4LTEyQ2NRbTZnTGwzTERmX0Z1QmJtUEsyMWpNOTdRRVd6OUpzZEQtdnFBOEpBOEhkNzd3UGlQYXR5R3RTakV5WS1IZVFINVBCMVJwZGp5QQ?oc=5",
+     "fuente": "El Canal de las Noticias",
+     "resumen": "",
+     "fecha": "2026-11-07T04:41:54+01:00",
      "fecha_txt": "7 nov"
     }
    ]
@@ -88,6 +88,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-08T03:26:09+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para combatir los incendios forestales y quiere instalarla en Mallorca",
+     "url": "https://okdiario.com/baleares/oficial-confirmado-ministerio-del-interior-espana-pide-ue-base-aerea-combatir-incendios-forestales-quiere-instalarla-mallorca-20709391",
+     "fuente": "Okdiario",
+     "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
+     "fecha": "2026-11-08T00:45:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "El país representa el 42,9% de la superficie arrasada por incendios en la región, con 301.681 hectáreas afectadasEscucharPuntos claveResumenEspaña concentra ...",
      "fecha": "2026-11-05T08:30:00+01:00",
      "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Galicia cierra la campaña de incendios con un 95% menos de superficie quemada que en 2025",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzR5U2JOWmZHRl9JSmhWOFJ0OF9CdmJyR0M4QUVZUlNLVkpCRXgzX1VCSnhEN0NUanpZY3Q1RDVJVVppQnE5OHNRT0Y1LURfb2g4SG9YWHJRQ3ZtTVcySjBocmFFYlU4dUpfR0tvbEs3SWJRVnktZnVUaDlKYWw5N1lpbVZvRUdVUzF5ZW9iSHhiZHpYbi0teWdUa2QyeWtDM2hqR0lQVWotUklFZnJaazI4c9IBuAFBVV95cUxNYmcxcVVtX0EtMUpUaF9jM2JCVG11Ykd1dEVneXhKWUcwTjRSZ2kxUTJ2d0xMcnlUVms2MHI3UEJBc1FCVHh4Wk41UF9wZDFKcV9wVHJYeTBBckwzNXFOaFh0bTN0SDBzNVN1bUM2anlFZWdZUTFwVm5CcElNeUpSSHhYWnJSa3hJVWVFZVJNLWNYTndoSDU2ZWNhZkRoMVViN3AtVlo0T1h2QVQ2TnZiX1ZDMGh1OTl2?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-03T16:45:54+01:00",
-     "fecha_txt": "3 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Por qué hay que botar a Sánchez, quedan 21 días: la DANA y la emergencia nacional que no declaró",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjI1SGdXRDB2TGpjd0RJRllveklaU01JdlE1SHM3dUYzczZPZEFJSTlTUGNMbW5Id3lnNk45YkhBQ3VyVnd2MEN0OTZkamc1U1ZmR29KTXQyNUxPc2RxS25Hc1BkNkpBUUllVlJXQjRLWjN0X3VwMl9kN1BlRGN0dWZrQk5Hc25jNDJOOU5iQ3ZFQ3hSa0xjUWY0YmNTd25SLW1mWWFQbW05VlZaeXgwdVFQLWk4NklE0gG-AUFVX3lxTFBxS2tsLVUyQ1Ffb3lsM3NxUHExb3F0ZkEzOWFjUi1zc3RRUUxWaHFCWjhWVXJyTjhudDZMc3R6X202MHlUNFY0VUpQeTRsS1BGZVh2dm1DSXdwNUl3RURvbVgzeWJJMkhuem4wMEVxa3NRY3diaTN3QU80c2VYT0l6UGkycW1CMkFzLXVJSEllX3N5NXhWaENtYmMzNU5wTXhyYm1VUGstbC1TMk0wZWEwS01fRjhmRm1WbXZDWFE?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-08T08:48:35+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "La AEMET alerta de fuertes tormentas por la borrasca Bruna este domingo: lluvias muy intensas en Canarias y rachas de viento de hasta 90 km/h",
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaWY5bzVIRWhnRXdnY3FrYjVnYzFzdXZ0SERZQS1MSWl4ZXIxWjlucDlrRGNyZmNxekFQWUVoOG5ldGYwVFpCSlBpbTlTRHV4a2xBck0xUGRXQ2FyVVVtdkl6SnlqcHZHMWhQSFFyWHA5c0dIb1ctdk5TdVIwaXBkd1RrZ1hIS1pWMkI2U2loNVpWQlkxSUM2ZlduMWRfOEt3cGFXd01xdklUal8wVzBtMDR2bUI4eEFZT0dyQm1ZeU5tYTV0SjNSY0RYX01JMHlfb1gwQmYwNUVaTEtFSlR4bWFqcXZ3di1HMHQ0Ny1McGlObFRJaVg2Um41a3pKVzB4ZThxbEdiVHJHMlREZHk2UFB4a9IBpwJBVV95cUxPQ01GUEZsSVV2aTVucko1Wk1wS0FKVDZoOVZQTlFxWkNwX19OSGJDOEFQeU51cXR6em1abUJXYWtuZDdRX29WS1VnWDRVZVBESmwwNkVvQ0NmYnI3bW9jVkdUeFdEYlVScnQ4TExlTzdlWk9sOC1jNEN2d3F0MFFZQlRrbzUzOF9GR21HSk11Ty1VWW84YVo3UFZxandZRUpVdmVwTGpIYy1raFdmQ1h0eUJpcEQ4YURVX2IwbVFTU256cXhOQkUwS1R5SlhXejJGZGJVZDA2emVPSE1qanBaQ3p1RWpkY05sOURSZ2tIY3lOUVBzanhlSW1XNVdoeWh3dXV4S3plY3ppQ3dENVhheGFHcWNKMjJxZE1YZUxxTkJZbXFmbzBR?oc=5",
@@ -207,14 +215,6 @@
      "fuente": "MurciaEconomía.com",
      "resumen": "",
      "fecha": "2026-11-06T17:00:37+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna llega a España con 3 días de lluvias intensas y temporal en el oeste",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQmZtcXoya084YUg2SGVTYjFkc1BMTWh3NVJ2NjNvNmI5R3UzaUJxc3l0b3A1VnZOUjNmMzVTZTBPZHd6Nl81dlAxaG14UWJzWUJ6Y0NWUndQTlVzeWY0YXpWOFliOGtyQTBEOXRGRkRYUzFkbFRueEloTUdHdkkyZVVJU1pXYy1sYXVCX0tJRjhvLVgtOXEzYWtKTmdaRmFJelBXUHlrTl9qTXNwb1lSOEVjenlHc3lp?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-06T15:32:42+01:00",
      "fecha_txt": "6 nov"
     }
    ]
