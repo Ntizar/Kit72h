@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T04:10:37+01:00",
+  "actualizado": "2026-11-08T07:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -91,6 +91,14 @@
      "fecha_txt": "8 nov"
     },
     {
+     "titulo": "Vivir \"entre carbón\" tres meses después del incendio de Niebla: \"Ya no huele a quemado, pero sigue todo negro y no hay ayuda\"",
+     "url": "https://www.elespanol.com/espana/andalucia/20261108/vivir-carbon-meses-despues-incendio-niebla-no-huele-quemado-sigue-negro-ayuda/1003744447846_0.html",
+     "fuente": "El Español",
+     "resumen": "Particulares y alcalde de El Berrocal lamentan la pérdida de negocios como el corcho y la falta de dinero para recuperar terrenos privados. La Junta de Andalucía ha incluido en su Presupuesto 2027 más ...",
+     "fecha": "2026-11-07T16:59:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
      "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
      "fuente": "RTVE",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-03T16:45:54+01:00",
      "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Ante el inicio de la temporada de incendios forestales, expertos de Chile y España se reunirán para fortalecer la prevención y respuesta ante emergencias",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkdpT1FCa2JtLUVtMGZYZGEtT1RzTEZCU3NKSTg5cUMtYmZkX1N0OGdNNklCTjFVemw1ZU01Y2Jqc0tKWnlnakpwX2pQWmIzSVB6NzgxZDlnQnQ4dTBqeFJUZDc2Ni1LaWJaODFkTTVwSG1YSS0zN1ViYkJUVlJCd3VKamdXOGxYWWtZNnFReU5tRkdPWXdzclJ3?oc=5",
-     "fuente": "Austerra Society",
-     "resumen": "",
-     "fecha": "2026-11-02T15:30:00+01:00",
-     "fecha_txt": "2 nov"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "La AEMET alerta de fuertes tormentas por la borrasca Bruna este domingo: lluvias muy intensas en Canarias y rachas de viento de hasta 90 km/h",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaWY5bzVIRWhnRXdnY3FrYjVnYzFzdXZ0SERZQS1MSWl4ZXIxWjlucDlrRGNyZmNxekFQWUVoOG5ldGYwVFpCSlBpbTlTRHV4a2xBck0xUGRXQ2FyVVVtdkl6SnlqcHZHMWhQSFFyWHA5c0dIb1ctdk5TdVIwaXBkd1RrZ1hIS1pWMkI2U2loNVpWQlkxSUM2ZlduMWRfOEt3cGFXd01xdklUal8wVzBtMDR2bUI4eEFZT0dyQm1ZeU5tYTV0SjNSY0RYX01JMHlfb1gwQmYwNUVaTEtFSlR4bWFqcXZ3di1HMHQ0Ny1McGlObFRJaVg2Um41a3pKVzB4ZThxbEdiVHJHMlREZHk2UFB4a9IBpwJBVV95cUxPQ01GUEZsSVV2aTVucko1Wk1wS0FKVDZoOVZQTlFxWkNwX19OSGJDOEFQeU51cXR6em1abUJXYWtuZDdRX29WS1VnWDRVZVBESmwwNkVvQ0NmYnI3bW9jVkdUeFdEYlVScnQ4TExlTzdlWk9sOC1jNEN2d3F0MFFZQlRrbzUzOF9GR21HSk11Ty1VWW84YVo3UFZxandZRUpVdmVwTGpIYy1raFdmQ1h0eUJpcEQ4YURVX2IwbVFTU256cXhOQkUwS1R5SlhXejJGZGJVZDA2emVPSE1qanBaQ3p1RWpkY05sOURSZ2tIY3lOUVBzanhlSW1XNVdoeWh3dXV4S3plY3ppQ3dENVhheGFHcWNKMjJxZE1YZUxxTkJZbXFmbzBR?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-08T07:00:18+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "La borrasca Bruna sacude España este domingo con lluvias intensas, tormentas y fuertes rachas de viento",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1pPVk44S2dQOGpSNEtlRGRfc1ZGTDZ0MmVzNGYxbkxRa3BUWHVTX05ZeTVGV2VmSnVvY1JkdUZOczc3WHNYRUY5UmNuVjBqaVdyNlQ4M3BpeUs4TFNaZnVHanBza2ptUU1zZGpjUlQwRWpqRE1vV2RFQjI3ZHhIcXhPcmNkT1dyQXMtWlJmU3ZOQkZmWGR0SVYzQWRpdEFfeWh3MWhPN0JmcXM3VFVDMTBUVWpsUHl5d0M0RWhtNnh5d2hHUHVCZ9IBzgFBVV95cUxOLV9FZWRYMk90SXBLRHJHMEd5Sy1Rc05xckliWHlrbDByWjR3VThLTGFsUzVVSmlSRV9sRmE1elV3SFJPMm5lT0Z0cFRMeGFkMkJTZjZOX19Edmd3bFVfN0JYZ3BKLUNCenZzaGRLdWRiZzhNUllWbDc3dFB6cnZPcmN4Nm92V19BcTFKY1JUSmxDNzdwUkZNbjQyRG95dHZrWlNsQ3diVXBnWmRSRXcydkdaVjZZRW9jeHNLbjlZemtnN3UwY3ZGQlowWW5sUQ?oc=5",
+     "fuente": "Elplural.com",
+     "resumen": "",
+     "fecha": "2026-11-08T06:00:00+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "La borrasca Bruna dejará fuertes lluvias, tormentas, viento y mala mar en España: la Aemet alerta de posibles inundaciones y crecidas súbitas de los ríos",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMVZfRDFGZEYzTDRnQWtPQ3l4MGhwYnZBTW4wNXJwMkU1SmNHZDFwSk1zeTh2Y1BaM0NLMzFRNzFvTkR1TnpvSWIwSjk0WFV2WnNaUTh6elhhSEIxd0dScDZ5UVp5TEpqMHdWQmVoSjNvNVJpRkczZ3dKNkNSZ2NvTFpFMDFRbmlrNWZMa0hZQ2RUc3RmMnhfZ1ZkaWtmTTByMkhRYXJsVm1PU1lzRlVlUy1lWGswVVZDUk5Jd3E1UHVQdndoQzY1dDZ1WEc1eHVjRHQyU0tYSjBfbEFxSUZyY1JxczhwQVNvS1NyVGxmelJMNVNhaDJ5c29iREo4WHR1Qk9XVlZuRlJQaDBPN29ScHJVbnIyZVN6SENkb25B0gG4AkFVX3lxTFBGMGNyQ0NRakZnT0l1OGxoVmtOM3F1djEwZjRmck9ndlA0c2tkNHJYbEJscEZfX2Z6WEJGY2hXeXUyTTdkNUVMdngteGlfa0dWMVZza0tOd0RrWllNREk1TE9IRVNnSmNVR3hCM21LZVY5QzZCLXlHVVJUUTRmb1NXWDFJLUhTdEFyWmlBZjNrNnAyaUZlUTg1cXBycHlhVVVfWVU1QjNDNmpNVUprZnNLODkxWGdWUDFBV1huUVdxYkdPclQyTTJTTVBLQjdTdWtMVlI4QjJPS3lucWtnYXhKeXBQNEJNUXB5cUlVb1VhWnBkcVRQMWpBOW9lOWktUHBWeno1YkMwQTA4TklXdEhMa2NyUzhOb1E1S1pMdjlCUWNRMDJDSlpFcURVWFp4T0ZqNmZJNXFGSA?oc=5",
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-06T15:32:42+01:00",
      "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna llega a España con lluvias muy fuertes y un ascenso de las temperaturas: así será el tiempo hasta el martes",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUGM3VHVzQW54a0h0cnhzRE4xVjJvV2pVOVF2VjEwTVFtLTd2bzhabmJVTGItTzVLSkw1YS1zUlNlOU5nR1VUdVEtU29QTzF4SF9lbWZqY1UwZ1UwSlJlYm1tY21wdGcwSUdKNGVZaHU1SWZVQnBuM0tHYVRkMWIzNkVDckVaNnNMY1YtaU5yVGt5ZDY4NXJmdTBzQmJoZjFZbnBXZ3NjNHJHSXRNRXFGalRqcnQxV280MFNtQ0c5QjRWZ05WdWRiVVJydzZkWk1BWU52OVQ0TG5LR0xWTzR6d1ltUFhPV3VQMkx1T3dQdTROZU1t0gGIAkFVX3lxTE5sZTZWcm5UMXUtR0hqV1dXVDJ4NkxpYnNMWVZ4LVZua2ZaM3ZJWExsN3pURjNOUld1QTRBTmRleTRxcmlaNDB3VVJyWjB3U0VGemVfalZUTHNpY1Z2X3Z3eWI2aGhMaENnX0pJek5vSGtvdkpSQWVYUjNpY1B5aTltektIMmRwUjJ3RUhRbmFWRTJTSFBUM0U4bi1CMnh5YU1ETGZQRk9UOXphMnBJaFhpRkdWdVFuQktUZ2lnc2p0cTRYd1UxRV9aSDhMTURJYU9oN0NUR1o3TFowcFNsd1FUaW5BaG1VRGdQRFZwTHMtQnZ5blFWaVR2c1kzWjVTWW9BNFNXY2VBNQ?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-06T14:53:58+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-06T13:54:54+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -249,11 +249,27 @@
      "fecha_txt": "6 nov"
     },
     {
+     "titulo": "Canarias se planta en Madrid: «No podemos esperar al apagón»",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxlY1lqVzJseWw1VHp3dm9DN1ZQVTVJckFHZERTSFlEbW1LbHJuZkF3ekxXVVFSMUtNWW1sTkEwNVFrbmJ1RTJwbkw0cFFJbHN3TkJBazhBWTdMMzZuN2ZuWkZ0eHdfUGk4RUxJRllYR1ZKSlhrUXNsWlpfa3I3NkZaR1Zldw?oc=5",
+     "fuente": "Canarias en Pleno",
+     "resumen": "",
+     "fecha": "2026-11-06T14:03:46+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
      "titulo": "La CNMC castiga a Red Eléctrica por disparar el uso de gas para estabilizar el sistema y fallos en sus previsiones",
      "url": "https://www.economiadigital.es/empresas/cnmc-castiga-red-electrica-disparar-uso-gas-estabilizar-sistema-fallos-sus-previsiones.html",
      "fuente": "Economía Digital",
      "resumen": "El regulador recorta un 84% el incentivo a percibir por Red Eléctrica por su operación en 2025, año marcado por el apagón ...",
      "fecha": "2026-11-05T21:55:00+01:00",
+     "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
+     "fuente": "El Mundo Today",
+     "resumen": "",
+     "fecha": "2026-11-05T19:30:58+01:00",
      "fecha_txt": "5 nov"
     },
     {
@@ -265,28 +281,12 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Los hogares españoles asumen ya 123 euros adicionales en la factura eléctrica por los costes asociados al apagón",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdmNxR0tyTkQyT05laDM5Ty0wVHZEMUFfWncxdmNESGRuMzduY0RabDdTTlRSMUdnc25BQ2RIQ2R1bldlV0JNb0R4YkN3MFYxVmtNY1c1Q1lFQ0UwT3V3MXhZT0dVX3BEdG5ZS09iTlNMQWt1c01lUWNUV1diSEs1WENEVkF0SEZzWDdFTWhCOGFsSjBicGlpdGJvX1o2dmFUdElRcElRc1phVFVLclBuMHdyN2FHdmRPLWpDa2EzVEpvOGpVQmw2MWh0WWZ4X2hmdENyOTJWUjhSaTdsdEM3bmZhVFlrcWIyWmJUcDZaZW0yZ3PSAfgBQVVfeXFMUGFtNTAyVDdra2ZmV3hoUVRMX1hjTFRWSy1idXNuaHRFSW9YNjBCQU1OOGR4RFo0Q0toVTFHUVJRYm4yVWwzM01nLWRIWmdtOFBXQ3QxZDBDWWU4WVgtTUl4SW5jRmZ5TTdiVEdEd3cyenBuaURBT3ozdzlKVkJyMEg2SHYwVDB4dmZvaEJaV3VWQTRFQlFMalBFSmp1NDlaQW51a05JNjhTWVR0RDRzWnhwYjV4QU1NS1RmYXNDQVFfeFhmX21KNEhZUmw4NUh0bDJlZnlTb3BOTWp3bDNaZHBaR0NiY2w4WWlKcWZtSlBlRDYtcDUzZEE?oc=5",
-     "fuente": "Vozpopuli",
+     "titulo": "Nuevo apagón en La Palma evidencia la fragilidad del sistema eléctrico y reaviva las exigencias al Gobierno de España",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPY0xKQ0wyZWl1M05YZmJVM2dYeVZab242bUFWOXZ3Z1owandnMzNyRWtXeVAzN1YycUlha2RZRnhjbU1XUHVfdk1fazdKVy1QLTFZMHdrU2M4dENEZU1JRFVoWTBmRkw2VHliRTJDVDlkcC1qR05Sa0x6MDFVbkpmX05DRjgwbVppT0doMDd2VnlOZUMwXy1VdzM0Q0lNZ2xNelNYQW5oMUxnSVQ0VmEtb2xSNDNpTHNoZ211ZWpseFY3Wi0tZUlnM25LWTJ0OVhmVEdHVG1BN1FLQm10UFRjN1hVVGR0NHR4QU8wOWt1eW5la0xyYXB2bGR6ZDRoZDE0cVZheDZYT2dYUdIBlAJBVV95cUxQUGhnLWV6Mmd6bDlLQUVzOGNTRGFYcmpDak9QWWVEcHhfQXZmZUJOaGtkWlM1YU1iVXliclBuYnlnUDJmMFBjaXB1dUVyNHlUZXAwdy1zYVdtRU9NVFJJYlo5NXRUeUt4UjkxQW53VEl3enRyN1JKYXlpZXJxalV4VWlxeW5IRzhTX2t1THcwcXA4R3dLMEU1VzJOcExrZEVFNU9VY1lNQ2YzWU9oMzRNQXdvLTFEd2xSNFBVU3MtLTdqSDdSWjZvMEZzX1JCZUFnYUFwQzB5bkwwaWtodWtMVGVKZmEzZUJwRXlGX095V18wU3VFMzFkSVh2WGRBMTVidGlsNHhYZTlFcHoweVB1VW9yZlc?oc=5",
+     "fuente": "Libertad Digital",
      "resumen": "",
-     "fecha": "2026-11-03T04:45:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Apagón en La Palma: un cero energético deja sin luz a toda la isla desde las 6:42 de este lunes",
-     "url": "https://tarifaluzhora.es/noticias/apagon-la-palma-2026-cero-energetico-luz",
-     "fuente": "tarifaluzhora",
-     "resumen": "Un fallo general del sistema eléctrico apagó la isla entera. Qué se sabe de la vuelta de la luz, si afecta al resto de España y qué puedes reclamar.",
-     "fecha": "2026-11-02T02:07:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
-     "url": "https://www.larazon.es/actualidad/gran-apagon-que-pasaria-espana-queda-luz-72-horas-b51m_202610266adf280ea2570c1961b17607.html",
-     "fuente": "La Razón",
-     "resumen": "España afrontó unas duras horas tras el gran apagón de abril de 2025. Te contamos qué podría suceder si ese corte de luz fuera aún más grave ...",
-     "fecha": "2026-10-26T05:16:00+01:00",
-     "fecha_txt": "26 oct"
+     "fecha": "2026-11-05T05:29:39+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   }
