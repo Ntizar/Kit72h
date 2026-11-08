@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T19:10:27+01:00",
+  "actualizado": "2026-11-08T22:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para casos de desastre - Parte 3: No te dejes llevar por los rumores, prepara tu kit de 72 horas adecuadamente.",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTlRT19YZmFGeUo4T05JcllPU25SNWpUVGJuNnI3OUZNdXdzSjVmWnBEYjBtZmlwWDNreUhGTnoyOG1fTnJFSXItZFhacE9LbVhpR3ZmUmkzcTZhUnF1dGFNaWkyb2VMZDViMTRTbDByMERncUFyb3I0OGoySU0tZ2YwOGM2RWl2TzdLNmtGaWotS2l3ekJmUjRFWVBwNVBDTkVVYlQxd2VXNHJiMXU5bDc4ZURja2VKekZlQUcxOUp0Wmc1Z1FIT3NtZHo3M00yVUFWcVdSeE8?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-08T20:42:11+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "La Agencia de Ciberseguridad advierte contra la información especulativa sobre el \"almacenamiento de suministros esenciales para 72 horas\".",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclFQVF9zaW51QXRrajFReHAxZzFPb21ZVFViaWJKMEVESHJkQ01BYkhBQ2dWSm9Ic0drQVhLd3QyUWpXYW9OdkxIVXFramRuX085WkpYcDQ1X3hWQVp5XzJibUFyUUd0OFlVUDY5TzNnY2RRQkNLNmVCWlNtZDZKMFFLaURXTjlsTlRpWnk4cUpRRjBnc0l1dzVhQmVfMHlNbmRvb2tTZXlNZw?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-07T10:37:31+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Por qué Bruselas vuelve a aconsejar un kit de emergencia solo un año y medio después del aviso anterior",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcE1GVnB5Q2FNVnhWVDhpRVoyRzVqdEI3S3pwWHZZWVZwZzdrU2tVM19qSHVCcThMbW4xUkRkemxBc0ZTM2dDbzFySW1GaEljWjE3RG8wQXRIVXkyMGNzTHFKWmNjdUpyeWJZZ2JRb3JaazJ6TWRVbXNNdU8wLUgzVl81ZDR6RXNyVnQwODhrdHk5czY4Qm9DdHNfTVRBVElSNXpDVWE1NGVVZmg3UjNxVy14M3hVTmRJYTE3ajllYkpjbmw3c2tibHRqclhSU1lZWGViQ0hmQUFMOThzbG9B?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-07T08:06:14+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
+     "fuente": "La Gaceta de la Iberosfera",
+     "resumen": "",
+     "fecha": "2026-11-08T16:49:31+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "Más de 130 intervinientes combaten un incendio junto a la frontera de Salamanca con Extremadura",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmJuU19xVkZXUnNMdFk3VHN5NEd3eFdMNHFNR3RrbElKTDYtb0k1VHUyRk85UlV6bWJVMk9xaVoxUmRJM0NvejVDQjYwQUc5N3IxQTdmQ3VnSWFZQnZVamRnek9oTGs5ODZ5Ty1ZM0VjcUw0VlZ0YkQwWUNEcks4ZDNFRExndWs0UDhORzRreFFlU3NVeFFRaEFhcmFLdkowUzlseExmSGE3M1RYRDNQZHlLaEtuck02QzRpZ0JyWS1PdmcwUUHSAcsBQVVfeXFMUDNVQW9KLTRCd2lERlJJRVZleUlHRGlmWE5pMmlJZ2JkeFRFeVRYZ2NacXdwN2ZxWE5IMDNPMjNaWHZYWExhZnZwTTNIS0RBMW5zOTNOMkVRdk1EVnF4SVhPaUpZNDFQZ2NfLTY5WmQxNm5XWEVGNU1sWWgwSkRCSldLdjJPMUdjRkNscVN4d18zdlZpdVJKMUNHMzlKVjNjREZLX1FpcW9ydU1aek85R0pWSU9hZTVJelIyenZPWHZzVG01V2NtQW8yZm8?oc=5",
@@ -99,11 +107,11 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
-     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
-     "fuente": "La Gaceta",
-     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
-     "fecha": "2026-11-08T08:46:00+01:00",
+     "titulo": "El incendio de Valverde del Fresno ya está perimetrado, aunque mantiene un frente activo hacia Portugal",
+     "url": "https://www.lagacetadesalamanca.es/sucesos/incendio-valverde-fresno-perimetrado-mantiene-frente-activo-20261108192546-nt.html",
+     "fuente": "La Gaceta de Salamanca",
+     "resumen": "El incendio forestal declarado en Valverde del Fresno (Cáceres), próximo a la provincia de Salamanca, se encuentra ya perimetrado, aunque todavía mantiene un frente activo en dirección a Portugal.",
+     "fecha": "2026-11-08T11:25:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -129,14 +137,6 @@
      "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
      "fecha": "2026-11-08T00:45:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Vivir \"entre carbón\" tres meses después del incendio de Niebla: \"Ya no huele a quemado, pero sigue todo negro y no hay ayuda\"",
-     "url": "https://www.elespanol.com/espana/andalucia/20261108/vivir-carbon-meses-despues-incendio-niebla-no-huele-quemado-sigue-negro-ayuda/1003744447846_0.html",
-     "fuente": "El Español",
-     "resumen": "Particulares y alcalde de El Berrocal lamentan la pérdida de negocios como el corcho y la falta de dinero para recuperar terrenos privados. La Junta de Andalucía ha incluido en su Presupuesto 2027 más ...",
-     "fecha": "2026-11-07T16:59:00+01:00",
-     "fecha_txt": "7 nov"
     },
     {
      "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
