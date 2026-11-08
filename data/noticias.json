@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T01:10:36+01:00",
+  "actualizado": "2026-11-08T04:10:37+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "La España en llamas: diez años de infierno forestal",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-08T03:26:09+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
      "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
      "fuente": "RTVE",
@@ -136,14 +144,6 @@
      "fuente": "Austerra Society",
      "resumen": "",
      "fecha": "2026-11-02T15:30:00+01:00",
-     "fecha_txt": "2 nov"
-    },
-    {
-     "titulo": "Los incendios forestales en España arrasan cerca de 630.000 hectáreas en dos años",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUkwWGVRajEzNEUzNllOTzgtd2RjN3hXWFc4MDdmUVFZcTRFSUNtSEkzM3plTUlnN09QU1pvN3ZENkVaQTNaZTU4M21BUEdBTzFIMDFBYlotdWU2aGJWaTVBQ2lnUGxweEJEc1YtMVM4b2swM1BMZ2xFUGpvc0E5d0V0MXJKOWV6ZnlRQVM4TkNieUVWTTNwRjhn?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
-     "resumen": "",
-     "fecha": "2026-11-02T10:13:55+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -225,6 +225,22 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-08T01:14:13+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
+     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
+     "fuente": "La Razón on MSN",
+     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
+     "fecha": "2026-11-07T20:00:00+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
      "titulo": "Islas: Mallorca abandona el carbón y La Palma registra un apagón de cuatro horas",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2hUUEt4Y1Q1cHBXeVREOEdwUDd4UkZvMXR3SkNsaUpuUkdVVWhybF9JdWVxNFcyLWFMc080dE1hSklBazd3akItdHJFNndFbFhVYms5QTdBQVlFUFN3dDFaQ1RjMmgwajVhZU1HeHNQR1dqaDVDYkNYQmRGYklLT0R3bkJMSVV3alBMSkx4a0FDUVVBdHQtRzFFbzV1Nm4wNXBJTHN3Z05qNVM2MzBRSFpocTlpd1BvSHc?oc=5",
      "fuente": "pv magazine España",
@@ -265,28 +281,12 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Prepárese para otro apagón: lo que ha hecho Red Eléctrica no deja tranquilo a nadie",
-     "url": "https://www.periodistadigital.com/periodismo/20261030/preparese-apagon-hecho-red-electrica-deja-tranquilo-nadie-noticia-689405261861/",
-     "fuente": "Periodista Digital",
-     "resumen": "El sistema eléctrico español se encuentra nuevamente en una situación crítica. Red Eléctrica ha decidido rechazar ciertas fechas de mantenimiento para las ...",
-     "fecha": "2026-10-30T02:44:00+01:00",
-     "fecha_txt": "30 oct"
-    },
-    {
      "titulo": "El gran apagón: ¿Qué pasaría si España se queda sin luz durante 72 horas?",
      "url": "https://www.larazon.es/actualidad/gran-apagon-que-pasaria-espana-queda-luz-72-horas-b51m_202610266adf280ea2570c1961b17607.html",
      "fuente": "La Razón",
      "resumen": "España afrontó unas duras horas tras el gran apagón de abril de 2025. Te contamos qué podría suceder si ese corte de luz fuera aún más grave ...",
      "fecha": "2026-10-26T05:16:00+01:00",
      "fecha_txt": "26 oct"
-    },
-    {
-     "titulo": "Nuevos cortes de luz afectan a Madrid y otros 34 municipios del 26 al 31 de octubre (listado completo de calles aquí)",
-     "url": "https://gacetinmadrid.com/2026/10/25/nuevos-cortes-luz-madrid-34-municipios-2631-aqui/",
-     "fuente": "Gacetín Madrid",
-     "resumen": "Iberdrola va a llevar a cabo, del 26 al 31 de octubre, una serie de cortes en el suministro eléctrico, tanto en la ciudad de Madrid como en otros 34 ...",
-     "fecha": "2026-10-25T06:03:00+01:00",
-     "fecha_txt": "25 oct"
     }
    ]
   }
