@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T13:10:36+01:00",
+  "actualizado": "2026-11-08T16:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "La Agencia de Ciberseguridad advierte contra la información especulativa sobre el \"almacenamiento de suministros esenciales para 72 horas\".",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclFQVF9zaW51QXRrajFReHAxZzFPb21ZVFViaWJKMEVESHJkQ01BYkhBQ2dWSm9Ic0drQVhLd3QyUWpXYW9OdkxIVXFramRuX085WkpYcDQ1X3hWQVp5XzJibUFyUUd0OFlVUDY5TzNnY2RRQkNLNmVCWlNtZDZKMFFLaURXTjlsTlRpWnk4cUpRRjBnc0l1dzVhQmVfMHlNbmRvb2tTZXlNZw?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-08T14:11:35+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "Así es el kit francés para sobrevivir 72 horas: por qué crece la idea de una una mochila de emergencia",
      "url": "https://www.launion.digital/mundo/asi-kit-frances-sobrevivir-72-horas-crece-idea-una-una-mochila-emergencia-n245955",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-07T08:06:14+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia para 72 horas y todo lo que debe llevar",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZmhqWFhGaW5VdFltV2RQS1FzNlZ2WjZyZEo5UGJaY0xqVnNwdVY5SnRsYzA4LTEyQ2NRbTZnTGwzTERmX0Z1QmJtUEsyMWpNOTdRRVd6OUpzZEQtdnFBOEpBOEhkNzd3UGlQYXR5R3RTakV5WS1IZVFINVBCMVJwZGp5QQ?oc=5",
-     "fuente": "El Canal de las Noticias",
-     "resumen": "",
-     "fecha": "2026-11-07T04:41:54+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -82,6 +82,22 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Más de 130 intervinientes combaten un incendio junto a la frontera de Salamanca con Extremadura",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmJuU19xVkZXUnNMdFk3VHN5NEd3eFdMNHFNR3RrbElKTDYtb0k1VHUyRk85UlV6bWJVMk9xaVoxUmRJM0NvejVDQjYwQUc5N3IxQTdmQ3VnSWFZQnZVamRnek9oTGs5ODZ5Ty1ZM0VjcUw0VlZ0YkQwWUNEcks4ZDNFRExndWs0UDhORzRreFFlU3NVeFFRaEFhcmFLdkowUzlseExmSGE3M1RYRDNQZHlLaEtuck02QzRpZ0JyWS1PdmcwUUHSAcsBQVVfeXFMUDNVQW9KLTRCd2lERlJJRVZleUlHRGlmWE5pMmlJZ2JkeFRFeVRYZ2NacXdwN2ZxWE5IMDNPMjNaWHZYWExhZnZwTTNIS0RBMW5zOTNOMkVRdk1EVnF4SVhPaUpZNDFQZ2NfLTY5WmQxNm5XWEVGNU1sWWgwSkRCSldLdjJPMUdjRkNscVN4d18zdlZpdVJKMUNHMzlKVjNjREZLX1FpcW9ydU1aek85R0pWSU9hZTVJelIyenZPWHZzVG01V2NtQW8yZm8?oc=5",
+     "fuente": "La Gaceta de Salamanca",
+     "resumen": "",
+     "fecha": "2026-11-08T15:33:04+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Activado el nivel 1 de peligrosidad en el incendio forestal de Valverde del Fresno (Cáceres)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnp0dFFHUGt3X0xTM1RWUFN3VktXWFlCeEY0VXotb19ZdkR2V0tvY1YzT2ZJUWZnQXY2ZWg1UmtPMGVkTE90eU9WYUpKZ0ItWUxRdDhUd2pxVDZXOHBOWE5EMXdoMGxTOURwSndOQ2pHNDc3UnRTbzJsNldoNFRfZFhUTVgydm1JVGtRWThpMUZQTlFDaEdZY3FrX2YycWY3RFBv?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-08T14:35:00+01:00",
+     "fecha_txt": "8 nov"
+    },
     {
      "titulo": "La España en llamas: diez años de infierno forestal",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
@@ -128,22 +144,6 @@
      "fuente": "Albaceteabierto",
      "resumen": "",
      "fecha": "2026-11-05T11:38:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "España concentra el 42,9% de la superficie quemada en la UE con 301.681 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkVUQV9EcWxScnBrM1o3MS1FQXpRRXh6SDRjemh4QV9MWi1MZlJFOEl0M3c3cmhud2NuNVFVSE9hcGE1ZmRNYlpKSGQ4WVRhYWVyUWpMZlZFM3p2N28yaTNjWldfRHRhcEt3bHdEMS1RdmhaSFlNSl9LcWZqWlV0bnFnVkgxa0luY3daa3pyeUtaUkhrVVoxNGtQbXdVTHNNVlhoMHQwdmh6bWpBVXdMR1U4VEVjOVNNbGdNMmpMd0kwMndla2xaNzJuUU9RTWJnQW5ja0Nzc9IB3AFBVV95cUxOTndyZ0toMXBjeVVtc0R6bVBld1JwQ2IyZFZTZDFXMm5QV3JlemlROUt2MVU4T09HVWtrWmxqbDg4VEZmYkY2aVNaWW9HYUhxS3pKYlQzTXVyVHowR2swNkJ6c01WSndrcFJGWFI1S3pYR2RYdUU3dTdjdjdRVDJsNDZKUDI0OGF2QkpwdkxLdkJfbk5CSnhpRnU1THM0RkYtckRnSlZZVEZUWU5yT0g4dkZ0RURwQVVzWjdpSFRqc1BRMG5ycVZncXVHTWxoNnpCdWRiWEota3JKQkFh?oc=5",
-     "fuente": "Andalucía Información",
-     "resumen": "",
-     "fecha": "2026-11-05T11:01:25+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "En lo que va del año, España registra el 40% de las hectáreas quemadas por incendios en la Unión Europea, con 3.000 edificios y 6.200 personas afectadas.",
-     "url": "https://www.nuevaradio.org/2026/11/05/en-lo-que-va-del-ano-espana-registra-el-40-de-las-hectareas-quemadas-por-incendios-en-la-union-europea-con-3-000-edificios-y-6-200-personas-afectadas/",
-     "fuente": "nuevaradio.org",
-     "resumen": "El país representa el 42,9% de la superficie arrasada por incendios en la región, con 301.681 hectáreas afectadasEscucharPuntos claveResumenEspaña concentra ...",
-     "fecha": "2026-11-05T08:30:00+01:00",
      "fecha_txt": "5 nov"
     }
    ]
@@ -225,20 +225,20 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Red Eléctrica refuerza el escudo para evitar apagones y amplía las horas en las que podrán parar ArcelorMittal o Azsa",
+     "url": "https://www.lne.es/asturias/2026/11/08/red-electrica-amplia-horas-podran-136220505.html",
+     "fuente": "La Nueva España",
+     "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
+     "fecha": "2026-11-08T06:01:00+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-08T01:14:13+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Red Eléctrica amplía las horas en las que podrán parar ArcelorMittal o Azsa",
-     "url": "https://www.lne.es/asturias/2026/11/08/red-electrica-amplia-horas-podran-136220505.html",
-     "fuente": "La Nueva España",
-     "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
-     "fecha": "2026-11-07T21:00:00+01:00",
-     "fecha_txt": "7 nov"
     },
     {
      "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
