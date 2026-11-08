@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-07T22:10:37+01:00",
+  "actualizado": "2026-11-08T01:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,6 +17,14 @@
      "fuente": "Prensa Libre",
      "resumen": "",
      "fecha": "2026-11-07T18:53:39+01:00",
+     "fecha_txt": "7 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia: por qué México y otros países recomiendan almacenar provisiones",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRW01UGhkSzVWWVFyT25MQUlubnJOeVJ6U08xeUszWU5lQjFNZHVwd0ZYM3MwUjUyVmFNYTlXOExiWDF1Mlp3dXRhOTFxaHJPS0N2SFo4bmZ4UDc0djVnX0FWMEwydHA2NmVEek56TzhhNzladHJXRGZMSVRhVmNjZVJlb3FkdUcycEhRV0xBNlgtZHpvRkZLSHRqS1gwV2FsdHlvYzB3OW8yRWhwNExnYzFMcUVGZ1Vwa0plOU1hM25vZw?oc=5",
+     "fuente": "Cadena Politica",
+     "resumen": "",
+     "fecha": "2026-11-07T18:00:24+01:00",
      "fecha_txt": "7 nov"
     },
     {
@@ -41,14 +49,6 @@
      "fuente": "Diario de Avisos",
      "resumen": "",
      "fecha": "2026-11-07T10:37:31+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia: por qué México y otros países recomiendan almacenar provisiones",
-     "url": "https://cadenapolitica.com/2026/11/07/mochila-de-emergencia-por-que-mexico-y-otros-paises-recomiendan-almacenar-provisiones/",
-     "fuente": "cadenapolitica",
-     "resumen": "Conoce por qué México y países europeos recomiendan preparar una mochila de emergencia, almacenar provisiones y qué artículos debe contener.",
-     "fecha": "2026-11-07T09:56:00+01:00",
      "fecha_txt": "7 nov"
     },
     {
@@ -83,12 +83,12 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Galicia registra un 86% menos de incendios que hace dos décadas, pero apenas reduce la superficie quemada",
-     "url": "https://www.laopinioncoruna.es/galicia/2026/11/07/galicia-registra-86-incendios-decadas-136205173.html",
-     "fuente": "La Opinión A Coruña",
-     "resumen": "Los grandes incendios, que afectan a más de 500 hectáreas, han aumentado un 70% y arrasan cinco veces más superficie ...",
-     "fecha": "2026-11-07T11:34:00+01:00",
-     "fecha_txt": "7 nov"
+     "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
+     "fuente": "RTVE",
+     "resumen": "España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas. Unos incendios que cada vez son más violentos.",
+     "fecha": "2026-11-06T17:00:00+01:00",
+     "fecha_txt": "6 nov"
     },
     {
      "titulo": "España concentra 4 de cada 10 hectáreas quemadas por los incendios en la Unión Europea en lo que va de año: suma 3.000 edificios y 6.200 personas afectadas",
@@ -139,11 +139,11 @@
      "fecha_txt": "2 nov"
     },
     {
-     "titulo": "Evacuado por inhalación de humo tras un incendio en la cocina de su vivienda en Ourense",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmloeTlLUk9idHZyWGVEVTdXemxTNWxOTWk3QjF2RFp0WWg1czBvMFBTUmIwcl9tOXdTdU1zR1hlV3UtTlJOc29mR1NOSURNWk5tbVdOU1lKSUQ3VUdNYy1DYlJ2cWNzVy1adUJPU0c0Uklrbkp4WGFzX2lVSnZKb2QteGhHck43QjFPQkVrMzlTUmNiM0M1djBZQ3pPVzRzUkRuckdWRU8zTHdjYndhTGFsbTlaaGIw0gG-AUFVX3lxTE94cFJyelI3YUtjckVuQzEyWWVCVkw0ek9SZ2xPUGRTUTNHckJGV1pMSkpNcFlySUVuaDFodXhZd2JUejRNNTB0TlNHZHotYnFpR1gzWTltRE1vczN4TTJDRk16V2dRWU5PMWwzZFNJRVpzWFJxaUo0SUtOb1RPRnM5eUNhMFYyU1NrM3VQWEdZRjdIQWF1MHNkb09KOXJuNzBqLU42a2tBTTM4S2JwZ0dHRzV4bF9vNENLVzFqZ3c?oc=5",
-     "fuente": "Faro de Vigo",
+     "titulo": "Los incendios forestales en España arrasan cerca de 630.000 hectáreas en dos años",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUkwWGVRajEzNEUzNllOTzgtd2RjN3hXWFc4MDdmUVFZcTRFSUNtSEkzM3plTUlnN09QU1pvN3ZENkVaQTNaZTU4M21BUEdBTzFIMDFBYlotdWU2aGJWaTVBQ2lnUGxweEJEc1YtMVM4b2swM1BMZ2xFUGpvc0E5d0V0MXJKOWV6ZnlRQVM4TkNieUVWTTNwRjhn?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
      "resumen": "",
-     "fecha": "2026-11-02T10:53:55+01:00",
+     "fecha": "2026-11-02T10:13:55+01:00",
      "fecha_txt": "2 nov"
     }
    ]
@@ -210,11 +210,11 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "La Generalitat localiza en Valencia 1.550 hectáreas para construir 131.000 viviendas a salvo de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONGNTc25RWVBTMXBCR1NxNDhCTF9hRml3MkkxR1ZqeGVsWnBtc1dFZTJkeVhJRFB1UFdVTFlqbEg0aUtBQ2R6dHBIT0FteHVEV0Vtd3ppbnNUelFLWkxqWDdMb0w2TURpaGVqYmt1RHRaYXo3V3pFUko4RFJiU3A5eFQzRHVGOW1PUFIzYnRhdzBuVTEyUE5qdUpObmsxdHhhWTM0MTc2UElhUXNxZjlBT0tUMk5PZFhYbGppQ2xyMDlUNGxCN29NUE5JZkZjUU9MWnZWOG9UVzZvUmw2bkVRVlJjQkp6UjRrbkFaMHhqX0xwNlY3dl82QtIB_gFBVV95cUxNTVVQX2NxVFUtWHk0eVJXSHdpNE9fbFRWckFIeVEyMVB0R0xBU1RzdEc1QUVobnlEUkhDbUVFS285NklJQ2wzeFVSWmRMdTdSdFpNU3g3LWcyVERFY0E0VVBkMi1GNTlZMXJqMU5QeWozS0lJYWQtTllkYlMxT1dIS29FSTdDZTctXy1FZUc5ZGUxa21fdFBlQkM4UHc1bl9oWmxxWU4zbVhkUXF0aUE2U1hDaWgzakJxU0xvZ01Sc2xnQ0xtcFZraHg1dHBPR2RFY2o3bGVCMUI0bVRlcWYwakVHVnZVa3c1eWdtZ1BvaXV3Z1pTajh0bmhUcFVqUQ?oc=5",
-     "fuente": "Vozpopuli",
+     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
+     "fuente": "20Minutos",
      "resumen": "",
-     "fecha": "2026-11-06T14:14:13+01:00",
+     "fecha": "2026-11-06T13:54:54+01:00",
      "fecha_txt": "6 nov"
     }
    ]
@@ -249,6 +249,14 @@
      "fecha_txt": "5 nov"
     },
     {
+     "titulo": "Los hogares españoles asumen ya 123 euros adicionales en la factura eléctrica por los costes asociados al apagón",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdmNxR0tyTkQyT05laDM5Ty0wVHZEMUFfWncxdmNESGRuMzduY0RabDdTTlRSMUdnc25BQ2RIQ2R1bldlV0JNb0R4YkN3MFYxVmtNY1c1Q1lFQ0UwT3V3MXhZT0dVX3BEdG5ZS09iTlNMQWt1c01lUWNUV1diSEs1WENEVkF0SEZzWDdFTWhCOGFsSjBicGlpdGJvX1o2dmFUdElRcElRc1phVFVLclBuMHdyN2FHdmRPLWpDa2EzVEpvOGpVQmw2MWh0WWZ4X2hmdENyOTJWUjhSaTdsdEM3bmZhVFlrcWIyWmJUcDZaZW0yZ3PSAfgBQVVfeXFMUGFtNTAyVDdra2ZmV3hoUVRMX1hjTFRWSy1idXNuaHRFSW9YNjBCQU1OOGR4RFo0Q0toVTFHUVJRYm4yVWwzM01nLWRIWmdtOFBXQ3QxZDBDWWU4WVgtTUl4SW5jRmZ5TTdiVEdEd3cyenBuaURBT3ozdzlKVkJyMEg2SHYwVDB4dmZvaEJaV3VWQTRFQlFMalBFSmp1NDlaQW51a05JNjhTWVR0RDRzWnhwYjV4QU1NS1RmYXNDQVFfeFhmX21KNEhZUmw4NUh0bDJlZnlTb3BOTWp3bDNaZHBaR0NiY2w4WWlKcWZtSlBlRDYtcDUzZEE?oc=5",
+     "fuente": "Vozpopuli",
+     "resumen": "",
+     "fecha": "2026-11-03T04:45:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
      "titulo": "Apagón en La Palma: un cero energético deja sin luz a toda la isla desde las 6:42 de este lunes",
      "url": "https://tarifaluzhora.es/noticias/apagon-la-palma-2026-cero-energetico-luz",
      "fuente": "tarifaluzhora",
@@ -278,14 +286,6 @@
      "fuente": "Gacetín Madrid",
      "resumen": "Iberdrola va a llevar a cabo, del 26 al 31 de octubre, una serie de cortes en el suministro eléctrico, tanto en la ciudad de Madrid como en otros 34 ...",
      "fecha": "2026-10-25T06:03:00+01:00",
-     "fecha_txt": "25 oct"
-    },
-    {
-     "titulo": "España construye ocho máquinas gigantes que no generan electricidad: su misión es evitar otro apagón masivo",
-     "url": "https://es.gizmodo.com/espana-construye-ocho-maquinas-gigantes-que-no-generan-electricidad-su-mision-es-evitar-otro-apagon-masivo-2000267128",
-     "fuente": "Gizmodo en Español",
-     "resumen": "Después del histórico apagón de abril de 2025, España comenzó a reforzar su sistema eléctrico con enormes máquinas capaces de estabilizar la red sin producir electricidad. Los nuevos compensadores sín ...",
-     "fecha": "2026-10-25T03:00:00+01:00",
      "fecha_txt": "25 oct"
     }
    ]
