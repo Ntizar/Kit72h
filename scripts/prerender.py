@@ -153,6 +153,13 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
         r'<script type="application/ld\+json">\s*\{[\s\S]{0,3000}?"@type":\s*'
         r'"(?:Article|BreadcrumbList|BlogPosting|CollectionPage|Blog)"[\s\S]*?\}\s*</script>\s*',
         '', html)
+    # ...pero los del shell son de la HOME y el servidor los sirve en TODAS las rutas.
+    # Sin este strip, cada post de "mejor power station" declaraba a Google un FAQPage
+    # y un HowTo de montaje de kit 72h que no están en su página (auditoría 2026-11-09).
+    if canonical.rstrip("/") != BASE.rstrip("/"):
+        html = re.sub(
+            r'<script type="application/ld\+json"[^>]*data-nz="home-(?:faq|howto|kits)"[^>]*>'
+            r'[\s\S]*?</script>\s*', '', html)
     head.append('<meta property="og:type" content="website">')
     head.append(f'<meta property="og:url" content="{canonical}">')
     head.append('<meta property="og:site_name" content="Kit72h">')

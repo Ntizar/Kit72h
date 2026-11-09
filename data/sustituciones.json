@@ -1,0 +1,1312 @@
+{
+ "meta": {
+  "generado": "2026-11-09T19:30:39+00:00",
+  "fuente": "Amazon Creators API · searchItems",
+  "agotados": 31,
+  "con_sustituto": 29,
+  "aplicables": 21,
+  "umbral_cobertura": 0.7,
+  "aplicado": false
+ },
+ "propuestas": [
+  {
+   "asin_viejo": "B08S17DS6N",
+   "producto": "Garrafas de agua de 8 litros (dos por persona)",
+   "kit": "kit-suiza",
+   "kits_afectados": [
+    "kit-30-dias",
+    "kit-basico-72h",
+    "kit-hogar",
+    "kit-incendio",
+    "kit-mascotas",
+    "kit-suiza"
+   ],
+   "precio_aprox": "5-15 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B00DN9KMB2",
+     "titulo": "Bezoya - Agua mineral - Agua de mineralización muy débil - Garrafa 5 L",
+     "precio": 2.15,
+     "precio_texto": "2,15 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    },
+    {
+     "asin": "B0G58B5ZL7",
+     "titulo": "Bezoya - Agua mineral - Agua de mineralización muy débil - Garrafa 5 L (Paquete de 2)",
+     "precio": 4.3,
+     "precio_texto": "4,30 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    },
+    {
+     "asin": "B0CHHVVJ6C",
+     "titulo": "OTTO KONING Botella Térmica de Agua Acero Inoxidable 1 Litro Doble Pared | Aislamiento al vacío mantiene calor 12h y frío 24h, tapa hermética antigoteo, acero inoxidable 18/8 libre de BPA",
+     "precio": 12.99,
+     "precio_texto": "12,99 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B00DN9KMB2",
+    "titulo": "Bezoya - Agua mineral - Agua de mineralización muy débil - Garrafa 5 L",
+    "precio": 2.15,
+    "precio_texto": "2,15 €",
+    "cobertura": 0.67,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B01DUW98CA",
+   "producto": "Agua embotellada para rotar cada 6 meses",
+   "kit": "kit-suiza",
+   "kits_afectados": [
+    "kit-basico-72h",
+    "kit-coche",
+    "kit-suiza",
+    "kit-terremoto"
+   ],
+   "precio_aprox": "2-5 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [],
+   "elegido": null
+  },
+  {
+   "asin_viejo": "B0CRN5KNCT",
+   "producto": "Hornillo de camping a gas con bombonas",
+   "kit": "kit-suiza",
+   "kits_afectados": [
+    "kit-frio",
+    "kit-hogar",
+    "kit-suiza"
+   ],
+   "precio_aprox": "20-45 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FHWMCNWK",
+     "titulo": "Camping Gas Portatil con adaptador de Bombona + 4 Cartuchos, Pack Hornillo + 4 Cartuchos, Hornillo Camping Gas Portátil, Cocinal, Infernillo, Fogareiro",
+     "precio": 39.95,
+     "precio_texto": "39,95 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0G45JL8F3",
+     "titulo": "Hornillo Camping Gas, Campin Gas, 2 en 1, Adaptador para Bombona Grande o para Cartuchos, Ideal para Camping Emergecias, Maletín incluido, Cocina de gas portatil. NO INCLUYE CARTUCHOS DE GAS.",
+     "precio": 25.49,
+     "precio_texto": "25,49 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0FZVS6PF8",
+     "titulo": "BESCH Pack 4 Bombonas de Gas 190g con Sistema de Bloqueo para Hornillo de Camping, Mini Quemador",
+     "precio": 15.99,
+     "precio_texto": "15,99 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B0FHWMCNWK",
+    "titulo": "Camping Gas Portatil con adaptador de Bombona + 4 Cartuchos, Pack Hornillo + 4 Cartuchos, Hornillo Camping Gas Portátil, Cocinal, Infernillo, Fogareiro",
+    "precio": 39.95,
+    "precio_texto": "39,95 €",
+    "cobertura": 1.0,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B01M1NCHK8",
+   "producto": "Estufa de gas butano (para casa)",
+   "kit": "kit-suiza",
+   "kits_afectados": [
+    "kit-30-dias",
+    "kit-frio",
+    "kit-suiza"
+   ],
+   "precio_aprox": "~84 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0H4HS5YL7",
+     "titulo": "Estufa de Gas Butano Plegable [4200W] | Estufa Butano 3 Potencias con Sensor ODS y Antivuelco | Estufa Gas Interior con Ruedas 360°",
+     "precio": 69.99,
+     "precio_texto": "69,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    },
+    {
+     "asin": "B00FGX1BUY",
+     "titulo": "Orbegozo HBF 90, Estufa de gas butano, 4200 W, tecnología de llama azul, Triple sistema de seguridad, apta para gas butano y propano, asa para transporte, ruedas pivotantes, color negro",
+     "precio": 104.99,
+     "precio_texto": "104,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    },
+    {
+     "asin": "B00KDAU07U",
+     "titulo": "Orbegozo HBF 95 Estufa de gas butano, llama azul, triple sistema de seguridad, apta para gas butano y propano, 3500 W, clase de eficiencia energética A, analizador atmosférico, color negro/Burdeos",
+     "precio": 144.99,
+     "precio_texto": "144,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0H4HS5YL7",
+    "titulo": "Estufa de Gas Butano Plegable [4200W] | Estufa Butano 3 Potencias con Sensor ODS y Antivuelco | Estufa Gas Interior con Ruedas 360°",
+    "precio": 69.99,
+    "precio_texto": "69,99 €",
+    "cobertura": 0.75,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0GWNDVR7S",
+   "producto": "Radio FM/AM con dinamo, solar y USB (2.000 mAh)",
+   "kit": "kit-basico-72h",
+   "kits_afectados": [
+    "kit-basico-72h",
+    "kit-evacuacion",
+    "kit-frio",
+    "kit-terremoto"
+   ],
+   "precio_aprox": "20-35 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0B7NHB4QG",
+     "titulo": "Radio Solar portátil de 10000 mAh, Radio de Emergencia Am/FM con batería Recargable de 10000 mAh, Linterna LED de 3 Modos, lámpara de Lectura LED, Alarma SOS, Dinamo de manivela y Puerto USB para",
+     "precio": 41.99,
+     "precio_texto": "41,99 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    },
+    {
+     "asin": "B08V17BPBC",
+     "titulo": "Radio Solar de Emergencia, Radio de manivela autoalimentada Solarbaby con antorcha LED, radioAM/FM Weather Wind Up con batería de 2000 mAh para Carga de Emergencia de teléfono Inteligente",
+     "precio": 32.99,
+     "precio_texto": "32,99 €",
+     "cobertura": 0.5,
+     "comunes": 3
+    },
+    {
+     "asin": "B0987MPZRG",
+     "titulo": "Radio Solar Portátil Dab + / Dab/FM con Manivela,Radio con Linterna LED Multifunción con Reloj Despertador Digital,Batería de 5000 mAh y Alarma SOS,Camping,Senderismo,Exterior",
+     "precio": 62.99,
+     "precio_texto": "62,99 €",
+     "cobertura": 0.5,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0B7NHB4QG",
+    "titulo": "Radio Solar portátil de 10000 mAh, Radio de Emergencia Am/FM con batería Recargable de 10000 mAh, Linterna LED de 3 Modos, lámpara de Lectura LED, Alarma SOS, Dinamo de manivela y Puerto USB para",
+    "precio": 41.99,
+    "precio_texto": "41,99 €",
+    "cobertura": 0.83,
+    "comunes": 5
+   }
+  },
+  {
+   "asin_viejo": "B0HD6RLST6",
+   "producto": "Silbatos de aluminio de emergencia (5 uds)",
+   "kit": "kit-basico-72h",
+   "kits_afectados": [
+    "kit-basico-72h",
+    "kit-incendio",
+    "kit-mayores",
+    "kit-montana"
+   ],
+   "precio_aprox": "8-14 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HKNSR71Y",
+     "titulo": "10 uds Silbato Emergencia Aleación de Aluminio para Supervivencia (Gold) | Silbato de barco de alta frecuencia de doble tubo, llavero de seguridad para seguridad personal, camping, senderismo",
+     "precio": 18.83,
+     "precio_texto": "18,83 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0CR3SWYRT",
+     "titulo": "21 Piezas Silbato de Aluminio Silbato de Emergencia con Llavero | Silbato Deportivo para Travesía Senderismo Campamento Entrenamiento",
+     "precio": 8.99,
+     "precio_texto": "8,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    },
+    {
+     "asin": "B0DP3GVCYD",
+     "titulo": "TECHZOCO Silbato de Supervivencia, Silbato Emergencia, Silbato Deportivo, Silbato Entrenador, Silbato adiestramiento Mascotas, Aleación Aluminio, para Actividades al Aire Libre, 3 Unidades, Negro",
+     "precio": 5.99,
+     "precio_texto": "5,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0HKNSR71Y",
+    "titulo": "10 uds Silbato Emergencia Aleación de Aluminio para Supervivencia (Gold) | Silbato de barco de alta frecuencia de doble tubo, llavero de seguridad para seguridad personal, camping, senderismo",
+    "precio": 18.83,
+    "precio_texto": "18,83 €",
+    "cobertura": 1.0,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B0CYDF32J3",
+   "producto": "Mantas térmicas reutilizables 210×160 cm (5 uds)",
+   "kit": "kit-basico-72h",
+   "kits_afectados": [
+    "kit-basico-72h",
+    "kit-coche",
+    "kit-frio"
+   ],
+   "precio_aprox": "6-12 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HF4GTKH3",
+     "titulo": "10 Mantas térmicas de Emergencia XL (210 × 160 cm), Impermeables y Reutilizables. Retienen hasta el 90% del Calor Corporal, Ideales para Coche, Senderismo, Supervivencia y situaciones de catástrofes.",
+     "precio": 12.99,
+     "precio_texto": "12,99 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    },
+    {
+     "asin": "B0H39DN7R1",
+     "titulo": "10 Mantas Térmicas de Emergencia XL (210 × 160 cm) Reutilizables,Mantas de Supervivencia Impermeables de , Retienen Hasta el 90% del Calor Corporal –Coche, Senderismo, Supervivencia y Catástrofes",
+     "precio": 13.99,
+     "precio_texto": "13,99 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    },
+    {
+     "asin": "B0F2G3KGZS",
+     "titulo": "YADOBIG 6 Piezas Manta Termica Supervivencia, 160 x 210cm Manta Termica Emergencia de Dorado Plateado para al Aire Libre, Senderismo, Supervivencia, Frío, Aislamiento, Impermeable, Reutilizable",
+     "precio": 10.98,
+     "precio_texto": "10,98 €",
+     "cobertura": 0.67,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B0HF4GTKH3",
+    "titulo": "10 Mantas térmicas de Emergencia XL (210 × 160 cm), Impermeables y Reutilizables. Retienen hasta el 90% del Calor Corporal, Ideales para Coche, Senderismo, Supervivencia y situaciones de catástrofes.",
+    "precio": 12.99,
+    "precio_texto": "12,99 €",
+    "cobertura": 0.83,
+    "comunes": 5
+   }
+  },
+  {
+   "asin_viejo": "B0GMQVNSRC",
+   "producto": "Chubasquero impermeable con capucha",
+   "kit": "kit-dana",
+   "kits_afectados": [
+    "kit-dana",
+    "kit-montana"
+   ],
+   "precio_aprox": "20-40 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0F24YRNXY",
+     "titulo": "flintronic Chubasquero Hombre Impermeable, Chaqueta Ligera Cortavientos Running Hombre, con Capucha, Cremallera, Bandas Reflectantes, Cortavientos Transpirable Chubasquero Moto con Bolsillos, M",
+     "precio": 20.99,
+     "precio_texto": "20,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0GHHX4DND",
+     "titulo": "Modvibe Chubasquero Mujer Impermeable Cortavientos Mujer Con Capucha Desmontable Chaqueta Ligera y Plegable Para Actividades Al Aire Libre Impermeable y Cortavientos Adecuada Para Senderismo Acampar",
+     "precio": 26.98,
+     "precio_texto": "26,98 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0792547DD",
+     "titulo": "Andake Poncho de Lluvia con Capucha Chubasquero Impermeable Ligero Multifuncional como Toldo Manta Estera de Camping para Senderismo Ciclismo Negro",
+     "precio": 28.99,
+     "precio_texto": "28,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0F24YRNXY",
+    "titulo": "flintronic Chubasquero Hombre Impermeable, Chaqueta Ligera Cortavientos Running Hombre, con Capucha, Cremallera, Bandas Reflectantes, Cortavientos Transpirable Chubasquero Moto con Bolsillos, M",
+    "precio": 20.99,
+    "precio_texto": "20,99 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B09KNPHP9W",
+   "producto": "Radio FM/AM a pilas o de manivela, con linterna integrada",
+   "kit": "kit-dana",
+   "kits_afectados": [
+    "kit-dana"
+   ],
+   "precio_aprox": "15-35 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0F9ZCX661",
+     "titulo": "Raypow Radio Manivela de Emergencia Portátil, Radio Am/FM/SW Recargable Solar y por Manivela,con Linterna LED,2000mAh Powerbank,Bluetooth 5.0, Cargador Celular, Alarma SOS para Camping y Supervivencia",
+     "precio": 35.99,
+     "precio_texto": "35,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    },
+    {
+     "asin": "B0H36VZ96Z",
+     "titulo": "Energy Sistem Radio Emergencia Solar y Manivela AM/FM/onda corta (SW) | Radio , Linterna LED 3W / Power Bank USB / Carga Dinamo y Solar / Resistente al Agua / Kit Supervivencia",
+     "precio": 24.99,
+     "precio_texto": "24,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    },
+    {
+     "asin": "B0FLQ4H2VW",
+     "titulo": "ROCAM Radio Solar de Emergencia 12000mAh con Bluetooth, Radio Portátil Transistor DAB+/DAB/FM con Manivela 650mA y Panel Solar 8500mm², Pantalla a Color 2,4\", 80 Emisoras, Linterna LED, USB, SOS, IPX6",
+     "precio": 71.99,
+     "precio_texto": "71,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0F9ZCX661",
+    "titulo": "Raypow Radio Manivela de Emergencia Portátil, Radio Am/FM/SW Recargable Solar y por Manivela,con Linterna LED,2000mAh Powerbank,Bluetooth 5.0, Cargador Celular, Alarma SOS para Camping y Supervivencia",
+    "precio": 35.99,
+    "precio_texto": "35,99 €",
+    "cobertura": 0.6,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B07KM6KZYD",
+   "producto": "Gel hidroalcohólico y jabón",
+   "kit": "kit-hogar",
+   "kits_afectados": [
+    "kit-hogar"
+   ],
+   "precio_aprox": "5-12 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B077NH6Q73",
+     "titulo": "Clim Profesional 2 Jabón de Manos Dermo Sin Perfume ni Colorantes, Caja 2 Garrafas 5 Litros, Gel Higienizante PH Neutro para Uso Doméstico y Profesional",
+     "precio": 33.0,
+     "precio_texto": "33,00 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    },
+    {
+     "asin": "B08KHN552L",
+     "titulo": "Tahe Dermoprotect Gel Hidroalcohólico Higienizante De Manos con Extracto original de Limón y Glicerina (Caja de 1000 sobres de 2 ml)",
+     "precio": 6.95,
+     "precio_texto": "6,95 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    },
+    {
+     "asin": "B0H33T4962",
+     "titulo": "Gel Hidroalcohólico 5L + Botella Dosificadora Reutilizable | Gel de Manos | Higiene y Limpieza Diaria | Secado Rápido | Formato Ahorro",
+     "precio": 27.49,
+     "precio_texto": "27,49 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B077NH6Q73",
+    "titulo": "Clim Profesional 2 Jabón de Manos Dermo Sin Perfume ni Colorantes, Caja 2 Garrafas 5 Litros, Gel Higienizante PH Neutro para Uso Doméstico y Profesional",
+    "precio": 33.0,
+    "precio_texto": "33,00 €",
+    "cobertura": 0.67,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B0H8ZDPS7C",
+   "producto": "Termómetro digital",
+   "kit": "kit-hogar",
+   "kits_afectados": [
+    "kit-hogar",
+    "kit-mascotas"
+   ],
+   "precio_aprox": "5-12 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0GJD9K1DM",
+     "titulo": "Viproud Termometro digital para fiebre para bebés, niños y adultos, Termometro bebe infrarrojo sin contacto para la Termómetro frente,con mediciones precisas instantáneas,alarma de fiebre(blanco)",
+     "precio": 19.99,
+     "precio_texto": "19,99 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    },
+    {
+     "asin": "B0009G5BRW",
+     "titulo": "Beurer FT09 Termometro Digital y Corporal, Resistente al Agua, pantalla LCD con rango de medición +/- 0.1 ºC, señal acústica, sin Cristal, Color Blanco",
+     "precio": 6.28,
+     "precio_texto": "6,28 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    },
+    {
+     "asin": "B00M35Y326",
+     "titulo": "Braun Age Precision Termómetro digital | Para usar en múltiples sitios | Vía oral, rectal o axilar | Apto para bebés y niños pequeños | La marca Nº 1 entre los médicos1 | PRT2000",
+     "precio": 13.99,
+     "precio_texto": "13,99 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B0GJD9K1DM",
+    "titulo": "Viproud Termometro digital para fiebre para bebés, niños y adultos, Termometro bebe infrarrojo sin contacto para la Termómetro frente,con mediciones precisas instantáneas,alarma de fiebre(blanco)",
+    "precio": 19.99,
+    "precio_texto": "19,99 €",
+    "cobertura": 1.0,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B0GWN9FJC7",
+   "producto": "Radio FM/AM a pilas o de dinamo",
+   "kit": "kit-hogar",
+   "kits_afectados": [
+    "kit-comunicacion",
+    "kit-hogar"
+   ],
+   "precio_aprox": "15-35 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0F9KQS9PL",
+     "titulo": "Radio Solar De Emergencia con Manivela, Am/FM Radio Portatil Pequeña Pilas, Radios Solar Dinamo Y Recargable, Linterna Dinamo Outdoor Radios De Bolsillo A Portátil para Viajes Camping Ciclismo (Negro)",
+     "precio": 22.56,
+     "precio_texto": "22,56 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0HPKPHBVG",
+     "titulo": "Radio de Emergencia Solar con Manivela Dinamo AM/FM/SW Linterna LED | Batería 2000mAh Carga Teléfonos Móviles Tipo C y 3 Pilas AAA Portátil ABS para Senderismo Camping Apagones Supervivencia",
+     "precio": 24.87,
+     "precio_texto": "24,87 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0H36VZ96Z",
+     "titulo": "Energy Sistem Radio Emergencia Solar y Manivela AM/FM/onda corta (SW) | Radio , Linterna LED 3W / Power Bank USB / Carga Dinamo y Solar / Resistente al Agua / Kit Supervivencia",
+     "precio": 24.99,
+     "precio_texto": "24,99 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B0F9KQS9PL",
+    "titulo": "Radio Solar De Emergencia con Manivela, Am/FM Radio Portatil Pequeña Pilas, Radios Solar Dinamo Y Recargable, Linterna Dinamo Outdoor Radios De Bolsillo A Portátil para Viajes Camping Ciclismo (Negro)",
+    "precio": 22.56,
+    "precio_texto": "22,56 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B09XRDG5HC",
+   "producto": "Crema solar y labial con protección",
+   "kit": "kit-montana",
+   "kits_afectados": [
+    "kit-montana"
+   ],
+   "precio_aprox": "8-18 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0D42B5957",
+     "titulo": "Liposan Sun Protect, bálsamo labial, FPS 50, 4,8 g | Bálsamo labial con protección solar con ceramidas y vitaminas C y E, hidrata y ayuda a proteger, 72 h de hidratación",
+     "precio": 2.99,
+     "precio_texto": "2,99 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    },
+    {
+     "asin": "B005ESSBWC",
+     "titulo": "Piz Buin Mountain Sun Cream + Lipstick 30 SPF (20 ml), producto 2 en 1 con protección solar para deportes de alta montaña, protector solar y protector labial 30 FPS",
+     "precio": 11.64,
+     "precio_texto": "11,64 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    },
+    {
+     "asin": "B00CM94Y8Q",
+     "titulo": "LABORATORIOS BABE Stick Labial con Protección Solar SPF 20 4g",
+     "precio": 4.79,
+     "precio_texto": "4,79 €",
+     "cobertura": 0.75,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0D42B5957",
+    "titulo": "Liposan Sun Protect, bálsamo labial, FPS 50, 4,8 g | Bálsamo labial con protección solar con ceramidas y vitaminas C y E, hidrata y ayuda a proteger, 72 h de hidratación",
+    "precio": 2.99,
+    "precio_texto": "2,99 €",
+    "cobertura": 0.75,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0GRMM8ZQS",
+   "producto": "Frontal con pilas de repuesto",
+   "kit": "kit-montana",
+   "kits_afectados": [
+    "kit-evacuacion",
+    "kit-frio",
+    "kit-montana",
+    "kit-terremoto"
+   ],
+   "precio_aprox": "15-35 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FMJS962H",
+     "titulo": "4 lámparas LED de repuesto para gorro iluminado con luz, linterna frontal, lámpara de luz impermeable, lámpara de cabeza pequeña con 4 pilas para correr, camping, paseos de perros (luz blanca/blanco",
+     "precio": 11.99,
+     "precio_texto": "11,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0FMJQR5PG",
+     "titulo": "2 lámparas LED de repuesto para gorro iluminado con luz, linterna frontal, lámpara de luz impermeable, lámpara de cabeza pequeña con 4 pilas para correr, camping, paseos de perros (luz blanca/blanco",
+     "precio": 9.99,
+     "precio_texto": "9,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0H8YP57P4",
+     "titulo": "VETOLAKA 4 luces LED de repuesto para gorro iluminado, 3 modos de luz, luz de seguridad LED, funciona con pilas, linterna frontal ultrabrillante, adecuada para gorro, diadema con luz",
+     "precio": 9.99,
+     "precio_texto": "9,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0FMJS962H",
+    "titulo": "4 lámparas LED de repuesto para gorro iluminado con luz, linterna frontal, lámpara de luz impermeable, lámpara de cabeza pequeña con 4 pilas para correr, camping, paseos de perros (luz blanca/blanco",
+    "precio": 11.99,
+    "precio_texto": "11,99 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0H53XJ2KK",
+   "producto": "Pulverizador de agua",
+   "kit": "kit-calor",
+   "kits_afectados": [
+    "kit-calor"
+   ],
+   "precio_aprox": "3-8 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0GSL52NKJ",
+     "titulo": "PORTENTUM Bote spray pulverizador agua 300 ml – Atomizador recargable de niebla fina con pulverización continua – Diseño ergonómico – Para cabello, plancha, plantas y limpieza",
+     "precio": 5.99,
+     "precio_texto": "5,99 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    },
+    {
+     "asin": "B0CFVJ6MTT",
+     "titulo": "URAQT Pulverizador Agua Peluquería 200ml, Bote Spray Reutilizable, Fina Niebla Continua para Cabello, Botella Spray para Limpieza, Peinado, Planta, Mascota",
+     "precio": 6.99,
+     "precio_texto": "6,99 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    },
+    {
+     "asin": "B0CFVFL3GM",
+     "titulo": "URAQT Pulverizador Agua Peluquería 200ml, Bote Spray Reutilizable, Fina Niebla Continua para Cabello, Botella Spray para Limpieza, Peinado, Planta, Mascota",
+     "precio": 6.99,
+     "precio_texto": "6,99 €",
+     "cobertura": 1.0,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B0GSL52NKJ",
+    "titulo": "PORTENTUM Bote spray pulverizador agua 300 ml – Atomizador recargable de niebla fina con pulverización continua – Diseño ergonómico – Para cabello, plancha, plantas y limpieza",
+    "precio": 5.99,
+    "precio_texto": "5,99 €",
+    "cobertura": 1.0,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B0GY43YPS8",
+   "producto": "Botella isotérmica de acero (mantiene frío 12-24 h)",
+   "kit": "kit-calor",
+   "kits_afectados": [
+    "kit-calor"
+   ],
+   "precio_aprox": "15-30 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FKMJ7HSZ",
+     "titulo": "Cocholate | Botella térmica agua acero inoxidable personalizada láser | Sin BPA | Mantiene 24H Frío / 12H Calor | Isotérmica y Hermética - Doble Pared al Vacío a Prueba de Fugas | 500ml (Rosa Claro)",
+     "precio": 17.95,
+     "precio_texto": "17,95 €",
+     "cobertura": 1.0,
+     "comunes": 5
+    },
+    {
+     "asin": "B0GYLWRJZG",
+     "titulo": "Mont-Clair Botella Isotérmica 750ML, Rosa | Acero inoxidable con doble pared de aislamiento, sin BPA – mantiene bebidas calientes 12h y frías 24h",
+     "precio": 14.97,
+     "precio_texto": "14,97 €",
+     "cobertura": 0.8,
+     "comunes": 4
+    },
+    {
+     "asin": "B0834X3YY9",
+     "titulo": "Bambaw Botella Acero Inoxidable 1 Litro, Botella Termica 1 Litro Mantiene Bebidas Frías 24h y Calientes 12h, Garrafa de Agua Termica 1l Metálica, Garrafa Isotermica con Asa (Acero Nature)",
+     "precio": 23.95,
+     "precio_texto": "23,95 €",
+     "cobertura": 0.8,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B0FKMJ7HSZ",
+    "titulo": "Cocholate | Botella térmica agua acero inoxidable personalizada láser | Sin BPA | Mantiene 24H Frío / 12H Calor | Isotérmica y Hermética - Doble Pared al Vacío a Prueba de Fugas | 500ml (Rosa Claro)",
+    "precio": 17.95,
+    "precio_texto": "17,95 €",
+    "cobertura": 1.0,
+    "comunes": 5
+   }
+  },
+  {
+   "asin_viejo": "B00NGTCKWS",
+   "producto": "Sales de rehidratación oral",
+   "kit": "kit-calor",
+   "kits_afectados": [
+    "kit-calor",
+    "kit-terremoto"
+   ],
+   "precio_aprox": "5-12 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B00W5968T6",
+     "titulo": "NEO PEQUES Suero + | Suero Infantil de Rehidratación Oral | Formato Sachet | 5 Unidades | Indicado en Caso de Vómitos o Diarrea | A Base de Glucosa y Sales Minerales | Sabor a Frutas",
+     "precio": 7.72,
+     "precio_texto": "7,72 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0D79JLJCV",
+     "titulo": "Suero Oral en Polvo con Reishi y Prebiótico para Gastroenteritis y Vómitos Rehidratación Oral Niños y Adultos Sabor Naranja Sin Gluten Ni Lactosa Pack 4 Sobres Apto Veganos | RECUPERATION",
+     "precio": 9.0,
+     "precio_texto": "9,00 €",
+     "cobertura": 0.67,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B00W5968T6",
+    "titulo": "NEO PEQUES Suero + | Suero Infantil de Rehidratación Oral | Formato Sachet | 5 Unidades | Indicado en Caso de Vómitos o Diarrea | A Base de Glucosa y Sales Minerales | Sabor a Frutas",
+    "precio": 7.72,
+    "precio_texto": "7,72 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0FJYC8FH1",
+   "producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)",
+   "kit": "kit-evacuacion",
+   "kits_afectados": [
+    "kit-evacuacion",
+    "kit-incendio",
+    "kit-mascotas",
+    "kit-terremoto"
+   ],
+   "precio_aprox": "8-18 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FD3457VK",
+     "titulo": "HENGBIRD 2 fundas para documentos A4, carpeta de piel con cierre magnético, gran capacidad, ideal como carpeta de documentos, portadocumentos, carpeta de escritura para trabajo, escuela, viajes",
+     "precio": 11.15,
+     "precio_texto": "11,15 €",
+     "cobertura": 0.5,
+     "comunes": 4
+    },
+    {
+     "asin": "B0CP72S66P",
+     "titulo": "Carpeta archivadora ignífuga A4, carpeta de escritura resistente al fuego con cremallera y etiquetas, caja de documentos con 24 compartimentos y varios para documentos A4",
+     "precio": 29.99,
+     "precio_texto": "29,99 €",
+     "cobertura": 0.38,
+     "comunes": 3
+    },
+    {
+     "asin": "B0DZ2R282N",
+     "titulo": "Leathario Carpeta de Conferencias Organizadora Personal de Viaje Portafolio de A4 Documentos con Cierre de Cremallera con Panel de Escritura Calculadora",
+     "precio": 28.98,
+     "precio_texto": "28,98 €",
+     "cobertura": 0.38,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0FD3457VK",
+    "titulo": "HENGBIRD 2 fundas para documentos A4, carpeta de piel con cierre magnético, gran capacidad, ideal como carpeta de documentos, portadocumentos, carpeta de escritura para trabajo, escuela, viajes",
+    "precio": 11.15,
+    "precio_texto": "11,15 €",
+    "cobertura": 0.5,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B0H7WY7KZK",
+   "producto": "Manta térmica + poncho",
+   "kit": "kit-evacuacion",
+   "kits_afectados": [
+    "kit-evacuacion"
+   ],
+   "precio_aprox": "6-14 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HN7R9C6J",
+     "titulo": "Poncho calefactable para mujer, acogedor, manta de felpa portátil sin mangas, capa con cremallera y calefacción, manta térmica de forro polar portátil para llevar en casa, oficina y viajes, A01",
+     "precio": 24.59,
+     "precio_texto": "24,59 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0HND9WQR2",
+     "titulo": "Manta Electrica Vestible Poncho Calefactable Mujer Mantas Termicas USB Manta Térmica Chal Portátil Capa Termica Inalámbrica 3 Niveles de Calor y Cierre con Cremallera para Invierno Frío Viaje Navidad",
+     "precio": 31.99,
+     "precio_texto": "31,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0HN58R53Y",
+     "titulo": "Manta Electrica Vestible Poncho Calefactable Mujer Mantas Termicas USB Manta Térmica Chal Portátil Capa Termica Inalámbrica 3 Niveles de Calor y Cierre con Cremallera para Invierno Frío Viaje Navidad",
+     "precio": 31.99,
+     "precio_texto": "31,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0HN7R9C6J",
+    "titulo": "Poncho calefactable para mujer, acogedor, manta de felpa portátil sin mangas, capa con cremallera y calefacción, manta térmica de forro polar portátil para llevar en casa, oficina y viajes, A01",
+    "precio": 24.59,
+    "precio_texto": "24,59 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B07T2ZDK6X",
+   "producto": "Tienda de campaña de emergencia 2 personas",
+   "kit": "kit-30-dias",
+   "kits_afectados": [
+    "kit-30-dias"
+   ],
+   "precio_aprox": "~14 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0BH48615L",
+     "titulo": "LYN Instant Tienda de Campaña Impermeable y Ligera para Emergencia y Supervivencia 1-2 Personas con Paracord",
+     "precio": 25.99,
+     "precio_texto": "25,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B095JXCQH7",
+     "titulo": "ANCLLO Tienda de campaña de supervivencia de emergencia – 59 x 95 pulgadas impermeable para 2 personas Mylar refugio térmico para senderismo y camping",
+     "precio": 7.99,
+     "precio_texto": "7,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B07RX78HLY",
+     "titulo": "Yizhet Lámpara Camping, 4 x Luz Tienda de Campaña Portátil con Mosquetón | Luz Blanca y 3 Modos, a Pilas, Impermeable IP65 para Acampada Emergencia Apagone Montañismo Senderismo Jardín, 4 Colores",
+     "precio": 11.99,
+     "precio_texto": "11,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0BH48615L",
+    "titulo": "LYN Instant Tienda de Campaña Impermeable y Ligera para Emergencia y Supervivencia 1-2 Personas con Paracord",
+    "precio": 25.99,
+    "precio_texto": "25,99 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0G3PXJRXB",
+   "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
+   "kit": "kit-bebe",
+   "kits_afectados": [
+    "kit-bebe"
+   ],
+   "precio_aprox": "25-50 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B08TQLRLRH",
+     "titulo": "Amarsupiel | Bandolera Portabebe de Agua | Ergonómica y Ajustable | Porta bebes de 0 a 36 meses | Tejido OEKOTEX | Portabebés Ideal para Verano | Hasta 15kg",
+     "precio": 39.95,
+     "precio_texto": "39,95 €",
+     "cobertura": 0.4,
+     "comunes": 2
+    },
+    {
+     "asin": "B0FDKW6HL1",
+     "titulo": "AOOWU Portabebés Portátil, Portabebés Ergonómico Transpirable para Bebés de 6 a 36Meses, Ajustable Portabebes Multifuncional, Plegable Portabebés para Bebés y Niños de Hasta 25kg (Negro)",
+     "precio": 14.99,
+     "precio_texto": "14,99 €",
+     "cobertura": 0.4,
+     "comunes": 2
+    },
+    {
+     "asin": "B089SFNVG3",
+     "titulo": "Bandolera Minimonkey Portabebé Ergonómica Transpirable Mochila Portabebé hasta 15kg Green",
+     "precio": 40.99,
+     "precio_texto": "40,99 €",
+     "cobertura": 0.4,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B08TQLRLRH",
+    "titulo": "Amarsupiel | Bandolera Portabebe de Agua | Ergonómica y Ajustable | Porta bebes de 0 a 36 meses | Tejido OEKOTEX | Portabebés Ideal para Verano | Hasta 15kg",
+    "precio": 39.95,
+    "precio_texto": "39,95 €",
+    "cobertura": 0.4,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B0DRWF7GZL",
+   "producto": "Aspirador nasal + suero fisiológico en monodosis",
+   "kit": "kit-bebe",
+   "kits_afectados": [
+    "kit-bebe"
+   ],
+   "precio_aprox": "4-8 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B00VMADU6I",
+     "titulo": "PHYSIODOSE Suero Fisiológico Monodosis Bebé – Pack de 3 Cajas con 40 Unidosis de 5 ml – Para Lavado Nasal, Ocular y Limpieza de Heridas, Estéril y Sin Conservantes",
+     "precio": 14.4,
+     "precio_texto": "14,40 €",
+     "cobertura": 0.8,
+     "comunes": 4
+    },
+    {
+     "asin": "B0GH7Q2Z5C",
+     "titulo": "Senti2 - Suero Fisiológico en Monodosis 60 uds, Higiene Nasal, Ocular y Auricular para Adultos y Bebés PACK DE 3",
+     "precio": 18.98,
+     "precio_texto": "18,98 €",
+     "cobertura": 0.8,
+     "comunes": 4
+    },
+    {
+     "asin": "B0GH7HVQP7",
+     "titulo": "Senti2 - Suero Fisiológico en Monodosis 60 uds, Higiene Nasal, Ocular y Auricular para Adultos y Bebés PACK DE 2",
+     "precio": 12.4,
+     "precio_texto": "12,40 €",
+     "cobertura": 0.8,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B00VMADU6I",
+    "titulo": "PHYSIODOSE Suero Fisiológico Monodosis Bebé – Pack de 3 Cajas con 40 Unidosis de 5 ml – Para Lavado Nasal, Ocular y Limpieza de Heridas, Estéril y Sin Conservantes",
+    "precio": 14.4,
+    "precio_texto": "14,40 €",
+    "cobertura": 0.8,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B0GSZS62HD",
+   "producto": "Mantas/empapadores de tela de confianza",
+   "kit": "kit-bebe",
+   "kits_afectados": [
+    "kit-bebe",
+    "kit-mascotas"
+   ],
+   "precio_aprox": "8-15 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FXGTD54C",
+     "titulo": "KIRZAX 2 Empapadores Lavables, 50x70cm Empapador Reutilizable, Ultra Absorbente Antideslizante, para Entrenamiento/Suelo/Coche/Cama, Tela Suave 4-Capas impermeable",
+     "precio": 12.49,
+     "precio_texto": "12,49 €",
+     "cobertura": 0.5,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B0FXGTD54C",
+    "titulo": "KIRZAX 2 Empapadores Lavables, 50x70cm Empapador Reutilizable, Ultra Absorbente Antideslizante, para Entrenamiento/Suelo/Coche/Cama, Tela Suave 4-Capas impermeable",
+    "precio": 12.49,
+    "precio_texto": "12,49 €",
+    "cobertura": 0.5,
+    "comunes": 2
+   }
+  },
+  {
+   "asin_viejo": "B00AMHKB28",
+   "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
+   "kit": "kit-mayores",
+   "kits_afectados": [
+    "kit-mayores"
+   ],
+   "precio_aprox": "0 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [],
+   "elegido": null
+  },
+  {
+   "asin_viejo": "B0CQT78FWC",
+   "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+   "kit": "kit-mayores",
+   "kits_afectados": [
+    "kit-mayores"
+   ],
+   "precio_aprox": "8-20 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HK8CP55X",
+     "titulo": "Pulsera Médica Personalizada, Elástica Ajustable SOS ID con Grabado Mujer | Identificación SOS personalizada con nombre, epilepsia, alergias, medicación y número de teléfono para emergencias médicas",
+     "precio": 35.99,
+     "precio_texto": "35,99 €",
+     "cobertura": 0.88,
+     "comunes": 7
+    },
+    {
+     "asin": "B0HK7YB4J1",
+     "titulo": "Pulsera Médica Personalizada, Identificación SOS ID con Grabado para Hombre | Pulsera de emergencia sanitaria con grabado, identificación SOS, alergias, medicación y número de teléfono de contacto",
+     "precio": 35.99,
+     "precio_texto": "35,99 €",
+     "cobertura": 0.75,
+     "comunes": 6
+    },
+    {
+     "asin": "B0HK83WG87",
+     "titulo": "Pulsera Médica Personalizada, ID de Emergencia Ajustable para Adultos | Identificación personalizada para diabetes, epilepsia y alergias, con nombre, medicación y teléfono de emergencia SOS",
+     "precio": 35.99,
+     "precio_texto": "35,99 €",
+     "cobertura": 0.75,
+     "comunes": 6
+    }
+   ],
+   "elegido": {
+    "asin": "B0HK8CP55X",
+    "titulo": "Pulsera Médica Personalizada, Elástica Ajustable SOS ID con Grabado Mujer | Identificación SOS personalizada con nombre, epilepsia, alergias, medicación y número de teléfono para emergencias médicas",
+    "precio": 35.99,
+    "precio_texto": "35,99 €",
+    "cobertura": 0.88,
+    "comunes": 7
+   }
+  },
+  {
+   "asin_viejo": "B0GQXYX9M2",
+   "producto": "Alfombrilla antideslizante de baño y tirante de apoyo",
+   "kit": "kit-mayores",
+   "kits_afectados": [
+    "kit-mayores"
+   ],
+   "precio_aprox": "12-25 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0D472M3ML",
+     "titulo": "HITSLAM Alfombra Ducha Antideslizante 53x53cm, Cuadrada Alfombrilla Ducha Antideslizante con Ventosas, Lavables a máquina Alfombrilla Baño Libre de BPA Resistente al Moho, Transparente",
+     "precio": 11.99,
+     "precio_texto": "11,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    },
+    {
+     "asin": "B0FMKBBVLC",
+     "titulo": "Alfombrilla de ducha angular antideslizante | 54 x 54 cm, Alfombra de baño Estera de succión Bañera de bañera",
+     "precio": 13.99,
+     "precio_texto": "13,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    },
+    {
+     "asin": "B0F614BTN3",
+     "titulo": "Surwin Alfombra Ducha Antideslizante 60x90cm, Alfombra de Bañera Antideslizante con Drenaje | Secado Rápido Loofah PVC Suave | Alfombrilla de Ducha Alfombrilla de Baño",
+     "precio": 29.99,
+     "precio_texto": "29,99 €",
+     "cobertura": 0.6,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0D472M3ML",
+    "titulo": "HITSLAM Alfombra Ducha Antideslizante 53x53cm, Cuadrada Alfombrilla Ducha Antideslizante con Ventosas, Lavables a máquina Alfombrilla Baño Libre de BPA Resistente al Moho, Transparente",
+    "precio": 11.99,
+    "precio_texto": "11,99 €",
+    "cobertura": 0.6,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0CR6BQ6X8",
+   "producto": "Comedero y bebedero plegables de viaje",
+   "kit": "kit-mascotas",
+   "kits_afectados": [
+    "kit-mascotas"
+   ],
+   "precio_aprox": "8-18 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0FDMJZ25Y",
+     "titulo": "Lunabear Cuenco Plegable para Perros y Gatos, Comedero y Bebedero de Viaje | Portátil de Silicona Alimentaria, sin BPA, Apto para Lavavajillas, con Mosquetón (Marfil)",
+     "precio": 14.99,
+     "precio_texto": "14,99 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0HH93WXL8",
+     "titulo": "ZETKUS 2 Piezas Cubo Plegable Para Mascotas, Comedero Bebedero Viaje Portátil Sin Bpa, Comedero Bebedero 350Ml Viaje Portátil Sin Bpa Lavavajillas Colores Gris Azul Y Verde",
+     "precio": 7.59,
+     "precio_texto": "7,59 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0H35WYKVH",
+     "titulo": "MLRUQRX 2 Cubo Plegable Para Mascotas Silicona 350Ml, Comedero Bebedero Viaje Portátil Sin Bpa (Rosa, Verde)",
+     "precio": 8.99,
+     "precio_texto": "8,99 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B0FDMJZ25Y",
+    "titulo": "Lunabear Cuenco Plegable para Perros y Gatos, Comedero y Bebedero de Viaje | Portátil de Silicona Alimentaria, sin BPA, Apto para Lavavajillas, con Mosquetón (Marfil)",
+    "precio": 14.99,
+    "precio_texto": "14,99 €",
+    "cobertura": 1.0,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B0FKT1B9HZ",
+   "producto": "Calcetines de lana (3-4 pares)",
+   "kit": "kit-frio",
+   "kits_afectados": [
+    "kit-frio"
+   ],
+   "precio_aprox": "10-25 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0H8R9PC6P",
+     "titulo": "Vinuwu 3 pares de calcetines de lana merino esponjosos térmicos gruesos | Calcetines de cachemira tipo welly acogedores para mujer para caminar y senderismo, calcetín de caña media con acolchado",
+     "precio": 10.99,
+     "precio_texto": "10,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0FFLXX5RG",
+     "titulo": "inaWarm Calcetines Calientes Para Mujer, 5 Pares De Calcetines De Lana Gruesos Y Cálidos Para El Invierno, Transpirables, Calcetines Tejidos Coloridos Y Cómodos, Regalo Para Mujer, Talla 35-42",
+     "precio": 12.99,
+     "precio_texto": "12,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    },
+    {
+     "asin": "B0D78T7JVV",
+     "titulo": "ANTSANG 6 Pares Calcetines Tobillo Lana Merino Senderismo Carrera Gruesos Acolchados Transpirables Hombre Mujer(Beige/morado/gris claro/verde/rosa claro,36-42)",
+     "precio": 19.99,
+     "precio_texto": "19,99 €",
+     "cobertura": 1.0,
+     "comunes": 3
+    }
+   ],
+   "elegido": {
+    "asin": "B0H8R9PC6P",
+    "titulo": "Vinuwu 3 pares de calcetines de lana merino esponjosos térmicos gruesos | Calcetines de cachemira tipo welly acogedores para mujer para caminar y senderismo, calcetín de caña media con acolchado",
+    "precio": 10.99,
+    "precio_texto": "10,99 €",
+    "cobertura": 1.0,
+    "comunes": 3
+   }
+  },
+  {
+   "asin_viejo": "B0H2YWM29L",
+   "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
+   "kit": "kit-starlink",
+   "kits_afectados": [
+    "kit-starlink"
+   ],
+   "precio_aprox": "50-150 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0GT4D8M5K",
+     "titulo": "RFIVER Starlink - Soporte para antena estándar Starlink Gen 3/V3/4/4X | Starlink - Soporte de pared con adaptador de tubo Starlink Gen 3, conjunto de montaje en pared/techo con mástil Starlink",
+     "precio": 34.99,
+     "precio_texto": "34,99 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    },
+    {
+     "asin": "B0FHGLFWP1",
+     "titulo": "Starlink Gen 3 Soporte, soporte ajustable de 360° Starlink Gen 3, soporte de mástil Starlink con adaptador de tubo Starlink Gen 3, kit de montaje en pared largo Starlink",
+     "precio": 52.72,
+     "precio_texto": "52,72 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    },
+    {
+     "asin": "B0GQSLW22R",
+     "titulo": "Soporte de Antena Ajustable para Exterior, Mástil de Pared Ø35 mm para Antena TV, Satélite, Radio y WLAN, Montaje en Pared/Techo/Poste, Compatible con Starlink con Adaptador, (Negro, 101 cm)",
+     "precio": 49.99,
+     "precio_texto": "49,99 €",
+     "cobertura": 0.83,
+     "comunes": 5
+    }
+   ],
+   "elegido": {
+    "asin": "B0GT4D8M5K",
+    "titulo": "RFIVER Starlink - Soporte para antena estándar Starlink Gen 3/V3/4/4X | Starlink - Soporte de pared con adaptador de tubo Starlink Gen 3, conjunto de montaje en pared/techo con mástil Starlink",
+    "precio": 34.99,
+    "precio_texto": "34,99 €",
+    "cobertura": 0.83,
+    "comunes": 5
+   }
+  },
+  {
+   "asin_viejo": "B0B7ZCB89G",
+   "producto": "Velas de emergencia de larga duración (9-12 h)",
+   "kit": "kit-electricidad",
+   "kits_afectados": [
+    "kit-electricidad"
+   ],
+   "precio_aprox": "10-20 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HP9SSN9R",
+     "titulo": "Velas de emergencia de larga duración, resistentes al , 10 unidades | Velas sin perfume de 26-30 horas para acampar, senderismo, pesca, tienda de campaña, hogar interior",
+     "precio": 31.69,
+     "precio_texto": "31,69 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0HPFM3C2M",
+     "titulo": "10 Velas De Emergencia De Larga Duración Para Cortes De Energía | Velas De Supervivencia, Velas Portátiles A Prueba De , Sin Humo, Sin Perfume, Para Caminar, Acampar Y Pescar",
+     "precio": 13.49,
+     "precio_texto": "13,49 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    },
+    {
+     "asin": "B0HQ3LYHQP",
+     "titulo": "4 Velas de Emergencia 24 Horas Larga Duración en Latas Metal para Apagones | Combustión Limpia Sin Humo, Ceras de Alta Densidad con Mechas Algodón, Linterna Para Kit de Supervivencia, Camping Y Tormenta",
+     "precio": 12.92,
+     "precio_texto": "12,92 €",
+     "cobertura": 1.0,
+     "comunes": 4
+    }
+   ],
+   "elegido": {
+    "asin": "B0HP9SSN9R",
+    "titulo": "Velas de emergencia de larga duración, resistentes al , 10 unidades | Velas sin perfume de 26-30 horas para acampar, senderismo, pesca, tienda de campaña, hogar interior",
+    "precio": 31.69,
+    "precio_texto": "31,69 €",
+    "cobertura": 1.0,
+    "comunes": 4
+   }
+  },
+  {
+   "asin_viejo": "B0B711GG7N",
+   "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+   "kit": "kit-kit-profesional",
+   "kits_afectados": [
+    "kit-kit-profesional"
+   ],
+   "precio_aprox": "300-800 €",
+   "motivo": "agotado en Amazon",
+   "candidatos": [
+    {
+     "asin": "B0HDSSWZDX",
+     "titulo": "Router móvil 5G con 6 antenas y ranura para tarjetas SIM, portátil, WiFi | Velocidad de transferencia de datos: 1 Gbps (clase 1000Mbps), Doble banda: 2,4 GHz 5,8 GHz, conectividad de modo dual para",
+     "precio": 189.0,
+     "precio_texto": "189,00 €",
+     "cobertura": 0.67,
+     "comunes": 4
+    },
+    {
+     "asin": "B0DBVYKZT8",
+     "titulo": "TP-Link Archer NX200 - Router 5G SIM, WiFi 6 AX1800 Doble Banda, EasyMesh | Internet sin Fibra en Cualquier Lugar. Inserta una Tarjeta SIM y Listo. 3 Puertos Gigabit. Control Parental. App Tether.",
+     "precio": 237.95,
+     "precio_texto": "237,95 €",
+     "cobertura": 0.33,
+     "comunes": 2
+    }
+   ],
+   "elegido": {
+    "asin": "B0HDSSWZDX",
+    "titulo": "Router móvil 5G con 6 antenas y ranura para tarjetas SIM, portátil, WiFi | Velocidad de transferencia de datos: 1 Gbps (clase 1000Mbps), Doble banda: 2,4 GHz 5,8 GHz, conectividad de modo dual para",
+    "precio": 189.0,
+    "precio_texto": "189,00 €",
+    "cobertura": 0.67,
+    "comunes": 4
+   }
+  }
+ ]
+}

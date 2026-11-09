@@ -231,7 +231,7 @@ const ui = {
         ${arte}
         <div class="container">
           <span class="chip">Guía práctica · España · 72 horas</span>
-          <h1><span class="l1">Se va la luz.</span><span class="l2">Empieza tu plan.</span></h1>
+          <h1><span class="l1">Se va la luz.</span> <span class="l2">Tu kit de emergencia, en marcha.</span></h1>
           <p class="hero-lead">Los primeros 30 minutos no son para buscar pilas a oscuras. Un kit 72h reúne lo esencial para pasar un corte de suministros o una evacuación breve con más margen y menos improvisación.</p>
           <div class="hero-ctas">
             <a class="btn ambar" href="#kits">Ver los kits ↓</a>
