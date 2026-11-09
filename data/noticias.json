@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T16:10:28+01:00",
+  "actualizado": "2026-11-09T19:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Por qué la UE pide estar preparados para 72 horas sin ayuda y qué debes tener en casa ante una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2JGUi1Oc1dza2Y0ZGE5cjV6ZUxoaUF5OTZiT0lMNEt1WDAyOWRzMkRHaWxRNkNvUHg3ZENWUENNWEdxRm4xajM5Sk1VTFhPRTE1cC1TMy1hdnNNbVk4V2xWMDEySWRzb1pOUXpERVI2blEyZUpWTjYwa0hEYWZKV1Mwekg0Sy00MXJSVkV1cE9pQk9tYWlPTTQ1QmhwaG96Qk5KTzNRZW00Q2VyanB0cWwxc3FKNF84VU9wdzBHbUFXLUdUTFF2ZjJPMVRETUhaZVdQcjRSWjQwTlpEQWfSAeMBQVVfeXFMTTJaZndrcDlLeW9EOHJrLUhXRVRsdWYxS2F1Qmxlb2M4a3BVZzNUZFJXMnIydkNkaUQ4M0FLZU4tRTVLbVBUdXdNVWQ1Z18xNEFzVnZmd0F6ZWs4NW1Wd2FKYmpZdi1XZW5jQmxKVVRtcjdIOXNEZnktVDVRR0ZBV00xMFlMMU5qbGJxdldLV3JvZVdXYzRNREprS0U3SjdvT3hPV3pOMmpCZ3Z1aTJuMVo2eGtUcENEczhERnFoWTdHZ2Zocy1lQkVKNzZ6bllGcm43cFhpdmg1YVVVRUNkSmxfdTg?oc=5",
+     "fuente": "El Progreso de Lugo",
+     "resumen": "",
+     "fecha": "2026-11-09T18:14:13+01:00",
+     "fecha_txt": "9 nov"
+    },
     {
      "titulo": "¿Qué está pasando en el mundo? Países llaman a preparar mochilas de emergencia para sobrevivir 72 horas",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazJhd3ZMTVMwMDNzbVh5RVRhTlhOWWVfSlhyTVRxaENyMFlGdmxWMkNlU1JnMFZxZ0xjX1drU21nZEtqc2VHb0ctd1FhQXVRT291bkYwNTB4bkxMVGgzZnAzNTN6d3A2QlZUWnhXOFdaVHJsaFlkNmx5a1kyVk1IX2lkclFRQnAyd0RXQkJBRndFb2ZKN09ndWYwRlNZSVZ4eG91b25RMVJLYXlaZFljM2FVNEx4ak9tODFrSHBubi13Vm83YUxZ?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "Francia y el Reino Unido impulsan recomendaciones para que sus habitantes puedan subsistir de manera autónoma durante tres días ante emergencias. La iniciativa de la Unión Europea contempla una mochil ...",
      "fecha": "2026-11-08T01:22:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Por qué varios países piden tener lista la mochila de las 72 horas, incluido Guatemala y qué debe contener",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHRaeTUzaXpFVWFhazV4a2IyMmRwX0NKNEZhLUVTR3BiSGluNDBNV0tPZmZ3WFJCdHhVSEhJbThpY3hjZ0JCVklRYkF6TnZxdW5zX28zUGtvME1fRmZSYUR2Sjg5NnhFX0plUGx6MmRNRnhlX2M4SFVDZGVSWWdpXzdmYTMtYklENnd5SFRsNlg5QjZqa2dPVmdQamd3VXBDYVQ0WjBaTDBETzRNcm9TdWk1V1FwTUw2WWRoQUZpdUpPZHduT0xaZGk5R2kyY0N1N00xaklyam5JUnZfS3hsbmp1Wm5GVWZnZml2OQ?oc=5",
-     "fuente": "Prensa Libre",
-     "resumen": "",
-     "fecha": "2026-11-07T18:53:39+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -83,19 +83,11 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Prisión para los tres acusados de causar varios incendios forestales en Trives (Ourense) entre 2021 y 2022",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMDJoVUVFQUNEQ3ZfSHpuRHAtQlRPNllvdEFPbG54TllCR2tzUDgtRDAyOFdTel9UNFkzeFpMQ3UzcEQ1N3N4S3o1WUdMRnhWUmVKSFh2MWJqQVRvVnJiTWM5ZjNyMkd4NTFhNm1TNTlPUEIxSmpKQjNJVnJDLUFHTDl6Qi1SbXVXUWpiM1hoT2xPZmotUTQ0c3BIczJ6cm54Vk8xVndMV2lMa3V3ZndHWUFwN3k0MGNxeU9RR2lXcXdFb2NrMkNOTV9OZ1dpaTVNMTZUQ21TQ1dWUGZOQlc3VjBXNWxkbVVhbnlCUExhZ1prMjRmT1ZDMDlkRdIBgAJBVV95cUxNTXpQOUxLOUZ6N2w1X09QWFVfOHFFNWh0M08tN3RxeHJJRzYzaW9rZUxhOEE1QmMwRzNiVDBwNUJvSWtBQUh3UGQyN3RsS1Fyb18zdkh3UWx4RVl6amRMa1c4QnFqMjFSUHhfSTU4NG04Y0R3M2Fqb195cVBCSXJMMVQ2SzRIeWdDWnE4Y0JicWZhMnMtVFEyVWZQVUhKNEZaX1pkcWJWWm1VUFFMb0k2STlyRXVzbzVaa0xlSHNxc0g0Q1kwM2hRZTZ3THdKNDFUelNMWXhINUpHQkJBQkF3UHl3eWF1VmJQOHU1MGtjclk2NkVrcGgzcUJESXh2MWRT?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-11-09T15:48:18+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Badajoz reúne a expertos de España y Portugal para impulsar un nuevo modelo frente a los grandes incendios",
+     "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
      "fuente": "La Crónica de Badajoz",
      "resumen": "",
-     "fecha": "2026-11-09T14:48:52+01:00",
+     "fecha": "2026-11-09T18:42:42+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -112,6 +104,14 @@
      "fuente": "Diario de Castilla y León",
      "resumen": "",
      "fecha": "2026-11-09T07:15:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Badajoz reúne a expertos de España y Portugal para impulsar un nuevo modelo frente a los grandes incendios",
+     "url": "https://www.msn.com/es-es/noticias/otras/badajoz-re%C3%BAne-a-expertos-de-espa%C3%B1a-y-portugal-para-impulsar-un-nuevo-modelo-frente-a-los-grandes-incendios/ar-AA2h43mW",
+     "fuente": "lacronicabadajoz.com on MSN",
+     "resumen": "Las II Jornadas Ibéricas Grandes Incendios Forestales congrega en Cajalmendralejo a especialistas y responsables para abordar la prevención, la gestión del paisaje y la protección de los núcleos rural ...",
+     "fecha": "2026-11-09T06:48:55+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -154,11 +154,11 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Extremadura toma medidas ante las lluvias previstas en el norte de la provincia de Cáceres",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbE9ubUdRbkpaOG9BSFFkRTVWbE8xc2xtWFM2WXlOajlDNktaLTRBVW05dXR5MWJqNTZoRmhacHVQR0Z0NVdIMEVQRGRxSzdwaXpMemFheEVmWk1vQXR1ZXhSU1kzaUtsanNZcWxLQ19tY2ZfbFJKS2RzRzl6SlZtSUM3REVOZktKemN3aUZFdndab1BEcTdXUi1aR3lvVkstNVktb2EtbWpZWHdSbWNLdmxycw?oc=5",
-     "fuente": "El Confidencial",
+     "titulo": "La depresión Charles se acerca a Portugal y España con lluvias torrenciales y rachas de 120 km/h",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpGTGlhZGJfMk94azRXMzl6Z0hTRlFyUU5XUUFuc0hfZ0QxekdLZEJteWVvM3JTbTRGLUNnd0xIaXUwM1VSMXV4aW4wa0FRaVktZ0ZXcVNualBQMUcxY2h0UTBuM3VvdTJ6dF9Ya1FQNWd4MFZUSU1ab3I2elc0ZXJacnYzUFFTLWJDQXJPYXhsTXNuem9sYUg1ODFxQlhrU3dtRE9MXzJBMjNGQ1BjWFBNcS1LUXdWMWtLcVNrTFVJcGs?oc=5",
+     "fuente": "Euronews.com",
      "resumen": "",
-     "fecha": "2026-11-09T15:58:00+01:00",
+     "fecha": "2026-11-09T18:48:12+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
      "titulo": "Avisan de lluvias muy fuertes y vientos intensos en España: estas son las zonas que más preocupan",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QY0x5MmtNRmw0UDk4UmZRLXlNb3d0Umx6dEhyWFNQclhoaWxKUXdsQzdranRoWEJSV1kwbFlXWHgxSU0tc2psX3BCdlRuejJpRm95T3dR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVE0Vk1ZYVRVNkJkdk5EbmUzWlNGSGFkRG4yNC1WcElxQ2hCc2ZSLUJTWUduM0pTa0F0a3g3d0hmb2UyQ2ItTkMzVFAySEVlZHlNbDZoZDBQelpfd1FFeFJydFdvSkpiUV80OFpUdFEzd1dnVUxIajBJRktoNi1pdzhLSHdjTWhOYnkwTzRkUUw0MmNhZTRzS09FSXE1QVNVekktZ2dSX2RteG9oV1RZY2hCbEpfd3dXVzJQTHdnRjQ3MXNvUUNxOURWUWtkb1diOVppaVNacw?oc=5",
      "fuente": "Directorio Cubano",
      "resumen": "",
      "fecha": "2026-11-09T12:02:19+01:00",
@@ -229,7 +229,15 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-09T14:43:38+01:00",
+     "fecha": "2026-11-09T17:43:35+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Portugal contrata a Iberdrola para recuperar un gran apagón como el sufrido por España en 2025",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORzM2VkdXODVSUnR4LVJ3dVFTNER1YTJ5cm1wZGliZDdjZ1hFa0FtQTBRVGFYak9sbE9fWU4wdTBHRTlDSmJtaEpIal8yanAtcEtid0RVOWhEc1BmVVk1X3g2OU5lZ1BNdy0yNS1randjRHZZaTZKY2xubDZPUk51R3E4U0ZrSG9lQThqdjlJS3Zuc3BOcW8zZFpPOWU5V0kyOTc0T0pFR1E1Ym5ycm5XT1hnYWxnem5heUFsdHBHaUltQUxCMFBDNDhLbjE1VFIza3ZhUEp6WE5KdXUwTUxLV1JiT3pTMTjSAewBQVVfeXFMTlppNlZGRlN3dV9aajUtMnhRSS1lcHl3eWowVTdKWnVsZlJ1WTZoaUNneWxWTHphb3BpNmVJcWtSWVpqaURBSG9RVkFoaEM0aGlacTJwWHlVWTBVZkc3c29JemJGbWs5YmpfQXh6QV9NRGlsRG12ZVlvR09OVTM2WmZaQ2VmOE1MU3pxclRUdzZaTVJHTk1lTWpOYzY1NURDc2YwWWVyeW1MSm1vYVZYdjRyVjBDWlBZVk9ydW5KNnJFem5nczZHdFNCV05BbUc0TW9ybk5pVnBjWE1FZWNTelYzRm5GWnRyR254YlU?oc=5",
+     "fuente": "Radio Intereconomía",
+     "resumen": "",
+     "fecha": "2026-11-09T16:02:07+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -242,18 +250,10 @@
     },
     {
      "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzJWZ3hDUml1SW1LT091V0ljazloX19kLWRzSDRDekJ0c0tqTDVxUGRTbFVQVmNIOGVWS0h6R2Y3ck5vSFhubTJpN1VlSnhSQXJnWFNQc09FbGQ2d1lpUjI4UmJrdU5LMmh1dTQySTh5NDBJOVJFaktxcURJSjRfWmFpRVNpRzZmMF9JYXQtTXhiV0RK?oc=5",
-     "fuente": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnZqcWRDUXE0Y0FhdThJVmNWcFVweTlITUVIM0tTSE1nT08weHpaU3lmZndfekY4NkZoQ014UVRtZkpwRWo1LTRLREFlLXdGY0g1dHU2SUlTR2wtbjlGbVhJOVlhdHJxaF96Q0pkbGh3YlNnVnJESC1kZkJ1Wk1yaU1kYWRfc3NJemgzX1NsMmlYVGdwU0xLQjdnUWJzWGlMQmE2cXhHS3JiLU5yY19oMjJnaUJHM0VtM3RreDZfdWw2VzljdEs1SmpzVG9XXzY0c0g1aGtqOWh1c1JVWnFvZ3N6Z9IB6AFBVV95cUxNWEg1cVNVRXBqemVxQnc1elV1VWhRQ0pyakdTcFdWTUstLU9MZDNQM1JlY29lUk16LW1VTVhUQmw0ajZ5SUdxd0FpeTh2OU9XbXhSUDhTdW92eUUtT2xTYlJmNzIwMW1pLUVieTRTWEpxRWpMRGNmSl9XSDJadllPSmg5S1Jjckg3eE8xdkh0Z1BpemZUZV9YX1dsd3hpNnNqYW5TMDhUR2wwcGk0RkVDLVJiOVJKOF9tZmZBQlBSSGFEdVhkQjZVUk5HNUxLN2FEazRUQVVMQjdiSlNWS1RYMFRZOUNyekRl?oc=5",
+     "fuente": "El Español",
      "resumen": "",
-     "fecha": "2026-11-08T17:30:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
-     "fuente": "El Mundo Today",
-     "resumen": "",
-     "fecha": "2026-11-08T10:13:57+01:00",
+     "fecha": "2026-11-08T16:30:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
