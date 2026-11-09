@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T04:10:27+01:00",
+  "actualizado": "2026-11-09T07:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "El experimento de Mazalmadrit, el monte urbano de Rivas que adapta su ecosistema para protegerse de los incendios",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-experimento-de-mazalmadrit-el-monte-urbano-de-rivas-que-adapta-su-ecosistema-para-protegerse-de-los-incendios/ar-AA2h1ZLR",
+     "fuente": "elDiario.es on MSN",
+     "resumen": "El Ayuntamiento de Rivas Vaciamadrid avanza en un plan mano a mano con WWF España, el Fondo Mundial para la Naturaleza, que lleva dos años actuando sobre un terreno eminentemente forestal para reducir ...",
+     "fecha": "2026-11-08T22:00:09+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
@@ -137,14 +145,6 @@
      "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
      "fecha": "2026-11-08T00:45:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
-     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
-     "fuente": "RTVE",
-     "resumen": "España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas. Unos incendios que cada vez son más violentos.",
-     "fecha": "2026-11-06T17:00:00+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -154,11 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Las inundaciones causadas por la dana dejan a una barraca valenciana de 200 años al borde de la desaparición",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUtxWW5XRW5fMGJlX2o1NVFvbzdWZ2NuNllUTkE4RUFONEJaZDhqZF96TmNCa2oxb2Vsb3Fpcmtmdm9lTTFBcmhoMDFmSmVWa3I3VmljTUg2anF3T1ljemRYSHNsaUp4V0JHZi1YbEpTMTZKUUxoQWZQNWt5em9xT3VFZXVUMHRpMkQ2VHY0bzUyMXpIMFNnbFBHdV95Y2ROUG9BVHJkSHp1RmIzY2lzYVFPTWRNZnNtMzloUUd0Tzh4YzFETFQyT280V2dtSjJLYUs4ZnBxZ2xmTlQ2azlMdUhDblBDNFZD0gHuAUFVX3lxTE5OT1h0QjJxdHFfdEtrQlI4blVVMjBocllrSzNXMWd3TkNlQ2JWZEpOX3ROaVBfYUdMYU9wLUI5T3E3Qm1BY0ZKRHhYeXhHbEI0WVdrbG56dHNpOVN2SE56V01uekdmX3gtSFR0X1d5V2JaMnVVNXl6dmk5UGU1bFYweFJqM2RZUXlrek94eTNQWEVsRWQwMDJ0WXJYbEN3RWhRV1lEYjAyVWw1aTI0aUZTRFFOUE91LWlGNFNaOGtGTlpCUm9udUFmS19PS2h1b1hMVmpFYUZPVUFfX1B1R19NYm8tdEhBTU1BRFhWNWc?oc=5",
-     "fuente": "El Debate",
+     "titulo": "La Aemet avisa de la llegada de un temporal de lluvias: viento intenso y tormentas en estas zonas de España",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2MxZ2FVcmpfN19QM2tMSjFpVTBvcVZVeVozaXQyN2habk1kRWowMFJ5bFJEQmRPRjJLX2ZpZTRQZ05wcktSZklFMGJfelU5R2Z6TWZvcDY0YnVQa21zTjJNZ05VMFdwclNraDZaNmdBcGpWT2F6cWFfbUticHdEZWliYmUwcUZHZ3JCTWUzWnVELXQ3VVVfa3VvRXJvbFlTaS1R0gGoAUFVX3lxTE1TeVJfT0VMeExCSjNhQnF5Yk1zMTI5RXpza3F5bjhpUjZ2UUtCeU1zamhCTlZSb2ptN1p3MzRyWVd5Ny1pcFRwczRlMHMwOTZQazRjbkk2bVBnZUtNUmRHU1N2dWVzaEVVcERKRHRqQkdYbFN6TlhMbXJ1Z0staTZxenZ3YmMyYlowbmV2YXlCbDlFRzIyd3Y0QkYyTVB4aXNlUnZ4a2dGdw?oc=5",
+     "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-09T04:00:00+01:00",
+     "fecha": "2026-11-09T05:15:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Las últimas previsiones para Madrid: temperatura, lluvias y viento este 9 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzdqY0Z0RGxaOUVEVEdEQ19UQ1g3NnRDbDF2dS1hREhZZzl4MlRGbTNqZk1FZHU5RnlIeG9LX3lVb1UxUzJvOVlGcTB4MGZobTR6Mm1hQ184Tm54YnpiYk1RTEhhd1lMS1VNU1pCS01VdmQxOXA2MS1qNDVOSEFTM1FCMUMyWjItR193NjhvRjVnWWotUERhY3cwOUtySENVOG1RZ0xaOVJJeUdqalVLSndXV0tiTldabVlYXzhHZUpPajk5THfSAeABQVVfeXFMUFVLTWh1eWZYT2FaMkYtSzdpVFRaZXhyV1pJMGlRWS0yOFpmRmNrSG5aVDlhMmh3ZWVoYnE2VkFETXZEd1BSb2E2emNaMlhCVHVuQllscmlnSUFMNmFpcnlCWk5BeTBNbjVkOVJ6RzNfMzU4blYtQVoxYkxRYTg3cmhlak8tc1JHVHRnOVFFaFNPQ3BWZDJFeTcxNzc5eEE2VFJ0QzlkSkxuRlAxUXVWTks0VUZJdkd5UVBxSkpKR3gxeWU3R1gwbmRfajNpcWxVTFVWa0dyclUzdlg4bHZxaTk?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-09T04:16:00+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-08T06:00:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna dejará fuertes lluvias, tormentas, viento y mala mar en España: la Aemet alerta de posibles inundaciones y crecidas súbitas de los ríos",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMVZfRDFGZEYzTDRnQWtPQ3l4MGhwYnZBTW4wNXJwMkU1SmNHZDFwSk1zeTh2Y1BaM0NLMzFRNzFvTkR1TnpvSWIwSjk0WFV2WnNaUTh6elhhSEIxd0dScDZ5UVp5TEpqMHdWQmVoSjNvNVJpRkczZ3dKNkNSZ2NvTFpFMDFRbmlrNWZMa0hZQ2RUc3RmMnhfZ1ZkaWtmTTByMkhRYXJsVm1PU1lzRlVlUy1lWGswVVZDUk5Jd3E1UHVQdndoQzY1dDZ1WEc1eHVjRHQyU0tYSjBfbEFxSUZyY1JxczhwQVNvS1NyVGxmelJMNVNhaDJ5c29iREo4WHR1Qk9XVlZuRlJQaDBPN29ScHJVbnIyZVN6SENkb25B0gG4AkFVX3lxTFBGMGNyQ0NRakZnT0l1OGxoVmtOM3F1djEwZjRmck9ndlA0c2tkNHJYbEJscEZfX2Z6WEJGY2hXeXUyTTdkNUVMdngteGlfa0dWMVZza0tOd0RrWllNREk1TE9IRVNnSmNVR3hCM21LZVY5QzZCLXlHVVJUUTRmb1NXWDFJLUhTdEFyWmlBZjNrNnAyaUZlUTg1cXBycHlhVVVfWVU1QjNDNmpNVUprZnNLODkxWGdWUDFBV1huUVdxYkdPclQyTTJTTVBLQjdTdWtMVlI4QjJPS3lucWtnYXhKeXBQNEJNUXB5cUlVb1VhWnBkcVRQMWpBOW9lOWktUHBWeno1YkMwQTA4TklXdEhMa2NyUzhOb1E1S1pMdjlCUWNRMDJDSlpFcURVWFp4T0ZqNmZJNXFGSA?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-07T09:51:00+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -233,11 +233,27 @@
      "fecha_txt": "9 nov"
     },
     {
+     "titulo": "Las energéticas sospechan que la operación antiapagones de Red Eléctrica será permanente",
+     "url": "https://www.vozpopuli.com/economia/energia/las-energeticas-sospechan-que-la-operacion-antiapagones-de-red-electrica-sera-permanente.html",
+     "fuente": "Vozpópuli",
+     "resumen": "La previsión inicial era que la operativa reforzada dejase de aplicarse en marzo de 2026, cuando las renovables entrasen a controlar tensiones ...",
+     "fecha": "2026-11-08T20:45:00+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzJWZ3hDUml1SW1LT091V0ljazloX19kLWRzSDRDekJ0c0tqTDVxUGRTbFVQVmNIOGVWS0h6R2Y3ck5vSFhubTJpN1VlSnhSQXJnWFNQc09FbGQ2d1lpUjI4UmJrdU5LMmh1dTQySTh5NDBJOVJFaktxcURJSjRfWmFpRVNpRzZmMF9JYXQtTXhiV0RK?oc=5",
      "fuente": "Yahoo",
      "resumen": "",
      "fecha": "2026-11-08T17:30:00+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
+     "fuente": "El Mundo Today",
+     "resumen": "",
+     "fecha": "2026-11-08T10:13:57+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -247,14 +263,6 @@
      "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
      "fecha": "2026-11-08T06:01:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
-     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
-     "fuente": "La Razón on MSN",
-     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
-     "fecha": "2026-11-07T20:00:00+01:00",
-     "fecha_txt": "7 nov"
     },
     {
      "titulo": "Islas: Mallorca abandona el carbón y La Palma registra un apagón de cuatro horas",
@@ -278,14 +286,6 @@
      "fuente": "Economía Digital",
      "resumen": "El regulador recorta un 84% el incentivo a percibir por Red Eléctrica por su operación en 2025, año marcado por el apagón ...",
      "fecha": "2026-11-05T21:55:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "Los españoles agradecen que este lunes solo haya habido un apagón de cuatro horas en La Palma",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUVzWlNQOEpyU1JIVHBjUURCOUtYalhUWkhDNWJWX0NEWXQ0UXVrRWhpbzVwY1dBS3JGbWs3S2JiRTVzMFJzbklNTHBueHJHMFhKNElwbFVNdVNkUzRxV09xN045b2VlSE5wTXRZbUpEZ1IzZ0QxSFRoc0cycGFtTUtVTm5LOERPU1hKemdOTjJwQWRRUFNGdE42SEJkTm1CV1ZaRlBONVFSRjlFTE5kTTlUVWJMOHdfbVdGVzE4dTYwMG02SFZKNVdaVQ?oc=5",
-     "fuente": "El Mundo Today",
-     "resumen": "",
-     "fecha": "2026-11-05T19:30:58+01:00",
      "fecha_txt": "5 nov"
     }
    ]
