@@ -996,11 +996,12 @@
             },
             {
               "producto": "Radio FM/AM a pilas o dinamo",
-              "afiliado": "https://www.amazon.es/s?k=radio%20portatil%20dinamo%20solar%20fm%20am%20linterna&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0FGPYHJFZ?tag=ntizar-21",
               "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
               "precio_aprox": "15-35 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-11-09"
             },
             {
               "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
