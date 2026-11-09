@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T19:10:27+01:00",
+  "actualizado": "2026-11-09T22:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -25,6 +25,14 @@
      "fuente": "El Rancahuaso",
      "resumen": "",
      "fecha": "2026-11-09T14:21:03+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "La mochila que deberías tener preparada en casa ante un apagón o una emergencia",
+     "url": "https://www.digitaldeleon.com/articulo/noticias-nacionales/kit-supervivencia-emergencias-72-horas-europa/20261109200000233644.html",
+     "fuente": "Digital de León",
+     "resumen": "La Unión Europea recomienda preparar un kit de supervivencia con agua, alimentos, medicamentos y otros productos básicos para poder afrontar las primeras 72 ...",
+     "fecha": "2026-11-09T13:00:00+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-08T14:11:35+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Así es el kit francés para sobrevivir 72 horas: por qué crece la idea de una una mochila de emergencia",
-     "url": "https://www.launion.digital/mundo/asi-kit-frances-sobrevivir-72-horas-crece-idea-una-una-mochila-emergencia-n245955",
-     "fuente": "La Unión Digital",
-     "resumen": "Francia y el Reino Unido impulsan recomendaciones para que sus habitantes puedan subsistir de manera autónoma durante tres días ante emergencias. La iniciativa de la Unión Europea contempla una mochil ...",
-     "fecha": "2026-11-08T01:22:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -87,7 +87,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
      "fuente": "La Crónica de Badajoz",
      "resumen": "",
-     "fecha": "2026-11-09T18:42:42+01:00",
+     "fecha": "2026-11-09T14:48:52+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -107,19 +107,19 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "Badajoz reúne a expertos de España y Portugal para impulsar un nuevo modelo frente a los grandes incendios",
-     "url": "https://www.msn.com/es-es/noticias/otras/badajoz-re%C3%BAne-a-expertos-de-espa%C3%B1a-y-portugal-para-impulsar-un-nuevo-modelo-frente-a-los-grandes-incendios/ar-AA2h43mW",
-     "fuente": "lacronicabadajoz.com on MSN",
-     "resumen": "Las II Jornadas Ibéricas Grandes Incendios Forestales congrega en Cajalmendralejo a especialistas y responsables para abordar la prevención, la gestión del paisaje y la protección de los núcleos rural ...",
-     "fecha": "2026-11-09T06:48:55+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
      "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-08T16:49:31+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Estabilizado el incendio forestal de Valverde del Fresno tras horas intensas de extinción",
+     "url": "https://www.radiointerior.es/texto-diario/mostrar/6083965/estabilizado-incendio-forestal-valverde-fresno-horas-intensas-extincion",
+     "fuente": "radiointerior",
+     "resumen": "El operativo llegó a movilizar a 134 efectivos de distintos servicios de emergencia de España y Portugal. El incendio forestal declarado este domingo en el término municipal de Valverde del Fresno, en ...",
+     "fecha": "2026-11-08T16:38:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -154,19 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Castilla y León declara la situación 2 en Ávila y suspende clases por riesgo de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW9fczNEOHFTZGRWNDZxbE1JMmhZcGtVN3RDQVk3c3B1VmJ5NjdTVFpEZmZONlhUaHhtWWZYNUlaMC1QLURGbEFoaUlqRjF2OVE2R1FHOXVLY0dBeUo0MFBXa0ZEeW9DQURKaElpVFNwQkt6aG9KZE1rSXhpZDVxS0ZZU2U1T2hDSy10TEtCajQ2S21sU1JRUzRlbjNEbXhGcTBoTzhZa0JsMHc1LThpSHBIVDY3WGhGRF9IcTVn0gHDAUFVX3lxTFB3Vy1DcnFoRVZXZjZwX1Axb2ZFXzluZk5OY3RoODFRQ0VhX25XRFphbURDZXk2S09ZbFJXQWM0dGduR2JmUTV2ZjRHZWN4cHFqY0piMkhkWDJrQm82ek11dC16QUhQQXpiVVppWFo5N3Z6Z0ZjS0VnbW1IZGVaVEo2NWJrSXZabmVYOEZDbS02UFRCYzl6dW51VmdESzA1S3VmNHFQZV9MNnp1My1MVW9Gc3IzZHZUYXFxY2QwWFQzclFMRQ?oc=5",
+     "fuente": "The Objective",
+     "resumen": "",
+     "fecha": "2026-11-09T21:31:08+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "La depresión Charles se acerca a Portugal y España con lluvias torrenciales y rachas de 120 km/h",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpGTGlhZGJfMk94azRXMzl6Z0hTRlFyUU5XUUFuc0hfZ0QxekdLZEJteWVvM3JTbTRGLUNnd0xIaXUwM1VSMXV4aW4wa0FRaVktZ0ZXcVNualBQMUcxY2h0UTBuM3VvdTJ6dF9Ya1FQNWd4MFZUSU1ab3I2elc0ZXJacnYzUFFTLWJDQXJPYXhsTXNuem9sYUg1ODFxQlhrU3dtRE9MXzJBMjNGQ1BjWFBNcS1LUXdWMWtLcVNrTFVJcGs?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-09T18:48:12+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El organismo público advierte del peligro por inundaciones y el aumento significativo de los caudales, puesto que podrían alcanzarse acumulados superiores a 120 l/m² en doce horas",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTms5TEFEbDlodV96cEFJQkhXVVlSSGpqbFRBZkNFSGN6NmJaamY3dHpYZDQtZ0lqdjBPZEJ6c2s2djlhbm9pZ0hUWjMzbldhSnFobzB3RGFvczhHdnFqUjdKblV5U2ZaMzRQejhrLWIzdktNZ0RIUkRMNmZWQ1FPTl9WWE5pblBMSUVFR0RpTUowWFRLWE15VWVJak1ZcHhVT2NQLThyNnJlYlVOcXctZGstNWNhUEtaRmtlZGRxdm1MMHR4Wkg4WnlMM1lhd2ttQXg1ZUZDSTZrMTZ0aGZhRWN3?oc=5",
-     "fuente": "Facebook",
-     "resumen": "",
-     "fecha": "2026-11-09T14:59:36+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -202,11 +202,11 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "Las lluvias provocan inundaciones en viviendas de Candelario, Castillejo y Villamayor (Salamanca)",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFhFQ0E1Tm9IUHR2NUdhbmNoSzVSbThVNkJiOHBBb1lRMlhYWi1HSC16ekxySWVuanp6VzZQM01VaVpNN1YwaEo1Q2oyZHVvM0dzWWZmc3Bkczl2bjFqQVBEckUyZi1hRzZpbFp4Mzhuc0JPbWU1RlZiXzlXNzQ3dDVtNXV0VzBMLUl4MzVCR3FWQmpiRVZGOU8yLVd2Y3BCTnhCQW50aG41V3dHbXZDQmlfVkxqNzEtVXRPeFJvVUtsd0lEQWY4WE9MdUExV3l20gHWAUFVX3lxTFBXcnNlYnR2WjZCR3ltb1FyYUo4bVlfQmhrQkVXTUt5MUNnTUo1UEhIdEVsdy0xRTduLXFHZ1dWcHB2QmNoTk92eW9kVktMN1ZzeVlING1DczVDbUlGdXZKQ180WWN2SHJQcWtjSU9UdG1pYVBkdEQ0cG0tZ0pOdkprcWVGcGhUNXdPTkdGc3FicDRZR3cxeXdfbktzWlRtN0FoQ2Fqa3MtZUhGYzhobEtQTUh2ejBNajVpSTRCZzJ4V0ZhODFrM1ZUZXp5VnhpZzkxbHpnWGc?oc=5",
-     "fuente": "ABC",
+     "titulo": "Después de 'Bruna' llegará 'Charles': un carrusel de borrascas trae lluvias toda la semana y una alerta roja en Cáceres y Ávila",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWTVoZ0c5ZW90UTNnWmx1M0pBSFRvbGdSR0ZkT2xFRjZjVTZPdGI2MWQyY3BTY1lONmgyOXdPbFR5U1N3S055Ni1CWDBiSzR5NnNIcFRRbG1lLWZUNWxOSDFfelZkMTlkWHg5cEhXSlduMG1mRkttUWdFNFphU3ZUT3JJMGtnblRLRUxTR1BVMlZNc0thTG1falFvR3IxYTlDMHBFNURIbWFrRURqcVRfQ04zcjN1NW1mYUEwMDNXaklIUWdXcnZ3UmJNWE8xMXk4SUVjU0pvSkFxM21QOUEtMzVyUWdEdnAtRWhF?oc=5",
+     "fuente": "20Minutos",
      "resumen": "",
-     "fecha": "2026-11-09T14:07:17+01:00",
+     "fecha": "2026-11-09T13:58:29+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -229,7 +229,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-09T17:43:35+01:00",
+     "fecha": "2026-11-09T20:47:02+01:00",
      "fecha_txt": "9 nov"
     },
     {
