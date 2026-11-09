@@ -17,6 +17,27 @@ const precios = {
     const p = asin && this.data ? (this.data.productos || {})[asin] : null;
     return (p && p.precio) ? p : null;
   },
+  /* 1 = Amazon dice agotado · 0 = sin listado/precio · null = no lo sabemos */
+  sinPrecio(asin) {
+    if (!asin || !this.data) return null;
+    const s = this.data.sin_precio || {};
+    return Object.prototype.hasOwnProperty.call(s, asin) ? s[asin] : null;
+  },
+  /* Coste real del kit con los precios de hoy: total y sólo imprescindibles.
+     Sólo cuenta lo que Amazon devuelve con precio; nunca estima lo que falta. */
+  costeKit(kit) {
+    let suma = 0, n = 0, total = 0, esSuma = 0, nEs = 0;
+    (kit.secciones || []).forEach(s => (s.items || []).forEach(i => {
+      total++;
+      const m = i.afiliado ? /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado) : null;
+      const p = m ? this.porAsin(m[1]) : null;
+      if (p) {
+        n++; suma += p.precio;
+        if (i.prioridad === 'esencial') { nEs++; esSuma += p.precio; }
+      }
+    }));
+    return { suma: Math.round(suma * 100) / 100, n, total, esSuma: Math.round(esSuma * 100) / 100, nEs };
+  },
   eur(n) {
     return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
   },
@@ -144,16 +165,20 @@ const ui = {
 
     /* Tarjetas de kit: los normales en rejilla; Starlink como tarjeta
        destacada; y el PRO al final, ocupando las 3 columnas con holo. */
-    const tarjetaKit = (k, i) => `
+    const tarjetaKit = (k, i) => {
+      const c = precios.costeKit(k);
+      return `
       <a class="card-kit" href="/kit/${k.slug}/">
         <div class="fila-top"><span class="icono${k.bandera ? ' icono--bandera' : ''}">${k.bandera === 'ch' ? this.banderaCH() : k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
         <div class="pie">
           <span class="coste-kit">${k.coste_total || 'Lista gratuita'}</span>
+          ${c.n >= 3 ? `<span class="coste-hoy">hoy ${precios.eur(c.suma)}</span>` : ''}
           <span class="ir">Abrir →</span>
         </div>
       </a>`;
+    };
 
     const tarjetaStarlink = `
       <a class="card-kit card-starlink" href="/kit/kit-starlink/">
@@ -384,6 +409,18 @@ const ui = {
   },
 
   /* ---- OFERTA DEL DÍA (sale de data/precios.json: rebaja real de Amazon) ---- */
+  textoOferta(o) {
+    const pct = Math.round(o.ahorro_pct);
+    const ahorro = precios.eur(Math.max(0, (o.precio_antes || 0) - o.precio));
+    const n = Object.keys((precios.data && precios.data.productos) || {}).length;
+    const variantes = [
+      `Hoy es lo que más baja de todos los kits: ${pct} % sobre el precio recomendado que publica Amazon, ${ahorro} menos. Forma parte del ${o.kit_titulo}.`,
+      `La mayor rebaja de hoy entre los ${n} productos que seguimos cada mañana: ${pct} % de descuento. Está en el ${o.kit_titulo}, por si te faltaba esa pieza.`,
+      `Cada día se consultan los precios de todos los productos de los kits y se elige el que más ha bajado. Hoy es este: ${pct} % menos, ${ahorro} de ahorro, dentro del ${o.kit_titulo}.`,
+    ];
+    return variantes[new Date().getDate() % variantes.length];
+  },
+
   htmlOfertaDia() {
     const o = precios.data && precios.data.oferta_dia;
     if (!o || !o.precio) return '';
@@ -398,6 +435,7 @@ const ui = {
               <span class="cta-kit-t">${o.producto}<br>hoy a ${o.precio_texto}</span>
               <span class="cta-kit-b">${antes}-${Math.round(o.ahorro_pct)}% · está en ${o.kit_titulo} →</span>
             </a>
+            <p class="oferta-texto">${this.textoOferta(o)}</p>
             <p class="lista-nota">Precio consultado hoy en Amazon.es con la API oficial de Afiliados. Puede cambiar en cualquier momento: el precio válido es el de la ficha en el momento de la compra.</p>
           </div>
         </div>
@@ -406,6 +444,7 @@ const ui = {
 
   /* ---- FICHA DE KIT ---- */
   htmlKit(kit) {
+    const coste = precios.costeKit(kit);
     const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
     let nProd = 0;               // productos totales
     let nEs = 0;                 // imprescindibles REALES (con ficha o sin ella)
@@ -424,13 +463,16 @@ const ui = {
             if (es) nEs++;
             if (es && m) asinsEs.add(m[1]);
             const real = m ? precios.porAsin(m[1]) : null;
+            const sinP = m ? precios.sinPrecio(m[1]) : null;
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
               <div class="item-info">
+                ${real && real.img ? `<img class="item-foto" src="${real.img}" alt="" width="64" height="64" loading="lazy">` : ''}
                 <span class="producto">${i.producto}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
                 ${real ? precios.sello(real)
                        : (i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : '')}
+                ${(!real && sinP !== null) ? `<span class="badge-agotado">${sinP === 1 ? 'Sin stock ahora en Amazon' : 'Ahora sin precio en Amazon'} · <a href="https://www.amazon.es/s?k=${encodeURIComponent(i.producto)}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">ver alternativas</a></span>` : ''}
                 ${i.es_busqueda ? '<span class="badge-busqueda">🔎 búsqueda en Amazon (aún sin ficha concreta)</span>' : ''}
                 ${estado.badge(i.afiliado)}
               </div>
@@ -463,6 +505,7 @@ const ui = {
         ${kit.paraQuien ? `<p class="pq"><strong>Para quién es.</strong> ${kit.paraQuien}</p>` : ''}
         ${kit.paraQuien_no ? `<p class="pq no"><strong>Cuándo no basta.</strong> ${kit.paraQuien_no}</p>` : ''}
         ${kit.coste_total ? `<p class="pq coste"><strong>Coste orientativo.</strong> ${kit.coste_total}</p>` : ''}
+        ${coste.n >= 3 ? `<p class="pq coste-hoy"><strong>Hoy, con precios de Amazon.</strong> ${precios.eur(coste.suma)} en ${coste.n} de los ${coste.total} productos${coste.nEs ? ` · los ${coste.nEs} imprescindibles: ${precios.eur(coste.esSuma)}` : ''}. Precios consultados el ${precios.fecha()}.</p>` : ''}
       </div>` : '';
 
     const errores = (kit.errores && kit.errores.length) ? `

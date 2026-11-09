@@ -125,6 +125,7 @@ def refrescar(max_asins: int | None = None) -> int:
     hoy = ahora.date().isoformat()
 
     con_precio = sin_datos = sin_oferta = 0
+    sin_precio = dict(previo.get("sin_precio") or {})
     for i in range(0, len(asins), ama.MAX_IDS):
         lote = asins[i:i + ama.MAX_IDS]
         res = ama.items_por_asin(cfg, lote, pausa=0.0)
@@ -132,10 +133,15 @@ def refrescar(max_asins: int | None = None) -> int:
             meta = mapa.get(asin, {})
             if not datos.get("precio"):
                 sin_oferta += 1
+                # 1 = Amazon dice agotado; 0 = sin listado (solo terceros, descatalogado…).
+                # La web lo usa para el badge, nunca para inventar un precio.
+                sin_precio[asin] = 1 if datos.get("disponible") is False else 0
                 continue
+            sin_precio.pop(asin, None)
             con_precio += 1
             productos[asin] = {
                 **datos,
+                "img": datos.get("imagen"),
                 "producto": meta.get("producto", datos.get("titulo")),
                 "kit": meta.get("kit", ""),
                 "kit_titulo": meta.get("kit_titulo", ""),
@@ -148,11 +154,11 @@ def refrescar(max_asins: int | None = None) -> int:
                 serie.append({"fecha": hoy, "precio": datos["precio"]})
                 del serie[:-DIAS_HISTORICO]
         sin_datos += len(res["sin_datos"])
-        _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins)
+        _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio)
         print(f"  · {min(i + ama.MAX_IDS, len(asins))}/{len(asins)}  "
               f"precio={con_precio}  sin_listado={sin_oferta}  sin_datos={sin_datos}", flush=True)
 
-    salida = _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins)
+    salida = _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio)
     od = salida.get("oferta_dia")
     if od:
         print(f"oferta del día: {od['producto']} — {od['precio_texto']} "
@@ -162,7 +168,7 @@ def refrescar(max_asins: int | None = None) -> int:
     return 0
 
 
-def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins) -> dict:
+def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio) -> dict:
     hoy = ahora.date().isoformat()
     candidatos = []
     for asin, d in productos.items():
@@ -213,8 +219,10 @@ def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, aho
         # (titulo, imagen, histórico) se queda en servidor — este JSON se descarga
         # en CADA visita, así que cada byte de más se paga en móvil.
         "productos": {a: {k: d.get(k) for k in ("precio", "precio_texto", "precio_antes",
-                                                "ahorro_pct", "disponible") if d.get(k) is not None}
+                                                "ahorro_pct", "disponible", "img")
+                          if d.get(k) is not None}
                       for a, d in productos.items()},
+        "sin_precio": {a: v for a, v in sin_precio.items() if a in set(asins)},
         "oferta_dia": _oferta_publica(oferta) if oferta else None,
         "ofertas": [_oferta_publica(c) for c in candidatos[:10]],
     }
