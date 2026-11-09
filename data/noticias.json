@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-08T22:10:27+01:00",
+  "actualizado": "2026-11-09T01:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "El \"kit de supervivencia de 72 horas\" no se desplegará.",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUzJOWTVpcTRQV21qdmdaUWlrNm1VVklmNmt0Qm1oVjVMMjNEN24zWVp1Q2d4VmdYT0VqVWt5WHNkMnFUUkZkbzZlTWpUVWNfenp2Z21MOFdjcEo5Yy10UmJ1M2toQ3RESGFkTHRpOA?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-08T23:58:48+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para casos de desastre - Parte 3: No te dejes llevar por los rumores, prepara tu kit de 72 horas adecuadamente.",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTlRT19YZmFGeUo4T05JcllPU25SNWpUVGJuNnI3OUZNdXdzSjVmWnBEYjBtZmlwWDNreUhGTnoyOG1fTnJFSXItZFhacE9LbVhpR3ZmUmkzcTZhUnF1dGFNaWkyb2VMZDViMTRTbDByMERncUFyb3I0OGoySU0tZ2YwOGM2RWl2TzdLNmtGaWotS2l3ekJmUjRFWVBwNVBDTkVVYlQxd2VXNHJiMXU5bDc4ZURja2VKekZlQUcxOUp0Wmc1Z1FIT3NtZHo3M00yVUFWcVdSeE8?oc=5",
      "fuente": "Vietnam.vn",
      "resumen": "",
      "fecha": "2026-11-08T20:42:11+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "¿Kit de supervivencia o mochila de evacuación? La UE avisa de que no son lo mismo y explica qué llevan",
+     "url": "https://www.lasprovincias.es/sociedad/kit-emergencia-mochila-evacuacion-20261108125619-nt.html",
+     "fuente": "Las Provincias",
+     "resumen": "La Comisión Europea recomienda que los hogares puedan cubrir sus necesidades básicas durante al menos 72 horas ante un apagón o una catástrofe y distingue entre las provisiones para permanecer en casa ...",
+     "fecha": "2026-11-08T17:00:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "El Economista",
      "resumen": "",
      "fecha": "2026-11-07T15:00:00+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "¿Puede haber un ataque nuclear próximamente?: experto habló sobre países que piden prepararse con kit de emergencia",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdm1Rb0VhdVMzY2Jic3dPSmVUUGtoRkpvUW9mamZaeE9XdXkzWndXX21OVjBFUUlwMDZFbS01LXowODZWM1JGUzZGUE80aS1QZHRIU0xQWFpYMlY4TFdTQ09rU1hwSVFTcWF5THRjbUpocE5tRU5iOU1YbmtzNjM2Ync4MGxCZEZ1aEtLQTM0ZWIxeUNtWThySTdaN29xX1dRZjNZYWZCZWJubjBOaVpPNHZ6ZDRBTmRVdlY5UnlOU1lTdW5sV0pReW1Od3JGN0duY0NrOEhnNHV5WWs3X0dpcGlGZ3Q2N2R0b3BVTzlsVdIB9AFBVV95cUxQMnRmZml1TlVxb19DNTVzdnRIellMc3NZNl9zMmxEV2p5eGVya1BrbEZpNWdUNE1QdURybWdNcDV3MGhyVzNTeVFpd0E3SEdENWxmcnNMR3pqOEtxdGVELTV3ZEtiQWZGZ2V6UDVjOXBhZW01dmJrb256ZDVjRkJSSExaY1RvaVA4NV9FWWd4b1JsNzBvdHpKOURjS2g3Ymx3OVRCR2dtZ044QnZ2d2FpdTFLZnJOR3o0MnBuZDZ3UC0wNEFIY3dPS19YTlk0Uzd1cTNFaThyXy05ZEtMNWhNT1lkX0lnakFqNHZxVlNhXzZJTlB3?oc=5",
-     "fuente": "Revista Semana",
-     "resumen": "",
-     "fecha": "2026-11-07T12:16:22+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Más países avisan a sus ciudadanos de guardar provisiones por emergencia: ¿qué está pasando?",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2NXNVpoYzQxNElTNXdiR0pFSk4zby1ONHJfcG9lNGJwczdVWkl6QkxlLXYwR2h1c2llNzhDNk9MaGlmclJZTGFMVUJNSkZVaW5Mb3p4X0ZvejFuVlhlZ1ZrcXlDdTBXNFFucXB4ZUNwTXFmeHNkdGxUWlpQUEsxaUpuN1EwSzZCZG90ZF9rLUpFeFNBckI0QkRtNElJYTJDdmNLVFVFQjZKcFV5cGwtTWZWaWN0dFBfWVUwWUppM3lURG51cVVFY3dveWNXN2h3ZGZZTm1sVE4?oc=5",
-     "fuente": "Diario de Avisos",
-     "resumen": "",
-     "fecha": "2026-11-07T10:37:31+01:00",
      "fecha_txt": "7 nov"
     }
    ]
@@ -154,6 +154,22 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La borrasca Bruna marcará el tiempo este lunes en España con lluvias intensas, tormentas y fuertes vientos",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjlTakR1VTdUaGg0MEdNOXBOQld6NzZacnJncXYxVW9VYW9qdHN0d0xLREV6VFFTdnZNdkhyTzBXdTlPYXRNMjdrMHRwQzZ5MVp2ZlRfLUR6Q2RHRmUzVXBfNjhSZlZrRnZfbWdURTlOU2E4LWlfLUFmaXNkbVI4UnlJSldCWlBkcUFEemJmdmZnNS05TF9lQXRySTdjUUhiSF9lOEd2OFNQaGFQMS1ya3BaYnJFR0lSZlNsZlhrRnpTbVVyd2RHTXFCU2drcDZENjhsU1NCNGt0dzdoVEc5blZIVXMtQVlRUDM1SEhHSW9EY1pWTExKak5n0gGOAkFVX3lxTE5FWDJXRWlMb1RvRVlTcElvWERDNzNSQU1QRjdXWE1pbW05VUJxaExXSmV0VGNUa1BzYlNnUlBpb1NUN1M4aVRKaG95aW5uZ3FlOXRKN1UwMkVwbXdkTjJ0NVY4ekJvWmxsUTJMMG9SYXMxV0dfejBvOFZMcTVSQWJuazg1STdwZU1KNW1nOGJfcV9ramM4LTVhbHNWbXRZN0x6Qmx0VEZuZ09zcWc4cFpwRmEwaDlLb2Zwc0IxbUtFSmFKYk9uRGFjZjVWalpQQ2xfYURxSGtrWEV5eFdpRGhpNVJDUVBXYlhmS0hjeUI0eXJSNXBHZEZ0ckRSQ0JhTFdFVWNKYTJXV2JYSUFaUQ?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-08T22:43:48+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Activada la fase de preemergencia del Plan de Inundaciones en Andalucía",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzBMbDgzUVkyb1o2V1VhS3pFRTBnUXQ1QThIUzhDYmwwd0xMZnZPNVNoeGVUNEFJM1NCWklJdzF0Ml9PbDV6Ynd5ZnFWRVFYaDVVci1EYjFzY1FiTWdrb3dxWENIb19tU3Q3ajg5eGxLQmF5ZFVCN3BhZ2haemdIbnNZc04zUjdJMldaS3BKSTNTQjVLM2xSd1l4NHVNdkdvOElRTGdqV0RiR3B6bU9vSHk2VmFINHZqa2JZTlZuOVnSAdsBQVVfeXFMUGNVdnpJUVRKUFE3dG1NY1dsNl9UUkJOZW1NYmZYMVZoSkE4MDJfU2I0UkgtdHBXbGtUZEZGSGd0Z1lYUHdIR3RVNDVNeVBZNVF0V2d6ajhxWmtsWE9SbHhWTHdKc3RVZFMzTFFKQVcxTHEwWDVWM3VRb1gwd3BXX3JKbVgwRm9XZUZyT2RQTmh3UGM1aGNNSXZtcXYzY1ZIc21Ta3U2NXBkWVZLcXFfbnRUa3I1aGxsLVZManZWQTRTQ3d1NW9XZTFMQjJBbklZaTJhcDhsU0xWNXJv?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-08T21:48:00+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "La dana de 2024 aumentó el riesgo de partos prematuros, más en las zonas con mayores daños",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX2VoaTctZjVmLXpLUjNHdVR4d3lCSVhBeWx1R2dSSVZWZVJndm1kdnpOOWZBZHotdVlzR0hHRzJzdW5vc2VNMlhvSnc0UGJWZzlRTDlaSmo4cmZBb2NmNVYwYTJTb3hvaFZZbUJxSENIa2lQZ0Q4LWJ2b1dXZUhlUlE0R2dEVEpHOVVQNC1LS19ZWkRId3BZZXVkbTVld0tTQm83Q1lJVDFQeUVBejRGa0dQZGpmZHZhejdMLUZIMkx5ek9tc3JsMEplT00za3p2QkhxXzFYLXbSAfMBQVVfeXFMT0YyaDZVcFZoSmNEU3M2ZGVqVG1ncEx1dlJ4ZHZ1Uk13bFVVaktKYnMyWVVKLWZOYVF0bHdSa1dQRXFscGxxSEFBQ0lub09UZE1DVFV5dkNHVS1zaGIwWHhhVDBMaWFaRXRGemw0LUExcUF1Y1hoZEZpY1JNd0NjQW9qSkgxaDNCUktGd1YtVVRpUGZZQTFPVnlZRXdoZDNPQVdJUFdzbGtUY3dsNTJxWDJVVjllOFk2OGFVTHNCR2pkZG1PRk1qS20wVXlxc1ZJN3d5RGEzLVlMbzU3U2hXWjRJTzdra0dlMlJvbWhYbWxSa0Vz?oc=5",
      "fuente": "Infobae",
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-07T06:00:27+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Borrasca Bruna España: ¿dónde llegará y qué días provocará lluvias intensas y fuertes vientos?",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEI4THBlSVhLVm5IOWNiS2RxUktEeFlxYktySGY2UHNRb0hldERrakVhM2szRTRzMEstZG5TYjc0bl9IOVdpXy1TOXV2V2NxSU42aFN6LUFQcE9FNVBzT3l5Tm0zemx4UDJRVEJteHZkeXRFUUhzRElaRjNOTEdzbm94QTkxTFBwN0FxTldaLVlYUDg0T2VBcGpFeUJOV3p6aDhPQ0Q0STJOeXRYZ1ZHUjVXQWJESU1rTlREbEpuMjFLTkN6d1VEeWVoSQ?oc=5",
-     "fuente": "TV Azteca",
-     "resumen": "",
-     "fecha": "2026-11-06T19:18:45+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna pone en alerta al oeste de España: cuándo llegarán las lluvias a Zamora y Benavente",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0pXMFVEOFdaMkVQNzRxdS1lVTg0SnY3ZXhPdVNkaHZGclNoNHY5ZjdJUXdTZ2Nwc3NwVkJWYy1HUXVRTk1EOEN1SDJVdi1YM3VSVjVPeFA0UzEyb29ZazdjRmtqcUxVUktBdV9QcEJFa0lEZDJQak1aLUxrVXAyWWU4Zm5YX0diX3ZmZ2JEMTloSkNURG1FOS1n?oc=5",
-     "fuente": "Benavente Digital",
-     "resumen": "",
-     "fecha": "2026-11-06T17:57:43+01:00",
-     "fecha_txt": "6 nov"
     }
    ]
   },
