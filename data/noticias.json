@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T10:10:27+01:00",
+  "actualizado": "2026-11-09T13:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "¿Qué está pasando en el mundo? Países llaman a preparar mochilas de emergencia para sobrevivir 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTRsXzlGdi1IMGFGOGpBeE9aWWhjOHpSOFNBdEtoeEFuX0g2NHNJX2Qyc2ROblJUY2VoeW1IekZpeGRQMmgzUHoyZ2c5RnpiNXY4eHdRUl9xYUdTd2h4M3plRjVCWnEtak9jbllkY255WjdiZ2FSbEdXTUNRcDB3ZFZJODRXa3E4YzhOZWtVSG45SjR4cmtMR0c5MDVyRm9HNWVfT2pVUzBoNEhXMEZTcDM0NFk5dnNpTVpNMk9ub2R0UQ?oc=5",
+     "fuente": "Región del Maule",
+     "resumen": "",
+     "fecha": "2026-11-09T12:51:53+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Kit de emergencia de 72 horas: qué debes tener en casa ante un apagón o una catástrofe",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sck5iU0FzdW4tMHA5ZkowUFU1LU54Q2Z6ckRUY05iTmliaFowa05BY2haa3d3TUIzUkFyalNXN1JPRk5Vb2JKYWI0TDRIWmJlU0t4ejZUUlhVcE52V1RuMk1Rb1E0ZzVwNkE?oc=5",
+     "fuente": "GNDiario",
+     "resumen": "",
+     "fecha": "2026-11-09T10:30:30+01:00",
+     "fecha_txt": "9 nov"
+    },
     {
      "titulo": "El \"kit de supervivencia de 72 horas\" no se desplegará.",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUzJOWTVpcTRQV21qdmdaUWlrNm1VVklmNmt0Qm1oVjVMMjNEN24zWVp1Q2d4VmdYT0VqVWt5WHNkMnFUUkZkbzZlTWpUVWNfenp2Z21MOFdjcEo5Yy10UmJ1M2toQ3RESGFkTHRpOA?oc=5",
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-07T18:53:39+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia: por qué México y otros países recomiendan almacenar provisiones",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRW01UGhkSzVWWVFyT25MQUlubnJOeVJ6U08xeUszWU5lQjFNZHVwd0ZYM3MwUjUyVmFNYTlXOExiWDF1Mlp3dXRhOTFxaHJPS0N2SFo4bmZ4UDc0djVnX0FWMEwydHA2NmVEek56TzhhNzladHJXRGZMSVRhVmNjZVJlb3FkdUcycEhRV0xBNlgtZHpvRkZLSHRqS1gwV2FsdHlvYzB3OW8yRWhwNExnYzFMcUVGZ1Vwa0plOU1hM25vZw?oc=5",
-     "fuente": "Cadena Politica",
-     "resumen": "",
-     "fecha": "2026-11-07T18:00:24+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "Mochilas de emergencia y provisiones: ¿qué originó las recomendaciones en México y otros países?",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTDU4OTFnMklGZllVbXZ3ejJPd1Y1YUdsQzlQd2F5TUYwYmtxZjFZQ2tPTXNscVctYUxQWlNxVXFTaGhSNENIVHRPdVEycl92WklwVWNSampZbVVFdklyNEliRUc0R3hnb1Q4QzA2emZlNUpKVEZTblRNdlFPZEg1U2gyNzJNU240a3FwUkMtcm5CQXo5WUZPQy1CYzY5Mjg4ZHR6MVd6MnJSTmZ5N2M4Rkgtbzk1UnF1TlRhdnVoSXhBNi1mWF9mME4zWFYtY1JEMGQ00gHYAUFVX3lxTE5UYV9YdnNadzRGVHFVakJ2ZWtuQ3F5RDFsYWhxcnk4Q2VoQ1dTb3hLR3M5eW1zT0JYU0RmRmFqd1VTRTZKT3FCa004dUlJNEdkSFc4aW9iR3QyOE15LWRzZEVfYmQ3ZjNWaE9idFdYVWlXRzduMkY4YklFc2FVSFo0VVFXdVlvaHpVaFFzMGVkX3c3R1lyQ1NTNF9Rcl9wOXN2REQwT2dIV0xZb1pGWGoxY3VJWWp3eW9wdHd3Q0hiTnY5YTFMcGMyUlJ3OUNSenlMQTR5bUh5Qg?oc=5",
-     "fuente": "El Economista",
-     "resumen": "",
-     "fecha": "2026-11-07T15:00:00+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-09T13:02:54+01:00",
+     "fecha_txt": "9 nov"
+    },
     {
      "titulo": "Castilla y León lidera la superficie quemada de España con 60.318 hectáreas arrasadas",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa1B0bkRDcWVmeTVpMlpmbVZaeDNEbHVSZnE1VTJmcnpvRWc2UEwyMy1QenA0a0JsVnJVZjRGUVJQYUgzTjJRVUczZk1vVUFrYk9VaW9QVmZpYmFhU3hOWjBFcW84bXZndzl5d0VTNzd4MTQ2UnRmYUdEeHc5dEk2d2UyQk0zZ19tMzRnOHhXWXpPYWRnd1lrdWxHZUtXNF9CZ0NENEY4MzhUTHFlMVpfTjVzLXBlRlBXVGVhdTc2OUE5SFZUR1JtZDBZV3ZYWXExanlIVEJNRklKMktK0gHiAUFVX3lxTE90M1hLUVRpeW84NG1TcFJsY21USmN5U2g4eDVkamR6VF96WjFMVGVJckRwU1lNV01nM1NfX09iamVFSEJ3d2IyWktlRldpMTZELXBuTDc0dFlXbnNVUno4bXJxZnFPLTljRWJKM1hLS29iSXVzUzNucVhuUTluV0JuVGh5TXNwdS1yeEJCS2ZtY0lkUkd1SG56SVNrbjI1MFlqMjdmbFhlOERlOUVxVTFSdHB2cnhpbDc4ZHdPWDZXcEFsSDBVZFNjX2FUTXlVT0l5U1FXNy1mUUVwYmQ1NTJYNFE?oc=5",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-08T03:26:09+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Incendio en Lucena: una mujer de 78 años y un hombre de 45, hospitalizados por inhalación de humo al arder la cocina de una vivienda",
-     "url": "https://www.msn.com/es-es/noticias/other/incendio-en-lucena-una-mujer-de-78-a%C3%B1os-y-un-hombre-de-45-hospitalizados-por-inhalaci%C3%B3n-de-humo-al-arder-la-cocina-de-una-vivienda/ar-AA2gZVxU",
-     "fuente": "Diario Córdoba on MSN",
-     "resumen": "El fuego se ha declarado sobre las 4.00 horas de la madrugada en un domicilio de la calle Arcas y ha movilizado a bomberos, sanitarios y efectivos de la Policía Local y Nacional ...",
-     "fecha": "2026-11-08T03:07:57+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Avisan de lluvias muy fuertes y vientos intensos en España: estas son las zonas que más preocupan",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVE0Vk1ZYVRVNkJkdk5EbmUzWlNGSGFkRG4yNC1WcElxQ2hCc2ZSLUJTWUduM0pTa0F0a3g3d0hmb2UyQ2ItTkMzVFAySEVlZHlNbDZoZDBQelpfd1FFeFJydFdvSkpiUV80OFpUdFEzd1dnVUxIajBJRktoNi1pdzhLSHdjTWhOYnkwTzRkUUw0MmNhZTRzS09FSXE1QVNVekktZ2dSX2RteG9oV1RZY2hCbEpfd3dXVzJQTHdnRjQ3MXNvUUNxOURWUWtkb1diOVppaVNacw?oc=5",
+     "fuente": "Directorio Cubano",
+     "resumen": "",
+     "fecha": "2026-11-09T12:02:19+01:00",
+     "fecha_txt": "9 nov"
+    },
     {
      "titulo": "La borrasca Bruna marcará el tiempo este lunes en España con lluvias intensas, tormentas y fuertes vientos",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjlTakR1VTdUaGg0MEdNOXBOQld6NzZacnJncXYxVW9VYW9qdHN0d0xLREV6VFFTdnZNdkhyTzBXdTlPYXRNMjdrMHRwQzZ5MVp2ZlRfLUR6Q2RHRmUzVXBfNjhSZlZrRnZfbWdURTlOU2E4LWlfLUFmaXNkbVI4UnlJSldCWlBkcUFEemJmdmZnNS05TF9lQXRySTdjUUhiSF9lOEd2OFNQaGFQMS1ya3BaYnJFR0lSZlNsZlhrRnpTbVVyd2RHTXFCU2drcDZENjhsU1NCNGt0dzdoVEc5blZIVXMtQVlRUDM1SEhHSW9EY1pWTExKak5n0gGOAkFVX3lxTE5FWDJXRWlMb1RvRVlTcElvWERDNzNSQU1QRjdXWE1pbW05VUJxaExXSmV0VGNUa1BzYlNnUlBpb1NUN1M4aVRKaG95aW5uZ3FlOXRKN1UwMkVwbXdkTjJ0NVY4ekJvWmxsUTJMMG9SYXMxV0dfejBvOFZMcTVSQWJuazg1STdwZU1KNW1nOGJfcV9ramM4LTVhbHNWbXRZN0x6Qmx0VEZuZ09zcWc4cFpwRmEwaDlLb2Zwc0IxbUtFSmFKYk9uRGFjZjVWalpQQ2xfYURxSGtrWEV5eFdpRGhpNVJDUVBXYlhmS0hjeUI0eXJSNXBHZEZ0ckRSQ0JhTFdFVWNKYTJXV2JYSUFaUQ?oc=5",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-08T07:00:18+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna sacude España este domingo con lluvias intensas, tormentas y fuertes rachas de viento",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1pPVk44S2dQOGpSNEtlRGRfc1ZGTDZ0MmVzNGYxbkxRa3BUWHVTX05ZeTVGV2VmSnVvY1JkdUZOczc3WHNYRUY5UmNuVjBqaVdyNlQ4M3BpeUs4TFNaZnVHanBza2ptUU1zZGpjUlQwRWpqRE1vV2RFQjI3ZHhIcXhPcmNkT1dyQXMtWlJmU3ZOQkZmWGR0SVYzQWRpdEFfeWh3MWhPN0JmcXM3VFVDMTBUVWpsUHl5d0M0RWhtNnh5d2hHUHVCZ9IBzgFBVV95cUxOLV9FZWRYMk90SXBLRHJHMEd5Sy1Rc05xckliWHlrbDByWjR3VThLTGFsUzVVSmlSRV9sRmE1elV3SFJPMm5lT0Z0cFRMeGFkMkJTZjZOX19Edmd3bFVfN0JYZ3BKLUNCenZzaGRLdWRiZzhNUllWbDc3dFB6cnZPcmN4Nm92V19BcTFKY1JUSmxDNzdwUkZNbjQyRG95dHZrWlNsQ3diVXBnWmRSRXcydkdaVjZZRW9jeHNLbjlZemtnN3UwY3ZGQlowWW5sUQ?oc=5",
-     "fuente": "Elplural.com",
-     "resumen": "",
-     "fecha": "2026-11-08T06:00:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -225,27 +225,19 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-09T11:41:59+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "El \"Apagón Legislativo\" del 29-N: Las reformas judiciales y económicas en España que se han quedado en el aire",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1VCSFpKVzZDMDZUd1lCV0toV0ctR3JLRV9GUEtyc3o4WDhKQ3pJNU9HUGJnMDRTb3dPWVFQN3hxNk11WTFwSW1CWEVpV1EzQzlodFJydGFUQnpSTkg4VXhvZUtRcWYxSkFIYjVwbVhMekl1Y3RRa0VfazZTODN4aW1KS251OFVjdXRzbGpPTTZXNGNzOFB6MHFja1Z2eTk1YkJEOFNlN1o4V2paR1owcXhPcXI0Zw?oc=5",
      "fuente": "El Cierre Digital",
      "resumen": "",
      "fecha": "2026-11-09T03:45:01+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-09T02:30:18+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El sector renovable ha perdido 140 millones de euros en desperdiciar energía desde el apagón",
-     "url": "https://elperiodicodelaenergia.com/el-sector-renovable-ha-perdido-140-millones-de-euros-en-desperdiciar-energia-desde-el-apagon/",
-     "fuente": "El Periódico de la Energía",
-     "resumen": "Si ninguno de los 35 GW de renovables capaces de proporcionar control dinámico de tensión a bajo coste alcanza la habilitación, se prevé que el vertido aumente un 18% en los próximos dos años.",
-     "fecha": "2026-11-09T01:31:00+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -281,12 +273,20 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
-     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
-     "fuente": "La Razón on MSN",
-     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
-     "fecha": "2026-11-07T20:00:00+01:00",
-     "fecha_txt": "7 nov"
+     "titulo": "Islas: Mallorca abandona el carbón y La Palma registra un apagón de cuatro horas",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2hUUEt4Y1Q1cHBXeVREOEdwUDd4UkZvMXR3SkNsaUpuUkdVVWhybF9JdWVxNFcyLWFMc080dE1hSklBazd3akItdHJFNndFbFhVYms5QTdBQVlFUFN3dDFaQ1RjMmgwajVhZU1HeHNQR1dqaDVDYkNYQmRGYklLT0R3bkJMSVV3alBMSkx4a0FDUVVBdHQtRzFFbzV1Nm4wNXBJTHN3Z05qNVM2MzBRSFpocTlpd1BvSHc?oc=5",
+     "fuente": "pv magazine España",
+     "resumen": "",
+     "fecha": "2026-11-06T14:37:00+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Canarias se planta en Madrid: «No podemos esperar al apagón»",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUxlY1lqVzJseWw1VHp3dm9DN1ZQVTVJckFHZERTSFlEbW1LbHJuZkF3ekxXVVFSMUtNWW1sTkEwNVFrbmJ1RTJwbkw0cFFJbHN3TkJBazhBWTdMMzZuN2ZuWkZ0eHdfUGk4RUxJRllYR1ZKSlhrUXNsWlpfa3I3NkZaR1Zldw?oc=5",
+     "fuente": "Canarias en Pleno",
+     "resumen": "",
+     "fecha": "2026-11-06T14:03:46+01:00",
+     "fecha_txt": "6 nov"
     }
    ]
   }
