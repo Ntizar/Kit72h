@@ -47,3 +47,4 @@
 | 2026-11-06 | montana-kit-salvavidas | revamp | encolado | Revamp 325w->~1200w, 10+ enlaces ntizar-21, tabla, 4 fuentes oficiales, estacionalidad noviembre |
 | 2026-11-07 | ningun-ejecutable-hoy | bloqueado | ninguno | Top 6 ya publicados (>2000 car); briefing con metrica erronia de palabras |
 | 2026-11-08 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno en curso, ~21 clavados |
+| 2026-11-09 | asins-pendientes | asins | propuesto | Todos los revamps del top publicados; buscador nocturno trabaja en los 36 items sin /dp/ |
