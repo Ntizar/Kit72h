@@ -464,22 +464,31 @@ const ui = {
             if (es && m) asinsEs.add(m[1]);
             const real = m ? precios.porAsin(m[1]) : null;
             const sinP = m ? precios.sinPrecio(m[1]) : null;
+            const alt = (!real && sinP !== null)
+              ? `https://www.amazon.es/s?k=${encodeURIComponent(i.producto)}&tag=${this.tag}`
+              : null;
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
               <div class="item-info">
-                ${real && real.img ? `<img class="item-foto" src="${real.img}" alt="" width="64" height="64" loading="lazy">` : ''}
+                <div class="item-media">${real && real.img
+                  ? `<img class="item-foto" src="${real.img}" alt="" width="64" height="64" loading="lazy">`
+                  : '<span class="item-foto item-foto--vacia" aria-hidden="true"></span>'}</div>
+                <div class="item-texto">
                 <span class="producto">${i.producto}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
                 ${real ? precios.sello(real)
                        : (i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : '')}
-                ${(!real && sinP !== null) ? `<span class="badge-agotado">${sinP === 1 ? 'Sin stock ahora en Amazon' : 'Ahora sin precio en Amazon'} · <a href="https://www.amazon.es/s?k=${encodeURIComponent(i.producto)}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">ver alternativas</a></span>` : ''}
+                ${alt ? `<span class="badge-agotado">${sinP === 1 ? 'Sin stock ahora en Amazon' : 'Ahora sin precio en Amazon'}</span>` : ''}
                 ${i.es_busqueda ? '<span class="badge-busqueda">🔎 búsqueda en Amazon (aún sin ficha concreta)</span>' : ''}
                 ${estado.badge(i.afiliado)}
+                </div>
               </div>
               <div class="item-acciones">
-                ${i.afiliado
-                  ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">${i.es_busqueda ? 'Ver precios ↗' : 'Comprar ↗'}</a>`
-                  : `<span class="sin-enlace">Consejo — no se compra online</span>`}
+                ${alt
+                  ? `<a class="btn-amazon" href="${alt}" target="_blank" rel="sponsored nofollow noopener">Buscar alternativa ↗</a>`
+                  : (i.afiliado
+                     ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">${i.es_busqueda ? 'Ver precios ↗' : 'Comprar ↗'}</a>`
+                     : `<span class="sin-enlace">Consejo — no se compra online</span>`)}
               </div>
             </li>`;}).join('')}
         </ul>

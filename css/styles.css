@@ -250,7 +250,9 @@ ul.items li{
   display:flex;gap:12px;align-items:flex-start;padding:14px 4px;
   border-bottom:var(--b);min-width:0;
 }
-ul.items .item-info{flex:1;display:flex;flex-direction:column;gap:3px;min-width:0}
+ul.items .item-info{flex:1;display:flex;flex-direction:row;gap:12px;min-width:0;align-items:flex-start}
+ul.items .item-media{flex:0 0 64px}
+ul.items .item-texto{flex:1;display:flex;flex-direction:column;gap:3px;min-width:0}
 ul.items .producto{font-size:14.5px;font-weight:700;display:block;min-width:0;overflow-wrap:break-word}
 .item.esencial .producto::after{
   content:"ESencial";font-size:9px;letter-spacing:1.5px;color:var(--rojo);
@@ -259,8 +261,13 @@ ul.items .producto{font-size:14.5px;font-weight:700;display:block;min-width:0;ov
 ul.items .descripcion{font-size:12.5px;color:#4a4238;line-height:1.55}
 ul.items .precio{font-size:12.5px;font-weight:700;color:var(--rojo-txt)}
 /* Foto real del producto, aviso de falta de stock y coste del día (2026-11-09) */
-ul.items .item-foto{float:left;width:64px;height:64px;object-fit:contain;background:#fff;
-  border:2px solid var(--tinta);margin:2px 12px 6px 0;padding:3px}
+ul.items .item-foto{display:block;width:64px;height:64px;object-fit:contain;background:#fff;
+  border:2px solid var(--tinta);padding:3px}
+ul.items .item-foto--vacia{background:transparent;border-style:dashed;opacity:.35}
+@media (max-width:520px){
+  ul.items .item-media{flex:0 0 48px}
+  ul.items .item-foto{width:48px;height:48px}
+}
 ul.items .badge-agotado{display:inline-block;margin-top:3px;padding:2px 8px;
   font-size:11px;font-weight:700;letter-spacing:.4px;color:var(--rojo-txt);
   border:1.5px solid var(--rojo-txt)}
