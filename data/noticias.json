@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T13:10:27+01:00",
+  "actualizado": "2026-11-09T16:10:28+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -13,10 +13,10 @@
    "items": [
     {
      "titulo": "¿Qué está pasando en el mundo? Países llaman a preparar mochilas de emergencia para sobrevivir 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTRsXzlGdi1IMGFGOGpBeE9aWWhjOHpSOFNBdEtoeEFuX0g2NHNJX2Qyc2ROblJUY2VoeW1IekZpeGRQMmgzUHoyZ2c5RnpiNXY4eHdRUl9xYUdTd2h4M3plRjVCWnEtak9jbllkY255WjdiZ2FSbEdXTUNRcDB3ZFZJODRXa3E4YzhOZWtVSG45SjR4cmtMR0c5MDVyRm9HNWVfT2pVUzBoNEhXMEZTcDM0NFk5dnNpTVpNMk9ub2R0UQ?oc=5",
-     "fuente": "Región del Maule",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazJhd3ZMTVMwMDNzbVh5RVRhTlhOWWVfSlhyTVRxaENyMFlGdmxWMkNlU1JnMFZxZ0xjX1drU21nZEtqc2VHb0ctd1FhQXVRT291bkYwNTB4bkxMVGgzZnAzNTN6d3A2QlZUWnhXOFdaVHJsaFlkNmx5a1kyVk1IX2lkclFRQnAyd0RXQkJBRndFb2ZKN09ndWYwRlNZSVZ4eG91b25RMVJLYXlaZFljM2FVNEx4ak9tODFrSHBubi13Vm83YUxZ?oc=5",
+     "fuente": "El Rancahuaso",
      "resumen": "",
-     "fecha": "2026-11-09T12:51:53+01:00",
+     "fecha": "2026-11-09T14:21:03+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -83,6 +83,22 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Prisión para los tres acusados de causar varios incendios forestales en Trives (Ourense) entre 2021 y 2022",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMDJoVUVFQUNEQ3ZfSHpuRHAtQlRPNllvdEFPbG54TllCR2tzUDgtRDAyOFdTel9UNFkzeFpMQ3UzcEQ1N3N4S3o1WUdMRnhWUmVKSFh2MWJqQVRvVnJiTWM5ZjNyMkd4NTFhNm1TNTlPUEIxSmpKQjNJVnJDLUFHTDl6Qi1SbXVXUWpiM1hoT2xPZmotUTQ0c3BIczJ6cm54Vk8xVndMV2lMa3V3ZndHWUFwN3k0MGNxeU9RR2lXcXdFb2NrMkNOTV9OZ1dpaTVNMTZUQ21TQ1dWUGZOQlc3VjBXNWxkbVVhbnlCUExhZ1prMjRmT1ZDMDlkRdIBgAJBVV95cUxNTXpQOUxLOUZ6N2w1X09QWFVfOHFFNWh0M08tN3RxeHJJRzYzaW9rZUxhOEE1QmMwRzNiVDBwNUJvSWtBQUh3UGQyN3RsS1Fyb18zdkh3UWx4RVl6amRMa1c4QnFqMjFSUHhfSTU4NG04Y0R3M2Fqb195cVBCSXJMMVQ2SzRIeWdDWnE4Y0JicWZhMnMtVFEyVWZQVUhKNEZaX1pkcWJWWm1VUFFMb0k2STlyRXVzbzVaa0xlSHNxc0g0Q1kwM2hRZTZ3THdKNDFUelNMWXhINUpHQkJBQkF3UHl3eWF1VmJQOHU1MGtjclk2NkVrcGgzcUJESXh2MWRT?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-11-09T15:48:18+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Badajoz reúne a expertos de España y Portugal para impulsar un nuevo modelo frente a los grandes incendios",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
+     "fuente": "La Crónica de Badajoz",
+     "resumen": "",
+     "fecha": "2026-11-09T14:48:52+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
      "fuente": "COPE",
@@ -97,14 +113,6 @@
      "resumen": "",
      "fecha": "2026-11-09T07:15:00+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El experimento de Mazalmadrit, el monte urbano de Rivas que adapta su ecosistema para protegerse de los incendios",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-experimento-de-mazalmadrit-el-monte-urbano-de-rivas-que-adapta-su-ecosistema-para-protegerse-de-los-incendios/ar-AA2h1ZLR",
-     "fuente": "elDiario.es on MSN",
-     "resumen": "El Ayuntamiento de Rivas Vaciamadrid avanza en un plan mano a mano con WWF España, el Fondo Mundial para la Naturaleza, que lleva dos años actuando sobre un terreno eminentemente forestal para reducir ...",
-     "fecha": "2026-11-08T22:00:09+01:00",
-     "fecha_txt": "8 nov"
     },
     {
      "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
@@ -137,14 +145,6 @@
      "resumen": "El incendio forestal declarado en Valverde del Fresno (Cáceres), próximo a la provincia de Salamanca, se encuentra ya perimetrado, aunque todavía mantiene un frente activo en dirección a Portugal.",
      "fecha": "2026-11-08T11:25:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La España en llamas: diez años de infierno forestal",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-08T03:26:09+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -154,68 +154,68 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Extremadura toma medidas ante las lluvias previstas en el norte de la provincia de Cáceres",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbE9ubUdRbkpaOG9BSFFkRTVWbE8xc2xtWFM2WXlOajlDNktaLTRBVW05dXR5MWJqNTZoRmhacHVQR0Z0NVdIMEVQRGRxSzdwaXpMemFheEVmWk1vQXR1ZXhSU1kzaUtsanNZcWxLQ19tY2ZfbFJKS2RzRzl6SlZtSUM3REVOZktKemN3aUZFdndab1BEcTdXUi1aR3lvVkstNVktb2EtbWpZWHdSbWNLdmxycw?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-09T15:58:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "El organismo público advierte del peligro por inundaciones y el aumento significativo de los caudales, puesto que podrían alcanzarse acumulados superiores a 120 l/m² en doce horas",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTms5TEFEbDlodV96cEFJQkhXVVlSSGpqbFRBZkNFSGN6NmJaamY3dHpYZDQtZ0lqdjBPZEJ6c2s2djlhbm9pZ0hUWjMzbldhSnFobzB3RGFvczhHdnFqUjdKblV5U2ZaMzRQejhrLWIzdktNZ0RIUkRMNmZWQ1FPTl9WWE5pblBMSUVFR0RpTUowWFRLWE15VWVJak1ZcHhVT2NQLThyNnJlYlVOcXctZGstNWNhUEtaRmtlZGRxdm1MMHR4Wkg4WnlMM1lhd2ttQXg1ZUZDSTZrMTZ0aGZhRWN3?oc=5",
+     "fuente": "Facebook",
+     "resumen": "",
+     "fecha": "2026-11-09T14:59:36+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Lluvias del 9 al 15 de noviembre en España: Andrea Danta anticipa dónde lloverá más con las borrascas Bruna y Charles",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM0RpY2FnMGFld1J2ampBUkJfU3M2TDZJYkt0NDhRQmRna1kwQ2V4bHdyQUg3dzU3bHdJR0QycUVBRVRWX1NGU1FYWUZOOXQwUXVZVi1DZnR4THlhLXphSVpzUVRZQk5KVk1mdHpYZWt5TzlhLXZYQkJUd3piOXBIWlhjWVM2VU9GTFdZdk90VVZ3WElkRlJnVkdsQjJwaHdKWEU2X3Fpd3hiaU1pbjB3a1VfQnVpREQzbVlibzZCSGoxZGdUcDlTRW84MzVVd2xzemYwU01CcEdzSGtwR2ZxZ005QXdRZmlYOG9uUmFrWmthNEI5cENj?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-09T14:55:41+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Bruna y Charles dejarán fuertes lluvias en España",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ3FXZUQ4YTlqVVhCZVY3WlduUmhFNjc1WTVqcTcwZ0pLMWJuQ2QzNGdFU09tektCMjhVX3pOTWlYeDdDOEZuV0FwWS0yOVpFSDBvYXctNUZ6Z2FFM3FleER0b0R1Vk9MZi1uRXloeUxDSVBaMDZDUmVKZHYxQ1FJMGtZY0FJaDRoTHpqVw?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-09T14:46:42+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "El Gobierno de España inicia actuaciones de urgencia en Els Poblets y otros puntos de la Marina Alta tras la dana Adam",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZxRHFUeUNHNVVvTjFQU1hGM1YtZ0RxYTN6dHdzbHNmRjFaV0hMTGthYndlbFlpZGpGaTYyQWlvQ3VrTjNJc0djSUVnRjJORlZHWEVKQm9qOTIxaW1LZDBtT1AzNDJrNTdPbFVXMk5NMVZzUUY3dTlBVXpEWFlyUEtSQnZON0hPNzhUTA?oc=5",
+     "fuente": "Canfali",
+     "resumen": "",
+     "fecha": "2026-11-09T14:45:26+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Aviso rojo de la Aemet: Ávila y Cáceres se enfrentan este martes a “peligro extraordinario” por las intensas lluvias de la borrasca Bruna",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd2QxVWhIWk9leEYtYzZobFJ6VDdINHcyZGh6QVpoNEF0UHo3TjVnTy12SWN6LVVMcGxNcGYwS09GUXRHdk5sdnJUYzBpU0lhYi1fX3Zrd09CcFMwaVNua2VfRWNvUFNPMTNITUI4WGI4Vl9LeUZkbFZ1dlljVkYwWl9OQ2ZLd0Y0SDgwNXpTcndLN0hUU0NfY29kUkJTYVNKWFlReW9pZC1jbHh4THQySERlVGZadVdCdk9KallFNllDOWhwOHFBSWhTcWdGT2FGXy1MdHlpTEdub1ZURW9uaWhhTmpxNENCU2ZvVDVJMVNoV2g4WmRsa1JwWW9ibFFsb0oxSktldkPSAaMCQVVfeXFMTjIxWHZwX2l2ZHZDMTI0X0d4Y0tLWFQ2UnB1dmVaeVVXd2RsNzFjandhYm1WME1saUpwY19veGhFT3docEk3aFA4RU1vUXQybEo1aGVJMnYtVm5pZXRlOGYtS1dTbHlnc01JUElVb2NINVByZEFJb2VQOEhzd2NDWDZnNmNrNW1vTEtuWngyMDZ3RHpPSFc4dTQtbGtWVlBjMk5mS0FTRWNzamZhRVpKZkt1dWUwbFUyUWpwZVJVTmRzTmZBMnFTX0wtNVRNMzlOSkItRnBSeUpDa3J6dEp0SmIyR25rMnp3NnJ1dy1lTXhPV2RpT3BkYjJkMWw3RFNWODV0SW5BbGRwZkR5aGNwcDR0UDZlX0h5WG5lTGVTRWNWTW5F?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-09T14:31:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Las lluvias provocan inundaciones en viviendas de Candelario, Castillejo y Villamayor (Salamanca)",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUFhFQ0E1Tm9IUHR2NUdhbmNoSzVSbThVNkJiOHBBb1lRMlhYWi1HSC16ekxySWVuanp6VzZQM01VaVpNN1YwaEo1Q2oyZHVvM0dzWWZmc3Bkczl2bjFqQVBEckUyZi1hRzZpbFp4Mzhuc0JPbWU1RlZiXzlXNzQ3dDVtNXV0VzBMLUl4MzVCR3FWQmpiRVZGOU8yLVd2Y3BCTnhCQW50aG41V3dHbXZDQmlfVkxqNzEtVXRPeFJvVUtsd0lEQWY4WE9MdUExV3l20gHWAUFVX3lxTFBXcnNlYnR2WjZCR3ltb1FyYUo4bVlfQmhrQkVXTUt5MUNnTUo1UEhIdEVsdy0xRTduLXFHZ1dWcHB2QmNoTk92eW9kVktMN1ZzeVlING1DczVDbUlGdXZKQ180WWN2SHJQcWtjSU9UdG1pYVBkdEQ0cG0tZ0pOdkprcWVGcGhUNXdPTkdGc3FicDRZR3cxeXdfbktzWlRtN0FoQ2Fqa3MtZUhGYzhobEtQTUh2ejBNajVpSTRCZzJ4V0ZhODFrM1ZUZXp5VnhpZzkxbHpnWGc?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-09T14:07:17+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "Avisan de lluvias muy fuertes y vientos intensos en España: estas son las zonas que más preocupan",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVE0Vk1ZYVRVNkJkdk5EbmUzWlNGSGFkRG4yNC1WcElxQ2hCc2ZSLUJTWUduM0pTa0F0a3g3d0hmb2UyQ2ItTkMzVFAySEVlZHlNbDZoZDBQelpfd1FFeFJydFdvSkpiUV80OFpUdFEzd1dnVUxIajBJRktoNi1pdzhLSHdjTWhOYnkwTzRkUUw0MmNhZTRzS09FSXE1QVNVekktZ2dSX2RteG9oV1RZY2hCbEpfd3dXVzJQTHdnRjQ3MXNvUUNxOURWUWtkb1diOVppaVNacw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QY0x5MmtNRmw0UDk4UmZRLXlNb3d0Umx6dEhyWFNQclhoaWxKUXdsQzdranRoWEJSV1kwbFlXWHgxSU0tc2psX3BCdlRuejJpRm95T3dR?oc=5",
      "fuente": "Directorio Cubano",
      "resumen": "",
      "fecha": "2026-11-09T12:02:19+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "La borrasca Bruna marcará el tiempo este lunes en España con lluvias intensas, tormentas y fuertes vientos",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjlTakR1VTdUaGg0MEdNOXBOQld6NzZacnJncXYxVW9VYW9qdHN0d0xLREV6VFFTdnZNdkhyTzBXdTlPYXRNMjdrMHRwQzZ5MVp2ZlRfLUR6Q2RHRmUzVXBfNjhSZlZrRnZfbWdURTlOU2E4LWlfLUFmaXNkbVI4UnlJSldCWlBkcUFEemJmdmZnNS05TF9lQXRySTdjUUhiSF9lOEd2OFNQaGFQMS1ya3BaYnJFR0lSZlNsZlhrRnpTbVVyd2RHTXFCU2drcDZENjhsU1NCNGt0dzdoVEc5blZIVXMtQVlRUDM1SEhHSW9EY1pWTExKak5n0gGOAkFVX3lxTE5FWDJXRWlMb1RvRVlTcElvWERDNzNSQU1QRjdXWE1pbW05VUJxaExXSmV0VGNUa1BzYlNnUlBpb1NUN1M4aVRKaG95aW5uZ3FlOXRKN1UwMkVwbXdkTjJ0NVY4ekJvWmxsUTJMMG9SYXMxV0dfejBvOFZMcTVSQWJuazg1STdwZU1KNW1nOGJfcV9ramM4LTVhbHNWbXRZN0x6Qmx0VEZuZ09zcWc4cFpwRmEwaDlLb2Zwc0IxbUtFSmFKYk9uRGFjZjVWalpQQ2xfYURxSGtrWEV5eFdpRGhpNVJDUVBXYlhmS0hjeUI0eXJSNXBHZEZ0ckRSQ0JhTFdFVWNKYTJXV2JYSUFaUQ?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-09T07:33:58+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "La Aemet avisa de la llegada de un temporal de lluvias: viento intenso y tormentas en estas zonas de España",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2MxZ2FVcmpfN19QM2tMSjFpVTBvcVZVeVozaXQyN2habk1kRWowMFJ5bFJEQmRPRjJLX2ZpZTRQZ05wcktSZklFMGJfelU5R2Z6TWZvcDY0YnVQa21zTjJNZ05VMFdwclNraDZaNmdBcGpWT2F6cWFfbUticHdEZWliYmUwcUZHZ3JCTWUzWnVELXQ3VVVfa3VvRXJvbFlTaS1R0gGoAUFVX3lxTE1TeVJfT0VMeExCSjNhQnF5Yk1zMTI5RXpza3F5bjhpUjZ2UUtCeU1zamhCTlZSb2ptN1p3MzRyWVd5Ny1pcFRwczRlMHMwOTZQazRjbkk2bVBnZUtNUmRHU1N2dWVzaEVVcERKRHRqQkdYbFN6TlhMbXJ1Z0staTZxenZ3YmMyYlowbmV2YXlCbDlFRzIyd3Y0QkYyTVB4aXNlUnZ4a2dGdw?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-09T05:15:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Las últimas previsiones para Madrid: temperatura, lluvias y viento este 9 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbzdqY0Z0RGxaOUVEVEdEQ19UQ1g3NnRDbDF2dS1hREhZZzl4MlRGbTNqZk1FZHU5RnlIeG9LX3lVb1UxUzJvOVlGcTB4MGZobTR6Mm1hQ184Tm54YnpiYk1RTEhhd1lMS1VNU1pCS01VdmQxOXA2MS1qNDVOSEFTM1FCMUMyWjItR193NjhvRjVnWWotUERhY3cwOUtySENVOG1RZ0xaOVJJeUdqalVLSndXV0tiTldabVlYXzhHZUpPajk5THfSAeABQVVfeXFMUFVLTWh1eWZYT2FaMkYtSzdpVFRaZXhyV1pJMGlRWS0yOFpmRmNrSG5aVDlhMmh3ZWVoYnE2VkFETXZEd1BSb2E2emNaMlhCVHVuQllscmlnSUFMNmFpcnlCWk5BeTBNbjVkOVJ6RzNfMzU4blYtQVoxYkxRYTg3cmhlak8tc1JHVHRnOVFFaFNPQ3BWZDJFeTcxNzc5eEE2VFJ0QzlkSkxuRlAxUXVWTks0VUZJdkd5UVBxSkpKR3gxeWU3R1gwbmRfajNpcWxVTFVWa0dyclUzdlg4bHZxaTk?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-09T04:16:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Activada la fase de preemergencia del Plan de Inundaciones en Andalucía",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzBMbDgzUVkyb1o2V1VhS3pFRTBnUXQ1QThIUzhDYmwwd0xMZnZPNVNoeGVUNEFJM1NCWklJdzF0Ml9PbDV6Ynd5ZnFWRVFYaDVVci1EYjFzY1FiTWdrb3dxWENIb19tU3Q3ajg5eGxLQmF5ZFVCN3BhZ2haemdIbnNZc04zUjdJMldaS3BKSTNTQjVLM2xSd1l4NHVNdkdvOElRTGdqV0RiR3B6bU9vSHk2VmFINHZqa2JZTlZuOVnSAdsBQVVfeXFMUGNVdnpJUVRKUFE3dG1NY1dsNl9UUkJOZW1NYmZYMVZoSkE4MDJfU2I0UkgtdHBXbGtUZEZGSGd0Z1lYUHdIR3RVNDVNeVBZNVF0V2d6ajhxWmtsWE9SbHhWTHdKc3RVZFMzTFFKQVcxTHEwWDVWM3VRb1gwd3BXX3JKbVgwRm9XZUZyT2RQTmh3UGM1aGNNSXZtcXYzY1ZIc21Ta3U2NXBkWVZLcXFfbnRUa3I1aGxsLVZManZWQTRTQ3d1NW9XZTFMQjJBbklZaTJhcDhsU0xWNXJv?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-08T21:48:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La dana de 2024 aumentó el riesgo de partos prematuros, más en las zonas con mayores daños",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX2VoaTctZjVmLXpLUjNHdVR4d3lCSVhBeWx1R2dSSVZWZVJndm1kdnpOOWZBZHotdVlzR0hHRzJzdW5vc2VNMlhvSnc0UGJWZzlRTDlaSmo4cmZBb2NmNVYwYTJTb3hvaFZZbUJxSENIa2lQZ0Q4LWJ2b1dXZUhlUlE0R2dEVEpHOVVQNC1LS19ZWkRId3BZZXVkbTVld0tTQm83Q1lJVDFQeUVBejRGa0dQZGpmZHZhejdMLUZIMkx5ek9tc3JsMEplT00za3p2QkhxXzFYLXbSAfMBQVVfeXFMT0YyaDZVcFZoSmNEU3M2ZGVqVG1ncEx1dlJ4ZHZ1Uk13bFVVaktKYnMyWVVKLWZOYVF0bHdSa1dQRXFscGxxSEFBQ0lub09UZE1DVFV5dkNHVS1zaGIwWHhhVDBMaWFaRXRGemw0LUExcUF1Y1hoZEZpY1JNd0NjQW9qSkgxaDNCUktGd1YtVVRpUGZZQTFPVnlZRXdoZDNPQVdJUFdzbGtUY3dsNTJxWDJVVjllOFk2OGFVTHNCR2pkZG1PRk1qS20wVXlxc1ZJN3d5RGEzLVlMbzU3U2hXWjRJTzdra0dlMlJvbWhYbWxSa0Vz?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-08T10:17:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 21 días: la DANA y la emergencia nacional que no declaró",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjI1SGdXRDB2TGpjd0RJRllveklaU01JdlE1SHM3dUYzczZPZEFJSTlTUGNMbW5Id3lnNk45YkhBQ3VyVnd2MEN0OTZkamc1U1ZmR29KTXQyNUxPc2RxS25Hc1BkNkpBUUllVlJXQjRLWjN0X3VwMl9kN1BlRGN0dWZrQk5Hc25jNDJOOU5iQ3ZFQ3hSa0xjUWY0YmNTd25SLW1mWWFQbW05VlZaeXgwdVFQLWk4NklE0gG-AUFVX3lxTFBxS2tsLVUyQ1Ffb3lsM3NxUHExb3F0ZkEzOWFjUi1zc3RRUUxWaHFCWjhWVXJyTjhudDZMc3R6X202MHlUNFY0VUpQeTRsS1BGZVh2dm1DSXdwNUl3RURvbVgzeWJJMkhuem4wMEVxa3NRY3diaTN3QU80c2VYT0l6UGkycW1CMkFzLXVJSEllX3N5NXhWaENtYmMzNU5wTXhyYm1VUGstbC1TMk0wZWEwS01fRjhmRm1WbXZDWFE?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-08T08:48:35+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La AEMET alerta de fuertes tormentas por la borrasca Bruna este domingo: lluvias muy intensas en Canarias y rachas de viento de hasta 90 km/h",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaWY5bzVIRWhnRXdnY3FrYjVnYzFzdXZ0SERZQS1MSWl4ZXIxWjlucDlrRGNyZmNxekFQWUVoOG5ldGYwVFpCSlBpbTlTRHV4a2xBck0xUGRXQ2FyVVVtdkl6SnlqcHZHMWhQSFFyWHA5c0dIb1ctdk5TdVIwaXBkd1RrZ1hIS1pWMkI2U2loNVpWQlkxSUM2ZlduMWRfOEt3cGFXd01xdklUal8wVzBtMDR2bUI4eEFZT0dyQm1ZeU5tYTV0SjNSY0RYX01JMHlfb1gwQmYwNUVaTEtFSlR4bWFqcXZ3di1HMHQ0Ny1McGlObFRJaVg2Um41a3pKVzB4ZThxbEdiVHJHMlREZHk2UFB4a9IBpwJBVV95cUxPQ01GUEZsSVV2aTVucko1Wk1wS0FKVDZoOVZQTlFxWkNwX19OSGJDOEFQeU51cXR6em1abUJXYWtuZDdRX29WS1VnWDRVZVBESmwwNkVvQ0NmYnI3bW9jVkdUeFdEYlVScnQ4TExlTzdlWk9sOC1jNEN2d3F0MFFZQlRrbzUzOF9GR21HSk11Ty1VWW84YVo3UFZxandZRUpVdmVwTGpIYy1raFdmQ1h0eUJpcEQ4YURVX2IwbVFTU256cXhOQkUwS1R5SlhXejJGZGJVZDA2emVPSE1qanBaQ3p1RWpkY05sOURSZ2tIY3lOUVBzanhlSW1XNVdoeWh3dXV4S3plY3ppQ3dENVhheGFHcWNKMjJxZE1YZUxxTkJZbXFmbzBR?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-08T07:00:18+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -229,7 +229,7 @@
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-09T11:41:59+01:00",
+     "fecha": "2026-11-09T14:43:38+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -239,14 +239,6 @@
      "resumen": "",
      "fecha": "2026-11-09T03:45:01+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Las energéticas sospechan que la operación antiapagones de Red Eléctrica será permanente",
-     "url": "https://www.vozpopuli.com/economia/energia/las-energeticas-sospechan-que-la-operacion-antiapagones-de-red-electrica-sera-permanente.html",
-     "fuente": "Vozpópuli",
-     "resumen": "La previsión inicial era que la operativa reforzada dejase de aplicarse en marzo de 2026, cuando las renovables entrasen a controlar tensiones ...",
-     "fecha": "2026-11-08T20:45:00+01:00",
-     "fecha_txt": "8 nov"
     },
     {
      "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
@@ -271,6 +263,14 @@
      "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
      "fecha": "2026-11-08T06:01:00+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
+     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
+     "fuente": "La Razón on MSN",
+     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
+     "fecha": "2026-11-07T20:00:00+01:00",
+     "fecha_txt": "7 nov"
     },
     {
      "titulo": "Islas: Mallorca abandona el carbón y La Palma registra un apagón de cuatro horas",
