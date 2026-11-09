@@ -1,0 +1,4717 @@
+{
+ "meta": {
+  "actualizado": "2026-11-09T18:40:02+00:00",
+  "fuente": "Amazon Creators API",
+  "marketplace": "www.amazon.es",
+  "tag": "ntizar-21",
+  "aviso": "Precios consultados hoy en Amazon.es. Pueden cambiar en cualquier momento: el precio válido es el de la ficha en el momento de la compra.",
+  "total_asins": 233,
+  "con_precio": 198,
+  "sin_listado": 31,
+  "sin_datos": 4,
+  "umbral_oferta_pct": 10.0
+ },
+ "productos": {
+  "B0GMXX2G9S": {
+   "asin": "B0GMXX2G9S",
+   "titulo": "AWAKING Pastillas Potabilizadoras de Agua 48 uds | Tratamiento hasta 9600 Litros | 200L por Pastilla | Ideal para Depósitos, Bidones, Caravanas y Emergencias.",
+   "precio": 14.95,
+   "precio_texto": "14,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41GGgIIBAGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GMXX2G9S?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pastillas potabilizadoras de agua",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09TBGX1MK": {
+   "asin": "B09TBGX1MK",
+   "titulo": "Massó Sardinas en aceite de oliva, 1 pack de 5 latas de 120gr, en catalán.",
+   "precio": 11.79,
+   "precio_texto": "11,79 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41f3gkJv+QL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09TBGX1MK?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Conservas variadas (15-20 latas)",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "1-3 €/lata",
+   "actualizado": "2026-11-09"
+  },
+  "B0CG9R782W": {
+   "asin": "B0CG9R782W",
+   "titulo": "by Amazon Parboiled Long Grain Rice, 1kg",
+   "precio": 1.32,
+   "precio_texto": "1,32 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41cp0KnI7DL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CG9R782W?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Arroz parboiled (pack de 2 kg)",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "~3 €/pack",
+   "actualizado": "2026-11-09"
+  },
+  "B0H3WC3R53": {
+   "asin": "B0H3WC3R53",
+   "titulo": "Lote de 2 bolsas de Garbanzo Pedrosillano Seco, Categoría Extra, Pack de 2 Bolsas de 1 kg. Total 2 kg de garbanzos",
+   "precio": 15.1,
+   "precio_texto": "15,10 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51nFAjPA67L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H3WC3R53?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pastas, arroz y legumbres en paquetes",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00B2N8IFS": {
+   "asin": "B00B2N8IFS",
+   "titulo": "3Claveles 500 - Abrelatas explorador pavonado, Acero, Gris",
+   "precio": 5.99,
+   "precio_texto": "5,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31F-6eFlKlL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00B2N8IFS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Abreconservas manual",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "3-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FZTLMXW9": {
+   "asin": "B0FZTLMXW9",
+   "titulo": "4 Cajas Cerillas Largo Super XXL, Fósforos de Seguridad, 17cm, para Cocinas, Chimeneas, Estufas y Barbacoas.",
+   "precio": 8.99,
+   "precio_texto": "8,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41GTZhtrLVL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Encendedores y cerillas largas",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B06XWZ41RT": {
+   "asin": "B06XWZ41RT",
+   "titulo": "Panasonic RF-2400DEG-K - Radio Portátil FM/Am, (770mW, Iluminación LED, FM/Am, Fácil y Simple de Usar, Sintonizador Digital, Altavoz Amplio Rango 10 cm, Asa para Transportar) Color Negro",
+   "precio": 28.1,
+   "precio_texto": "28,10 €",
+   "precio_antes": 33.99,
+   "ahorro_pct": 17.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31LC1jMaiXL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B06XWZ41RT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Radio FM/AM a pilas (avisos oficiales)",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C3B4H4Z5": {
+   "asin": "B0C3B4H4Z5",
+   "titulo": "Blukar Linterna LED Recargable, Super Brillante Linternas de Aluminio, 2uds | 5 Modos de Luz, Altos lúmenes Flashlight de Mano Impermeable, Enfoque Ajustable para Camping, Senderismo, Emergencia, DIY",
+   "precio": 23.99,
+   "precio_texto": "23,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Y+50h1euL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C3B4H4Z5?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna LED con pilas de repuesto",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FB3WSWJ1": {
+   "asin": "B0FB3WSWJ1",
+   "titulo": "Lámpara de Lectura con Pinza, 61 LED Luz Recargable para Cama Escritorio | 3 Modos y 10 Niveles de Brillo, Puerto USB-C, Cuello Flexible 40cm, Portátil para Cama, Flexo Mesa, Estudio y Camping",
+   "precio": 17.99,
+   "precio_texto": "17,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41gK-Q2wf8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FB3WSWJ1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna de cabecera con cordón/manillla grande",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GM1QQW1C": {
+   "asin": "B0GM1QQW1C",
+   "titulo": "ADESTE – 50 Mascarillas FFP2 NR D Negras con Certificado CE, cadena controlada, elásticos cómodos, hipoalergénicos y regulables. Seguras: potencia de filtrado BFE >99,5%. Sobres individuales sellados",
+   "precio": 14.99,
+   "precio_texto": "14,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51fwzQM7GaL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GM1QQW1C?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mascarillas FFP2 (pack)",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D9M3CWMW": {
+   "asin": "B0D9M3CWMW",
+   "titulo": "HONYAO Botiquín de Primeros Auxilios 222 Piezas, Kit Primeros Auxilios Completo, Botiquin para Casa Coche Trabajo Deporte Viaje Cámping, Rojo",
+   "precio": 25.99,
+   "precio_texto": "25,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41wmWpJKhML._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D9M3CWMW?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botiquín completo (222 piezas)",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "~24 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CNTLKPLS": {
+   "asin": "B0CNTLKPLS",
+   "titulo": "BACTERISAN Germosan-Nor BP 11 Desinfectante de Superficies, 750 ml | Limpiador de Rápida Evaporación, Desinfectante de Materiales",
+   "precio": 5.95,
+   "precio_texto": "5,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/317WghmvNnL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CNTLKPLS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Desinfectante de superficies",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0HC4PGSVV": {
+   "asin": "B0HC4PGSVV",
+   "titulo": "Inalámbrico Power Bank, Magnético Batería Externa 10000mAh, 20W Carga Rapida Slimmest Bateria Portátil Powerbank USB C Input & Output, Cargador Inalámbrico para iPhone 17 16 15 14 13 12 Series Galaxy",
+   "precio": 14.99,
+   "precio_texto": "14,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/210RcV4LoOL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0HC4PGSVV?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank de 10.000-20.000 mAh",
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FP5RJ53N": {
+   "asin": "B0FP5RJ53N",
+   "titulo": "by Amazon Alimento Completo para Perros Adultos, Selección de Carnes en gelatina, 1,2 kg (12 Bolsa de 100g)",
+   "precio": 6.01,
+   "precio_texto": "6,01 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41lkwtC+O4L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FP5RJ53N?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Comida para mascotas extra",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00GOPHOSQ": {
+   "asin": "B00GOPHOSQ",
+   "titulo": "Aquatabs 8,5 mg | 50 Pastillas Potabilizadoras de Agua | Pastillas potabilizadoras de agua para consumo humano",
+   "precio": 17.89,
+   "precio_texto": "17,89 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41KROz6U7bL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00GOPHOSQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pastillas potabilizadoras Aquatabs (50 uds, 1 L/ud)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B006G5N4XS": {
+   "asin": "B006G5N4XS",
+   "titulo": "TREK'N EAT BEEF STROGANOFF WITH RICE",
+   "precio": 10.5,
+   "precio_texto": "10,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41civpxeTuL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B006G5N4XS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Ración deshidratada Trek'n Eat (515 kcal)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-12 €/ud",
+   "actualizado": "2026-11-09"
+  },
+  "B0DHH7TMGF": {
+   "asin": "B0DHH7TMGF",
+   "titulo": "Nākd. Pack Multisabores | Barritas Raw de Fruta y Frutos Secos | 18 x 35g | Vegano | Sin Gluten | 100% Ingredientes Naturales | Sin Azúcar Añadido | 630g",
+   "precio": 19.05,
+   "precio_texto": "19,05 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51jw1DGdTVL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DHH7TMGF?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Barritas de fruta y frutos secos (18 × 35 g)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-15 €/pack",
+   "actualizado": "2026-11-09"
+  },
+  "B0F1F5DFSG": {
+   "asin": "B0F1F5DFSG",
+   "titulo": "Lepro Linterna Cabeza LED 1300lux, Linterna Frontal LED Alta Potencia 1Pcs | Luz Frontal Cabeza 6 Modos Luz con Luz Rojo, Impermeable IPX4 para Correr,Camping,Excursión,Pesca (Pilas No incluido), Negro",
+   "precio": 10.99,
+   "precio_texto": "10,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41wTe3O6MxL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F1F5DFSG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna frontal a pilas AAA (1300 lux)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DFLHZQ18": {
+   "asin": "B0DFLHZQ18",
+   "titulo": "INIU Power Bank, Mini 22,5W PD 20000mAh Bateria Externa Carga Rapida, USB C Input & Output Bateria Portatil para iPhone Samsung iPad Airpods, Mochila Viaje Essentials Apto para Hombres y Mujeres, Rojo",
+   "precio": 32.99,
+   "precio_texto": "32,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31Pf6QOYn2L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DFLHZQ18?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank INIU 20.000 mAh (22,5 W, USB-C)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B094D3JGLT": {
+   "asin": "B094D3JGLT",
+   "titulo": "Amazon Basics - Paquete de 48 pilas alcalinas AA y AAA de alto rendimiento, 24 pilas AA y 24 pilas AAA, 1,5 voltios, vida útil de 10 años",
+   "precio": 20.5,
+   "precio_texto": "20,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41plQfsp5oL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B094D3JGLT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pilas alcalinas AA y AAA (24 + 24, 10 años)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "8449811031": {
+   "asin": "8449811031",
+   "titulo": "MAPA OFICIAL DE CARRETERAS. ESPAÑA 2026",
+   "precio": 15.2,
+   "precio_texto": "15,20 €",
+   "precio_antes": 16.0,
+   "ahorro_pct": 5.0,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51znXhXVjFL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/8449811031?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mapa Oficial de Carreteras 2026 (papel)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "12-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B096V89H69": {
+   "asin": "B096V89H69",
+   "titulo": "YUMQUA Bolsas Estancas Impermeables para Cámara, Teléfono móvil, Documento y Mapa, fit Canottaggio, Campeggio, Kayak, Canoa, Senderismo, 3 Piezas (Negro)",
+   "precio": 11.98,
+   "precio_texto": "11,98 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41nJcYRxxUS._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B096V89H69?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bolsa estanca para documentos (3 piezas)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CLLSK9BC": {
+   "asin": "B0CLLSK9BC",
+   "titulo": "FuninCrea Cinturones de Dinero Ocultos, Riñonera de Seguridad Antirrobo Riñoneras Interiores con 2 Bolsillos y Hebilla Ajustable, Riñonera de Viaje Riñoneras Deportiva de Seguridad Antirrobo (Caqui)",
+   "precio": 6.99,
+   "precio_texto": "6,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31OwjnbtQhL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CLLSK9BC?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Riñonera interior oculta para efectivo",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "7-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08L1Y7M8J": {
+   "asin": "B08L1Y7M8J",
+   "titulo": "Lewis-Plast Kit Completo De Primeros Auxilios 309 Piezas De Primeros Auxilios Al Aire Libre - Kit Que Cumple Con Las Normas Europeas Para Interiores Y Actividades Al Aire Libre",
+   "precio": 37.99,
+   "precio_texto": "37,99 €",
+   "precio_antes": 47.5,
+   "ahorro_pct": 20.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51W6GfEzelS._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08L1Y7M8J?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FQ5TJY9K": {
+   "asin": "B0FQ5TJY9K",
+   "titulo": "SYS Gel Hidroalcohólico Natural - Pack 6 x 250 ml - Aloe Vera y Pantenol | Limpieza de Manos Sin Agua - Higienizante Total 70% Alcohol - Hidratante y Suave - Uso Diario (Total 1,5 L)",
+   "precio": 15.95,
+   "precio_texto": "15,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51BpBfIRliL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FQ5TJY9K?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gel hidroalcohólico 70% (6 × 250 ml)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-18 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07539S9G3": {
+   "asin": "B07539S9G3",
+   "titulo": "ANYOO Poncho de Lluvia Reusable de Ripstop transpirante Ligero a Prueba de Agua Multiuso Impermeable con Capucha de Lona de Tienda de Campaña Ideal para el Aire Libre Campamento Excursionismo y Pesca",
+   "precio": 21.99,
+   "precio_texto": "21,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41wYwN8zaFL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07539S9G3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Poncho impermeable unisex con capucha (talla única)",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "18-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B000IAZDE0": {
+   "asin": "B000IAZDE0",
+   "titulo": "Victorinox Navaja Suiza Spartan, Multiuso con 12 Funciones, Hoja Grande | Navaja de bolsillo para camping y uso diario con sacacorchos, abrelatas y pelacables de 91 mm. Hecha en Suiza.",
+   "precio": 22.92,
+   "precio_texto": "22,92 €",
+   "precio_antes": 27.0,
+   "ahorro_pct": 15.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41SKYuuAvZL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B000IAZDE0?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Navaja multiuso Victorinox Spartan",
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B015Y8BY02": {
+   "asin": "B015Y8BY02",
+   "titulo": "BOTA AGUA PVC TALLA 35 CAÑA ALTA NEGRA DUNLOP | Botas de caucho impermeables para mujer y hombre. Resistentes a productos químicos, ligeras y certificadas CE.",
+   "precio": 18.95,
+   "precio_texto": "18,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41ZDmCBWEoL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B015Y8BY02?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botas de agua",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CJDWWGNG": {
+   "asin": "B0CJDWWGNG",
+   "titulo": "KAYGO guantes de trabajo impermeables para hombres y mujeres, recubrimiento de látex doble, súper agarre antideslizante, para jardinería, lavado de coches, pesca (Negro, L, talla 9, 1 par)",
+   "precio": 10.98,
+   "precio_texto": "10,98 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51TxKCvCBlL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CJDWWGNG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Guantes impermeables",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H99C1WWZ": {
+   "asin": "B0H99C1WWZ",
+   "titulo": "SAFEMORE PRCD Enchufe con Diferencial Portátil, Adaptador Fugas 16A 30mA | Diferencial Tipo A IP54 4000W, Función Test y Reset con Luz Indicadora, Tiempo de Respuesta 0.1s, Certificado HD 639 S1 y CE",
+   "precio": 23.99,
+   "precio_texto": "23,99 €",
+   "precio_antes": 25.95,
+   "ahorro_pct": 8.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/419TSMAT-WL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H99C1WWZ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Tiracables con interruptor diferencial portátil",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "20-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FF4KS8T1": {
+   "asin": "B0FF4KS8T1",
+   "titulo": "QWORK® 2 Pack 150CM Sacos de Arena, barreras de inundación Reutilizables y sin Arena, Sacos Arena contra inundaciones, para hogar, Garage y sótano",
+   "precio": 16.56,
+   "precio_texto": "16,56 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31mJiOJ6FGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FF4KS8T1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Sacos de arena vacíos o barreras de inundación",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07PDRY2T2": {
+   "asin": "B07PDRY2T2",
+   "titulo": "XFasten Cinta adhesiva transparente para puertas y ventanas, aislamiento de ventana, 5 cm x 27,4 m, para invierno, kit de sellado de ventana, no ensucia, protege de corrientes de aire frío",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51xPtdwuRHL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07PDRY2T2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cinta y plástico para sellar ventanas y rendijas",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B012D3650K": {
+   "asin": "B012D3650K",
+   "titulo": "Fiskars Solid Pala de nieve para el coche, Longitud: 63 cm | Plástico reforzado con fibra de vidrio, negro, sólido, 1019354",
+   "precio": 17.99,
+   "precio_texto": "17,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31Gp-dUMqmL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B012D3650K?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Palas y cubos para retirar lodo",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0B4HRDFVY": {
+   "asin": "B0B4HRDFVY",
+   "titulo": "Airalia AIR-DRYBAG - 10 Pack | Deshumidificador Armarios, Bolsas Antihumedad Armario, Absorbe Humedad, Anti Moho y Condensación | Para Ropa, Habitación, Baño, Trastero,Cocina y Hogar en General",
+   "precio": 19.97,
+   "precio_texto": "19,97 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Im8p6kkeL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0B4HRDFVY?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Deshumidificador o sachets antihumedad",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B071NWGL29": {
+   "asin": "B071NWGL29",
+   "titulo": "Retevis RT24 Walkie Talkie, Walkies Profesionales, PMR446 sin Licencia 16 Canales CTCSS/DCS VOX, Walkie Talkie Recargable con Cargador Europeo y Auriculares (Negro, 2 Pares)",
+   "precio": 69.99,
+   "precio_texto": "69,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41xJ0eGlL-L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B071NWGL29?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Walkie-talkies PMR446 (pareja con cargador)",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "40-80 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FKBJRT1G": {
+   "asin": "B0FKBJRT1G",
+   "titulo": "VEGER 20000mAh Batería Externa Power Bank, Carga Rápida 22.5W QC3.0, | USB-C Entrada y Salida, Batería Portátil para iPhone, Android, Tablets y Más",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31Efflf-4KL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FKBJRT1G?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Batería externa (power bank) 10.000-20.000 mAh, dos salidas",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "20-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08XQN1DVL": {
+   "asin": "B08XQN1DVL",
+   "titulo": "Grafoplas I Pack de 25 Mascarillas FFP2 Blancas: Protección Premium, Confort y Seguridad Garantizados I Radex",
+   "precio": 11.74,
+   "precio_texto": "11,74 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51Delw9aeUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08XQN1DVL?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mascarilla FFP2 (pack) y gafas de protección para la limpieza",
+   "kit": "kit-dana",
+   "kit_titulo": "Kit DANA / Inundación: 14 artículos para proteger tu hogar (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0B9ZTKYW5": {
+   "asin": "B0B9ZTKYW5",
+   "titulo": "Flintronic Linterna Camping Recargable, LED Lámpara Camping con Base Iman & Gancho, USB Luz SOS Portátil con 3 Modos, IP43 Impermeable para Emergencia, Acampar al Aire Libre",
+   "precio": 12.59,
+   "precio_texto": "12,59 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41gCkPHcOZL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0B9ZTKYW5?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Lámparas LED recargables con imán (para nevera/despensa)",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BY6SFKCS": {
+   "asin": "B0BY6SFKCS",
+   "titulo": "WOLFPACK LINEA PROFESIONAL Linterna Led Frontal Cabeza Ajustable 120 Lumenes, 3 Modos, Cinta Ajustable, 3 Baterias AAA Incluidas",
+   "precio": 8.5,
+   "precio_texto": "8,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31iQXBSMhwL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BY6SFKCS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna frontal (manos libres)",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "6-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BJPVQXP6": {
+   "asin": "B0BJPVQXP6",
+   "titulo": "Vela de Supervivencia, 36 Horas de Emergencia Velas de Hogar con 3 Mechas, Velas de Larga Duración Vela Candelita Portátil para Apagones Casa Aire Libre Camping Senderismo Picnic",
+   "precio": 13.1,
+   "precio_texto": "13,10 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41qHggiS3eL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BJPVQXP6?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D9JMS8H2": {
+   "asin": "B0D9JMS8H2",
+   "titulo": "40W Cargador Solar ETFE, Panel Solar Plegable con Puerto 18V CC y QC3.0 USB-A y PD30W Tipo-C, Cargador Solar Portátil con IP68 Resistente al Agua Compatible con Smarthone, Estación de Energía",
+   "precio": 71.98,
+   "precio_texto": "71,98 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51OMrkAqj6L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D9JMS8H2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Panel solar portátil 20-40 W",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "40-80 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DM2728ZS": {
+   "asin": "B0DM2728ZS",
+   "titulo": "Igloo IE24 DC - Nevera Eléctrica - 24 L - 12 V - Gris - Para Coche | Enfría hasta 20 °C por debajo del ambiente - 30 latas - Guardacables - Asa-soporte - Aislamiento eficaz de espuma PU",
+   "precio": 60.0,
+   "precio_texto": "60,00 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31WZyOW34vL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DM2728ZS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Nevera portátil de conservas",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "45-60 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FMDRF8H3": {
+   "asin": "B0FMDRF8H3",
+   "titulo": "CHEFZOCO Acumulador de Frio, Bloques de Hielo para Neveras portatiles, Placas Hielo Nevera, Tamaño de la Placa 20 x 2.5 x 10.5 cm, Plástico, Incluye Pack de 2 Bloques de 500 Gramos Cada uno",
+   "precio": 7.99,
+   "precio_texto": "7,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41cJGmMD56L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FMDRF8H3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Acumuladores de frío (bloques de gel congelables) para nevera y congelador",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09GKDQD8Y": {
+   "asin": "B09GKDQD8Y",
+   "titulo": "Smartwares Detector de CO, Sensor de 10 Años, Pilas Reemplazables, Pantalla | Alarma acústica 85 dB, Cobertura 20 a 40 m², Indicador LED, Material para montaje incluido, FGA-13041",
+   "precio": 16.99,
+   "precio_texto": "16,99 €",
+   "precio_antes": 23.99,
+   "ahorro_pct": 29.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41VRPNpDLzL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09GKDQD8Y?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "17-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00CIZVHXE": {
+   "asin": "B00CIZVHXE",
+   "titulo": "ARREGUI Elegant C9245 Caja Caudales con Llave para Contar y Transportar Dinero | Caja de Seguridad de acero con bandeja interior | Caja fuerte portatil 30 cm de ancho | Color Azul",
+   "precio": 21.95,
+   "precio_texto": "21,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41HzzGNPFkL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00CIZVHXE?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Efectivo en billetes pequeños",
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08RZS5YBH": {
+   "asin": "B08RZS5YBH",
+   "titulo": "Green Cell SAI 600VA 360W Line-Interactive 230V con AVR y Pantalla LCD | Alimentación Ininterrumpida con Onda Sinusoidal Modificada, Protección contra Sobretensiones, USB/RJ11 y 2 Tomas Schuko",
+   "precio": 68.99,
+   "precio_texto": "68,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31ekO2omO4L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08RZS5YBH?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "60-110 €",
+   "actualizado": "2026-11-09"
+  },
+  "B006RHPKF0": {
+   "asin": "B006RHPKF0",
+   "titulo": "S SUMEX 2707125 Kit de 2 Triángulos de Emergencia y 2 Chalecos Reflectantes Homologados EN471 Triángulos de Señalización Chalecos Reflectantes Alta Visibilidad Set Seguridad Vial Obligatorio con Bolsa",
+   "precio": 20.84,
+   "precio_texto": "20,84 €",
+   "precio_antes": 22.4,
+   "ahorro_pct": 7.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41cMt8RKzGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B006RHPKF0?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Dos triángulos de emergencia homologados",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FHBDDBNT": {
+   "asin": "B0FHBDDBNT",
+   "titulo": "help flash IoT+, Luz de Emergencia V16 con Geolocalización y más de 290 candelas de potencia, Exigible a partir de 2026, Conectada con DGT 3.0, Señal V-16 para Coches, plan de datos incluido",
+   "precio": 29.5,
+   "precio_texto": "29,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31YYH+eANJL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FHBDDBNT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "esencial",
+   "precio_aprox": "8-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CWDNN3MY": {
+   "asin": "B0CWDNN3MY",
+   "titulo": "4x chalecos de alta visibilidad coche 2027 y 2027: chaleco de seguridad ISO20471 amarillo neón - coches y camiones - chalecos reflectantes contra pinchazos y accidentes - accesorios para el coche",
+   "precio": 15.99,
+   "precio_texto": "15,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31P3ouNWDNL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CWDNN3MY?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Chaleco reflectante de alta visibilidad (dotación obligatoria en moto)",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "esencial",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F4RBK2W3": {
+   "asin": "B0F4RBK2W3",
+   "titulo": "| NUVEXIA® | Botiquin De Primeros Auxilios PREMIUM 300 Piezas I kit De Supervivencia para Coche, Viaje, Hogar o Montaña I First Aid Kit I Ideal Para Emergencias y Senderismo.",
+   "precio": 18.99,
+   "precio_texto": "18,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/510suAyvSKL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F4RBK2W3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botiquín de coche",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B086GGP7K5": {
+   "asin": "B086GGP7K5",
+   "titulo": "WOLFPACK LINEA PROFESIONAL Linterna Led Recargable Con Iman y Gancho 500 Lumenes Recargable/Powerbank",
+   "precio": 14.49,
+   "precio_texto": "14,49 €",
+   "precio_antes": 16.65,
+   "ahorro_pct": 13.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41R7pClwKtL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B086GGP7K5?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna LED con imán",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "esencial",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B088KG7XML": {
+   "asin": "B088KG7XML",
+   "titulo": "Eslinga Cuerda de Remolque UIHOL, Resistencia 9 Ton 5M Longitud, Material Sólido, Correa para Remolcar Vehículos para Remolque Resistente, con 2 grilletes y Guantes Antideslizantes para Coche",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/5154e7HBEjL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B088KG7XML?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cadena de remolque o correa de tiro",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "extra",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CSDX8LR8": {
+   "asin": "B0CSDX8LR8",
+   "titulo": "SNOWGO - Juego de 2 cadenas textiles para nieve - Talla XS a XXL - Homologado 16662-1 Europa - Adecuado para vehículos 4x4, vehículos eléctricos, furgonetas y vehículos comerciales <3,5T. (XL)",
+   "precio": 32.95,
+   "precio_texto": "32,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Z2xjSqXJL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CSDX8LR8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cadenas para nieve o calcetines textiles",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "30-80 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H4KNVJ99": {
+   "asin": "B0H4KNVJ99",
+   "titulo": "Arrancador de Batería de Coche 10000A, para Gas 8.0L/Diésel 6.0L, 12V Arrancador de Coche Portátil con Carga Rápida USB y Pinzas para Batería, Funciona en Frío Extremo, para Auto, Moto, Bote, Camping",
+   "precio": 38.95,
+   "precio_texto": "38,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41723sbUOUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H4KNVJ99?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank de coche 12V",
+   "kit": "kit-coche",
+   "kit_titulo": "Kit Coche 2026: obligatorios y opcionales DGT",
+   "prioridad": "esencial",
+   "precio_aprox": "25-50 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DP4Y4S7K": {
+   "asin": "B0DP4Y4S7K",
+   "titulo": "Sanytol - Recarga Multiusos Eucaliptus 750ml (Paquete de 4)",
+   "precio": 9.96,
+   "precio_texto": "9,96 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/4175IzwM1cL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DP4Y4S7K?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Lejía y desinfectante de superficies",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07NMGQW67": {
+   "asin": "B07NMGQW67",
+   "titulo": "by Amazon Papel Higiénico Supersuave de 3 Capas, 36 Rollos (4 Paquetes de 9), 200 Hojas por Rollo, Con Certificación FSC",
+   "precio": 13.77,
+   "precio_texto": "13,77 €",
+   "precio_antes": 14.67,
+   "ahorro_pct": 6.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41g5U0JtkHL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07NMGQW67?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Papel higiénico y toallitas",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H8X7LJTM": {
+   "asin": "B0H8X7LJTM",
+   "titulo": "KOMABLEN 60 Bolsas de Basura con Asas 50L 4 Rollos 62x86cm | Negro Prueba de Fugas, Robusto, Bolsa de Basura para Sala de Estar, Cocina, Baño, Oficina",
+   "precio": 13.99,
+   "precio_texto": "13,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41FAEm065FL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H8X7LJTM?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bolsas de residuos negras (50+ unidades)",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07FXSF4PV": {
+   "asin": "B07FXSF4PV",
+   "titulo": "Fackelmann Geneva Pote Alto 14 cms, Capacidad 1,7 Litros, Cazo de Leche de Acero Inoxidable con Núcleo de Aluminio, Resistente a Corrosión y Fácil de Limpiar, Distribución Uniforme del Calor",
+   "precio": 16.99,
+   "precio_texto": "16,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/317mL27iCgL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07FXSF4PV?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cocoteira o cazo resistente (para calentar conservas)",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CKWGSX22": {
+   "asin": "B0CKWGSX22",
+   "titulo": "FireAngel FA6813 - Alarma y detector de monóxido de carbono - Sensor de 10 años de vida útil para el hogar con pilas AA - Detector de monóxido de carbono portátil de viaje - Monitor detector de CO con",
+   "precio": 18.99,
+   "precio_texto": "18,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31rD0Qpq7qL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CKWGSX22?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Detector de monóxido de carbono a pilas",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GLQGTKQD": {
+   "asin": "B0GLQGTKQD",
+   "titulo": "Asmodee dnup, Juego de Cartas, Modifica tu Mano y Dale un Giro a la Partida | CREA Nuevos Combos y sé el Primero en Deshacerte de Tus Cartas para Ganar, A Partir de 8 Años, De 2 a 5 Jugadores, Español",
+   "precio": 11.69,
+   "precio_texto": "11,69 €",
+   "precio_antes": 12.99,
+   "ahorro_pct": 10.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51wNdZTw+SL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GLQGTKQD?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Juegos de mesa o cartas",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "8498381495": {
+   "asin": "8498381495",
+   "titulo": "El Principito (edición original con las acuarelas del autor)",
+   "precio": 6.6,
+   "precio_texto": "6,60 €",
+   "precio_antes": 6.95,
+   "ahorro_pct": 5.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31G5RYjlQ2L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/8498381495?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Libros de bolsillo",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "5-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BYP13RZQ": {
+   "asin": "B0BYP13RZQ",
+   "titulo": "Mini Ventilador Portatil Pequeño De Mano, Ventilador USB Recargable A Pilas con Power Bank y 4 Velocidades Silencioso, Ventilador Personal Plegable para Interior Oficina Viajes",
+   "precio": 21.9,
+   "precio_texto": "21,90 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41uFTJ0kU5L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BYP13RZQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Ventilador USB de repisa o pies",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "12-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CGX22CR8": {
+   "asin": "B0CGX22CR8",
+   "titulo": "Temtop C1 Monitor de CO2, Monitor de Calidad del Aire Interior Medidor Portátil de CO2 Temperatura Humedad Hogar Oficina o Escuela",
+   "precio": 40.8,
+   "precio_texto": "40,80 €",
+   "precio_antes": 43.45,
+   "ahorro_pct": 6.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/417LEMsHhgL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CGX22CR8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Medidor de CO2 o calidad del aire portátil",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GGY8TTR2": {
+   "asin": "B0GGY8TTR2",
+   "titulo": "HENGBIRD Linterna Dinamo con Manivela – Set de 4 Linterna Autorecargable LED sin Pilas, Linterna Emergencia Portátil para Camping, Senderismo y Kit de Supervivencia",
+   "precio": 11.99,
+   "precio_texto": "11,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41rDcHor4ZL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GGY8TTR2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Linterna LED a pilas o de dinamo",
+   "kit": "kit-hogar",
+   "kit_titulo": "Kit Hogar/Confinamiento: 22 artículos de supervivencia (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08QDYLRQ1": {
+   "asin": "B08QDYLRQ1",
+   "titulo": "Depósito de hidratación SEEKER 3L",
+   "precio": 26.0,
+   "precio_texto": "26,00 €",
+   "precio_antes": 28.0,
+   "ahorro_pct": 7.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31+7jwQ9QpL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08QDYLRQ1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Depósito de agua plegable 3 L (HydraPak Seeker)",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C9CJKCH3": {
+   "asin": "B0C9CJKCH3",
+   "titulo": "Anker Nano Power bank 10.000 mAh 30 W con cable USB C integrado | 1 USB C y USB A. Compatible con iPhone serie 18 pro max/17/16/15/14, MacBook, Galaxy, iPad y AirPods",
+   "precio": 29.99,
+   "precio_texto": "29,99 €",
+   "precio_antes": 39.99,
+   "ahorro_pct": 25.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31YBCgvXujL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C9CJKCH3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank ligero + cable USB",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-50 €",
+   "actualizado": "2026-11-09"
+  },
+  "B086X75P34": {
+   "asin": "B086X75P34",
+   "titulo": "Topiky Brújula Multifuncional con Lupa, Espejo y Regla 4 en 1 para Acampar/Lectura de mapas/Pesca/Senderismo/Senderismo Actividades al Aire",
+   "precio": 9.73,
+   "precio_texto": "9,73 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/61YHECW78KL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B086X75P34?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mapa y brújula físicos de la zona",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CKW3F157": {
+   "asin": "B0CKW3F157",
+   "titulo": "Romon Paracord 550 30 Metros, Cuerda Paracord 4mm,Cordino 7 Hebras, Cuerda para Toldo Exterior, Rope Camping, SOGA Tendedero",
+   "precio": 6.99,
+   "precio_texto": "6,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51WVLtCGLiL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CKW3F157?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cuerda de paracord 550 (30m)",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "8-19 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GR9993T2": {
+   "asin": "B0GR9993T2",
+   "titulo": "MUNZE Manta Térmica Supervivencia, 2 Piezas Tamaño Extragrande 210X160Cm, Doble Cara Dorada Y Plateada para Emergencia Rescate Maratón Senderismo Primeros Auxilios",
+   "precio": 7.99,
+   "precio_texto": "7,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51WMWT01s8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GR9993T2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Manta térmica de supervivencia",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FX9NXD18": {
+   "asin": "B0FX9NXD18",
+   "titulo": "Gorro de Invierno para Hombre y Mujer con Forro Polar y Orejeras, Gorro de Lana Abrigado para Frío Intenso, Negro",
+   "precio": 8.69,
+   "precio_texto": "8,69 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41rYVKsddOL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FX9NXD18?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Casquete o gorro de abrigo",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-18 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DHGGGK1Q": {
+   "asin": "B0DHGGGK1Q",
+   "titulo": "RHINO RESCUE Kit Médico Portátil Mediano, Resistente al Agua | 17,5 x 10 x 3cm, Botiquín de Primeros Auxilios para Senderismo, Mochilero, Ciclismo, Coche, Viaje",
+   "precio": 24.99,
+   "precio_texto": "24,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31yPkrxPqNL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DHGGGK1Q?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botiquín ligero de trekking",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DK3LBNFM": {
+   "asin": "B0DK3LBNFM",
+   "titulo": "Kit Costura,Kit de Costura,Costurero Accesorios Costura Kit de Accesorios para el Viajes y Principiantes y emergencias, de Ropa con Agujas de Hilo, Tijeras, Botones de,Costureros Completos",
+   "precio": 6.49,
+   "precio_texto": "6,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51eQOCQZT8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DK3LBNFM?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Kit de costura de emergencia",
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "3-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07D5GJ9L9": {
+   "asin": "B07D5GJ9L9",
+   "titulo": "Fit-Flip Toalla de enfriamiento Toallas frías de Microfibra | Azul oscuro, 100 × 30 cm, Airflip cooling towel para fitness, gimnasio, deporte, viajes y yoga",
+   "precio": 11.99,
+   "precio_texto": "11,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51bgrt9gjGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07D5GJ9L9?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Toalla de enfriamiento instantáneo",
+   "kit": "kit-calor",
+   "kit_titulo": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07B9KD2JF": {
+   "asin": "B07B9KD2JF",
+   "titulo": "ISDIN Fotoprotector Facial Fusion Water MAGIC Medium SPF50-50ml | Protector Solar Ultraligero Con Color, Crema Solar Que Unifica El Tono Y Protege Con Tecnología Full Spectrum, En 3 Tonos",
+   "precio": 21.93,
+   "precio_texto": "21,93 €",
+   "precio_antes": 26.95,
+   "ahorro_pct": 19.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41XHOaYMoCL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07B9KD2JF?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Protector solar SPF 50",
+   "kit": "kit-calor",
+   "kit_titulo": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FY2W5B8T": {
+   "asin": "B0FY2W5B8T",
+   "titulo": "KANASTAL Gafas de Sol Hombre Deportivas Polarizadas Mujer Negras UV400 | Montura de TR90, Categoría 3, Ideales para Running, Senderismo, Ciclismo, Pesca, Viajes y Actividades al Aire Libre",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31MEpiL6xUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FY2W5B8T?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gafas de sol categoría 3-4",
+   "kit": "kit-calor",
+   "kit_titulo": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07SYB38Q8": {
+   "asin": "B07SYB38Q8",
+   "titulo": "SANDISK Ultra Luxe Pendrive, USB Type-A, 128 GB (Unidad Flash, Velocidad de lectura hasta 400 MB/s, USB 3.2 Gen 1 + USB 3.0 compatible, Protección con Contraseña, RescuePRO Deluxe, Metálico) Plata",
+   "precio": 25.99,
+   "precio_texto": "25,99 €",
+   "precio_antes": 31.99,
+   "ahorro_pct": 19.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/21SQBFqNZVL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07SYB38Q8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Copia digital en USB cifrado",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DHJR3V44": {
+   "asin": "B0DHJR3V44",
+   "titulo": "GRIFEMA GA1003-2 Caja de Seguridad para Llaves, Caja de Cerradura, Armarios de Llaves con Gancho, para Casa, Oficina, Gris",
+   "precio": 15.99,
+   "precio_texto": "15,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41CZGcMctoL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DHJR3V44?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Copia de llaves de casa",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "—",
+   "actualizado": "2026-11-09"
+  },
+  "B097Y3R3QY": {
+   "asin": "B097Y3R3QY",
+   "titulo": "A AM SeaBlue 40L Mochila de Senderismo Mochila de Viaje Impermeable de Gran Capacidad Mochila de Trekking con Funda para Lluvia para Hombres Mujeres, Negro",
+   "precio": 43.99,
+   "precio_texto": "43,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/519l-hTG3xL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B097Y3R3QY?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mochila de 30-40 L resistente al agua",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "30-70 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GK6PV1M4": {
+   "asin": "B0GK6PV1M4",
+   "titulo": "REVOLRACE Kit de Primeros Auxilios para Coche 90 Piezas – Botiquín de Emergencia Compacto e Impermeable – Estuche Portátil de Nylon para Carretera, Viaje y Vehículo",
+   "precio": 13.99,
+   "precio_texto": "13,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51dlwIMOGSL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GK6PV1M4?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botiquín de bolsillo",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CT3BWC5P": {
+   "asin": "B0CT3BWC5P",
+   "titulo": "ZOKJSW 2 unidades de silbato de emergencia, silbatos de seguridad, silbato de señal hasta 4000 Hz con correa reflectante ajustable para kayak, navegación en bote, natación, supervivencia en el agua",
+   "precio": 6.49,
+   "precio_texto": "6,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/419FaRXqVIL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CT3BWC5P?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Silbato de emergencia",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "3-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08ZM2KC49": {
+   "asin": "B08ZM2KC49",
+   "titulo": "16en1 Herramienta Multiuso Camping Accesorios Regalos para Hombres | Multiherramienta con Hacha Supervivencia Kit Navaja Multiusos Regalo Padre Regalo Cumpleanos",
+   "precio": 24.98,
+   "precio_texto": "24,98 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51Vwb1U2oAL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08ZM2KC49?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Navaja multiusos",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H6BL141L": {
+   "asin": "B0H6BL141L",
+   "titulo": "URAQT Luz Running, 750LM Linterna LED para Correr de Noche con Correas Dobles Reflectantes 360°,Impermeable IPX5 Luces Pecho para Caminar/Ciclismo",
+   "precio": 17.99,
+   "precio_texto": "17,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41XbOsRq6XL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H6BL141L?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)",
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "3-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07BGSTHD2": {
+   "asin": "B07BGSTHD2",
+   "titulo": "Semillas ECOLÓGICAS huerto lote 10 sobres (Tomate, Pimiento italiano, Pimiento rojo, Berenjena, Calabacin, Cebolla, Pepino, Melón, Sandía, Puerro)",
+   "precio": 21.95,
+   "precio_texto": "21,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/511jQC-8VQL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07BGSTHD2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Kit de semillas ecologicas (10 variedades de huerto)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "21 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CVLH49QD": {
+   "asin": "B0CVLH49QD",
+   "titulo": "GROWMANIA Pack 5 Bandejas de Germinación 112 Alveolos | Semillero 100% Material Reciclable | Propagador de Semillas",
+   "precio": 12.95,
+   "precio_texto": "12,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51ectivKreL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CVLH49QD?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bandejas de germinacion (pack 5, 112 alveolos)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C2HQ82L1": {
+   "asin": "B0C2HQ82L1",
+   "titulo": "Sustrato Universal 80L para Plantas de Interior y Exterior - Batlle",
+   "precio": 24.03,
+   "precio_texto": "24,03 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/516RQCKXpjL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C2HQ82L1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Sustrato universal 80 L (Batlle)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "24 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00F2NGYAU": {
+   "asin": "B00F2NGYAU",
+   "titulo": "Bellota 2994 - Kit de jardinería y huerto que incluye: rastrillo, transplantador y azuela, herramienta pequeña de jardín, Color Estándar",
+   "precio": 17.2,
+   "precio_texto": "17,20 €",
+   "precio_antes": 18.26,
+   "ahorro_pct": 6.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41xI78GCPUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00F2NGYAU?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Kit de herramientas de jardin (Bellota, 3 piezas)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FZC1F9NH": {
+   "asin": "B0FZC1F9NH",
+   "titulo": "Cofan Regadera Gris de 6 litros con Cabezal Desmontable, HDPE Resistente, Asa de Transporte, Regadera para Interior y Exterior",
+   "precio": 10.19,
+   "precio_texto": "10,19 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/21BX1GlLv7L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FZC1F9NH?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Regadera 6 L con cabezal desmontable",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D3583RGC": {
+   "asin": "B0D3583RGC",
+   "titulo": "Outsunny Invernadero de Jardín de 3 Niveles 59x39x127 cm Transparente | Invernadero Terraza, 3 Estantes, Puerta con Cremallera, Marco de Acero, Cubierta PVC, Cultivo Plantas Flores",
+   "precio": 23.99,
+   "precio_texto": "23,99 €",
+   "precio_antes": 28.99,
+   "ahorro_pct": 17.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51gKHBBE4UL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D3583RGC?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mini invernadero de 3 niveles (59x39x127 cm)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "opcional",
+   "precio_aprox": "21 €",
+   "actualizado": "2026-11-09"
+  },
+  "B096TLBGVS": {
+   "asin": "B096TLBGVS",
+   "titulo": "Manual del huerto urbano y ecológico para principiantes: Convierte tu terraza o jardín en una huerta sostenible y de proximidad",
+   "precio": 10.73,
+   "precio_texto": "10,73 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41D5QalU7+S._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B096TLBGVS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Manual del huerto urbano y ecologico para principiantes",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10 €",
+   "actualizado": "2026-11-09"
+  },
+  "8419436623": {
+   "asin": "8419436623",
+   "titulo": "Huerto urbano (LAROUSSE - Libros Ilustrados/ Prácticos - Ocio y naturaleza - Jardinería)",
+   "precio": 17.05,
+   "precio_texto": "17,05 €",
+   "precio_antes": 17.95,
+   "ahorro_pct": 5.0,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51H5FsuzBeL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/8419436623?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Huerto urbano (Larousse)",
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "prioridad": "opcional",
+   "precio_aprox": "17 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BJW6W2GM": {
+   "asin": "B0BJW6W2GM",
+   "titulo": "Calvo Atún claro al Natural Pack 6 unidades x 56gr",
+   "precio": 6.69,
+   "precio_texto": "6,69 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41DnS3SFAgL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BJW6W2GM?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Atún claro al natural (pack 6 latas)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "~8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B01MSTVEZN": {
+   "asin": "B01MSTVEZN",
+   "titulo": "Litoral Lentejas a la Riojana pack 6x425g | Lentejas a la riojana plato preparado listo para comer con receta tradicional",
+   "precio": 13.68,
+   "precio_texto": "13,68 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51YQILZcRzL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B01MSTVEZN?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Lentejas a la riojana Litoral (pack 6)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "~13 €",
+   "actualizado": "2026-11-09"
+  },
+  "B06WGS9J3D": {
+   "asin": "B06WGS9J3D",
+   "titulo": "Litoral Cocido Madrileño pack 6x425g | Cocido madrileño plato preparado listo para comer con receta tradicional de cuchara",
+   "precio": 17.58,
+   "precio_texto": "17,58 €",
+   "precio_antes": 18.9,
+   "ahorro_pct": 7.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51BMMiovw7L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B06WGS9J3D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cocido madrileño Litoral (pack 6)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "~14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CYT5X5PY": {
+   "asin": "B0CYT5X5PY",
+   "titulo": "MARISKITO | Caja Regalo Gourmet con 12 Conservas Gallegas – Mejillones, Chipirones, Sardinillas, Ventresca de Bonito, Zamburiñas y Navajas – Pack Delicatessen para Navidad y Celebraciones",
+   "precio": 99.97,
+   "precio_texto": "99,97 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/412rhnk1zCL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CYT5X5PY?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Conservas gallegas variadas (12 latas gourmet)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "~89 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BG8XYDPR": {
+   "asin": "B0BG8XYDPR",
+   "titulo": "Variado de patés y cremas 45 unidades de 25 gr de Deliex e Indalitos, para tostadas, bocadillos, tapas y picoteo, 15 sabores diferentes de quesos, carnicos y vegetales.",
+   "precio": 19.95,
+   "precio_texto": "19,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51ov5vo0oRL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BG8XYDPR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Patés variados (45 unidades)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "~19 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00XA5FJ9E": {
+   "asin": "B00XA5FJ9E",
+   "titulo": "Central Lechera Asturiana Leche en Polvo Entera, Bolsa 1kg",
+   "precio": 9.89,
+   "precio_texto": "9,89 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/410sQjr-PnL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00XA5FJ9E?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Leche en polvo entera 1 kg (Asturiana)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "~9 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G45JL8F3": {
+   "asin": "B0G45JL8F3",
+   "titulo": "Hornillo Camping Gas, Campin Gas, 2 en 1, Adaptador para Bombona Grande o para Cartuchos, Ideal para Camping Emergecias, Maletín incluido, Cocina de gas portatil. NO INCLUYE CARTUCHOS DE GAS.",
+   "precio": 25.49,
+   "precio_texto": "25,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51CgqgjNjlL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G45JL8F3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Hornillo de camping 2 en 1 (bombona grande o cartucho)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "~19 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07L3DG8DK": {
+   "asin": "B07L3DG8DK",
+   "titulo": "Scottex Original Papel higiénico, 96 rollos, 6 packs de 16 rollos dos capas que proporcionan el equilibro adecuado en suavidad y resistencia",
+   "precio": 24.99,
+   "precio_texto": "24,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41liYY4bf0L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07L3DG8DK?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Papel higiénico 96 rollos (Scottex)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "~23 €",
+   "actualizado": "2026-11-09"
+  },
+  "B075RCPZ3P": {
+   "asin": "B075RCPZ3P",
+   "titulo": "Multivitaminas y Minerales - 450 Comprimidos (Paquete XL) - Todas las Vitaminas A,B,C,D3,E, Calcio, Zinc, Selenio – Multivitaminico Activo Completo para Hombre y Mujer, Perfecto para compartir",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/312J4tX0KQL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B075RCPZ3P?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Multivitaminas 450 comprimidos",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "~11 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07PV3KL1H": {
+   "asin": "B07PV3KL1H",
+   "titulo": "Espirulina y Chlorella Ecológicas 4.800mg - 500 comprimidos para 125 días - Producto con certificado ecológico - Vegano y probado en laboratorio en Alemania",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41MlePP9iXL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07PV3KL1H?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Espirulina + chlorella ecológica (500 comprimidos)",
+   "kit": "kit-30-dias",
+   "kit_titulo": "Kit 30 Días: 16 artículos para un mes sin suministros (2026)",
+   "prioridad": "opcional",
+   "precio_aprox": "~14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B011OEOZE2": {
+   "asin": "B011OEOZE2",
+   "titulo": "San benedetto - Acqua baby naturale 24 bottiglie da lt. 0.25 (1000033564)",
+   "precio": 15.0,
+   "precio_texto": "15,00 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31kDaNJyU+L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B011OEOZE2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "4-7 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F99LGY3V": {
+   "asin": "B0F99LGY3V",
+   "titulo": "Genérico Pastillas para potabilizar Agua 50 Unidades",
+   "precio": 12.6,
+   "precio_texto": "12,60 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41dsd00oF+L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F99LGY3V?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pastillas potabilizadoras aptas para lactantes",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GSVHHD6R": {
+   "asin": "B0GSVHHD6R",
+   "titulo": "Guyisile 4-en-1 Calientabiberones, Esterilizador, Vapor & LCD, sin BPA | Calientabiberones para leche & alimentos, doble biberón, temporizador, descongelación – ideal para viajes y noches",
+   "precio": 25.99,
+   "precio_texto": "25,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41BKQ7PssxL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GSVHHD6R?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "6-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BWJYXNK3": {
+   "asin": "B0BWJYXNK3",
+   "titulo": "Quid Cocco Termo Acero Inoxidable 26cl Acero Inox No Apto Microondas Térmico Frío Calor 12 Horas",
+   "precio": 12.99,
+   "precio_texto": "12,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/11cCCjNBPqL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BWJYXNK3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Termo pequeño de boca ancha (350-500 ml)",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DQGR1KDL": {
+   "asin": "B0DQGR1KDL",
+   "titulo": "Grsta Botella Agua Acero Inoxidable 1 litro, Botella Agua, A Prueba de Fugas, Botella Termica, sin BPA, Termo Acero Inoxidable, Mantiene 24H Frio/12H Calor, para la Deportes, Cámping, Senderismo",
+   "precio": 21.49,
+   "precio_texto": "21,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41nO8h+Nc8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DQGR1KDL?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botella térmica fría (500 ml)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "12-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H29XL26R": {
+   "asin": "B0H29XL26R",
+   "titulo": "Blemil 1 Optimum Evolution | 800g | Leche de Inicio en polvo para Bebé desde el Primer Día",
+   "precio": 29.49,
+   "precio_texto": "29,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/419PihIygwL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H29XL26R?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Leche de fórmula de seguimiento (lata 400-800 g)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-16 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0B6J97R41": {
+   "asin": "B0B6J97R41",
+   "titulo": "Nutribén Papilla 8 Cereales Miel y Galletas María, Cereales Bebé +6m, 1000g | Sabor delicioso a miel y galleta maría; con 11 vitaminas y 2 minerales",
+   "precio": 6.99,
+   "precio_texto": "6,99 €",
+   "precio_antes": 8.33,
+   "ahorro_pct": 16.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41PLVPmVcbL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0B6J97R41?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cereales/papilla instantánea (2 cajas)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-9 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C1GPNPK9": {
+   "asin": "B0C1GPNPK9",
+   "titulo": "Hero Solo Tarritos Frutas Variadas Bebé Desde 4 Meses, 12 x 190 g | Merienda de fruta natural, Perfecto para el destete, Baby, Sin aceite de palma, Sin sal añadida, Ingredientes naturales",
+   "precio": 16.68,
+   "precio_texto": "16,68 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41SMNFBRLZL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C1GPNPK9?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Potitos de fruta y verdura (pack 6-8)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "8-14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08DBMQSVN": {
+   "asin": "B08DBMQSVN",
+   "titulo": "Medela Harmony extractor de leche manual, diseño suizo, compacto, con embudos PersonalFit Flex y tecnología 2-Phase Expression de Medela",
+   "precio": 31.99,
+   "precio_texto": "31,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/21PIMzxqj6L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08DBMQSVN?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Sacaleches manual",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "12-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DZXDTZ6B": {
+   "asin": "B0DZXDTZ6B",
+   "titulo": "Oderra Bolsas Leche Materna Congelar 50PCS - 250ml Bolsas Almacenamiento Leche Materna con Sellado Doble, Preesterilizadas, Compatibles con Refrigeradores y Congeladores",
+   "precio": 8.99,
+   "precio_texto": "8,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/410oIfeCsjL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DZXDTZ6B?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bolsas de almacenamiento de leche materna (pack 30-50)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "6-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07YQD4FVL": {
+   "asin": "B07YQD4FVL",
+   "titulo": "Chelino Fashion & Love Pañales infantiles Talla 4 (9-15 kg), 34 unidades",
+   "precio": 6.5,
+   "precio_texto": "6,50 €",
+   "precio_antes": 7.99,
+   "ahorro_pct": 19.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41ZOlB0QTUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07YQD4FVL?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pañales de reserva (talla actual, pack 20-25)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "6-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09NYL7FY4": {
+   "asin": "B09NYL7FY4",
+   "titulo": "BOSTIK - Toallitas Limpieza - Bote 80 Toallitas | Alta Capacidad de Limpieza - Testado Dermatológicamente por Laboratorios Certificados - Limpieza de Manos - Piel",
+   "precio": 6.95,
+   "precio_texto": "6,95 €",
+   "precio_antes": 10.9,
+   "ahorro_pct": 36.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31NuK6HVvvL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09NYL7FY4?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Toallitas limpiadoras (pack 3-5)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "4-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F1TQD4C4": {
+   "asin": "B0F1TQD4C4",
+   "titulo": "KASESSS 3 Piezas Pañaleras para Bebes, Bolsa Impermeable Bebe, Bolsa Bebe, Bolsas Pañales Impermeables, Reutilizable Organizador de Pañales para Nadar Fitness Acampar Viajar Playa Lindos Animalitos",
+   "precio": 11.99,
+   "precio_texto": "11,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/4192S2OZE4L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F1TQD4C4?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bolsas estancas para ropa sucia y pañales (pack)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "5-9 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BZS918ZG": {
+   "asin": "B0BZS918ZG",
+   "titulo": "AMZSKU Carburador para desbrozadora 52 CC 49 CC 43 CC Carbu Set con Junta, Manguera, bujía y Filtro de Gasolina",
+   "precio": 9.74,
+   "precio_texto": "9,74 €",
+   "precio_antes": 12.51,
+   "ahorro_pct": 22.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/410v-3U1DeL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BZS918ZG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cambrador portátil plegable",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "8-14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G65QTD2Y": {
+   "asin": "B0G65QTD2Y",
+   "titulo": "SLOAN Crema Anti Rozaduras 75 ML Barrera Protectora con 8% Óxido de Zinc, Caléndula, Manzanilla y Tintura de benjui Previene Fricción e Irritación",
+   "precio": 13.5,
+   "precio_texto": "13,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31XErwEDAbL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G65QTD2Y?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Crema barrera contra rozaduras",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "4-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09LJZM4ZB": {
+   "asin": "B09LJZM4ZB",
+   "titulo": "Jabón Neutro Natural en Pastilla sin Perfume 120g - Santa Gadea | Jabón artesanal con leche de cabra y aceite de oliva. PH neutro, sin químicos. Piel sensible, seca, atópica, bebés y niños.",
+   "precio": 8.99,
+   "precio_texto": "8,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/21JU5rBqHFL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09LJZM4ZB?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Jabón neutro en pastilla + esponja",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "2-4 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H37438Y1": {
+   "asin": "B0H37438Y1",
+   "titulo": "FIEMOL Saco De Dormir Bebe Con Piernas Tog 1.5 Saco Dormir Bebe 3-4 Años | Saco de dormir bebé todo el año con zapatillas plegables, suave y transpirable, cremallera doble sentido, caja regalo 2 pieza",
+   "precio": 38.99,
+   "precio_texto": "38,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41LHbsTOpSL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H37438Y1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-22 €",
+   "actualizado": "2026-11-09"
+  },
+  "B004GENVLG": {
+   "asin": "B004GENVLG",
+   "titulo": "Manta TÉRMICA DE Emergencia Oro/Plata 10 UDS",
+   "precio": 4.95,
+   "precio_texto": "4,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41-i9efK4zL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B004GENVLG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "2-6 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FNCWC3SM": {
+   "asin": "B0FNCWC3SM",
+   "titulo": "Tokaneit Sombreros y Guantes de Bebé Aplicable de 0 a 6 Meses 3 Juegos Gorros Beanie para Bebé Recién Nacidos,Gorro de Algodón Suave,Gorros y Guantes para Recién Nacidos,Gorro y Guantes",
+   "precio": 8.99,
+   "precio_texto": "8,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31Bd10c129L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FNCWC3SM?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gorro y manoplas de bebé",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "5-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FKT561SK": {
+   "asin": "B0FKT561SK",
+   "titulo": "Termómetro Infrarrojo Sin Contacto para Bebé/Adulto - Medición Frontal Instantánea con Alerta de Fiebre & Pantalla LCD - Conversión Digital ℃/℉ para Casa/Hospital",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41wWO5NLUzL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FKT561SK?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Termómetro digital de bebé",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "6-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F5X5TN4T": {
+   "asin": "B0F5X5TN4T",
+   "titulo": "JARAMI - Suero Hipertónico para Nebulizador - Solucion Salina Hipertonica 3% de Larga Duración - Uso Rapido y Facil en Nebulizador para Bebe.",
+   "precio": 15.99,
+   "precio_texto": "15,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51QPdibYuLL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F5X5TN4T?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "6-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DCC4KNZN": {
+   "asin": "B0DCC4KNZN",
+   "titulo": "150 Piezas Juguetes de Fiesta a Granel, Relleno Piñata Cumpleaños Infantil, Bolsas de Regalo de Fiestas, Cajas de premios a Salón de Clases, Cajas de Regalo de Cumpleaños para Niños y Niñas",
+   "precio": 18.99,
+   "precio_texto": "18,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/61cMTSWiA8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DCC4KNZN?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "0-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09MJ9QV7W": {
+   "asin": "B09MJ9QV7W",
+   "titulo": "Welsberg 1 libro de vacunación carné de vacunación – certificado internacional de vacunación para bebés, niños, adolescentes, adultos con página extra Covid-19 – Edición 2021",
+   "precio": 4.49,
+   "precio_texto": "4,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41HTvi0g0+L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09MJ9QV7W?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CY8G31G4": {
+   "asin": "B0CY8G31G4",
+   "titulo": "Porta credenciales oficial Hidden Disabilities con llavero de girasol y monedero para personas de menor estatura (llavero de 70 cm)",
+   "precio": 12.0,
+   "precio_texto": "12,00 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41+3W5gKd4L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CY8G31G4?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "0-5 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07X8H7KR2": {
+   "asin": "B07X8H7KR2",
+   "titulo": "Mr. Wonderful Postal - Bebé se ha unido al grupo Familia",
+   "precio": 2.9,
+   "precio_texto": "2,90 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31f2kFt1+JL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07X8H7KR2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Fotos recientes del bebé y de la familia en papel",
+   "kit": "kit-bebe",
+   "kit_titulo": "Kit Bebé: 32 esenciales para proteger a tu hijo (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "0 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F31WSL3G": {
+   "asin": "B0F31WSL3G",
+   "titulo": "Pastillero Semanal Español 2 Tomas,GeekerChip Pastillero Diario 7 Dias,con 14 Compartimentos,Organizador de Pastillas para Viaje,para Vitaminas, Suplementos y Medicamentos(Multicolor)",
+   "precio": 6.99,
+   "precio_texto": "6,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41zh8ITQzYL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F31WSL3G?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "6-14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DNZ8DG6H": {
+   "asin": "B0DNZ8DG6H",
+   "titulo": "QWORK® Set de 50 Etiquetas Verticales Transparente 130 * 85mm para Tarjetas y Cordones Azules con Gancho Giratorio para Escuela, Eventos y Más",
+   "precio": 13.99,
+   "precio_texto": "13,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41kvjiVXBsL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DNZ8DG6H?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Ficha médico-identificativa plastificada",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "0-5 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08QD2ZXFT": {
+   "asin": "B08QD2ZXFT",
+   "titulo": "b.box Bolsa de Gel Frío Reutilizable | Enfriador para Nevera Portátil, Caja de Almuerzo y Bolsa Térmica para Alimentos | Bolsa de Frío para Niños | Gel de Grado Alimentario| Lote de 2 Unidades",
+   "precio": 7.99,
+   "precio_texto": "7,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41A46vnA6vL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08QD2ZXFT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DNMRNRF2": {
+   "asin": "B0DNMRNRF2",
+   "titulo": "TempPro TP110 Termómetro Frigorífico Digital, IPX6 Impermeable, 1 pieza | Termómetro Nevera y Congelador con Retroiluminada, Registro MAX/MIN 24h, Termómetro Refrigerador (Anteriormente ThermoPro)",
+   "precio": 11.99,
+   "precio_texto": "11,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41-hut1B+KL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DNMRNRF2?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Termómetro de nevera (mínimo/máximo)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "4-8 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G3YCY2FS": {
+   "asin": "B0G3YCY2FS",
+   "titulo": "COMPASJ - Tensiómetro de brazo Monitor de Presión Arterial Digital Detección de Arritmia, Medición Precisa, Memoria hasta 99 lecturas, Brazalete Ajustable 22-42cm, para Mayores Familias. Incluye Pilas",
+   "precio": 17.99,
+   "precio_texto": "17,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41DdajTVI0L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G3YCY2FS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Tensiómetro de brazo a pilas con memoria",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "25-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C4Y5MWC8": {
+   "asin": "B0C4Y5MWC8",
+   "titulo": "VARTA Pilas para aparatos auditivos tipo 312 marrón, paquete de 60, Power on Demand, batería de audífono, pilas de botón para audífonos, Made in Germany",
+   "precio": 18.59,
+   "precio_texto": "18,59 €",
+   "precio_antes": 19.99,
+   "ahorro_pct": 7.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51mqMYJKX4L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C4Y5MWC8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F4X8M5MZ": {
+   "asin": "B0F4X8M5MZ",
+   "titulo": "ZEHEXA Gafas de Lectura Redondas para Mujer Hombre, Pack de 3 | Características con filtro de luz azul, protección UV y lentes antirreflejos. Ideales para lectura y uso de pantallas.",
+   "precio": 10.99,
+   "precio_texto": "10,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51vrLLqoEmL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F4X8M5MZ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gafas de graduación de repuesto",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07MDVYFVF": {
+   "asin": "B07MDVYFVF",
+   "titulo": "Y-Kelin Kit de limpieza de dentaduras postizas con cepillo de dientes postizos de dos cabezas (Azul)",
+   "precio": 9.49,
+   "precio_texto": "9,49 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41iGgmDyJ2L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07MDVYFVF?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Caja de dentadura + pegamento y vaso con tapa",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "6-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DB8GRTPL": {
+   "asin": "B0DB8GRTPL",
+   "titulo": "ALFFREUDE Bastón Plegable con Luz LED, Bastones para Mayores, Bastones Plegables para Hombres y Mujeres con Base Antideslizante, Alturas Ajustables, Caña de Caminar de Aluminio",
+   "precio": 17.99,
+   "precio_texto": "17,99 €",
+   "precio_antes": 18.99,
+   "ahorro_pct": 5.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41rEtFaSgFL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DB8GRTPL?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bastón plegable / andador de repuesto con luz",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G2LY256T": {
+   "asin": "B0G2LY256T",
+   "titulo": "HOTUT Luces con sensor de movimiento para interiores, 2 Piezas Luz Nocturna Infantil USB-C LED Recargable (automático/encendido/apagado), Luz LED Adhesiva para Escaleras, Pasillo",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41iWTVBGG8L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G2LY256T?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Balizas LED de noche con sensor (pack 2-3)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09XJ947XJ": {
+   "asin": "B09XJ947XJ",
+   "titulo": "Devir - Walkie Talkie, juego de cartas, juego de mesas, Devir Pocket (BGWALKIE)",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/413dLQv9MjL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09XJ947XJ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "5-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DT6M79BB": {
+   "asin": "B0DT6M79BB",
+   "titulo": "ARNOMED Empapadores Cama para Incontinencia 60x90cm, Cambiador Desechable 5 Capas - 240 Unidades",
+   "precio": 68.99,
+   "precio_texto": "68,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41GR5SFjEkL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DT6M79BB?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DBJBN5ZN": {
+   "asin": "B0DBJBN5ZN",
+   "titulo": "Orinal Mujer Adulto 2,5L con Asa | Cuña Orinal Femenina para Cama | Colector de Orina para Mujeres Encamadas, Mayores o con Movilidad Reducida | Cuña Sanitaria Resistente y Fácil de Limpiar",
+   "precio": 15.85,
+   "precio_texto": "15,85 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31--17zueDL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DBJBN5ZN?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cuña u orinal con asa",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GZ1Q49RH": {
+   "asin": "B0GZ1Q49RH",
+   "titulo": "DLPRK Manta Térmica de Emergencia Pack 3 (160x200cm) Doble Cara Oro/Plata. Aluminizada, ultraligera, prevención hipotermia. Ideal Supervivencia, Primeros Auxilios y Outdoor.",
+   "precio": 8.99,
+   "precio_texto": "8,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/510dE3L-kBL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GZ1Q49RH?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Manta térmica de emergencia aluminizada (pack de 2)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "4-10 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BHDMZMSW": {
+   "asin": "B0BHDMZMSW",
+   "titulo": "Guillermo | Lenteja verde BIO - Bolsa 2kg. | 100% ecológico | Alto contenido en proteínas | Ideales tanto para ensaladas como para platos de cuchara",
+   "precio": 12.18,
+   "precio_texto": "12,18 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51TBK-EtqaL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BHDMZMSW?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0HBWJBK6D": {
+   "asin": "B0HBWJBK6D",
+   "titulo": "yfood Smooth Vanilla - Batido Sustitutivo de Comida, Bebida Proteica Lista para Beber, 30 g de Proteína, 26 Vitaminas y Minerales, Sin Lactosa y Sin Gluten, 6x500ml",
+   "precio": 23.94,
+   "precio_texto": "23,94 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Xec-FXjfL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0HBWJBK6D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Batidos proteicos/enriquecidos (pack 8-12)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-18 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0150HY1PW": {
+   "asin": "B0150HY1PW",
+   "titulo": "Nestle Resource Espesante 227 Gr 250 g",
+   "precio": 18.65,
+   "precio_texto": "18,65 €",
+   "precio_antes": 19.45,
+   "ahorro_pct": 4.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41vG6cxsfEL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0150HY1PW?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "8-16 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0B9C9B8JT": {
+   "asin": "B0B9C9B8JT",
+   "titulo": "Nuby Incredible Gulp Botella Infantil, Pack de 2, 360 ml, +18 Meses, Dino | Vaso antiderrame con asa, tapa One-Click y boquilla de silicona suave, apto para lavavajillas, ayuda a beber solo",
+   "precio": 14.97,
+   "precio_texto": "14,97 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41lyxQEGjML._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0B9C9B8JT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Botella con asa y boquilla fácil + vaso con tapa",
+   "kit": "kit-mayores",
+   "kit_titulo": "Kit Mayores: 27 artículos para proteger dependientes (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-16 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CTMWQG4T": {
+   "asin": "B0CTMWQG4T",
+   "titulo": "Nature's Variety Bocaditos en Salsa Comida Húmeda para Gatos Cajita Multisabor 12 x 85g",
+   "precio": 9.17,
+   "precio_texto": "9,17 €",
+   "precio_antes": 11.7,
+   "ahorro_pct": 22.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41pHdf6NlqL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CTMWQG4T?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Comida húmeda en lata (aporta agua y la come estresado)",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "6-14 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BT4WZT3J": {
+   "asin": "B0BT4WZT3J",
+   "titulo": "MP Bergamo Transportin Bracco Iata 2",
+   "precio": 31.2,
+   "precio_texto": "31,20 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41-0kYt3NlL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BT4WZT3J?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Transportín rígido o jaula de transporte",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-60 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FWRW5F67": {
+   "asin": "B0FWRW5F67",
+   "titulo": "OSDUE Cinturón de Seguridad Coche para Perros, 70cm-90cm Arnés de Seguridad Ajustable y Elástico para Mascotas Doble Enganche para Perros y Gatos, para Modelos de Coches Familiares",
+   "precio": 8.27,
+   "precio_texto": "8,27 €",
+   "precio_antes": 8.99,
+   "ahorro_pct": 8.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41R26SLBYhL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FWRW5F67?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Correa y arnés de repuesto",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B01KI70USQ": {
+   "asin": "B01KI70USQ",
+   "titulo": "Zeus Bozal Alpha, Talla 3",
+   "precio": 14.56,
+   "precio_texto": "14,56 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Vd2P1OTtL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B01KI70USQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "6-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08K3K3VBG": {
+   "asin": "B08K3K3VBG",
+   "titulo": "HMF Maletín Fotográfico Exterior, Estuche de Transporte con Espuma Troquelada | 27 x 24,5 x 13 cm",
+   "precio": 27.61,
+   "precio_texto": "27,61 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41SOTYAGmwL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08K3K3VBG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bolsa de transporte acolchada (para animales pequeños)",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "15-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DQSPGGDF": {
+   "asin": "B0DQSPGGDF",
+   "titulo": "Arenero Gato Acero Inoxidable, Caja de Arena para Gatos, Gatitos y Conejos, Arenero Alto para Gatos, Antiadherente, sin olores y fácil de Limpiar, 40 x 30 x 10cm",
+   "precio": 22.99,
+   "precio_texto": "22,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31Jc-WLoCAL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DQSPGGDF?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Bandeja y arena para gato (o empapadores)",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D13383WR": {
+   "asin": "B0D13383WR",
+   "titulo": "Tagorus TAG H - Etiqueta Velcro - Chapa Perro Grabada De Tela - Chapa Identificativa Perro - Chapas Para Perros - Placa Perro personalizada - Etiqueta Collar Perro Personalizado Con Telefono",
+   "precio": 11.9,
+   "precio_texto": "11,90 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51qJGDejC5L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D13383WR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Placa de identificación con tu teléfono grabado",
+   "kit": "kit-mascotas",
+   "kit_titulo": "Kit Mascotas: 23 artículos para proteger a tu animal (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "5-12 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07WK2MC6B": {
+   "asin": "B07WK2MC6B",
+   "titulo": "Ropa Interior Térmica Hombre Interior Funcional Conjuntos Térmicos Nergo | Conjuntos térmicos para Hombres Camiseta Térmica Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo",
+   "precio": 21.17,
+   "precio_texto": "21,17 €",
+   "precio_antes": 25.99,
+   "ahorro_pct": 19.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31YMywoWg7L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07WK2MC6B?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B075SFXVQ1": {
+   "asin": "B075SFXVQ1",
+   "titulo": "JACK PYKE Camiseta de Forro Polar para Hombre, 250 g/m², suéter de Forro Polar con diseño Bordado de faisán, puños elásticos y Espalda extendida, Jersey de Campo para otoño e Invierno, Verde, XL",
+   "precio": 45.3,
+   "precio_texto": "45,30 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/311uZR-GH2L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B075SFXVQ1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Forro polar o jersey de lana",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G1MQ28GS": {
+   "asin": "B0G1MQ28GS",
+   "titulo": "BDGYCK Guantes de Invierno para Mujer, con Pantalla Táctil Mujer, Gamuza Suave Guantes Abrigadores con Forro Polar, de invierno para clima frío, para Montar Correr",
+   "precio": 7.99,
+   "precio_texto": "7,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31rzc2-K+RL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G1MQ28GS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Guantes de abrigo (y unos finos para tareas)",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D66LK5NP": {
+   "asin": "B0D66LK5NP",
+   "titulo": "X-Sense Detector de Monóxido de Carbono, Alarma de CO con Batería Reemplazable y Pantalla Digital, Alarma de Monóxido de Carbono Portátil para el Hogar con Memoria de Valor Máximo de CO, XC0C-SR",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31MmxT5LXPL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D66LK5NP?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CH1MDJVX": {
+   "asin": "B0CH1MDJVX",
+   "titulo": "Extintor Polvo ABC 1kg con soporte, homologado CE y AENOR. Ideal para coche, casa, caravana, camper, autocaravana. Alta eficacia. Portátil, compacto. Fabricado en España. Seguridad total.",
+   "precio": 24.9,
+   "precio_texto": "24,90 €",
+   "precio_antes": 25.9,
+   "ahorro_pct": 4.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41x+zkgNBwL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CH1MDJVX?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "25-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H8J5NTW9": {
+   "asin": "B0H8J5NTW9",
+   "titulo": "Neuytiky Aislante Térmico Ventanas 120x160 cm, Cortina Térmica Aislante Frío y Calor 3 Capas, Película Aislant e Térmico Ventanas con Velcro, Cortinas Aislant es Térmicas Ajustables para (120*160CM)",
+   "precio": 27.99,
+   "precio_texto": "27,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51Hc43BOtAL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H8J5NTW9?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cortinas térmicas o manta de lana para tapar la ventana",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "15-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00KSGFXBW": {
+   "asin": "B00KSGFXBW",
+   "titulo": "Raspador Rasqueta de Hielo para Parabrisas de Coche de HDPE + PS Goodyear",
+   "precio": 4.78,
+   "precio_texto": "4,78 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/21nsjlSzgHL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00KSGFXBW?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Rasqueta y cepillo de hielo para el coche",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CR1MB99P": {
+   "asin": "B0CR1MB99P",
+   "titulo": "FlashPrix 25kg Sal para Nieve y Hielo, Deshielo de Caminos, Carrretas y Calzadas Heladas y con Nieve (1)",
+   "precio": 24.88,
+   "precio_texto": "24,88 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51Wus-o2r1L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CR1MB99P?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pala de nieve y sales de deshielo (o arena)",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09QSNTH9D": {
+   "asin": "B09QSNTH9D",
+   "titulo": "MAMIZO 12 V/24 V, Cable de Arranque, 30 MM², 1500 A, Arranque Rápido, con Guantes de Protección, para Coches, Camiones, Cables de Arranque de Cobre (6 M)",
+   "precio": 43.99,
+   "precio_texto": "43,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51kUHvkIP+L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09QSNTH9D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cables de arranque y anticongelante con protección hasta -25",
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "20-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0G476FZLP": {
+   "asin": "B0G476FZLP",
+   "titulo": "GREEN DEVIL VOLTEK Vent Air - Casco industrial para adultos, con certificado EN12492, certificado EN397, absorción de impactos y resistencia a la penetración con protección adicional en todos los",
+   "precio": 47.26,
+   "precio_texto": "47,26 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41NSCjfWhrL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0G476FZLP?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Casco de protección",
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "12-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B01LYHK84D": {
+   "asin": "B01LYHK84D",
+   "titulo": "DeWalt DPG213L - Guantes de Protección",
+   "precio": 12.92,
+   "precio_texto": "12,92 €",
+   "precio_antes": 17.95,
+   "ahorro_pct": 28.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41mecJpg91L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B01LYHK84D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Guantes de trabajo reforzados",
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0D9QGJRGC": {
+   "asin": "B0D9QGJRGC",
+   "titulo": "HOTUT Zapatillas ortoApédicas para diabéticos, Zapatos Diabéticos para Hombre, Ajustable Zapatos Turgente Pies Pantufla, para Diabéticos, para Pies con Edema y Artritis, Tallas 40-41",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41mhFnefHcL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0D9QGJRGC?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Calzado cerrado y resistente junto a la cama",
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-60 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DJYBFPKV": {
+   "asin": "B0DJYBFPKV",
+   "titulo": "Llave de Medidor de Agua - Plegable para Medidor de Agua en T de Acero Herramienta de Cierre con Llave Utilidad Multifuncional de 4 Vías para Reparación Válvulas de Electricidad,Caja de Medidor,Gas",
+   "precio": 28.19,
+   "precio_texto": "28,19 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31QDk1F7NIL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DJYBFPKV?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-20 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07F82JW46": {
+   "asin": "B07F82JW46",
+   "titulo": "SAFEYEAR Gafas de seguridad antivaho [EN166] SG002 - Gafas de seguridad antiarañazos con cordón para el cuello para adultos para hombres y mujeres, protección UV para bricolaje, protección ocular de",
+   "precio": 17.86,
+   "precio_texto": "17,86 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51GaG0yH0CL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07F82JW46?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gafas de protección ajustadas (o de sol cerradas)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "8-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B01LX6Q7XS": {
+   "asin": "B01LX6Q7XS",
+   "titulo": "Grupo Erik Poster Mapa España fisico politico en Español - Laminas decorativas 61x91,5cm a todo color | Posters para pared ideal decoración habitación",
+   "precio": 8.15,
+   "precio_texto": "8,15 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/51rmCPa4IWS._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B01LX6Q7XS?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mapa físico de tu zona (carreteras, salidas alternativas)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "5-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09LTFV4VR": {
+   "asin": "B09LTFV4VR",
+   "titulo": "Pinuccio Venegoni Juego de 2 camisetas de manga larga de lana de algodón 100 % interior; fabricadas en Italia; camiseta interior térmica para hombre, camiseta térmica para hombre, Color blanco., XL",
+   "precio": 45.23,
+   "precio_texto": "45,23 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31wsw0lo5XL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09LTFV4VR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Ropa de algodón o lana de manga larga (no sintética)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-45 €",
+   "actualizado": "2026-11-09"
+  },
+  "B083T9VV8X": {
+   "asin": "B083T9VV8X",
+   "titulo": "DIAN 1805-LM Blanco Talla 38, Zapato de Trabajo Unisex Certificado CE EN ISO 20347 Marca",
+   "precio": 33.4,
+   "precio_texto": "33,40 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31SuTq83ovL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B083T9VV8X?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Calzado cerrado y resistente (bota o zapatilla dura)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "30-80 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0GHVYZR58": {
+   "asin": "B0GHVYZR58",
+   "titulo": "Guantes de Barbacoa de Cuero, Resistentes al Calor, Guantes de Barbacoa de Cuero Ignífugo, para Ignífugos, Soldadura, Chimenea, Horno, Cocina, Estufa, Estante de Olla",
+   "precio": 15.99,
+   "precio_texto": "15,99 €",
+   "precio_antes": 16.59,
+   "ahorro_pct": 4.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41aB+Kon5KL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GHVYZR58?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Guantes de trabajo de cuero o resistentes al calor",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "10-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09ZVDXWXR": {
+   "asin": "B09ZVDXWXR",
+   "titulo": "3 Piezas Sombreros CorrerGorras Pañuelos Cabeza Bandana Hombre Deportivas Transpirables SudorGorras CiclismoSombreros Pañuelo Piratas Absorben HumedadGorras SkullForros CascosGorras Algodón",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51N4OxQNlUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09ZVDXWXR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "5-15 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0001IWLMG": {
+   "asin": "B0001IWLMG",
+   "titulo": "Manguera reforzada Faithfull de 30 m (98 pies) y 12,7 mm (1/2 pulgada) de diámetro, de PVC",
+   "precio": 38.61,
+   "precio_texto": "38,61 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51nRmFPg4LL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0001IWLMG?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Manguera reforzada larga (más un aspersor o pistola)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "25-60 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DJPSJTPY": {
+   "asin": "B0DJPSJTPY",
+   "titulo": "FERRETELIX® Extintor 6 kg Polvo ABC Alta Eficacia 34A 233B + Soporte de Pared – Fabricado en 2026 – Seguridad Profesional contra Incendios",
+   "precio": 51.5,
+   "precio_texto": "51,50 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41EQgd72r2L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DJPSJTPY?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "45-90 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00RD0KTZQ": {
+   "asin": "B00RD0KTZQ",
+   "titulo": "Spear & Jackson 5LPAPS Pulverizador a presión con Bomba de 5 litros",
+   "precio": 18.17,
+   "precio_texto": "18,17 €",
+   "precio_antes": 21.99,
+   "ahorro_pct": 17.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31+80j8+LCL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00RD0KTZQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Mochila de agua a presión (16-20 L)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "25-50 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DRP2F54D": {
+   "asin": "B0DRP2F54D",
+   "titulo": "Morpilot Transportín Perro Gato, Bolsa Transporte Transpirable para Mascotas, Portador de Viaje con Correa de Hombro Ajustable, Transporte de Gato con Colchón Suave+Tazón (Negro 40 x 26 x 28 cm)",
+   "precio": 21.97,
+   "precio_texto": "21,97 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51-wW1NvbVL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DRP2F54D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Transportín y correa a mano (mascotas)",
+   "kit": "kit-incendio",
+   "kit_titulo": "Kit Incendio: 21 artículos contra incendios (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "25-60 €",
+   "actualizado": "2026-11-09"
+  },
+  "B09TJJ88LX": {
+   "asin": "B09TJJ88LX",
+   "titulo": "Baofeng Walkie Talkie Profesional PMR Radiocomunicación USB Recargable 16 Canales de Larga Distancia Portátil Walkie Talkies con Auriculares y Luz LED (Negro, 1 Pare)",
+   "precio": 24.62,
+   "precio_texto": "24,62 €",
+   "precio_antes": 25.92,
+   "ahorro_pct": 5.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51emM1yNGzL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Walkie-talkies PMR446 (pareja, recargables)",
+   "kit": "kit-comunicacion",
+   "kit_titulo": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "40-80 €",
+   "actualizado": "2026-11-09"
+  },
+  "B08J9YCB8M": {
+   "asin": "B08J9YCB8M",
+   "titulo": "Retevis RT668 Walkie Talkie con Auricular, PMR446 Licencia Libre, Walkie Talkie Profesional con Cargador de 6 Vías, VOX, Walkie Talkies Portátiles para Industria, Lagerhaus(Negro, 6 Pcs)",
+   "precio": 143.99,
+   "precio_texto": "143,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51oapdmk1IL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B08J9YCB8M?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
+   "kit": "kit-comunicacion",
+   "kit_titulo": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
+   "prioridad": "recomendado",
+   "precio_aprox": "60-120 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F84D5PRT": {
+   "asin": "B0F84D5PRT",
+   "titulo": "Power Bank 22.5W 20000mAh Bateria Externa Carga Rapida, Bateria Portatil PD3.0 QC4.0, Powerbank USB C Input & Output con Pantalla LCD Compatible con Smartphones, smartwatches, etc (black01)",
+   "precio": 13.99,
+   "precio_texto": "13,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41iQ2k8A1sL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F84D5PRT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank 10.000-20.000 mAh para los aparatos",
+   "kit": "kit-comunicacion",
+   "kit_titulo": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0BFBZR4KW": {
+   "asin": "B0BFBZR4KW",
+   "titulo": "Garmin Comunicador satelital portátil inReach® Messenger, mensajería bidireccional Global",
+   "precio": 264.77,
+   "precio_texto": "264,77 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/314NshD-qaL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Messenger satelital (Garmin inReach Mini 3)",
+   "kit": "kit-starlink",
+   "kit_titulo": "Kit Starlink: internet satelital para emergencias (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "400 € · 10-40 €/mes",
+   "actualizado": "2026-11-09"
+  },
+  "B0GDTTG5JP": {
+   "asin": "B0GDTTG5JP",
+   "titulo": "Batería LiPo 3,7V 300mAh 602030 con conector 2P-PH, batería de polímero de litio recargable para altavoces Bluetooth, dashcams, dispositivos portátiles y aparatos electrónicos",
+   "precio": 12.99,
+   "precio_texto": "12,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/41UsOedKLiL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0GDTTG5JP?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
+   "kit": "kit-comunicacion",
+   "kit_titulo": "Kit Comunicación: walkies, radio y messenger satelital (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "8-18 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0DRWP2LV6": {
+   "asin": "B0DRWP2LV6",
+   "titulo": "XXSSTUDIO Kit de montaje de techo Starlink Gen 3 ajustable de 180° compatible con Gen 3 / V3, montaje en poste Starlink con adaptador de tubo Gen 3",
+   "precio": 49.99,
+   "precio_texto": "49,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41UGiUQerTL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DRWP2LV6?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
+   "kit": "kit-starlink",
+   "kit_titulo": "Kit Starlink: internet satelital para emergencias (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "500-1.200 € · 45-60 €/mes",
+   "actualizado": "2026-11-09"
+  },
+  "B0H864HPJ7": {
+   "asin": "B0H864HPJ7",
+   "titulo": "Antena de refuerzo externa Omni de banda ancha para exteriores 4G LTE 5G de | con cable de 5 m para T-Mobile Home Internet, Verizon, AT&T 4G/5G Gateway Router Wireless Modem Eifagur",
+   "precio": 56.17,
+   "precio_texto": "56,17 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31UdD+8yJGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H864HPJ7?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Antena externa 4G/5G de alta ganancia",
+   "kit": "kit-starlink",
+   "kit_titulo": "Kit Starlink: internet satelital para emergencias (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "50-150 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H8SDLQVQ": {
+   "asin": "B0H8SDLQVQ",
+   "titulo": "OUKITEL P800 Estación de Energía Portátil 800 W con 100 W Panel Solar, Generador Solar con Batería Lifepo4 512 Wh, Generador con Salidas USB A Y C, Potencia Máxima de 1600 W, Ideal Para Acampadas",
+   "precio": 369.0,
+   "precio_texto": "369,00 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41CMFlH5EwL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H8SDLQVQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Generador solar portátil con panel incluido (300-500 Wh)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "250-450 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FDWQPRYC": {
+   "asin": "B0FDWQPRYC",
+   "titulo": "Power Bank 27000mAh, 22,5W PD20W Batería Externa Carga Rápida | Powerbank Portátil, con Pantalla LED, para Teléfonos",
+   "precio": 19.99,
+   "precio_texto": "19,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41RsaaKeqGL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FDWQPRYC?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Powerbank 20.000-27.000 mAh (con salida AC o PD de 65 W)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "35-70 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H35BWBZX": {
+   "asin": "B0H35BWBZX",
+   "titulo": "Panel solar de 60 W con pantalla digital, cargador solar y carga rápida | Panel solar plegable con múltiples interfaces de salida, compatible con estaciones de energía, alimentación de emergencia.",
+   "precio": 69.95,
+   "precio_texto": "69,95 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41g4QKvfAqL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H35BWBZX?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Panel solar plegable 60-100 W",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "80-160 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F1KH2MR7": {
+   "asin": "B0F1KH2MR7",
+   "titulo": "EverExceed 12V 100 Ah Bateria Lifepo4 con BMS Integrado de 100A, Bateria Litio 1280 Wh con Protección Contra Bajas Temperaturas, Ideal para Yates, Embarcaciones, Barcos",
+   "precio": 159.99,
+   "precio_texto": "159,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41Soee+6LdL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F1KH2MR7?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Batería LiFePO4 100 Ah",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "conviene",
+   "precio_aprox": "250-400 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CKMM8GX6": {
+   "asin": "B0CKMM8GX6",
+   "titulo": "Tolesum Linterna LED Recargable con Imán, Micro USB - 2 Piezas | Linterna Taller COB con Base Magnética,5 Modos, Luz Roja de Emergencia, para Garaje, Camping, Emergencia",
+   "precio": 13.86,
+   "precio_texto": "13,86 €",
+   "precio_antes": 14.59,
+   "ahorro_pct": 5.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31SEb7-tfjL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CKMM8GX6?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Lámpara LED recargable de área (lanterna camping)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-40 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0C1SB8J2C": {
+   "asin": "B0C1SB8J2C",
+   "titulo": "Vinabo Linterna Frontal,ultra Potente de 6 Modos, 500 LM, Linterna LED Ajustable en 30°, para Lectura, Ciclismo, Correr, 3 Pilas AAA Incluidas",
+   "precio": 9.99,
+   "precio_texto": "9,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41B60gfK3zL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0C1SB8J2C?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Frontal LED con pilas AAA (2 unidades)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B00EVMWKPQ": {
+   "asin": "B00EVMWKPQ",
+   "titulo": "Brennenstuhl Eco-Line regleta de enchufes con 3 Tomas de Corriente y protección contra sobretensiones (Cable de 1,5m, Interruptor Iluminado, protección sobretensión hasta 13.500A) Antracita",
+   "precio": 14.22,
+   "precio_texto": "14,22 €",
+   "precio_antes": 14.6,
+   "ahorro_pct": 3.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/31B-ZnBUjbL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B00EVMWKPQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Regleta con protección sobretensiones (interruptor)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "15-30 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0F8NNTM8V": {
+   "asin": "B0F8NNTM8V",
+   "titulo": "Multímetro Digital Profesional, Polimetro Digital con Pantalla Retroiluminada, Voltimetro Portátil y Resistente, Multifunción para Hogar y Taller, Manual en Español",
+   "precio": 11.99,
+   "precio_texto": "11,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41v2JGWxOSL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0F8NNTM8V?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Multímetro digital básico",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "conviene",
+   "precio_aprox": "15-25 €",
+   "actualizado": "2026-11-09"
+  },
+  "B094D3K2W9": {
+   "asin": "B094D3K2W9",
+   "titulo": "Amazon Basics - Paquete de 24 pilas alcalinas AA y AAA de alto rendimiento, 12 pilas AA y 12 pilas AAA, 1,5 voltios, vida útil de 10 años",
+   "precio": 11.81,
+   "precio_texto": "11,81 €",
+   "precio_antes": 13.49,
+   "ahorro_pct": 12.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41rN+VKYgQL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B094D3K2W9?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Baterías AA y AAA alcalinas (paquete grande)",
+   "kit": "kit-electricidad",
+   "kit_titulo": "Kit Electricidad: 10 artículos para tener luz sin red (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "20-35 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0FY65FTYM": {
+   "asin": "B0FY65FTYM",
+   "titulo": "Panel Solar Portátil 400W, Cargador Portátil Con Soporte Plegable | Fuente De Alimentación Mc4 De 40 V Y Múltiples Salidas Para Generadores Solares, Paneles Solares Para Rv, Camping",
+   "precio": 269.95,
+   "precio_texto": "269,95 €",
+   "precio_antes": 284.95,
+   "ahorro_pct": 5.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41eQjXf7u9L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0FY65FTYM?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Panel solar 400W monocristalino (×2 unidades)",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "400 € (x2)",
+   "actualizado": "2026-11-09"
+  },
+  "B0DGK3NZXR": {
+   "asin": "B0DGK3NZXR",
+   "titulo": "ETREPOW 3000W Inversor 12V 220V/230V Onda sinusoidal Pura con 2× LCD | Convertidor con Mando a Distancia, 2 Tomas UE, 2 USB y USB-C para Electrodomésticos, Caravanas y Conversor Camping",
+   "precio": 315.49,
+   "precio_texto": "315,49 €",
+   "precio_antes": 369.99,
+   "ahorro_pct": 15.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/51vZQALy74L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0DGK3NZXR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Inversor híbrido 3000W-5000W",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "600-900 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CF2LJMPP": {
+   "asin": "B0CF2LJMPP",
+   "titulo": "BuyWeek Regulador de carga solar MPPT 60A 12V/24V/36V/48V Controlador de Carga Solar con LCD Identificación automática voltaje Entrada máxima de 180V DC, for baterías de plomo-ácido y litio",
+   "precio": 94.99,
+   "precio_texto": "94,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/413KIrQoGDL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CF2LJMPP?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Regulador de carga MPPT 60A",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "120-180 €",
+   "actualizado": "2026-11-09"
+  },
+  "B071HT7BQ1": {
+   "asin": "B071HT7BQ1",
+   "titulo": "Salicru SLC 3000 Twin PRO2 – Sistema de Alimentación Ininterrumpida (SAI/UPS) de 3000 VA On-Line Doble conversión",
+   "precio": 863.79,
+   "precio_texto": "863,79 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41fk5gVDwUL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B071HT7BQ1?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "SAI (UPS) 3000VA-5000VA online doble conversión",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "esencial",
+   "precio_aprox": "500-800 €",
+   "actualizado": "2026-11-09"
+  },
+  "B07NS2VK7J": {
+   "asin": "B07NS2VK7J",
+   "titulo": "Green Cell SAI UPS 1500VA 900W 230V Line Interactive con Pantalla LCD | AVR, Onda Sinusoidal Modificada, USB/RJ45, 4 Enchufes Schuko, Tomas IEC y Fuente de Alimentación Continua",
+   "precio": 126.99,
+   "precio_texto": "126,99 €",
+   "precio_antes": 139.95,
+   "ahorro_pct": 9.0,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/312yuaFbYPL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B07NS2VK7J?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "SAI 1500VA (900W line-interactive)",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "200-350 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0CS2X1RR8": {
+   "asin": "B0CS2X1RR8",
+   "titulo": "CAMPLUX 11 L Calentador de Agua a Gas, Bajo NOx, 20 mbar, BD300NG | Gas Natural, 22 kW, Encendido por batería 3 V, Para Instalación de Balcón",
+   "precio": 249.99,
+   "precio_texto": "249,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/21qG2ii4a3L._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Depósito ampliado o conexión a gas natural",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "200-600 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H8P2WXHV": {
+   "asin": "B0H8P2WXHV",
+   "titulo": "Cámara de seguridad 4G LTE para exteriores, inalámbrica, con tarjeta SIM, AOV 24/7, 4K, doble lente, cámara solar exterior con panel, batería 15000 mAh, visión nocturna, PTZ 360°",
+   "precio": 79.99,
+   "precio_texto": "79,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41dx0tFODbL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H8P2WXHV?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Cámara de seguridad solar 4G con batería",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "80-120 €",
+   "actualizado": "2026-11-09"
+  },
+  "B0H8418D5H": {
+   "asin": "B0H8418D5H",
+   "titulo": "Repetidor WiFi Potente con 6 Antenas, Amplificador Señal WiFi Largo Alcance, Extensor WiFi Soporta 64 Dispositivos, Modos (Repetidor, Ap), Cobertura hasta 300 m², para Casa y Oficina",
+   "precio": 29.99,
+   "precio_texto": "29,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": false,
+   "imagen": "https://m.media-amazon.com/images/I/31Wq4yWNgaL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B0H8418D5H?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Extensor WiFi de largo alcance + antena direccional",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "30-200 €",
+   "actualizado": "2026-11-09"
+  },
+  "B077XTVFHQ": {
+   "asin": "B077XTVFHQ",
+   "titulo": "Motorola Talkabout T82 Extreme PMR446 - Radio Walkie Talkie de 2 vías, Paquete cuádruple, Color Amarillo y Negro",
+   "precio": 168.99,
+   "precio_texto": "168,99 €",
+   "precio_antes": null,
+   "ahorro_pct": null,
+   "disponible": true,
+   "imagen": "https://m.media-amazon.com/images/I/41VdmfGmPHL._SL160_.jpg",
+   "url": "https://www.amazon.es/dp/B077XTVFHQ?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "prioridad": "extra",
+   "precio_aprox": "100-200 € (pack 4)",
+   "actualizado": "2026-11-09"
+  }
+ },
+ "oferta_dia": {
+  "asin": "B0DGK3NZXR",
+  "producto": "Inversor híbrido 3000W-5000W",
+  "titulo_amazon": "ETREPOW 3000W Inversor 12V 220V/230V Onda sinusoidal Pura con 2× LCD…",
+  "precio": 315.49,
+  "precio_texto": "315,49 €",
+  "precio_antes": 369.99,
+  "ahorro_pct": 15.0,
+  "kit": "kit-kit-profesional",
+  "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+  "url": "https://www.amazon.es/dp/B0DGK3NZXR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+  "fecha": "2026-11-09"
+ },
+ "ofertas": [
+  {
+   "asin": "B0DGK3NZXR",
+   "producto": "Inversor híbrido 3000W-5000W",
+   "titulo_amazon": "ETREPOW 3000W Inversor 12V 220V/230V Onda sinusoidal Pura con 2× LCD…",
+   "precio": 315.49,
+   "precio_texto": "315,49 €",
+   "precio_antes": 369.99,
+   "ahorro_pct": 15.0,
+   "kit": "kit-kit-profesional",
+   "kit_titulo": "Kit Profesional: energía y autonomía total (2026)",
+   "url": "https://www.amazon.es/dp/B0DGK3NZXR?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B08L1Y7M8J",
+   "producto": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+   "titulo_amazon": "Lewis-Plast Kit Completo De Primeros Auxilios 309 Piezas De Primeros Auxilios…",
+   "precio": 37.99,
+   "precio_texto": "37,99 €",
+   "precio_antes": 47.5,
+   "ahorro_pct": 20.0,
+   "kit": "kit-basico-72h",
+   "kit_titulo": "Kit 72h Básico: 21 esenciales de la UE (2026)",
+   "url": "https://www.amazon.es/dp/B08L1Y7M8J?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B0C9CJKCH3",
+   "producto": "Powerbank ligero + cable USB",
+   "titulo_amazon": "Anker Nano Power bank 10.000 mAh 30 W con cable USB C integrado | 1 USB C y…",
+   "precio": 29.99,
+   "precio_texto": "29,99 €",
+   "precio_antes": 39.99,
+   "ahorro_pct": 25.0,
+   "kit": "kit-montana",
+   "kit_titulo": "Kit Montaña: 15 esenciales para supervivencia outdoor (2026)",
+   "url": "https://www.amazon.es/dp/B0C9CJKCH3?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B09GKDQD8Y",
+   "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "titulo_amazon": "Smartwares Detector de CO, Sensor de 10 Años, Pilas Reemplazables, Pantalla…",
+   "precio": 16.99,
+   "precio_texto": "16,99 €",
+   "precio_antes": 23.99,
+   "ahorro_pct": 29.0,
+   "kit": "kit-apagon",
+   "kit_titulo": "Kit Apagón: 15 artículos para sobrevivir sin luz (2026)",
+   "url": "https://www.amazon.es/dp/B09GKDQD8Y?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B06XWZ41RT",
+   "producto": "Radio FM/AM a pilas (avisos oficiales)",
+   "titulo_amazon": "Panasonic RF-2400DEG-K - Radio Portátil FM/Am, (770mW, Iluminación LED…",
+   "precio": 28.1,
+   "precio_texto": "28,10 €",
+   "precio_antes": 33.99,
+   "ahorro_pct": 17.0,
+   "kit": "kit-suiza",
+   "kit_titulo": "Kit Suizo: la reserva oficial de 7 días (9 litros de agua por persona)",
+   "url": "https://www.amazon.es/dp/B06XWZ41RT?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B07SYB38Q8",
+   "producto": "Copia digital en USB cifrado",
+   "titulo_amazon": "SANDISK Ultra Luxe Pendrive, USB Type-A, 128 GB (Unidad Flash, Velocidad de…",
+   "precio": 25.99,
+   "precio_texto": "25,99 €",
+   "precio_antes": 31.99,
+   "ahorro_pct": 19.0,
+   "kit": "kit-evacuacion",
+   "kit_titulo": "Kit Evacuación: 14 artículos para huir con vida (2026)",
+   "url": "https://www.amazon.es/dp/B07SYB38Q8?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B07B9KD2JF",
+   "producto": "Protector solar SPF 50",
+   "titulo_amazon": "ISDIN Fotoprotector Facial Fusion Water MAGIC Medium SPF50-50ml | Protector…",
+   "precio": 21.93,
+   "precio_texto": "21,93 €",
+   "precio_antes": 26.95,
+   "ahorro_pct": 19.0,
+   "kit": "kit-calor",
+   "kit_titulo": "Kit Calor/ Ola de calor: 7 artículos que salvan vidas (2026)",
+   "url": "https://www.amazon.es/dp/B07B9KD2JF?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B07WK2MC6B",
+   "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+   "titulo_amazon": "Ropa Interior Térmica Hombre Interior Funcional Conjuntos Térmicos Nergo…",
+   "precio": 21.17,
+   "precio_texto": "21,17 €",
+   "precio_antes": 25.99,
+   "ahorro_pct": 19.0,
+   "kit": "kit-frio",
+   "kit_titulo": "Kit Frío/Invierno: 27 artículos para sobrevivir al frío (2026)",
+   "url": "https://www.amazon.es/dp/B07WK2MC6B?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B0D3583RGC",
+   "producto": "Mini invernadero de 3 niveles (59x39x127 cm)",
+   "titulo_amazon": "Outsunny Invernadero de Jardín de 3 Niveles 59x39x127 cm Transparente…",
+   "precio": 23.99,
+   "precio_texto": "23,99 €",
+   "precio_antes": 28.99,
+   "ahorro_pct": 17.0,
+   "kit": "huerto-autosuficiencia",
+   "kit_titulo": "Huerto Autosuficiente: 13 herramientas para autoprovisión (2026)",
+   "url": "https://www.amazon.es/dp/B0D3583RGC?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  },
+  {
+   "asin": "B01LYHK84D",
+   "producto": "Guantes de trabajo reforzados",
+   "titulo_amazon": "DeWalt DPG213L - Guantes de Protección",
+   "precio": 12.92,
+   "precio_texto": "12,92 €",
+   "precio_antes": 17.95,
+   "ahorro_pct": 28.0,
+   "kit": "kit-terremoto",
+   "kit_titulo": "Kit Terremoto: 26 artículos para protección sísmica (2026)",
+   "url": "https://www.amazon.es/dp/B01LYHK84D?tag=ntizar-21&linkCode=ogi&th=1&psc=1",
+   "fecha": "2026-11-09"
+  }
+ ],
+ "historico": {
+  "B0GMXX2G9S": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.95
+   }
+  ],
+  "B09TBGX1MK": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.79
+   }
+  ],
+  "B0CG9R782W": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 1.32
+   }
+  ],
+  "B0H3WC3R53": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.1
+   }
+  ],
+  "B00B2N8IFS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 5.99
+   }
+  ],
+  "B0FZTLMXW9": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.99
+   }
+  ],
+  "B06XWZ41RT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 28.1
+   }
+  ],
+  "B0C3B4H4Z5": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 23.99
+   }
+  ],
+  "B0FB3WSWJ1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.99
+   }
+  ],
+  "B0GM1QQW1C": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.99
+   }
+  ],
+  "B0D9M3CWMW": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 25.99
+   }
+  ],
+  "B0CNTLKPLS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 5.95
+   }
+  ],
+  "B0HC4PGSVV": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.99
+   }
+  ],
+  "B0FP5RJ53N": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.01
+   }
+  ],
+  "B00GOPHOSQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.89
+   }
+  ],
+  "B006G5N4XS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.5
+   }
+  ],
+  "B0DHH7TMGF": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.05
+   }
+  ],
+  "B0F1F5DFSG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.99
+   }
+  ],
+  "B0DFLHZQ18": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 32.99
+   }
+  ],
+  "B094D3JGLT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 20.5
+   }
+  ],
+  "8449811031": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.2
+   }
+  ],
+  "B096V89H69": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.98
+   }
+  ],
+  "B0CLLSK9BC": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.99
+   }
+  ],
+  "B08L1Y7M8J": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 37.99
+   }
+  ],
+  "B0FQ5TJY9K": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.95
+   }
+  ],
+  "B07539S9G3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.99
+   }
+  ],
+  "B000IAZDE0": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 22.92
+   }
+  ],
+  "B015Y8BY02": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.95
+   }
+  ],
+  "B0CJDWWGNG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.98
+   }
+  ],
+  "B0H99C1WWZ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 23.99
+   }
+  ],
+  "B0FF4KS8T1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 16.56
+   }
+  ],
+  "B07PDRY2T2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B012D3650K": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.99
+   }
+  ],
+  "B0B4HRDFVY": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.97
+   }
+  ],
+  "B071NWGL29": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 69.99
+   }
+  ],
+  "B0FKBJRT1G": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B08XQN1DVL": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.74
+   }
+  ],
+  "B0B9ZTKYW5": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.59
+   }
+  ],
+  "B0BY6SFKCS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.5
+   }
+  ],
+  "B0BJPVQXP6": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.1
+   }
+  ],
+  "B0D9JMS8H2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 71.98
+   }
+  ],
+  "B0DM2728ZS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 60.0
+   }
+  ],
+  "B0FMDRF8H3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 7.99
+   }
+  ],
+  "B09GKDQD8Y": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 16.99
+   }
+  ],
+  "B00CIZVHXE": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.95
+   }
+  ],
+  "B08RZS5YBH": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 68.99
+   }
+  ],
+  "B006RHPKF0": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 20.84
+   }
+  ],
+  "B0FHBDDBNT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 29.5
+   }
+  ],
+  "B0CWDNN3MY": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.99
+   }
+  ],
+  "B0F4RBK2W3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.99
+   }
+  ],
+  "B086GGP7K5": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.49
+   }
+  ],
+  "B088KG7XML": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B0CSDX8LR8": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 32.95
+   }
+  ],
+  "B0H4KNVJ99": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 38.95
+   }
+  ],
+  "B0DP4Y4S7K": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.96
+   }
+  ],
+  "B07NMGQW67": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.77
+   }
+  ],
+  "B0H8X7LJTM": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.99
+   }
+  ],
+  "B07FXSF4PV": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 16.99
+   }
+  ],
+  "B0CKWGSX22": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.99
+   }
+  ],
+  "B0GLQGTKQD": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.69
+   }
+  ],
+  "8498381495": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.6
+   }
+  ],
+  "B0BYP13RZQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.9
+   }
+  ],
+  "B0CGX22CR8": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 40.8
+   }
+  ],
+  "B0GGY8TTR2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.99
+   }
+  ],
+  "B08QDYLRQ1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 26.0
+   }
+  ],
+  "B0C9CJKCH3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 29.99
+   }
+  ],
+  "B086X75P34": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.73
+   }
+  ],
+  "B0CKW3F157": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.99
+   }
+  ],
+  "B0GR9993T2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 7.99
+   }
+  ],
+  "B0FX9NXD18": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.69
+   }
+  ],
+  "B0DHGGGK1Q": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.99
+   }
+  ],
+  "B0DK3LBNFM": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.49
+   }
+  ],
+  "B07D5GJ9L9": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.99
+   }
+  ],
+  "B07B9KD2JF": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.93
+   }
+  ],
+  "B0FY2W5B8T": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B07SYB38Q8": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 25.99
+   }
+  ],
+  "B0DHJR3V44": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.99
+   }
+  ],
+  "B097Y3R3QY": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 43.99
+   }
+  ],
+  "B0GK6PV1M4": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.99
+   }
+  ],
+  "B0CT3BWC5P": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.49
+   }
+  ],
+  "B08ZM2KC49": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.98
+   }
+  ],
+  "B0H6BL141L": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.99
+   }
+  ],
+  "B07BGSTHD2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.95
+   }
+  ],
+  "B0CVLH49QD": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.95
+   }
+  ],
+  "B0C2HQ82L1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.03
+   }
+  ],
+  "B00F2NGYAU": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.2
+   }
+  ],
+  "B0FZC1F9NH": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.19
+   }
+  ],
+  "B0D3583RGC": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 23.99
+   }
+  ],
+  "B096TLBGVS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.73
+   }
+  ],
+  "8419436623": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.05
+   }
+  ],
+  "B0BJW6W2GM": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.69
+   }
+  ],
+  "B01MSTVEZN": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.68
+   }
+  ],
+  "B06WGS9J3D": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.58
+   }
+  ],
+  "B0CYT5X5PY": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 99.97
+   }
+  ],
+  "B0BG8XYDPR": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.95
+   }
+  ],
+  "B00XA5FJ9E": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.89
+   }
+  ],
+  "B0G45JL8F3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 25.49
+   }
+  ],
+  "B07L3DG8DK": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.99
+   }
+  ],
+  "B075RCPZ3P": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B07PV3KL1H": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B011OEOZE2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.0
+   }
+  ],
+  "B0F99LGY3V": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.6
+   }
+  ],
+  "B0GSVHHD6R": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 25.99
+   }
+  ],
+  "B0BWJYXNK3": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.99
+   }
+  ],
+  "B0DQGR1KDL": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.49
+   }
+  ],
+  "B0H29XL26R": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 29.49
+   }
+  ],
+  "B0B6J97R41": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.99
+   }
+  ],
+  "B0C1GPNPK9": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 16.68
+   }
+  ],
+  "B08DBMQSVN": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 31.99
+   }
+  ],
+  "B0DZXDTZ6B": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.99
+   }
+  ],
+  "B07YQD4FVL": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.5
+   }
+  ],
+  "B09NYL7FY4": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.95
+   }
+  ],
+  "B0F1TQD4C4": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.99
+   }
+  ],
+  "B0BZS918ZG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.74
+   }
+  ],
+  "B0G65QTD2Y": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.5
+   }
+  ],
+  "B09LJZM4ZB": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.99
+   }
+  ],
+  "B0H37438Y1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 38.99
+   }
+  ],
+  "B004GENVLG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 4.95
+   }
+  ],
+  "B0FNCWC3SM": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.99
+   }
+  ],
+  "B0FKT561SK": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B0F5X5TN4T": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.99
+   }
+  ],
+  "B0DCC4KNZN": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.99
+   }
+  ],
+  "B09MJ9QV7W": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 4.49
+   }
+  ],
+  "B0CY8G31G4": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.0
+   }
+  ],
+  "B07X8H7KR2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 2.9
+   }
+  ],
+  "B0F31WSL3G": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 6.99
+   }
+  ],
+  "B0DNZ8DG6H": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.99
+   }
+  ],
+  "B08QD2ZXFT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 7.99
+   }
+  ],
+  "B0DNMRNRF2": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.99
+   }
+  ],
+  "B0G3YCY2FS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.99
+   }
+  ],
+  "B0C4Y5MWC8": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.59
+   }
+  ],
+  "B0F4X8M5MZ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 10.99
+   }
+  ],
+  "B07MDVYFVF": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.49
+   }
+  ],
+  "B0DB8GRTPL": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.99
+   }
+  ],
+  "B0G2LY256T": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B09XJ947XJ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B0DT6M79BB": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 68.99
+   }
+  ],
+  "B0DBJBN5ZN": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.85
+   }
+  ],
+  "B0GZ1Q49RH": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.99
+   }
+  ],
+  "B0BHDMZMSW": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.18
+   }
+  ],
+  "B0HBWJBK6D": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 23.94
+   }
+  ],
+  "B0150HY1PW": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.65
+   }
+  ],
+  "B0B9C9B8JT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.97
+   }
+  ],
+  "B0CTMWQG4T": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.17
+   }
+  ],
+  "B0BT4WZT3J": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 31.2
+   }
+  ],
+  "B0FWRW5F67": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.27
+   }
+  ],
+  "B01KI70USQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.56
+   }
+  ],
+  "B08K3K3VBG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 27.61
+   }
+  ],
+  "B0DQSPGGDF": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 22.99
+   }
+  ],
+  "B0D13383WR": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.9
+   }
+  ],
+  "B07WK2MC6B": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.17
+   }
+  ],
+  "B075SFXVQ1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 45.3
+   }
+  ],
+  "B0G1MQ28GS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 7.99
+   }
+  ],
+  "B0D66LK5NP": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B0CH1MDJVX": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.9
+   }
+  ],
+  "B0H8J5NTW9": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 27.99
+   }
+  ],
+  "B00KSGFXBW": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 4.78
+   }
+  ],
+  "B0CR1MB99P": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.88
+   }
+  ],
+  "B09QSNTH9D": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 43.99
+   }
+  ],
+  "B0G476FZLP": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 47.26
+   }
+  ],
+  "B01LYHK84D": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.92
+   }
+  ],
+  "B0D9QGJRGC": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B0DJYBFPKV": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 28.19
+   }
+  ],
+  "B07F82JW46": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 17.86
+   }
+  ],
+  "B01LX6Q7XS": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 8.15
+   }
+  ],
+  "B09LTFV4VR": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 45.23
+   }
+  ],
+  "B083T9VV8X": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 33.4
+   }
+  ],
+  "B0GHVYZR58": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 15.99
+   }
+  ],
+  "B09ZVDXWXR": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B0001IWLMG": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 38.61
+   }
+  ],
+  "B0DJPSJTPY": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 51.5
+   }
+  ],
+  "B00RD0KTZQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 18.17
+   }
+  ],
+  "B0DRP2F54D": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 21.97
+   }
+  ],
+  "B09TJJ88LX": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 24.62
+   }
+  ],
+  "B08J9YCB8M": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 143.99
+   }
+  ],
+  "B0F84D5PRT": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.99
+   }
+  ],
+  "B0BFBZR4KW": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 264.77
+   }
+  ],
+  "B0GDTTG5JP": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 12.99
+   }
+  ],
+  "B0DRWP2LV6": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 49.99
+   }
+  ],
+  "B0H864HPJ7": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 56.17
+   }
+  ],
+  "B0H8SDLQVQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 369.0
+   }
+  ],
+  "B0FDWQPRYC": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 19.99
+   }
+  ],
+  "B0H35BWBZX": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 69.95
+   }
+  ],
+  "B0F1KH2MR7": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 159.99
+   }
+  ],
+  "B0CKMM8GX6": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 13.86
+   }
+  ],
+  "B0C1SB8J2C": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 9.99
+   }
+  ],
+  "B00EVMWKPQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 14.22
+   }
+  ],
+  "B0F8NNTM8V": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.99
+   }
+  ],
+  "B094D3K2W9": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 11.81
+   }
+  ],
+  "B0FY65FTYM": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 269.95
+   }
+  ],
+  "B0DGK3NZXR": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 315.49
+   }
+  ],
+  "B0CF2LJMPP": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 94.99
+   }
+  ],
+  "B071HT7BQ1": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 863.79
+   }
+  ],
+  "B07NS2VK7J": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 126.99
+   }
+  ],
+  "B0CS2X1RR8": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 249.99
+   }
+  ],
+  "B0H8P2WXHV": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 79.99
+   }
+  ],
+  "B0H8418D5H": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 29.99
+   }
+  ],
+  "B077XTVFHQ": [
+   {
+    "fecha": "2026-11-09",
+    "precio": 168.99
+   }
+  ]
+ }
+}

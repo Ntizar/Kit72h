@@ -51,3 +51,6 @@ productos-lista.txt
 
 # dependencias del worker (nunca al repo)
 node_modules/
+
+# caché local (token OAuth de la Creators API: NUNCA al repo)
+.cache/
