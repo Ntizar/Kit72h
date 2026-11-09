@@ -1,4 +1,41 @@
 /* Kit72h — ui: render de vistas tácticas (datos en data/kits.json y data/blog.json) */
+
+/* Precios reales de Amazon (data/precios.json, lo escribe scripts/precios-amazon.py).
+   Si el fichero no está o el ASIN no trae precio, la web cae al rango de siempre:
+   nunca se pinta una cifra inventada. */
+const precios = {
+  data: null,
+  async cargar() {
+    if (this.data) return this.data;
+    try {
+      const r = await fetch('/data/precios.json');
+      this.data = r.ok ? await r.json() : null;
+    } catch (e) { this.data = null; }
+    return this.data;
+  },
+  porAsin(asin) {
+    const p = asin && this.data ? (this.data.productos || {})[asin] : null;
+    return (p && p.precio) ? p : null;
+  },
+  eur(n) {
+    return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
+  },
+  /* «315,49 € 369,99 € · -15%» — el antes tachado y el % sólo si Amazon los publica */
+  sello(p) {
+    if (!p) return '';
+    const antes = (p.precio_antes && p.precio_antes > p.precio)
+      ? ` <s>${this.eur(p.precio_antes)}</s>` : '';
+    const rebaja = (p.ahorro_pct >= 10) ? ` · -${Math.round(p.ahorro_pct)}%` : '';
+    return `<span class="precio">${p.precio_texto || this.eur(p.precio)}${antes}${rebaja}</span>`;
+  },
+  fecha() {
+    const iso = this.data && this.data.meta && this.data.meta.actualizado;
+    if (!iso) return '';
+    const d = new Date(iso);
+    return isNaN(d) ? '' : d.toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit' });
+  }
+};
+
 const ui = {
   tag: 'ntizar-21',
 
@@ -34,7 +71,7 @@ const ui = {
     const { vista, slug } = this.vistaDesdeHash();
     const app = document.getElementById('app');
     document.getElementById('disclosure').textContent = state.data.disclosure;
-    await Promise.all([estado.cargar(), blog.cargar(),
+    await Promise.all([estado.cargar(), blog.cargar(), precios.cargar(),
                        typeof noticias !== 'undefined' ? noticias.cargar() : null]);
 
     if (vista === 'kit') {
@@ -193,6 +230,7 @@ const ui = {
         </div>
       </div>
       <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('AGUA · LUZ · ENERGÍA · SALUD · COMIDA · DOCUMENTOS')}</div></div>
+      ${this.htmlOfertaDia()}
       <section class="sec clara" id="plan">
         <div class="container">
           <div class="watermark" aria-hidden="true">72</div>
@@ -345,6 +383,27 @@ const ui = {
       </section>`;
   },
 
+  /* ---- OFERTA DEL DÍA (sale de data/precios.json: rebaja real de Amazon) ---- */
+  htmlOfertaDia() {
+    const o = precios.data && precios.data.oferta_dia;
+    if (!o || !o.precio) return '';
+    const antes = o.precio_antes && o.precio_antes > o.precio
+      ? `antes ${precios.eur(o.precio_antes)} · ` : '';
+    return `
+      <section class="sec oscura" id="oferta-dia">
+        <div class="container">
+          <div class="sec-inner">
+            <span class="sec-label">Oferta del día${precios.fecha() ? ' · ' + precios.fecha() : ''}</span>
+            <a class="cta-kit" href="${o.url}" target="_blank" rel="sponsored nofollow noopener">
+              <span class="cta-kit-t">${o.producto}<br>hoy a ${o.precio_texto}</span>
+              <span class="cta-kit-b">${antes}-${Math.round(o.ahorro_pct)}% · está en ${o.kit_titulo} →</span>
+            </a>
+            <p class="lista-nota">Precio consultado hoy en Amazon.es con la API oficial de Afiliados. Puede cambiar en cualquier momento: el precio válido es el de la ficha en el momento de la compra.</p>
+          </div>
+        </div>
+      </section>`;
+  },
+
   /* ---- FICHA DE KIT ---- */
   htmlKit(kit) {
     const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
@@ -364,12 +423,14 @@ const ui = {
             const es = i.prioridad === 'esencial';
             if (es) nEs++;
             if (es && m) asinsEs.add(m[1]);
+            const real = m ? precios.porAsin(m[1]) : null;
             return `
             <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
               <div class="item-info">
                 <span class="producto">${i.producto}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
-                ${i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : ''}
+                ${real ? precios.sello(real)
+                       : (i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : '')}
                 ${i.es_busqueda ? '<span class="badge-busqueda">🔎 búsqueda en Amazon (aún sin ficha concreta)</span>' : ''}
                 ${estado.badge(i.afiliado)}
               </div>
@@ -446,6 +507,7 @@ const ui = {
         </div>
         ${paraQuien}
         ${secciones}
+        ${precios.data ? `<p class="lista-nota">Precios consultados hoy (${precios.fecha() || 'hoy'}) en Amazon.es con la API oficial de Afiliados; el rango «~» se conserva donde Amazon no publica precio. El precio válido es siempre el de la ficha en el momento de la compra.</p>` : ''}
         ${cartable && asinsEs.size > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Llévate solo lo esencial — los ${asinsEs.size} imprescindibles →</button>` : ''}
         ${errores}
         ${guia}

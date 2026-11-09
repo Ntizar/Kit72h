@@ -28,9 +28,10 @@ os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main 
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 # ficheros de datos que justifican el commit
-DATOS = ("kits.json", "propuestas-fichas", "buscador-log")
+DATOS = ("kits.json", "propuestas-fichas", "buscador-log", "precios.json")
 # todo lo que se regenera a partir de los datos (debe entrar en el mismo commit)
 GENERADO = ("data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json",
+            "data/precios.json",
             "index.html", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
             "kit", "blog", "fuentes", "zona")
 
@@ -62,6 +63,15 @@ if out is not None:
     print(out.stdout[-2500:] if out.stdout else "")
     if out.returncode != 0 and out.stderr:
         print(f"⚠️ buscar-amazon.py falló (exit {out.returncode})")
+
+# 0) PRECIOS REALES + OFERTA DEL DÍA (Creators API, ~15 s, 0 tokens).
+#    Va ANTES de generar-seo/prerender para que el HTML estático salga con los
+#    precios de HOY y no con los de ayer: el horneado es la foto para SEO/sin-JS.
+prec = run(PY, "scripts/precios-amazon.py", timeout=420)
+if prec.stdout:
+    print(prec.stdout.strip()[-900:])
+if prec.returncode != 0:
+    print(f"⚠️ precios-amazon.py falló (exit {prec.returncode}): la web conserva el último JSON bueno")
 
 # commit solo si hay cambios
 status = git("status", "--porcelain")
