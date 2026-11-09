@@ -39,6 +39,7 @@ import amazon_api as ama  # noqa: E402
 RAIZ = Path(__file__).resolve().parents[1]
 KITS = RAIZ / "data" / "kits.json"
 SALIDA = RAIZ / "data" / "precios.json"
+HIST = RAIZ / "data" / "precios-historico.json"   # solo servidor: la web no lo descarga
 UMBRAL_OFERTA = 10.0        # % mínimo de rebaja real publicada por Amazon para llamarlo oferta
 DIAS_HISTORICO = 30
 
@@ -119,7 +120,7 @@ def refrescar(max_asins: int | None = None) -> int:
 
     previo = _leer_json(SALIDA, {})
     productos = dict(previo.get("productos") or {})
-    historico = dict(previo.get("historico") or {})
+    historico = dict(_leer_json(HIST, {}).get("historico") or previo.get("historico") or {})
     ahora = datetime.now(timezone.utc)
     hoy = ahora.date().isoformat()
 
@@ -208,14 +209,21 @@ def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, aho
             "sin_datos": sin_datos,
             "umbral_oferta_pct": UMBRAL_OFERTA,
         },
-        "productos": productos,
+        # Payload de la web: sólo los 5 campos que pinta js/ui.js. Todo lo demás
+        # (titulo, imagen, histórico) se queda en servidor — este JSON se descarga
+        # en CADA visita, así que cada byte de más se paga en móvil.
+        "productos": {a: {k: d.get(k) for k in ("precio", "precio_texto", "precio_antes",
+                                                "ahorro_pct", "disponible") if d.get(k) is not None}
+                      for a, d in productos.items()},
         "oferta_dia": _oferta_publica(oferta) if oferta else None,
         "ofertas": [_oferta_publica(c) for c in candidatos[:10]],
-        "historico": {a: s[-DIAS_HISTORICO:] for a, s in historico.items() if s},
     }
-    datos["productos"] = {a: {k: v for k, v in d.items() if k != "punt"} for a, d in productos.items()}
     SALIDA.parent.mkdir(parents=True, exist_ok=True)
-    SALIDA.write_text(json.dumps(datos, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")) + "\n",
+                      encoding="utf-8")
+    HIST.write_text(json.dumps({"meta": {"actualizado": datos["meta"]["actualizado"]},
+                                "historico": {a: s[-DIAS_HISTORICO:] for a, s in historico.items() if s}},
+                               ensure_ascii=False) + "\n", encoding="utf-8")
     return datos
 
 
@@ -232,8 +240,10 @@ def estado() -> int:
                                 if od else "ninguna"))
     con_pct = [(a, d) for a, d in (datos.get("productos") or {}).items() if d.get("ahorro_pct")]
     con_pct.sort(key=lambda x: x[1]["ahorro_pct"], reverse=True)
+    nombres = asins_de_kits()
     for a, d in con_pct[:8]:
-        print(f"  {a}  {d['precio_texto']:>9}  -{d['ahorro_pct']}%  {(d.get('producto') or '')[:60]}")
+        nombre = (nombres.get(a) or {}).get("producto") or a
+        print(f"  {a}  {d['precio_texto']:>9}  -{d['ahorro_pct']}%  {nombre[:60]}")
     return 0
 
 
