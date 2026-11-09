@@ -90,7 +90,7 @@ ARTICLE_TEMPLATE = '''<!DOCTYPE html>
   </section>
 <p id="disclosure">Como Afiliado de Amazon, Kit72h obtiene ingresos por las compras adscritas que cumplan los requisitos aplicables. Los precios pueden variar. Kit72h solo recomienda productos con fines informativos y de preparación: no nos responsabilizamos del uso que se haga de ellos ni de los resultados obtenidos, y este contenido no constituye asesoramiento legal, técnico ni de ningún otro tipo. Consulta siempre las fuentes oficiales y la normativa vigente.</p>
 </main>
-<footer class="site-footer"><div class="container"><p>Kit72h · Preparación civil para España · Hecho con ❤️ por el equipo Kit72h · <a href="/blog/">Todos los artículos</a> · <a href="/fuentes/">Fuentes oficiales</a></p></footer>
+<footer class="site-footer"><div class="container"><p>Kit72h · Preparación civil para España · Hecho con ❤️ por el equipo Kit72h · <a href="/blog/">Todos los artículos</a> · <a href="/fuentes/">Fuentes oficiales</a> · <a href="mailto:contacto@kit72h.com">contacto@kit72h.com</a></p></footer>
 <script src="/js/main.js?v=20261008b"></script>
 </body></html>'''
 
