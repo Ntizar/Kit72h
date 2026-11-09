@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T01:10:27+01:00",
+  "actualizado": "2026-11-09T04:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Las inundaciones causadas por la dana dejan a una barraca valenciana de 200 años al borde de la desaparición",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUtxWW5XRW5fMGJlX2o1NVFvbzdWZ2NuNllUTkE4RUFONEJaZDhqZF96TmNCa2oxb2Vsb3Fpcmtmdm9lTTFBcmhoMDFmSmVWa3I3VmljTUg2anF3T1ljemRYSHNsaUp4V0JHZi1YbEpTMTZKUUxoQWZQNWt5em9xT3VFZXVUMHRpMkQ2VHY0bzUyMXpIMFNnbFBHdV95Y2ROUG9BVHJkSHp1RmIzY2lzYVFPTWRNZnNtMzloUUd0Tzh4YzFETFQyT280V2dtSjJLYUs4ZnBxZ2xmTlQ2azlMdUhDblBDNFZD0gHuAUFVX3lxTE5OT1h0QjJxdHFfdEtrQlI4blVVMjBocllrSzNXMWd3TkNlQ2JWZEpOX3ROaVBfYUdMYU9wLUI5T3E3Qm1BY0ZKRHhYeXhHbEI0WVdrbG56dHNpOVN2SE56V01uekdmX3gtSFR0X1d5V2JaMnVVNXl6dmk5UGU1bFYweFJqM2RZUXlrek94eTNQWEVsRWQwMDJ0WXJYbEN3RWhRV1lEYjAyVWw1aTI0aUZTRFFOUE91LWlGNFNaOGtGTlpCUm9udUFmS19PS2h1b1hMVmpFYUZPVUFfX1B1R19NYm8tdEhBTU1BRFhWNWc?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-11-09T04:00:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "La borrasca Bruna marcará el tiempo este lunes en España con lluvias intensas, tormentas y fuertes vientos",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYjlTakR1VTdUaGg0MEdNOXBOQld6NzZacnJncXYxVW9VYW9qdHN0d0xLREV6VFFTdnZNdkhyTzBXdTlPYXRNMjdrMHRwQzZ5MVp2ZlRfLUR6Q2RHRmUzVXBfNjhSZlZrRnZfbWdURTlOU2E4LWlfLUFmaXNkbVI4UnlJSldCWlBkcUFEemJmdmZnNS05TF9lQXRySTdjUUhiSF9lOEd2OFNQaGFQMS1ya3BaYnJFR0lSZlNsZlhrRnpTbVVyd2RHTXFCU2drcDZENjhsU1NCNGt0dzdoVEc5blZIVXMtQVlRUDM1SEhHSW9EY1pWTExKak5n0gGOAkFVX3lxTE5FWDJXRWlMb1RvRVlTcElvWERDNzNSQU1QRjdXWE1pbW05VUJxaExXSmV0VGNUa1BzYlNnUlBpb1NUN1M4aVRKaG95aW5uZ3FlOXRKN1UwMkVwbXdkTjJ0NVY4ekJvWmxsUTJMMG9SYXMxV0dfejBvOFZMcTVSQWJuazg1STdwZU1KNW1nOGJfcV9ramM4LTVhbHNWbXRZN0x6Qmx0VEZuZ09zcWc4cFpwRmEwaDlLb2Zwc0IxbUtFSmFKYk9uRGFjZjVWalpQQ2xfYURxSGtrWEV5eFdpRGhpNVJDUVBXYlhmS0hjeUI0eXJSNXBHZEZ0ckRSQ0JhTFdFVWNKYTJXV2JYSUFaUQ?oc=5",
      "fuente": "La Razón",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-07T09:51:00+01:00",
      "fecha_txt": "7 nov"
-    },
-    {
-     "titulo": "La AEMET activa la alerta por la borrasca Bruna: fuertes lluvias en estas zonas del país",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkFjWV8wR0FtRGx1RzdiVXUtb1o4X0JSZkg4UVVkQ2dIRm5sZE44YXlKYVZBbEJ2M3h6ZGVxb3ZpZ25aMzJwdHpMS25KZEFuRUVhS3Jfam1KbV9kOXBBRFE2OHgtRGxWU2R0NVY4UEpxaFFPcnpHZHJaUVpkTnd0bkx3Z0xvLWdpTHpWQXlZdGxkanlmZHI0My1QZHJ3bGFIeXphcmtOd3lvZlREZ2djbFBFN3F6bEpveEk5aEZsLUEzT0REWTUzV0JDZUpCM1A4S3Z1ZV9fZWZyQi1DNkxUTtIB4AFBVV95cUxPdTRuVDdQRkxodDZHU0RMeTU1R1I2eVQ1cHhaRFU1Q2RRV1o5ZHdMQTJiWnhmbWxyVlR6WGVRQ2dNVXhpQ3dweWM2R3k4LUFPVWViV0FXelZMUkNqMkdUcVN6WDMyZUdGZmxOMnFyVmI4eU4yVFZLMGVUMmpSai1RQzVzc0xYTkh5azJ0cTVZM2F2MmdtdExMUHRINEo2Y0ZtVlhKeFlwV0ktVmozOXI5ZVFSX2xOVVNmMlkyZDJxeVlsRnN5SlpPcXRCMlV2NTRDd05uTUl3eG9YSUNiUEE5RQ?oc=5",
-     "fuente": "Onda Cero",
-     "resumen": "",
-     "fecha": "2026-11-07T06:00:27+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -225,11 +225,19 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnZqcWRDUXE0Y0FhdThJVmNWcFVweTlITUVIM0tTSE1nT08weHpaU3lmZndfekY4NkZoQ014UVRtZkpwRWo1LTRLREFlLXdGY0g1dHU2SUlTR2wtbjlGbVhJOVlhdHJxaF96Q0pkbGh3YlNnVnJESC1kZkJ1Wk1yaU1kYWRfc3NJemgzX1NsMmlYVGdwU0xLQjdnUWJzWGlMQmE2cXhHS3JiLU5yY19oMjJnaUJHM0VtM3RreDZfdWw2VzljdEs1SmpzVG9XXzY0c0g1aGtqOWh1c1JVWnFvZ3N6Z9IB6AFBVV95cUxNWEg1cVNVRXBqemVxQnc1elV1VWhRQ0pyakdTcFdWTUstLU9MZDNQM1JlY29lUk16LW1VTVhUQmw0ajZ5SUdxd0FpeTh2OU9XbXhSUDhTdW92eUUtT2xTYlJmNzIwMW1pLUVieTRTWEpxRWpMRGNmSl9XSDJadllPSmg5S1Jjckg3eE8xdkh0Z1BpemZUZV9YX1dsd3hpNnNqYW5TMDhUR2wwcGk0RkVDLVJiOVJKOF9tZmZBQlBSSGFEdVhkQjZVUk5HNUxLN2FEazRUQVVMQjdiSlNWS1RYMFRZOUNyekRl?oc=5",
-     "fuente": "El Español",
+     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
+     "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-08T16:30:00+01:00",
+     "fecha": "2026-11-09T02:30:18+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzJWZ3hDUml1SW1LT091V0ljazloX19kLWRzSDRDekJ0c0tqTDVxUGRTbFVQVmNIOGVWS0h6R2Y3ck5vSFhubTJpN1VlSnhSQXJnWFNQc09FbGQ2d1lpUjI4UmJrdU5LMmh1dTQySTh5NDBJOVJFaktxcURJSjRfWmFpRVNpRzZmMF9JYXQtTXhiV0RK?oc=5",
+     "fuente": "Yahoo",
+     "resumen": "",
+     "fecha": "2026-11-08T17:30:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -238,14 +246,6 @@
      "fuente": "La Nueva España",
      "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
      "fecha": "2026-11-08T06:01:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-08T01:14:13+01:00",
      "fecha_txt": "8 nov"
     },
     {

@@ -3,19 +3,19 @@
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
   "elaborado": "20261108225001",
-  "actualizado": "2026-11-09T01:10:37+01:00",
+  "actualizado": "2026-11-09T04:10:36+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261108225001_penbal_20261109CET_1794182400.geojson"
+   "r_D+0_20261108225001_penbal_20261109CET_1794193200.geojson"
   ]
  },
  "resumen": {
   "rojo": 0,
   "naranja": 0,
-  "amarillo": 3,
-  "sin_aviso": 56,
-  "zonas_en_aviso": 48,
+  "amarillo": 2,
+  "sin_aviso": 57,
+  "zonas_en_aviso": 47,
   "provincias": 59
  },
  "provincias": [
@@ -63,28 +63,6 @@
        "descripcion": "Al oeste de Sisargas: Viento del Sur de 50 a 61 km/h (fuerza 7) y mar combinada del suroeste de 4 a 5 m.",
        "desde": "2026-11-09T00:00:00+01:00",
        "hasta": "2026-11-09T23:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "nombre": "Huelva",
-   "ccaa": "Andalucía",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Litoral de Huelva - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Temporalmente viento de Sur de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-09T00:00:00+01:00",
-       "hasta": "2026-11-09T03:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -270,6 +248,13 @@
   {
    "nombre": "Guadalajara",
    "ccaa": "Castilla-La Mancha",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Huelva",
+   "ccaa": "Andalucía",
    "nivel": 0,
    "nivel_txt": "Sin aviso",
    "zonas": []
@@ -8479,175 +8464,6 @@
        [
         -8.9459,
         42.365
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral de Huelva - Costa",
-     "provincia": "Huelva",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Temporalmente viento de Sur de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-09T00:00:00+01:00",
-       "hasta": "2026-11-09T03:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -6.8596,
-        36.6181
-       ],
-       [
-        -6.8809,
-        36.6805
-       ],
-       [
-        -6.8866,
-        36.7468
-       ],
-       [
-        -6.8848,
-        36.758
-       ],
-       [
-        -7.1157,
-        36.8622
-       ],
-       [
-        -7.3587,
-        36.8431
-       ],
-       [
-        -7.3852,
-        36.9571
-       ],
-       [
-        -7.4073,
-        37.1565
-       ],
-       [
-        -7.4296,
-        37.2457
-       ],
-       [
-        -7.4176,
-        37.2381
-       ],
-       [
-        -7.4055,
-        37.1824
-       ],
-       [
-        -7.3799,
-        37.1721
-       ],
-       [
-        -7.3639,
-        37.1721
-       ],
-       [
-        -7.3313,
-        37.1855
-       ],
-       [
-        -7.3237,
-        37.194
-       ],
-       [
-        -7.2835,
-        37.2011
-       ],
-       [
-        -7.1512,
-        37.2079
-       ],
-       [
-        -7.0255,
-        37.2037
-       ],
-       [
-        -6.9435,
-        37.1656
-       ],
-       [
-        -6.9091,
-        37.1535
-       ],
-       [
-        -6.8923,
-        37.1619
-       ],
-       [
-        -6.8643,
-        37.146
-       ],
-       [
-        -6.7941,
-        37.1216
-       ],
-       [
-        -6.7284,
-        37.0905
-       ],
-       [
-        -6.6185,
-        37.0335
-       ],
-       [
-        -6.591,
-        37.021
-       ],
-       [
-        -6.5131,
-        36.9722
-       ],
-       [
-        -6.4615,
-        36.925
-       ],
-       [
-        -6.4387,
-        36.8935
-       ],
-       [
-        -6.3975,
-        36.8112
-       ],
-       [
-        -6.373,
-        36.7964
-       ],
-       [
-        -6.3441,
-        36.7992
-       ],
-       [
-        -6.4844,
-        36.7572
-       ],
-       [
-        -6.7669,
-        36.652
-       ],
-       [
-        -6.8596,
-        36.6181
        ]
       ]
      ]
