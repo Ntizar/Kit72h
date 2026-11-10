@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-10T13:10:27+01:00",
+  "actualizado": "2026-11-10T16:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Bruselas vuelve a recomendar tener un kit de emergencia en casa: esto es todo lo que debe incluir",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS09veENRNTBoenhxajFuWDN5YkFkb2ZlOUM4cVlxUkhSWG42eEpoZlhkM1M5ekM3Z3hKUzc2RlJwTEhERmNLZ3ZMRVJvTmhKbjkzQjc2WENqSmVjRDctbGZjRk02UkRMczBTOXhKRjBJR2tSSVVzSFJCT1NnNk9WM1UyRjAyaklyZl9vSlg1ajdlSVZlTEF6Q2ZJRU1ITzBINF91RVhtc0wtaW94eUxNekZnLXN0Y0JkbFpLbkFYRm5kZ0cyNk9jV0FOcHZ6S01SdHBzaHZQVUxLbUtoVUtLRHFBT1hYaGxhTE5MR3hoTnVYa3p5YXgzeUJ6NVQ5UTIwZ3fSAYICQVVfeXFMTlVGQlM2elNPZ3ZwNW9WV3E1ZGt0STdvVEJDdVVncURNZWk3am45b2pUeE12cnlZa1BER1lNR3JqQUpBTXpidm4zUlBCQTVZbVBSazJvbGhVd0drTm5KbHZzd2pVSVZxbDBTSjJfRW5UZFp4SEJWUzRaYkFQMXhtWFBtclFZRXdlWnBiTTktUFd4MzlOSjY5YTVFNXYtdlBqanRIZGpnNEVKSmJqZ2pYYWVNMWM2UDBhanF2SkF6YmRhaVBTUXdBbXY0anZUbTJoQzAxbWRaNkNvZEFPSEtVNnQwTk5sZW5HeTVob2FQZzNxSWFuUllKcHRFa1ZRcHZqXzdR?oc=5",
+     "fuente": "LaSexta",
+     "resumen": "",
+     "fecha": "2026-11-10T14:53:47+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Granadilla de Abona presenta una nueva Guía de Emergencias para reforzar la autoprotección y la seguridad ciudadana",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0pUT3g1dzRJOUtrRG05ckVGdktudTI1dnZKdzZZaVBQNHpzN2pYYnlndHBpX0R6MmJPNF9VMkFHRS16UkNNU2pzbkZILXBBODVONjBTaFhybTljcFFHZ2RzMl9HeXpFbkRXY0dDMVlYcFY3RzdQOVZLSUNPWTFRbWFfVllVZWdPZ2I0Mk1TQTVKVGhHN3ZTN3ZHVTlrcFlZTFVSYkJ1MGxCZHhYekE5UzVMSVNoQTM3MDh3NWFfeGxGV3V5Sy1qaTJHVGdhUzJmT0xVajFobmYyTGZob3VJWG9Ndms?oc=5",
+     "fuente": "Ayuntamiento de Granadilla de Abona",
+     "resumen": "",
+     "fecha": "2026-11-10T14:44:36+01:00",
+     "fecha_txt": "10 nov"
+    },
     {
      "titulo": "LA CARTA DE FER | EL KIT DE SUPERVIVENCIA",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVElfdkVvUEFZLXZtMmwzanBkR0d2R0Vpb3BOYU5JLUFsR0tEajBOSDREc0NUZTN2ZjNMTk9LdHBqM0tiQTQyWHZxYTBJVUlYR2NxVUM5b3pJbG9MOVJ1cW1LWjFCU1dRdzUzVE9qVW9PUFJBOVljMFlSWW5MU1N6TlZnMnFtNGR6QldEdHlLME1CSW13WU5YbGJVamdnV3YxRWFQNEVXWUhlTDZ2Wm03MkdVR2xiQ055cHJVNHJUaFlxb0k2dU1QWjlkS3DSAdIBQVVfeXFMTkU5WWxSclM4LWJLQW5pQmVCVkNnY2hVV3JzZkVCTExZRXY5WVc3TGZQeWc4bWVqcW9xZ0ZhQlo2MThNM0hBTDdNY3VZbGg1S3pMNW1lUEFBQnBwakpfZ1FzMHJ1Tk8ybVZhUnhuNzFOYzFCdUlRWVVwXzA0MTM4UDFWZmNPdzlRcDBCa1lkVkV3QkoweG1UanJyMk1ObXpvNktfM003bjBNWTh0QWdwRU1aSEtjMlNOV0phOXFsdWVUa3VnQTNybjZRWjhkeExOMkZ3?oc=5",
@@ -28,14 +44,6 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "Bruselas pide a los ciudadanos que se preparen para ser autosuficientes durante 72 horas ante una gran crisis mundial",
-     "url": "https://www.msn.com/es-es/noticias/otras/bruselas-pide-a-los-ciudadanos-que-se-preparen-para-ser-autosuficientes-durante-72-horas-ante-una-gran-crisis-mundial/ar-AA2h8dfB",
-     "fuente": "elEconomista.es on MSN",
-     "resumen": "La Comisión Europea ha presentado nuevas recomendaciones para que los ciudadanos puedan valerse por sí mismos durante las primeras 72 horas de una emergencia, con medidas que incluyen las ya conocidas ...",
-     "fecha": "2026-11-10T02:39:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
      "titulo": "El kit de supervivencia de 72 horas que recomienda Europa: ¿qué productos básicos debes tener en casa?",
      "url": "https://www.mundodeportivo.com/elrecomendador/hogar/20261110/1004249048/kit-supervivencia-72-horas-recomienda-europa-productos-basicos-debes-casa-mkt-alie.html",
      "fuente": "Mundo Deportivo",
@@ -45,7 +53,7 @@
     },
     {
      "titulo": "La app K72 ayuda a los portugueses a preparar un kit de emergencia de 72 horas",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-app-k72-ayuda-a-los-portugueses-a-preparar-un-kit-de-emergencia-de-72-horas/ar-AA2h76c1",
+     "url": "https://www.msn.com/es-xl/noticias/otras/la-app-k72-ayuda-a-los-portugueses-a-preparar-un-kit-de-emergencia-de-72-horas/ar-AA2h7lI7",
      "fuente": "Euronews on MSN",
      "resumen": "La aplicación fue creada en Montijo, por Carlos Batista, en coordinación con la protección civil de este municipio, pero está destinada a todos los portugueses y les ayuda a preparar un \"kit\" para las ...",
      "fecha": "2026-11-10T00:28:46+01:00",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-09T18:14:13+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "¿Qué está pasando en el mundo? Países llaman a preparar mochilas de emergencia para sobrevivir 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazJhd3ZMTVMwMDNzbVh5RVRhTlhOWWVfSlhyTVRxaENyMFlGdmxWMkNlU1JnMFZxZ0xjX1drU21nZEtqc2VHb0ctd1FhQXVRT291bkYwNTB4bkxMVGgzZnAzNTN6d3A2QlZUWnhXOFdaVHJsaFlkNmx5a1kyVk1IX2lkclFRQnAyd0RXQkJBRndFb2ZKN09ndWYwRlNZSVZ4eG91b25RMVJLYXlaZFljM2FVNEx4ak9tODFrSHBubi13Vm83YUxZ?oc=5",
-     "fuente": "El Rancahuaso",
-     "resumen": "",
-     "fecha": "2026-11-09T14:21:03+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Una quema prohibida origina un incendio de 47 hectáreas que pone en riesgo viviendas en Cantabria, según la Guardia Civil",
+     "url": "https://www.lanocion.es/cantabria/20261110/una-quema-prohibida-origina-un-incendio-de-47-hect-85bb7.html",
+     "fuente": "La Noción",
+     "resumen": "La Guardia Civil investiga a un hombre de 38 años como presunto autor de un delito de incendio forestal por imprudencia grave en Valderredible (Cantabria). Según la investigación, el fuego comenzó con ...",
+     "fecha": "2026-11-10T03:06:00+01:00",
+     "fecha_txt": "10 nov"
+    },
     {
      "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
@@ -137,14 +145,6 @@
      "resumen": "El incendio forestal declarado en Valverde del Fresno (Cáceres), próximo a la provincia de Salamanca, se encuentra ya perimetrado, aunque todavía mantiene un frente activo en dirección a Portugal.",
      "fecha": "2026-11-08T11:25:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La España en llamas: diez años de infierno forestal",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-08T03:26:09+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -154,19 +154,35 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Aviso especial de la AEMET para varias comunidades de España: peligro de inundaciones del martes 10 al juev...",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWF9SSDlSd2dyMDkyRS1ib3ktMlNWNmw5RExFZU96bjNpSlF2MnU3SGZXcU9qOWNKTlI4Qy1xaEd4V1NiUlRxLTNiazZsWERNZ2NjTXBaaVRja1JXNm9naUN0UGRIN0EyVzd6YXhqYkMyTl9hV1dKMTFGcDl6cjZGRzJ4SmZ2anowRnVLOWYyU2Y4TXoxcVBpQWVLbmNfbDJqZUJQQ2VIUlA3eERGY2VBUjNwVnBDeEdiM04wUEh4MFJFV19MaGotbXR30gHPAUFVX3lxTFAxa3BITEpxNW45MXVYdDJmZ0lsLU43Y2NGNzFmZFBOQTBjZ3VSUHRTUWVJT1dZcG9qc053eGwtMlhmTzMta04tM0kwVkRQYkoyWkdVdXpmdUEtTkNCSm1sckZqUnloM012VkhhY1pvMW9NRHd5U09YNjNGME1aamZ5ejdDZTFtU2cydEtYbHRkNTBNTmNSNVdlaTVfckVTVlY0SDdHMnNkSExVMEEtc1VmWXVPLS1kcjdfczk1UWRyRzJIUXJGY1NBYmc3QkNkbw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T15:30:14+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BSDhPNnRFWkt0N2lDWnBTejNhNUt0SVF4T2hhNDN6OGU3U3R1djRFV1pwSDJHWFc2WTZ2TEFPSkNFUEc1d3lxbUROcXFkcS1BU1hzem5wRjk1enoxeVVUODZsQ1NGTmppZlkwbUN2aDY5OXlXQjZYellB0gF6QVVfeXFMTTQxSnlCNGl5OWVzSVp3NFdvZDVYd2VOYTY5ZGp3UzU4RF9vRTk4ZWVtYXlDbzhnVjNyMjNPNm1sQVBMSGlvOVpuZTE3czI1Rl9KWnMwT2ZDbVdQcmZybTlyNDJVand4ZERJaVhwNHBSUUx2OUFUd0hqZ3c?oc=5",
+     "fuente": "El Mundo",
+     "resumen": "",
+     "fecha": "2026-11-10T14:33:12+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "La Junta Electoral ordena a la Confederación del Júcar suspender unas jornadas sobre inundaciones y retirar una publicación en Instagram",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeE5wQ0xoM3YyMXFPakh4eUNuT1Ewa0RvamxZYTlwOFEzNVI1ay00YTBiOGJLZDkyY3RZa0RvTk00c0JtUWpkb0wwSG9kNUlpVkZkZURoRjI0WGtQaUU4cm5DSklKcmZoWk1yYmptWjJ0S0M4RzBvZkdnUnk5ZTZjQkpjWHpRQmFPcTZWckNuRHdXLTdDdEdzSnFtVFI1LXRGcFpvelZtVlFfWmljLW5ReEU0Y1RNbXp5SFBXVElWeDBmVTJVdnRhUFU5Zmx6UUlkQjNVTVU4S0ZBQnVpUzVFMVJrUWVuZnhfUEQ2bzM3WVE5LWMwcWoxR1pjQzhGY2xBRHVZRGhEQ0t3eC1FTmFFRnV30gGXAkFVX3lxTE1PWUQ3Q2tZOEc5RU5vRkM0ODlFSXFRcWlTeE1laTRTc0R2Mk53TmFZSzVCQ3N4Z3NQRExxQzB2czZtd3hrck1ZamgtV21Zbm5ydF8xM1ZPdDZaYzFmeG4xejdGRDBZUlhMMzVLUWFYU3pNYjdvOXZ6MExDc3g0R2dlZ21yVDI3cThwdGlzcmpZNHA3Ykk3SEpySjR0cmlVQi1HUXZDSXV0Mjc0cFVIVDdEaEItZUtIVjlPSl9VZ19FOXpiaUxEVUJpb1NHNVIxZ1lWQ0tiNXJuWUpQSmE4VjBoR1NtRG9QSVEtRGgtUXJNdFc4MXpkVTFydEVJeDhqQ3I4dWpJalpCSnZ4NzRaZXVxRlIwMVY0MA?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-11-10T14:05:25+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmgxb1dMMm56YWdLYmVXWFppNFd4OTFTY1phT183QTN3ZmptWm1PRXBaSnRHb2V6MldONENUVHBBOWowTW15RWhmYUgzTHU2UXdxVlhwTEk1ajJLR3B5aHNEbHpPaGlCaWdpRHdlSWMtU1ZGcDZ2blc2YnJweGZwN0JLVVlsSzZNRkxOOTlSYnlhcVZKZ0I0bGlPWkpIeU8yY29lR18wYjdxa01NdWF2c2ZR0gG3AUFVX3lxTFAtdEN6SmdMaFcxWlE2RXdxYUE0c0dudGJ2dkdrWU56Z1RNektsLTdUbzFWREgzVW05ZkZZcWxGUUxDeVVEX0xjUUNWZFJ3eHBfU1ZnNFpUZVcwQ29NM2tVRWZ3Mm9aWmp4TzdVTTVMZnU3bjBuOWwtaDNmS3dPblhOR19EREd5dVdQQjJBajBUaWdKelFKZXhoN2tNeGNHYlRnb0NyYk9SVTZGTVJubTBQU2dPenpuZw?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-10T11:59:29+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BSDhPNnRFWkt0N2lDWnBTejNhNUt0SVF4T2hhNDN6OGU3U3R1djRFV1pwSDJHWFc2WTZ2TEFPSkNFUEc1d3lxbUROcXFkcS1BU1hzem5wRjk1enoxeVVUODZsQ1NGTmppZlkwbUN2aDY5OXlXQjZYellB0gF6QVVfeXFMTTQxSnlCNGl5OWVzSVp3NFdvZDVYd2VOYTY5ZGp3UzU4RF9vRTk4ZWVtYXlDbzhnVjNyMjNPNm1sQVBMSGlvOVpuZTE3czI1Rl9KWnMwT2ZDbVdQcmZybTlyNDJVand4ZERJaVhwNHBSUUx2OUFUd0hqZ3c?oc=5",
-     "fuente": "El Mundo",
-     "resumen": "",
-     "fecha": "2026-11-10T11:38:25+01:00",
      "fecha_txt": "10 nov"
     },
     {
@@ -178,11 +194,11 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "España en alerta por las borrascas Bruna y Charles: provincias en aviso rojo por lluvias fuertes y persistentes",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLTdFanNXZVBPYkFlZlZNY3VLejlWc0ljTzBEdGdBU0tyNHVLM1VMRWNWZ1RqQVRjb3doRjd2RWsyMUpEOFMzQUlWejBBa3A0Y3pCcUN1OTNRS2w3bmNkV3phcVZOOE5FVS1tOUdOMVZiNVZ1UVRtWE5yNFN6V0RHMDV2ZzI3c0xfaFFUbWhtek1pTTNGaXBubGJvbXl4SVNUTU1US3BVY1FsYzNKVTNkQktDVlNWa21GemdvaFlGSi1ZSUZ6RHJ3NVNURFUyZU15Q056cnVYVHQzb2d4TEJiaFFlMlR4bFZDVl9hSS04WVN0Y21UMXRZd0dpMm3SAfwBQVVfeXFMUEdtSTBfY291SGw2TUVqendwc0tHTTNpSVpnaDd6bVByMUdxck5TM0didVk5OFMwTHdKdjdHd3B3ODdCSW9aSk9EQmx6VWNldG5qMS1BUjlVQU1JNFhZQUNuVElsb0RvX3pvaUc1a1R0QUpZZFBtdk92VzVVYjlIUS1fQWZWdTZmZTZqTXJwdEI1Uk1fMGc5aWNjX1NETWF0cEpKUXhTWElrWjYtV0pKemRGMHZYVUl4cXFxc1RqMS16UjJqNEtJM0FaVTdNaGU5MEVMNzItZ292SzVQandLRnoyLTY5RHZVdEpubmJReHBKZ1NiOGE2aVV3dkxW?oc=5",
-     "fuente": "Onda Cero",
+     "titulo": "Aviso rojo de la AEMET en Castilla y León hoy a partir de las 9: peligro extraordinario por inundaciones de...",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGk3REpyTHFJWTF3U2o2aEpuRXFRRXU5cmFLaEhYWGc3WldOMzg2Y2F6aEExcGx3Ykoyb2x6a25kUGpaaEc4Wm0zNUZxRmhqS0RXdVBTNllMY19NRElOSG5kVHpuQU5DOXFoZUVWOHd4T1VvRXNtckxOc0VkalNRZXpoTS1EUFZ5ZnBmNW4tbl83TkZpbDQ0WjFwOGFoVFRqd2ZNNzdVN29XUjM3YjV4SnViUVh4M2RETm1kS1ZUYlcwWU9zSTQxZEp4ZkbSAdIBQVVfeXFMT2p6YkMyMHlOZ0RBV25CWVl6LXl4d3ROYVZlMmhMVzhnWUgyYlNVenhxZXZoTGJtWUM5NEtocFVsNXJVUjNMQ0xEb2NPbEJuaDdJNHJ6Mk9ZalpITERuclQ4Y0pqR1ZEQWtsSUUzcnd4UmJmMG1jNnpYRDNkeExWUHYzOVIzbGRLNjdRUjdPQk84RlBZdlliWjVCUXZLWXNJWXJ4cnFWai1SVkhKTkdjT09mTlEwQno1RmY1OWlfeHFnaEQ0dS1Ba2kwbGhlaXNnay1R?oc=5",
+     "fuente": "OkDiario",
      "resumen": "",
-     "fecha": "2026-11-10T09:15:50+01:00",
+     "fecha": "2026-11-10T08:30:56+01:00",
      "fecha_txt": "10 nov"
     },
     {
@@ -199,22 +215,6 @@
      "fuente": "El HuffPost",
      "resumen": "",
      "fecha": "2026-11-10T05:27:39+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "La ciclogénesis explosiva de Charles amenaza con inundaciones y daños importantes",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-ciclog%C3%A9nesis-explosiva-de-charles-amenaza-con-inundaciones-y-da%C3%B1os-importantes/ar-AA2h8o4E",
-     "fuente": "National Geographic España on MSN",
-     "resumen": "La Agencia Estatal de Meteorología (AEMET) advierte de que dos borrascas consecutivas podrían dejar más de 300 litros de lluvia por metro cuadrado y rachas superiores a 130 km/h en determinadas zonas ...",
-     "fecha": "2026-11-10T03:29:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Aviso rojo de la AEMET en Castilla y León hoy a partir de las 9: peligro extraordinario por inundaciones de hasta 120l/m2",
-     "url": "https://www.msn.com/es-es/noticias/otras/aviso-rojo-de-la-aemet-en-castilla-y-le%C3%B3n-hoy-a-partir-de-las-9-peligro-extraordinario-por-inundaciones-de-hasta-120lm2/ar-AA2h7tot",
-     "fuente": "Okdiario on MSN",
-     "resumen": "La Agencia Estatal de Meteorología (AEMET) ha activado el aviso rojo en el sur de la provincia de Ávila para este martes 10 de noviembre ante la previsión de lluvias extraordinariamente intensas. El e ...",
-     "fecha": "2026-11-10T01:31:00+01:00",
      "fecha_txt": "10 nov"
     }
    ]
@@ -233,12 +233,12 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-09T20:47:02+01:00",
-     "fecha_txt": "9 nov"
+     "titulo": "El Gobierno investiga si el apagón de Lanzarote era evitable y no descarta responsabilidades",
+     "url": "https://www.libertaddigital.com/canarias/2026-11-10/el-gobierno-investiga-si-el-apagon-de-lanzarote-era-evitable-y-no-descarta-responsabilidades-7489151/",
+     "fuente": "Libertad Digital",
+     "resumen": "El Gobierno de Canarias analiza los informes sobre el apagón que dejó sin suministro eléctrico a Lanzarote y La Graciosa el pasado 3 de octubre para determinar si el incidente pudo evitarse y si ...",
+     "fecha": "2026-11-10T07:51:00+01:00",
+     "fecha_txt": "10 nov"
     },
     {
      "titulo": "Portugal contrata a Iberdrola para recuperar un gran apagón como el sufrido por España en 2025",
@@ -246,6 +246,14 @@
      "fuente": "Radio Intereconomía",
      "resumen": "",
      "fecha": "2026-11-09T16:02:07+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-09T09:00:00+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -279,14 +287,6 @@
      "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
      "fecha": "2026-11-08T06:01:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
-     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
-     "fuente": "La Razón on MSN",
-     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
-     "fecha": "2026-11-07T20:00:00+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   }
