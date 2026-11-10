@@ -48,7 +48,8 @@ STOP = {"de", "del", "la", "el", "los", "las", "para", "con", "sin", "por", "un"
         "una", "unos", "unas", "y", "o", "en", "al", "tipo", "color", "pack"}
 ACCESORIOS = {"funda", "carcasa", "repuesto", "compatible", "adaptador",
               "soporte", "protector", "cable", "recambio"}
-UNIDAD = r"(mah|wh|w|kw|v|ml|cl|l|kg|g|cm|mm|km|lm|a|ah|bar|atm|hz|ghz|grados|db)"
+UNIDAD = (r"(?:mah|wh|kw|ml|cl|kg|cm|mm|km|lm|ghz|hz|bar|atm|grados|db|"
+          r"w|v|l|g|a|ah)")
 
 
 def _normalizar(texto: str) -> str:
@@ -58,7 +59,15 @@ def _normalizar(texto: str) -> str:
 
 
 def _tokens(texto: str) -> set[str]:
-    return {t for t in _normalizar(texto).split() if len(t) >= 3 and t not in STOP}
+    salida = set()
+    for t in _normalizar(texto).split():
+        if len(t) < 3 or t in STOP:
+            continue
+        salida.add(t)
+        # "silbatos" y "silbato" deben casar sin exigir un stemmer completo.
+        if len(t) > 4 and t.endswith("s"):
+            salida.add(t[:-1])
+    return salida
 
 
 def _unidades(texto: str) -> set[str]:
