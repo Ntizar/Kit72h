@@ -1,17 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Kit72h — buscador nocturno de fichas reales de Amazon.
+"""Kit72h — resolución nocturna de fichas reales de Amazon.
 
-Los productos cuyo enlace es aún una búsqueda genérica (es_busqueda: true en
-data/kits.json) se resuelven aquí: se busca en amazon.es (curl + --compressed
-+ cookie jar, patrón probado en agosto 2026), se filtran candidatos por rango
-de precio y ≥4★, y se VERIFICA cada ficha final (HTTP 200 + buybox + precio)
-antes de proponerla.
+Los productos cuyo enlace es una búsqueda genérica (`es_busqueda: true`) se
+resuelven contra la Creators API (SearchItems), no raspando la web. Se filtran
+por rango de precio, stock y **compatibilidad del título con el producto**
+(modelo, capacidad y unidad incluidas), y solo entonces se proponen.
 
-Nunca escribe enlaces en kits.json: genera propuestas en data/propuestas-fichas.json
-y un Excel (data/productos-pendientes.xlsx) para revisión y validación humana.
-Rotación determinista: cada noche toca un cupo de N pendientes (por defecto 12),
-así el trabajo se reparte sin estado y sin quemar requests de más.
+Reglas de la auditoría 2026-11-10:
+- Nada de scraping: una ficha se acepta si la API la devuelve con `IN_STOCK`.
+- El título debe contener las unidades/capacidad del producto y no puede ser
+  un accesorio (funda, repuesto, compatible con…).
+- Un fallo de la API NO se cuenta como «producto agotado»: el lote se corta,
+  se conserva lo ya resuelto y se reintenta la próxima noche.
+- Nunca escribe enlaces a ciegas: genera propuestas en
+  `data/propuestas-fichas.json`; las que pasan el filtro se aplican a
+  `data/kits.json` dejando traza de la URL anterior.
 
 Uso:
   python scripts/buscar-amazon.py                 # lote de esta noche (12)
@@ -19,91 +23,67 @@ Uso:
   python scripts/buscar-amazon.py --producto "sirena"   # probar uno
 """
 import argparse
-import html
 import json
-import random
 import re
-import subprocess
 import sys
 import time
-import urllib.parse
+import unicodedata
 from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(RAIZ / "scripts"))
+import amazon_api as ama  # noqa: E402
+
 D_KITS = RAIZ / "data" / "kits.json"
 D_PROP = RAIZ / "data" / "propuestas-fichas.json"
 D_XLSX = RAIZ / "data" / "productos-pendientes.xlsx"
 D_LOG = RAIZ / "data" / "buscador-log.json"
 TAG = "ntizar-21"
-UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/126 Safari/537.36")
 
 # Productos que no son de compra online: nunca se buscan
 EXCLUIR = re.compile(r"efectivo|paracetamol|ibuprofeno|renueva|recarga gratis|"
                      r"fotocopias|plan familiar|reunión|punto de encuentro", re.I)
+STOP = {"de", "del", "la", "el", "los", "las", "para", "con", "sin", "por", "un",
+        "una", "unos", "unas", "y", "o", "en", "al", "tipo", "color", "pack"}
+ACCESORIOS = {"funda", "carcasa", "repuesto", "compatible", "adaptador",
+              "soporte", "protector", "cable", "recambio"}
+UNIDAD = r"(mah|wh|w|kw|v|ml|cl|l|kg|g|cm|mm|km|lm|a|ah|bar|atm|hz|ghz|grados|db)"
 
 
-def curl_get(url, cookiejar, timeout=60):
-    """curl con cookie jar; devuelve (status, texto)."""
-    tmp = RAIZ / "data" / "_tmp_page.html"
-    cmd = ["curl", "-s", "-L", "-o", str(tmp), "-w", "%{http_code}",
-           "-c", str(cookiejar), "-b", str(cookiejar), "-A", UA,
-           "--compressed", "--max-time", str(timeout), url]
-    try:
-        r = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout + 15)
-        code = r.stdout.strip() or "000"
-    except subprocess.TimeoutExpired:
-        return "000", ""
-    txt = ""
-    if tmp.exists():
-        txt = tmp.read_text(encoding="utf-8", errors="ignore")
-        tmp.unlink(missing_ok=True)
-    return code, txt
+def _normalizar(texto: str) -> str:
+    s = unicodedata.normalize("NFKD", (texto or "").lower())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", " ", s).strip()
 
 
-def buscar(query, jar):
-    """Resultados de amazon.es para una query. [(asin, titulo, precio, rating, resenas)]"""
-    url = "https://www.amazon.es/s?k=" + urllib.parse.quote_plus(query)
-    for intento in range(3):
-        code, txt = curl_get(url, jar)
-        if code == "200" and "s-result" in txt and "captcha" not in txt[:3000].lower():
-            return parse_resultados(txt)
-        jar.unlink(missing_ok=True)  # jar quemado -> renew
-        time.sleep(2 + random.random() * 3)
-    return []
+def _tokens(texto: str) -> set[str]:
+    return {t for t in _normalizar(texto).split() if len(t) >= 3 and t not in STOP}
 
 
-def parse_resultados(txt):
-    out = []
-    bloques = re.split(r'data-asin="([A-Z0-9]{10})"', txt)
-    for i in range(1, len(bloques) - 1, 2):
-        asin, b = bloques[i], bloques[i + 1][:8000]
-        if "a-price" not in b:
-            continue
-        m = re.search(r"<h2[^>]*>.*?<span[^>]*>(.*?)</span>", b, re.S)
-        titulo = html.unescape(re.sub(r"<[^>]+>", "", m.group(1))).strip() if m else ""
-        mp = re.search(r'a-price-whole">([\d.,]+)', b)
-        mf = re.search(r'a-price-fraction">(\d+)', b)
-        precio = None
-        if mp:
-            precio = float(mp.group(1).replace(".", "").replace(",", ".")) + \
-                     (int(mf.group(1)) / 100 if mf else 0)
-        mr = re.search(r"([\d,]+) de 5 estrellas", b)
-        rating = float(mr.group(1).replace(",", ".")) if mr else None
-        mrv = re.search(r'a-size-base s-underline-text[^>]*>\s*([\d.,]+)', b)
-        resenas = int(re.sub(r"[.,]", "", mrv.group(1))) if mrv else 0
-        if titulo and precio:
-            out.append((asin, titulo, precio, rating, resenas))
-    return out
+def _unidades(texto: str) -> set[str]:
+    plano = _normalizar(texto)
+    compacto = plano.replace(" ", "")
+    return {m for m in re.findall(rf"\d+(?:[.,]\d+)?{UNIDAD}", compacto)}
 
 
-def verificar_ficha(asin, jar):
-    """True si la ficha dp/ASIN responde 200 y tiene buybox (puede comprarse)."""
-    code, txt = curl_get(f"https://www.amazon.es/dp/{asin}", jar)
-    if code != "200" or len(txt) < 20000:
+def titulo_compatible(producto: str, titulo: str) -> bool:
+    """Evita cambiar un producto por su funda o por otro modelo."""
+    pn, tn = _normalizar(producto), _normalizar(titulo)
+    if not pn or not tn:
         return False
-    return bool(re.search(r'id="buybox"|add-to-cart-button|coreNoDupeErrors', txt))
+    if any(a in tn.split() and a not in pn.split() for a in ACCESORIOS):
+        return False
+    if pn and pn in tn:
+        return True
+    unidades = _unidades(producto)
+    if unidades and not unidades.issubset(_unidades(titulo)):
+        return False
+    pt = _tokens(producto)
+    if not pt:
+        return False
+    coinciden = len(pt & _tokens(titulo))
+    return coinciden >= 2 and coinciden / len(pt) >= 0.60
 
 
 def rango_de(precio_aprox):
@@ -121,17 +101,14 @@ def coletilla_no_compra(producto):
 
 
 def n_agotado(clave, intentos, n_max):
-    """¿Este item lleva ya demasiadas noches sin candidato verificado?
-
-    n_max = 0 desactiva el agotado (comportamiento antiguo: reintentar siempre).
-    """
+    """¿Este item lleva ya demasiadas noches sin candidato verificado?"""
     if not n_max:
         return False
     return (intentos.get(clave) or {}).get("n", 0) >= n_max
 
 
 def registrar_intento(clave, intentos, hoy):
-    """Suma una noche sin candidato y devuelve el total; conserva primera y ultima fecha."""
+    """Suma una noche sin candidato y conserva primera y última fecha."""
     v = intentos.get(clave)
     if not isinstance(v, dict):
         v = {"n": 0, "primera": hoy.isoformat()}
@@ -142,30 +119,49 @@ def registrar_intento(clave, intentos, hoy):
     return v["n"]
 
 
-def main():
+def elegir_candidato(producto: str, resultados: list[dict], lo: float, hi: float) -> dict | None:
+    """Filtra por stock, precio y título; elige el más cercano al centro del rango."""
+    validos = []
+    centro = (lo + hi) / 2
+    for d in resultados:
+        precio = d.get("precio")
+        if not d.get("asin") or not precio or d.get("disponible") is not True:
+            continue
+        if not (lo <= precio <= hi):
+            continue
+        if not titulo_compatible(producto, d.get("titulo") or ""):
+            continue
+        validos.append((abs(precio - centro), d))
+    if not validos:
+        return None
+    return min(validos, key=lambda x: x[0])[1]
+
+
+def _atomico(ruta: Path, texto: str) -> None:
+    tmp = ruta.with_name(ruta.name + ".tmp")
+    tmp.write_text(texto, encoding="utf-8")
+    tmp.replace(ruta)
+
+
+def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--cupo", type=int, default=12)
     ap.add_argument("--max-segundos", type=int, default=0,
-                    help="presupuesto de tiempo para el lote (0 = sin límite). Al agotarse "
-                         "guarda lo hecho y sale con 0: un cron no debe morir por timeout")
+                    help="presupuesto de tiempo para el lote (0 = sin límite)")
     ap.add_argument("--producto", default=None, help="filtrar por substring (pruebas)")
     ap.add_argument("--limpieza", action="store_true", help="marcar N/A los no-compra y reescribir log")
     ap.add_argument("--agotado-n", type=int, default=3,
-                    help="noches sin candidato tras las que un item sale de la rotacion (0 = nunca)")
+                    help="noches sin candidato tras las que un item sale de la rotación (0 = nunca)")
     ap.add_argument("--reabrir", default=None,
-                    help="devolver a la rotacion los agotados cuyo nombre contenga este texto")
+                    help="devolver a la rotación los agotados cuyo nombre contenga este texto")
     ap.add_argument("--simular", action="store_true",
-                    help="ensayo sin red: dice que items tocarian y cuantos hay agotados, sin buscar")
+                    help="ensayo sin red: dice qué items tocarían y cuántos hay agotados")
     args = ap.parse_args()
 
     kits = json.loads(D_KITS.read_text(encoding="utf-8"))
     propuestas = json.loads(D_PROP.read_text(encoding="utf-8")) if D_PROP.exists() else {}
-    log = json.loads(D_LOG.read_text(encoding="utf-8")) if D_LOG.exists() else {"resueltos": [], "na": [], "intentos": {}}
-    # `intentos` nacio como lista y nunca se lleno. Ahora es EL CONTADOR DE NOCHES SIN CANDIDATO
-    # por item (clave -> {n, primera, ultima}) y es la pieza que faltaba: sin el, un producto cuyo
-    # termino de busqueda no encuentra nada vuelve a caer en la rotacion cada noche, el contador
-    # de pendientes nunca baja y el cupo se gasta en los mismos. Al llegar a N (--agotado-n) sale
-    # de la rotacion y se lista como agotado; --reabrir lo devuelve tras arreglar su busqueda.
+    log = json.loads(D_LOG.read_text(encoding="utf-8")) if D_LOG.exists() else {
+        "resueltos": [], "na": [], "intentos": {}}
     intentos = log.get("intentos")
     if not isinstance(intentos, dict):
         intentos = {}
@@ -178,7 +174,7 @@ def main():
                 prod = i.get("producto", "")
                 url = i.get("afiliado") or ""
                 if i.get("sin_enlace"):
-                    continue  # item no comprable (medicación, acuerdos, listas): nunca fue pendiente
+                    continue
                 sin_ficha = ("amazon.es/s?" in url) or not url or i.get("es_busqueda")
                 if not sin_ficha:
                     continue
@@ -187,8 +183,6 @@ def main():
                         log["na"].append(prod)
                     continue
                 clave = f"{kit['slug']}|{prod}"
-                # solo excluir si ya tiene ficha aplicada; las propuestas sin
-                # candidato verificado se reintentan en noches posteriores
                 if (propuestas.get(clave) or {}).get("url"):
                     continue
                 if n_agotado(clave, intentos, args.agotado_n):
@@ -198,20 +192,18 @@ def main():
                 pendientes.append((kit, s, i, clave))
 
     if args.reabrir:
-        # Valvula humana: tras arreglar el termino de busqueda de un producto agotado se le
-        # devuelve a la rotacion. Sin esto, "agotado" seria una condena permanente.
         tocados = [c for c in list(intentos) if args.reabrir.lower() in c.lower()]
         for c in tocados:
             intentos.pop(c, None)
         log["intentos"] = intentos
-        D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"reabiertos {len(tocados)}: {tocados or '(ninguno coincidio)'}")
-        return
+        _atomico(D_LOG, json.dumps(log, ensure_ascii=False, indent=2))
+        print(f"reabiertos {len(tocados)}: {tocados or '(ninguno coincidió)'}")
+        return 0
 
     if args.limpieza:
-        D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
+        _atomico(D_LOG, json.dumps(log, ensure_ascii=False, indent=2))
         print(f"log de limpieza: {len(log['na'])} marcados N/A")
-        return
+        return 0
 
     hoy = date.today()
     dia = int(hoy.strftime("%Y%m%d"))
@@ -225,34 +217,30 @@ def main():
     print(f"Pendientes: {len(pendientes)} | lote de esta noche: {len(lote)} | "
           f"agotados: {len(agotados)} (de {len(intentos)} con intentos) | N/A: {len(log['na'])}")
     if args.simular:
-        # Ensayo sin red: dice que haria esta noche y sale sin gastar una peticion a Amazon.
-        print(f"[simulacion] tocaria {len(lote)} de {len(pendientes)} pendientes:")
+        print(f"[simulación] tocaría {len(lote)} de {len(pendientes)} pendientes:")
         for kit, s, i, clave in lote:
             v = intentos.get(clave) or {}
             print(f"  · {i['producto'][:58]:60s} intentos={v.get('n', 0)}")
-        print(f"[simulacion] {len(agotados)} fuera de rotacion (agotado-n={args.agotado_n})")
-        return
-    jar = RAIZ / "data" / "_cookies_amz.txt"
-    nuevos = 0
-    aplicadas = 0
+        print(f"[simulación] {len(agotados)} fuera de rotación (agotado-n={args.agotado_n})")
+        return 0
+
+    cfg = ama.cargar_env()
+    if not cfg.get("AMAZON_CREDENTIAL_ID") or not cfg.get("AMAZON_PARTNER_TAG"):
+        print("buscador: faltan credenciales de Creators API en .env — no se toca nada",
+              file=sys.stderr)
+        return 2
+
+    nuevos = aplicadas = 0
     t0 = time.monotonic()
 
     def guardar():
-        """Persistencia INCREMENTAL: cada item se guarda al terminar el suyo.
-
-        Antes se escribía todo al salir del bucle, así que el timeout del cron
-        (runner-kit72h.py corta a 900s) se llevaba por delante el trabajo de toda
-        la noche: 12 fichas rascadas de Amazon y CERO guardadas, todas las noches
-        (cron kit72h-buscador en `error` desde 2026-10-07). El guardado por item
-        hace que cualquier corte conserve lo hecho.
-        """
-        D_PROP.write_text(json.dumps(propuestas, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        D_LOG.write_text(json.dumps(log, ensure_ascii=False, indent=2), encoding="utf-8")
+        """Guardado incremental y atómico de cada item terminado."""
+        _atomico(D_PROP, json.dumps(propuestas, ensure_ascii=False, indent=2) + "\n")
+        _atomico(D_LOG, json.dumps(log, ensure_ascii=False, indent=2))
         if aplicadas:
-            D_KITS.write_text(json.dumps(kits, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            _atomico(D_KITS, json.dumps(kits, ensure_ascii=False, indent=2) + "\n")
 
     for kit, s, i, clave in lote:
-        # Comprobación ANTES de gastar: nunca pasarse del presupuesto por más de un item.
         if args.max_segundos and (time.monotonic() - t0) > args.max_segundos:
             print(f"⏱️  presupuesto de {args.max_segundos}s agotado: {nuevos}/{len(lote)} del lote "
                   f"({aplicadas} aplicadas, guardadas). El resto, la próxima noche.")
@@ -260,60 +248,49 @@ def main():
         prod = i["producto"]
         q = i.get("busqueda") or re.sub(r"\(.*?\)|[—–:/]", " ", prod).strip().lower()
         lo, hi = rango_de(i.get("precio_aprox"))
-        res = buscar(q, jar)
-        cands = [r for r in res if lo <= r[2] <= hi and (r[3] or 0) >= 4.0 and r[4] >= 50]
-        if not cands:
-            cands = [r for r in res if lo * 0.7 <= r[2] <= hi * 1.4 and (r[3] or 0) >= 4.0]
-        cands.sort(key=lambda r: -(r[4] or 0))
-        ficha_ok = None
-        for asin, titulo, precio, rating, resenas in cands[:3]:
-            if verificar_ficha(asin, jar):
-                ficha_ok = {"asin": asin, "titulo": titulo[:120], "precio": precio,
-                            "rating": rating, "resenas": resenas,
-                            "url": f"https://www.amazon.es/dp/{asin}?tag={TAG}",
-                            "verificacion": "buybox"}
-                break
-            time.sleep(1 + random.random())
+        try:
+            resultados = ama.buscar(cfg, q, n=10)
+        except (RuntimeError, SystemExit) as e:
+            guardar()
+            print(f"❌ buscador: SearchItems falló en «{prod}»: {str(e)[:200]}. "
+                  "Lote cortado; NO se marca agotado.", file=sys.stderr)
+            return 2
+
+        ficha = elegir_candidato(prod, resultados, lo, hi)
         entry = {"kit": kit["slug"], "seccion": s["titulo"], "busqueda": q,
                  "rango_esperado": i.get("precio_aprox"), "fecha": hoy.isoformat()}
-        if ficha_ok:
-            entry.update(ficha_ok)
-            entry["aplicada"] = True
+        if ficha:
+            url = f"https://www.amazon.es/dp/{ficha['asin']}?tag={TAG}"
+            entry.update({
+                "asin": ficha["asin"],
+                "titulo": (ficha.get("titulo") or "")[:120],
+                "precio": ficha.get("precio"),
+                "url": url,
+                "verificacion": "creators-api-search+stock",
+                "aplicada": True,
+                "anterior": i.get("afiliado"),
+            })
             log["resueltos"].append(prod)
-            intentos.pop(clave, None)          # resuelto: el contador de esa clave sobra
-            # Auto-aplicar: la ficha está verificada (buybox + precio en rango + ≥4★).
-            # El enlace conserva el tag de afiliado; queda registrado en propuestas
-            # y en el Excel semanal por si David quiere revertir alguno.
-            anterior = i.get("afiliado")
-            i["afiliado"] = ficha_ok["url"]
+            intentos.pop(clave, None)
+            i["afiliado"] = url
             i["es_busqueda"] = False
             i["verificado_ficha"] = hoy.isoformat()
-            entry["anterior"] = anterior
             aplicadas += 1
+            print(f"  ✅ {prod[:55]:57s} -> {url}")
         else:
             entry["intentos"] = registrar_intento(clave, intentos, hoy)
-            if n_agotado(clave, intentos, args.agotado_n):
-                entry["estado"] = f"agotado ({entry['intentos']} noches sin candidato)"
-            else:
-                entry["estado"] = f"sin candidato verificado (intento {entry['intentos']})"
+            entry["estado"] = (f"agotado ({entry['intentos']} noches sin candidato)"
+                               if n_agotado(clave, intentos, args.agotado_n)
+                               else f"sin candidato compatible (intento {entry['intentos']})")
+            print(f"  ·  {prod[:55]:57s} -> {entry['estado']}")
         propuestas[clave] = entry
         nuevos += 1
-        if ficha_ok:
-            print(f"  ✅ {prod[:55]:57s} -> {ficha_ok['url']}")
-        else:
-            n = (intentos.get(clave) or {}).get("n", 0)
-            cola = ("AGOTADO: %d noches sin candidato verificado" % n
-                    if n and n >= args.agotado_n > 0 else f"reintentar otra noche (intento {n})")
-            print(f"  ·  {prod[:55]:57s} -> {cola}")
-        time.sleep(2 + random.random() * 2)
         guardar()
 
     guardar()
-    jar.unlink(missing_ok=True)
     if aplicadas:
-        print(f"kits.json actualizado con {aplicadas} fichas verificadas")
+        print(f"kits.json actualizado con {aplicadas} fichas verificadas por API")
 
-    # Excel de validación para David
     try:
         from openpyxl import Workbook
         from openpyxl.styles import Font
@@ -321,9 +298,8 @@ def main():
         wb = Workbook()
         ws = wb.active
         ws.title = "Pendientes"
-        cols = ["Nº", "Kit", "Sección", "Producto", "Búsqueda", "URL verificada (con tu tag)",
-                "Precio", "Rating", "Reseñas", "Verificación", "Estado", "Validado (sí/no)"]
-        ws.append(cols)
+        ws.append(["Nº", "Kit", "Sección", "Producto", "Búsqueda", "URL verificada (con tu tag)",
+                   "Precio", "Rating", "Reseñas", "Verificación", "Estado", "Validado (sí/no)"])
         for c in ws[1]:
             c.font = Font(bold=True)
         n = 0
@@ -337,16 +313,13 @@ def main():
                         continue
                     p = propuestas.get(clave)
                     n += 1
-                    ws.append([n, kit["slug"], s["titulo"], prod,
-                               i.get("busqueda", ""),
-                               (p or {}).get("url", ""),
-                               (p or {}).get("precio", ""),
-                               (p or {}).get("rating", ""),
-                               (p or {}).get("resenas", ""),
+                    ws.append([n, kit["slug"], s["titulo"], prod, i.get("busqueda", ""),
+                               (p or {}).get("url", ""), (p or {}).get("precio", ""),
+                               (p or {}).get("rating", ""), (p or {}).get("resenas", ""),
                                (p or {}).get("verificacion", ""),
                                "N/A — no es compra online" if es_na else
                                ((p or {}).get("estado") or "propuesta"), ""])
-        anchos = [4, 16, 18, 42, 30, 52, 8, 7, 8, 10, 22, 14]
+        anchos = [4, 16, 18, 42, 30, 52, 8, 7, 8, 26, 34, 14]
         for j, w in enumerate(anchos, 1):
             ws.column_dimensions[get_column_letter(j)].width = w
         ws.freeze_panes = "A2"
@@ -359,13 +332,12 @@ def main():
     print(f"DONE propuestas totales: {len(propuestas)} | resueltos: {len(log['resueltos'])} | "
           f"pendientes restantes: {max(0, len(pendientes) - nuevos)} | agotados: {len(agotados)}")
     if agotados:
-        # Dejar de buscar un producto es una DECISION, no un silencio: se lista siempre, con
-        # cuantas noches lleva y desde cuando. El arreglo suele ser su termino de busqueda.
-        print(f"Fuera de la rotacion ({len(agotados)}; ya no cuentan como pendientes):")
+        print(f"Fuera de la rotación ({len(agotados)}; ya no cuentan como pendientes):")
         for c in agotados:
             v = intentos.get(c) or {}
-            print(f"  · {c[:76]:78s} {v.get('n', 0)} noches · ultima {v.get('ultima')}")
-        print('  reintentar uno tras arreglar su busqueda:  --reabrir "<trozo del producto>"')
+            print(f"  · {c[:76]:78s} {v.get('n', 0)} noches · última {v.get('ultima')}")
+        print('  reintentar uno tras arreglar su búsqueda:  --reabrir "<trozo del producto>"')
+    return 0
 
 
 def es_busqueda(i):
@@ -374,4 +346,4 @@ def es_busqueda(i):
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

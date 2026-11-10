@@ -7,8 +7,8 @@ devolvía el propio `precio_ref` del catálogo, así que el «cambio» era siemp
 detectaba una oferta. Corría cada mañana, no fallaba y no producía nada.
 
 Ahora delega en `scripts/precios-amazon.py` (Creators API oficial de Amazon):
-- refresca `data/precios.json` (precio de hoy de cada ASIN de los kits),
-- elige la oferta del día por rebaja real publicada por Amazon (ticket alto primero),
+- refresca `data/precios.json` con una instantánea atómica del día,
+- elige una selección editorial por rebaja real, stock y precio final,
 - la web la pinta en caliente desde `js/ui.js`, sin rehornear.
 
 No hornea: el horneado nocturno (kit72h-buscador, 05:15) ya sale con este JSON.
@@ -25,6 +25,7 @@ PY = sys.executable
 os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main por diseño
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 JSON = "data/precios.json"
+HIST = "data/precios-historico.json"
 
 
 def run(*args, timeout=600):
@@ -69,11 +70,11 @@ def main() -> int:
             viejo = {}
 
     if huella(nuevo) == huella(viejo):
-        run("git", "checkout", "--", JSON)   # árbol limpio: no bloquear los rebase de otros crons
+        run("git", "checkout", "--", JSON, HIST)   # árbol limpio: no bloquear los rebase de otros crons
         print("precios: sin cambios reales (sin commit)")
         return 0
 
-    add = run("git", "add", JSON)
+    add = run("git", "add", "--", JSON, HIST)
     if add.returncode != 0:
         print(f"❌ git add falló: {(add.stderr or '').strip()[:200]}")
         return 1
@@ -82,7 +83,7 @@ def main() -> int:
     resumen = (f"{od.get('producto')} a {od.get('precio_texto')} (-{od.get('ahorro_pct')}%)"
                if od else "sin oferta destacada")
     commit = run("git", *IDENT, "commit", "-q", "-m",
-                 f"chore(precios): precios de hoy en Amazon y oferta del dia — {resumen}"[:200])
+                 f"chore(precios): precios de hoy en Amazon y seleccion del dia — {resumen}"[:200])
     if commit.returncode != 0:
         print(f"⚠️ commit: {(commit.stdout + commit.stderr).strip()[:300]}")
 

@@ -408,15 +408,15 @@ const ui = {
       </section>`;
   },
 
-  /* ---- OFERTA DEL DÍA (sale de data/precios.json: rebaja real de Amazon) ---- */
+  /* ---- SELECCIÓN DEL DÍA (data/precios.json: rebaja real + stock + precio) ---- */
   textoOferta(o) {
     const pct = Math.round(o.ahorro_pct);
     const ahorro = precios.eur(Math.max(0, (o.precio_antes || 0) - o.precio));
     const n = Object.keys((precios.data && precios.data.productos) || {}).length;
     const variantes = [
-      `Hoy es lo que más baja de todos los kits: ${pct} % sobre el precio recomendado que publica Amazon, ${ahorro} menos. Forma parte del ${o.kit_titulo}.`,
-      `La mayor rebaja de hoy entre los ${n} productos que seguimos cada mañana: ${pct} % de descuento. Está en el ${o.kit_titulo}, por si te faltaba esa pieza.`,
-      `Cada día se consultan los precios de todos los productos de los kits y se elige el que más ha bajado. Hoy es este: ${pct} % menos, ${ahorro} de ahorro, dentro del ${o.kit_titulo}.`,
+      `Selección de hoy: ${pct} % menos sobre el precio recomendado que publica Amazon, ${ahorro} de ahorro. No es necesariamente el mayor porcentaje del día: miramos rebaja, stock y precio final. Está en el ${o.kit_titulo}.`,
+      `Entre los ${n} productos con precio verificado hoy, destacamos este por su rebaja y su precio final: ${pct} % menos y ${ahorro} de ahorro. Forma parte del ${o.kit_titulo}.`,
+      `Cada mañana consultamos los precios de los kits y elegimos una compra con sentido por rebaja y precio final, no solo por el porcentaje. Hoy: ${pct} % menos, ${ahorro} de ahorro, dentro del ${o.kit_titulo}.`,
     ];
     return variantes[new Date().getDate() % variantes.length];
   },
@@ -430,7 +430,7 @@ const ui = {
       <section class="sec oscura" id="oferta-dia">
         <div class="container">
           <div class="sec-inner">
-            <span class="sec-label">Oferta del día${precios.fecha() ? ' · ' + precios.fecha() : ''}</span>
+            <span class="sec-label">Selección de hoy${precios.fecha() ? ' · ' + precios.fecha() : ''}</span>
             <a class="cta-kit" href="${o.url}" target="_blank" rel="sponsored nofollow noopener">
               <span class="cta-kit-t">${o.producto}<br>hoy a ${o.precio_texto}</span>
               <span class="cta-kit-b">${antes}-${Math.round(o.ahorro_pct)}% · está en ${o.kit_titulo} →</span>

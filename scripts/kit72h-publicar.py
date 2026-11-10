@@ -7,27 +7,35 @@ Lo ejecuta el cron `kit72h-publicador` (modo script, --no-agent) en el VM. Lee
 07:30) y la publica: upsert en blog.json, materializa el directorio, regenera
 home+SEO, hornea con Playwright y pasa el gate. Si el gate falla NO commitea.
 
-Es idempotente: si ya existe la marca `.publicado-<slug>`, no repite nada.
-Salida: 1-5 líneas para el deliver del cron; VACÍO si no hay nada que publicar.
+Contrato de cola (auditoría 2026-11-10):
+- Una marca `.publicado-<slug>` NUNCA autoriza a borrar una entrada nueva.
+- Solo se archiva una entrada cuando la marca contiene el SHA-256 del cuerpo
+  realmente publicado y ese hash coincide con `data/blog.json`.
+- Un conflicto deja la entrada intacta y sale con código 2 (visible al cron).
+- Cola vacía sale con 0 y una línea explícita; nunca finge silencio.
+
+Salida: recibo con slug, palabras, commit, push y URL.
 """
+import hashlib
 import json
+import os
+import re
+import shutil
 import subprocess
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
-REPO = Path(__file__).resolve().parents[1]
+os.environ.setdefault("ARNES_EXENTO", "1")  # cron que empuja a main por diseño
+REPO = Path(os.environ.get("KIT72H_REPO", Path(__file__).resolve().parents[1])).resolve()
 PLAN = REPO / "notes" / "plan-crecimiento"
 ENTRADA = PLAN / "_entrada.json"
-import os
-os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main por diseño (exención auditable)
 
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 # SOLO estos paths: nunca `git add -A` (arrastraría cambios ajenos del árbol).
-# OJO: incluir TODO lo que reescribe el horneado (kit/fuentes/zona/index/sitemap…)
-# o el árbol queda sucio y el `git pull --rebase` de la cadena siguiente falla.
 PATHS = ["data/blog.json", "blog", "kit", "fuentes", "zona", "index.html",
          "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
-         "notes/plan-crecimiento", "notes/mapa-keywords.md"]
+         "notes/mapa-keywords.md"]
 
 
 def git(*args, timeout=300):
@@ -35,22 +43,120 @@ def git(*args, timeout=300):
                           capture_output=True, text=True, timeout=timeout)
 
 
-def main():
-    if not ENTRADA.exists():
-        return 0  # nada encolado: silencio
+def palabras_html(cuerpo: str) -> int:
+    return len(re.sub(r"<[^>]+>", " ", cuerpo or "").split())
+
+
+def hash_cuerpo(cuerpo: str) -> str:
+    """Huella estable del HTML publicado (normaliza solo extremos)."""
+    return hashlib.sha256((cuerpo or "").strip().encode("utf-8")).hexdigest()
+
+
+def leer_marca(marca: Path) -> dict:
+    """Devuelve la marca. Las marcas antiguas ('publicado\\n') no prueban nada."""
+    if not marca.exists():
+        return {}
     try:
-        slug = json.loads(ENTRADA.read_text(encoding="utf-8")).get("slug", "")
-    except Exception as ex:
-        print("publicador: _entrada.json ilegible (%s)" % ex)
+        datos = json.loads(marca.read_text(encoding="utf-8"))
+        return datos if isinstance(datos, dict) else {}
+    except (OSError, json.JSONDecodeError):
+        return {"formato": "antiguo"}
+
+
+def entrada_blog(slug: str) -> dict:
+    try:
+        blog = json.loads((REPO / "data" / "blog.json").read_text(encoding="utf-8"))
+        return next((e for e in blog.get("entradas", []) if e.get("slug") == slug), {})
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def decidir(entrada: dict, marca: dict, publicado: dict) -> str:
+    """`publicar`, `archivar_verificado` o `conflicto`.
+
+    La marca solo vale si guarda el hash del cuerpo y coincide con la entrada
+    actual de blog.json. Cualquier marca sin hash es un conflicto a revisar.
+    """
+    if not marca:
+        return "publicar"
+    esperado = marca.get("hash_sha256")
+    actual = hash_cuerpo(publicado.get("cuerpo") or "") if publicado else ""
+    if esperado and actual and esperado == actual:
+        return "archivar_verificado"
+    return "conflicto"
+
+
+def archivar(entrada: Path, plan: Path, ahora: datetime) -> Path:
+    """Mueve la cola a publicados/ sin destruir su contenido."""
+    destino_dir = plan / "publicados"
+    destino_dir.mkdir(parents=True, exist_ok=True)
+    datos = json.loads(entrada.read_text(encoding="utf-8"))
+    slug = datos.get("slug") or "entrada"
+    destino = destino_dir / f"{ahora.date().isoformat()}-{slug}.json"
+    if destino.exists():
+        destino = destino_dir / (f"{ahora.strftime('%Y%m%dT%H%M%SZ')}-{slug}.json")
+    shutil.move(str(entrada), str(destino))
+    return destino
+
+
+def publicar_cambios(mensaje: str, extra: tuple[str, ...] = ()) -> tuple[int, str]:
+    """Commit y push de los paths del publicador. Devuelve (rc, sha)."""
+    agregado = git("add", "--", *PATHS, *extra)
+    if agregado.returncode != 0:
+        print("❌ git add falló: " + (agregado.stderr or "").strip()[:200])
+        return 1, ""
+    if not git("status", "--porcelain").stdout.strip():
+        return 0, ""
+    commit = git(*IDENT, "commit", "-m", mensaje)
+    if commit.returncode != 0:
+        print("❌ commit falló: " + (commit.stderr or commit.stdout).strip()[:200])
+        return 1, ""
+    sha = git("rev-parse", "--short", "HEAD").stdout.strip()
+    push = git("push", "-q", "origin", "HEAD:main")
+    if push.returncode != 0:
+        # Un cron hermano puede haber empujado mientras horneábamos.
+        if git("pull", "--rebase", "-q", "origin", "main").returncode != 0:
+            print("❌ rebase falló (conflicto): commit local conservado, revisar a mano")
+            return 1, sha
+        push = git("push", "-q", "origin", "HEAD:main")
+        if push.returncode != 0:
+            print("❌ push falló: " + (push.stderr or "").strip()[:200])
+            return 1, sha
+    return 0, sha
+
+
+def main() -> int:
+    if not ENTRADA.exists():
+        print("publicador: cola vacía (no hay _entrada.json)")
+        return 0
+    try:
+        entrada = json.loads(ENTRADA.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as ex:
+        print("publicador: _entrada.json ilegible (%s); se conserva" % ex)
         return 1
+    slug = entrada.get("slug", "")
     if not slug:
-        print("publicador: _entrada.json sin slug")
+        print("publicador: _entrada.json sin slug; se conserva")
         return 1
 
-    marca = PLAN / (".publicado-" + slug)
-    if marca.exists():
-        ENTRADA.unlink(missing_ok=True)
-        return 0  # ya publicado: silencio
+    marca_path = PLAN / (".publicado-" + slug)
+    marca = leer_marca(marca_path)
+    publicado = entrada_blog(slug)
+    accion = decidir(entrada, marca, publicado)
+    if accion == "conflicto":
+        print("❌ CONFLICTO de cola: «%s» tiene marca .publicado pero el contenido "
+              "no coincide con el hash publicado. Entrada CONSERVADA en %s. "
+              "Revisar el borrador y retirar la marca a mano." % (slug, ENTRADA))
+        return 2
+    if accion == "archivar_verificado":
+        destino = archivar(ENTRADA, PLAN, datetime.now(timezone.utc))
+        rc, sha = publicar_cambios("consejero: archivar cola ya publicada «%s»" % slug,
+                                   (str(ENTRADA.relative_to(REPO)), "notes/plan-crecimiento/publicados",
+                                    str(marca_path.relative_to(REPO))))
+        if rc == 0:
+            print("publicador: «%s» ya estaba publicado con hash válido; cola archivada "
+                  "en %s · commit %s" % (slug, destino.relative_to(REPO), sha or "sin cambios"))
+        return rc
 
     sys.path.insert(0, str(REPO / "scripts"))
     import importlib
@@ -58,43 +164,39 @@ def main():
 
     rc = consejero.publicar(str(ENTRADA))
     if rc != 0:
-        print("❌ Publicador: la publicación de «%s» FALLÓ (ver arriba). NO se commitea." % slug)
+        print("❌ Publicador: la publicación de «%s» FALLÓ (ver arriba). "
+              "NO se commitea y la entrada se conserva." % slug)
         return 1
 
-    marca.write_text("publicado\n", encoding="utf-8")  # antes del add: entra en el commit
-    git("add", *PATHS)
-    st = git("status", "--porcelain")
-    if not st.stdout.strip():
-        print("Publicador: «%s» ya estaba en el árbol (sin cambios que commitear)." % slug)
-        return 0
-
-    c = git(*IDENT, "commit", "-m", "consejero: publicar «%s» (blog)" % slug)
-    if c.returncode != 0:
-        print("❌ commit falló: %s" % (c.stderr or c.stdout).strip()[:200])
+    ahora = datetime.now(timezone.utc)
+    publicado = entrada_blog(slug)
+    cuerpo = publicado.get("cuerpo") or ""
+    if not cuerpo:
+        print("❌ «%s» no aparece en data/blog.json tras publicar; entrada conservada" % slug)
         return 1
-    # Rebase resistente: un cron hermano (noticias, etc.) puede haber pusheado
-    # mientras se horneaba, o dejar el árbol sucio. Se reintenta con stash.
-    rc_rebase = git("pull", "--rebase", "-q", "origin", "main").returncode
-    if rc_rebase != 0:
-        git("stash", "-q")
-        if git("pull", "--rebase", "-q", "origin", "main").returncode != 0:
-            git("stash", "pop", "-q")
-            print("❌ rebase falló (conflicto): se queda local, revisar a mano")
-            return 1
-        push = git("push", "-q", "origin", "main")
-        git("stash", "pop", "-q")
-    else:
-        push = git("push", "-q", "origin", "main")
-    if push.returncode != 0:
-        print("❌ push falló: %s" % (push.stderr or "").strip()[:200])
-        return 1
+    marca_path.write_text(json.dumps({
+        "slug": slug,
+        "titulo": publicado.get("titulo", ""),
+        "publicado_en": ahora.isoformat(timespec="seconds"),
+        "palabras_html": palabras_html(cuerpo),
+        "hash_sha256": hash_cuerpo(cuerpo),
+        "url": "https://kit72h.com/blog/%s/" % slug,
+    }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
-    ix = subprocess.run(["python3", "scripts/indexnow.py", "--desde-git", "HEAD~1"],
+    destino = archivar(ENTRADA, PLAN, ahora)
+    rc, sha = publicar_cambios("consejero: publicar «%s» (blog)" % slug,
+                               (str(ENTRADA.relative_to(REPO)), "notes/plan-crecimiento/publicados",
+                                str(marca_path.relative_to(REPO))))
+    if rc != 0:
+        return rc
+
+    ix = subprocess.run([sys.executable, "scripts/indexnow.py", "--desde-git", "HEAD~1"],
                         cwd=REPO, capture_output=True, text=True, timeout=90)
     nota_ix = (ix.stdout.strip().splitlines() or [""])[-1][:80]
-    marca.write_text("publicado\n", encoding="utf-8")
-    print("🚀 Publicado /blog/%s/ · gate ✔ · push ✔%s"
-          % (slug, (" · " + nota_ix) if nota_ix else ""))
+    print("🚀 Publicado /blog/%s/ · %d palabras · commit %s · push ✔ · URL %s%s"
+          % (slug, palabras_html(cuerpo), sha or "sin cambios",
+             "https://kit72h.com/blog/%s/" % slug,
+             (" · " + nota_ix) if nota_ix else ""))
     return 0
 
 

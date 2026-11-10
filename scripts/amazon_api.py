@@ -241,8 +241,14 @@ def _items(r: dict) -> list:
 
 
 def items_por_asin(cfg: dict, asins: list[str], pausa: float = 0.35) -> dict:
-    """getItems en lotes de 10. Devuelve {asin: normalizado} y la lista de no devueltos."""
-    salida, fallos = {}, []
+    """getItems en lotes de 10.
+
+    Devuelve:
+      ok            {asin: normalizado}
+      sin_datos     ASIN que la API respondió pero no devolvió
+      lotes_fallidos listas de ASIN cuyo lote falló por red/API
+    """
+    salida, fallos, lotes_fallidos = {}, [], []
     asins = [a for a in dict.fromkeys(asins) if a]
     for i in range(0, len(asins), MAX_IDS):
         lote = asins[i:i + MAX_IDS]
@@ -257,6 +263,7 @@ def items_por_asin(cfg: dict, asins: list[str], pausa: float = 0.35) -> dict:
         except RuntimeError as e:
             print(f"  ! lote {i//MAX_IDS + 1} falló: {str(e)[:160]}")
             fallos.extend(lote)
+            lotes_fallidos.append(lote)
             continue
         vistos = set()
         for it in _items(r):
@@ -267,7 +274,7 @@ def items_por_asin(cfg: dict, asins: list[str], pausa: float = 0.35) -> dict:
         fallos.extend([a for a in lote if a not in vistos])
         if pausa:
             time.sleep(pausa)
-    return {"ok": salida, "sin_datos": fallos}
+    return {"ok": salida, "sin_datos": fallos, "lotes_fallidos": lotes_fallidos}
 
 
 def buscar(cfg: dict, keywords: str, n: int = 3) -> list:

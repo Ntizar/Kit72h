@@ -1,27 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Kit72h — precios reales de Amazon y oferta del día (0 tokens LLM).
+"""Kit72h — precios reales de Amazon y selección del día (0 tokens LLM).
 
 Lee los ASIN de `data/kits.json` (fuente de verdad de los kits), los consulta por
-lotes de 10 contra la Creators API y escribe `data/precios.json`, que es lo que
-pinta la web:
+lotes de 10 contra la Creators API y escribe una instantánea **completa y
+atómica** en `data/precios.json`:
 
     productos[asin] = {precio, precio_texto, precio_antes, ahorro_pct, disponible…}
-    oferta_dia      = el producto del kit con mejor rebaja real del día
+    oferta_dia      = selección editorial entre los productos con stock
     ofertas[]       = los 10 mejores del día (para bloques por kit)
 
-La web lee `data/precios.json` en cada visita (js/ui.js), así que refrescar
-precios NO exige rehornear: el horneado diario solo fija la foto para SEO/sin-JS.
-
-Reglas de honestidad:
+Reglas de honestidad (auditoría 2026-11-10):
+- Un precio que no se ha podido revalidar en esta pasada NO se conserva como
+  si fuera actual. Si falta un lote, no se escribe nada y el proceso sale con 2.
 - Sin precio de Amazon (listings vacío, solo terceros, descatalogado) el ASIN
-  simplemente NO entra: la web cae al `precio_aprox` de siempre. Nunca se inventa.
+  no entra: la web cae al `precio_aprox`. Nunca se inventa.
 - «Oferta» = Amazon publica un precio recomendado (`savingBasis`) por encima del
   actual. Sin ese dato no hay porcentaje ni insignia.
+- La selección del día pondera rebaja y precio final; por eso NO se anuncia
+  como «la mayor rebaja». El criterio va escrito en `meta.criterio_oferta`.
 
 Uso:
-    python3 scripts/precios-amazon.py              # refresco completo + oferta del día
-    python3 scripts/precios-amazon.py --max 20     # prueba con 20 ASIN
+    python3 scripts/precios-amazon.py              # refresco completo
+    python3 scripts/precios-amazon.py --max 20     # vista previa sin escribir
     python3 scripts/precios-amazon.py --estado     # qué hay ahora mismo en el JSON
 """
 from __future__ import annotations
@@ -29,7 +30,6 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -49,6 +49,14 @@ def _leer_json(ruta: Path, defecto):
         return json.loads(ruta.read_text(encoding="utf-8"))
     except (FileNotFoundError, json.JSONDecodeError):
         return defecto
+
+
+def _escribir_atomico(ruta: Path, texto: str) -> None:
+    """Nunca deja un JSON a medio escribir si el proceso cae."""
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    tmp = ruta.with_name(ruta.name + ".tmp")
+    tmp.write_text(texto, encoding="utf-8")
+    tmp.replace(ruta)
 
 
 def asins_de_kits() -> dict:
@@ -90,8 +98,11 @@ def _titulo_corto(texto: str, limite: int = 78) -> str:
 
 
 def _elegir_oferta(candidatos: list[dict], ahora: datetime) -> dict | None:
-    """Mejor rebaja real del día. Empata/rota entre los 3 primeros para que el
-    bloque no se quede clavado semanas con el mismo producto."""
+    """Selección del día: rebaja × precio final, no el mayor porcentaje.
+
+    Empata/rota entre los 3 primeros para que el bloque no se quede semanas con
+    el mismo producto.
+    """
     if not candidatos:
         return None
     orden = sorted(candidatos, key=lambda c: c["punt"], reverse=True)
@@ -109,35 +120,39 @@ def _oferta_publica(c: dict) -> dict:
 def refrescar(max_asins: int | None = None) -> int:
     cfg = ama.cargar_env()
     if not cfg.get("AMAZON_CREDENTIAL_ID"):
-        print("precios: sin credenciales de la Creators API en .env — no se toca el JSON")
-        return 0
+        print("precios: sin credenciales de la Creators API en .env — JSON intacto", file=sys.stderr)
+        return 2
 
     mapa = asins_de_kits()
     asins = list(mapa)
     if max_asins:
         asins = asins[:max_asins]
+    if not asins:
+        print("precios: no hay ASIN en data/kits.json — JSON intacto", file=sys.stderr)
+        return 2
     print(f"precios: {len(asins)} ASIN de {len(mapa)} en los kits · lotes de {ama.MAX_IDS}")
 
     previo = _leer_json(SALIDA, {})
-    productos = dict(previo.get("productos") or {})
     historico = dict(_leer_json(HIST, {}).get("historico") or previo.get("historico") or {})
     ahora = datetime.now(timezone.utc)
     hoy = ahora.date().isoformat()
 
     con_precio = sin_datos = sin_oferta = 0
-    sin_precio = dict(previo.get("sin_precio") or {})
+    productos: dict[str, dict] = {}
+    sin_precio: dict[str, int] = {}
+    lotes_fallidos: list[list[str]] = []
+
     for i in range(0, len(asins), ama.MAX_IDS):
         lote = asins[i:i + ama.MAX_IDS]
         res = ama.items_por_asin(cfg, lote, pausa=0.0)
+        lotes_fallidos.extend(res.get("lotes_fallidos") or [])
         for asin, datos in res["ok"].items():
             meta = mapa.get(asin, {})
             if not datos.get("precio"):
                 sin_oferta += 1
                 # 1 = Amazon dice agotado; 0 = sin listado (solo terceros, descatalogado…).
-                # La web lo usa para el badge, nunca para inventar un precio.
                 sin_precio[asin] = 1 if datos.get("disponible") is False else 0
                 continue
-            sin_precio.pop(asin, None)
             con_precio += 1
             productos[asin] = {
                 **datos,
@@ -153,32 +168,48 @@ def refrescar(max_asins: int | None = None) -> int:
             if not serie or serie[-1].get("fecha") != hoy:
                 serie.append({"fecha": hoy, "precio": datos["precio"]})
                 del serie[:-DIAS_HISTORICO]
+        for asin in res["sin_datos"]:
+            sin_precio[asin] = 0
         sin_datos += len(res["sin_datos"])
-        _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio)
         print(f"  · {min(i + ama.MAX_IDS, len(asins))}/{len(asins)}  "
               f"precio={con_precio}  sin_listado={sin_oferta}  sin_datos={sin_datos}", flush=True)
 
-    salida = _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio)
+    if lotes_fallidos:
+        print(f"❌ precios: {sum(len(x) for x in lotes_fallidos)} ASIN en lotes fallidos; "
+              "instantánea incompleta. JSON INTACTO.", file=sys.stderr)
+        return 2
+    if con_precio == 0:
+        print("❌ precios: ninguna cotización válida; instantánea vacía. JSON INTACTO.",
+              file=sys.stderr)
+        return 2
+
+    salida = _volcar(productos, historico, con_precio, sin_datos, sin_oferta,
+                     ahora, asins, sin_precio, persistir=not max_asins)
     od = salida.get("oferta_dia")
     if od:
-        print(f"oferta del día: {od['producto']} — {od['precio_texto']} "
+        print(f"selección del día: {od['producto']} — {od['precio_texto']} "
               f"(-{od['ahorro_pct']}% sobre {od['precio_antes']:.2f} €) · kit {od['kit']}")
     else:
-        print("oferta del día: ninguna rebaja real hoy (el bloque no se pinta)")
+        print("selección del día: ninguna rebaja real con stock hoy (el bloque no se pinta)")
+    if max_asins:
+        print("vista previa --max: no se ha escrito data/precios.json")
     return 0
 
 
-def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, ahora, asins, sin_precio) -> dict:
+def _volcar(productos, historico, con_precio, sin_datos, sin_oferta, ahora, asins,
+            sin_precio, persistir=True) -> dict:
     hoy = ahora.date().isoformat()
     candidatos = []
     for asin, d in productos.items():
         if not d.get("precio") or not d.get("precio_antes"):
             continue
+        if d.get("disponible") is not True:
+            continue  # nunca destacar algo que no se puede comprar
         pct = d.get("ahorro_pct") or 0
         if pct < UMBRAL_OFERTA:
             continue
-        # El ticket manda: 3 % de comisión sobre 315 € deja 9,45 €; sobre 6,95 €, 0,21 €.
-        # Se pondera el % de rebaja por el precio (tope 500 €, más allá no añade).
+        # La selección pondera la rebaja por el precio final (tope 500 €). No es
+        # el mayor porcentaje: por eso la web no debe prometer «la mayor rebaja».
         factor = max(d["precio"], 1) / 100.0
         if d["precio"] > 500:
             factor = 5.0 + (min(d["precio"], 1200) - 500) / 1000.0
@@ -209,15 +240,16 @@ def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, aho
             "tag": "ntizar-21",
             "aviso": ("Precios consultados hoy en Amazon.es. Pueden cambiar en cualquier momento: "
                       "el precio válido es el de la ficha en el momento de la compra."),
+            "criterio_oferta": ("Selección de hoy: combina rebaja real, stock disponible y precio "
+                                "final; no es necesariamente el mayor porcentaje de descuento."),
             "total_asins": len(asins),
             "con_precio": con_precio,
             "sin_listado": sin_oferta,
             "sin_datos": sin_datos,
             "umbral_oferta_pct": UMBRAL_OFERTA,
         },
-        # Payload de la web: sólo los 5 campos que pinta js/ui.js. Todo lo demás
-        # (titulo, imagen, histórico) se queda en servidor — este JSON se descarga
-        # en CADA visita, así que cada byte de más se paga en móvil.
+        # Payload de la web: sólo los campos que pinta js/ui.js. Todo lo demás
+        # (titulo, imagen, histórico) se queda en servidor.
         "productos": {a: {k: d.get(k) for k in ("precio", "precio_texto", "precio_antes",
                                                 "ahorro_pct", "disponible", "img")
                           if d.get(k) is not None}
@@ -226,12 +258,14 @@ def _volcar(productos, historico, previo, con_precio, sin_datos, sin_oferta, aho
         "oferta_dia": _oferta_publica(oferta) if oferta else None,
         "ofertas": [_oferta_publica(c) for c in candidatos[:10]],
     }
-    SALIDA.parent.mkdir(parents=True, exist_ok=True)
-    SALIDA.write_text(json.dumps(datos, ensure_ascii=False, separators=(",", ":")) + "\n",
-                      encoding="utf-8")
-    HIST.write_text(json.dumps({"meta": {"actualizado": datos["meta"]["actualizado"]},
-                                "historico": {a: s[-DIAS_HISTORICO:] for a, s in historico.items() if s}},
-                               ensure_ascii=False) + "\n", encoding="utf-8")
+    if persistir:
+        # El histórico se escribe primero: si falla, la web conserva su JSON.
+        _escribir_atomico(HIST, json.dumps(
+            {"meta": {"actualizado": datos["meta"]["actualizado"]},
+             "historico": {a: s[-DIAS_HISTORICO:] for a, s in historico.items() if s}},
+            ensure_ascii=False) + "\n")
+        _escribir_atomico(SALIDA, json.dumps(
+            datos, ensure_ascii=False, separators=(",", ":")) + "\n")
     return datos
 
 
@@ -244,8 +278,8 @@ def estado() -> int:
     print(f"actualizado: {m.get('actualizado')}  ·  con precio: {m.get('con_precio')}/{m.get('total_asins')}  "
           f"· sin listado: {m.get('sin_listado')}  · sin datos: {m.get('sin_datos')}")
     od = datos.get("oferta_dia")
-    print("oferta del día: " + (f"{od['producto']} — {od['precio_texto']} (-{od['ahorro_pct']}%)"
-                                if od else "ninguna"))
+    print("selección del día: " + (f"{od['producto']} — {od['precio_texto']} (-{od['ahorro_pct']}%)"
+                                   if od else "ninguna"))
     con_pct = [(a, d) for a, d in (datos.get("productos") or {}).items() if d.get("ahorro_pct")]
     con_pct.sort(key=lambda x: x[1]["ahorro_pct"], reverse=True)
     nombres = asins_de_kits()
@@ -257,7 +291,8 @@ def estado() -> int:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="Precios reales de Amazon para kit72h")
-    ap.add_argument("--max", type=int, default=None, help="limitar a N ASIN (pruebas)")
+    ap.add_argument("--max", type=int, default=None,
+                    help="vista previa de N ASIN (no escribe el JSON)")
     ap.add_argument("--estado", action="store_true", help="resumen del JSON actual")
     args = ap.parse_args()
     if args.estado:
