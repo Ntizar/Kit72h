@@ -113,7 +113,7 @@ def publicar_cambios(mensaje: str, extra: tuple[str, ...] = ()) -> tuple[int, st
     # `_entrada.json` puede no estar trackeada: tras archivarla su path ya no
     # existe y `git add` abortaría TODO el staging. Solo añadimos paths que
     # existan o que Git ya conozca (deleted tracked).
-    validas = rutas_validas(list(PATHS + extra))
+    validas = rutas_validas(list(PATHS) + list(extra))
     agregado = git("add", "--", *validas)
     if agregado.returncode != 0:
         print("❌ git add falló: " + (agregado.stderr or "").strip()[:200])
