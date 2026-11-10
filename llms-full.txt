@@ -4262,49 +4262,200 @@ La salud es el segundo bloque del kit 72h (después del agua) y el que más vari
 
  Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
 
-### Alimentos para emergencias: rotación sin desperdicio (2026) — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
-Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha, orden de consumo y cómo montar una despensa que no se tira.
-El error más común en los kits 72h es comprar comida que luego caduca antes de necesitarse. Aquí te enseño a hacerlo bien: comida que rota sola con tu vida normal.
+### Alimentos para emergencias: qué comer, cuánto guardar y cómo rotar sin tirar nada — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
+Una despensa de 72 horas que se usa y se repone: vidas útiles orientativas, raciones, errores a evitar y fuentes oficiales. Sin promesas de caducidad infinita.
+Por qué la comida caduca antes de la emergencia
+
+
+ La falta de agua es prioritaria y no conviene esperar a tener sed intensa para buscarla. La comida es lo segundo que se olvida al preparar un kit, y también lo que más se echa a perder: la gente compra latas o botes especiales de "emergencia" que terminan en la basura por caducidad. La solución es más simple: la mejor comida para emergencias es la que ya consumes .
+
+
+ Muchas guías europeas y españolas sitúan la reserva mínima en 72 horas. La clave no es comprar "comida de emergencia", sino rotar lo que ya comes : así la reserva se usa, se repone y no se convierte en un museo de latas.
 
 
  La regla de oro: compra para comer, no para guardar
 
- El truco es simples: tu kit de emergencia debe ser alimentos que ya consumes en tu vida normal. Si ya comes legumbres en lata, pasta, atún o galletas, solo tienes que aumentar la cantidad para tener reserva.
 
+ El método más efectivo es el FIFO (First In, First Out — primero en entrar, primero en salir). Funciona así:
 
- Alimentos no perecederos esenciales (lista)
 
  
- Legumbres en lata : Garbanzos, lentejas, alubias. Listas para comer (o calentar). Caducidad: 3-5 años. Peso: ~240g por lata.
+ Compra un extra de lo que ya consumes habitualmente: un paquete más de pasta, dos latas más de atún, un bote extra de galletas.
 
- Atún o sardinas en aceite/lata : Proteína completa, grasas saludables. Caducidad: 3-4 años. Peso: ~130g por lata.
+ Cuando uses el extra en tu vida normal, reponlo directamente en la reserva.
 
- Pasta (paquete sellado) : Caducidad: 2-3 años si está sellada. Necesita agua caliente. Lleva un cubetete plegable para cocinar.
-
- Galletas saladas o crackers : No necesitan cocción. Caducidad: 1-2 años. Ideales para el primer día (cuando no sabes cuánto durará el corte).
-
- Frutos secos : Calorías densas, no necesitan nada. Caducidad: 6-12 meses (revisar frecuencia).
-
- Miel : No caduca nunca. Energía rápida, antibacteriano natural.
-
- Caldo de carne enbrick : Calor y sal. Fundamental si hace frío.
-
- Chocolate o tableta de cacao : Energía rápida, moral alto. Lo mejor es el cacao 85%+ (mayor duración).
-
- Leche en polvo : Caducidad: 1-2 años. Se mezcla con agua.
-
- Sal : No caduca. Esencial para conservar, cocinar y rehidratación.
+ Tu stock de emergencia rota solo , sin que tengas que pensar en fechas ni caducidades.
 
  
 
- Método de rotación: "primero entra, primero sale"
-
- Cuando vayas al supermercado, compra una cosa más de la que ya tienes en reserva. Cuando consumas esa cosa en tu vida normal, reponla directamente. Así la reserva siempre está fresca y nunca se echa a perder.
+ Esto convierte una "reserva de emergencia" en algo que no requiere gestión: es simplemente tu despensa habitual con un 20-30 % extra. Si ya haces la compra cada semana, no necesitas una compra especial: añade una unidad de lo que ya comes y deja que la rotación haga el resto.
 
 
- El veredicto
+ Alimentos no perecederos: la lista que sí funciona
 
- No necesitas comprar "comida de emergencia" especial. Simplemente compra el doble de lo que ya consumes. Con 10-15€ extra a la semana, tienes un stock de 72h que nunca caduca.
+
+ No todos los alimentos duran lo mismo. Las fechas de la tabla son orientativas y se refieren a la calidad en una despensa seca y fresca; la etiqueta del fabricante manda. No son una garantía de seguridad si el envase está dañado o se ha guardado mal.
+
+
+ 
+ 
+ Alimento Vida útil orientativa Cómo conservarlo Nota de seguridad 
+
+ 
+ 
+ Arroz blanco (sellado) 2 años Frasco hermético, sitio seco y fresco El arroz cocido, a la nevera y no más de 3-4 días 
+
+ Miel 2 años o más si está bien cerrada Frasco cerrado, no refrigerada No dar miel a menores de 12 meses por riesgo de botulismo 
+
+ Sal Sin caducidad práctica Envase cerrado, lejos de humedad No sustituye beber agua ni la atención médica 
+
+ Pasta seca 2 años Paquete sellado, lejos de luz Una vez cocida, a la nevera y 3-4 días 
+
+ Conservas de baja acidez (atún, legumbres, carne) 2-5 años Sin abrir, sitio fresco y seco Una vez abierta, nevera y 3-4 días 
+
+ Conservas de alta acidez (tomate, fruta) 12-18 meses Sin abrir, sitio fresco y seco Una vez abierta, nevera y 3-4 días 
+
+ Galletas saladas o crackers 6-9 meses Paquete bien cerrado Si se humedecen o huelen mal, fuera 
+
+ Frutos secos 6-12 meses Frasco hermético, fresco Los rancios se notan por olor y sabor; no los uses 
+
+ Chocolate negro 6-12 meses Lejos del calor El blanqueado por calor no es peligroso, pero pierde calidad 
+
+ Leche en polvo 3-5 años sin abrir, según envase Sitio seco; una vez abierta, seguir la etiqueta No uses leche pasada para un bebé 
+
+ Barras energéticas 6-12 meses Individual, sin abrir Revisa alérgenos antes de guardarlas 
+
+ Caldo en brick La fecha del envase; suele rondar 1 año Sin abrir, sitio fresco Una vez abierto, nevera y 3-4 días 
+
+ 
+ 
+
+ Lo que la gente olvida: la sal se conserva prácticamente sin fecha y la miel dura mucho si está bien cerrada, pero ninguna de las dos sustituye una dieta variada ni la hidratación. La sal no "evita un desmayo": si alguien se marea o está deshidratado, hay que valorar la situación y buscar ayuda, no dar cucharadas de sal.
+
+
+ Cuánta comida para 72 horas: una referencia práctica
+
+
+ No hay una cifra única: depende de si tienes cocina disponible o no. Si el apagón deja la nevera sin funcionar pero puedes calentar conservas al fuego, necesitas menos platos listos. Si no tienes ninguna forma segura de cocinar, necesitas todo listo para comer.
+
+
+ 
+ 
+ Escenario 1 persona (72 h) 2 personas (72 h) Familia 4 (72 h) 
+
+ 
+ 
+ Con cocina segura 3-4 raciones principales + 2-3 snacks + 100 g frutos secos 6-8 raciones + 4-6 snacks + 200 g frutos secos 12-16 raciones + 8-12 snacks + 400 g frutos secos 
+
+ Sin cocina (listo para comer) 5-6 raciones listas + 4 snacks + 150 g frutos secos 10-12 raciones + 8 snacks + 300 g frutos secos 20-24 raciones + 16 snacks + 600 g frutos secos 
+
+ 
+ 
+
+ Una familia de 4 necesita aproximadamente 20-24 raciones listas, snacks y frutos secos para 72 horas sin cocina. Es una referencia, no una prescripción: ajusta según edades, apetito, medicación y necesidades especiales. El coste depende del supermercado y de las marcas; no hace falta comprar productos "de supervivencia" para cubrirlo.
+
+
+ La regla del "doble paquete" en práctica
+
+
+ El método más sencillo que funciona no requiere inventarios ni fechas. Cada vez que vayas al supermercado, aplica estas reglas:
+
+
+ 
+ Conservas: si compras un pack de 4 latas de atún, añade 2 más. Las extra son tu reserva; no las separes de la despensa.
+
+ Pasta o arroz: si gastas un paquete de 500 g a la semana, ten otro cerrado. Uno se consume, otro reposiciona.
+
+ Galletas o crackers: un paquete extra. Son el snack del primer día, cuando aún no quieres abrir una lata.
+
+ Frutos secos: una bolsa extra. Caducan antes que las conservas, así que van primero en la rotación.
+
+ 
+
+ Con una compra normal y un poco de previsión, una familia puede tener la reserva completa sin hacer un desembolso enorme. No hace falta llenar un armario de golpe: la rotación hace el trabajo.
+
+
+ Cuándo revisar la reserva: calendario práctico
+
+
+ No necesitas un calendario ni alarmas. Haz la revisión cada vez que cambies la hora (marzo y octubre), igual que con las pilas de los mandos:
+
+
+ 
+ Revisar fechas: 2 minutos. Mira las fechas de los frutos secos, galletas, leche en polvo y conservas.
+
+ Completar lo que falta: si algo caducó, cámbialo por uno nuevo y ponlo al frente.
+
+ Reponer lo consumido: si la reserva bajó (por una excursión o un viaje), completa con la compra siguiente.
+
+ Verificar necesidades especiales: si hay bebés, alérgenos o dietas restringidas, comprueba que el stock sigue siendo válido y suficiente.
+
+ 
+
+ La preparación es un hábito, no un acto único. Revisar dos veces al año toma menos de 10 minutos y evita tirar comida o descubrir un problema cuando ya no hay supermercado.
+
+
+ Errores frecuentes con la comida de emergencia
+
+
+ 1. Comprar "comida de emergencia" especial. Los preparados liofilizados pueden durar años, pero también cuestan más y no siempre encajan con lo que comes. Con conservas y alimentos secos que ya consumes tienes una reserva que rota y no se desperdicia.
+
+
+ 2. No tener nada listo para comer. Si se va la luz y no tienes una cocina segura, las latas sin abrir no resuelven la cena. Ten barras, galletas y frutos secos para el primer día.
+
+
+ 3. Guardar la comida en un sitio caluroso o húmedo. El calor y la humedad degradan envases y alimentos. Sitio fresco, seco y oscuro; si la despensa se calienta mucho en verano, busca otro hueco.
+
+
+ 4. Olvidar la sal y la hidratación. La sal es útil para cocinar, pero no es un medicamento ni evita por sí sola un desmayo. Para una emergencia, el agua y la atención médica son lo primero.
+
+
+ 5. No pensar en los dependientes. Bebés (fórmula o leche infantil), personas mayores (dietas blandas o específicas), mascotas y alérgicos tienen necesidades propias. Cada una necesita su reserva y su revisión.
+
+
+ ¿Cuánto cuesta el despliegue?
+
+
+ El coste depende de la tienda, las marcas y de lo que ya tengas en casa. No hay una cifra cerrada: 12-24 raciones principales, snacks, frutos secos, pasta, galletas y caldo pueden costar desde una compra normal hasta bastante más si eliges productos preparados. Empieza por lo que consumes y añade una unidad extra; no necesitas montar una despensa de restaurante.
+
+
+ Compra de conservas: Buscar conservas combinadas en Amazon → 
+
+
+ Compra de barras energéticas: Buscar barras energéticas en Amazon → 
+
+
+ Compra de frutos secos a granel: Buscar frutos secos mezcla en Amazon → 
+
+
+ La comida dentro del kit 72h
+
+
+ Los alimentos son solo una parte del puzzle. Si quieres un pack completo con agua, luz, energía y comida, el Kit Básico 72 Horas lo tiene todo verificado. Para escenarios específicos, el kit de apagón incluye cocina de emergencia y el kit DANA añade protección del suministro.
+
+
+ Y si solo quieres la comida sin el resto, aplica la regla del doble paquete en tu próxima compra de supermercado. En dos semanas tendrás la reserva de 72 h, sin gastar en "comida de emergencia" y sin tirar nada.
+
+
+ 
+ ¿Las latas de comida caducan realmente? 
+ En las conservas, la fecha suele indicar calidad más que seguridad: una lata intacta, sin golpes en las juntas, sin óxido, sin hinchazón y sin fugas puede conservar su calidad más allá del "consumo preferente". Pero no lo uses como regla general: si la lata está abollada, hinchada, huele mal o al abrirla sale gas, deséchala. Ante la duda, no te la juegues.
+
+ 
+
+ 
+ ¿Se puede cocinar sin electricidad ni gas? 
+ Sí, pero necesitas una fuente de calor segura y ventilación. Una cocina de camping solo debe usarse al aire libre o en un espacio bien ventilado; nunca dentro de casa, de una tienda o de un coche, por riesgo de monóxido de carbono. Sin una cocina segura, come alimentos listos y no improvises con combustibles.
+
+ 
+
+ 
+ ¿Qué hacer si hay bebés o alérgenos? 
+ Para bebés, sigue siempre la etiqueta de la fórmula o leche infantil y las instrucciones de preparación; no uses productos caducados y desecha lo que sobre después de una toma. Si hay alergias, guarda alimentos etiquetados como libres del alérgeno y revisa las etiquetas cada vez: las formulaciones cambian. Para dietas médicas, consulta con un profesional antes de montar la reserva.
+
+ 
+
+ Si te ha resultado útil este artículo, compártelo con quien viva solo. Una persona sin reserva es la que más sufre en las primeras 24 horas de cualquier emergencia.
 
 ### Starlink en un apagón: montarlo, alimentarlo y si merece la pena (2026) — https://kit72h.com/blog/starlink-emergencia-72h-conectividad/
 Guía práctica de Starlink en emergencias: consumo real, cómo alimentarlo sin red, coste, instalación y qué alternativas apilar antes de comprar.
