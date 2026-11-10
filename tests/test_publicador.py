@@ -74,6 +74,23 @@ class TestGateEditorial(unittest.TestCase):
         self.assertTrue(any("1200" in f for f in faltas))
 
 
+class TestRestaurarCola(unittest.TestCase):
+    def test_si_falla_el_commit_vuelve_a_la_cola(self):
+        with tempfile.TemporaryDirectory() as d:
+            raiz = Path(d)
+            entrada = raiz / "_entrada.json"
+            destino = raiz / "publicados" / "2026-11-10-x.json"
+            destino.parent.mkdir()
+            destino.write_text('{"slug":"x"}', encoding="utf-8")
+            original = pub.ENTRADA
+            pub.ENTRADA = entrada
+            try:
+                pub.restaurar_cola(destino)
+            finally:
+                pub.ENTRADA = original
+            self.assertEqual(json.loads(entrada.read_text(encoding="utf-8"))["slug"], "x")
+
+
 class TestArchivo(unittest.TestCase):
     def test_archivar_conserva_cuerpo(self):
         with tempfile.TemporaryDirectory() as td:

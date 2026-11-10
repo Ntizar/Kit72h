@@ -122,6 +122,12 @@ def archivar(entrada: Path, plan: Path, ahora: datetime) -> Path:
     return destino
 
 
+def restaurar_cola(destino: Path) -> None:
+    """Si el commit/push falla, devuelve la cola a su sitio para reintentar."""
+    if destino.exists() and not ENTRADA.exists():
+        shutil.copy2(str(destino), str(ENTRADA))
+
+
 def rutas_validas(rutas: list[str]) -> list[str]:
     """Paths que `git add` puede aceptar: existentes o tracked-borrados."""
     return [
@@ -189,6 +195,9 @@ def main() -> int:
         rc, sha = publicar_cambios("consejero: archivar cola ya publicada «%s»" % slug,
                                    (str(ENTRADA.relative_to(REPO)), "notes/plan-crecimiento/publicados",
                                     str(marca_path.relative_to(REPO))))
+        if rc != 0:
+            restaurar_cola(destino)
+            return rc
         if rc == 0:
             print("publicador: «%s» ya estaba publicado con hash válido; cola archivada "
                   "en %s · commit %s" % (slug, destino.relative_to(REPO), sha or "sin cambios"))
@@ -230,6 +239,7 @@ def main() -> int:
                                (str(ENTRADA.relative_to(REPO)), "notes/plan-crecimiento/publicados",
                                 str(marca_path.relative_to(REPO))))
     if rc != 0:
+        restaurar_cola(destino)
         return rc
 
     ix = subprocess.run([sys.executable, "scripts/indexnow.py", "--desde-git", "HEAD~1"],
