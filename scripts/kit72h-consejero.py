@@ -393,7 +393,8 @@ def _rollback(slug, dir_es_nuevo):
     print("↩︎ rollback aplicado: árbol restaurado a HEAD")
 
 
-def publicar(ruta_json):
+def publicar(ruta_json, reemplazo=False):
+    """Publica/actualiza una entrada. `reemplazo` solo se usa con revisión explícita."""
     entrada = json.loads(Path(ruta_json).read_text(encoding="utf-8"))
     slug = entrada.get("slug", "").strip()
     if not re.match(r"^[a-z0-9][a-z0-9-]{2,80}$", slug):
@@ -420,8 +421,8 @@ def publicar(ruta_json):
         if s != slug and _norm(e.get("titulo")) == t_norm:
             print("FALLIDO: título duplicado con «%s» (canibalización)" % s)
             return 1
-    # guarda 2: una «mejora» tiene que mejorar de verdad
-    if previa:
+    # guarda 2: una «mejora» tiene que mejorar de verdad, salvo revisión explícita
+    if previa and not reemplazo:
         w_prev = len(re.sub(r"<[^>]+>", " ", previa.get("cuerpo") or "").split())
         if es_mejora and w_prev >= 800:
             print("FALLIDO: «%s» ya tiene %d palabras; no hace falta revamp" % (slug, w_prev))
@@ -429,9 +430,9 @@ def publicar(ruta_json):
         if es_mejora and palabras < int(w_prev * 1.2):
             print("FALLIDO: la mejora (%d palabras) no supera a la actual (%d)" % (palabras, w_prev))
             return 1
-        # revamp: conservar la fecha original (no fingir artículo nuevo)
-        if es_mejora and not entrada.get("fecha"):
-            entrada["fecha"] = previa.get("fecha", HOY)
+    # revamp: conservar la fecha original (no fingir artículo nuevo)
+    if es_mejora and not entrada.get("fecha"):
+        entrada["fecha"] = (previa or {}).get("fecha", HOY)
     entrada["fecha"] = entrada.get("fecha") or HOY
     entrada["lectura"] = "%d min" % max(3, round(palabras / 200))
     entrada["autor"] = "Redacción Kit72h"

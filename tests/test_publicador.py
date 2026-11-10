@@ -49,6 +49,15 @@ class TestDecisiones(unittest.TestCase):
             "archivar_verificado",
         )
 
+    def test_entrada_distinta_exige_reemplazo(self):
+        publicado = "<p>contenido publicado</p>"
+        marca = {"hash_sha256": pub.hash_cuerpo(publicado)}
+        entrada = {"slug": "x", "cuerpo": "<p>revisión con seis señales</p>"}
+        self.assertEqual(
+            pub.decidir(entrada, marca, {"cuerpo": publicado}),
+            "reemplazo",
+        )
+
 
 class TestGateEditorial(unittest.TestCase):
     def _entrada(self, palabras=900, fuentes=2, mejora=False):

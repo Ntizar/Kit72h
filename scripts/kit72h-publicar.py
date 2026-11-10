@@ -16,6 +16,7 @@ Contrato de cola (auditoría 2026-11-10):
 
 Salida: recibo con slug, palabras, commit, push y URL.
 """
+import argparse
 import hashlib
 import json
 import os
@@ -95,16 +96,21 @@ def entrada_blog(slug: str) -> dict:
 
 
 def decidir(entrada: dict, marca: dict, publicado: dict) -> str:
-    """`publicar`, `archivar_verificado` o `conflicto`.
+    """`publicar`, `archivar_verificado`, `reemplazo` o `conflicto`.
 
-    La marca solo vale si guarda el hash del cuerpo y coincide con la entrada
-    actual de blog.json. Cualquier marca sin hash es un conflicto a revisar.
+    La marca solo vale si guarda el hash del cuerpo publicado y coincide con la
+    entrada actual de blog.json. Si la entrada encolada trae OTRO cuerpo, no se
+    archiva: es una revisión y exige `--reemplazo` explícito.
     """
     if not marca:
         return "publicar"
     esperado = marca.get("hash_sha256")
     actual = hash_cuerpo(publicado.get("cuerpo") or "") if publicado else ""
+    entrada_cuerpo = entrada.get("cuerpo") or ""
+    entrada_hash = hash_cuerpo(entrada_cuerpo) if entrada_cuerpo else ""
     if esperado and actual and esperado == actual:
+        if entrada_hash and entrada_hash != actual:
+            return "reemplazo"
         return "archivar_verificado"
     return "conflicto"
 
@@ -167,7 +173,12 @@ def publicar_cambios(mensaje: str, extra: tuple[str, ...] = ()) -> tuple[int, st
     return 0, sha
 
 
-def main() -> int:
+def main(argv=None) -> int:
+    ap = argparse.ArgumentParser(description="Publica la cola de Kit72h.")
+    ap.add_argument("--reemplazo", action="store_true",
+                    help="permite revisar una entrada ya publicada con hash distinto (revisión explícita)")
+    args = ap.parse_args(argv)
+
     if not ENTRADA.exists():
         print("publicador: cola vacía (no hay _entrada.json)")
         return 0
@@ -185,11 +196,22 @@ def main() -> int:
     marca = leer_marca(marca_path)
     publicado = entrada_blog(slug)
     accion = decidir(entrada, marca, publicado)
+    if accion == "reemplazo":
+        if not args.reemplazo:
+            print("❌ REVISIÓN de «%s»: ya hay una versión publicada y la entrada "
+                  "trae otro cuerpo. Entrada CONSERVADA en %s. Usa --reemplazo "
+                  "solo tras revisar el diff." % (slug, ENTRADA))
+            return 2
+        print("⚠️ REEMPLAZO explícito de «%s»: se publica la revisión." % slug)
+        accion = "publicar"
     if accion == "conflicto":
-        print("❌ CONFLICTO de cola: «%s» tiene marca .publicado pero el contenido "
-              "no coincide con el hash publicado. Entrada CONSERVADA en %s. "
-              "Revisar el borrador y retirar la marca a mano." % (slug, ENTRADA))
-        return 2
+        if not args.reemplazo:
+            print("❌ CONFLICTO de cola: «%s» tiene marca .publicado pero el contenido "
+                  "no coincide con el hash publicado. Entrada CONSERVADA en %s. "
+                  "Revisar el borrador y retirar la marca a mano." % (slug, ENTRADA))
+            return 2
+        print("⚠️ REEMPLAZO explícito de «%s»: el hash publicado no coincide; "
+              "se revisa con la marca nueva." % slug)
     if accion == "archivar_verificado":
         destino = archivar(ENTRADA, PLAN, datetime.now(timezone.utc))
         rc, sha = publicar_cambios("consejero: archivar cola ya publicada «%s»" % slug,
@@ -213,7 +235,7 @@ def main() -> int:
     import importlib
     consejero = importlib.import_module("kit72h-consejero")  # noqa
 
-    rc = consejero.publicar(str(ENTRADA))
+    rc = consejero.publicar(str(ENTRADA), reemplazo=args.reemplazo)
     if rc != 0:
         print("❌ Publicador: la publicación de «%s» FALLÓ (ver arriba). "
               "NO se commitea y la entrada se conserva." % slug)
