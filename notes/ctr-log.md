@@ -664,3 +664,6 @@ SEO-CTR sin mejoras pendientes — el site ya tiene titles y descriptions optimi
 ## 2026-11-09
 
 SEO-CTR: 0 mejoras aplicadas (todos los meta tags ya optimizados).
+## 2026-11-10 — 2 cambios
+- [desc] kit/kit-electricidad: Kit electricidad: generador solar, bater → Kit electricidad: energía para lo esenci
+- [desc] blog/panel-solar-portatil-72h-emergencia: Panel solar portátil para emergencias: t → Panel solar portátil para emergencias: t
