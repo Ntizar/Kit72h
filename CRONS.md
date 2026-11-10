@@ -1,144 +1,64 @@
 # Crons de Kit72h
 
-Los 7 trabajos programados que tocan esta web. Qué hace cada uno, a qué hora, con qué modelo y cuántos tokens se gastan.
+Los 7 trabajos que mantienen la web. Horarios en **UTC** (GitHub y Hermes); la
+hora de Madrid va +1 en invierno y +2 en verano.
 
-> **Medido, no estimado.** Los tokens salen de `%LOCALAPPDATA%\hermes\cron\usage_audit.jsonl`. El estado y los horarios salen de `%LOCALAPPDATA%\hermes\cron\jobs.json`.
-
----
+> Estado y horarios reales: `hermes cron list` / `~/.hermes/cron/jobs.json`.
+> Este documento explica el contrato, no duplica la programación.
 
 ## Resumen
 
-| Cron | Cuándo | Tipo | Estado |
+| Cron | Cuándo (UTC) | Tipo | Qué hace |
 |---|---|---|---|
-| `kit72h-comparador` | diario 04:00 | LLM | ✅ |
-| `kit72h-editor` | diario 04:30 | LLM | ✅ (prioridad: comparativas) |
-| `kit72h-buscador` | diario 05:15 | script | ✅ |
-| `kit72h-seo-audit` | diario 06:00 | script | ✅ |
-| `kit72h-seo-ctr` | diario 06:30 | LLM | ✅ |
-| `kit72h-ofertas` | diario 07:00 | LLM | ✅ |
-| `kit72h-vigilante` | lunes 09:00 | LLM | ✅ (reactivado) |
-| `kit72h-pins` | diario 08:00 | script | ✅ |
-| `kit72h-analitica` | diario 08:45 | script | ✅ |
-| `kit72h-noticias` | cada 3 h (:10) | script | ✅ (nuevo 2026-10-25) |
-| `kit72h-revision-urls` | 15 mes 09:00 | LLM | ✅ (bonus) |
+| `kit72h-buscador` | diario 05:15 | script | Resuelve ASIN con Creators API, refresca precios y pre-renderiza |
+| `kit72h-crecimiento` | diario 06:00 | LLM | SEO/CTR + consejero; deja `_entrada.json` encolada |
+| `kit72h-ofertas` | diario 07:00 | script | Instantánea atómica de precios y selección del día |
+| `kit72h-publicador` | diario 08:30 y 12:30 | script | Publica la cola, pasa el gate y pushea el blog |
+| `kit72h-analitica` | diario 09:05 | script | Instrumenta páginas y refresca `data/analiticas.json` |
+| `kit72h-noticias` | cada 3 h, minuto 10 | script | Noticias y avisos AEMET en JSON |
+| `revision-semanal` | lunes 09:00 | LLM | Digest de Mastermind + vigilante de Kit72h |
 
-**8 crons activos + 1 nuevo (analítica) + 1 bonus.**
-
----
-
-## El sistema de tráfico (Pinterest + SEO)
+## Orden y dependencias
 
 ```
-08:00  pins           script   → 63 pins Pinterest HTML + PNG (kits + blog)
+05:15  buscador      → ASIN + precios + prerender + commit
+06:00  crecimiento   → SEO/CTR y _entrada.json (NO publica)
+07:00  ofertas       → precios frescos + selección + commit verificado
+08:30  publicador    → blog + gate + commit/push
+09:05  analítica     → instrumentación y panel (después del publicador)
+10:10  noticias      → cada 3 h; JSON que leen /noticias/ y /zona/
 ```
 
-**Pinterest** = 500M+ usuarios, pins con vida de meses/años (no horas como Twitter).
-Cada pin genera una tarjeta visual que enlaza a una página de kit72h.com.
+El publicador de las 12:30 recoge cualquier entrada que el consejero haya dejado
+después de las 08:30. Si no hay cola, imprime una línea y sale con 0.
 
-**Cómo funciona:**
-1. `generar-pins.py` genera HTML de pins (1000x1500px, estilo Aurora 7)
-2. Cada pin enlaza a un kit o blog con URL real (63 URLs verificadas 200)
-3. **Render automático HTML → PNG 1000x1500** (Chromium headless) → listo para subir
-4. Se ejecuta cada noche → pins nuevos si hay contenido nuevo
+## Contratos de fallo
 
-**63 pins en el catálogo:** 19 kits + 44 blog entries. Los PNG viven en `pintout/png/`.
+- **Runner** (`~/.hermes/scripts/runner-kit72h.py`): solo commitea las salidas
+  declaradas en `scripts/cron_git.py`. Un script desconocido con cambios deja el
+  árbol sucio y rc=2; nunca hace `git add -A`. Los scripts que se autocommiten
+  (buscador, ofertas) solo se aceptan si dejan el árbol limpio.
+- **Buscador/ofertas**: commit, pull o push fallidos devuelven rc≠0. Ofertas
+  además lee `https://kit72h.com/data/precios.json` y no declara éxito hasta que
+  la instantánea nueva está servida.
+- **Publicador**: una marca `.publicado-<slug>` solo vale si contiene
+  `hash_sha256` y coincide con `data/blog.json`. Marca vacía o distinta = rc=2,
+  cola conservada. La entrada se archiva después del commit/push; si falla, se
+  restaura a la cola.
+- **Gate editorial**: antes de publicar exige título, slug, ≥800 palabras
+  (≥1200 en revamp) y ≥2 fuentes con URL. Después corre `verificar-sitio.py`.
+- **Precios**: si un lote falla o no hay ninguna cotización, `precios.json` no
+  se toca. Los ASIN no devueltos no heredan el precio del día anterior.
+- **Analítica**: `instrumentar-analitica.py` lee el token CSS vivo de
+  `index.html`; no hardcodea versiones que puedan revertir un bump.
 
-### Otros crons de venta
-
-| Cron | Qué hace | Impacto en ventas |
-|---|---|---|
-| `comparador` | Genera páginas "Mejor X", "Top 5", "A vs B" | 🔴 Conversión directa |
-| `seo-ctr` | Optimiza títulos y descriptions para CTR | 🟠 Más clics desde Google |
-| `ofertas` | Monitoriza deals Amazon → pin en home | 🟠 Urgencia → clic → compra |
-| `pins` | Genera pins Pinterest → tráfico masivo | 🟠 500M+ usuarios Pinterest |
-| `editor` | Escribe blogs con prioridad comparativas | 🔴 Contenido de conversión |
-
----
-
-## La cadena nocturna (diario)
-
-```
-04:00  comparador     LLM      → genera comparativas (mejor X, top 5, A vs B)
-04:30  editor         LLM      → escribe/amplía blog (prioridad: comparativas)
-05:15  buscador       script   → resuelve ASINs, regenera SEO+prerender
-06:00  seo-audit      script   → auditoría SEO + auto-repara prerender
-06:30  seo-ctr        LLM      → optimiza meta tags para CTR
-07:00  ofertas        LLM      → monitoriza deals, inserta pin de ofertas
-08:00  pins           script   → genera pins Pinterest (kits + blog)
-09:00  vigilante      LLM      → lunes: chequeo completo semanal
-```
-
----
-
-## Nuevos crons
-
-### `kit72h-comparador` (04:00)
-
-Genera páginas de comparativas para conversión: "Mejor linterna 2026", "Kit 72h vs 30 días", "Starlink vs radio satelital". Cada comparativa tiene tabla + links de afiliado → clicks → ventas.
-
-### `kit72h-seo-ctr` (06:30)
-
-Optimiza meta tags: títulos `[N] + keyword + beneficio + año` y descriptions `[problema] + [solución] + [urgencia]` para maximizar CTR en Google.
-
-### `kit72h-ofertas` (07:00)
-
-Monitoriza bajadas de precio >15% en productos Amazon. Inserta pin de ofertas en la home → urgencia → clic → compra.
-
----
-
-## Arreglos del día (2026-10-02)
-
-| Fix | Impacto |
-|---|---|
-| JSON-LD roto: `\\+json` → `\+json` | ✅ SEO-audit pasa |
-| ItemList eliminado del prerender | ✅ generar-seo.py con fallback automático |
-| Blog sin campo `fecha` | ✅ Todos los posts tienen fecha |
-| Blog con `{{author}}` y "David Antizar" | ✅ 7 posts limpiados |
-| blog/index.html sin canonical | ✅ Añadido |
-| vigilante pausado (402 qwen3.8-flash) | ✅ Reactivado en mimo-v2.6-flash |
-| revision-urls + vigilante a la hora | ✅ Desfasado al día 15 |
-
----
-
-## Cómo volver a medir
+## Comprobación rápida
 
 ```bash
-python scripts/auditar-crons.py --kit --runs   # detalle por cron
-hermes cron list   # estado de todos los jobs
+python3 scripts/verificar-sitio.py          # 0 errores antes de push
+python3 -m unittest discover -s tests -v    # 29 tests de contrato
+python3 scripts/verificar-produccion.py     # artículos y precios en URL viva
 ```
 
----
-
-Hecho con ❤️ por David Antizar
-
----
-
-## ⚠️ Migración de ID de afiliado (2026-10-07)
-
-El ID de afiliado Amazon pasó de `nti0c8-21` a **`ntizar-21`** (nuevo alta aprobado con kit72h.com). Migración completa en repo: 1.161 enlaces en 87 ficheros + `TAG` en 6 scripts + `tag:` en `js/ui.js` (commit `763f3be`).
-
-**Pendiente en el PC**: hacer `git pull` del repo en el clon local para que los crons que ejecutan `scripts/*.py` (buscador, seo-audit, pins...) usen el tag nuevo. Los crons LLM (comparador, editor, ofertas, seo-ctr, vigilante) revisar en `jobs.json` que sus prompts no tengan `nti0c8-21` hardcodeado — si lo tienen, sustituirlo por `ntizar-21`.
-
-
----
-
-## `kit72h-noticias` — lo que está pasando (cada 3 h)
-
-Script puro (`--no-agent`, 0 tokens) → `scripts/noticias.py` vía
-`~/.hermes/scripts/kit72h-noticias-vm.py` y `runner-kit72h.py` (commit + push
-solo si hay cambios; ~11 s de run).
-
-- **Prensa**: Bing News RSS (enlace real del medio) + Google News RSS (volumen)
-  para cuatro bloques: países que piden provisiones, incendios, inundaciones y
-  apagones. Filtro por palabras clave y, en los tres últimos, por ámbito España
-  (topónimos + AEMET/112/UME/Red Eléctrica): sin eso entraba «incendio en
-  California». Ventana de 30 días, 8 titulares por bloque, dedupe por titular.
-- **Avisos oficiales**: la página de avisos de AEMET publica un
-  `geojson_<epoch>.tar.gz` con las zonas en alerta **y su polígono**
-  (`r_D+0_*_penbal_*` + `_can_*`; nivel 1 rojo / 2 naranja / 3 amarillo). De ahí
-  salen `data/alertas-es.json` (provincias, zonas, avisos con descripción y
-  horario) y las manchas que pinta `/zona/`. Nada se inventa ni se reconstruye.
-- Las páginas leen los JSON en cada visita → **no hace falta rehornear** para
-  publicar lo nuevo; el HTML horneado es la foto para SEO/sin JS.
-- Si una fuente falla, el bloque conserva lo último bueno y se anota en
-  `meta.aviso`: nunca se pisa una lista con vacío.
+Un cron que falla debe dejar rastro en stdout/stderr y rc≠0. Silencio solo es
+válido cuando no había trabajo y el árbol quedó limpio.
