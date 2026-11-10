@@ -1,9 +1,11 @@
 name: Auto-generación de contenido Kit72h
 on:
   schedule:
-    # Lunes y jueves a las 06:00 CET
+    # Lunes y jueves a las 06:00 UTC (07:00 CET en invierno; 08:00 CEST en verano).
+    # Es un generador auxiliar: el pipeline diario de contenidos vive en el cron
+    # kit72h-crecimiento del VM y el publicador valida antes de publicar.
     - cron: '0 6 * * 1,4'
-    # Miércoles a las 12:00 CET (pines Pinterest)
+    # Miércoles a las 12:00 UTC (pines Pinterest)
     - cron: '0 12 * * 3'
   workflow_dispatch:
 
@@ -43,6 +45,6 @@ jobs:
         run: |
           git config user.name "kit72h-auto"
           git config user.email "auto@kit72h.com"
-          git add -A
+          git add -- blog kit data pintout index.html sitemap.xml feed.xml llms.txt llms-full.txt
           git commit -m "auto(website): actualización automática de contenido y sitemap" || echo "No changes to commit"
           git push

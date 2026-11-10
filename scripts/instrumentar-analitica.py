@@ -21,7 +21,19 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 VER = "20261105a"
 MARCA = "/js/analiticas.js"
-CSS_VER = "20261109b"          # versión de caché de /css/styles.css
+
+
+def _css_actual() -> str:
+    """Lee el token vivo de index.html; nunca reintroduce una versión vieja."""
+    try:
+        html = (REPO / "index.html").read_text(encoding="utf-8", errors="replace")
+        m = re.search(r"styles\.css\?v=([0-9A-Za-z_-]+)", html)
+        return m.group(1) if m else "20261110a"
+    except OSError:
+        return "20261110a"
+
+
+CSS_VER = _css_actual()          # versión de caché de /css/styles.css
 RUTA_PANEL = "/analiticas/"    # enlace discreto del pie al panel privado
 EXCLUIDOS = {".git", "node_modules", "pintout", "sketches", "__pycache__",
              "analiticas"}  # analiticas/ es nuestro panel: no se mide a sí mismo
