@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-10T07:10:27+01:00",
+  "actualizado": "2026-11-10T10:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,30 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "K72, la app que ayuda a preparar el kit de emergencia de la UE",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVFGZTkzYXRrSm9RUEhZc0pGSk4zUVFTeHBEQ2Mta0trd1I3Q1lWMm54VGJrNUtXUzJmdlU1V05PUVZ4cHZvVHo0MllGbUl0RnYyM1hHYWpPcWRlYU4yQXRvZnNxZHZkMTI5ME5UcUhJaXlWLTgtaGlmV1l3eWFIZ1BPa01jNEhWWXNxeXRYd2NWUTVneGtGUklMTGlSeEtNa1ZnMWIycXMxbjVvZ0plSXlmVQ?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-10T08:07:09+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "La app K72 ayuda a los portugueses a preparar un kit de emergencia de 72 horas",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-app-k72-ayuda-a-los-portugueses-a-preparar-un-kit-de-emergencia-de-72-horas/ar-AA2h76c1",
+     "fuente": "Euronews on MSN",
+     "resumen": "La aplicación fue creada en Montijo, por Carlos Batista, en coordinación con la protección civil de este municipio, pero está destinada a todos los portugueses y les ayuda a preparar un \"kit\" para las ...",
+     "fecha": "2026-11-10T00:28:46+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "La mochila que deberías tener preparada en casa ante un apagón o una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTXY1RldzQl9XX2phZjQzdVZvOHRMbEdydTg5bThvZGhhTWNTWUtxOUVYcTlMQnZTcWFmSUFPLVV3VXlfNy02SlZUVXJINGhGWUNzQzY2WVd6OUNTSkp6TlZuTERSWTFkOTBUcUEzZVg1N0VNYWZRSzVpdEF2ZVBlVHJWNXB2dWZ2cko2NTcwdEZCOVJhUVJwcGdUakItZmppalVjZkE4RGEwenVKWjg4WmQyRUw3aGo0OVFLZUdzd1NaaHZ3M09xUy1R0gHPAUFVX3lxTE9EZC1wNk1ucFpvM083bnZ4ZXMwV3pfckE4TzVyelRKVWdEZnpONVZ2cFJNdzEtT3VBV3pqMlBjamhBV0xqemowX0VUQ05Kc0JJMjRINHMzTE1WWVBaSzV6NzdxdEZsUVZHNnNNRE5jNm1DOXN6LTJYeGFXemloaC1WRHB0VkZXNzRJN2VyZDl1eHRPRXBuQWk0WV9wXzNiY1oxQUNVdGVoSDNmbFRMand1bzRtUDRfbTdDNm9BQ1pjbWtULUJ0WHlpdGUtbTQ1NA?oc=5",
+     "fuente": "Digital de León",
+     "resumen": "",
+     "fecha": "2026-11-09T20:00:00+01:00",
+     "fecha_txt": "9 nov"
+    },
     {
      "titulo": "Por qué la UE pide estar preparados para 72 horas sin ayuda y qué debes tener en casa ante una emergencia",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR2JGUi1Oc1dza2Y0ZGE5cjV6ZUxoaUF5OTZiT0lMNEt1WDAyOWRzMkRHaWxRNkNvUHg3ZENWUENNWEdxRm4xajM5Sk1VTFhPRTE1cC1TMy1hdnNNbVk4V2xWMDEySWRzb1pOUXpERVI2blEyZUpWTjYwa0hEYWZKV1Mwekg0Sy00MXJSVkV1cE9pQk9tYWlPTTQ1QmhwaG96Qk5KTzNRZW00Q2VyanB0cWwxc3FKNF84VU9wdzBHbUFXLUdUTFF2ZjJPMVRETUhaZVdQcjRSWjQwTlpEQWfSAeMBQVVfeXFMTTJaZndrcDlLeW9EOHJrLUhXRVRsdWYxS2F1Qmxlb2M4a3BVZzNUZFJXMnIydkNkaUQ4M0FLZU4tRTVLbVBUdXdNVWQ1Z18xNEFzVnZmd0F6ZWs4NW1Wd2FKYmpZdi1XZW5jQmxKVVRtcjdIOXNEZnktVDVRR0ZBV00xMFlMMU5qbGJxdldLV3JvZVdXYzRNREprS0U3SjdvT3hPV3pOMmpCZ3Z1aTJuMVo2eGtUcENEczhERnFoWTdHZ2Zocy1lQkVKNzZ6bllGcm43cFhpdmg1YVVVRUNkSmxfdTg?oc=5",
@@ -44,36 +68,12 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "La mochila que deberías tener preparada en casa ante un apagón o una emergencia",
-     "url": "https://www.digitaldeleon.com/articulo/noticias-nacionales/kit-supervivencia-emergencias-72-horas-europa/20261109200000233644.html",
-     "fuente": "Digital de León",
-     "resumen": "La Unión Europea recomienda preparar un kit de supervivencia con agua, alimentos, medicamentos y otros productos básicos para poder afrontar las primeras 72 ...",
-     "fecha": "2026-11-09T13:00:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
      "titulo": "Kit de emergencia de 72 horas: qué debes tener en casa ante un apagón o una catástrofe",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sck5iU0FzdW4tMHA5ZkowUFU1LU54Q2Z6ckRUY05iTmliaFowa05BY2haa3d3TUIzUkFyalNXN1JPRk5Vb2JKYWI0TDRIWmJlU0t4ejZUUlhVcE52V1RuMk1Rb1E0ZzVwNkE?oc=5",
      "fuente": "GNDiario",
      "resumen": "",
      "fecha": "2026-11-09T10:30:30+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El \"kit de supervivencia de 72 horas\" no se desplegará.",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IUzJOWTVpcTRQV21qdmdaUWlrNm1VVklmNmt0Qm1oVjVMMjNEN24zWVp1Q2d4VmdYT0VqVWt5WHNkMnFUUkZkbzZlTWpUVWNfenp2Z21MOFdjcEo5Yy10UmJ1M2toQ3RESGFkTHRpOA?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-08T23:58:48+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Cuidado con los rumores sobre los \"kits de supervivencia de 72 horas\" para casos de desastre - Parte 3: No te dejes llevar por los rumores, prepara tu kit de 72 horas adecuadamente.",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMTlRT19YZmFGeUo4T05JcllPU25SNWpUVGJuNnI3OUZNdXdzSjVmWnBEYjBtZmlwWDNreUhGTnoyOG1fTnJFSXItZFhacE9LbVhpR3ZmUmkzcTZhUnF1dGFNaWkyb2VMZDViMTRTbDByMERncUFyb3I0OGoySU0tZ2YwOGM2RWl2TzdLNmtGaWotS2l3ekJmUjRFWVBwNVBDTkVVYlQxd2VXNHJiMXU5bDc4ZURja2VKekZlQUcxOUp0Wmc1Z1FIT3NtZHo3M00yVUFWcVdSeE8?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-08T20:42:11+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Las borrascas ‘Bruna’ y ‘Charles’ ponen bajo aviso rojo por lluvias a Extremadura y Castilla y León",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSUpGQ1JKX0w4bWFVQjltOUIzUzU4bFpnZjU3RGNCR2I2RmZDXzlETjF5Z2NNNVdjU0R0TWZvVjdORFlnUmRYSzJSVlFYci1pcUU5WG1senZ5ZDNiSkxDa2lwQ3N2a3N0a1ZqaWR5R1Q4YS1kX2Jaa0ZuT1EwRkd2aTZBTXkybHlTbWRkWkZGTUxkM2dkNEZrVEJHTlhvdDFRSlI3MHJmTGMwX1YtTXUyLTJqR0RKVlJZUE5PRzRPNkxjVHZLYU5fdTg5ZzVwVkh5RnlDMW5SUdIB6wFBVV95cUxPVUxOdThsSnhEbHYzUmlVa2RtSV9MMXBZRTV5QjZsc3czYVJfMVAweWZQLVZUWkx5VmpzdkxnWmlZZUg0OXM4REdwVlpmdHNmUmUtVlhabUVLalJKWEF6cFc4ZGhiMDU4bDJKbUpock5ZbFJhU0daTmlOQVpLWExqcHBpUnJxM2hxeDg0ME9nWDZpbzRtNWJuOGdLbXBiSjlUbHRPTkhhOEhBWkt5MTBDcUszSUM3alNjYkVOMUdUbkxzM0ZpZnhhd245WFFNbVl1Z2xJbmUyUDhEaFd4c1ZFOU1IUjlPdlg3ZERr?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-10T05:30:01+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "La borrasca Bruna pone en alerta a España este martes: las zonas donde se esperan lluvias torrenciales y fuertes vientos",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWTJXNlFhRXVYaWQ2UjBmUnltSEtNcTExRURNOTJaMGxKODNlMHNyM0NqTDc4OXJfaGNXeDNlUHg0TVh0dlMtY1Q0LWtkd3F6a0dfRUpUNXBVNFdBdUpWOTdvWFhxTHhhWjZ3ei1NOVh6YVhNUWNNUUl0M0M4RXhITVlmWEZKZ3RSV2s0MWY5RENGZzJoc2RCZnBFa2I3RXJJeXZXYloySjRFSkpuRERNTmc4Q0pTR05hVVFCWm9tcFQwR3JKYnRKLWhBeFB4THJSVXdTRXdSLVh5bmxkc3Y00gHzAUFVX3lxTE02azg5b0F2THh1elZJRXZRYTJkMi1IM2pMUnI0V0FBcHNYRDI0VF8tdEtTWU1TYi12elA1Sm5rRnNfRXpHbnhzUGdqbUdDU21pSjdSS0QtN0Vwb2F0dW1YN084WHFfak5mVkd2dHNJN21ZTF9XbGxneHp6SzBtMFpQcHJrWEZaOXc0UDdIYVN6eS1hdV90MkJGWE5kWk92MUdTNVBxUFZRVzhQQXQ0WGdlVjlpV3E4YmJTTDZlUXFQQl9wN2cwVGliRE5zN0RUcVJjQ2xPYnBnYngwOGt3bno2bFQzVGpTaGRhbktFejA1R3UxNA?oc=5",
      "fuente": "El HuffPost",
      "resumen": "",
      "fecha": "2026-11-10T05:27:39+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Aviso rojo de la AEMET en Castilla y León hoy a partir de las 9: peligro extraordinario por inundaciones de hasta 120l/m2",
+     "url": "https://www.msn.com/es-es/noticias/otras/aviso-rojo-de-la-aemet-en-castilla-y-le%C3%B3n-hoy-a-partir-de-las-9-peligro-extraordinario-por-inundaciones-de-hasta-120lm2/ar-AA2h7tot",
+     "fuente": "Okdiario on MSN",
+     "resumen": "La Agencia Estatal de Meteorología (AEMET) ha activado el aviso rojo en el sur de la provincia de Ávila para este martes 10 de noviembre ante la previsión de lluvias extraordinariamente intensas. El e ...",
+     "fecha": "2026-11-10T01:31:00+01:00",
      "fecha_txt": "10 nov"
     },
     {
@@ -175,22 +191,6 @@
      "fuente": "The Objective",
      "resumen": "",
      "fecha": "2026-11-09T21:31:08+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Castilla y León activa la situación 2 de emergencia por riesgo de inundaciones en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWpkUklodG45dF81MFFjLTA2bW9sR0VTTFYxSFM0ZkRWUF9CX1IyeC1Ic29pUFZLRzdxQkVDcy0zdm91TVFtUWNjVFdxc3R1LVNQLXR6N2VlMHdKRHp1WDVEcjZxaXptRFpJZ2Z3WjExZVVNblJFNVphMjdDcEpFLXJOOERoOEoyX3pLODVYZ1RNeFpKelNpUF9uRXhXUm1EZ3UwcExxZnZwUmhrUVMtRkwxb1BhVndBcGZvaU02MHUwRjQ?oc=5",
-     "fuente": "upday News",
-     "resumen": "",
-     "fecha": "2026-11-09T21:26:26+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "La depresión Charles se acerca a Portugal y España con lluvias torrenciales y rachas de 120 km/h",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpGTGlhZGJfMk94azRXMzl6Z0hTRlFyUU5XUUFuc0hfZ0QxekdLZEJteWVvM3JTbTRGLUNnd0xIaXUwM1VSMXV4aW4wa0FRaVktZ0ZXcVNualBQMUcxY2h0UTBuM3VvdTJ6dF9Ya1FQNWd4MFZUSU1ab3I2elc0ZXJacnYzUFFTLWJDQXJPYXhsTXNuem9sYUg1ODFxQlhrU3dtRE9MXzJBMjNGQ1BjWFBNcS1LUXdWMWtLcVNrTFVJcGs?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-09T18:48:12+01:00",
      "fecha_txt": "9 nov"
     },
     {
