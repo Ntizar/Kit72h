@@ -28,10 +28,11 @@ os.environ.setdefault("ARNES_EXENTO", "1")  # arnés git: el cron empuja a main 
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 
 # ficheros de datos que justifican el commit
-DATOS = ("kits.json", "propuestas-fichas", "buscador-log", "precios.json")
+DATOS = ("kits.json", "propuestas-fichas", "buscador-log", "precios.json",
+         "precios-historico.json")
 # todo lo que se regenera a partir de los datos (debe entrar en el mismo commit)
 GENERADO = ("data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json",
-            "data/precios.json",
+            "data/precios.json", "data/precios-historico.json",
             "index.html", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
             "kit", "blog", "fuentes", "zona")
 
@@ -103,14 +104,17 @@ for f in GENERADO:
 commit = git(*IDENT, "commit", "-q", "-m",
              "Buscador nocturno: fichas Amazon verificadas + prerender regenerado")
 if commit.returncode != 0:
-    print(f"⚠️ commit falló (exit {commit.returncode}): {(commit.stderr or '').strip()[:200]}")
-    sys.exit(0)
+    print(f"❌ commit falló (exit {commit.returncode}): {(commit.stderr or '').strip()[:200]}")
+    sys.exit(1)
 
 # 3) Push con rebase (otro cron pudo adelantar un commit)
-git("pull", "--rebase", "-q", "origin", "main")
+pull = git("pull", "--rebase", "-q", "origin", "main")
+if pull.returncode != 0:
+    print(f"❌ pull --rebase falló: {(pull.stderr or '').strip()[:300]}")
+    sys.exit(1)
 push = git("push", "-q", "origin", "main")
 if push.returncode != 0:
-    print(f"⚠️ push falló (exit {push.returncode}): {(push.stderr or '').strip()[:200]}")
-else:
-    estado = "prerender OK" if pre.returncode == 0 else "prerender con fallos ⚠️"
-    print(f"🚀 push hecho (Pages se despliega solo) — {estado}")
+    print(f"❌ push falló (exit {push.returncode}): {(push.stderr or '').strip()[:200]}")
+    sys.exit(1)
+estado = "prerender OK" if pre.returncode == 0 else "prerender con fallos ⚠️"
+print(f"🚀 push hecho (Pages se despliega solo) — {estado}")
