@@ -34,7 +34,7 @@ ENTRADA = PLAN / "_entrada.json"
 IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 # SOLO estos paths: nunca `git add -A` (arrastraría cambios ajenos del árbol).
 PATHS = ["data/blog.json", "blog", "kit", "fuentes", "zona", "index.html",
-         "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
+         "noticias", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
          "notes/mapa-keywords.md"]
 
 
