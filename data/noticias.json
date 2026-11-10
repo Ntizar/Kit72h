@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-10T04:10:27+01:00",
+  "actualizado": "2026-11-10T07:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La borrasca Bruna pone en alerta a España este martes: las zonas donde se esperan lluvias torrenciales y fuertes vientos",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWTJXNlFhRXVYaWQ2UjBmUnltSEtNcTExRURNOTJaMGxKODNlMHNyM0NqTDc4OXJfaGNXeDNlUHg0TVh0dlMtY1Q0LWtkd3F6a0dfRUpUNXBVNFdBdUpWOTdvWFhxTHhhWjZ3ei1NOVh6YVhNUWNNUUl0M0M4RXhITVlmWEZKZ3RSV2s0MWY5RENGZzJoc2RCZnBFa2I3RXJJeXZXYloySjRFSkpuRERNTmc4Q0pTR05hVVFCWm9tcFQwR3JKYnRKLWhBeFB4THJSVXdTRXdSLVh5bmxkc3Y00gHzAUFVX3lxTE02azg5b0F2THh1elZJRXZRYTJkMi1IM2pMUnI0V0FBcHNYRDI0VF8tdEtTWU1TYi12elA1Sm5rRnNfRXpHbnhzUGdqbUdDU21pSjdSS0QtN0Vwb2F0dW1YN084WHFfak5mVkd2dHNJN21ZTF9XbGxneHp6SzBtMFpQcHJrWEZaOXc0UDdIYVN6eS1hdV90MkJGWE5kWk92MUdTNVBxUFZRVzhQQXQ0WGdlVjlpV3E4YmJTTDZlUXFQQl9wN2cwVGliRE5zN0RUcVJjQ2xPYnBnYngwOGt3bno2bFQzVGpTaGRhbktFejA1R3UxNA?oc=5",
+     "fuente": "El HuffPost",
+     "resumen": "",
+     "fecha": "2026-11-10T05:27:39+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Esta es la causa de las intensas lluvias de esta semana en España",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQmx5SFFzbTF0TWotVVJJSnNWbnlvZkRlQTgxemxHdWJ0RWQxUWtaNGtRY0p4bDhnYVJZbjl3TUdkNVRENEdkVVNtNmVIX0NXb056Y0o2SDREblRnYnUwN2wtZEtnV1NRUWpqdzdVVGtxclRXcXJsd3dSWkdLcXRjMUtCclVleXFUVHJRbDRyYzEtUTFrNDN5WmVTcEhuZExNTXQxX3lCUHQzdVBsSjhmMExjaHlVY2NTeFJSbU5neFlwbm9hQlpiMWQyVDdJMmhNN1VPakRPWUVoQQ?oc=5",
      "fuente": "Eltiempo.es",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-09T14:45:26+01:00",
      "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Aviso rojo de la Aemet: Ávila y Cáceres se enfrentan este martes a “peligro extraordinario” por las intensas lluvias de la borrasca Bruna",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd2QxVWhIWk9leEYtYzZobFJ6VDdINHcyZGh6QVpoNEF0UHo3TjVnTy12SWN6LVVMcGxNcGYwS09GUXRHdk5sdnJUYzBpU0lhYi1fX3Zrd09CcFMwaVNua2VfRWNvUFNPMTNITUI4WGI4Vl9LeUZkbFZ1dlljVkYwWl9OQ2ZLd0Y0SDgwNXpTcndLN0hUU0NfY29kUkJTYVNKWFlReW9pZC1jbHh4THQySERlVGZadVdCdk9KallFNllDOWhwOHFBSWhTcWdGT2FGXy1MdHlpTEdub1ZURW9uaWhhTmpxNENCU2ZvVDVJMVNoV2g4WmRsa1JwWW9ibFFsb0oxSktldkPSAaMCQVVfeXFMTjIxWHZwX2l2ZHZDMTI0X0d4Y0tLWFQ2UnB1dmVaeVVXd2RsNzFjandhYm1WME1saUpwY19veGhFT3docEk3aFA4RU1vUXQybEo1aGVJMnYtVm5pZXRlOGYtS1dTbHlnc01JUElVb2NINVByZEFJb2VQOEhzd2NDWDZnNmNrNW1vTEtuWngyMDZ3RHpPSFc4dTQtbGtWVlBjMk5mS0FTRWNzamZhRVpKZkt1dWUwbFUyUWpwZVJVTmRzTmZBMnFTX0wtNVRNMzlOSkItRnBSeUpDa3J6dEp0SmIyR25rMnp3NnJ1dy1lTXhPV2RpT3BkYjJkMWw3RFNWODV0SW5BbGRwZkR5aGNwcDR0UDZlX0h5WG5lTGVTRWNWTW5F?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-09T14:31:00+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   },
@@ -265,14 +265,6 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Colapso energético: un apagón sin dimisiones, redes taponadas y una transición que no llega",
-     "url": "https://www.msn.com/es-es/noticias/other/colapso-energ%C3%A9tico-un-apag%C3%B3n-sin-dimisiones-redes-taponadas-y-una-transici%C3%B3n-que-no-llega/ar-AA2gYFr4",
-     "fuente": "La Razón on MSN",
-     "resumen": "Sánchez prometió una revolución que abarataría la factura, pero acumula los recibos más caros de la historia y el bloqueo de inversiones. Hasta ha tenido que olvidarse del apagón nuclear y España cons ...",
-     "fecha": "2026-11-07T20:00:00+01:00",
-     "fecha_txt": "7 nov"
-    },
-    {
      "titulo": "Islas: Mallorca abandona el carbón y La Palma registra un apagón de cuatro horas",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2hUUEt4Y1Q1cHBXeVREOEdwUDd4UkZvMXR3SkNsaUpuUkdVVWhybF9JdWVxNFcyLWFMc080dE1hSklBazd3akItdHJFNndFbFhVYms5QTdBQVlFUFN3dDFaQ1RjMmgwajVhZU1HeHNQR1dqaDVDYkNYQmRGYklLT0R3bkJMSVV3alBMSkx4a0FDUVVBdHQtRzFFbzV1Nm4wNXBJTHN3Z05qNVM2MzBRSFpocTlpd1BvSHc?oc=5",
      "fuente": "pv magazine España",
@@ -287,6 +279,14 @@
      "resumen": "",
      "fecha": "2026-11-06T14:03:46+01:00",
      "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "España — Apagón de la TDT: resintonización, DVB-T2, canales UHD 4K, La Séptima y todo lo que debes saber para no perderte nada",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcHl1WFRYYW9nRTFxTG5DRnp1Ulk0TUpzVmY1YW80ZzBEVm1yNTRVWXoyUVZiMFM2Q0szbm1pMVNNY0FIQUVhSnVFM3lMYWRveE9EbElJNTh4cTk5S3llUmlIeFZFM2pZWFVxM0xmTDNKR25rQ3ZTeklDdXZORnhndmpjcGZhZ3FJVTR4cUhzSHRJVjhoU3ZRVEs0Y21ZMzdpWTN0WWdURFdnQldSOGdfQUdJRWNOTHdMLWQ4T0hCQkZWQXNqckRQV01nakRZSGtWTTZwY2xLY1loRllETDJhdlR5ZEJpcWNfU0dTak95ZGg?oc=5",
+     "fuente": "Prensa Mercosur",
+     "resumen": "",
+     "fecha": "2026-11-05T12:48:26+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   }

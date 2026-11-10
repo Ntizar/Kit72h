@@ -3,12 +3,12 @@
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
   "elaborado": "20261109225001",
-  "actualizado": "2026-11-10T04:10:36+01:00",
+  "actualizado": "2026-11-10T07:10:36+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261109225001_can_20261110WET_1794279600.geojson",
-   "r_D+0_20261109225001_penbal_20261110CET_1794279600.geojson"
+   "r_D+0_20261109225001_can_20261110WET_1794290400.geojson",
+   "r_D+0_20261109225001_penbal_20261110CET_1794290400.geojson"
   ]
  },
  "resumen": {
