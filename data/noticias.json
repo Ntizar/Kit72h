@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-09T22:10:27+01:00",
+  "actualizado": "2026-11-10T01:10:27+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -25,6 +25,22 @@
      "fuente": "El Rancahuaso",
      "resumen": "",
      "fecha": "2026-11-09T14:21:03+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Así debes armar el kit de emergencia de 72 horas que recomiendan los expertos: PASO a PASO",
+     "url": "https://lakalle.bluradio.com/sociedad/informacion-de-servicio/asi-debes-armar-el-kit-de-emergencia-de-72-horas-que-recomiendan-los-expertos-paso-a-paso-so35",
+     "fuente": "La Kalle 96.9 FM",
+     "resumen": "Conoce qué debe incluir un kit de emergencia de 72 horas en Colombia según la UNGRD y el IDIGER: lista de agua, alimentos, botiquín y documentos para el hogar.",
+     "fecha": "2026-11-09T14:19:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia de 72 horas: ¿Qué debo llevar?",
+     "url": "https://elsiglo.com.pa/panama/nacionales/mochila-de-emergencia-de-72-horas-que-debo-llevar-PG27218117",
+     "fuente": "El Siglo",
+     "resumen": "Ante las recomendaciones de organismos de protección civil y autoridades de distintos países sobre la preparación de una mochila de emergencia para las primeras 72 horas, es importante que la població ...",
+     "fecha": "2026-11-09T13:30:00+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "Vietnam.vn",
      "resumen": "",
      "fecha": "2026-11-08T20:42:11+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "¿Kit de supervivencia o mochila de evacuación? La UE avisa de que no son lo mismo y explica qué llevan",
-     "url": "https://www.lasprovincias.es/sociedad/kit-emergencia-mochila-evacuacion-20261108125619-nt.html",
-     "fuente": "Las Provincias",
-     "resumen": "La Comisión Europea recomienda que los hogares puedan cubrir sus necesidades básicas durante al menos 72 horas ante un apagón o una catástrofe y distingue entre las provisiones para permanecer en casa ...",
-     "fecha": "2026-11-08T17:00:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La Agencia de Ciberseguridad advierte contra la información especulativa sobre el \"almacenamiento de suministros esenciales para 72 horas\".",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclFQVF9zaW51QXRrajFReHAxZzFPb21ZVFViaWJKMEVESHJkQ01BYkhBQ2dWSm9Ic0drQVhLd3QyUWpXYW9OdkxIVXFramRuX085WkpYcDQ1X3hWQVp5XzJibUFyUUd0OFlVUDY5TzNnY2RRQkNLNmVCWlNtZDZKMFFLaURXTjlsTlRpWnk4cUpRRjBnc0l1dzVhQmVfMHlNbmRvb2tTZXlNZw?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-08T14:11:35+01:00",
      "fecha_txt": "8 nov"
     }
    ]
@@ -115,14 +115,6 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Estabilizado el incendio forestal de Valverde del Fresno tras horas intensas de extinción",
-     "url": "https://www.radiointerior.es/texto-diario/mostrar/6083965/estabilizado-incendio-forestal-valverde-fresno-horas-intensas-extincion",
-     "fuente": "radiointerior",
-     "resumen": "El operativo llegó a movilizar a 134 efectivos de distintos servicios de emergencia de España y Portugal. El incendio forestal declarado este domingo en el término municipal de Valverde del Fresno, en ...",
-     "fecha": "2026-11-08T16:38:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
      "titulo": "Más de 130 intervinientes combaten un incendio junto a la frontera de Salamanca con Extremadura",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmJuU19xVkZXUnNMdFk3VHN5NEd3eFdMNHFNR3RrbElKTDYtb0k1VHUyRk85UlV6bWJVMk9xaVoxUmRJM0NvejVDQjYwQUc5N3IxQTdmQ3VnSWFZQnZVamRnek9oTGs5ODZ5Ty1ZM0VjcUw0VlZ0YkQwWUNEcks4ZDNFRExndWs0UDhORzRreFFlU3NVeFFRaEFhcmFLdkowUzlseExmSGE3M1RYRDNQZHlLaEtuck02QzRpZ0JyWS1PdmcwUUHSAcsBQVVfeXFMUDNVQW9KLTRCd2lERlJJRVZleUlHRGlmWE5pMmlJZ2JkeFRFeVRYZ2NacXdwN2ZxWE5IMDNPMjNaWHZYWExhZnZwTTNIS0RBMW5zOTNOMkVRdk1EVnF4SVhPaUpZNDFQZ2NfLTY5WmQxNm5XWEVGNU1sWWgwSkRCSldLdjJPMUdjRkNscVN4d18zdlZpdVJKMUNHMzlKVjNjREZLX1FpcW9ydU1aek85R0pWSU9hZTVJelIyenZPWHZzVG01V2NtQW8yZm8?oc=5",
      "fuente": "La Gaceta de Salamanca",
@@ -145,6 +137,14 @@
      "resumen": "El incendio forestal declarado en Valverde del Fresno (Cáceres), próximo a la provincia de Salamanca, se encuentra ya perimetrado, aunque todavía mantiene un frente activo en dirección a Portugal.",
      "fecha": "2026-11-08T11:25:00+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "La España en llamas: diez años de infierno forestal",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-08T03:26:09+01:00",
+     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Esta es la causa de las intensas lluvias de esta semana en España",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQmx5SFFzbTF0TWotVVJJSnNWbnlvZkRlQTgxemxHdWJ0RWQxUWtaNGtRY0p4bDhnYVJZbjl3TUdkNVRENEdkVVNtNmVIX0NXb056Y0o2SDREblRnYnUwN2wtZEtnV1NRUWpqdzdVVGtxclRXcXJsd3dSWkdLcXRjMUtCclVleXFUVHJRbDRyYzEtUTFrNDN5WmVTcEhuZExNTXQxX3lCUHQzdVBsSjhmMExjaHlVY2NTeFJSbU5neFlwbm9hQlpiMWQyVDdJMmhNN1VPakRPWUVoQQ?oc=5",
+     "fuente": "Eltiempo.es",
+     "resumen": "",
+     "fecha": "2026-11-09T22:15:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "Castilla y León declara la situación 2 en Ávila y suspende clases por riesgo de inundaciones",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW9fczNEOHFTZGRWNDZxbE1JMmhZcGtVN3RDQVk3c3B1VmJ5NjdTVFpEZmZONlhUaHhtWWZYNUlaMC1QLURGbEFoaUlqRjF2OVE2R1FHOXVLY0dBeUo0MFBXa0ZEeW9DQURKaElpVFNwQkt6aG9KZE1rSXhpZDVxS0ZZU2U1T2hDSy10TEtCajQ2S21sU1JRUzRlbjNEbXhGcTBoTzhZa0JsMHc1LThpSHBIVDY3WGhGRF9IcTVn0gHDAUFVX3lxTFB3Vy1DcnFoRVZXZjZwX1Axb2ZFXzluZk5OY3RoODFRQ0VhX25XRFphbURDZXk2S09ZbFJXQWM0dGduR2JmUTV2ZjRHZWN4cHFqY0piMkhkWDJrQm82ek11dC16QUhQQXpiVVppWFo5N3Z6Z0ZjS0VnbW1IZGVaVEo2NWJrSXZabmVYOEZDbS02UFRCYzl6dW51VmdESzA1S3VmNHFQZV9MNnp1My1MVW9Gc3IzZHZUYXFxY2QwWFQzclFMRQ?oc=5",
      "fuente": "The Objective",
      "resumen": "",
      "fecha": "2026-11-09T21:31:08+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Castilla y León activa la situación 2 de emergencia por riesgo de inundaciones en Ávila",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWpkUklodG45dF81MFFjLTA2bW9sR0VTTFYxSFM0ZkRWUF9CX1IyeC1Ic29pUFZLRzdxQkVDcy0zdm91TVFtUWNjVFdxc3R1LVNQLXR6N2VlMHdKRHp1WDVEcjZxaXptRFpJZ2Z3WjExZVVNblJFNVphMjdDcEpFLXJOOERoOEoyX3pLODVYZ1RNeFpKelNpUF9uRXhXUm1EZ3UwcExxZnZwUmhrUVMtRkwxb1BhVndBcGZvaU02MHUwRjQ?oc=5",
+     "fuente": "upday News",
+     "resumen": "",
+     "fecha": "2026-11-09T21:26:26+01:00",
      "fecha_txt": "9 nov"
     },
     {
@@ -199,22 +215,6 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-09T14:31:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Después de 'Bruna' llegará 'Charles': un carrusel de borrascas trae lluvias toda la semana y una alerta roja en Cáceres y Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWTVoZ0c5ZW90UTNnWmx1M0pBSFRvbGdSR0ZkT2xFRjZjVTZPdGI2MWQyY3BTY1lONmgyOXdPbFR5U1N3S055Ni1CWDBiSzR5NnNIcFRRbG1lLWZUNWxOSDFfelZkMTlkWHg5cEhXSlduMG1mRkttUWdFNFphU3ZUT3JJMGtnblRLRUxTR1BVMlZNc0thTG1falFvR3IxYTlDMHBFNURIbWFrRURqcVRfQ04zcjN1NW1mYUEwMDNXaklIUWdXcnZ3UmJNWE8xMXk4SUVjU0pvSkFxM21QOUEtMzVyUWdEdnAtRWhF?oc=5",
-     "fuente": "20Minutos",
-     "resumen": "",
-     "fecha": "2026-11-09T13:58:29+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Avisan de lluvias muy fuertes y vientos intensos en España: estas son las zonas que más preocupan",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZVE0Vk1ZYVRVNkJkdk5EbmUzWlNGSGFkRG4yNC1WcElxQ2hCc2ZSLUJTWUduM0pTa0F0a3g3d0hmb2UyQ2ItTkMzVFAySEVlZHlNbDZoZDBQelpfd1FFeFJydFdvSkpiUV80OFpUdFEzd1dnVUxIajBJRktoNi1pdzhLSHdjTWhOYnkwTzRkUUw0MmNhZTRzS09FSXE1QVNVekktZ2dSX2RteG9oV1RZY2hCbEpfd3dXVzJQTHdnRjQ3MXNvUUNxOURWUWtkb1diOVppaVNacw?oc=5",
-     "fuente": "Directorio Cubano",
-     "resumen": "",
-     "fecha": "2026-11-09T12:02:19+01:00",
      "fecha_txt": "9 nov"
     }
    ]
