@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es"><head>
+<html lang="es" class="js-menu"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más</title>
@@ -7,7 +7,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=IBM+Plex+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/styles.css?v=20261110a">
+<link rel="stylesheet" href="/css/styles.css?v=20261110b">
+<script>document.documentElement.classList.add('js-menu');</script>
 <script src="/js/analiticas.js?v=20261105a" defer=""></script><script async="" defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;:&quot;2cd51d4e9fe241849269fc0bed3083cc&quot;}"></script><link rel="canonical" href="https://kit72h.com/fuentes/">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://kit72h.com/fuentes/">
@@ -60,7 +61,8 @@
 <header class="site-header">
   <div class="container">
     <a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a>
-    <nav>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menú de navegación"><span>Menú</span></button>
+    <nav id="menu-principal">
       <a href="/#plan">El plan</a>
       <a href="/#kits">Kits</a>
       <a href="/blog/">Blog</a><a href="/noticias/">Ahora</a><a href="/#faq">FAQ</a>
@@ -229,7 +231,7 @@
 <script src="/js/noticias.js?v=20261025a"></script>
 <script src="/js/ui.js?v=20261109d"></script>
 <script src="/js/zona.js?v=20261025b"></script>
-<script src="/js/main.js?v=20261008b"></script>
+<script src="/js/main.js?v=20261110b"></script>
 
 
 <!-- GENERADO por scripts/prerender.py — no editar a mano -->

@@ -293,7 +293,7 @@ def generar_html(comp):
 <header class="site-header">
   <div class="container">
     <a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a>
-    <nav>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menú de navegación"><span>Menú</span></button><nav id="menu-principal">
       <a href="/">Inicio</a>
       <a href="/#kits">Kits</a>
       <a href="/blog/">Blog</a>

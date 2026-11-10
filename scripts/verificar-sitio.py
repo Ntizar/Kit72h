@@ -288,8 +288,34 @@ def validar_estructura(raiz: Path) -> None:
                                  ('id="app"', "contenedor #app")):
             if marcador not in h:
                 err(f"{rel}: sin {nombre} ('{marcador}')")
+        # Cabecera móvil: el botón «Menú» y la nav con id son el contrato del que
+        # depende el CSS responsive. Sin ellos, en móvil el menú se corta.
+        if "site-header" in h:
+            for marcador, nombre in (('class="nav-toggle"', "botón Menú (.nav-toggle)"),
+                                     ('id="menu-principal"', "nav#menu-principal")):
+                if marcador not in h:
+                    avi(f"{rel}: cabecera sin {nombre} (móvil sin menú plegable)")
         if 'class="ubar"' not in h:
             avi(f"{rel}: sin barra superior (.ubar)")
+
+
+def validar_css_cabecera(raiz: Path) -> None:
+    """La nav no puede depender de scroll horizontal: parte las etiquetas.
+
+    Regresión real (2026-11-10): `overflow-x:auto` en `nav` a ≤640 px recortaba
+    «El plan» y «Tu zona» a media palabra. El ancho de la nav debe resolverse
+    plegando (menú) o envolviendo (wrap), nunca recortando.
+    """
+    css = raiz / "css" / "styles.css"
+    if not css.exists():
+        return
+    t = css.read_text(encoding="utf-8")
+    for m in re.finditer(r"^[ \t]*@media\s*\([^)]*max-width[^{]*\{(.*?)^\}", t,
+                         re.S | re.M):
+        bloque = m.group(1)
+        if re.search(r"(^|[;{\s])nav\s*\{[^}]*overflow-x\s*:\s*(auto|scroll)", bloque, re.S):
+            err("css/styles.css: `nav` con overflow-x dentro de un media móvil "
+                "(recorta los rótulos del menú)")
 
 
 def validar_versiones(raiz: Path) -> None:
@@ -420,6 +446,7 @@ def main() -> int:
     else:
         validar_cruce(RAIZ, kits)
         validar_estructura(RAIZ)
+        validar_css_cabecera(RAIZ)
         validar_versiones(RAIZ)
         validar_jsonld(RAIZ, kits)
         validar_enlaces_home(RAIZ, kits)

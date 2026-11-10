@@ -11,6 +11,30 @@
   window.addEventListener('hashchange', () => ui.render());
 })();
 
+/* ---- Menú de móvil: botón «Menú» que abre el panel de navegación ----
+   Sin JS no se colapsa nada (la clase .js-menu la pone un inline en el <head>),
+   así que un fallo de script nunca deja al usuario sin navegación. */
+(() => {
+  const boton = document.querySelector('.nav-toggle');
+  const nav = document.getElementById('menu-principal');
+  if (!boton || !nav) return;
+  const cerrar = () => {
+    nav.classList.remove('menu-abierto');
+    boton.setAttribute('aria-expanded', 'false');
+  };
+  boton.addEventListener('click', () => {
+    const abierto = nav.classList.toggle('menu-abierto');
+    boton.setAttribute('aria-expanded', abierto ? 'true' : 'false');
+  });
+  nav.addEventListener('click', (e) => {
+    if (e.target.closest('a')) cerrar();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') cerrar();
+  });
+  window.matchMedia('(min-width:641px)').addEventListener('change', cerrar);
+})();
+
 /* ---- Carta PRO (grid) y cuadro KIT PRO del hero: el destello sigue al ratón ----
    Es lo que hace que una carta holográfica se sienta "viva".
    El cuadro del hero recibe el destello y el brillo, pero no el giro 3D

@@ -36,7 +36,7 @@ cuerpo = r'''<!DOCTYPE html>
 </script>
 </head><body>
 <div class="ubar"><div class="container"><span><span class="punto">●</span> PREPARACIÓN CIVIL SIN ALARMISMO</span><span>/</span><span>HECHO PARA SITUACIONES REALES EN ESPAÑA</span></div></div>
-<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><nav><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a href="/noticias/">Ahora</a><a href="/#faq">FAQ</a><a href="/fuentes/">Fuentes</a><a href="/zona/">Tu zona</a></nav></div></header>
+<header class="site-header"><div class="container"><a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a><button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menú de navegación"><span>Menú</span></button><nav id="menu-principal"><a href="/#plan">El plan</a><a href="/#kits">Kits</a><a href="/blog/">Blog</a><a href="/noticias/">Ahora</a><a href="/#faq">FAQ</a><a href="/fuentes/">Fuentes</a><a href="/zona/">Tu zona</a></nav></div></header>
 <main id="app" class="container">
 <section class="ficha entrada-blog">
 <a class="volver" href="/blog/">← Blog</a>
