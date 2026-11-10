@@ -7050,7 +7050,7 @@ Muchos rescates en montaña no empiezan con una escalada técnica: empiezan con 
  En valles, desfiladeros y zonas de montaña la cobertura puede desaparecer. El móvil sigue siendo la primera herramienta para llamar al 112, pero no debes depender solo de él. Antes de salir, comprueba que tienes batería, una aplicación de mapas sin conexión y el número de emergencias a mano. Si no hay cobertura, la ubicación exacta y el mensaje pueden tener que esperar.
 
  
- Silbato de emergencia : una serie de tres pitidos cortos es una señal de socorro reconocida por muchos servicios de rescate; repítela con pausas y escucha. No es la única señal y no sustituye al 112, pero se oye más lejos que la voz y gasta cero energía. Ver silbatos de emergencia en Amazon ↗ 
+ Silbato de emergencia : la señal internacional de socorro en montaña son seis señales por minuto (pitidos o destellos), con una pausa de un minuto y repetirlas; no son tres pitidos, son seis. No es la única señal y no sustituye al 112, pero se oye más lejos que la voz y gasta cero energía. Ver silbatos de emergencia en Amazon ↗ 
 
  Batería externa de 5.000-10.000 mAh : mantiene el móvil encendido un poco más, pero el número de recargas depende del teléfono, del frío y del uso. Llévala cargada y con cable; no la dejes en el fondo de la mochila. Ver baterías externas en Amazon ↗ 
 
@@ -7063,7 +7063,7 @@ Muchos rescates en montaña no empiezan con una escalada técnica: empiezan con 
  La niebla y la noche borran referencias que parecían obvias. Un GPS puede fallar o quedarse sin batería, así que la orientación no puede depender de una sola pantalla.
 
  
- Mapa topográfico de la zona y brújula : aprende a leerlos antes de salir. Un mapa de escala 1:25.000 permite identificar senderos, refugios y cotas, pero no sirve si no sabes usarlo. Ver mapas topográficos en Amazon ↗ 
+ Mapa topográfico de la zona y brújula : aprende a leerlos antes de salir. El IGN publica la serie MTN25 (1:25.000) de todo el territorio y editoriales especializadas editan mapas excursionistas de zonas concretas. Un mapa permite identificar senderos, refugios y cotas, pero no sirve si no sabes usarlo. Ver mapas topográficos en Amazon ↗ 
 
  Mapa sin conexión en el móvil : descarga la zona antes de salir y guarda una captura de la ruta. No confíes en que habrá cobertura en el punto donde más la necesites.
 
@@ -7073,7 +7073,7 @@ Muchos rescates en montaña no empiezan con una escalada técnica: empiezan con 
 
  Agua, comida y abrigo: lo que no se puede improvisar
 
- No hay una cantidad de agua universal para una ruta: depende de la temperatura, la humedad, el esfuerzo, la altitud y de si hay fuentes. La OMS sitúa el consumo medio de agua de bebida en torno a 2-3 litros al día para un adulto en condiciones moderadas, pero esa cifra no es una prescripción para una excursión. Lleva más de lo que crees que necesitas y planifica puntos de recarga.
+ No hay una cantidad de agua universal para una ruta: depende de la temperatura, la humedad, el esfuerzo, la altitud y de si hay fuentes. La referencia europea (EFSA) es de 2,0 litros al día de agua total para mujeres adultas y 2,5 litros para hombres, contando también la de los alimentos y otras bebidas, en condiciones moderadas de temperatura y actividad; con esfuerzo y calor las necesidades suben. Lleva más de lo que crees que necesitas y planifica puntos de recarga.
 
  
  Agua extra : al menos una botella más de la prevista para la ruta. Si hace calor o el desnivel es grande, aumenta el margen. Ver botellas de montaña en Amazon ↗ 
