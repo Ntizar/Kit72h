@@ -18,6 +18,8 @@ import json
 import os
 import subprocess
 import sys
+import time
+import urllib.request
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
@@ -44,6 +46,31 @@ def huella(datos: dict) -> str:
         "meta": {k: v for k, v in (datos.get("meta") or {}).items() if k != "actualizado"},
     }
     return json.dumps(limpio, sort_keys=True, ensure_ascii=False)
+
+
+def verificar_publicacion(actualizado: str | None, asin: str | None,
+                          espera: int = 240) -> bool:
+    """GitHub Pages tarda; no damos por bueno el push sin leer la URL pública."""
+    if not actualizado:
+        return False
+    url = f"https://kit72h.com/data/precios.json?v={int(time.time())}"
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 kit72h-verificador",
+        "Cache-Control": "no-cache",
+    })
+    limite = time.time() + espera
+    while time.time() < limite:
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                publicado = json.loads(r.read().decode("utf-8"))
+            if publicado.get("meta", {}).get("actualizado") == actualizado:
+                oferta = publicado.get("oferta_dia") or {}
+                if not asin or oferta.get("asin") == asin:
+                    return True
+        except Exception:
+            pass
+        time.sleep(15)
+    return False
 
 
 def main() -> int:
@@ -85,14 +112,23 @@ def main() -> int:
     commit = run("git", *IDENT, "commit", "-q", "-m",
                  f"chore(precios): precios de hoy en Amazon y seleccion del dia — {resumen}"[:200])
     if commit.returncode != 0:
-        print(f"⚠️ commit: {(commit.stdout + commit.stderr).strip()[:300]}")
+        print(f"❌ commit falló: {(commit.stdout + commit.stderr).strip()[:300]}")
+        return 1
 
-    run("git", "pull", "--rebase", "-q", "origin", "main")
+    pull = run("git", "pull", "--rebase", "-q", "origin", "main")
+    if pull.returncode != 0:
+        print(f"❌ pull --rebase falló: {(pull.stderr or '').strip()[:300]}")
+        return 1
     push = run("git", "push", "-q", "origin", "main", timeout=180)
-    if push.returncode == 0:
-        print(f"✅ precios y oferta publicados · {resumen}")
-    else:
-        print(f"⚠️ push falló: {(push.stderr or '').strip()[:250]}")
+    if push.returncode != 0:
+        print(f"❌ push falló: {(push.stderr or '').strip()[:300]}")
+        return 1
+
+    asin = od.get("asin")
+    if not verificar_publicacion(nuevo.get("meta", {}).get("actualizado"), asin):
+        print("❌ push OK, pero la URL pública no sirve aún la instantánea nueva")
+        return 1
+    print(f"✅ precios y oferta publicados y verificados · {resumen}")
     return 0
 
 

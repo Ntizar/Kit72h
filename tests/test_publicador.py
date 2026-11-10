@@ -50,6 +50,30 @@ class TestDecisiones(unittest.TestCase):
         )
 
 
+class TestGateEditorial(unittest.TestCase):
+    def _entrada(self, palabras=900, fuentes=2, mejora=False):
+        return {
+            "slug": "prueba",
+            "titulo": "Prueba",
+            "cuerpo": "<p>" + ("palabra " * palabras) + "</p>",
+            "fuente": [{"nombre": "A", "url": f"https://example.com/{i}"}
+                       for i in range(fuentes)],
+            "_mejora": mejora,
+        }
+
+    def test_entrada_valida_pasa(self):
+        self.assertEqual(pub.validar_entrada(self._entrada()), [])
+
+    def test_stub_sin_fuentes_no_pasa(self):
+        faltas = pub.validar_entrada(self._entrada(palabras=20, fuentes=0))
+        self.assertTrue(any("palabras" in f for f in faltas))
+        self.assertTrue(any("fuentes" in f for f in faltas))
+
+    def test_revamp_exige_1200(self):
+        faltas = pub.validar_entrada(self._entrada(palabras=1000, mejora=True))
+        self.assertTrue(any("1200" in f for f in faltas))
+
+
 class TestArchivo(unittest.TestCase):
     def test_archivar_conserva_cuerpo(self):
         with tempfile.TemporaryDirectory() as td:

@@ -52,6 +52,29 @@ def hash_cuerpo(cuerpo: str) -> str:
     return hashlib.sha256((cuerpo or "").strip().encode("utf-8")).hexdigest()
 
 
+def validar_entrada(entrada: dict) -> list[str]:
+    """Gate editorial mínimo antes de encolar: cuerpo real y fuentes citadas.
+
+    No sustituye la revisión humana de afirmaciones delicadas, pero impide que
+    una entrada vacía, un stub o un texto sin fuentes llegue a producción.
+    """
+    faltas: list[str] = []
+    if not (entrada.get("titulo") or "").strip():
+        faltas.append("falta título")
+    if not (entrada.get("slug") or "").strip():
+        faltas.append("falta slug")
+    cuerpo = entrada.get("cuerpo") or ""
+    minimo = 1200 if entrada.get("_mejora") else 800
+    if palabras_html(cuerpo) < minimo:
+        faltas.append(f"cuerpo de {palabras_html(cuerpo)} palabras; mínimo {minimo}")
+    fuentes = entrada.get("fuente") or entrada.get("fuentes") or []
+    urls = [f.get("url", "") for f in fuentes if isinstance(f, dict)]
+    validas = [u for u in urls if re.match(r"^https?://", u)]
+    if len(validas) < 2:
+        faltas.append("menos de 2 fuentes oficiales con URL")
+    return faltas
+
+
 def leer_marca(marca: Path) -> dict:
     """Devuelve la marca. Las marcas antiguas ('publicado\\n') no prueban nada."""
     if not marca.exists():
@@ -170,6 +193,12 @@ def main() -> int:
             print("publicador: «%s» ya estaba publicado con hash válido; cola archivada "
                   "en %s · commit %s" % (slug, destino.relative_to(REPO), sha or "sin cambios"))
         return rc
+
+    faltas = validar_entrada(entrada)
+    if faltas:
+        print("❌ GATE EDITORIAL: «%s» no se publica; entrada CONSERVADA. %s"
+              % (slug, "; ".join(faltas)))
+        return 1
 
     sys.path.insert(0, str(REPO / "scripts"))
     import importlib
