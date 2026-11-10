@@ -64,6 +64,25 @@ class TestArchivo(unittest.TestCase):
             self.assertIn("2026-11-10-montana.json", destino.name)
 
 
+class TestRutasStaging(unittest.TestCase):
+    def test_entrada_archivada_no_rompe_el_add(self):
+        """El fallo real: _entrada.json untracked desaparece y git add aborta."""
+        with tempfile.TemporaryDirectory() as tmp:
+            raiz = Path(tmp)
+            (raiz / "data").mkdir()
+            (raiz / "data" / "blog.json").write_text("{}", encoding="utf-8")
+            subprocess.run(["git", "init", "-q"], cwd=raiz, check=True)
+            original = pub.REPO
+            pub.REPO = raiz
+            try:
+                validas = pub.rutas_validas(
+                    ["data/blog.json", "notes/plan-crecimiento/_entrada.json"]
+                )
+            finally:
+                pub.REPO = original
+            self.assertEqual(validas, ["data/blog.json"])
+
+
 class TestConflictoNoBorra(unittest.TestCase):
     def test_main_devuelve_2_y_conserva_entrada(self):
         """Reproduce el fallo real: marca vieja sin hash + revamp en cola."""

@@ -99,9 +99,22 @@ def archivar(entrada: Path, plan: Path, ahora: datetime) -> Path:
     return destino
 
 
+def rutas_validas(rutas: list[str]) -> list[str]:
+    """Paths que `git add` puede aceptar: existentes o tracked-borrados."""
+    return [
+        ruta for ruta in dict.fromkeys(rutas)
+        if (REPO / ruta).exists()
+        or git("ls-files", "--error-unmatch", "--", ruta).returncode == 0
+    ]
+
+
 def publicar_cambios(mensaje: str, extra: tuple[str, ...] = ()) -> tuple[int, str]:
     """Commit y push de los paths del publicador. Devuelve (rc, sha)."""
-    agregado = git("add", "--", *PATHS, *extra)
+    # `_entrada.json` puede no estar trackeada: tras archivarla su path ya no
+    # existe y `git add` abortaría TODO el staging. Solo añadimos paths que
+    # existan o que Git ya conozca (deleted tracked).
+    validas = rutas_validas(list(PATHS + extra))
+    agregado = git("add", "--", *validas)
     if agregado.returncode != 0:
         print("❌ git add falló: " + (agregado.stderr or "").strip()[:200])
         return 1, ""
