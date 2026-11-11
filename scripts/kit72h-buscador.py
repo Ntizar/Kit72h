@@ -108,7 +108,7 @@ if commit.returncode != 0:
     sys.exit(1)
 
 # 3) Push con rebase (otro cron pudo adelantar un commit)
-pull = git("pull", "--rebase", "-q", "origin", "main")
+pull = git("pull", "--rebase", "--autostash", "-q", "origin", "main")
 if pull.returncode != 0:
     print(f"❌ pull --rebase falló: {(pull.stderr or '').strip()[:300]}")
     sys.exit(1)
