@@ -11,7 +11,11 @@ Contrato de cola (auditoría 2026-11-10):
 - Una marca `.publicado-<slug>` NUNCA autoriza a borrar una entrada nueva.
 - Solo se archiva una entrada cuando la marca contiene el SHA-256 del cuerpo
   realmente publicado y ese hash coincide con `data/blog.json`.
-- Un conflicto deja la entrada intacta y sale con código 2 (visible al cron).
+- Un `_mejora: true` (revamp del consejero) SÍ se publica como reemplazo: es el
+  flujo diseñado y el gate editorial ya lo valida (>=1200 palabras, 2 fuentes).
+- Cualquier otro reemplazo/conflicto NO se publica y NO bloquea la cola: la
+  entrada se aparta a `notes/plan-crecimiento/pendientes-revision/` y el job sale
+  con 0 y un aviso explícito (antes salía 2 y atascaba todos los runs).
 - Cola vacía sale con 0 y una línea explícita; nunca finge silencio.
 
 Salida: recibo con slug, palabras, commit, push y URL.
@@ -128,6 +132,28 @@ def archivar(entrada: Path, plan: Path, ahora: datetime) -> Path:
     return destino
 
 
+def apartar_para_revision(entrada: Path, plan: Path, ahora: datetime) -> Path:
+    """Mueve a pendientes-revision/ una entrada que no se puede publicar sola.
+
+    No se destruye nada: el JSON se conserva tal cual y el README de la carpeta
+    recibe una línea fechada. La cola queda libre para que el cron no se atasque.
+    """
+    destino_dir = plan / "pendientes-revision"
+    destino_dir.mkdir(parents=True, exist_ok=True)
+    datos = json.loads(entrada.read_text(encoding="utf-8"))
+    slug = datos.get("slug") or "entrada"
+    destino = destino_dir / f"{ahora.date().isoformat()}-{slug}.json"
+    if destino.exists():
+        destino = destino_dir / (f"{ahora.strftime('%Y%m%dT%H%M%SZ')}-{slug}.json")
+    shutil.move(str(entrada), str(destino))
+    readme = destino_dir / "README.md"
+    if readme.exists():
+        with readme.open("a", encoding="utf-8") as fh:
+            fh.write(f"- `{destino.name}` — apartada el {ahora.date().isoformat()}: requiere "
+                     f"revisión humana (`--reemplazo`).\n")
+    return destino
+
+
 def restaurar_cola(destino: Path) -> None:
     """Si el commit/push falla, devuelve la cola a su sitio para reintentar."""
     if destino.exists() and not ENTRADA.exists():
@@ -196,22 +222,32 @@ def main(argv=None) -> int:
     marca = leer_marca(marca_path)
     publicado = entrada_blog(slug)
     accion = decidir(entrada, marca, publicado)
-    if accion == "reemplazo":
-        if not args.reemplazo:
-            print("❌ REVISIÓN de «%s»: ya hay una versión publicada y la entrada "
-                  "trae otro cuerpo. Entrada CONSERVADA en %s. Usa --reemplazo "
-                  "solo tras revisar el diff." % (slug, ENTRADA))
-            return 2
-        print("⚠️ REEMPLAZO explícito de «%s»: se publica la revisión." % slug)
-        accion = "publicar"
-    if accion == "conflicto":
-        if not args.reemplazo:
-            print("❌ CONFLICTO de cola: «%s» tiene marca .publicado pero el contenido "
-                  "no coincide con el hash publicado. Entrada CONSERVADA en %s. "
-                  "Revisar el borrador y retirar la marca a mano." % (slug, ENTRADA))
-            return 2
-        print("⚠️ REEMPLAZO explícito de «%s»: el hash publicado no coincide; "
-              "se revisa con la marca nueva." % slug)
+    # El consejero encola REVAMPS por diseño (`_mejora: true`): un reemplazo declarado
+    # y validado se publica solo. Cualquier otro reemplazo (o una marca antigua sin
+    # hash) NO se publica sin humano, pero tampoco puede bloquear la cola para
+    # siempre: se aparta a pendientes-revision/ y el job sale 0 con aviso.
+    es_revamp = bool(entrada.get("_mejora"))
+    if accion in ("reemplazo", "conflicto"):
+        if args.reemplazo or es_revamp:
+            motivo = ("--reemplazo explícito" if args.reemplazo
+                      else "revamp declarado por el consejero (_mejora)")
+            print("⚠️ REEMPLAZO de «%s» (%s): se publica la revisión." % (slug, motivo))
+            accion = "publicar"
+        else:
+            destino = apartar_para_revision(ENTRADA, PLAN, datetime.now(timezone.utc))
+            print("⚠️ REVISIÓN APARTADA de «%s»: ya hay entrada publicada con otro cuerpo y la "
+                  "entrada no se declara mejora (_mejora). Guardada en %s; la cola queda LIBRE y "
+                  "NO se publica sin revisión humana. Para publicarla: "
+                  "python3 scripts/kit72h-publicar.py --reemplazo (tras revisar el diff)."
+                  % (slug, destino.relative_to(REPO)))
+            rc, _ = publicar_cambios(
+                "consejero: apartar revisión «%s» para revisión humana" % slug,
+                (str(destino.relative_to(REPO)),
+                 str(ENTRADA.relative_to(REPO)),
+                 "notes/plan-crecimiento/pendientes-revision/README.md"))
+            if rc != 0:
+                print("⚠️ la revisión quedó apartada en disco pero sin commitear: revisar a mano")
+            return 0
     if accion == "archivar_verificado":
         destino = archivar(ENTRADA, PLAN, datetime.now(timezone.utc))
         rc, sha = publicar_cambios("consejero: archivar cola ya publicada «%s»" % slug,
