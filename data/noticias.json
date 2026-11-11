@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T19:10:02+01:00",
+  "actualizado": "2026-11-11T22:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,19 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Última hora de las borrascas Charles y Bruna en España, en directo: Madrid activa el Plan Especial de Protección Civil ante el riesgo de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclR0aGVXRWNYTm0wblZ0MzFZdmVtYnBpTDV1ajNCRFRWUTI3cXZsck95X2RaVkRjay1xU2J0TUpzUWx1Qk01cGpXSWRTMV82S1g5TzliV2dRM1l2Q2d6T0VoNGZ3QTZ2b1ZfWUt0TzBsOXZQWGM1Y3U4emZxSV9OOHdiaVEteU9EQTd6WmhmdkJnelJXTTJ6cnk2OUZTWTVPWmptRmtZeW1vV0VncGh2a3BfSnRPcTRiUUpqZnpWV0JoSUdvN0lQbw?oc=5",
+     "fuente": "Telecinco",
+     "resumen": "",
+     "fecha": "2026-11-11T21:42:45+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Borrascas Bruna y Charles, en directo: lluvias intensas, avisos de la AEMET y última hora del temporal en España",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb00xOWJfYnh1YnFiLXNDM3ZGbm1GaVkwX2tEaDNZQ0o4QWRULUV2MUY5eUNQWWJUSU9lUkJvZGRsdHF6dnF0TkZaRDkyTG9HYWlSVkM1amFac255TWdSZFJVSUxOb2pRZDRSODZOZGliV2Z1WWl3LXRzZnJZaXFLNUEyNjZvaWlyMVpvVGxHYWphMEdabkF1bnVIMGRiWF9RUThiRzduVDVnNHVNa2prVFVNU044a1d1azJwb1N6SW00Sk5DUUxQUm1lLWhHMTRhc2NtYmdzRXQtM3gxZlBKT2tuaFhtLXlBTlJYVFlzZTU?oc=5",
      "fuente": "La Razón",
      "resumen": "",
-     "fecha": "2026-11-11T18:58:31+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Última hora de las borrascas Charles y Bruna en España, en directo: Andalucía envía un ES-Alert en Huelva y Cádiz por fuertes lluvias y vientos",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclR0aGVXRWNYTm0wblZ0MzFZdmVtYnBpTDV1ajNCRFRWUTI3cXZsck95X2RaVkRjay1xU2J0TUpzUWx1Qk01cGpXSWRTMV82S1g5TzliV2dRM1l2Q2d6T0VoNGZ3QTZ2b1ZfWUt0TzBsOXZQWGM1Y3U4emZxSV9OOHdiaVEteU9EQTd6WmhmdkJnelJXTTJ6cnk2OUZTWTVPWmptRmtZeW1vV0VncGh2a3BfSnRPcTRiUUpqZnpWV0JoSUdvN0lQbw?oc=5",
-     "fuente": "Telecinco",
-     "resumen": "",
-     "fecha": "2026-11-11T18:43:18+01:00",
+     "fecha": "2026-11-11T21:33:50+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -186,6 +186,14 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Alerta por lluvias en Madrid, en directo: inundaciones, cortes de tráfico y última hora",
+     "url": "https://www.msn.com/es-es/noticias/otras/alerta-por-lluvias-en-madrid-en-directo-inundaciones-cortes-de-tr%C3%A1fico-y-%C3%BAltima-hora/ar-AA2hcs41",
+     "fuente": "La Razón on MSN",
+     "resumen": "La capital ha despertado con fuertes lluvias debido al temporal provocado por las borrascas Bruna y Charles. Lo peor llegará por la tarde ...",
+     "fecha": "2026-11-11T11:58:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Charles provocará lluvias intensas y vientos de hasta 120 km/h en la Península",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnh1cDd5cHFnVHJmc2p1X2hIVEU4ZUdMWWpmcjZZLUpWYXJ1bWtiajIteWthLThkblNZZ3I2WjRoTjhrX3ZXRTFxaVVERjg5QnhlQnYwQkN5VDlpOF9pbUpaZ1dyV2Q5RngwbUlRbDlZOUhycjVqUGxnVlAyTXZpVG1YNEFOOXUwQ2lnN3N0TV9McXQtX1Z5OWZCQVF3WWZJaXhzcXNRZ1VJUVowenFaR3JuRVZjUlNvbWNiOTJyaUpWZWJkbXU1LVMtWVJaMld2NG83WDRKaFFPbWt3UlNHOWhn0gHnAUFVX3lxTE1Zam1KQzBUMVdnZmJwYXpzUXJZTDVTZ0NQMG1rNXJYb2tLcGNSODRLd0QxWjZCdHZ1N3BUUVlRWkVraEZ1TG9adVk3cGdiRXRadnRKRzhSNGVpaFpoZ1ZNZkJiazc2cDlSeEMtYmNZdFRWcXZuYnZVbUhFMy1xZmFfZ2RGQjZmQ3cxLXFCZS1Cc0FxQUtpUTBiemNtUjhCTkFzUk9DM0dhaEJFaGVXUTVob29BTUhKeTdWczgtd3ZGcEdLeExsMUkzbUU0MURJZ0MzQ0NyUnhzZi1fcTRGRlJ4ckhrOWY2TQ?oc=5",
      "fuente": "Diario en Positivo",
@@ -202,19 +210,11 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "La borrasca Charles golpea España con abundantes lluvias y vientos huracanados en un día muy \"adverso\"",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0NOMVFjbHVyNzZobXBPR096SW1MRTh6WEtZd0lYSlk4WDc2M25DQWJ3V20wdnl3aHVNSkVuSmEyZ0tnMXc0SDlmYTJaU0x0N2pfWm9NbW9vTi0yUk0xQXdzV2ZQaExzRzN6SGFWbkJSRDM5MG1WaGZpSUZvY1FhR2Rjc3BQeFBzX0h1Z0J0T3RhQXgwMG9uWnhlbWFQVVhTbWNSUDhaZHVacjR6dkxvT1h30gGyAUFVX3lxTE5iMWZCX212MDhsTWFvUE5xeHo3NWw3SnF0dEpqdTNGY3RiRm5iSWUwV3VUbTE2cGV6LUJxOHc3TTQzX29QcUhCelZUWXdvZ2wzVVJ3WEg0UHQ3SGYtazF4UEZaaExybElscF80YVF5NkREalpjZHNXaDg5Znc1dW1QbVU2eW4zcDFyYjNldW9fZWdWNGhRM0VxUGdPWTBXbTBXblE2VGQzaDdNemlxVlBKZnc?oc=5",
-     "fuente": "El Periódico",
+     "titulo": "La borrasca Charles azota España con lluvias intensas y vientos huracanados: ES-Alert en Andalucía, carreteras cortadas y clases suspendidas",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemFQYkFfOVlQSi14SU5OSzExd0ZSREZGTG5tV2tFU08xV1FVOWltTjJwdnhHYVQ0anZZeko3TTJoT04tdmZ2bU40eUdRU29EYnRVN1pKd2R4Qm16Qmh4elRSNHA1akhfYlJTMmZ6MnJydFJxT3A5N2NpLWJtc2d3dm5pSnNucjBLY0N2X19NZTdkUmhUTTlIaE85SXdjcFl1ekp4QjdnTFJmd0U1M3FLZFNTTHFlSjl1RGlkTWMwREQ2cmU1bW5LcHdUNV9UR1ZLQlQ1UEJGeUFIVU9XZDNacDVoYlptVGV1RkEyMG50a2ZObmxNU1FJU2VKNWx4SVN2dldOV3U5RjlLdmFOV19ZUEpKeHpxUdIBlgJBVV95cUxNelZZSmE2Z0VsOG9TMkZjalJRajdGc1lBVmNxa0VUY2FhcWlkNEdXT2tfc2JBWFR1WHFZYk5yQzd3ZFB4cGgybjJjaU5leXNqdGFHdnI3Zl9wT1RweVNlajdKLVVzUkk4dXN3VHE4ZjFtazhWVDVzcUd5a2VjNko2Z0hSRVFrVktxbEpqempBMkdfQzhjT3FkdVNhRGNNR3lLLWdVTVlicTRiX05pcUk3aWZXeUpUeUtyOUJucjdXR3F3ZUtaUW15MklXWWlDUjRDS3h3RE1hd2h6cWR5UUkwY0EzbDJXRDhNeUVBdVZlNjk5Z21NWUZrX0pTZnBRcHJlQjdiU3ZQYTliaHNRc3RUSEZoSUdQZw?oc=5",
+     "fuente": "LaSexta",
      "resumen": "",
-     "fecha": "2026-11-11T11:14:57+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Las borrascas Bruna y Charles dejan lluvias torrenciales y rachas huracanadas en casi toda España: aviso rojo en Cáceres y Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVdSMjlaX2JzbERsdWNsa0lVZGFTX0xweXIzVXhFOHUyZzJaOXRPcnVLS2lnangxODBuYVRMTlVScFI4aDhGSFl5RjEwZTRIZERMOHFfNFBGRnRaMjIyYTNTak9nWGJJT3NUSVg5MlJaR1hsYWZmU1E1SlVZTEdCeHdoNzJtSHRtdlNhTFU4ZjBOci1obXc2bXFvcEdmcEwxNmRkcUV6Tjk4OGk3LVU2TkhBZG9GWmUxOUYteXVNM3MwZWN3aThLc3JwTmdmRDg4QXdSeWoyZlFDT0tsNDlzc2dmQkR2OUdWTk5ZVUlCRUNhZHFXRFJwRFpwMU1Ra1XSAZoCQVVfeXFMUFhuZnFVanczekNNUzhhMGdSeHpmWkszelB4NS1fb3RTdkdxM1AyNkZSWjdVVmV5cHFWdURRaGVYMy16TG1zY2l1UXNMQjhrSWNhdHlUcGZfeHNad1BSY1RYTm10aHdHdlB6MGVrak83eWVZT0Q2Q2RReEpsYTE0ekgtSzBDcWJEYU9iLWE5cFEyZjZsUUJFQnRIaXNXTVEyeGpWcHI5a25YZlBWU2tZWHZkeHcyR2x6TWNfODNpRXZDUG10QzNNU3ZGV3d2YWt5UjNtMGFMbEhZTlhaUnFFMWpRNWpldEpTOXNIYWdpTWQ1VTB3SmxkWVFNVU1rUUdOY19JQnFocjhoY1RUaHdxT1F4X3NYOHJKeFNB?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-11T11:07:00+01:00",
+     "fecha": "2026-11-11T11:28:13+01:00",
      "fecha_txt": "11 nov"
     }
    ]
@@ -281,12 +281,12 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "DJI lanza su nueva batería en España: permite la carga para coche, recarga solar y evita apagones en nuestra casa",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUnZqcWRDUXE0Y0FhdThJVmNWcFVweTlITUVIM0tTSE1nT08weHpaU3lmZndfekY4NkZoQ014UVRtZkpwRWo1LTRLREFlLXdGY0g1dHU2SUlTR2wtbjlGbVhJOVlhdHJxaF96Q0pkbGh3YlNnVnJESC1kZkJ1Wk1yaU1kYWRfc3NJemgzX1NsMmlYVGdwU0xLQjdnUWJzWGlMQmE2cXhHS3JiLU5yY19oMjJnaUJHM0VtM3RreDZfdWw2VzljdEs1SmpzVG9XXzY0c0g1aGtqOWh1c1JVWnFvZ3N6Z9IB6AFBVV95cUxNWEg1cVNVRXBqemVxQnc1elV1VWhRQ0pyakdTcFdWTUstLU9MZDNQM1JlY29lUk16LW1VTVhUQmw0ajZ5SUdxd0FpeTh2OU9XbXhSUDhTdW92eUUtT2xTYlJmNzIwMW1pLUVieTRTWEpxRWpMRGNmSl9XSDJadllPSmg5S1Jjckg3eE8xdkh0Z1BpemZUZV9YX1dsd3hpNnNqYW5TMDhUR2wwcGk0RkVDLVJiOVJKOF9tZmZBQlBSSGFEdVhkQjZVUk5HNUxLN2FEazRUQVVMQjdiSlNWS1RYMFRZOUNyekRl?oc=5",
-     "fuente": "El Español",
+     "titulo": "El \"Apagón Legislativo\" del 29-N: Las reformas judiciales y económicas en España que se han quedado en el aire",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1VCSFpKVzZDMDZUd1lCV0toV0ctR3JLRV9GUEtyc3o4WDhKQ3pJNU9HUGJnMDRTb3dPWVFQN3hxNk11WTFwSW1CWEVpV1EzQzlodFJydGFUQnpSTkg4VXhvZUtRcWYxSkFIYjVwbVhMekl1Y3RRa0VfazZTODN4aW1KS251OFVjdXRzbGpPTTZXNGNzOFB6MHFja1Z2eTk1YkJEOFNlN1o4V2paR1owcXhPcXI0Zw?oc=5",
+     "fuente": "El Cierre Digital",
      "resumen": "",
-     "fecha": "2026-11-08T16:30:00+01:00",
-     "fecha_txt": "8 nov"
+     "fecha": "2026-11-09T03:45:01+01:00",
+     "fecha_txt": "9 nov"
     }
    ]
   }

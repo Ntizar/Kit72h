@@ -3,12 +3,12 @@
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
   "elaborado": "20261111175415",
-  "actualizado": "2026-11-11T19:10:13+01:00",
+  "actualizado": "2026-11-11T22:10:11+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261111175415_can_20261111WET_1794420240.geojson",
-   "r_D+0_20261111175415_penbal_20261111CET_1794420240.geojson"
+   "r_D+0_20261111175415_can_20261111WET_1794430800.geojson",
+   "r_D+0_20261111175415_penbal_20261111CET_1794430800.geojson"
   ]
  },
  "resumen": {
@@ -37,14 +37,6 @@
        "desde": "2026-11-11T22:00:00+01:00",
        "hasta": "2026-11-12T02:59:59+01:00",
        "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T12:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
-       "probabilidad": "40%-70%"
       }
      ]
     },
@@ -58,14 +50,6 @@
        "descripcion": "Viento del oeste o suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del oeste o suroeste en torno a los 4 metros.",
        "desde": "2026-11-11T22:00:00+01:00",
        "hasta": "2026-11-12T02:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T18:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -82,14 +66,6 @@
      "nombre": "Litoral de Huelva - Costa",
      "nivel": 3,
      "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T12:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
@@ -26590,17 +26566,6 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T12:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
        "descripcion": "Viento del suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del oeste o suroeste de 4 a 5 metros.",
@@ -36012,17 +35977,6 @@
        "hasta": "2026-11-12T02:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T12:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
       }
      ]
     },
@@ -42626,17 +42580,6 @@
        "descripcion": "Viento del oeste o suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del oeste o suroeste en torno a los 4 metros.",
        "desde": "2026-11-11T22:00:00+01:00",
        "hasta": "2026-11-12T02:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento del sur o suroeste de 50 a 74 km/h (fuerza 7 u 8). Mar combinada del suroeste de 4 a 6 metros (perpendicularmente a las costas).",
-       "desde": "2026-11-11T18:00:00+01:00",
-       "hasta": "2026-11-11T21:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
