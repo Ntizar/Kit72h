@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T16:10:02+01:00",
+  "actualizado": "2026-11-11T19:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,19 +12,19 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Prepara, cuanto antes, un kit de supervivencia porque se avecina una gran crisis mundial, lo dice la Comisión Europea",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVnFYMHFfOTh4b281cWpTYXp6NkJEbWpJSnJIRldsM2I5VFdmMEtwMVVjQ3RHVGcwYnVoT0VYNzJQelEtOXRKdG9iemh0eV9iOU43WkxtdlI4NDRnRnJtVWhuQ1l0MFYxMFVMY2pqZWp4a0tia25EbzNvQXdDcjJQVDB1UTBQUjlCXzVNeXhCUjFtVU4wZ2VhN214elBleG44T09jbF9KU25PdldKQ0FMS1RORzg2aEp0MVRYTF9wSmJaZjVQaGdoTElRd3ltVXFnZ3hMSDhUTzZ5WHdxLVNLbE5jT1dXSkR3b0FPWW5WaHBCTEIwVUdFNG16Mm9RY0RFRVZZbEt1WktxdUxTTnJv0gH6AUFVX3lxTE93T3dfbzNDRmxTUlZLbF9yQl84OEhLWXc5TUhSYUlBZURlOTQycTVJWmdzTVA2NndGeFB4ZHFhUGlXemg2aEpiakFzUTE1YjRKMXkzU1RiSnVfVk9aaEQ3Ulk0N25mOXNXUnNHbGctUTc1OTFaMFpBbm42aDQxS2ppNWJla2YtU2s1Zi1lZWV0em05OVJTMzVZWnZTM1kwVWN1VkdFd3VycFlkM1JNNTRLeW1Gemk0d2VIM1FUSVotZlFFNF9DOXZ5ak05ZXg1T1ZhaGl5ZUR1cHEtckE2eDJGS1d1bjdPYWRjM0hzaDV2LUFHc2tEZDNZT1E?oc=5",
+     "fuente": "El Economista",
+     "resumen": "",
+     "fecha": "2026-11-11T17:31:10+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Granadilla de Abona presenta una nueva Guía de Emergencias para reforzar la autoprotección y la seguridad ciudadana",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOVpNUmdON1ZVakh4dC1GcjQzNHZuSHdRaVJrVHZPRXJDcFpNU01PT21WSnFSY29uMDNFWGEyNGNXTDdaa3FwRnNpNXc3UnZWak40WnpmVjR2VGs1T1dHVk5LLXR6LVBWSFhFaU9OUWxEeUh0aVlqYy1GR0h6WFkwcHVGdjdpaTRJR2F4SVhzaV9wc1VhM0NHaVVlb3dCVEFiR2s5UjBFbXA3WUJTVlRuQlFVR2dBaVlTVTJyV2Z3VXZoWEdhYVljU2tlVTZGUEtBWlJLWW4tLW9ONENqQmkw?oc=5",
      "fuente": "Canal 4 Tenerife",
      "resumen": "",
      "fecha": "2026-11-11T14:21:26+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Apagón mundial de tres días: ¿Por qué 33 países llaman a prepararse?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUxJSEJQa3pNSGt0RVhuNTZWWjNwNXFoX29GVkdublJ1UjdvUmJuSUdNY3lDenVTMGpFLW95em9iVUJ0R2pfYTNjSVZfQ0E4SlBvTXVuc1FCaHRJVTZRZVYtVmRXd2g0d3FtV2lRU25COGpxVENXMlNaTThNMWwtU2RkdEs4TjFfWE80VHJZN3o0cGFpNEJEZU96a0ltZ19jTHVMeW5INHdQelEtQTl0UkJMNA?oc=5",
-     "fuente": "FayerWayer",
-     "resumen": "",
-     "fecha": "2026-11-11T13:52:58+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -60,19 +60,19 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "La Comisión Europea pide a los ciudadanos que preparen, cuanto antes, un kit de supervivencia porque se avecina una gran crisis mundial",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOaWt0al9Hdlg3cEZVZXJCeHpEOVZ5a0xGb2ZGVGsxaXpKZ3BNdHhWZDFEZ25HdGRTNGJ2cGxfUzhrbnJPYVBfYnRTcFhSM2hVYUk5bEhHVlZ2TVJUOTZLZ25BRS1QanBWVnVrbVliWlMyaFFqeUJMOUFiQXNTQ2xOZkJwd2pYZnFPRmhwcUEwWEZjOHdzNnhSQktPR2dELWhGd1UxYTJ6SkRKU2NZRl8tUXJXdGtYdDE1Rzh0WTROSmZvNkRKQ1FjRGhMVGpHeXVFNlBoZkJlaVZuRjZlb1Zicl9NRnF5M0pRUW9zYkx6bEI1MmpDOXNuV0JvVDN4SzVDc1pXeUUtUjJIeVl5X2lfcXZqYlhvdThaNUdFTXMybXVSd0NPcE1tT9IBkwJBVV95cUxOTmxPR3lWNFcxOVNYMmdMNlhtRVBoUVJWNjdhZmRad256enlucGU3Z0tibm5fRTdJbzk4R1FXS2xQMW90VzF2UmVXSTI3UGZwYWw2U0tpTjFwVVppUU9lZXlXVTZEb1ZVZDBCeERLRm1mWDdhbzRqSE96OU1MOFg1ZGtNUWo2U3ptZ044bkpaUmdSNXVQbG9TbG5WNFJvTGowUUVuZ1pjbl9LdUlUZmRMSWRVY2ZtY2ZvTFRDOERMWUdBa2l1czIwdWh4Yzh2akx0WUZEeUZfbmZXQkFmemE0eTItRW5vYllLRVQyZGNQaEpWSlFGVG5fV1p4bXlxY0ZPaVdCcDJ0MGRySE9XYmRTVWVIOA?oc=5",
-     "fuente": "El Economista",
-     "resumen": "",
-     "fecha": "2026-11-10T17:35:50+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
      "titulo": "Bruselas vuelve a recomendar tener un kit de emergencia en casa: esto es todo lo que debe incluir",
      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS09veENRNTBoenhxajFuWDN5YkFkb2ZlOUM4cVlxUkhSWG42eEpoZlhkM1M5ekM3Z3hKUzc2RlJwTEhERmNLZ3ZMRVJvTmhKbjkzQjc2WENqSmVjRDctbGZjRk02UkRMczBTOXhKRjBJR2tSSVVzSFJCT1NnNk9WM1UyRjAyaklyZl9vSlg1ajdlSVZlTEF6Q2ZJRU1ITzBINF91RVhtc0wtaW94eUxNekZnLXN0Y0JkbFpLbkFYRm5kZ0cyNk9jV0FOcHZ6S01SdHBzaHZQVUxLbUtoVUtLRHFBT1hYaGxhTE5MR3hoTnVYa3p5YXgzeUJ6NVQ5UTIwZ3fSAYICQVVfeXFMTlVGQlM2elNPZ3ZwNW9WV3E1ZGt0STdvVEJDdVVncURNZWk3am45b2pUeE12cnlZa1BER1lNR3JqQUpBTXpidm4zUlBCQTVZbVBSazJvbGhVd0drTm5KbHZzd2pVSVZxbDBTSjJfRW5UZFp4SEJWUzRaYkFQMXhtWFBtclFZRXdlWnBiTTktUFd4MzlOSjY5YTVFNXYtdlBqanRIZGpnNEVKSmJqZ2pYYWVNMWM2UDBhanF2SkF6YmRhaVBTUXdBbXY0anZUbTJoQzAxbWRaNkNvZEFPSEtVNnQwTk5sZW5HeTVob2FQZzNxSWFuUllKcHRFa1ZRcHZqXzdR?oc=5",
      "fuente": "LaSexta",
      "resumen": "",
      "fecha": "2026-11-10T14:53:47+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "LA CARTA DE FER | EL KIT DE SUPERVIVENCIA",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVElfdkVvUEFZLXZtMmwzanBkR0d2R0Vpb3BOYU5JLUFsR0tEajBOSDREc0NUZTN2ZjNMTk9LdHBqM0tiQTQyWHZxYTBJVUlYR2NxVUM5b3pJbG9MOVJ1cW1LWjFCU1dRdzUzVE9qVW9PUFJBOVljMFlSWW5MU1N6TlZnMnFtNGR6QldEdHlLME1CSW13WU5YbGJVamdnV3YxRWFQNEVXWUhlTDZ2Wm03MkdVR2xiQ055cHJVNHJUaFlxb0k2dU1QWjlkS3DSAdIBQVVfeXFMTkU5WWxSclM4LWJLQW5pQmVCVkNnY2hVV3JzZkVCTExZRXY5WVc3TGZQeWc4bWVqcW9xZ0ZhQlo2MThNM0hBTDdNY3VZbGg1S3pMNW1lUEFBQnBwakpfZ1FzMHJ1Tk8ybVZhUnhuNzFOYzFCdUlRWVVwXzA0MTM4UDFWZmNPdzlRcDBCa1lkVkV3QkoweG1UanJyMk1ObXpvNktfM003bjBNWTh0QWdwRU1aSEtjMlNOV0phOXFsdWVUa3VnQTNybjZRWjhkeExOMkZ3?oc=5",
+     "fuente": "Cadena 100",
+     "resumen": "",
+     "fecha": "2026-11-10T10:14:46+01:00",
      "fecha_txt": "10 nov"
     }
    ]
@@ -123,6 +123,14 @@
      "fecha_txt": "8 nov"
     },
     {
+     "titulo": "Más de 130 intervinientes combaten un incendio junto a la frontera de Salamanca con Extremadura",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmJuU19xVkZXUnNMdFk3VHN5NEd3eFdMNHFNR3RrbElKTDYtb0k1VHUyRk85UlV6bWJVMk9xaVoxUmRJM0NvejVDQjYwQUc5N3IxQTdmQ3VnSWFZQnZVamRnek9oTGs5ODZ5Ty1ZM0VjcUw0VlZ0YkQwWUNEcks4ZDNFRExndWs0UDhORzRreFFlU3NVeFFRaEFhcmFLdkowUzlseExmSGE3M1RYRDNQZHlLaEtuck02QzRpZ0JyWS1PdmcwUUHSAcsBQVVfeXFMUDNVQW9KLTRCd2lERlJJRVZleUlHRGlmWE5pMmlJZ2JkeFRFeVRYZ2NacXdwN2ZxWE5IMDNPMjNaWHZYWExhZnZwTTNIS0RBMW5zOTNOMkVRdk1EVnF4SVhPaUpZNDFQZ2NfLTY5WmQxNm5XWEVGNU1sWWgwSkRCSldLdjJPMUdjRkNscVN4d18zdlZpdVJKMUNHMzlKVjNjREZLX1FpcW9ydU1aek85R0pWSU9hZTVJelIyenZPWHZzVG01V2NtQW8yZm8?oc=5",
+     "fuente": "La Gaceta de Salamanca",
+     "resumen": "",
+     "fecha": "2026-11-08T15:33:04+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
      "titulo": "La España en llamas: diez años de infierno forestal",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
      "fuente": "La Razón",
@@ -137,14 +145,6 @@
      "resumen": "El fuego se ha declarado sobre las 4.00 horas de la madrugada en un domicilio de la calle Arcas y ha movilizado a bomberos, sanitarios y efectivos de la Policía Local y Nacional ...",
      "fecha": "2026-11-08T03:07:57+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para combatir los incendios forestales y quiere instalarla en Mallorca",
-     "url": "https://okdiario.com/baleares/oficial-confirmado-ministerio-del-interior-espana-pide-ue-base-aerea-combatir-incendios-forestales-quiere-instalarla-mallorca-20709391",
-     "fuente": "Okdiario",
-     "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
-     "fecha": "2026-11-08T00:45:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -158,7 +158,23 @@
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb00xOWJfYnh1YnFiLXNDM3ZGbm1GaVkwX2tEaDNZQ0o4QWRULUV2MUY5eUNQWWJUSU9lUkJvZGRsdHF6dnF0TkZaRDkyTG9HYWlSVkM1amFac255TWdSZFJVSUxOb2pRZDRSODZOZGliV2Z1WWl3LXRzZnJZaXFLNUEyNjZvaWlyMVpvVGxHYWphMEdabkF1bnVIMGRiWF9RUThiRzduVDVnNHVNa2prVFVNU044a1d1azJwb1N6SW00Sk5DUUxQUm1lLWhHMTRhc2NtYmdzRXQtM3gxZlBKT2tuaFhtLXlBTlJYVFlzZTU?oc=5",
      "fuente": "La Razón",
      "resumen": "",
-     "fecha": "2026-11-11T16:06:09+01:00",
+     "fecha": "2026-11-11T18:58:31+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Última hora de las borrascas Charles y Bruna en España, en directo: Andalucía envía un ES-Alert en Huelva y Cádiz por fuertes lluvias y vientos",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclR0aGVXRWNYTm0wblZ0MzFZdmVtYnBpTDV1ajNCRFRWUTI3cXZsck95X2RaVkRjay1xU2J0TUpzUWx1Qk01cGpXSWRTMV82S1g5TzliV2dRM1l2Q2d6T0VoNGZ3QTZ2b1ZfWUt0TzBsOXZQWGM1Y3U4emZxSV9OOHdiaVEteU9EQTd6WmhmdkJnelJXTTJ6cnk2OUZTWTVPWmptRmtZeW1vV0VncGh2a3BfSnRPcTRiUUpqZnpWV0JoSUdvN0lQbw?oc=5",
+     "fuente": "Telecinco",
+     "resumen": "",
+     "fecha": "2026-11-11T18:43:18+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Asturias espera más lluvia mientras Bruna y Charles dejan evacuados, ríos en alerta y daños por viento en España",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU1nSl9vQU0tck5HdHQ0U00yTGFrM09rM3gxWWJaenNxWVZnMXgzYy0tLWpBMmk1d3RmSWxfZDluNjV4aVBUSFM3NmJ1d1p2TUxheUpQbnBPR2lqZTZGMDZMUFZUSFlMcnBGMTRJOEFxaTZKVzFydHhhN3c5RGtxYUk1X0tYMXktRXN1ejVpVnloY3RUWmdzajZSMlJHVXRlRTA4S3BfeDhYSUk4V2FmSlo5eEZfREJsUERMMHctMWlvX0kydDdGV09FOW50RzNZaWdFc3BUREc4S2tZb1Y1TTRraw?oc=5",
+     "fuente": "Asturias Mundial",
+     "resumen": "",
+     "fecha": "2026-11-11T18:13:04+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -166,15 +182,7 @@
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVJYWjRoZlVTaVlJcGxETEkxbTJWV0JPVUdfRGdNMlh4YzV5ekUycUhsN2pxcHh2VEZwRUtEME1lSFRyTW8zMGMwTEx3V1NyUUJQUnV0YXR1V0dhOGQyYXNqUnFVT1Z5Z2hsb3dnYnc1Yy00dFpXc1YwMWNwdlBULVdwYW5MSWFVcThWbmp2YkMyRWQzX1hqVjJRMDBBRmFXUFJmdnRrOEQ5R2RYOEMwLTdkY1V2UnhDbzg0YkhmdzVoM1puei15Mm5La2dlRGPSAdQBQVVfeXFMTUtyWXZJVGNJODRwTTI4bnVsWXpaYlJzbkNSYjVfeEpvaHcwamNYTl8tNjdPX2ttRGJ0ZExJd19ZUmw3LUdmeWF6bGdzNm1MT1ZQd3FEOTUzWHAtUHB4dnJmelA0MkZCTEx2clVTb3U4c21DS1pqZnp4NGh6QkFLNXRla3ZOZUUyT2tLdjE1N21ud3ZQNTJJYnlMdnpYTWFGVGVPT1BGYm11T0FPeTVWZFBtZ2hnbTJVZVhRV2pheVhsdUN0ek95ckdKMTZuWGNZaFJuTGs?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
-     "fecha": "2026-11-11T15:19:53+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Charles amenaza con lluvias torrenciales y rachas de hasta 120 km/h en una jornada muy adversa en la Península",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xS0k5Mk92RXB2RkdMY05hOGFmLVRnUnVHMGh3eUlQWWJZSWcyZTF4MnpOQ0ozZ1c2cWZnUXpXc3U5WVNVSWlkN3FVY0FsQ3NrblZtQXlfOFZ1S1c4REdmTk5LenhJZXJmZ2I5WXpwTFNYa2JBXzhhTV9B0gF6QVVfeXFMTkg0b2VOQVFuZTNGMy1SY2JGYzJXSWR5a05sWjR2YW5LSVJXejQ3WXNtZ1MyOWRWeWVXQmJ0QTU2QXB1SHpJZlZkN2Q1cXEyUlpZWDdFamNSUzZJNjc5Y0drSnJqbDdMYS1JcFYzU09RUVhTMmI1UDlKWEE?oc=5",
-     "fuente": "El Mundo",
-     "resumen": "",
-     "fecha": "2026-11-11T12:05:12+01:00",
+     "fecha": "2026-11-11T17:45:53+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -194,11 +202,11 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Charles sacude casi toda España con fuertes lluvias y vientos de hasta 120 km/h",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdaYlE0WkdwTkdnQU5IRElhVWpodm9qZGlCNFBKQVhDaWdncVEwNkF0REp4MEZ0d01wRHplT0lkbExRd2NxYmM0a1A4a1BsejZDN2M1cWtpZW5jenUzcGRkS0JWREVUSlp5Z1ZkN0RfVVpleVpISEFkVG9OUUM0a2cycmpieFZrVGNaaVlpMFF4NmZhN3hmWnBTd0dOdUg2LS1xOE9VanJIRFl1R3YyZ0xaNDhsUDZ6ZW93WnNmb2pfRjNuNXdrdA?oc=5",
-     "fuente": "Crónica Balear",
+     "titulo": "La borrasca Charles golpea España con abundantes lluvias y vientos huracanados en un día muy \"adverso\"",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0NOMVFjbHVyNzZobXBPR096SW1MRTh6WEtZd0lYSlk4WDc2M25DQWJ3V20wdnl3aHVNSkVuSmEyZ0tnMXc0SDlmYTJaU0x0N2pfWm9NbW9vTi0yUk0xQXdzV2ZQaExzRzN6SGFWbkJSRDM5MG1WaGZpSUZvY1FhR2Rjc3BQeFBzX0h1Z0J0T3RhQXgwMG9uWnhlbWFQVVhTbWNSUDhaZHVacjR6dkxvT1h30gGyAUFVX3lxTE5iMWZCX212MDhsTWFvUE5xeHo3NWw3SnF0dEpqdTNGY3RiRm5iSWUwV3VUbTE2cGV6LUJxOHc3TTQzX29QcUhCelZUWXdvZ2wzVVJ3WEg0UHQ3SGYtazF4UEZaaExybElscF80YVF5NkREalpjZHNXaDg5Znc1dW1QbVU2eW4zcDFyYjNldW9fZWdWNGhRM0VxUGdPWTBXbTBXblE2VGQzaDdNemlxVlBKZnc?oc=5",
+     "fuente": "El Periódico",
      "resumen": "",
-     "fecha": "2026-11-11T11:11:00+01:00",
+     "fecha": "2026-11-11T11:14:57+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-11T11:07:00+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "La borrasca Charles golpea España con lluvias torrenciales y vientos de hasta 120 km/h",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlBYSzE1UkNxT2RIX01xdERYMVZacllvWWx4dEo5X0pSekZQWDNMVVR4aUNaVXdMNUNzcVIxeVFLWnNtVjdIbzBDUF90QWNDTWQzcWpiS0JOM205dEtBLVd1SzZ6b09NaV9ON2xQZ2ZyX0p6YzlOeGJSNXdXMFJiTGw5WFBVZm1waE1nYjhnU1RfeFdSSndtaGZMMU1sXy1vSTNHcUl1YkRkMzNwN29pc3VFODR1NzQ4aXpTWV9fWHZRTExjR2xtMjFqMHFvdGRfSm1lRHY1VmRURV9qbFV4U2VFejJlZjA0V3VCbWp3?oc=5",
-     "fuente": "Diario del Alto Aragón",
-     "resumen": "",
-     "fecha": "2026-11-11T11:02:32+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
+     "fuente": "Cadena SER",
+     "resumen": "",
+     "fecha": "2026-11-11T16:14:57+01:00",
+     "fecha_txt": "11 nov"
+    },
     {
      "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
      "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
@@ -278,14 +286,6 @@
      "fuente": "El Español",
      "resumen": "",
      "fecha": "2026-11-08T16:30:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Red Eléctrica refuerza el escudo para evitar apagones y amplía las horas en las que podrán parar ArcelorMittal o Azsa",
-     "url": "https://www.lne.es/asturias/2026/11/08/red-electrica-amplia-horas-podran-136220505.html",
-     "fuente": "La Nueva España",
-     "resumen": "El operador lanza una subasta para industrias dispuestas a desconectarse de la red en caso de emergencia en la que aumenta el suministro de luz interrumpible ...",
-     "fecha": "2026-11-08T06:01:00+01:00",
      "fecha_txt": "8 nov"
     }
    ]
