@@ -34,7 +34,7 @@ DATOS = ("kits.json", "propuestas-fichas", "buscador-log", "precios.json",
 GENERADO = ("data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json",
             "data/precios.json", "data/precios-historico.json",
             "index.html", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
-            "kit", "blog", "fuentes", "zona")
+            "kit", "blog", "fuentes", "zona", "noticias")  # noticias/: prerender la reescribe
 
 
 def run(*args, timeout=900):
