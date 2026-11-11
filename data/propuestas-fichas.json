@@ -2187,8 +2187,8 @@
     "busqueda": "set de 10 luminarias led solares de jardín",
     "rango_esperado": "100-200 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-starlink|Cable extensor para Starlink (30 m / 60 m)": {
     "kit": "kit-starlink",
