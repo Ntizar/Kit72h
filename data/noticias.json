@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T04:10:02+01:00",
+  "actualizado": "2026-11-11T07:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Los vietnamitas que viven en Europa revelan que una mochila de supervivencia para 72 horas cuesta 13 millones de VND.",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpHYmtRN3FycVpQakZ2ZHhINU9Gd2FuT1ljX2dzVl9FaE02cl9DSmk4Y0plckpVaHE0YkJFSGYxTGdBenNrY2xZMG83ZmlsMGM3akV1dm5YVnRhZG9DSExqTGVkd0l4azZkQk12VE5NU2lxMDM5RlJld084RV93UWF6by1VdWdIWnVvMXhPeWtDQm5RbUJF?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-11T06:46:11+01:00",
+     "fecha_txt": "11 nov"
+    },
     {
      "titulo": "Action rebaja a 7,95 euros el dispositivo que no puede faltar en tu kit de emergencia: una radio 4 en 1 con linterna, panel solar y función power bank",
      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZTNjMG1uXzN3YUVaOWdaV0ZPbGloWWNOOV9VSU50OUptWTZDUUFoWEZtX2duS202QVRiQ2U4SUVhVEk0dEk2cUN1R194dU1kcE5MVjRVSTV3ZXk2Tk92a1hsNlo4SXhxWmtaVTQ4enhCdEZ3enVrZHRIRlZodnpWd2pMX3hhVk5BdVRDN1E2bjJPT0VGOXhBZldQazFpU1RtYUJYazVzWWg3eWZROEd6V2dnRE5TTWpCUDNwNVZBQjdXblRFaE5PWGNXYzA1OUNNWFBvVHMzUjQ2YmtZd2kxQlFDY0RNd1VhSVF6UDVKNko4NTZRWk5qRjRrQldLamNzdjdFMk5vZlM2OUNwOVhJY2dn?oc=5",
@@ -54,7 +62,7 @@
     {
      "titulo": "K72, la app que ayuda a preparar el kit de emergencia de la UE",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVFGZTkzYXRrSm9RUEhZc0pGSk4zUVFTeHBEQ2Mta0trd1I3Q1lWMm54VGJrNUtXUzJmdlU1V05PUVZ4cHZvVHo0MllGbUl0RnYyM1hHYWpPcWRlYU4yQXRvZnNxZHZkMTI5ME5UcUhJaXlWLTgtaGlmV1l3eWFIZ1BPa01jNEhWWXNxeXRYd2NWUTVneGtGUklMTGlSeEtNa1ZnMWIycXMxbjVvZ0plSXlmVQ?oc=5",
-     "fuente": "Euronews",
+     "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-10T08:07:09+01:00",
      "fecha_txt": "10 nov"
@@ -66,14 +74,6 @@
      "resumen": "Estar preparados ante lo inesperado ya no es cosa de unos pocos previsores, sino una recomendación oficial de las instituciones de la Unión Europea. Vivimos en una ...",
      "fecha": "2026-11-10T03:01:00+01:00",
      "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "La app K72 ayuda a los portugueses a preparar un kit de emergencia de 72 horas",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-app-k72-ayuda-a-los-portugueses-a-preparar-un-kit-de-emergencia-de-72-horas/ar-AA2h76c1",
-     "fuente": "Euronews on MSN",
-     "resumen": "La aplicación fue creada en Montijo, por Carlos Batista, en coordinación con la protección civil de este municipio, pero está destinada a todos los portugueses y les ayuda a preparar un \"kit\" para las ...",
-     "fecha": "2026-11-10T00:28:46+01:00",
-     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -83,12 +83,12 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "La renaturalización también ayuda a prevenir grandes incendios forestales",
-     "url": "https://www.msn.com/es-es/noticias/other/la-renaturalizaci%C3%B3n-tambi%C3%A9n-ayuda-a-prevenir-grandes-incendios-forestales/ar-AA2h9s4f",
-     "fuente": "The Conversation on MSN",
-     "resumen": "Una vez más, los incendios forestales han ocupado la actualidad del verano en España. Los incendios catastróficos han dejado de ser casos aislados. Lo demuestran los incendios de León, Zamora, Orense ...",
-     "fecha": "2026-11-10T09:44:08+01:00",
-     "fecha_txt": "10 nov"
+     "titulo": "Incendios forestales en Galicia: la Xunta amplía el peligro alto",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzlYNEdtZWNiTERkRjdRZUlXZUp6Mk0tdnRtbzZXZjlPYk9sR2hENXZOQV9TNS1ISy1aTkozcjFlSm9MQWhEN1RiSHVQM0laLWR2a2ZwR1I0MDQwS2NxbnlBRXpuR0tfTEZHN3A2T3pKcUhPSVRGMWNqSjdTUU9jSTE0ekVyT1dKNW5PbnlqLTdIeGxyN2lEcnd3TnI5bm84cllEMW9xS29FdlA0dUZaZHFaclRGMWV0OC1aUW1zbnhOTnZkeGtRMWxrM2FRU1FZOTZRalFkSQ?oc=5",
+     "fuente": "Meteorologia en red",
+     "resumen": "",
+     "fecha": "2026-11-11T04:39:22+01:00",
+     "fecha_txt": "11 nov"
     },
     {
      "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-11T05:00:22+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Riesgo de desbordamiento de una presa en Ávila y cortes viarios en Cáceres por las lluvias",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVZ2NzhaX0hDSHpudk91WF9ERHVoVHRzZnFxVHNGVDNXSVYzb1BOZWtWdnc3LWFqOWllRGpqbTdtNEduaGh1eVYyUlZoRFJVdzRwQ2dFMFFRNWs1aWxNT3FEeDNNTmp4bmhhTjBrc1VsZHJ6UXF5azNzcm04bWgxcFlKZElwMDlxSzVMQzRXOXc5dEIyRl83LUQ4cGQ2SWgybXphTE9OTkh1dS1jdlA2WnByanNhNk9jZzA1UlJuLXZhQ2Y1YWU2bUNkbmFHdVg4bk10R2R2V0ZiUdIB9AFBVV95cUxQM3h2SDBEMS1pLXZubWlnbXhwZTh0bzNSVnFxaDUwV3gxcUVWTWlrTGt0dVZNLTNkbUM3R2gxYlJieWpKemtKRllHRjdUb1czR0p5T1BWeW1xSHBfV0I1U21yeGRIUURuZmhMRmE5ZDU4WXc4eFJzc1liZEVCTEc1YzlMNGJIOU9ZTG5SMHdzYTQyWjVtTmI2U3JvMk96ZmNHMktMRXdrNkczM1BaR0NOMnBrUDNKSkY5clJYOXM0M0Y0TDBDQU9pWkhLY3pyRy1CWTBNYUVxMDgySGFUODYtMWNpTjdQM1o1ZGl3cl85ZlUtcWhf?oc=5",
      "fuente": "Infobae",
@@ -162,19 +170,19 @@
      "fecha_txt": "10 nov"
     },
     {
+     "titulo": "Las borrascas Charles y Bruna traen lluvias torrenciales y vientos huracanados a numerosos puntos de España",
+     "url": "https://www.rtve.es/noticias/20261111/borrascas-charles-bruna-lluvias-torrenciales-vientos-huracanados-espana/17308367.shtml",
+     "fuente": "RTVE",
+     "resumen": "El sur y el oeste de la península ibérica y Canarias viven este miércoles 11 de noviembre un episodio meteorológico especialmente adverso que durará hasta el jueves 12 de noviembre. La Agencia Estatal ...",
+     "fecha": "2026-11-10T21:00:00+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPamZWSkE2cUNZczdMNGhZU3FoWC1reGd4YmlJU2N2bWRlR0ZCa1gtTnhsVGZZTVJPcVFGX2N4UDlJVUsxSUZLQTMtQXhLMUJtWGNZU2RiZEFuTm0ySWNxSUZSVGFRNGVROG1QWHI4MFJlU25pSTZuOFhaOGtpLUJ3ZnI3VU8yYjVLc1htXzZ6aC1GZ24tUmgyODd0b3JKTlljZDZzWUstOEVIaldKbnlBamhLSFFVeHhsYU9IWE1MWWVHX0d0MzlvaHRlQ2ZFNHhpanNGVnpWMGdUdWRhaWVfVGw3eFdLd1A0UTdocnZSb3RtTWl4Tmxmd2ZQcmV0R3hLellVYzk1NlRTZEk3eGNlVjdDRXVFRDRTaXZIWWRR0gGeAkFVX3lxTE51U21Eb3ZHX0VWaUhhODRCOExwSTFWRVFsOXRuZDR1WmNDandpTnhoX3E5bEJkZmhDcndwSEpaUXdWSWUtSHFiUmRlVlpjYkt6d1dfWHlyRmpwX2Yydzd2eHFoQXBhUnFLWjdsc1FRM2QxZ3dpaFVxTEk1aGpqQXhiMjE5SkhoYWkyYmVFMFVzN0FkWkhhY0g1TXlGRzRadHM0bVU1R25JY292TUxEVHAzeERZd2dpeW1sdGowSmUzZERaMVk1UXc1UDlLdG83aExRU2ZFOU5RSHZqNDJxY1pwZWZZRnJZOVlRWVdhUVlkZWtkRHNjSnhkVDMzQ2lSdUp2ZlRSNm4wcnVPZ25FcDJLdXFTTE10dUNzMENEbkE?oc=5",
      "fuente": "LaSexta",
      "resumen": "",
      "fecha": "2026-11-10T17:55:42+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Extremadura suspende las clases este miércoles por lluvias abundantes y persistentes y fuertes vientos",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWJuMTI1N0Z6NlpVMWlqclo2c2trbjFkTWdNNlJNNHctZ1lVVkdOcElxR0RORUZoc2NDaW50d19GT1BPT1NOSFhpdFJKbWx4WUFlQnhaZU45VVQzamtlbkNsVmxDV0l5RHg4aTgxNEg4clhXLTF0MkVuc0Q2aVh1LXNtSU5hYl9BNFBOV3hBWFlvcTdReFpQLWNpckQxNGt4b3c3eUNiZG13dVdvMGNETmIwWi1YbkhDd2IzdmdROWZ0SWxlQURXWTFUMTk2UkJxVllsX2Z2bDJuRy1T0gHwAUFVX3lxTE03eTJtYm9SSm5sdDhkZmdpeWJocWNQNWlaZVBMOWRYTmRPb0hMbVlEYkhmaDR5Rm8tLUM5WWZLT00wUTRwbTB1bTUzVHpZbXpiNnNBUmZER3NTRTFRZG1mcWVUMnAzems4QUNRX3pqUkhfd3lscnl2TGtNblNlMkxzeXZ0V1lyVzZUTFJzOVRpUmdUT2c4bnhGTnh6OUI4ZHVNZDVBTWhlb2NhbGJOUmJSOEZST016Y0pUX2IyWE9ITnBXVTJIWUZyaXFudHdZUjRqWWN0LUNHUXc3QktPdjN2S3I0ZzJ0aEdsdHhoTlc1Sg?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-10T16:19:22+01:00",
      "fecha_txt": "10 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "Mañana miércoles la Fundación Next2U iniciará el reparto de material donado por empresas para afectados por la inundación | Cadena SER ...",
      "fecha": "2026-11-10T12:10:00+01:00",
      "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmgxb1dMMm56YWdLYmVXWFppNFd4OTFTY1phT183QTN3ZmptWm1PRXBaSnRHb2V6MldONENUVHBBOWowTW15RWhmYUgzTHU2UXdxVlhwTEk1ajJLR3B5aHNEbHpPaGlCaWdpRHdlSWMtU1ZGcDZ2blc2YnJweGZwN0JLVVlsSzZNRkxOOTlSYnlhcVZKZ0I0bGlPWkpIeU8yY29lR18wYjdxa01NdWF2c2ZR0gG3AUFVX3lxTFAtdEN6SmdMaFcxWlE2RXdxYUE0c0dudGJ2dkdrWU56Z1RNektsLTdUbzFWREgzVW05ZkZZcWxGUUxDeVVEX0xjUUNWZFJ3eHBfU1ZnNFpUZVcwQ29NM2tVRWZ3Mm9aWmp4TzdVTTVMZnU3bjBuOWwtaDNmS3dPblhOR19EREd5dVdQQjJBajBUaWdKelFKZXhoN2tNeGNHYlRnb0NyYk9SVTZGTVJubTBQU2dPenpuZw?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T11:59:29+01:00",
-     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
+     "fecha": "2026-11-10T20:45:00+01:00",
+     "fecha_txt": "10 nov"
+    },
     {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIB3wRBVV95cUxPV2tpV0tGbFVLRFFYbmttS3JFdEtRaXY3Zjd1NjZaVWZHZzhhZ1plbEtkWFV6NGRvYms2cWFYRDI2UTNUaVpmOHJmYUh6R0lGUFNpR0pwRzNFbTBmM1M1R1hZZjR5UUhvWXlmTFNiU1QzMF9vQWNua2pEa3VNck9jcEYweVpESEhWSkJxV1lldnE0bXREaU5lcVVoSjFYbHdlVXJmNEtrdGdDanRGZE9GVEdfbTVFV0NaQzNmRzRYaF9fLXo4UTFRUTRtWnBTdWRaSXhUWHcwbnVMaWlSc2s1NS1HeEEzSVZwVlQ2N2ZETWJQc001VjY3SmxuTXNCMnNWQzRaOGlLa181alozOFZoUTJmTjJEYWFnX2dBN3RhY1U1SGE2dHhZREVKOG4yV3JUVWhSSzZ5Qzd6ek1zWHFONFRFcUg5eGxmdVQzZWJtUFRySHotZmxYUTZjVS1nd1RBVFNnc2dZY3N1MnE4bkoteVdSZWhVdVhsTE5fc2FEbk5VeDBsRnpVVnUyVFVpSERjMlhVVHdPb3FUdHFKQXlOYm1obW1FRmdpUzRnYmF3WUNwamVkUzk4dFphQ3cyZ0NBUWlJc3VkVjZKQmIxMUxPT1E2LVhCQTMwaWpUWmw4RHduTzEtQnBSME1MOTZpY1VHTFh6OUdkNTdtRjNGNmRTTHJ5b19OUkU0LTd4TEJIRHZ2REN6ejZyZUNXd09aM0cxdGRDeGE0MWJSYjVqVFFwSGRQd2JkSVNnWTJYX29KcUNWYzB0MmlzMlMzSEI5SkhSYm9pZWRfanhhS0VoSlhN?oc=5",
@@ -278,14 +286,6 @@
      "fuente": "Vozpopuli",
      "resumen": "",
      "fecha": "2026-11-09T04:45:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El \"Apagón Legislativo\" del 29-N: Las reformas judiciales y económicas en España que se han quedado en el aire",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1VCSFpKVzZDMDZUd1lCV0toV0ctR3JLRV9GUEtyc3o4WDhKQ3pJNU9HUGJnMDRTb3dPWVFQN3hxNk11WTFwSW1CWEVpV1EzQzlodFJydGFUQnpSTkg4VXhvZUtRcWYxSkFIYjVwbVhMekl1Y3RRa0VfazZTODN4aW1KS251OFVjdXRzbGpPTTZXNGNzOFB6MHFja1Z2eTk1YkJEOFNlN1o4V2paR1owcXhPcXI0Zw?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-09T03:45:01+01:00",
      "fecha_txt": "9 nov"
     }
    ]
