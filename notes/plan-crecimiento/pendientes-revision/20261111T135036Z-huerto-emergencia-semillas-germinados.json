@@ -1,0 +1,16 @@
+{
+ "slug": "huerto-emergencia-semillas-germinados",
+ "titulo": "PRUEBA de revisión sin _mejora",
+ "resumen": "Entrada de prueba para verificar el apartado automático.",
+ "cuerpo": "<p>Prueba.</p>",
+ "fuente": [
+  {
+   "nombre": "A",
+   "url": "https://example.com/a"
+  },
+  {
+   "nombre": "B",
+   "url": "https://example.com/b"
+  }
+ ]
+}
