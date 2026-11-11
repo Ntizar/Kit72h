@@ -49,3 +49,5 @@
 | 2026-11-08 | asins-pendientes | asins | propuesto | 27 items sin /dp/; buscador nocturno en curso, ~21 clavados |
 | 2026-11-09 | asins-pendientes | asins | propuesto | Todos los revamps del top publicados; buscador nocturno trabaja en los 36 items sin /dp/ |
 | 2026-11-10 | alimentos-emergencia-caducidad-rotacion | revamp | encolado | Revamp 302w->1507w: tabla caducidades, orden consumo, rotación automática, vulnerables, 3 fuentes AESAN+PC+UE |
+| 2026-11-11 | huerto-emergencia-semillas-germinados | revamp | encolado | Revamp 328w->1332w, 3 fuentes oficiales, 5 internos, 4 afiliados, tabla germinados |
+| 2026-11-11 | huerto-emergencia-semillas-germinados | revamp | encolado | Publicador horneará: Playwright + gate + push |
