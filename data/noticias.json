@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T07:10:02+01:00",
+  "actualizado": "2026-11-11T10:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Bruselas insiste en el kit de emergencia de 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0d2Y0Si0xZXAzOWFiZGxKYW0zY2R6UFVVMXJ2bGpmZFd2amZWbUxnOEpVNV80X2M5LUt2alFfOW93UVVSSUN0UVg0SXRhVW9XZXdUSTltYXBqTmZVY3ZiQXoxRldVSzAzR3VYb3JNMDhHdmFVOEUyVzdJZTZ1Q2NiSktDd0VJU1ctaTUwT3hyYkl2dXc?oc=5",
+     "fuente": "Campitur",
+     "resumen": "",
+     "fecha": "2026-11-11T08:23:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Los vietnamitas que viven en Europa revelan que una mochila de supervivencia para 72 horas cuesta 13 millones de VND.",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpHYmtRN3FycVpQakZ2ZHhINU9Gd2FuT1ljX2dzVl9FaE02cl9DSmk4Y0plckpVaHE0YkJFSGYxTGdBenNrY2xZMG83ZmlsMGM3akV1dm5YVnRhZG9DSExqTGVkd0l4azZkQk12VE5NU2lxMDM5RlJld084RV93UWF6by1VdWdIWnVvMXhPeWtDQm5RbUJF?oc=5",
      "fuente": "Vietnam.vn",
      "resumen": "",
      "fecha": "2026-11-11T06:46:11+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-11T06:30:00+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -57,22 +73,6 @@
      "fuente": "Cadena 100",
      "resumen": "",
      "fecha": "2026-11-10T10:14:46+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "K72, la app que ayuda a preparar el kit de emergencia de la UE",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVFGZTkzYXRrSm9RUEhZc0pGSk4zUVFTeHBEQ2Mta0trd1I3Q1lWMm54VGJrNUtXUzJmdlU1V05PUVZ4cHZvVHo0MllGbUl0RnYyM1hHYWpPcWRlYU4yQXRvZnNxZHZkMTI5ME5UcUhJaXlWLTgtaGlmV1l3eWFIZ1BPa01jNEhWWXNxeXRYd2NWUTVneGtGUklMTGlSeEtNa1ZnMWIycXMxbjVvZ0plSXlmVQ?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-10T08:07:09+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "El kit de supervivencia de 72 horas que recomienda Europa: ¿qué productos básicos debes tener en casa?",
-     "url": "https://www.mundodeportivo.com/elrecomendador/hogar/20261110/1004249048/kit-supervivencia-72-horas-recomienda-europa-productos-basicos-debes-casa-mkt-alie.html",
-     "fuente": "Mundo Deportivo",
-     "resumen": "Estar preparados ante lo inesperado ya no es cosa de unos pocos previsores, sino una recomendación oficial de las instituciones de la Unión Europea. Vivimos en una ...",
-     "fecha": "2026-11-10T03:01:00+01:00",
      "fecha_txt": "10 nov"
     }
    ]
@@ -154,6 +154,46 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Borrascas Bruna y Charles, en directo: lluvias intensas, avisos de la AEMET y última hora del temporal en España",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb00xOWJfYnh1YnFiLXNDM3ZGbm1GaVkwX2tEaDNZQ0o4QWRULUV2MUY5eUNQWWJUSU9lUkJvZGRsdHF6dnF0TkZaRDkyTG9HYWlSVkM1amFac255TWdSZFJVSUxOb2pRZDRSODZOZGliV2Z1WWl3LXRzZnJZaXFLNUEyNjZvaWlyMVpvVGxHYWphMEdabkF1bnVIMGRiWF9RUThiRzduVDVnNHVNa2prVFVNU044a1d1azJwb1N6SW00Sk5DUUxQUm1lLWhHMTRhc2NtYmdzRXQtM3gxZlBKT2tuaFhtLXlBTlJYVFlzZTU?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-11T10:00:41+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Última hora de las borrascas Bruna y Charles, en directo: lluvias intensas, avisos de la AEMET y alertas por el temporal en España",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU1JlYmdISEx6NzQtOXJPaTJjY01EcnFRRUh4WEJSX1pZaTRJbHIwS2NrSDh0Sjk1UWhSdDB3OS13VW80TFpzSmVCbXRPdlVqTlNRUkdXS0YzZTVhT2NEM3RYdWJwcGlPcF9xTkFLZU10a1NVeFluWFJ5QUd6czQ2UGFkVTJXY0tJak13bmE0VnM2bjdicmhRLURzWUVFY3VtQzRscTJZVzNBb0Q0UzVramJnREdURjlNQ2xaa2pxV1MzRmZDSnJpRXBSendBdEMtX1RBX9IB2gFBVV95cUxNTXFyM056RWFMdUI2d3pZcGM4RHE4Vm9UanRXR3lhZnhrbUZsMGVwNGFBdXlOWE1VZUJXQ2FqckdmUW9ycHF4cGlpN2Q1aWo5UnlQRnZ6QmZvUHppQTRoVXJOTU1MNkt3ZE8zQWM0c0c0U2M1a3QyQ1I1N2xuYW1RVmN4UmhmSVFYVTFSVDlYZU4yMl82OVp1cnZQN1dIRktWRXlleXhzVmg2YzFWOUNpSXdrTWszcThYYTZFX1VnLXNfR0tlbFNIb09qN3otckhCemgxenNCTTdpZw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-11T09:03:53+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Las borrascas Charles y Bruna azotan España con lluvias y vientos",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVRiNEE4X1hjbk0tbmtBWUlBcUUtbnVRSEpFUFI0U0lrX3ZyMTNuNERyRlFBYklBMkcwd0kybVdlTlhEWkwwWFUxTlVmSFFyZXNiWWhFd0lIa0tHRHVhUnZQTmVCb2JhcXZUZjRhWE9NVU5IcllCRHRiQUVyTzkzRllZa0ZzY0ly?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-11T08:41:02+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Casi toda España en alerta por lluvias o viento, con La Palma, Cáceres y Ávila en aviso rojo",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpQ25kUlhPOE0tODQ3anJHbkJXTXl3eTlBR0NwWXUyV2pMOUhIQkcwdTFzZ25rN0o1dXEwSF9fTms0aEhjNG44SnE0YTJkRkwzTElZRWM0TWRHbDJfdjRqYXQ1OUJaZjhqSzhnMWNYczVUbHAz?oc=5",
+     "fuente": "EFE - Agencia de noticias",
+     "resumen": "",
+     "fecha": "2026-11-11T08:22:59+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España en plena huelga general: la AEMET activa avisos rojos por lluvias y viento",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3F2dDhtMzdfTXluNUdTR2NGM280UVplNk11QW9ZNEhFd1hneUFocmtZZnR1WnBPVU9SUDZqdExOREhOMGl0VUd3a0xsdHlLMGp1ODdnZWc5LWkxUUYxLW0xbEZKUEJvU3M4RWkzczhtLVk4dEE4UVZYNzkxQzF2QlVjQ05yT19JOUl0RlR3R09XTHNBY3RubGNOODh6UXlqWVIwS01QNWp5ampXVW9GV3VJMEFubHZGM3BfUGQtbHktY3Bsd1Z3UUwtV1liZEt0b3ZPV3FNRTM5cl93Q3hqeDhYWi1sVUk3X0YyVzU3YldMU0x4SFczNENWTTZkRllqU2RRMUFEY9IBmwJBVV95cUxOQ1A3UW4tYUs2VmtCbndzSmhVTE81Nm1kMjRWdFRlTFdlSjNiWVVyeHR1WjMxcHNHVGVGbEJOeVRLclJBSlZnZy1LMHJ5NWdiV1NNVDZTbnpTdEhPOE5XbVJ4d3pyRTYtcThFR2MySHU4OFIwS1BQSlM2TlpXTDRKS09iaXJxR01SS2MtN09XdlNxYkpleFJ3ZDFMVTB2b0x0bFJpQWtxM1JVMWI4blFyWFF3MmhGcjc1UF9IRUtDd0kzcllyUTJJLXBPbjN4b3J1RmEzNVBlUDdGeUkzYnUwMkpDMkNqcGJzYkJ0Z2xKazJ6QXgtNTFyMG56eXRVWHU5Sm8xUndYN2xsSWdMWVhUUVE3Zm01YVdmanJn?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-11T07:52:04+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
      "fuente": "ABC",
@@ -162,60 +202,20 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Riesgo de desbordamiento de una presa en Ávila y cortes viarios en Cáceres por las lluvias",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVZ2NzhaX0hDSHpudk91WF9ERHVoVHRzZnFxVHNGVDNXSVYzb1BOZWtWdnc3LWFqOWllRGpqbTdtNEduaGh1eVYyUlZoRFJVdzRwQ2dFMFFRNWs1aWxNT3FEeDNNTmp4bmhhTjBrc1VsZHJ6UXF5azNzcm04bWgxcFlKZElwMDlxSzVMQzRXOXc5dEIyRl83LUQ4cGQ2SWgybXphTE9OTkh1dS1jdlA2WnByanNhNk9jZzA1UlJuLXZhQ2Y1YWU2bUNkbmFHdVg4bk10R2R2V0ZiUdIB9AFBVV95cUxQM3h2SDBEMS1pLXZubWlnbXhwZTh0bzNSVnFxaDUwV3gxcUVWTWlrTGt0dVZNLTNkbUM3R2gxYlJieWpKemtKRllHRjdUb1czR0p5T1BWeW1xSHBfV0I1U21yeGRIUURuZmhMRmE5ZDU4WXc4eFJzc1liZEVCTEc1YzlMNGJIOU9ZTG5SMHdzYTQyWjVtTmI2U3JvMk96ZmNHMktMRXdrNkczM1BaR0NOMnBrUDNKSkY5clJYOXM0M0Y0TDBDQU9pWkhLY3pyRy1CWTBNYUVxMDgySGFUODYtMWNpTjdQM1o1ZGl3cl85ZlUtcWhf?oc=5",
-     "fuente": "Infobae",
+     "titulo": "40 horas de alerta y 3.000 vecinos desalojados: el sur de Ávila, en vilo por las lluvias y el aguante de la presa de El Horcajo",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVGNXeTM4R0ozT2g5VGF0M1duenJxNnhOMFFReWdDcDlXVGVzVzV2Qkl4RFlwVUREVUplVElBS0QzaXlfWk8zc0E0UEJOWEh3ejI2V25jaTlYZ3duck1MUFFzYkZUZzVIaXM3ODBsWVdiY2otN2ZEcGVQTGJqZVJtMEpxc09XSVlOMnJvM3BQYWI1cU1KQ21oVms4aFl4V3B3dVFXVkt0RjZybXEybzRFWXU1ZEJkZUdvN0tCdQ?oc=5",
+     "fuente": "El Confidencial",
      "resumen": "",
-     "fecha": "2026-11-10T21:17:00+01:00",
-     "fecha_txt": "10 nov"
+     "fecha": "2026-11-11T05:00:00+01:00",
+     "fecha_txt": "11 nov"
     },
     {
      "titulo": "Las borrascas Charles y Bruna traen lluvias torrenciales y vientos huracanados a numerosos puntos de España",
-     "url": "https://www.rtve.es/noticias/20261111/borrascas-charles-bruna-lluvias-torrenciales-vientos-huracanados-espana/17308367.shtml",
-     "fuente": "RTVE",
-     "resumen": "El sur y el oeste de la península ibérica y Canarias viven este miércoles 11 de noviembre un episodio meteorológico especialmente adverso que durará hasta el jueves 12 de noviembre. La Agencia Estatal ...",
-     "fecha": "2026-11-10T21:00:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPamZWSkE2cUNZczdMNGhZU3FoWC1reGd4YmlJU2N2bWRlR0ZCa1gtTnhsVGZZTVJPcVFGX2N4UDlJVUsxSUZLQTMtQXhLMUJtWGNZU2RiZEFuTm0ySWNxSUZSVGFRNGVROG1QWHI4MFJlU25pSTZuOFhaOGtpLUJ3ZnI3VU8yYjVLc1htXzZ6aC1GZ24tUmgyODd0b3JKTlljZDZzWUstOEVIaldKbnlBamhLSFFVeHhsYU9IWE1MWWVHX0d0MzlvaHRlQ2ZFNHhpanNGVnpWMGdUdWRhaWVfVGw3eFdLd1A0UTdocnZSb3RtTWl4Tmxmd2ZQcmV0R3hLellVYzk1NlRTZEk3eGNlVjdDRXVFRDRTaXZIWWRR0gGeAkFVX3lxTE51U21Eb3ZHX0VWaUhhODRCOExwSTFWRVFsOXRuZDR1WmNDandpTnhoX3E5bEJkZmhDcndwSEpaUXdWSWUtSHFiUmRlVlpjYkt6d1dfWHlyRmpwX2Yydzd2eHFoQXBhUnFLWjdsc1FRM2QxZ3dpaFVxTEk1aGpqQXhiMjE5SkhoYWkyYmVFMFVzN0FkWkhhY0g1TXlGRzRadHM0bVU1R25JY292TUxEVHAzeERZd2dpeW1sdGowSmUzZERaMVk1UXc1UDlLdG83aExRU2ZFOU5RSHZqNDJxY1pwZWZZRnJZOVlRWVdhUVlkZWtkRHNjSnhkVDMzQ2lSdUp2ZlRSNm4wcnVPZ25FcDJLdXFTTE10dUNzMENEbkE?oc=5",
-     "fuente": "LaSexta",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSl9IV3dZdWowSWQwa0NVTzZXREhBZGljYlJ5YlpfTUVhNkZsSzRKTzJVY3pnVnNvUHJ2VmVHSzdmMjUwR0dQNDNRb0NyYnlOSFhoSnV2X2VoaWJsQzUzYlhQMU9leEZjN2E5blhpajNWc0ZsMWhoMS1LdnVuaWNiU2E5eTFtSjI2dGtPNjFTaVgtNHdFaEx5X3h4QUpaSERJMU9WQ2xjejdrY0dFd09MY2l5RDI4SVZSLTV2TFZZc0JGQQ?oc=5",
+     "fuente": "RTVE.es",
      "resumen": "",
-     "fecha": "2026-11-10T17:55:42+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Aviso especial de la AEMET para varias comunidades de España: peligro de inundaciones del martes 10 al juev...",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWF9SSDlSd2dyMDkyRS1ib3ktMlNWNmw5RExFZU96bjNpSlF2MnU3SGZXcU9qOWNKTlI4Qy1xaEd4V1NiUlRxLTNiazZsWERNZ2NjTXBaaVRja1JXNm9naUN0UGRIN0EyVzd6YXhqYkMyTl9hV1dKMTFGcDl6cjZGRzJ4SmZ2anowRnVLOWYyU2Y4TXoxcVBpQWVLbmNfbDJqZUJQQ2VIUlA3eERGY2VBUjNwVnBDeEdiM04wUEh4MFJFV19MaGotbXR30gHPAUFVX3lxTFAxa3BITEpxNW45MXVYdDJmZ0lsLU43Y2NGNzFmZFBOQTBjZ3VSUHRTUWVJT1dZcG9qc053eGwtMlhmTzMta04tM0kwVkRQYkoyWkdVdXpmdUEtTkNCSm1sckZqUnloM012VkhhY1pvMW9NRHd5U09YNjNGME1aamZ5ejdDZTFtU2cydEtYbHRkNTBNTmNSNVdlaTVfckVTVlY0SDdHMnNkSExVMEEtc1VmWXVPLS1kcjdfczk1UWRyRzJIUXJGY1NBYmc3QkNkbw?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T15:30:14+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa de Horcajo por las lluvias de la borrasca Bruna",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BSDhPNnRFWkt0N2lDWnBTejNhNUt0SVF4T2hhNDN6OGU3U3R1djRFV1pwSDJHWFc2WTZ2TEFPSkNFUEc1d3lxbUROcXFkcS1BU1hzem5wRjk1enoxeVVUODZsQ1NGTmppZlkwbUN2aDY5OXlXQjZYellB0gF6QVVfeXFMTTQxSnlCNGl5OWVzSVp3NFdvZDVYd2VOYTY5ZGp3UzU4RF9vRTk4ZWVtYXlDbzhnVjNyMjNPNm1sQVBMSGlvOVpuZTE3czI1Rl9KWnMwT2ZDbVdQcmZybTlyNDJVand4ZERJaVhwNHBSUUx2OUFUd0hqZ3c?oc=5",
-     "fuente": "El Mundo",
-     "resumen": "",
-     "fecha": "2026-11-10T14:33:12+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "La Junta Electoral ordena a la Confederación del Júcar suspender unas jornadas sobre inundaciones y retirar una publicación en Instagram",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOeE5wQ0xoM3YyMXFPakh4eUNuT1Ewa0RvamxZYTlwOFEzNVI1ay00YTBiOGJLZDkyY3RZa0RvTk00c0JtUWpkb0wwSG9kNUlpVkZkZURoRjI0WGtQaUU4cm5DSklKcmZoWk1yYmptWjJ0S0M4RzBvZkdnUnk5ZTZjQkpjWHpRQmFPcTZWckNuRHdXLTdDdEdzSnFtVFI1LXRGcFpvelZtVlFfWmljLW5ReEU0Y1RNbXp5SFBXVElWeDBmVTJVdnRhUFU5Zmx6UUlkQjNVTVU4S0ZBQnVpUzVFMVJrUWVuZnhfUEQ2bzM3WVE5LWMwcWoxR1pjQzhGY2xBRHVZRGhEQ0t3eC1FTmFFRnV30gGXAkFVX3lxTE1PWUQ3Q2tZOEc5RU5vRkM0ODlFSXFRcWlTeE1laTRTc0R2Mk53TmFZSzVCQ3N4Z3NQRExxQzB2czZtd3hrck1ZamgtV21Zbm5ydF8xM1ZPdDZaYzFmeG4xejdGRDBZUlhMMzVLUWFYU3pNYjdvOXZ6MExDc3g0R2dlZ21yVDI3cThwdGlzcmpZNHA3Ykk3SEpySjR0cmlVQi1HUXZDSXV0Mjc0cFVIVDdEaEItZUtIVjlPSl9VZ19FOXpiaUxEVUJpb1NHNVIxZ1lWQ0tiNXJuWUpQSmE4VjBoR1NtRG9QSVEtRGgtUXJNdFc4MXpkVTFydEVJeDhqQ3I4dWpJalpCSnZ4NzRaZXVxRlIwMVY0MA?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-10T14:05:25+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Oliva confía en que el nuevo Decreto-ley con ayudas de la DANA Adam sea pronto efectivo",
-     "url": "https://cadenaser.com/comunitat-valenciana/2026/11/10/oliva-confia-en-que-el-nuevo-decreto-ley-con-ayudas-de-la-dana-adam-sea-pronto-efectivo-radio-gandia/",
-     "fuente": "Cadena SER",
-     "resumen": "Mañana miércoles la Fundación Next2U iniciará el reparto de material donado por empresas para afectados por la inundación | Cadena SER ...",
-     "fecha": "2026-11-10T12:10:00+01:00",
-     "fecha_txt": "10 nov"
+     "fecha": "2026-11-11T04:00:00+01:00",
+     "fecha_txt": "11 nov"
     }
    ]
   },
