@@ -150,99 +150,9 @@
     "Renueva el agua cada 6 meses"
   ],
   "intentos": {
-    "kit-mayores|Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia)": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-mayores|Acuerdo de vecindad con llamada/golpe de aviso": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-mascotas|Medicación crónica del animal (30 días)": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-mascotas|Acuerdo con una persona de confianza (con llaves y ficha del animal)": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-mascotas|Lista de residencias y hoteles que admiten animales": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-terremoto|Medicación crónica (7-30 días) con copia de recetas": {
-      "n": 3,
-      "primera": "2026-10-13",
-      "ultima": "2026-10-15"
-    },
-    "kit-incendio|Medicación crónica y lista de tratamientos (personas mayores o dependientes)": {
-      "n": 3,
-      "primera": "2026-10-14",
-      "ultima": "2026-10-18"
-    },
-    "kit-suiza|Medicación crónica: una semana de tu tratamiento": {
-      "n": 3,
-      "primera": "2026-10-26",
-      "ultima": "2026-10-28"
-    },
     "kit-apagon|Encendedores y cerillas largas": {
       "n": 2,
       "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "huerto-autosuficiencia|Medidor de humedad y pH del suelo (3-en-1)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "huerto-autosuficiencia|Compostera doméstica con grifo (20 L)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
-      "n": 3,
-      "primera": "2026-11-09",
-      "ultima": "2026-11-11"
-    },
-    "kit-kit-profesional|Set de 10 luminarias LED solares de jardín": {
-      "n": 3,
-      "primera": "2026-11-10",
       "ultima": "2026-11-11"
     }
   }

@@ -54,12 +54,12 @@ if D_NUEVOS.exists():
         kits["kits"].append(nk)
         cambios.append(f"kit nuevo {nk['id']}")
 
-# --- 3. enlaces de búsqueda para items sin ficha resuelta ---------------------
-# Un item con afiliado=null se beneficia ya de un enlace de búsqueda con el tag
-# de afiliado: dirige a resultados reales de amazon.es y el cron buscador lo
-# sustituirá por la ficha concreta cuando esté verificada.
-TAG = "ntizar-21"
-from urllib.parse import quote_plus
+# --- 3. lo que no tiene ficha real NO se muestra ------------------------------
+# El catálogo visible solo ofrece productos verificados. Un item sin `afiliado`
+# (y que no sea un consejo marcado `sin_enlace`) se aparta a la cola de búsqueda
+# data/pendientes-catalogo.json; el cron buscador lo devuelve a su sección en
+# cuanto encuentre una ficha real con ASIN y precio.
+D_PEND = RAIZ / "data" / "pendientes-catalogo.json"
 import re as _re
 
 def busqueda_de(nombre):
@@ -69,16 +69,38 @@ def busqueda_de(nombre):
     t = _re.sub(r"\s+", " ", t).strip().lower()
     return t[:60]
 
-sin_enlace = 0
+pend_doc = (json.loads(D_PEND.read_text(encoding="utf-8"))
+            if D_PEND.exists() else {"meta": {}, "items": []})
+pend_items = pend_doc.setdefault("items", [])
+claves_pend = {f"{r.get('kit')}|{r.get('producto')}" for r in pend_items}
+apartados = 0
 for kit in kits["kits"]:
     for s in kit.get("secciones", []):
+        quedan = []
         for i in s.get("items", []):
-            if not i.get("afiliado"):
-                q = i.get("busqueda") or busqueda_de(i.get("producto", ""))
-                i["busqueda"] = q
-                i["afiliado"] = f"https://www.amazon.es/s?k={quote_plus(q)}&tag={TAG}"
-                i["es_busqueda"] = True
-                sin_enlace += 1
+            if i.get("afiliado") or i.get("sin_enlace"):
+                quedan.append(i)
+                continue
+            clave = f"{kit['slug']}|{i.get('producto', '')}"
+            if clave not in claves_pend:
+                pend_items.append({
+                    "kit": kit["slug"],
+                    "seccion": s.get("titulo", ""),
+                    "producto": i.get("producto", ""),
+                    "descripcion": i.get("descripcion", ""),
+                    "precio_aprox": i.get("precio_aprox", "—"),
+                    "prioridad": i.get("prioridad", "esencial"),
+                    "busqueda": i.get("busqueda") or busqueda_de(i.get("producto", "")),
+                    "desde": date.today().isoformat(),
+                    "motivo": "sin ficha real verificada",
+                })
+                claves_pend.add(clave)
+            apartados += 1
+        s["items"] = quedan
+if apartados:
+    D_PEND.write_text(json.dumps(pend_doc, ensure_ascii=False, indent=2) + "\n",
+                      encoding="utf-8")
+print(f"sin ficha real (fuera del catálogo visible): {apartados}")
 
 # --- 4. meta -----------------------------------------------------------------
 n_items = sum(len(s["items"]) for k in kits["kits"] for s in k["secciones"])

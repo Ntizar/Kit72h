@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "nota": "Descartados: sin candidato compatible tras 3 noches. Reabrir con --reabrir \"<trozo>\" en el buscador."
+  },
+  "items": [
+    {
+      "kit": "huerto-autosuficiencia",
+      "seccion": "Para empezar a sembrar",
+      "producto": "Medidor de humedad y pH del suelo (3-en-1)",
+      "precio_aprox": "8-15 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "huerto-autosuficiencia",
+      "seccion": "Compostaje y protección",
+      "producto": "Compostera doméstica con grifo (20 L)",
+      "precio_aprox": "25-35 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "huerto-autosuficiencia",
+      "seccion": "Compostaje y protección",
+      "producto": "Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)",
+      "precio_aprox": "10-18 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "huerto-autosuficiencia",
+      "seccion": "Compostaje y protección",
+      "producto": "Kit riego por goteo básico (10-20 plantas)",
+      "precio_aprox": "20-35 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "huerto-autosuficiencia",
+      "seccion": "Compostaje y protección",
+      "producto": "Red antipájaros para huerto (1x3 m, malla fina 2 cm)",
+      "precio_aprox": "5-12 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "kit-bebe",
+      "seccion": "Leche y comida de reserva",
+      "producto": "Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)",
+      "precio_aprox": "10-18 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "kit-bebe",
+      "seccion": "Higiene y pañales",
+      "producto": "Pastillas esterilizadoras en frío para biberones y tetinas",
+      "precio_aprox": "6-12 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "kit-bebe",
+      "seccion": "Abrigo y sueño",
+      "producto": "Cuna de viaje plegable (o capazo rígido de recién nacido)",
+      "precio_aprox": "35-80 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "kit-bebe",
+      "seccion": "Salud y calma",
+      "producto": "Chupetes de reserva (2-3, la talla que usa ahora) y portachupete",
+      "precio_aprox": "5-10 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Iluminación y seguridad perimetral",
+      "producto": "Set de 10 luminarias LED solares de jardín",
+      "precio_aprox": "100-200 €",
+      "intentos": 3,
+      "descartado": "2026-11-11",
+      "motivo": "3 noches sin candidato compatible en Amazon"
+    }
+  ]
+}

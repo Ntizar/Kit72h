@@ -99,12 +99,10 @@ Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la 
 - Cargador de dinamo multiuso: Manivela manual: energía infinita sin sol ni red. (~15-30 €)
 **Cocina sin electricidad**
 - Hornillo de camping a gas con bombonas: Comida caliente sin electricidad. Usa siempre en zona ventilada. (~20-45 €)
-- Encendedores y cerillas largas: Cerillas de tormenta: encienden con viento y humedad. (~5-10 €)
 - Nevera portátil de conservas: Proteína y calorías sin refrigeración. Prioriza legumbres y pescado. (~45-60 €)
 - Acumuladores de frío (bloques de gel congelables) para nevera y congelador: Tenlos congelados desde antes: el día del corte pasan a la nevera, pegados a lo más delicado (carne, pescado, lácteos, embutido), y alargan las horas de frío sin que tengas que abrir la puerta para comprobar nada. Truco gratis equivalente: dos botellas de agua congeladas. Y lo que ya se ha descongelado no se vuelve a congelar: se cocina o se tira. (~10-20 €)
 **Seguridad durante el corte**
 - Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~17-30 €)
-- Extintor de polvo ABC de 1-2 kg con soporte: Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112. (~25-45 €)
 **Dinero y comunicación**
 - Caja fuerte pequeña portátil para efectivo: Guarda el efectivo y documentos críticos en casa. (~20-45 €)
 - Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
@@ -220,7 +218,6 @@ Huerto autosuficiente: 13 herramientas para producir tu comida: semillas, compos
 - Kit de semillas ecologicas (10 variedades de huerto): Tomate, pimiento, berenjena, calabacin y mas, con semillas ecologicas certificadas. El mejor punto de partida. (~21 €)
 - Bandejas de germinacion (pack 5, 112 alveolos): Semillero para arrancar plantas fuertes antes de pasarlas a maceta. Reutilizable, material reciclable. (~12 €)
 - Sustrato universal 80 L (Batlle): Tierra con abono incorporado, sirve para practicamente cualquier hortaliza de maceta. (~24 €)
-- Medidor de humedad y pH del suelo (3-en-1): Un medidor de 12 € te indica cuándo regar y si la tierra es ácida o alcalina. La mayoría de hortalizas prefieren pH 6-7; la lechuga aguanta hasta 7.5. Sin este dato, riegas a ciegas y pierdes el 60% del esfuerzo. (~8-15 €)
 **Equipo y herramientas**
 - Kit de herramientas de jardin (Bellota, 3 piezas): Rastrillo, transplantador y azuela de una marca española de toda la vida. Lo justo y necesario. (~15 €)
 - Regadera 6 L con cabezal desmontable: Cabezal suave para plantulas y chorro directo para plantas adultas. (~10 €)
@@ -228,11 +225,6 @@ Huerto autosuficiente: 13 herramientas para producir tu comida: semillas, compos
 - Mini invernadero de 3 niveles (59x39x127 cm): Alarga la temporada y protege del frio en balcon o terraza. Cabe en cualquier esquina. (~21 €)
 - Manual del huerto urbano y ecologico para principiantes: De cero a huerto completo: como convertir terraza o jardin en comida, paso a paso. (~10 €)
 - Huerto urbano (Larousse): La guia ilustrada de referencia: calendario de siembra, asociaciones de cultivo, plagas. (~17 €)
-**Compostaje y protección**
-- Compostera doméstica con grifo (20 L): Cubeta de 20 L con grifo para abon líquido (té de compost) y tapa que evita olores. Se usa en cocina, terraza o garaje. Los restos de cocina alimentan el huerto sin tener vertedero. La pila de 'barnes' (verde/marrón) se renueva cada semana. (~25-35 €)
-- Malla anti-áfidos invernadero (2 x 8 m, 30 mesh): Red de 0.6 mm que bloquea mosca blanca, trips y pulgones sin químicos. Se fija con clips en marcos de ventana o túnel de plástico. Reduce un 80% las plagas y elimina la necesidad de insecticidas. Durabilidad 3-4 temporadas. (~10-18 €)
-- Kit riego por goteo básico (10-20 plantas): Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas. (~20-35 €)
-- Red antipájaros para huerto (1x3 m, malla fina 2 cm): La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente. (~5-12 €)
 
 ### Kit 30 Días: 16 artículos para un mes sin suministros (2026) — https://kit72h.com/kit/kit-30-dias/
 Kit 30 días: 16 artículos para un mes sin suministros — 180 L de agua para 2, despensa, cocinar y cuidarse sin luz. 300-500 € que se amortizan comiéndolo.
@@ -272,7 +264,6 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Potitos de fruta y verdura (pack 6-8): Comida de verdad sin cocinar, con fecha larga. Si ya come papillas, son tu kit y su cena en un apagón. (~8-14 €)
 - Sacaleches manual: Sin pilas ni electricidad, mantiene la producción y evita ingurgitaciones dolorosas si el bebé no puede mamar bien (suelo, coche, hospital de campaña). (~12-25 €)
 - Bolsas de almacenamiento de leche materna (pack 30-50): Para extraer y guardar con fecha. Sin congelador aguantan unas horas en nevera portátil con paquetes fríos. (~6-10 €)
-- Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12): Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco. (~10-18 €)
 **Higiene y pañales**
 - Pañales de reserva (talla actual, pack 20-25): 6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa. (~6-10 €)
 - Toallitas limpiadoras (pack 3-5): Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana. (~4-8 €)
@@ -280,20 +271,17 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Cambrador portátil plegable: Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas. (~8-14 €)
 - Crema barrera contra rozaduras: Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos. (~4-8 €)
 - Jabón neutro en pastilla + esponja: Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas. (~2-4 €)
-- Pastillas esterilizadoras en frío para biberones y tetinas: Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas. (~6-12 €)
 **Abrigo y sueño**
 - Saco/pijama de una pieza de abrigo (talla actual + una de repuesto): Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo. (~12-22 €)
 - Manta térmica de emergencia infantil (o manta polar pequeña): La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo. (~2-6 €)
 - Gorro y manoplas de bebé: Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro. (~5-10 €)
 - Portabebés ergonómico (bandolera o Mei Tai): Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera. (~25-50 €)
-- Cuna de viaje plegable (o capazo rígido de recién nacido): En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco. (~35-80 €)
 **Salud y calma**
 - Termómetro digital de bebé: El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda. (~6-12 €)
 - Suero de rehidratación oral y jeringuilla dosificadora: Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet. (~6-10 €)
 - Aspirador nasal + suero fisiológico en monodosis: Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general. (~4-8 €)
 - Juguetes pequeños favoritos (2-3, en bolsa estanca): Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé. (~0-10 €)
 - Mantas/empapadores de tela de confianza: Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit. (~8-15 €)
-- Chupetes de reserva (2-3, la talla que usa ahora) y portachupete: El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad. (~5-10 €)
 **Documentos e identificación**
 - Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé: Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~5-10 €)
 - Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
@@ -485,7 +473,6 @@ Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/
 - Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
 - Cable extensor para Starlink (30 m / 60 m): Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3. (~75-150 €)
 **Redundancia: router 4G/5G como respaldo**
-- Router 4G/5G industrial con dual SIM y antenas externas: Dos operadoras distintas (p. ej. Movistar + Orange) con failover automático. WAN/LAN, VPN, PoE, antenas de alta ganancia. Redundancia real frente a un punto único de fallo. (~300-800 €)
 - Antena externa 4G/5G de alta ganancia: 12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router. (~50-150 €)
 **Último recurso: messenger satelital**
 - Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
@@ -513,30 +500,19 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Panel solar 400W monocristalino (×2 unidades): Panel de alta eficiencia (21%+), resistente a granizo y viento. 800 W totales producen ~4 kWh/día en zona de buena insolación. Los monocristalinos (PERC) rinden más en superficie limitada. (~400 € (x2))
 - Inversor híbrido 3000W-5000W: Convierte DC de paneles y baterías en AC 230V. Acepta entrada solar, red y baterías a la vez. Busca MPPT integrado y conmutación automática <5 ms. Marcas de referencia: Victron, Growatt, EcoFlow. (~600-900 €)
 - Regulador de carga MPPT 60A: MPPT (Maximum Power Point Tracking) captura un 15-30% más de energía que PWM, sobre todo en días nublados. 60A soporta hasta ~2,4 kW a 48V. (~120-180 €)
-- Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC): Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones. (~80-120 €)
-**Baterías de litio LFP: almacena tu energía**
-- Batería litio LFP 200Ah (48V) — 9,6 kWh: 9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo. (~800-1.200 €)
-- Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh: Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje). (~800-1.200 €)
-- Caja de fusibles y distribución DC para baterías: Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas. (~60-100 €)
 **SAI (UPS): conmutación instantánea**
 - SAI (UPS) 3000VA-5000VA online doble conversión: Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente. (~500-800 €)
 - SAI 1500VA (900W line-interactive): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
 **Generador: respaldo cuando no hay sol**
-- Generador inverter 2000-3000W (gasolina o gas): Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol. (~800-1.500 €)
 - Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
 **Conservación de alimentos sin red**
-- Nevera/congeladora solar 12V/220V (compresor): Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red. (~300-600 €)
 - Acumuladores de frío congelables (pack de 6): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~25-40 €)
 **Iluminación y seguridad perimetral**
-- Set de 10 luminarias LED solares de jardín: Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización. (~100-200 €)
 - Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~80-120 €)
 **Conectividad: Starlink y redundancia**
-- Terminal Starlink Gen 3 (residencial / móvil): Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo. (~500-1.200 € · 45-60 €/mes)
 - Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)
-- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla. (~400 € · 10-40 €/mes)
 - Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
 **Comunicación local: radio amateur y walkies**
-- Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710): Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito). (~600-1.200 € (radio + antena))
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog

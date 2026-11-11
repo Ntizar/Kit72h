@@ -39,6 +39,10 @@ D_KITS = RAIZ / "data" / "kits.json"
 D_PROP = RAIZ / "data" / "propuestas-fichas.json"
 D_XLSX = RAIZ / "data" / "productos-pendientes.xlsx"
 D_LOG = RAIZ / "data" / "buscador-log.json"
+# Cola de lo que NO se puede ofrecer aún: el catálogo visible (kits.json) solo
+# muestra productos con ficha real verificada. Lo pendiente vive aquí.
+D_PEND = RAIZ / "data" / "pendientes-catalogo.json"
+D_DESCART = RAIZ / "data" / "propuestas-descartadas.json"
 TAG = "ntizar-21"
 
 # Productos que no son de compra online: nunca se buscan
@@ -116,6 +120,29 @@ def n_agotado(clave, intentos, n_max):
     return (intentos.get(clave) or {}).get("n", 0) >= n_max
 
 
+def insertar_en_kit(kits: dict, slug: str, seccion: str, item: dict) -> bool:
+    """Devuelve al catálogo visible un producto ya verificado.
+
+    Busca el kit por slug (`kit-bebe`, `huerto-autosuficiencia`…) y la sección por
+    título; si alguno no existe no inventa nada y devuelve False.
+    """
+    for kit in kits.get("kits", []):
+        if kit.get("slug") != slug:
+            continue
+        for s in kit.get("secciones", []):
+            if s.get("titulo") != seccion:
+                continue
+            if any(x.get("producto") == item.get("producto") for x in s.get("items", [])):
+                return False
+            s.setdefault("items", []).append(item)
+            return True
+        # La sección pudo retirarse por quedarse sin productos reales: se recrea.
+        kit.setdefault("secciones", []).append(
+            {"titulo": seccion, "items": [item], "intro": ""})
+        return True
+    return False
+
+
 def registrar_intento(clave, intentos, hoy):
     """Suma una noche sin candidato y conserva primera y última fecha."""
     v = intentos.get(clave)
@@ -176,6 +203,12 @@ def main() -> int:
         intentos = {}
         log["intentos"] = intentos
 
+    # Lo que no se puede ofrecer aún (sin ficha real) vive fuera del catálogo.
+    pend_doc = (json.loads(D_PEND.read_text(encoding="utf-8"))
+                if D_PEND.exists() else {"meta": {}, "items": []})
+    pend_items = pend_doc.setdefault("items", [])
+    pend_changed = False
+
     pendientes = []
     for kit in kits["kits"]:
         for s in kit["secciones"]:
@@ -198,7 +231,17 @@ def main() -> int:
                     continue
                 if prod in log["resueltos"]:
                     continue
-                pendientes.append((kit, s, i, clave))
+                pendientes.append((kit, s, i, clave, "kits"))
+
+    for rec in list(pend_items):
+        prod = rec.get("producto", "")
+        clave = f"{rec.get('kit', '')}|{prod}"
+        if n_agotado(clave, intentos, args.agotado_n):
+            continue
+        if (propuestas.get(clave) or {}).get("url"):
+            continue
+        pendientes.append(({"slug": rec.get("kit", "")},
+                           {"titulo": rec.get("seccion", "")}, rec, clave, "pend"))
 
     if args.reabrir:
         tocados = [c for c in list(intentos) if args.reabrir.lower() in c.lower()]
@@ -227,7 +270,7 @@ def main() -> int:
           f"agotados: {len(agotados)} (de {len(intentos)} con intentos) | N/A: {len(log['na'])}")
     if args.simular:
         print(f"[simulación] tocaría {len(lote)} de {len(pendientes)} pendientes:")
-        for kit, s, i, clave in lote:
+        for kit, s, i, clave, origen in lote:
             v = intentos.get(clave) or {}
             print(f"  · {i['producto'][:58]:60s} intentos={v.get('n', 0)}")
         print(f"[simulación] {len(agotados)} fuera de rotación (agotado-n={args.agotado_n})")
@@ -248,8 +291,10 @@ def main() -> int:
         _atomico(D_LOG, json.dumps(log, ensure_ascii=False, indent=2))
         if aplicadas:
             _atomico(D_KITS, json.dumps(kits, ensure_ascii=False, indent=2) + "\n")
+        if pend_changed:
+            _atomico(D_PEND, json.dumps(pend_doc, ensure_ascii=False, indent=2) + "\n")
 
-    for kit, s, i, clave in lote:
+    for kit, s, i, clave, origen in lote:
         if args.max_segundos and (time.monotonic() - t0) > args.max_segundos:
             print(f"⏱️  presupuesto de {args.max_segundos}s agotado: {nuevos}/{len(lote)} del lote "
                   f"({aplicadas} aplicadas, guardadas). El resto, la próxima noche.")
@@ -281,10 +326,23 @@ def main() -> int:
             })
             log["resueltos"].append(prod)
             intentos.pop(clave, None)
-            i["afiliado"] = url
-            i["es_busqueda"] = False
-            i["verificado_ficha"] = hoy.isoformat()
-            aplicadas += 1
+            if origen == "kits":
+                i["afiliado"] = url
+                i["es_busqueda"] = False
+                i["verificado_ficha"] = hoy.isoformat()
+                aplicadas += 1
+            elif insertar_en_kit(kits, i.get("kit"), i.get("seccion"), {
+                    "producto": prod,
+                    "afiliado": url,
+                    "descripcion": i.get("descripcion", ""),
+                    "precio_aprox": i.get("precio_aprox", "—"),
+                    "prioridad": i.get("prioridad", "esencial"),
+                    "es_busqueda": False,
+                    "verificado_ficha": hoy.isoformat()}):
+                pend_items.remove(i)
+                pend_changed = True
+                aplicadas += 1
+                print(f"     ↳ vuelve al catálogo: {i.get('kit')} · {i.get('seccion')}")
             print(f"  ✅ {prod[:55]:57s} -> {url}")
         else:
             entry["intentos"] = registrar_intento(clave, intentos, hoy)

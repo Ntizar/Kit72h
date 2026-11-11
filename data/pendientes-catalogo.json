@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "creado": "2026-11-11",
+    "nota": "Cola de productos sin ficha real verificada. El cron buscador los devuelve al catálogo en cuanto encuentra ASIN en stock."
+  },
+  "items": [
+    {
+      "kit": "kit-apagon",
+      "seccion": "Cocina sin electricidad",
+      "producto": "Encendedores y cerillas largas",
+      "descripcion": "Cerillas de tormenta: encienden con viento y humedad.",
+      "precio_aprox": "5-10 €",
+      "prioridad": "esencial",
+      "busqueda": "encendedores y cerillas largas",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-apagon",
+      "seccion": "Seguridad durante el corte",
+      "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
+      "descripcion": "Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112.",
+      "precio_aprox": "25-45 €",
+      "prioridad": "recomendado",
+      "busqueda": "extintor de polvo abc 1 kg con soporte pared",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-starlink",
+      "seccion": "Redundancia: router 4G/5G como respaldo",
+      "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+      "descripcion": "Dos operadoras distintas (p. ej. Movistar + Orange) con failover automático. WAN/LAN, VPN, PoE, antenas de alta ganancia. Redundancia real frente a un punto único de fallo.",
+      "precio_aprox": "300-800 €",
+      "prioridad": "esencial",
+      "busqueda": "router 4g/5g industrial con dual sim y antenas externas",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Energía solar: el sol es tu generador",
+      "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
+      "descripcion": "Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones.",
+      "precio_aprox": "80-120 €",
+      "prioridad": "esencial",
+      "busqueda": "cableado y protección solar",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Baterías de litio LFP: almacena tu energía",
+      "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
+      "descripcion": "9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo.",
+      "precio_aprox": "800-1.200 €",
+      "prioridad": "esencial",
+      "busqueda": "batería litio lfp 200ah — 9,6 kwh",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Baterías de litio LFP: almacena tu energía",
+      "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
+      "descripcion": "Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje).",
+      "precio_aprox": "800-1.200 €",
+      "prioridad": "esencial",
+      "busqueda": "segunda batería lfp 200ah — 19,2 kwh",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Baterías de litio LFP: almacena tu energía",
+      "producto": "Caja de fusibles y distribución DC para baterías",
+      "descripcion": "Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas.",
+      "precio_aprox": "60-100 €",
+      "prioridad": "esencial",
+      "busqueda": "caja de fusibles y distribución dc para baterías",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Generador: respaldo cuando no hay sol",
+      "producto": "Generador inverter 2000-3000W (gasolina o gas)",
+      "descripcion": "Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol.",
+      "precio_aprox": "800-1.500 €",
+      "prioridad": "esencial",
+      "busqueda": "generador inverter 2000-3000w",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Conservación de alimentos sin red",
+      "producto": "Nevera/congeladora solar 12V/220V (compresor)",
+      "descripcion": "Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red.",
+      "precio_aprox": "300-600 €",
+      "prioridad": "esencial",
+      "busqueda": "nevera/congeladora solar 12v/220v",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Conectividad: Starlink y redundancia",
+      "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
+      "descripcion": "Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo.",
+      "precio_aprox": "500-1.200 € · 45-60 €/mes",
+      "prioridad": "esencial",
+      "busqueda": "terminal starlink gen 3",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Conectividad: Starlink y redundancia",
+      "producto": "Messenger satelital (Garmin inReach Mini 3)",
+      "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla.",
+      "precio_aprox": "400 € · 10-40 €/mes",
+      "prioridad": "esencial",
+      "busqueda": "messenger satelital",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    },
+    {
+      "kit": "kit-kit-profesional",
+      "seccion": "Comunicación local: radio amateur y walkies",
+      "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
+      "descripcion": "Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito).",
+      "precio_aprox": "600-1.200 € (radio + antena)",
+      "prioridad": "esencial",
+      "busqueda": "radio amateur hf/vhf",
+      "desde": "2026-11-11",
+      "motivo": "sin ficha real verificada"
+    }
+  ]
+}

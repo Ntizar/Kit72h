@@ -953,14 +953,6 @@
               "verificado_ficha": "2026-11-11"
             },
             {
-              "producto": "Encendedores y cerillas largas",
-              "afiliado": "https://www.amazon.es/s?k=cerillas%20largas%2017%20cm%20seguridad&tag=ntizar-21",
-              "descripcion": "Cerillas de tormenta: encienden con viento y humedad.",
-              "precio_aprox": "5-10 €",
-              "prioridad": "esencial",
-              "es_busqueda": true
-            },
-            {
               "producto": "Nevera portátil de conservas",
               "afiliado": "https://www.amazon.es/dp/B0DM2728ZS?tag=ntizar-21",
               "descripcion": "Proteína y calorías sin refrigeración. Prioriza legumbres y pescado.",
@@ -991,15 +983,6 @@
               "precio_aprox": "17-30 €",
               "prioridad": "esencial",
               "busqueda": "detector de monoxido de carbono co a pilas con alarma"
-            },
-            {
-              "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
-              "afiliado": "https://www.amazon.es/s?k=extintor+de+polvo+abc+1+kg+con+soporte+pared&tag=ntizar-21",
-              "descripcion": "Velas sobre la mesa, hornillo en el suelo y regletas sobrecargadas: cuando se cocina con llama de forma improvisada, el fuego es cuestión de minutos. Uno pequeño en la cocina y, si tienes garaje o cuadro eléctrico en el recibidor, otro al lado. Revisa el manómetro (aguja en verde), gíralo de vez en cuando para que el polvo no se apelmace y ponlo donde lo alcances sin escalar. Un extintor de 2 kg se vacía en unos 10-15 segundos: úsalo solo si el fuego es todavía pequeño y tienes la salida a tu espalda; si no, sal y llama al 112.",
-              "precio_aprox": "25-45 €",
-              "prioridad": "recomendado",
-              "busqueda": "extintor de polvo abc 1 kg con soporte pared",
-              "es_busqueda": true
             }
           ]
         },
@@ -1343,12 +1326,13 @@
             },
             {
               "producto": "Paracetamol e ibuprofeno (caducidad larga)",
-              "afiliado": "https://www.amazon.es/s?k=paracetamol+e+ibuprofeno&tag=ntizar-21",
               "descripcion": "Analgésicos y antitérmicos básicos. Revisa caducidad anual.",
               "precio_aprox": "5-10 €",
               "prioridad": "esencial",
               "sin_enlace": true,
-              "busqueda": "paracetamol e ibuprofeno"
+              "busqueda": "paracetamol e ibuprofeno",
+              "es_busqueda": false,
+              "donde": "en farmacia"
             },
             {
               "producto": "Mascarillas FFP2",
@@ -1861,12 +1845,13 @@
             },
             {
               "producto": "Efectivo en billetes pequeños",
-              "afiliado": "https://www.amazon.es/s?k=efectivo+en+billetes+peque%C3%B1os&tag=ntizar-21",
               "descripcion": "En evacuación los cajeros no funcionan. Billetes de 10-20 €.",
               "precio_aprox": "—",
               "prioridad": "esencial",
               "sin_enlace": true,
-              "busqueda": "efectivo en billetes pequeños"
+              "busqueda": "efectivo en billetes pequeños",
+              "es_busqueda": false,
+              "donde": "en el cajero / efectivo en mano"
             },
             {
               "producto": "Radio FM/AM a pilas o dinamo",
@@ -1980,15 +1965,6 @@
               "descripcion": "Tierra con abono incorporado, sirve para practicamente cualquier hortaliza de maceta.",
               "precio_aprox": "24 €",
               "prioridad": "esencial"
-            },
-            {
-              "producto": "Medidor de humedad y pH del suelo (3-en-1)",
-              "busqueda": "https://www.amazon.es/s?k=medidor+humedad+ph+suelo&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Un medidor de 12 € te indica cuándo regar y si la tierra es ácida o alcalina. La mayoría de hortalizas prefieren pH 6-7; la lechuga aguanta hasta 7.5. Sin este dato, riegas a ciegas y pierdes el 60% del esfuerzo.",
-              "precio_aprox": "8-15 €",
-              "prioridad": "esencial",
-              "afiliado": "https://www.amazon.es/s?k=medidor%20humedad%20ph%20suelo%203%20en%201&tag=ntizar-21"
             }
           ],
           "intro": "Semillas, bandejas, sustrato y medidor. Con menos de 60 € tienes medio año de ensaladas, germinados y tomates cherry bien regados."
@@ -2039,48 +2015,6 @@
             }
           ],
           "intro": "Mini invernadero y lectura cuando ya has matado tu primer tomate y quieres entender por qué. Con compost y riego, el huerto pasa de hobby a producción real."
-        },
-        {
-          "titulo": "Compostaje y protección",
-          "items": [
-            {
-              "producto": "Compostera doméstica con grifo (20 L)",
-              "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Cubeta de 20 L con grifo para abon líquido (té de compost) y tapa que evita olores. Se usa en cocina, terraza o garaje. Los restos de cocina alimentan el huerto sin tener vertedero. La pila de 'barnes' (verde/marrón) se renueva cada semana.",
-              "precio_aprox": "25-35 €",
-              "prioridad": "esencial",
-              "afiliado": "https://www.amazon.es/s?k=compostera%20domestica%20exterior%20grifo%20lixiviado&tag=ntizar-21"
-            },
-            {
-              "producto": "Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)",
-              "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Red de 0.6 mm que bloquea mosca blanca, trips y pulgones sin químicos. Se fija con clips en marcos de ventana o túnel de plástico. Reduce un 80% las plagas y elimina la necesidad de insecticidas. Durabilidad 3-4 temporadas.",
-              "precio_aprox": "10-18 €",
-              "prioridad": "esencial",
-              "afiliado": "https://www.amazon.es/s?k=malla%20anti%20afidos%20insectos%20invernadero&tag=ntizar-21"
-            },
-            {
-              "producto": "Kit riego por goteo básico (10-20 plantas)",
-              "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Tubo perforado con goteros preinstalados + conexión a grifo. Rega 20 plantas sin que nadie esté. Ahorra un 50% de agua vs riego manual y es la diferencia entre un huerto vivo y uno muerto cuando viajas. Se monta en 20 minutos sin herramientas.",
-              "precio_aprox": "20-35 €",
-              "prioridad": "recomendado",
-              "afiliado": "https://www.amazon.es/s?k=kit%20riego%20goteo%20exterior%2020%20plantas&tag=ntizar-21"
-            },
-            {
-              "producto": "Red antipájaros para huerto (1x3 m, malla fina 2 cm)",
-              "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "La malla anti-áfidos bloquea mosca blanca y pulgones, pero las palomas se comen las coles y las fresas de un bocado. Una red de 1x3 m cuesta 5-8 € y protege sin ahuyentar polinizadores. Se sujeta con clips o cuerda a los marcos de la malla existente.",
-              "precio_aprox": "5-12 €",
-              "prioridad": "recomendado",
-              "afiliado": "https://www.amazon.es/s?k=red%20antipajaros%20huerto%20protector%20cultivos&tag=ntizar-21"
-            }
-          ],
-          "intro": "Compostar convierte residuos en oro negro. La malla anti-áfidos evita que los insectos destruyan el huerto, la red antipájaros protege del suelo, y el riego por goteo lo salva cuando no estás."
         }
       ],
       "paraQuien": "Para quien quiere el paso siguiente: dejar de depender del carrito de la compra y entender de dónde viene lo que come. Empezar por un balcón con germinados es realista, barato y engancha. También es tu seguro alimentario: unos kilos de semillas bien guardados dan comida un año.",
@@ -2444,15 +2378,6 @@
               "busqueda": "bolsas de almacenamiento de leche materna",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-07"
-            },
-            {
-              "producto": "Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)",
-              "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Viene esterilizada por el fabricante: no hay que hervir agua ni medir polvo, ni con el grifo cortado. AESAN la recomienda como primera opción para bebés vulnerables (menos de 28 días, prematuros, bajo peso o inmunodeprimidos) justo por eso. Caducidad larga: rótala cada 6 meses y siempre en sitio fresco.",
-              "precio_aprox": "10-18 €",
-              "prioridad": "recomendado",
-              "afiliado": "https://www.amazon.es/s?k=leche%20nutramigen%20aminoacidos%20pack&tag=ntizar-21"
             }
           ]
         },
@@ -2519,15 +2444,6 @@
               "busqueda": "jabón neutro en pastilla + esponja",
               "es_busqueda": false,
               "verificado_ficha": "2026-09-15"
-            },
-            {
-              "producto": "Pastillas esterilizadoras en frío para biberones y tetinas",
-              "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Para cuando no puedes hervir cinco minutos: agua fría + pastilla, el tiempo que marque el envase, y aclarado con agua potable antes de usar. Vale para biberones, tetinas, chupetes y vasos. Caducan: rótalas.",
-              "precio_aprox": "6-12 €",
-              "prioridad": "recomendado",
-              "afiliado": "https://www.amazon.es/s?k=pastillas%20esterilizar%20biberon%20agua%20fria%20milton&tag=ntizar-21"
             }
           ]
         },
@@ -2575,15 +2491,6 @@
               "es_busqueda": false,
               "verificado_ficha": "2026-09-05",
               "sustituye_a": "B0G3PXJRXB"
-            },
-            {
-              "producto": "Cuna de viaje plegable (o capazo rígido de recién nacido)",
-              "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "En un pabellón, en un coche o en casa de un familiar el bebé no puede dormir en el suelo ni en una cama de adultos: superficie firme y plana, sin almohada ni mantas sueltas. Una cuna de viaje se monta en medio minuto y plegada cabe en cualquier hueco.",
-              "precio_aprox": "35-80 €",
-              "prioridad": "extra",
-              "afiliado": "https://www.amazon.es/s?k=cuna%20de%20viaje%20plegable%20bebe&tag=ntizar-21"
             }
           ]
         },
@@ -2642,15 +2549,6 @@
               "es_busqueda": false,
               "verificado_ficha": "2026-09-05",
               "sustituye_a": "B0GSZS62HD"
-            },
-            {
-              "producto": "Chupetes de reserva (2-3, la talla que usa ahora) y portachupete",
-              "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "El chupete se pierde siempre y es lo que calma a un bebé en un sitio desconocido con luces raras. Dos de reserva, ya hervidos y guardados en bolsa aparte. Nunca atado con cordón al cuello: pinza corta con cierre de seguridad.",
-              "precio_aprox": "5-10 €",
-              "prioridad": "extra",
-              "afiliado": "https://www.amazon.es/s?k=chupetes%20silicona%20talla%202%20pack%20%2B%20portachupetes&tag=ntizar-21"
             }
           ]
         },
@@ -4338,14 +4236,6 @@
           "intro": "Conectividad celular como respaldo de Starlink: útil cuando el satélite no es viable (bosques densos, clima extremo) o como segundo plan.",
           "items": [
             {
-              "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
-              "afiliado": "https://www.amazon.es/s?k=router+5g+industrial+dual+sim+antena+externa&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "Dos operadoras distintas (p. ej. Movistar + Orange) con failover automático. WAN/LAN, VPN, PoE, antenas de alta ganancia. Redundancia real frente a un punto único de fallo.",
-              "precio_aprox": "300-800 €"
-            },
-            {
               "producto": "Antena externa 4G/5G de alta ganancia",
               "afiliado": "https://www.amazon.es/dp/B0H864HPJ7?tag=ntizar-21",
               "es_busqueda": false,
@@ -4612,46 +4502,6 @@
               "descripcion": "MPPT (Maximum Power Point Tracking) captura un 15-30% más de energía que PWM, sobre todo en días nublados. 60A soporta hasta ~2,4 kW a 48V.",
               "precio_aprox": "120-180 €",
               "verificado_ficha": "2026-10-16"
-            },
-            {
-              "producto": "Cableado y protección solar (cables UV, MC4, fusibles, interruptores DC)",
-              "afiliado": "https://www.amazon.es/s?k=cable%20solar%206mm2%20conectores%20mc4&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Cables solares UV, conectores MC4 (IP67), fusibles DC y breakers. Un kit bien cableado es un kit seguro: no escatimes en calibre ni protecciones.",
-              "precio_aprox": "80-120 €",
-              "verificado_ficha": "2026-10-16"
-            }
-          ]
-        },
-        {
-          "titulo": "Baterías de litio LFP: almacena tu energía",
-          "intro": "Litio LFP (LiFePO4): mayor vida útil que plomo-ácido, 3.000-6.000 ciclos, sin efecto memoria. La base de cualquier instalación solar doméstica.",
-          "items": [
-            {
-              "producto": "Batería litio LFP 200Ah (48V) — 9,6 kWh",
-              "afiliado": "https://www.amazon.es/s?k=bateria%20lifepo4%2048v%20200ah%20solar&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "9,6 kWh reales, 3.000-6.000 ciclos al 80% DOD, BMS integrado (sobrecarga, sobredescarga, cortocircuito). Equivalente a un Powerwall doméstico pero más asequible y escalable en paralelo.",
-              "precio_aprox": "800-1.200 €",
-              "verificado_ficha": "2026-10-16"
-            },
-            {
-              "producto": "Segunda batería LFP 200Ah (sistema paralelo) — 19,2 kWh",
-              "afiliado": "https://www.amazon.es/s?k=bateria%20lifepo4%2048v%20200ah%20solar&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Duplica la capacidad a 19,2 kWh para autonomía de varios días sin red. Se conecta en paralelo con la primera (mismo voltaje).",
-              "precio_aprox": "800-1.200 €",
-              "verificado_ficha": "2026-10-16"
-            },
-            {
-              "producto": "Caja de fusibles y distribución DC para baterías",
-              "afiliado": "https://www.amazon.es/s?k=caja%20combinadora%20solar%20dc%20fusible%20mc4&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "Protección individual y gestión de baterías: fusibles, interruptores DC, disyuntor. Imprescindible ante cortocircuitos y sobrecargas.",
-              "precio_aprox": "60-100 €",
-              "verificado_ficha": "2026-10-16"
             }
           ]
         },
@@ -4683,15 +4533,6 @@
           "intro": "Respaldo cuando no hay sol. Generadores inverter: corriente limpia, más silenciosos y eficientes que los tradicionales.",
           "items": [
             {
-              "producto": "Generador inverter 2000-3000W (gasolina o gas)",
-              "afiliado": "https://www.amazon.es/s?k=generador%20inverter%202000w%20gasolina%20insonorizado&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "Corriente limpia y estable para electrónica. 50-60 dB, 15-20 h de autonomía con depósito lleno. Complementa la solar y carga baterías en rachas sin sol.",
-              "precio_aprox": "800-1.500 €",
-              "verificado_ficha": "2026-10-16"
-            },
-            {
               "producto": "Depósito ampliado o conexión a gas natural",
               "afiliado": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21",
               "es_busqueda": false,
@@ -4705,15 +4546,6 @@
           "titulo": "Conservación de alimentos sin red",
           "intro": "Sin electricidad, la nevera convencional es un armario cálido. Una nevera solar mantiene los alimentos frescos sin depender de la red.",
           "items": [
-            {
-              "producto": "Nevera/congeladora solar 12V/220V (compresor)",
-              "afiliado": "https://www.amazon.es/s?k=nevera%20compresor%20portatil%2012v%20220v%2050%20l&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "Compresor (no termoeléctrica) a 12V DC de baterías o 220V AC de red. 50-80 L: mantiene congelados y medicinas refrigeradas durante días sin red.",
-              "precio_aprox": "300-600 €",
-              "verificado_ficha": "2026-10-17"
-            },
             {
               "producto": "Acumuladores de frío congelables (pack de 6)",
               "afiliado": "https://www.amazon.es/dp/B0GX114ZX1?tag=ntizar-21",
@@ -4729,13 +4561,6 @@
           "intro": "Iluminación LED de alta potencia con batería solar y vigilancia autónoma sin red fija.",
           "items": [
             {
-              "producto": "Set de 10 luminarias LED solares de jardín",
-              "afiliado": "https://www.amazon.es/s?k=luminarias%20solares%20jardin%20con%20sensor%20pack&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Iluminación perimetral sin cables: carga de día, ilumina toda la noche. Sensores de movimiento opcionales. Seguridad, acceso y señalización.",
-              "precio_aprox": "100-200 €"
-            },
-            {
               "producto": "Cámara de seguridad solar 4G con batería",
               "afiliado": "https://www.amazon.es/dp/B0H8P2WXHV?tag=ntizar-21",
               "es_busqueda": false,
@@ -4750,14 +4575,6 @@
           "intro": "Sin internet, la autonomía no sirve de mucho. Starlink: internet satelital desde cualquier punto con visibilidad del cielo. 50-200 Mbps reales.",
           "items": [
             {
-              "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
-              "afiliado": "https://www.amazon.es/s?k=starlink+terminal+portatil+gen+3&tag=ntizar-21",
-              "es_busqueda": true,
-              "prioridad": "esencial",
-              "descripcion": "Internet satelital cuando cae todo: móviles, fibra, LTE. 50-200 Mbps reales. Gen 3: menos consumo (75-150W), mejor en condiciones adversas. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware es un ladrillo.",
-              "precio_aprox": "500-1.200 € · 45-60 €/mes"
-            },
-            {
               "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
               "afiliado": "https://www.amazon.es/dp/B0HDSSWZDX?tag=ntizar-21",
               "es_busqueda": false,
@@ -4766,13 +4583,6 @@
               "precio_aprox": "300-800 €",
               "verificado_ficha": "2026-10-11",
               "sustituye_a": "B0B711GG7N"
-            },
-            {
-              "producto": "Messenger satelital (Garmin inReach Mini 3)",
-              "afiliado": "https://www.amazon.es/s?k=garmin+inreach+mini+3&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla.",
-              "precio_aprox": "400 € · 10-40 €/mes"
             },
             {
               "producto": "Extensor WiFi de largo alcance + antena direccional",
@@ -4788,14 +4598,6 @@
           "titulo": "Comunicación local: radio amateur y walkies",
           "intro": "Redundancia de comunicación: radio amateur para cobertura regional y walkies PMR446 para coordinación intra-familiar.",
           "items": [
-            {
-              "producto": "Radio amateur HF/VHF (Icom IC-7100 o Yaesu FT-710)",
-              "afiliado": "https://www.amazon.es/s?k=icom%20ic-7100%20radioamador%20hf%20transceptor&tag=ntizar-21",
-              "es_busqueda": true,
-              "descripcion": "Comunicación sin infraestructura: cobertura regional sin operadores comerciales. Útil en redes de emergencia y cooperación con Protección Civil. Requiere título CETIC (examen gratuito).",
-              "precio_aprox": "600-1.200 € (radio + antena)",
-              "verificado_ficha": "2026-10-04"
-            },
             {
               "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
               "afiliado": "https://www.amazon.es/dp/B077XTVFHQ?tag=ntizar-21",
