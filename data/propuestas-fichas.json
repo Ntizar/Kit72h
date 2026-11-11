@@ -870,8 +870,8 @@
     "busqueda": "https://www.amazon.es/s?k=compostera+domestica+20l+grifo&tag=ntizar-21",
     "rango_esperado": "25-35 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "huerto-autosuficiencia|Malla anti-áfidos invernadero (2 x 8 m, 30 mesh)": {
     "kit": "huerto-autosuficiencia",
@@ -879,8 +879,8 @@
     "busqueda": "https://www.amazon.es/s?k=malla+anti+afidos+invernadero+2x8&tag=ntizar-21",
     "rango_esperado": "10-18 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "huerto-autosuficiencia|Kit riego por goteo básico (10-20 plantas)": {
     "kit": "huerto-autosuficiencia",
@@ -888,8 +888,8 @@
     "busqueda": "https://www.amazon.es/s?k=riego+goteo+jardin+kit+plantas&tag=ntizar-21",
     "rango_esperado": "20-35 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "huerto-autosuficiencia|Red antipájaros para huerto (1x3 m, malla fina 2 cm)": {
     "kit": "huerto-autosuficiencia",
@@ -897,8 +897,8 @@
     "busqueda": "https://www.amazon.es/s?k=red+antipajaros+huerto+1x3&tag=ntizar-21",
     "rango_esperado": "5-12 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Fórmula líquida lista para consumir (envases de 200 ml, pack de 6-12)": {
     "kit": "kit-bebe",
@@ -906,8 +906,8 @@
     "busqueda": "https://www.amazon.es/s?k=formula+lactante+liquida+lista+para+consumir+200+ml&tag=ntizar-21",
     "rango_esperado": "10-18 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Pastillas esterilizadoras en frío para biberones y tetinas": {
     "kit": "kit-bebe",
@@ -915,8 +915,8 @@
     "busqueda": "https://www.amazon.es/s?k=pastillas+esterilizadoras+biberones+agua+fria&tag=ntizar-21",
     "rango_esperado": "6-12 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Cuna de viaje plegable (o capazo rígido de recién nacido)": {
     "kit": "kit-bebe",
@@ -924,8 +924,8 @@
     "busqueda": "https://www.amazon.es/s?k=cuna+de+viaje+plegable+bebe&tag=ntizar-21",
     "rango_esperado": "35-80 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-bebe|Chupetes de reserva (2-3, la talla que usa ahora) y portachupete": {
     "kit": "kit-bebe",
@@ -933,8 +933,8 @@
     "busqueda": "https://www.amazon.es/s?k=chupete+bebe+talla+por+edad&tag=ntizar-21",
     "rango_esperado": "5-10 €",
     "fecha": "2026-11-11",
-    "intentos": 2,
-    "estado": "sin candidato compatible (intento 2)"
+    "intentos": 3,
+    "estado": "agotado (3 noches sin candidato)"
   },
   "kit-mayores|Empapadores y pañales de incontinencia (pack para 3-5 días)": {
     "kit": "kit-mayores",
@@ -2186,9 +2186,9 @@
     "seccion": "Iluminación y seguridad perimetral",
     "busqueda": "set de 10 luminarias led solares de jardín",
     "rango_esperado": "100-200 €",
-    "fecha": "2026-11-10",
-    "intentos": 1,
-    "estado": "sin candidato verificado (intento 1)"
+    "fecha": "2026-11-11",
+    "intentos": 2,
+    "estado": "sin candidato compatible (intento 2)"
   },
   "kit-starlink|Cable extensor para Starlink (30 m / 60 m)": {
     "kit": "kit-starlink",
