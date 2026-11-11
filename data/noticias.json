@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-10T22:10:02+01:00",
+  "actualizado": "2026-11-11T01:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -123,14 +123,6 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Más de 130 intervinientes combaten un incendio junto a la frontera de Salamanca con Extremadura",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmJuU19xVkZXUnNMdFk3VHN5NEd3eFdMNHFNR3RrbElKTDYtb0k1VHUyRk85UlV6bWJVMk9xaVoxUmRJM0NvejVDQjYwQUc5N3IxQTdmQ3VnSWFZQnZVamRnek9oTGs5ODZ5Ty1ZM0VjcUw0VlZ0YkQwWUNEcks4ZDNFRExndWs0UDhORzRreFFlU3NVeFFRaEFhcmFLdkowUzlseExmSGE3M1RYRDNQZHlLaEtuck02QzRpZ0JyWS1PdmcwUUHSAcsBQVVfeXFMUDNVQW9KLTRCd2lERlJJRVZleUlHRGlmWE5pMmlJZ2JkeFRFeVRYZ2NacXdwN2ZxWE5IMDNPMjNaWHZYWExhZnZwTTNIS0RBMW5zOTNOMkVRdk1EVnF4SVhPaUpZNDFQZ2NfLTY5WmQxNm5XWEVGNU1sWWgwSkRCSldLdjJPMUdjRkNscVN4d18zdlZpdVJKMUNHMzlKVjNjREZLX1FpcW9ydU1aek85R0pWSU9hZTVJelIyenZPWHZzVG01V2NtQW8yZm8?oc=5",
-     "fuente": "La Gaceta de Salamanca",
-     "resumen": "",
-     "fecha": "2026-11-08T15:33:04+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
      "titulo": "El incendio de Valverde del Fresno ya está perimetrado, aunque mantiene un frente activo hacia Portugal",
      "url": "https://www.lagacetadesalamanca.es/sucesos/incendio-valverde-fresno-perimetrado-mantiene-frente-activo-20261108192546-nt.html",
      "fuente": "La Gaceta de Salamanca",
@@ -144,6 +136,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-08T03:26:09+01:00",
+     "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Incendio en Lucena: una mujer de 78 años y un hombre de 45, hospitalizados por inhalación de humo al arder la cocina de una vivienda",
+     "url": "https://www.msn.com/es-es/noticias/other/incendio-en-lucena-una-mujer-de-78-a%C3%B1os-y-un-hombre-de-45-hospitalizados-por-inhalaci%C3%B3n-de-humo-al-arder-la-cocina-de-una-vivienda/ar-AA2gZVxU",
+     "fuente": "Diario Córdoba on MSN",
+     "resumen": "El fuego se ha declarado sobre las 4.00 horas de la madrugada en un domicilio de la calle Arcas y ha movilizado a bomberos, sanitarios y efectivos de la Policía Local y Nacional ...",
+     "fecha": "2026-11-08T03:07:57+01:00",
      "fecha_txt": "8 nov"
     }
    ]
@@ -210,11 +210,11 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmgxb1dMMm56YWdLYmVXWFppNFd4OTFTY1phT183QTN3ZmptWm1PRXBaSnRHb2V6MldONENUVHBBOWowTW15RWhmYUgzTHU2UXdxVlhwTEk1ajJLR3B5aHNEbHpPaGlCaWdpRHdlSWMtU1ZGcDZ2blc2YnJweGZwN0JLVVlsSzZNRkxOOTlSYnlhcVZKZ0I0bGlPWkpIeU8yY29lR18wYjdxa01NdWF2c2ZR0gG3AUFVX3lxTFAtdEN6SmdMaFcxWlE2RXdxYUE0c0dudGJ2dkdrWU56Z1RNektsLTdUbzFWREgzVW05ZkZZcWxGUUxDeVVEX0xjUUNWZFJ3eHBfU1ZnNFpUZVcwQ29NM2tVRWZ3Mm9aWmp4TzdVTTVMZnU3bjBuOWwtaDNmS3dPblhOR19EREd5dVdQQjJBajBUaWdKelFKZXhoN2tNeGNHYlRnb0NyYk9SVTZGTVJubTBQU2dPenpuZw?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T11:59:29+01:00",
+     "titulo": "Oliva confía en que el nuevo Decreto-ley con ayudas de la DANA Adam sea pronto efectivo",
+     "url": "https://cadenaser.com/comunitat-valenciana/2026/11/10/oliva-confia-en-que-el-nuevo-decreto-ley-con-ayudas-de-la-dana-adam-sea-pronto-efectivo-radio-gandia/",
+     "fuente": "Cadena SER",
+     "resumen": "Mañana miércoles la Fundación Next2U iniciará el reparto de material donado por empresas para afectados por la inundación | Cadena SER ...",
+     "fecha": "2026-11-10T12:10:00+01:00",
      "fecha_txt": "10 nov"
     }
    ]
