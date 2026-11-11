@@ -930,11 +930,12 @@
             },
             {
               "producto": "Cargador de dinamo multiuso",
-              "afiliado": "https://www.amazon.es/s?k=radio%20dinamo%20solar%20fm%20am%20linterna%20cargador%20usb&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0F6S2FNN4?tag=ntizar-21",
               "descripcion": "Manivela manual: energía infinita sin sol ni red.",
               "precio_aprox": "15-30 €",
               "prioridad": "extra",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-11-11"
             }
           ],
           "intro": "Mantener el móvil y la radio vivos 3-4 días. Powerbank grande, panel pequeño para recargarlo y cargador de dinamo como último recurso."
@@ -944,11 +945,12 @@
           "items": [
             {
               "producto": "Hornillo de camping a gas con bombonas",
-              "afiliado": "https://www.amazon.es/s?k=hornillo%20camping%20gas%20portatil%20bombona&tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0HNWJG63R?tag=ntizar-21",
               "descripcion": "Comida caliente sin electricidad. Usa siempre en zona ventilada.",
               "precio_aprox": "20-45 €",
               "prioridad": "esencial",
-              "es_busqueda": true
+              "es_busqueda": false,
+              "verificado_ficha": "2026-11-11"
             },
             {
               "producto": "Encendedores y cerillas largas",
