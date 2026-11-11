@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T13:10:02+01:00",
+  "actualizado": "2026-11-11T16:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Granadilla de Abona presenta una nueva Guía de Emergencias para reforzar la autoprotección y la seguridad ciudadana",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOVpNUmdON1ZVakh4dC1GcjQzNHZuSHdRaVJrVHZPRXJDcFpNU01PT21WSnFSY29uMDNFWGEyNGNXTDdaa3FwRnNpNXc3UnZWak40WnpmVjR2VGs1T1dHVk5LLXR6LVBWSFhFaU9OUWxEeUh0aVlqYy1GR0h6WFkwcHVGdjdpaTRJR2F4SVhzaV9wc1VhM0NHaVVlb3dCVEFiR2s5UjBFbXA3WUJTVlRuQlFVR2dBaVlTVTJyV2Z3VXZoWEdhYVljU2tlVTZGUEtBWlJLWW4tLW9ONENqQmkw?oc=5",
+     "fuente": "Canal 4 Tenerife",
+     "resumen": "",
+     "fecha": "2026-11-11T14:21:26+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Apagón mundial de tres días: ¿Por qué 33 países llaman a prepararse?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUxJSEJQa3pNSGt0RVhuNTZWWjNwNXFoX29GVkdublJ1UjdvUmJuSUdNY3lDenVTMGpFLW95em9iVUJ0R2pfYTNjSVZfQ0E4SlBvTXVuc1FCaHRJVTZRZVYtVmRXd2g0d3FtV2lRU25COGpxVENXMlNaTThNMWwtU2RkdEs4TjFfWE80VHJZN3o0cGFpNEJEZU96a0ltZ19jTHVMeW5INHdQelEtQTl0UkJMNA?oc=5",
+     "fuente": "FayerWayer",
+     "resumen": "",
+     "fecha": "2026-11-11T13:52:58+01:00",
+     "fecha_txt": "11 nov"
+    },
     {
      "titulo": "Bruselas insiste en el kit de emergencia de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0d2Y0Si0xZXAzOWFiZGxKYW0zY2R6UFVVMXJ2bGpmZFd2amZWbUxnOEpVNV80X2M5LUt2alFfOW93UVVSSUN0UVg0SXRhVW9XZXdUSTltYXBqTmZVY3ZiQXoxRldVSzAzR3VYb3JNMDhHdmFVOEUyVzdJZTZ1Q2NiSktDd0VJU1ctaTUwT3hyYkl2dXc?oc=5",
@@ -57,22 +73,6 @@
      "fuente": "LaSexta",
      "resumen": "",
      "fecha": "2026-11-10T14:53:47+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Granadilla de Abona presenta una nueva Guía de Emergencias para reforzar la autoprotección y la seguridad ciudadana",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0pUT3g1dzRJOUtrRG05ckVGdktudTI1dnZKdzZZaVBQNHpzN2pYYnlndHBpX0R6MmJPNF9VMkFHRS16UkNNU2pzbkZILXBBODVONjBTaFhybTljcFFHZ2RzMl9HeXpFbkRXY0dDMVlYcFY3RzdQOVZLSUNPWTFRbWFfVllVZWdPZ2I0Mk1TQTVKVGhHN3ZTN3ZHVTlrcFlZTFVSYkJ1MGxCZHhYekE5UzVMSVNoQTM3MDh3NWFfeGxGV3V5Sy1qaTJHVGdhUzJmT0xVajFobmYyTGZob3VJWG9Ndms?oc=5",
-     "fuente": "Ayuntamiento de Granadilla de Abona",
-     "resumen": "",
-     "fecha": "2026-11-10T14:44:36+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "LA CARTA DE FER | EL KIT DE SUPERVIVENCIA",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVElfdkVvUEFZLXZtMmwzanBkR0d2R0Vpb3BOYU5JLUFsR0tEajBOSDREc0NUZTN2ZjNMTk9LdHBqM0tiQTQyWHZxYTBJVUlYR2NxVUM5b3pJbG9MOVJ1cW1LWjFCU1dRdzUzVE9qVW9PUFJBOVljMFlSWW5MU1N6TlZnMnFtNGR6QldEdHlLME1CSW13WU5YbGJVamdnV3YxRWFQNEVXWUhlTDZ2Wm03MkdVR2xiQ055cHJVNHJUaFlxb0k2dU1QWjlkS3DSAdIBQVVfeXFMTkU5WWxSclM4LWJLQW5pQmVCVkNnY2hVV3JzZkVCTExZRXY5WVc3TGZQeWc4bWVqcW9xZ0ZhQlo2MThNM0hBTDdNY3VZbGg1S3pMNW1lUEFBQnBwakpfZ1FzMHJ1Tk8ybVZhUnhuNzFOYzFCdUlRWVVwXzA0MTM4UDFWZmNPdzlRcDBCa1lkVkV3QkoweG1UanJyMk1ObXpvNktfM003bjBNWTh0QWdwRU1aSEtjMlNOV0phOXFsdWVUa3VnQTNybjZRWjhkeExOMkZ3?oc=5",
-     "fuente": "Cadena 100",
-     "resumen": "",
-     "fecha": "2026-11-10T10:14:46+01:00",
      "fecha_txt": "10 nov"
     }
    ]
@@ -123,14 +123,6 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "El incendio de Valverde del Fresno ya está perimetrado, aunque mantiene un frente activo hacia Portugal",
-     "url": "https://www.lagacetadesalamanca.es/sucesos/incendio-valverde-fresno-perimetrado-mantiene-frente-activo-20261108192546-nt.html",
-     "fuente": "La Gaceta de Salamanca",
-     "resumen": "El incendio forestal declarado en Valverde del Fresno (Cáceres), próximo a la provincia de Salamanca, se encuentra ya perimetrado, aunque todavía mantiene un frente activo en dirección a Portugal.",
-     "fecha": "2026-11-08T11:25:00+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
      "titulo": "La España en llamas: diez años de infierno forestal",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
      "fuente": "La Razón",
@@ -145,6 +137,14 @@
      "resumen": "El fuego se ha declarado sobre las 4.00 horas de la madrugada en un domicilio de la calle Arcas y ha movilizado a bomberos, sanitarios y efectivos de la Policía Local y Nacional ...",
      "fecha": "2026-11-08T03:07:57+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para combatir los incendios forestales y quiere instalarla en Mallorca",
+     "url": "https://okdiario.com/baleares/oficial-confirmado-ministerio-del-interior-espana-pide-ue-base-aerea-combatir-incendios-forestales-quiere-instalarla-mallorca-20709391",
+     "fuente": "Okdiario",
+     "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
+     "fecha": "2026-11-08T00:45:00+01:00",
+     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -158,7 +158,7 @@
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb00xOWJfYnh1YnFiLXNDM3ZGbm1GaVkwX2tEaDNZQ0o4QWRULUV2MUY5eUNQWWJUSU9lUkJvZGRsdHF6dnF0TkZaRDkyTG9HYWlSVkM1amFac255TWdSZFJVSUxOb2pRZDRSODZOZGliV2Z1WWl3LXRzZnJZaXFLNUEyNjZvaWlyMVpvVGxHYWphMEdabkF1bnVIMGRiWF9RUThiRzduVDVnNHVNa2prVFVNU044a1d1azJwb1N6SW00Sk5DUUxQUm1lLWhHMTRhc2NtYmdzRXQtM3gxZlBKT2tuaFhtLXlBTlJYVFlzZTU?oc=5",
      "fuente": "La Razón",
      "resumen": "",
-     "fecha": "2026-11-11T13:00:33+01:00",
+     "fecha": "2026-11-11T16:06:09+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -166,23 +166,23 @@
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVJYWjRoZlVTaVlJcGxETEkxbTJWV0JPVUdfRGdNMlh4YzV5ekUycUhsN2pxcHh2VEZwRUtEME1lSFRyTW8zMGMwTEx3V1NyUUJQUnV0YXR1V0dhOGQyYXNqUnFVT1Z5Z2hsb3dnYnc1Yy00dFpXc1YwMWNwdlBULVdwYW5MSWFVcThWbmp2YkMyRWQzX1hqVjJRMDBBRmFXUFJmdnRrOEQ5R2RYOEMwLTdkY1V2UnhDbzg0YkhmdzVoM1puei15Mm5La2dlRGPSAdQBQVVfeXFMTUtyWXZJVGNJODRwTTI4bnVsWXpaYlJzbkNSYjVfeEpvaHcwamNYTl8tNjdPX2ttRGJ0ZExJd19ZUmw3LUdmeWF6bGdzNm1MT1ZQd3FEOTUzWHAtUHB4dnJmelA0MkZCTEx2clVTb3U4c21DS1pqZnp4NGh6QkFLNXRla3ZOZUUyT2tLdjE1N21ud3ZQNTJJYnlMdnpYTWFGVGVPT1BGYm11T0FPeTVWZFBtZ2hnbTJVZVhRV2pheVhsdUN0ek95ckdKMTZuWGNZaFJuTGs?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
-     "fecha": "2026-11-11T12:44:53+01:00",
+     "fecha": "2026-11-11T15:19:53+01:00",
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "El Gobierno aprueba 182,2 millones en ayudas tras la dana Adam en Valencia y Alicante",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1c4MGFsVzhKWlFoOXlWREJZbnN4ckdwRW1Eem5VY0hVSEVQOTczUEoyb3VwN0lvcUMyaF9aWnZUNE1YdGo5OUphVGxkNUU4OUZUVjJnd1BBSmRBWjBSRW1acDBtNkNyLU9KQ1I0bzllSENnTzVHUEVPSlJTWVJ6YnJFZEtqd19FUjVjNTB2MnVWMUh0aHF0QVB5T09uS0xCUVBaNXg5X3lCSXJZZlVTc1dpRks1YTFVTFQ3ejVxVWhuN2Nmenp6TTQ0eHlDWlVnRXBrYkRzXzhJdjM1YlFZLURB?oc=5",
-     "fuente": "Stick Noticias",
+     "titulo": "Charles amenaza con lluvias torrenciales y rachas de hasta 120 km/h en una jornada muy adversa en la Península",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xS0k5Mk92RXB2RkdMY05hOGFmLVRnUnVHMGh3eUlQWWJZSWcyZTF4MnpOQ0ozZ1c2cWZnUXpXc3U5WVNVSWlkN3FVY0FsQ3NrblZtQXlfOFZ1S1c4REdmTk5LenhJZXJmZ2I5WXpwTFNYa2JBXzhhTV9B0gF6QVVfeXFMTkg0b2VOQVFuZTNGMy1SY2JGYzJXSWR5a05sWjR2YW5LSVJXejQ3WXNtZ1MyOWRWeWVXQmJ0QTU2QXB1SHpJZlZkN2Q1cXEyUlpZWDdFamNSUzZJNjc5Y0drSnJqbDdMYS1JcFYzU09RUVhTMmI1UDlKWEE?oc=5",
+     "fuente": "El Mundo",
      "resumen": "",
-     "fecha": "2026-11-11T12:19:22+01:00",
+     "fecha": "2026-11-11T12:05:12+01:00",
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "La borrasca 'Charles' amenaza con un fuerte temporal en España: lluvias torrenciales y vientos huracanados",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTVU1MW5aNFM3TDMwcFpwMHhaSHp1WGlOeFd1Zy1TOC1ZbDAtaGFpUFhSRzV6RmEza3hsRjJ3NXJHZXV4MmZ3TWc5VWJ6QlFQUDZRa250SHlDSm04cVNUSEhnTm9XSjJiN1JjYmx5ajh6Tm9RV1NNOUR4bFpSV2xvbGdYeEJFVUEwTjlCdWs1cTYyRlJBTWw0R0pnbUdUdU5zSlB4NmttQWdNWmo3WmVpMk5NbEtSMkM2aE5Na2RnaG1aZERDWS1EZVBLMExsQmRacTYyN1VoZUY4allkV1ZtQUJJbGxaQkZUdVE?oc=5",
-     "fuente": "El Constitucional",
+     "titulo": "Charles provocará lluvias intensas y vientos de hasta 120 km/h en la Península",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnh1cDd5cHFnVHJmc2p1X2hIVEU4ZUdMWWpmcjZZLUpWYXJ1bWtiajIteWthLThkblNZZ3I2WjRoTjhrX3ZXRTFxaVVERjg5QnhlQnYwQkN5VDlpOF9pbUpaZ1dyV2Q5RngwbUlRbDlZOUhycjVqUGxnVlAyTXZpVG1YNEFOOXUwQ2lnN3N0TV9McXQtX1Z5OWZCQVF3WWZJaXhzcXNRZ1VJUVowenFaR3JuRVZjUlNvbWNiOTJyaUpWZWJkbXU1LVMtWVJaMld2NG83WDRKaFFPbWt3UlNHOWhn0gHnAUFVX3lxTE1Zam1KQzBUMVdnZmJwYXpzUXJZTDVTZ0NQMG1rNXJYb2tLcGNSODRLd0QxWjZCdHZ1N3BUUVlRWkVraEZ1TG9adVk3cGdiRXRadnRKRzhSNGVpaFpoZ1ZNZkJiazc2cDlSeEMtYmNZdFRWcXZuYnZVbUhFMy1xZmFfZ2RGQjZmQ3cxLXFCZS1Cc0FxQUtpUTBiemNtUjhCTkFzUk9DM0dhaEJFaGVXUTVob29BTUhKeTdWczgtd3ZGcEdLeExsMUkzbUU0MURJZ0MzQ0NyUnhzZi1fcTRGRlJ4ckhrOWY2TQ?oc=5",
+     "fuente": "Diario en Positivo",
      "resumen": "",
-     "fecha": "2026-11-11T11:58:14+01:00",
+     "fecha": "2026-11-11T11:55:17+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
+     "fecha": "2026-11-10T20:45:00+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIB3wRBVV95cUxPV2tpV0tGbFVLRFFYbmttS3JFdEtRaXY3Zjd1NjZaVWZHZzhhZ1plbEtkWFV6NGRvYms2cWFYRDI2UTNUaVpmOHJmYUh6R0lGUFNpR0pwRzNFbTBmM1M1R1hZZjR5UUhvWXlmTFNiU1QzMF9vQWNua2pEa3VNck9jcEYweVpESEhWSkJxV1lldnE0bXREaU5lcVVoSjFYbHdlVXJmNEtrdGdDanRGZE9GVEdfbTVFV0NaQzNmRzRYaF9fLXo4UTFRUTRtWnBTdWRaSXhUWHcwbnVMaWlSc2s1NS1HeEEzSVZwVlQ2N2ZETWJQc001VjY3SmxuTXNCMnNWQzRaOGlLa181alozOFZoUTJmTjJEYWFnX2dBN3RhY1U1SGE2dHhZREVKOG4yV3JUVWhSSzZ5Qzd6ek1zWHFONFRFcUg5eGxmdVQzZWJtUFRySHotZmxYUTZjVS1nd1RBVFNnc2dZY3N1MnE4bkoteVdSZWhVdVhsTE5fc2FEbk5VeDBsRnpVVnUyVFVpSERjMlhVVHdPb3FUdHFKQXlOYm1obW1FRmdpUzRnYmF3WUNwamVkUzk4dFphQ3cyZ0NBUWlJc3VkVjZKQmIxMUxPT1E2LVhCQTMwaWpUWmw4RHduTzEtQnBSME1MOTZpY1VHTFh6OUdkNTdtRjNGNmRTTHJ5b19OUkU0LTd4TEJIRHZ2REN6ejZyZUNXd09aM0cxdGRDeGE0MWJSYjVqVFFwSGRQd2JkSVNnWTJYX29KcUNWYzB0MmlzMlMzSEI5SkhSYm9pZWRfanhhS0VoSlhN?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
@@ -262,14 +270,6 @@
      "fuente": "Vozpopuli",
      "resumen": "",
      "fecha": "2026-11-09T04:45:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El \"Apagón Legislativo\" del 29-N: Las reformas judiciales y económicas en España que se han quedado en el aire",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1VCSFpKVzZDMDZUd1lCV0toV0ctR3JLRV9GUEtyc3o4WDhKQ3pJNU9HUGJnMDRTb3dPWVFQN3hxNk11WTFwSW1CWEVpV1EzQzlodFJydGFUQnpSTkg4VXhvZUtRcWYxSkFIYjVwbVhMekl1Y3RRa0VfazZTODN4aW1KS251OFVjdXRzbGpPTTZXNGNzOFB6MHFja1Z2eTk1YkJEOFNlN1o4V2paR1owcXhPcXI0Zw?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-09T03:45:01+01:00",
      "fecha_txt": "9 nov"
     },
     {
