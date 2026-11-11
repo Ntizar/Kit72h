@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T01:10:02+01:00",
+  "actualizado": "2026-11-11T04:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -162,14 +162,6 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "El tiempo mañana en España: Charles traerá lluvias intensas y rachas de hasta 120 km/h al suroeste",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmlRTEc4a2RDelNnM1pVMW16R0dZS2hLU0VjQWZZR1p2czZYek5qLXItcFBwbXQ2dzM0dGVTM2JJbldBclh2cDlzc1ZtZWp1b3V3bjlrU2wwc1lETTNCWS1OZGNGajg1RHJMaHpQUUM0Y29zNjF1LUxMdmxQcFM4Y1lha1NYQ3ducTdfYXo5R1NuMWtTNWpDUHZGMldfQjR3bE9jYW93?oc=5",
-     "fuente": "La Noción",
-     "resumen": "",
-     "fecha": "2026-11-10T19:09:44+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
      "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPamZWSkE2cUNZczdMNGhZU3FoWC1reGd4YmlJU2N2bWRlR0ZCa1gtTnhsVGZZTVJPcVFGX2N4UDlJVUsxSUZLQTMtQXhLMUJtWGNZU2RiZEFuTm0ySWNxSUZSVGFRNGVROG1QWHI4MFJlU25pSTZuOFhaOGtpLUJ3ZnI3VU8yYjVLc1htXzZ6aC1GZ24tUmgyODd0b3JKTlljZDZzWUstOEVIaldKbnlBamhLSFFVeHhsYU9IWE1MWWVHX0d0MzlvaHRlQ2ZFNHhpanNGVnpWMGdUdWRhaWVfVGw3eFdLd1A0UTdocnZSb3RtTWl4Tmxmd2ZQcmV0R3hLellVYzk1NlRTZEk3eGNlVjdDRXVFRDRTaXZIWWRR0gGeAkFVX3lxTE51U21Eb3ZHX0VWaUhhODRCOExwSTFWRVFsOXRuZDR1WmNDandpTnhoX3E5bEJkZmhDcndwSEpaUXdWSWUtSHFiUmRlVlpjYkt6d1dfWHlyRmpwX2Yydzd2eHFoQXBhUnFLWjdsc1FRM2QxZ3dpaFVxTEk1aGpqQXhiMjE5SkhoYWkyYmVFMFVzN0FkWkhhY0g1TXlGRzRadHM0bVU1R25JY292TUxEVHAzeERZd2dpeW1sdGowSmUzZERaMVk1UXc1UDlLdG83aExRU2ZFOU5RSHZqNDJxY1pwZWZZRnJZOVlRWVdhUVlkZWtkRHNjSnhkVDMzQ2lSdUp2ZlRSNm4wcnVPZ25FcDJLdXFTTE10dUNzMENEbkE?oc=5",
      "fuente": "LaSexta",
@@ -216,6 +208,14 @@
      "resumen": "Mañana miércoles la Fundación Next2U iniciará el reparto de material donado por empresas para afectados por la inundación | Cadena SER ...",
      "fecha": "2026-11-10T12:10:00+01:00",
      "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmgxb1dMMm56YWdLYmVXWFppNFd4OTFTY1phT183QTN3ZmptWm1PRXBaSnRHb2V6MldONENUVHBBOWowTW15RWhmYUgzTHU2UXdxVlhwTEk1ajJLR3B5aHNEbHpPaGlCaWdpRHdlSWMtU1ZGcDZ2blc2YnJweGZwN0JLVVlsSzZNRkxOOTlSYnlhcVZKZ0I0bGlPWkpIeU8yY29lR18wYjdxa01NdWF2c2ZR0gG3AUFVX3lxTFAtdEN6SmdMaFcxWlE2RXdxYUE0c0dudGJ2dkdrWU56Z1RNektsLTdUbzFWREgzVW05ZkZZcWxGUUxDeVVEX0xjUUNWZFJ3eHBfU1ZnNFpUZVcwQ29NM2tVRWZ3Mm9aWmp4TzdVTTVMZnU3bjBuOWwtaDNmS3dPblhOR19EREd5dVdQQjJBajBUaWdKelFKZXhoN2tNeGNHYlRnb0NyYk9SVTZGTVJubTBQU2dPenpuZw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T11:59:29+01:00",
+     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -226,7 +226,7 @@
    "items": [
     {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIB3wRBVV95cUxPV2tpV0tGbFVLRFFYbmttS3JFdEtRaXY3Zjd1NjZaVWZHZzhhZ1plbEtkWFV6NGRvYms2cWFYRDI2UTNUaVpmOHJmYUh6R0lGUFNpR0pwRzNFbTBmM1M1R1hZZjR5UUhvWXlmTFNiU1QzMF9vQWNua2pEa3VNck9jcEYweVpESEhWSkJxV1lldnE0bXREaU5lcVVoSjFYbHdlVXJmNEtrdGdDanRGZE9GVEdfbTVFV0NaQzNmRzRYaF9fLXo4UTFRUTRtWnBTdWRaSXhUWHcwbnVMaWlSc2s1NS1HeEEzSVZwVlQ2N2ZETWJQc001VjY3SmxuTXNCMnNWQzRaOGlLa181alozOFZoUTJmTjJEYWFnX2dBN3RhY1U1SGE2dHhZREVKOG4yV3JUVWhSSzZ5Qzd6ek1zWHFONFRFcUg5eGxmdVQzZWJtUFRySHotZmxYUTZjVS1nd1RBVFNnc2dZY3N1MnE4bkoteVdSZWhVdVhsTE5fc2FEbk5VeDBsRnpVVnUyVFVpSERjMlhVVHdPb3FUdHFKQXlOYm1obW1FRmdpUzRnYmF3WUNwamVkUzk4dFphQ3cyZ0NBUWlJc3VkVjZKQmIxMUxPT1E2LVhCQTMwaWpUWmw4RHduTzEtQnBSME1MOTZpY1VHTFh6OUdkNTdtRjNGNmRTTHJ5b19OUkU0LTd4TEJIRHZ2REN6ejZyZUNXd09aM0cxdGRDeGE0MWJSYjVqVFFwSGRQd2JkSVNnWTJYX29KcUNWYzB0MmlzMlMzSEI5SkhSYm9pZWRfanhhS0VoSlhN?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
