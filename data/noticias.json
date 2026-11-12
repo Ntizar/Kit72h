@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-11T22:10:02+01:00",
+  "actualizado": "2026-11-12T01:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,22 +154,6 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Última hora de las borrascas Charles y Bruna en España, en directo: Madrid activa el Plan Especial de Protección Civil ante el riesgo de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclR0aGVXRWNYTm0wblZ0MzFZdmVtYnBpTDV1ajNCRFRWUTI3cXZsck95X2RaVkRjay1xU2J0TUpzUWx1Qk01cGpXSWRTMV82S1g5TzliV2dRM1l2Q2d6T0VoNGZ3QTZ2b1ZfWUt0TzBsOXZQWGM1Y3U4emZxSV9OOHdiaVEteU9EQTd6WmhmdkJnelJXTTJ6cnk2OUZTWTVPWmptRmtZeW1vV0VncGh2a3BfSnRPcTRiUUpqZnpWV0JoSUdvN0lQbw?oc=5",
-     "fuente": "Telecinco",
-     "resumen": "",
-     "fecha": "2026-11-11T21:42:45+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Borrascas Bruna y Charles, en directo: lluvias intensas, avisos de la AEMET y última hora del temporal en España",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb00xOWJfYnh1YnFiLXNDM3ZGbm1GaVkwX2tEaDNZQ0o4QWRULUV2MUY5eUNQWWJUSU9lUkJvZGRsdHF6dnF0TkZaRDkyTG9HYWlSVkM1amFac255TWdSZFJVSUxOb2pRZDRSODZOZGliV2Z1WWl3LXRzZnJZaXFLNUEyNjZvaWlyMVpvVGxHYWphMEdabkF1bnVIMGRiWF9RUThiRzduVDVnNHVNa2prVFVNU044a1d1azJwb1N6SW00Sk5DUUxQUm1lLWhHMTRhc2NtYmdzRXQtM3gxZlBKT2tuaFhtLXlBTlJYVFlzZTU?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-11T21:33:50+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
      "titulo": "Asturias espera más lluvia mientras Bruna y Charles dejan evacuados, ríos en alerta y daños por viento en España",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU1nSl9vQU0tck5HdHQ0U00yTGFrM09rM3gxWWJaenNxWVZnMXgzYy0tLWpBMmk1d3RmSWxfZDluNjV4aVBUSFM3NmJ1d1p2TUxheUpQbnBPR2lqZTZGMDZMUFZUSFlMcnBGMTRJOEFxaTZKVzFydHhhN3c5RGtxYUk1X0tYMXktRXN1ejVpVnloY3RUWmdzajZSMlJHVXRlRTA4S3BfeDhYSUk4V2FmSlo5eEZfREJsUERMMHctMWlvX0kydDdGV09FOW50RzNZaWdFc3BUREc4S2tZb1Y1TTRraw?oc=5",
      "fuente": "Asturias Mundial",
@@ -178,19 +162,11 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Última hora de las borrascas Bruna y Charles, en directo: lluvias intensas, avisos de la AEMET y alertas por el temporal en España",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVJYWjRoZlVTaVlJcGxETEkxbTJWV0JPVUdfRGdNMlh4YzV5ekUycUhsN2pxcHh2VEZwRUtEME1lSFRyTW8zMGMwTEx3V1NyUUJQUnV0YXR1V0dhOGQyYXNqUnFVT1Z5Z2hsb3dnYnc1Yy00dFpXc1YwMWNwdlBULVdwYW5MSWFVcThWbmp2YkMyRWQzX1hqVjJRMDBBRmFXUFJmdnRrOEQ5R2RYOEMwLTdkY1V2UnhDbzg0YkhmdzVoM1puei15Mm5La2dlRGPSAdQBQVVfeXFMTUtyWXZJVGNJODRwTTI4bnVsWXpaYlJzbkNSYjVfeEpvaHcwamNYTl8tNjdPX2ttRGJ0ZExJd19ZUmw3LUdmeWF6bGdzNm1MT1ZQd3FEOTUzWHAtUHB4dnJmelA0MkZCTEx2clVTb3U4c21DS1pqZnp4NGh6QkFLNXRla3ZOZUUyT2tLdjE1N21ud3ZQNTJJYnlMdnpYTWFGVGVPT1BGYm11T0FPeTVWZFBtZ2hnbTJVZVhRV2pheVhsdUN0ek95ckdKMTZuWGNZaFJuTGs?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-11T17:45:53+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
      "titulo": "Alerta por lluvias en Madrid, en directo: inundaciones, cortes de tráfico y última hora",
      "url": "https://www.msn.com/es-es/noticias/otras/alerta-por-lluvias-en-madrid-en-directo-inundaciones-cortes-de-tr%C3%A1fico-y-%C3%BAltima-hora/ar-AA2hcs41",
      "fuente": "La Razón on MSN",
      "resumen": "La capital ha despertado con fuertes lluvias debido al temporal provocado por las borrascas Bruna y Charles. Lo peor llegará por la tarde ...",
-     "fecha": "2026-11-11T11:58:00+01:00",
+     "fecha": "2026-11-11T13:03:00+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -210,11 +186,35 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "La borrasca Charles azota España con lluvias intensas y vientos huracanados: ES-Alert en Andalucía, carreteras cortadas y clases suspendidas",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemFQYkFfOVlQSi14SU5OSzExd0ZSREZGTG5tV2tFU08xV1FVOWltTjJwdnhHYVQ0anZZeko3TTJoT04tdmZ2bU40eUdRU29EYnRVN1pKd2R4Qm16Qmh4elRSNHA1akhfYlJTMmZ6MnJydFJxT3A5N2NpLWJtc2d3dm5pSnNucjBLY0N2X19NZTdkUmhUTTlIaE85SXdjcFl1ekp4QjdnTFJmd0U1M3FLZFNTTHFlSjl1RGlkTWMwREQ2cmU1bW5LcHdUNV9UR1ZLQlQ1UEJGeUFIVU9XZDNacDVoYlptVGV1RkEyMG50a2ZObmxNU1FJU2VKNWx4SVN2dldOV3U5RjlLdmFOV19ZUEpKeHpxUdIBlgJBVV95cUxNelZZSmE2Z0VsOG9TMkZjalJRajdGc1lBVmNxa0VUY2FhcWlkNEdXT2tfc2JBWFR1WHFZYk5yQzd3ZFB4cGgybjJjaU5leXNqdGFHdnI3Zl9wT1RweVNlajdKLVVzUkk4dXN3VHE4ZjFtazhWVDVzcUd5a2VjNko2Z0hSRVFrVktxbEpqempBMkdfQzhjT3FkdVNhRGNNR3lLLWdVTVlicTRiX05pcUk3aWZXeUpUeUtyOUJucjdXR3F3ZUtaUW15MklXWWlDUjRDS3h3RE1hd2h6cWR5UUkwY0EzbDJXRDhNeUVBdVZlNjk5Z21NWUZrX0pTZnBRcHJlQjdiU3ZQYTliaHNRc3RUSEZoSUdQZw?oc=5",
-     "fuente": "LaSexta",
+     "titulo": "La borrasca Charles golpea España con abundantes lluvias y vientos huracanados en un día muy \"adverso\"",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0NOMVFjbHVyNzZobXBPR096SW1MRTh6WEtZd0lYSlk4WDc2M25DQWJ3V20wdnl3aHVNSkVuSmEyZ0tnMXc0SDlmYTJaU0x0N2pfWm9NbW9vTi0yUk0xQXdzV2ZQaExzRzN6SGFWbkJSRDM5MG1WaGZpSUZvY1FhR2Rjc3BQeFBzX0h1Z0J0T3RhQXgwMG9uWnhlbWFQVVhTbWNSUDhaZHVacjR6dkxvT1h30gGyAUFVX3lxTE5iMWZCX212MDhsTWFvUE5xeHo3NWw3SnF0dEpqdTNGY3RiRm5iSWUwV3VUbTE2cGV6LUJxOHc3TTQzX29QcUhCelZUWXdvZ2wzVVJ3WEg0UHQ3SGYtazF4UEZaaExybElscF80YVF5NkREalpjZHNXaDg5Znc1dW1QbVU2eW4zcDFyYjNldW9fZWdWNGhRM0VxUGdPWTBXbTBXblE2VGQzaDdNemlxVlBKZnc?oc=5",
+     "fuente": "El Periódico",
      "resumen": "",
-     "fecha": "2026-11-11T11:28:13+01:00",
+     "fecha": "2026-11-11T11:14:57+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Charles sacude casi toda España con fuertes lluvias y vientos de hasta 120 km/h",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdaYlE0WkdwTkdnQU5IRElhVWpodm9qZGlCNFBKQVhDaWdncVEwNkF0REp4MEZ0d01wRHplT0lkbExRd2NxYmM0a1A4a1BsejZDN2M1cWtpZW5jenUzcGRkS0JWREVUSlp5Z1ZkN0RfVVpleVpISEFkVG9OUUM0a2cycmpieFZrVGNaaVlpMFF4NmZhN3hmWnBTd0dOdUg2LS1xOE9VanJIRFl1R3YyZ0xaNDhsUDZ6ZW93WnNmb2pfRjNuNXdrdA?oc=5",
+     "fuente": "Crónica Balear",
+     "resumen": "",
+     "fecha": "2026-11-11T11:11:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Las borrascas Bruna y Charles dejan lluvias torrenciales y rachas huracanadas en casi toda España: aviso rojo en Cáceres y Ávila",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVdSMjlaX2JzbERsdWNsa0lVZGFTX0xweXIzVXhFOHUyZzJaOXRPcnVLS2lnangxODBuYVRMTlVScFI4aDhGSFl5RjEwZTRIZERMOHFfNFBGRnRaMjIyYTNTak9nWGJJT3NUSVg5MlJaR1hsYWZmU1E1SlVZTEdCeHdoNzJtSHRtdlNhTFU4ZjBOci1obXc2bXFvcEdmcEwxNmRkcUV6Tjk4OGk3LVU2TkhBZG9GWmUxOUYteXVNM3MwZWN3aThLc3JwTmdmRDg4QXdSeWoyZlFDT0tsNDlzc2dmQkR2OUdWTk5ZVUlCRUNhZHFXRFJwRFpwMU1Ra1XSAZoCQVVfeXFMUFhuZnFVanczekNNUzhhMGdSeHpmWkszelB4NS1fb3RTdkdxM1AyNkZSWjdVVmV5cHFWdURRaGVYMy16TG1zY2l1UXNMQjhrSWNhdHlUcGZfeHNad1BSY1RYTm10aHdHdlB6MGVrak83eWVZT0Q2Q2RReEpsYTE0ekgtSzBDcWJEYU9iLWE5cFEyZjZsUUJFQnRIaXNXTVEyeGpWcHI5a25YZlBWU2tZWHZkeHcyR2x6TWNfODNpRXZDUG10QzNNU3ZGV3d2YWt5UjNtMGFMbEhZTlhaUnFFMWpRNWpldEpTOXNIYWdpTWQ1VTB3SmxkWVFNVU1rUUdOY19JQnFocjhoY1RUaHdxT1F4X3NYOHJKeFNB?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-11T11:07:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "La borrasca Charles golpea España con lluvias torrenciales y vientos de hasta 120 km/h",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlBYSzE1UkNxT2RIX01xdERYMVZacllvWWx4dEo5X0pSekZQWDNMVVR4aUNaVXdMNUNzcVIxeVFLWnNtVjdIbzBDUF90QWNDTWQzcWpiS0JOM205dEtBLVd1SzZ6b09NaV9ON2xQZ2ZyX0p6YzlOeGJSNXdXMFJiTGw5WFBVZm1waE1nYjhnU1RfeFdSSndtaGZMMU1sXy1vSTNHcUl1YkRkMzNwN29pc3VFODR1NzQ4aXpTWV9fWHZRTExjR2xtMjFqMHFvdGRfSm1lRHY1VmRURV9qbFV4U2VFejJlZjA0V3VCbWp3?oc=5",
+     "fuente": "Diario del Alto Aragón",
+     "resumen": "",
+     "fecha": "2026-11-11T11:02:32+01:00",
      "fecha_txt": "11 nov"
     }
    ]
@@ -225,20 +225,20 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-11T18:52:37+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
      "fuente": "Cadena SER",
      "resumen": "",
      "fecha": "2026-11-11T16:14:57+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
-     "fuente": "Vozpópuli on MSN",
-     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
-     "fecha": "2026-11-10T20:45:00+01:00",
-     "fecha_txt": "10 nov"
     },
     {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
