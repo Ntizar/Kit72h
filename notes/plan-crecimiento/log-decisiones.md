@@ -51,3 +51,5 @@
 | 2026-11-10 | alimentos-emergencia-caducidad-rotacion | revamp | encolado | Revamp 302w->1507w: tabla caducidades, orden consumo, rotación automática, vulnerables, 3 fuentes AESAN+PC+UE |
 | 2026-11-11 | huerto-emergencia-semillas-germinados | revamp | encolado | Revamp 328w->1332w, 3 fuentes oficiales, 5 internos, 4 afiliados, tabla germinados |
 | 2026-11-11 | huerto-emergencia-semillas-germinados | revamp | encolado | Publicador horneará: Playwright + gate + push |
+| 2026-11-12 | temperatura-sin-electricidad · revamp · encolado · Revamp 398w->1138w con 4 fuentes oficiales (UE, PC, AEMET, IDAE), 7 enlaces internos, tabla señales de alarma, 5 bloques
+| 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Revamp 398w->1138w con 4 fuentes oficiales, 7 internos, tabla, 5 bloques |
