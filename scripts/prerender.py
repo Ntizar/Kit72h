@@ -367,6 +367,9 @@ def main():
                 html = re.sub(
                     r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
                     '', html)
+                # La tarjeta cruzada (js/promo-nomerallo.js) no se hornea: es un widget
+                # de navegador real y en el snapshot queda duplicada y congelada.
+                html = re.sub(r'<aside class="nr-promo.*?</aside>\s*', '', html, flags=re.S)
                 html = html.replace("</body>",
                                     "<!-- GENERADO por scripts/prerender.py — no editar a mano -->\n</body>", 1)
                 dest.write_text(html, encoding="utf-8", newline="\n")
