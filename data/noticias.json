@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T19:11:01+01:00",
+  "actualizado": "2026-11-12T22:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿De qué se trata el plan de emergencia ‘Black Sky’ para sobrevivir 72 horas sin internet ni electricidad?",
+     "url": "https://www.msn.com/es-xl/noticias/otras/de-qu%C3%A9-se-trata-el-plan-de-emergencia-black-sky-para-sobrevivir-72-horas-sin-internet-ni-electricidad/ar-AA2hk02c",
+     "fuente": "Metro Ecuador on MSN",
+     "resumen": "La BBC reveló cómo funcionaría un protocolo de emergencia ante un ciberataque o apagón masivo. El Gobierno británico pide a los ciudadanos almacenar alimen ...",
+     "fecha": "2026-11-12T12:07:23+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Ni 48 ni 96 horas: por qué los expertos recomiendan que el kit de supervivencia sea de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWZEWUl5aW8yY2tZSVpsMC1RdUlfdjNRZWJmZDVJaTZSRTYxV3VZSkRTaWczVFZfV2tJUXFWYmxlN1Z1NGduZmUtcUcwelhWbGo4OGdkNm8yaWsxS2ZFNWlWOW9UcUgya1d3TzhFZVlsUzFQRWRhdWt0VXNNSy1kZHZTdGN2VDJCNWdVSzdSSnJkaWpVdGQxZHM1VjFhb1BjdUJBNXRseXdxSFI4WmdMN3JtbEVkbENqd1ZRVVppcUx5Smt5aS1HNmNkTHBnQjFDandrV0N6NGdXMmVKSlJfcNIB9AFBVV95cUxPanhGM1VoNHRBdTZpZUFzREZwUlVHOVpxdGxkejJLRXE0ejJwc3JOajQtRmotUHc4aklPX1VHN0dCa3FRLXdoTnUtYnpaaDFJRjNzY0dpZ2VsdTdsblpWMWx1WExEMHdydk15LU5vZ1pDU3J6SXZoaGlJTE5XWmd5cVFYdHgwWnEyaXhXRkxES0lzSllVSkxBc3ZQMXFtc3dtMWFLMU93MEJ1dmpDSFd5NkRhSElNVGRJazRhZFJaaXF2a1ZfMnZYRkNMN1hsbURqbVEtc3RlQWtDMVFKSVhXRzhLWnB0aEpWNWt4aWpWUnlzLXBC?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-12T11:35:13+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "¿Apagón el 17 de noviembre? La verdad sobre un rumor que se está volviendo viral y que ya predijeron Los Simpson",
+     "url": "https://www.msn.com/es-es/noticias/otras/apag%C3%B3n-el-17-de-noviembre-la-verdad-sobre-un-rumor-que-se-est%C3%A1-volviendo-viral-y-que-ya-predijeron-los-simpson/ar-AA2hhuuZ",
+     "fuente": "EL MUNDO on MSN",
+     "resumen": "El origen está en un simulacro de emergencia que va a tener lugar en EEUU en esa fecha. ¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Este rumor que comienza a hacerse viral en redes social ...",
+     "fecha": "2026-11-12T01:56:12+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -36,6 +52,14 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Apagón mundial de tres días: ¿Por qué 33 países llaman a prepararse?",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUxJSEJQa3pNSGt0RVhuNTZWWjNwNXFoX29GVkdublJ1UjdvUmJuSUdNY3lDenVTMGpFLW95em9iVUJ0R2pfYTNjSVZfQ0E4SlBvTXVuc1FCaHRJVTZRZVYtVmRXd2g0d3FtV2lRU25COGpxVENXMlNaTThNMWwtU2RkdEs4TjFfWE80VHJZN3o0cGFpNEJEZU96a0ltZ19jTHVMeW5INHdQelEtQTl0UkJMNA?oc=5",
+     "fuente": "FayerWayer",
+     "resumen": "",
+     "fecha": "2026-11-11T13:52:58+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Bruselas insiste en el kit de emergencia de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0d2Y0Si0xZXAzOWFiZGxKYW0zY2R6UFVVMXJ2bGpmZFd2amZWbUxnOEpVNV80X2M5LUt2alFfOW93UVVSSUN0UVg0SXRhVW9XZXdUSTltYXBqTmZVY3ZiQXoxRldVSzAzR3VYb3JNMDhHdmFVOEUyVzdJZTZ1Q2NiSktDd0VJU1ctaTUwT3hyYkl2dXc?oc=5",
      "fuente": "Campitur",
@@ -50,30 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-11T06:46:11+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-11T06:30:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Action rebaja a 7,95 euros el dispositivo que no puede faltar en tu kit de emergencia: una radio 4 en 1 con linterna, panel solar y función power bank",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZTNjMG1uXzN3YUVaOWdaV0ZPbGloWWNOOV9VSU50OUptWTZDUUFoWEZtX2duS202QVRiQ2U4SUVhVEk0dEk2cUN1R194dU1kcE5MVjRVSTV3ZXk2Tk92a1hsNlo4SXhxWmtaVTQ4enhCdEZ3enVrZHRIRlZodnpWd2pMX3hhVk5BdVRDN1E2bjJPT0VGOXhBZldQazFpU1RtYUJYazVzWWg3eWZROEd6V2dnRE5TTWpCUDNwNVZBQjdXblRFaE5PWGNXYzA1OUNNWFBvVHMzUjQ2YmtZd2kxQlFDY0RNd1VhSVF6UDVKNko4NTZRWk5qRjRrQldLamNzdjdFMk5vZlM2OUNwOVhJY2dn?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-10T20:09:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Bruselas vuelve a recomendar tener un kit de emergencia en casa: esto es todo lo que debe incluir",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS09veENRNTBoenhxajFuWDN5YkFkb2ZlOUM4cVlxUkhSWG42eEpoZlhkM1M5ekM3Z3hKUzc2RlJwTEhERmNLZ3ZMRVJvTmhKbjkzQjc2WENqSmVjRDctbGZjRk02UkRMczBTOXhKRjBJR2tSSVVzSFJCT1NnNk9WM1UyRjAyaklyZl9vSlg1ajdlSVZlTEF6Q2ZJRU1ITzBINF91RVhtc0wtaW94eUxNekZnLXN0Y0JkbFpLbkFYRm5kZ0cyNk9jV0FOcHZ6S01SdHBzaHZQVUxLbUtoVUtLRHFBT1hYaGxhTE5MR3hoTnVYa3p5YXgzeUJ6NVQ5UTIwZ3fSAYICQVVfeXFMTlVGQlM2elNPZ3ZwNW9WV3E1ZGt0STdvVEJDdVVncURNZWk3am45b2pUeE12cnlZa1BER1lNR3JqQUpBTXpidm4zUlBCQTVZbVBSazJvbGhVd0drTm5KbHZzd2pVSVZxbDBTSjJfRW5UZFp4SEJWUzRaYkFQMXhtWFBtclFZRXdlWnBiTTktUFd4MzlOSjY5YTVFNXYtdlBqanRIZGpnNEVKSmJqZ2pYYWVNMWM2UDBhanF2SkF6YmRhaVBTUXdBbXY0anZUbTJoQzAxbWRaNkNvZEFPSEtVNnQwTk5sZW5HeTVob2FQZzNxSWFuUllKcHRFa1ZRcHZqXzdR?oc=5",
-     "fuente": "LaSexta",
-     "resumen": "",
-     "fecha": "2026-11-10T14:53:47+01:00",
-     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -107,11 +107,11 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
-     "fuente": "La Gaceta de la Iberosfera",
-     "resumen": "",
-     "fecha": "2026-11-08T16:49:31+01:00",
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
+     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
+     "fuente": "La Gaceta",
+     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
+     "fecha": "2026-11-08T08:46:00+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -139,11 +139,11 @@
      "fecha_txt": "6 nov"
     },
     {
-     "titulo": "Incendios en España: 301.681 ha quemadas",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekVXREhxRmVON1ptNE84NER5QzBJRHljQlJJOWRSb1plQTBpMkFESWVfZXVFV3c2Q3dIYS0tVEx5c09jR1NrcEtrZ2FCQUFpYTYzUUxTV2gwVHdNcHdnV3Yzdm1VVXVmTTV6UFVoVUR2dDdRbVRCUlFlR3dfU2lXNW9RZG1zT3JaX0J2RzRjTVVEQWpoMXFVQXBNZmJ4MXhZSHpBNXBXV3pJeXpUWHRfMmYySUptTjFMdHhaaVRQTUlmbWlvT1MxUHlON3ltVHpnOHEwWE1mV2NYUQ?oc=5",
-     "fuente": "Albaceteabierto",
-     "resumen": "",
-     "fecha": "2026-11-05T11:38:00+01:00",
+     "titulo": "En lo que va del año, España registra el 40% de las hectáreas quemadas por incendios en la Unión Europea, con 3.000 edificios y 6.200 personas afectadas.",
+     "url": "https://www.nuevaradio.org/2026/11/05/en-lo-que-va-del-ano-espana-registra-el-40-de-las-hectareas-quemadas-por-incendios-en-la-union-europea-con-3-000-edificios-y-6-200-personas-afectadas/",
+     "fuente": "nuevaradio.org",
+     "resumen": "El país representa el 42,9% de la superficie arrasada por incendios en la región, con 301.681 hectáreas afectadasEscucharPuntos claveResumenEspaña concentra ...",
+     "fecha": "2026-11-05T08:30:00+01:00",
      "fecha_txt": "5 nov"
     }
    ]
@@ -265,6 +265,14 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
+     "fecha": "2026-11-10T20:45:00+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
@@ -278,14 +286,6 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
