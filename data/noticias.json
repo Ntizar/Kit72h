@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T01:10:02+01:00",
+  "actualizado": "2026-11-12T04:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,19 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-12T01:31:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Asturias espera más lluvia mientras Bruna y Charles dejan evacuados, ríos en alerta y daños por viento en España",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU1nSl9vQU0tck5HdHQ0U00yTGFrM09rM3gxWWJaenNxWVZnMXgzYy0tLWpBMmk1d3RmSWxfZDluNjV4aVBUSFM3NmJ1d1p2TUxheUpQbnBPR2lqZTZGMDZMUFZUSFlMcnBGMTRJOEFxaTZKVzFydHhhN3c5RGtxYUk1X0tYMXktRXN1ejVpVnloY3RUWmdzajZSMlJHVXRlRTA4S3BfeDhYSUk4V2FmSlo5eEZfREJsUERMMHctMWlvX0kydDdGV09FOW50RzNZaWdFc3BUREc4S2tZb1Y1TTRraw?oc=5",
      "fuente": "Asturias Mundial",
      "resumen": "",
      "fecha": "2026-11-11T18:13:04+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Alerta por lluvias en Madrid, en directo: inundaciones, cortes de tráfico y última hora",
-     "url": "https://www.msn.com/es-es/noticias/otras/alerta-por-lluvias-en-madrid-en-directo-inundaciones-cortes-de-tr%C3%A1fico-y-%C3%BAltima-hora/ar-AA2hcs41",
-     "fuente": "La Razón on MSN",
-     "resumen": "La capital ha despertado con fuertes lluvias debido al temporal provocado por las borrascas Bruna y Charles. Lo peor llegará por la tarde ...",
-     "fecha": "2026-11-11T13:03:00+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
+     "fuente": "Lancelot Digital",
+     "resumen": "",
+     "fecha": "2026-11-11T20:48:42+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
      "fuente": "ABC",
@@ -239,14 +247,6 @@
      "resumen": "",
      "fecha": "2026-11-11T16:14:57+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIB3wRBVV95cUxPV2tpV0tGbFVLRFFYbmttS3JFdEtRaXY3Zjd1NjZaVWZHZzhhZ1plbEtkWFV6NGRvYms2cWFYRDI2UTNUaVpmOHJmYUh6R0lGUFNpR0pwRzNFbTBmM1M1R1hZZjR5UUhvWXlmTFNiU1QzMF9vQWNua2pEa3VNck9jcEYweVpESEhWSkJxV1lldnE0bXREaU5lcVVoSjFYbHdlVXJmNEtrdGdDanRGZE9GVEdfbTVFV0NaQzNmRzRYaF9fLXo4UTFRUTRtWnBTdWRaSXhUWHcwbnVMaWlSc2s1NS1HeEEzSVZwVlQ2N2ZETWJQc001VjY3SmxuTXNCMnNWQzRaOGlLa181alozOFZoUTJmTjJEYWFnX2dBN3RhY1U1SGE2dHhZREVKOG4yV3JUVWhSSzZ5Qzd6ek1zWHFONFRFcUg5eGxmdVQzZWJtUFRySHotZmxYUTZjVS1nd1RBVFNnc2dZY3N1MnE4bkoteVdSZWhVdVhsTE5fc2FEbk5VeDBsRnpVVnUyVFVpSERjMlhVVHdPb3FUdHFKQXlOYm1obW1FRmdpUzRnYmF3WUNwamVkUzk4dFphQ3cyZ0NBUWlJc3VkVjZKQmIxMUxPT1E2LVhCQTMwaWpUWmw4RHduTzEtQnBSME1MOTZpY1VHTFh6OUdkNTdtRjNGNmRTTHJ5b19OUkU0LTd4TEJIRHZ2REN6ejZyZUNXd09aM0cxdGRDeGE0MWJSYjVqVFFwSGRQd2JkSVNnWTJYX29KcUNWYzB0MmlzMlMzSEI5SkhSYm9pZWRfanhhS0VoSlhN?oc=5",
-     "fuente": "La Gaceta de la Iberosfera",
-     "resumen": "",
-     "fecha": "2026-11-10T18:05:11+01:00",
-     "fecha_txt": "10 nov"
     },
     {
      "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
