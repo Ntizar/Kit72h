@@ -97,17 +97,21 @@ def _titulo_corto(texto: str, limite: int = 78) -> str:
     return corte.rstrip(",.;:|-– ") + "…"
 
 
-def _elegir_oferta(candidatos: list[dict], ahora: datetime) -> dict | None:
+def _elegir_oferta(candidatos: list[dict], ahora: datetime, anterior: str | None = None) -> dict | None:
     """Selección del día: rebaja × precio final, no el mayor porcentaje.
 
-    Empata/rota entre los 3 primeros para que el bloque no se quede semanas con
-    el mismo producto.
+    Rota entre los 5 mejores para que el bloque no se quede semanas con el mismo
+    producto, y nunca repite el ASIN destacado ayer. Sin esto la ponderación por
+    precio (precio/100) deja un candidato con el triple de punt que el siguiente
+    y la «oferta del día» se queda clavada.
     """
     if not candidatos:
         return None
     orden = sorted(candidatos, key=lambda c: c["punt"], reverse=True)
-    cabeza = [c for c in orden if c["punt"] >= orden[0]["punt"] * 0.85][:3]
-    elegido = cabeza[ahora.timetuple().tm_yday % len(cabeza)]
+    cola = orden[:5]
+    if anterior and len(cola) > 1:
+        cola = [c for c in cola if c["asin"] != anterior] or cola
+    elegido = cola[ahora.timetuple().tm_yday % len(cola)]
     return {k: elegido[k] for k in ("asin", "producto", "titulo_amazon", "precio", "precio_texto",
                                    "precio_antes", "ahorro_pct", "kit", "kit_titulo", "url", "fecha")}
 
@@ -230,7 +234,8 @@ def _volcar(productos, historico, con_precio, sin_datos, sin_oferta, ahora, asin
             "punt": pct * factor,
         })
     candidatos.sort(key=lambda c: c["punt"], reverse=True)
-    oferta = _elegir_oferta(candidatos, ahora)
+    anterior = (_leer_json(SALIDA, {}).get("oferta_dia") or {}).get("asin")
+    oferta = _elegir_oferta(candidatos, ahora, anterior)
 
     datos = {
         "meta": {
