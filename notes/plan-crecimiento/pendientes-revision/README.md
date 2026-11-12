@@ -7,3 +7,4 @@ ya existe entrada con el mismo slug y el cuerpo es distinto (`reemplazo`), o la 
 Cada fichero conserva la entrada tal cual la escribió el consejero. Para publicarla:
 `python3 scripts/kit72h-publicar.py --reemplazo` (tras revisar el diff) o devolverla a
 `_entrada.json`. Para descartarla: borrar el fichero.
+- `2026-11-12-temperatura-sin-electricidad.json` — apartada el 2026-11-12: requiere revisión humana (`--reemplazo`).
