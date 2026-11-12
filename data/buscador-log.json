@@ -142,7 +142,8 @@
     "Antena externa 4G/5G de alta ganancia",
     "Radio FM/AM a pilas o dinamo",
     "Cargador de dinamo multiuso",
-    "Hornillo de camping a gas con bombonas"
+    "Hornillo de camping a gas con bombonas",
+    "Messenger satelital (Garmin inReach Mini 3)"
   ],
   "na": [
     "Paracetamol e ibuprofeno (caducidad larga)",
@@ -154,6 +155,16 @@
       "n": 2,
       "primera": "2026-11-09",
       "ultima": "2026-11-11"
+    },
+    "kit-starlink|Router 4G/5G industrial con dual SIM y antenas externas": {
+      "n": 1,
+      "primera": "2026-11-12",
+      "ultima": "2026-11-12"
+    },
+    "kit-kit-profesional|Terminal Starlink Gen 3 (residencial / móvil)": {
+      "n": 1,
+      "primera": "2026-11-12",
+      "ultima": "2026-11-12"
     }
   }
 }

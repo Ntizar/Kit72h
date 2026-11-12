@@ -512,6 +512,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 **Conectividad: Starlink y redundancia**
 - Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)
 - Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla. (~400 € · 10-40 €/mes)
 **Comunicación local: radio amateur y walkies**
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
