@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T07:10:02+01:00",
+  "actualizado": "2026-11-12T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -44,6 +44,14 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Los vietnamitas que viven en Europa revelan que una mochila de supervivencia para 72 horas cuesta 13 millones de VND.",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpHYmtRN3FycVpQakZ2ZHhINU9Gd2FuT1ljX2dzVl9FaE02cl9DSmk4Y0plckpVaHE0YkJFSGYxTGdBenNrY2xZMG83ZmlsMGM3akV1dm5YVnRhZG9DSExqTGVkd0l4azZkQk12VE5NU2lxMDM5RlJld084RV93UWF6by1VdWdIWnVvMXhPeWtDQm5RbUJF?oc=5",
+     "fuente": "Vietnam.vn",
+     "resumen": "",
+     "fecha": "2026-11-11T06:46:11+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
      "fuente": "EL PAÍS",
@@ -65,14 +73,6 @@
      "fuente": "LaSexta",
      "resumen": "",
      "fecha": "2026-11-10T14:53:47+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "LA CARTA DE FER | EL KIT DE SUPERVIVENCIA",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVElfdkVvUEFZLXZtMmwzanBkR0d2R0Vpb3BOYU5JLUFsR0tEajBOSDREc0NUZTN2ZjNMTk9LdHBqM0tiQTQyWHZxYTBJVUlYR2NxVUM5b3pJbG9MOVJ1cW1LWjFCU1dRdzUzVE9qVW9PUFJBOVljMFlSWW5MU1N6TlZnMnFtNGR6QldEdHlLME1CSW13WU5YbGJVamdnV3YxRWFQNEVXWUhlTDZ2Wm03MkdVR2xiQ055cHJVNHJUaFlxb0k2dU1QWjlkS3DSAdIBQVVfeXFMTkU5WWxSclM4LWJLQW5pQmVCVkNnY2hVV3JzZkVCTExZRXY5WVc3TGZQeWc4bWVqcW9xZ0ZhQlo2MThNM0hBTDdNY3VZbGg1S3pMNW1lUEFBQnBwakpfZ1FzMHJ1Tk8ybVZhUnhuNzFOYzFCdUlRWVVwXzA0MTM4UDFWZmNPdzlRcDBCa1lkVkV3QkoweG1UanJyMk1ObXpvNktfM003bjBNWTh0QWdwRU1aSEtjMlNOV0phOXFsdWVUa3VnQTNybjZRWjhkeExOMkZ3?oc=5",
-     "fuente": "Cadena 100",
-     "resumen": "",
-     "fecha": "2026-11-10T10:14:46+01:00",
      "fecha_txt": "10 nov"
     }
    ]
@@ -158,7 +158,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-12T04:22:17+01:00",
+     "fecha": "2026-11-12T07:23:33+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -168,6 +168,22 @@
      "resumen": "",
      "fecha": "2026-11-12T01:31:00+01:00",
      "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La Comunidad de Madrid activa el Plan por Riesgo de Inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0VGcDlRVWJDSXd6S3FZSHR2Tk0wc1dRdXJ0QnJsc2tDTTZ1TlBnR0FIek5TMWJpemc1Q2I2a2h4eE1WNHBrdDhCbU9HRUwyekhOelNFVzY0TXJrQmswUGlYQ0J3M2pvSjV4ckVULUs3eFJ0UjRSTlRtVGR4V1V5UGRRVm5lVnppSWF3ME9UODZiMUNqd28yOXhuVF9XMGZTVU1xLWszVnVZZVMyaXlJM1VYMnZQWknSAcsBQVVfeXFMTXpnaWxWN2N3OWtKdE1PTS1BbjNnZkM5anh0VnBiQWNfdkt3RDVhblpfM3FnQl9sUlBRRDNQampTQmxXRTRCNU5xeS1rNmh6V0JHLTU1UzBxVmFFN3VRRUgzdjFzMURWQS1WbHhOWmdMOXJtaDNXdHZaNWhWdjNiRjdTNEZDdFo1QTFXeDRZWk9TTDRvTlVOTjMzWlhEa2R6V2xaczNXbkI0YnZNS3FUVE5yeXBvODBQOTdQWXJoUEtXcHVQX1YwS1VHcFE?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-11T19:33:14+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Rescatan a una mujer y dos niños atrapados por la crecida de un arroyo en Coria (Cáceres)",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdXNFY3I0UVg0MTBPcHU3a3pZbHpEMWpVMEFJbjhyUm12RVNhMWFDY21xemdnMGl3NFhuZDlXTXpCVEJPeUgtMTg1YXB4SG1fb0dXYmdlTkFNamw2SDFMX1pMbmpScVg0dmlZUmJZWkU3RDVhbVVNaWY2MXVIcDZRcmEyMjBpWkZGSnfSAYoBQVVfeXFMTUdPamloR3U0LTlUTEQwYVcwMzlwaXNzb3JaSUZfeHI4cUFDY0JfNVg2akNwZGdwdXlGTkIzcnJJOUhDRUdQOG05WWxJVGpaM2dIdDBLZ2plVXB5UEJIczJ4bGw3ZDk2VkM5NThvR21kczVRVVI1OVFnckktNC10WjJPVzRtQWdGRTRB?oc=5",
+     "fuente": "El Mundo",
+     "resumen": "",
+     "fecha": "2026-11-11T19:25:03+01:00",
+     "fecha_txt": "11 nov"
     },
     {
      "titulo": "Asturias espera más lluvia mientras Bruna y Charles dejan evacuados, ríos en alerta y daños por viento en España",
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-11T11:14:57+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Charles sacude casi toda España con fuertes lluvias y vientos de hasta 120 km/h",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzdaYlE0WkdwTkdnQU5IRElhVWpodm9qZGlCNFBKQVhDaWdncVEwNkF0REp4MEZ0d01wRHplT0lkbExRd2NxYmM0a1A4a1BsejZDN2M1cWtpZW5jenUzcGRkS0JWREVUSlp5Z1ZkN0RfVVpleVpISEFkVG9OUUM0a2cycmpieFZrVGNaaVlpMFF4NmZhN3hmWnBTd0dOdUg2LS1xOE9VanJIRFl1R3YyZ0xaNDhsUDZ6ZW93WnNmb2pfRjNuNXdrdA?oc=5",
-     "fuente": "Crónica Balear",
-     "resumen": "",
-     "fecha": "2026-11-11T11:11:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Las borrascas Bruna y Charles dejan lluvias torrenciales y rachas huracanadas en casi toda España: aviso rojo en Cáceres y Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVVdSMjlaX2JzbERsdWNsa0lVZGFTX0xweXIzVXhFOHUyZzJaOXRPcnVLS2lnangxODBuYVRMTlVScFI4aDhGSFl5RjEwZTRIZERMOHFfNFBGRnRaMjIyYTNTak9nWGJJT3NUSVg5MlJaR1hsYWZmU1E1SlVZTEdCeHdoNzJtSHRtdlNhTFU4ZjBOci1obXc2bXFvcEdmcEwxNmRkcUV6Tjk4OGk3LVU2TkhBZG9GWmUxOUYteXVNM3MwZWN3aThLc3JwTmdmRDg4QXdSeWoyZlFDT0tsNDlzc2dmQkR2OUdWTk5ZVUlCRUNhZHFXRFJwRFpwMU1Ra1XSAZoCQVVfeXFMUFhuZnFVanczekNNUzhhMGdSeHpmWkszelB4NS1fb3RTdkdxM1AyNkZSWjdVVmV5cHFWdURRaGVYMy16TG1zY2l1UXNMQjhrSWNhdHlUcGZfeHNad1BSY1RYTm10aHdHdlB6MGVrak83eWVZT0Q2Q2RReEpsYTE0ekgtSzBDcWJEYU9iLWE5cFEyZjZsUUJFQnRIaXNXTVEyeGpWcHI5a25YZlBWU2tZWHZkeHcyR2x6TWNfODNpRXZDUG10QzNNU3ZGV3d2YWt5UjNtMGFMbEhZTlhaUnFFMWpRNWpldEpTOXNIYWdpTWQ1VTB3SmxkWVFNVU1rUUdOY19JQnFocjhoY1RUaHdxT1F4X3NYOHJKeFNB?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-11T11:07:00+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -224,14 +224,6 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
-    {
-     "titulo": "Un «apagón ferroviario» con efectos en todos los sectores",
-     "url": "https://www.larazon.es/andalucia/apagon-ferroviario-efectos-todos-sectores_202611126af529a903bbf30bb0491460.html",
-     "fuente": "La Razón",
-     "resumen": "La interrupción del AVE afecta también a colectivos profesionales y familias que solo disponen de este medio para viajar desde Andalucía a Madrid, dado el alto coste de los vuelos y la larga duración ...",
-     "fecha": "2026-11-11T20:51:00+01:00",
-     "fecha_txt": "11 nov"
-    },
     {
      "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
@@ -265,6 +257,14 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "¿Apagón el 17 de noviembre? La verdad sobre un rumor que se está volviendo viral y que ya predijeron Los Simpson",
+     "url": "https://www.elmundo.es/economia/2026/11/12/6af575cf21efa0c1038b458b.html",
+     "fuente": "EL MUNDO",
+     "resumen": "¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Este rumor que comienza a hacerse viral en redes sociales sumado al apagón en Canarias, los ciberataques que no ...",
+     "fecha": "2026-11-11T12:56:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
      "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
      "fuente": "Vozpópuli on MSN",
@@ -273,19 +273,19 @@
      "fecha_txt": "10 nov"
     },
     {
+     "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
+     "fuente": "La Gaceta de la Iberosfera",
+     "resumen": "",
+     "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
