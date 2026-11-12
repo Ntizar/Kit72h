@@ -53,3 +53,5 @@
 | 2026-11-11 | huerto-emergencia-semillas-germinados | revamp | encolado | Publicador horneará: Playwright + gate + push |
 | 2026-11-12 | temperatura-sin-electricidad · revamp · encolado · Revamp 398w->1138w con 4 fuentes oficiales (UE, PC, AEMET, IDAE), 7 enlaces internos, tabla señales de alarma, 5 bloques
 | 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Revamp 398w->1138w con 4 fuentes oficiales, 7 internos, tabla, 5 bloques |
+| 2026-11-12 | mejor-cocina-portatil-gas-apagon | comparativa | encolado | 5 hornillos a gas para apagón, 1971 palabras, 5 enlaces Amazon, 3 fuentes oficiales, estacionalidad noviembre |
+| 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Frío y calor sin electricidad: ampliar 398→1200+ palabras, 7 bloques nuevos |
