@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T04:10:02+01:00",
+  "actualizado": "2026-11-12T07:10:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,19 +28,19 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Ante el temor por escasez de alimentos por el Fenómeno El Niño, ministro de Agricultura pide alistar una mochila de emergencia",
+     "url": "https://www.infobae.com/peru/2026/11/11/ante-el-temor-por-escasez-de-alimentos-por-el-fenomeno-el-nino-ministro-de-agricultura-pide-alistar-una-mochila-de-emergencia/",
+     "fuente": "Infobae",
+     "resumen": "Los consumidores temen que los efectos de El Niño provoquen dificultades en el traslado de alimentos desde el norte del país. El Ejecutivo asegura que, por ahora, el abastecimiento de Lima continúa co ...",
+     "fecha": "2026-11-11T09:44:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Bruselas insiste en el kit de emergencia de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0d2Y0Si0xZXAzOWFiZGxKYW0zY2R6UFVVMXJ2bGpmZFd2amZWbUxnOEpVNV80X2M5LUt2alFfOW93UVVSSUN0UVg0SXRhVW9XZXdUSTltYXBqTmZVY3ZiQXoxRldVSzAzR3VYb3JNMDhHdmFVOEUyVzdJZTZ1Q2NiSktDd0VJU1ctaTUwT3hyYkl2dXc?oc=5",
      "fuente": "Campitur",
      "resumen": "",
      "fecha": "2026-11-11T08:23:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Los vietnamitas que viven en Europa revelan que una mochila de supervivencia para 72 horas cuesta 13 millones de VND.",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpHYmtRN3FycVpQakZ2ZHhINU9Gd2FuT1ljX2dzVl9FaE02cl9DSmk4Y0plckpVaHE0YkJFSGYxTGdBenNrY2xZMG83ZmlsMGM3akV1dm5YVnRhZG9DSExqTGVkd0l4azZkQk12VE5NU2lxMDM5RlJld084RV93UWF6by1VdWdIWnVvMXhPeWtDQm5RbUJF?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-11T06:46:11+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-12T04:22:17+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
      "fuente": "Infobae",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-11T11:07:00+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "La borrasca Charles golpea España con lluvias torrenciales y vientos de hasta 120 km/h",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlBYSzE1UkNxT2RIX01xdERYMVZacllvWWx4dEo5X0pSekZQWDNMVVR4aUNaVXdMNUNzcVIxeVFLWnNtVjdIbzBDUF90QWNDTWQzcWpiS0JOM205dEtBLVd1SzZ6b09NaV9ON2xQZ2ZyX0p6YzlOeGJSNXdXMFJiTGw5WFBVZm1waE1nYjhnU1RfeFdSSndtaGZMMU1sXy1vSTNHcUl1YkRkMzNwN29pc3VFODR1NzQ4aXpTWV9fWHZRTExjR2xtMjFqMHFvdGRfSm1lRHY1VmRURV9qbFV4U2VFejJlZjA0V3VCbWp3?oc=5",
-     "fuente": "Diario del Alto Aragón",
-     "resumen": "",
-     "fecha": "2026-11-11T11:02:32+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Un «apagón ferroviario» con efectos en todos los sectores",
+     "url": "https://www.larazon.es/andalucia/apagon-ferroviario-efectos-todos-sectores_202611126af529a903bbf30bb0491460.html",
+     "fuente": "La Razón",
+     "resumen": "La interrupción del AVE afecta también a colectivos profesionales y familias que solo disponen de este medio para viajar desde Andalucía a Madrid, dado el alto coste de los vuelos y la larga duración ...",
+     "fecha": "2026-11-11T20:51:00+01:00",
+     "fecha_txt": "11 nov"
+    },
     {
      "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
@@ -241,12 +249,28 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Ni Red Eléctrica confiaba en el éxito de la huelga general: su previsión era un consumo para un día laborable al 100%",
+     "url": "https://www.elespanol.com/invertia/empresas/energia/20261112/red-electrica-confiaba-exito-huelga-general-prevision-consumo-dia-laborable/1003744454537_0.html",
+     "fuente": "El Español",
+     "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
+     "fecha": "2026-11-11T17:00:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
      "fuente": "Cadena SER",
      "resumen": "",
      "fecha": "2026-11-11T16:14:57+01:00",
      "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
+     "fecha": "2026-11-10T20:45:00+01:00",
+     "fecha_txt": "10 nov"
     },
     {
      "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
@@ -263,30 +287,6 @@
      "resumen": "",
      "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "España queda anclada al modo reforzado eléctrico durante meses para evitar otro apagón a costa de precios récord",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGRrakRIbHg5YnQtbHp5VTY4Tm1vb0ZSTFpxNlU0M0kyVHZCR29VOHN2ck80dWVvWXBCcm1CdkQ2ZFJnUzVYUnFXOTdVeXRuenhtc0h2ZUQ1cG1Cbm50RkVLYXlRSEZpUTdtR0F2WFd5dGZQbVpScFJOZWxlRXhPcXhFak80cDNpNDBmVkRzZ0VCMWFhVjMzbDJRWjJLUlJFTE5JWmRFdzFEbGxGb0o3SFVCeUNqNG9PYXJCZUdR0gHDAUFVX3lxTFBTQnlCV3RGX0RoNXpTNmtCcExSWERPYXNEbUhfNkF4clh4SlhHN0o4MFdMOG9TZ3dKb0p6YTY2RWpXQUZzVXAzWUdpaWpFSng2cFRtWHRqd1FHWDFtVVlFbXU1b0xKWThMYjBJVlZwSmdkcFFoS2owZDRsdGVobmNBRHkwZ2pjMTQ0dW5yRm1xNnByMTFXaUtMNHdVVmdSSzJqbV9pdUxsMEc1bWppT1U3TTRaRGlEN2ZWbVFLYkpNaVJaSQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-09T09:00:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Las energéticas sospechan que la operación antiapagones de Red Eléctrica será permanente",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE9uaHNYRGhOdk80NkRpWmZxMWhlZ0sxZzNDMklxQ1V6NXQ4WFh3OW05SmpyVkQ5MDdNcnpwcXVxWS1CSWVLMXY4R21lYW0wOFJWekFoeGFBNi1FaDFGWnMySmVLMTd4SjNyMHlNcEZMVTB1MXZOci1BYW10cFRvSERVZURPTmw5bnU4STQ0QU9neTZBcmNZOEgyUUdCSnluVzUyTXBZOUhqZmFIb2NnNXFRcXczMEN6aXExZTVTN1JnWktPYlRhV0VEMjRaUmFTbHfSAdcBQVVfeXFMT2lwbUF5UFhwWldBdHdpcnBtb0FhQ2V6MjJOV0trazdwbC1VR3hWeWhQOE5qdmF5a09GY09iMU90ZUZRblUweWF4VjcyOWNmYkdSdTA2Rmc0Snl4VDVPZVF6ZS1kVkx5bGpkRmo5RXFZM19ERFJKQzJMaDZQc3M3N0FON3dqQXQ2NzM3dkJXUTlzRXVzQ0ViZVFaTGxjYmN3c21nSEdsWGlnRGdyWTBFLUFkaUliUXZpZmoxZ0o0WFFLa2pHMVBtZ1FSZ1BrcUs0ZnpnRGtEME0?oc=5",
-     "fuente": "Vozpopuli",
-     "resumen": "",
-     "fecha": "2026-11-09T04:45:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "El \"Apagón Legislativo\" del 29-N: Las reformas judiciales y económicas en España que se han quedado en el aire",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV1VCSFpKVzZDMDZUd1lCV0toV0ctR3JLRV9GUEtyc3o4WDhKQ3pJNU9HUGJnMDRTb3dPWVFQN3hxNk11WTFwSW1CWEVpV1EzQzlodFJydGFUQnpSTkg4VXhvZUtRcWYxSkFIYjVwbVhMekl1Y3RRa0VfazZTODN4aW1KS251OFVjdXRzbGpPTTZXNGNzOFB6MHFja1Z2eTk1YkJEOFNlN1o4V2paR1owcXhPcXI0Zw?oc=5",
-     "fuente": "El Cierre Digital",
-     "resumen": "",
-     "fecha": "2026-11-09T03:45:01+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   }
