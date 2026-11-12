@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T16:11:01+01:00",
+  "actualizado": "2026-11-12T19:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -123,14 +123,6 @@
      "fecha_txt": "8 nov"
     },
     {
-     "titulo": "Incendio en Lucena: una mujer de 78 años y un hombre de 45, hospitalizados por inhalación de humo al arder la cocina de una vivienda",
-     "url": "https://www.msn.com/es-es/noticias/other/incendio-en-lucena-una-mujer-de-78-a%C3%B1os-y-un-hombre-de-45-hospitalizados-por-inhalaci%C3%B3n-de-humo-al-arder-la-cocina-de-una-vivienda/ar-AA2gZVxU",
-     "fuente": "Diario Córdoba on MSN",
-     "resumen": "El fuego se ha declarado sobre las 4.00 horas de la madrugada en un domicilio de la calle Arcas y ha movilizado a bomberos, sanitarios y efectivos de la Policía Local y Nacional ...",
-     "fecha": "2026-11-08T03:07:57+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
      "titulo": "Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para combatir los incendios forestales y quiere instalarla en Mallorca",
      "url": "https://okdiario.com/baleares/oficial-confirmado-ministerio-del-interior-espana-pide-ue-base-aerea-combatir-incendios-forestales-quiere-instalarla-mallorca-20709391",
      "fuente": "Okdiario",
@@ -145,6 +137,14 @@
      "resumen": "España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas. Unos incendios que cada vez son más violentos.",
      "fecha": "2026-11-06T17:00:00+01:00",
      "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Incendios en España: 301.681 ha quemadas",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekVXREhxRmVON1ptNE84NER5QzBJRHljQlJJOWRSb1plQTBpMkFESWVfZXVFV3c2Q3dIYS0tVEx5c09jR1NrcEtrZ2FCQUFpYTYzUUxTV2gwVHdNcHdnV3Yzdm1VVXVmTTV6UFVoVUR2dDdRbVRCUlFlR3dfU2lXNW9RZG1zT3JaX0J2RzRjTVVEQWpoMXFVQXBNZmJ4MXhZSHpBNXBXV3pJeXpUWHRfMmYySUptTjFMdHhaaVRQTUlmbWlvT1MxUHlON3ltVHpnOHEwWE1mV2NYUQ?oc=5",
+     "fuente": "Albaceteabierto",
+     "resumen": "",
+     "fecha": "2026-11-05T11:38:00+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   },
@@ -178,6 +178,22 @@
      "fecha_txt": "12 nov"
     },
     {
+     "titulo": "Pérez Llorca ha urgido al Gobierno a acelerar las obras contra inundaciones en la Comunitat Valenciana",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjdfYTkxRHozem42WnZsandrUjBwR0U1RnFMUGRTOXRaeXE4NE0xRm5KZkVXR1M0bkFRcy1uMklmd29xYV9sTThLcFVPdllaZUF6Y2xqV21ZZjdCSlJMRWg1SkFHeGQ1UVgzU183bzZLNGlmWkU0SWR0TE1vSENyZ2tySkl3MDdOTnVPblZPNTdCOXFNWXJCN2lPV0JCcHRxclJzRmZqQ3ZxdnFTSXpWdFdjVGUzaHJYRVFEbEZBMV9adkJDeG9Ea0hzMFF6T1hqeTNmU2libzBUcDlLUF9tdmxRY0xLYWhQWHZ4Zw?oc=5",
+     "fuente": "Castelló Extra",
+     "resumen": "",
+     "fecha": "2026-11-12T11:30:17+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "El PP se compromete a construir las presas pendientes en el Guadalentín para evitar inundaciones",
+     "url": "https://www.larazon.es/murcia/compromete-construir-presas-pendientes-guadalentin-evitar-inundaciones_202611126af5e9984196933d7edade8f.html",
+     "fuente": "La Razón",
+     "resumen": "Los senadores populares aseguran que, si gobierna Feijóo, el Ejecutivo destinará más de 30.000 millones de euros a la construcción de infraestructuras hídricas, entre ellas, las presas de Béjar, Torre ...",
+     "fecha": "2026-11-12T10:30:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Alerta roja en Madrid: grave riesgo de desbordamiento del río Manzanares a su paso por Rivas",
      "url": "https://www.libertaddigital.com/madrid/2026-11-12/alerta-roja-en-madrid-grave-riesgo-de-desbordamiento-del-rio-manzanares-a-su-paso-por-rivas-7490380/",
      "fuente": "Libertad Digital",
@@ -200,22 +216,6 @@
      "resumen": "La Confederación Hidrográfica del Tajo (CHT) ha activado este jueves el aviso rojo por riesgo de desbordamiento del río Manzanares a su paso por Rivas-Vaciamadrid debido al incremento del caudal provo ...",
      "fecha": "2026-11-12T03:29:00+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-12T01:31:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La Comunidad de Madrid activa el Plan por Riesgo de Inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0VGcDlRVWJDSXd6S3FZSHR2Tk0wc1dRdXJ0QnJsc2tDTTZ1TlBnR0FIek5TMWJpemc1Q2I2a2h4eE1WNHBrdDhCbU9HRUwyekhOelNFVzY0TXJrQmswUGlYQ0J3M2pvSjV4ckVULUs3eFJ0UjRSTlRtVGR4V1V5UGRRVm5lVnppSWF3ME9UODZiMUNqd28yOXhuVF9XMGZTVU1xLWszVnVZZVMyaXlJM1VYMnZQWknSAcsBQVVfeXFMTXpnaWxWN2N3OWtKdE1PTS1BbjNnZkM5anh0VnBiQWNfdkt3RDVhblpfM3FnQl9sUlBRRDNQampTQmxXRTRCNU5xeS1rNmh6V0JHLTU1UzBxVmFFN3VRRUgzdjFzMURWQS1WbHhOWmdMOXJtaDNXdHZaNWhWdjNiRjdTNEZDdFo1QTFXeDRZWk9TTDRvTlVOTjMzWlhEa2R6V2xaczNXbkI0YnZNS3FUVE5yeXBvODBQOTdQWXJoUEtXcHVQX1YwS1VHcFE?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-11T19:33:14+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
