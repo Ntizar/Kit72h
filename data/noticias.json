@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T13:11:01+01:00",
+  "actualizado": "2026-11-12T16:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -20,14 +20,6 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "¿Apagón el 17 de noviembre? La verdad sobre un rumor que se está volviendo viral y que ya predijeron Los Simpson",
-     "url": "https://www.msn.com/es-es/noticias/otras/apag%C3%B3n-el-17-de-noviembre-la-verdad-sobre-un-rumor-que-se-est%C3%A1-volviendo-viral-y-que-ya-predijeron-los-simpson/ar-AA2hhuuZ",
-     "fuente": "EL MUNDO on MSN",
-     "resumen": "El origen está en un simulacro de emergencia que va a tener lugar en EEUU en esa fecha. ¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Este rumor que comienza a hacerse viral en redes social ...",
-     "fecha": "2026-11-12T01:56:12+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
      "titulo": "Prepara, cuanto antes, un kit de supervivencia porque se avecina una gran crisis mundial, lo dice la Comisión Europea",
      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVnFYMHFfOTh4b281cWpTYXp6NkJEbWpJSnJIRldsM2I5VFdmMEtwMVVjQ3RHVGcwYnVoT0VYNzJQelEtOXRKdG9iemh0eV9iOU43WkxtdlI4NDRnRnJtVWhuQ1l0MFYxMFVMY2pqZWp4a0tia25EbzNvQXdDcjJQVDB1UTBQUjlCXzVNeXhCUjFtVU4wZ2VhN214elBleG44T09jbF9KU25PdldKQ0FMS1RORzg2aEp0MVRYTF9wSmJaZjVQaGdoTElRd3ltVXFnZ3hMSDhUTzZ5WHdxLVNLbE5jT1dXSkR3b0FPWW5WaHBCTEIwVUdFNG16Mm9RY0RFRVZZbEt1WktxdUxTTnJv0gH6AUFVX3lxTE93T3dfbzNDRmxTUlZLbF9yQl84OEhLWXc5TUhSYUlBZURlOTQycTVJWmdzTVA2NndGeFB4ZHFhUGlXemg2aEpiakFzUTE1YjRKMXkzU1RiSnVfVk9aaEQ3Ulk0N25mOXNXUnNHbGctUTc1OTFaMFpBbm42aDQxS2ppNWJla2YtU2s1Zi1lZWV0em05OVJTMzVZWnZTM1kwVWN1VkdFd3VycFlkM1JNNTRLeW1Gemk0d2VIM1FUSVotZlFFNF9DOXZ5ak05ZXg1T1ZhaGl5ZUR1cHEtckE2eDJGS1d1bjdPYWRjM0hzaDV2LUFHc2tEZDNZT1E?oc=5",
      "fuente": "El Economista",
@@ -41,14 +33,6 @@
      "fuente": "Canal 4 Tenerife",
      "resumen": "",
      "fecha": "2026-11-11T14:21:26+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Ante el temor por escasez de alimentos por el Fenómeno El Niño, ministro de Agricultura pide alistar una mochila de emergencia",
-     "url": "https://www.infobae.com/peru/2026/11/11/ante-el-temor-por-escasez-de-alimentos-por-el-fenomeno-el-nino-ministro-de-agricultura-pide-alistar-una-mochila-de-emergencia/",
-     "fuente": "Infobae",
-     "resumen": "Los consumidores temen que los efectos de El Niño provoquen dificultades en el traslado de alimentos desde el norte del país. El Ejecutivo asegura que, por ahora, el abastecimiento de Lima continúa co ...",
-     "fecha": "2026-11-11T09:44:00+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -74,6 +58,22 @@
      "resumen": "",
      "fecha": "2026-11-11T06:30:00+01:00",
      "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Action rebaja a 7,95 euros el dispositivo que no puede faltar en tu kit de emergencia: una radio 4 en 1 con linterna, panel solar y función power bank",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZTNjMG1uXzN3YUVaOWdaV0ZPbGloWWNOOV9VSU50OUptWTZDUUFoWEZtX2duS202QVRiQ2U4SUVhVEk0dEk2cUN1R194dU1kcE5MVjRVSTV3ZXk2Tk92a1hsNlo4SXhxWmtaVTQ4enhCdEZ3enVrZHRIRlZodnpWd2pMX3hhVk5BdVRDN1E2bjJPT0VGOXhBZldQazFpU1RtYUJYazVzWWg3eWZROEd6V2dnRE5TTWpCUDNwNVZBQjdXblRFaE5PWGNXYzA1OUNNWFBvVHMzUjQ2YmtZd2kxQlFDY0RNd1VhSVF6UDVKNko4NTZRWk5qRjRrQldLamNzdjdFMk5vZlM2OUNwOVhJY2dn?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-10T20:09:00+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Bruselas vuelve a recomendar tener un kit de emergencia en casa: esto es todo lo que debe incluir",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQS09veENRNTBoenhxajFuWDN5YkFkb2ZlOUM4cVlxUkhSWG42eEpoZlhkM1M5ekM3Z3hKUzc2RlJwTEhERmNLZ3ZMRVJvTmhKbjkzQjc2WENqSmVjRDctbGZjRk02UkRMczBTOXhKRjBJR2tSSVVzSFJCT1NnNk9WM1UyRjAyaklyZl9vSlg1ajdlSVZlTEF6Q2ZJRU1ITzBINF91RVhtc0wtaW94eUxNekZnLXN0Y0JkbFpLbkFYRm5kZ0cyNk9jV0FOcHZ6S01SdHBzaHZQVUxLbUtoVUtLRHFBT1hYaGxhTE5MR3hoTnVYa3p5YXgzeUJ6NVQ5UTIwZ3fSAYICQVVfeXFMTlVGQlM2elNPZ3ZwNW9WV3E1ZGt0STdvVEJDdVVncURNZWk3am45b2pUeE12cnlZa1BER1lNR3JqQUpBTXpidm4zUlBCQTVZbVBSazJvbGhVd0drTm5KbHZzd2pVSVZxbDBTSjJfRW5UZFp4SEJWUzRaYkFQMXhtWFBtclFZRXdlWnBiTTktUFd4MzlOSjY5YTVFNXYtdlBqanRIZGpnNEVKSmJqZ2pYYWVNMWM2UDBhanF2SkF6YmRhaVBTUXdBbXY0anZUbTJoQzAxbWRaNkNvZEFPSEtVNnQwTk5sZW5HeTVob2FQZzNxSWFuUllKcHRFa1ZRcHZqXzdR?oc=5",
+     "fuente": "LaSexta",
+     "resumen": "",
+     "fecha": "2026-11-10T14:53:47+01:00",
+     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -107,14 +107,6 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "Castilla y León lidera la superficie quemada de España con 60.318 hectáreas arrasadas",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa1B0bkRDcWVmeTVpMlpmbVZaeDNEbHVSZnE1VTJmcnpvRWc2UEwyMy1QenA0a0JsVnJVZjRGUVJQYUgzTjJRVUczZk1vVUFrYk9VaW9QVmZpYmFhU3hOWjBFcW84bXZndzl5d0VTNzd4MTQ2UnRmYUdEeHc5dEk2d2UyQk0zZ19tMzRnOHhXWXpPYWRnd1lrdWxHZUtXNF9CZ0NENEY4MzhUTHFlMVpfTjVzLXBlRlBXVGVhdTc2OUE5SFZUR1JtZDBZV3ZYWXExanlIVEJNRklKMktK0gHiAUFVX3lxTE90M1hLUVRpeW84NG1TcFJsY21USmN5U2g4eDVkamR6VF96WjFMVGVJckRwU1lNV01nM1NfX09iamVFSEJ3d2IyWktlRldpMTZELXBuTDc0dFlXbnNVUno4bXJxZnFPLTljRWJKM1hLS29iSXVzUzNucVhuUTluV0JuVGh5TXNwdS1yeEJCS2ZtY0lkUkd1SG56SVNrbjI1MFlqMjdmbFhlOERlOUVxVTFSdHB2cnhpbDc4ZHdPWDZXcEFsSDBVZFNjX2FUTXlVT0l5U1FXNy1mUUVwYmQ1NTJYNFE?oc=5",
-     "fuente": "Diario de Castilla y León",
-     "resumen": "",
-     "fecha": "2026-11-09T07:15:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
      "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
@@ -145,6 +137,14 @@
      "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
      "fecha": "2026-11-08T00:45:00+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
+     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
+     "fuente": "RTVE",
+     "resumen": "España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas. Unos incendios que cada vez son más violentos.",
+     "fecha": "2026-11-06T17:00:00+01:00",
+     "fecha_txt": "6 nov"
     }
    ]
   },
@@ -154,6 +154,22 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Pérez Llorca exige al Gobierno de España acelerar las obras contra las inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTV2aExGcTJUd01JbU00cURqM2lPZEdLWWVPTnhPaDlnSG1pOTdRU1ZCZXozVm1oanotSjN6SS13WHJDY3RNR1NBWkYwQXpjaTl0NFduU0pBN2tUdGtGT0VpMWlfS01ma3BxSGNzSmxYN2w3di1kVkhXN1dHMTNKNFhTYlJHYktCMnVXQ21mdEI1andvRkt3Y0EzSURWUks2ek1RSzBpMW82RHhjMnUxSUxn?oc=5",
+     "fuente": "Vegabajadigital",
+     "resumen": "",
+     "fecha": "2026-11-12T15:01:05+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-12T13:25:11+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Pérez Llorca exige al Gobierno acelerar las obras contra inundaciones en la Comunidad Valenciana",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZGFZempsUTVsc0lqUjdYUFo0T09ZbDhkVVEyVzJuRlViT2VmMFNUemszdXlnNDBUd18wMndCcHRkYXpta2djMzRIOTRzNDEzVUhId1VCeFprM1BiaUZCRTVhZ1lCVXpPaTJFWjYyWWxaS29qd2RsQXhoVXVDNDVEY0VGenI2VEFSbURZRll6QXprUDB4Zm9IQTZPTDhvbWdBMm91MGxkQ3RIRkNKMDNTaVVjUW1IT3dYc0VHSE9KZW9KYWZ2SHBVbnFjSHdxdy1mS1dRTmF5a3doSC12dHZWdzUxLUVZV3pZamlUUDBn0gHzAUFVX3lxTE1vdE44anZ0WG43YURxSG5FRVBrdVBOeHI0T2tudXA2V044RXhWTEhjNFRhSmJUR0hUNmNOQUxweWkyY2dqdy1CZmlYdWY5UjFoSEk2ODlGSjJ5RXZGLVNuWDZjWVJyYlVuSHE1TW1kTEx3cmp6Z3RnM1ZGcUxaUGtzYnYweUJtaVhEMHhjdGVVSGIzaGFfRzd2SDNsLVRobk9EQURadVFaY1czRm5SUlVORzkzM1BpRDNuRC1jLXJlZUZyY2N2bUJpWDFVS3g5RDY0VEhRLXg4NVhPRHVBOXI0cXNaX09aaHM1U1NuS09mTG04NA?oc=5",
      "fuente": "El Debate",
@@ -162,19 +178,19 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-12T10:23:26+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
      "titulo": "Alerta roja en Madrid: grave riesgo de desbordamiento del río Manzanares a su paso por Rivas",
      "url": "https://www.libertaddigital.com/madrid/2026-11-12/alerta-roja-en-madrid-grave-riesgo-de-desbordamiento-del-rio-manzanares-a-su-paso-por-rivas-7490380/",
      "fuente": "Libertad Digital",
      "resumen": "La Confederación Hidrográfica del Tajo eleva la alerta por riesgo de desbordamiento mientras el Jarama permanece en aviso amarillo.",
      "fecha": "2026-11-12T04:38:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "Declaran el aviso rojo por riesgo de desbordamiento del Manzanares a su paso por Rivas tras las intensas lluvias en Madrid",
+     "url": "https://www.elmundo.es/madrid/2026/11/12/6af58a4ee85ece4e428b4581.html",
+     "fuente": "EL MUNDO",
+     "resumen": "La Confederación Hidrográfica del Tajo (CHT) ha activado este jueves el aviso de nivel rojo por riesgo de desbordamiento del río Manzanares a su paso por la localidad ...",
+     "fecha": "2026-11-12T03:43:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-11T19:33:14+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Asturias espera más lluvia mientras Bruna y Charles dejan evacuados, ríos en alerta y daños por viento en España",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOU1nSl9vQU0tck5HdHQ0U00yTGFrM09rM3gxWWJaenNxWVZnMXgzYy0tLWpBMmk1d3RmSWxfZDluNjV4aVBUSFM3NmJ1d1p2TUxheUpQbnBPR2lqZTZGMDZMUFZUSFlMcnBGMTRJOEFxaTZKVzFydHhhN3c5RGtxYUk1X0tYMXktRXN1ejVpVnloY3RUWmdzajZSMlJHVXRlRTA4S3BfeDhYSUk4V2FmSlo5eEZfREJsUERMMHctMWlvX0kydDdGV09FOW50RzNZaWdFc3BUREc4S2tZb1Y1TTRraw?oc=5",
-     "fuente": "Asturias Mundial",
-     "resumen": "",
-     "fecha": "2026-11-11T18:13:04+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Charles provocará lluvias intensas y vientos de hasta 120 km/h en la Península",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnh1cDd5cHFnVHJmc2p1X2hIVEU4ZUdMWWpmcjZZLUpWYXJ1bWtiajIteWthLThkblNZZ3I2WjRoTjhrX3ZXRTFxaVVERjg5QnhlQnYwQkN5VDlpOF9pbUpaZ1dyV2Q5RngwbUlRbDlZOUhycjVqUGxnVlAyTXZpVG1YNEFOOXUwQ2lnN3N0TV9McXQtX1Z5OWZCQVF3WWZJaXhzcXNRZ1VJUVowenFaR3JuRVZjUlNvbWNiOTJyaUpWZWJkbXU1LVMtWVJaMld2NG83WDRKaFFPbWt3UlNHOWhn0gHnAUFVX3lxTE1Zam1KQzBUMVdnZmJwYXpzUXJZTDVTZ0NQMG1rNXJYb2tLcGNSODRLd0QxWjZCdHZ1N3BUUVlRWkVraEZ1TG9adVk3cGdiRXRadnRKRzhSNGVpaFpoZ1ZNZkJiazc2cDlSeEMtYmNZdFRWcXZuYnZVbUhFMy1xZmFfZ2RGQjZmQ3cxLXFCZS1Cc0FxQUtpUTBiemNtUjhCTkFzUk9DM0dhaEJFaGVXUTVob29BTUhKeTdWczgtd3ZGcEdLeExsMUkzbUU0MURJZ0MzQ0NyUnhzZi1fcTRGRlJ4ckhrOWY2TQ?oc=5",
-     "fuente": "Diario en Positivo",
-     "resumen": "",
-     "fecha": "2026-11-11T11:55:17+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -230,14 +230,6 @@
      "fuente": "Telemadrid",
      "resumen": "",
      "fecha": "2026-11-12T12:27:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La planta eléctrica de Los Realejos pudo evitar un apagón total en Tenerife",
-     "url": "https://elperiodicodelaenergia.com/la-planta-electrica-de-los-realejos-pudo-evitar-un-apagon-total-en-tenerife/",
-     "fuente": "El Periódico de la Energía",
-     "resumen": "La planta eléctrica de emergencia de Los Realejos pudo evitar que Tenerife sufriera un apagón total durante las incidencias registradas la semana pasada.",
-     "fecha": "2026-11-12T05:06:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -273,19 +265,27 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
-     "fuente": "Vozpópuli on MSN",
-     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
-     "fecha": "2026-11-10T20:45:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-10T17:55:17+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
