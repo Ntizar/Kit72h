@@ -90,6 +90,17 @@
 | mejor walkie talkie PMR446 largo alcance | media | compra | blog pendiente | ✅ hecha (2026-11-01) | P2 |
 | mejor depósito de agua plegable para emergencias | baja | compra | /blog/deposito-agua-plegable-hydrapak-seeker-3l/ | ✅ hecha (2026-11-03) | P2 |
 
+## Cluster G — frío e invierno: calentar y cocinar sin red (temporada nov-feb)
+| Keyword | Volumen ES | Intención | Destino | Estado | Prioridad |
+|---|---|---|---|---|---|
+| cómo calentar la casa sin electricidad | media (estacional) | info→compra | blog pendiente | pendiente | P1 |
+| mejor estufa catalítica para casa | media (estacional) | compra | blog pendiente | pendiente | P1 |
+| cómo cocinar sin electricidad ni gas | media (estacional) | info | blog pendiente | pendiente | P1 |
+| mejor cocina portátil de gas para apagones | media | compra | blog pendiente | pendiente | P1 |
+| mejor saco de dormir para dormir sin calefacción | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| qué llevar en el coche si nieva | media (estacional) | info | blog pendiente | pendiente | P2 |
+| mejor manta térmica de emergencia | baja (estacional) | compra | blog pendiente | pendiente | P3 |
+
 ## Reglas de contenido (para los crons)
 - Cada página nueva CITa fuente oficial con enlace (DG ECHO, Protección Civil, DGT, AEMET, 112).
 - SIEMPRE tag afiliado `ntizar-21`.
