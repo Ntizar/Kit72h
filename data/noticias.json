@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-12T22:11:01+01:00",
+  "actualizado": "2026-11-13T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,14 +11,6 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
-    {
-     "titulo": "¿De qué se trata el plan de emergencia ‘Black Sky’ para sobrevivir 72 horas sin internet ni electricidad?",
-     "url": "https://www.msn.com/es-xl/noticias/otras/de-qu%C3%A9-se-trata-el-plan-de-emergencia-black-sky-para-sobrevivir-72-horas-sin-internet-ni-electricidad/ar-AA2hk02c",
-     "fuente": "Metro Ecuador on MSN",
-     "resumen": "La BBC reveló cómo funcionaría un protocolo de emergencia ante un ciberataque o apagón masivo. El Gobierno británico pide a los ciudadanos almacenar alimen ...",
-     "fecha": "2026-11-12T12:07:23+01:00",
-     "fecha_txt": "12 nov"
-    },
     {
      "titulo": "Ni 48 ni 96 horas: por qué los expertos recomiendan que el kit de supervivencia sea de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWZEWUl5aW8yY2tZSVpsMC1RdUlfdjNRZWJmZDVJaTZSRTYxV3VZSkRTaWczVFZfV2tJUXFWYmxlN1Z1NGduZmUtcUcwelhWbGo4OGdkNm8yaWsxS2ZFNWlWOW9UcUgya1d3TzhFZVlsUzFQRWRhdWt0VXNNSy1kZHZTdGN2VDJCNWdVSzdSSnJkaWpVdGQxZHM1VjFhb1BjdUJBNXRseXdxSFI4WmdMN3JtbEVkbENqd1ZRVVppcUx5Smt5aS1HNmNkTHBnQjFDandrV0N6NGdXMmVKSlJfcNIB9AFBVV95cUxPanhGM1VoNHRBdTZpZUFzREZwUlVHOVpxdGxkejJLRXE0ejJwc3JOajQtRmotUHc4aklPX1VHN0dCa3FRLXdoTnUtYnpaaDFJRjNzY0dpZ2VsdTdsblpWMWx1WExEMHdydk15LU5vZ1pDU3J6SXZoaGlJTE5XWmd5cVFYdHgwWnEyaXhXRkxES0lzSllVSkxBc3ZQMXFtc3dtMWFLMU93MEJ1dmpDSFd5NkRhSElNVGRJazRhZFJaaXF2a1ZfMnZYRkNMN1hsbURqbVEtc3RlQWtDMVFKSVhXRzhLWnB0aEpWNWt4aWpWUnlzLXBC?oc=5",
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-11T06:46:11+01:00",
      "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-11T06:30:00+01:00",
+     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
+     "fuente": "Austerra Society",
+     "resumen": "",
+     "fecha": "2026-11-13T00:00:00+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "Incendios forestales en Galicia: la Xunta amplía el peligro alto",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzlYNEdtZWNiTERkRjdRZUlXZUp6Mk0tdnRtbzZXZjlPYk9sR2hENXZOQV9TNS1ISy1aTkozcjFlSm9MQWhEN1RiSHVQM0laLWR2a2ZwR1I0MDQwS2NxbnlBRXpuR0tfTEZHN3A2T3pKcUhPSVRGMWNqSjdTUU9jSTE0ekVyT1dKNW5PbnlqLTdIeGxyN2lEcnd3TnI5bm84cllEMW9xS29FdlA0dUZaZHFaclRGMWV0OC1aUW1zbnhOTnZkeGtRMWxrM2FRU1FZOTZRalFkSQ?oc=5",
@@ -107,6 +115,14 @@
      "fecha_txt": "9 nov"
     },
     {
+     "titulo": "Castilla y León lidera la superficie quemada de España con 60.318 hectáreas arrasadas",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa1B0bkRDcWVmeTVpMlpmbVZaeDNEbHVSZnE1VTJmcnpvRWc2UEwyMy1QenA0a0JsVnJVZjRGUVJQYUgzTjJRVUczZk1vVUFrYk9VaW9QVmZpYmFhU3hOWjBFcW84bXZndzl5d0VTNzd4MTQ2UnRmYUdEeHc5dEk2d2UyQk0zZ19tMzRnOHhXWXpPYWRnd1lrdWxHZUtXNF9CZ0NENEY4MzhUTHFlMVpfTjVzLXBlRlBXVGVhdTc2OUE5SFZUR1JtZDBZV3ZYWXExanlIVEJNRklKMktK0gHiAUFVX3lxTE90M1hLUVRpeW84NG1TcFJsY21USmN5U2g4eDVkamR6VF96WjFMVGVJckRwU1lNV01nM1NfX09iamVFSEJ3d2IyWktlRldpMTZELXBuTDc0dFlXbnNVUno4bXJxZnFPLTljRWJKM1hLS29iSXVzUzNucVhuUTluV0JuVGh5TXNwdS1yeEJCS2ZtY0lkUkd1SG56SVNrbjI1MFlqMjdmbFhlOERlOUVxVTFSdHB2cnhpbDc4ZHdPWDZXcEFsSDBVZFNjX2FUTXlVT0l5U1FXNy1mUUVwYmQ1NTJYNFE?oc=5",
+     "fuente": "Diario de Castilla y León",
+     "resumen": "",
+     "fecha": "2026-11-09T07:15:00+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
      "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
      "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
      "fuente": "La Gaceta",
@@ -129,22 +145,6 @@
      "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
      "fecha": "2026-11-08T00:45:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Telediario Fin de Semana España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas",
-     "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/espana-cierra-temporada-incendios-forestales-mas-280000-hectareas-quemadas/17304796/",
-     "fuente": "RTVE",
-     "resumen": "España cierra la temporada de incendios forestales con más de 280.000 hectáreas quemadas. Unos incendios que cada vez son más violentos.",
-     "fecha": "2026-11-06T17:00:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
-     "titulo": "En lo que va del año, España registra el 40% de las hectáreas quemadas por incendios en la Unión Europea, con 3.000 edificios y 6.200 personas afectadas.",
-     "url": "https://www.nuevaradio.org/2026/11/05/en-lo-que-va-del-ano-espana-registra-el-40-de-las-hectareas-quemadas-por-incendios-en-la-union-europea-con-3-000-edificios-y-6-200-personas-afectadas/",
-     "fuente": "nuevaradio.org",
-     "resumen": "El país representa el 42,9% de la superficie arrasada por incendios en la región, con 301.681 hectáreas afectadasEscucharPuntos claveResumenEspaña concentra ...",
-     "fecha": "2026-11-05T08:30:00+01:00",
-     "fecha_txt": "5 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "El río Alagón continúa en alerta roja y mantiene el riesgo de inundaciones en Extremadura",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkhlN0JuNW5Ca1NwRmRwRm5Qd181b0FqcDNXTFBXbTV4eTBPLTRIU3YwZUhjSWprVnNMaDV0MHFpYlp3bE1pSTB4REYyckw2Q0Vib0FxYTRTRVk5TTJteEptVkJaQzZqZkx5cVRLbmd4X1FLZ0N4bDZGMWdNRlBvZXFfNkpQOWpTY2ZxTHhZdW16aFFmQUNoY0dHM3hwa052bTZBUU41T3MxTlhUUjZncU9UQdIBuAFBVV95cUxOVGVVMkJzZ3F6QWRHSmRYa2dvOEloczhQZGJibUZ1dndYaTN4T2VYTkMyTGxSa0RNdVRDSTFnZ2ZRcWRlQUhNYWtNNXpfTXJDcHJTU3N3RnpGQXR3bjFlUE1rRURwSndsYUFrTGxsVTQ0LUNCOXEtRTZjYjhBQlF0UWdCYVJSejlJRnRJMUtwUm1MSVViUUJkOE4wb2dwUFBBaE1xWWZGYkNkNnFiSWQ2T0didU15Yk95?oc=5",
+     "fuente": "El Periódico Extremadura",
+     "resumen": "",
+     "fecha": "2026-11-12T19:07:05+01:00",
+     "fecha_txt": "12 nov"
+    },
     {
      "titulo": "Pérez Llorca exige al Gobierno de España acelerar las obras contra las inundaciones",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTV2aExGcTJUd01JbU00cURqM2lPZEdLWWVPTnhPaDlnSG1pOTdRU1ZCZXozVm1oanotSjN6SS13WHJDY3RNR1NBWkYwQXpjaTl0NFduU0pBN2tUdGtGT0VpMWlfS01ma3BxSGNzSmxYN2w3di1kVkhXN1dHMTNKNFhTYlJHYktCMnVXQ21mdEI1andvRkt3Y0EzSURWUks2ek1RSzBpMW82RHhjMnUxSUxn?oc=5",
@@ -194,28 +202,20 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "Alerta roja en Madrid: grave riesgo de desbordamiento del río Manzanares a su paso por Rivas",
-     "url": "https://www.libertaddigital.com/madrid/2026-11-12/alerta-roja-en-madrid-grave-riesgo-de-desbordamiento-del-rio-manzanares-a-su-paso-por-rivas-7490380/",
-     "fuente": "Libertad Digital",
-     "resumen": "La Confederación Hidrográfica del Tajo eleva la alerta por riesgo de desbordamiento mientras el Jarama permanece en aviso amarillo.",
-     "fecha": "2026-11-12T04:38:00+01:00",
+     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-12T01:31:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "Declaran el aviso rojo por riesgo de desbordamiento del Manzanares a su paso por Rivas tras las intensas lluvias en Madrid",
-     "url": "https://www.elmundo.es/madrid/2026/11/12/6af58a4ee85ece4e428b4581.html",
-     "fuente": "EL MUNDO",
-     "resumen": "La Confederación Hidrográfica del Tajo (CHT) ha activado este jueves el aviso de nivel rojo por riesgo de desbordamiento del río Manzanares a su paso por la localidad ...",
-     "fecha": "2026-11-12T03:43:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Aviso rojo por riesgo de desbordamiento del Manzanares en Rivas: el nivel del río supera el umbral de alerta",
-     "url": "https://www.telemadrid.es/noticias/madrid/aviso-rojo-riesgo-desbordamiento-rio-manzanares-rivas_1_2809394.html",
-     "fuente": "Telemadrid",
-     "resumen": "La Confederación Hidrográfica del Tajo (CHT) ha activado este jueves el aviso rojo por riesgo de desbordamiento del río Manzanares a su paso por Rivas-Vaciamadrid debido al incremento del caudal provo ...",
-     "fecha": "2026-11-12T03:29:00+01:00",
-     "fecha_txt": "12 nov"
+     "titulo": "La Comunidad de Madrid activa el Plan por Riesgo de Inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0VGcDlRVWJDSXd6S3FZSHR2Tk0wc1dRdXJ0QnJsc2tDTTZ1TlBnR0FIek5TMWJpemc1Q2I2a2h4eE1WNHBrdDhCbU9HRUwyekhOelNFVzY0TXJrQmswUGlYQ0J3M2pvSjV4ckVULUs3eFJ0UjRSTlRtVGR4V1V5UGRRVm5lVnppSWF3ME9UODZiMUNqd28yOXhuVF9XMGZTVU1xLWszVnVZZVMyaXlJM1VYMnZQWknSAcsBQVVfeXFMTXpnaWxWN2N3OWtKdE1PTS1BbjNnZkM5anh0VnBiQWNfdkt3RDVhblpfM3FnQl9sUlBRRDNQampTQmxXRTRCNU5xeS1rNmh6V0JHLTU1UzBxVmFFN3VRRUgzdjFzMURWQS1WbHhOWmdMOXJtaDNXdHZaNWhWdjNiRjdTNEZDdFo1QTFXeDRZWk9TTDRvTlVOTjMzWlhEa2R6V2xaczNXbkI0YnZNS3FUVE5yeXBvODBQOTdQWXJoUEtXcHVQX1YwS1VHcFE?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-11T19:33:14+01:00",
+     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -265,14 +265,6 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "El PP obligará a las eléctricas a tener disponibles las centrales de gas e hidroeléctricas para evitar apagones",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-pp-obligar%C3%A1-a-las-el%C3%A9ctricas-a-tener-disponibles-las-centrales-de-gas-e-hidroel%C3%A9ctricas-para-evitar-apagones/ar-AA2hbP5N",
-     "fuente": "Vozpópuli on MSN",
-     "resumen": "El Partido Popular quiere reformar de cabo a rabo el sistema eléctrico español. Desde que se produjera el fatídico apagón, el primero de la historia de España, el principal partido de la oposición ha ...",
-     "fecha": "2026-11-10T20:45:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
@@ -286,6 +278,14 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
