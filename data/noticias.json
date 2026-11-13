@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T07:11:01+01:00",
+  "actualizado": "2026-11-13T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo recomiendan",
+     "url": "https://okdiario.com/internacional/ue-recuerda-nuevo-importancia-tener-kit-emergencia-casa-que-debe-llevar-que-lo-recomiendan-20757241",
+     "fuente": "okdiario",
+     "resumen": "Un apagón que deje sin electricidad a miles de viviendas, problemas para pagar con tarjeta o una interrupción del suministro de agua son situaciones para las que la Unión Europea recomienda estar ...",
+     "fecha": "2026-11-13T01:29:00+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-11T06:30:00+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Action rebaja a 7,95 euros el dispositivo que no puede faltar en tu kit de emergencia: una radio 4 en 1 con linterna, panel solar y función power bank",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZTNjMG1uXzN3YUVaOWdaV0ZPbGloWWNOOV9VSU50OUptWTZDUUFoWEZtX2duS202QVRiQ2U4SUVhVEk0dEk2cUN1R194dU1kcE5MVjRVSTV3ZXk2Tk92a1hsNlo4SXhxWmtaVTQ4enhCdEZ3enVrZHRIRlZodnpWd2pMX3hhVk5BdVRDN1E2bjJPT0VGOXhBZldQazFpU1RtYUJYazVzWWg3eWZROEd6V2dnRE5TTWpCUDNwNVZBQjdXblRFaE5PWGNXYzA1OUNNWFBvVHMzUjQ2YmtZd2kxQlFDY0RNd1VhSVF6UDVKNko4NTZRWk5qRjRrQldLamNzdjdFMk5vZlM2OUNwOVhJY2dn?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-10T20:09:00+01:00",
-     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -89,6 +89,14 @@
      "resumen": "",
      "fecha": "2026-11-13T00:00:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
+     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
+     "fecha": "2026-11-12T12:40:00+01:00",
+     "fecha_txt": "12 nov"
     },
     {
      "titulo": "Incendios forestales en Galicia: la Xunta amplía el peligro alto",
@@ -123,11 +131,11 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
-     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
-     "fuente": "La Gaceta",
-     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
-     "fecha": "2026-11-08T08:46:00+01:00",
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
+     "fuente": "La Gaceta de la Iberosfera",
+     "resumen": "",
+     "fecha": "2026-11-08T16:49:31+01:00",
      "fecha_txt": "8 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-08T03:26:09+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "Es oficial y se ha confirmado por el Ministerio del Interior: España pide a la UE una base aérea para combatir los incendios forestales y quiere instalarla en Mallorca",
-     "url": "https://okdiario.com/baleares/oficial-confirmado-ministerio-del-interior-espana-pide-ue-base-aerea-combatir-incendios-forestales-quiere-instalarla-mallorca-20709391",
-     "fuente": "Okdiario",
-     "resumen": "El Ministerio del Interior ha pedido a la Unión Europea una base aérea en Mallorca para luchar contra los incendios forestales.",
-     "fecha": "2026-11-08T00:45:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
+     "fuente": "Hoy Aragón",
+     "resumen": "",
+     "fecha": "2026-11-13T09:44:52+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-13T00:13:26+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "El río Alagón continúa en alerta roja y mantiene el riesgo de inundaciones en Extremadura",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkhlN0JuNW5Ca1NwRmRwRm5Qd181b0FqcDNXTFBXbTV4eTBPLTRIU3YwZUhjSWprVnNMaDV0MHFpYlp3bE1pSTB4REYyckw2Q0Vib0FxYTRTRVk5TTJteEptVkJaQzZqZkx5cVRLbmd4X1FLZ0N4bDZGMWdNRlBvZXFfNkpQOWpTY2ZxTHhZdW16aFFmQUNoY0dHM3hwa052bTZBUU41T3MxTlhUUjZncU9UQdIBuAFBVV95cUxOVGVVMkJzZ3F6QWRHSmRYa2dvOEloczhQZGJibUZ1dndYaTN4T2VYTkMyTGxSa0RNdVRDSTFnZ2ZRcWRlQUhNYWtNNXpfTXJDcHJTU3N3RnpGQXR3bjFlUE1rRURwSndsYUFrTGxsVTQ0LUNCOXEtRTZjYjhBQlF0UWdCYVJSejlJRnRJMUtwUm1MSVViUUJkOE4wb2dwUFBBaE1xWWZGYkNkNnFiSWQ2T0didU15Yk95?oc=5",
@@ -167,14 +183,6 @@
      "fuente": "Vegabajadigital",
      "resumen": "",
      "fecha": "2026-11-12T15:01:05+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-12T13:25:11+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-12T01:31:00+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La Comunidad de Madrid activa el Plan por Riesgo de Inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0VGcDlRVWJDSXd6S3FZSHR2Tk0wc1dRdXJ0QnJsc2tDTTZ1TlBnR0FIek5TMWJpemc1Q2I2a2h4eE1WNHBrdDhCbU9HRUwyekhOelNFVzY0TXJrQmswUGlYQ0J3M2pvSjV4ckVULUs3eFJ0UjRSTlRtVGR4V1V5UGRRVm5lVnppSWF3ME9UODZiMUNqd28yOXhuVF9XMGZTVU1xLWszVnVZZVMyaXlJM1VYMnZQWknSAcsBQVVfeXFMTXpnaWxWN2N3OWtKdE1PTS1BbjNnZkM5anh0VnBiQWNfdkt3RDVhblpfM3FnQl9sUlBRRDNQampTQmxXRTRCNU5xeS1rNmh6V0JHLTU1UzBxVmFFN3VRRUgzdjFzMURWQS1WbHhOWmdMOXJtaDNXdHZaNWhWdjNiRjdTNEZDdFo1QTFXeDRZWk9TTDRvTlVOTjMzWlhEa2R6V2xaczNXbkI0YnZNS3FUVE5yeXBvODBQOTdQWXJoUEtXcHVQX1YwS1VHcFE?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-11T19:33:14+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -234,10 +234,10 @@
     },
     {
      "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWNCU1R6UDc5VzhEMVpxY1VJeWp1Q0k3b1gwbEhjdFBsc2dTNmExcGNWQVZvcWN6YVo0ZXg1c0JhVnFZY283TVZsNDhtdUV2Q0gwZTlQVjNScFNpWWpsQWdrS0RGX3hkaUZ6MlNlWWM5Um5sd0dqa3RualpNUUd3MGRYTm4xSFpYZ19KUGtTNmIzcVg10gGaAUFVX3lxTE92T2ZBWi02OUVuZlpaUHAzZ3ZqNWhyVmJOS1NXNGlFNjdSRy0xTHloNzU5TlRudko1bklJQnJybklFZ0pnM29sY0tfVHZnb2U3UEJqMlpGd0V3WjZ4TnN3QnEzSThMZzlFWDlpRTBUNzVDbDhfazgtUWgxR2Y4ZXN6MVhoWUxZbWw3eVcwaFU3T21zaDlUelN6VHc?oc=5",
+     "url": "https://www.telemadrid.es/noticias/sociedad/mayores-apagones-historia-mundo_1_2809838.html",
      "fuente": "Telemadrid",
-     "resumen": "",
-     "fecha": "2026-11-12T12:27:00+01:00",
+     "resumen": "España también vivió uno de los episodios eléctricos más importantes de su historia reciente. El 28 de abril de 2025, a las 12:33 horas, un cero eléctrico dejó sin suministro a la España peninsular y ...",
+     "fecha": "2026-11-12T05:27:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -273,19 +273,19 @@
      "fecha_txt": "11 nov"
     },
     {
+     "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
+     "fuente": "La Gaceta de la Iberosfera",
+     "resumen": "",
+     "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
      "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
