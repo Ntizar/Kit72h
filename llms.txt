@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Mejor estufa catalítica para casa: 6 modelos comparados (2026)](https://kit72h.com/blog/mejor-estufa-catalitica-para-casa-2026/): Comparativa de estufas catalíticas de butano para el hogar en invierno 2026: Orbegozo H 55 (#1 más vendido), Campingaz CR5000, Cecotec ReadyWarm... Con datos de consumo, potencia, seguridad y precio.
 - [Mejor cocina portátil de gas para apagones (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-cocina-portatil-gas-apagon/): Hornillo de camping a gas: cuál es el mejor para cocinar sin electricidad durante un apagón, cuánto consume y cuánto cuesta mantener a tu familia
 - [El kit que compraría C. Tangana para salvar la música española (2026)](https://kit72h.com/blog/kit-que-salva-la-musica-espanola/): Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que
 - [HydraPak Seeker 3L y 10L: el depósito de agua plegable que sí merece un hueco en tu kit (2026)](https://kit72h.com/blog/deposito-agua-plegable-hydrapak-seeker-3l/): 3 litros en 92 gramos con filtro de rosca de 42 mm, y su versión de 10 L con grifo para la reserva de casa. Análisis honesto del HydraPak Seeker: por qué
