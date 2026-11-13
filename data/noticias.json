@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T10:11:01+01:00",
+  "actualizado": "2026-11-13T13:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,11 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo recomiendan",
-     "url": "https://okdiario.com/internacional/ue-recuerda-nuevo-importancia-tener-kit-emergencia-casa-que-debe-llevar-que-lo-recomiendan-20757241",
-     "fuente": "okdiario",
-     "resumen": "Un apagón que deje sin electricidad a miles de viviendas, problemas para pagar con tarjeta o una interrupción del suministro de agua son situaciones para las que la Unión Europea recomienda estar ...",
-     "fecha": "2026-11-13T01:29:00+01:00",
+     "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo ...",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmJ3QmNVOWtPR0tMZkNucmpPTVREajkwUk94YzQxb0ctVGNGVXl4Ml9EVnZCMjBnQ0ZkcFRNdjZXemVlSlFWNHZrU1Y5T0ltTHl2MUh6YmZwVHM1Y1ZacS1wOWQ1SDk5cS1GMjJiWVVvN0dwWGp6cEVfZXh6LTdCSTJ4U2MyZUFYQVRSZU9vVG5IcE03eEJRSC1IY01YNGVNWklmbERMMVdrQ3pJY2ZSUjg1cHgxR0hwS2pHMzJTeml4N3hiZUh2TWJPRnNJdU3SAdQBQVVfeXFMTUZQY2psc0pockQxa2llRHVnV0taRko4NTRDNDZLR00xNmdMeDl2dWktMnZaUWZBc0lIQ1l4SjhyWDVaSVlpRUxfSE5UcHA3a3dQdDlUNGRselJDdzhOaThhdVhtY2pWYW9wTGRRQnBqWFRxUlg5bThVWEcySlFJUmQ3bHdQaUJVZ3N4aTE3ZndlVGVCUjQxbkM0UGNTbGZwU3B6cVZiMUNoTl92Vk10eHZnbnpfTEg5NE9kR2I2dUpuMlRmX3VYVFk4aG9iVW1PZ0V0SlU?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-13T08:30:47+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -83,6 +83,30 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
+     "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
+     "fuente": "Europa Press on MSN",
+     "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
+     "fecha": "2026-11-13T05:03:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "La Eurocámara pide una flota europea contra incendios y más recursos para anticiparse a las catástrofes",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-euroc%C3%A1mara-pide-una-flota-europea-contra-incendios-y-m%C3%A1s-recursos-para-anticiparse-a-las-cat%C3%A1strofes/ar-AA2hmaiH",
+     "fuente": "Europa Press on MSN",
+     "resumen": "El Mecanismo de Protección Civil se ha activado 12 veces en España en la última década, entre ellas en incendios de Ávila y Madrid del verano BRUSELAS/MADRID, 13 (EUROPA PRESS) El Parlamento Europeo h ...",
+     "fecha": "2026-11-13T04:03:59+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
+     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
+     "fecha": "2026-11-13T02:40:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
      "fuente": "Austerra Society",
@@ -91,36 +115,12 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
-     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
-     "fuente": "Levante-EMV",
-     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
-     "fecha": "2026-11-12T12:40:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
      "titulo": "Incendios forestales en Galicia: la Xunta amplía el peligro alto",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzlYNEdtZWNiTERkRjdRZUlXZUp6Mk0tdnRtbzZXZjlPYk9sR2hENXZOQV9TNS1ISy1aTkozcjFlSm9MQWhEN1RiSHVQM0laLWR2a2ZwR1I0MDQwS2NxbnlBRXpuR0tfTEZHN3A2T3pKcUhPSVRGMWNqSjdTUU9jSTE0ekVyT1dKNW5PbnlqLTdIeGxyN2lEcnd3TnI5bm84cllEMW9xS29FdlA0dUZaZHFaclRGMWV0OC1aUW1zbnhOTnZkeGtRMWxrM2FRU1FZOTZRalFkSQ?oc=5",
      "fuente": "Meteorologia en red",
      "resumen": "",
      "fecha": "2026-11-11T04:39:22+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
-     "fuente": "La Crónica de Badajoz",
-     "resumen": "",
-     "fecha": "2026-11-09T14:48:52+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-09T13:02:54+01:00",
-     "fecha_txt": "9 nov"
     },
     {
      "titulo": "Castilla y León lidera la superficie quemada de España con 60.318 hectáreas arrasadas",
@@ -154,11 +154,35 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Andalucía desactiva el plan de emergencia por inundaciones tras finalizar los avisos",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTQ5bzlvZENoR3JYd0ItM3RQenMxVlVTZDIyQ1A1QWJnNTlEeWs5V1hTTUl4am1IMkVZSzIyR1kzQ1A3cENwQ0ZmOUR2aGRZT3JqNXVmMWZTb1dIYUN6S21TQWxnckc5SzhrV3lUT1hDWVpYSzR2dnowSmJ5d1pTdXhlS2NlUUNXMWs1MG5ZMjBsd19LR1FSbWJYTE16V25jTlVmSkpBcWprUEN2czFQM1UwZ2RRV2Z0SllfeUdpaXhYM2wxSUEzSEE5Smp4N2JmWEHSAewBQVVfeXFMTjBGNHdJTUpZSnBiaVVNa2FPR0pCQzRtT0dGaDBKWEcwWXFZYi1IUzFoVmdZWGJMXzh3TVRrU2ltRHJvd19rY09HMHFFcm8tRm1Oa0VRRFhXd1VnRVI1QUQ0bjJUYnY4bU5OemZPSEU3WnlLVUZkSC1LY0JyUjR4UGN2X3ZhdDhRNm5rbVB1ZWZKVjItd1I3NHV6MGJtRDRaQmZDd3lSSHBOdG1IN2JOVldqVTJTeWR0RmtCWjRaUW9NcmxFSnA1MDE2NlBERHI4RU5BWFNvUUhBQ2RUbXowWW5xRmZzZE8yNHQzMXU?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-13T12:17:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "La CHS licita el proyecto para encauzar el arroyo de Letur (Albacete) y evitar inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTdzek5ONVN4dkRLdDNRbWdwdTFoWFpwQ0dKT0ptVGxlRnh4M05QTy1ueHpRTVBZellncWNPdWpNR1JQWjlTWG4zSjdIejNrU2xQRHhmazhKQzZ6MlpMeDNTZ3l3ajNfUUZoWHE0TnV0LXU2VWV0UEFkT0xzcWV0V1RualozcEFYNHlyUk4xT3dEU0RTNUtEOWpjUGYyUjF6U1owd2tTc0xPX2FQSTRqWnh2TWdBM0ZTeGpHc0RwVFZwTS1pZXg2T2JHRE1zUQ?oc=5",
+     "fuente": "ENCLM",
+     "resumen": "",
+     "fecha": "2026-11-13T10:45:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
      "fuente": "Hoy Aragón",
      "resumen": "",
      "fecha": "2026-11-13T09:44:52+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "La Confederación Hidrográfica del Segura saca a licitación el encauce del arroyo en Letur para evitar inundaciones",
+     "url": "https://www.msn.com/es-es/noticias/other/la-confederaci%C3%B3n-hidrogr%C3%A1fica-del-segura-saca-a-licitaci%C3%B3n-el-encauce-del-arroyo-en-letur-para-evitar-inundaciones/ar-AA2hmC4F",
+     "fuente": "La Razón on MSN",
+     "resumen": "La convocatoria está dotada con un importe de 155.247,84 euros y el plazo de recepción de ofertas finaliza el 30 de noviembre.",
+     "fecha": "2026-11-13T04:30:13+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -192,30 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-12T11:42:24+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Pérez Llorca ha urgido al Gobierno a acelerar las obras contra inundaciones en la Comunitat Valenciana",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjdfYTkxRHozem42WnZsandrUjBwR0U1RnFMUGRTOXRaeXE4NE0xRm5KZkVXR1M0bkFRcy1uMklmd29xYV9sTThLcFVPdllaZUF6Y2xqV21ZZjdCSlJMRWg1SkFHeGQ1UVgzU183bzZLNGlmWkU0SWR0TE1vSENyZ2tySkl3MDdOTnVPblZPNTdCOXFNWXJCN2lPV0JCcHRxclJzRmZqQ3ZxdnFTSXpWdFdjVGUzaHJYRVFEbEZBMV9adkJDeG9Ea0hzMFF6T1hqeTNmU2libzBUcDlLUF9tdmxRY0xLYWhQWHZ4Zw?oc=5",
-     "fuente": "Castelló Extra",
-     "resumen": "",
-     "fecha": "2026-11-12T11:30:17+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "El PP se compromete a construir las presas pendientes en el Guadalentín para evitar inundaciones",
-     "url": "https://www.larazon.es/murcia/compromete-construir-presas-pendientes-guadalentin-evitar-inundaciones_202611126af5e9984196933d7edade8f.html",
-     "fuente": "La Razón",
-     "resumen": "Los senadores populares aseguran que, si gobierna Feijóo, el Ejecutivo destinará más de 30.000 millones de euros a la construcción de infraestructuras hídricas, entre ellas, las presas de Béjar, Torre ...",
-     "fecha": "2026-11-12T10:30:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-12T01:31:00+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -233,11 +233,19 @@
      "fecha_txt": "12 nov"
     },
     {
+     "titulo": "Red Eléctrica saldará la deuda con las centrales que levantaron el apagón en diciembre de 2027, más de dos años y medio después",
+     "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6ae2244fe9cf4ae95d8b4591.html",
+     "fuente": "EL MUNDO",
+     "resumen": "Red Eléctrica ha despejado al fin una de las incógnitas pendientes del gran apagón de 2025: cuándo terminará de pagar los casi 30 millones que adeuda a las centrales ...",
+     "fecha": "2026-11-12T18:08:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
-     "url": "https://www.telemadrid.es/noticias/sociedad/mayores-apagones-historia-mundo_1_2809838.html",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWNCU1R6UDc5VzhEMVpxY1VJeWp1Q0k3b1gwbEhjdFBsc2dTNmExcGNWQVZvcWN6YVo0ZXg1c0JhVnFZY283TVZsNDhtdUV2Q0gwZTlQVjNScFNpWWpsQWdrS0RGX3hkaUZ6MlNlWWM5Um5sd0dqa3RualpNUUd3MGRYTm4xSFpYZ19KUGtTNmIzcVg10gGaAUFVX3lxTE92T2ZBWi02OUVuZlpaUHAzZ3ZqNWhyVmJOS1NXNGlFNjdSRy0xTHloNzU5TlRudko1bklJQnJybklFZ0pnM29sY0tfVHZnb2U3UEJqMlpGd0V3WjZ4TnN3QnEzSThMZzlFWDlpRTBUNzVDbDhfazgtUWgxR2Y4ZXN6MVhoWUxZbWw3eVcwaFU3T21zaDlUelN6VHc?oc=5",
      "fuente": "Telemadrid",
-     "resumen": "España también vivió uno de los episodios eléctricos más importantes de su historia reciente. El 28 de abril de 2025, a las 12:33 horas, un cero eléctrico dejó sin suministro a la España peninsular y ...",
-     "fecha": "2026-11-12T05:27:00+01:00",
+     "resumen": "",
+     "fecha": "2026-11-12T12:27:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -278,14 +286,6 @@
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-10T17:55:17+01:00",
      "fecha_txt": "10 nov"
     }
    ]
