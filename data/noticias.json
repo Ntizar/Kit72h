@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T13:11:02+01:00",
+  "actualizado": "2026-11-13T16:11:03+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU9qRU82MGEwc3VPalpQRlVZZmhDVDJDalM1aEVEbGJhZkpzdmdGa09LTndfa29iX1dJdkRScjF6UlFDZmxGeFJ4VUdJMWZKTHM4cjJWR3R1UDF0b0dfSTRkaGNsVjFaZm5DTkh5a1lXM2J2dFdLMmpUM1NELXU3QVBzMmJwbUU?oc=5",
+     "fuente": "Pasquale Pillitteri",
+     "resumen": "",
+     "fecha": "2026-11-13T14:51:32+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo ...",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmJ3QmNVOWtPR0tMZkNucmpPTVREajkwUk94YzQxb0ctVGNGVXl4Ml9EVnZCMjBnQ0ZkcFRNdjZXemVlSlFWNHZrU1Y5T0ltTHl2MUh6YmZwVHM1Y1ZacS1wOWQ1SDk5cS1GMjJiWVVvN0dwWGp6cEVfZXh6LTdCSTJ4U2MyZUFYQVRSZU9vVG5IcE03eEJRSC1IY01YNGVNWklmbERMMVdrQ3pJY2ZSUjg1cHgxR0hwS2pHMzJTeml4N3hiZUh2TWJPRnNJdU3SAdQBQVVfeXFMTUZQY2psc0pockQxa2llRHVnV0taRko4NTRDNDZLR00xNmdMeDl2dWktMnZaUWZBc0lIQ1l4SjhyWDVaSVlpRUxfSE5UcHA3a3dQdDlUNGRselJDdzhOaThhdVhtY2pWYW9wTGRRQnBqWFRxUlg5bThVWEcySlFJUmQ3bHdQaUJVZ3N4aTE3ZndlVGVCUjQxbkM0UGNTbGZwU3B6cVZiMUNoTl92Vk10eHZnbnpfTEg5NE9kR2I2dUpuMlRmX3VYVFk4aG9iVW1PZ0V0SlU?oc=5",
@@ -25,6 +33,14 @@
      "fuente": "https://estapasando.cl/",
      "resumen": "",
      "fecha": "2026-11-12T16:08:23+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "¿Un apagón de 72 horas el 17 de noviembre? Esto es lo que va a ocurrir",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkt1RU9HNjRwb2YtV3BDUTFxLWw3Z3VBNXVhc0M3czYwMDBfNGZjZ1RjSTFQeGZPUi1WSzdTU2p3SmZYU05lbWVJX2RvaWdKTnZGU2FPeWJNUW9xNWNjR3NiX1Y4d1R4LWVWZFdEa2txbGhfdkJ3NEE1NFlaUTFYYUxsT3VRcV9rTnBFNENCYlp5cW1QZFV2Rll0TDZpMDlBVTVaR0Rnd2F0bWg4cDAyd01xOGQ1enNrOVRlMEhyTTVSckYtREhLNdIB0wFBVV95cUxOcEZ3SThZa0hpQURkU2todXVvT1NSTEVxQzRISVFRa0h1bTJQQ1F5bHFUQjlVUVlXR19lR2I5Q00teE81UVdNVkQtVk5VcGRlZkxyeGI5WWdQUVBPMWpTdmtJdGZsMDNxbUhtQS1EX3NNLVllRzVic0ZfUDBwazJBMDEyRm5ZWjhnS2U5VFRHTmh4MTdvNTc0Q29TMVVpdVRBT1dXUDU4N3hCcGFzcWtNaUZoVldqZ3BMbkRkRkFHSU9aeEZ6a0g1bWtVb0NmZGx2Qnhj?oc=5",
+     "fuente": "Libertad Digital",
+     "resumen": "",
+     "fecha": "2026-11-12T13:48:33+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-11T13:52:58+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Bruselas insiste en el kit de emergencia de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjc0d2Y0Si0xZXAzOWFiZGxKYW0zY2R6UFVVMXJ2bGpmZFd2amZWbUxnOEpVNV80X2M5LUt2alFfOW93UVVSSUN0UVg0SXRhVW9XZXdUSTltYXBqTmZVY3ZiQXoxRldVSzAzR3VYb3JNMDhHdmFVOEUyVzdJZTZ1Q2NiSktDd0VJU1ctaTUwT3hyYkl2dXc?oc=5",
-     "fuente": "Campitur",
-     "resumen": "",
-     "fecha": "2026-11-11T08:23:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-11T06:30:00+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -83,19 +83,43 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Expertos de España y Portugal estudian en Cáceres crear un sello para actividades económicas que prevengan incendios",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdndZY2xmREx0R0ZZOXBNcVVwaWMzcjZRUi1xTkYwaXUweUsyaE01NzJkclRCU2RuX29Sdldzc2hXR29VT2tTYWNObFBMd0tsSHZ6TnhJQzdBR0hmc3VYT05KM1FLY0RVSW9OdVBVVTNfOVMzZzExTjNRVUt4emJFRi1mTWhuejFhVWptdDVkYm11eDZGZHI5NzM0bF9pd1Fmc09FOXZteExCQVR4dlV6cURjTkVLNndZS1d6bzUyaWRFQTUxSExGUUlNd0V5aFdrTno4QV9xNm5oZHB2Wld6LUpWSEZCX0lFQ0F4TERLVmY?oc=5",
+     "fuente": "Diario Siglo XXI",
+     "resumen": "",
+     "fecha": "2026-11-13T15:42:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
+     "fuente": "Lanza Digital",
+     "resumen": "",
+     "fecha": "2026-11-13T14:01:39+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlZaVm1wTWlCRmhlSTdWd3FMX2RWUzRPUmY2YmFWSFdYekxQdFMzcnI0OEkyWXk2anhYYXVqRVVyUFg4VzR1aVBaRXA0d3NLdXczN2ZjczVaMktBX3UwS2l6YmtKVzQwcFcwY2hrM1JBekczQzg3ZUUyZHRHeERjTjlRTF93c1FaNnhwZWlkNzB2ZUJpMDFsVkhTdU5tUXRJWEFwMjY2MzZ6aS1CUEwyREFtVG5ldHNwWUc2S1ZoSEp3T3M?oc=5",
+     "fuente": "somosCLM",
+     "resumen": "",
+     "fecha": "2026-11-13T13:25:59+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Alerta máxima ante posibles incendios: Asturias se queda desde hoy sin sus dos helicópteros de extinción",
+     "url": "https://www.lne.es/asturias/2026/11/13/asturias-queda-hoy-helicopteros-incendios-136408169.html",
+     "fuente": "La Nueva España",
+     "resumen": "La grave situación de la adjudicataria del servicio, Eliance, y sus impagos deja sin servicio las dos aeronaves, aunque sigue operativa por el momento la medicalizada del 112.",
+     "fecha": "2026-11-13T06:50:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
      "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
      "fecha": "2026-11-13T05:03:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "La Eurocámara pide una flota europea contra incendios y más recursos para anticiparse a las catástrofes",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-euroc%C3%A1mara-pide-una-flota-europea-contra-incendios-y-m%C3%A1s-recursos-para-anticiparse-a-las-cat%C3%A1strofes/ar-AA2hmaiH",
-     "fuente": "Europa Press on MSN",
-     "resumen": "El Mecanismo de Protección Civil se ha activado 12 veces en España en la última década, entre ellas en incendios de Ávila y Madrid del verano BRUSELAS/MADRID, 13 (EUROPA PRESS) El Parlamento Europeo h ...",
-     "fecha": "2026-11-13T04:03:59+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -121,30 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-11T04:39:22+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Castilla y León lidera la superficie quemada de España con 60.318 hectáreas arrasadas",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa1B0bkRDcWVmeTVpMlpmbVZaeDNEbHVSZnE1VTJmcnpvRWc2UEwyMy1QenA0a0JsVnJVZjRGUVJQYUgzTjJRVUczZk1vVUFrYk9VaW9QVmZpYmFhU3hOWjBFcW84bXZndzl5d0VTNzd4MTQ2UnRmYUdEeHc5dEk2d2UyQk0zZ19tMzRnOHhXWXpPYWRnd1lrdWxHZUtXNF9CZ0NENEY4MzhUTHFlMVpfTjVzLXBlRlBXVGVhdTc2OUE5SFZUR1JtZDBZV3ZYWXExanlIVEJNRklKMktK0gHiAUFVX3lxTE90M1hLUVRpeW84NG1TcFJsY21USmN5U2g4eDVkamR6VF96WjFMVGVJckRwU1lNV01nM1NfX09iamVFSEJ3d2IyWktlRldpMTZELXBuTDc0dFlXbnNVUno4bXJxZnFPLTljRWJKM1hLS29iSXVzUzNucVhuUTluV0JuVGh5TXNwdS1yeEJCS2ZtY0lkUkd1SG56SVNrbjI1MFlqMjdmbFhlOERlOUVxVTFSdHB2cnhpbDc4ZHdPWDZXcEFsSDBVZFNjX2FUTXlVT0l5U1FXNy1mUUVwYmQ1NTJYNFE?oc=5",
-     "fuente": "Diario de Castilla y León",
-     "resumen": "",
-     "fecha": "2026-11-09T07:15:00+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión...",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDY2NDdxclo5bXg2SHdDS2tUT1YwRHRQcjdOMlZuYVNibDdYR1NNd2t3dWdESTluSFREUkFPY3lhYXFsM0lQeVo2Ml9vdEdoblJfUWhvbnRrdVBuOGRwck90eUlBMFpfOFJBeXZBOEdSMVFWdjVRZGtHOTRpbVJ2Q09ELWh3MENPMDB5anB6dHhvSDJqVGdVWUNNdzJqRjJneHNzbUdVc0cwMVh3azFDNjRlRzZ0SUVJei1GVmttSVpxN1lhd21PWEZoX2l2dWZaRWItZmtLNk5NRGg5ZXhZMS1HMG3SAeoBQVVfeXFMUFVLb2tSdlplX0dXTjNSdGtuaGtVaEREX05SaG5Ed2pqVHpER0pvTjNVcW1JVmV1X3lCTWdSb3JSb3pFMFBEaEZLVkJpY2VSTFJmSk1ncjIxU1JRck5neVNsUldKc0t5T2pXUXVTOVprbkF3MnNOd1dvbU5xY2dCTVYzWVdNMEtFU1hwS185VUhQWnItQkVOdkl1V01QeDhlUmMwYjJsTG9vYjltM0pqMEVuSVZ0b3hadmxfdE1jcVBsMmpDUktDSEpvM3g1VUcyVVBWbHRTNHgzNzUydUdIZDVJZE01V3g5Ry1R?oc=5",
-     "fuente": "La Gaceta de la Iberosfera",
-     "resumen": "",
-     "fecha": "2026-11-08T16:49:31+01:00",
-     "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La España en llamas: diez años de infierno forestal",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX05WOHZ1bkF0RGI3UVFFQldGRVBfbXRWeVJtZTJPWEF6Zkp2dnNobTJzQTNaZThJOXRGcnBTbFdsZnRUZXR4bDRmY0Vkbi1fVGU2aEJUcWZQLVhWX1dMNW5mWnVqQ0JjOW9oOGFHbWp4cjJRNEZzWDZPT3cxOUpndHBFbVM5NmcwSUZlZlFuMHZvVGVZNEM5a0RYeDI3WHd5eUNyR1RhZHFBYmdIVWhfSdIBxAFBVV95cUxNX19zNWczamUta2l2cjZYMURqXy1QaXNKMlBRV2k1OGhtd3RhU3JxVVBLWlhLWUtOSThMRkFPYlEzdHkxai1MejVtX0hna0hWMGotMnZ4OU5Jdks2c1Bpc3VYZ2ZJblRzeFZtUEw0ZlBINWQ0Q1ZGY1JBemNjNG1HR2h0TW9icVdIUEhXeV8wQm01LU0xV0dkT2lPeTZmenU4VDVYUVBuV1ZSM2p3T2tfWHBqUE1DcnJNMkFkVFRXZWtJV3BD?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-08T03:26:09+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -159,22 +159,6 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-13T12:17:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "La CHS licita el proyecto para encauzar el arroyo de Letur (Albacete) y evitar inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVTdzek5ONVN4dkRLdDNRbWdwdTFoWFpwQ0dKT0ptVGxlRnh4M05QTy1ueHpRTVBZellncWNPdWpNR1JQWjlTWG4zSjdIejNrU2xQRHhmazhKQzZ6MlpMeDNTZ3l3ajNfUUZoWHE0TnV0LXU2VWV0UEFkT0xzcWV0V1RualozcEFYNHlyUk4xT3dEU0RTNUtEOWpjUGYyUjF6U1owd2tTc0xPX2FQSTRqWnh2TWdBM0ZTeGpHc0RwVFZwTS1pZXg2T2JHRE1zUQ?oc=5",
-     "fuente": "ENCLM",
-     "resumen": "",
-     "fecha": "2026-11-13T10:45:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-11-13T09:44:52+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -215,6 +199,22 @@
      "fuente": "El Debate",
      "resumen": "",
      "fecha": "2026-11-12T11:42:24+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "Pérez Llorca ha urgido al Gobierno a acelerar las obras contra inundaciones en la Comunitat Valenciana",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjdfYTkxRHozem42WnZsandrUjBwR0U1RnFMUGRTOXRaeXE4NE0xRm5KZkVXR1M0bkFRcy1uMklmd29xYV9sTThLcFVPdllaZUF6Y2xqV21ZZjdCSlJMRWg1SkFHeGQ1UVgzU183bzZLNGlmWkU0SWR0TE1vSENyZ2tySkl3MDdOTnVPblZPNTdCOXFNWXJCN2lPV0JCcHRxclJzRmZqQ3ZxdnFTSXpWdFdjVGUzaHJYRVFEbEZBMV9adkJDeG9Ea0hzMFF6T1hqeTNmU2libzBUcDlLUF9tdmxRY0xLYWhQWHZ4Zw?oc=5",
+     "fuente": "Castelló Extra",
+     "resumen": "",
+     "fecha": "2026-11-12T11:30:17+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-12T01:31:00+01:00",
      "fecha_txt": "12 nov"
     }
    ]
@@ -273,19 +273,19 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
-     "fuente": "Cadena SER",
-     "resumen": "",
-     "fecha": "2026-11-11T16:14:57+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
      "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-10T17:55:17+01:00",
      "fecha_txt": "10 nov"
     }
    ]
