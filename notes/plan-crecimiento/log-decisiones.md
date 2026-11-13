@@ -55,3 +55,5 @@
 | 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Revamp 398w->1138w con 4 fuentes oficiales, 7 internos, tabla, 5 bloques |
 | 2026-11-12 | mejor-cocina-portatil-gas-apagon | comparativa | encolado | 5 hornillos a gas para apagón, 1971 palabras, 5 enlaces Amazon, 3 fuentes oficiales, estacionalidad noviembre |
 | 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Frío y calor sin electricidad: ampliar 398→1200+ palabras, 7 bloques nuevos |
+| 2026-11-13 | mejor-estufa-catalitica-para-casa | comparativa | encolado | Top candidato P1 (score 112.5). Invierno ya activo, ticket alto, comparativa de 6 modelos con ASINs verificados |
+| 2026-11-13 | mejor-estufa-catalitica-para-casa | comparativa | encolado | 6 estufas comparadas, 6 ASINs verificados, fuentes oficiales, enlaces internos |
