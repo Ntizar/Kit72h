@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T01:11:01+01:00",
+  "actualizado": "2026-11-13T04:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,6 +12,14 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
+     "fuente": "https://estapasando.cl/",
+     "resumen": "",
+     "fecha": "2026-11-12T16:08:23+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Ni 48 ni 96 horas: por qué los expertos recomiendan que el kit de supervivencia sea de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWZEWUl5aW8yY2tZSVpsMC1RdUlfdjNRZWJmZDVJaTZSRTYxV3VZSkRTaWczVFZfV2tJUXFWYmxlN1Z1NGduZmUtcUcwelhWbGo4OGdkNm8yaWsxS2ZFNWlWOW9UcUgya1d3TzhFZVlsUzFQRWRhdWt0VXNNSy1kZHZTdGN2VDJCNWdVSzdSSnJkaWpVdGQxZHM1VjFhb1BjdUJBNXRseXdxSFI4WmdMN3JtbEVkbENqd1ZRVVppcUx5Smt5aS1HNmNkTHBnQjFDandrV0N6NGdXMmVKSlJfcNIB9AFBVV95cUxPanhGM1VoNHRBdTZpZUFzREZwUlVHOVpxdGxkejJLRXE0ejJwc3JOajQtRmotUHc4aklPX1VHN0dCa3FRLXdoTnUtYnpaaDFJRjNzY0dpZ2VsdTdsblpWMWx1WExEMHdydk15LU5vZ1pDU3J6SXZoaGlJTE5XWmd5cVFYdHgwWnEyaXhXRkxES0lzSllVSkxBc3ZQMXFtc3dtMWFLMU93MEJ1dmpDSFd5NkRhSElNVGRJazRhZFJaaXF2a1ZfMnZYRkNMN1hsbURqbVEtc3RlQWtDMVFKSVhXRzhLWnB0aEpWNWt4aWpWUnlzLXBC?oc=5",
      "fuente": "La Razón",
@@ -20,11 +28,11 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "¿Apagón el 17 de noviembre? La verdad sobre un rumor que se está volviendo viral y que ya predijeron Los Simpson",
-     "url": "https://www.msn.com/es-es/noticias/otras/apag%C3%B3n-el-17-de-noviembre-la-verdad-sobre-un-rumor-que-se-est%C3%A1-volviendo-viral-y-que-ya-predijeron-los-simpson/ar-AA2hhuuZ",
-     "fuente": "EL MUNDO on MSN",
-     "resumen": "El origen está en un simulacro de emergencia que va a tener lugar en EEUU en esa fecha. ¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Este rumor que comienza a hacerse viral en redes social ...",
-     "fecha": "2026-11-12T01:56:12+01:00",
+     "titulo": "¿Por qué se recomienda tener una mochila de emergencia y qué debe llevar? La verdad detrás del rumor del apagón mundial",
+     "url": "https://www.unotv.com/ciencia-y-tecnologia/por-que-se-recomienda-tener-una-mochila-de-emergencia-y-que-debe-llevar-la-verdad-detras-del-rumor-del-apagon-mundial/",
+     "fuente": "UnoTV",
+     "resumen": "Organismos gubernamentales han pedido a la población que tenga preparada una mochila de emergencia, ve su relación con el apagón mundial.",
+     "fecha": "2026-11-12T04:35:00+01:00",
      "fecha_txt": "12 nov"
     },
     {
@@ -33,14 +41,6 @@
      "fuente": "El Economista",
      "resumen": "",
      "fecha": "2026-11-11T17:31:10+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Granadilla de Abona presenta una nueva Guía de Emergencias para reforzar la autoprotección y la seguridad ciudadana",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOVpNUmdON1ZVakh4dC1GcjQzNHZuSHdRaVJrVHZPRXJDcFpNU01PT21WSnFSY29uMDNFWGEyNGNXTDdaa3FwRnNpNXc3UnZWak40WnpmVjR2VGs1T1dHVk5LLXR6LVBWSFhFaU9OUWxEeUh0aVlqYy1GR0h6WFkwcHVGdjdpaTRJR2F4SVhzaV9wc1VhM0NHaVVlb3dCVEFiR2s5UjBFbXA3WUJTVlRuQlFVR2dBaVlTVTJyV2Z3VXZoWEdhYVljU2tlVTZGUEtBWlJLWW4tLW9ONENqQmkw?oc=5",
-     "fuente": "Canal 4 Tenerife",
-     "resumen": "",
-     "fecha": "2026-11-11T14:21:26+01:00",
      "fecha_txt": "11 nov"
     },
     {
@@ -60,20 +60,20 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Los vietnamitas que viven en Europa revelan que una mochila de supervivencia para 72 horas cuesta 13 millones de VND.",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenpHYmtRN3FycVpQakZ2ZHhINU9Gd2FuT1ljX2dzVl9FaE02cl9DSmk4Y0plckpVaHE0YkJFSGYxTGdBenNrY2xZMG83ZmlsMGM3akV1dm5YVnRhZG9DSExqTGVkd0l4azZkQk12VE5NU2lxMDM5RlJld084RV93UWF6by1VdWdIWnVvMXhPeWtDQm5RbUJF?oc=5",
-     "fuente": "Vietnam.vn",
-     "resumen": "",
-     "fecha": "2026-11-11T06:46:11+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
      "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-11T06:30:00+01:00",
      "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Action rebaja a 7,95 euros el dispositivo que no puede faltar en tu kit de emergencia: una radio 4 en 1 con linterna, panel solar y función power bank",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZTNjMG1uXzN3YUVaOWdaV0ZPbGloWWNOOV9VSU50OUptWTZDUUFoWEZtX2duS202QVRiQ2U4SUVhVEk0dEk2cUN1R194dU1kcE5MVjRVSTV3ZXk2Tk92a1hsNlo4SXhxWmtaVTQ4enhCdEZ3enVrZHRIRlZodnpWd2pMX3hhVk5BdVRDN1E2bjJPT0VGOXhBZldQazFpU1RtYUJYazVzWWg3eWZROEd6V2dnRE5TTWpCUDNwNVZBQjdXblRFaE5PWGNXYzA1OUNNWFBvVHMzUjQ2YmtZd2kxQlFDY0RNd1VhSVF6UDVKNko4NTZRWk5qRjRrQldLamNzdjdFMk5vZlM2OUNwOVhJY2dn?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-10T20:09:00+01:00",
+     "fecha_txt": "10 nov"
     }
    ]
   },
@@ -233,6 +233,14 @@
      "fecha_txt": "12 nov"
     },
     {
+     "titulo": "Ni Red Eléctrica confiaba en el éxito de la huelga general: su previsión era un consumo para un día laborable al 100%",
+     "url": "https://www.elespanol.com/invertia/empresas/energia/20261112/red-electrica-confiaba-exito-huelga-general-prevision-consumo-dia-laborable/1003744454537_0.html",
+     "fuente": "El Español",
+     "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
+     "fecha": "2026-11-11T21:00:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
      "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
      "fuente": "Lancelot Digital",
@@ -246,14 +254,6 @@
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-11T18:52:37+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Ni Red Eléctrica confiaba en el éxito de la huelga general: su previsión era un consumo para un día laborable al 100%",
-     "url": "https://www.elespanol.com/invertia/empresas/energia/20261112/red-electrica-confiaba-exito-huelga-general-prevision-consumo-dia-laborable/1003744454537_0.html",
-     "fuente": "El Español",
-     "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
-     "fecha": "2026-11-11T17:00:00+01:00",
      "fecha_txt": "11 nov"
     },
     {
