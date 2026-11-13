@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T04:11:02+01:00",
+  "actualizado": "2026-11-13T07:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "El Gobierno admite que el despliegue de plantas renovables exigirá un control contante de la red",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-gobierno-admite-que-el-despliegue-de-plantas-renovables-exigir%C3%A1-un-control-contante-de-la-red/ar-AA2hkHGF",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El gran apagón del 28 de abril de 2025 puso a prueba la seguridad del sistema eléctrico español y abrió un debate sobre su capacidad para responder a un escenario cada vez más dominado por energías re ...",
+     "fecha": "2026-11-12T20:45:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWNCU1R6UDc5VzhEMVpxY1VJeWp1Q0k3b1gwbEhjdFBsc2dTNmExcGNWQVZvcWN6YVo0ZXg1c0JhVnFZY283TVZsNDhtdUV2Q0gwZTlQVjNScFNpWWpsQWdrS0RGX3hkaUZ6MlNlWWM5Um5sd0dqa3RualpNUUd3MGRYTm4xSFpYZ19KUGtTNmIzcVg10gGaAUFVX3lxTE92T2ZBWi02OUVuZlpaUHAzZ3ZqNWhyVmJOS1NXNGlFNjdSRy0xTHloNzU5TlRudko1bklJQnJybklFZ0pnM29sY0tfVHZnb2U3UEJqMlpGd0V3WjZ4TnN3QnEzSThMZzlFWDlpRTBUNzVDbDhfazgtUWgxR2Y4ZXN6MVhoWUxZbWw3eVcwaFU3T21zaDlUelN6VHc?oc=5",
      "fuente": "Telemadrid",
@@ -263,14 +271,6 @@
      "resumen": "",
      "fecha": "2026-11-11T16:14:57+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
-     "fuente": "La Gaceta de la Iberosfera",
-     "resumen": "",
-     "fecha": "2026-11-10T18:05:11+01:00",
-     "fecha_txt": "10 nov"
     },
     {
      "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",

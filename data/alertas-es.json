@@ -3,11 +3,11 @@
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
   "elaborado": "20261112225002",
-  "actualizado": "2026-11-13T04:11:11+01:00",
+  "actualizado": "2026-11-13T07:11:10+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261112225002_penbal_20261113CET_1794538800.geojson"
+   "r_D+0_20261112225002_penbal_20261113CET_1794549600.geojson"
   ]
  },
  "resumen": {
@@ -112,14 +112,6 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y suroeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m, con mayor impacto en costas orientadas al oeste y suroeste.",
-       "desde": "2026-11-12T10:00:00+01:00",
-       "hasta": "2026-11-13T05:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 metros.",
        "desde": "2026-11-13T06:00:00+01:00",
        "hasta": "2026-11-13T11:59:59+01:00",
@@ -145,14 +137,6 @@
      "nombre": "Sierra Tramontana - Costa",
      "nivel": 3,
      "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y suroeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m, con mayor impacto en costas orientadas al oeste y suroeste.",
-       "desde": "2026-11-12T10:00:00+01:00",
-       "hasta": "2026-11-13T05:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
@@ -4748,17 +4732,6 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento del oeste y suroeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m, con mayor impacto en costas orientadas al oeste y suroeste.",
-       "desde": "2026-11-12T10:00:00+01:00",
-       "hasta": "2026-11-13T05:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
        "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) y olas de 3 a 4 metros.",
@@ -7185,17 +7158,6 @@
      "nivel": 3,
      "nivel_txt": "Amarillo",
      "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento del oeste y suroeste de 50 a 70 km/h (fuerza 7 a 8) y olas de 4 a 5 m, con mayor impacto en costas orientadas al oeste y suroeste.",
-       "desde": "2026-11-12T10:00:00+01:00",
-       "hasta": "2026-11-13T05:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
