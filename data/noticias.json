@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T19:11:01+01:00",
+  "actualizado": "2026-11-13T22:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -107,11 +107,27 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "Alerta máxima ante posibles incendios: Asturias se queda desde hoy sin sus dos helicópteros de extinción",
+     "url": "https://www.lne.es/asturias/2026/11/13/asturias-queda-hoy-helicopteros-incendios-136408169.html",
+     "fuente": "La Nueva España",
+     "resumen": "La grave situación de la adjudicataria del servicio, Eliance, y sus impagos deja sin servicio las dos aeronaves, aunque sigue operativa por el momento la medicalizada del 112.",
+     "fecha": "2026-11-13T06:58:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
      "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
      "fecha": "2026-11-13T05:03:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
+     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
+     "fecha": "2026-11-13T02:40:00+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -129,22 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-11T04:39:22+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
-     "fuente": "La Crónica de Badajoz",
-     "resumen": "",
-     "fecha": "2026-11-09T14:48:52+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-09T13:02:54+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   },
@@ -178,22 +178,6 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-13T00:13:26+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "El río Alagón continúa en alerta roja y mantiene el riesgo de inundaciones en Extremadura",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdkhlN0JuNW5Ca1NwRmRwRm5Qd181b0FqcDNXTFBXbTV4eTBPLTRIU3YwZUhjSWprVnNMaDV0MHFpYlp3bE1pSTB4REYyckw2Q0Vib0FxYTRTRVk5TTJteEptVkJaQzZqZkx5cVRLbmd4X1FLZ0N4bDZGMWdNRlBvZXFfNkpQOWpTY2ZxTHhZdW16aFFmQUNoY0dHM3hwa052bTZBUU41T3MxTlhUUjZncU9UQdIBuAFBVV95cUxOVGVVMkJzZ3F6QWRHSmRYa2dvOEloczhQZGJibUZ1dndYaTN4T2VYTkMyTGxSa0RNdVRDSTFnZ2ZRcWRlQUhNYWtNNXpfTXJDcHJTU3N3RnpGQXR3bjFlUE1rRURwSndsYUFrTGxsVTQ0LUNCOXEtRTZjYjhBQlF0UWdCYVJSejlJRnRJMUtwUm1MSVViUUJkOE4wb2dwUFBBaE1xWWZGYkNkNnFiSWQ2T0didU15Yk95?oc=5",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "",
-     "fecha": "2026-11-12T19:07:05+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
      "titulo": "Pérez Llorca exige al Gobierno de España acelerar las obras contra las inundaciones",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTV2aExGcTJUd01JbU00cURqM2lPZEdLWWVPTnhPaDlnSG1pOTdRU1ZCZXozVm1oanotSjN6SS13WHJDY3RNR1NBWkYwQXpjaTl0NFduU0pBN2tUdGtGT0VpMWlfS01ma3BxSGNzSmxYN2w3di1kVkhXN1dHMTNKNFhTYlJHYktCMnVXQ21mdEI1andvRkt3Y0EzSURWUks2ek1RSzBpMW82RHhjMnUxSUxn?oc=5",
      "fuente": "Vegabajadigital",
@@ -215,6 +199,22 @@
      "fuente": "Castelló Extra",
      "resumen": "",
      "fecha": "2026-11-12T11:30:17+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-12T09:00:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-12T01:31:00+01:00",
      "fecha_txt": "12 nov"
     }
    ]
