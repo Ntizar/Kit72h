@@ -1992,9 +1992,9 @@
     "seccion": "Redundancia: router 4G/5G como respaldo",
     "busqueda": "router 4g/5g industrial con dual sim y antenas externas",
     "rango_esperado": "300-800 €",
-    "fecha": "2026-11-12",
-    "intentos": 1,
-    "estado": "sin candidato compatible (intento 1)"
+    "fecha": "2026-11-13",
+    "intentos": 2,
+    "estado": "sin candidato compatible (intento 2)"
   },
   "kit-starlink|Antena externa 4G/5G de alta ganancia": {
     "kit": "kit-starlink",
@@ -2488,7 +2488,16 @@
     "seccion": "Conectividad: Starlink y redundancia",
     "busqueda": "terminal starlink gen 3",
     "rango_esperado": "500-1.200 € · 45-60 €/mes",
-    "fecha": "2026-11-12",
+    "fecha": "2026-11-13",
+    "intentos": 2,
+    "estado": "sin candidato compatible (intento 2)"
+  },
+  "kit-apagon|Extintor de polvo ABC de 1-2 kg con soporte": {
+    "kit": "kit-apagon",
+    "seccion": "Seguridad durante el corte",
+    "busqueda": "extintor de polvo abc 1 kg con soporte pared",
+    "rango_esperado": "25-45 €",
+    "fecha": "2026-11-13",
     "intentos": 1,
     "estado": "sin candidato compatible (intento 1)"
   }
