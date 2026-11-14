@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T07:11:01+01:00",
+  "actualizado": "2026-11-14T10:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,30 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes",
+     "url": "https://www.covertalavera.com/incendios-forestales-en-castilla-la-mancha-47-685-hectareas-afectadas-una-lucha-al-limite-y-decadas-para-recuperar-los-montes/",
+     "fuente": "Cover Talavera",
+     "resumen": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes.",
+     "fecha": "2026-11-14T02:00:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
+     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
+     "fuente": "El Periódico Extremadura",
+     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
+     "fecha": "2026-11-14T00:00:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Estudian la creación de un sello que distinga a las actividades económicas contra los incendios",
+     "url": "https://www.hoy.es/extremadura/estudian-creacion-sello-distinga-actividades-economicas-incendios-20261114074755-nt.html",
+     "fuente": "HOY",
+     "resumen": "Expertos de universidades, administraciones y asociaciones de España y Portugal se han reunido este viernes en Cáceres para analizar la posibilidad de crear un sello que distinga a las actividades eco ...",
+     "fecha": "2026-11-13T17:00:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Expertos de España y Portugal estudian en Cáceres crear un sello para actividades económicas que ayudan a prevenir grandes incendios forestales",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1h1eEFhU3V6S2pNZ1lUSXRwa1V2dTRKQXQ2N2FwcktBd2hXNHBGc2ZTczgwVkk1RlBQOG5YLVg2R3E5SHI2VlNaY1p3S1BGUy1vTnE0ZDgwSk1FR2x5dEU4Q2ZPVTZ6YXVsNm9hWGhhSi1xYVFCU25hTDJMTXl3cC1laDF0ZURGTWp2RnBmV1ZIZG12N0EzUHFhMHRyWlJlY3ZHOEVib0Y5VGVhYUo5RWsyM0xlREhEbE1hLWRkUFRKT29xbmdUVXZtamhEeU8xUkUyLVE5NHVGYld3bXpVNDZVZ3VwU2pPYjFkdjJuSXJWZ2Y0WjRkb2tVLS1uajFGREJOSGFn?oc=5",
      "fuente": "Onda Cero Sur Extremadura",
@@ -107,14 +131,6 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
-     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
-     "fecha": "2026-11-13T10:00:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
@@ -129,22 +145,6 @@
      "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
      "fecha": "2026-11-13T02:40:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
-     "fuente": "Austerra Society",
-     "resumen": "",
-     "fecha": "2026-11-13T00:00:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
-     "fuente": "La Crónica de Badajoz",
-     "resumen": "",
-     "fecha": "2026-11-09T14:48:52+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   },
