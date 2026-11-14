@@ -24,6 +24,7 @@ const i18n = {
       this.tiposCambio = m.tiposCambio || {};
       this.base = await es.json();
       this.mercado = this.detectarMercado();
+      await this.detectarPais();
       this.ui = this.mercado.lang === 'es'
         ? this.base
         : await this.cargarTextos(this.mercado);
@@ -90,9 +91,66 @@ const i18n = {
     return p;
   },
 
-  /* --- Amazon: dominio y tag del mercado activo --- */
+  /* --- Amazon: dominio y tag del mercado activo ---
+     `amazon` NO es siempre el de la página: si el visitante está en un país que
+     ese idioma cubre y ese mercado tiene tag propio, los enlaces van a SU tienda
+     (un inglés en /en-us/ acaba en amazon.co.uk; un estadounidense en /en-gb/
+     acaba en amazon.com). Así cada país compra en su moneda y con su tag. */
   get amazon() {
-    return (this.mercado && this.mercado.amazon) || { dominio: 'www.amazon.es', tag: 'ntizar-21', moneda: 'EUR', simbolo: '€' };
+    return this.amazonEfectivo();
+  },
+
+  /* País del visitante (ISO-2), una sola vez por sesión.
+     Orden: ?pais=XX (pruebas) -> sessionStorage -> /cdn-cgi/trace de Cloudflare
+     -> región de navigator.language. En headless/bots NO se detecta: el HTML
+     horneado debe llevar los enlaces del mercado de la URL, no los de mi IP. */
+  async detectarPais() {
+    const forzado = new URLSearchParams(location.search).get('pais');
+    if (forzado && /^[A-Za-z]{2}$/.test(forzado)) { this.paisISO = forzado.toUpperCase(); return; }
+    try {
+      const guardado = sessionStorage.getItem('kit72h-iso');
+      if (guardado) { this.paisISO = guardado; return; }
+    } catch (e) { /* modo privado */ }
+    const ua = navigator.userAgent || '';
+    if (navigator.webdriver || /bot|crawl|spider|headless|lighthouse|prerender/i.test(ua)) return;
+    let iso = '';
+    try {
+      const r = await fetch('/cdn-cgi/trace', { cache: 'no-store' });
+      if (r.ok) {
+        const m = /^loc=([A-Z]{2})$/m.exec(await r.text());
+        if (m) iso = m[1];
+      }
+    } catch (e) { /* sin Cloudflare delante: se tira del navegador */ }
+    if (!iso) {
+      const reg = (navigator.language || '').split('-')[1];
+      if (reg && reg.length === 2) iso = reg.toUpperCase();
+    }
+    if (iso) {
+      this.paisISO = iso;
+      try { sessionStorage.setItem('kit72h-iso', iso); } catch (e) {}
+    }
+  },
+
+  /* Mercado del visitante dentro del MISMO idioma. null si no hay uno claro. */
+  mercadoSugerido() {
+    if (!this.paisISO || !this.mercado) return null;
+    return this.mercados.find(m => m.lang === this.mercado.lang &&
+                                   (m.paises || []).includes(this.paisISO)) || null;
+  },
+
+  /* Amazon que se usa en los enlaces.
+     Solo se cambia de tienda si el mercado del visitante tiene tag propio: si no,
+     se queda el de la página. Cambiar a una tienda sin tag nos dejaría sin
+     comisión y sin nada a cambio. */
+  amazonEfectivo() {
+    const propio = (this.mercado && this.mercado.amazon)
+      || { dominio: 'www.amazon.es', tag: 'ntizar-21', moneda: 'EUR', simbolo: '€' };
+    const sugerido = this.mercadoSugerido();
+    if (sugerido && sugerido.id !== (this.mercado && this.mercado.id)
+        && sugerido.amazon && sugerido.amazon.tag) {
+      return sugerido.amazon;
+    }
+    return propio;
   },
 
   tag() {
@@ -107,10 +165,13 @@ const i18n = {
      ES: se usa la ficha /dp/ verificada del catálogo (es la que está comprobada).
      Otros mercados: búsqueda por el nombre traducido del producto. Un ASIN de
      amazon.es no siempre existe en amazon.de, y un enlace muerto vende cero.
-     Cuando la API de Amazon esté conectada, `asin_local` manda. */
+     La ficha /dp/ solo se usa si la tienda efectiva sigue siendo la española. */
   enlaceProducto(item, kit) {
     if (!item) return null;
-    if (this.mercado && this.mercado.id === 'es') return item.afiliado || null;
+    const esTiendaES = this.amazon.dominio === 'www.amazon.es';
+    if (esTiendaES && this.mercado && this.mercado.id === 'es' && item.afiliado) {
+      return item.afiliado;
+    }
     if (item.asin_local) {
       return `https://${this.amazon.dominio}/dp/${item.asin_local}?tag=${this.tag()}`;
     }
@@ -236,12 +297,10 @@ const i18n = {
       const nav = (navigator.language || '').toUpperCase();
       iso = nav.slice(0, 2) === 'ES' ? 'ES' : nav.slice(3, 5) || nav.slice(0, 2);
     }
-    const paisAIso = { GB: 'en-gb', UK: 'en-gb', DE: 'de', FR: 'fr', IT: 'it', NL: 'nl', US: 'en-us' };
-    const destinoId = paisAIso[iso];
-    if (destinoId) {
-      const d = this.mercadoPorId(destinoId);
-      if (d) { location.replace(d.ruta); return true; }
-    }
+    // A qué mercado corresponde el país: sale de data/mercados.json ('paises'),
+    // no de una lista escrita a mano aquí. Añadir un país es editar el JSON.
+    const destino = this.mercados.find(m => m.id !== 'es' && (m.paises || []).includes(iso));
+    if (destino) { location.replace(destino.ruta); return true; }
     return false;
   },
 

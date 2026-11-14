@@ -2,7 +2,7 @@
   "meta": {
     "version": 1,
     "actualizado": "2026-11-14",
-    "nota": "Un mercado = un país + un dominio de Amazon + un idioma. Todo lo que cambia por país (dominio, tag, moneda, número de emergencia, autoridad) sale de aquí. Nada de país hardcodeado en el código.",
+    "nota": "Un mercado = un país + un dominio de Amazon + un idioma. Todo lo que cambia por país (dominio, tag, moneda, número de emergencia, autoridad) sale de aquí. Nada de país hardcodeado en el código. | 'paises': países que ese mercado sirve de verdad (detecta el país del visitante para mandar los enlaces a su tienda).",
     "idioma_fuente": "es"
   },
   "porDefecto": "es",
@@ -25,9 +25,16 @@
         "simbolo": "€",
         "tagPendiente": false
       },
-      "emergencias": { "numero": "112", "nombre": "112" },
+      "emergencias": {
+        "numero": "112",
+        "nombre": "112"
+      },
       "autoridad": "Protección Civil y Unidad Militar de Emergencias",
-      "autoridadUrl": "https://www.proteccioncivil.es/"
+      "autoridadUrl": "https://www.proteccioncivil.es/",
+      "paises": [
+        "ES",
+        "AD"
+      ]
     },
     {
       "id": "en-gb",
@@ -47,9 +54,16 @@
         "simbolo": "£",
         "tagPendiente": true
       },
-      "emergencias": { "numero": "999", "nombre": "999" },
+      "emergencias": {
+        "numero": "999",
+        "nombre": "999"
+      },
       "autoridad": "Cabinet Office / Environment Agency",
-      "autoridadUrl": "https://www.gov.uk/government/organisations/cabinet-office"
+      "autoridadUrl": "https://www.gov.uk/government/organisations/cabinet-office",
+      "paises": [
+        "GB",
+        "IE"
+      ]
     },
     {
       "id": "de",
@@ -69,9 +83,18 @@
         "simbolo": "€",
         "tagPendiente": true
       },
-      "emergencias": { "numero": "112", "nombre": "112" },
+      "emergencias": {
+        "numero": "112",
+        "nombre": "112"
+      },
       "autoridad": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
-      "autoridadUrl": "https://www.bbk.bund.de/"
+      "autoridadUrl": "https://www.bbk.bund.de/",
+      "paises": [
+        "DE",
+        "AT",
+        "CH",
+        "LI"
+      ]
     },
     {
       "id": "fr",
@@ -91,9 +114,18 @@
         "simbolo": "€",
         "tagPendiente": true
       },
-      "emergencias": { "numero": "112", "nombre": "112" },
+      "emergencias": {
+        "numero": "112",
+        "nombre": "112"
+      },
       "autoridad": "Sécurité civile",
-      "autoridadUrl": "https://www.interieur.gouv.fr/"
+      "autoridadUrl": "https://www.interieur.gouv.fr/",
+      "paises": [
+        "FR",
+        "BE",
+        "LU",
+        "MC"
+      ]
     },
     {
       "id": "it",
@@ -113,9 +145,17 @@
         "simbolo": "€",
         "tagPendiente": true
       },
-      "emergencias": { "numero": "112", "nombre": "112" },
+      "emergencias": {
+        "numero": "112",
+        "nombre": "112"
+      },
       "autoridad": "Protezione Civile",
-      "autoridadUrl": "https://www.protezionecivile.gov.it/"
+      "autoridadUrl": "https://www.protezionecivile.gov.it/",
+      "paises": [
+        "IT",
+        "SM",
+        "VA"
+      ]
     },
     {
       "id": "nl",
@@ -135,9 +175,15 @@
         "simbolo": "€",
         "tagPendiente": true
       },
-      "emergencias": { "numero": "112", "nombre": "112" },
+      "emergencias": {
+        "numero": "112",
+        "nombre": "112"
+      },
       "autoridad": "Nationaal Crisiscentrum (NCC)",
-      "autoridadUrl": "https://www.nctv.nl/"
+      "autoridadUrl": "https://www.nctv.nl/",
+      "paises": [
+        "NL"
+      ]
     },
     {
       "id": "en-us",
@@ -157,9 +203,15 @@
         "simbolo": "$",
         "tagPendiente": false
       },
-      "emergencias": { "numero": "911", "nombre": "911" },
+      "emergencias": {
+        "numero": "911",
+        "nombre": "911"
+      },
       "autoridad": "FEMA",
-      "autoridadUrl": "https://www.ready.gov/"
+      "autoridadUrl": "https://www.ready.gov/",
+      "paises": [
+        "US"
+      ]
     }
   ],
   "tiposCambio": {

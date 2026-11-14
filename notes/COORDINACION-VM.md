@@ -11,6 +11,11 @@
 `/de/`, `/fr/kit/kit-dana/` y `/en-us/kit/kit-dana/` responden 200 con su idioma, su
 `data-mercado` y su dominio de Amazon; sitemap con 242 URLs y hreflang.
 
+**Ampliación (misma sesión):** enlaces de Amazon según el **país del visitante** dentro de
+cada idioma (`paises` en `mercados.json` + `i18n.detectarPais()`). Solo cambia de tienda si
+el mercado de ese país tiene tag propio; si no, se queda el de la página. En headless y
+bots no se detecta (el HTML horneado lleva los enlaces del mercado de la URL).
+
 **Ya NO está en vuelo.** Puedes tocar `main` con normalidad, pero si regeneras HTML
 recuerda que el prerender hornea **7 mercados**: `python scripts/prerender.py`.
 
