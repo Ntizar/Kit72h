@@ -57,3 +57,4 @@
 | 2026-11-12 | temperatura-sin-electricidad | revamp | encolado | Frío y calor sin electricidad: ampliar 398→1200+ palabras, 7 bloques nuevos |
 | 2026-11-13 | mejor-estufa-catalitica-para-casa | comparativa | encolado | Top candidato P1 (score 112.5). Invierno ya activo, ticket alto, comparativa de 6 modelos con ASINs verificados |
 | 2026-11-13 | mejor-estufa-catalitica-para-casa | comparativa | encolado | 6 estufas comparadas, 6 ASINs verificados, fuentes oficiales, enlaces internos |
+| 2026-11-14 | calentar-casa-sin-electricidad-invierno | guia | encolado | 6 métodos, 1259 palabras, 4 fuentes oficiales, estacional noviembre |
