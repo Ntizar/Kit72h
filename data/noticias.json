@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T01:11:01+01:00",
+  "actualizado": "2026-11-14T04:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -107,14 +107,6 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Alerta máxima ante posibles incendios: Asturias se queda desde hoy sin sus dos helicópteros de extinción",
-     "url": "https://www.lne.es/asturias/2026/11/13/asturias-queda-hoy-helicopteros-incendios-136408169.html",
-     "fuente": "La Nueva España",
-     "resumen": "La grave situación de la adjudicataria del servicio, Eliance, y sus impagos deja sin servicio las dos aeronaves, aunque sigue operativa por el momento la medicalizada del 112.",
-     "fecha": "2026-11-13T06:58:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
@@ -139,12 +131,20 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Incendios forestales en Galicia: la Xunta amplía el peligro alto",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzlYNEdtZWNiTERkRjdRZUlXZUp6Mk0tdnRtbzZXZjlPYk9sR2hENXZOQV9TNS1ISy1aTkozcjFlSm9MQWhEN1RiSHVQM0laLWR2a2ZwR1I0MDQwS2NxbnlBRXpuR0tfTEZHN3A2T3pKcUhPSVRGMWNqSjdTUU9jSTE0ekVyT1dKNW5PbnlqLTdIeGxyN2lEcnd3TnI5bm84cllEMW9xS29FdlA0dUZaZHFaclRGMWV0OC1aUW1zbnhOTnZkeGtRMWxrM2FRU1FZOTZRalFkSQ?oc=5",
-     "fuente": "Meteorologia en red",
+     "titulo": "Extremadura incorporará drones y nuevos especialistas al Infoex para combatir los grandes incendios",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmNCeXRBdUl6dG1nSDY1R3gzRXpEX19DazAxWXlHdmNqVmg4YnRhaTJKWm9VSTU2Z051SWM4NENZWWxqNTlOZ3U3NXFHek9GR2I0WENObFM5T2E0d3lSb2JnNFJOcXM3bmZaMUp5U2FfY20xLTRvY3FzUnVMZnlXS2tsNmp5TTVEWndqLS1jV2ZoMmxMMWw0cUJLc1Bad3hsbnJKV3RBLXQ?oc=5",
+     "fuente": "La Crónica de Badajoz",
      "resumen": "",
-     "fecha": "2026-11-11T04:39:22+01:00",
-     "fecha_txt": "11 nov"
+     "fecha": "2026-11-09T14:48:52+01:00",
+     "fecha_txt": "9 nov"
+    },
+    {
+     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-09T13:02:54+01:00",
+     "fecha_txt": "9 nov"
     }
    ]
   },
@@ -159,14 +159,6 @@
      "fuente": "El Independiente",
      "resumen": "",
      "fecha": "2026-11-13T17:44:13+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Tormenta Charles España: vientos de 136 km/h, inundaciones y vuelos cancelados en el sur",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnN4NzBONnlYTlNsT01KeTFNSzdneFJoanlSSlA1WWRmRmJ6ZGZTd0h0TVJJU0dTV2tJSlI2ZTRLMGtOTWw0R2lXTDJkcDZRZTJadXJPb2F3TXVXS0xUOGN6dl9pMzhYMDlBbUNjZTFIUzJJdzVfZDJ2OWRvSHAzMTZ4X0JDMDg?oc=5",
-     "fuente": "MONCLOA.COM",
-     "resumen": "",
-     "fecha": "2026-11-13T13:25:47+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-11-12T09:00:00+01:00",
      "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-12T01:31:00+01:00",
+     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Cuidado con las alertas de un apagón mundial el 17 de noviembre de 2026: no hay pruebas de que se vaya a producir",
+     "url": "https://maldita.es/desinfo/20261113/el-17-de-noviembre-de-2026-va-a-haber-un-ciberataque-global/",
+     "fuente": "Maldita.es",
+     "resumen": "Captura: comunicado oficial de la FEMAEntre las narrativas que circulan hay una que asegura que los bancos se quedarán ...",
+     "fecha": "2026-11-13T09:55:00+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "El Gobierno admite que el despliegue de plantas renovables exigirá un control contante de la red",
      "url": "https://www.msn.com/es-es/noticias/otras/el-gobierno-admite-que-el-despliegue-de-plantas-renovables-exigir%C3%A1-un-control-contante-de-la-red/ar-AA2hkHGF",
@@ -278,14 +286,6 @@
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-10T17:55:17+01:00",
      "fecha_txt": "10 nov"
     }
    ]
