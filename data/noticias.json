@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T13:11:02+01:00",
+  "actualizado": "2026-11-14T16:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "¿Tres días sin luz ni internet? La verdad sobre el apagón mundial del 17 de noviembre y cómo prepararse",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXE5eDVqREJmVmFFSkNOZnNyRDd1SmhCb3hWWFpqT3Y2X2R3RE8wQlRxQmNaQ1pSaHhxSzcxMEt6QlE5T3RBdVhUbGtlTDM5SnFaRnJTRE9GNmIxbmhMbEtwZUN4UjFGYmdzQ2NZUnh2RlBRUTNRS3BGdE9IT20tNmpMNHNOQWRUemRyaERZa19QalAzYk14Wmw5bVZZbFhqY0oweWx1RU0wOHNrMk80YUxnUjZ2Y1YwVVFUX29zU0R5NWZnREt3?oc=5",
+     "fuente": "El Naveghable",
+     "resumen": "",
+     "fecha": "2026-11-14T14:45:38+01:00",
+     "fecha_txt": "14 nov"
+    },
     {
      "titulo": "Tumbes pierde casi el 70% del agua que produce y reservas cubrirían menos de medio día ante una emergencia",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1h2ZW9yemhwNjFteHdRa3VpSjlCMjFnNUVmblVXYkRra2xZeWVOVzVybVZZWGhxSzhtN1o1QlhCN0szdHh0OFBhR21uRElHQWhRNUNMT01pUkV4Qk9FTllGRmY5TU9HSDlJTGk4ZDA1M3dNWmhrTEpCZmpjNTZiMUQ2RVpZS2QyUXA1ZTdZemROcmx6RW9ZR1BNZHBkTWpTVzBfMmFkYUFaMGlyYlQ3WHRZd0s0RmtVRjFVU0NQVHdkblJQUlRXd2NyekdVdVBsbkJyYQ?oc=5",
@@ -36,6 +44,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "La verdad sobre el «apagón mundial» del 17 de noviembre: por qué la Defensa Civil exigió kits de emergencia para 72 horas y el peligro real de El Niño",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWdGREYtS3RVN1ljZW9EQVVUZ1VYMzl0dGVDazExSTQxdV83S1BablQwNUkxcmtGem9DVjJ1Y3RDbVBVblNnS0pYMlRVanVHWXdISVBHOVlrOXNnckU2QmFwbEh6OEFlSnZRTGJCU1pFSjJ2QnFLWDg5S2VLQlM5bjNwQWgwckJkSGpTQU0wZUFCTUdJcmR6QWVvVnJxX3F6WGRQRF9WZ3QzTUtTanhJbDVkV2lSRFA0bDlXWVJ0Q1ozSnpQaTV4RktoVGNfNmhSRVlvag?oc=5",
+     "fuente": "São Paulo Secreto",
+     "resumen": "",
+     "fecha": "2026-11-12T20:22:46+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
      "fuente": "https://estapasando.cl/",
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-12T11:35:13+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Por qué se recomienda tener una mochila de emergencia y qué debe llevar? La verdad detrás del rumor del apagón mundial",
-     "url": "https://www.unotv.com/ciencia-y-tecnologia/por-que-se-recomienda-tener-una-mochila-de-emergencia-y-que-debe-llevar-la-verdad-detras-del-rumor-del-apagon-mundial/",
-     "fuente": "UnoTV",
-     "resumen": "Organismos gubernamentales han pedido a la población que tenga preparada una mochila de emergencia, ve su relación con el apagón mundial.",
-     "fecha": "2026-11-12T04:35:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Prepara, cuanto antes, un kit de supervivencia porque se avecina una gran crisis mundial, lo dice la Comisión Europea",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVnFYMHFfOTh4b281cWpTYXp6NkJEbWpJSnJIRldsM2I5VFdmMEtwMVVjQ3RHVGcwYnVoT0VYNzJQelEtOXRKdG9iemh0eV9iOU43WkxtdlI4NDRnRnJtVWhuQ1l0MFYxMFVMY2pqZWp4a0tia25EbzNvQXdDcjJQVDB1UTBQUjlCXzVNeXhCUjFtVU4wZ2VhN214elBleG44T09jbF9KU25PdldKQ0FMS1RORzg2aEp0MVRYTF9wSmJaZjVQaGdoTElRd3ltVXFnZ3hMSDhUTzZ5WHdxLVNLbE5jT1dXSkR3b0FPWW5WaHBCTEIwVUdFNG16Mm9RY0RFRVZZbEt1WktxdUxTTnJv0gH6AUFVX3lxTE93T3dfbzNDRmxTUlZLbF9yQl84OEhLWXc5TUhSYUlBZURlOTQycTVJWmdzTVA2NndGeFB4ZHFhUGlXemg2aEpiakFzUTE1YjRKMXkzU1RiSnVfVk9aaEQ3Ulk0N25mOXNXUnNHbGctUTc1OTFaMFpBbm42aDQxS2ppNWJla2YtU2s1Zi1lZWV0em05OVJTMzVZWnZTM1kwVWN1VkdFd3VycFlkM1JNNTRLeW1Gemk0d2VIM1FUSVotZlFFNF9DOXZ5ak05ZXg1T1ZhaGl5ZUR1cHEtckE2eDJGS1d1bjdPYWRjM0hzaDV2LUFHc2tEZDNZT1E?oc=5",
-     "fuente": "El Economista",
-     "resumen": "",
-     "fecha": "2026-11-11T17:31:10+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -107,6 +107,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
+     "fuente": "Lanza Digital",
+     "resumen": "",
+     "fecha": "2026-11-13T14:01:39+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmlkRUYtNU9tZ25KVTVBYzNVQjNyb0FsbmFXMHVxNW9VM2I4RFpCQXBUZlh0U0NrbHFHWFRodzhfOVgzSW9fQXd6M1c5OWVuVjJOS2JGTUpqVkMwMmR5MklSODFfYkFPV0l1ZHhMZm1IRy1TbjAzdjdsamNuRTNYak9TNEQxdElsaFVXcnB0a1pKVGJaMm0yVTF3OUlxWUxRTDdzUDFUem92QXQydFp1NF80VjNaZUU0Qkx2cDZrWTZuSXdCTUNHWl9Tak0zZDhQRDE1aUYyeDdsS0s4R0E?oc=5",
      "fuente": "enTomelloso.com",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-13T00:00:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-09T13:02:54+01:00",
-     "fecha_txt": "9 nov"
     }
    ]
   },
@@ -225,20 +225,36 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Por qué España frenó durante tres horas las exportaciones de electricidad a tres países",
+     "url": "https://www.democrata.es/energia/por-espana-freno-durante-tres-horas-exportaciones-electricidad-tres-paises/",
+     "fuente": "Demócrata",
+     "resumen": "Red Eléctrica limitó el pasado 5 de noviembre los intercambios comerciales con Francia, Portugal y Marruecos para garantizar las reservas del sistema eléctrico español. La escasa producción renovable, ...",
+     "fecha": "2026-11-14T07:09:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
+     "url": "https://www.digitaldeleon.com/articulo/noticias-nacionales/apagon-mundial-17-noviembre-72-horas-luz-espana-que-cierto/20261114133000234243.html",
+     "fuente": "Digital de León",
+     "resumen": "El próximo martes 17 de noviembre se ha convertido en una fecha de la que no se deja de hablar en redes sociales. Desde hace días circulan vídeos y mensajes que aseguran que podría producirse un apagó ...",
+     "fecha": "2026-11-14T06:30:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Red Eléctrica apunta a Iberdrola, Endesa y Naturgy por trasladar problemas de tensión a la red de transporte",
+     "url": "https://www.economiadigital.es/empresas/red-electrica-apunta-iberdrola-endesa-naturgy-trasladar-problemas-tension-red-transporte.html",
+     "fuente": "Economía Digital",
+     "resumen": "El operador detecta más de 300 \"puntos frontera\" donde las distribuidoras vierten energía reactiva que el sistema no necesita ...",
+     "fecha": "2026-11-13T21:55:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Cuidado con las alertas de un apagón mundial el 17 de noviembre de 2026: no hay pruebas de que se vaya a producir",
      "url": "https://maldita.es/desinfo/20261113/el-17-de-noviembre-de-2026-va-a-haber-un-ciberataque-global/",
      "fuente": "Maldita.es",
      "resumen": "Captura: comunicado oficial de la FEMAEntre las narrativas que circulan hay una que asegura que los bancos se quedarán ...",
      "fecha": "2026-11-13T09:55:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "El Gobierno admite que el despliegue de plantas renovables exigirá un control contante de la red",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-gobierno-admite-que-el-despliegue-de-plantas-renovables-exigir%C3%A1-un-control-contante-de-la-red/ar-AA2hkHGF",
-     "fuente": "Vozpópuli on MSN",
-     "resumen": "El gran apagón del 28 de abril de 2025 puso a prueba la seguridad del sistema eléctrico español y abrió un debate sobre su capacidad para responder a un escenario cada vez más dominado por energías re ...",
-     "fecha": "2026-11-12T20:45:00+01:00",
-     "fecha_txt": "12 nov"
     },
     {
      "titulo": "Red Eléctrica saldará la deuda con las centrales que levantaron el apagón en diciembre de 2027, más de dos años y medio después",
@@ -271,22 +287,6 @@
      "resumen": "",
      "fecha": "2026-11-11T20:48:42+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-11T18:52:37+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
     }
    ]
   }
