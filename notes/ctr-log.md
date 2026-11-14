@@ -7,6 +7,12 @@ Registro de los cambios de `<title>` / meta description que hace el cron
 `kit72h-seo-ctr` (06:30) para maximizar CTR en Google: números, beneficio y
 urgencia honesta. Cada entrada: fecha · página · antes → después · motivo.
 
+## 2026-11-13 — 1 mejora: cocina-portatil-gas-apagon desc
+- **Página:** /blog/mejor-cocina-portatil-gas-apagon/
+- **Desc:** `Hornillo de camping a gas: cuál es el mejor para cocinar sin electricidad durante un apagón, cuánto consume y cuánto cuesta mantener a tu familia alimentada.` → `Hornillo de camping a gas: cuál es el mejor para cocinar sin electricidad durante un apagón, cuánto consume y cuánto cuesta mantener a tu familia`
+- **Motivo:** Truncar a ~140 car para evitar corte en SERP. «Alimentada» redundante con contexto.
+- **Commit:** c0e1e76d — `feat(seo): optimizar meta descriptions para CTR (1 mejora: cocina_portatil)`
+
 ## 2026-10-25 06:00 — SEO/CTR run
 
 **Resultado:** 1 mejora aplicada.
