@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T16:11:01+01:00",
+  "actualizado": "2026-11-14T19:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -13,10 +13,10 @@
    "items": [
     {
      "titulo": "¿Tres días sin luz ni internet? La verdad sobre el apagón mundial del 17 de noviembre y cómo prepararse",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWXE5eDVqREJmVmFFSkNOZnNyRDd1SmhCb3hWWFpqT3Y2X2R3RE8wQlRxQmNaQ1pSaHhxSzcxMEt6QlE5T3RBdVhUbGtlTDM5SnFaRnJTRE9GNmIxbmhMbEtwZUN4UjFGYmdzQ2NZUnh2RlBRUTNRS3BGdE9IT20tNmpMNHNOQWRUemRyaERZa19QalAzYk14Wmw5bVZZbFhqY0oweWx1RU0wOHNrMk80YUxnUjZ2Y1YwVVFUX29zU0R5NWZnREt3?oc=5",
-     "fuente": "El Naveghable",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMVBZSFZ5SzJaTVpjdzZxTmt0Y2pJSHNpNGRoaDBWVERDR3BXb19odS00S1hjcHp1UXZ2ZEF1Wlp4MlNYdFhVd2NWZmpQdFNmVjF6VDZ4VExja3ZybW9ZTXlJX2Uza2ZkT3l1Q3FIMGZpMjlJT1B0Z0pqTDRJR19tSUFwdV95cWNaMG1KTTV6ZkVncHJCdzYtbnBtbURzNEVoaURZWWw4bXpMSnlEeHlQRW9EQTQ4RlB2ZDdoTzhfX2ZxQQ?oc=5",
+     "fuente": "Región del Maule",
      "resumen": "",
-     "fecha": "2026-11-14T14:45:38+01:00",
+     "fecha": "2026-11-14T14:10:38+01:00",
      "fecha_txt": "14 nov"
     },
     {
@@ -154,6 +154,22 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlZxV2ttTVJBeE5ySEE5QlRXblZjZ1ZvY2hKZ2xaZ2tJUlRhUHdoMnRPUGNjNWNSVF9FMXUwNTNlSXVsMlo0S25JampmRHRtLXlJV25laXkxNmpJQ2NvbXFJS1A2ZWowQzFDRGxqNlJzZHJReWp4SkJUY1JIY2RBc0ZYeTl4Wi1pT1dpUFhrcFo2MURSbmlqUWNzYmNjYmpIOEw1X29lU25sQnExbkNYdmRzaWRFWk90RzVCUWVMejdhT1p6U1lxa0V5dGhOYmV3bVYyTGIwWFNsamRkNkZ6Zy0yQndaR1N1UHlObElFVTJEdk9rMldGMElQN0RLMHBWbUdUa011c01TS1psVC14UkNnVkVxNUNuR3UySURkbUpPUTFIQnYwZlUwazNLUmdPMmxFNGtpYkJGZW5MN0Rz?oc=5",
+     "fuente": "Bichos de Campo",
+     "resumen": "",
+     "fecha": "2026-11-14T17:01:36+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "La Comunitat Valenciana impulsa una alianza mediterránea para prevenir inundaciones y sequías",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-comunitat-valenciana-impulsa-una-alianza-mediterr%C3%A1nea-para-prevenir-inundaciones-y-sequ%C3%ADas/ar-AA2hriYY",
+     "fuente": "El Español on MSN",
+     "resumen": "La directora general de Representación ante la UE participa en la Cumbre del Clima de Naciones Unidas, celebrada en Turquía. Más información: Así son los enormes tanques antitormentas de Alicante que ...",
+     "fecha": "2026-11-14T07:20:16+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
      "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
      "fuente": "El Independiente",
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-12T15:01:05+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Pérez Llorca exige al Gobierno acelerar las obras contra inundaciones en la Comunidad Valenciana",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZGFZempsUTVsc0lqUjdYUFo0T09ZbDhkVVEyVzJuRlViT2VmMFNUemszdXlnNDBUd18wMndCcHRkYXpta2djMzRIOTRzNDEzVUhId1VCeFprM1BiaUZCRTVhZ1lCVXpPaTJFWjYyWWxaS29qd2RsQXhoVXVDNDVEY0VGenI2VEFSbURZRll6QXprUDB4Zm9IQTZPTDhvbWdBMm91MGxkQ3RIRkNKMDNTaVVjUW1IT3dYc0VHSE9KZW9KYWZ2SHBVbnFjSHdxdy1mS1dRTmF5a3doSC12dHZWdzUxLUVZV3pZamlUUDBn0gHzAUFVX3lxTE1vdE44anZ0WG43YURxSG5FRVBrdVBOeHI0T2tudXA2V044RXhWTEhjNFRhSmJUR0hUNmNOQUxweWkyY2dqdy1CZmlYdWY5UjFoSEk2ODlGSjJ5RXZGLVNuWDZjWVJyYlVuSHE1TW1kTEx3cmp6Z3RnM1ZGcUxaUGtzYnYweUJtaVhEMHhjdGVVSGIzaGFfRzd2SDNsLVRobk9EQURadVFaY1czRm5SUlVORzkzM1BpRDNuRC1jLXJlZUZyY2N2bUJpWDFVS3g5RDY0VEhRLXg4NVhPRHVBOXI0cXNaX09aaHM1U1NuS09mTG04NA?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-12T11:42:24+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Pérez Llorca ha urgido al Gobierno a acelerar las obras contra inundaciones en la Comunitat Valenciana",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjdfYTkxRHozem42WnZsandrUjBwR0U1RnFMUGRTOXRaeXE4NE0xRm5KZkVXR1M0bkFRcy1uMklmd29xYV9sTThLcFVPdllaZUF6Y2xqV21ZZjdCSlJMRWg1SkFHeGQ1UVgzU183bzZLNGlmWkU0SWR0TE1vSENyZ2tySkl3MDdOTnVPblZPNTdCOXFNWXJCN2lPV0JCcHRxclJzRmZqQ3ZxdnFTSXpWdFdjVGUzaHJYRVFEbEZBMV9adkJDeG9Ea0hzMFF6T1hqeTNmU2libzBUcDlLUF9tdmxRY0xLYWhQWHZ4Zw?oc=5",
-     "fuente": "Castelló Extra",
-     "resumen": "",
-     "fecha": "2026-11-12T11:30:17+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -257,6 +257,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "El Gobierno admite que el despliegue de plantas renovables exigirá un control contante de la red",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-gobierno-admite-que-el-despliegue-de-plantas-renovables-exigir%C3%A1-un-control-contante-de-la-red/ar-AA2hkHGF",
+     "fuente": "Vozpópuli on MSN",
+     "resumen": "El gran apagón del 28 de abril de 2025 puso a prueba la seguridad del sistema eléctrico español y abrió un debate sobre su capacidad para responder a un escenario cada vez más dominado por energías re ...",
+     "fecha": "2026-11-12T20:45:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Red Eléctrica saldará la deuda con las centrales que levantaron el apagón en diciembre de 2027, más de dos años y medio después",
      "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6ae2244fe9cf4ae95d8b4591.html",
      "fuente": "EL MUNDO",
@@ -278,14 +286,6 @@
      "fuente": "El Español",
      "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
      "fecha": "2026-11-11T21:00:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
-     "fuente": "Lancelot Digital",
-     "resumen": "",
-     "fecha": "2026-11-11T20:48:42+01:00",
      "fecha_txt": "11 nov"
     }
    ]
