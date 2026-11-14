@@ -6,7 +6,13 @@
 
 ## En vuelo ahora: multi-mercado i18n (2026-11-14, PC Windows)
 
-**Rama:** `main` · **Autor:** sesión de Mastermind en el PC · **Estado:** montando y publicando
+**Rama:** `main` · **Autor:** sesión de Mastermind en el PC
+**Estado:** ✅ PUBLICADO el 2026-11-14 (commit `6790526f`) y verificado en vivo:
+`/de/`, `/fr/kit/kit-dana/` y `/en-us/kit/kit-dana/` responden 200 con su idioma, su
+`data-mercado` y su dominio de Amazon; sitemap con 242 URLs y hreflang.
+
+**Ya NO está en vuelo.** Puedes tocar `main` con normalidad, pero si regeneras HTML
+recuerda que el prerender hornea **7 mercados**: `python scripts/prerender.py`.
 
 ### Qué está cambiando (y por qué)
 
