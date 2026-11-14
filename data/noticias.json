@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T04:11:00+01:00",
+  "actualizado": "2026-11-14T07:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Tumbes pierde casi el 70% del agua que produce y reservas cubrirían menos de medio día ante una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1h2ZW9yemhwNjFteHdRa3VpSjlCMjFnNUVmblVXYkRra2xZeWVOVzVybVZZWGhxSzhtN1o1QlhCN0szdHh0OFBhR21uRElHQWhRNUNMT01pUkV4Qk9FTllGRmY5TU9HSDlJTGk4ZDA1M3dNWmhrTEpCZmpjNTZiMUQ2RVpZS2QyUXA1ZTdZemROcmx6RW9ZR1BNZHBkTWpTVzBfMmFkYUFaMGlyYlQ3WHRZd0s0RmtVRjFVU0NQVHdkblJQUlRXd2NyekdVdVBsbkJyYQ?oc=5",
+     "fuente": "Revista Economía",
+     "resumen": "",
+     "fecha": "2026-11-13T22:55:39+01:00",
+     "fecha_txt": "13 nov"
+    },
     {
      "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU9qRU82MGEwc3VPalpQRlVZZmhDVDJDalM1aEVEbGJhZkpzdmdGa09LTndfa29iX1dJdkRScjF6UlFDZmxGeFJ4VUdJMWZKTHM4cjJWR3R1UDF0b0dfSTRkaGNsVjFaZm5DTkh5a1lXM2J2dFdLMmpUM1NELXU3QVBzMmJwbUU?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-11T17:31:10+01:00",
      "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Apagón mundial de tres días: ¿Por qué 33 países llaman a prepararse?",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUxJSEJQa3pNSGt0RVhuNTZWWjNwNXFoX29GVkdublJ1UjdvUmJuSUdNY3lDenVTMGpFLW95em9iVUJ0R2pfYTNjSVZfQ0E4SlBvTXVuc1FCaHRJVTZRZVYtVmRXd2g0d3FtV2lRU25COGpxVENXMlNaTThNMWwtU2RkdEs4TjFfWE80VHJZN3o0cGFpNEJEZU96a0ltZ19jTHVMeW5INHdQelEtQTl0UkJMNA?oc=5",
-     "fuente": "FayerWayer",
-     "resumen": "",
-     "fecha": "2026-11-11T13:52:58+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -107,6 +107,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
+     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
+     "fuente": "El Periódico Extremadura",
+     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
+     "fecha": "2026-11-13T10:00:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
@@ -136,14 +144,6 @@
      "fuente": "La Crónica de Badajoz",
      "resumen": "",
      "fecha": "2026-11-09T14:48:52+01:00",
-     "fecha_txt": "9 nov"
-    },
-    {
-     "titulo": "Badajoz reúne a expertos forestales para abordar los grandes incendios y los nuevos desafíos de su prevención",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0lNeHZjMHhNcHRvdDFzbjNZT2EtMTdDaVBtV2xwSE1Yb1V6YzBseV83a2pfMl9jLTZMNDI0elN0WUVMMUI5XzM1WlRpSkQ1b0FUVm96b055UTlnbWptcTNnWjRRdmg1cGlLZ3ZZcU1sTlZmcFFiSFNtS29ZS2RVdVZ2dUwySnFyT2lyR1laZjdfWlA5WGcxVThsVHcxcGNqbWJFR3JEUUxqU04zMzRXMzNwY3hFM3JicVJWdUlTRDZUQmJidlppMmxhcGNWLXR3ajVlcDFVRWZwbW40M1VjR3J4aHlDaTZEZ2dYNlVsUdIB9AFBVV95cUxNT0hLU1JOLWs5MVExTnRQN0NWNjBMeFNRWkczWXN4TjhnTlhOaktTWTdWaUZzaDRZVmVEOVV3VDF5LU9oVlJvcGEtdlh4d0FvMk1VVXlteGdZNnE2NXlRRUlQVHc4Y2FhcUtVUDJWaVVmXzJCcHZncXlIXzk3VUZkS1hibjlHVHVmTE1SbmNRcjBjeDd5cTg2RTNjY0ZhMEhJQ2FObXV3ZnN2eHhJdVY2ejdXd2dINnUweE1QT1I2cUk3b2N4MEJESloySEhCR1pHYkwzd0U1MEVTM3p2Ny10RjQ2OHRqUVdpMER6bkhNcjJNN0Fp?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-09T13:02:54+01:00",
      "fecha_txt": "9 nov"
     }
    ]
@@ -281,11 +281,11 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Apagón en Madrid: diez municipios sufren cortes de luz de hasta tres horas por \"trabajos en la red\" que dejan...",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSmczaTJ6QUFfcmljYjlmYUpEb0p1Zm9RdWpSVE1IT3h3bHJGc2QtLXhyRVUwa1ZVZUtZZ3NRclVSc0ZQUjZ1bUxmMHhuRzJYaTA3U3oyZFFOdDNBUW9LYlJyeGMxdHF4RzRhVjVGYklIX3RheUxCUmczd1hBZ3VHT2djZWpCTl9SR19xRzZuNXJudUROeDNpMWdiRUQ5a1BOTkJlQlk5NEpYUlN3a3ZFNnpQaFVpaGw1emtxeDJjNXJzYkl6Znl5Q0F5TnpHeEFQV09HdlRsTnIxNnRhcThhVEl0SVBjMFNTWGlFTm15bkV0Ulk1MHpwQUJJdG1HUdIBgwJBVV95cUxQcjc0MUktWjJONzFScEVqdklhYXhWYUE5OVVWY00yY0JRS3hFMjE1TzNBcVZMVGVnY3ptTzBmR2F4Z180N210VW9xb0psenI2UUxPbnZqZmhJMHAxNnpuaUZwVWxXLXBaeW9xTFV4NnNtbGlIRGgzUUw3UFE0dmllMjVPa0N5Z0o0bXkyUWNFaDVackZ3b2haNHZTTy1fc2tDTUN5cU1aQ21na0NWMjdnWTQyTW1NU2ZPYk01bmJleGVBbHc4WEdHZFZveElQSFFoRjA3THFGbDJNdkd1ZG9qZG9CekZ4UnhnWFI2MERRLVVrTVV3NDdLZUJZeVJ6TjRuUlNn?oc=5",
-     "fuente": "La Gaceta de la Iberosfera",
+     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
+     "fuente": "EL PAÍS",
      "resumen": "",
-     "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha": "2026-11-10T17:55:17+01:00",
      "fecha_txt": "10 nov"
     }
    ]
