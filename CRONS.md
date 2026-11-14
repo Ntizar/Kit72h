@@ -62,3 +62,24 @@ python3 scripts/verificar-produccion.py     # artículos y precios en URL viva
 
 Un cron que falla debe dejar rastro en stdout/stderr y rc≠0. Silencio solo es
 válido cuando no había trabajo y el árbol quedó limpio.
+
+
+---
+
+## `kit72h-traducciones` — los idiomas al día (diario 02:30)
+
+Script puro + la API de modelos (`scripts/traducir.py`), orquestado por
+`scripts/kit72h-traducciones.py`. **No usa el agente**: cero tokens de razonamiento.
+
+```
+02:30  traducir.py blog --pendientes   → solo lo que falta (caché por cadena)
+       generar-seo.py                  → sitemap con hreflang de los 7 mercados
+       prerender.py                    → hornea los mercados (~234 páginas)
+       verificar-sitio.py              → gate; si falla, NO se publica
+       git commit + push               → publica en GitHub Pages
+```
+
+- **Incremental y resumible**: presupuesto de 3 h; lo que no entre, la noche siguiente.
+- **Un lote fallido no se cachea** (si se cachea el original queda «traducido» para siempre).
+- Una entrada de blog **no se hornea en otros idiomas hasta que su traducción existe**.
+- Medición: 21 kits × 5 idiomas = 1.400 cadenas en ~9 min con 4 hilos (deepseek-v4-flash).

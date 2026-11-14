@@ -12,6 +12,11 @@
   var UA = navigator.userAgent || '';
   if (navigator.webdriver || UA.indexOf('HeadlessChrome') !== -1) return;
 
+  // La promo es un producto en castellano: fuera del mercado español sobra y
+  // además metería texto en español en una página alemana o francesa.
+  var primero = location.pathname.split('/')[1] || '';
+  if (['de', 'fr', 'it', 'nl', 'en-gb', 'en-us'].indexOf(primero) !== -1) return;
+
   try {
     var guardado = localStorage.getItem(CLAVE);
     if (guardado && Date.now() - Number(guardado) < DIAS * 86400000) return;

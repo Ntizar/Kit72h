@@ -1,0 +1,2905 @@
+{
+  "_meta": {
+    "lang": "it",
+    "fuente": "data/kits.json",
+    "generado": "2026-11-14 20:29",
+    "kits": 21
+  },
+  "disclosure": "In qualità di Affiliato Amazon, ricevo un guadagno dagli acquisti idonei. I prezzi possono variare. Le raccomandazioni si basano su fonti ufficiali: Protezione civile dell'UE e autorità nazionali di protezione civile.",
+  "meta": {
+    "fuentes": [
+      {
+        "cat": "Unione Europea",
+        "nota": "Il documento che fissa 72 ore come orizzonte di autonomia delle famiglie. Da qui deriva tutto l'approccio del sito."
+      },
+      {
+        "cat": "Unione Europea",
+        "nota": "Portale ufficiale dell'UE con raccomandazioni per tipo di rischio e materiali di preparazione per i cittadini."
+      },
+      {
+        "cat": "Unione Europea",
+        "nota": "Servizio di emergenza dell'UE: cartografia rapida di inondazioni, incendi e catastrofi."
+      },
+      {
+        "cat": "Unione Europea",
+        "nota": "Il 112 funziona in tutta l'UE, gratuitamente e da qualsiasi cellulare. Guida ufficiale su quando chiamare e cosa dire."
+      },
+      {
+        "cat": "Protezione Civile e Emergenze",
+        "nota": "Fonte principale del sito: piani, raccomandazioni e materiali del Ministero dell'Interno."
+      },
+      {
+        "cat": "Protezione Civile e Emergenze",
+        "nota": "Le liste di ciò che deve avere una casa preparata: la base di tutti i kit presenti qui."
+      },
+      {
+        "cat": "Protezione Civile e Emergenze",
+        "nota": "Come funziona l'avviso ai cellulari (ES-Alert) quando c'è un'emergenza nella tua zona."
+      },
+      {
+        "cat": "Protezione Civile e Emergenze",
+        "nota": "Coordinamento nazionale, Protezione Civile e risposta alle emergenze."
+      },
+      {
+        "cat": "Sanità",
+        "nota": "Offerta sanitaria, raccomandazioni di salute pubblica e preparazione alle crisi."
+      },
+      {
+        "cat": "Sanità",
+        "nota": "Sicurezza alimentare: conservazione degli alimenti senza refrigerazione e consumo sicuro in una crisi."
+      },
+      {
+        "cat": "Sanità",
+        "nota": "Elenco ufficiale degli ospedali in Spagna, con servizi e posti letto disponibili."
+      },
+      {
+        "cat": "Sanità",
+        "nota": "Avvisi sanitari ufficiali e raccomandazioni rivolte alla popolazione."
+      },
+      {
+        "cat": "Meteorologia",
+        "nota": "Previsioni ufficiali; da qui derivano gli avvisi che sostengono i kit per caldo, freddo e DANA."
+      },
+      {
+        "cat": "Meteorologia",
+        "nota": "Avvisi per fenomeno e livello di rischio: per pianificare prima che arrivi, non durante."
+      },
+      {
+        "cat": "Forniture ed energia",
+        "nota": "Operatore del sistema elettrico: informazioni sulla rete e sulla fornitura."
+      },
+      {
+        "cat": "Forniture ed energia",
+        "nota": "Curva di domanda in tempo reale. Serve per capire un blackout o un picco di consumo."
+      },
+      {
+        "cat": "Forniture ed energia",
+        "nota": "Acqua, energia e rischi climatici: il quadro ufficiale delle forniture."
+      },
+      {
+        "cat": "Sicurezza",
+        "nota": "Casermette, servizi di emergenza e intervento nelle aree rurali."
+      },
+      {
+        "cat": "Sicurezza",
+        "nota": "Commissariati e servizi di emergenza nei centri urbani."
+      },
+      {
+        "cat": "Sicurezza",
+        "nota": "Supporto volontario, evacuazione e assistenza psicosociale durante e dopo un'emergenza."
+      },
+      {
+        "cat": "Normativa",
+        "nota": "Pubblicazione ufficiale di tutte le norme citate in questo sito."
+      },
+      {
+        "cat": "Normativa",
+        "nota": "Inondazioni, fenomeni meteorologici avversi, incendi boschivi e merci pericolose."
+      },
+      {
+        "cat": "Dati della mappa e del sito",
+        "nota": "Mappa di base della pagina /zona/ (CC BY 4.0) e dati geografici ufficiali della Spagna."
+      },
+      {
+        "cat": "Dati della mappa e del sito",
+        "nota": "Catalogo dei dataset aperti dell'amministrazione spagnola."
+      },
+      {
+        "cat": "Dati della mappa e del sito",
+        "nota": "Da qui provengono gli ospedali, le farmacie, le forze di polizia e i rifugi della mappa /zona/ (ODbL)."
+      },
+      {
+        "cat": "Dati della mappa e del sito",
+        "nota": "Consultazione in tempo reale di OpenStreetMap che «Tu zona» usa per mostrare all'istante ciò che ti circonda."
+      },
+      {
+        "cat": "Dati della mappa e del sito",
+        "nota": "Telecomunicazioni e concorrenza: informazioni sulla copertura e sui servizi di comunicazione."
+      }
+    ]
+  },
+  "kits": {
+    "kit-suiza": {
+      "titulo": "Kit svizzero: la riserva ufficiale di 7 giorni (9 litri d'acqua per persona)",
+      "resumen": "La lista che lo Stato svizzero raccomanda di tenere in casa, tradotta e acquistata in Spagna: 9 litri d'acqua per persona, cibo per una settimana, radio, fornello, mascherine e contanti. Da 120 €.",
+      "coste_total": "120-260 € a persona per 7 giorni (meno se ruoti quello che già mangi)",
+      "paraQuien": "Per chi vuole una riserva domestica con numeri, non con buone intenzioni: la lista ufficiale svizzera tradotta in un appartamento in Spagna, con quantità, prezzi e cosa ruotare ogni sei mesi.",
+      "paraQuien_no": "Non è un kit di evacuazione né da zaino: è una riserva per restare a casa. Se il tuo piano è uscire dalla città con quello che hai addosso, ti serve il kit di evacuazione. E non sostituisce i farmaci né il piano familiare.",
+      "busc": "kit riserva emergenza 7 giorni acqua cibo fornello",
+      "guia": {
+        "antes": [
+          "Calcola l'acqua con la regola svizzera: 9 litri per persona, e aggiungi l'animale domestico e il caldo della tua zona",
+          "Ruota il cibo: la riserva è cibo normale che mangi e reintegri, non un armadio separato che scade",
+          "Controlla la data di ogni tanica e scrivila sul tappo; anche l'acqua in bottiglia scade",
+          "Conserva i farmaci per le malattie croniche con la ricetta e in un luogo fresco: è il punto che nessun kit generico copre",
+          "Tieni il contante in banconote di piccolo taglio e separato dal portafoglio di tutti i giorni",
+          "Prova il fornello e la radio una volta all'anno, con batterie nuove"
+        ],
+        "durante": [
+          "Bevi prima di avere sete: l'acqua è il primo rifornimento che viene a mancare e quello che è più difficile da improvvisare",
+          "Ascolta la radio ufficiale due volte al giorno; è il canale che resta attivo quando la rete mobile cade",
+          "Cucina di giorno e con ventilazione: il fornello a gas in casa uccide per monossido se manca l'aria",
+          "Raziona mascherine e disinfettante se devi uscire o pulire zone contaminate",
+          "Non aprire il frigorifero senza necessità: ogni apertura fa perdere ore di freddo"
+        ],
+        "despues": [
+          "Reintegra quello che consumi nella stessa settimana, non 'un giorno o l'altro': una riserva a metà non è una riserva",
+          "Controlla le date e annota ciò che è scaduto senza essere usato (di solito è quello che non ti piace mangiare)",
+          "Lava il fornello, asciuga le batterie e rimetti tutto dove l'hai trovato la prima volta"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Acqua: 9 litri per persona che non dipendono dal rubinetto",
+          "intro": "È la cifra più concreta di tutta la lista svizzera e quella che più gente non rispetta senza saperlo. Nove litri sono un pacco da sei bottiglie da 1,5 L: bevande e cucina per qualche giorno, senza contare l'igiene.",
+          "items": [
+            {
+              "producto": "Taniche d'acqua da 8 litri (due a persona)",
+              "descripcion": "Il modo pratico di conservare 16 litri senza occupare la cucina. Si impilano, si ruotano e non dipendono dal rubinetto."
+            },
+            {
+              "producto": "Acqua in bottiglia da ruotare ogni 6 mesi",
+              "descripcion": "Scorta di uso quotidiano che si consuma e si rimpiazza: così l'acqua non scade mai in dispensa."
+            },
+            {
+              "producto": "Pastiglie potabilizzatrici per l'acqua",
+              "descripcion": "Trasformano acqua dubbia in acqua potabile. È ciò che distingue 9 litri da una settimana intera quando l'erogazione diventa torbida."
+            }
+          ]
+        },
+        {
+          "titulo": "Cibo per sette giorni (non per tre)",
+          "intro": "La Svizzera raccomanda una settimana di alimenti normali: riso, pasta, olio, conserve, latte UHT, frutta secca, cioccolato. Niente razioni speciali; cibo che mangi già, così da poterlo ruotare.",
+          "items": [
+            {
+              "producto": "Conserve varie (15-20 scatolette)",
+              "descripcion": "La base che si mangia senza cuocere e senza frigo. Alterna pesce, legumi e verdure per non mangiare sempre le stesse cose."
+            },
+            {
+              "producto": "Riso parboiled (pacco da 2 kg)",
+              "descripcion": "Si conserva per anni, sazia e richiede solo acqua e calore. Con il fornelletto si cucina come a casa."
+            },
+            {
+              "producto": "Pasta, riso e legumi in pacchetti",
+              "descripcion": "Assortimento da dispensa per completare la settimana senza dipendere dal frigorifero."
+            },
+            {
+              "producto": "Apriscatole manuale",
+              "descripcion": "Il dettaglio che rovina una dispensa perfetta: senza apriscatole, le scatolette non si aprono."
+            }
+          ]
+        },
+        {
+          "titulo": "Cucinare senza rete elettrica",
+          "intro": "La Svizzera lo dice esplicitamente: fornelletto a gas. Conservare il cibo e non avere con cosa scaldarlo è l'errore più comune delle scorte domestiche.",
+          "items": [
+            {
+              "producto": "Fornelletto da campeggio a gas con bombole",
+              "descripcion": "Caffè, riso e conserve calde senza corrente. Con bombole di riserva e usato sempre in un ambiente ventilato."
+            },
+            {
+              "producto": "Stufa a gas butano (per la casa)",
+              "descripcion": "Se hai spazio, la stufa domestica dà autonomia di settimane con una bombola. Mai dentro una camera da letto chiusa."
+            },
+            {
+              "producto": "Accendini e fiammiferi lunghi",
+              "descripcion": "L'accendino si consuma e non accende capovolto. I fiammiferi lunghi raggiungono il bruciatore senza scottarti."
+            }
+          ]
+        },
+        {
+          "titulo": "Luce e avvisi ufficiali",
+          "intro": "Quando cade la rete mobile, la radio continua a trasmettere. È il motivo per cui è nella lista svizzera insieme alle pile di riserva, e non il cellulare.",
+          "items": [
+            {
+              "producto": "Radio FM/AM a pile (avvisi ufficiali)",
+              "descripcion": "Il canale informativo che sopravvive a un blackout. Sintonizza in anticipo le emittenti utili e annota la frequenza."
+            },
+            {
+              "producto": "Torcia LED con pile di ricambio",
+              "descripcion": "Muoversi in casa senza consumare la batteria del telefono, quella che ti serve per chiamare."
+            },
+            {
+              "producto": "Torcia frontale",
+              "descripcion": "Mani libere per cucinare, fare piccole riparazioni o scendere in garage. Con il blackout, questo fa la differenza."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene e salute: le 50 mascherine e i farmaci",
+          "intro": "Il dato svizzero che sorprende di più: 50 mascherine a persona. È stato aggiunto dopo la pandemia perché un'emergenza sanitaria lascia le persone anche senza forniture. In casa, 20 FFP2 coprono lo scenario domestico.",
+          "items": [
+            {
+              "producto": "Mascherine FFP2 (confezione)",
+              "descripcion": "Per uscire, pulire zone contaminate o convivere con un malato senza rete sanitaria."
+            },
+            {
+              "producto": "Kit di primo soccorso completo (222 pezzi)",
+              "descripcion": "Tagli, ustioni del fornello e urti sono le vere emergenze di un blackout, non le catastrofi da film."
+            },
+            {
+              "producto": "Disinfettante per superfici",
+              "descripcion": "Acqua razionata significa meno pulizia: il disinfettante compensa."
+            },
+            {
+              "producto": "Farmaci per patologie croniche: una settimana della tua terapia",
+              "descripcion": "Il punto più personale della lista e l'unico che non si compra in un kit. Con ricetta, in un luogo fresco e con la scadenza in vista."
+            }
+          ]
+        },
+        {
+          "titulo": "Quello che la Svizzera annota e quasi nessuno copia",
+          "intro": "Contanti, batteria e cibo per l'animale domestico. Sono tre righe dell'opuscolo svizzero che non compaiono in quasi nessuna lista spagnola e che in un vero blackout si notano dal primo giorno.",
+          "items": [
+            {
+              "producto": "Power bank da 10.000-20.000 mAh",
+              "descripcion": "Mantiene il telefono in funzione per un giorno intero e ricarica la radio se è ricaricabile. Caricalo lo stesso giorno in cui controlli la riserva."
+            },
+            {
+              "producto": "Cibo extra per l'animale domestico",
+              "descripcion": "Se hai un cane o un gatto, la sua settimana di cibo conta quanto la tua. Quasi nessuno la include."
+            },
+            {
+              "producto": "Contanti in banconote di piccolo taglio",
+              "descripcion": "Quando i POS e i bancomat non rispondono, i contanti continuano a comprare. Sessanta euro in banconote da 10 e 20."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-basico-72h": {
+      "titulo": "Kit 72h Base: 21 essenziali UE (2026)",
+      "resumen": "Zaino di resilienza UE: 21 articoli verificati, checklist da spuntare, carrello Amazon in 1 clic. Guida aggiornata 2026.",
+      "coste_total": "180-300 € (nucleo di 2 persone; kit di primo soccorso e utensili sono per la casa, non pro capite)",
+      "paraQuien": "Per qualsiasi famiglia in Spagna, da qualunque punto si inizi. È la borsa di resilienza che l'UE chiede da marzo 2025 —acqua, cibo, luce, informazioni, documenti e indumenti caldi per resistere 72 ore senza servizi— con ogni prodotto verificato: niente schede che dicono una cosa e ne vendono un'altra. Se devi preparare un solo kit, che sia questo.",
+      "paraQuien_no": "Non è uno zaino per andare a piedi né sostituisce il kit specifico per il tuo rischio (DANA, montagna, auto). Se vivi in una zona a rischio alluvione o con persone non autosufficienti, completa con il kit di evacuazione e il kit per neonati o per anziani.",
+      "guia": {
+        "antes": [
+          "Prepara il kit con tutta la famiglia e conservalo in un luogo conosciuto e accessibile",
+          "Controlla le scadenze (acqua, cibo, pile, farmaci) ogni 6 mesi",
+          "Annota i numeri di emergenza su carta: 112, Protezione Civile del tuo comune",
+          "Attiva gli avvisi sul cellulare nelle impostazioni del telefono: il sistema ES-Alert (Rete di allerta nazionale) invia avvisi diretti a chi si trova nella zona colpita. Le Linee guida di base approvate nell'aprile 2026 lo integrano in tutti i piani di protezione civile"
+        ],
+        "durante": [
+          "Segui solo le istruzioni di fonti ufficiali (112, Protezione Civile)",
+          "Consuma con parsimonia acqua e batteria del cellulare",
+          "Tieni accesa la radio a pile in banda FM"
+        ],
+        "despues": [
+          "Rifornisci quanto prima ciò che hai consumato",
+          "Annota cosa è mancato e adatta il kit"
+        ]
+      },
+      "errores": [
+        "Comprare senza guardare la scheda reale: metà delle liste di «essenziali» su internet contiene link a un impermeabile da donna, a un poster decorativo invece che a una mappa o a pastiglie per serbatoi da 200 litri. Prima di pagare, controlla che foto, genere/taglia e unità di dosaggio siano quelli che ti servono.",
+        "Comprare solo acqua in bottiglia e non avere un piano B: se finisce, delle pastiglie potabilizzatrici da 10 € ti danno acqua del rubinetto o piovana trattata.",
+        "Mettere tutto nel ripostiglio o nell'armadio in alto. In un blackout senza luce devi trovarlo in 30 secondi, meglio vicino alla porta.",
+        "Non scrivere la data di acquisto su ogni confezione: dopo due anni non saprai cosa è vecchio e butterai metà delle scorte.",
+        "Dimenticarsi della radio. In una crisi lunga il cellulare diventa muto; la radio a pile è il tuo unico collegamento con ciò che dispone la Protezione Civile.",
+        "Comprare tutto in una volta e poi lasciar perdere. Funziona meglio aggiungere due o tre articoli a ogni spesa settimanale."
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua e idratazione",
+          "intro": "La prima cosa che manca e l'unica che non si improvvisa. 3 litri a persona al giorno per bere, una riserva con rubinetto e un sistema per rendere potabile l'acqua dubbia quando finisce.",
+          "items": [
+            {
+              "producto": "Acqua minerale in bottiglie da 1,5 L (confezione da 6 = 9 L)",
+              "descripcion": "Nove litri in bottiglia: i 3 L/giorno di una persona per tre giorni. Si ruota ogni sei mesi e si sfrutta in cucina."
+            },
+            {
+              "producto": "Bottiglione da 8 L con rubinetto dosatore",
+              "descripcion": "Otto litri con rubinetto integrato: si dosa senza aprire nulla e resta in piedi nella dispensa. La riserva base della casa."
+            },
+            {
+              "producto": "Pastiglie potabilizzatrici Aquatabs (50 pz, 1 L/pz)",
+              "descripcion": "Una compressa per litro: 50 litri di acqua potabile per confezione. Dose chiara per una bottiglia, non per un serbatoio, che è ciò che serve davvero."
+            }
+          ]
+        },
+        {
+          "titulo": "Alimentazione",
+          "intro": "Cibo che si mangia senza cucinare, senza acqua e senza elettricità, e che ti venga davvero voglia di mangiare per tre giorni di fila.",
+          "items": [
+            {
+              "producto": "Razione disidratata Trek'n Eat (515 kcal)",
+              "descripcion": "515 kcal per razione, si prepara con acqua calda in 8 minuti e si mangia direttamente dalla busta. Conservabilità di anni."
+            },
+            {
+              "producto": "Sardine in olio d'oliva (5 scatolette × 120 g)",
+              "descripcion": "Proteine e grassi buoni senza frigo né cucina: si aprono e si mangiano. Cinque scatolette bastano per diversi pasti."
+            },
+            {
+              "producto": "Barrette di frutta e frutta secca (18 × 35 g)",
+              "descripcion": "Circa 130 kcal per barretta da 35 g: snack compatto da tasca, non un pasto completo. Integra, non sostituisce."
+            }
+          ]
+        },
+        {
+          "titulo": "Luce ed energia",
+          "intro": "Vedere e farsi vedere, e tenere vivo il cellulare e la radio. La lampada frontale lascia le mani libere: è la torcia che si usa davvero.",
+          "items": [
+            {
+              "producto": "Torcia frontale a batterie AAA (1300 lux)",
+              "descripcion": "3 batterie AAA, 22 h in modalità bassa e 6 h in modalità alta, luce rossa per non abbagliare. Mani libere per scendere le scale al buio."
+            },
+            {
+              "producto": "Powerbank INIU 20.000 mAh (22,5 W, USB-C)",
+              "descripcion": "Quattro o cinque ricariche del cellulare, con cavo USB-C incluso. Il cellulare è la tua mappa, la tua torcia e la tua radio: senza batteria non funziona niente."
+            },
+            {
+              "producto": "Batterie alcaline AA e AAA (24 + 24, 10 anni)",
+              "descripcion": "Ventiquattro di ciascun tipo, con dieci anni di conservazione. Alimentano la radio, la torcia frontale e tutto ciò che arriverà dopo."
+            }
+          ]
+        },
+        {
+          "titulo": "Informazione e comunicazione",
+          "intro": "Sapere cosa sta succedendo e dove si trova il resto della famiglia. Con la rete giù, vincono la radio e la carta.",
+          "items": [
+            {
+              "producto": "Radio FM/AM con dinamo, solare e USB (2.000 mAh)",
+              "descripcion": "Tre modi per caricarla —manovella, pannello solare e USB— più torcia e pulsante SOS. Se saltano internet e la rete mobile, è l'unico canale che continua a trasmettere."
+            },
+            {
+              "producto": "Mappa ufficiale delle strade 2026 (carta)",
+              "descripcion": "La mappa ufficiale del Ministero dei Trasporti: strade, centri abitati e uscite alternative. Funziona senza batteria e senza copertura."
+            },
+            {
+              "producto": "Fischietti di alluminio di emergenza (5 pz)",
+              "descripcion": "Cinque fischietti con cordino: si sentono da molto più lontano rispetto alla voce e non consumano nulla. Il localizzatore più economico del kit."
+            }
+          ]
+        },
+        {
+          "titulo": "Documenti e denaro",
+          "intro": "Fotocopie e un po' di contanti in banconote piccole. Cinque minuti di preparazione che ti risparmiano mesi di pratiche.",
+          "items": [
+            {
+              "producto": "Sacca stagna per documenti (3 pezzi)",
+              "descripcion": "Chiusura impermeabile: carta d'identità, polizze, prescrizioni mediche e cellulare restano asciutti anche se lo zaino finisce in una pozzanghera."
+            },
+            {
+              "producto": "Marsupio interno nascosto per contanti",
+              "descripcion": "Due tasche piatte da portare sotto i vestiti: contanti, carte e copia delle chiavi aderenti al corpo. Se perdi lo zaino, non perdi i documenti."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene e salute",
+          "intro": "Ciò che evita che un piccolo taglio diventi un problema in un posto senza acqua corrente né farmacia.",
+          "items": [
+            {
+              "producto": "Kit di pronto soccorso completo Lewis-Plast (309 pezzi, norma europea)",
+              "descripcion": "309 pezzi conformi alla norma europea per i kit di pronto soccorso: garze, bende, cerotti, forbici, guanti e medicazioni. Una base concreta, non un astuccio decorativo."
+            },
+            {
+              "producto": "Gel idroalcolico 70% (6 × 250 ml)",
+              "descripcion": "Un litro e mezzo di gel al 70%: igiene delle mani senza acqua per giorni. Uno nello zaino, un altro in auto."
+            },
+            {
+              "producto": "Mascherine FFP2 certificate (50 pz)",
+              "descripcion": "Cinquanta FFP2 con certificazione CE: fumo, polvere e aria insalubre. L'elenco europeo le ha inserite dopo la pandemia e continuano ad avere senso."
+            }
+          ]
+        },
+        {
+          "titulo": "Calore e riparo",
+          "intro": "Mantenere la temperatura corporea è ciò che separa una notte scomoda da un'emergenza medica. E bagnato = freddo.",
+          "items": [
+            {
+              "producto": "Coperte termiche riutilizzabili 210×160 cm (5 pz)",
+              "descripcion": "Cinque coperte grandi che trattengono il calore corporeo e pesano 55 g ciascuna. Una a persona e due di riserva."
+            },
+            {
+              "producto": "Poncho impermeabile unisex con cappuccio (taglia unica)",
+              "descripcion": "Poncho unisex in ripstop, colonna d'acqua 8.000 mm, con cappuccio e taglia unica; funge anche da telo. Copre la persona e lo zaino."
+            }
+          ]
+        },
+        {
+          "titulo": "Strumenti",
+          "intro": "Aprire, tagliare, avvitare e accendere. Senza batteria, senza copertura e senza dipendere da nessuno.",
+          "items": [
+            {
+              "producto": "Coltello multiuso Victorinox Spartan",
+              "descripcion": "Lama, seghetto, apriscatole, cavatappi e cacciaviti in 60 grammi. Lo strumento che risolve l'imprevisto."
+            },
+            {
+              "producto": "Fiammiferi lunghi da 17 cm (4 scatole)",
+              "descripcion": "Quattro scatole di fiammiferi XXL: accendono una candela o un fornello senza bruciarti le dita e resistono meglio all'umidità di un accendino."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-dana": {
+      "titulo": "Kit DANA / Alluvione: 14 articoli per proteggere la tua casa (2026)",
+      "resumen": "Kit DANA: 14 articoli per proteggere la tua casa dalle inondazioni. Guida basata sulle raccomandazioni ufficiali della Protezione Civile.",
+      "coste_total": "90-160 € (oltre al kit di base)",
+      "paraQuien": "Per chi vive o lavora nel Levante spagnolo, nelle Baleari, nel Guadalquivir, in zone di rambla, in burroni o in alvei con insediamenti residenziali nelle vicinanze. La DANA è il rischio che si ripete più spesso in Spagna: acqua che arriva in pochi minuti, senza un preavviso sufficiente.",
+      "paraQuien_no": "Non è adatto allo scenario di inondazione lenta di un fiume del Nord (lì il tempo gioca a favore e la priorità è interrompere le forniture e portare fuori le cose di casa). E non sostituisce il kit di base: senza acqua potabile e cibo, una DANA che blocca le strade dura più a lungo.",
+      "guia": {
+        "antes": [
+          "Tieni a portata di mano il kit di base 72h",
+          "Non lasciare oggetti sciolti su terrazze o in giardini che possano essere trascinati via",
+          "Se vivi in una zona inondabile, prepara sacchi di sabbia ed esci dal seminterrato",
+          "Con allerta arancione o rossa, tieni il cellulare con le notifiche di allerta attive: la nuova Direttiva di base sulle inondazioni (BOE, 27/04/2026) consolida ES-Alert come canale diretto di allerta per la popolazione",
+          "Controlla gli avvisi prima che piova, non quando già piove: su AEMET (aemet.es, sezione Avvisi) o su Meteoalarm, il sistema di allerta europeo. La Protezione Civile considera pioggia torrenziale oltre 60 mm/ora; con allerta arancione o rossa, il piano della giornata cambia: non uscire a fare commissioni.",
+          "Oggi porta il kit, i documenti e il caricabatterie in un armadio del piano più alto. Al piano terra, in cantina o in garage si bagnano proprio quando ti servono e l'acqua non ti lascia scendere. È gratis e si fa in cinque minuti."
+        ],
+        "durante": [
+          "Non circolare né camminare nelle zone allagate: 15 cm d'acqua possono trascinare una persona",
+          "Sali ai piani alti se l'acqua entra in casa; non usare l'ascensore",
+          "Stacca l'elettricità se c'è rischio di contatto con l'acqua",
+          "Se l'acqua ti raggiunge in auto, lasciala e sali in un edificio alto: un'auto galleggia e viene portata via con meno di mezzo metro d'acqua in movimento. Non attraversare mai un sottopasso, un guado né una rambla, né in auto né a piedi: già 15 cm d'acqua trascinano una persona.",
+          "Non scendere in garage a spostare l'auto e non uscire a vedere l'alluvione: è lì che si verificano gli incidenti gravi di una DANA. Resta ai piani alti, con la radio accesa, e chiama o scrivi a chi vive solo nelle vicinanze."
+        ],
+        "despues": [
+          "Non bere l'acqua del rubinetto finché non hai confermato che è potabile",
+          "Non accendere luci né dispositivi finché non hai verificato che l'impianto è asciutto",
+          "Fotografa i danni per l'assicurazione prima di rimuovere qualsiasi cosa",
+          "Quando pulisci il fango, usa mascherina FFP2, guanti e stivali: il fango secco si inala e proviene da acque fecali. Arieggia spalancando le finestre e asciuga nelle prime 48 ore, altrimenti la muffa resta sui muri e sui mobili.",
+          "Prima di bere o cucinare con l'acqua del rubinetto, conferma con il tuo comune che la rete è idonea: dopo un'alluvione può esserci un avviso di non potabilità. Al minimo dubbio, acqua in bottiglia o bollita per un minuto."
+        ]
+      },
+      "errores": [
+        "Affidarsi all'avviso sul cellulare e non avere nulla di pronto finché non suona. Durante la DANA del 2024 molte persone non hanno avuto margine: il kit deve essere pronto prima.",
+        "Scendere in garage o in cantina a salvare oggetti quando piove già forte. È l'incidente tipico.",
+        "Accendere la luce o toccare prese bagnate: l'elettrocuzione al piano terra è tra le cause di morte più frequenti nelle alluvioni.",
+        "Tornare troppo presto e calpestare il fango senza guanti né stivali: è carico di acque reflue, vetri e metalli.",
+        "Non annotare né fotografare nulla: i danni si dichiarano male senza prove e i termini del Consorcio de Compensación de Seguros decorrono. Scatta foto e video con data dal primo giorno, anche di ciò che butti. E non conservare il kit in cantina: il posto che si allaga per primo è il peggiore per il materiale di emergenza."
+      ],
+      "secciones": [
+        {
+          "titulo": "Protezione personale dall'acqua",
+          "intro": "Se ti sorprende a piedi o alla guida, ciò che decidi in due minuti vale più di tutto ciò che comprerai dopo.",
+          "items": [
+            {
+              "producto": "Impermeabile con cappuccio",
+              "descripcion": "Cappuccio aderente e cuciture sigillate per pioggia torrenziale."
+            },
+            {
+              "producto": "Botas de agua",
+              "descripcion": "Stivali di gomma fino al ginocchio: acqua contaminata, fango e oggetti taglienti."
+            },
+            {
+              "producto": "Guantes impermeables",
+              "descripcion": "Protezione quando si maneggiano detriti e si lavora in acqua."
+            }
+          ]
+        },
+        {
+          "titulo": "Seguridad eléctrica",
+          "intro": "In una casa allagata, il maggiore rischio silenzioso non è l'acqua: è l'elettricità che rimane nei cavi.",
+          "items": [
+            {
+              "producto": "Torcia LED (evita le candele: rischio di incendio)",
+              "descripcion": "Modello LED con 100+ lumen. Porta batterie di ricambio a parte."
+            },
+            {
+              "producto": "Avvolgicavo con interruttore differenziale portatile",
+              "descripcion": "Protezione contro l'elettrocuzione quando si ripristina la corrente in zone umide."
+            }
+          ]
+        },
+        {
+          "titulo": "Protezione dell'abitazione",
+          "intro": "Misure economiche e rapide da mettere in atto quando arriva l'avviso, prima che arrivi l'acqua.",
+          "items": [
+            {
+              "producto": "Sacchi di sabbia vuoti o barriere antiallagamento",
+              "descripcion": "Barriere improvvisate contro l'acqua su porte e finestre basse."
+            },
+            {
+              "producto": "Nastro adesivo e plastica per sigillare le finestre",
+              "descripcion": "Sigillatura di finestre e fessure in caso di pioggia battente e vento."
+            }
+          ]
+        },
+        {
+          "titulo": "Post-DANA",
+          "intro": "I giorni successivi sono quelli delle lesioni e delle malattie: fango, umidità e impianti compromessi.",
+          "items": [
+            {
+              "producto": "Disinfettante per superfici",
+              "descripcion": "L'acqua della DANA lascia fango misto ad acque reflue: disinfetta tutto."
+            },
+            {
+              "producto": "Pale e secchi per rimuovere il fango",
+              "descripcion": "Rimuovere fango e acqua accumulati dopo il passaggio dell'acqua."
+            },
+            {
+              "producto": "Deumidificatore o sacchetti antiumidità",
+              "descripcion": "Evita muffa e umidità strutturale dopo l'alluvione."
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicazione e avvisi: quando la rete cade",
+          "intro": "In una DANA la prima cosa che salta è la copertura: se il cellulare resta senza rete e non c'è luce, questo è ciò che ti avvisa e ti tiene connesso. Tutto funziona senza copertura né installazione.",
+          "items": [
+            {
+              "producto": "Radio FM/AM a batterie o a manovella, con torcia integrata",
+              "descripcion": "La rete mobile e la corrente se ne vanno proprio quando le informazioni servono di più. Compra una radio con ghiera di sintonia grande, annota sul coperchio l'emittente regionale e Radio Nacional, e provala una volta al mese: gli avvisi ufficiali continuano ad arrivare via radio e dai megafoni comunali. Tieni le batterie di scorta a parte, fuori dall'apparecchio."
+            },
+            {
+              "producto": "Walkie-talkie PMR446 (coppia con caricabatterie)",
+              "descripcion": "Con la rete mobile caduta, due persone a 300-500 m in un paese allagato continuano a parlarsi: i PMR446 sono legali in Spagna senza licenza, con canali di uso comune. Servono perché uno faccia la fila al punto di distribuzione e l'altro resti con chi non può muoversi. Come usarli, nella guida PMR446 del blog."
+            },
+            {
+              "producto": "Batteria esterna (power bank) 10.000-20.000 mAh, due uscite",
+              "descripcion": "Senza corrente, il cellulare è la tua torcia, la tua mappa e il tuo contatto con la famiglia: si scarica in poche ore. Caricala al 100 % con l'allerta arancione e non consumarla con i video; con un piccolo pannello solare o il caricatore dell'auto la riempi di nuovo. Tieni il cavo corto nella stessa borsa."
+            },
+            {
+              "producto": "Mascherina FFP2 (confezione) e occhiali protettivi per la pulizia",
+              "descripcion": "Il fango di un'alluvione porta con sé acque reflue e, quando si asciuga, si inala: quando rimuovi il fango e abbatti pareti bagnate, mascherina indossata e occhi coperti. Va usata il primo giorno, non quando già puzza. Se hai asma o problemi respiratori, fallo con un'altra persona presente e facendo pause."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-apagon": {
+      "titulo": "Kit Blackout: 15 articoli per sopravvivere senza corrente (2026)",
+      "resumen": "Kit Blackout: 15 articoli per sopravvivere senza elettricità. Guida basata sulla Strategia di preparazione dell'UE (2025).",
+      "coste_total": "90-200 € l'essenziale; 257-525 € con tutti i consigliati (SAI, pannello solare, estintore...) — oltre al kit di base",
+      "paraQuien": "Per tutti. Il 28 aprile 2025 la penisola iberica è rimasta senza corrente per 12 ore o più: semafori spenti, bancomat chiusi, ascensori fermi, supermercati senza POS. Un blackout prolungato non è un aneddoto: è un giorno senza poter comprare, senza acqua ai piani alti e senza ascensore.",
+      "paraQuien_no": "Non ti serve se quello che ti aspetti è continuare a lavorare o studiare con normalità: per farlo serve capacità di generare elettricità (pannello grande, batteria domestica), che è un altro livello di investimento. E se vivi al quinto piano senza ascensore, calcola che l'acqua che scendi a prendere devi risalirla a piedi.",
+      "guia": {
+        "antes": [
+          "Carica cellulari e power bank ogni giorno se c'è un'allerta sulla rete elettrica",
+          "Tieni contanti in casa: i POS non funzionano senza corrente",
+          "Un fornello a gas o da campeggio per mangiare caldo",
+          "Lascia due bottiglie d'acqua congelate o blocchi di gel nel congelatore: il giorno del blackout passano in frigo e ti danno ore di freddo senza aprire la porta.",
+          "Prova oggi il rilevatore di CO con il suo pulsante di test e controlla che la lancetta dell'estintore sia sul verde. In un blackout non c'è tempo per scoprire che non funzionano."
+        ],
+        "durante": [
+          "Non usare candele come luce principale: torcia sempre",
+          "Scollega gli elettrodomestici sensibili per evitare picchi quando torna la corrente",
+          "Risparmia la batteria del cellulare: solo chiamate e SMS (la rete dati può cadere)",
+          "Nessun apparecchio a combustione in una stanza chiusa: niente bracieri, barbecue, generatori né fornelli a gas dentro casa o in garage. Se accendi il fornello, ventilazione incrociata (una finestra e un'altra apertura) e rilevatore di CO in vista.",
+          "Organizza il frigorifero in base allo scongelamento: latte, carne, pesce e salumi per primi; surgelati e conserve alla fine. Ciò che si è già scongelato si cucina o si butta: non si ricongela.",
+          "Con il SAI, spegni il computer e lascia solo il router: hai il wifi finché regge la batteria ed eviti il picco di tensione quando torna la corrente."
+        ],
+        "despues": [
+          "Ricarica tutto di nuovo e rimpiazza ciò che hai consumato",
+          "Controlla gli alimenti che hanno perso la catena del freddo",
+          "Prima di dormire, lascia arieggiare la stanza dove hai usato fiamme e controlla di nuovo il rilevatore di CO e l'estintore.",
+          "Rimpiazza ciò che hai consumato: pile, candele, gel refrigerante e ciò che hai aperto dalla dispensa. Il prossimo blackout non avvisa."
+        ]
+      },
+      "errores": [
+        "Aprire il frigo ogni poco per vedere cosa c'è. Chiuso e senza aprirlo, un frigorifero resiste circa 4 ore e un congelatore pieno fino a 24-48 ore.",
+        "Accendere candele e lasciarle incustodite: è la causa classica di incendio domestico durante i blackout. Con i bambini, torcia e basta.",
+        "Non staccare gli elettrodomestici: quando torna la corrente, la sovratensione può friggere il frigo, la caldaia o il router.",
+        "Contare sulla batteria del cellulare: durante i blackout le persone chiamano tutte insieme e le antenne reggono poco. Modalità aereo e powerbank carico.",
+        "Pagare con la carta e scoprire che il POS non funziona. Il contante in banconote piccole è il piano, non il dettaglio."
+      ],
+      "secciones": [
+        {
+          "titulo": "Luce",
+          "intro": "Una luce a persona, e che non siano candele. Le lampade con magnete si appendono dentro il frigo o nell'armadio e cambiano la vita.",
+          "items": [
+            {
+              "producto": "Lampade LED ricaricabili con magnete (per frigo/dispensa)",
+              "descripcion": "Si attacca al frigo, alla dispensa o al cofano dell'auto. Mani libere."
+            },
+            {
+              "producto": "Torcia frontale (mani libere)",
+              "descripcion": "Illumina senza occupare le mani: indispensabile per lavorare di notte."
+            },
+            {
+              "producto": "Candele di emergenza (solo come rinforzo, con portacandele sicuro)",
+              "descripcion": "Rinforzo di luce, mai fonte principale. Con portacandele metallico."
+            }
+          ]
+        },
+        {
+          "titulo": "Energia",
+          "intro": "Tenere cellulare e radio attivi per 3-4 giorni. Powerbank grande, pannello piccolo per ricaricarlo e caricatore a dinamo come ultima risorsa.",
+          "items": [
+            {
+              "producto": "Powerbank ≥ 20.000 mAh con uscita AC o USB-C PD",
+              "descripcion": "Batteria esterna da 20.000 mAh: 4-5 ricariche complete del cellulare."
+            },
+            {
+              "producto": "Pannello solare portatile 20-40 W",
+              "descripcion": "Ricarica il powerbank con il sole. 20-40 W caricano un cellulare in 3-4 ore."
+            },
+            {
+              "producto": "Caricatore a dinamo multiuso",
+              "descripcion": "Manovella manuale: energia infinita senza sole né rete."
+            }
+          ]
+        },
+        {
+          "titulo": "Cucina senza elettricità",
+          "intro": "Poter fare un caffè o scaldare l'acqua fa la differenza morale di un blackout. E richiede di farlo in un luogo ventilato: il butano in un ambiente chiuso uccide.",
+          "items": [
+            {
+              "producto": "Fornelletto da campeggio a gas con bombole",
+              "descripcion": "Cibo caldo senza elettricità. Usa sempre in zona ventilata."
+            },
+            {
+              "producto": "Frigo portatile per conserve",
+              "descripcion": "Proteine e calorie senza refrigerazione. Dai priorità a legumi e pesce."
+            },
+            {
+              "producto": "Accumulatori di freddo (blocchi di gel congelabili) per frigo e congelatore",
+              "descripcion": "Tienili già congelati da prima: il giorno del blackout passano nel frigo, attaccati a ciò che è più delicato (carne, pesce, latticini, salumi), e allungano le ore di freddo senza che tu debba aprire la porta per controllare nulla. Trucco gratis equivalente: due bottiglie d'acqua congelate. E ciò che si è già scongelato non si ricongela: si cucina o si butta."
+            }
+          ]
+        },
+        {
+          "titulo": "Sicurezza durante il blackout",
+          "intro": "Un blackout cambia come cucini e come ti illumini, e questo porta due rischi che non si vedono: il monossido di carbonio e il fuoco. Sono due acquisti piccoli che non si usano quasi mai e che, il giorno in cui servono, sono gli unici che contano.",
+          "items": [
+            {
+              "producto": "Rilevatore di monossido di carbonio (CO) a batterie con allarme",
+              "descripcion": "Il CO non ha odore, non si vede e non irrita: dà sonnolenza, mal di testa e, se resti nella stanza, uccide mentre dormi. Durante un blackout si accendono candele, fornelli e bracieri, ed è lì che compare. Mettilo all'altezza della testa, fuori dal bagno e vicino alla zona in cui cucini, e premi il pulsante di test a ogni cambio dell'ora. Regola non negoziabile: bracieri, barbecue, generatori e fornelli mai in una stanza chiusa né in garage."
+            }
+          ]
+        },
+        {
+          "titulo": "Denaro e comunicazione",
+          "intro": "Contanti, contatti su carta e una radio. Quando tutto è digitale, l'analogico decide.",
+          "items": [
+            {
+              "producto": "Mini cassaforte portatile per contanti",
+              "descripcion": "Conserva contanti e documenti critici a casa."
+            },
+            {
+              "producto": "Radio FM/AM a batterie o a dinamo",
+              "descripcion": "Unica fonte di informazione se cadono internet e la telefonia. Meglio con la dinamo."
+            },
+            {
+              "producto": "SAI / UPS piccolo (600-900 VA) per router e ONT",
+              "descripcion": "Un SAI da 600-900 VA mantiene in funzione il router e l'ONT per tutto il tempo in cui dura la sua batteria (di solito minuti, non ore) e, in più, protegge l'apparecchiatura dalle sovratensioni quando torna la corrente. Collega solo il router: se ci attacchi anche il computer o la TV, la batteria si esaurisce subito. Non è un generatore: non alimenta frigorifero, riscaldamento né lavatrice."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-coche": {
+      "titulo": "Kit auto 2026: obbligatori e facoltativi DGT",
+      "resumen": "Kit auto obbligatori DGT 2026: dispositivo di presegnalazione V-16, giubbotto e tutto l'essenziale. Lista verificata e carrello Amazon in 1 clic.",
+      "coste_total": "60-120 € (senza contare il dispositivo di presegnalazione V-16, che è obbligatorio)",
+      "paraQuien": "Per chi guida, cioè quasi tutti. Oltre a ciò che è obbligatorio per legge, è quello che ti serve se resti bloccato su un passo di montagna a gennaio, in un ingorgo di 6 ore ad agosto o ad aspettare il carro attrezzi alle 3 di notte.",
+      "paraQuien_no": "Non è un kit da officina: se pensi di cambiare una ruota da solo o caricare una batteria, ti servono anche cric, chiave e cavi di avviamento, e saperli usare. E non sostituisce lo zaino che porti con te: l'auto può restare dove tu non vuoi essere.",
+      "guia": {
+        "antes": [
+          "Controlla pneumatici, batteria e livelli prima dei viaggi lunghi",
+          "Controlla lo stato del kit a ogni cambio di stagione"
+        ],
+        "durante": [
+          "In caso di guasto, segnala dall'interno dell'auto con il dispositivo di presegnalazione V-16 collegato e omologato: è l'unico mezzo legale dal 1/1/2026 (RD 159/2021; DGT, nota del 25/11/2025). I triangoli non sono più validi",
+          "Non uscire dall'auto durante una nevicata se c'è traffico: all'interno è più sicuro e più caldo",
+          "Dal 1/10/2026, quando superi un veicolo fermo per guasto o incidente, riduci di almeno 20 km/h il limite della strada e lascia 1,5 m di separazione laterale; nelle code apri la corsia di emergenza centrale per ambulanze e carri attrezzi (RD 518/2026, del 24 giugno, BOE-A-2026-13889, pubblicato il 26/06/2026)",
+          "Dal 1/10/2026 la cintura di sicurezza è sempre obbligatoria: la riforma del Regolamento Generale della Circolazione elimina le esenzioni per tassisti, corrieri e istruttori di autoscuola; si salvano solo i pazienti in ambulanza in servizio di urgenza (RD 518/2026, art. 119.2, BOE-A-2026-13889)",
+          "Dal 1/10/2026, in autostrada e superstrada con la carreggiata resa difficile dalla neve è vietato sorpassare ed è obbligatorio circolare sulla corsia di destra (adiacente se ce ne sono tre o più), lasciando libere quelle di sinistra per spazzaneve ed emergenze (RD 518/2026, art. 32 del Reglamento General de Circulación, BOE-A-2026-13889)"
+        ],
+        "despues": [
+          "Ripristina ciò che hai usato (pile, acqua, carburante) al rientro a casa"
+        ]
+      },
+      "errores": [
+        "Non controllare il dispositivo V-16: la connessione scade (di solito dura circa 12 anni dalla fabbricazione) e ci sono modelli senza omologazione DGT. Con i triangoli non è più valido dal 1/1/2026.",
+        "Tenere il kit nel bagagliaio e avere il bagagliaio pieno di cose dell'ultimo trasloco. Un kit di primo soccorso coperto non esiste.",
+        "Non controllare la ruota di scorta né il livello dell'acqua: una foratura a 30 km dal distributore più vicino è un problema che si misura in ore.",
+        "Fidarsi del cellulare con l'8% di batteria e senza powerbank in auto.",
+        "Con la neve, partire senza catene né saperle montare. Le calze in tessuto sono un espediente legale in alcuni luoghi e un pericolo in altri: scopri prima cosa è ammesso nella tua zona."
+      ],
+      "secciones": [
+        {
+          "titulo": "Obbligatorio in Spagna (DGT)",
+          "intro": "Ciò che possono chiederti in un controllo o in un incidente. Dal 1/1/2026 il dispositivo V-16 connesso è l'unico mezzo legale di segnalazione.",
+          "items": [
+            {
+              "producto": "Due triangoli di emergenza omologati",
+              "descripcion": "Dal 1° gennaio 2026 non sono più validi per la segnalazione in Spagna (li sostituisce il dispositivo V-16 connesso); ancora utili per viaggi in Paesi al di fuori della Convenzione di Vienna."
+            },
+            {
+              "producto": "Dispositivo V-16 connesso omologato (unico mezzo legale dal 1/1/2026)",
+              "descripcion": "Obbligatorio dal 1° gennaio 2026: sostituisce i triangoli. Sono validi solo i modelli omologati e connessi alla DGT (elenco ufficiale su dgt.es). Verifica il certificato IDIADA/LCOE inciso sulla lente."
+            },
+            {
+              "producto": "Gilet riflettente ad alta visibilità (dotazione obbligatoria in moto)",
+              "descripcion": "Dal 1/10/2026 i motocicli devono avere tra la dotazione obbligatoria un gilet riflettente ad alta visibilità conforme alla normativa sui DPI (RD 518/2026, allegato XII del Reglamento General de Vehículos; BOE-A-2026-13889). Per l'auto resta ciò che ti mette in regola se scendi a piedi sulla banchina di notte."
+            }
+          ]
+        },
+        {
+          "titulo": "Emergenza e sopravvivenza",
+          "intro": "Quello che ti serve se devi passare la notte in auto o camminare fino a un'uscita.",
+          "items": [
+            {
+              "producto": "Kit di primo soccorso per auto",
+              "descripcion": "Versione compatta del kit di primo soccorso base, adattata agli incidenti stradali."
+            },
+            {
+              "producto": "Coperta termica",
+              "descripcion": "Trattiene il 90% del calore corporeo. Occupa lo spazio di un pacchetto di sigarette."
+            },
+            {
+              "producto": "Torcia LED con magnete",
+              "descripcion": "Si attacca al cofano o alla carrozzeria. Mani libere durante i guasti notturni."
+            },
+            {
+              "producto": "Catena di traino o cinghia di traino",
+              "descripcion": "Per farsi trainare o trainare con cinghie di emergenza."
+            },
+            {
+              "producto": "Catene da neve o calze tessili",
+              "descripcion": "Tessili o metalliche. Obbligatorie nei tratti innevati segnalati."
+            }
+          ]
+        },
+        {
+          "titulo": "Energia e comfort",
+          "intro": "Acqua, un po' di calore e batteria. In un passo innevato o in un ingorgo estivo è ciò che tiene su il morale.",
+          "items": [
+            {
+              "producto": "Powerbank per auto 12V",
+              "descripcion": "Batteria esterna da 20.000 mAh: 4-5 ricariche complete del cellulare."
+            },
+            {
+              "producto": "Acqua in bottiglia (rinnovare ogni 6 mesi)",
+              "descripcion": "Rinnova ogni 6 mesi: la plastica si degrada con il calore dell'auto."
+            },
+            {
+              "producto": "Barrette energetiche",
+              "descripcion": "Energia rapida in formato compatto. 400-500 kcal per barretta."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-hogar": {
+      "titulo": "Kit casa/confinamento: 22 articoli di sopravvivenza (2026)",
+      "resumen": "Kit casa: 22 articoli per il confinamento e le emergenze domestiche. Guida basata su fonti ufficiali (UE + Protezione Civile).",
+      "coste_total": "210-420 € (2 persone, 7-10 giorni, con fornelletto, luce, radio, powerbank e rilevatore di CO)",
+      "paraQuien": "Per chi vuole essere coperto senza dover uscire di casa: interruzioni dell'acqua, confinamenti, maltempi che isolano un quartiere, o semplicemente una settimana in cui non hai voglia né puoi scendere a fare la spesa. È la scorta per la dispensa, non lo zaino.",
+      "paraQuien_no": "Non va bene per l'evacuazione: se devi uscire in 15 minuti, questo resta dov'è. Prepara allora lo zaino di evacuazione con l'essenziale. E se hai un animale domestico o un neonato, la scorta deve includere il loro necessario dal primo giorno, non quando manca.",
+      "guia": {
+        "antes": [
+          "Calcola acqua e cibo per tutte le persone della casa × 3 giorni",
+          "Se ci sono bambini, neonati o animali domestici: adatta il kit a loro",
+          "Tieni a portata di mano giochi o libri per mantenere il morale",
+          "Tieni un apriscatole manuale e un fornelletto a butano collaudato: senza di loro, le tue conserve sono inutilizzabili",
+          "Riempi almeno una vasca da bagno d'acqua per uso non potabile (cassette del water, pulizia) se l'interruzione è imminente",
+          "Prova radio, torcia e fornelletto una volta al trimestre e tieni pile di riserva della stessa misura: un kit con pile scariche non è un kit",
+          "Carica il powerbank e controlla le scadenze ogni sei mesi, lo stesso giorno in cui cambi l'ora: così non te lo dimentichi mai"
+        ],
+        "durante": [
+          "Raziona l'acqua se l'erogazione si interrompe",
+          "Ventila ogni giorno se possibile",
+          "Tieni la radio ufficiale accesa almeno 2 volte al giorno",
+          "Apri le finestre 5 minuti ogni poche ore per rinnovare l'aria: la CO2 accumulata ti intristisce e ti rallenta",
+          "Se accendi un fornello a butano, una candela o un braciere, fallo con areazione e con il rilevatore di CO attivo: in casa la combustione consuma ossigeno e il monossido non avvisa",
+          "Cellulare in modalità risparmio e con i dati disattivati; chiama quando hai copertura e riserva il powerbank per la radio e la torcia"
+        ],
+        "despues": [
+          "Inventario di ciò che è stato consumato e rifornimento immediato",
+          "Rifornisci pile, acqua e cibo consumati lo stesso giorno, non la settimana successiva: la prossima emergenza non avvisa",
+          "Annota ciò che ti è mancato durante quei giorni: quella lista, e non un'altra, è la tua spesa per il kit"
+        ]
+      },
+      "errores": [
+        "Comprare cose che nessuno mangia in casa. Una dispensa di emergenza si ruota mangiandola, e se non ti piace, non si ruota.",
+        "Non avere un apriscatole: se hai 30 scatolette e non puoi aprirle, non hai cibo, hai dei pesi da palestra.",
+        "Non avere modo di cucinare senza elettricità: venti lattine e un fornello spento.",
+        "Dimenticare l'acqua per gli usi domestici: senza rubinetto non puoi tirare lo sciacquone. Riempire la vasca in tempo è gratis.",
+        "Tenere tutto insieme in un solo armadio: se si allaga o si danneggia una stanza, perdi l'intera scorta.",
+        "Non includere nel piano i farmaci per patologie croniche della casa: due settimane di scorta della terapia sono la differenza tra resistere e dover uscire.",
+        "Usare il cellulare come torcia: la luce più cara è quella che ti lascia senza batteria per chiamare",
+        "Tenere le pile dentro la radio o la torcia: si solfatano e ti rovinano l'apparecchio proprio quando ti serve. Conservale a parte, nella loro confezione"
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua e cibo",
+          "intro": "La base della dispensa. Quantità reale per i giorni che vuoi coprire e rotazione per evitare che scada.",
+          "items": [
+            {
+              "producto": "Taniche d'acqua da 8 L (2 a persona)",
+              "descripcion": "Tanica per uso alimentare per conservare acqua potabile. Calcola 3 litri per persona al giorno."
+            },
+            {
+              "producto": "Conserve varie (15-20 scatolette)",
+              "descripcion": "Proteine e calorie senza refrigerazione. Dai priorità a legumi e pesce."
+            },
+            {
+              "producto": "Pasta, riso e legumi in pacchetti",
+              "descripcion": "Base calorica a lunga scadenza (2-3 anni)."
+            },
+            {
+              "producto": "Cibo extra per gli animali domestici",
+              "descripcion": "Non dimenticarti di loro: razione extra per almeno 3 giorni."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene e pulizia",
+          "intro": "Quando l'acqua scarseggia, l'igiene è la prima cosa che si degrada e la seconda che ti fa ammalare.",
+          "items": [
+            {
+              "producto": "Gel idroalcolico e sapone",
+              "descripcion": "Igiene di base senza acqua corrente garantita."
+            },
+            {
+              "producto": "Candeggina e disinfettante per superfici",
+              "descripcion": "L'acqua della DANA lascia fango misto ad acque reflue: disinfetta tutto."
+            },
+            {
+              "producto": "Carta igienica e salviette",
+              "descripcion": "Se l'acqua manca, lo sciacquone non funziona: gestisci i rifiuti con i sacchetti."
+            },
+            {
+              "producto": "Sacchi neri per i rifiuti (50+ unità)",
+              "descripcion": "Senza acqua corrente non si tira lo sciacquone né ci si lava. Sacchetti sigillabili per gestire i rifiuti in modo igienico finché non torna l'acqua dal rubinetto."
+            }
+          ]
+        },
+        {
+          "titulo": "Cucina senza elettricità",
+          "intro": "Se va via la corrente e non puoi cucinare, i 20 barattoli della dispensa sono inutili senza un apriscatole. Tieni sempre un modo per preparare cibo caldo.",
+          "items": [
+            {
+              "producto": "Fornello portatile a butano con bombole",
+              "descripcion": "Scalda l'acqua, cuoci conserve e brodi senza elettricità. Usalo sempre in una zona ventilata."
+            },
+            {
+              "producto": "Apriscatole manuale",
+              "descripcion": "Senza elettricità, l'apriscatole elettrico non funziona. Uno manuale da 5 € è l'attrezzo più sottovalutato del kit."
+            },
+            {
+              "producto": "Cocotte o pentola resistente (per scaldare le conserve)",
+              "descripcion": "Puoi scaldare lattine vuote con acqua e mettere la conserva dentro (bagnomaria casalingo) oppure usare una pentola per scaldare l'acqua se è andata via la luce."
+            },
+            {
+              "producto": "Rilevatore di monossido di carbonio a batterie",
+              "descripcion": "Questo kit consiglia un fornello a butano dentro casa: il CO non ha odore, non si vede e uccide mentre dormi. Mettilo all'altezza del respiro, in cucina o dove cucini, e non spegnerlo mai per risparmiare batterie."
+            }
+          ]
+        },
+        {
+          "titulo": "Salute",
+          "intro": "Termometro, antisettico, analgesici generici e ciò che ti prescrive il medico. Senza una farmacia aperta, il kit di primo soccorso è la farmacia.",
+          "items": [
+            {
+              "producto": "Termometro digitale",
+              "descripcion": "Rilevare la febbre quando non puoi andare subito dal medico."
+            },
+            {
+              "producto": "Paracetamolo e ibuprofene (scadenza lunga)",
+              "descripcion": "Analgesici e antipiretici di base. Controlla la scadenza ogni anno."
+            },
+            {
+              "producto": "Mascherine FFP2",
+              "descripcion": "Protezione da polvere, fumo o focolai respiratori."
+            }
+          ]
+        },
+        {
+          "titulo": "Morale",
+          "intro": "Tre giorni senza luce con un bambino in casa senza niente da fare diventano lunghi. Anche la parte psicologica va preparata.",
+          "items": [
+            {
+              "producto": "Giochi da tavolo o carte",
+              "descripcion": "Il morale conta: 72 ore chiusi in casa diventano eterne senza niente da fare."
+            },
+            {
+              "producto": "Libri tascabili",
+              "descripcion": "Intrattenimento senza batteria né rete."
+            }
+          ]
+        },
+        {
+          "titulo": "Ventilazione e qualità dell'aria",
+          "intro": "Senza ventilazione forzata in confinamento, l'aria si contamina in fretta. Due semplici accorgimenti evitano mal di testa e stanchezza.",
+          "items": [
+            {
+              "producto": "Ventilatore USB da tavolo o a piantana",
+              "descripcion": "Muove l'aria se il caldo si accumula. Funziona con il powerbank del kit per ore."
+            },
+            {
+              "producto": "Misuratore portatile di CO2 o di qualità dell'aria",
+              "descripcion": "La CO2 accumulata in una casa chiusa dà sonnolenza, mal di testa e riduce la capacità di ragionare. Un sensore economico ti avvisa."
+            }
+          ]
+        },
+        {
+          "titulo": "Luce, energia e comunicazione",
+          "intro": "Un kit da confinamento senza luce né radio dipende da un cellulare che si scarica nel giro di poche ore. Questi tre dispositivi sono quelli che tengono la casa informata e illuminata quando manca la corrente elettrica.",
+          "items": [
+            {
+              "producto": "Torcia LED a pile o a dinamo",
+              "descripcion": "Senza luce non trovi nulla e finisci per usare il cellulare come torcia, che è proprio quello che ti serve per chiamare. Tieni pile di ricambio della stessa misura, fuori dai dispositivi."
+            },
+            {
+              "producto": "Radio FM/AM a pile o a dinamo",
+              "descripcion": "Quando la rete mobile cade, la radio continua a trasmettere avvisi ufficiali senza internet né batteria del cellulare. Sintonizza le emittenti locali prima di riporla e prova la ricezione dove la userai."
+            },
+            {
+              "producto": "Batteria esterna (powerbank) da 10.000-20.000 mAh",
+              "descripcion": "Con il cellulare al 20% ti restano due chiamate. Un powerbank carico garantisce diverse ricariche complete e alimenta la radio o il ventilatore via USB. Ricaricalo ogni sei mesi anche se non lo usi."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-montana": {
+      "titulo": "Kit Montagna: 15 essenziali per la sopravvivenza outdoor (2026)",
+      "resumen": "Kit montagna: 15 essenziali per la sopravvivenza outdoor. Navigazione, abbigliamento caldo, acqua e comunicazione senza rete. Guida pratica 2026.",
+      "coste_total": "105-205 € (buona parte ce l'hai già se corri o vai in bici)",
+      "paraQuien": "Per chi va a camminare, fa torrentismo o scia in montagna. Il 90% dei soccorsi in montagna in Spagna riguarda persone che si sono perse, si sono fatte male o sono state sorprese dalla notte. Non serve essere esperti: basta spingersi un po' più in là del previsto.",
+      "paraQuien_no": "Non è un'attrezzatura da alta montagna: per ghiacciaio, ferrata o pernottamento in quota servono materiale tecnico e preparazione. E se vai in un luogo senza copertura, questo kit non ti fa comunicare: il telefono non sempre funziona, e la vera soluzione è dire a qualcuno il tuo itinerario e l'ora di rientro.",
+      "guia": {
+        "antes": [
+          "Condividi sempre itinerario e ora di rientro con qualcuno",
+          "Controlla l'avviso meteo (AEMET) prima di partire",
+          "Scarica l'app del 112 della tua comunità autonoma",
+          "Non indossare mai scarpe o calzini nuovi per la prima volta in una camminata lunga: il 74% dei pellegrini del Cammino di Santiago soffre di vesciche nei primi giorni (Colexio de Podólogos de Galicia)"
+        ],
+        "durante": [
+          "Se ti perdi, resta fermo e renditi visibile",
+          "Raziona l'acqua e non deviare dall'itinerario conosciuto",
+          "Usa i bastoncini se possibile: riducono fino al 30% l'impatto su ginocchia e caviglie",
+          "Se senti sfregamento: fermati e metti il cerotto idrocolloide prima che si formi la vescica (Compeed, Scholl o simili)"
+        ],
+        "despues": [
+          "Rifornisci e controlla il kit dopo ogni uscita",
+          "Annota cosa ti è mancato per la prossima volta",
+          "Asciuga e riponi l'impermeabile: l'umidità fa accumulare muffa e perde impermeabilità"
+        ]
+      },
+      "errores": [
+        "Uscire con i vestiti da città e fidarsi del meteo dell'app. In montagna la temperatura cala di 10 gradi da un canalone in su e la nebbia arriva in 20 minuti.",
+        "Una sola torcia per il gruppo, senza pile di scorta, in fondo allo zaino.",
+        "Non portare una giacca extra «perché faccio il percorso in due ore»: la mezz'ora di attesa di un soccorso in un canalone si passa a zero gradi.",
+        "Bere poco e arrivare alla fine disidratati e con un colpo di calore, soprattutto in primavera con sole e zaino.",
+        "Fidarsi del cellulare per orientarsi. Si scarica, cade, si bagna. Mappa e bussola, e saperle usare prima di averne bisogno."
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua e idratazione",
+          "items": [
+            {
+              "producto": "Serbatoio d'acqua pieghevole 3 L (HydraPak Seeker)",
+              "descripcion": "3 litri in 92 g. Si adatta a qualsiasi spazio dello zaino e, vuoto, non occupa nulla. Accetta filtri a vite da 42 mm (Katadyn BeFree) e sopporta acqua calda fino a 60 °C."
+            },
+            {
+              "producto": "Pastiglie potabilizzatrici per l'acqua",
+              "descripcion": "Trasformano acqua di ruscello o fontana in acqua potabile in 30 minuti, senza filtro né batteria."
+            }
+          ]
+        },
+        {
+          "titulo": "Orientamento e comunicazione",
+          "intro": "Sapere dove sei e poter avvisare. Il fischietto si sente molto più lontano della voce e non affatica. Aggiungi del paracord per legature e improvvisazioni.",
+          "items": [
+            {
+              "producto": "Powerbank leggero + cavo USB",
+              "descripcion": "Batteria esterna da 20.000 mAh: 4-5 ricariche complete del cellulare."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "Si sente a 1 km di distanza; la tua voce, a 100 metri. Senza batteria."
+            },
+            {
+              "producto": "Mappa e bussola cartacee della zona",
+              "descripcion": "L'orientamento classico non delude. Impara a usarlo prima di partire."
+            },
+            {
+              "producto": "Corda paracord 550 (30 m)",
+              "descripcion": "Corda da 4 mm, resistenza 250 kg. Serve per fissare lo zaino, improvvisare un riparo, immobilizzare o aiutare un altro escursionista. Non è per arrampicare."
+            }
+          ]
+        },
+        {
+          "titulo": "Refugio y abrigo",
+          "intro": "Ciò che evita l'ipotermia se sei costretto a fermarti e aspettare per ore.",
+          "items": [
+            {
+              "producto": "Coperta termica di emergenza",
+              "descripcion": "Doppia faccia: arancione per essere visto, argento per trattenere il calore."
+            },
+            {
+              "producto": "Chubasquero ligero",
+              "descripcion": "L'ipotermia uccide in montagna anche d'estate."
+            },
+            {
+              "producto": "Berretto o cappello caldo",
+              "descripcion": "Il 30% del calore corporeo si perde dalla testa."
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y reparación",
+          "intro": "Fibbie, tagli, vesciche e materiale rotto: la piccola chirurgia del percorso.",
+          "items": [
+            {
+              "producto": "Kit di primo soccorso leggero per il trekking",
+              "descripcion": "Bende, cerotti, vesciche, materiale di immobilizzazione di base."
+            },
+            {
+              "producto": "Crema solare e burrocacao con protezione",
+              "descripcion": "SPF 50: la radiazione in montagna è molto maggiore che in spiaggia."
+            },
+            {
+              "producto": "Cerotti idrocolloidali per vesciche",
+              "descripcion": "Il 64% delle visite mediche degli escursionisti è per vesciche. Mettili al primo segno di sfregamento, prima che compaia la vescica. Compeed o simili."
+            },
+            {
+              "producto": "Coltello multiuso",
+              "descripcion": "Taglia, sega, apre scatolette e ripara materiale. Il coltello svizzero dell'escursionista."
+            },
+            {
+              "producto": "Kit da cucito di emergenza",
+              "descripcion": "Aghi, filo e mini forbici in un astuccio compatto. Per riparare lo zaino, i vestiti o l'impermeabile bucato in mezzo all'escursione."
+            },
+            {
+              "producto": "Torcia frontale con pile di riserva",
+              "descripcion": "A mani libere per camminare di notte o riparare materiale."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-calor": {
+      "titulo": "Kit Caldo/Ondata di calore: 7 articoli che salvano la vita (2026)",
+      "resumen": "Kit caldo: 7 articoli che salvano la vita durante un'ondata di calore — idratazione, freschezza e protezione solare. Da 30 €, e la maggior parte li hai già.",
+      "coste_total": "30-70 € (la maggior parte delle cose le hai già)",
+      "paraQuien": "Per abitazioni senza aria condizionata o con interruzioni di corrente durante un'ondata di calore, e per chi ha in casa anziani, neonati o malati cronici. La Spagna passa settimane sopra i 40 gradi e le ondate di calore sono il rischio naturale che provoca più morti, quasi tutte evitabili.",
+      "paraQuien_no": "Non è un kit da spiaggia né da escursionismo: lì l'importante è l'ombra, il cappello e l'acqua. E non sostituisce la vera prevenzione: se la tua casa arriva a 35 gradi di notte, il kit aiuta, ma il piano è andare in un posto fresco.",
+      "guia": {
+        "antes": [
+          "Chiudi tapparelle e finestre esposte al sole durante il giorno",
+          "Bevi acqua anche se non hai sete; evita alcol e caffeina",
+          "Controlla i vicini anziani e le persone vulnerabili",
+          "Segui gli avvisi di AEMET e le allerte ES-Alert sul cellulare: la Direttiva di base sui fenomeni meteorologici avversi (BOE, 27/04/2026) le stabilisce come canale principale di avviso. Il Piano nazionale di interventi contro l'eccesso di temperature è attivo dal 1 giugno al 15 settembre"
+        ],
+        "durante": [
+          "Rimani nella stanza più fresca della casa",
+          "Docce tiepide, non fredde",
+          "Se hai capogiri, mal di testa o pelle secca e calda: può essere un colpo di calore, chiama il 112"
+        ],
+        "despues": [
+          "Controlla se i farmaci di qualcuno necessitano di refrigerazione e prepara un piano B"
+        ]
+      },
+      "errores": [
+        "Bere molta acqua da sola nei giorni di grande sudorazione, senza sali. L'iponatriemia (poco sale) provoca capogiri e confusione e viene confusa con il colpo di calore stesso.",
+        "Abbassare la tapparella tardi. Quando la casa è già a 33 gradi, aprire le grandi finestre a sud e ovest significa far entrare il calore.",
+        "Non lasciare nessuno in auto parcheggiata: in 15 minuti l'abitacolo sale di oltre 20 gradi. Nemmeno gli animali domestici.",
+        "Fidarsi del ventilatore quando si superano i 35 gradi: muove aria calda e disidrata. Da quel punto bisogna raffreddare il corpo, non l'aria.",
+        "Ignorare l'anziano che vive solo e dice che sta bene. Il colpo di calore negli anziani dà confusione, non sete: non chiedono aiuto."
+      ],
+      "secciones": [
+        {
+          "titulo": "Freschezza",
+          "intro": "Raffreddare il corpo senza elettricità: asciugamani, ventilatori a batterie e nebulizzatore valgono più di quanto sembri.",
+          "items": [
+            {
+              "producto": "Ventilatore USB o a batterie",
+              "descripcion": "Muove l'aria quando il caldo è soffocante. Funziona con powerbank."
+            },
+            {
+              "producto": "Asciugamano rinfrescante istantaneo",
+              "descripcion": "Si bagna e abbassa la temperatura corporea per evaporazione. Riutilizzabile."
+            },
+            {
+              "producto": "Spray d'acqua",
+              "descripcion": "Nebulizza acqua fredda sulla pelle: sollievo immediato nei colpi di calore lievi."
+            }
+          ]
+        },
+        {
+          "titulo": "Idratazione",
+          "intro": "Acqua più sali, e sapere quanta. Una borraccia isotermica con ghiaccio la mattina ti dà acqua fredda la sera.",
+          "items": [
+            {
+              "producto": "Borraccia isotermica in acciaio (mantiene freddo 12-24 h)",
+              "descripcion": "Mantiene l'acqua fredda per 12-24 h anche a 40 gradi."
+            },
+            {
+              "producto": "Sali per reidratazione orale",
+              "descripcion": "Reintegrano i sali minerali persi con il sudore. Quello che bere solo acqua non risolve."
+            }
+          ]
+        },
+        {
+          "titulo": "Protezione solare",
+          "intro": "Occhiali, cappello e crema. Le scottature del giorno 2 di un'ondata di calore sono quelle di essere usciti 20 minuti 'per fare una commissione'.",
+          "items": [
+            {
+              "producto": "Crema solare SPF 50",
+              "descripcion": "Le scottature gravi disidratano ancora di più. Rinnova ogni 2 ore."
+            },
+            {
+              "producto": "Occhiali da sole categoria 3-4",
+              "descripcion": "Protezione UV reale, non estetica. Anche la vista può bruciarsi."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-evacuacion": {
+      "titulo": "Kit di evacuazione: 14 articoli per mettersi in salvo (2026)",
+      "resumen": "Kit di evacuazione: 14 articoli per mettersi in salvo. Zaino leggero con l'essenziale in 30 secondi. Preparazione rapida 2026.",
+      "coste_total": "60-120 € (più quello che hai già)",
+      "paraQuien": "Per quando ti dicono «esca di casa adesso» —un incendio, un'esplosione chimica, un'inondazione improvvisa— e rientri dopo 3 giorni, o dopo un mese. È l'unica cosa che ti porti in mano, quindi decidi ora cosa ci metti dentro, non quando suona l'allarme.",
+      "paraQuien_no": "Non è la valigia delle vacanze né il kit per lunghe permanenze: è pensato per sopravvivere 72 ore fuori casa, non per vivere una settimana in una palestra. E se hai mobilità ridotta, un animale domestico di grossa taglia o un neonato, questo zaino va distribuito e provato prima.",
+      "guia": {
+        "antes": [
+          "Zaino nell'ingresso, sempre nello stesso posto",
+          "Copia dei documenti in una sacca impermeabile",
+          "Percorso di evacuazione concordato in famiglia",
+          "Copia delle chiavi di casa nello zaino: nel panico è la prima cosa che si dimentica",
+          "Provare lo zaino camminando per 5 km con tutto dentro: solo così sai se pesa giusto e se ti manca qualcosa"
+        ],
+        "durante": [
+          "Non tornare a casa per oggetti dimenticati",
+          "Segui solo le indicazioni dei servizi di emergenza",
+          "Se devi spostarti a piedi, indossa calzature chiuse e comode: il suolo può essere pieno di vetri e macerie",
+          "Se evacui di notte o con scarsa visibilità su una strada extraurbana, indossa l'elemento riflettente: dal 1/10/2026 è obbligatorio per i pedoni sulla carreggiata o sulla banchina (RD 518/2026, art. 123, BOE-A-2026-13889)"
+        ],
+        "despues": [
+          "Non entrare nell'abitazione fino all'autorizzazione ufficiale",
+          "Indossa sempre calzature protettive e guanti quando manipoli macerie: il fango e le macerie dopo un'alluvione o un incendio possono essere contaminati",
+          "Controlla lo zaino ogni 6 mesi: aggiorna farmaci, alimenti e documenti scaduti"
+        ]
+      },
+      "errores": [
+        "Lasciarlo in cantina o in auto: se ti fanno evacuare di notte dal letto, lo zaino deve essere in corridoio, appeso, con tutto dentro.",
+        "Mettere vestiti per un mese. Pesi 12 chili, ti fanno male le spalle dopo 4 km e finisci per lasciare cose lungo la strada. 30-40 L e meno di 8 kg.",
+        "Non provarlo: cammina 5 chilometri con esso una domenica. È l'unico modo per sapere cosa ti manca e cosa ti avanza.",
+        "Non mettere copia delle chiavi, documenti e una SIM ricaricabile che non dipenda dalla tua linea.",
+        "Dimenticare contanti in tagli piccoli e un caricatore: nei primi giorni, la fila per ricaricare il cellulare è la scena più ripetuta di qualsiasi disastro."
+      ],
+      "secciones": [
+        {
+          "titulo": "Documentazione essenziale",
+          "intro": "Ciò che non si recupera in mesi: DNI, atti di proprietà, polizze, libretti sanitari, su carta e su USB.",
+          "items": [
+            {
+              "producto": "Cartella o custodia stagna per documenti (DNI, atti di proprietà, polizze, ricette)",
+              "descripcion": "DNI, atti di proprietà, polizze, libretto sanitario e ricette in un unico posto."
+            },
+            {
+              "producto": "Copia digitale su USB cifrata",
+              "descripcion": "Backup dei documenti scansionati. Cifralo con password."
+            },
+            {
+              "producto": "Copia delle chiavi di casa",
+              "descripcion": "Una copia inserita nella cartella stagna. Nel panico di un'evacuazione è la prima cosa che si dimentica: torni a casa e non riesci ad aprire."
+            }
+          ]
+        },
+        {
+          "titulo": "Sopravvivenza 24-72 h",
+          "intro": "Acqua, cibo, indumenti caldi e un posto dove ripararti mentre ti ricollocano.",
+          "items": [
+            {
+              "producto": "Zaino da 30-40 L resistente all'acqua",
+              "descripcion": "Resistente all'acqua, con cintura imbottita. Resisterà per 3 giorni."
+            },
+            {
+              "producto": "Bottiglia d'acqua + pastiglie potabilizzatrici",
+              "descripcion": "Purificano acqua di dubbia qualità in 30 minuti. Vitale se finisce l'acqua in bottiglia."
+            },
+            {
+              "producto": "Razione di cibo disidratato",
+              "descripcion": "Almeno 2 razioni a persona nello zaino."
+            },
+            {
+              "producto": "Manta térmica + poncho",
+              "descripcion": "Duo compatto: calore e protezione dalla pioggia."
+            }
+          ]
+        },
+        {
+          "titulo": "Utilidad",
+          "intro": "Radio per sapere cosa succede, luce per muoverti, coltellino e fischietto per riparare e chiedere aiuto, kit di primo soccorso per le medicazioni e contanti per comprare quando si paga tutto in contanti.",
+          "items": [
+            {
+              "producto": "Torcia + power bank",
+              "descripcion": "Kit energetico minimo: vedere e comunicare."
+            },
+            {
+              "producto": "Botiquín de bolsillo",
+              "descripcion": "Versione mini ma completa: garze, antisettico, analgesici."
+            },
+            {
+              "producto": "Contanti in banconote di piccolo taglio",
+              "descripcion": "Durante un'evacuazione gli sportelli bancomat non funzionano. Banconote da 10-20 €."
+            },
+            {
+              "producto": "Radio FM/AM a batterie o a dinamo",
+              "descripcion": "Unica fonte di informazione se saltano internet e telefonia. Con dinamo per non restare mai muta."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "Tre fischi sono il segnale internazionale di emergenza. Si sentono più lontano della voce e non si esauriscono. Essenziale se rimani bloccato."
+            },
+            {
+              "producto": "Navaja multiusos",
+              "descripcion": "23 strumenti in un corpo compatto: coltello, sega, cacciaviti, apribottiglie. Il giusto per riparazioni di emergenza."
+            },
+            {
+              "producto": "Elemento luminoso o riflettente per camminare di notte (obbligatorio per i pedoni)",
+              "descripcion": "Dal 1/10/2026, chi cammina sulla carreggiata o sulla banchina di una strada extraurbana tra il tramonto e l'alba, o con visibilità ridotta, deve portare almeno un elemento luminoso o riflettente conforme alla normativa DPI, visibile a 150 m (RD 518/2026, art. 123 del Regolamento Generale della Circolazione, BOE-A-2026-13889). In un'evacuazione notturna dopo una DANA o un incendio, è la differenza tra essere visto o no."
+            }
+          ]
+        }
+      ]
+    },
+    "huerto-autosuficiencia": {
+      "titulo": "Orto Autosufficiente: 13 strumenti per l'autoproduzione (2026)",
+      "resumen": "Orto autosufficiente: 13 strumenti per produrre il tuo cibo: semi, compost, irrigazione autonoma e protezione. Da 50 € per iniziare; 300 € già allestito.",
+      "coste_total": "50-200 € per iniziare bene (semi, terriccio, vassoi, strumenti) — fino a 300 € con compostiera, rete e irrigazione.",
+      "paraQuien": "Per chi vuole il passo successivo: smettere di dipendere dal carrello della spesa e capire da dove viene quello che mangia. Iniziare da un balcone con i germogli è realistico, economico e ti prende. È anche la tua assicurazione alimentare: qualche chilo di semi ben conservati dà cibo per un anno.",
+      "paraQuien_no": "Non è un piano di autosufficienza realistico per una famiglia e basta: per vivere di un orto servono terreno, acqua, tempo e due o tre anni di apprendimento. E se non hai nemmeno dove mettere un vaso, prepara prima il kit di base: è più urgente e più economico.",
+      "guia": {
+        "antes": [
+          "Osserva il tuo spazio: quante ore di sole diretto riceve al giorno (4 h minimo per il pomodoro, 2-3 h bastano per lattughe ed erbe aromatiche)",
+          "Inizia dalle cose facili e produttive: lattuga, rucola, bietola, erbe aromatiche, ravanelli",
+          "Prepara il calendario: in Spagna la semina primaverile va da febbraio ad aprile; quella autunnale per spinaci, aglio e cipolla",
+          "Prepara una compostiera domestica: gli scarti di cucina nutrono l'orto. Un contenitore da 20 L con rubinetto costa 25-35 € ed evita gli odori",
+          "Copri le finestre con rete anti-afidi (2x8 m, 10-20 €): senza protezione la mosca bianca e i tripidi distruggono un orto da balcone in due settimane",
+          "Consulta il regolamento del tuo condominio o il portale della casa: in alcuni edifici (soprattutto in affitto) vietano i vasi sui balconi o sulle terrazze comuni. Se lo permettono, chiedi del peso massimo e dell'irrigazione.",
+          "Compra vasi con sottovaso: il sottovaso raccoglie l'acqua di irrigazione ed evita macchie sul pavimento dell'ingresso o sulla terrazza condominiale. Senza sottovaso, nessuno ti lascerà l'orto."
+        ],
+        "durante": [
+          "Innaffia di prima mattina o al tramonto, mai al sole diretto",
+          "Substrato sciolto e drenante: un vaso senza fori è la morte sicura di qualsiasi pianta",
+          "Concima ogni 2-3 settimane con compost o concime liquido",
+          "Se usi l'irrigazione a goccia, controlla i gocciolatori ogni settimana: si otturano facilmente e una pianta secca non si nota finché non è troppo tardi",
+          "La rete anti-afidi va controllata dopo i temporali: se ci sono strappi, sostituiscila. Un foro di 2 cm basta perché entri la mosca bianca",
+          "Se coltivi in vaso, rinnova il substrato ogni stagione: quello di una stagione ha già perso nutrienti e si compatta. Circa 5-8 € per vaso e due nuovi raccolti."
+        ],
+        "despues": [
+          "Raccogli dall'esterno (le foglie esterne) perché la pianta continui a produrre",
+          "Conserva i semi delle tue piante migliori per il ciclo successivo",
+          "Annota cosa ha funzionato e cosa no: il tuo quaderno dell'orto è il tuo miglior strumento"
+        ]
+      },
+      "errores": [
+        "Iniziare con 20 varietà e un orto grande. Si abbandona in sei settimane. Inizia da tre cose che mangi: pomodoro, lattuga, erbe aromatiche.",
+        "Semina quando è il momento secondo il calendario, non secondo il tuo clima: semina quando la temperatura della tua valle lo permette, non quando lo dice la tabella.",
+        "Usare terriccio economico del bazar cinese o terra da giardino in vaso: si compatta, non drena e uccidi la radice.",
+        "Non avere l'acqua assicurata: in un orto da balcone, un weekend fuori senza irrigazione è un orto morto.",
+        "Conservare i semi senza asciugarli e senza data: dopo due anni non germina niente. Barattolo ermetico, etichetta, luogo fresco e buio.",
+        "Buttare gli scarti di cucina nella spazzatura: una compostiera da 20 L costa meno di 35 € e trasforma quei rifiuti in concime gratis. La proporzione corretta è due parti di marroni (foglie secche, cartone) per una di verdi (scarti di cibo).",
+        "Fidarsi degli insetticidi senza rete: la mosca bianca si riproduce in due settimane e gli insetticidi uccidono le api. Prima copri, poi tratta."
+      ],
+      "secciones": [
+        {
+          "titulo": "Per iniziare a seminare",
+          "intro": "Semi, vaschette, terriccio e misuratore. Con meno di 60 € hai mezzo anno di insalate, germogli e pomodorini ben annaffiati.",
+          "items": [
+            {
+              "producto": "Kit di semi biologici (10 varietà da orto)",
+              "descripcion": "Pomodoro, peperone, melanzana, zucchina e altro, con semi biologici certificati. Il miglior punto di partenza."
+            },
+            {
+              "producto": "Vassoi per germinazione (conf. 5, 112 alveoli)",
+              "descripcion": "Semenzaio per avviare piante forti prima di trasferirle in vaso. Riutilizzabile, materiale riciclabile."
+            },
+            {
+              "producto": "Terriccio universale 80 L (Batlle)",
+              "descripcion": "Terreno con concime incorporato, va bene per praticamente qualsiasi ortaggio da vaso."
+            }
+          ]
+        },
+        {
+          "titulo": "Attrezzatura e utensili",
+          "intro": "Tre pezzi di qualità valgono più di una valigetta da quindici che si rompe.",
+          "items": [
+            {
+              "producto": "Kit di attrezzi da giardinaggio (Bellota, 3 pezzi)",
+              "descripcion": "Rastrello, trapiantatore e zappetta di una marca spagnola storica. Il minimo indispensabile."
+            },
+            {
+              "producto": "Annaffiatoio 6 L con soffione rimovibile",
+              "descripcion": "Soffione delicato per piantine e getto diretto per piante adulte."
+            }
+          ]
+        },
+        {
+          "titulo": "Salire di livello",
+          "intro": "Mini serra e letture quando hai già ucciso il tuo primo pomodoro e vuoi capire perché. Con compost e irrigazione, l'orto passa da hobby a produzione reale.",
+          "items": [
+            {
+              "producto": "Mini serra a 3 ripiani (59x39x127 cm)",
+              "descripcion": "Allunga la stagione e protegge dal freddo su balcone o terrazza. Entra in qualsiasi angolo."
+            },
+            {
+              "producto": "Manuale dell'orto urbano ed ecologico per principianti",
+              "descripcion": "Da zero a orto completo: come trasformare terrazza o giardino in cibo, passo dopo passo."
+            },
+            {
+              "producto": "Orto urbano (Larousse)",
+              "descripcion": "La guida illustrata di riferimento: calendario di semina, consociazioni colturali, parassiti."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-30-dias": {
+      "titulo": "Kit 30 giorni: 16 articoli per un mese senza rifornimenti (2026)",
+      "resumen": "Kit 30 giorni: 16 articoli per un mese senza rifornimenti — 180 L d'acqua per 2 persone, dispensa, cucinare e prendersi cura di sé senza elettricità. 300-500 € che si ripagano mangiandolo.",
+      "coste_total": "300-500 € (2 persone, e in gran parte si ripaga mangiandolo)",
+      "paraQuien": "Per chi ha coperto le 72 ore e vuole fare il salto: una settimana senza poter comprare, una zona isolata da una DANA, un lungo blackout o un episodio tipo confinamento. Qui non c'è più lo zaino, ci sono dispensa e piano.",
+      "paraQuien_no": "Non è il primo kit di nessuno: se non hai quello da 72 ore pronto, inizia da lì — copre il 95% degli scenari reali e costa una frazione. E con 30 giorni non hai 30 giorni di autonomia medica né acqua infinita: calcola come procurarti l'acqua e come raggiungere un medico prima di accumulare cibo.",
+      "guia": {
+        "antes": [
+          "Calcola il consumo reale: 2 persone, 30 giorni = 60 L di acqua da bere + 40-60 L per l'igiene di base",
+          "Privilegia cibo che mangi già: una dispensa di emergenza che non ruoti sono soldi buttati",
+          "Conserva tutto in un luogo fresco, buio e asciutto; annota le date di acquisto su ogni confezione",
+          "Aggiungi al tuo kit ciò che è specifico della tua casa: farmaci abituali, pannolini, cibo per animali"
+        ],
+        "durante": [
+          "Inizia a consumare in ordine di scadenza: prima il frigo, poi il congelatore (se lo tieni chiuso resiste 24-48 h), poi la dispensa",
+          "Raziona l'acqua per persone, non per giorni: 3 L/giorno per adulto da bere è il minimo",
+          "Cucina con il fornello in una zona ventilata, mai dentro una stanza chiusa"
+        ],
+        "despues": [
+          "Rifornisci la settimana successiva ciò che hai consumato, segnando di nuovo le date",
+          "Controlla che le lattine non siano gonfie o arrugginite e sostituiscile",
+          "Annota cosa è avanzato e cosa è mancato: regola le quantità per la prossima revisione"
+        ]
+      },
+      "errores": [
+        "Comprare 30 giorni di cibo e non poterlo cucinare: senza gas né elettricità, il riso crudo è decorazione. Assicurati prima un mezzo di cottura e il combustibile.",
+        "Non calcolare l'acqua: 3 L per persona al giorno sono 180 L per due persone per un mese. È ciò che finisce prima e che occupa più spazio.",
+        "Non ruotare. Una dispensa che non si tocca è spazzatura entro tre anni; una che si mangia ogni giorno non scade mai.",
+        "Non contare il bagno: senza acqua, 96 rotoli non bastano e l'igiene diventa il problema sanitario della casa.",
+        "Fare tutto in una volta e al prezzo peggiore. Si monta in 4-6 mesi aggiungendo due confezioni per acquisto, e così costa la metà."
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua (180 L per 2 persone / 30 giorni)",
+          "intro": "Il vero collo di bottiglia del mese. Contenitori grandi con rubinetto, rotazione e un piano per potabilizzare.",
+          "items": [
+            {
+              "producto": "Taniche da 8 L con rubinetto erogatore (x8 = 64 L)",
+              "descripcion": "Bezoya 8 L con rubinetto: comode per dosare. Calcola 3 L/giorno a persona per bere e cucinare."
+            },
+            {
+              "producto": "Rinnova l'acqua ogni 6 mesi",
+              "descripcion": "Anche la tanica del tuo supermercato locale va bene. Tieni da parte anche l'acqua della vasca da bagno se c'è un preavviso."
+            }
+          ]
+        },
+        {
+          "titulo": "Cibo non deperibile (proteine e piatti pronti)",
+          "intro": "Ciò che sostiene: conserve e piatti pronti che si mangiano freddi e non richiedono cottura.",
+          "items": [
+            {
+              "producto": "Tonno chiaro al naturale (confezione da 6 lattine)",
+              "descripcion": "Proteine economiche e durevoli. Moltiplica le confezioni in base ai giorni coperti."
+            },
+            {
+              "producto": "Lenticchie alla riojana Litoral (confezione da 6)",
+              "descripcion": "Piatto completo pronto da mangiare, si può consumare freddo se non c'è modo di scaldarlo."
+            },
+            {
+              "producto": "Cocido madrileño Litoral (confezione da 6)",
+              "descripcion": "Calorie e proteine in un solo barattolo. Ottimo rapporto energia/prezzo."
+            },
+            {
+              "producto": "Conserve galiziane varie (12 lattine gourmet)",
+              "descripcion": "Cozze, sardine, cardi… variare i sapori mantiene il morale in una crisi lunga."
+            },
+            {
+              "producto": "Paté assortiti (45 pezzi)",
+              "descripcion": "Facili da mangiare senza cottura, su pane tostato o da soli. Lunga scadenza."
+            }
+          ]
+        },
+        {
+          "titulo": "Base per la dispensa (carboidrati e latte)",
+          "intro": "Riso, pasta, legumi e latte in polvere. Economici, ricchi di calorie e con anni di conservazione.",
+          "items": [
+            {
+              "producto": "Riso parboiled 1 kg (confezione da 2)",
+              "descripcion": "Alimento a lunga conservazione per eccellenza. Compra 6-8 kg per il mese."
+            },
+            {
+              "producto": "Latte in polvere intero 1 kg (Asturiana)",
+              "descripcion": "Rende ~7 litri di latte per busta. Vitamina D e calcio senza frigorifero."
+            }
+          ]
+        },
+        {
+          "titulo": "Cucinare e scaldare senza elettricità",
+          "intro": "Il mezzo di cottura è ciò che trasforma una dispensa in pasti caldi. Sempre in uno spazio ventilato.",
+          "items": [
+            {
+              "producto": "Fornello da campeggio 2 in 1 (bombola grande o cartuccia)",
+              "descripcion": "Accetta bombola di butano normale o cartuccia piccola. Usare solo in zona ventilata."
+            },
+            {
+              "producto": "Stufa a gas butano (Orbegozo 4200 W)",
+              "descripcion": "Per il freddo durante un blackout invernale. Triplo sistema di sicurezza. Arieggia sempre."
+            },
+            {
+              "producto": "Tenda da campeggio di emergenza per 2 persone",
+              "descripcion": "Se la casa diventa inabitabile o per isolare una stanza e conservare il calore corporeo."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene e salute",
+          "intro": "Carta, sapone, kit di pronto soccorso completo e vitamine. Ciò che sostiene la salute e il morale per settimane.",
+          "items": [
+            {
+              "producto": "Kit di pronto soccorso completo 222 pezzi",
+              "descripcion": "Medicazioni, bende, antisettici, guanti, cerotto adesivo. La base sanitaria per 30 giorni."
+            },
+            {
+              "producto": "Carta igienica 96 rotoli (Scottex)",
+              "descripcion": "È tra le prime cose che spariscono dai supermercati a ogni allerta."
+            },
+            {
+              "producto": "Multivitaminici 450 compresse",
+              "descripcion": "Copre le carenze se la tua dieta di emergenza è monotona (senza frutta né verdura fresca)."
+            },
+            {
+              "producto": "Spirulina + clorella biologica (500 compresse)",
+              "descripcion": "Superalimento denso di proteine e micronutrienti, scadenza lunghissima."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-bebe": {
+      "titulo": "Kit neonato: 32 essenziali per proteggere tuo figlio (2026)",
+      "resumen": "Kit neonato: 32 articoli per le emergenze — alimentazione senza corrente, igiene, abbigliamento e documenti. Da 90 €; quasi tutto ce l'hai già: ruotare, non duplicare.",
+      "coste_total": "90-170 € (in gran parte è ciò che usi già ogni giorno: ruotalo, non duplicarlo)",
+      "paraQuien": "Case con neonati da 0 a 18 mesi, e anche chi ne aspetta uno: si prepara in due pomeriggi e si ripaga comunque nell'uso quotidiano. Se allatti al seno, gran parte di questo kit è tranquillità in più; se non allatti, è indispensabile.",
+      "paraQuien_no": "Se il bambino mangia già di tutto da solo, con il kit di base più due o tre cose da qui (snack, qualcosa per intrattenerlo, abbigliamento) basta e avanza. Questo kit è pensato per lattanti, non per bambini più grandi.",
+      "guia": {
+        "antes": [
+          "Annota su un foglio la somministrazione dei farmaci/lo schema delle poppate del neonato e il telefono del pediatra: in un'emergenza, non sapere cosa assume è un caos",
+          "Tieni un biberon e un bicchierino di transizione che non usi mai: sono di riserva, che non stiano in lavastoviglie il giorno in cui servono",
+          "Conserva fotocopie del documento d'identità del neonato/libretto sanitario e del libretto delle vaccinazioni nella custodia impermeabile",
+          "Parla con la famiglia: chi prende il neonato se bisogna evacuare in fretta? Decidete i ruoli ora",
+          "Scrivi la data di apertura sul coperchio della lattina di latte in polvere e impostati un promemoria a 25 giorni: una volta aperta si consuma in circa 4 settimane (lo indica il produttore), non dura fino alla scadenza stampata. Ruotarla è ciò che rende utile il kit."
+        ],
+        "durante": [
+          "Con un neonato in braccio, lo zaino di evacuazione si divide: qualcuno porta il bambino, tu porti la borsa da 24 ore del piccolo",
+          "Se non sai se potrai allattare con calma, tira il latte con un tiralatte manuale nei primi giorni per non perdere la produzione",
+          "Controlla la temperatura del neonato: senza corrente non c'è un termometro da stanza, il tatto su nuca e petto inganna, usa il termometro del kit di primo soccorso",
+          "Acqua dubbia per il biberon: bollire non è sempre possibile — potabilizzare e raffreddare, oppure acqua in bottiglia di riserva povera di minerali per i neonati",
+          "Latte in polvere: preparalo subito prima della poppata (AESAN raccomanda di consumarlo entro 2 ore) e butta ciò che avanza dal biberon che il neonato ha già bevuto. Con i liquidi pronti all'uso non hai questo conto alla rovescia.",
+          "Se non puoi bollire: sterilizza con pastiglie per sterilizzazione a freddo e risciacqua con acqua potabile. E se il bebè ha meno di 28 giorni, è nato prematuro o di basso peso, AESAN indica acqua bollita e polvere aggiunta all'acqua a più di 70 °C (controlla l'etichetta e consulta il tuo pediatra)."
+        ],
+        "despues": [
+          "Controlla urti e spaventi: i neonati non verbalizzano; qualsiasi cambiamento strano del comportamento o del sonno, dal pediatra",
+          "Rifornisci l'usato lo stesso giorno: la scorta di pannolini e latte non rifornita è un kit a metà",
+          "Se la crisi è stata lunga, chiedi al tuo centro sanitario di controllare e aggiornare il libretto vaccinale, se serve",
+          "Rifornisci con la taglia e la dose di adesso, non con quelle del kit: il bebè cambia ogni mese. E se in quei giorni ha avuto febbre, vomito o meno pannolini bagnati del normale, dillo al tuo pediatra prima di considerare chiuso l'episodio."
+        ]
+      },
+      "errores": [
+        "Non avere LATTE DI RISERVA: l'allattamento cala con lo stress e senza latte in polvere per 2-3 giorni, questo angoscia il doppio. Anche se allatti al seno, tieni 400-800 g di latte in polvere nella lista.",
+        "Fidarti di poter bollire sempre l'acqua: senza gas né elettricità non sterilizzi i biberon — serve una sacca di acqua potabile specifica e un bicchiere, non solo il biberon.",
+        "Non contare i pannolini: un bebè usa 6-8 pannolini al giorno. 72 ore sono ~20 pannolini: un pacchetto piccolo che quasi nessuno inserisce.",
+        "Conservare la pappa nuova che il bebè non ha mai provato: in un'emergenza si prova cibo che sai già che tollera.",
+        "Dimenticare il cappotto 'della taglia successiva': il bebè cresce e il completo invernale del kit diventa troppo piccolo a 3 mesi senza che nessuno se ne accorga.",
+        "Conservare il biberon che il bebè non ha finito per la poppata successiva. Con il latte in polvere si butta ciò che avanza: è l'errore più comune in un'emergenza e quello che provoca più gastroenteriti in un bebè.",
+        "Lasciare il latte liquido nel bagagliaio o nel ripostiglio: il calore lo deteriora prima della scadenza. Il latte in polvere, invece, non va in frigorifero (l'umidità lo compatta): fresco e asciutto, non freddo."
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua e alimentazione senza elettricità",
+          "intro": "Per il biberon e la pappa servono acqua sicura e temperatura. Senza elettricità né gas, si ottiene con una riserva propria e un piccolo scaldatore a butano.",
+          "items": [
+            {
+              "producto": "Acqua a basso contenuto di sodio per l'allattamento (pack 6 × 1,5 L)",
+              "descripcion": "Per preparare i biberon senza potabilizzare: cerca un'acqua a bassa mineralizzazione (sodio <20 mg/L), è quella consigliata per i lattanti."
+            },
+            {
+              "producto": "Pastiglie potabilizzatrici adatte ai lattanti",
+              "descripcion": "Piano B per l'acqua del rubinetto o piovana quando finisce quella in bottiglia. Usale solo con acqua limpida e rispetta il tempo di riposo."
+            },
+            {
+              "producto": "Scaldabiberon senza gas né elettricità (chimico/autoscaldante)",
+              "descripcion": "Sacchetti che scaldano un biberon in pochi minuti senza fiamma. Per pappe tiepide e acqua a temperatura in auto o in un palazzetto dello sport."
+            },
+            {
+              "producto": "Termos piccolo con apertura larga (350-500 ml)",
+              "descripcion": "Mantiene l'acqua calda per preparare pappe o intiepidire il biberon per ore. Apertura larga: si pulisce facilmente e si riempie con un cucchiaio."
+            },
+            {
+              "producto": "Bottiglia termica per bevande fredde (500 ml)",
+              "descripcion": "Acqua fredda sicura per il bambino durante un'ondata di calore e per conservare il latte estratto per qualche ora se non c'è un frigorifero."
+            }
+          ]
+        },
+        {
+          "titulo": "Leche y comida de reserva",
+          "intro": "Anche se allatti al seno: stress e stanchezza possono ridurre la produzione proprio quando non c'è dove comprare. La scorta è un'assicurazione, non un dubbio sul tuo allattamento.",
+          "items": [
+            {
+              "producto": "Latte di proseguimento (lattina 400-800 g)",
+              "descripcion": "Scorta per 2-3 giorni anche se allatti al seno. Controlla la scadenza ogni 6 mesi e ruotala usandola nelle pappe o in cucina."
+            },
+            {
+              "producto": "Cereali/pappe istantanee (2 confezioni)",
+              "descripcion": "Si preparano con acqua tiepida o fredda, rendono molto e non richiedono cottura. Quella che il tuo bambino già mangia: non provare una marca nuova durante l'emergenza."
+            },
+            {
+              "producto": "Omogeneizzati di frutta e verdura (confezione da 6-8)",
+              "descripcion": "Cibo vero senza cucinare, con scadenza lunga. Se già mangia pappe, sono il tuo kit e la sua cena durante un blackout."
+            },
+            {
+              "producto": "Sacaleches manual",
+              "descripcion": "Senza pile né elettricità, mantiene la produzione ed evita ingorghi mammari dolorosi se il bambino non riesce a poppare bene (a terra, in auto, in un ospedale da campo)."
+            },
+            {
+              "producto": "Sacchetti per conservare il latte materno (confezione da 30-50)",
+              "descripcion": "Per estrarre e conservare indicando la data. Senza congelatore resistono qualche ora in una borsa frigo con piastre refrigeranti."
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y pañales",
+          "intro": "Quando manca l'acqua di rete, l'igiene del neonato è la prima cosa che si complica. Tutto ciò che c'è in questa sezione sta in un sacchetto impermeabile da 5 litri.",
+          "items": [
+            {
+              "producto": "Pannolini di riserva (taglia attuale, confezione da 20-25)",
+              "descripcion": "6-8 al giorno: 20 pannolini sono 3 giorni. Scrivi taglia e data sul sacchetto; il neonato cambia taglia prima di cambiare casa."
+            },
+            {
+              "producto": "Salviette detergenti (confezione da 3-5)",
+              "descripcion": "Duo: pannolino e viso senza acqua. In emergenza se ne usano più di quanto pensi: chiudi bene la confezione o si seccano in una settimana."
+            },
+            {
+              "producto": "Sacchetti impermeabili per vestiti sporchi e pannolini (confezione)",
+              "descripcion": "Uno per lo sporco, uno per i vestiti puliti. Senza lavatrice e con un bambino, separare pulito e sporco vale oro."
+            },
+            {
+              "producto": "Fasciatoio portatile pieghevole",
+              "descripcion": "Un tappetino in schiuma sottile: si pulisce, si asciuga e sul pavimento del palazzetto dello sport o dell'auto evita una mezza dozzina di litigi."
+            },
+            {
+              "producto": "Crema barriera contro gli arrossamenti",
+              "descripcion": "Con il pannolino tutto il giorno e poca acqua, gli arrossamenti compaiono in 48 ore e fanno dormire male tutti."
+            },
+            {
+              "producto": "Sapone neutro in panetto + spugna",
+              "descripcion": "Rende più del liquido con poca acqua e serve anche per lavare biberon e manine."
+            }
+          ]
+        },
+        {
+          "titulo": "Caldo e sonno",
+          "intro": "Un neonato perde calore cinque volte più velocemente di un adulto. Senza luce né riscaldamento, questa sezione è quella che evita l'urgenza.",
+          "items": [
+            {
+              "producto": "Sacco nanna/pigiama intero caldo (taglia attuale + una di ricambio)",
+              "descripcion": "Meglio delle coperte sciolte: non si scopre mentre dorme e lascia le mani libere per portarlo in fascia."
+            },
+            {
+              "producto": "Coperta termica di emergenza per bambini (o coperta in pile piccola)",
+              "descripcion": "Quella termica argentata non lasciarla sciolta vicino al viso: usala sotto la coperta normale o come barriera contro il vento nella navicella."
+            },
+            {
+              "producto": "Cappello e guantini per neonato",
+              "descripcion": "Dalla testa perdono il calore che non riescono a compensare. In casa senza riscaldamento a 16 gradi, il neonato dorme con il cappello."
+            },
+            {
+              "producto": "Portabebè ergonomico (fascia a tracolla o Mei Tai)",
+              "descripcion": "Mani libere per la torcia, lo zaino e la porta. In evacuazione, un portabebè vale più di un passeggino: non ci sono ascensore né marciapiede."
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y calma",
+          "intro": "Il kit di primo soccorso del bebé, più quello che sostiene l'umore di un bambino piccolo per 48 ore chiuso in casa o in un posto strano.",
+          "items": [
+            {
+              "producto": "Termometro digitale per bebè",
+              "descripcion": "Il tuo va bene, ma dedicato: senza luce e con la paura addosso, poter misurare la temperatura in 10 secondi evita una notte di dubbi."
+            },
+            {
+              "producto": "Soluzione reidratante orale e siringa dosatrice",
+              "descripcion": "In caso di vomito o diarrea per acqua contaminata, la disidratazione del bebè corre veloce: idratazione precoce e pediatra. Segui le indicazioni del tuo pediatra o dell'infermiere, non di internet."
+            },
+            {
+              "producto": "Aspiratore nasale + soluzione fisiologica in monodose",
+              "descripcion": "I bebè non si soffiano il naso da soli: con il muco non mangiano né dormono. E la soluzione fisiologica serve per occhi, ferite e pulizie in generale."
+            },
+            {
+              "producto": "Giochi piccoli preferiti (2-3, in una busta impermeabile)",
+              "descripcion": "Quelli di sempre, non nuovi: in un posto strano con luci strane, ciò che è familiare è l'ansiolitico del bebè."
+            },
+            {
+              "producto": "Coperte/teli assorbenti in tessuto di sempre",
+              "descripcion": "Quella copertina che sa di casa. Se si perde durante un'evacuazione è un dramma di tre ore: tienine un'altra uguale nel kit."
+            }
+          ]
+        },
+        {
+          "titulo": "Documenti e identificazione",
+          "intro": "Il bebè non ha documenti addosso, non sa dire il suo nome e non ha una tessera sanitaria propria visibile. Tutta la sua identità sta in una custodia impermeabile.",
+          "items": [
+            {
+              "producto": "Custodia impermeabile con libretto sanitario, libretto delle vaccinazioni e documento/passaporto del bebè",
+              "descripcion": "Fotocopie + originali se ci sono. Con un bambino piccolo e senza rete, un foglio con la sua data di nascita e le allergie risolve molto."
+            },
+            {
+              "producto": "Tessera di identificazione del minore (nome, data di nascita, gruppo sanguigno, allergie, contatti)",
+              "descripcion": "Una scheda plastificata nello zaino e una foto recente del bambino stampata. Se si separa da voi durante un'evacuazione, è ciò che lo identifica."
+            },
+            {
+              "producto": "Foto recenti del bebè e della famiglia su carta",
+              "descripcion": "Suona antico e funziona: in un centro di accoglienza una foto nel portafoglio vale più di un telefono senza batteria."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-mayores": {
+      "titulo": "Kit Anziani: 27 articoli per proteggere le persone non autosufficienti (2026)",
+      "resumen": "Kit anziani: 27 articoli per persone non autosufficienti — farmaci cronici, ausili, prevenzione delle cadute e cibo adattato. Da 60 €, senza contare la ricetta.",
+      "coste_total": "60-120 € (senza contare i farmaci personali, che richiedono ricetta)",
+      "paraQuien": "Famiglie con persone dai 70 anni in su, soprattutto se vivono sole, prendono farmaci cronici o dipendono da apparecchi acustici, occhiali o ausili per la mobilità. Un familiare lo allestisce in un pomeriggio e lo rivede insieme al libretto delle ricette.",
+      "paraQuien_no": "Non sostituisce il telesoccorso né il piano di assistenza dei caregiver: è materiale, non un servizio. E se la persona ha bisogno di assistenza sanitaria quotidiana (ossigeno, dialisi), il piano si concorda con il suo centro sanitario, non con questa lista.",
+      "guia": {
+        "antes": [
+          "Prepara la scheda medico-identificativa insieme alla persona: malattie, farmaci con dosi, allergie, medico, contatti. Si aggiorna ogni 6 mesi con la revisione.",
+          "Chiedi al medico o all'infermiere il piano di 2 settimane di farmaci cronici: in Spagna la ricetta elettronica consente di ritirare in anticipo la maggior parte delle terapie; il tuo medico ti spiega come.",
+          "Fai provare alla persona l'uso della scheda e del numero di telesoccorso, non limitarti a mostrarglielo: in un'emergenza non basta dire 'lo sa già'.",
+          "Concorda con vicini e famiglia chi chiama chi e quale segnale di avviso usate (chiamata, messaggio, colpi sul muro: durante le interruzioni di corrente c'è chi usa un fischietto).",
+          "Conta quante volte la persona si alza di notte per andare in bagno: se è più di una, l'orinale con manico, la luce notturna nel corridoio e un tappetino antiscivolo vengono prima di qualsiasi altro prodotto della lista.",
+          "Conserva i farmaci in una borsa con manico che la persona possa portare a tracolla, non in scatole impilate: in un'uscita rapida si prende solo ciò che si afferra con una mano."
+        ],
+        "durante": [
+          "Prima i farmaci: se bisogna scegliere, la terapia cronica non si salta; la riserva del kit serve proprio a questo.",
+          "Con apparecchi acustici senza pile o occhiali rotti, la persona si isola e si disorienta: verifica che possa sentire e vedere prima di tutto.",
+          "Caldo o freddo: gli anziani regolano peggio la temperatura e non avvertono la sete. Durante un'ondata di calore senza corrente, tieni l'acqua in vista e stabilisci orari per bere, anche se non la chiedono.",
+          "Non lasciare che prenda decisioni da solo se è confuso: il colpo di calore e la disidratazione confondono prima di indebolire.",
+          "Senza lavatrice né acqua calda, l'incontinenza è il problema del giorno 2: usa traversine assorbenti e un sacchetto separato per la biancheria sporca. Non lavare a mano con l'acqua di riserva: quell'acqua serve per bere.",
+          "Se il telefono non funziona e vive da sola, il fischietto e i colpi ritmici sul muro sono il modo in cui un vicino può localizzarla. Concordalo prima con il vicino e con lei, con un segnale preciso (tre colpi, pausa, tre colpi)."
+        ],
+        "despues": [
+          "Controlla i farmaci consumati e rifornisci il kit lo stesso giorno con la ricetta.",
+          "Controlla le pile degli apparecchi acustici, del pacemaker se previsto, e delle torce: con lo spavento molte cose si usano senza rimpiazzarle.",
+          "Parla con il centro sanitario se ci sono state interruzioni della terapia: a volte bisogna reimpostare la terapia.",
+          "Incoraggia a raccontare ciò che ha vissuto: dopo un'emergenza lunga, il calo di umore dell'anziano è reale quanto la rottura di un tubo.",
+          "Controlla la pelle nelle pieghe e nelle zone di appoggio se sono passate più di 24 ore senza potersi lavare: un'irritazione o una zona arrossata che non migliora va segnalata alla sua infermiera o al suo medico, non va trattata a casa.",
+          "Annota quale prodotto è mancato davvero e reintegralo lo stesso giorno: il kit si corregge con ciò che si è usato, non con ciò che pensavi avresti usato."
+        ]
+      },
+      "errores": [
+        "Non avere 2 settimane di farmaci per malattie croniche di riserva. È L'errore: dopo un disastro, la farmacia apre tardi o non apre, e sospendere anticoagulanti, antipertensivi o insulina è un'emergenza.",
+        "Dimenticare le pile dell'apparecchio acustico: senza udito, la persona non sente la radio, non capisce l'avviso e non chiede aiuto. Un blister di pile di scorta in ogni kit.",
+        "Fidarsi del cellulare: schermi piccoli, caratteri piccoli e nessuno che aiuti a digitare. Il telefono fisso senza elettricità continua a funzionare (quelli analogici sì) e i contatti su carta non si esauriscono.",
+        "Non prepararsi alle cadute: senza luce, un corridoio con tappeto e senza luce di notte è un femore rotto. Le luci LED notturne costano 10 € ed evitano il 50% dello scenario.",
+        "Tenere tutto nell'armadio alto della cucina. In caso di evacuazione, la borsa delle 24 ore del figlio maggiore deve essere a portata di mano, con nome e contatti.",
+        "Non trascurare l'incontinenza. Senza lavatrice né acqua calda, un solo giorno senza ricambi sufficienti obbliga a scegliere tra igiene e acqua da bere. Si risolve con 15-30 € nell'armadio molto prima che serva."
+      ],
+      "secciones": [
+        {
+          "titulo": "Farmaci e patologie croniche",
+          "intro": "Il cuore di questo kit. Tre cose: scorta di 2-4 settimane, copia delle prescrizioni e un modo per conservare ciò che richiede il freddo.",
+          "items": [
+            {
+              "producto": "Organizzatore settimanale delle pillole (portapillole) con copia delle prescrizioni",
+              "descripcion": "Da riempire con la scorta del kit. Se un'altra persona deve somministrare i farmaci, il portapillole + la scheda evitano errori."
+            },
+            {
+              "producto": "Scheda medico-identificativa plastificata",
+              "descripcion": "Patologie, terapia con dosaggi, allergie, gruppo sanguigno, medico, contatti. Una copia nel portafoglio, una nello zaino, una in frigo."
+            },
+            {
+              "producto": "Borsa frigo piccola con piastre refrigeranti riutilizzabili",
+              "descripcion": "Per insulina e farmaci che richiedono il freddo: con piastre ghiacciate di ricambio tiene 24-36 h. Verifica con il tuo farmacista quali farmaci ne hanno bisogno."
+            },
+            {
+              "producto": "Termometro da frigo (minimo/massimo)",
+              "descripcion": "2-4 gradi o nella spazzatura. Un termometro da 4 € ti dice se l'insulina è ancora valida dopo il blackout."
+            },
+            {
+              "producto": "Pastiglia potabilizzatrice e bicchiere dosatore per i farmaci",
+              "descripcion": "Per prendere compresse con acqua sicura e misurata. Piccolo dettaglio che al giorno 2 si apprezza."
+            },
+            {
+              "producto": "Misuratore di pressione da braccio a batterie con memoria",
+              "descripcion": "Se in casa c'è un'ipertensione diagnosticata, quello a spina non serve durante un blackout. Questo funziona a batterie e memorizza le ultime misurazioni, così puoi annotarle sulla scheda. Quali valori sono normali e quando misurare lo stabilisce il medico o l'infermiere: qui entra solo l'apparecchio."
+            }
+          ]
+        },
+        {
+          "titulo": "Sensi e ausili tecnici",
+          "intro": "Apparecchi acustici, occhiali, pacemaker, protesi: se questo manca, tutto il resto del kit non serve più, perché la persona non sente l'avviso né vede la porta.",
+          "items": [
+            {
+              "producto": "Batterie di ricambio per apparecchi acustici (blister × 3, con data)",
+              "descripcion": "Le batterie degli apparecchi acustici si scaricano e scadono. Blister chiuso con la data scritta: senza batterie, niente udito, niente comunicazione."
+            },
+            {
+              "producto": "Occhiali da vista di ricambio",
+              "descripcion": "Un paio di occhiali vecchi in buone condizioni o la gradazione annotata per ordinarne un altro paio. Si rompono proprio in quel momento; con la gradazione nel cassetto, mezz'ora su un'ottica online."
+            },
+            {
+              "producto": "Custodia per protesi dentaria + adesivo e bicchiere con coperchio",
+              "descripcion": "Se usa una protesi: senza adesivo di riserva e senza un bicchiere dove tenerla di notte, non mangia. Un dettaglio che nessuno considera."
+            },
+            {
+              "producto": "Bastone pieghevole / deambulatore di riserva con luce",
+              "descripcion": "Il bastone resta nell'altra stanza quando serve. Uno leggero nel corridoio con luce notturna integrata."
+            },
+            {
+              "producto": "Magnete o custodia di sicurezza per pacemaker (informazioni e tessera del dispositivo)",
+              "descripcion": "La tessera del pacemaker con modello, centro e telefono va nella scheda dei documenti. In risonanze, TAC e soccorsi la chiedono e non la trovano."
+            },
+            {
+              "producto": "Bracciale o collana di identificazione medica incisi (nome, telefono, allergie)",
+              "descripcion": "Con deterioramento cognitivo o disorientamento, durante un'evacuazione la prima cosa che si perde è il portafoglio con i documenti. Un bracciale o una collana incisi con nome, telefono di un familiare e allergie si leggono senza sbloccare nulla né aprire nessuna tasca, e non scadono né restano senza batteria."
+            }
+          ]
+        },
+        {
+          "titulo": "Cadute, notte e sicurezza in casa",
+          "intro": "Un blackout non uccide l'anziano: lo fanno il tappeto al buio e il bagno di notte. 20 € in luci notturne e un tappetino antiscivolo cambiano la prognosi.",
+          "items": [
+            {
+              "producto": "Luci LED notturne con sensore (confezione da 2-3)",
+              "descripcion": "Si inseriscono nella presa del corridoio e del bagno e funzionano con batteria interna: senza corrente, illuminano senza premere nulla. La caduta notturna è L'incidente evitabile."
+            },
+            {
+              "producto": "Torcia da comodino con cordino/manico grande",
+              "descripcion": "Di quelle grosse e facili, non quella piccola nel cassetto: con le mani impacciate o al buio, deve trovarsi e accendersi da sola."
+            },
+            {
+              "producto": "Tappetino antiscivolo per il bagno e maniglione di appoggio",
+              "descripcion": "Senza acqua calda e con i secchi in mezzo, il bagno diventa una pista di pattinaggio. 20 € e un pomeriggio di fai da te."
+            },
+            {
+              "producto": "Fischietto di emergenza nel portachiavi/bracciale",
+              "descripcion": "Se non può gridare o il cellulare non funziona, il fischietto si sente attraverso i muri molto più della voce. Si insegna a usarlo prima."
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicazione e compagnia",
+          "intro": "Che possa avvisare e che qualcuno sappia che è solo. Metà del pericolo di un anziano in un'emergenza è che nessuno si accorge della sua assenza per ore.",
+          "items": [
+            {
+              "producto": "Radio a pile FM con volume alto e manopola grande",
+              "descripcion": "Le informazioni ufficiali senza dipendere dal cellulare. Si prova a usarle una volta al mese, così non diventano un oggetto sconosciuto."
+            },
+            {
+              "producto": "Foglio dei contatti su carta con caratteri grandi (112, famiglia, medico, vicino, farmacia)",
+              "descripcion": "Attaccato al frigorifero e al comodino. Il cellulare con i numeri salvati non serve se non sa sbloccarlo o non lo trova."
+            },
+            {
+              "producto": "Accordo di vicinato con chiamata/bussata di avviso",
+              "descripcion": "Un vicino designato chiama o passa ogni mattina in emergenza. Non è un oggetto, è la misura più efficace di tutta la lista: scrivilo nella scheda."
+            },
+            {
+              "producto": "Mazzi di carte, un libro con caratteri grandi o una radio con altoparlante",
+              "descripcion": "Tre giorni di isolamento senza compagnia si affrontano con qualcosa. E anche l'umore è salute: si vede in chi mangia e chi no."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene, incontinenza e freddo",
+          "intro": "Senza lavatrice e senza acqua calda, ciò che a casa si risolve con un bucato diventa il problema del giorno 2. Qui ci sono le tre cose che salvano più dignità e più pelle in una persona anziana quando mancano i servizi.",
+          "items": [
+            {
+              "producto": "Traverse e pannoloni per l'incontinenza (confezione per 3-5 giorni)",
+              "descripcion": "Se c'è incontinenza, è la prima cosa che finisce e l'ultima che si può improvvisare: senza lavatrice, senza acqua calda e con il bagno al buio, non c'è ricambio fatto in casa. Taglia e assorbenza si concordano con l'infermiera o in farmacia, non a occhio."
+            },
+            {
+              "producto": "Padella o orinale con manico",
+              "descripcion": "Con mobilità ridotta o senza luce, la visita notturna al bagno è la caduta prevedibile. Una padella con manico e una luce notturna bastano perché non debba alzarsi al buio. Si svuota e si pulisce con acqua per la pulizia, mai con l'acqua da bere di riserva."
+            },
+            {
+              "producto": "Coperta termica di emergenza aluminizzata (confezione da 2)",
+              "descripcion": "Gli anziani perdono calore più in fretta e lo percepiscono meno. La coperta dorata non scalda da sola: riflette il calore del corpo. Funziona molto meglio sotto una coperta normale, non da sola sopra. Costa meno di un caffè e sta in qualsiasi cassetto."
+            }
+          ]
+        },
+        {
+          "titulo": "Cibo adattato e idratazione",
+          "intro": "Senza cucina, senza coltelli e a volte senza protesi: il cibo del kit deve poter essere mangiato da quella persona così come sono la sua bocca e le sue forze.",
+          "items": [
+            {
+              "producto": "Cibo morbido pronto (passati, omogeneizzati per adulti, creme in vaschetta)",
+              "descripcion": "Se ha problemi di masticazione, la scatoletta di conserva non va bene: passati e omogeneizzati per adulti in bicchiere, si mangiano da soli."
+            },
+            {
+              "producto": "Frullati proteici/arricchiti (confezione da 8-12)",
+              "descripcion": "Calorie e proteine senza cucinare né masticare. In 3 giorni di crisi è ciò che mantiene il peso di una persona adulta."
+            },
+            {
+              "producto": "Addensanti per liquidi (se c'è disfagia diagnosticata)",
+              "descripcion": "Chi ha disfagia, in un'emergenza ingoia aria con il bicchiere e si soffoca. Segui le indicazioni del suo logopedista/medico: questo lo indica solo il suo professionista."
+            },
+            {
+              "producto": "Bottiglia con manico e beccuccio pratico + bicchiere con coperchio",
+              "descripcion": "Bere da soli, senza versare e con una mano. La disidratazione dell'anziano compare senza sete: l'acqua deve stare davanti ed essere facile da prendere."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-mascotas": {
+      "titulo": "Kit Animali: 23 articoli per proteggere il tuo animale (2026)",
+      "resumen": "Kit animali: 23 articoli per proteggere il tuo animale nelle emergenze. Alimentazione, identificazione e primo soccorso.",
+      "coste_total": "40-90 € (20-40 € se hai già trasportino e ciotola)",
+      "paraQuien": "Per qualsiasi casa con cane o gatto. In un'evacuazione per incendio, alluvione o fumo, l'animale non può restare e non sempre c'è posto per lui: la differenza tra portarlo con te e perderlo è avere trasportino e guinzaglio trovabili in 30 secondi.",
+      "paraQuien_no": "Non è un kit per lasciare l'animale da solo tre giorni in casa: un animale non si gestisce da solo come una dispensa. Se il tuo piano di emergenza prevede di andartene e lasciarlo, quel piano non funziona.",
+      "guia": {
+        "antes": [
+          "Tieni trasportino e guinzaglio nello stesso posto dello zaino di emergenza, non in solaio",
+          "Calcola l'acqua: circa 50-60 ml per chilo al giorno (un cane di 15 kg beve quasi 1 litro al giorno; un gatto, 200-300 ml)",
+          "Tieni una copia cartacea del libretto sanitario e del numero di microchip: te li chiedono in un centro di accoglienza o in un rifugio",
+          "Fai una foto recente dell'animale con te e salvala sul cellulare e su carta: è ciò che permette di dimostrare che è tuo",
+          "Se il tuo cane ha bisogno della museruola perché di razza potenzialmente pericolosa, tienila insieme al guinzaglio: senza non ti lasciano salire su certi mezzi"
+        ],
+        "durante": [
+          "Gli animali percepiscono la paura: parla con calma, non prenderlo in braccio se è grande, mettilo nel trasportino senza scene",
+          "Offrigli acqua ogni 2-3 ore; lo stress disidrata più del caldo",
+          "Non improvvisare con il cibo umano: i cambi bruschi di dieta danno diarrea proprio quando non c'è un veterinario",
+          "Se c'è fumo o gas, bagna un asciugamano e coprigli il muso senza coprire del tutto il naso"
+        ],
+        "despues": [
+          "Riempi di nuovo l'acqua dell'animale lo stesso giorno: è la prima cosa che si beve e quella che si dimentica più spesso",
+          "Controlla zampe e cuscinetti (vetri, graffette, bruciature) quando arrivi a casa",
+          "Aspetta qualche giorno prima di fargli il bagno: il suo odore gli dà sicurezza in un posto nuovo",
+          "Annota cosa gli è mancato (cibo che non gli è piaciuto, ciotola scomoda) e correggilo prima della prossima"
+        ]
+      },
+      "errores": [
+        "Credere che l'animale mangerà quando avrà fame. Un cane o un gatto spaventato lascia le crocchette. Bisogna offrirgli cibo umido e sedersi con lui, non lasciarlo da solo con una ciotola.",
+        "Portarlo senza trasportino «perché è molto buono». Un gatto e un cane spaventati mordono e scappano; durante un'evacuazione un animale libero è un animale perso.",
+        "Dimenticare l'acqua dell'animale nel conteggio. La famiglia calcola 3 litri a persona e si dimentica che il cane è un altro consumatore.",
+        "Non portare il libretto sanitario: senza vaccini non lo accettano nei rifugi né nelle strutture residenziali e potrebbe non poter superare alcuni controlli.",
+        "Lasciarlo a casa con acqua e cibo «due giorni». Senza ventilazione, senza negozi e con un edificio danneggiato, due giorni possono essere gli ultimi: poi esce dalla lista delle cose che stanno bene."
+      ],
+      "secciones": [
+        {
+          "titulo": "Acqua e cibo per 72 ore",
+          "intro": "Quello che il tuo animale beve e mangia durante tre giorni. Senza negozi aperti e senza frigorifero.",
+          "items": [
+            {
+              "producto": "Acqua per l'animale (tanica da 8 L riservata)",
+              "descripcion": "Un cane di taglia media beve circa 1 litro al giorno e un gatto circa 250 ml. La tanica va separata dalla tua: non metterti a competere per l'acqua."
+            },
+            {
+              "producto": "Cibo extra per animali domestici (crocchette o scatolette per 72 h)",
+              "descripcion": "Riserva chiusa e a vista, non mezzo sacco aperto. Crocchette o scatolette, quello che mangia già: in un'emergenza non è il momento di cambiare dieta."
+            },
+            {
+              "producto": "Ciotole pieghevoli da viaggio per cibo e acqua",
+              "descripcion": "Non occupano nulla ed evitano che beva da una ciotola sporca improvvisata. Con queste puoi dargli acqua durante la sosta in auto."
+            },
+            {
+              "producto": "Cibo umido in scatola (apporta acqua e lo mangia anche stressato)",
+              "descripcion": "Un animale spaventato rifiuta le crocchette ma di solito accetta le scatolette. L'umidità lo aiuta a idratarsi senza bere."
+            }
+          ]
+        },
+        {
+          "titulo": "Portarlo con te",
+          "intro": "Se bisogna uscire di fretta, questo è ciò che decide se viene con te.",
+          "items": [
+            {
+              "producto": "Trasportino rigido o gabbia da trasporto",
+              "descripcion": "Con la porta che si chiuda bene. Un gatto libero durante un'evacuazione non si ritrova più: si nasconde sotto la prima auto."
+            },
+            {
+              "producto": "Guinzaglio e pettorina di riserva",
+              "descripcion": "Con il guinzaglio agganciato e un secondo di riserva. Nel panico un cane rompe quello di sempre e scappa correndo verso la strada."
+            },
+            {
+              "producto": "Museruola (se obbligatoria o se è nervoso con gli sconosciuti)",
+              "descripcion": "Obbligatoria per le razze potenzialmente pericolose e necessaria se sarà circondato da persone impaurite. Un cane con la museruola sale su qualsiasi mezzo di trasporto."
+            },
+            {
+              "producto": "Coperta o asciugamano con il suo odore di casa",
+              "descripcion": "Un posto nuovo per un animale è una minaccia; la sua coperta è l'unico segnale che è al sicuro. Serve anche come riparo."
+            },
+            {
+              "producto": "Borsa di trasporto imbottita (per animali piccoli)",
+              "descripcion": "Alternativa leggera al trasportino rigido per conigli, cavie o cuccioli piccoli."
+            }
+          ]
+        },
+        {
+          "titulo": "Salute e documenti",
+          "intro": "Quello che ti permette di passare con lui a un controllo, in un rifugio o a una frontiera.",
+          "items": [
+            {
+              "producto": "Libretto sanitario e copia del microchip in una custodia impermeabile",
+              "descripcion": "Vaccinazioni aggiornate e numero di microchip: è il documento che dimostra che l'animale è tuo. Su carta, perché il telefono può restare senza batteria."
+            },
+            {
+              "producto": "Medicinali per patologie croniche dell'animale (30 giorni)",
+              "descripcion": "Insulina, farmaci per il cuore, antiepilettici, antiparassitario. Se l'animale assume qualcosa ogni giorno, nello zaino va un mese, non una settimana."
+            },
+            {
+              "producto": "Kit veterinario di primo soccorso (garze, soluzione fisiologica, povidone iodato, bende)",
+              "descripcion": "Tagli alle zampe, ustioni o irritazione di occhi e orecchie. La soluzione fisiologica pulisce ferite e occhi senza danneggiarli."
+            },
+            {
+              "producto": "Termometro digitale (in comune con il kit di primo soccorso generale)",
+              "descripcion": "Serve per l'animale e per le persone. La febbre o l'ipotermia si misurano allo stesso modo."
+            }
+          ]
+        },
+        {
+          "titulo": "Igiene e riposo",
+          "intro": "Convivere con lui per tre giorni in un posto chiuso senza che si noti troppo.",
+          "items": [
+            {
+              "producto": "Sacchetti per i rifiuti (50+ unità)",
+              "descripcion": "Gli stessi che usi a casa, ma con scorta: non potrai scendere in strada a prendere sacchetti."
+            },
+            {
+              "producto": "Lettiera e sabbia per gatto (o traversine assorbenti)",
+              "descripcion": "Un gatto stressato e senza lettiera trattiene l'urina e finisce dal veterinario. La lettiera usa e getta dura due giorni."
+            },
+            {
+              "producto": "Traversine assorbenti",
+              "descripcion": "Per il trasporto o il rifugio: proteggono il bagagliaio e le superfici se non riesce a trattenersi."
+            },
+            {
+              "producto": "Salviette detergenti",
+              "descripcion": "Zampe, sabbia attaccata e pelo sporco senza bisogno di acqua. Servono per lui e per voi."
+            }
+          ]
+        },
+        {
+          "titulo": "Identificazione e calma",
+          "intro": "Se si libera o se dovete andare in posti diversi, questo è ciò che ti permette di farlo tornare.",
+          "items": [
+            {
+              "producto": "Piastrina di identificazione con il tuo telefono inciso",
+              "descripcion": "Un microchip va letto con un lettore; una piastrina la legge chiunque. In un'emergenza con personale sovraccarico, la piastrina è più rapida."
+            },
+            {
+              "producto": "Foto recente dell'animale con te (su carta e sul telefono)",
+              "descripcion": "È la prova di proprietà più efficace quando non ci sono documenti e chi lo raccoglie non ti conosce."
+            },
+            {
+              "producto": "Giocattolo o oggetto familiare (2-3)",
+              "descripcion": "Un animale che non dorme e non sta fermo è un problema in un rifugio. Il suo giocattolo calma più di qualsiasi comando."
+            }
+          ]
+        },
+        {
+          "titulo": "Piano B: chi se ne prende cura se non puoi",
+          "intro": "La parte che quasi nessuno scrive e quella che in realtà si usa di più.",
+          "items": [
+            {
+              "producto": "Accordo con una persona di fiducia (con chiavi e scheda dell'animale)",
+              "descripcion": "Sono ricoverato, sono fuori o non arrivo: qualcuno con le chiavi, che sappia dove sono cibo e trasportino e che conosca il piano."
+            },
+            {
+              "producto": "Elenco di pensioni e hotel che accettano animali",
+              "descripcion": "In un'evacuazione non tutti i centri di accoglienza accettano animali domestici. Annota tre posti che li accettano con numero di telefono, nel tuo comune e nella provincia vicina."
+            },
+            {
+              "producto": "Protezione dei dati dell'animale (copia digitale delle vaccinazioni con il microchip visibile)",
+              "descripcion": "Foto fatte con il cellulare del libretto sanitario, salvate su una USB cifrata e nel cloud: se te le chiedono a distanza, ce le hai."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-frio": {
+      "titulo": "Kit Freddo/Inverno: 27 articoli per sopravvivere al freddo (2026)",
+      "resumen": "Kit freddo: 27 articoli per sopravvivere all'inverno estremo. Riscaldamento alternativo, abbigliamento caldo e gestione del freddo 2026.",
+      "coste_total": "80-180 € (la metà, se sfrutti i vestiti invernali che hai già)",
+      "paraQuien": "Per le case con riscaldamento a gas o elettrico (che si blocca durante un blackout), per chi vive in zone nevose o gelide, e per anziani e neonati, che perdono temperatura corporea prima di chiunque altro. Filomena ha lasciato mezza Spagna senza riscaldamento e senza poter uscire di casa.",
+      "paraQuien_no": "Non è un kit da alpinismo né per la neve estrema in montagna: quello richiede attrezzatura tecnica e formazione. E non sostituisce la regola di base: se non riesci a mantenere la casa sopra i 15 gradi, il piano è andare in un posto caldo.",
+      "guia": {
+        "antes": [
+          "Verifica di avere un rilevatore di monossido di carbonio prima di usare qualsiasi apparecchio a combustione in casa (stufe, fornelli, generatori): il CO non si sente né si vede e uccide nelle stanze chiuse",
+          "Prepara una stanza «rifugio»: la più piccola e con meno finestre, per riscaldarla e viverci tutti lì invece di provare a riscaldare tutta la casa",
+          "Tieni da parte i paraspifferi o la pellicola per sigillare le finestre prima che geli: attaccarli a -4 gradi non funziona",
+          "Metti il kit invernale in auto prima della nevicata, non durante (controlla che le catene siano della tua misura e che le gomme non siano sgonfie)",
+          "Controlla i vicini anziani: il freddo in casa non si sente, si accumula"
+        ],
+        "durante": [
+          "Non usare mai una stufa o un fornello a combustione in una stanza senza ventilazione: lascia uno spiraglio aperto e spegni l'apparecchio prima di dormire",
+          "Vestiti a strati (intimo termico, pile, antivento) e copri testa, mani e piedi: da lì si perde più della metà del calore",
+          "Bevi acqua anche se non hai sete: col freddo si beve di meno e la disidratazione aggrava l'ipotermia",
+          "Non uscire a spalare la neve a stomaco vuoto né con le scarpe bagnate; e non prendere l'auto senza raschietto e senza visibilità totale",
+          "Se devi dormire a bassa temperatura, fallo in due e con i vestiti addosso: il sacco a pelo o la coperta si condivide"
+        ],
+        "despues": [
+          "Controlla e pulisci il rilevatore di CO e sostituisci pile e combustibile lo stesso giorno: la seconda ondata di solito arriva entro una settimana",
+          "Sospetta tubature ghiacciate: apri i rubinetti lentamente prima di accendere la caldaia; un colpo di pressione fa scoppiare l'impianto",
+          "Rifornisci sale, carburante e batterie scariche: con la neve, ciò che è finito si esaurisce in tutta la zona nello stesso momento",
+          "Controlla lo stato dell'auto (batteria, antigelo, pneumatici) appena puoi uscire"
+        ]
+      },
+      "errores": [
+        "Usare la stufa o il fornello in una stanza chiusa. È la prima causa di intossicazione da CO durante blackout e nevicate: l'apparecchio consuma l'ossigeno e restituisce monossido.",
+        "Cercare di riscaldare tutta la casa. Senza riscaldamento non si scalda una casa, si scalda una stanza: sceglierla piccola e chiudere il resto è la differenza tra 12 e 18 gradi.",
+        "Vestire il neonato o l'anziano «con uno strato in più» di cotone. Sopra il cotone serve uno strato che taglia il vento e asciuga; e gli anziani vanno portati fuori casa quando le mani diventano fredde e pallide.",
+        "Lasciare il powerbank e il cellulare in auto. Il freddo sciupa la batteria: a 0 gradi perdono fino a metà della carica e non si ricaricano bene.",
+        "Uscire sulla neve senza elemento riflettente né raschietto. La maggior parte delle morti durante le nevicate non è per il freddo, ma per incidenti stradali e investimenti di pedoni."
+      ],
+      "secciones": [
+        {
+          "titulo": "Calore corporeo: lo strato che salva",
+          "intro": "Senza riscaldamento, i vestiti sono la tua casa. E non va bene qualsiasi vestito: il cotone bagnato raffredda.",
+          "items": [
+            {
+              "producto": "Intimo termico (maglietta e leggings, 2 paia)",
+              "descripcion": "Lo strato a contatto con la pelle è il più importante: il termico traspira e asciuga, il cotone resta bagnato e ruba calore."
+            },
+            {
+              "producto": "Pile o maglione di lana",
+              "descripcion": "Secondo strato: trattiene l'aria calda del corpo. La lana scalda anche quando è leggermente umida."
+            },
+            {
+              "producto": "Calzini di lana (3-4 paia)",
+              "descripcion": "I piedi freddi sono il primo segnale di ipotermia. La lana sopporta il sudore molto meglio del cotone."
+            },
+            {
+              "producto": "Berretto o cappello caldo",
+              "descripcion": "Dalla testa si perde una parte enorme del calore. Di giorno e di notte, anche in casa."
+            },
+            {
+              "producto": "Guanti caldi (e un paio sottile per i lavoretti)",
+              "descripcion": "Senza mani non puoi fare niente: né cucinare, né aprire un rubinetto ghiacciato, né usare il cellulare. Due paia, uno sottile sotto."
+            },
+            {
+              "producto": "Sacco a pelo o pigiama intero caldo (taglia attuale + una di riserva)",
+              "descripcion": "Dormire a 10 gradi con un pigiama leggero non è possibile. La tuta intera evita che l'aria entri quando ti muovi."
+            },
+            {
+              "producto": "Manta térmica (pack de 2)",
+              "descripcion": "Riflette il calore del corpo. Non scalda da sola: bisogna avvolgersi, non metterla sopra come un lenzuolo."
+            }
+          ]
+        },
+        {
+          "titulo": "Sicurezza: il nemico silenzioso è il CO",
+          "intro": "Quando si ferma il riscaldamento, la gente improvvisa con la combustione dentro casa. È lì che arrivano le disgrazie.",
+          "items": [
+            {
+              "producto": "Rilevatore di monossido di carbonio (CO) a batterie con allarme",
+              "descripcion": "Di fatto obbligatorio se usi qualsiasi apparecchio a combustione. Il CO è inodore, invisibile e non ti sveglia: uccide mentre dormi."
+            },
+            {
+              "producto": "Estintore a polvere ABC da 1-2 kg con supporto",
+              "descripcion": "Le stufe e i cavi surriscaldati dal carico eccessivo sono le fonti tipiche di incendio in un blackout invernale."
+            },
+            {
+              "producto": "Avvolgicavo con interruttore differenziale portatile",
+              "descripcion": "Se tiri un generatore o una prolunga verso una stufa elettrica, questo apparecchio è la differenza tra un fusibile e un incendio."
+            }
+          ]
+        },
+        {
+          "titulo": "Riscaldamento senza elettricità né gas",
+          "intro": "Riscaldare una stanza, non tutta la casa. E sempre con ventilazione e rilevatore.",
+          "items": [
+            {
+              "producto": "Stufa a gas butano con interruzione per mancanza di ossigeno",
+              "descripcion": "L'opzione più efficace per una stanza piccola. Richiede bombola, ventilazione e rilevatore di CO. Mai per dormire."
+            },
+            {
+              "producto": "Fornello da campeggio a gas con bombole (per acqua calda e cibo caldo)",
+              "descripcion": "Acqua calda e cibo caldo alzano la temperatura del corpo più in fretta di qualsiasi stufa. Uso all'aperto o con la finestra aperta."
+            },
+            {
+              "producto": "Termos piccolo con apertura larga (350-500 ml)",
+              "descripcion": "Una bevanda calda ogni due ore è il modo più economico di mantenere il corpo in temperatura. Il termos la mantiene calda per 6 ore."
+            },
+            {
+              "producto": "Accendini e fiammiferi lunghi",
+              "descripcion": "Accendere la stufa o il fornello con le mani fredde e con i guanti è difficile. I fiammiferi lunghi evitano le scottature."
+            }
+          ]
+        },
+        {
+          "titulo": "Tenere fuori il freddo: la casa",
+          "intro": "Chiudere la casa ermeticamente per poter riscaldare una sola stanza.",
+          "items": [
+            {
+              "producto": "Nastro adesivo e plastica per sigillare finestre e fessure",
+              "descripcion": "Una finestra vecchia mal sigillata lascia uscire tanto calore quanto può darne una piccola stufa. Dieci euro di plastica valgono più che aumentare la stufa."
+            },
+            {
+              "producto": "Tende termiche o una coperta di lana per coprire la finestra",
+              "descripcion": "Di notte, coprire il vetro è il miglioramento più economico: il vetro è la superficie più fredda della casa."
+            },
+            {
+              "producto": "Deumidificatore o sacchetti antiumidità",
+              "descripcion": "Una casa fredda e umida sembra 3-4 gradi più fredda e rovina il bucato. L'umidità è metà del problema dell'inverno senza riscaldamento."
+            }
+          ]
+        },
+        {
+          "titulo": "Per strada e in auto: la neve",
+          "intro": "Filomena non ha lasciato la gente senza riscaldamento: l'ha lasciata senza poter uscire di casa e senza poter prendere l'auto.",
+          "items": [
+            {
+              "producto": "Raschietto e spazzola per il ghiaccio per l'auto",
+              "descripcion": "Guidare con un rettangolo pulito sul parabrezza è la causa di migliaia di incidenti a ogni nevicata. E bisogna pulire il tetto: la lastra di neve cade quando si frena."
+            },
+            {
+              "producto": "Catene da neve o calze tessili",
+              "descripcion": "In autostrada con la neve bisogna circolare sulla corsia di destra e le corsie di sinistra restano libere per gli spazzaneve (art. 32 RGC). Senza catene non sali un passo."
+            },
+            {
+              "producto": "Pala da neve e sale antighiaccio (o sabbia)",
+              "descripcion": "Per uscire dal parcheggio e per il marciapiede. Il sale evita anche la lastra di ghiaccio davanti alla porta di casa."
+            },
+            {
+              "producto": "Cavi di avviamento e antigelo con protezione fino a -25",
+              "descripcion": "Il freddo uccide la batteria e congela il circuito del refrigerante. Sono i due guasti numero 1 in un'ondata di freddo."
+            },
+            {
+              "producto": "Segnalatore luminoso V-16 connesso omologato (sostituisce i triangoli)",
+              "descripcion": "Con nebbia o neve, scendere a posizionare i triangoli è pericoloso: il segnalatore si mette dall'interno dell'auto ed è già l'unico mezzo legale dal 1/1/2026."
+            },
+            {
+              "producto": "Elemento luminoso o riflettente per camminare di notte",
+              "descripcion": "Obbligatorio per i pedoni sul margine di una strada extraurbana di notte o con scarsa visibilità (art. 123 RGC). Con la neve, un elemento riflettente visibile a 150 m è l'unica cosa che ti separa da un'auto."
+            }
+          ]
+        },
+        {
+          "titulo": "Luz, avisos y energía",
+          "intro": "In inverno fa buio alle 18:00 e il blackout lascia la casa al buio e senza riscaldamento.",
+          "items": [
+            {
+              "producto": "Torcia frontale (mani libere)",
+              "descripcion": "Con i guanti e al buio ti servono entrambe le mani. La frontale è l'unica luce utile per muoversi in una casa fredda."
+            },
+            {
+              "producto": "Radio FM/AM a batterie o a dinamo",
+              "descripcion": "Gli avvisi di nevicata e le strade chiuse arrivano via radio quando la rete mobile è satura o le antenne sono senza corrente."
+            },
+            {
+              "producto": "Power bank da 10.000-20.000 mAh",
+              "descripcion": "Occhio: il freddo riduce la capacità fino alla metà se lo conservi in auto. Va tenuto in casa, in una tasca interna se esci."
+            },
+            {
+              "producto": "Batterie alcaline assortite (AA/AAA)",
+              "descripcion": "Radio, torcia e rilevatore di CO funzionano a batterie. Il rilevatore di CO che resta senza batterie è un soprammobile."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-terremoto": {
+      "titulo": "Kit Terremoto: 26 articoli per la protezione sismica (2026)",
+      "resumen": "Kit terremoto: 26 articoli per proteggerti da cadute e vetri, chiudere gas e acqua e chiedere aiuto. Luce, kit di pronto soccorso e contanti: da 90 €.",
+      "coste_total": "90-170 € (buona parte coincide con il kit base 72 h)",
+      "paraQuien": "Per chi vive in zona sismica (Sud-est peninsulare: Murcia, Almería, Granada, Málaga, Alicante) e, di fatto, per qualsiasi casa: la maggior parte dei danni in un terremoto non deriva dal sisma, ma da oggetti che cadono e da interruzioni di gas e luce. Il kit è lo stesso che ti serve per un blackout.",
+      "paraQuien_no": "Non è un kit di soccorso né per le macerie: non ti trasforma in un pompiere. Non sostituisce nemmeno il rinforzo strutturale né il sapere se il tuo edificio è tra quelli che resistono: questo non si risolve con uno zaino.",
+      "guia": {
+        "antes": [
+          "Fissa al muro le librerie, la TV e gli armadi alti: la causa n. 1 di feriti lievi in un sisma è ciò che cade dalle pareti",
+          "Individua la valvola di chiusura del gas e dell'acqua e verifica che giri: dopo il terremoto avrai 30 secondi e le mani che tremano",
+          "Lascia scarpe chiuse e una torcia vicino al letto (sotto il letto, legate): di notte, ciò che taglia di più sono i vetri per terra",
+          "Concordate un punto di ritrovo fuori dall'edificio e un contatto fuori dalla provincia: le linee locali si saturano, quelle esterne no",
+          "Tieni lo zaino vicino alla porta d'uscita, non nel ripostiglio del seminterrato"
+        ],
+        "durante": [
+          "Accovacciati, riparati sotto un tavolo robusto e aggrappati al mobile: il mobile si muove con te e ti protegge da ciò che cade",
+          "Non uscire di corsa sulle scale né usare l'ascensore: la maggior parte delle lesioni avviene nella fuga e nei vani delle scale",
+          "Allontanati da finestre, specchi, scaffali e facciate. Se sei per strada, vai in uno spazio aperto lontano da cornicioni e cavi",
+          "Se sei in auto, fermati in un luogo aperto, non sotto un ponte, lampioni o cavi elettrici",
+          "Se senti odore di gas, non accendere nulla: né luci, né fiammiferi, né il cellulare vicino a una fuga"
+        ],
+        "despues": [
+          "Mettiti scarpe chiuse prima di camminare in casa: i vetri rotti sono la prima causa di ferite e al buio non si vedono",
+          "Chiudi il gas e l'acqua se c'è odore o danni, e non accendere interruttori se sospetti una fuga",
+          "Aspetta e ascolta la radio: le scosse di assestamento sono normali nelle ore successive e le istruzioni arrivano dalle emittenti e da ES-Alert",
+          "Non entrare in edifici danneggiati né usare l'ascensore; controlla la struttura prima di restare (crepe nuove, porte che non si chiudono)",
+          "Documenta i danni con foto e comunicali all'assicurazione e al comune: gli aiuti vengono assegnati per zone dichiarate, e per questo bisogna documentare"
+        ]
+      },
+      "errores": [
+        "Scappare di corsa verso le scale appena inizia a tremare. La maggior parte dei feriti si registra fuggendo: nel vano scale, con la gente e con ciò che cade. Il posto giusto è sotto un tavolo robusto.",
+        "Dormire senza scarpe vicine e senza torcia a portata di mano. Un sisma notturno + pavimento pieno di vetri = piedi tagliati e al buio, proprio quando bisogna uscire e aiutare.",
+        "Accendere un fiammifero, la luce o il cellulare sentendo odore di gas. È la scintilla che provoca l'esplosione. Prima chiudere il gas, poi tutto il resto.",
+        "Non sapere dov'è la chiave del gas né avere un attrezzo per chiuderla. È la prima cosa da fare e quasi nessuno l'ha mai toccata.",
+        "Confondere «la casa è in piedi» con «la casa è sicura». Bisogna controllare crepe nuove, porte che non si chiudono e umidità prima di dormirci dentro: le scosse di assestamento fanno crollare ciò che il primo tremore ha lasciato compromesso."
+      ],
+      "secciones": [
+        {
+          "titulo": "Testa e piedi: ciò che si rompe per primo",
+          "intro": "In un terremoto ciò che ti fa male non è il suolo, è ciò che cade. E quel giorno scopri di essere scalzo.",
+          "items": [
+            {
+              "producto": "Casco di protezione",
+              "descripcion": "Cornicioni, lampade, scaffali e mattoni di tramezza cadono. Un casco da cantiere o da bici serve e sta nello zaino."
+            },
+            {
+              "producto": "Guanti da lavoro rinforzati",
+              "descripcion": "Per rimuovere macerie, vetri e mobili ribaltati. Senza guanti non puoi aiutare nessuno né liberare la tua via d'uscita."
+            },
+            {
+              "producto": "Calzature chiuse e robuste accanto al letto",
+              "descripcion": "Un paio di stivali o scarpe robuste legate sotto il letto. Camminare a piedi nudi sui vetri rotti è la lesione più evitabile di un terremoto notturno."
+            },
+            {
+              "producto": "Occhiali protettivi (o da sole se non ce ne sono altri)",
+              "descripcion": "Polvere, gesso e schegge finiscono negli occhi. Quelli da sole coprono e valgono come protezione di base."
+            }
+          ]
+        },
+        {
+          "titulo": "Acqua e cibo senza cucinare",
+          "intro": "Può darsi che il gas sia staccato, che non ci sia luce e che l'acqua arrivi torbida. La regola è non cucinare nulla che richieda più che aprire un contenitore.",
+          "items": [
+            {
+              "producto": "Acqua in bottiglia (3 L per persona al giorno)",
+              "descripcion": "Sei bottiglie da 1,5 L per persona per 72 ore. La rete idrica è tra le prime cose che si rompono e tra le ultime che si riparano."
+            },
+            {
+              "producto": "Pastiglie potabilizzatrici per l'acqua",
+              "descripcion": "Se la rete arriva torbida o devi usare acqua di serbatoio, 30 minuti di attesa ed è potabile. Non pesa niente e dura per settimane."
+            },
+            {
+              "producto": "Cibo pronto da mangiare senza cottura (conserve, barrette, frutta secca)",
+              "descripcion": "Conserve, frutta secca e barrette: non servono gas né fornello. Il cibo freddo e pronto è il piano A dopo un terremoto."
+            },
+            {
+              "producto": "Apriscatole manuale",
+              "descripcion": "Senza elettricità l'apriscatole elettrico non esiste e molte lattine non hanno la linguetta. Cinque euro che possono lasciarti senza cena."
+            },
+            {
+              "producto": "Cibo disidratato o da razione (nel caso si prolunghi)",
+              "descripcion": "Scorte che durano più di 72 ore: un terremoto con danni strutturali può lasciare settimane di disagi."
+            }
+          ]
+        },
+        {
+          "titulo": "Luce, segnalazione e soccorso",
+          "intro": "Se resti intrappolato o al buio, questa sezione è letteralmente la tua voce.",
+          "items": [
+            {
+              "producto": "Torcia frontale (mani libere)",
+              "descripcion": "Con macerie e al buio servono entrambe le mani. La frontale va sulla testa e ti lascia scavare, aiutare e camminare."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "Un fischietto si sente più lontano della tua voce e non si esaurisce. Gridare per ore ti lascia senza fiato; il fischietto no. È il soccorso più economico che esista."
+            },
+            {
+              "producto": "Radio FM/AM a batterie o a dinamo",
+              "descripcion": "Dopo un terremoto, la radio trasmette dove non arriva la rete mobile. È la tua unica fonte di istruzioni se cadono i ripetitori."
+            },
+            {
+              "producto": "Power bank da 20.000 mAh + cavi",
+              "descripcion": "Il cellulare è la tua torcia di riserva, la tua mappa e il tuo modo di avvisare. Senza batteria, niente di tutto questo esiste."
+            },
+            {
+              "producto": "Batterie alcaline assortite (AA/AAA)",
+              "descripcion": "Radio, torcia e rilevatore di gas funzionano a batterie. Doppia scorta: in un'emergenza non c'è negozio."
+            },
+            {
+              "producto": "Coperta termica di sopravvivenza (confezione)",
+              "descripcion": "Se finisci ad aspettare i soccorsi all'aperto o in auto, è l'unica cosa che evita l'ipotermia. Occupa meno di un cellulare."
+            }
+          ]
+        },
+        {
+          "titulo": "Kit di primo soccorso, farmaci e ferite",
+          "intro": "Un terremoto provoca tagli e contusioni, non incidenti strani. E ci sono malati cronici che non possono saltare una dose.",
+          "items": [
+            {
+              "producto": "Cassetta di pronto soccorso completa (garze, bende, antisettico, forbici)",
+              "descripcion": "Tagli e contusioni. Devi poter disinfettare e fasciare senza andare al pronto soccorso, che sarà sovraccarico."
+            },
+            {
+              "producto": "Farmaci per malattie croniche (7-30 giorni) con copia delle ricette",
+              "descripcion": "Diabetici, anticoagulati, ipertesi, asmatici. Se i tuoi farmaci sono in una farmacia chiusa, hai un problema grave entro 24 ore."
+            },
+            {
+              "producto": "Kit di pronto soccorso tascabile da portare con sé",
+              "descripcion": "Un piccolo kit con garze e cerotti per la tasca o la borsa: le ferite piccole si medicano sul posto."
+            },
+            {
+              "producto": "Sali per reidratazione orale",
+              "descripcion": "Con caldo, polvere, sforzo e poca acqua è facile disidratarsi. Serve anche in caso di diarrea."
+            }
+          ]
+        },
+        {
+          "titulo": "Interrompere gas, acqua e corrente",
+          "intro": "Il danno del terremoto si moltiplica per ciò che resta aperto dopo. È la prima cosa da fare e nessuno l'ha a portata di mano.",
+          "items": [
+            {
+              "producto": "Chiave di chiusura per gas e acqua (chiave a innesto quadrato o universale)",
+              "descripcion": "Senza di essa non puoi chiudere l'allacciamento del gas. Dopo un terremoto, una fuga aperta trasforma uno spavento in un'esplosione."
+            },
+            {
+              "producto": "Coltello multiuso",
+              "descripcion": "Pinze, cacciavite e lama in tasca: tagliare una tapparella bloccata o chiudere una valvola senza attrezzi."
+            },
+            {
+              "producto": "Corda paracord 550 (30 m)",
+              "descripcion": "Per bloccare una porta, calare qualcosa, creare una barella improvvisata o fissare un telo. 30 metri di corda risolvono l'imprevedibile."
+            }
+          ]
+        },
+        {
+          "titulo": "Polvere, carte e denaro",
+          "intro": "Ciò che ti serve per le ore che verranno: respirare senza polvere, dimostrare chi sei e poter pagare senza POS.",
+          "items": [
+            {
+              "producto": "Mascherine FFP2 (confezione)",
+              "descripcion": "La polvere di macerie e gesso irrita e danneggia i polmoni. Dopo un terremoto la polvere resta sospesa per giorni."
+            },
+            {
+              "producto": "Cartella o custodia impermeabile con copie dei documenti",
+              "descripcion": "DNI, atti di proprietà, polizze, ricette: se la casa viene sigillata o danneggiata, le carte fanno la differenza tra poter presentare reclamo e non poter dimostrare nulla."
+            },
+            {
+              "producto": "Contanti in banconote di piccolo taglio",
+              "descripcion": "Senza elettricità né rete, il POS non funziona e gli sportelli bancomat sono fuori uso. 100-150 € in banconote da 10 e 20 risolvono acqua, cibo e carburante."
+            },
+            {
+              "producto": "Copia digitale su USB cifrata",
+              "descripcion": "Foto della casa e dei beni prima del terremoto: è la prova che l'assicurazione chiede per valutare i danni."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-incendio": {
+      "titulo": "Kit Incendio: 21 articoli contro gli incendi (2026)",
+      "resumen": "Kit incendio: 21 articoli per un incendio boschivo — respirare senza fumo, uscire in 10 minuti, difendere la casa ed evacuare chi non può correre. Da 60 €.",
+      "coste_total": "60-140 € (la maggior parte ce l'hai già o serve anche per altre emergenze)",
+      "paraQuien": "Per chi vive nell'interfaccia urbano-forestale (abitazioni vicino al monte, complessi residenziali, paesi) o in zona di macchia secca, una superficie sempre più ampia della Spagna. E per chi viene sorpreso dal fumo sulla strada.",
+      "paraQuien_no": "Non è un kit per restare a difendere la casa. Se le autorità ordinano di evacuare, un kit non ti trasforma in un pompiere né in qualcuno con il diritto di restare: si evacua.",
+      "guia": {
+        "antes": [
+          "Tieni liberi 10 metri intorno alla casa: arbusti, legna, erba secca e siepi a ridosso della facciata sono il combustibile che porta il fuoco fino alle tue finestre",
+          "Tieni lamiere o scuri in legno per coprire le finestre e lo zaino all'ingresso, non in fondo al garage",
+          "Annota il piano di evacuazione del comune e la via alternativa: in un incendio, la strada che sale verso il monte è la prima a essere chiusa",
+          "Percorri mentalmente l'uscita di notte: se ti sveglia un avviso alle 3:00 con fumo, non potrai improvvisare",
+          "Indumenti da lavoro e scarpe chiuse a portata di mano: i tessuti sintetici si sciolgono sulla pelle"
+        ],
+        "durante": [
+          "Evacua appena arriva l'ordine o c'è fumo nell'aria, senza caricare più dello stretto necessario: un'auto è più veloce che difendere una casa",
+          "Chiudi finestre, porte e persiane per ridurre le correnti, e spegni ventilazione e riscaldamento prima di uscire",
+          "Se ti coglie in auto: non scendere e aspetta con i finestrini chiusi, le luci accese e l'aria in ricircolo; l'auto protegge più che correre",
+          "Se ti coglie a piedi: allontanati sempre in discesa e sottovento (il fuoco risale il versante più velocemente di quanto tu lo risalga), cerca una zona sgombra senza vegetazione e, come ultima risorsa, sdraiati in un punto già bruciato",
+          "Copri naso e bocca con un panno umido e non respirare dalla bocca; il fumo è più pericoloso della prima linea di fiamme"
+        ],
+        "despues": [
+          "Non tornare finché le autorità non lo autorizzano: il suolo bruciato ha ancora punti caldi e le radici bruciano sottoterra",
+          "Al tuo arrivo, non accendere nulla finché non hai controllato gli impianti: di solito ci sono danni all'allacciamento e al contatore",
+          "Bagna l'esterno e controlla il perimetro per ore: le braci si riattivano con il vento",
+          "Denuncia se sospetti l'origine e conserva le foto dei danni per l'assicurazione e per il comune"
+        ]
+      },
+      "errores": [
+        "Rimanere a difendere la casa con il fuoco ormai vicino. Le case si difendono prima (decespugliando e bagnando), non quando il fronte è a 200 metri: da lì in poi si evacua soltanto.",
+        "Prendere l'auto verso il monte «perché è più vicino». L'incendio risale il versante e taglia prima la strada più in alto. La via di fuga d'emergenza è quasi sempre verso il basso e sottovento.",
+        "Indossare abiti sintetici e sandali. È la combinazione che trasforma uno sfioramento di calore in una bruciatura attaccata alla pelle e rende impossibile un'evacuazione a piedi.",
+        "Gridare per avvisare qualcuno in lontananza. Il fumo ti toglie il fiato in pochi minuti: fischietto e chiamata, mai corse né urla.",
+        "Credere che il pericolo finisca quando si spegne il fronte. Le braci si riattivano con il vento, e gli alberi e il terreno bruciati restano pericolosi per ore."
+      ],
+      "secciones": [
+        {
+          "titulo": "Respirare: il fumo uccide prima del fuoco",
+          "intro": "In un incendio boschivo, quasi tutte le vittime muoiono per inalazione. Questa sezione è la più importante.",
+          "items": [
+            {
+              "producto": "Mascherine FFP2 (confezione da 10-20)",
+              "descripcion": "Filtrano le particelle di fumo: cenere fine, fuliggine e fumo denso. Pochi minuti di fumo senza protezione e ti disorienti davvero."
+            },
+            {
+              "producto": "Occhiali protettivi aderenti (o da sole chiusi)",
+              "descripcion": "Il fumo e le scintille fanno lacrimare gli occhi finché non vedi più l'uscita. Un paio di occhiali chiusi ti permette di continuare a camminare."
+            },
+            {
+              "producto": "Panni o asciugamani di cotone (per bagnarli e coprire bocca e naso)",
+              "descripcion": "Uno straccio umido filtra parte del fumo e rinfresca l'aria. È quello che si usa quando non ci sono mascherine, e aiuta anche se le hai."
+            },
+            {
+              "producto": "Acqua da bere e per bagnare i panni (tanica o bidone da 8-10 L)",
+              "descripcion": "Il fumo secca la gola e con calore e stress si beve meno del necessario. Inoltre bagna subito i tessuti."
+            }
+          ]
+        },
+        {
+          "titulo": "Uscire in 10 minuti",
+          "intro": "L'ordine di evacuazione non ti concede un pomeriggio per prepararti. Quello che non è in questo zaino resta qui.",
+          "items": [
+            {
+              "producto": "Zaino impermeabile da 30-40 L",
+              "descripcion": "Già pronto e vicino alla porta. Se devi riempirlo quel giorno, stai perdendo i minuti che contano."
+            },
+            {
+              "producto": "Cartella stagna con documenti e un po' di contanti",
+              "descripcion": "Carta d'identità, atti, polizze, tessera sanitaria e denaro in banconote piccole. Ricostruire tutto senza documenti è un anno di pratiche."
+            },
+            {
+              "producto": "Torcia frontale e batterie",
+              "descripcion": "Il fumo riduce la visibilità a pochi metri e può sopraggiungere la notte. Con le mani libere per portare, aprire e prestare aiuto."
+            },
+            {
+              "producto": "Radio FM/AM a pile (avvisi ufficiali)",
+              "descripcion": "Le vie di evacuazione cambiano con il vento. La radio dà l'istruzione in vigore quando la copertura mobile manca."
+            },
+            {
+              "producto": "Mappa cartacea della tua zona (strade, uscite alternative)",
+              "descripcion": "Se la rete è congestionata o senza dati, la mappa cartacea ti salva; il GPS ti lascia sulla strada chiusa come tutti gli altri."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "Se perdi la visibilità nel fumo, un fischietto è ciò che permette di farti trovare. Sta in tasca."
+            }
+          ]
+        },
+        {
+          "titulo": "Indumenti che non bruciano attaccandosi alla pelle",
+          "intro": "Quello che indossi decide se il calore ti sfiora o ti brucia.",
+          "items": [
+            {
+              "producto": "Indumenti di cotone o lana a maniche lunghe (non sintetici)",
+              "descripcion": "Il poliestere e il nylon si fondono e si attaccano alla pelle. Cotone e lana proteggono e si possono bagnare."
+            },
+            {
+              "producto": "Scarpe chiuse e resistenti (stivali o scarpe robuste)",
+              "descripcion": "Niente sandali: il terreno bruciato e le braci attraversano la suola sottile. E non si può correre con le infradito."
+            },
+            {
+              "producto": "Guanti da lavoro in pelle o resistenti al calore",
+              "descripcion": "Per aprire una porta metallica calda, afferrare un tubo o spostare qualcosa che scotta. Senza guanti non puoi toccare nulla."
+            },
+            {
+              "producto": "Cappello o fazzoletto di cotone per coprire testa e nuca",
+              "descripcion": "Il calore radiante e le scintille cadono dall'alto. Coprirsi la testa evita ustioni ai capelli e al collo."
+            }
+          ]
+        },
+        {
+          "titulo": "Difendere la casa se c'è ancora tempo",
+          "intro": "Solo finché non c'è l'ordine di evacuare. Dieci minuti di preparazione possono salvare la casa; un minuto di troppo può costarti la vita.",
+          "items": [
+            {
+              "producto": "Tubo di gomma rinforzato lungo (con irrigatore o pistola)",
+              "descripcion": "Per inumidire il perimetro, la facciata e le zone di arbusti vicine. Il metodo più efficace prima che arrivi il fronte del fuoco."
+            },
+            {
+              "producto": "Estintore a polvere ABC da 6 kg (o più estintori da 2 kg)",
+              "descripcion": "Per incendi che raggiungono la casa: tetto, legna accatastata o un veicolo. L'estintore da auto non basta."
+            },
+            {
+              "producto": "Zappa, rastrello e decespugliatore manuale",
+              "descripcion": "Rimuovere erba secca e foglie secche lungo il perimetro è ciò che impedisce al fuoco di superficie di raggiungere la facciata."
+            },
+            {
+              "producto": "Irroratore a zaino a pressione (16-20 L)",
+              "descripcion": "Serve per spegnere principi d'incendio e inumidire punti caldi senza tubo né corrente. Molto utile quando manca la luce e la pompa non funziona."
+            }
+          ]
+        },
+        {
+          "titulo": "Animali e persone che non possono correre da soli",
+          "intro": "Un'evacuazione si misura da chi impiega più tempo, non dal più veloce.",
+          "items": [
+            {
+              "producto": "Trasportino e guinzaglio a portata di mano (animali domestici)",
+              "descripcion": "In un'evacuazione per fumo, un animale lasciato libero si nasconde o scappa nei boschi. Con il trasportino esce con te al primo viaggio."
+            },
+            {
+              "producto": "Farmaci per terapie croniche e lista dei trattamenti (anziani o persone non autosufficienti)",
+              "descripcion": "Anticoagulanti, insulina, inalatori, terapie psichiatriche. Vanno nello zaino con copia delle ricette, non nell'armadietto del bagno."
+            },
+            {
+              "producto": "Bastone, deambulatore o sedia pieghevole di riserva",
+              "descripcion": "Chi cammina lentamente detta il ritmo; avere un ausilio tecnico di riserva evita che l'evacuazione si blocchi."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-comunicacion": {
+      "titulo": "Kit Comunicazione: walkie-talkie, radio e messenger satellitare (2026)",
+      "resumen": "Kit comunicazione senza rete: walkie-talkie PMR446 senza licenza, radio a manovella e messenger satellitare. 6 articoli da 80 € per non restare senza avvisi.",
+      "coste_total": "80-300 € (walkie-talkie PMR446 + radio a pile e powerbank; di più con messenger satellitare)",
+      "paraQuien": "Per qualsiasi famiglia che voglia poter avvisare ed essere avvisata quando tutte le reti cadono contemporaneamente: blackout prolungato, DANA, incendio o confinamento.",
+      "paraQuien_no": "Non sostituisce il cellulare nella vita quotidiana né permette di chiamare a lunga distanza senza licenza di radioamatore. E non è un giocattolo: se non lo provi prima, il giorno dell'emergenza non saprai usarlo.",
+      "guia": {
+        "antes": [
+          "Concordate un canale e un sottotono fissi per la famiglia (canale 7, sottotono 7) e annotatelo su ogni walkie-talkie",
+          "Prova la portata reale: uno a casa e uno in strada; in città arriva molto meno di quanto promette la confezione",
+          "Sintonizza e memorizza le emittenti utili (regionale e Radio Nacional) prima di riporre la radio",
+          "Tieni le pile di riserva fuori dagli apparecchi e un cavo corto con il powerbank",
+          "Se hai un messenger satellitare, configura i contatti di emergenza e prova l'invio"
+        ],
+        "durante": [
+          "Ascolta prima di trasmettere: due emittenti contemporaneamente bloccano il canale con un fischio",
+          "Messaggi brevi e parlata lenta; ripeti due volte numeri e indirizzi",
+          "Radio accesa almeno due volte al giorno per ascoltare gli avvisi ufficiali",
+          "Non saturare la rete mobile con le chiamate: gli SMS passano quando le chiamate no",
+          "Concordate un orario fisso di contatto per non consumare la batteria tutto il giorno"
+        ],
+        "despues": [
+          "Ricarica walkie-talkie, powerbank e messenger, e sostituisci le pile scariche",
+          "Annota cosa non ha funzionato (portata, canale con interferenze) e correggilo",
+          "Controlla l'abbonamento satellitare se ce l'hai: non lasciarlo scadere"
+        ]
+      },
+      "errores": [
+        "Non provare i walkie-talkie prima: un apparecchio mai usato è un mattone costoso.",
+        "Comprare walkie-talkie che non sono PMR446: molte apparecchiature economiche usano bande che richiedono davvero licenza.",
+        "Affidare tutto al messenger satellitare: se si scarica, rimani muto.",
+        "Lasciare le batterie dentro la radio: si solfatano e ti rovinano l'apparecchio.",
+        "Chiamare invece di scrivere: in emergenza la voce collassa prima dei messaggi brevi."
+      ],
+      "secciones": [
+        {
+          "titulo": "Comunicazione locale: walkie-talkie PMR446",
+          "intro": "Senza licenza, senza copertura e senza internet. I PMR446 sono legali in Spagna dal 1998 e permettono di parlare da radio a radio quando non c'è rete.",
+          "items": [
+            {
+              "producto": "Walkie-talkie PMR446 (coppia, ricaricabili)",
+              "descripcion": "Coppia di walkie-talkie PMR446 ricaricabili. Banda 446 MHz senza licenza, canali di uso comune."
+            },
+            {
+              "producto": "Walkie-talkie PMR446 di fascia media (portata estesa)",
+              "descripcion": "Antenna e sensibilità migliori: fino a 5-10 km in campo aperto."
+            }
+          ]
+        },
+        {
+          "titulo": "Ascoltare e avvisare l'esterno",
+          "intro": "Quando la rete mobile cade, la radio continua a trasmettere avvisi ufficiali e il messaggio satellitare continua a essere inviato.",
+          "items": [
+            {
+              "producto": "Radio FM/AM a batterie o a dinamo (con torcia)",
+              "descripcion": "Unica fonte di informazione se internet e la telefonia cadono. Con dinamo, senza batterie."
+            },
+            {
+              "producto": "Powerbank 10.000-20.000 mAh per gli apparecchi",
+              "descripcion": "Il walkie-talkie ricaricabile e il cellulare muoiono insieme. Due uscite li tengono vivi per diversi giorni."
+            },
+            {
+              "producto": "Messenger satellitare (tipo Garmin inReach)",
+              "descripcion": "Messaggi e SOS via rete satellitare dove non c'è copertura mobile. Richiede abbonamento mensile."
+            },
+            {
+              "producto": "Batterie di ricambio (AA/AAA) fuori dagli apparecchi",
+              "descripcion": "Se lasciate dentro la radio si solfatano. Conservale a parte, nella loro confezione."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-starlink": {
+      "titulo": "Kit Starlink: internet satellitare per emergenze (2026)",
+      "resumen": "Kit Starlink: internet satellitare da qualsiasi punto (400-600 € + 50-60 €/mese), router 4G di riserva e messenger satellitare di ultima risorsa.",
+      "coste_total": "400-600 € terminale + 50-60 €/mese abbonamento",
+      "paraQuien": "Per chi vive in zone senza copertura mobile né fibra, per chi vuole una vera ridondanza delle comunicazioni in emergenza, o per chi lavora in zone rurali dove la rete fissa non funziona. Starlink funziona da qualsiasi punto con cielo visibile.",
+      "paraQuien_no": "Non è per chi ha copertura mobile e fibra che non si guastano: lì puoi aspettare. Inoltre richiede ~100° di cielo sgombro (alberi e montagne tagliano il segnale) e abbonamento mensile: senza, l'hardware è un mattone.",
+      "busc": "terminale portatile Starlink gen 3 router 4g emergenza",
+      "guia": {
+        "antes": [
+          "Verifica la copertura Starlink della tua zona: l'app ufficiale mostra la visibilità del cielo e le previsioni di installazione.",
+          "Controlla la copertura di due operatori diversi nella tua posizione: la ridondanza esiste solo se entrambi hanno segnale.",
+          "Calcola il budget totale: terminale (500-1.200 €) + abbonamento (45-60 €/mese) + router (300-800 €) + inReach (~400 €).",
+          "Pianifica la posizione: tetto con 100° di cielo visibile o palo esterno di 2+ metri. Evita balconi con ostacoli."
+        ],
+        "durante": [
+          "Attiva Starlink e il suo abbonamento. Usa l'app per trovare il punto ottimale di installazione scansionando il cielo.",
+          "Testa la velocità. Regola di nuovo se c'è latenza alta (>100 ms) o perdita di pacchetti.",
+          "Configura il router 4G/5G con dual SIM e failover automatico tra i due operatori.",
+          "Attiva l'inReach e il suo piano; prova l'invio di un messaggio e la geolocalizzazione."
+        ],
+        "despues": [
+          "Pulisci il pannello Starlink ogni 2-3 mesi: polvere, foglie e deiezioni riducono il segnale.",
+          "Rinnova gli abbonamenti prima che scadano: al riattivare, a volte il prezzo cambia.",
+          "Prova l'inReach ogni mese: messaggio di test e geolocalizzazione. Una batteria scarica non salva vite.",
+          "Controlla antenne e connessioni ogni 6 mesi: vento, pioggia e salsedine corrodono i contatti."
+        ]
+      },
+      "errores": [
+        "Mettere Starlink con vista ostruita. Serve ~100° di cielo libero; alberi, tetti o montagne bloccano il segnale. Tetto o terrazza con vista aperta, non il balcone.",
+        "Dimenticare l'abbonamento mensile. Senza di esso, il terminale è un mattone da 500-1.200 €. Piano residenziale (50-60 €/mese) o mobile (45 €/mese).",
+        "Non avere ridondanza (Starlink + router 4G/5G). Un solo mezzo di comunicazione è un singolo punto di guasto: con clima estremo e senza copertura cellulare resteresti senza comunicazioni."
+      ],
+      "secciones": [
+        {
+          "titulo": "Starlink: internet da qualsiasi luogo",
+          "intro": "Internet satellitare quando cade tutto: cellulari, fibra, LTE. 50-200 Mbps reali senza infrastruttura terrestre. Gen 3: meno consumi e migliori prestazioni in condizioni avverse.",
+          "items": [
+            {
+              "producto": "Terminale Starlink Gen 3 (residenziale / mobile)",
+              "descripcion": "Internet satellitare dove non c'è copertura né fibra. 50-200 Mbps reali. Gen 3: 75-150 W, Wi-Fi integrato. Piano «Mobile in transito» 45 €/mese. L'abbonamento è indispensabile: senza di esso l'hardware non funziona."
+            },
+            {
+              "producto": "Supporto di montaggio per Starlink (tetto / parete / palo)",
+              "descripcion": "Supporto robusto per fissare il terminale a tetto, parete o palo e mantenere la visibilità del cielo. Compatibile con Gen 2 e Gen 3."
+            },
+            {
+              "producto": "Cavo di prolunga per Starlink (30 m / 60 m)",
+              "descripcion": "Estende il cavo fino alla posizione ideale. Schermato, resistente ai raggi UV, all'acqua e ai roditori. Compatibile con Gen 2 e Gen 3."
+            }
+          ]
+        },
+        {
+          "titulo": "Ridondanza: router 4G/5G come backup",
+          "intro": "Connettività cellulare come backup di Starlink: utile quando il satellite non è praticabile (boschi fitti, clima estremo) o come piano B.",
+          "items": [
+            {
+              "producto": "Antenna esterna 4G/5G ad alto guadagno",
+              "descripcion": "12-16 dBi: amplifica il segnale quando la copertura è debole. Installazione sul tetto con cavo fino al router."
+            }
+          ]
+        },
+        {
+          "titulo": "Ultima risorsa: messenger satellitare",
+          "intro": "Quando non c'è visibilità del cielo né copertura cellulare, il messenger satellitare è l'unico modo per chiedere aiuto.",
+          "items": [
+            {
+              "producto": "Messenger satellitare (Garmin inReach Mini 3)",
+              "descripcion": "SOS, geolocalizzazione e messaggistica bidirezionale dove non c'è copertura. 90 h di batteria in modalità normale, 35 h in uso attivo."
+            },
+            {
+              "producto": "Power bank da 20.000 mAh + cavi",
+              "descripcion": "Mantiene in carica l'inReach e il cellulare quando non c'è rete elettrica. Ricarica via USB-C."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-electricidad": {
+      "titulo": "Kit elettricità: 10 articoli per avere luce senza rete (2026)",
+      "resumen": "Kit elettricità: energia per l'essenziale con pannello solare, SAI e cavi — luce, router e frigo portatile senza rete. Da 200 €.",
+      "coste_total": "100-250 € (powerbank + luci + pile) fino a 500-900 € (con generatore solare e batteria LiFePO4)",
+      "paraQuien": "Qualsiasi abitazione che voglia luce e comunicazione minima quando la rete elettrica si guasta: appartamenti con balcone (pannello pieghevole) o case con tetto.",
+      "paraQuien_no": "Non sostituisce un generatore a combustibile per utensili o aria condizionata: quello è un altro livello di budget e di finestre.",
+      "guia": {
+        "antes": [
+          "Calcola i tuoi watt reali: somma l'essenziale (luci LED, router, cellulare, frigorifero se puoi) e acquista con margine",
+          "Posiziona il pannello solare dove riceve luce solare diretta per la maggior parte della giornata; in inverno rende la metà",
+          "Carica TUTTO al 100% ogni domenica: una batteria al 60% il giorno del blackout è una batteria inutilizzabile",
+          "Usa luci LED con batterie integrate: consumano 10 volte meno di qualsiasi alternativa",
+          "Tieni i cavi insieme ed etichettati: al buio non c'è tempo per provare quale sia quale"
+        ],
+        "durante": [
+          "Alimenta prima luci, cellulare e radio; il frigorifero solo se il tuo generatore regge il picco di avvio",
+          "Il router consuma poco: mantenere internet attivo può valere più di un frigorifero",
+          "Ricarica di giorno con il pannello; consuma di notte con la batteria: mai entrambi insieme",
+          "Spegni e scollega ciò che non usi: gli apparecchi in standby si mangiano la batteria senza darti nulla"
+        ],
+        "despues": [
+          "Ricarica di nuovo tutto al 100% prima di riporre il kit",
+          "Annota quante ore è durato e cosa hai consumato: la prossima volta compri meglio",
+          "Controlla i cicli della batteria: se scende sotto l'80% di capacità, va sostituita"
+        ]
+      },
+      "errores": [
+        "Comprare un generatore senza calcolare i watt: 300 W non avviano un frigorifero (serve un picco di 1.200 W).",
+        "Lasciare il powerbank a metà carica: si autoscarica e il giorno del blackout è morto.",
+        "Confondere Wh con mAh: 20.000 mAh sono solo 74 Wh, non 20 ore di frigorifero.",
+        "Mettere il pannello solare all'ombra o dietro il vetro: rende la metà o meno.",
+        "Usare candele senza sorvegliarle: è la prima causa di incendi durante i blackout."
+      ],
+      "secciones": [
+        {
+          "titulo": "Energia: batterie e pannelli",
+          "intro": "Il cuore del kit: accumulare di giorno e usare di notte. Batterie LiFePO4 se il budget lo consente: durano 6 volte più di quelle al piombo.",
+          "items": [
+            {
+              "producto": "Generatore solare portatile con pannello incluso (300-500 Wh)",
+              "descripcion": "Stazione di energia con pannello pieghevole: mantiene luci, cellulari e router per 1-3 giorni."
+            },
+            {
+              "producto": "Powerbank 20.000-27.000 mAh (con uscita AC o PD da 65 W)",
+              "descripcion": "Il minimo indispensabile: 4-6 ricariche di cellulare o 20 ore di luce LED."
+            },
+            {
+              "producto": "Pannello solare pieghevole 60-100 W",
+              "descripcion": "Ricarica la batteria o il powerbank in 4-6 h di sole diretto. Indispensabile nei blackout lunghi."
+            },
+            {
+              "producto": "Batteria LiFePO4 100 Ah",
+              "descripcion": "1.280 Wh reali, 3.000-6.000 cicli. L'opzione seria per chi si prepara a blackout di più giorni."
+            }
+          ]
+        },
+        {
+          "titulo": "Luce: illuminazione efficiente",
+          "intro": "Le luci LED consumano 10 volte meno di qualsiasi altra opzione. Torcia frontale per avere le mani libere e lampade ad area per stare insieme.",
+          "items": [
+            {
+              "producto": "Lampada LED ricaricabile da area (lanterna da campeggio)",
+              "descripcion": "Illumina un'intera stanza per 8-30 h. Con gancio e magnete per appenderla."
+            },
+            {
+              "producto": "Torcia frontale LED con pile AAA (2 unità)",
+              "descripcion": "Mani libere per cucinare, lavorare o uscire. Pile AAA alcaline di riserva sempre."
+            },
+            {
+              "producto": "Candele di emergenza a lunga durata (9-12 h)",
+              "descripcion": "Piano C senza elettricità: una candela di cera illumina e dà un po' di calore. Mai senza sorveglianza."
+            }
+          ]
+        },
+        {
+          "titulo": "Controllo e sicurezza elettrica",
+          "intro": "Quando torna la luce possono arrivare picchi. Proteggere i tuoi apparecchi fa parte del kit.",
+          "items": [
+            {
+              "producto": "Ciabatta con protezione da sovratensione (interruttore)",
+              "descripcion": "Al ritorno della corrente, i picchi bruciano caricabatterie e router. Questa ciabatta li assorbe."
+            },
+            {
+              "producto": "Multimetro digitale di base",
+              "descripcion": "Verifica se la batteria si carica, se il pannello produce, se il fusibile è integro. 20 € che salvano giorni."
+            },
+            {
+              "producto": "Pile AA e AAA alcaline (confezione grande)",
+              "descripcion": "Il 90% dei tuoi dispositivi di emergenza va a pile. Tieni almeno 24 AA e 24 AAA."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-kit-profesional": {
+      "titulo": "Kit professionale: energia e autonomia totali (2026)",
+      "resumen": "Kit professionale: 800 W di pannelli, batterie LFP da 19,2 kWh, SAI e Starlink per superare un blackout prolungato senza interruzioni. Costi e installazione 2026.",
+      "coste_total": "2.000-5.000 € (investimento professionale) · ammortamento 3-5 anni",
+      "paraQuien": "Per abitazioni che non possono permettersi di rimanere senza energia, dati o cibo: case rurali lontane dai servizi, attività che dipendono da server o chi cerca un'indipendenza reale da blackout e crisi infrastrutturali.",
+      "paraQuien_no": "Non è un kit per sopravvivere mesi senza rete. Investimento alto (2.000-5.000 €), richiede spazio (tetto o terreno per i pannelli, zona ventilata per batterie e generatore) e installazione professionale, e ha manutenzione. Non è «installare e dimenticare».",
+      "busc": "kit professionale autonomia energia solare batteria litio starlink generatore",
+      "guia": {
+        "antes": [
+          "Calcola il tuo consumo giornaliero: kWh/mese ÷ 30 = kWh/giorno. Il kit deve coprire il 70-80% di quel consumo.",
+          "Individua dove installare i pannelli: tetto orientato a sud, tetto piano o terreno adiacente. Minimo 4 m² per ogni 400 W.",
+          "Prepara lo spazio per le batterie: zona ventilata, 10-25 °C, lontano da materiali infiammabili.",
+          "Individua il posto del generatore: all'esterno, ventilato, ad almeno 3 m dalle finestre, con accesso per il rifornimento.",
+          "Se non sai installare: preventivo di elettricista + installatore solare certificato. Non è magia, ma va fatto bene."
+        ],
+        "durante": [
+          "Prima batterie e inverter, poi pannelli, poi Starlink. Ogni modulo va testato prima di collegare il successivo.",
+          "Verifica le polarità prima di collegare: negativo con negativo, positivo con positivo. Un cortocircuito nelle batterie è immediato.",
+          "Configura l'inverter con tensione di stacco bassa (11,5 V a 12 V; 40 V a 48 V) per non danneggiare le batterie con scariche profonde.",
+          "Attiva Starlink e il suo abbonamento. Testa la velocità; regola di nuovo la posizione se c'è latenza alta o perdita di pacchetti.",
+          "Prova il generatore all'aperto: 30 minuti sotto carico, carburante stabilizzato."
+        ],
+        "despues": [
+          "Pulisci i pannelli ogni 2-3 mesi: polvere, foglie morte e deiezioni riducono l'efficienza del 20-30%.",
+          "Controlla connessioni e fusibili ogni 6 mesi: corrosione, viti allentate e cavi spelati sono la causa della maggior parte dei guasti.",
+          "Test delle batterie una volta al mese: tensione e temperatura. Una cella più calda delle altre si guasterà.",
+          "Prova il generatore ogni 3 mesi (30 min sotto carico). Non lasciare la benzina nel serbatoio per più di 6 mesi.",
+          "Rinnova il piano Starlink prima della scadenza: alla riattivazione, a volte il prezzo cambia."
+        ]
+      },
+      "errores": [
+        "Comprare pannelli senza inverter né batterie. I pannelli generano solo con il sole: senza accumulo non hai nulla di notte. Prima batterie e inverter, poi pannelli.",
+        "Installare batterie al piombo-acido nel 2026. Il litio LFP costa 3-4× di più ma dura 5× di più (3.000+ cicli vs 500-1.000): è più economico per ciclo.",
+        "Mettere lo Starlink con vista ostruita. Serve ~100° di cielo libero; alberi, tetti o montagne tagliano il segnale. Tetto o terrazza con vista aperta.",
+        "Mettere il generatore in casa. Il CO è invisibile e inodore e uccide in pochi minuti: sempre all'esterno, ventilato, ad almeno 3 metri da finestre e porte.",
+        "Non far eseguire l'installazione a un professionista. Pannelli fissati male volano via, batterie collegate male prendono fuoco, cavi senza protezione si fondono. 200-500 € per un'installazione certificata valgono ogni euro."
+      ],
+      "secciones": [
+        {
+          "titulo": "Energia solare: il sole è il tuo generatore",
+          "intro": "La base dell'autonomia: sole → elettricità senza dipendere dalla rete. Un impianto da 800 W in una zona con buona insolazione produce ~4 kWh/giorno.",
+          "items": [
+            {
+              "producto": "Pannello solare 400W monocristallino (×2 unità)",
+              "descripcion": "Pannello ad alta efficienza (21%+), resistente a grandine e vento. 800 W totali producono ~4 kWh/giorno in una zona con buona insolazione. I monocristallini (PERC) rendono di più su superficie limitata."
+            },
+            {
+              "producto": "Inverter ibrido 3000W-5000W",
+              "descripcion": "Converte la DC dei pannelli e delle batterie in AC 230 V. Accetta contemporaneamente ingresso solare, rete e batterie. Cerca MPPT integrato e commutazione automatica <5 ms. Marchi di riferimento: Victron, Growatt, EcoFlow."
+            },
+            {
+              "producto": "Regolatore di carica MPPT 60 A",
+              "descripcion": "MPPT (Maximum Power Point Tracking) cattura il 15-30% in più di energia rispetto a PWM, soprattutto nei giorni nuvolosi. 60 A supportano fino a ~2,4 kW a 48 V."
+            }
+          ]
+        },
+        {
+          "titulo": "SAI (UPS): commutazione istantanea",
+          "intro": "Senza interruzione: protezione istantanea contro le interruzioni di rete. Commuta sulle batterie in millisecondi.",
+          "items": [
+            {
+              "producto": "SAI (UPS) 3000VA-5000VA online a doppia conversione",
+              "descripcion": "Doppia conversione online: alimenta sempre dalle batterie, la rete serve solo a caricare. Protezione totale contro microinterruzioni, picchi e rumore elettrico. Ideale per PC, server, router, Starlink e frigorifero smart."
+            },
+            {
+              "producto": "SAI 1500VA (900W line-interactive)",
+              "descripcion": "Protezione specifica per router, modem e dispositivi di comunicazione. Più accessibile, garantisce la connettività."
+            }
+          ]
+        },
+        {
+          "titulo": "Generatore: backup quando non c'è il sole",
+          "intro": "Supporto quando non c'è il sole. Generatori inverter: corrente pulita, più silenziosi ed efficienti di quelli tradizionali.",
+          "items": [
+            {
+              "producto": "Serbatoio maggiorato o collegamento al gas naturale",
+              "descripcion": "Amplia l'autonomia con un serbatoio aggiuntivo da 100+ litri o collegamento al gas naturale (autonomia illimitata). Richiede installazione professionale."
+            }
+          ]
+        },
+        {
+          "titulo": "Conservazione degli alimenti senza rete",
+          "intro": "Senza elettricità, il frigorifero convenzionale è un armadio caldo. Un frigorifero solare mantiene gli alimenti freschi senza dipendere dalla rete.",
+          "items": [
+            {
+              "producto": "Accumulatori di freddo congelabili (pack da 6)",
+              "descripcion": "Gel congelabile che mantiene la temperatura per 24-48 h senza elettricità. Si congelano quando c'è il sole e raffreddano quando non c'è. Riutilizzabili."
+            }
+          ]
+        },
+        {
+          "titulo": "Illuminazione e sicurezza perimetrale",
+          "intro": "Illuminazione LED ad alta potenza con batteria solare e sorveglianza autonoma senza rete fissa.",
+          "items": [
+            {
+              "producto": "Telecamera di sicurezza solare 4G con batteria",
+              "descripcion": "Telecamera 4G con pannello solare e batteria: sorveglianza remota senza internet fisso. Si attiva con il movimento e avvisa sul cellulare."
+            }
+          ]
+        },
+        {
+          "titulo": "Connettività: Starlink e ridondanza",
+          "intro": "Senza internet, l'autonomia serve a poco. Starlink: internet satellitare da qualsiasi punto con visibilità del cielo. 50-200 Mbps reali.",
+          "items": [
+            {
+              "producto": "Router 4G/5G industriale con doppia SIM e antenne esterne",
+              "descripcion": "Router cellulare ridondante con due operatori (ad es. Movistar + Orange). WAN/LAN, VPN, PoE per il tetto, antenne ad alto guadagno. Alternativa se il satellite non è praticabile."
+            },
+            {
+              "producto": "Estensore WiFi a lungo raggio + antenna direzionale",
+              "descripcion": "Estende il WiFi a fattoria, giardino o garage. Antenna direzionale per captare il segnale da un altro edificio o da una torre. Ubiquiti NanoStation o Tenda W311MI."
+            },
+            {
+              "producto": "Messenger satellitare (Garmin inReach Mini 3)",
+              "descripcion": "SOS, geolocalizzazione e messaggistica bidirezionale dove non c'è copertura di alcun tipo. 90 h di batteria. Ultima risorsa quando tutto il resto fallisce."
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicazione locale: radioamatore e walkie-talkie",
+          "intro": "Ridondanza di comunicazione: radioamatore per copertura regionale e walkie-talkie PMR446 per il coordinamento intrafamiliare.",
+          "items": [
+            {
+              "producto": "Walkie-talkie professionali PMR446 (set da 4)",
+              "descripcion": "Senza licenza (PMR446: 16 canali, 0,5-2W, ~2-5 km in campo aperto). IP67, LCD, LED, VOX. Motorola Talkabout o simili. Ideale per coordinare l'evacuazione."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

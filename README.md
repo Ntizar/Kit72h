@@ -43,6 +43,9 @@ la que se creó cada una.
 | Un producto o ASIN | `data/kits.json` y después `catalogo.py build` |
 | Una entrada del blog | `data/blog.json` |
 | Las fuentes oficiales de `/fuentes/` | `data/kits.json` → `meta.fuentes` (nombre, url, cat, nota) |
+| **Un país: dominio de Amazon, tag, moneda, emergencias** | `data/mercados.json` |
+| **Un texto de interfaz (cabecera, botones, FAQ)** | `data/i18n/ui/es.json` + `scripts/traducir.py` |
+| **El contenido traducido de otro idioma** | `data/i18n/contenido/<lang>.json` (lo genera el traductor) |
 | Diseño, colores, tipografía | `css/styles.css` |
 | Estructura o textos de una página | `js/ui.js` (home, kit, blog, fuentes, zona) |
 | El mapa de «Tu zona» | `js/zona.js` |
@@ -106,6 +109,41 @@ kit72h/
 
 > Los crons ejecutan la copia que vive en `%LOCALAPPDATA%\hermes\scripts\`. Si se toca uno de
 > esos dos, hay que copiarlo también ahí — o al revés: el repo es donde se versiona.
+
+---
+
+## Multi-mercado: 7 países, 6 idiomas
+
+La web vende en España, Reino Unido, Alemania, Francia, Italia, Países Bajos y EE. UU.
+Todo lo que cambia por país (dominio de Amazon, tag de afiliado, moneda, número de
+emergencia, autoridad) vive en **`data/mercados.json`**. Nada de país hardcodeado.
+
+| Mercado | Ruta | Amazon | Tag | Emergencias |
+|---|---|---|---|---|
+| España (base) | `/` | amazon.es | `ntizar-21` | 112 |
+| Reino Unido | `/en-gb/` | amazon.co.uk | pendiente | 999 |
+| Alemania | `/de/` | amazon.de | pendiente | 112 |
+| Francia | `/fr/` | amazon.fr | pendiente | 112 |
+| Italia | `/it/` | amazon.it | pendiente | 112 |
+| Países Bajos | `/nl/` | amazon.nl | pendiente | 112 |
+| EE. UU. | `/en-us/` | amazon.com | `onamzntizar-21` | 911 |
+
+- **El castellano se queda en la raíz.** Mover lo ya indexado habría tirado el SEO; los
+  demás mercados nacen en subcarpeta con `hreflang` + `x-default` en todas las páginas.
+- **Textos de interfaz**: `data/i18n/ui/<lang>.json` (la base `es.json` es la fuente y
+  hace de fallback clave a clave). **Contenido**: `data/i18n/contenido/<lang>.json` se
+  fusiona encima de `kits.json` por slug e índice — solo textos: ASINs, URLs y estructura
+  vienen siempre del original.
+- **Traducción**: `scripts/traducir.py` (caché por cadena, lotes, validación de HTML y
+  marcadores `{n}`; un lote fallido no se cachea). Los textos legales y las FAQ que citan
+  una ley nacional **se adaptan a mano**, no se traducen literal.
+- **Fuera de España** el botón lleva a la búsqueda del producto traducido en el Amazon del
+  país: un ASIN de `.es` no siempre existe en `.de` y un enlace muerto vende cero. La cesta
+  de un clic solo donde hay fichas verificadas; los precios reales de la API son de
+  `amazon.es` y solo se muestran en el mercado español.
+- **`/zona/` y `/noticias/` son de España** (AEMET, IGN, Google News ES): no se generan
+  fuera ni aparecen en la navegación (`html:not([data-mercado="es"]) .solo-es`).
+- **Parte de trabajo en paralelo** (VM + PC): `notes/COORDINACION-VM.md`.
 
 ---
 

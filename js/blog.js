@@ -1,6 +1,7 @@
 /* Kit72h — blog: cargador de data/blog.json
    El contenido vive en datos (data/blog.json) para que el cron nocturno
-   pueda ampliar entradas sin tocar código. */
+   pueda ampliar entradas sin tocar código. Para otros idiomas se fusiona
+   encima data/i18n/contenido/<lang>.json (bloque "blog"). */
 const blog = {
   entradas: [],
   meta: {},
@@ -10,7 +11,7 @@ const blog = {
     try {
       const resp = await fetch('/data/blog.json');
       if (resp.ok) {
-        const d = await resp.json();
+        const d = await fusionarContenido(await resp.json(), 'blog');
         this.entradas = d.entradas || [];
         this.meta = d.meta || {};
       }

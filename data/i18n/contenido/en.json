@@ -1,0 +1,2905 @@
+{
+  "_meta": {
+    "lang": "en",
+    "fuente": "data/kits.json",
+    "generado": "2026-11-14 20:28",
+    "kits": 21
+  },
+  "disclosure": "As an Amazon Associate I earn from qualifying purchases. Prices may vary. Recommendations are based on official sources: the EU Civil Protection Mechanism and national civil protection authorities.",
+  "meta": {
+    "fuentes": [
+      {
+        "cat": "European Union",
+        "nota": "The document that sets 72 hours as the horizon for household self-sufficiency. This is where the whole approach of the website comes from."
+      },
+      {
+        "cat": "European Union",
+        "nota": "Official EU portal with recommendations by risk type and citizen preparedness materials."
+      },
+      {
+        "cat": "European Union",
+        "nota": "EU emergency service: rapid mapping of floods, fires and disasters."
+      },
+      {
+        "cat": "European Union",
+        "nota": "112 works throughout the EU, free of charge and from any mobile phone. Official guide on when to call and what to say."
+      },
+      {
+        "cat": "Civil Protection and Emergencies",
+        "nota": "Main source for the site: plans, recommendations and materials from the Ministry of the Interior."
+      },
+      {
+        "cat": "Civil Protection and Emergencies",
+        "nota": "The lists of what a prepared household should have: the basis for all the kits here."
+      },
+      {
+        "cat": "Civil Protection and Emergencies",
+        "nota": "How mobile phone alerts (ES-Alert) work when there is an emergency in your area."
+      },
+      {
+        "cat": "Civil Protection and Emergencies",
+        "nota": "National coordination, Civil Protection and emergency response."
+      },
+      {
+        "cat": "Health",
+        "nota": "Healthcare provision, public health recommendations and crisis preparedness."
+      },
+      {
+        "cat": "Health",
+        "nota": "Food safety: preserving food without refrigeration and safe consumption in a crisis."
+      },
+      {
+        "cat": "Health",
+        "nota": "Official list of hospitals in Spain, with services and available beds."
+      },
+      {
+        "cat": "Health",
+        "nota": "Official health alerts and recommendations for the public."
+      },
+      {
+        "cat": "Weather",
+        "nota": "Official forecast; this is where the alerts that underpin the heat, cold and DANA kits come from."
+      },
+      {
+        "cat": "Weather",
+        "nota": "Warnings by hazard and risk level: for planning before it arrives, not during."
+      },
+      {
+        "cat": "Supplies and energy",
+        "nota": "Electricity system operator: information on the grid and supply."
+      },
+      {
+        "cat": "Supplies and energy",
+        "nota": "Live demand curve. Useful for understanding a blackout or a demand spike."
+      },
+      {
+        "cat": "Supplies and energy",
+        "nota": "Water, energy and climate risks: the official framework for supplies."
+      },
+      {
+        "cat": "Security",
+        "nota": "Local police posts, emergency services and response in rural areas."
+      },
+      {
+        "cat": "Security",
+        "nota": "Police stations and emergency services in urban areas."
+      },
+      {
+        "cat": "Security",
+        "nota": "Volunteer support, evacuation and psychosocial care during and after an emergency."
+      },
+      {
+        "cat": "Regulations",
+        "nota": "Official publication of all regulations cited on this site."
+      },
+      {
+        "cat": "Regulations",
+        "nota": "Floods, adverse weather events, wildfires and hazardous materials."
+      },
+      {
+        "cat": "Map and site data",
+        "nota": "Base map for the /zona/ page (CC BY 4.0) and official geographic data for Spain."
+      },
+      {
+        "cat": "Map and site data",
+        "nota": "Catalog of open data sets from the Spanish public administration."
+      },
+      {
+        "cat": "Map and site data",
+        "nota": "The hospitals, pharmacies, police stations and shelters on the /zona/ map come from here (ODbL)."
+      },
+      {
+        "cat": "Map and site data",
+        "nota": "Live OpenStreetMap query used by “Your area” to render your surroundings instantly."
+      },
+      {
+        "cat": "Map and site data",
+        "nota": "Telecommunications and competition: information on coverage and communications services."
+      }
+    ]
+  },
+  "kits": {
+    "kit-suiza": {
+      "titulo": "Swiss Kit: the official 7-day reserve (9 liters of water per person)",
+      "resumen": "The list the Swiss State recommends keeping at home, translated and bought in Spain: 9 liters of water per person, a week's food, radio, portable stove, masks and cash. From 120 €.",
+      "coste_total": "120-260 € per person for 7 days (less if you rotate what you already eat)",
+      "paraQuien": "For those who want a domestic reserve with numbers, not good intentions: the official Swiss list translated for a Spanish apartment, with quantities, prices and what to rotate every six months.",
+      "paraQuien_no": "It is not an evacuation kit or a backpack kit: it is a reserve to stay at home. If your plan is to leave the city with just what you're wearing, you need the evacuation kit. And it does not replace medication or the family plan.",
+      "busc": "emergency reserve kit 7 days water food portable stove",
+      "guia": {
+        "antes": [
+          "Count the water using the Swiss rule: 9 liters per person, and add your pet and the heat in your area",
+          "Rotate the food: the reserve is normal food you eat and replace, not a separate cupboard that expires",
+          "Check the date on each water container and write it on the cap; bottled water expires too",
+          "Store chronic medication with the prescription in a cool place: it is the point no generic kit covers",
+          "Keep the cash in small notes and separate from your everyday wallet",
+          "Test the portable stove and radio once a year, with new batteries"
+        ],
+        "durante": [
+          "Drink before you are thirsty: water is the first supply to fail and the hardest to improvise",
+          "Listen to the official radio twice a day; it is the channel that stays alive when the mobile network goes down",
+          "Cook during the day and with ventilation: a gas stove indoors kills with carbon monoxide if there is no air",
+          "Ration masks and disinfectant if you have to go out or clean contaminated areas",
+          "Do not open the fridge unless necessary: every opening loses hours of cold"
+        ],
+        "despues": [
+          "Replace what you use within the same week, not 'someday': a half-done reserve is not a reserve",
+          "Check dates and note what expired unused (usually it is what you don't like eating)",
+          "Wash the stove, dry the batteries and put everything back where you first found it"
+        ]
+      },
+      "secciones": [
+        {
+          "titulo": "Water: 9 liters per person that do not depend on the tap",
+          "intro": "It is the most concrete figure in the entire Swiss list and the one that most people fail to meet without knowing it. Nine litres is a pack of six 1.5 L bottles: drinking and cooking for a few days, not counting hygiene.",
+          "items": [
+            {
+              "producto": "8-litre water containers (two per person)",
+              "descripcion": "The practical way to store 16 litres without taking over the kitchen. They stack, rotate and do not depend on the tap."
+            },
+            {
+              "producto": "Bottled water to rotate every 6 months",
+              "descripcion": "A daily-use reserve that is consumed and replenished: that way the water never expires in the cupboard."
+            },
+            {
+              "producto": "Water purification tablets",
+              "descripcion": "Turns questionable water into drinkable water. It is what separates 9 litres from a whole week when the supply comes back cloudy."
+            }
+          ]
+        },
+        {
+          "titulo": "Food for seven days (not three)",
+          "intro": "Switzerland asks for one week of normal food: rice, pasta, oil, canned food, UHT milk, dried fruit, chocolate. No special rations; food you already eat, so it can be rotated.",
+          "items": [
+            {
+              "producto": "Assorted canned goods (15-20 cans)",
+              "descripcion": "The base that can be eaten without cooking or refrigeration. Alternate fish, legumes and vegetables so you do not always eat the same thing."
+            },
+            {
+              "producto": "Parboiled rice (2 kg pack)",
+              "descripcion": "It lasts for years, fills you up and only needs water and heat. With the camping stove it cooks just like at home."
+            },
+            {
+              "producto": "Pasta, rice and legumes in packets",
+              "descripcion": "A pantry assortment to complete the week without depending on the fridge."
+            },
+            {
+              "producto": "Manual can opener",
+              "descripcion": "The detail that ruins a perfect pantry: without a can opener, the cans do not open."
+            }
+          ]
+        },
+        {
+          "titulo": "Cooking without mains power",
+          "intro": "Switzerland says it explicitly: gas stove. Storing food and having nothing to heat it with is the most common mistake in household reserves.",
+          "items": [
+            {
+              "producto": "Gas camping stove with canisters",
+              "descripcion": "Hot coffee, rice and canned food without power. With spare canisters and always used in a ventilated area."
+            },
+            {
+              "producto": "Butane gas heater (for home)",
+              "descripcion": "If you have the space, a domestic heater gives you weeks of autonomy with one cylinder. Never inside a closed bedroom."
+            },
+            {
+              "producto": "Lighters and long matches",
+              "descripcion": "The lighter runs out and will not light upside down. Long matches reach the burner without burning yourself."
+            }
+          ]
+        },
+        {
+          "titulo": "Light and official alerts",
+          "intro": "When the mobile network goes down, the radio keeps broadcasting. That is why it is on the Swiss list alongside spare batteries, and not the mobile phone.",
+          "items": [
+            {
+              "producto": "Battery-powered FM/AM radio (official alerts)",
+              "descripcion": "The information channel that survives a blackout. Tune in to the useful stations beforehand and write down the frequency."
+            },
+            {
+              "producto": "LED flashlight with spare batteries",
+              "descripcion": "Move around the house without draining your phone battery, which is what you need to make calls."
+            },
+            {
+              "producto": "Headlamp",
+              "descripcion": "Hands-free for cooking, fixing things or going down to the garage. During a blackout, this makes the difference."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene and health: the 50 masks and medication",
+          "intro": "The most surprising Swiss figure: 50 masks per person. It was added after the pandemic because a health crisis also leaves people without supplies. At home, 20 FFP2 masks cover the domestic scenario.",
+          "items": [
+            {
+              "producto": "FFP2 masks (pack)",
+              "descripcion": "For going out, cleaning contaminated areas or living with a sick person without a healthcare system."
+            },
+            {
+              "producto": "Complete first-aid kit (222 pieces)",
+              "descripcion": "Cuts, stove burns and bumps are the real emergencies in a blackout, not movie-style catastrophes."
+            },
+            {
+              "producto": "Surface disinfectant",
+              "descripcion": "Rationed water means less cleaning: disinfectant makes up for it."
+            },
+            {
+              "producto": "Chronic medication: one week of your treatment",
+              "descripcion": "The most personal item on the list and the only one you can't buy in a pack. With a prescription, in a cool place and with the expiry date in sight."
+            }
+          ]
+        },
+        {
+          "titulo": "What Switzerland lists and almost nobody copies",
+          "intro": "Cash, batteries and pet food. These are three lines from the Swiss leaflet that appear on almost no Spanish list and that make a difference on day one of a real blackout.",
+          "items": [
+            {
+              "producto": "10,000-20,000 mAh power bank",
+              "descripcion": "Keeps your phone alive for a whole day and charges the radio if it's rechargeable. Charge it the same day you check your reserves."
+            },
+            {
+              "producto": "Extra food for your pet",
+              "descripcion": "If you have a dog or cat, their week of food counts just as much as yours. Almost nobody includes it."
+            },
+            {
+              "producto": "Cash in small notes",
+              "descripcion": "When card readers and ATMs don't respond, cash still buys. Sixty euros in 10 and 20 euro notes."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-basico-72h": {
+      "titulo": "Kit 72h Basic: 21 EU essentials (2026)",
+      "resumen": "EU resilience backpack: 21 verified items, checklist with tick boxes, one-click Amazon basket. Updated 2026 guide.",
+      "coste_total": "180-300 € (two-person household; first-aid kit and tools are household items, not per person)",
+      "paraQuien": "For any household in Spain, wherever you start. It is the resilience bag the EU has called for since March 2025 — water, food, light, information, documents and shelter to last 72 hours without services — with every product checked: no listings that say one thing and sell another. If you are only going to put together one kit, make it this one.",
+      "paraQuien_no": "It's not a backpack for walking out, and it doesn't replace the specific kit for your hazard (DANA, mountains, car). If you live in a flood-prone area or with dependent people, complete it with the evacuation kit and the baby kit or the elderly person's kit.",
+      "guia": {
+        "antes": [
+          "Put the kit together with the whole family and keep it in a known, accessible place",
+          "Check expiry dates (water, food, batteries, medication) every 6 months",
+          "Write emergency numbers on paper: 112, your local Protección Civil",
+          "Turn on mobile alerts in your phone settings: the ES-Alert system (National Alert Network) sends warnings directly to people in the affected area. The Basic Guidelines approved in April 2026 incorporate it into all civil protection plans"
+        ],
+        "durante": [
+          "Follow only instructions from official sources (112, Protección Civil)",
+          "Ration water and phone battery",
+          "Keep the battery-powered radio on in the FM band"
+        ],
+        "despues": [
+          "Replace what you've used as soon as possible",
+          "Note down what was missing and adjust the kit"
+        ]
+      },
+      "errores": [
+        "Buying without checking the actual product page: half of the online 'essentials' lists link to a women's raincoat, a decorative poster instead of a map, or tablets for 200-litre tanks. Before you pay, check that the photo, gender/size and dosage unit are the ones you need.",
+        "Buying only bottled water and having no plan B: if it runs out, purification tablets for 10 € give you treated tap or rainwater.",
+        "Storing everything in the storage room or the top cupboard. In a blackout with no light you need to find it in 30 seconds, better next to the door.",
+        "Not writing the purchase date on each pack: after two years you won't know what's old and you'll throw away half your supplies.",
+        "Forgetting the radio. In a long crisis your phone goes silent; the battery-powered radio is your only link to what Protección Civil orders.",
+        "Buying everything all at once and then letting it sit. It works better to add two or three items each week with your shopping."
+      ],
+      "secciones": [
+        {
+          "titulo": "Agua e hidratación",
+          "intro": "The first thing to run out and the only thing you can't improvise. 3 litres per person per day for drinking, a reserve with a tap, and a system to make questionable water safe to drink when it runs out.",
+          "items": [
+            {
+              "producto": "Mineral water in 1.5 L bottles (pack of 6 = 9 L)",
+              "descripcion": "Nine litres bottled: the 3 L/day one person needs for three days. Rotate every six months and use it in the kitchen."
+            },
+            {
+              "producto": "8 L container with dispensing tap",
+              "descripcion": "Eight litres with a built-in tap: dispense without opening anything and it stands upright in the pantry. The household's base reserve."
+            },
+            {
+              "producto": "Aquatabs water purification tablets (50 units, 1 L/unit)",
+              "descripcion": "One tablet per litre: 50 litres of drinking water per box. Clear dose for a bottle, not a tank, which is what you really need."
+            }
+          ]
+        },
+        {
+          "titulo": "Food",
+          "intro": "Food you can eat without cooking, water or electricity—and that you'll actually want to eat for three days straight.",
+          "items": [
+            {
+              "producto": "Trek'n Eat dehydrated meal (515 kcal)",
+              "descripcion": "515 kcal per serving, prepared with hot water in 8 minutes and eaten straight from the pouch. Years of shelf life."
+            },
+            {
+              "producto": "Sardines in olive oil (5 cans × 120 g)",
+              "descripcion": "Protein and healthy fat with no fridge or cooking: open and eat. Five cans cover several lunches."
+            },
+            {
+              "producto": "Fruit and nut bars (18 × 35 g)",
+              "descripcion": "About 130 kcal per 35 g bar: a compact pocket snack, not a full meal. It adds to your supplies, it doesn't replace a meal."
+            }
+          ]
+        },
+        {
+          "titulo": "Light and power",
+          "intro": "To see and be seen, and to keep your phone and radio alive. A headlamp leaves your hands free: it's the flashlight you'll actually use.",
+          "items": [
+            {
+              "producto": "AAA battery headlamp (1300 lux)",
+              "descripcion": "3 AAA batteries, 22 h on low mode and 6 h on high, red light so you don't blind anyone. Hands-free for going down stairs in the dark."
+            },
+            {
+              "producto": "INIU power bank 20,000 mAh (22.5 W, USB-C)",
+              "descripcion": "Four or five phone charges, with USB-C cable included. Your phone is your map, your torch and your radio: no battery, no anything."
+            },
+            {
+              "producto": "AA and AAA alkaline batteries (24 + 24, 10 years)",
+              "descripcion": "Twenty-four of each type, with a ten-year shelf life. They power the radio, the headlamp and whatever comes next."
+            }
+          ]
+        },
+        {
+          "titulo": "Information and communication",
+          "intro": "Knowing what's happening and where the rest of the family is. When the network is down, radio and paper win.",
+          "items": [
+            {
+              "producto": "FM/AM radio with hand crank, solar and USB (2,000 mAh)",
+              "descripcion": "Three ways to charge it — crank, solar panel and USB — plus a torch and SOS button. If the internet and mobile network go down, it's the only channel still broadcasting."
+            },
+            {
+              "producto": "Official Road Map 2026 (paper)",
+              "descripcion": "The official map from the Ministry of Transport: roads, towns and alternative exits. Works without batteries and without signal."
+            },
+            {
+              "producto": "Aluminium emergency whistles (5 pcs)",
+              "descripcion": "Five whistles with lanyard: they carry far further than your voice and need no power. The cheapest locator in the kit."
+            }
+          ]
+        },
+        {
+          "titulo": "Documents and money",
+          "intro": "Photocopies and some cash in small bills. Five minutes of preparation that saves you months of paperwork.",
+          "items": [
+            {
+              "producto": "Waterproof document pouch (3 pieces)",
+              "descripcion": "Watertight seal: ID card, policies, prescriptions and your phone stay dry even if the backpack ends up in a puddle."
+            },
+            {
+              "producto": "Hidden inner money belt",
+              "descripcion": "Two flat pockets worn under your clothes: cash, cards and a spare key kept close to your body. If you lose the backpack, you don't lose your papers."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene and health",
+          "intro": "What keeps a small cut from becoming a problem in a place with no running water or pharmacy.",
+          "items": [
+            {
+              "producto": "Complete Lewis-Plast first aid kit (309 pieces, European standard)",
+              "descripcion": "309 pieces compliant with the European first aid kit standard: gauze, bandages, medical tape, scissors, gloves and dressings. A real base, not a decorative case."
+            },
+            {
+              "producto": "70% alcohol hand gel (6 × 250 ml)",
+              "descripcion": "One and a half litres of 70% gel: hand hygiene without water for days. One in the backpack, one in the car."
+            },
+            {
+              "producto": "Certified FFP2 masks (50 pcs)",
+              "descripcion": "Fifty CE-certified FFP2 masks: smoke, dust and unhealthy air. The European list added them after the pandemic and they still make sense."
+            }
+          ]
+        },
+        {
+          "titulo": "Warmth and shelter",
+          "intro": "Keeping your body temperature up is what separates an uncomfortable night from a medical emergency. And wet = cold.",
+          "items": [
+            {
+              "producto": "Reusable thermal blankets 210×160 cm (5 pcs)",
+              "descripcion": "Five large blankets that retain body heat and weigh 55 g each. One per person and two spare."
+            },
+            {
+              "producto": "Unisex waterproof poncho with hood (one size)",
+              "descripcion": "Unisex ripstop poncho, 8,000 mm hydrostatic head, with hood and one size; it also works as a tarp. Covers you and your backpack."
+            }
+          ]
+        },
+        {
+          "titulo": "Tools",
+          "intro": "Open, cut, screw and light a fire. No batteries, no signal and no depending on anyone.",
+          "items": [
+            {
+              "producto": "Victorinox Spartan multi-tool pocket knife",
+              "descripcion": "Blade, saw, can opener, corkscrew and screwdrivers in 60 grams. The tool that solves what you hadn't planned for."
+            },
+            {
+              "producto": "17 cm long matches (4 boxes)",
+              "descripcion": "Four boxes of XXL matches: they light a candle or a stove without burning your fingers and cope with damp better than a lighter."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-dana": {
+      "titulo": "DANA / Flood Kit: 14 items to protect your home (2026)",
+      "resumen": "DANA Kit: 14 items to protect your home from flooding. Guide based on official Civil Protection recommendations.",
+      "coste_total": "90-160 € (in addition to the basic kit)",
+      "paraQuien": "For anyone who lives or works in Levante, the Balearic Islands, the Guadalquivir area, dry riverbed zones, ravines or watercourses with housing developments nearby. DANA is the most frequent risk in Spain: water that arrives in minutes, without enough advance warning.",
+      "paraQuien_no": "It is not suitable for the slow flooding scenario of a river in the north (there time is on your side and the priority is to shut off utilities and move things out of the house). And it does not replace the basic kit: without drinking water and food, a DANA that cuts off roads drags on.",
+      "guia": {
+        "antes": [
+          "Keep the basic 72h kit within reach",
+          "Do not leave loose objects on terraces or in gardens that could be swept away",
+          "If you live in a flood-prone area, prepare sandbags and get out of the basement",
+          "With an orange or red warning, keep alerts enabled on your phone: the new Basic Flood Guideline (BOE, 27/04/2026) consolidates ES-Alert as a direct warning channel for the public",
+          "Check the warnings before it rains, not when it is already coming down: on AEMET (aemet.es, Warnings section) or Meteoalarm, the European warning service. Civil Protection considers torrential rain to be above 60 mm/hour; with an orange or red warning, the plan for the day changes: don't go out to run errands.",
+          "Move the kit, documents and charger today to a cupboard on the highest floor. On the ground floor, in the basement or garage, they get soaked just when you need them and the water won't let you go down. It's free and takes five minutes."
+        ],
+        "durante": [
+          "Do not drive or walk through flooded areas: 15 cm of water can sweep a person away",
+          "Go up to upper floors if water enters the house; do not use the elevator",
+          "Switch off the electricity if there is a risk of contact with water",
+          "If water reaches you in the car, leave it and go up to a tall building: a car floats and is swept away by less than half a meter of moving water. Never cross an underpass, a ford or a dry riverbed, either by car or on foot: 15 cm of water can already sweep a person away.",
+          "Don't go down to the garage to move the car and don't go out to watch the floodwater: that's where serious DANA accidents happen. Stay on an upper floor with the radio on, and call or message anyone who lives alone nearby."
+        ],
+        "despues": [
+          "Don't drink tap water until you've confirmed it's safe to drink",
+          "Don't turn on lights or devices until you've checked that the wiring is dry",
+          "Photograph the damage for your insurance before you move anything",
+          "When cleaning up mud, wear an FFP2 mask, gloves and boots: dry mud gets inhaled and it comes from sewage. Open everything wide and dry out in the first 48 hours, or mold will stay in the walls and furniture.",
+          "Before drinking or cooking with tap water, check with your local council that the supply is safe: after a flood there may be a do-not-drink notice. If in the slightest doubt, bottled water or boil it for one minute."
+        ]
+      },
+      "errores": [
+        "Relying on the mobile alert and having nothing ready until it goes off. In the 2024 DANA many people had no time to spare: the kit has to be ready beforehand.",
+        "Going down to the garage or the storage room to save things once it's already raining hard. It's the classic accident.",
+        "Turning on the light or touching wet sockets: electrocution on the ground floor is one of the most common causes of death in floods.",
+        "Going back too early and walking through the mud without gloves or boots: it's full of sewage, glass and metal.",
+        "Not noting down or photographing anything: damage claims go wrong without evidence and the deadlines of the Consorcio de Compensación de Seguros keep running. Take dated photos and video from day one, including of what you throw out. And don't store the kit in the basement: the first place to flood is the worst spot for emergency supplies."
+      ],
+      "secciones": [
+        {
+          "titulo": "Personal protection against water",
+          "intro": "If you're caught out on foot or in the car, what you decide in two minutes is worth more than anything you buy afterwards.",
+          "items": [
+            {
+              "producto": "Waterproof rain jacket with hood",
+              "descripcion": "Fitted hood and sealed seams for torrential rain."
+            },
+            {
+              "producto": "Waterproof boots",
+              "descripcion": "Knee-high rubber: contaminated water, mud and sharp objects."
+            },
+            {
+              "producto": "Waterproof gloves",
+              "descripcion": "Protection when handling debris and working in water."
+            }
+          ]
+        },
+        {
+          "titulo": "Electrical safety",
+          "intro": "In a flooded home, the biggest silent risk isn't the water: it's the electricity still in the cables.",
+          "items": [
+            {
+              "producto": "LED flashlight (avoid candles: fire risk)",
+              "descripcion": "LED model with 100+ lumens. Keep spare batteries separately."
+            },
+            {
+              "producto": "Cable reel with portable RCD",
+              "descripcion": "Protection against electrocution when reconnecting power in wet areas."
+            }
+          ]
+        },
+        {
+          "titulo": "Protecting your home",
+          "intro": "Cheap, quick measures you put in place when an alert is issued, before the water arrives.",
+          "items": [
+            {
+              "producto": "Empty sandbags or flood barriers",
+              "descripcion": "Improvised water barriers at low doors and windows."
+            },
+            {
+              "producto": "Tape and plastic sheeting to seal windows",
+              "descripcion": "Sealing windows and cracks against wind-driven rain."
+            }
+          ]
+        },
+        {
+          "titulo": "Post-DANA",
+          "intro": "The days after are when injuries and illness happen: mud, damp and damaged installations.",
+          "items": [
+            {
+              "producto": "Surface disinfectant",
+              "descripcion": "DANA floodwater leaves mud mixed with sewage: disinfect everything."
+            },
+            {
+              "producto": "Shovels and buckets for removing mud",
+              "descripcion": "Remove mud and standing water after the water has passed."
+            },
+            {
+              "producto": "Dehumidifier or moisture-absorbing sachets",
+              "descripcion": "Prevents mold and structural damp after flooding."
+            }
+          ]
+        },
+        {
+          "titulo": "Communication and alerts: when the network goes down",
+          "intro": "In a DANA, coverage is the first thing to fail: if your mobile loses signal and there is no power, this is what alerts you and keeps you connected. Everything works without mobile signal or installation.",
+          "items": [
+            {
+              "producto": "Battery or hand-crank FM/AM radio with built-in flashlight",
+              "descripcion": "Mobile networks and power go out just when information is needed most. Buy a radio with a large dial, note the regional station and Radio Nacional on the cover, and test it once a month: official alerts are still broadcast on radio and over municipal loudspeakers. Keep spare batteries separately, outside the device."
+            },
+            {
+              "producto": "PMR446 walkie-talkies (pair with charger)",
+              "descripcion": "With mobile networks down, two people 300-500 m apart in a flooded town can still talk: PMR446 radios are legal in Spain without a license, with common-use channels. They are useful so one person can queue at the distribution point while the other stays with someone who cannot move. How to use them, in the PMR446 guide on the blog."
+            },
+            {
+              "producto": "External battery (power bank) 10,000-20,000 mAh, two outputs",
+              "descripcion": "Without power, your phone is your flashlight, your map and your contact with family: it runs out in hours. Charge it to 100% when the orange alert is issued and don't use it up on videos; with a small solar panel or the car charger you can top it up again. Keep the short cable in the same bag."
+            },
+            {
+              "producto": "FFP2 mask (pack) and protective goggles for cleaning",
+              "descripcion": "Flood mud carries sewage and, when it dries, it gets inhaled: when removing mud and knocking down wet walls, wear a mask and cover your eyes. Use it on the first day, not when it already smells. If you have asthma or breathing problems, do it with another person present and take breaks."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-apagon": {
+      "titulo": "Blackout Kit: 15 items to get through a power cut (2026)",
+      "resumen": "Blackout Kit: 15 items to get through a power outage. Guide based on the EU Preparedness Strategy (2025).",
+      "coste_total": "90-200 € for the essentials; 257-525 € with all the recommended items (SAI, solar panel, fire extinguisher...) — in addition to the basic kit",
+      "paraQuien": "For everyone. On 28 April 2025 the peninsula went 12 hours or more without power: traffic lights out, ATMs closed, lifts stopped, supermarkets without card payment terminals. A long blackout is not a minor anecdote: it is a day without being able to buy, without water on upper floors and without a lift.",
+      "paraQuien_no": "It won't help if what you expect is to keep working or studying as normal: that requires the ability to generate electricity (a large panel, a home battery), which is another level of investment. And if you live on a fifth floor without a lift, bear in mind that the water you go down to fetch has to be carried back up on foot.",
+      "guia": {
+        "antes": [
+          "Charge phones and power banks daily if there is a warning of grid strain",
+          "Keep cash at home: card payment terminals don't work without power",
+          "A gas burner or camping stove to eat something hot",
+          "Put two frozen bottles of water or gel blocks inside the freezer: on the day of the outage they go into the fridge and give you hours of cold without opening the door.",
+          "Test your CO detector today with its test button and check that the fire extinguisher gauge is in the green. In a blackout there is no time to discover they don't work."
+        ],
+        "durante": [
+          "Don't use candles as your main light source: always use a flashlight",
+          "Unplug sensitive appliances to avoid surges when the power comes back",
+          "Save phone battery: calls and SMS only (the data network may go down)",
+          "No combustion appliances in a closed room: no braziers, barbecues, generators or gas stoves inside the home or garage. If you light the stove, cross-ventilate (one window and another opening) and keep the CO detector in sight.",
+          "Sort the fridge by thawing order: milk, meat, fish and cold cuts first; frozen and canned goods last. Anything already thawed gets cooked or thrown out: don't refreeze.",
+          "With a UPS, turn off the computer and leave only the router: you keep wifi while the battery lasts and avoid the voltage spike when power comes back."
+        ],
+        "despues": [
+          "Recharge everything again and restock what you used",
+          "Check food that has lost the cold chain",
+          "Before going to sleep, air out the room where you used a flame and check the CO detector and fire extinguisher again.",
+          "Restock what you used: batteries, candles, freezer gel and anything you opened from the pantry. The next outage won't warn you."
+        ]
+      },
+      "errores": [
+        "Opening the fridge every so often to see what's inside. Kept closed, a fridge holds for about 4 hours and a full freezer for up to 24-48 hours.",
+        "Lighting candles and leaving them unattended: the classic cause of home fires during blackouts. With kids, a flashlight, period.",
+        "Not unplugging appliances: when power returns, the surge can fry the fridge, the boiler or the router.",
+        "Relying on your phone having battery: during blackouts everyone calls at once and the antennas don't hold up long. Airplane mode and a full power bank.",
+        "Paying by card and discovering the card terminal doesn't work. Cash in small bills is the plan, not the detail."
+      ],
+      "secciones": [
+        {
+          "titulo": "Luz",
+          "intro": "One light per person, and not candles. Magnetic lamps hang inside the fridge or cupboard and change everything.",
+          "items": [
+            {
+              "producto": "Rechargeable LED lights with magnet (for fridge/pantry)",
+              "descripcion": "Sticks to the fridge, pantry or car hood. Hands-free."
+            },
+            {
+              "producto": "Headlamp (hands-free)",
+              "descripcion": "Lights without tying up your hands: essential for working at night."
+            },
+            {
+              "producto": "Emergency candles (backup only, with a safe candle holder)",
+              "descripcion": "Light backup, never the main source. With metal candle holder."
+            }
+          ]
+        },
+        {
+          "titulo": "Energía",
+          "intro": "Keep your phone and radio alive for 3-4 days. Large power bank, small panel to recharge it and a dynamo charger as a last resort.",
+          "items": [
+            {
+              "producto": "Power bank ≥ 20,000 mAh with AC output or USB-C PD",
+              "descripcion": "20,000 mAh external battery: 4-5 full phone charges."
+            },
+            {
+              "producto": "Portable solar panel 20-40 W",
+              "descripcion": "Recharges the power bank with sunlight. 20-40 W charges a phone in 3-4 hours."
+            },
+            {
+              "producto": "Multi-purpose dynamo charger",
+              "descripcion": "Hand crank: infinite power without sun or grid."
+            }
+          ]
+        },
+        {
+          "titulo": "Cocina sin electricidad",
+          "intro": "Being able to make a coffee or heat water makes all the difference to morale during a blackout. And it means doing it in a ventilated area: butane in an enclosed space kills.",
+          "items": [
+            {
+              "producto": "Gas camping stove with canisters",
+              "descripcion": "Hot food without electricity. Always use in a ventilated area."
+            },
+            {
+              "producto": "Portable cooler for preserves",
+              "descripcion": "Protein and calories without refrigeration. Prioritize legumes and fish."
+            },
+            {
+              "producto": "Ice packs (freezable gel blocks) for fridge and freezer",
+              "descripcion": "Keep them frozen in advance: on the day of the outage they go into the fridge, next to the most perishable items (meat, fish, dairy, cold cuts), and extend the cold hours without you having to open the door to check anything. Equivalent free trick: two frozen water bottles. And anything that has already thawed is not refrozen: cook it or throw it away."
+            }
+          ]
+        },
+        {
+          "titulo": "Safety during the outage",
+          "intro": "A blackout changes how you cook and how you light your home, and that brings two invisible risks: carbon monoxide and fire. They are two small purchases that are almost never used and that, on the day they are needed, are the only ones that matter.",
+          "items": [
+            {
+              "producto": "Battery-powered carbon monoxide (CO) detector with alarm",
+              "descripcion": "CO has no smell, is invisible and does not irritate: it causes drowsiness and headaches and, if you stay in the room, it kills you in your sleep. During a blackout people light candles, burners and braziers, and that is where it appears. Put it at head height, outside the bathroom and near the cooking area, and press the test button every time the clocks change. Non-negotiable rule: braziers, barbecues, generators and burners never in a closed room or in the garage."
+            }
+          ]
+        },
+        {
+          "titulo": "Cash and communication",
+          "intro": "Cash, a paper contact list and a radio. When everything is digital, analogue decides.",
+          "items": [
+            {
+              "producto": "Small portable safe for cash",
+              "descripcion": "Store cash and critical documents at home."
+            },
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio",
+              "descripcion": "The only source of information if internet and phone networks go down. Better with a hand crank."
+            },
+            {
+              "producto": "Small UPS (600-900 VA) for router and ONT",
+              "descripcion": "A 600-900 VA SAI keeps the router and ONT running for as long as its battery lasts (usually minutes, not hours) and, as a bonus, protects the equipment from power surges when the power comes back. Connect only the router: if you also plug in the computer or TV, the battery runs out quickly. It is not a generator: it does not power a fridge, heating or washing machine."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-coche": {
+      "titulo": "Car Kit 2026: DGT mandatory and optional items",
+      "resumen": "DGT mandatory car kit 2026: V-16 beacon, vest and all the essentials. Verified list and Amazon cart in 1 click.",
+      "coste_total": "60-120 € (not counting the V-16 beacon, which is mandatory)",
+      "paraQuien": "For drivers, which is almost all of us. Beyond what is legally required, it is what you need if you break down on a mountain pass in January, in a 6-hour traffic jam in August, or waiting for a tow truck at 3 in the morning.",
+      "paraQuien_no": "It is not a workshop kit: if you expect to change a wheel yourself or recharge a battery, you also need a jack, lug wrench and jumper cables, and to know how to use them. And it does not replace the backpack you carry inside: the car may end up where you do not want to be.",
+      "guia": {
+        "antes": [
+          "Check tires, battery and fluid levels before long trips",
+          "Check the condition of the kit at every change of season"
+        ],
+        "durante": [
+          "If you break down, signal from inside the car with the approved connected V-16 beacon: it is the only legal means from 1/1/2026 (RD 159/2021; DGT, note of 25/11/2025). Triangles are no longer valid",
+          "Do not get out of the car in snow if there is traffic: inside is safer and warmer",
+          "From 1/10/2026, when passing a vehicle stopped due to a breakdown or accident, reduce the road speed limit by at least 20 km/h and leave 1.5 m of lateral separation; in traffic jams, open a central emergency lane for ambulances and tow trucks (RD 518/2026, of 24 June, BOE-A-2026-13889, published 26/06/2026)",
+          "From 1/10/2026, wearing a seat belt is always mandatory: the reform of the General Traffic Regulations removes the exemptions for taxi drivers, delivery drivers and driving school instructors; only patients in an ambulance on emergency service are exempt (RD 518/2026, art. 119.2, BOE-A-2026-13889)",
+          "From 1/10/2026, on motorways and dual carriageways where the road is made difficult by snow, overtaking is prohibited and you must drive in the right-hand lane (the adjacent one if there are three or more), leaving the left-hand lanes free for snowploughs and emergency services (RD 518/2026, art. 32 of the General Traffic Regulations, BOE-A-2026-13889)"
+        ],
+        "despues": [
+          "Restock what you have used (batteries, water, fuel) when you get home"
+        ]
+      },
+      "errores": [
+        "Not checking the V-16 beacon: the connection expires (it usually lasts about 12 years from manufacture) and some models are not DGT-approved. Triangles are no longer valid from 1/1/2026.",
+        "Having the kit in the boot and the boot full of stuff from the last move. A covered-up first-aid kit doesn't exist.",
+        "Not checking the spare wheel or the water level: a puncture 30 km from the nearest petrol station is a problem that lasts hours.",
+        "Relying on your phone with 8% battery and no power bank in the car.",
+        "In snow, setting off without chains or not knowing how to fit them. Textile snow socks are a legal stopgap in some places and a danger in others: find out beforehand what your area allows."
+      ],
+      "secciones": [
+        {
+          "titulo": "Mandatory in Spain (DGT)",
+          "intro": "What they can require of you in an inspection or in an accident. Since 1/1/2026 the connected V-16 beacon is the only legal signalling device.",
+          "items": [
+            {
+              "producto": "Two approved emergency triangles",
+              "descripcion": "From 1 January 2026 they are no longer valid for signalling in Spain (they are replaced by the connected V-16 beacon); still useful for trips to countries outside the Vienna Convention."
+            },
+            {
+              "producto": "Approved connected V-16 beacon (the only legal means from 1/1/2026)",
+              "descripcion": "Mandatory since 1 January 2026: it replaces triangles. Only approved models connected to the DGT are valid (official list at dgt.es). Check the IDIADA/LCOE certificate engraved on the lens."
+            },
+            {
+              "producto": "High-visibility reflective vest (mandatory equipment on motorcycles)",
+              "descripcion": "From 1/10/2026, motorcycles must carry a high-visibility reflective vest among their mandatory equipment in accordance with PPE regulations (RD 518/2026, Annex XII of the General Vehicle Regulations; BOE-A-2026-13889). For the car, it is still what keeps you legal if you walk along the hard shoulder at night."
+            }
+          ]
+        },
+        {
+          "titulo": "Emergency and survival",
+          "intro": "What you need if you have to spend the night inside the car or walk to an exit.",
+          "items": [
+            {
+              "producto": "Car first-aid kit",
+              "descripcion": "Compact version of the basic first-aid kit, adapted for road traffic accidents."
+            },
+            {
+              "producto": "Thermal blanket",
+              "descripcion": "Retains 90% of body heat. Takes up the space of a pack of cigarettes."
+            },
+            {
+              "producto": "LED flashlight with magnet",
+              "descripcion": "Attaches to the hood or bodywork. Hands-free for nighttime breakdowns."
+            },
+            {
+              "producto": "Tow chain or tow strap",
+              "descripcion": "For being towed or towing with emergency loops."
+            },
+            {
+              "producto": "Snow chains or textile snow socks",
+              "descripcion": "Textile or metal. Mandatory on signposted snowy stretches."
+            }
+          ]
+        },
+        {
+          "titulo": "Power and comfort",
+          "intro": "Water, some warmth and battery. In a snowy mountain pass or a summer traffic jam, it's what keeps your spirits up.",
+          "items": [
+            {
+              "producto": "12V car power bank",
+              "descripcion": "20,000 mAh external battery: 4-5 full phone charges."
+            },
+            {
+              "producto": "Bottled water (replace every 6 months)",
+              "descripcion": "Replace every 6 months: plastic degrades with the heat in the car."
+            },
+            {
+              "producto": "Energy bars",
+              "descripcion": "Fast energy in a compact format. 400-500 kcal per bar."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-hogar": {
+      "titulo": "Home/Confinement Kit: 22 survival items (2026)",
+      "resumen": "Home kit: 22 items for confinement and household emergencies. Guide based on official sources (EU + Civil Protection).",
+      "coste_total": "210-420 € (2 people, 7-10 days, with stove, light, radio, power bank and CO detector)",
+      "paraQuien": "For anyone who wants to be covered without having to leave home: water outages, lockdowns, storms that isolate a neighborhood, or simply a week when you don't feel like or can't go out to buy supplies. It's the pantry stock, not the backpack.",
+      "paraQuien_no": "It's not for evacuation: if you have to leave in 15 minutes, this stays where it is. In that case, prepare the evacuation backpack with the essentials. And if you have a pet or baby, the reserve must include their supplies from day one, not when they run out.",
+      "guia": {
+        "antes": [
+          "Calculate water and food for everyone in the household × 3 days",
+          "If there are children, babies or pets: tailor the kit to them",
+          "Keep games or books on hand to keep morale up",
+          "Keep a manual can opener and a tested butane stove: without them, your canned food is useless",
+          "Fill at least one bathtub with water for non-drinking use (toilet cisterns, cleaning) if the outage is imminent",
+          "Test the radio, flashlight and stove once a quarter and keep spare batteries of the same size: a kit with dead batteries is not a kit",
+          "Charge the power bank and check expiry dates every six months, on the same day you change the clocks: that way you'll never forget"
+        ],
+        "durante": [
+          "Ration water if the supply is cut off",
+          "Ventilate daily if possible",
+          "Keep the official radio on at least twice a day",
+          "Open windows for 5 minutes every few hours to refresh the air: accumulated CO2 makes you sad and slow",
+          "If you light a butane stove, candle or brazier, do it with ventilation and with the CO detector on: indoors, combustion consumes oxygen and carbon monoxide gives no warning",
+          "Phone in power-saving mode and with data off; call when you have coverage and save the powerbank for the radio and flashlight"
+        ],
+        "despues": [
+          "Inventory of what has been used and immediate replacement",
+          "Replace batteries, water and food consumed the same day, not the following week: the next emergency gives no warning",
+          "Write down what you missed during those days: that list, and no other, is your shopping list for the kit"
+        ]
+      },
+      "errores": [
+        "Buying things nobody eats at home. An emergency pantry is rotated by eating it, and if you don't like it, it doesn't get rotated.",
+        "Not having a can opener: if you have 30 cans and can't open them, you don't have food, you have a gym weight.",
+        "Not having a way to cook without electricity: twenty cans and an unlit stove.",
+        "Forgetting water for use: without a tap you can't flush the toilet. Filling the bathtub in time is free.",
+        "Storing everything together in a single cupboard: if one room floods or gets damaged, you lose the entire reserve.",
+        "Not adding the household's chronic medication to the plan: two weeks' reserve of treatment is the difference between sheltering in place and having to go out.",
+        "Using the phone as a flashlight: the most expensive light is the one that leaves you without battery to call",
+        "Storing batteries inside the radio or flashlight: they corrode and ruin the device just when you need it. Keep them separate, in their packaging"
+      ],
+      "secciones": [
+        {
+          "titulo": "Water and food",
+          "intro": "The foundation of the pantry. A realistic quantity for the days you want to cover, and rotation so it doesn't expire.",
+          "items": [
+            {
+              "producto": "8 L water containers (2 per person)",
+              "descripcion": "Food-grade container for storing drinking water. Allow 3 litres per person per day."
+            },
+            {
+              "producto": "Assorted canned goods (15-20 cans)",
+              "descripcion": "Protein and calories without refrigeration. Prioritize legumes and fish."
+            },
+            {
+              "producto": "Pasta, rice and legumes in packets",
+              "descripcion": "Long shelf-life calorie base (2-3 years)."
+            },
+            {
+              "producto": "Extra pet food",
+              "descripcion": "Don't forget them: extra ration for at least 3 days."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene and cleaning",
+          "intro": "When water is scarce, hygiene is the first thing to break down and the second thing to make you ill.",
+          "items": [
+            {
+              "producto": "Hand sanitizer and soap",
+              "descripcion": "Basic hygiene without guaranteed running water."
+            },
+            {
+              "producto": "Bleach and surface disinfectant",
+              "descripcion": "DANA floodwater leaves mud mixed with sewage: disinfect everything."
+            },
+            {
+              "producto": "Toilet paper and wipes",
+              "descripcion": "If water fails, the toilet won't flush: manage waste with bags."
+            },
+            {
+              "producto": "Black waste bags (50+ units)",
+              "descripcion": "Without running water, you can't flush the toilet or wash. Sealable bags to manage waste hygienically until the tap comes back on."
+            }
+          ]
+        },
+        {
+          "titulo": "Cocina sin electricidad",
+          "intro": "If the power goes out and you can't cook, the 20 cans in the cupboard are useless without a can opener. Always have a way to prepare hot food.",
+          "items": [
+            {
+              "producto": "Portable butane stove with gas canisters",
+              "descripcion": "Heat water and cook canned food and soups without electricity. Always use it in a ventilated area."
+            },
+            {
+              "producto": "Manual can opener",
+              "descripcion": "Without electricity, an electric can opener won't work. A manual one for 5 € is the most underrated tool in the kit."
+            },
+            {
+              "producto": "Cooking pot or sturdy saucepan (to heat canned food)",
+              "descripcion": "You can heat empty cans with water and put the canned food inside (a homemade bain-marie) or use a saucepan to heat water if the power is out."
+            },
+            {
+              "producto": "Battery-powered carbon monoxide detector",
+              "descripcion": "This kit recommends a butane stove indoors: CO has no smell, is invisible and can kill while you sleep. Place it at breathing height, in the kitchen or wherever you cook, and never turn it off to save batteries."
+            }
+          ]
+        },
+        {
+          "titulo": "Health",
+          "intro": "Thermometer, antiseptic, general painkillers and whatever your doctor prescribes. With no pharmacy open, the first-aid kit is the pharmacy.",
+          "items": [
+            {
+              "producto": "Digital thermometer",
+              "descripcion": "To detect fever when you can't get to a doctor immediately."
+            },
+            {
+              "producto": "Paracetamol and ibuprofen (long expiry date)",
+              "descripcion": "Basic painkillers and fever reducers. Check the expiry date annually."
+            },
+            {
+              "producto": "FFP2 masks",
+              "descripcion": "Protection against dust, smoke or a respiratory outbreak."
+            }
+          ]
+        },
+        {
+          "titulo": "Morale",
+          "intro": "Three days without power with a child at home and nothing to do can feel long. The psychological side also needs preparing.",
+          "items": [
+            {
+              "producto": "Board games or cards",
+              "descripcion": "Morale matters: 72 hours confined can feel endless with nothing to do."
+            },
+            {
+              "producto": "Paperback books",
+              "descripcion": "Entertainment without batteries or a network."
+            }
+          ]
+        },
+        {
+          "titulo": "Ventilation and air quality",
+          "intro": "Without forced ventilation during confinement, the air gets polluted quickly. Two simple measures prevent headaches and fatigue.",
+          "items": [
+            {
+              "producto": "USB desk or floor fan",
+              "descripcion": "Moves air if heat builds up. Runs off the kit's power bank for hours."
+            },
+            {
+              "producto": "Portable CO2 or air quality monitor",
+              "descripcion": "CO2 that builds up in a closed home causes drowsiness, headaches and reduces your ability to think. A cheap sensor alerts you."
+            }
+          ]
+        },
+        {
+          "titulo": "Light, power and communication",
+          "intro": "A lockdown kit with no light and no radio depends on a phone that dies within hours. These three devices are what keep the household informed and visible when the power goes out.",
+          "items": [
+            {
+              "producto": "Battery-powered or hand-crank LED flashlight",
+              "descripcion": "Without light you can't find anything and you end up using your phone as a flashlight — the very thing you need to make calls. Keep spare batteries of the same size, stored outside the devices."
+            },
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio",
+              "descripcion": "When the mobile network goes down, the radio still broadcasts official alerts with no internet and no phone battery. Tune in the local stations before you put it away and test reception where you plan to use it."
+            },
+            {
+              "producto": "External battery (power bank), 10,000-20,000 mAh",
+              "descripcion": "With your phone at 20% you have two calls left. A charged power bank gives you several full charges and powers the radio or fan over USB. Recharge it every six months even if you don't use it."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-montana": {
+      "titulo": "Mountain kit: 15 essentials for outdoor survival (2026)",
+      "resumen": "Mountain kit: 15 essentials for outdoor survival. Navigation, shelter, water and communication with no network. Practical guide 2026.",
+      "coste_total": "105-205 € (you probably already own much of it if you run or cycle)",
+      "paraQuien": "For anyone who goes hiking, canyoning or mountain skiing. 90% of mountain rescues in Spain involve people who lost their way, got injured or were caught out by nightfall. You don't need to be an expert: going a little further than planned is enough.",
+      "paraQuien_no": "This is not high-mountain gear: for glaciers, via ferratas or overnight stays at altitude you need technical equipment and training. And if you head somewhere with no coverage, this kit won't keep you in contact: phones don't always work, and the real solution is to tell someone your route and your expected return time.",
+      "guia": {
+        "antes": [
+          "Always share your route and return time with someone",
+          "Check the weather warning (AEMET) before setting out",
+          "Download the 112 app for your region",
+          "Never wear new shoes or socks on a long hike: 74% of pilgrims on the Camino de Santiago get blisters in the first few days (Colexio de Podólogos de Galicia)"
+        ],
+        "durante": [
+          "If you get lost, stay put and make yourself visible",
+          "Ration your water and don't stray from the known route",
+          "Use trekking poles if you can: they cut impact on knees and ankles by up to 30%",
+          "If you feel rubbing: stop and apply the hydrocolloid dressing before a blister forms (Compeed, Scholl or similar)"
+        ],
+        "despues": [
+          "Replenish and check the kit after every outing",
+          "Note down what you were missing for next time",
+          "Dry and store the raincoat: moisture builds mold and it loses its waterproofing"
+        ]
+      },
+      "errores": [
+        "Going out in city clothes and trusting the weather app. In the mountains the temperature drops by 10 degrees as soon as you climb above a ravine, and fog can arrive in 20 minutes.",
+        "A single flashlight for the group, with no spare batteries, at the bottom of the backpack.",
+        "Not carrying an extra layer 'because I'm doing the route in two hours': half an hour waiting for rescue in a gully happens at zero degrees.",
+        "Drinking little and arriving at the end dehydrated and with heatstroke, especially in spring with sun and a backpack.",
+        "Relying on your phone for navigation. It runs out, gets dropped, gets wet. Map and compass, and know how to use them before you need them."
+      ],
+      "secciones": [
+        {
+          "titulo": "Agua e hidratación",
+          "items": [
+            {
+              "producto": "3 L collapsible water reservoir (HydraPak Seeker)",
+              "descripcion": "3 litres in 92 g. It fits into any gap in your pack and takes up nothing when empty. Takes 42 mm threaded filters (Katadyn BeFree) and handles hot water up to 60 °C."
+            },
+            {
+              "producto": "Water purification tablets",
+              "descripcion": "They turn stream or spring water into drinking water in 30 minutes, with no filter or battery."
+            }
+          ]
+        },
+        {
+          "titulo": "Navigation and communication",
+          "intro": "Knowing where you are and being able to call for help. A whistle can be heard much farther than your voice and doesn't tire you out. Add paracord for lashings and improvisation.",
+          "items": [
+            {
+              "producto": "Lightweight power bank + USB cable",
+              "descripcion": "20,000 mAh external battery: 4-5 full phone charges."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "It can be heard from 1 km away; your voice, from 100 meters. No batteries needed."
+            },
+            {
+              "producto": "Physical map and compass of the area",
+              "descripcion": "Classic navigation never fails. Learn to use it before you set off."
+            },
+            {
+              "producto": "Paracord 550 rope (30 m)",
+              "descripcion": "4 mm rope, 250 kg strength. Useful for lashing your backpack, improvising shelter, immobilizing or helping another walker. Not for climbing."
+            }
+          ]
+        },
+        {
+          "titulo": "Refugio y abrigo",
+          "intro": "What prevents hypothermia if you have to stop and wait for hours.",
+          "items": [
+            {
+              "producto": "Survival thermal blanket",
+              "descripcion": "Double-sided: orange to be seen, silver to retain heat."
+            },
+            {
+              "producto": "Chubasquero ligero",
+              "descripcion": "Hypothermia kills in the mountains even in summer."
+            },
+            {
+              "producto": "Warm beanie or hat",
+              "descripcion": "30% of body heat is lost through the head."
+            }
+          ]
+        },
+        {
+          "titulo": "Salud y reparación",
+          "intro": "Wound closure strips, cuts, blisters and broken gear: the small surgery of the route.",
+          "items": [
+            {
+              "producto": "Lightweight trekking first-aid kit",
+              "descripcion": "Bandages, medical tape, blister care, basic immobilization material."
+            },
+            {
+              "producto": "Sunscreen and lip balm with protection",
+              "descripcion": "SPF 50: radiation in the mountains is much higher than at the beach."
+            },
+            {
+              "producto": "Hydrocolloid blister dressings",
+              "descripcion": "64% of medical consultations among walkers are for blisters. Apply them at the first sign of rubbing, before the blister appears. Compeed or similar."
+            },
+            {
+              "producto": "Multi-tool pocket knife",
+              "descripcion": "Cuts, saws, opens cans and repairs gear. The hiker's Swiss Army knife."
+            },
+            {
+              "producto": "Emergency sewing kit",
+              "descripcion": "Needles, thread and mini scissors in a compact case. For repairing a backpack, clothing or a rain jacket torn mid-hike."
+            },
+            {
+              "producto": "Headlamp with spare batteries",
+              "descripcion": "Hands-free for walking at night or repairing gear."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-calor": {
+      "titulo": "Heat Kit / Heatwave: 7 life-saving items (2026)",
+      "resumen": "Heat kit: 7 life-saving items in a heatwave — hydration, cooling and sun protection. From 30 €, and you already have most of them.",
+      "coste_total": "30-70 € (you already have most of the items)",
+      "paraQuien": "For households without air conditioning or with power cuts during a heatwave, and for anyone who has older people, babies or people with chronic illnesses at home. Spain has weeks above 40 degrees, and heatwaves are the natural hazard that causes the most deaths, almost all preventable.",
+      "paraQuien_no": "It is not a beach or hiking kit: in those settings, what matters is shade, a hat and water. And it does not replace real prevention: if your home reaches 35 degrees at night, the kit helps, but the plan is to go somewhere cool.",
+      "guia": {
+        "antes": [
+          "Close blinds and sun-facing windows during the day",
+          "Drink water even if you are not thirsty; avoid alcohol and caffeine",
+          "Check on older neighbours and vulnerable people",
+          "Follow AEMET warnings and ES-Alert alerts on your mobile phone: the Basic Directive on adverse weather phenomena (BOE, 27/04/2026) establishes them as the main warning channel. The National Action Plan for Excess Temperatures is active from 1 June to 15 September"
+        ],
+        "durante": [
+          "Stay in the coolest room in the house",
+          "Lukewarm showers, not cold ones",
+          "If you feel dizzy, have a headache or have dry, hot skin: it could be heatstroke, call 112"
+        ],
+        "despues": [
+          "Check whether anyone's medication needs refrigeration and have a plan B"
+        ]
+      },
+      "errores": [
+        "Drinking a lot of water on its own on days with heavy sweating, without salts. Hyponatremia (low salt) causes dizziness and confusion and is mistaken for heatstroke itself.",
+        "Pulling down the blinds late. When the house is already at 33 degrees, opening south- and west-facing windows lets the heat in.",
+        "Leaving anyone in a parked car: in 15 minutes the interior rises by more than 20 degrees. Pets too.",
+        "Relying on a fan when it's over 35 degrees: it moves hot air and dehydrates you. From that point on you need to cool the body, not the air.",
+        "Ignoring the older person who lives alone and says they're fine. Heatstroke in older people causes confusion, not thirst: they don't ask for help."
+      ],
+      "secciones": [
+        {
+          "titulo": "Frescura",
+          "intro": "Cooling the body without electricity: towels, battery-powered fans and a spray bottle are worth more than they seem.",
+          "items": [
+            {
+              "producto": "Ventilador USB o a pilas",
+              "descripcion": "Moves the air when the heat is stifling. Runs on a power bank."
+            },
+            {
+              "producto": "Instant cooling towel",
+              "descripcion": "Wet it and it lowers body temperature through evaporation. Reusable."
+            },
+            {
+              "producto": "Pulverizador de agua",
+              "descripcion": "Spray cold water on the skin: immediate relief for mild heatstroke."
+            }
+          ]
+        },
+        {
+          "titulo": "Hidratación",
+          "intro": "Water plus salts, and knowing how much. An insulated bottle with ice in the morning gives you cold water at night.",
+          "items": [
+            {
+              "producto": "Steel insulated bottle (keeps cold for 12-24 h)",
+              "descripcion": "Keeps water cold for 12-24 h even at 40 degrees."
+            },
+            {
+              "producto": "Oral rehydration salts",
+              "descripcion": "They replenish mineral salts lost through sweat. What drinking water alone doesn't fix."
+            }
+          ]
+        },
+        {
+          "titulo": "Protección solar",
+          "intro": "Sunglasses, hat and sunscreen. The day-2 burns during a heatwave are from going out for 20 minutes 'to run an errand'.",
+          "items": [
+            {
+              "producto": "Protector solar SPF 50",
+              "descripcion": "Serious burns dehydrate you even more. Reapply every 2 hours."
+            },
+            {
+              "producto": "Category 3-4 sunglasses",
+              "descripcion": "Real UV protection, not cosmetic. Your eyes burn too."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-evacuacion": {
+      "titulo": "Evacuation Kit: 14 items to escape alive (2026)",
+      "resumen": "Evacuation kit: 14 items to escape alive. Lightweight backpack with the essentials in 30 seconds. Quick preparation 2026.",
+      "coste_total": "60-120 € (plus what you already have)",
+      "paraQuien": "For when they tell you 'get out of your house now' —a fire, a chemical explosion, a flash flood— and you come back in 3 days, or in a month. It's the only thing you take in your hands, so decide now what goes inside, not when the alarm sounds.",
+      "paraQuien_no": "It's not the holiday suitcase or the long-stay kit: it's designed to survive 72 hours away from home, not to live for a week in a sports centre. And if you have reduced mobility, a large pet or a baby, this backpack has to be shared out and tested beforehand.",
+      "guia": {
+        "antes": [
+          "Backpack in the hallway, always in the same place",
+          "Copy of documents in a waterproof bag",
+          "Evacuation route agreed with the family",
+          "Spare house keys in the backpack: in a panic it's the first thing people forget",
+          "Test the backpack by walking 5 km with everything inside: that's the only way to know whether it carries well and what you're missing"
+        ],
+        "durante": [
+          "Don't go back home for things you forgot",
+          "Follow only the instructions of the emergency services",
+          "If you have to move on foot, wear closed, comfortable shoes: the ground may be covered in glass and debris",
+          "If you evacuate at night or with poor visibility along an interurban road, wear the reflective item: from 1/10/2026 it is mandatory for pedestrians on the carriageway or hard shoulder (RD 518/2026, art. 123, BOE-A-2026-13889)"
+        ],
+        "despues": [
+          "Do not enter your home until you are officially authorised",
+          "Always wear protective footwear and gloves when handling debris: mud and debris after a flood or fire can be contaminated",
+          "Check the backpack every 6 months: update expired medication, food and documents"
+        ]
+      },
+      "errores": [
+        "Leaving it in the storage room or in the car: if you are evacuating at night from your bed, the backpack has to be in the hallway, hanging up, with everything inside.",
+        "Packing clothes for a month. It weighs 12 kilos, your shoulders hurt at 4 km and you end up leaving things behind along the way. 30-40 L and under 8 kg.",
+        "Not testing it: walk 5 kilometres with it one Sunday. It's the only way to know what you're missing and what you don't need.",
+        "Not including spare keys, documents and a rechargeable phone card that doesn't depend on your own line.",
+        "Forgetting small cash and a charger: in the first days, the queue to recharge your phone is the most repeated scene in any disaster."
+      ],
+      "secciones": [
+        {
+          "titulo": "Essential documentation",
+          "intro": "What can't be replaced for months: ID, deeds, policies, medical cards, on paper and on USB.",
+          "items": [
+            {
+              "producto": "Waterproof folder or pouch for documents (ID, deeds, policies, prescriptions)",
+              "descripcion": "ID, deeds, policies, health card and prescriptions in one place."
+            },
+            {
+              "producto": "Digital copy on an encrypted USB",
+              "descripcion": "Backup of scanned documents. Encrypt it with a password."
+            },
+            {
+              "producto": "Spare house keys",
+              "descripcion": "A spare set kept in the waterproof folder. In the panic of an evacuation it's the first thing people forget: you go back home and can't open the door."
+            }
+          ]
+        },
+        {
+          "titulo": "Survival 24-72 h",
+          "intro": "Water, food, warm clothing and somewhere to shelter while you are relocated.",
+          "items": [
+            {
+              "producto": "30-40 L water-resistant backpack",
+              "descripcion": "Water-resistant, with padded belt. It will carry you through 3 days."
+            },
+            {
+              "producto": "Water bottle + water purification tablets",
+              "descripcion": "They purify questionable water in 30 minutes. Vital if bottled water runs out."
+            },
+            {
+              "producto": "Dehydrated food ration",
+              "descripcion": "At least 2 rations per person in the backpack."
+            },
+            {
+              "producto": "Thermal blanket + poncho",
+              "descripcion": "A warmth and rain-protection duo in a minimal format."
+            }
+          ]
+        },
+        {
+          "titulo": "Utility",
+          "intro": "Radio to find out what's happening, a light to move around, a knife for repairs and a whistle to call for help, a first-aid kit for treating wounds, and cash to buy things when cash is all there is.",
+          "items": [
+            {
+              "producto": "Flashlight + power bank",
+              "descripcion": "Minimal power kit: to see and communicate."
+            },
+            {
+              "producto": "Pocket first-aid kit",
+              "descripcion": "Mini but complete version: gauze, antiseptic, painkillers."
+            },
+            {
+              "producto": "Cash in small notes",
+              "descripcion": "During an evacuation, ATMs don't work. 10-20 € notes."
+            },
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio",
+              "descripcion": "The only source of information if internet and phone networks go down. With a dynamo so it never goes silent."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "Three blasts are the international emergency signal. It can be heard farther than your voice and never runs out. Essential if you get trapped."
+            },
+            {
+              "producto": "Multi-tool knife",
+              "descripcion": "23 tools in a compact body: knife, saw, screwdrivers, bottle opener. Just enough for emergency repairs."
+            },
+            {
+              "producto": "Luminous or reflective element for walking at night (mandatory for pedestrians)",
+              "descripcion": "From 1/10/2026, anyone walking on the roadway or shoulder of an interurban road between sunset and sunrise, or in reduced visibility, must wear at least one luminous or reflective element in accordance with PPE regulations, visible at 150 m (RD 518/2026, art. 123 of the General Traffic Regulations, BOE-A-2026-13889). In a night evacuation after a DANA or fire, it is the difference between being seen and not."
+            }
+          ]
+        }
+      ]
+    },
+    "huerto-autosuficiencia": {
+      "titulo": "Self-Sufficient Garden: 13 tools for self-supply (2026)",
+      "resumen": "Self-sufficient garden: 13 tools to grow your own food: seeds, compost, autonomous irrigation and protection. From 50 € to get started; 300 € already set up.",
+      "coste_total": "50-200 € to start well (seeds, substrate, trays, tools) — up to 300 € with compost bin, mesh and irrigation.",
+      "paraQuien": "For those who want the next step: stop depending on the shopping cart and understand where their food comes from. Starting with a balcony and sprouts is realistic, cheap and addictive. It is also your food insurance: a few kilos of well-stored seeds provide food for a year.",
+      "paraQuien_no": "It's not a real self-sufficiency plan for a family on its own: living off a garden requires land, water, time and two or three years of learning. And if you don't even have somewhere to put a plant pot, put together the basic kit first: it's more urgent and cheaper.",
+      "guia": {
+        "antes": [
+          "Look at your space: how many hours of direct sun it gets per day (at least 4 h for tomatoes; 2-3 h is enough for lettuce and herbs)",
+          "Start with what is easy and productive: lettuce, arugula, chard, herbs, radishes",
+          "Prepare the calendar: in Spain, spring sowing runs from February to April; autumn for spinach, garlic and onions",
+          "Set up a home composter: kitchen scraps feed the garden. A 20 L bucket with a tap costs 25-35 € and prevents smells",
+          "Cover windows with aphid-proof mesh (2x8 m, 10-20 €): without protection, whitefly and thrips can destroy a balcony garden in two weeks",
+          "Check your residents' association rules or housing portal: in some buildings (especially rentals), pots are banned on balconies or shared terraces. If they are allowed, ask about maximum weight and watering.",
+          "Buy pots with saucers: the saucer catches irrigation water and prevents stains on the floor of the entrance or communal terrace. Without a saucer, no one will let you keep the garden."
+        ],
+        "durante": [
+          "Water first thing in the morning or at dusk, never in direct sun",
+          "Loose, well-draining potting mix: a pot without holes is certain death for any plant",
+          "Add fertilizer every 2-3 weeks with compost or liquid fertilizer",
+          "If you use drip irrigation, check the drippers every week: they clog easily, and a dry plant is not noticeable until it is too late",
+          "Check the aphid mesh after storms: if it is torn, replace it. A 2 cm hole is enough for whitefly to get in",
+          "If you grow in pots, renew the potting mix each season: after one season it has lost nutrients and become compacted. About 5-8 € per pot and two new harvests."
+        ],
+        "despues": [
+          "Harvest from the outside (outer leaves) so the plant keeps producing",
+          "Save seeds from your best plants for the next cycle",
+          "Note down what worked and what did not: your garden notebook is your best tool"
+        ]
+      },
+      "errores": [
+        "Starting with 20 varieties and a large garden. It gets abandoned in six weeks. Start with three things you eat: tomatoes, lettuce, herbs.",
+        "Sowing by the calendar instead of by your climate: sow when your valley's temperature allows it, not when the table says.",
+        "Using cheap discount-store potting mix or garden soil in pots: it compacts, doesn't drain and you kill the roots.",
+        "Not having a guaranteed water supply: in a balcony vegetable garden, a weekend away without watering is a dead garden.",
+        "Storing seeds without drying them and without a date: after two years nothing will germinate. Airtight jar, label, cool dark place.",
+        "Throwing kitchen scraps in the bin: a 20 L compost bin costs less than 35 € and turns that waste into free fertilizer. The right ratio is two parts browns (dry leaves, cardboard) to one part greens (food scraps).",
+        "Relying on insecticides without netting: whitefly reproduces in two weeks and insecticides kill bees. Cover first, treat afterwards."
+      ],
+      "secciones": [
+        {
+          "titulo": "To start sowing",
+          "intro": "Seeds, trays, potting mix and a meter. For less than 60 € you get half a year of salads, sprouts and well-watered cherry tomatoes.",
+          "items": [
+            {
+              "producto": "Organic seed kit (10 vegetable varieties)",
+              "descripcion": "Tomato, pepper, eggplant, zucchini and more, with certified organic seeds. The best starting point."
+            },
+            {
+              "producto": "Germination trays (pack of 5, 112 cells)",
+              "descripcion": "Seed tray to get strong plants started before moving them to pots. Reusable, recyclable material."
+            },
+            {
+              "producto": "Universal potting mix 80 L (Batlle)",
+              "descripcion": "Soil with built-in fertilizer, suitable for practically any container vegetable."
+            }
+          ]
+        },
+        {
+          "titulo": "Equipment and tools",
+          "intro": "Three quality pieces are worth more than a fifteen-piece kit that breaks.",
+          "items": [
+            {
+              "producto": "Garden tool kit (Bellota, 3 pieces)",
+              "descripcion": "Rake, transplanting trowel and hoe from a long-established Spanish brand. Just the essentials."
+            },
+            {
+              "producto": "6 L watering can with detachable rose",
+              "descripcion": "Soft rose for seedlings and a direct stream for mature plants."
+            }
+          ]
+        },
+        {
+          "titulo": "Taking it up a level",
+          "intro": "Mini greenhouse and reading when you've already killed your first tomato and want to understand why. With compost and watering, the garden goes from hobby to real production.",
+          "items": [
+            {
+              "producto": "3-tier mini greenhouse (59x39x127 cm)",
+              "descripcion": "Extends the season and protects from the cold on a balcony or terrace. Fits in any corner."
+            },
+            {
+              "producto": "Urban and organic gardening manual for beginners",
+              "descripcion": "From zero to a full garden: how to turn a terrace or garden into food, step by step."
+            },
+            {
+              "producto": "Urban Garden (Larousse)",
+              "descripcion": "The benchmark illustrated guide: sowing calendar, companion planting, pests."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-30-dias": {
+      "titulo": "30-Day Kit: 16 items for a month without supplies (2026)",
+      "resumen": "30-day kit: 16 items for a month without supplies — 180 L of water for 2, pantry, cooking and personal care without power. 300-500 € that you recoup by eating it.",
+      "coste_total": "300-500 € (2 people, and much of it is recouped by eating it)",
+      "paraQuien": "For those who have covered the 72 hours and want to take the next step: a week without being able to buy anything, a region cut off by a DANA, a long blackout or a lockdown-type event. At this stage it is no longer a backpack; it is a pantry and a plan.",
+      "paraQuien_no": "This isn't anyone's first kit: if you don't have the 72-hour kit put together, start there — it covers 95% of real scenarios and costs a fraction. And with 30 days, you don't get 30 days of medical self-sufficiency or endless water: work out how to get water and how to reach a doctor before stockpiling food.",
+      "guia": {
+        "antes": [
+          "Calculate actual consumption: 2 people, 30 days = 60 L of drinking water + 40–60 L for basic hygiene",
+          "Prioritize food you already eat: an emergency pantry you don't rotate is money thrown away",
+          "Store everything in a cool, dark, dry place; write purchase dates on each pack",
+          "Add your household-specific items to your kit: regular medication, diapers, pet food"
+        ],
+        "durante": [
+          "Start consuming by expiry date: fridge first, then freezer (if kept closed, it holds for 24–48h), then pantry",
+          "Ration water per person, not per day: 3 L/day per adult for drinking is the minimum",
+          "Cook with the stove in a ventilated area, never inside a closed room"
+        ],
+        "despues": [
+          "Restock what you consume the following week, marking the dates again",
+          "Check that cans aren't bulging or rusty and replace them",
+          "Note what was left over and what was missing: adjust quantities for the next review"
+        ]
+      },
+      "errores": [
+        "Buying 30 days of food and not being able to cook it: without gas or electricity, raw rice is decoration. Secure a cooking method and fuel first.",
+        "Not calculating water: 3 L per person per day is 180 L for two people for a month. It's what runs out first and takes up the most space.",
+        "Not rotating. A pantry you don't touch is garbage in three years; one you eat from day to day never expires.",
+        "Not accounting for the bathroom: without water, 96 rolls are not enough and hygiene becomes the household's sanitation problem.",
+        "Doing it all at once and at the worst price. Build it over 4–6 months by adding two packs per shopping trip, and it costs half as much."
+      ],
+      "secciones": [
+        {
+          "titulo": "Water (180 L for 2 people / 30 days)",
+          "intro": "The real bottleneck of the month. Large containers with a tap, rotation and a plan for making water safe to drink.",
+          "items": [
+            {
+              "producto": "8 L jugs with a dispensing tap (x8 = 64 L)",
+              "descripcion": "Bezoya 8 L with tap: convenient for dispensing. Calculate 3 L/day per person for drinking and cooking."
+            },
+            {
+              "producto": "Renew the water every 6 months",
+              "descripcion": "The jug from your local supermarket works just as well. Also store bathwater if there is advance warning."
+            }
+          ]
+        },
+        {
+          "titulo": "Non-perishable food (protein and ready meals)",
+          "intro": "What keeps you going: canned goods and ready meals that are eaten cold and need no cooking.",
+          "items": [
+            {
+              "producto": "Light tuna in water (pack of 6 cans)",
+              "descripcion": "Cheap, long-lasting protein. Multiply packs according to the days covered."
+            },
+            {
+              "producto": "Lentejas a la riojana Litoral (pack of 6)",
+              "descripcion": "A complete ready-to-eat meal; can be eaten cold if there is no way to heat it."
+            },
+            {
+              "producto": "Cocido madrileño Litoral (pack of 6)",
+              "descripcion": "Calories and protein in a single jar. A very good energy-to-price ratio."
+            },
+            {
+              "producto": "Assorted Galician preserves (12 gourmet cans)",
+              "descripcion": "Mussels, sardines, cockles… varying the flavours keeps morale up in a long crisis."
+            },
+            {
+              "producto": "Assorted pâtés (45 units)",
+              "descripcion": "Easy to eat without cooking, on toast or on its own. Long shelf life."
+            }
+          ]
+        },
+        {
+          "titulo": "Pantry basics (carbs and milk)",
+          "intro": "Rice, pasta, pulses and powdered milk. Cheap, calorie-dense and with a shelf life of years.",
+          "items": [
+            {
+              "producto": "Parboiled rice 1 kg (pack of 2)",
+              "descripcion": "The quintessential long-life food. Buy 6-8 kg for the month."
+            },
+            {
+              "producto": "Whole milk powder 1 kg (Asturiana)",
+              "descripcion": "Makes ~7 litres of milk per bag. Vitamin D and calcium without a fridge."
+            }
+          ]
+        },
+        {
+          "titulo": "Cooking and heating without electricity",
+          "intro": "A cooking method is what turns a pantry into hot meals. Always in a ventilated space.",
+          "items": [
+            {
+              "producto": "2-in-1 camping stove (large cylinder or cartridge)",
+              "descripcion": "Takes a standard butane cylinder or a small cartridge. Use only in a ventilated area."
+            },
+            {
+              "producto": "Butane gas heater (Orbegozo 4200 W)",
+              "descripcion": "For the cold during a winter blackout. Triple safety system. Always ventilate."
+            },
+            {
+              "producto": "2-person emergency tent",
+              "descripcion": "If the home becomes uninhabitable, or to isolate a room and retain body heat."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene and health",
+          "intro": "Paper, soap, a complete first-aid kit and vitamins. What keeps health and morale going for weeks.",
+          "items": [
+            {
+              "producto": "Complete first-aid kit, 222 pieces",
+              "descripcion": "Dressings, bandages, antiseptics, gloves, medical tape. The health basics for 30 days."
+            },
+            {
+              "producto": "Toilet paper, 96 rolls (Scottex)",
+              "descripcion": "It is one of the first things to disappear from supermarkets at any warning."
+            },
+            {
+              "producto": "Multivitamins, 450 tablets",
+              "descripcion": "Covers gaps if your emergency diet is monotonous (no fresh fruit or vegetables)."
+            },
+            {
+              "producto": "Organic spirulina + chlorella (500 tablets)",
+              "descripcion": "Nutrient-dense superfood, high in protein and micronutrients, with a very long shelf life."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-bebe": {
+      "titulo": "Baby Kit: 32 essentials to protect your child (2026)",
+      "resumen": "Baby kit: 32 emergency items — feeding without power, hygiene, warmth and documents. From 90 €; you already have most of it: rotate, don't duplicate.",
+      "coste_total": "90-170 € (much of it is what you already use daily: rotate it, don't duplicate it)",
+      "paraQuien": "Households with babies aged 0-18 months, and also anyone expecting one: it takes two afternoons to put together and pays off just as much in everyday use. If you breastfeed, much of this kit is extra peace of mind; if not, it's essential.",
+      "paraQuien_no": "If your child already eats everything on their own, the basic kit plus two or three things from here (snacks, entertainment, warmth) is enough. This kit is designed for infants, not older children.",
+      "guia": {
+        "antes": [
+          "Write down on paper the baby's medication/feeding schedule and your paediatrician's phone number: in an emergency, not knowing what they take is a mess",
+          "Keep a bottle and a training cup that you never use: they're spares, so they're not in the dishwasher on the day you need them",
+          "Keep photocopies of the baby's ID/health record and vaccination card in the waterproof pouch",
+          "Talk to your family: who takes the baby if you have to evacuate quickly? Decide roles now",
+          "Write the opening date on the lid of the formula tin and set a reminder for 25 days: once opened, it should be used within about 4 weeks (as stated by the manufacturer); it won't last until the printed expiry date. Rotating it is what makes the kit work."
+        ],
+        "durante": [
+          "With a baby in your arms, the evacuation backpack is split: someone carries the child, you carry the baby's 24-hour bag",
+          "If you're not sure you'll be able to breastfeed calmly, express milk with a manual pump in the first few days so you don't lose your supply",
+          "Watch the baby's temperature: without power there's no room thermometer, feeling the back of the neck and chest is misleading, use the thermometer from the first-aid kit",
+          "Doubtful water for the bottle: boiling isn't always possible — purify and cool, or use low-mineral bottled water kept in reserve for infant feeding",
+          "Powdered formula: prepare it just before feeding (AESAN recommends using it within 2 hours) and throw away any leftover from a bottle the baby has already fed from. With ready-to-use liquid formula, you don't have that clock.",
+          "If you can't boil: sterilize with cold-water sterilizing tablets and rinse with drinking water. And if the baby is under 28 days old, was born premature or with low birth weight, AESAN says to use boiled water and add the powder to water above 70 °C (check the label and with your pediatrician)."
+        ],
+        "despues": [
+          "Check for bumps and knocks: babies can't tell you, so any unusual change in behavior or sleep means see the pediatrician",
+          "Restock what was used the same day: a diaper and milk reserve that isn't replenished is a half-finished kit",
+          "If the crisis was long, ask your health center to check your vaccination card and bring it up to date if needed",
+          "Restock with the current size and dose, not those in the kit: the baby changes every month. And if during those days there was fever, vomiting or fewer wet diapers than normal, tell your pediatrician before considering the episode over."
+        ]
+      },
+      "errores": [
+        "Not having RESERVE FORMULA: milk supply drops with stress and without 2-3 days' formula, that causes double the anxiety. Even if you breastfeed, put 400-800 g of formula on the list.",
+        "Relying on always being able to boil water: without gas or electricity you can't sterilize bottles — you need a dedicated drinking-water bag and a cup, not just a bottle.",
+        "Not counting diapers: a baby uses 6-8 diapers a day. 72 hours is ~20 diapers: a small bag that almost nobody includes.",
+        "Keeping a new puree the baby has never tried: in an emergency, give food you already know they tolerate.",
+        "Forgetting the 'next size up' coat: the baby grows and the coat outfit in the kit becomes too small at 3 months without anyone noticing.",
+        "Keeping the bottle the baby hasn't finished for the next feed. With powdered formula you throw away what's left: it's the most common mistake in an emergency and the one that causes the most gastroenteritis in a baby.",
+        "Leaving liquid formula in the trunk or storage room: heat degrades it before the expiry date. Powder, however, does not go in the fridge (moisture makes it clump): cool and dry, not cold."
+      ],
+      "secciones": [
+        {
+          "titulo": "Water and food without electricity",
+          "intro": "Bottles and baby food require safe water and temperature. Without electricity or gas, you get this with your own reserve and a small butane heater.",
+          "items": [
+            {
+              "producto": "Low-sodium water for breastfeeding (pack 6 × 1.5 L)",
+              "descripcion": "For preparing baby bottles without purifying the water: look for low mineral content (sodium <20 mg/L), the type recommended for infants."
+            },
+            {
+              "producto": "Water purification tablets suitable for infants",
+              "descripcion": "Plan B for tap or rain water when bottled water runs out. Only use them with clear water and leave the full resting time."
+            },
+            {
+              "producto": "Baby bottle warmer without gas or electricity (chemical/self-heating)",
+              "descripcion": "Bags that warm a bottle in minutes without fire. For lukewarm porridge and water at the right temperature in a car or a sports centre."
+            },
+            {
+              "producto": "Small wide-mouth flask (350-500 ml)",
+              "descripcion": "Keeps water hot for mixing porridge or warming the bottle for hours. Wide mouth: easy to clean and easy to fill with a spoon."
+            },
+            {
+              "producto": "Cold thermal bottle (500 ml)",
+              "descripcion": "Safe cold water for the baby during a heatwave, and to keep expressed milk for a few hours if there is no fridge."
+            }
+          ]
+        },
+        {
+          "titulo": "Leche y comida de reserva",
+          "intro": "Even if you breastfeed: stress and exhaustion can reduce supply just when there is nowhere to buy. The reserve is insurance, not a doubt about your breastfeeding.",
+          "items": [
+            {
+              "producto": "Follow-on formula milk (400-800 g tin)",
+              "descripcion": "A 2-3 day reserve even if you breastfeed. Check the expiry date every 6 months and rotate it by using it in porridge or cooking."
+            },
+            {
+              "producto": "Instant cereal/porridge (2 boxes)",
+              "descripcion": "They are made with lukewarm or cold water, go a long way and need no cooking. The one your baby already has: don't try a new brand during the emergency."
+            },
+            {
+              "producto": "Fruit and vegetable jars (pack of 6-8)",
+              "descripcion": "Real food without cooking, with a long date. If they already eat purées, they are your kit and their dinner in a blackout."
+            },
+            {
+              "producto": "Sacaleches manual",
+              "descripcion": "No batteries or electricity, it keeps supply going and prevents painful engorgement if the baby cannot feed well (floor, car, field hospital)."
+            },
+            {
+              "producto": "Breast milk storage bags (pack of 30-50)",
+              "descripcion": "For expressing and storing with the date. Without a freezer they last a few hours in a cool bag with ice packs."
+            }
+          ]
+        },
+        {
+          "titulo": "Higiene y pañales",
+          "intro": "When running water is unavailable, baby hygiene is the first thing to become difficult. Everything in this section fits in a 5-liter waterproof bag.",
+          "items": [
+            {
+              "producto": "Spare diapers (current size, pack of 20-25)",
+              "descripcion": "6-8 a day: 20 diapers are 3 days. Write the size and date on the bag; a baby will outgrow the size before you move house."
+            },
+            {
+              "producto": "Cleaning wipes (pack of 3-5)",
+              "descripcion": "Duo packs: diaper and face without water. In an emergency you use more than you think: seal the pack well or they dry out in a week."
+            },
+            {
+              "producto": "Waterproof bags for dirty clothes and diapers (pack)",
+              "descripcion": "One for dirty items, one for clean clothes. Without a washing machine and with a child, keeping clean and dirty separate is worth its weight in gold."
+            },
+            {
+              "producto": "Portable folding changing mat",
+              "descripcion": "A thin foam mat: it wipes clean, dries, and on the floor of a sports hall or car it saves you half a dozen arguments."
+            },
+            {
+              "producto": "Barrier cream for diaper rash",
+              "descripcion": "With a diaper on all day and limited water, diaper rash appears within 48 h and nobody sleeps well."
+            },
+            {
+              "producto": "Mild soap bar + sponge",
+              "descripcion": "It goes further than liquid soap when water is scarce and also works for washing bottles and little hands."
+            }
+          ]
+        },
+        {
+          "titulo": "Warmth and sleep",
+          "intro": "A baby loses heat five times faster than an adult. Without light or heating, this section is the one that prevents an emergency.",
+          "items": [
+            {
+              "producto": "Warm one-piece sleep sack/pajamas (current size + one spare)",
+              "descripcion": "Better than loose blankets: it doesn't come off while they sleep and leaves your hands free for babywearing."
+            },
+            {
+              "producto": "Child emergency thermal blanket (or small fleece blanket)",
+              "descripcion": "Don't leave the silver thermal blanket loose near the face: use it under the normal blanket or as a wind barrier in the carrycot."
+            },
+            {
+              "producto": "Baby hat and mittens",
+              "descripcion": "They lose heat through their head that they cannot compensate for. At home with no heating at 16 °C, the baby sleeps with a hat."
+            },
+            {
+              "producto": "Ergonomic baby carrier (sling or Mei Tai)",
+              "descripcion": "Hands free for the flashlight, backpack and door. In an evacuation, a baby carrier is worth more than a stroller: there are no elevators or sidewalks."
+            }
+          ]
+        },
+        {
+          "titulo": "Health and calm",
+          "intro": "The baby's first-aid kit plus whatever keeps a small child's spirits up for 48 hours shut in or in a strange place.",
+          "items": [
+            {
+              "producto": "Digital baby thermometer",
+              "descripcion": "Yours will do, but keep it dedicated: with no light and a scare, being able to take a temperature in 10 seconds saves a night of doubt."
+            },
+            {
+              "producto": "Oral rehydration solution and dosing syringe",
+              "descripcion": "With vomiting or diarrhea from bad water, a baby dehydrates fast: early hydration and see the pediatrician. Follow your pediatrician's or nurse's guidance, not the internet."
+            },
+            {
+              "producto": "Nasal aspirator + single-dose saline solution",
+              "descripcion": "Babies can't blow their noses themselves: with mucus they won't eat or sleep. And saline works for eyes, wounds and general cleaning."
+            },
+            {
+              "producto": "Favorite small toys (2-3, in a waterproof bag)",
+              "descripcion": "The usual ones, not new: in a strange place with strange lights, what's familiar is what calms the baby."
+            },
+            {
+              "producto": "Trusted blankets/cloth pads",
+              "descripcion": "That little blanket that smells of home. If it gets lost in an evacuation it's a three-hour drama: keep an identical one in the kit."
+            }
+          ]
+        },
+        {
+          "titulo": "Documents and identification",
+          "intro": "A baby doesn't carry an ID, can't say their name and has no visible health card of their own. Their whole identity fits in a waterproof pouch.",
+          "items": [
+            {
+              "producto": "Waterproof pouch with the health record book, vaccination card and the baby's ID/passport",
+              "descripcion": "Photocopies + originals if you have them. With a small child and no safety net, a piece of paper with their date of birth and allergies solves a lot."
+            },
+            {
+              "producto": "Child ID card (name, date of birth, blood type, allergies, contacts)",
+              "descripcion": "A laminated card in the backpack and a recent printed photo of the child. If they get separated from you during an evacuation, this is what identifies them."
+            },
+            {
+              "producto": "Recent printed photos of the baby and the family",
+              "descripcion": "It sounds old-fashioned and it works: in a shelter, a photo in your wallet is worth more than a phone with no battery."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-mayores": {
+      "titulo": "Senior Kit: 27 items to protect people who depend on others (2026)",
+      "resumen": "Senior kit: 27 items for people who depend on others — chronic medication, assistive devices, fall prevention and adapted food. From 60 €, not counting prescription.",
+      "coste_total": "60-120 € (not including the medication itself, which is prescription-only)",
+      "paraQuien": "Households with people aged 70 or over, especially if they live alone, take chronic medication or rely on hearing aids, glasses or assisted mobility. A family member puts it together in an afternoon and it is checked against the prescription folder.",
+      "paraQuien_no": "It does not replace telecare or the carers' plan: it is equipment, not a service. And if the person needs daily health care (oxygen, dialysis), the plan is discussed with their health centre, not with this list.",
+      "guia": {
+        "antes": [
+          "Make the medical ID card with the person: illnesses, medication with doses, allergies, doctor, contacts. It is updated every 6 months at the review.",
+          "Ask the doctor or nurse for a 2-week plan of chronic medication: in Spain, the electronic prescription allows most treatments to be collected in advance; your doctor will tell you how.",
+          "Practise using the card and the telecare phone number with the person, not just in front of them: in an emergency, 'they already know' is not enough.",
+          "Agree with neighbours and family who calls whom and what warning signal you use (call, message, knocking on the wall: during power cuts some people use a whistle).",
+          "Count how many times they get up at night to go to the toilet: if it is more than once, the urinal with a handle, a night light in the hallway and a non-slip mat come before any other product on the list.",
+          "Keep the medication in a bag with a handle that the person can hang over their shoulder, not in stacked boxes: when leaving quickly, people only grab what they can pick up with one hand."
+        ],
+        "durante": [
+          "Medication first: if you have to decide, chronic treatment is not skipped; the kit's reserve is for that.",
+          "With hearing aids without batteries or broken glasses, the person becomes isolated and disoriented: check that they can hear and see before anything else.",
+          "Heat or cold: older people regulate temperature worse and don't notice thirst. In a heatwave with no power, keep water in sight and set a drinking schedule, even if they don't ask.",
+          "Don't let them make decisions alone if they are confused: heatstroke and dehydration cause confusion before weakness sets in.",
+          "Without a washing machine or hot water, incontinence is the day-2 problem: use incontinence pads and a separate bag for dirty clothes. Don't hand-wash with your reserve water: that water is for drinking.",
+          "If the phone fails and she lives alone, a whistle and rhythmic knocks on the wall are how a neighbor can locate her. Agree this beforehand with the neighbor and with her, using a specific signal (three knocks, pause, three knocks)."
+        ],
+        "despues": [
+          "Check used-up medication and restock the kit the same day with the prescription.",
+          "Check hearing aid batteries, pacemaker if applicable, and flashlights: after a scare, many things get used without being replaced.",
+          "Talk to the health center if treatment was interrupted: sometimes it has to be prescribed again.",
+          "Encourage them to talk about what they went through: after a long emergency, an older person's emotional crash is as real as a burst pipe.",
+          "Check the skin in folds and pressure areas if they have been unable to wash for more than 24 hours: any irritation or red area that doesn't recover should be discussed with their nurse or doctor, not treated at home.",
+          "Write down which product was actually missing and restock it that same day: the kit is corrected by what was used, not by what you thought you would use."
+        ]
+      },
+      "errores": [
+        "Not having 2 weeks of reserve chronic medication. That is THE mistake: after a disaster, the pharmacy opens late or doesn't open, and stopping anticoagulants, antihypertensives or insulin is an emergency.",
+        "Forgetting hearing aid batteries: without hearing, the person doesn't hear the radio, doesn't understand the warning and doesn't ask for help. A blister pack of spare batteries in every kit.",
+        "Trusting the mobile phone: small screens, small print and no one to help them dial. A landline without electricity still works (analog ones do), and paper contacts don't run out.",
+        "Not preparing for a fall: without power, a carpeted hallway with no night light is a broken hip. LED night lights cost 10 € and prevent 50% of the scenario.",
+        "Store everything in the high kitchen cupboard. If you evacuate, the oldest person's 24-hour bag must be within easy reach, with their name and contact details.",
+        "Do not overlook incontinence. Without a washing machine or hot water, a single day without enough spare supplies forces a choice between hygiene and drinking water. It can be sorted with 15-30 € in the cupboard long before it is needed."
+      ],
+      "secciones": [
+        {
+          "titulo": "Medication and chronic conditions",
+          "intro": "The heart of this kit. Three things: a 2-4 week supply, a copy of the medication schedule and a way to keep anything that needs cold at the right temperature.",
+          "items": [
+            {
+              "producto": "Weekly pill organizer (pillbox) with a copy of the medication schedule",
+              "descripcion": "Filled from the kit's reserve. If another person has to administer the medication, the pillbox + the record card prevent mistakes."
+            },
+            {
+              "producto": "Laminated medical identification card",
+              "descripcion": "Medical conditions, treatment with doses, allergies, blood type, doctor, contacts. One copy in your wallet, another in your backpack, another on the fridge."
+            },
+            {
+              "producto": "Small cooler with reusable ice packs",
+              "descripcion": "For insulin and medication that needs to be kept cold: with spare frozen packs it lasts 24-36 h. Check with your pharmacist which medications need it."
+            },
+            {
+              "producto": "Fridge thermometer (min/max)",
+              "descripcion": "2-4 °C or throw it away. A 4 € thermometer tells you whether the insulin is still valid after the power outage."
+            },
+            {
+              "producto": "Water purification tablet and measuring cup for medication",
+              "descripcion": "For taking tablets with safe, measured water. A small detail you'll appreciate on day 2."
+            },
+            {
+              "producto": "Battery-powered upper-arm blood pressure monitor with memory",
+              "descripcion": "If someone in the household has diagnosed high blood pressure, the plug-in one is useless in a power outage. This one runs on batteries and stores the latest readings, so you can write them on the record card. Your doctor or nurse decides what values are normal and when to measure: this section only covers the device."
+            }
+          ]
+        },
+        {
+          "titulo": "Senses and assistive devices",
+          "intro": "Hearing aids, glasses, pacemakers, prostheses: if these fail, everything else in the kit becomes useless, because the person cannot hear the alert or see the door.",
+          "items": [
+            {
+              "producto": "Spare hearing aid batteries (blister × 3, with date)",
+              "descripcion": "Hearing aid batteries run down and expire. Sealed blister with the date written on it: no batteries, no hearing, no communication."
+            },
+            {
+              "producto": "Spare prescription glasses",
+              "descripcion": "An old pair of glasses in good condition or your prescription written down so you can order another pair. They fall and break right then; with the prescription in the drawer, half an hour at an online optician."
+            },
+            {
+              "producto": "Denture box + adhesive and a cup with a lid",
+              "descripcion": "If they wear dentures: without spare adhesive and without a cup to keep them in overnight, they don't eat. A detail nobody considers."
+            },
+            {
+              "producto": "Folding cane / spare walker with light",
+              "descripcion": "The cane stays in the other room when you need it. A light one in the hallway with built-in night light."
+            },
+            {
+              "producto": "Magnet or safety pouch for pacemaker (device information and card)",
+              "descripcion": "The pacemaker card with model, center and phone number goes in the document sheet. In MRIs, CT scans and rescues, they ask for it and can't find it."
+            },
+            {
+              "producto": "Engraved medical ID bracelet or necklace (name, phone, allergies)",
+              "descripcion": "With cognitive impairment or disorientation, in an evacuation the first thing lost is the wallet with the papers. An engraved bracelet or necklace with name, a relative's phone number and allergies can be read without unlocking anything or opening any pocket, and it doesn't expire or run out of battery."
+            }
+          ]
+        },
+        {
+          "titulo": "Falls, night-time and safety at home",
+          "intro": "A blackout doesn't kill an older person: the rug in the dark and the bathroom at night do. 20 € on a night light and a non-slip mat change the prognosis.",
+          "items": [
+            {
+              "producto": "Sensor LED night lights (pack of 2-3)",
+              "descripcion": "They plug into the hallway and bathroom sockets and run on an internal battery: with no power, they light up without pressing anything. The night-time fall is THE avoidable accident."
+            },
+            {
+              "producto": "Bedside flashlight with cord/large handle",
+              "descripcion": "The big, easy ones, not the small one in the drawer: with clumsy hands or in the dark, it should be findable and turn on by itself."
+            },
+            {
+              "producto": "Non-slip bath mat and support grab rail",
+              "descripcion": "Without hot water and with buckets around, the bathroom becomes an ice rink. 20 € and an afternoon of DIY."
+            },
+            {
+              "producto": "Emergency whistle on keyring/bracelet",
+              "descripcion": "If they can't shout or the mobile phone doesn't work, a whistle is heard through walls much more than a voice. Teach them to use it beforehand."
+            }
+          ]
+        },
+        {
+          "titulo": "Comunicación y compañía",
+          "intro": "That they can call for help and that someone knows they are alone. Half the danger for an older person in an emergency is that nobody misses them for hours.",
+          "items": [
+            {
+              "producto": "Battery-powered FM radio with high volume and large dial",
+              "descripcion": "Official information without relying on your phone. Practise using it once a month so it doesn't become an unfamiliar object."
+            },
+            {
+              "producto": "Contact sheet on paper in large print (112, family, doctor, neighbor, pharmacy)",
+              "descripcion": "Taped to the fridge and the bedside table. A phone with the numbers saved is useless if they don't know how to unlock it or can't find it."
+            },
+            {
+              "producto": "Neighbor agreement with a warning call/knock",
+              "descripcion": "A designated neighbor calls or stops by every morning during a crisis. It's not an object; it's the most effective measure on the whole list: write it down on the record sheet."
+            },
+            {
+              "producto": "Playing cards, a large-print book or a radio with a speaker",
+              "descripcion": "Three days shut in without company are easier with something to do. And morale is health too: it shows in who eats and who doesn't."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene, incontinence and cold",
+          "intro": "Without a washing machine and without hot water, what at home would be solved with one wash becomes the problem of day 2. Here are the three things that preserve the most dignity and protect the skin best in an older person when services are out.",
+          "items": [
+            {
+              "producto": "Incontinence underpads and diapers (pack for 3-5 days)",
+              "descripcion": "If there is incontinence, it's the first thing to run out and the last thing you can improvise: without a washing machine, without hot water and with the bathroom dark, there's no homemade replacement. Size and absorbency should be adjusted with their nurse or at the pharmacy, not by guesswork."
+            },
+            {
+              "producto": "Bedpan or urinal with a handle",
+              "descripcion": "With reduced mobility or no light, the nighttime trip to the bathroom is the expected fall. A bedpan with a handle and a night light are enough so they don't have to get up in the dark. Empty and clean it with cleaning water, never with the reserved drinking water."
+            },
+            {
+              "producto": "Aluminized emergency thermal blanket (pack of 2)",
+              "descripcion": "Older people lose heat faster and notice it less. The gold blanket doesn't give off heat by itself: it reflects the body's heat. It works much better inside a normal blanket, not on its own on top. It costs less than a coffee and fits in any drawer."
+            }
+          ]
+        },
+        {
+          "titulo": "Texture-modified food and hydration",
+          "intro": "Without a kitchen, without knives and sometimes without dentures: the kit food must be something that person can eat given the state of their mouth and their strength.",
+          "items": [
+            {
+              "producto": "Ready-to-eat soft food (purees, adult pureed food pots, creamed foods in tubs)",
+              "descripcion": "If they have chewing problems, a can of preserved food is no good: purees and adult pureed pots can be eaten straight from the pot."
+            },
+            {
+              "producto": "Protein/fortified shakes (pack of 8-12)",
+              "descripcion": "Calories and protein without cooking or chewing. In a 3-day crisis this is what keeps an older adult's weight stable."
+            },
+            {
+              "producto": "Thickeners for liquids (if dysphagia has been diagnosed)",
+              "descripcion": "Someone with dysphagia, in an emergency, swallows air along with the drink and chokes. Follow their speech therapist/doctor's guidance: only your professional can prescribe this."
+            },
+            {
+              "producto": "Bottle with handle and easy-drink spout + cup with lid",
+              "descripcion": "Drinking unaided, without spilling, using one hand. Dehydration in older adults appears without thirst: keep water within reach and easy to use."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-mascotas": {
+      "titulo": "Pet Kit: 23 items to protect your animal (2026)",
+      "resumen": "Pet kit: 23 items to protect your animal in emergencies. Food, identification and first aid.",
+      "coste_total": "€40-90 (€20-40 if you already have a carrier and bowl)",
+      "paraQuien": "For any home with a dog or cat. In an evacuation due to fire, flood or smoke, the animal cannot stay behind and there isn't always room for it: the difference between taking it with you and losing it is having the carrier and leash findable within 30 seconds.",
+      "paraQuien_no": "This is not a kit for leaving the animal alone at home for three days: an animal cannot manage itself like a pantry. If your emergency plan involves leaving and abandoning it, that plan doesn't work.",
+      "guia": {
+        "antes": [
+          "Keep the carrier and leash in the same place as your emergency backpack, not in the storage room",
+          "Work out the water: about 50-60 ml per kilo per day (a 15 kg dog drinks almost 1 litre a day; a cat, 200-300 ml)",
+          "Keep a paper copy of the vaccination record and the microchip number: they ask for it at a shelter or refuge",
+          "Take a recent photo of the animal with you and keep it on your phone and on paper: it's what proves the animal is yours",
+          "If your dog needs a muzzle because of a potentially dangerous breed, keep it next to the leash: without it they won't let it on certain types of transport"
+        ],
+        "durante": [
+          "Animals sense fear: speak normally, don't pick it up if it's large, put it in the carrier without fuss",
+          "Offer water every 2-3 hours; stress dehydrates more than heat",
+          "Don't improvise with human food: sudden diet changes cause diarrhoea right when there's no vet",
+          "If there's smoke or gas, wet a towel and cover its snout without fully covering the nose"
+        ],
+        "despues": [
+          "Refill the animal's water the same day: it's the first thing drunk and the most often forgotten",
+          "Check legs and pads (glass, staples, burns) when you get home",
+          "Wait a few days before bathing it: its own scent gives it a sense of security in a new place",
+          "Note what it lacked (food it didn't like, uncomfortable bowl) and fix it before next time"
+        ]
+      },
+      "errores": [
+        "Thinking the animal will eat when it's hungry. A scared dog or cat leaves the kibble. Offer it wet food and sit with it; don't leave it alone with a bowl.",
+        "Taking it without a carrier 'because it's very good.' A scared cat and dog bite and run off; in an evacuation, a loose animal is a lost animal.",
+        "Forgetting the animal's water in the count. The family calculates 3 liters per person and forgets that the dog is another consumer.",
+        "Not carrying the vaccination record: without vaccines they won't accept it in shelters or boarding facilities, and it may not be able to pass certain checks.",
+        "Leaving it at home with water and food for 'two days.' With no ventilation, no shops and a damaged building, two days can be the last days before it falls off the list of things that are fine."
+      ],
+      "secciones": [
+        {
+          "titulo": "Water and food for 72 hours",
+          "intro": "What your animal drinks and eats for three days. With no shops open and no fridge.",
+          "items": [
+            {
+              "producto": "Water for the animal (reserved 8 L container)",
+              "descripcion": "A medium dog drinks about 1 liter a day and a cat about 250 ml. The container is separate from yours: don't compete for water."
+            },
+            {
+              "producto": "Extra pet food (kibble or cans for 72 h)",
+              "descripcion": "A closed reserve in plain sight, not half an open sack. Kibble or cans, whatever it already eats: an emergency is not the time to change diet."
+            },
+            {
+              "producto": "Collapsible travel food and water bowls",
+              "descripcion": "They take up no space and stop it drinking from a dirty makeshift bowl. With them you can give it water at a stop in the car."
+            },
+            {
+              "producto": "Wet canned food (adds water and it will eat it when stressed)",
+              "descripcion": "A scared animal rejects dry kibble but usually accepts canned food. The moisture helps it hydrate without drinking."
+            }
+          ]
+        },
+        {
+          "titulo": "Llevártelo contigo",
+          "intro": "If you have to leave in a hurry, this is what decides whether it comes with you.",
+          "items": [
+            {
+              "producto": "Rigid carrier or transport crate",
+              "descripcion": "With a door that closes securely. A loose cat in an evacuation won't be recovered: it hides under the first car."
+            },
+            {
+              "producto": "Spare leash and harness",
+              "descripcion": "With the leash on and a second one as backup. In panic a dog breaks its usual leash and runs toward the road."
+            },
+            {
+              "producto": "Muzzle (if required or if he's nervous around strangers)",
+              "descripcion": "Required for PPP breeds and necessary if he's going to be surrounded by frightened people. A muzzled dog can get on any transport."
+            },
+            {
+              "producto": "Blanket or towel with his home scent",
+              "descripcion": "A new place is a threat to an animal; his blanket is the only sign that he's safe. It also works as a coat."
+            },
+            {
+              "producto": "Padded carrier bag (for small animals)",
+              "descripcion": "A lightweight alternative to a rigid carrier for rabbits, guinea pigs or small puppies."
+            }
+          ]
+        },
+        {
+          "titulo": "Health and paperwork",
+          "intro": "What lets you get through a checkpoint, a shelter or a border with him.",
+          "items": [
+            {
+              "producto": "Vaccination card and a copy of the microchip in a waterproof folder",
+              "descripcion": "Up-to-date vaccinations and microchip number: it's the document that proves the animal is yours. On paper, because your phone can run out of battery."
+            },
+            {
+              "producto": "The animal's chronic medication (30 days)",
+              "descripcion": "Insulin, heart medication, anti-epileptics, antiparasitic. If the animal takes something daily, the backpack holds a month, not a week."
+            },
+            {
+              "producto": "Basic veterinary first-aid kit (gauze, saline, povidone-iodine, bandages)",
+              "descripcion": "Cuts on paws, burns or irritation of eyes and ears. Saline solution cleans wounds and eyes without causing damage."
+            },
+            {
+              "producto": "Digital thermometer (shared with the general first-aid kit)",
+              "descripcion": "It works for the animal and for people. Fever or hypothermia are measured the same way."
+            }
+          ]
+        },
+        {
+          "titulo": "Hygiene and rest",
+          "intro": "Living with him for three days in an enclosed space without it being too noticeable.",
+          "items": [
+            {
+              "producto": "Waste bags (50+ units)",
+              "descripcion": "The same ones you use at home, but with a reserve: you won't be able to go down to the street for bags."
+            },
+            {
+              "producto": "Litter tray and cat litter (or pee pads)",
+              "descripcion": "A stressed cat without a tray holds its urine and ends up at the vet. The disposable tray lasts two days."
+            },
+            {
+              "producto": "Absorbent pee pads",
+              "descripcion": "For transport or the shelter: they protect the boot and surfaces if he can't hold it."
+            },
+            {
+              "producto": "Cleaning wipes",
+              "descripcion": "Paws, stuck-on litter and dirty fur without needing water. They work for him and for you."
+            }
+          ]
+        },
+        {
+          "titulo": "Identification and calm",
+          "intro": "If he gets loose or if you have to go to different places, this is what lets him come back.",
+          "items": [
+            {
+              "producto": "ID tag with your phone number engraved",
+              "descripcion": "A microchip has to be read with a scanner; anyone can read a tag. In an emergency with overwhelmed staff, the tag is faster."
+            },
+            {
+              "producto": "Recent photo of the animal with you (paper and phone)",
+              "descripcion": "It is the most effective proof of ownership when there are no documents and whoever picks it up doesn't know you."
+            },
+            {
+              "producto": "Toy or familiar object (2-3)",
+              "descripcion": "An animal that doesn't sleep and won't stay still is a problem in a shelter. Its toy calms it more than any command."
+            }
+          ]
+        },
+        {
+          "titulo": "Plan B: who looks after it if you can't",
+          "intro": "The part almost nobody writes about and the one that actually gets used the most.",
+          "items": [
+            {
+              "producto": "Agreement with a trusted person (with keys and the animal's record card)",
+              "descripcion": "I'm in hospital, away or can't get there: someone with keys who knows where the food and carrier are and who knows the plan."
+            },
+            {
+              "producto": "List of boarding kennels and hotels that accept animals",
+              "descripcion": "In an evacuation, not all shelters accept pets. Write down three places that do, with phone numbers, in your municipality and in the neighbouring province."
+            },
+            {
+              "producto": "Animal data protection (digital copy of vaccinations with the microchip visible)",
+              "descripcion": "Phone photos of the vaccination card, saved on an encrypted USB stick and in the cloud: if someone asks for it remotely, you have it."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-frio": {
+      "titulo": "Cold/Winter Kit: 27 items to survive the cold (2026)",
+      "resumen": "Cold kit: 27 items to survive extreme winter. Alternative heating, warm clothing and cold management 2026.",
+      "coste_total": "€80-180 (half that if you use the winter clothing you already have)",
+      "paraQuien": "For homes with gas or electric heating (both fail in a blackout), for anyone living in a snow or frost area, and for older people and babies, who lose body temperature before anyone else. Filomena left half of Spain without heating and unable to leave the house.",
+      "paraQuien_no": "It is not a mountaineering or extreme mountain snow kit: that requires technical gear and training. Nor does it replace the basic rule: if you can't keep the house above 15 degrees, the plan is to go somewhere warm.",
+      "guia": {
+        "antes": [
+          "Check you have a carbon monoxide detector before using any combustion appliance indoors (heaters, burners, generators): CO has no smell and no colour and kills in closed rooms",
+          "Prepare a «refuge» room: the smallest one with the fewest windows, to heat it and have everyone live there instead of trying to heat the whole house",
+          "Store the draught excluders/window sealing film before it freezes: sticking them on at -4 degrees won't hold",
+          "Put the winter kit in the car before the snowfall, not during it (check that the chains are your size and the tyres aren't low)",
+          "Check on older neighbours: cold indoors isn't noticed, it builds up"
+        ],
+        "durante": [
+          "Never use a combustion heater or stove in a room without ventilation: leave a gap open and turn the appliance off before sleeping",
+          "Dress in layers (thermal, liner, windproof) and cover your head, hands and feet: that's where more than half the heat is lost",
+          "Drink water even if you're not thirsty: in the cold you drink less and dehydration makes hypothermia worse",
+          "Don't go out to clear snow on an empty stomach or in wet shoes; and don't take the car without a scraper and full visibility",
+          "If you have to sleep at low temperature, do it in pairs and fully dressed: share the sleeping bag or blanket"
+        ],
+        "despues": [
+          "Check and clean the CO detector and restock batteries and fuel the same day: the second wave usually arrives within a week",
+          "Suspect frozen pipes: open the taps slowly before turning on the boiler; a pressure surge will burst the system",
+          "Restock salt, fuel and spent batteries: in snow, whatever runs out runs out across the whole region at once",
+          "Check the state of the car (battery, antifreeze, tyres) as soon as you can get out"
+        ]
+      },
+      "errores": [
+        "Using the stove or heater in a closed room. It is the leading cause of CO poisoning in blackouts and snowstorms: the appliance consumes oxygen and gives off carbon monoxide.",
+        "Trying to heat the whole house. Without heating you don't heat a house, you heat one room: choosing a small one and closing off the rest is the difference between 12 and 18 degrees.",
+        "Dressing the baby or the older person \"with one more layer\" of cotton. Over cotton you need a layer that cuts the wind and stays dry; and older people must be moved out of the house when their hands turn cold and pale.",
+        "Storing the power bank and the phone in the car. Cold kills their battery: at 0 degrees they lose up to half their charge and don't recover well.",
+        "Going out into the snow without a reflective item or a scraper. Most deaths in snowstorms aren't from cold, they're from traffic accidents and pedestrians being hit."
+      ],
+      "secciones": [
+        {
+          "titulo": "Body heat: the layer that saves lives",
+          "intro": "Without heating, your clothes are your home. And not just any clothes: wet cotton makes you cold.",
+          "items": [
+            {
+              "producto": "Thermal base layer (top and leggings, 2 sets)",
+              "descripcion": "The layer closest to your skin matters most: thermal fabric breathes and dries, cotton stays wet and steals heat."
+            },
+            {
+              "producto": "Fleece or wool sweater",
+              "descripcion": "Second layer: traps the body's warm air. Wool keeps you warm even when slightly damp."
+            },
+            {
+              "producto": "Wool socks (3-4 pairs)",
+              "descripcion": "Cold feet are the first warning sign of hypothermia. Wool handles sweat much better than cotton."
+            },
+            {
+              "producto": "Warm beanie or hat",
+              "descripcion": "A huge amount of heat is lost through your head. Day and night, indoors too."
+            },
+            {
+              "producto": "Warm gloves (and thin ones for tasks)",
+              "descripcion": "Without hands you can't do anything: not cook, not open a frozen tap, not use your phone. Two pairs, one thin pair underneath."
+            },
+            {
+              "producto": "Warm one-piece sleeping bag or pyjamas (current size + one spare)",
+              "descripcion": "You won't sleep at 10 degrees in light pyjamas. A one-piece garment stops air getting in when you move."
+            },
+            {
+              "producto": "Thermal blanket (pack of 2)",
+              "descripcion": "Reflects body heat. It doesn't provide warmth on its own: you have to wrap yourself in it, not lay it on top like a sheet."
+            }
+          ]
+        },
+        {
+          "titulo": "Safety: the silent enemy is CO",
+          "intro": "When the heating fails, people improvise with combustion indoors. That's where disasters happen.",
+          "items": [
+            {
+              "producto": "Battery-powered carbon monoxide (CO) detector with alarm",
+              "descripcion": "Effectively mandatory if you're going to use any combustion appliance. CO has no smell, can't be seen, and won't wake you: it kills in your sleep."
+            },
+            {
+              "producto": "1–2 kg ABC dry powder fire extinguisher with bracket",
+              "descripcion": "Heaters and cables overloaded by demand are typical fire sources in a winter blackout."
+            },
+            {
+              "producto": "Cable reel with portable RCD",
+              "descripcion": "If you run a generator or an extension lead to an electric heater, this device is the difference between a blown fuse and a fire."
+            }
+          ]
+        },
+        {
+          "titulo": "Heating without electricity or gas",
+          "intro": "Heat one room, not the whole house. And always with ventilation and a detector.",
+          "items": [
+            {
+              "producto": "Butane gas heater with oxygen depletion cut-off",
+              "descripcion": "The most effective option for a small room. It requires a gas cylinder, ventilation and a CO detector. Never for sleeping."
+            },
+            {
+              "producto": "Camping gas stove with canisters (for hot water and food)",
+              "descripcion": "Hot water and hot food raise your body temperature faster than any heater. Use outdoors or with a window open."
+            },
+            {
+              "producto": "Small wide-mouth flask (350-500 ml)",
+              "descripcion": "A hot drink every two hours is the cheapest way to keep the body warm. The thermos keeps it hot for 6 hours."
+            },
+            {
+              "producto": "Lighters and long matches",
+              "descripcion": "Lighting the stove or burner with cold hands and gloves on is difficult. Long matches prevent burns."
+            }
+          ]
+        },
+        {
+          "titulo": "Keep the cold out: the home",
+          "intro": "Seal the house tightly so you can heat just one room.",
+          "items": [
+            {
+              "producto": "Tape and plastic to seal windows and gaps",
+              "descripcion": "A poorly sealed old window lets as much heat escape as a small stove can produce. Ten euros of plastic is worth more than turning the stove up."
+            },
+            {
+              "producto": "Thermal curtains or a wool blanket to cover the window",
+              "descripcion": "At night, covering the glass is the cheapest improvement: glass is the coldest surface in the home."
+            },
+            {
+              "producto": "Dehumidifier or moisture-absorbing sachets",
+              "descripcion": "A cold, damp home feels 3-4 degrees colder and ruins clothes. Humidity is half the problem of a winter without heating."
+            }
+          ]
+        },
+        {
+          "titulo": "Outside and in the car: snow",
+          "intro": "Filomena did not leave people without heating: it left them unable to leave home and unable to use the car.",
+          "items": [
+            {
+              "producto": "Ice scraper and snow brush for the car",
+              "descripcion": "Driving with just a clean rectangle on the windshield causes thousands of accidents with every snowfall. And you have to clear the roof: the slab slides off when you brake."
+            },
+            {
+              "producto": "Snow chains or textile snow socks",
+              "descripcion": "On a motorway in snow, you must drive in the right-hand lane, and the left lanes are kept clear for snowplows (art. 32 RGC). Without chains you cannot get up a mountain pass."
+            },
+            {
+              "producto": "Snow shovel and de-icing salt (or sand)",
+              "descripcion": "For getting out of the parking space and for the sidewalk. Salt also prevents ice from forming at the front door."
+            },
+            {
+              "producto": "Jump leads and antifreeze with protection down to -25",
+              "descripcion": "Cold kills the battery and freezes the coolant circuit. They are the two No. 1 failures during a cold snap."
+            },
+            {
+              "producto": "Approved connected V-16 beacon (replaces warning triangles)",
+              "descripcion": "In fog or snow, getting out to place warning triangles is dangerous: the beacon is placed from inside the car and has been the only legal means since 1/1/2026."
+            },
+            {
+              "producto": "Light or reflective item for walking at night",
+              "descripcion": "Mandatory for pedestrians on the shoulder of an interurban road at night or in poor visibility (art. 123 RGC). In snow, a reflective item visible at 150 m is the only thing between you and a car."
+            }
+          ]
+        },
+        {
+          "titulo": "Light, alerts and power",
+          "intro": "In winter it gets dark at 18:00 and a power outage leaves the house dark and without heating.",
+          "items": [
+            {
+              "producto": "Headlamp (hands-free)",
+              "descripcion": "With gloves on and in the dark you need both hands. A headlamp is the only useful light for moving around a cold house."
+            },
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio",
+              "descripcion": "Snow warnings and closed roads come over the radio when the mobile network is overloaded or the antennas have no power."
+            },
+            {
+              "producto": "10,000-20,000 mAh power bank",
+              "descripcion": "Note: cold reduces capacity by up to half if you store it in the car. It goes inside the house, in an inner pocket if you go out."
+            },
+            {
+              "producto": "Assorted alkaline batteries (AA/AAA)",
+              "descripcion": "Radio, flashlight and CO detector run on batteries. A CO detector with no batteries is just an ornament."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-terremoto": {
+      "titulo": "Earthquake Kit: 26 items for seismic protection (2026)",
+      "resumen": "Earthquake kit: 26 items to protect you from falling objects and glass, shut off gas and water and call for help. Light, first-aid kit and cash: from 90 €.",
+      "coste_total": "90-170 € (much of it overlaps with the basic 72-hour kit)",
+      "paraQuien": "For people living in a seismic zone (mainland southeast: Murcia, Almería, Granada, Málaga, Alicante) and, in fact, for any home: most damage in an earthquake is not from the quake itself, it is from falling objects and gas and power cuts. The kit is the same one that serves you for a power outage.",
+      "paraQuien_no": "It is not a rescue or rubble kit: it doesn't turn you into a firefighter. Nor does it replace structural reinforcement or knowing whether your building is one that holds up: that can't be solved with a backpack.",
+      "guia": {
+        "antes": [
+          "Anchor shelves, the TV and tall wardrobes to the wall: the No. 1 cause of minor injuries in an earthquake is things falling from walls",
+          "Locate the gas and water shut-off valve and check that it turns: after the earthquake you'll have 30 seconds and shaking hands",
+          "Leave closed-toe shoes and a flashlight next to the bed (under the bed, tied together): at night, broken glass on the floor is the biggest cause of cuts",
+          "Agree on a meeting point outside the building and a contact outside the province: local lines get overloaded, outside ones don't",
+          "Keep the backpack near the exit door, not in the basement storage room"
+        ],
+        "durante": [
+          "Drop, cover under a sturdy table and hold on to the furniture: the furniture moves with you and protects you from falling objects",
+          "Don't run out to the stairs or use the elevator: most injuries happen while fleeing and in stairwells",
+          "Move away from windows, mirrors, shelves and façades. If you are outside, go to an open space away from cornices and cables",
+          "If you are in a car, stop in an open area, not under a bridge, streetlights or power lines",
+          "If you smell gas, do not turn anything on: no lights, no matches, and no mobile phone near a leak"
+        ],
+        "despues": [
+          "Put on closed-toe shoes before walking around the house: broken glass is the leading cause of injuries and you cannot see it in the dark",
+          "Shut off the gas and water if there is a smell or damage, and do not turn on switches if you suspect a leak",
+          "Wait and listen to the radio: aftershocks are the norm in the following hours, and instructions come via radio stations and ES-Alert",
+          "Do not enter damaged buildings or use the elevator; check the structure before staying (new cracks, doors that will not close)",
+          "Record damage with photos and report it to your insurer and the local council: aid is assigned by declared areas, and that requires documentation"
+        ]
+      },
+      "errores": [
+        "Running to the stairs as soon as the shaking starts. Most injuries occur while fleeing: in a stairwell, with people and with falling objects. The right place is under a sturdy table.",
+        "Sleeping without shoes nearby and without a flashlight at hand. A nighttime earthquake + glass-covered floor = cut feet and darkness, just when you need to get out and help.",
+        "Lighting a match, turning on the light or using your mobile phone when you smell gas. It is the spark that causes the explosion. Shut off the gas first, then everything else.",
+        "Not knowing where the gas shut-off valve is or not having a tool to close it. It is the first thing to do and almost no one has ever touched it.",
+        "Confusing “the house is still standing” with “the house is safe”. You need to check for new cracks, doors that will not close and damp before sleeping inside: aftershocks bring down what the first tremor left weakened."
+      ],
+      "secciones": [
+        {
+          "titulo": "Head and feet: what breaks first",
+          "intro": "In an earthquake, what hurts you is not the ground, it is what falls. And that day you discover you are barefoot.",
+          "items": [
+            {
+              "producto": "Protective helmet",
+              "descripcion": "Cornices, lamps, shelves and brick partitions can fall. A construction or bike helmet works and fits in the backpack."
+            },
+            {
+              "producto": "Reinforced work gloves",
+              "descripcion": "For clearing rubble, glass and overturned furniture. Without gloves you cannot help anyone or clear your own exit."
+            },
+            {
+              "producto": "Sturdy closed-toe shoes next to the bed",
+              "descripcion": "A pair of boots or hard-soled shoes tied under the bed. Walking barefoot on broken glass is the most avoidable injury in a night-time earthquake."
+            },
+            {
+              "producto": "Protective goggles (or sunglasses if you have nothing else)",
+              "descripcion": "Dust, plaster and splinters get into your eyes. Sunglasses cover them and work as basic protection."
+            }
+          ]
+        },
+        {
+          "titulo": "Water and food that needs no cooking",
+          "intro": "The gas may be cut off, there may be no power and the water may come through cloudy. The rule is: don't cook anything that needs more than opening a container.",
+          "items": [
+            {
+              "producto": "Bottled water (3 L per person per day)",
+              "descripcion": "Six 1.5 L bottles per person for 72 hours. The water network is one of the first things to break and one of the last to be repaired."
+            },
+            {
+              "producto": "Water purification tablets",
+              "descripcion": "If the mains water runs cloudy or you have to use water from a tank, wait 30 minutes and it's drinkable. It weighs nothing and works for weeks."
+            },
+            {
+              "producto": "Ready-to-eat food that needs no cooking (tinned food, bars, nuts)",
+              "descripcion": "Tinned food, nuts and bars: no need for gas or a camping stove. Cold, ready food is plan A after an earthquake."
+            },
+            {
+              "producto": "Manual can opener",
+              "descripcion": "Without power there's no electric can opener, and many tins don't have a ring pull. Five euros that can leave you with no dinner."
+            },
+            {
+              "producto": "Dehydrated or ration food (in case it drags on)",
+              "descripcion": "Supplies that stretch beyond 72 hours: an earthquake with structural damage can mean weeks of disruption."
+            }
+          ]
+        },
+        {
+          "titulo": "Light, signalling and rescue",
+          "intro": "If you're trapped or in the dark, this section is literally your voice.",
+          "items": [
+            {
+              "producto": "Headlamp (hands-free)",
+              "descripcion": "With rubble around and no light you need both hands. A head torch goes on your head and lets you dig, help and walk."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "A whistle carries further than your voice and doesn't run out. Shouting for hours leaves you out of breath; a whistle doesn't. It's the cheapest rescue tool there is."
+            },
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio",
+              "descripcion": "After an earthquake, radio broadcasts reach where the mobile network doesn't. It's your only source of instructions if the masts go down."
+            },
+            {
+              "producto": "20,000 mAh power bank + cables",
+              "descripcion": "Your phone is your spare torch, your map and your way of calling for help. Without battery, none of that exists."
+            },
+            {
+              "producto": "Assorted alkaline batteries (AA/AAA)",
+              "descripcion": "Radio, torch and gas detector run on batteries. Bring double the spares: in an emergency there's no shop."
+            },
+            {
+              "producto": "Survival thermal blanket (pack)",
+              "descripcion": "If you end up waiting for rescue in the open or in a car, it's the only thing that prevents hypothermia. It takes up less space than a phone."
+            }
+          ]
+        },
+        {
+          "titulo": "First aid kit, medication and wound care",
+          "intro": "An earthquake causes cuts and bruises, not exotic accidents. And some people with chronic conditions can't skip a dose.",
+          "items": [
+            {
+              "producto": "Full first aid kit (gauze, bandages, antiseptic, scissors)",
+              "descripcion": "Cuts and bruises. You need to be able to clean and bandage without going to the emergency department, which will be overwhelmed."
+            },
+            {
+              "producto": "Chronic medication (7-30 days) with a copy of the prescriptions",
+              "descripcion": "People with diabetes, on anticoagulants, with hypertension, with asthma. If your medication is in a closed pharmacy, you have a serious problem within 24 hours."
+            },
+            {
+              "producto": "Pocket first aid kit to carry with you",
+              "descripcion": "A small one with gauze and adhesive bandages for your pocket or bag: minor wounds can be treated on the spot."
+            },
+            {
+              "producto": "Oral rehydration salts",
+              "descripcion": "With heat, dust, exertion and little water it's easy to get dehydrated. It also works for diarrhea."
+            }
+          ]
+        },
+        {
+          "titulo": "Shut off gas, water and electricity",
+          "intro": "The damage from an earthquake is multiplied by whatever is left open afterwards. This is the first thing to do and nobody has it to hand.",
+          "items": [
+            {
+              "producto": "Gas and water shut-off key (square or universal key)",
+              "descripcion": "Without it you can't close the gas supply. After an earthquake, an open leak turns a scare into an explosion."
+            },
+            {
+              "producto": "Multi-tool pocket knife",
+              "descripcion": "Pliers, screwdriver and blade in a pocket: cut through a jammed shutter or shut a valve when you have no tool."
+            },
+            {
+              "producto": "Paracord 550 rope (30 m)",
+              "descripcion": "To secure a door, lower something down, make an improvised stretcher or tie down a tarp. 30 meters of rope solves the unpredictable."
+            }
+          ]
+        },
+        {
+          "titulo": "Dust, papers and money",
+          "intro": "What you need for the hours that follow: breathe without dust, prove who you are and be able to pay without a card terminal.",
+          "items": [
+            {
+              "producto": "FFP2 masks (pack)",
+              "descripcion": "Rubble and plaster dust irritates and damages the lungs. After an earthquake there is dust in the air for days."
+            },
+            {
+              "producto": "Waterproof folder or pouch with copies of documents",
+              "descripcion": "ID, deeds, policies, prescriptions: if the house is sealed off or damaged, papers are the difference between claiming and being unable to prove anything."
+            },
+            {
+              "producto": "Cash in small notes",
+              "descripcion": "With no power or network, the card terminal doesn't work and the ATMs are down. 100-150 € in 10 and 20 notes covers water, food and fuel."
+            },
+            {
+              "producto": "Digital copy on an encrypted USB",
+              "descripcion": "Photos of the house and belongings before the earthquake: it's the evidence the insurer asks for to assess damage."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-incendio": {
+      "titulo": "Fire Kit: 21 items against fire (2026)",
+      "resumen": "Fire kit: 21 items for a wildfire — breathe without smoke, get out in 10 minutes, defend the house and evacuate those who can't run. From 60 €.",
+      "coste_total": "€60-140 (you already have most of it, or it works for other emergencies too)",
+      "paraQuien": "For anyone living in the wildland-urban interface (homes next to hillsides, housing estates, villages) or in areas of dry scrubland — an ever-growing share of Spain. And for anyone caught by surprise by smoke on the road.",
+      "paraQuien_no": "This is not a kit for staying behind to defend the house. If the authorities order an evacuation, a kit does not turn you into a firefighter or give you the right to stay: you evacuate.",
+      "guia": {
+        "antes": [
+          "Clear 10 metres around the house: brush, firewood, dry grass and hedges against the façade are the fuel that carries the fire to your windows",
+          "Keep metal sheets or wooden shutters to cover the windows, and the backpack by the door, not at the back of the garage",
+          "Write down the municipal evacuation plan and the alternative route: in a fire, the road heading up into the hills is the first to be cut off",
+          "Walk the exit route in your head at night: if a warning wakes you at 3:00 with smoke, you won't be able to improvise",
+          "Work clothes and closed-toe shoes within reach: synthetic clothing melts onto your skin"
+        ],
+        "durante": [
+          "Evacuate as soon as there is an order or smoke in the air, carrying nothing beyond the essentials: a car is faster than a defended house",
+          "Close windows, doors and blinds to reduce draughts, and turn off ventilation and heating before you leave",
+          "If you are caught in the car: do not get out, wait with the windows closed, lights on and the air on recirculation; the car protects you better than running",
+          "If you are caught on foot: always move downhill and downwind (the fire climbs the slope faster than you can), head for an open area with no vegetation and, as a last resort, lie down on ground that has already burned",
+          "Cover your nose and mouth with a damp cloth and do not breathe through your mouth; smoke is more dangerous than the front line of flames"
+        ],
+        "despues": [
+          "Do not return until the authorities authorise it: burned ground still has hot spots and roots keep burning underground",
+          "When you get there, do not turn anything on until you have checked the installations: the service line and the meter are often damaged",
+          "Wet down the outside and check the perimeter for hours: embers flare up again with the wind",
+          "Report it if you suspect the origin, and keep photos of the damage for insurance and for the local council"
+        ]
+      },
+      "errores": [
+        "Staying to defend the house when the fire is already close. Houses are defended beforehand (by clearing brush and wetting them), not when the fire front is 200 metres away: from that point on, you only evacuate.",
+        "Taking the car towards the hills “because it's closer”. Fire climbs the slope and cuts off the road above first. The emergency exit is almost always downhill and downwind.",
+        "Wearing synthetic clothing and sandals. It's the combination that turns a brush with heat into a burn stuck to your skin and makes evacuating on foot impossible.",
+        "Shouting to warn someone far away. Smoke leaves you without air in minutes: use a whistle and a phone call, never run or shout.",
+        "Believing the danger ends when the fire front is out. Embers flare up again with the wind, and burnt trees and ground remain dangerous hours later."
+      ],
+      "secciones": [
+        {
+          "titulo": "Breathing: smoke kills before the flames do",
+          "intro": "In a wildfire, almost all victims die from inhalation. This section matters most.",
+          "items": [
+            {
+              "producto": "FFP2 masks (pack of 10–20)",
+              "descripcion": "They filter smoke particles: fine ash, soot and dense smoke. A few minutes of unprotected smoke and you become truly disoriented."
+            },
+            {
+              "producto": "Snug protective goggles (or close-fitting sunglasses)",
+              "descripcion": "Smoke and sparks make your eyes water until you can't see the exit. Close-fitting goggles let you keep walking."
+            },
+            {
+              "producto": "Cotton cloths or towels (to wet and cover your mouth and nose)",
+              "descripcion": "A damp cloth filters some of the smoke and cools the air. It's what people use when there is no mask, and it helps even if you have one."
+            },
+            {
+              "producto": "Water for drinking and wetting cloths (8–10 L bottle or container)",
+              "descripcion": "Smoke dries your throat, and in heat and stress you drink less than you should. It also wets cloths instantly."
+            }
+          ]
+        },
+        {
+          "titulo": "Getting out in 10 minutes",
+          "intro": "An evacuation order doesn't give you an afternoon to get ready. Whatever isn't in this backpack stays behind.",
+          "items": [
+            {
+              "producto": "Water-resistant 30–40 L backpack",
+              "descripcion": "Already packed and by the door. If you have to fill it on the day, you're losing the minutes that count."
+            },
+            {
+              "producto": "Waterproof folder with documents and some cash",
+              "descripcion": "ID card, deeds, policies, health card and cash in small denominations. Rebuilding everything without paperwork takes a year of paperwork."
+            },
+            {
+              "producto": "Headlamp and batteries",
+              "descripcion": "Smoke cuts visibility to a few metres and night can fall. Keeps your hands free to carry, open and help."
+            },
+            {
+              "producto": "Battery-powered FM/AM radio (official alerts)",
+              "descripcion": "Evacuation routes change with the wind. The radio gives you the current instruction when mobile coverage fails."
+            },
+            {
+              "producto": "Physical map of your area (roads, alternative exits)",
+              "descripcion": "If the network is overloaded or there's no data, the paper map gets you out; GPS leaves you at the closed road like everyone else."
+            },
+            {
+              "producto": "Silbato de emergencia",
+              "descripcion": "If you lose visibility in the smoke, a whistle is what lets them find you. It fits in your pocket."
+            }
+          ]
+        },
+        {
+          "titulo": "Clothing that doesn't melt onto your skin",
+          "intro": "What you're wearing decides whether the heat brushes past you or burns you.",
+          "items": [
+            {
+              "producto": "Long-sleeved cotton or wool clothing (not synthetic)",
+              "descripcion": "Polyester and nylon melt and stick to the skin. Cotton and wool protect and can be wetted."
+            },
+            {
+              "producto": "Closed, sturdy footwear (boots or hard-wearing shoes)",
+              "descripcion": "No sandals: burnt ground and embers go straight through a thin sole. And you can't run in flip-flops."
+            },
+            {
+              "producto": "Leather or heat-resistant work gloves",
+              "descripcion": "For opening a hot metal door, grabbing a hose or moving something that burns. Without gloves you can't touch anything."
+            },
+            {
+              "producto": "Cotton cap or scarf to cover your head and neck",
+              "descripcion": "Radiant heat and embers come from above. Covering your head prevents burns to your hair and neck."
+            }
+          ]
+        },
+        {
+          "titulo": "Defending the house if there's still time",
+          "intro": "Only while there's no evacuation order. Ten minutes of preparation can save the house; one minute too many can cost you your life.",
+          "items": [
+            {
+              "producto": "Long reinforced hose (plus a sprinkler or spray nozzle)",
+              "descripcion": "To soak the perimeter, the façade and nearby scrub. The most effective thing before the front arrives."
+            },
+            {
+              "producto": "6 kg ABC powder extinguisher (or several 2 kg ones)",
+              "descripcion": "For fires that reach the house: roof, stacked firewood or a vehicle. A car extinguisher isn't enough."
+            },
+            {
+              "producto": "Hoe, rake and manual brush cutter",
+              "descripcion": "Clearing dry grass and leaf litter around the perimeter is what stops a ground fire reaching the façade."
+            },
+            {
+              "producto": "Pressurised water backpack (16-20 L)",
+              "descripcion": "Useful for putting out small flare-ups and soaking hot spots without a hose or power. Very handy when the electricity goes out and the pump stops working."
+            }
+          ]
+        },
+        {
+          "titulo": "Animals and people who can't run on their own",
+          "intro": "An evacuation is measured by the slowest, not the fastest.",
+          "items": [
+            {
+              "producto": "Pet carrier and leash to hand (pets)",
+              "descripcion": "In a smoke evacuation, a loose animal hides or runs off into the hills. With a carrier, it leaves with you on the first trip."
+            },
+            {
+              "producto": "Chronic medication and a list of treatments (older people or dependants)",
+              "descripcion": "Anticoagulants, insulin, inhalers, psychiatric treatments. They go in the backpack with a copy of the prescriptions, not in the bathroom cabinet."
+            },
+            {
+              "producto": "Spare cane, walker or folding chair",
+              "descripcion": "Whoever walks slowly sets the pace; having a spare mobility aid stops the evacuation from getting stuck."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-comunicacion": {
+      "titulo": "Communication Kit: walkie-talkies, radio and satellite messenger (2026)",
+      "resumen": "Off-grid communication kit: licence-free PMR446 walkie-talkies, crank radio and satellite messenger. 6 items from 80 € so you never miss an alert.",
+      "coste_total": "80-300 € (PMR446 walkie-talkies + battery radio and powerbank; more with satellite messenger)",
+      "paraQuien": "For any household that wants to be able to alert others and be alerted when every network goes down at once: a long blackout, a DANA storm, a fire or a lockdown.",
+      "paraQuien_no": "It doesn't replace your phone day to day, and it won't let you make long-distance calls without an amateur radio licence. And it's not a toy: if you don't test it beforehand, you won't know how to use it on the day of the emergency.",
+      "guia": {
+        "antes": [
+          "Agree a fixed family channel and sub-tone (channel 7, sub-tone 7) and write it on each walkie-talkie",
+          "Test the real range: one at home and one out on the street; in the city it reaches far less than the box promises",
+          "Tune in and save the useful stations (regional and Radio Nacional) before putting the radio away",
+          "Keep spare batteries out of the devices and a short cable with the powerbank",
+          "If you have a satellite messenger, set up the emergency contacts and test sending a message"
+        ],
+        "durante": [
+          "Listen before transmitting: two stations at once block the channel with a screech",
+          "Short messages and speak slowly; repeat figures and addresses twice",
+          "Radio on at least twice a day to hear official warnings",
+          "Don't clog the mobile network with calls: texts get through when calls don't",
+          "Agree a fixed contact time so you don't drain the battery all day"
+        ],
+        "despues": [
+          "Recharge the walkie-talkies, powerbank and messenger, and replace used batteries",
+          "Note down what failed (range, channel with interference) and fix it",
+          "Check your satellite subscription if you have one: don't let it lapse"
+        ]
+      },
+      "errores": [
+        "Not testing the walkie-talkies beforehand: an unused device is an expensive brick.",
+        "Buying walkie-talkies that aren't PMR446: many cheap devices use bands that do require a license.",
+        "Relying entirely on the satellite messenger: if it runs out of battery, you're left unable to communicate.",
+        "Storing the batteries inside the radio: they corrode and ruin the device.",
+        "Calling instead of texting: in an emergency, voice calls fail before short messages."
+      ],
+      "secciones": [
+        {
+          "titulo": "Local communication: PMR446 walkie-talkies",
+          "intro": "No license, no coverage and no internet. PMR446 radios have been legal in Spain since 1998 and let you talk radio to radio when there is no network.",
+          "items": [
+            {
+              "producto": "PMR446 walkie-talkies (pair, rechargeable)",
+              "descripcion": "Pair of rechargeable PMR446 walkie-talkies. License-free 446 MHz band, common-use channels."
+            },
+            {
+              "producto": "Mid-range PMR446 walkie-talkies (extended range)",
+              "descripcion": "Better antenna and sensitivity: up to 5-10 km in open country."
+            }
+          ]
+        },
+        {
+          "titulo": "Listen and alert the outside world",
+          "intro": "When the mobile network goes down, the radio still broadcasts official alerts and satellite messages still get through.",
+          "items": [
+            {
+              "producto": "Battery-powered or hand-crank FM/AM radio (with flashlight)",
+              "descripcion": "The only source of information if internet and phone networks go down. Hand-crank, no batteries."
+            },
+            {
+              "producto": "Power bank 10,000-20,000 mAh for your devices",
+              "descripcion": "The rechargeable walkie-talkie and the phone die at the same time. Two ports keep them alive for several days."
+            },
+            {
+              "producto": "Satellite messenger (Garmin inReach type)",
+              "descripcion": "Messages and SOS via satellite network where there is no mobile coverage. Requires a monthly subscription."
+            },
+            {
+              "producto": "Spare batteries (AA/AAA) outside the devices",
+              "descripcion": "Stored inside the radio, they corrode. Keep them separate, in their packaging."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-starlink": {
+      "titulo": "Starlink kit: satellite internet for emergencies (2026)",
+      "resumen": "Starlink kit: satellite internet from anywhere (400-600 € + 50-60 €/month), backup 4G router and satellite messenger as a last resort.",
+      "coste_total": "400-600 € device + 50-60 €/month subscription",
+      "paraQuien": "For those who live in areas without mobile coverage or fiber, for those who want real communications redundancy in an emergency, or for those who work in rural areas where the fixed network fails. Starlink works from any location with a clear view of the sky.",
+      "paraQuien_no": "Not for those who have mobile coverage and fiber that don't fail: there you can wait. It also requires ~100° of clear sky (trees and mountains cut the signal) and a monthly subscription: without it, the hardware is a brick.",
+      "busc": "Starlink portable terminal Gen 3 4G emergency router",
+      "guia": {
+        "antes": [
+          "Check Starlink coverage in your area: the official app shows sky visibility and installation forecasts.",
+          "Check coverage from two different carriers at your location: redundancy only exists if both have signal.",
+          "Calculate the total budget: terminal (500-1.200 €) + subscription (45-60 €/month) + router (300-800 €) + inReach (~400 €).",
+          "Plan the location: a roof with 100° of visible sky or an outdoor mast of 2+ meters. Avoid balconies with obstructions."
+        ],
+        "durante": [
+          "Activate Starlink and its subscription. Use the app to find the optimal installation point by scanning the sky.",
+          "Test the speed. Readjust if there is high latency (>100 ms) or packet loss.",
+          "Configure the 4G/5G router with dual SIM and automatic failover between the two carriers.",
+          "Activate the inReach and its plan; test sending a message and geolocation."
+        ],
+        "despues": [
+          "Clean the Starlink panel every 2-3 months: dust, fallen leaves and droppings reduce the signal.",
+          "Renew subscriptions before they expire: when reactivating, the price sometimes changes.",
+          "Test the inReach every month: test message and geolocation. A drained battery doesn't save lives.",
+          "Check antennas and connections every 6 months: wind, rain and salt air corrode the contacts."
+        ]
+      },
+      "errores": [
+        "Mounting Starlink with an obstructed view. It needs ~100° of clear sky; trees, roofs or mountains cut the signal. Use a roof or terrace with an open view, not the balcony.",
+        "Forgetting the monthly subscription. Without it, the terminal is a 500-1.200 € brick. Residential plan (50-60 €/month) or mobile plan (45 €/month).",
+        "Not having redundancy (Starlink + 4G/5G router). A single means of communication is a single point of failure: with extreme weather and no cellular coverage, you'd be cut off."
+      ],
+      "secciones": [
+        {
+          "titulo": "Starlink: internet from anywhere",
+          "intro": "Satellite internet when everything goes down: mobile phones, fiber, LTE. 50-200 Mbps real-world speeds without ground infrastructure. Gen 3: lower power consumption and better performance in adverse conditions.",
+          "items": [
+            {
+              "producto": "Starlink Gen 3 terminal (residential / mobile)",
+              "descripcion": "Satellite internet where there is no coverage or fiber. Real-world 50–200 Mbps. Gen 3: 75–150 W, built-in Wi-Fi. “Mobile in Transit” plan €45/month. The subscription is essential: without it, the hardware is useless."
+            },
+            {
+              "producto": "Mounting bracket for Starlink (roof / wall / mast)",
+              "descripcion": "Robust bracket to secure the terminal to a roof, wall or mast while maintaining a clear view of the sky. Compatible with Gen 2 and Gen 3."
+            },
+            {
+              "producto": "Extension cable for Starlink (30 m / 60 m)",
+              "descripcion": "Extends the cable to the ideal location. Shielded, resistant to UV, water and rodents. Compatible with Gen 2 and Gen 3."
+            }
+          ]
+        },
+        {
+          "titulo": "Redundancy: 4G/5G router as backup",
+          "intro": "Cellular connectivity as Starlink backup: useful when satellite is not viable (dense forests, extreme weather) or as a secondary option.",
+          "items": [
+            {
+              "producto": "High-gain external 4G/5G antenna",
+              "descripcion": "12–16 dBi: amplifies the signal when coverage is weak. Roof installation with cable to the router."
+            }
+          ]
+        },
+        {
+          "titulo": "Last resort: satellite messenger",
+          "intro": "When there is no clear sky view or cellular coverage, a satellite messenger is the only way to call for help.",
+          "items": [
+            {
+              "producto": "Satellite messenger (Garmin inReach Mini 3)",
+              "descripcion": "SOS, geolocation and two-way messaging where there is no coverage. 90 h battery life in normal mode, 35 h active."
+            },
+            {
+              "producto": "20,000 mAh power bank + cables",
+              "descripcion": "Keeps the inReach and phone charged when there is no power grid. USB-C charging."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-electricidad": {
+      "titulo": "Electricity Kit: 10 items to keep the lights on without the grid (2026)",
+      "resumen": "Electricity kit: power for the essentials with a solar panel, SAI and cables — light, router and portable fridge with no mains. From 200 €.",
+      "coste_total": "€100–250 (power bank + lights + batteries) up to €500–900 (with solar generator and LiFePO4 battery)",
+      "paraQuien": "Any household that wants minimal lighting and communication when the power grid fails: apartments with a balcony (folding panel) or houses with a roof.",
+      "paraQuien_no": "Does not replace a fuel generator for tools or air conditioning: that is a different level of budget and window requirements.",
+      "guia": {
+        "antes": [
+          "Calculate your real wattage: add up the essentials (LED lights, router, phone, fridge if possible) and buy with some headroom.",
+          "Place the solar panel where it gets direct sun for most of the day; in winter it produces half as much",
+          "Charge EVERYTHING to 100% every Sunday: a battery at 60% on the day of the outage is a useless battery",
+          "Use LED lights with built-in batteries: they consume 10 times less than any alternative",
+          "Keep the cables together and labeled: in the dark there's no time to check which is which"
+        ],
+        "durante": [
+          "Power lights, phone and radio first; the fridge only if your generator can handle the start-up surge",
+          "The router uses very little: keeping the internet alive can be worth more than a fridge",
+          "Recharge during the day with the panel; draw from the battery at night: never both at once",
+          "Turn off and unplug what you don't use: devices on standby drain the battery and give you nothing in return"
+        ],
+        "despues": [
+          "Recharge everything to 100% again before storing the kit",
+          "Note down how many hours it lasted and what you used: next time you'll buy better",
+          "Check battery cycles: if capacity drops below 80%, it's time to replace it"
+        ]
+      },
+      "errores": [
+        "Buying a generator without calculating watts: 300 W won't start a fridge (it needs 1,200 W peak).",
+        "Leaving the power bank at half charge: it self-discharges and on the day of the outage it's dead.",
+        "Confusing Wh with mAh: 20,000 mAh is only 74 Wh, not 20 hours of running a fridge.",
+        "Putting the solar panel in the shade or behind glass: it produces half or less.",
+        "Using candles unattended: it's the leading cause of fires during power outages."
+      ],
+      "secciones": [
+        {
+          "titulo": "Energy: batteries and panels",
+          "intro": "The heart of the kit: store energy during the day and use it at night. LiFePO4 batteries if the budget allows: they last 6 times longer than lead-acid.",
+          "items": [
+            {
+              "producto": "Portable solar generator with included panel (300-500 Wh)",
+              "descripcion": "Power station with folding panel: keeps lights, phones and router going for 1-3 days."
+            },
+            {
+              "producto": "Power bank 20,000-27,000 mAh (with AC output or 65 W PD)",
+              "descripcion": "The bare minimum: 4-6 phone charges or 20 hours of LED light."
+            },
+            {
+              "producto": "Folding solar panel 60-100 W",
+              "descripcion": "Recharge your battery or power bank in 4-6 h of direct sun. Essential for long outages."
+            },
+            {
+              "producto": "LiFePO4 battery 100 Ah",
+              "descripcion": "1,280 Wh actual, 3,000-6,000 cycles. The serious option for those preparing for multi-day outages."
+            }
+          ]
+        },
+        {
+          "titulo": "Light: efficient lighting",
+          "intro": "LED lights use 10 times less than any other option. A headlamp for hands-free use and area lamps for everyday living.",
+          "items": [
+            {
+              "producto": "Rechargeable LED area lamp (camping lantern)",
+              "descripcion": "Light up an entire room for 8-30 h. With a hook and magnet for hanging."
+            },
+            {
+              "producto": "LED headlamp with AAA batteries (2 units)",
+              "descripcion": "Hands-free for cooking, working or heading out. Always keep spare alkaline AAA batteries."
+            },
+            {
+              "producto": "Long-lasting emergency candles (9-12 h)",
+              "descripcion": "Plan C without electricity: a wax candle provides light and some warmth. Never leave it unattended."
+            }
+          ]
+        },
+        {
+          "titulo": "Electrical control and safety",
+          "intro": "When the power comes back, it can bring surges. Protecting your devices is part of the kit.",
+          "items": [
+            {
+              "producto": "Power strip with surge protection (switch)",
+              "descripcion": "When the power returns, surges burn out chargers and routers. This power strip absorbs them."
+            },
+            {
+              "producto": "Basic digital multimeter",
+              "descripcion": "Check whether the battery is charging, whether the panel is producing, whether the fuse is still alive. 20 € that can save days."
+            },
+            {
+              "producto": "Alkaline AA and AAA batteries (large pack)",
+              "descripcion": "90% of your emergency devices run on batteries. Keep at least 24 AA and 24 AAA."
+            }
+          ]
+        }
+      ]
+    },
+    "kit-kit-profesional": {
+      "titulo": "Professional Kit: total power and autonomy (2026)",
+      "resumen": "Professional kit: 800 W of solar panels, 19.2 kWh LFP batteries, SAI and Starlink to get through a long blackout without interruptions. Cost and installation 2026.",
+      "coste_total": "2.000-5.000 € (professional investment) · payback 3-5 years",
+      "paraQuien": "For households that can't afford to be left without power, data or food: rural homes far from services, businesses that depend on servers, or anyone looking for real independence from blackouts and infrastructure crises.",
+      "paraQuien_no": "It is not a kit for surviving months off-grid. High investment (2.000-5.000 €), it needs space (roof or land for panels, a ventilated area for batteries and generator) and professional installation, and it requires maintenance. It is not 'install and forget'.",
+      "busc": "professional kit energy autonomy solar battery lithium starlink generator",
+      "guia": {
+        "antes": [
+          "Calculate your daily consumption: kWh/month ÷ 30 = kWh/day. The kit should cover 70-80% of that consumption.",
+          "Identify where to install the panels: south-facing roof, flat roof or adjacent land. Minimum 4 m² for every 400 W.",
+          "Prepare the battery space: ventilated area, 10-25 °C, away from flammable materials.",
+          "Locate the generator spot: outdoors, ventilated, 3+ metres from windows, with access for refuelling.",
+          "If you don't know how to install it: budget for an electrician + certified solar installer. It's not witchcraft, but it has to be done right."
+        ],
+        "durante": [
+          "Batteries and inverter first, then panels, then Starlink. Test each module before connecting the next one.",
+          "Check polarity before connecting: negative to negative, positive to positive. A short circuit in batteries is instant.",
+          "Set the inverter's low-voltage cutoff (11.5 V on 12 V; 40 V on 48 V) so deep discharges don't damage the batteries.",
+          "Activate Starlink and its subscription. Run a speed test; adjust the position if latency is high or packets are being lost.",
+          "Test the generator outdoors: 30 minutes under load, fuel stabilized."
+        ],
+        "despues": [
+          "Clean the panels every 2–3 months: dust, fallen leaves and bird droppings cut efficiency by 20–30%.",
+          "Check connections and fuses every 6 months: corrosion, loose screws and frayed cables cause most failures.",
+          "Battery test once a month: voltage and temperature. A cell that runs hotter than the rest is going to fail.",
+          "Test the generator every 3 months (30 min under load). Don't leave petrol in the tank for more than 6 months.",
+          "Renew your Starlink plan before it expires: prices sometimes change when you reactivate."
+        ]
+      },
+      "errores": [
+        "Buying panels without an inverter or batteries. Panels only generate with sun: without storage you have nothing at night. Batteries and inverter first, then panels.",
+        "Installing lead-acid batteries in 2026. LFP lithium costs 3–4× more but lasts 5× longer (3,000+ cycles vs 500–1,000): it works out cheaper per cycle.",
+        "Putting Starlink where the sky is obstructed. It needs ~100° of clear sky; trees, roofs or mountains block the signal. Roof or terrace with an open view.",
+        "Running the generator indoors. CO is invisible and odourless and kills in minutes: always outdoors, ventilated, 3+ metres from windows and doors.",
+        "Skipping a professional installation. Poorly anchored panels fly off, badly connected batteries catch fire, unprotected cables melt. €200–500 for a certified installation is worth every cent."
+      ],
+      "secciones": [
+        {
+          "titulo": "Solar power: the sun is your generator",
+          "intro": "The foundation of independence: sun → electricity without relying on the grid. An 800 W system in a good-sunlight area produces ~4 kWh/day.",
+          "items": [
+            {
+              "producto": "400W monocrystalline solar panel (×2 units)",
+              "descripcion": "High-efficiency panel (21%+), hail- and wind-resistant. 800 W total produces ~4 kWh/day in areas with good sun exposure. Monocrystalline (PERC) panels perform better in limited surface area."
+            },
+            {
+              "producto": "3000W-5000W hybrid inverter",
+              "descripcion": "Converts DC from panels and batteries to 230V AC. Accepts solar input, grid, and batteries at the same time. Look for integrated MPPT and automatic switchover <5 ms. Reference brands: Victron, Growatt, EcoFlow."
+            },
+            {
+              "producto": "60A MPPT charge controller",
+              "descripcion": "MPPT (Maximum Power Point Tracking) captures 15-30% more energy than PWM, especially on cloudy days. 60A supports up to ~2.4 kW at 48V."
+            }
+          ]
+        },
+        {
+          "titulo": "SAI (UPS): instantaneous switchover",
+          "intro": "Uninterruptible: instant protection against grid outages. Switches to batteries in milliseconds.",
+          "items": [
+            {
+              "producto": "SAI (UPS) 3000VA-5000VA online double conversion",
+              "descripcion": "Online double conversion: always powers from batteries; the grid only charges. Full protection against micro-outages, spikes, and electrical noise. Ideal for PC, server, router, Starlink, and smart fridge."
+            },
+            {
+              "producto": "SAI 1500VA (900W line-interactive)",
+              "descripcion": "Specific protection for router, modem, and communication equipment. More affordable, guarantees connectivity."
+            }
+          ]
+        },
+        {
+          "titulo": "Generator: backup when there is no sun",
+          "intro": "Backup when there's no sun. Inverter generators: clean power, quieter and more efficient than traditional ones.",
+          "items": [
+            {
+              "producto": "Extended tank or natural gas connection",
+              "descripcion": "Extend runtime with an extra 100+ liter tank or a natural gas connection (unlimited runtime). Requires professional installation."
+            }
+          ]
+        },
+        {
+          "titulo": "Food preservation without the grid",
+          "intro": "Without electricity, a conventional fridge is just a warm cupboard. A solar fridge keeps food fresh without relying on the grid.",
+          "items": [
+            {
+              "producto": "Freezable ice packs (pack of 6)",
+              "descripcion": "Freezable gel that holds the temperature for 24-48 h without electricity. Freeze them when there's sun and they cool when there isn't. Reusable."
+            }
+          ]
+        },
+        {
+          "titulo": "Lighting and perimeter security",
+          "intro": "High-power LED lighting with solar battery and standalone surveillance without a fixed grid.",
+          "items": [
+            {
+              "producto": "4G solar security camera with battery",
+              "descripcion": "4G camera with solar panel and battery: remote surveillance without fixed internet. Triggers on motion and alerts your phone."
+            }
+          ]
+        },
+        {
+          "titulo": "Connectivity: Starlink and redundancy",
+          "intro": "Without internet, autonomy isn't worth much. Starlink: satellite internet from any point with a clear view of the sky. A real 50-200 Mbps.",
+          "items": [
+            {
+              "producto": "Industrial 4G/5G router with dual SIM and external antennas",
+              "descripcion": "Redundant mobile with two carriers (e.g. Movistar + Orange). WAN/LAN, VPN, PoE for the roof, high-gain antennas. An alternative if satellite isn't viable."
+            },
+            {
+              "producto": "Long-range WiFi extender + directional antenna",
+              "descripcion": "Extends WiFi to the farm, garden or garage. Directional antenna for picking up signal from another building or tower. Ubiquiti NanoStation or Tenda W311MI."
+            },
+            {
+              "producto": "Satellite messenger (Garmin inReach Mini 3)",
+              "descripcion": "SOS, geolocation and two-way messaging where there is no coverage of any kind. 90 h battery life. Last resort when everything else fails."
+            }
+          ]
+        },
+        {
+          "titulo": "Local communication: amateur radio and walkie-talkies",
+          "intro": "Communication redundancy: amateur radio for regional coverage and PMR446 walkie-talkies for coordination within the family.",
+          "items": [
+            {
+              "producto": "Professional PMR446 walkie-talkies (set of 4)",
+              "descripcion": "License-free (PMR446: 16 channels, 0.5-2W, ~2-5 km in open field). IP67, LCD, LED, VOX. Motorola Talkabout or similar. Ideal for coordinating evacuation."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

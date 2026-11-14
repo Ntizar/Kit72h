@@ -1,4 +1,7 @@
-/* Kit72h — estado: comprobar si los enlaces de Amazon siguen activos */
+/* Kit72h — estado: comprobar si los enlaces de Amazon siguen activos.
+   Los datos los genera scripts/verificar-fichas.py y son de amazon.es: el badge
+   solo se pinta en el mercado español. El enlace de alternativa usa el dominio
+   y el tag del mercado activo (i18n), nunca amazon.es a mano. */
 const estado = {
   data: null,
 
@@ -22,7 +25,7 @@ const estado = {
     const e = this.porAfiliado(url);
     if (!e || !e.texto) return '';
     const alt = e.aviso === 'ok' ? '' :
-      ` — <a class="enlace-estado" href="https://www.amazon.es/s?k=${encodeURIComponent(e.busqueda || '')}&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">buscar alternativa</a>`;
+      ` — <a class="enlace-estado" href="${i18n.amazonBusqueda(e.busqueda || '')}" target="_blank" rel="sponsored nofollow noopener">buscar alternativa</a>`;
     const clase = e.aviso === 'ok' ? 'ok' : 'rotura';
     const titulo = e.aviso === 'ok' ? `Ficha comprobada el ${e.fecha}` : `Última comprobación: ${e.fecha}`;
     return ` <span class="badge-estado ${clase}" title="${titulo}">${e.texto}${alt}</span>`;

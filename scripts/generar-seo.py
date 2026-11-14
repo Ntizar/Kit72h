@@ -17,6 +17,16 @@ def escape_xml(s):
 
 RAIZ = Path(__file__).resolve().parents[1]
 BASE = "https://kit72h.com"
+
+# Mercados, contenido traducido y rutas: fuente única (scripts/mercados.py).
+from mercados import (  # noqa: E402
+    alternos as alternos_de,
+    contenido as contenido_mercados,
+    indice_hreflang,
+    rutas_de,
+)
+
+datos_mercados = contenido_mercados()
 kits = json.loads((RAIZ / "data/kits.json").read_text(encoding="utf-8"))
 blog = json.loads((RAIZ / "data/blog.json").read_text(encoding="utf-8"))
 hoy = date.today().isoformat()
@@ -27,26 +37,35 @@ def fecha_rfc822(iso):
     return format_datetime(d)
 
 
-# ---- 1) sitemap.xml con URLs REALES (indexables) ----
-urls = [
-    f"  <url><loc>{BASE}/</loc><lastmod>{hoy}</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>",
-    f"  <url><loc>{BASE}/blog/</loc><lastmod>{hoy}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>",
-    f"  <url><loc>{BASE}/fuentes/</loc><lastmod>{hoy}</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>",
-    f"  <url><loc>{BASE}/zona/</loc><lastmod>{hoy}</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>",
-]
-for k in kits["kits"]:
-    urls.append(
-        f"  <url><loc>{BASE}/kit/{k['slug']}/</loc><lastmod>{hoy}</lastmod>"
-        "<changefreq>monthly</changefreq><priority>0.8</priority></url>")
-for e in blog["entradas"]:
-    urls.append(
-        f"  <url><loc>{BASE}/blog/{e['slug']}/</loc><lastmod>{e['fecha']}</lastmod>"
-        "<changefreq>yearly</changefreq><priority>0.7</priority></url>")
+# ---- 1) sitemap.xml multi-mercado con hreflang ----
+# Cada URL declara sus alternativas en los demás mercados: así Google sirve /de/
+# a un alemán en vez de la portada española, sin penalizar por duplicado.
+indice = indice_hreflang(datos_mercados)
+urls = []
+for mid, d in datos_mercados.items():
+    m = d["mercado"]
+    for ruta, clave in rutas_de(m, d):
+        loc = BASE + ruta
+        prio = "1.0" if clave == "home" else ("0.9" if clave in ("blogidx", "zona") else
+                                              ("0.8" if clave.startswith("kit/") else "0.7"))
+        freq = "daily" if clave == "blogidx" else ("weekly" if clave in ("home", "zona") else "monthly")
+        lastmod = hoy
+        if clave.startswith("blog/"):
+            slug = clave.split("/", 1)[1]
+            fuente = next((e for e in d["blog"]["entradas"] if e["slug"] == slug), None)
+            lastmod = fuente["fecha"] if fuente else hoy
+        enlaces = "".join(
+            f'\n    <xhtml:link rel="alternate" hreflang="{hl}" href="{escape_xml(u)}"/>'
+            for hl, u in alternos_de(clave, datos_mercados, indice))
+        urls.append(
+            f"  <url>\n    <loc>{escape_xml(loc)}</loc>\n    <lastmod>{lastmod}</lastmod>\n"
+            f"    <changefreq>{freq}</changefreq>\n    <priority>{prio}</priority>{enlaces}\n  </url>")
 xml = ('<?xml version="1.1" encoding="UTF-8"?>\n'
-       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
+       '        xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
        + "\n".join(urls) + "\n</urlset>\n")
 (RAIZ / "sitemap.xml").write_text(xml, encoding="utf-8")
-print(f"sitemap.xml: {len(urls)} urls reales (sin #hash)")
+print(f"sitemap.xml: {len(urls)} URLs en {len(datos_mercados)} mercados, con hreflang")
 
 # ---- 2) ItemList en index.html con URLs reales ----
 items = ",\n".join(

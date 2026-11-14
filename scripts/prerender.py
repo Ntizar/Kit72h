@@ -1,13 +1,27 @@
 #!/usr/bin/env python3
-"""Kit72h — prerender: convierte cada ruta del SPA en HTML estático completo
-con meta description, canonical, Open Graph y JSON-LD por página.
+"""Kit72h — prerender multi-mercado.
 
-Google y los LLMs leen HTML; este script lo genera para:
-  /  /fuentes/  /blog/  /kit/<slug>/  /blog/<slug>/
+Convierte cada ruta del SPA en HTML estático completo, por mercado:
+  ES (raíz)      /  /fuentes/  /blog/  /zona/  /noticias/  /kit/<slug>/  /blog/<slug>/
+  Otros          /<mercado>/  /<mercado>/fuentes/  /<mercado>/blog/
+                 /<mercado>/kit/<slug>/  /<mercado>/blog/<slug>/
 
-Servidor con fallback al shell (SPA) -> Chrome headless dump -> inyección
-de metadatos -> fichero en ruta real (GH Pages y CF Pages lo sirven solos).
-Determinista: CI lo relanza en cada push; crons, antes de commitear."""
+Reglas:
+  - El contenido de cada mercado es el castellano + el overlay
+    data/i18n/contenido/<idioma>.json (merge por slug/índice). Los enlaces de
+    Amazon NO se traducen nunca: los pone el JS con el dominio y tag del mercado.
+  - Fuera de España no se genera la página de una entrada de blog hasta que esa
+    entrada está traducida: 64 títulos en castellano bajo /de/blog/ serían
+    contenido duplicado. La home, /fuentes/ y el índice de kits sí van siempre.
+  - Cada página lleva hreflang de todos los mercados donde existe esa misma ruta,
+    más x-default → castellano. Es lo que hace que Google sirva /de/ a un alemán
+    en vez de la portada española.
+  - /zona/ y /noticias/ son de España (AEMET, IGN, Google News ES): no se generan
+    fuera de la raíz.
+
+Servidor con fallback al shell (SPA) -> Chrome headless dump -> inyección de
+metadatos -> fichero en la ruta real. Determinista y re-ejecutable.
+"""
 import json
 import http.server
 import re
@@ -24,6 +38,16 @@ RAIZ = Path(__file__).resolve().parents[1]
 BASE = "https://kit72h.com"
 PUERTO = 8795
 
+# Fuente única de mercados, contenido traducido y rutas (scripts/mercados.py).
+from mercados import (  # noqa: E402  (import tras fijar la raíz)
+    alternos as alternos_de,
+    cargar_mercados,
+    contenido as contenido_mercados,
+    indice_hreflang,
+    prefijo,
+    rutas_de,
+)
+
 
 def encontrar_chrome():
     import os
@@ -34,8 +58,6 @@ def encontrar_chrome():
     if w:
         return w
     # VM NaN (sin root): chromium de playwright + librerías extraídas en ~/.chrome-libs.
-    # El wrapper kit72h-prerender-vm.py exporta CHROME_BIN, pero llamadas directas
-    # (auto-fix del seo-audit) no llevan env → resolver aquí también (fix 2026-10-10).
     import glob as _glob
     pw = sorted(_glob.glob(os.path.expanduser(
         "~/.cache/ms-playwright/chromium-*/chrome-linux*/chrome")))
@@ -43,32 +65,8 @@ def encontrar_chrome():
               "~/.cache/chrome/chrome-headless-shell*/chrome-headless-shell")))
           + sorted(_glob.glob(os.path.expanduser(
               "~/.cache/chrome/chrome-headless-shell/*/chrome-headless-shell-linux64/chrome-headless-shell"))))
-    # Sondeo: un binario que no arranca (p. ej. chromium nuevo de Playwright sin
-    # todas las libs de sistema, visto 2026-10-28 con chromium-1248 sin libcups)
-    # no vale aunque exista. Preferir el primero que responda a --version:
-    # primero el headless-shell (probado en este VM), luego el chromium completo.
-    sondeo = hs + pw
-    elegido = None
-    libs = os.path.expanduser("~/.chrome-libs")
-    env_sondeo = dict(os.environ)
-    if os.path.isdir(libs):
-        extra = f"{libs}/usr/lib/x86_64-linux-gnu:{libs}/lib/x86_64-linux-gnu"
-        env_sondeo["LD_LIBRARY_PATH"] = (
-            f"{extra}:{env_sondeo['LD_LIBRARY_PATH']}" if env_sondeo.get("LD_LIBRARY_PATH") else extra)
-    for cand in sondeo:
-        try:
-            v = subprocess.run([cand, "--version"], capture_output=True, timeout=20, env=env_sondeo)
-            if v.returncode == 0 and v.stdout.strip():
-                elegido = cand
-                break
-        except Exception:
-            continue
+    elegido = pw[-1] if pw else (hs[-1] if hs else None)
     if elegido:
-        # el binario necesita librerías de sistema extraídas (~/.chrome-libs):
-        # inyectarlas en el env que heredarán los subprocesos. Vale tanto para el
-        # chromium de Playwright como para el headless-shell de ~/.cache/chrome
-        # (fix 2026-10-19: en el VM ya no hay build de Playwright ni paquete, y
-        # el headless-shell es el único chrome que responde --dump-dom).
         libs = os.path.expanduser("~/.chrome-libs")
         if os.path.isdir(libs):
             extra = f"{libs}/usr/lib/x86_64-linux-gnu:{libs}/lib/x86_64-linux-gnu"
@@ -89,16 +87,22 @@ class H(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         ruta = self.path.split("?")[0].split("#")[0]
         # Siempre el shell en rutas de sección: así la cabecera/nav prerendeada
-        # es SIEMPRE la actual. Antes servía el fichero ya generado y la nav se
-        # congelaba en la versión con la que se creó cada página (los enlaces
-        # «aparecían y desaparecían» según dónde entrabas).
+        # es SIEMPRE la actual (si se sirviera el fichero ya generado, la nav se
+        # congelaría en la versión con la que se creó cada página).
         if ruta.endswith("/"):
-            shell = (RAIZ / "index.html").read_bytes()
+            shell = (RAIZ / "index.html").read_text(encoding="utf-8")
+            # OJO: index.html es shell Y portada horneada. Si se sirve tal cual, el
+            # marcador de éxito («cta-kit», «data-mercado=») YA está en el HTML antes
+            # de que corra el JS y el dump puede capturar la portada anterior: así se
+            # horneó /en-gb/ en castellano (detectado por el gate el 2026-11-14).
+            # Se vacía #app: cada página tiene que renderizarse de verdad.
+            shell = re.sub(r'(<main id="app"[^>]*>).*?(</main>)', r'\1\2', shell, flags=re.S)
+            datos = shell.encode("utf-8")
             self.send_response(200)
             self.send_header("Content-Type", "text/html; charset=utf-8")
-            self.send_header("Content-Length", str(len(shell)))
+            self.send_header("Content-Length", str(len(datos)))
             self.end_headers()
-            self.wfile.write(shell)
+            self.wfile.write(datos)
             return
         super().do_GET()
 
@@ -109,11 +113,11 @@ def dump(chrome, url, marca_esperada):
     fallo es intermitente, así que se reintenta hasta 3 veces."""
     perfil = Path(tempfile.gettempdir()) / f"prerender-{abs(hash(url)) % 99999}"
     html = ""
-    for intento in range(3):
+    for _ in range(3):
         r = subprocess.run(
             [chrome, "--headless=new", "--disable-gpu", "--no-sandbox",
              f"--user-data-dir={perfil}", "--hide-scrollbars",
-             "--virtual-time-budget=9000", "--dump-dom", url],
+             "--virtual-time-budget=12000", "--dump-dom", url],
             capture_output=True, timeout=90)
         html = r.stdout.decode("utf-8", "ignore")
         if marca_esperada in html:
@@ -124,11 +128,11 @@ def dump(chrome, url, marca_esperada):
 
 
 def jsonld(bloque):
-    """JSON-LD seguro para inyectar (escape de </script>)."""
     return json.dumps(bloque, ensure_ascii=False, indent=2).replace("</", "<\\/")
 
 
-def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
+def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True,
+             locale="es_ES", inlang="es", alternos=None):
     head = []
     if reemplazar_desc and desc:
         nuevo, n = re.subn(r'<meta name="description" content="[^"]*">',
@@ -138,24 +142,26 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
             html = nuevo
         else:
             head.append(f'<meta name="description" content="{escape(desc, quote=True)}">')
-    # canonical y OG: SIEMPRE reemplazar (el shell trae los de home)
+    # canonical y OG: SIEMPRE reemplazar (el shell trae los de la portada)
     html = re.sub(r'<link rel="canonical" href="[^"]*">\s*', '', html)
+    html = re.sub(r'<link rel="alternate" hreflang="[^"]*" href="[^"]*">\s*', '', html)
     head.append(f'<link rel="canonical" href="{canonical}">')
+    for alt in (alternos or []):
+        head.append(f'<link rel="alternate" hreflang="{alt[0]}" href="{alt[1]}">')
     html = re.sub(r'<meta property="og:[^"]*" content="[^"]*">\s*', '', html)
     html = re.sub(r'<meta name="twitter:card" content="[^"]*">\s*', '', html)
     # twitter:image y el favicon inline NO cubren los re.sub de arriba: sin
-    # esto cada horneado AÑADÍA otra copia (vistas duplicadas en 78 páginas
-    # el 2026-10-16). Se quitan antes de reponer, igual que og:*.
+    # esto cada horneado AÑADÍA otra copia (vistas duplicadas en 78 páginas).
     html = re.sub(r'<meta name="twitter:image" content="[^"]*">\s*', '', html)
     html = re.sub(r'<link rel="icon" href="data:image/svg[^"]*">\s*', '', html)
-    # JSON-LD inyectado en runs previos: quitar y reponer (los del shell: WebSite/FAQ/ItemList, se quedan)
+    # JSON-LD inyectado en runs previos: quitar y reponer (los del shell se quedan)
     html = re.sub(
         r'<script type="application/ld\+json">\s*\{[\s\S]{0,3000}?"@type":\s*'
         r'"(?:Article|BreadcrumbList|BlogPosting|CollectionPage|Blog)"[\s\S]*?\}\s*</script>\s*',
         '', html)
     # ...pero los del shell son de la HOME y el servidor los sirve en TODAS las rutas.
-    # Sin este strip, cada post de "mejor power station" declaraba a Google un FAQPage
-    # y un HowTo de montaje de kit 72h que no están en su página (auditoría 2026-11-09).
+    # Sin este strip, cada post declaraba a Google un FAQPage y un HowTo de montaje de
+    # kit 72h que no están en su página (auditoría 2026-11-09).
     if canonical.rstrip("/") != BASE.rstrip("/"):
         html = re.sub(
             r'<script type="application/ld\+json"[^>]*data-nz="home-(?:faq|howto|kits)"[^>]*>'
@@ -164,15 +170,13 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
     head.append(f'<meta property="og:url" content="{canonical}">')
     head.append('<meta property="og:site_name" content="Kit72h">')
     head.append(f'<meta property="og:title" content="{escape(titulo or "Kit72h — Kits de emergencia 72 horas", quote=True)}">')
-    head.append(f'<meta property="og:description" content="{escape(desc or "Checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. Fuentes oficiales citadas.", quote=True)}">')
-    # OG image compartida (fix 2026-10-15: compartir en redes salia sin imagen)
+    head.append(f'<meta property="og:description" content="{escape(desc or "", quote=True)}">')
     head.append(f'<meta property="og:image" content="{BASE}/assets/og-kit72h.png">')
     head.append('<meta property="og:image:width" content="1200">')
     head.append('<meta property="og:image:height" content="630">')
-    head.append('<meta property="og:locale" content="es_ES">')
+    head.append(f'<meta property="og:locale" content="{locale}">')
     head.append('<meta name="twitter:card" content="summary_large_image">')
     head.append(f'<meta name="twitter:image" content="{BASE}/assets/og-kit72h.png">')
-    # favicon inline (una sola definicion; quita el tag roto del shell si viniera)
     head.append('<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 64 64\'%3E%3Crect width=\'64\' height=\'64\' fill=\'%23D14B27\'/%3E%3Ctext x=\'32\' y=\'42\' font-family=\'Arial Black,Arial\' font-size=\'26\' font-weight=\'900\' fill=\'%23F1EBDF\' text-anchor=\'middle\'%3E72%3C/text%3E%3C/svg%3E">')
     if ld:
         for bloque in ld:
@@ -181,23 +185,24 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True):
     return html
 
 
+# ─────────────────────────── main ───────────────────────────
 def main():
     chrome = encontrar_chrome()
-    kits_d = json.loads((RAIZ / "data/kits.json").read_text(encoding="utf-8"))
-    blog_d = json.loads((RAIZ / "data/blog.json").read_text(encoding="utf-8"))
-    rev = kits_d.get("meta", {}).get("ultima_revision", "2026-09-28")
+    datos = contenido_mercados()
+    mercados = [d["mercado"] for d in datos.values()]
+    # --solo es,de  → hornea solo esos mercados (desarrollo y pruebas)
+    solo = None
+    if "--solo" in sys.argv:
+        solo = sys.argv[sys.argv.index("--solo") + 1].split(",")
+        mercados = [m for m in mercados if m["id"] in solo]
+    rev = (datos["es"]["kits"].get("meta") or {}).get("ultima_revision", "2026-09-28")
 
-    rutas = [("/", None), ("/fuentes/", None), ("/blog/", None), ("/zona/", None),
-             ("/noticias/", None)]
-    for k in kits_d["kits"]:
-        rutas.append((f"/kit/{k['slug']}/", ("kit", k)))
-    for e in blog_d["entradas"]:
-        rutas.append((f"/blog/{e['slug']}/", ("blog", e)))
+    # Índice global clave lógica -> {id_mercado: ruta}: empareja los hreflang.
+    indice = indice_hreflang(datos)
 
-    # Puerto: si otro prerender lo tiene cogido (el vigilante semanal a la misma hora,
-    # o un run anterior que murió por timeout dejando el servidor huérfano), NO morir
-    # con EADDRINUSE: ese fallo rápido abortaba el prerender y el wrapper commiteaba
-    # igualmente HTML viejo — el incidente del 2026-09-29. Se pide al SO un puerto libre.
+    def alternos_para(clave):
+        return alternos_de(clave, datos, indice)
+
     socketserver.TCPServer.allow_reuse_address = True
     try:
         srv = socketserver.TCPServer(("127.0.0.1", PUERTO), H)
@@ -206,207 +211,177 @@ def main():
         print(f"puerto {PUERTO} ocupado → usando el {srv.server_address[1]}")
     puerto = srv.server_address[1]
     threading.Thread(target=srv.serve_forever, daemon=True).start()
+
     ok = fallos = 0
     try:
-        for ruta, ctx in rutas:
-            url = f"http://127.0.0.1:{puerto}{ruta}"
-            try:
-                # asserts de contenido horneado: se calculan ANTES del dump
-                # para que el reintentador de dump() pueda validarlos.
-                if ctx and ctx[0] == "kit":
-                    # kit-kit-profesional no tiene secciones → no tiene barra-progreso;
-                    # usamos el canonical href como marcador alternativo
-                    kit_data = ctx[1]
-                    if kit_data.get("secciones"):
-                        esperado = "barra-progreso"
+        for m in mercados:
+            d = datos[m["id"]]
+            ui = d["ui"]
+            print(f"\n== {m['id']} ({m['locale']}) ==", flush=True)
+            for ruta, clave in rutas_de(m, datos[m["id"]]):
+                url = f"http://127.0.0.1:{puerto}{ruta}"
+                try:
+                    # Marca que SOLO existe en la página de destino (una marca
+                    # compartida hacía pasar el test con la portada copiada).
+                    if clave == "home":
+                        esperado = "cta-kit"
+                    elif clave == "fuentes":
+                        esperado = "fuentes-pagina"
+                    elif clave == "blogidx":
+                        esperado = "hero-blog"
+                    elif clave == "zona":
+                        esperado = "zona-mapa"
+                    elif clave == "noticias":
+                        esperado = "noticias-pagina"
+                    elif clave.startswith("kit/"):
+                        slug = clave.split("/", 1)[1]
+                        kit = next(k for k in d["kits"]["kits"] if k["slug"] == slug)
+                        esperado = "barra-progreso" if kit.get("secciones") else f"/kit/{slug}/"
                     else:
-                        esperado = f"/kit/{kit_data['slug']}/"  # canonical en el href del enlace de vuelta
-                elif ctx and ctx[0] == "blog":
-                    esperado = "cuerpo-blog"
-                elif ruta == "/blog/":
-                    # 'hero-blog' solo existe en el índice del blog: con 'card-blog'
-                    # el assert pasaba aunque el dump fuera la home (bug 2026-09-29).
-                    esperado = "hero-blog"
-                elif ruta == "/fuentes/":
-                    esperado = "fuentes-pagina"
-                elif ruta == "/zona/":
-                    esperado = "zona-mapa"
-                elif ruta == "/noticias/":
-                    esperado = "noticias-pagina"
-                else:
-                    esperado = "cta-kit"
-                html = dump(chrome, url, esperado)
-                # si el render vino sin la marca, FALLO
-                assert esperado in html, f"contenido no horneado (falta {esperado})"
-                canonical = BASE + ruta
-                if ctx is None:
-                    if ruta == "/":
-                        html = inyectar(html, titulo="Kit72h — 20 kits de emergencia 72h para España (UE + Protección Civil)",
-                                        desc="Checklist marcable y cesta en 1 clic: DANA, apagón, coche, hogar y montaña. Fuentes oficiales citadas.",
-                                        canonical=BASE + "/",
-                                        reemplazar_desc=False)
-                        dest = RAIZ / "index.html"
-                    elif ruta == "/fuentes/":
-                        html = inyectar(html, titulo="Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más",
-                                        desc="Todas las fuentes oficiales de donde se basan "
-                                             "los kits: UE, Protección Civil, AEMET, REE, "
-                                             "AESAN y más. Actualizadas y verificadas.",
-                                        canonical=canonical,
-                                        ld=[{
-                                            "@context": "https://schema.org",
-                                            "@type": "CollectionPage",
-                                            "name": "Fuentes oficiales — Kit72h",
-                                            "url": canonical,
-                                            "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
-                                        }])
-                        dest = RAIZ / "fuentes" / "index.html"
-                    elif ruta == "/noticias/":
-                        html = inyectar(
-                            html,
-                            titulo="Lo que está pasando: provisiones, incendios, inundaciones y apagones — Kit72h",
-                            desc="Titulares reales sobre países que piden provisiones a su "
-                                 "población, incendios, inundaciones y apagones, y el nivel "
-                                 "de alerta oficial (AEMET) provincia a provincia.",
-                            canonical=canonical,
-                            ld=[{
-                                "@context": "https://schema.org",
-                                "@type": "CollectionPage",
-                                "name": "Lo que está pasando — Kit72h",
-                                "url": canonical,
-                                "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
-                            }])
-                        dest = RAIZ / "noticias" / "index.html"
-                    elif ruta == "/zona/":
-                        html = inyectar(
-                            html,
-                            titulo="Tu zona: hospital, farmacia, refugio y 112 — Kit72h",
-                            desc="Tu zona: mapa con hospitales, farmacias, refugios y "
-                                 "puntos de encuentro cerca de ti. Elige ubicación y "
-                                 "radio; el 112, siempre a mano.",
-                            canonical=canonical,
-                            ld=[{
-                                "@context": "https://schema.org",
-                                "@type": "CollectionPage",
-                                "name": "Tu zona — Kit72h",
-                                "url": canonical,
-                                "isPartOf": {"@type": "WebSite", "url": BASE + "/"},
-                            }])
-                        dest = RAIZ / "zona" / "index.html"
-                    else:  # /blog/
-                        html = inyectar(html, titulo="Blog de preparación — Kit72h",
-                                        desc=f"{len(blog_d['entradas'])} guías prácticas "
-                                             "de preparación civil: qué comprar, cómo "
-                                             "almacenarlo y cómo actuar. Fuentes oficiales.",
-                                        canonical=canonical,
-                                        ld=[{
-                                            "@context": "https://schema.org",
-                                            "@type": "Blog",
-                                            "name": "Blog de preparación Kit72h",
-                                            "url": BASE + "/blog/",
-                                            "blogPost": [
-                                                {"@type": "BlogPosting",
-                                                 "headline": e["titulo"],
-                                                 "url": f"{BASE}/blog/{e['slug']}/",
-                                                 "datePublished": e["fecha"]}
-                                                for e in blog_d["entradas"][:20]],
-                                        }])
-                        dest = RAIZ / "blog" / "index.html"
-                elif ctx[0] == "kit":
-                    k = ctx[1]
-                    crumbs = ["Kit72h", "Kits", k["titulo"]]
-                    html = inyectar(
-                        html, titulo=f"{k['titulo']} — Kit72h", desc=k["resumen"],
-                        canonical=canonical,
-                        ld=[
-                            {"@context": "https://schema.org", "@type": "Article",
-                             "headline": k["titulo"], "description": k["resumen"],
-                             "dateModified": rev,
-                             "author": {"@type": "Organization", "name": "Kit72h"},
-                             "publisher": {"@type": "Organization", "name": "Kit72h"},
-                             "mainEntityOfPage": canonical,
-                             "inLanguage": "es"},
-                            {"@context": "https://schema.org", "@type": "BreadcrumbList",
-                             "itemListElement": [
-                                 {"@type": "ListItem", "position": 1, "name": "Kit72h",
-                                  "item": BASE + "/"},
-                                 {"@type": "ListItem", "position": 2, "name": "Kits",
-                                  "item": BASE + "/#kits"},
-                                 {"@type": "ListItem", "position": 3, "name": k["titulo"],
-                                  "item": canonical}]},
-                        ])
-                    dest = RAIZ / "kit" / k["slug"] / "index.html"
-                else:
-                    e = ctx[1]
-                    html = inyectar(
-                        html, titulo=f"{e['titulo']} — Blog Kit72h", desc=e["resumen"],
-                        canonical=canonical,
-                        ld=[
-                            {"@context": "https://schema.org", "@type": "BlogPosting",
-                             "headline": e["titulo"], "description": e["resumen"],
-                             "datePublished": e["fecha"], "dateModified": e["fecha"],
-                             "author": {"@type": "Organization", "name": "Kit72h"},
-                             "publisher": {"@type": "Organization", "name": "Kit72h"},
-                             "mainEntityOfPage": canonical,
-                             "keywords": ", ".join(e.get("etiquetas", [])),
-                             "inLanguage": "es",
-                             "wordCount": len(re.sub(r"<[^>]+>", " ", e.get("cuerpo", "")))},
-                            {"@context": "https://schema.org", "@type": "BreadcrumbList",
-                             "itemListElement": [
-                                 {"@type": "ListItem", "position": 1, "name": "Kit72h",
-                                  "item": BASE + "/"},
-                                 {"@type": "ListItem", "position": 2, "name": "Blog",
-                                  "item": BASE + "/blog/"},
-                                 {"@type": "ListItem", "position": 3, "name": e["titulo"],
-                                  "item": canonical}]},
-                        ])
-                    dest = RAIZ / "blog" / e["slug"] / "index.html"
+                        esperado = "cuerpo-blog"
+                    html = dump(chrome, url, esperado)
+                    assert esperado in html, f"contenido no horneado (falta {esperado})"
+                    # Guardia de mercado: el JS es el único que escribe este atributo,
+                    # así que su presencia prueba que la página es de ESTE país.
+                    assert f'data-mercado="{m["id"]}"' in html, \
+                        f"página horneada como otro mercado (falta data-mercado={m['id']})"
 
-                dest.parent.mkdir(parents=True, exist_ok=True)
-                # Idempotente: sin este strip, cada run acumulaba un marcador nuevo
-                # y el repo quedaba con 50 ficheros «modificados» para siempre.
-                html = re.sub(
-                    r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
-                    '', html)
-                # La tarjeta cruzada (js/promo-nomerallo.js) no se hornea: es un widget
-                # de navegador real y en el snapshot queda duplicada y congelada.
-                html = re.sub(r'<aside class="nr-promo.*?</aside>\s*', '', html, flags=re.S)
-                html = html.replace("</body>",
-                                    "<!-- GENERADO por scripts/prerender.py — no editar a mano -->\n</body>", 1)
-                dest.write_text(html, encoding="utf-8", newline="\n")
-                ok += 1
-                print(f"  ok  {ruta}")
-            except Exception as ex:
-                fallos += 1
-                print(f"  FALLO {ruta}: {ex}")
+                    canonical = BASE + ruta
+                    alternos = alternos_para(clave)
+                    common = dict(canonical=canonical, locale=m["locale"].replace("-", "_"),
+                                  inlang=m["lang"], alternos=alternos)
+
+                    if clave == "home":
+                        html = inyectar(html, titulo=ui.get("meta.home"),
+                                        desc=ui.get("meta.homeDesc", ""),
+                                        reemplazar_desc=False, **common)
+                        dest = (RAIZ / "index.html") if m["id"] == "es" else (RAIZ / prefijo(m) / "index.html")
+                    elif clave == "fuentes":
+                        html = inyectar(html, titulo=ui.get("meta.fuentes"),
+                                        desc=ui.get("meta.fuentesDesc", ""),
+                                        ld=[{"@context": "https://schema.org", "@type": "CollectionPage",
+                                             "name": ui.get("meta.fuentes"),
+                                             "url": canonical,
+                                             "inLanguage": m["lang"],
+                                             "isPartOf": {"@type": "WebSite", "url": BASE + "/"}}],
+                                        **common)
+                        dest = RAIZ / prefijo(m) / "fuentes" / "index.html"
+                    elif clave == "blogidx":
+                        entradas_m = [e for e in d["blog"]["entradas"]
+                                      if m["id"] == "es" or e["slug"] in d["traducidas"]]
+                        html = inyectar(html, titulo=ui.get("meta.blog"),
+                                        desc=ui.get("meta.blogDesc", ""),
+                                        ld=[{"@context": "https://schema.org", "@type": "Blog",
+                                             "name": ui.get("meta.blog"),
+                                             "url": canonical,
+                                             "inLanguage": m["lang"],
+                                             "blogPost": [
+                                                 {"@type": "BlogPosting", "headline": e["titulo"],
+                                                  "url": f"{BASE}{prefijo(m)}blog/{e['slug']}/",
+                                                  "datePublished": e["fecha"]}
+                                                 for e in entradas_m[:20]]}],
+                                        **common)
+                        dest = RAIZ / prefijo(m) / "blog" / "index.html"
+                    elif clave == "zona":
+                        html = inyectar(html,
+                                        titulo="Tu zona: hospital, farmacia, refugio y 112 — Kit72h",
+                                        desc="Tu zona: mapa con hospitales, farmacias, refugios y "
+                                             "puntos de encuentro cerca de ti. Elige ubicación y "
+                                             "radio; el 112, siempre a mano.",
+                                        ld=[{"@context": "https://schema.org", "@type": "CollectionPage",
+                                             "name": "Tu zona — Kit72h", "url": canonical,
+                                             "inLanguage": "es",
+                                             "isPartOf": {"@type": "WebSite", "url": BASE + "/"}}],
+                                        **common)
+                        dest = RAIZ / "zona" / "index.html"
+                    elif clave == "noticias":
+                        html = inyectar(html,
+                                        titulo="Lo que está pasando: provisiones, incendios, "
+                                               "inundaciones y apagones — Kit72h",
+                                        desc="Titulares reales sobre países que piden provisiones a su "
+                                             "población, incendios, inundaciones y apagones, y el nivel "
+                                             "de alerta oficial (AEMET) provincia a provincia.",
+                                        ld=[{"@context": "https://schema.org", "@type": "CollectionPage",
+                                             "name": "Lo que está pasando — Kit72h", "url": canonical,
+                                             "inLanguage": "es",
+                                             "isPartOf": {"@type": "WebSite", "url": BASE + "/"}}],
+                                        **common)
+                        dest = RAIZ / "noticias" / "index.html"
+                    elif clave.startswith("kit/"):
+                        slug = clave.split("/", 1)[1]
+                        k = next(x for x in d["kits"]["kits"] if x["slug"] == slug)
+                        html = inyectar(
+                            html, titulo=f"{k['titulo']} — Kit72h", desc=k.get("resumen", ""),
+                            ld=[
+                                {"@context": "https://schema.org", "@type": "Article",
+                                 "headline": k["titulo"], "description": k.get("resumen", ""),
+                                 "dateModified": rev,
+                                 "author": {"@type": "Organization", "name": "Kit72h"},
+                                 "publisher": {"@type": "Organization", "name": "Kit72h"},
+                                 "mainEntityOfPage": canonical, "inLanguage": m["lang"]},
+                                {"@context": "https://schema.org", "@type": "BreadcrumbList",
+                                 "itemListElement": [
+                                     {"@type": "ListItem", "position": 1, "name": "Kit72h",
+                                      "item": BASE + "/"},
+                                     {"@type": "ListItem", "position": 2, "name": "Kits",
+                                      "item": BASE + ("/" + prefijo(m) + "#kits" if prefijo(m) else "/#kits")},
+                                     {"@type": "ListItem", "position": 3, "name": k["titulo"],
+                                      "item": canonical}]},
+                            ], **common)
+                        dest = RAIZ / prefijo(m) / "kit" / slug / "index.html"
+                    else:  # entrada de blog
+                        slug = clave.split("/", 1)[1]
+                        e = next(x for x in d["blog"]["entradas"] if x["slug"] == slug)
+                        html = inyectar(
+                            html, titulo=f"{e['titulo']} — Blog Kit72h", desc=e.get("resumen", ""),
+                            ld=[
+                                {"@context": "https://schema.org", "@type": "BlogPosting",
+                                 "headline": e["titulo"], "description": e.get("resumen", ""),
+                                 "datePublished": e["fecha"], "dateModified": e["fecha"],
+                                 "author": {"@type": "Organization", "name": "Kit72h"},
+                                 "publisher": {"@type": "Organization", "name": "Kit72h"},
+                                 "mainEntityOfPage": canonical,
+                                 "keywords": ", ".join(e.get("etiquetas", [])),
+                                 "inLanguage": m["lang"],
+                                 "wordCount": len(re.sub(r"<[^>]+>", " ", e.get("cuerpo", "")))},
+                                {"@context": "https://schema.org", "@type": "BreadcrumbList",
+                                 "itemListElement": [
+                                     {"@type": "ListItem", "position": 1, "name": "Kit72h",
+                                      "item": BASE + "/"},
+                                     {"@type": "ListItem", "position": 2, "name": "Blog",
+                                      "item": BASE + prefijo(m) + "blog/"},
+                                     {"@type": "ListItem", "position": 3, "name": e["titulo"],
+                                      "item": canonical}]},
+                            ], **common)
+                        dest = RAIZ / prefijo(m) / "blog" / slug / "index.html"
+
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    html = re.sub(
+                        r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
+                        '', html)
+                    html = html.replace("</body>",
+                                        "<!-- GENERADO por scripts/prerender.py — no editar a mano -->\n</body>", 1)
+                    dest.write_text(html, encoding="utf-8", newline="\n")
+                    ok += 1
+                    print(f"  ok  {ruta}", flush=True)
+                except Exception as ex:
+                    fallos += 1
+                    print(f"  FALLO {ruta}: {ex}", flush=True)
     finally:
         srv.shutdown()
-    print(f"prerender: {ok} rutas generadas, {fallos} fallos")
+    print(f"\nprerender: {ok} rutas generadas, {fallos} fallos")
     sys.exit(1 if fallos else 0)
 
 
 def _reexec_playwright_si_procede():
     """En el VM de NaN el CLI de Chrome (--dump-dom) cuelga; si existe el venv con
-    Playwright, delega en scripts/prerender_playwright.py (una sola verdad para
-    toda la cadena: buscador, vigilante, seo-audit, seo-ctr). Desactivable con
-    KIT72H_NO_REEXEC=1. En una máquina sin ese venv (p. ej. Windows) no hace nada
-    y se usa el CLI de siempre."""
+    Playwright, delega en scripts/prerender_playwright.py."""
     import os
     if os.environ.get("KIT72H_NO_REEXEC") == "1":
         return
     venv = Path.home() / ".mastermind" / "venv" / "bin" / "python"
     if not venv.exists():
         return
-    # OJO: aquí había un `if sys.executable == venv: return` que daba por hecho que "venir del
-    # venv" ya significaba "versión Playwright". Falso: wrapper del VM lanza ESTE fichero con
-    # el python del venv, así que se quedaba con el CLI de Chrome… y el CLI cuelga con el Chrome
-    # 153 que trae el propio Playwright (medido 2026-10-11: rc=124, stdout vacío, hasta con una
-    # página trivial). El antídoto contra el bucle ya estaba: la delegación exporta
-    # KIT72H_NO_REEXEC=1, así que aquí se delega siempre que haga falta.
-    # OJO 2026-10-19: el venv puede existir SIN el paquete playwright (venv rehecho;
-    # el build de Chromium de Playwright tampoco está en ~/.cache/ms-playwright).
-    # Delegar ahí es un SystemExit(3) «FALTA playwright» que rompe el horneado
-    # entero (buscador, publicador, seo-ctr incluidos) → solo se delega si el
-    # paquete está de verdad; si no, se sigue con el CLI de Chrome local.
     if not list((venv.parent.parent).glob("lib/python*/site-packages/playwright/__init__.py")):
         print("prerender: el venv no tiene playwright → uso el CLI de Chrome local",
               flush=True)

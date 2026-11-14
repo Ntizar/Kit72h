@@ -1,11 +1,16 @@
-/* Kit72h — entry point */
+/* Kit72h — entry point
+   Orden: i18n (idioma + país) -> posible redirección por país -> datos -> render. */
 (async () => {
-  // Enlaces antiguos (#kit/slug) -> URLs reales
+  await i18n.init();
+  // La raíz redirige al mercado del país una sola vez; el selector manda siempre después.
+  if (await i18n.autoPais()) return;
+
+  // Enlaces antiguos (#kit/slug) -> URLs reales, con el prefijo del mercado.
   const h = location.hash;
-  if (h.startsWith('#kit/')) return location.replace('/kit/' + h.slice(5) + '/');
-  if (h.startsWith('#blog/')) return location.replace('/blog/' + h.slice(6) + '/');
-  if (h === '#blog') return location.replace('/blog/');
-  if (h === '#fuentes') return location.replace('/fuentes/');
+  if (h.startsWith('#kit/')) return location.replace(i18n.url('/kit/' + h.slice(5) + '/'));
+  if (h.startsWith('#blog/')) return location.replace(i18n.url('/blog/' + h.slice(6) + '/'));
+  if (h === '#blog') return location.replace(i18n.url('/blog/'));
+  if (h === '#fuentes') return location.replace(i18n.url('/fuentes/'));
   await state.cargar();
   ui.render();
   window.addEventListener('hashchange', () => ui.render());

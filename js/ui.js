@@ -1,8 +1,13 @@
-/* Kit72h — ui: render de vistas tácticas (datos en data/kits.json y data/blog.json) */
+/* Kit72h — ui: render de vistas tácticas.
+   Datos: data/kits.json + data/blog.json (castellano, fuente de verdad) y, para
+   otros idiomas, el overlay data/i18n/contenido/<lang>.json que se fusiona encima.
+   Textos de interfaz: i18n.t(). País, Amazon, moneda y emergencias: i18n.mercado.
+   NADA de país ni de texto de interfaz hardcodeado aquí. */
 
 /* Precios reales de Amazon (data/precios.json, lo escribe scripts/precios-amazon.py).
    Si el fichero no está o el ASIN no trae precio, la web cae al rango de siempre:
-   nunca se pinta una cifra inventada. */
+   nunca se pinta una cifra inventada. Los precios son de amazon.es: solo se usan
+   en el mercado español; fuera se muestra el rango orientativo convertido. */
 const precios = {
   data: null,
   async cargar() {
@@ -39,7 +44,8 @@ const precios = {
     return { suma: Math.round(suma * 100) / 100, n, total, esSuma: Math.round(esSuma * 100) / 100, nEs };
   },
   eur(n) {
-    return Number(n).toLocaleString('es-ES', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
+    const loc = (typeof i18n !== 'undefined' && i18n.mercado) ? i18n.mercado.locale : 'es-ES';
+    return Number(n).toLocaleString(loc, { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' €';
   },
   /* «315,49 € 369,99 € · -15%» — el antes tachado y el % sólo si Amazon los publica */
   sello(p) {
@@ -53,12 +59,27 @@ const precios = {
     const iso = this.data && this.data.meta && this.data.meta.actualizado;
     if (!iso) return '';
     const d = new Date(iso);
-    return isNaN(d) ? '' : d.toLocaleDateString('es-ES', { day: '2-digit', month: '2-digit' });
+    const loc = (typeof i18n !== 'undefined' && i18n.mercado) ? i18n.mercado.locale : 'es-ES';
+    return isNaN(d) ? '' : d.toLocaleDateString(loc, { day: '2-digit', month: '2-digit' });
   }
 };
 
 const ui = {
-  tag: 'ntizar-21',
+  get tag() { return i18n.tag(); },
+
+  T(clave, vars) { return i18n.t(clave, vars); },
+  url(ruta) { return i18n.url(ruta); },
+
+  /* Prefija los href internos de un bloque de HTML venido de datos (FAQ, blog,
+     guías). En castellano es un no-op; en /de/ convierte /kit/x/ en /de/kit/x/. */
+  hrefs(html) {
+    const base = (i18n.mercado && i18n.mercado.ruta !== '/') ? i18n.mercado.ruta : '/';
+    if (base === '/') return String(html);
+    return String(html).replace(/href="\//g, `href="${base}`);
+  },
+
+  esEspana() { return !i18n.mercado || i18n.mercado.id === 'es'; },
+  numEmergencias() { return (i18n.mercado && i18n.mercado.emergencias && i18n.mercado.emergencias.numero) || '112'; },
 
   marquee(txt) {
     const span = `<span>${txt}</span>`;
@@ -70,15 +91,16 @@ const ui = {
     this.render();
   },
 
+  /* La ruta se lee SIN el prefijo del mercado: /de/kit/x/ -> vista kit x. */
   vistaDesdeHash() {
-    const p = location.pathname.replace(/\/+$/, '') || '/';
+    const p = i18n.sinMercado(location.pathname).replace(/\/+$/, '') || '/';
+    if (p === '/fuentes') return { vista: 'fuentes' };
+    if (p === '/zona') return { vista: 'zona' };
+    if (p === '/noticias') return { vista: 'noticias' };
     if (p.startsWith('/kit/')) return { vista: 'kit', slug: p.split('/')[2] };
     // OJO: '/blog/' recorta la barra final -> '/blog' y startsWith('/blog/') nunca casa.
     // Sin esta línea, /blog/ (el índice) cae a 'home' y el índice prerenderizado ES la home.
     if (p === '/blog' || p.startsWith('/blog/')) { const s = p.split('/')[2]; return s ? { vista: 'blog', slug: s } : { vista: 'blog' }; }
-    if (p === '/fuentes') return { vista: 'fuentes' };
-    if (p === '/zona') return { vista: 'zona' };
-    if (p === '/noticias') return { vista: 'noticias' };
     const h = location.hash.replace('#', '');
     if (h.startsWith('kit/')) return { vista: 'kit', slug: h.split('/')[1] };
     if (h.startsWith('blog/')) return { vista: 'blog', slug: h.split('/')[1] };
@@ -91,7 +113,7 @@ const ui = {
   async render() {
     const { vista, slug } = this.vistaDesdeHash();
     const app = document.getElementById('app');
-    document.getElementById('disclosure').textContent = state.data.disclosure;
+    i18n.aplicarDOM();
     await Promise.all([estado.cargar(), blog.cargar(), precios.cargar(),
                        typeof noticias !== 'undefined' ? noticias.cargar() : null]);
 
@@ -99,33 +121,33 @@ const ui = {
       const kit = state.kitPorSlug(slug);
       if (!kit) { location.hash = ''; return this.render(); }
       app.innerHTML = this.htmlKit(kit);
-      document.title = `${kit.titulo}`;
+      document.title = `${kit.titulo} — Kit72h`;
     } else if (vista === 'fuentes') {
       app.innerHTML = this.htmlFuentes();
-      document.title = 'Fuentes oficiales — Kit72h: UE, Protección Civil, AEMET y más';
-    } else if (vista === 'zona') {
+      document.title = this.T('meta.fuentes');
+    } else if (vista === 'zona' && this.esEspana()) {
       app.innerHTML = this.htmlZona();
       document.title = 'Tu zona: hospital, farmacia, refugio y 112 — Kit72h';
       // 'const zona' NO cuelga de window: no comprobar window.zona, nunca arrancaría.
       try { if (typeof zona !== 'undefined') zona.iniciar(); } catch (e) { /* sin mapa: el texto sigue ahí */ }
       // Los avisos de AEMET no dependen del mapa: se pintan aunque Leaflet falle.
       try { if (typeof zona !== 'undefined') zona.cargarAlertas(); } catch (e) { /* la lista queda vacía */ }
-    } else if (vista === 'noticias') {
+    } else if (vista === 'noticias' && this.esEspana()) {
       app.innerHTML = this.htmlNoticias();
       document.title = 'Lo que está pasando: provisiones, incendios, inundaciones y apagones — Kit72h';
     } else if (vista === 'blog') {
       const entrada = slug ? blog.porSlug(slug) : null;
       if (slug && !entrada) { location.hash = 'blog'; return this.render(); }
       app.innerHTML = entrada ? this.htmlEntrada(entrada) : this.htmlBlog();
-      document.title = entrada ? entrada.titulo : 'Blog de preparación: guías de emergencia 2026 — Kit72h';
+      document.title = entrada ? `${entrada.titulo} — Kit72h` : this.T('meta.blog');
     } else {
       app.innerHTML = this.htmlHome();
-      document.title = 'Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)';
+      document.title = this.T('meta.home');
     }
     const ancla = location.hash;
     const objetivo = ancla && !ancla.startsWith('#kit/') && !ancla.startsWith('#blog/')
       && ancla !== '#fuentes' ? document.querySelector(ancla) : null;
-    if (objetivo) objetivo.scrollIntoView(); else window.scrollTo(0, 0);
+    if (objetivo) objetivo.scrollIntoView({ block: 'start' }); else window.scrollTo(0, 0);
   },
 
   /* ---- HOME: espejo de la referencia (diario de supervivencia) ---- */
@@ -134,32 +156,28 @@ const ui = {
   banderaCH(clase) {
     return `<svg class="bandera-ch${clase ? ' ' + clase : ''}" viewBox="0 0 32 32" role="img" aria-label="Bandera de Suiza"><rect width="32" height="32" fill="#DA291C"/><rect x="13" y="6" width="6" height="20" fill="#fff"/><rect x="6" y="13" width="20" height="6" fill="#fff"/></svg>`;
   },
+
   htmlHome() {
-    const compra = `https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}`;
+    const T = (k, v) => this.T(k, v);
+    const compra = i18n.amazonBusqueda(T('bloque.busqueda.q'));
     const bloques = [
-      {k:'agua', n:'01', cat:'AGUA', t:'Lo primero', d:'Reserva agua potable para cada persona y ajústala a su edad, salud y circunstancia. Revisa envases y caducidad.', p:'5–20 €', q:'garrafa+agua+potable+almacenamiento', b:'Buscar recipientes',
-       ic:'<path d="M12 3 C12 3 5 10.5 5 15 a7 7 0 0 0 14 0 C19 10.5 12 3 12 3 Z"/><path d="M9 15.5 a3 3 0 0 0 3 3"/>'},
-      {k:'luz', n:'02', cat:'LUZ', t:'Ver sin red', d:'Una linterna LED fiable y pilas de repuesto. Una por hogar es un comienzo; reparte más si sois varios.', p:'10–30 €', q:'linterna+led+pilas+emergencia', b:'Buscar linternas',
-       ic:'<path d="M12 3 a6 6 0 0 1 3.5 10.9 c-.6.5-1 1.3-1 2.1 H9.5 c0-.8-.4-1.6-1-2.1 A6 6 0 0 1 12 3 Z"/><path d="M9.5 19 h5 M10.5 21.5 h3"/>'},
-      {k:'energia', n:'03', cat:'ENERGÍA', t:'Sigue conectado', d:'Batería externa cargada, cable compatible y, si te encaja, radio de pilas para recibir información.', p:'20–65 €', q:'powerbank+20000mah+radio+emergencia', b:'Buscar energía',
-       ic:'<path d="M13 2 L5 14 h6 l-2 8 8-12 h-6 z"/>'},
-      {k:'salud', n:'04', cat:'SALUD', t:'Cuida de los tuyos', d:'Botiquín básico, tus medicamentos habituales y necesidades específicas de bebés, mayores o mascotas.', p:'15–45 €', q:'botiquin+primeros+auxilios+hogar', b:'Buscar botiquines',
-       ic:'<rect x="3.5" y="3.5" width="17" height="17"/><path d="M12 8 v8 M8 12 h8"/>'},
-      {k:'comida', n:'05', cat:'COMIDA', t:'Algo que comer', d:'Alimentos duraderos que ya consumís, adaptados a alergias y dietas. Rótalos y añade un abrelatas si lo necesitas.', p:'15–50 €', q:'alimentos+no+perecederos+emergencia', b:'Buscar comida',
-       ic:'<path d="M7 7 h10 v13 a1.5 1.5 0 0 1 -1.5 1.5 h-7 A1.5 1.5 0 0 1 7 20 Z"/><ellipse cx="12" cy="7" rx="5" ry="2"/><path d="M7 11 h10"/>'},
-      {k:'docs', n:'06', cat:'DOCUMENTOS', t:'Lo irreemplazable', d:'Copias de identificación, contactos importantes y una funda impermeable. Guárdalos con cuidado, fuera del alcance ajeno.', p:'7–25 €', q:'bolsa+impermeable+documentos', b:'Buscar fundas',
-       ic:'<path d="M7 3 h7 l4 4 v14 H7 Z"/><path d="M14 3 v4 h4"/><path d="M10 12 h6 M10 16 h6"/>'}
+      { k: 'agua', n: '01', ic: '<path d="M12 3 C12 3 5 10.5 5 15 a7 7 0 0 0 14 0 C19 10.5 12 3 12 3 Z"/><path d="M9 15.5 a3 3 0 0 0 3 3"/>' },
+      { k: 'luz', n: '02', ic: '<path d="M12 3 a6 6 0 0 1 3.5 10.9 c-.6.5-1 1.3-1 2.1 H9.5 c0-.8-.4-1.6-1-2.1 A6 6 0 0 1 12 3 Z"/><path d="M9.5 19 h5 M10.5 21.5 h3"/>' },
+      { k: 'energia', n: '03', ic: '<path d="M13 2 L5 14 h6 l-2 8 8-12 h-6 z"/>' },
+      { k: 'salud', n: '04', ic: '<rect x="3.5" y="3.5" width="17" height="17"/><path d="M12 8 v8 M8 12 h8"/>' },
+      { k: 'comida', n: '05', ic: '<path d="M7 7 h10 v13 a1.5 1.5 0 0 1 -1.5 1.5 h-7 A1.5 1.5 0 0 1 7 20 Z"/><ellipse cx="12" cy="7" rx="5" ry="2"/><path d="M7 11 h10"/>' },
+      { k: 'docs', n: '06', ic: '<path d="M7 3 h7 l4 4 v14 H7 Z"/><path d="M14 3 v4 h4"/><path d="M10 12 h6 M10 16 h6"/>' }
     ].map(b => `
       <article class="bloque-lista b-${b.k}">
         <div class="bloque-top">
-          <span class="bloque-flag">${b.n} / ${b.cat}</span>
+          <span class="bloque-flag">${b.n} / ${T('bloque.' + b.k + '.cat')}</span>
           <svg class="bloque-icono" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${b.ic}</svg>
         </div>
-        <h3>${b.t}</h3>
-        <p>${b.d}</p>
+        <h3>${T('bloque.' + b.k + '.t')}</h3>
+        <p>${T('bloque.' + b.k + '.d')}</p>
         <div class="bloque-pie">
-          <span class="presup">Presupuesto orientativo: ${b.p}</span>
-          <a class="btn-amazon" href="https://www.amazon.es/s?k=${b.q}&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">${b.b} ↗</a>
+          <span class="presup">${T('lista.presupuesto', { p: i18n.precio(T('bloque.' + b.k + '.p')) })}</span>
+          <a class="btn-amazon" href="${i18n.amazonBusqueda(T('bloque.' + b.k + '.q'))}" target="_blank" rel="sponsored nofollow noopener">${T('bloque.' + b.k + '.b')} ↗</a>
         </div>
       </article>`).join('');
 
@@ -168,54 +186,55 @@ const ui = {
     const tarjetaKit = (k, i) => {
       const c = precios.costeKit(k);
       return `
-      <a class="card-kit" href="/kit/${k.slug}/">
+      <a class="card-kit" href="${this.url('/kit/' + k.slug + '/')}">
         <div class="fila-top"><span class="icono${k.bandera ? ' icono--bandera' : ''}">${k.bandera === 'ch' ? this.banderaCH() : k.icono}</span><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${k.titulo}</h2>
         <p>${k.resumen}</p>
         <div class="pie">
-          <span class="coste-kit">${k.coste_total || 'Lista gratuita'}</span>
-          ${c.n >= 3 ? `<span class="coste-hoy">hoy ${precios.eur(c.suma)}</span>` : ''}
-          <span class="ir">Abrir →</span>
+          <span class="coste-kit">${k.coste_total ? i18n.precio(k.coste_total) : T('kit.gratis')}</span>
+          ${this.esEspana() && c.n >= 3 ? `<span class="coste-hoy">${T('precio.hoy', { p: precios.eur(c.suma) })}</span>` : ''}
+          <span class="ir">${T('kit.abrir')}</span>
         </div>
       </a>`;
     };
 
     const tarjetaStarlink = `
-      <a class="card-kit card-starlink" href="/kit/kit-starlink/">
+      <a class="card-kit card-starlink" href="${this.url('/kit/kit-starlink/')}">
         <div class="fila-top"><span class="icono">📡</span><span class="num">⭐</span></div>
-        <h2>Conectividad Starlink</h2>
-        <p>Internet satelital cuando se cae todo: móviles, fibra, LTE. Terminal + suscripción. La mejor solución de comunicación cuando la red se va.</p>
+        <h2>${T('starlink.t')}</h2>
+        <p>${T('starlink.d')}</p>
         <div class="pie">
-          <span class="coste-kit" style="color:var(--rojo)">400–600 € terminal · 50–60 €/mes suscripción</span>
-          <span class="ir" style="color:var(--rojo)">Ver ficha completa →</span>
+          <span class="coste-kit" style="color:var(--rojo)">${i18n.precio(T('starlink.coste'))}</span>
+          <span class="ir" style="color:var(--rojo)">${T('kit.verFicha')}</span>
         </div>
       </a>`;
 
     const tarjetaPro = (k) => `
-      <a class="card-kit card-pro-pokemon" href="/kit/${k.slug}/">
+      <a class="card-kit card-pro-pokemon" href="${this.url('/kit/' + k.slug + '/')}">
         <div class="holo-glare"></div>
         <div class="holo-shine"></div>
         <div class="pro-left">
           <div class="pro-badge-wrap"><span class="pro-badge">PRO</span></div>
           <h2>${k.titulo}</h2>
           <p>${k.resumen}</p>
-          <span class="pro-coste">${k.coste_total || ''}</span>
+          <span class="pro-coste">${k.coste_total ? i18n.precio(k.coste_total) : ''}</span>
         </div>
-        <div class="pro-right"><span class="pro-cta">Ver kit completo →</span></div>
+        <div class="pro-right"><span class="pro-cta">${T('kit.proCta')}</span></div>
       </a>`;
 
     const normales = state.data.kits.filter(k => !k.premium && k.slug !== 'kit-starlink');
-    const premium  = state.data.kits.filter(k => k.premium);
+    const premium = state.data.kits.filter(k => k.premium);
     const tarjetas = normales.map(tarjetaKit).join('')
       + tarjetaStarlink
       + premium.map(tarjetaPro).join('');
 
-    const blogFeatured = blog.entradas.slice(0, 3).map((e, i) => `
-      <a class="card-kit card-blog" href="/blog/${e.slug}/">
+    const blogFeatured = (this.esEspana() ? blog.entradas : blog.entradas.filter(e => e._traducido))
+      .slice(0, 3).map((e, i) => `
+      <a class="card-kit card-blog" href="${this.url('/blog/' + e.slug + '/')}">
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
-        <span class="meta-blog">⏱ ${this.lectura(e)} de lectura</span>
+        <span class="meta-blog">⏱ ${T('blog.lectura', { n: this.lectura(e) })}</span>
       </a>`).join('');
 
     const arte = `<div class="hero-arte" aria-hidden="true"><svg viewBox="0 0 1440 420" preserveAspectRatio="xMidYMax slice" xmlns="http://www.w3.org/2000/svg">
@@ -226,51 +245,54 @@ const ui = {
       <rect y="300" width="1440" height="6" fill="#0E0C09" opacity="0.25"/>
     </svg></div>`;
 
+    const faq = [1, 2, 3, 4, 5, 6, 7].map(n => `
+        <details class="faq-item"><summary>${T('faq.q' + n)}</summary><p>${this.hrefs(T('faq.a' + n, { num: this.numEmergencias() }))}</p></details>`).join('');
+
     return `
       <div class="hero">
         ${arte}
         <div class="container">
-          <span class="chip">Guía práctica · España · 72 horas</span>
-          <h1><span class="l1">Se va la luz.</span> <span class="l2">Tu kit de emergencia, en marcha.</span></h1>
-          <p class="hero-lead">Los primeros 30 minutos no son para buscar pilas a oscuras. Un kit 72h reúne lo esencial para pasar un corte de suministros o una evacuación breve con más margen y menos improvisación.</p>
+          <span class="chip">${T('hero.chip', { pais: (i18n.mercado && i18n.mercado.paisLocal) || 'España' })}</span>
+          <h1><span class="l1">${T('hero.l1')}</span> <span class="l2">${T('hero.l2')}</span></h1>
+          <p class="hero-lead">${T('hero.lead')}</p>
           <div class="hero-ctas">
-            <a class="btn ambar" href="#kits">Ver los kits ↓</a>
-            <a class="btn negro" href="${compra}" target="_blank" rel="sponsored nofollow noopener">Comprar mi kit →</a>
+            <a class="btn ambar" href="#kits">${T('hero.verKits')}</a>
+            <a class="btn negro" href="${compra}" target="_blank" rel="sponsored nofollow noopener">${T('hero.comprar')}</a>
           </div>
           <div class="hero-oferta">
           <a class="cta-kit" href="${compra}" target="_blank" rel="sponsored nofollow noopener">
-            <span class="cta-kit-t">No pierdas el tiempo:<br>compra tu kit completo</span>
-            <span class="cta-kit-b">Kit de emergencia de 72 h, listo para mandarlo a casa →</span>
+            <span class="cta-kit-t">${T('hero.ctaT')}</span>
+            <span class="cta-kit-b">${T('hero.ctaB')}</span>
           </a>
           <!-- Kit profesional: cuadro «carta PRO» plateada (mismo acabado que la de la grid) -->
-          <a class="kpro-hero-btn" href="/kit/kit-kit-profesional/">
+          <a class="kpro-hero-btn" href="${this.url('/kit/kit-kit-profesional/')}">
             <div class="holo-glare"></div>
             <div class="holo-shine"></div>
-            <span class="kpro-hero-chip">⚡ KIT PRO · ENERGÍA Y CONEXIÓN</span>
-            <span class="kpro-hero-title">Apagón de días.<br>Tu casa, encendida.</span>
-            <span class="kpro-hero-sub">SAI + 800 W de placas solares + baterías LFP + Starlink. Luz, nevera y conexión cuando la red no está, no un par de horas.</span>
-            <span class="kpro-hero-cta">Quiero el Kit Pro →</span>
+            <span class="kpro-hero-chip">${T('hero.proChip')}</span>
+            <span class="kpro-hero-title">${T('hero.proT1')}<br>${T('hero.proT2')}</span>
+            <span class="kpro-hero-sub">${T('hero.proSub')}</span>
+            <span class="kpro-hero-cta">${T('hero.proCta')}</span>
           </a>
           </div>
         </div>
       </div>
-      <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee('AGUA · LUZ · ENERGÍA · SALUD · COMIDA · DOCUMENTOS')}</div></div>
+      <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee(T('ticker'))}</div></div>
       ${this.htmlOfertaDia()}
       <section class="sec clara" id="plan">
         <div class="container">
           <div class="watermark" aria-hidden="true">72</div>
           <div class="sec-inner">
-            <span class="sec-label">01 / El plan</span>
+            <span class="sec-label">${T('plan.label')}</span>
             <div class="plan-head">
-              <h2>No es supervivencia.<br><span class="acento">Es estar listo.</span></h2>
-              <p>No necesitas comprarlo todo hoy. Reúne primero lo que ya tienes, identifica huecos y prepara una bolsa accesible. El kit cambia según quién viva contigo.</p>
+              <h2>${T('plan.h2a')}<br><span class="acento">${T('plan.h2b')}</span></h2>
+              <p>${T('plan.intro')}</p>
             </div>
             <div class="plan-grid">
-              <div class="card-plan"><span class="hora">00:00</span><h3>Se interrumpe</h3><p>La luz, la señal o el agua pueden fallar. Ten una linterna a mano y sigue las indicaciones oficiales de tu zona.</p></div>
-              <div class="card-plan"><span class="hora">00:30</span><h3>Localiza tu bolsa</h3><p>Agua, medicación habitual, radio, batería y documentos, juntos y fáciles de coger.</p></div>
-              <div class="card-plan"><span class="hora">72 H</span><h3>Ganas margen</h3><p>Un kit adaptado a tu hogar te ayuda mientras se restablecen servicios o recibes instrucciones.</p></div>
+              <div class="card-plan"><span class="hora">${T('plan.c1h')}</span><h3>${T('plan.c1t')}</h3><p>${T('plan.c1p')}</p></div>
+              <div class="card-plan"><span class="hora">${T('plan.c2h')}</span><h3>${T('plan.c2t')}</h3><p>${T('plan.c2p')}</p></div>
+              <div class="card-plan"><span class="hora">${T('plan.c3h')}</span><h3>${T('plan.c3t')}</h3><p>${T('plan.c3p')}</p></div>
             </div>
-            <p class="disclaimer">No hay una garantía de autonomía universal: necesidades, clima y situación cambian. Ante una emergencia, sigue siempre a los servicios oficiales. Esta página no sustituye sus indicaciones.</p>
+            <p class="disclaimer">${T('plan.disclaimer')}</p>
           </div>
         </div>
       </section>
@@ -278,25 +300,26 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">LISTA</div>
           <div class="sec-inner">
-            <span class="sec-label">02 / Tu lista</span>
-            <h2>El kit, <span class="acento">sin humo.</span></h2>
-            <p class="sec-intro" style="color:#4a4238">Seis bloques. Antes de comprar, mira qué tienes. Los botones abren búsquedas en Amazon.es con los rangos de presupuesto para planificar.</p>
+            <span class="sec-label">${T('lista.label')}</span>
+            <h2>${T('lista.h2a')}<span class="acento">${T('lista.h2b')}</span></h2>
+            <p class="sec-intro" style="color:#4a4238">${T('lista.intro', { amazon: 'Amazon.' + i18n.amazon.dominio.split('.').pop() })}</p>
             <div class="lista-bloques">${bloques}</div>
             <div class="ruta-corta">
               <div>
-                <span class="bloque-num" style="border:none;padding:0">La ruta corta</span>
-                <h3>Una bolsa.<br>Un plan.<br>Más calma.</h3>
+                <span class="bloque-num" style="border:none;padding:0">${T('ruta.label')}</span>
+                <h3>${T('ruta.h2')}</h3>
               </div>
               <div>
                 <ul>
-                  <li>Revisa el contenido real de los kits ya preparados</li>
-                  <li>Personaliza para bebés y mayores</li>
-                  <li>Comprueba caducidades cada cierto tiempo</li>
+                  <li>${T('ruta.li1')}</li>
+                  <li>${T('ruta.li2')}</li>
+                  <li>${T('ruta.li3')}</li>
                 </ul>
-                <a class="btn ambar" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">Buscar kit 72h en Amazon ↗</a>
+                <a class="btn ambar" href="${i18n.amazonBusqueda(T('bloque.busqueda.q'))}" target="_blank" rel="sponsored nofollow noopener">${T('ruta.btn')}</a>
               </div>
             </div>
-            <p class="lista-nota">* Los rangos son ejemplos de presupuesto para planificar, no precios actuales ni ofertas verificadas. Medicación y dietas especiales no incluidas.</p>
+            <p class="lista-nota">${T('lista.nota')}</p>
+            ${this.esEspana() ? '' : `<p class="lista-nota">${T('precio.nota')}</p>`}
           </div>
         </div>
       </section>
@@ -304,9 +327,9 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">KITS</div>
           <div class="sec-inner">
-            <span class="sec-label">03 / Los kits</span>
-            <h2>Elige tu escenario.<br><span class="acento2">Empieza por lo que te falta.</span></h2>
-            <p class="sec-intro">Cada kit es una lista cerrada: mira qué te falta de lo que ya tienes y, al final, un solo botón te lleva todo a la cesta de Amazon.</p>
+            <span class="sec-label">${T('kits.label')}</span>
+            <h2>${T('kits.h2a')}<br><span class="acento2">${T('kits.h2b')}</span></h2>
+            <p class="sec-intro">${T('kits.intro')}</p>
             <div class="grid-kits">${tarjetas}</div>
           </div>
         </div>
@@ -314,20 +337,13 @@ const ui = {
       <section class="sec clara" id="faq">
   <div class="container">
     <div class="sec-inner">
-      <span class="label">DUDAS FRECUENTES</span>
-      <h2>Preguntas frecuentes</h2>
-      <div class="faq-lista">
-        <details class="faq-item"><summary>¿Qué es un kit de emergencia de 72 horas?</summary><p>Es el conjunto de suministros (agua, comida no perecedera, luz, radio, botiquín y documentación) para que un hogar sea autónomo 72 horas ante un apagón, DANA o catástrofe. La Estrategia de Preparación de la Unión Europea de marzo de 2025 recomienda que todos los hogares tengan provisiones para 72 horas. <a href="/kit/kit-basico-72h/">En Kit72h tienes la lista completa basada en fuentes oficiales, lista para llevar a la cesta →</a></p></details>
-        <details class="faq-item"><summary>¿Por dónde empiezo si no tengo nada?</summary><p>Por lo esencial: agua, luz, radio y botiquín. El <a href="/kit/kit-basico-72h/">kit básico 72h</a> reúne lo mínimo verificado y lo lleva todo a la cesta de Amazon en un clic. Si el escenario que te preocupa es un corte eléctrico largo, añade el <a href="/kit/kit-apagon/">kit de apagón</a>.</p></details>
-        <details class="faq-item"><summary>¿Cuánta agua debo almacenar para una emergencia?</summary><p>3 litros por persona y día solo para beber, más 2-4 litros adicionales para higiene básica. Para 72 horas, una familia de 4 personas necesita unos 36 litros de agua potable. El agua debe renovarse cada 6 meses y guardarse lejos del sol y de productos de limpieza. <a href="/kit/kit-basico-72h/">Garrafas, conservación y filtros: todo en el kit básico →</a></p></details>
-        <details class="faq-item"><summary>¿Qué es obligatorio llevar en el coche en España en 2026?</summary><p>Desde el 1 de enero de 2026, la baliza V-16 conectada homologada por la DGT es el único medio legal de señalizar una parada en vía, sustituyendo a los triángulos. Además son obligatorios el chaleco reflectante dentro del habitáculo y la documentación del vehículo. <a href="/kit/kit-coche/">El kit de coche lleva la V-16 homologada y lo que falta por ley →</a></p></details>
-        <details class="faq-item"><summary>¿Qué hacer en los primeros 30 minutos de un apagón?</summary><p>No llamar al 112 salvo emergencia real (usa mensajes), encender una radio a pilas o de dinamo para informarte de fuentes oficiales, desconectar electrodomésticos sensibles al retorno de la luz, usar linterna en lugar de velas y racionar la batería del móvil en modo avión. Si el corte va para largo: <a href="/kit/kit-apagon/">kit de apagón</a> y <a href="/kit/kit-electricidad/">kit de electricidad</a>.</p></details>
-        <details class="faq-item"><summary>¿Qué comida vale para 72 horas sin nevera?</summary><p>La no perecedera: latas, frascos, barritas, frutos secos y liofilizados, con menús pensados para 3 días sin cocinar o con cocina alternativa. <a href="/kit/kit-30-dias/">El kit de 30 días amplía la despensa si quieres margen extra →</a></p></details>
-        <details class="faq-item"><summary>¿Cuánto cuesta montar un kit 72h?</summary><p>Menos de lo que parece: un kit básico decente ronda los 90-150 € por persona, y el profesional completo (energía y conexión satelital) va de 2.000 a 5.000 €. Cada ficha muestra el precio aproximado de cada producto, sin sorpresas. <a href="/kit/kit-basico-72h/">Empieza por el básico →</a></p></details>
+      <span class="label">${T('faq.label')}</span>
+      <h2>${T('faq.h2')}</h2>
+      <div class="faq-lista">${faq}
       </div>
       <div class="faq-compra">
-        <div class="faq-compra-txt"><strong>¿Dudas resueltas?</strong> El mejor kit es el que ya está montado.</div>
-        <a class="btn negro" href="/kit/kit-basico-72h/">Empieza por el kit básico →</a>
+        <div class="faq-compra-txt">${T('faq.ctaT')}</div>
+        <a class="btn negro" href="${this.url('/kit/kit-basico-72h/')}">${T('faq.ctaBtn')}</a>
       </div>
     </div>
   </div>
@@ -338,21 +354,21 @@ const ui = {
         <div class="container">
           <div class="watermark" aria-hidden="true">BLOG</div>
           <div class="sec-inner">
-            <span class="sec-label">04 / Lecturas</span>
-            <h2>Del diario<br><span class="acento">de supervivencia</span></h2>
+            <span class="sec-label">${T('lecturas.label')}</span>
+            <h2>${T('lecturas.h2a')}<br><span class="acento">${T('lecturas.h2b')}</span></h2>
             <div class="grid-kits">${blogFeatured}</div>
-            <p><a class="btn negro" href="/blog/">Todas las guías →</a></p>
+            <p><a class="btn negro" href="${this.url('/blog/')}">${T('blog.todas')}</a></p>
           </div>
         </div>
       </section>` : ''}
       <section class="cta-final">
         <div class="container">
-          <span class="sec-label">El siguiente paso es pequeño</span>
-          <h2>El mejor día<br>para empezar <span class="acento">es hoy.</span></h2>
-          <p>Reúne lo que ya tienes esta noche. Después completa los huecos. Sin miedo fabricado ni compras a ciegas: un kit que sea tuyo.</p>
+          <span class="sec-label">${T('cta.label')}</span>
+          <h2>${T('cta.h2a')}<br>${T('cta.h2b')}<span class="acento">${T('cta.h2c')}</span></h2>
+          <p>${T('cta.p')}</p>
           <div class="hero-ctas">
-            <a class="btn ambar" href="#kits">Hacer mi lista →</a>
-            <a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&tag=${this.tag}" target="_blank" rel="sponsored nofollow noopener">Explorar kits en Amazon ↗</a>
+            <a class="btn ambar" href="#kits">${T('cta.btn1')}</a>
+            <a class="btn negro" href="${i18n.amazonBusqueda(T('bloque.busqueda.q'))}" target="_blank" rel="sponsored nofollow noopener">${T('cta.btn2')}</a>
           </div>
         </div>
       </section>`;
@@ -369,74 +385,89 @@ const ui = {
   },
 
   htmlBlog() {
-    const tarjetas = blog.entradas.map((e, i) => `
-      <a class="card-kit card-blog" href="/blog/${e.slug}/">
+    const T = (k, v) => this.T(k, v);
+    const aviso = this.esEspana() ? '' : `<p class="aviso-idioma">${T('blog.aviso')}</p>`;
+    // Fuera de España solo se listan las guías YA traducidas: enseñar decenas de
+    // títulos en castellano bajo /de/ sería contenido duplicado y mala experiencia.
+    const lista = this.esEspana() ? blog.entradas : blog.entradas.filter(e => e._traducido);
+    const vacio = (!this.esEspana() && !lista.length)
+      ? `<p class="aviso-idioma">${this.hrefs(T('blog.vacio'))}</p>` : '';
+    const tarjetas = lista.map((e, i) => `
+      <a class="card-kit card-blog" href="${this.url('/blog/' + e.slug + '/')}">
         <div class="fila-top"><span class="num">${String(i+1).padStart(2,'0')}</span></div>
         <h2>${e.titulo}</h2>
         <p>${e.resumen}</p>
-        <span class="meta-blog">📅 ${e.fecha} · ⏱ ${this.lectura(e)} de lectura ${(e.etiquetas||[]).map(t=>`<span class="tag-blog">${t}</span>`).join('')}</span>
+        <span class="meta-blog">📅 ${e.fecha} · ⏱ ${T('blog.lectura', { n: this.lectura(e) })} ${(e.etiquetas||[]).map(t=>`<span class="tag-blog">${t}</span>`).join('')}</span>
       </a>`).join('');
     return `
       <section class="hero hero-blog">
         <div class="container">
-          <span class="chip">Diario de supervivencia</span>
-          <h1><span class="l1">Saber antes</span><span class="l2">de que haga falta.</span></h1>
-          <p class="hero-lead">${blog.entradas.length} guías prácticas para estar listo: qué comprar, cómo almacenarlo y cómo actuar cuando toque. Todo con fuentes oficiales citadas.</p>
+          <span class="chip">${T('blog.chip')}</span>
+          <h1><span class="l1">${T('blog.hero1')}</span><span class="l2">${T('blog.hero2')}</span></h1>
+          <p class="hero-lead">${T('blog.heroLead', { n: lista.length })}</p>
         </div>
       </section>
       <section class="sec clara"><div class="container"><div class="sec-inner">
-        <span class="sec-label">Índice / Guías</span>
+        <span class="sec-label">${T('blog.indice')}</span>
+        ${aviso}
+        ${vacio}
         <div class="grid-kits">${tarjetas}</div>
       </div></div></section>`;
   },
 
   htmlEntrada(e) {
-    const otras = blog.entradas.filter(x => x.slug !== e.slug &&
+    const T = (k, v) => this.T(k, v);
+    const otras = blog.entradas.filter(x => x.slug !== e.slug && x._traducido !== false &&
       (x.etiquetas || []).some(t => (e.etiquetas || []).includes(t)))
       .slice(0, 5)
-      .map(x => `<li><a href="/blog/${x.slug}/">${x.titulo}</a></li>`).join('');
+      .map(x => `<li><a href="${this.url('/blog/' + x.slug + '/')}">${x.titulo}</a></li>`).join('');
     const fuentes = (e.fuente || []).map(f =>
       `<li><a href="${f.url}" target="_blank" rel="noopener">${f.nombre}</a></li>`).join('');
+    // Hasta que el cron traduzca el cuerpo, un aviso honesto en vez de castellano suelto.
+    const aviso = (!this.esEspana() && !e._traducido) ? `<p class="aviso-idioma">${T('blog.aviso')}</p>` : '';
     return `
       <section class="ficha entrada-blog">
-        <a class="volver" href="/blog/">← Blog</a>
+        <a class="volver" href="${this.url('/blog/')}">${T('blog.volver')}</a>
+        ${aviso}
         <h1>${e.titulo}</h1>
-        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${this.lectura(e)} de lectura</p>
-        <div class="cuerpo-blog">${this.tablasSeguras(e.cuerpo)}</div>
-        ${fuentes ? `<div class="guia-kit"><h2>Fuentes de esta guía</h2><ul>${fuentes}</ul></div>` : ''}
-        ${otras ? `<div class="guia-kit"><h2>Sigue leyendo</h2><ul>${otras}</ul></div>` : ''}
+        <p class="meta-blog">📅 ${e.fecha} · ⏱ ${T('blog.lectura', { n: this.lectura(e) })}</p>
+        <div class="cuerpo-blog">${this.hrefs(this.tablasSeguras(e.cuerpo))}</div>
+        ${fuentes ? `<div class="guia-kit"><h2>${T('blog.fuentes')}</h2><ul>${fuentes}</ul></div>` : ''}
+        ${otras ? `<div class="guia-kit"><h2>${T('blog.sigue')}</h2><ul>${otras}</ul></div>` : ''}
       </section>`;
   },
 
-  /* ---- SELECCIÓN DEL DÍA (data/precios.json: rebaja real + stock + precio) ---- */
+  /* ---- SELECCIÓN DEL DÍA (data/precios.json: rebaja real + stock + precio) ----
+     Solo España: los precios vienen de la API de Amazon.es en euros. */
   textoOferta(o) {
     const pct = Math.round(o.ahorro_pct);
     const ahorro = precios.eur(Math.max(0, (o.precio_antes || 0) - o.precio));
     const n = Object.keys((precios.data && precios.data.productos) || {}).length;
     const variantes = [
-      `Selección de hoy: ${pct} % menos sobre el precio recomendado que publica Amazon, ${ahorro} de ahorro. No es necesariamente el mayor porcentaje del día: miramos rebaja, stock y precio final. Está en el ${o.kit_titulo}.`,
-      `Entre los ${n} productos con precio verificado hoy, destacamos este por su rebaja y su precio final: ${pct} % menos y ${ahorro} de ahorro. Forma parte del ${o.kit_titulo}.`,
-      `Cada mañana consultamos los precios de los kits y elegimos una compra con sentido por rebaja y precio final, no solo por el porcentaje. Hoy: ${pct} % menos, ${ahorro} de ahorro, dentro del ${o.kit_titulo}.`,
+      this.T('oferta.v1', { pct, ahorro, kit: o.kit_titulo }),
+      this.T('oferta.v2', { pct, ahorro, kit: o.kit_titulo, n }),
+      this.T('oferta.v3', { pct, ahorro, kit: o.kit_titulo }),
     ];
     return variantes[new Date().getDate() % variantes.length];
   },
 
   htmlOfertaDia() {
+    if (!this.esEspana()) return '';
     const o = precios.data && precios.data.oferta_dia;
     if (!o || !o.precio) return '';
     const antes = o.precio_antes && o.precio_antes > o.precio
-      ? `antes ${precios.eur(o.precio_antes)} · ` : '';
+      ? `${this.T('oferta.antes', { p: precios.eur(o.precio_antes) })} · ` : '';
     return `
       <section class="sec oscura" id="oferta-dia">
         <div class="container">
           <div class="sec-inner">
-            <span class="sec-label">Selección de hoy${precios.fecha() ? ' · ' + precios.fecha() : ''}</span>
+            <span class="sec-label">${this.T('oferta.label')}${precios.fecha() ? ' · ' + precios.fecha() : ''}</span>
             <a class="cta-kit" href="${o.url}" target="_blank" rel="sponsored nofollow noopener">
-              <span class="cta-kit-t">${o.producto}<br>hoy a ${o.precio_texto}</span>
-              <span class="cta-kit-b">${antes}-${Math.round(o.ahorro_pct)}% · está en ${o.kit_titulo} →</span>
+              <span class="cta-kit-t">${o.producto}<br>${this.T('oferta.hoy', { p: o.precio_texto })}</span>
+              <span class="cta-kit-b">${antes}-${Math.round(o.ahorro_pct)}% · ${this.T('oferta.enKit', { kit: o.kit_titulo })}</span>
             </a>
             <p class="oferta-texto">${this.textoOferta(o)}</p>
-            <p class="lista-nota">Precio consultado hoy en Amazon.es con la API oficial de Afiliados. Puede cambiar en cualquier momento: el precio válido es el de la ficha en el momento de la compra.</p>
+            <p class="lista-nota">${this.T('oferta.nota')}</p>
           </div>
         </div>
       </section>`;
@@ -444,6 +475,8 @@ const ui = {
 
   /* ---- FICHA DE KIT ---- */
   htmlKit(kit) {
+    const T = (k, v) => this.T(k, v);
+    const esES = this.esEspana();
     const coste = precios.costeKit(kit);
     const asinsEs = new Set();   // ASINs unicos imprescindibles (la cesta deduplica)
     let nProd = 0;               // productos totales
@@ -458,17 +491,20 @@ const ui = {
           ${s.items.map(i => {
             nProd++;
             const m = i.afiliado ? /\/dp\/([A-Z0-9]{10})/.exec(i.afiliado) : null;
-            if (m) nConFicha++;
+            if (esES && m) nConFicha++;
             const es = i.prioridad === 'esencial';
             if (es) nEs++;
-            if (es && m) asinsEs.add(m[1]);
-            const real = m ? precios.porAsin(m[1]) : null;
-            const sinP = m ? precios.sinPrecio(m[1]) : null;
+            if (esES && es && m) asinsEs.add(m[1]);
+            const real = (esES && m) ? precios.porAsin(m[1]) : null;
+            const sinP = (esES && m) ? precios.sinPrecio(m[1]) : null;
             const alt = (!real && sinP !== null)
-              ? `https://www.amazon.es/s?k=${encodeURIComponent(i.producto)}&tag=${this.tag}`
+              ? i18n.amazonBusqueda(i.producto)
               : null;
+            // En el mercado español, el enlace es la ficha verificada; fuera, búsqueda
+            // del producto traducido en el Amazon del país (ver i18n.enlaceProducto).
+            const enlace = i18n.enlaceProducto(i, kit);
             return `
-            <li class="item${es ? ' esencial' : ''}" ${m ? `data-asin="${m[1]}"` : ''}>
+            <li class="item${es ? ' esencial' : ''}" ${m && esES ? `data-asin="${m[1]}"` : ''}>
               <div class="item-info">
                 <div class="item-media">${real && real.img
                   ? `<img class="item-foto" src="${real.img}" alt="" width="64" height="64" loading="lazy">`
@@ -477,18 +513,18 @@ const ui = {
                 <span class="producto">${i.producto}</span>
                 ${i.descripcion ? `<span class="descripcion">${i.descripcion}</span>` : ''}
                 ${real ? precios.sello(real)
-                       : (i.precio_aprox ? `<span class="precio">~ ${i.precio_aprox}</span>` : '')}
-                ${alt ? `<span class="badge-agotado">${sinP === 1 ? 'Sin stock ahora en Amazon' : 'Ahora sin precio en Amazon'}</span>` : ''}
-                ${i.es_busqueda ? '<span class="badge-busqueda">🔎 búsqueda en Amazon (aún sin ficha concreta)</span>' : ''}
-                ${estado.badge(i.afiliado)}
+                       : (i.precio_aprox ? `<span class="precio">~ ${i18n.precio(i.precio_aprox)}</span>` : '')}
+                ${alt ? `<span class="badge-agotado">${sinP === 1 ? T('item.sinStock') : T('item.sinPrecio')}</span>` : ''}
+                ${i.es_busqueda ? `<span class="badge-busqueda">${T('kit.busqueda')}</span>` : ''}
+                ${esES ? estado.badge(i.afiliado) : ''}
                 </div>
               </div>
               <div class="item-acciones">
                 ${alt
-                  ? `<a class="btn-amazon" href="${alt}" target="_blank" rel="sponsored nofollow noopener">Buscar alternativa ↗</a>`
-                  : (i.afiliado
-                     ? `<a class="btn-amazon" href="${i.afiliado}" target="_blank" rel="sponsored nofollow noopener">${i.es_busqueda ? 'Ver precios ↗' : 'Comprar ↗'}</a>`
-                     : `<span class="sin-enlace">Consejo — no se compra online</span>`)}
+                  ? `<a class="btn-amazon" href="${alt}" target="_blank" rel="sponsored nofollow noopener">${T('item.buscarAlt')}</a>`
+                  : (enlace
+                     ? `<a class="btn-amazon" href="${enlace}" target="_blank" rel="sponsored nofollow noopener">${esES ? (i.es_busqueda ? T('kit.verPrecios') : T('kit.comprar')) : T('kit.verBusqueda')}</a>`
+                     : `<span class="sin-enlace">${T('kit.sinEnlace')}</span>`)}
               </div>
             </li>`;}).join('')}
         </ul>
@@ -497,54 +533,60 @@ const ui = {
     // La cesta («Llévate todo el kit») sólo tiene sentido si la mayoría de los
     // productos tienen ficha /dp/ que añadir. Con poca cobertura el botón
     // llevaría a una cesta casi vacía: en ese caso se ofrece la búsqueda.
-    const cartable = nProd > 0 && (nConFicha / nProd) >= 0.4;
+    // Fuera de España no hay ASIN local verificado: se enlaza a la búsqueda.
+    const cartable = esES && nProd > 0 && (nConFicha / nProd) >= 0.4;
 
     const guia = kit.guia ? `
       <div class="guia-kit">
-        <h2>Guía rápida</h2>
+        <h2>${T('kit.guia')}</h2>
         ${['antes', 'durante', 'despues'].map(f => `
           <div class="bloque">
-            <h3>${{ antes: '→ Antes', durante: '→ Durante', despues: '→ Después' }[f]}</h3>
+            <h3>${T('kit.' + f)}</h3>
             <ul>${kit.guia[f].map(p => `<li>${p}</li>`).join('')}</ul>
           </div>`).join('')}
       </div>` : '';
 
     const paraQuien = (kit.paraQuien || kit.paraQuien_no || kit.coste_total) ? `
       <div class="kit-paraquien">
-        ${kit.paraQuien ? `<p class="pq"><strong>Para quién es.</strong> ${kit.paraQuien}</p>` : ''}
-        ${kit.paraQuien_no ? `<p class="pq no"><strong>Cuándo no basta.</strong> ${kit.paraQuien_no}</p>` : ''}
-        ${kit.coste_total ? `<p class="pq coste"><strong>Coste orientativo.</strong> ${kit.coste_total}</p>` : ''}
-        ${coste.n >= 3 ? `<p class="pq coste-hoy"><strong>Hoy, con precios de Amazon.</strong> ${precios.eur(coste.suma)} en ${coste.n} de los ${coste.total} productos${coste.nEs ? ` · los ${coste.nEs} imprescindibles: ${precios.eur(coste.esSuma)}` : ''}. Precios consultados el ${precios.fecha()}.</p>` : ''}
+        ${kit.paraQuien ? `<p class="pq"><strong>${T('kit.paraQuien')}</strong> ${kit.paraQuien}</p>` : ''}
+        ${kit.paraQuien_no ? `<p class="pq no"><strong>${T('kit.noBasta')}</strong> ${kit.paraQuien_no}</p>` : ''}
+        ${kit.coste_total ? `<p class="pq coste"><strong>${T('kit.coste')}</strong> ${i18n.precio(kit.coste_total)}</p>` : ''}
+        ${esES && coste.n >= 3 ? `<p class="pq coste-hoy"><strong>${T('kit.costeHoy')}</strong> ${T('kit.costeHoyDetalle', { suma: precios.eur(coste.suma), n: coste.n, total: coste.total, fecha: precios.fecha() })}${coste.nEs ? ` ${T('kit.costeHoyEsenciales', { nEs: coste.nEs, esSuma: precios.eur(coste.esSuma) })}` : ''}</p>` : ''}
       </div>` : '';
 
     const errores = (kit.errores && kit.errores.length) ? `
       <div class="guia-kit kit-errores">
-        <h2>Los 5 errores típicos (y cómo evitarlos)</h2>
+        <h2>${T('kit.errores')}</h2>
         <ol>${kit.errores.map(e => `<li>${e}</li>`).join('')}</ol>
       </div>` : '';
 
-    const entradas = blog.porKit(kit.slug).slice(0, 4);
+    const entradas = blog.porKit(kit.slug).filter(e => this.esEspana() || e._traducido).slice(0, 4);
     const blogBox = entradas.length ? `
       <div class="guia-kit kit-blog">
-        <h2>Guías relacionadas del blog</h2>
-        <ul>${entradas.map(e => `<li><a href="/blog/${e.slug}/">${e.titulo}</a> — ${this.lectura(e)} de lectura</li>`).join('')}</ul>
+        <h2>${T('kit.blogRel')}</h2>
+        <ul>${entradas.map(e => `<li><a href="${this.url('/blog/' + e.slug + '/')}">${e.titulo}</a> — ${T('blog.lectura', { n: this.lectura(e) })}</li>`).join('')}</ul>
       </div>` : '';
 
     const fuente = kit.fuente ? `
-      <p class="fuente">Fuente oficial: <a href="${kit.fuente.url}" target="_blank" rel="noopener">${kit.fuente.nombre}</a></p>` : '';
+      <p class="fuente">${T('kit.fuente')} <a href="${kit.fuente.url}" target="_blank" rel="noopener">${kit.fuente.nombre}</a></p>` : '';
 
     /* Banda de la bandera: rectángulo rojo con la cruz blanca, solo para el
        kit que se apoya en una lista oficial extranjera (hoy, Suiza). */
     const banda = kit.bandera === 'ch' ? `
       <div class="banda-suiza">
         ${this.banderaCH()}
-        <span><b>Lista oficial suiza · BWL/FONES</b>9 litros de agua · 7 días de comida · 50 mascarillas · efectivo</span>
+        <span><b>${T('banda.suiza')}</b>${T('banda.suizaTxt')}</span>
       </div>` : '';
+
+    const buscarKit = i18n.amazonBusqueda(kit.busc || kit.titulo.replace(/^Kit\s+/i, ''));
+    const ctaPrincipal = cartable
+      ? `<button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}')">${T('kit.cestaTodo')}</button>`
+      : `<a class="btn ambar btn-cesta-top" href="${buscarKit}" target="_blank" rel="sponsored nofollow noopener" title="${T('kit.cestaTip')}">${T('kit.verAmazon')}</a>`;
 
     return `
       <section class="ficha">
         <div class="ficha-cab">
-          <a class="volver" href="/">← Todos los kits</a>
+          <a class="volver" href="${this.url('/')}">${T('kit.todos')}</a>
           <h1><span class="icono-h1${kit.bandera ? ' icono-h1--bandera' : ''}">${kit.bandera === 'ch' ? this.banderaCH() : kit.icono}</span>${kit.titulo}</h1>
           <p class="resumen">${kit.resumen}</p>
           ${banda}
@@ -553,18 +595,18 @@ const ui = {
         <div class="barra-progreso">
           <div class="bp-txt">
             <b>${nProd}</b>
-            <span>productos · ${nEs} imprescindibles${cartable ? '' : ' · aún sin fichas concretas'}</span>
+            <span>${T('kit.productos', { n: nProd, e: nEs })}${cartable ? '' : T('kit.sinFichas')}</span>
           </div>
-          <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('${kit.slug}'${cartable ? '' : ",'buscar'"})"${cartable ? '' : ' title="Este kit aún no tiene fichas de producto concretas: se abre la búsqueda en Amazon"'}>${cartable ? 'Llévate todo el kit →' : 'Ver todo el kit en Amazon →'}</button>
+          ${ctaPrincipal}
         </div>
         ${paraQuien}
         ${secciones}
-        ${precios.data ? `<p class="lista-nota">Precios consultados hoy (${precios.fecha() || 'hoy'}) en Amazon.es con la API oficial de Afiliados; el rango «~» se conserva donde Amazon no publica precio. El precio válido es siempre el de la ficha en el momento de la compra.</p>` : ''}
-        ${cartable && asinsEs.size > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">Llévate solo lo esencial — los ${asinsEs.size} imprescindibles →</button>` : ''}
+        ${esES && precios.data ? `<p class="lista-nota">${T('precio.avisoApi', { fecha: precios.fecha() || T('precio.hoyTxt') })}</p>` : ''}
+        ${cartable && asinsEs.size > 0 ? `<button class="btn ambar full btn-cesta" onclick="ui.armarCesta('${kit.slug}','esenciales')">${T('kit.cestaEsenciales', { n: asinsEs.size })}</button>` : ''}
         ${errores}
         ${guia}
         ${blogBox}
-        <button class="btn negro full" onclick="window.print()">Imprimir hoja de campo ↓</button>
+        <button class="btn negro full" onclick="window.print()">${T('kit.imprimir')}</button>
       </section>`;
   },
 
@@ -578,7 +620,7 @@ const ui = {
     // Un ASIN repetido en el kit (p.ej. 2ª batería LFP) NO es dedupe: hay que
     // llevar N unidades, así que se acumula la cantidad en vez de descartarlo.
     const cant = new Map();
-    if (modo !== 'buscar') {
+    if (modo !== 'buscar' && this.esEspana()) {
       kit.secciones.forEach(s => s.items.forEach(i => {
         if (!i.afiliado) return;
         if (soloEsenciales && i.prioridad !== 'esencial') return;
@@ -589,13 +631,13 @@ const ui = {
     const asins = [...cant.keys()];
     if (asins.length) {
       const params = asins.map((a, idx) => `ASIN.${idx+1}=${a}&Quantity.${idx+1}=${cant.get(a)}`).join('&');
-      window.open(`https://www.amazon.es/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
+      window.open(`https://${i18n.amazon.dominio}/gp/aws/cart/add.html?${params}&tag=${this.tag}`, '_blank', 'noopener');
       return;
     }
     // Sin fichas /dp/ suficientes no se puede montar la cesta (el botón quedaría
     // muerto): fallback honesto → búsqueda del kit en Amazon (kit.busc o título).
     const q = kit.busc || kit.titulo.replace(/^Kit\s+/i, '');
-    window.open(`https://www.amazon.es/s?k=${encodeURIComponent(q)}&tag=${this.tag}`, '_blank', 'noopener');
+    window.open(i18n.amazonBusqueda(q), '_blank', 'noopener');
   },
 
 tablasSeguras(html) {
@@ -604,23 +646,27 @@ tablasSeguras(html) {
       .replace(/<\/table>/gi, '</table></div>');
   },
 
-  /* ---- NOTICIAS: lo que está pasando (datos de scripts/noticias.py) ---- */
+  /* ---- NOTICIAS: lo que está pasando (datos de scripts/noticias.py) ----
+     Solo España: el lector mira Google News edición España y los avisos son de
+     AEMET. En otros mercados la página no se genera ni aparece en la nav. */
   htmlNoticias() {
     const N = (typeof noticias !== 'undefined') ? noticias : null;
     const esc = s => (N ? N.esc(s) : String(s == null ? '' : s));
     const d = N && N.datos;
     const al = N && N.alertas;
+    const inicio = this.url('/');
+    const zonaUrl = this.url('/zona/');
 
     if (!d || !d.temas) {
       return `
       <section class="ficha noticias-pagina">
-        <a class="volver" href="/">← Inicio</a>
+        <a class="volver" href="${inicio}">← Inicio</a>
         <span class="sec-label">Ahora</span>
         <h1>Lo que está pasando</h1>
         <p class="noticias-lead">No se han podido cargar los titulares ahora mismo
         (sin conexión o el lector de noticias no ha respondido). <b>Recarga la página</b>
         en unos segundos; el resto del sitio no depende de esto.</p>
-        <p><a class="btn negro" href="/zona/">Ver el nivel de alerta de tu zona →</a></p>
+        <p><a class="btn negro" href="${zonaUrl}">Ver el nivel de alerta de tu zona →</a></p>
       </section>`;
     }
 
@@ -650,7 +696,7 @@ tablasSeguras(html) {
         <p class="avisos-esp-estado">${cuenta.join(' · ')} — ${r.zonas_en_aviso} zonas en aviso,
         ${r.sin_aviso} demarcaciones sin aviso.</p>
         ${chips ? `<ul class="avisos-esp-lista">${chips}</ul>` : ''}
-        <p class="avisos-esp-pie">El mapa de <a href="/zona/">tu zona</a> pinta estas zonas con
+        <p class="avisos-esp-pie">El mapa de <a href="${zonaUrl}">tu zona</a> pinta estas zonas con
         su color y te dice qué se espera en cada una. Los avisos los emite AEMET y se refrescan
         en cada visita.</p>
       </div>`;
@@ -676,7 +722,7 @@ tablasSeguras(html) {
 
     return `
       <section class="ficha noticias-pagina">
-        <a class="volver" href="/">← Inicio</a>
+        <a class="volver" href="${inicio}">← Inicio</a>
         <span class="sec-label">Ahora</span>
         <h1>Lo que está pasando</h1>
         <p class="noticias-lead">Titulares reales, con su medio y su fecha: gobiernos que piden
@@ -699,9 +745,9 @@ tablasSeguras(html) {
           <p>Si has llegado hasta aquí y en tu casa no hay agua para tres días, una linterna que
           funcione y una radio, el titular de hoy es tu lista de la compra.</p>
           <p class="noticias-cierre-ctas">
-            <a class="btn rojo" href="/kit/kit-basico-72h/">Kit básico 72 h →</a>
-            <a class="btn negro" href="/blog/plan-familiar-de-emergencia/">Plan familiar →</a>
-            <a class="btn ambar" href="/zona/">Mi zona y sus avisos →</a>
+            <a class="btn rojo" href="${this.url('/kit/kit-basico-72h/')}">Kit básico 72 h →</a>
+            <a class="btn negro" href="${this.url('/blog/plan-familiar-de-emergencia/')}">Plan familiar →</a>
+            <a class="btn ambar" href="${zonaUrl}">Mi zona y sus avisos →</a>
           </p>
         </div>
 
@@ -710,11 +756,11 @@ tablasSeguras(html) {
         puede incluir noticias que no afecten a tu provincia. Los avisos por zona son de
         <a href="https://www.aemet.es/es/eltiempo/prediccion/avisos" target="_blank" rel="noopener">AEMET</a>
         (Meteoalerta) y no sustituyen a las indicaciones de Protección Civil:
-        <b>ante una emergencia real, llama al 112</b>.</p>
+        <b>ante una emergencia real, llama al ${this.numEmergencias()}</b>.</p>
       </section>`;
   },
 
-  /* ---- TU ZONA: mapa de recursos cerca de ti ---- */
+  /* ---- TU ZONA: mapa de recursos cerca de ti (solo España: IGN + AEMET + Overpass) ---- */
   htmlZona() {
     const caps = zona.CAPAS.map(c => `
       <label class="zona-cap">
@@ -726,7 +772,7 @@ tablasSeguras(html) {
 
     return `
       <section class="ficha zona-pagina">
-        <a class="volver" href="/">← Inicio</a>
+        <a class="volver" href="${this.url('/')}">← Inicio</a>
         <span class="sec-label">Tu zona</span>
         <h1>Cuando algo falla, qué tienes cerca</h1>
         <p class="zona-lead">Un mapa con los puntos que de verdad importan en los primeros
@@ -786,14 +832,14 @@ tablasSeguras(html) {
         </div>
 
         <div class="zona-112">
-          <b class="zona-112-num">112</b>
+          <b class="zona-112-num">${this.numEmergencias()}</b>
           <div>
             <h3>El que no falla</h3>
             <p>Emergencias en toda España. Gratis, 24 horas y desde cualquier móvil —
             aunque no tengas línea de tu operadora, la llamada sale por cualquier red
             disponible. Guardado en la lista de contactos de todos los móviles de casa
             es la mejor preparación de las que no cuestan nada.</p>
-            <a class="btn rojo" href="tel:112">Llamar al 112 →</a>
+            <a class="btn rojo" href="tel:${this.numEmergencias()}">Llamar al ${this.numEmergencias()} →</a>
           </div>
         </div>
 
@@ -810,10 +856,11 @@ tablasSeguras(html) {
 
   /* ---- FUENTES ---- */
   htmlFuentes() {
+    const T = (k, v) => this.T(k, v);
     const fuentes = state.data.meta.fuentes || [];
     const grupos = {};
     fuentes.forEach(f => {
-      const c = f.cat || 'Otras fuentes';
+      const c = f.cat || T('fuentes.otras');
       (grupos[c] = grupos[c] || []).push(f);
     });
     const bloques = Object.entries(grupos).map(([cat, lista]) => `
@@ -828,15 +875,11 @@ tablasSeguras(html) {
       </div>`).join('');
     return `
       <section class="ficha fuentes-pagina">
-        <a class="volver" href="/">← Inicio</a>
-        <h1>Fuentes oficiales</h1>
-        <p class="fuentes-lead"><b>${fuentes.length} fuentes públicas</b> de organismos oficiales,
-        agrupadas por ámbito. De aquí salen las listas de los kits, los tiempos, los avisos y los
-        datos del mapa de «Tu zona». Cada enlace se comprueba antes de publicarse
-        (última revisión: ${state.data.meta.ultima_revision}).</p>
+        <a class="volver" href="${this.url('/')}">${T('fuentes.volver')}</a>
+        <h1>${T('fuentes.h1')}</h1>
+        <p class="fuentes-lead">${T('fuentes.lead', { n: fuentes.length, fecha: state.data.meta.ultima_revision })}</p>
         ${bloques}
-        <p class="fuentes-cierre">Nada de esto sustituye a los servicios de emergencia:
-        ante una emergencia real, <b>llama al 112</b>.</p>
+        <p class="fuentes-cierre">${T('fuentes.cierre', { num: this.numEmergencias() })}</p>
       </section>`;
   }
 };

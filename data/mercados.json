@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "version": 1,
+    "actualizado": "2026-11-14",
+    "nota": "Un mercado = un país + un dominio de Amazon + un idioma. Todo lo que cambia por país (dominio, tag, moneda, número de emergencia, autoridad) sale de aquí. Nada de país hardcodeado en el código.",
+    "idioma_fuente": "es"
+  },
+  "porDefecto": "es",
+  "mercados": [
+    {
+      "id": "es",
+      "activo": true,
+      "ruta": "/",
+      "locale": "es-ES",
+      "lang": "es",
+      "contenido": "es",
+      "hreflang": "es-ES",
+      "pais": "España",
+      "paisLocal": "España",
+      "bandera": "🇪🇸",
+      "amazon": {
+        "dominio": "www.amazon.es",
+        "tag": "ntizar-21",
+        "moneda": "EUR",
+        "simbolo": "€",
+        "tagPendiente": false
+      },
+      "emergencias": { "numero": "112", "nombre": "112" },
+      "autoridad": "Protección Civil y Unidad Militar de Emergencias",
+      "autoridadUrl": "https://www.proteccioncivil.es/"
+    },
+    {
+      "id": "en-gb",
+      "activo": true,
+      "ruta": "/en-gb/",
+      "locale": "en-GB",
+      "lang": "en",
+      "contenido": "en",
+      "hreflang": "en-GB",
+      "pais": "Reino Unido",
+      "paisLocal": "United Kingdom",
+      "bandera": "🇬🇧",
+      "amazon": {
+        "dominio": "www.amazon.co.uk",
+        "tag": "",
+        "moneda": "GBP",
+        "simbolo": "£",
+        "tagPendiente": true
+      },
+      "emergencias": { "numero": "999", "nombre": "999" },
+      "autoridad": "Cabinet Office / Environment Agency",
+      "autoridadUrl": "https://www.gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "id": "de",
+      "activo": true,
+      "ruta": "/de/",
+      "locale": "de-DE",
+      "lang": "de",
+      "contenido": "de",
+      "hreflang": "de-DE",
+      "pais": "Alemania",
+      "paisLocal": "Deutschland",
+      "bandera": "🇩🇪",
+      "amazon": {
+        "dominio": "www.amazon.de",
+        "tag": "",
+        "moneda": "EUR",
+        "simbolo": "€",
+        "tagPendiente": true
+      },
+      "emergencias": { "numero": "112", "nombre": "112" },
+      "autoridad": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK)",
+      "autoridadUrl": "https://www.bbk.bund.de/"
+    },
+    {
+      "id": "fr",
+      "activo": true,
+      "ruta": "/fr/",
+      "locale": "fr-FR",
+      "lang": "fr",
+      "contenido": "fr",
+      "hreflang": "fr-FR",
+      "pais": "Francia",
+      "paisLocal": "France",
+      "bandera": "🇫🇷",
+      "amazon": {
+        "dominio": "www.amazon.fr",
+        "tag": "",
+        "moneda": "EUR",
+        "simbolo": "€",
+        "tagPendiente": true
+      },
+      "emergencias": { "numero": "112", "nombre": "112" },
+      "autoridad": "Sécurité civile",
+      "autoridadUrl": "https://www.interieur.gouv.fr/"
+    },
+    {
+      "id": "it",
+      "activo": true,
+      "ruta": "/it/",
+      "locale": "it-IT",
+      "lang": "it",
+      "contenido": "it",
+      "hreflang": "it-IT",
+      "pais": "Italia",
+      "paisLocal": "Italia",
+      "bandera": "🇮🇹",
+      "amazon": {
+        "dominio": "www.amazon.it",
+        "tag": "",
+        "moneda": "EUR",
+        "simbolo": "€",
+        "tagPendiente": true
+      },
+      "emergencias": { "numero": "112", "nombre": "112" },
+      "autoridad": "Protezione Civile",
+      "autoridadUrl": "https://www.protezionecivile.gov.it/"
+    },
+    {
+      "id": "nl",
+      "activo": true,
+      "ruta": "/nl/",
+      "locale": "nl-NL",
+      "lang": "nl",
+      "contenido": "nl",
+      "hreflang": "nl-NL",
+      "pais": "Países Bajos",
+      "paisLocal": "Nederland",
+      "bandera": "🇳🇱",
+      "amazon": {
+        "dominio": "www.amazon.nl",
+        "tag": "",
+        "moneda": "EUR",
+        "simbolo": "€",
+        "tagPendiente": true
+      },
+      "emergencias": { "numero": "112", "nombre": "112" },
+      "autoridad": "Nationaal Crisiscentrum (NCC)",
+      "autoridadUrl": "https://www.nctv.nl/"
+    },
+    {
+      "id": "en-us",
+      "activo": true,
+      "ruta": "/en-us/",
+      "locale": "en-US",
+      "lang": "en",
+      "contenido": "en",
+      "hreflang": "en-US",
+      "pais": "Estados Unidos",
+      "paisLocal": "United States",
+      "bandera": "🇺🇸",
+      "amazon": {
+        "dominio": "www.amazon.com",
+        "tag": "onamzntizar-21",
+        "moneda": "USD",
+        "simbolo": "$",
+        "tagPendiente": false
+      },
+      "emergencias": { "numero": "911", "nombre": "911" },
+      "autoridad": "FEMA",
+      "autoridadUrl": "https://www.ready.gov/"
+    }
+  ],
+  "tiposCambio": {
+    "nota": "Solo para los rangos de presupuesto orientativos mientras no haya precios reales de la API. El precio final siempre lo marca Amazon.",
+    "EUR_EUR": 1,
+    "EUR_GBP": 0.85,
+    "EUR_USD": 1.08
+  }
+}

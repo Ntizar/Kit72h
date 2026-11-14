@@ -45,6 +45,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
 TAG = "ntizar-21"
+BASE = "https://kit72h.com"
 
 # Rutas publicables (espejo de .github/workflows/pages.yml, paso allowlist).
 PUBLICADAS = ["index.html"]
@@ -86,6 +87,18 @@ def htmls_publicadas(raiz: Path) -> list[Path]:
     if (raiz / "index.html").exists():
         out.append(raiz / "index.html")
     for carpeta in ("kit", "blog", "fuentes", "zona", "noticias"):
+        d = raiz / carpeta
+        if d.is_dir():
+            out.extend(sorted(d.rglob("*.html")))
+    # Mercados: toda carpeta de primer nivel declarada en data/mercados.json
+    mercados = []
+    try:
+        d = json.loads((raiz / "data" / "mercados.json").read_text(encoding="utf-8"))
+        mercados = [m["ruta"].strip("/") for m in d.get("mercados", [])
+                    if m.get("ruta", "/") != "/"]
+    except (OSError, json.JSONDecodeError, KeyError):
+        pass
+    for carpeta in mercados:
         d = raiz / carpeta
         if d.is_dir():
             out.extend(sorted(d.rglob("*.html")))
@@ -209,7 +222,8 @@ def validar_cruce(raiz: Path, kits: list[dict]) -> None:
     sm = raiz / "sitemap.xml"
     if sm.exists():
         urls = re.findall(r"<loc>([^<]+)</loc>", leer(sm))
-        en_sm = {u.rstrip("/").split("/")[-1] for u in urls if "/kit/" in u}
+        # Multi-mercado: /kit/<slug>/ y /de/kit/<slug>/ cuentan igual.
+        en_sm = {x for x in re.findall(r"/kit/([^/]+)/?", " ".join(urls)) if x}
         for s in sorted(slugs - en_sm):
             err(f"kit '{s}': falta en sitemap.xml")
         for s in sorted(en_sm - slugs):
@@ -422,9 +436,59 @@ def validar_privacidad(raiz: Path) -> None:
         if m:
             err(f"{p.relative_to(raiz).as_posix()}: término vetado '{m.group()}'")
         # Compliance Amazon Afiliados: toda página con enlaces Amazon exige disclosure visible.
-        if "amazon.es" in h and "tag=" in h and 'id="disclosure"' not in h:
+        # Vale cualquier dominio (.es, .de, .fr, .it, .nl, .co.uk, .com).
+        if re.search(r"amazon\.(es|de|fr|it|nl|co\.uk|com)", h) and "tag=" in h                 and 'id="disclosure"' not in h:
             err(f"{p.relative_to(raiz).as_posix()}: enlaces Amazon sin disclosure "
                 f"(política Afiliados — añadir <p id=\"disclosure\">)</p>")
+
+
+# ─────────────── 11. Mercados: hreflang, idioma y dominio correctos ───────────────
+
+def validar_mercados(raiz: Path) -> None:
+    """Cada mercado tiene que estar de verdad traducido y bien enlazado:
+    portada presente, <html lang> propio, hreflang, canonical con su prefijo y
+    enlaces al Amazon de SU país. Ese último es el que caza un mercado horneado
+    con la plantilla de otro."""
+    try:
+        d = json.loads((raiz / "data" / "mercados.json").read_text(encoding="utf-8"))
+        mercados = [m for m in d.get("mercados", []) if m.get("activo", True)]
+    except (OSError, json.JSONDecodeError):
+        err("no se puede leer data/mercados.json")
+        return
+
+    for m in mercados:
+        if m["ruta"] == "/":
+            continue
+        pre = m["ruta"].strip("/")
+        home = raiz / pre / "index.html"
+        if not home.exists():
+            err(f"mercado '{m['id']}': falta {pre}/index.html (el país no existe)")
+            continue
+        h = leer(home)
+        if f'lang="{m["lang"]}"' not in h:
+            err(f"{pre}/: <html lang> no es '{m['lang']}'")
+        if f'data-mercado="{m["id"]}"' not in h:
+            err(f"{pre}/: sin data-mercado=\"{m['id']}\" (el JS no sabría el país)")
+        n_alt = h.count('rel="alternate" hreflang=')
+        if n_alt < 3:
+            err(f"{pre}/: solo {n_alt} hreflang (mínimo 3 entre mercados + x-default)")
+        if f'<link rel="canonical" href="{BASE}{m["ruta"]}">' not in h:
+            err(f"{pre}/: canonical que no apunta a {BASE}{m['ruta']}")
+        dom_corto = m["amazon"]["dominio"].replace("www.", "")
+        for otro in set(re.findall(r"amazon\.(?:es|de|fr|it|nl|co\.uk|com)", h)):
+            if otro != dom_corto:
+                err(f"{pre}/: enlaza a {otro} y su mercado es {dom_corto}")
+                break
+
+    idx = (raiz / "index.html").read_text(encoding="utf-8", errors="ignore")
+    if 'hreflang="x-default"' not in idx:
+        err("index.html: sin hreflang x-default (Google no sabe cuál es la versión base)")
+
+    pendientes = [m["id"] for m in mercados
+                  if m.get("amazon", {}).get("tagPendiente")]
+    if pendientes:
+        avi(f"mercados sin tag de afiliado propio (enlaces abren la tienda pero no "
+            f"comisionan): {', '.join(pendientes)}")
 
 
 # ─────────────────────────────── main ───────────────────────────────
@@ -451,6 +515,7 @@ def main() -> int:
         validar_jsonld(RAIZ, kits)
         validar_enlaces_home(RAIZ, kits)
         validar_privacidad(RAIZ)
+        validar_mercados(RAIZ)
 
     for k in kits:
         validar_ficha_generada(RAIZ, k["slug"], k)

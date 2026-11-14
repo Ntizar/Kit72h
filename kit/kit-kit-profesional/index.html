@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="es" class="js-menu"><head>
+<html lang="es" class="js-menu" data-mercado="es"><head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kit Profesional: energía y autonomía total (2026)</title>
+<title>Kit Profesional: energía y autonomía total (2026) — Kit72h</title>
 <meta name="description" content="Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para pasar un apagón largo sin cortes. Coste y montaje 2026.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
@@ -10,6 +10,14 @@
 <link rel="stylesheet" href="/css/styles.css?v=20261112d">
 <script>document.documentElement.classList.add('js-menu');</script>
 <script src="/js/analiticas.js?v=20261105a" defer=""></script><script async="" defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;:&quot;2cd51d4e9fe241849269fc0bed3083cc&quot;}"></script><link rel="canonical" href="https://kit72h.com/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="es-ES" href="https://kit72h.com/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="en-GB" href="https://kit72h.com/en-gb/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="de-DE" href="https://kit72h.com/de/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="fr-FR" href="https://kit72h.com/fr/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="it-IT" href="https://kit72h.com/it/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="nl-NL" href="https://kit72h.com/nl/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="en-US" href="https://kit72h.com/en-us/kit/kit-kit-profesional/">
+<link rel="alternate" hreflang="x-default" href="https://kit72h.com/kit/kit-kit-profesional/">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://kit72h.com/kit/kit-kit-profesional/">
 <meta property="og:site_name" content="Kit72h">
@@ -83,25 +91,30 @@
 <meta name="twitter:description" content="Kits de emergencia 72 horas basados en las recomendaciones oficiales de la UE y Protección Civil. Listas marcables y cesta de Amazon en 1 clic.">
 <div class="ubar">
   <div class="container">
-    <span><span class="punto">●</span> PREPARACIÓN CIVIL SIN ALARMISMO</span>
+    <span><span class="punto">●</span> <span data-i18n="ubar.1">Preparación civil sin alarmismo</span></span>
     <span>/</span>
-    <span>HECHO PARA SITUACIONES REALES EN ESPAÑA</span>
+    <span data-i18n="ubar.2">Hecho para situaciones reales en España</span>
     <span>/</span>
-    <span>GUIA 72H · COMISION EUROPEA + PROTECCION CIVIL</span>
+    <span data-i18n="ubar.3">Guía 72h · Comisión Europea + Protección Civil</span>
   </div>
 </div>
 
 <header class="site-header">
   <div class="container">
-    <a href="/" class="logo">KIT<span class="accent">72H</span><span class="tagline">Diario de supervivencia</span></a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menú de navegación"><span>Menú</span></button>
+    <a href="/" class="logo" data-ruta="/">KIT<span class="accent">72H</span><span class="tagline" data-i18n="marca.tagline">Diario de supervivencia</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="menu-principal" aria-label="Abrir menú de navegación" data-i18n-titulo="nav.menu" title="Menú"><span data-i18n="nav.menu">Menú</span></button>
     <nav id="menu-principal">
-      <a href="/#plan">El plan</a>
-      <a href="/#kits">Kits</a>
-      <a href="/blog/">Blog</a><a href="/noticias/">Ahora</a><a href="/#faq">FAQ</a>
-      <a href="/fuentes/">Fuentes</a>
-      <a href="/zona/">Tu zona</a>
-      <a class="btn negro" href="https://www.amazon.es/s?k=kit+emergencia+72+horas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Compra tu kit ↗</a>
+      <a href="/#plan" data-ruta="/#plan" data-i18n="nav.plan">El plan</a>
+      <a href="/#kits" data-ruta="/#kits" data-i18n="nav.kits">Kits</a>
+      <a href="/blog/" data-ruta="/blog/" data-i18n="nav.blog">Blog</a><a href="/noticias/" data-ruta="/noticias/" data-i18n="nav.ahora" class="solo-es">Ahora</a><a href="/#faq" data-ruta="/#faq" data-i18n="nav.faq">FAQ</a>
+      <a href="/fuentes/" data-ruta="/fuentes/" data-i18n="nav.fuentes">Fuentes</a>
+      <a href="/zona/" data-ruta="/zona/" data-i18n="nav.zona" class="solo-es">Tu zona</a>
+      <a class="btn negro" href="https://www.amazon.es/s?k=kit%20emergencia%2072%20horas&amp;tag=ntizar-21" data-amazon="1" target="_blank" rel="sponsored nofollow noopener" data-i18n="nav.comprar">Compra tu kit ↗</a>
+      <span class="pais-selector" id="pais-selector">
+      <label class="pais-et" for="pais-select">País</label>
+      <select id="pais-select" aria-label="País" onchange="i18n.cambiarPais(this.value)">
+        <option value="es" selected="">🇪🇸 España</option><option value="en-gb">🇬🇧 United Kingdom</option><option value="de">🇩🇪 Deutschland</option><option value="fr">🇫🇷 France</option><option value="it">🇮🇹 Italia</option><option value="nl">🇳🇱 Nederland</option><option value="en-us">🇺🇸 United States</option>
+      </select></span>
     </nav>
   </div>
 </header>
@@ -119,7 +132,7 @@
         <div class="barra-progreso">
           <div class="bp-txt">
             <b>12</b>
-            <span>productos · 6 imprescindibles</span>
+            <span>12 productos · 6 imprescindibles</span>
           </div>
           <button class="btn ambar btn-cesta-top" onclick="ui.armarCesta('kit-kit-profesional')">Llévate todo el kit →</button>
         </div>
@@ -128,7 +141,7 @@
         <p class="pq"><strong>Para quién es.</strong> Para hogares que no pueden permitirse quedarse sin energía, datos ni alimentos: casas rurales con larga distancia al servicio, negocios que dependen de servidores o quien busca independencia real frente a apagones y crisis de infraestructura.</p>
         <p class="pq no"><strong>Cuándo no basta.</strong> No es un kit para sobrevivir meses sin red. Inversión alta (2.000-5.000 €), necesita espacio (tejado o terreno para paneles, zona ventilada para baterías y generador) e instalación profesional, y tiene mantenimiento. No es «instalar y olvidarse».</p>
         <p class="pq coste"><strong>Coste orientativo.</strong> 2.000-5.000 € (inversión profesional) · amortización 3-5 años</p>
-        <p class="pq coste-hoy"><strong>Hoy, con precios de Amazon.</strong> 2643,13 € en 10 de los 12 productos · los 6 imprescindibles: 2017,17 €. Precios consultados el 14/11.</p>
+        <p class="pq coste-hoy"><strong>Hoy, con precios de Amazon.</strong> 2643,13 € en 10 de los 12 productos. Precios consultados el 14/11. · los 6 imprescindibles: 2017,17 €.</p>
       </div>
         
       <div class="seccion-kit">
@@ -406,7 +419,7 @@
 
 <footer class="site-footer">
   <div class="container">
-    <p id="disclosure">Como Afiliado de Amazon, Kit72h obtiene ingresos por las compras adscritas que cumplan los requisitos aplicables. Los precios pueden variar. Kit72h solo recomienda productos con fines informativos y de preparación: no nos responsabilizamos del uso que se haga de ellos ni de los resultados obtenidos, y este contenido no constituye asesoramiento legal, técnico ni de ningún otro tipo. Consulta siempre las fuentes oficiales y la normativa vigente.</p>
+    <p id="disclosure">Como Afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables. Los precios pueden variar. Fuente de las recomendaciones: Protección Civil y Comisión Europea.</p>
   </div>
  · <a href="/privacidad/" style="color:inherit">Política de privacidad</a>
  · <a href="mailto:contacto@kit72h.com" style="color:inherit">contacto@kit72h.com</a>
@@ -414,14 +427,15 @@
  · <a class="pie-panel" href="/analiticas/" rel="nofollow" title="Panel privado de analítica">Panel</a>
 </footer>
 
-<script src="/js/state.js?v=20260928c"></script>
-<script src="/js/estado.js?v=20260928c"></script>
-<script src="/js/blog.js?v=20260928c"></script>
+<script src="/js/i18n.js?v=20261114a"></script>
+<script src="/js/state.js?v=20261114a"></script>
+<script src="/js/estado.js?v=20261114a"></script>
+<script src="/js/blog.js?v=20261114a"></script>
 <script src="/js/noticias.js?v=20261025a"></script>
-<script src="/js/ui.js?v=20261109d"></script>
+<script src="/js/ui.js?v=20261114a"></script>
 <script src="/js/zona.js?v=20261025b"></script>
 <script src="/js/promo-nomerallo.js?v=20261112a"></script>
-<script src="/js/main.js?v=20261110b"></script>
+<script src="/js/main.js?v=20261114a"></script>
 
 
 <!-- GENERADO por scripts/prerender.py — no editar a mano -->
