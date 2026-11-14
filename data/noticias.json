@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-13T22:11:02+01:00",
+  "actualizado": "2026-11-14T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -162,6 +162,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "Tormenta Charles España: vientos de 136 km/h, inundaciones y vuelos cancelados en el sur",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnN4NzBONnlYTlNsT01KeTFNSzdneFJoanlSSlA1WWRmRmJ6ZGZTd0h0TVJJU0dTV2tJSlI2ZTRLMGtOTWw0R2lXTDJkcDZRZTJadXJPb2F3TXVXS0xUOGN6dl9pMzhYMDlBbUNjZTFIUzJJdzVfZDJ2OWRvSHAzMTZ4X0JDMDg?oc=5",
+     "fuente": "MONCLOA.COM",
+     "resumen": "",
+     "fecha": "2026-11-13T13:25:47+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Andalucía desactiva el plan de emergencia por inundaciones tras finalizar los avisos",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTQ5bzlvZENoR3JYd0ItM3RQenMxVlVTZDIyQ1A1QWJnNTlEeWs5V1hTTUl4am1IMkVZSzIyR1kzQ1A3cENwQ0ZmOUR2aGRZT3JqNXVmMWZTb1dIYUN6S21TQWxnckc5SzhrV3lUT1hDWVpYSzR2dnowSmJ5d1pTdXhlS2NlUUNXMWs1MG5ZMjBsd19LR1FSbWJYTE16V25jTlVmSkpBcWprUEN2czFQM1UwZ2RRV2Z0SllfeUdpaXhYM2wxSUEzSEE5Smp4N2JmWEHSAewBQVVfeXFMTjBGNHdJTUpZSnBiaVVNa2FPR0pCQzRtT0dGaDBKWEcwWXFZYi1IUzFoVmdZWGJMXzh3TVRrU2ltRHJvd19rY09HMHFFcm8tRm1Oa0VRRFhXd1VnRVI1QUQ0bjJUYnY4bU5OemZPSEU3WnlLVUZkSC1LY0JyUjR4UGN2X3ZhdDhRNm5rbVB1ZWZKVjItd1I3NHV6MGJtRDRaQmZDd3lSSHBOdG1IN2JOVldqVTJTeWR0RmtCWjRaUW9NcmxFSnA1MDE2NlBERHI4RU5BWFNvUUhBQ2RUbXowWW5xRmZzZE8yNHQzMXU?oc=5",
      "fuente": "Infobae",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-12T09:00:00+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "La situación operativa del Plan de Riesgo de Inundaciones en Extremadura decae a nivel 0",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDE1aWkwWFlTd1FKdGctUTFSejR4NHhqczNiM1BDN2Q1OVIwMnAxeXVkZ1lTTEZOem1FZGo4emJEWExIVi1sendTTDVkM2FnZVdtdzdHTkRRS0hOeEZuZGlGN1d1SXE3c0JOcUpuRnpPNXhTZFJ5dlMwLWk5cHJObjQzV0o3bV9PSDNNbU10ZUlMVEdhZXlMOGdXb1U0QlItNHQ0REQ5MXlOektyWXNld1FneXlEMWx4WG42aUtLbGNFODJRNDV0WFBmRWtKb3EyYnp6eUI1NNIB8gFBVV95cUxPaUkyTVhRTlZzWDdMVkl2alFBcldFZk1aUjA1bWxianZaWlNSaE5iVTlXTzVVelpjeHZwYVZRSFF1ZVkyT2pTdUJkdFNGZTEtbFZGN1dFd0JsWUxJQTctM1ltOThLRmNsWGE1ODRYQTIyQ2c0RHZsa3h3UkMya2c0YmNNZzlXWWYyd1R5ZmswYVlBVmxadXMwWlVXUWVOWkhnMDVnUkEyZHlpUUF5cGJMLXBvaGpxTW9OazNDM1pYVlBweUxiTmlZdlkwZElGSHFFd05uMVhBMlJyalVDWEJMS2diZGZVd2VQYk9BcjBPT0VOUQ?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-12T01:31:00+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -224,14 +224,6 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
-    {
-     "titulo": "Cuidado con las alertas de un apagón mundial el 17 de noviembre de 2026: no hay pruebas de que se vaya a producir",
-     "url": "https://maldita.es/desinfo/20261113/el-17-de-noviembre-de-2026-va-a-haber-un-ciberataque-global/",
-     "fuente": "Maldita.es",
-     "resumen": "Captura: comunicado oficial de la FEMAEntre las narrativas que circulan hay una que asegura que los bancos se quedarán ...",
-     "fecha": "2026-11-13T09:55:00+01:00",
-     "fecha_txt": "13 nov"
-    },
     {
      "titulo": "El Gobierno admite que el despliegue de plantas renovables exigirá un control contante de la red",
      "url": "https://www.msn.com/es-es/noticias/otras/el-gobierno-admite-que-el-despliegue-de-plantas-renovables-exigir%C3%A1-un-control-contante-de-la-red/ar-AA2hkHGF",
@@ -286,6 +278,14 @@
      "fuente": "La Gaceta de la Iberosfera",
      "resumen": "",
      "fecha": "2026-11-10T18:05:11+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-10T17:55:17+01:00",
      "fecha_txt": "10 nov"
     }
    ]
