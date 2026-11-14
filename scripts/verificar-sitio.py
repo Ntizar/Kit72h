@@ -169,8 +169,10 @@ def validar_kits_json(raiz: Path) -> list[dict]:
                     # (debe tener compra), que se valida en validar_ficha_generada.
                     avi(f"kit '{slug}' secc.{si} '{prod[:40]}': item sin enlace "
                         f"(consejo/no comprable — marcar 'sin_enlace': true)")
-                elif enlace and "amazon." in enlace and f"tag={TAG}" not in enlace:
-                    err(f"kit '{slug}' secc.{si} '{prod[:40]}': enlace sin tag={TAG}")
+                elif enlace and "amazon." in enlace and "tag=" not in enlace:
+                    # El dato lleva el tag de reserva; el render pone el de la
+                    # sección. Aquí solo se exige que exista alguno.
+                    err(f"kit '{slug}' secc.{si} '{prod[:40]}': enlace de Amazon sin tag=")
         # Un kit debe ser comprable: si casi nada tiene enlace, es media página.
         con_enlace = sum(1 for s in secciones for it in (s.get("items") or [])
                          if it.get("afiliado") or it.get("busqueda"))
@@ -444,6 +446,69 @@ def validar_privacidad(raiz: Path) -> None:
 
 # ─────────────── 11. Mercados: hreflang, idioma y dominio correctos ───────────────
 
+# ──────── 10 bis. Tracking IDs: uno por sección (portada / fichas / blog) ────────
+
+def _mercado_de(ruta_rel: str, mercados: list) -> dict | None:
+    primero = ruta_rel.split("/")[0] if "/" in ruta_rel else ruta_rel
+    for m in mercados:
+        if m["ruta"] == "/":
+            continue
+        if m["ruta"].strip("/") == primero:
+            return m
+    return next((m for m in mercados if m["ruta"] == "/"), None)
+
+
+def validar_tags_por_seccion(raiz: Path) -> None:
+    """Amazon solo informa por tracking ID. Si la portada, las fichas y el blog no
+    llevan IDs distintos, los informes no dicen qué convierte. Y un tag de otro
+    mercado contamina o pierde la comisión."""
+    try:
+        d = json.loads((raiz / "data" / "mercados.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        err("no se puede leer data/mercados.json para validar tags")
+        return
+    mercados = [m for m in d.get("mercados", []) if m.get("activo", True)]
+    permitidos = {t for m in mercados
+                  for t in ((m.get("amazon") or {}).get("tags") or {}).values() if t}
+    usados = {}
+
+    def revisar(carpeta: Path, seccion: str, etiqueta: str) -> None:
+        if not carpeta.exists():
+            return
+        for html in sorted(carpeta.rglob("index.html")):
+            rel = html.relative_to(raiz).as_posix()
+            m = _mercado_de(rel, mercados)
+            if not m:
+                continue
+            esperado = ((m.get("amazon") or {}).get("tags") or {}).get(seccion) or ""
+            h = leer(html)
+            if "amazon." not in h:
+                continue
+            if esperado:
+                if esperado not in h:
+                    err(f"{rel}: {etiqueta} sin su tag de sección ({esperado}) — "
+                        f"los informes de afiliado irían a ciegas")
+                usados[seccion] = usados.get(seccion, set()) | {esperado}
+            for t in set(re.findall(r"[?&]tag=([\w-]+)", h)):
+                if t not in permitidos:
+                    err(f"{rel}: tag '{t}' no declarado en data/mercados.json")
+
+    revisar(raiz / "kit", "kits", "ficha")
+    revisar(raiz / "blog", "blog", "guía")
+    for m in mercados:
+        home = (raiz / m["ruta"].strip("/") / "index.html") if m["ruta"] != "/" else (raiz / "index.html")
+        if not home.exists():
+            continue
+        esperado = ((m.get("amazon") or {}).get("tags") or {}).get("home") or ""
+        h = leer(home)
+        if esperado and "amazon." in h and esperado not in h:
+            err(f"{home.relative_to(raiz).as_posix()}: portada sin su tag ({esperado})")
+
+    if usados:
+        avi("tags por sección en uso: " +
+            " · ".join(f"{k}={','.join(sorted(v))}" for k, v in sorted(usados.items())))
+
+
 def validar_mercados(raiz: Path) -> None:
     """Cada mercado tiene que estar de verdad traducido y bien enlazado:
     portada presente, <html lang> propio, hreflang, canonical con su prefijo y
@@ -516,6 +581,7 @@ def main() -> int:
         validar_enlaces_home(RAIZ, kits)
         validar_privacidad(RAIZ)
         validar_mercados(RAIZ)
+        validar_tags_por_seccion(RAIZ)
 
     for k in kits:
         validar_ficha_generada(RAIZ, k["slug"], k)

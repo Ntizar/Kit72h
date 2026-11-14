@@ -45,7 +45,10 @@ from mercados import (  # noqa: E402  (import tras fijar la raíz)
     contenido as contenido_mercados,
     indice_hreflang,
     prefijo,
+    reescribir_tags,
     rutas_de,
+    seccion_de,
+    tag_de,
 )
 
 
@@ -356,6 +359,9 @@ def main():
                         dest = RAIZ / prefijo(m) / "blog" / slug / "index.html"
 
                     dest.parent.mkdir(parents=True, exist_ok=True)
+                    # Tag de afiliado por sección: portada, cada ficha y cada guía
+                    # con tracking ID distinto. Amazon solo reporta por tag.
+                    html = reescribir_tags(html, tag_de(m, seccion_de(clave)))
                     html = re.sub(
                         r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
                         '', html)

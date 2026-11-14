@@ -81,3 +81,31 @@ python scripts/generar-seo.py                # sitemap con hreflang (7 mercados)
 python scripts/prerender.py                  # 234 páginas (o --solo de,fr)
 python scripts/verificar-sitio.py            # gate: lang, hreflang, canonical, dominio
 ```
+
+
+## Tracking IDs por sección (2026-11-14, tarde)
+
+Amazon **solo informa por tracking ID**: no hay informe por página ni por producto.
+Por eso portada, fichas y blog llevan IDs distintos. Es la única forma de saber qué
+convierte.
+
+| Sección | Tag | Dónde se declara |
+|---|---|---|
+| Portada (`/`, `/fuentes/`, `/zona/`) | `ntizar-21` | `data/mercados.json` → `amazon.tags.home` |
+| Fichas (`/kit/…`) | `kit72h-21` | `amazon.tags.kits` |
+| Blog (`/blog/…`) | `kit72h-blog-21` | `amazon.tags.blog` |
+
+**Nunca los escribas a mano en el contenido.** Los cuerpos del blog traen el enlace
+con el tag de fábrica y el render lo reescribe:
+
+- Cliente: `js/i18n.js` → `tag()` (por `seccion()`) y `retag()` (dentro de `ui.hrefs()`).
+- Horneado: `scripts/prerender.py` llama a `mercados.reescribir_tags()` antes de
+  escribir cada página.
+
+El gate `verificar-sitio.py` → `validar_tags_por_seccion()` exige que cada ficha
+lleve el tag de kits, cada guía el de blog, y que **no aparezca ningún tag no
+declarado** en `mercados.json`. Si añades un tag nuevo: primero el JSON, luego el
+código ya lo usa solo.
+
+nomerallo.com tiene sus propios IDs (`nomerallo-home-21`, `nomerallo-blog-21`), pero
+vive en su repo: aquí solo existen como referencia.

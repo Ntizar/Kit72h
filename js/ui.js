@@ -74,8 +74,10 @@ const ui = {
      guías). En castellano es un no-op; en /de/ convierte /kit/x/ en /de/kit/x/. */
   hrefs(html) {
     const base = (i18n.mercado && i18n.mercado.ruta !== '/') ? i18n.mercado.ruta : '/';
-    if (base === '/') return String(html);
-    return String(html).replace(/href="\//g, `href="${base}`);
+    const out = (base === '/') ? String(html) : String(html).replace(/href="\//g, `href="${base}`);
+    // El contenido trae los enlaces de Amazon con el tag de fábrica: se cambia
+    // por el del mercado y la sección en la que se está viendo.
+    return i18n.retag(out);
   },
 
   esEspana() { return !i18n.mercado || i18n.mercado.id === 'es'; },

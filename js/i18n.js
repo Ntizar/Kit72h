@@ -153,8 +153,34 @@ const i18n = {
     return propio;
   },
 
-  tag() {
-    return this.amazon.tag || 'ntizar-21';
+  /* Sección de la página: decide qué tracking ID se usa.
+     /kit/x/ → kits · /blog/… → blog · resto (portada, fuentes, zona) → home */
+  seccion(ruta) {
+    const p = String(ruta || location.pathname);
+    const s = (typeof this.sinMercado === 'function') ? this.sinMercado(p) : p;
+    if (/^\/kit\//.test(s)) return 'kits';
+    if (/^\/blog(\/|$)/.test(s)) return 'blog';
+    return 'home';
+  },
+
+  /* Tracking ID del mercado para una sección. Si el mercado no tiene tag de esa
+     sección, cae al tag base; si tampoco, al de España (Amazon lo ignora en otra
+     tienda, pero el enlace no queda sin tag). */
+  tag(seccion) {
+    const a = this.amazon || {};
+    const tags = a.tags || {};
+    return tags[seccion || this.seccion()] || a.tag || 'ntizar-21';
+  },
+
+  /* Reescribe el tag de los enlaces de Amazon que vienen ya escritos en el HTML
+     (los cuerpos del blog traen ?tag=ntizar-21 de fábrica). Solo cambia el valor
+     del parámetro: dominio, ASIN y ruta se quedan como están. */
+  retag(html) {
+    const t = this.tag();
+    const s = String(html == null ? '' : html);
+    if (!t || s.indexOf('amazon.') === -1) return s;
+    return s.replace(/(https?:\/\/[^"'\s]*?amazon\.[a-z.]+\/[^"'\s]*?[?&](?:amp;)?)tag=[\w-]+/g,
+      (m, base) => `${base}tag=${t}`);
   },
 
   amazonBusqueda(q) {

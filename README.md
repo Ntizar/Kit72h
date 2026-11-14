@@ -256,3 +256,19 @@ meramente mecánico. Si la web vende, el disclosure de afiliado es obligatorio e
 
 Hecho con ❤️ por [AUTOR]
 # Kit72h
+
+
+## Tracking IDs de Amazon (por sección)
+
+Amazon solo reporta por tracking ID, así que cada sección tiene el suyo en
+`data/mercados.json` → `amazon.tags`:
+
+| Sección | Tag |
+|---|---|
+| Portada | `ntizar-21` |
+| Fichas de kit | `kit72h-21` |
+| Guías del blog | `kit72h-blog-21` |
+
+No se escriben a mano: el render los reescribe (`i18n.retag()` en cliente,
+`mercados.reescribir_tags()` en el prerender) y el gate comprueba que cada página
+lleva el suyo.

@@ -20,10 +20,15 @@
       "bandera": "🇪🇸",
       "amazon": {
         "dominio": "www.amazon.es",
-        "tag": "ntizar-21",
+        "tag": "kit72h-21",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": false
+        "tagPendiente": false,
+        "tags": {
+          "home": "ntizar-21",
+          "kits": "kit72h-21",
+          "blog": "kit72h-blog-21"
+        }
       },
       "emergencias": {
         "numero": "112",
@@ -52,7 +57,12 @@
         "tag": "",
         "moneda": "GBP",
         "simbolo": "£",
-        "tagPendiente": true
+        "tagPendiente": true,
+        "tags": {
+          "home": "",
+          "kits": "",
+          "blog": ""
+        }
       },
       "emergencias": {
         "numero": "999",
@@ -81,7 +91,12 @@
         "tag": "",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true
+        "tagPendiente": true,
+        "tags": {
+          "home": "",
+          "kits": "",
+          "blog": ""
+        }
       },
       "emergencias": {
         "numero": "112",
@@ -112,7 +127,12 @@
         "tag": "",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true
+        "tagPendiente": true,
+        "tags": {
+          "home": "",
+          "kits": "",
+          "blog": ""
+        }
       },
       "emergencias": {
         "numero": "112",
@@ -143,7 +163,12 @@
         "tag": "",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true
+        "tagPendiente": true,
+        "tags": {
+          "home": "",
+          "kits": "",
+          "blog": ""
+        }
       },
       "emergencias": {
         "numero": "112",
@@ -173,7 +198,12 @@
         "tag": "",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true
+        "tagPendiente": true,
+        "tags": {
+          "home": "",
+          "kits": "",
+          "blog": ""
+        }
       },
       "emergencias": {
         "numero": "112",
@@ -201,7 +231,12 @@
         "tag": "onamzntizar-21",
         "moneda": "USD",
         "simbolo": "$",
-        "tagPendiente": false
+        "tagPendiente": false,
+        "tags": {
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        }
       },
       "emergencias": {
         "numero": "911",

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import copy
 import json
+import re
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
@@ -165,3 +166,30 @@ def alternos(clave, datos, idx):
     if idx.get(clave, {}).get("es"):
         salida.append(("x-default", BASE + idx[clave]["es"]))
     return salida
+
+
+# --- Tracking IDs: uno por sección (Amazon solo informa por tracking ID) ---
+
+def seccion_de(clave):
+    """Clave lógica de ruta -> sección de tracking: home | kits | blog."""
+    if clave.startswith("kit/"):
+        return "kits"
+    if clave.startswith("blog"):
+        return "blog"
+    return "home"
+
+
+def tag_de(mercado, seccion="home"):
+    """Tag del mercado para esa sección. Cae al tag base si no hay uno propio."""
+    a = mercado.get("amazon") or {}
+    return (a.get("tags") or {}).get(seccion) or a.get("tag") or ""
+
+
+def reescribir_tags(html, tag):
+    """Cambia SOLO el valor de tag= en los enlaces de Amazon del HTML.
+    El contenido trae los enlaces con el tag de fábrica; dominio, ASIN y ruta no
+    se tocan nunca."""
+    if not tag:
+        return html
+    return re.sub(r"""(https?://[^"'\s]*?amazon\.[a-z.]+/[^"'\s]*?[?&](?:amp;)?)tag=[\w-]+""",
+                  lambda m: m.group(1) + "tag=" + tag, html)
