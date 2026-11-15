@@ -1,19 +1,15 @@
 {
-  "generado": "2026-11-14T09:07:40Z",
+  "generado": "2026-11-15T09:07:51Z",
   "fuente": "cloudflare-zona",
   "estado": "ok",
-  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 1205 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
+  "mensaje": "El beacon de Cloudflare Web Analytics está caído (últimos 3 días: 0 medidos frente a 1367 reales en la CDN). Se está midiendo con la analítica de ZONA de Cloudflare (sin beacon): cuenta todo el tráfico que pasa por la CDN, incluidos bots, y no puede desglosar orígenes ni clics a Amazon.",
   "ventana_dias": 30,
   "totales": {
-    "visitas": 28667,
-    "paginas": 38190,
+    "visitas": 29090,
+    "paginas": 39030,
     "clics_amazon": 0
   },
   "serie_diaria": [
-    {
-      "fecha": "2026-10-16",
-      "visitas": 212
-    },
     {
       "fecha": "2026-10-17",
       "visitas": 279
@@ -128,33 +124,37 @@
     },
     {
       "fecha": "2026-11-14",
-      "visitas": 170
+      "visitas": 577
+    },
+    {
+      "fecha": "2026-11-15",
+      "visitas": 228
     }
   ],
   "paginas": [
     {
       "ruta": "/",
-      "visitas": 22610,
-      "pct": 59.2
+      "visitas": 22910,
+      "pct": 58.7
     },
     {
       "ruta": "/zona/",
-      "visitas": 1920,
+      "visitas": 1950,
       "pct": 5.0
     },
     {
       "ruta": "/kit/kit-basico-72h/",
-      "visitas": 1820,
-      "pct": 4.8
+      "visitas": 1850,
+      "pct": 4.7
     },
     {
       "ruta": "/kit/kit-suiza/",
-      "visitas": 1580,
-      "pct": 4.1
+      "visitas": 1640,
+      "pct": 4.2
     },
     {
       "ruta": "/kit/kit-kit-profesional/",
-      "visitas": 1250,
+      "visitas": 1280,
       "pct": 3.3
     },
     {
@@ -164,13 +164,18 @@
     },
     {
       "ruta": "/blog/",
-      "visitas": 630,
+      "visitas": 640,
       "pct": 1.6
     },
     {
       "ruta": "/fuentes/",
-      "visitas": 630,
+      "visitas": 640,
       "pct": 1.6
+    },
+    {
+      "ruta": "/noticias/",
+      "visitas": 560,
+      "pct": 1.4
     },
     {
       "ruta": "/kit/kit-dana/",
@@ -178,18 +183,13 @@
       "pct": 1.4
     },
     {
-      "ruta": "/noticias/",
-      "visitas": 530,
-      "pct": 1.4
-    },
-    {
       "ruta": "/kit/kit-coche/",
-      "visitas": 450,
+      "visitas": 460,
       "pct": 1.2
     },
     {
       "ruta": "/analiticas/",
-      "visitas": 410,
+      "visitas": 420,
       "pct": 1.1
     },
     {
@@ -199,8 +199,8 @@
     },
     {
       "ruta": "/kit/kit-30-dias/",
-      "visitas": 380,
-      "pct": 1.0
+      "visitas": 370,
+      "pct": 0.9
     },
     {
       "ruta": "/kit/kit-comunicacion/",
@@ -209,17 +209,17 @@
     },
     {
       "ruta": "/privacidad/",
-      "visitas": 290,
+      "visitas": 300,
       "pct": 0.8
     },
     {
       "ruta": "/kit/kit-evacuacion/",
-      "visitas": 270,
+      "visitas": 290,
       "pct": 0.7
     },
     {
       "ruta": "/kit/kit-electricidad/",
-      "visitas": 240,
+      "visitas": 230,
       "pct": 0.6
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "ruta": "/kit/huerto-autosuficiencia/",
-      "visitas": 190,
+      "visitas": 180,
       "pct": 0.5
     },
     {
@@ -263,7 +263,7 @@
       "pct": 0.4
     },
     {
-      "ruta": "/kit/kit-incendio/",
+      "ruta": "/blog/el-conocimiento-dartnell/",
       "visitas": 140,
       "pct": 0.4
     },
@@ -273,18 +273,13 @@
       "pct": 0.4
     },
     {
-      "ruta": "/blog/el-conocimiento-dartnell/",
+      "ruta": "/kit/kit-incendio/",
       "visitas": 130,
       "pct": 0.3
     },
     {
       "ruta": "/blog/agua-cuanta-y-como/",
       "visitas": 120,
-      "pct": 0.3
-    },
-    {
-      "ruta": "/blog/comunicar-sin-red-movil/",
-      "visitas": 110,
       "pct": 0.3
     },
     {
@@ -308,14 +303,14 @@
       "pct": 0.3
     },
     {
-      "ruta": "/blog/kit-72h-vs-30-dias/",
-      "visitas": 60,
+      "ruta": "/blog/comunicar-sin-red-movil/",
+      "visitas": 90,
       "pct": 0.2
     },
     {
-      "ruta": "/blog/apagon-lecciones-28a/",
-      "visitas": 50,
-      "pct": 0.1
+      "ruta": "/blog/kit-72h-vs-30-dias/",
+      "visitas": 70,
+      "pct": 0.2
     },
     {
       "ruta": "/blog/kit-emergencia-50-euros/",
@@ -326,24 +321,174 @@
       "ruta": "/blog/mascotas-plan-emergencia/",
       "visitas": 50,
       "pct": 0.1
+    },
+    {
+      "ruta": "/blog/apagon-lecciones-28a/",
+      "visitas": 40,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/de/",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/de/kit/kit-coche/",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/en-us/",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/it/",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/nl/",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "ruta": "/de/kit/kit-30-dias/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/de/kit/kit-basico-72h/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/de/kit/kit-dana/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/de/kit/kit-frio/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/de/kit/kit-starlink/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/fuentes/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/kit/kit-basico-72h/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/kit/kit-comunicacion/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/kit/kit-electricidad/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/kit/kit-mayores/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-gb/kit/kit-suiza/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-us/kit/kit-incendio/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/en-us/kit/kit-mayores/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/fr/kit/huerto-autosuficiencia/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/fr/kit/kit-coche/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/fr/kit/kit-evacuacion/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/it/kit/kit-evacuacion/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/it/kit/kit-kit-profesional/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/it/kit/kit-suiza/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/it/kit/kit-terremoto/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/nl/kit/kit-30-dias/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/nl/kit/kit-bebe/",
+      "visitas": 10,
+      "pct": 0.0
+    },
+    {
+      "ruta": "/nl/kit/kit-terremoto/",
+      "visitas": 10,
+      "pct": 0.0
     }
   ],
   "referrers": [],
   "paises": [
     {
       "pais": "ES",
-      "visitas": 25760,
-      "pct": 67.5
+      "visitas": 26200,
+      "pct": 67.1
     },
     {
       "pais": "US",
-      "visitas": 5480,
-      "pct": 14.3
+      "visitas": 5740,
+      "pct": 14.7
     },
     {
       "pais": "DE",
-      "visitas": 1070,
-      "pct": 2.8
+      "visitas": 1040,
+      "pct": 2.7
     },
     {
       "pais": "BE",
@@ -352,8 +497,8 @@
     },
     {
       "pais": "FR",
-      "visitas": 570,
-      "pct": 1.5
+      "visitas": 560,
+      "pct": 1.4
     },
     {
       "pais": "NL",
@@ -361,14 +506,14 @@
       "pct": 1.1
     },
     {
-      "pais": "T1",
-      "visitas": 340,
+      "pais": "GB",
+      "visitas": 370,
       "pct": 0.9
     },
     {
-      "pais": "GB",
-      "visitas": 310,
-      "pct": 0.8
+      "pais": "T1",
+      "visitas": 370,
+      "pct": 0.9
     },
     {
       "pais": "IT",
@@ -376,8 +521,13 @@
       "pct": 0.7
     },
     {
+      "pais": "CN",
+      "visitas": 240,
+      "pct": 0.6
+    },
+    {
       "pais": "FI",
-      "visitas": 230,
+      "visitas": 240,
       "pct": 0.6
     },
     {
@@ -391,28 +541,23 @@
       "pct": 0.5
     },
     {
-      "pais": "CN",
-      "visitas": 210,
-      "pct": 0.5
-    },
-    {
       "pais": "PL",
       "visitas": 200,
       "pct": 0.5
     },
     {
       "pais": "MX",
-      "visitas": 180,
+      "visitas": 190,
       "pct": 0.5
     },
     {
-      "pais": "JP",
+      "pais": "BR",
       "visitas": 170,
       "pct": 0.4
     },
     {
-      "pais": "BR",
-      "visitas": 160,
+      "pais": "JP",
+      "visitas": 170,
       "pct": 0.4
     },
     {
@@ -471,12 +616,17 @@
       "pct": 0.2
     },
     {
+      "pais": "SE",
+      "visitas": 60,
+      "pct": 0.2
+    },
+    {
       "pais": "AE",
       "visitas": 50,
       "pct": 0.1
     },
     {
-      "pais": "SE",
+      "pais": "LU",
       "visitas": 50,
       "pct": 0.1
     },
@@ -487,11 +637,6 @@
     },
     {
       "pais": "BD",
-      "visitas": 40,
-      "pct": 0.1
-    },
-    {
-      "pais": "LU",
       "visitas": 40,
       "pct": 0.1
     },
@@ -552,6 +697,11 @@
     },
     {
       "pais": "KZ",
+      "visitas": 20,
+      "pct": 0.1
+    },
+    {
+      "pais": "MA",
       "visitas": 20,
       "pct": 0.1
     },
@@ -621,11 +771,6 @@
       "pct": 0.0
     },
     {
-      "pais": "MA",
-      "visitas": 10,
-      "pct": 0.0
-    },
-    {
       "pais": "MT",
       "visitas": 10,
       "pct": 0.0
@@ -664,13 +809,13 @@
   "dispositivos": [
     {
       "tipo": "móvil",
-      "visitas": 20730,
-      "pct": 54.3
+      "visitas": 21030,
+      "pct": 53.9
     },
     {
       "tipo": "escritorio",
-      "visitas": 17400,
-      "pct": 45.6
+      "visitas": 17940,
+      "pct": 46.0
     },
     {
       "tipo": "tableta",
