@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T16:11:02+01:00",
+  "actualizado": "2026-11-15T19:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "El temporal golpea Galicia: un puente derrumbado, un pueblo incomunicado y trenes suspendidos por las lluvias",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJic1FfcDhNZ2VmSmRDbEZINXJ3aDMybTZnTzVRUXJSWGY1eWYzOE5Hdmw5TzBBWXhsdTFYY2c5eC10ai1IYnJRaWJ4WWdBNzRLZUVWWGY2OFU4WWdmU2JpZXdudXNsNlVGS0tFQ25IXzhtRC1BYUdaQzdEVEx0bVlSeUEyU3NTMElpclkyY1R5dTFsMW84dGx3a18tZC1lRkR0MldfN1BhZ24zUlZfRWFvRzZ0RkhfN2fSAb8BQVVfeXFMT3lWWENUa3VXamRXS0lYNUR0V3JDNGJsNnZwQkZyZmJCS013SzUwY2VFZ3Y5cEtzSDBOUEdXS2ZQUlZHLVBtYU00eERVNmFIMkhrVFRFc1RpRmc1VmVKaUpQUWw2SVhhNFY5SFBVYnJ5VzQ1YllmajdJRUhQWHdWVE5qOWdjY1F0cnpqMWdVRFpzdjhLZW04LTZIQ1k2c1VqMHNqbmQ2WjlNczRqeFgyS1REQS1EMHFwa3RsZF9WaUU?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-15T18:11:12+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "AEMET lo anticipa: siguen las lluvias en Madrid, Bilbao y el norte de España",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcS10MTM0c2otSlIyWE5kVUphX1BSc20xSEREb1gwWXVaM3Z3bEFZaWVrQUpOSzM2SGoxMEt2eFp1UGkxa2V6Q0FMX3RVcDRKb0s0QWxEY1ZRdTcwZWVxSXh2cEhsOVVhbWQxT0poeHU1OWhmcnVxbFJwb3NNZDBDaTdER05GcFhQUW5rM2FxR1c4NDJpRmdiQTRfLWl1ODd3bkszeFVRNkFSYjJYUHNZ0gG0AUFVX3lxTE90ZDFWZHliXzFFM2pQVGlGSDZneTE2NngxRC1VLVAyVkl4VXIxUU14ZksxTVVxRDdEamF3cDJndWNVZWFPZFNzMTZRUEl0VTZmRzdWVWhEcnpsVFhpaGdnYWZTLWpEdXdTazVfTFBzdVBza3VUNXJQaUJ0OGlmMTI4TlJWZVdXclN2QWxEV3A0ejVTeWtDUW5vZkQ2eDJwTEVkaFJRcGZCeWFTRE45ZEZCb21MWQ?oc=5",
      "fuente": "Urgente24",
@@ -202,14 +210,6 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-11-13T09:44:52+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "La Generalitat publica la cartografía que muestra todo lo que inundó el desbordamiento del Girona en la dana Adam",
      "url": "https://lamarina.eldiario.es/2026/11/13/la-generalitat-publica-la-cartografia-que-muestra-todo-lo-que-inundo-el-desbordamiento-del-girona-en-la-dana-adam/",
      "fuente": "La Marina Plaza",
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Las superbaterías son el 'chaleco salvavidas' si España vuelve a sufrir un nuevo apagón energético: cómo son y quién las puede fabricar",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOemtOVUhjM0otOEtZTVgxMWJXOFp5M3NfOTl2MkpIZ1VCMHZFb21nTVRreVhReTJkUFl6NGJZa08tVEdqYXNkd1hIcVY3M090c3oyZThUTlZuLUVfeVJ0Nk5xaVF1MzRPZzhnYnduY2NvS19OaHU1Rm5zWTNHZnVsX2t6dVFNMHlZbUJoWVdqMllNd1Z4ZUNua1dOSlBXeFhBdGo2NmhWMjcybGtkVktTMktuV0ZMUnRkVGlSNnktVUxFcDFudFUtS3FZVFZScjJ1NHNQdlVYMG9lZ0lQeTA0YVZiR3FyajFrNEQwVTdHQmtFOG9YWG5RODRn0gH_AUFVX3lxTFA5X2ZieGRJRF96OHBmSUtTOUhZYU51Tm9ISzFBelhkeUxIZ1NZRDU0QXVURHJ5T2t3MTJveW1zVEdFN2dYdDdDajFSZGVMSk0xMlFFa0hQaWdCRHh5d1lyWnZDMGplTS1iQUtxUWl4WUttcVlVVnhfdm43MjY5bmRrQU9LRlAxWWYtTHdmODJhQWxuYld3SXk2clJhNm1aQUlmUWNzNHdGWTJzdlBQY2FFMDVpYmh1d3hKYlE1WmtSQ2RaelVpbzJ4d3lkY2FSUDJIbE1iN0RWVUhKeGdRVmI5TnBsUmp4dUp2Yl9LUVJ2OUJrMHVuRzh6U3Bmc25tOA?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-15T16:33:35+01:00",
+     "fecha_txt": "15 nov"
+    },
     {
      "titulo": "A de apagón",
      "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
@@ -278,14 +286,6 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
