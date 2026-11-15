@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T07:11:03+01:00",
+  "actualizado": "2026-11-15T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,11 +28,11 @@
      "fecha_txt": "14 nov"
     },
     {
-     "titulo": "Tumbes pierde casi el 70% del agua que produce y reservas cubrirían menos de medio día ante una emergencia",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1h2ZW9yemhwNjFteHdRa3VpSjlCMjFnNUVmblVXYkRra2xZeWVOVzVybVZZWGhxSzhtN1o1QlhCN0szdHh0OFBhR21uRElHQWhRNUNMT01pUkV4Qk9FTllGRmY5TU9HSDlJTGk4ZDA1M3dNWmhrTEpCZmpjNTZiMUQ2RVpZS2QyUXA1ZTdZemROcmx6RW9ZR1BNZHBkTWpTVzBfMmFkYUFaMGlyYlQ3WHRZd0s0RmtVRjFVU0NQVHdkblJQUlRXd2NyekdVdVBsbkJyYQ?oc=5",
-     "fuente": "Revista Economía",
+     "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU9qRU82MGEwc3VPalpQRlVZZmhDVDJDalM1aEVEbGJhZkpzdmdGa09LTndfa29iX1dJdkRScjF6UlFDZmxGeFJ4VUdJMWZKTHM4cjJWR3R1UDF0b0dfSTRkaGNsVjFaZm5DTkh5a1lXM2J2dFdLMmpUM1NELXU3QVBzMmJwbUU?oc=5",
+     "fuente": "Pasquale Pillitteri",
      "resumen": "",
-     "fecha": "2026-11-13T22:55:39+01:00",
+     "fecha": "2026-11-13T14:51:32+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -91,14 +91,6 @@
      "fecha_txt": "15 nov"
     },
     {
-     "titulo": "Una tasa de 5 céntimos a los carburantes para financiar la conservación de los bosques y prevenir incendios",
-     "url": "https://www.msn.com/es-es/noticias/otras/una-tasa-de-5-c%C3%A9ntimos-a-los-carburantes-para-financiar-la-conservaci%C3%B3n-de-los-bosques-y-prevenir-incendios/ar-AA2hrpY0",
-     "fuente": "elDiario.es on MSN",
-     "resumen": "El Colegio valenciano de Biólogos propone retribuir a los dueños de montes con 4.550 millones al año para salvar el medio rural, gravando con 22 euros la tonelada de CO₂ emitida para remunerar a los p ...",
-     "fecha": "2026-11-14T15:36:00+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
      "titulo": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes",
      "url": "https://www.covertalavera.com/incendios-forestales-en-castilla-la-mancha-47-685-hectareas-afectadas-una-lucha-al-limite-y-decadas-para-recuperar-los-montes/",
      "fuente": "Cover Talavera",
@@ -145,6 +137,14 @@
      "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
      "fecha": "2026-11-13T05:03:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
+     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
+     "fecha": "2026-11-13T02:40:00+01:00",
+     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -154,9 +154,17 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este domingo 15 de noviembre en España: lluvias persistentes en Galicia y rachas muy fuertes de viento",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRUhKVmpJSjJ1OEpXTy1qeHpIQm9RV3d6cHVkN3VlUjBvMXJmaVk4cURiU1FQSmQzTlo2ZDZ3ZEJmT0lIR0xLa1pacFFhVlpmTmxjR1pIRWc5LTNBdzQ4VDNtSHQ4V0w4d29qZ0FkNmRtYnRtS3FxZk84STNqU2xYQkpocjJQd24xVEttTlhTbTVLdjUtdERDanRfLUNIME9rRi1jNVY1blppdFhuZE9mT1ZSMVJjVThiWDVsNWQzc0F2SVhOdHNsQUY4eG5GcXZ4ZXlHdUNSR2w1dGU5Zjhma1lIRnhjZ3FKRDlNMnVsc0pqbHJuTm9tcjl4TGNCOEZNWkxyc2VEWTZ0YkdLTnJzWmVIUWZ6bnI3ekJPYTFB0gGyAkFVX3lxTE1kYU5ieE0tTVJKM05RQlMwQWs4YmQ4RGpHZkJldVVyQmplYlg2Wk9TY2kyQl96U2ltVzFDXzg1S0NJUkl2VHVGN0x5QkxuUDFDTVZSZ3VPeHcycFlrTVlUWkJqWGVSblR5YllEd3VGT2FycHZGS1Y4ZkpqaVJfb183blJXLUs1OVdDX2lFb01SX3Z1dHBnZXhLMnpvOUl2QmwtazZXVlpGRVJtZmtGbll4a052S01KZnBQdzlCRDBMcjdDMThIV2h1cEptSzV0dU0zakZKbGJlSzltNTA3c2FoSm1rd3pZTm1MUHBLNUN0b196QWMxaC00SDgta29NSmd3aWI2QnFEa19pQ3Z0MjN5blVybkVKRWs1X3NsRERYV3R0M2FLVkd5SkdQMWk4aGNrUQ?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-15T07:00:21+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "El coste millonario de las compensaciones por inundaciones y viento extremo en Canarias: 363 millones en tres décadas",
-     "url": "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/coste-millonario-compensaciones-inundaciones-viento-extremo-canarias-363-millones-tres-decadas_1_13482966.html",
-     "fuente": "elDiario.es",
+     "url": "https://www.msn.com/es-es/noticias/otras/el-coste-millonario-de-las-compensaciones-por-inundaciones-y-viento-extremo-en-canarias-363-millones-en-tres-d%C3%A9cadas/ar-AA2hsd6D",
+     "fuente": "elDiario.es on MSN",
      "resumen": "Ambos fenómenos representan más de la mitad (el 57,3%) de las indemnizaciones abonadas por el Consorcio de Compensación de Seguros en Canarias por acontecimientos extremos. Si se excluyen los daños de ...",
      "fecha": "2026-11-14T21:30:00+01:00",
      "fecha_txt": "14 nov"
@@ -167,14 +175,6 @@
      "fuente": "Bichos de Campo",
      "resumen": "",
      "fecha": "2026-11-14T17:01:36+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "La Comunitat Valenciana impulsa una alianza mediterránea para prevenir inundaciones y sequías",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-comunitat-valenciana-impulsa-una-alianza-mediterr%C3%A1nea-para-prevenir-inundaciones-y-sequ%C3%ADas/ar-AA2hriYY",
-     "fuente": "El Español on MSN",
-     "resumen": "La directora general de Representación ante la UE participa en la Cumbre del Clima de Naciones Unidas, celebrada en Turquía. Más información: Así son los enormes tanques antitormentas de Alicante que ...",
-     "fecha": "2026-11-14T07:20:16+01:00",
      "fecha_txt": "14 nov"
     },
     {
