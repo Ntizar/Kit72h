@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T19:11:01+01:00",
+  "actualizado": "2026-11-15T22:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -91,6 +91,14 @@
      "fecha_txt": "15 nov"
     },
     {
+     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
+     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
+     "fuente": "Europa Press",
+     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
+     "fecha": "2026-11-14T17:00:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
      "titulo": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes",
      "url": "https://www.covertalavera.com/incendios-forestales-en-castilla-la-mancha-47-685-hectareas-afectadas-una-lucha-al-limite-y-decadas-para-recuperar-los-montes/",
      "fuente": "Cover Talavera",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-13T00:00:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
-     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
-     "fuente": "La Gaceta",
-     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
-     "fecha": "2026-11-08T08:46:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -153,6 +153,22 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Inundaciones y cortes de carretera en Galicia por las lluvias, sin daños personales",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZrWUEwVEFsN2xDRGNRU21kTnZiNURIU0Y2bVcybWFTaVY5dy05VjZxdGpZUnM5Tk52WHpOOEJGejRNQzlMN1d6WDA0aDRQc1RDOHAzdzlpcFlSWEU2R2RoNFdDY3U2ZmxzSlBxTGpWWllOUl90LXQyZWhsb3ZfZ1hnRG9DVG1XSV9tTVVkeXl1SjFyZmp0MmFnR0V0S0xPRXA4ZXhOeTdiQVpjUEdYakJBNGpjNmZRZVNxNnp1UEd3UDNVNnlMX1NVenp5dU3SAeoBQVVfeXFMTUdtTkVjeUN3dzR1VzNxQ3laY3hPN0NHMHdiOW5tYWlfVk4xNEJPd25wRWNMX0dsWVVkRmpkRUxTd200a1ZPZzZXZG9iLXdpTldQS2ZJbjJWWjFzd3NWZUNZMTl5NUxieFhaZU96VEZ2b2JiT0Nqa1QwckpIMFM0b3VHRC13RWtQVWdCdWlkckJRVHN5WjdrSmhidVJERWlwSUNHM2E5Qmw1bThKVkdUSGFyZmVNenBWOVFyRTVoZWZ3ZEFuMl9KZVZoODQxd3B1eEZnXzNNem1HX2poSkZ2WU1sZjBWM0xIVlRR?oc=5",
+     "fuente": "Infobae",
+     "resumen": "",
+     "fecha": "2026-11-15T20:02:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-15T19:00:07+01:00",
+     "fecha_txt": "15 nov"
+    },
     {
      "titulo": "El temporal golpea Galicia: un puente derrumbado, un pueblo incomunicado y trenes suspendidos por las lluvias",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJic1FfcDhNZ2VmSmRDbEZINXJ3aDMybTZnTzVRUXJSWGY1eWYzOE5Hdmw5TzBBWXhsdTFYY2c5eC10ai1IYnJRaWJ4WWdBNzRLZUVWWGY2OFU4WWdmU2JpZXdudXNsNlVGS0tFQ25IXzhtRC1BYUdaQzdEVEx0bVlSeUEyU3NTMElpclkyY1R5dTFsMW84dGx3a18tZC1lRkR0MldfN1BhZ24zUlZfRWFvRzZ0RkhfN2fSAb8BQVVfeXFMT3lWWENUa3VXamRXS0lYNUR0V3JDNGJsNnZwQkZyZmJCS013SzUwY2VFZ3Y5cEtzSDBOUEdXS2ZQUlZHLVBtYU00eERVNmFIMkhrVFRFc1RpRmc1VmVKaUpQUWw2SVhhNFY5SFBVYnJ5VzQ1YllmajdJRUhQWHdWVE5qOWdjY1F0cnpqMWdVRFpzdjhLZW04LTZIQ1k2c1VqMHNqbmQ2WjlNczRqeFgyS1REQS1EMHFwa3RsZF9WaUU?oc=5",
@@ -170,11 +186,11 @@
      "fecha_txt": "15 nov"
     },
     {
-     "titulo": "Galicia activa la preemergencia por riesgo de inundaciones ante las fuertes lluvias",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2JOYW1EUzhFUkpYcG9RdmhVU2pEc1BuSWYtclVRYUN5YVRnN2RGVXV1MTFfRFRtc21sVTg2aDl6U1ptSGlMWFJGTjJpNi01V3paM0xjaVJ0TXotVFQ0czJZSnNNbGU2WlNWSXIwS1RMQU5xUnBsSWYyU2xtOFJRTjhEVTVpX3FQUmROaEIzTExpS3VoNlc0MU9fV0ZrOGFFc1FKTFM0OXU1aFd6YV84UXBITGRwMEJBc1HSAb8BQVVfeXFMTTFSa0o2eldCMnpDdW0zcnlJY2F0eXQ3bkpFODNhU3gyOUdEWmpvc0NCbm56V1BtQW1yYnNWRHNBUHRlaU1JZ3E2SXhybVRtemVlWldaQjh3d3hqTGZYNkVhaVgwSHBPTWN6YTZMaUhxdVhfNTluVFZGRzZQTUc1bWJ2QmFIaFFqZXV1OWplZXY0dTVVczNEdFJ5c1c3di1ycmE4NDRqZGZJYWprMmpGM2loOWRnOUhxOXc4aEVYeGM?oc=5",
-     "fuente": "ABC",
+     "titulo": "Intensificación de las lluvias este martes 17 en España debido a la llegada de una masa de aire caribeña",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaHlhLUVUb2VUYVZQamZwazBsMEJPNFdMMmdiUjNlOGNTZjNNRnFacW52SHkwdE83d1A4bnJNelRIdFBnTFAxQ1hCbV80bFZJT2RtT2VhMy1Vb2kyRUM3bktJN0NXNnpnaTltSldyT2lrSk5qa081LUxlRjdMZGNaaUVURFR3Zk1oNkVGQ19jcWpLaENwLV9jQmxCSm9zZkszeFR1SjhJLWlCQ011ejFHQU1tSzBiajZWRUJsRkt3TnNmWVNrb0JqQlZUQ2xQMU5mdlRubWtkMXExYWtNeHZwVEJ5S3g2VTQ?oc=5",
+     "fuente": "Meteored España",
      "resumen": "",
-     "fecha": "2026-11-15T10:50:40+01:00",
+     "fecha": "2026-11-15T11:50:38+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -184,14 +200,6 @@
      "resumen": "",
      "fecha": "2026-11-14T17:01:36+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
-     "fuente": "El Independiente",
-     "resumen": "",
-     "fecha": "2026-11-13T17:44:13+01:00",
-     "fecha_txt": "13 nov"
     },
     {
      "titulo": "La AEMET avisa del tiempo para este fin de semana en España: lluvias fuertes y temperaturas de más de 25 grados",
@@ -207,14 +215,6 @@
      "fuente": "MONCLOA.COM",
      "resumen": "",
      "fecha": "2026-11-13T13:25:47+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "La Generalitat publica la cartografía que muestra todo lo que inundó el desbordamiento del Girona en la dana Adam",
-     "url": "https://lamarina.eldiario.es/2026/11/13/la-generalitat-publica-la-cartografia-que-muestra-todo-lo-que-inundo-el-desbordamiento-del-girona-en-la-dana-adam/",
-     "fuente": "La Marina Plaza",
-     "resumen": "El mapa identifica las áreas afectadas por riada y los calados alcanzados por el agua durante el episodio del 18 y 19 de octubre, tanto en la Marina Alta como la Safor.",
-     "fecha": "2026-11-13T04:50:00+01:00",
      "fecha_txt": "13 nov"
     }
    ]
@@ -265,14 +265,6 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWNCU1R6UDc5VzhEMVpxY1VJeWp1Q0k3b1gwbEhjdFBsc2dTNmExcGNWQVZvcWN6YVo0ZXg1c0JhVnFZY283TVZsNDhtdUV2Q0gwZTlQVjNScFNpWWpsQWdrS0RGX3hkaUZ6MlNlWWM5Um5sd0dqa3RualpNUUd3MGRYTm4xSFpYZ19KUGtTNmIzcVg10gGaAUFVX3lxTE92T2ZBWi02OUVuZlpaUHAzZ3ZqNWhyVmJOS1NXNGlFNjdSRy0xTHloNzU5TlRudko1bklJQnJybklFZ0pnM29sY0tfVHZnb2U3UEJqMlpGd0V3WjZ4TnN3QnEzSThMZzlFWDlpRTBUNzVDbDhfazgtUWgxR2Y4ZXN6MVhoWUxZbWw3eVcwaFU3T21zaDlUelN6VHc?oc=5",
-     "fuente": "Telemadrid",
-     "resumen": "",
-     "fecha": "2026-11-12T12:27:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
      "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
      "fuente": "ABC",
@@ -286,6 +278,14 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-10T17:55:17+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T10:22:37+01:00",
      "fecha_txt": "10 nov"
     }
    ]
