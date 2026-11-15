@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T10:11:01+01:00",
+  "actualizado": "2026-11-15T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -26,6 +26,14 @@
      "resumen": "",
      "fecha": "2026-11-14T14:04:00+01:00",
      "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Tumbes pierde casi el 70% del agua que produce y reservas cubrirían menos de medio día ante una emergencia",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1h2ZW9yemhwNjFteHdRa3VpSjlCMjFnNUVmblVXYkRra2xZeWVOVzVybVZZWGhxSzhtN1o1QlhCN0szdHh0OFBhR21uRElHQWhRNUNMT01pUkV4Qk9FTllGRmY5TU9HSDlJTGk4ZDA1M3dNWmhrTEpCZmpjNTZiMUQ2RVpZS2QyUXA1ZTdZemROcmx6RW9ZR1BNZHBkTWpTVzBfMmFkYUFaMGlyYlQ3WHRZd0s0RmtVRjFVU0NQVHdkblJQUlRXd2NyekdVdVBsbkJyYQ?oc=5",
+     "fuente": "Revista Economía",
+     "resumen": "",
+     "fecha": "2026-11-13T22:55:39+01:00",
+     "fecha_txt": "13 nov"
     },
     {
      "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-12T13:48:33+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Ni 48 ni 96 horas: por qué los expertos recomiendan que el kit de supervivencia sea de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWZEWUl5aW8yY2tZSVpsMC1RdUlfdjNRZWJmZDVJaTZSRTYxV3VZSkRTaWczVFZfV2tJUXFWYmxlN1Z1NGduZmUtcUcwelhWbGo4OGdkNm8yaWsxS2ZFNWlWOW9UcUgya1d3TzhFZVlsUzFQRWRhdWt0VXNNSy1kZHZTdGN2VDJCNWdVSzdSSnJkaWpVdGQxZHM1VjFhb1BjdUJBNXRseXdxSFI4WmdMN3JtbEVkbENqd1ZRVVppcUx5Smt5aS1HNmNkTHBnQjFDandrV0N6NGdXMmVKSlJfcNIB9AFBVV95cUxPanhGM1VoNHRBdTZpZUFzREZwUlVHOVpxdGxkejJLRXE0ejJwc3JOajQtRmotUHc4aklPX1VHN0dCa3FRLXdoTnUtYnpaaDFJRjNzY0dpZ2VsdTdsblpWMWx1WExEMHdydk15LU5vZ1pDU3J6SXZoaGlJTE5XWmd5cVFYdHgwWnEyaXhXRkxES0lzSllVSkxBc3ZQMXFtc3dtMWFLMU93MEJ1dmpDSFd5NkRhSElNVGRJazRhZFJaaXF2a1ZfMnZYRkNMN1hsbURqbVEtc3RlQWtDMVFKSVhXRzhLWnB0aEpWNWt4aWpWUnlzLXBC?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-12T11:35:13+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -107,14 +107,6 @@
      "fecha_txt": "14 nov"
     },
     {
-     "titulo": "Expertos de España y Portugal estudian en Cáceres crear un sello para actividades económicas que ayudan a prevenir grandes incendios forestales",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc1h1eEFhU3V6S2pNZ1lUSXRwa1V2dTRKQXQ2N2FwcktBd2hXNHBGc2ZTczgwVkk1RlBQOG5YLVg2R3E5SHI2VlNaY1p3S1BGUy1vTnE0ZDgwSk1FR2x5dEU4Q2ZPVTZ6YXVsNm9hWGhhSi1xYVFCU25hTDJMTXl3cC1laDF0ZURGTWp2RnBmV1ZIZG12N0EzUHFhMHRyWlJlY3ZHOEVib0Y5VGVhYUo5RWsyM0xlREhEbE1hLWRkUFRKT29xbmdUVXZtamhEeU8xUkUyLVE5NHVGYld3bXpVNDZVZ3VwU2pPYjFkdjJuSXJWZ2Y0WjRkb2tVLS1uajFGREJOSGFn?oc=5",
-     "fuente": "Onda Cero Sur Extremadura",
-     "resumen": "",
-     "fecha": "2026-11-13T16:52:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
      "fuente": "Lanza Digital",
@@ -131,20 +123,28 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
-     "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
-     "fuente": "Europa Press on MSN",
-     "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
-     "fecha": "2026-11-13T05:03:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
      "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
      "fuente": "Levante-EMV",
      "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
      "fecha": "2026-11-13T02:40:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
+     "fuente": "Austerra Society",
+     "resumen": "",
+     "fecha": "2026-11-13T00:00:00+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
+     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
+     "fuente": "La Gaceta",
+     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
+     "fecha": "2026-11-08T08:46:00+01:00",
+     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -154,11 +154,11 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "La AEMET avisa a los españoles de lo que ocurrirá este domingo 15 de noviembre en España: lluvias persistentes en Galicia y rachas muy fuertes de viento",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRUhKVmpJSjJ1OEpXTy1qeHpIQm9RV3d6cHVkN3VlUjBvMXJmaVk4cURiU1FQSmQzTlo2ZDZ3ZEJmT0lIR0xLa1pacFFhVlpmTmxjR1pIRWc5LTNBdzQ4VDNtSHQ4V0w4d29qZ0FkNmRtYnRtS3FxZk84STNqU2xYQkpocjJQd24xVEttTlhTbTVLdjUtdERDanRfLUNIME9rRi1jNVY1blppdFhuZE9mT1ZSMVJjVThiWDVsNWQzc0F2SVhOdHNsQUY4eG5GcXZ4ZXlHdUNSR2w1dGU5Zjhma1lIRnhjZ3FKRDlNMnVsc0pqbHJuTm9tcjl4TGNCOEZNWkxyc2VEWTZ0YkdLTnJzWmVIUWZ6bnI3ekJPYTFB0gGyAkFVX3lxTE1kYU5ieE0tTVJKM05RQlMwQWs4YmQ4RGpHZkJldVVyQmplYlg2Wk9TY2kyQl96U2ltVzFDXzg1S0NJUkl2VHVGN0x5QkxuUDFDTVZSZ3VPeHcycFlrTVlUWkJqWGVSblR5YllEd3VGT2FycHZGS1Y4ZkpqaVJfb183blJXLUs1OVdDX2lFb01SX3Z1dHBnZXhLMnpvOUl2QmwtazZXVlpGRVJtZmtGbll4a052S01KZnBQdzlCRDBMcjdDMThIV2h1cEptSzV0dU0zakZKbGJlSzltNTA3c2FoSm1rd3pZTm1MUHBLNUN0b196QWMxaC00SDgta29NSmd3aWI2QnFEa19pQ3Z0MjN5blVybkVKRWs1X3NsRERYV3R0M2FLVkd5SkdQMWk4aGNrUQ?oc=5",
-     "fuente": "La Razón",
+     "titulo": "Galicia activa la preemergencia por riesgo de inundaciones ante las fuertes lluvias",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2JOYW1EUzhFUkpYcG9RdmhVU2pEc1BuSWYtclVRYUN5YVRnN2RGVXV1MTFfRFRtc21sVTg2aDl6U1ptSGlMWFJGTjJpNi01V3paM0xjaVJ0TXotVFQ0czJZSnNNbGU2WlNWSXIwS1RMQU5xUnBsSWYyU2xtOFJRTjhEVTVpX3FQUmROaEIzTExpS3VoNlc0MU9fV0ZrOGFFc1FKTFM0OXU1aFd6YV84UXBITGRwMEJBc1HSAb8BQVVfeXFMTTFSa0o2eldCMnpDdW0zcnlJY2F0eXQ3bkpFODNhU3gyOUdEWmpvc0NCbm56V1BtQW1yYnNWRHNBUHRlaU1JZ3E2SXhybVRtemVlWldaQjh3d3hqTGZYNkVhaVgwSHBPTWN6YTZMaUhxdVhfNTluVFZGRzZQTUc1bWJ2QmFIaFFqZXV1OWplZXY0dTVVczNEdFJ5c1c3di1ycmE4NDRqZGZJYWprMmpGM2loOWRnOUhxOXc4aEVYeGM?oc=5",
+     "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-15T07:00:21+01:00",
+     "fecha": "2026-11-15T10:50:40+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -194,14 +194,6 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Andalucía desactiva el plan de emergencia por inundaciones tras finalizar los avisos",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeTQ5bzlvZENoR3JYd0ItM3RQenMxVlVTZDIyQ1A1QWJnNTlEeWs5V1hTTUl4am1IMkVZSzIyR1kzQ1A3cENwQ0ZmOUR2aGRZT3JqNXVmMWZTb1dIYUN6S21TQWxnckc5SzhrV3lUT1hDWVpYSzR2dnowSmJ5d1pTdXhlS2NlUUNXMWs1MG5ZMjBsd19LR1FSbWJYTE16V25jTlVmSkpBcWprUEN2czFQM1UwZ2RRV2Z0SllfeUdpaXhYM2wxSUEzSEE5Smp4N2JmWEHSAewBQVVfeXFMTjBGNHdJTUpZSnBiaVVNa2FPR0pCQzRtT0dGaDBKWEcwWXFZYi1IUzFoVmdZWGJMXzh3TVRrU2ltRHJvd19rY09HMHFFcm8tRm1Oa0VRRFhXd1VnRVI1QUQ0bjJUYnY4bU5OemZPSEU3WnlLVUZkSC1LY0JyUjR4UGN2X3ZhdDhRNm5rbVB1ZWZKVjItd1I3NHV6MGJtRDRaQmZDd3lSSHBOdG1IN2JOVldqVTJTeWR0RmtCWjRaUW9NcmxFSnA1MDE2NlBERHI4RU5BWFNvUUhBQ2RUbXowWW5xRmZzZE8yNHQzMXU?oc=5",
-     "fuente": "Infobae",
-     "resumen": "",
-     "fecha": "2026-11-13T12:17:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
      "fuente": "Hoy Aragón",
@@ -216,6 +208,14 @@
      "resumen": "El mapa identifica las áreas afectadas por riada y los calados alcanzados por el agua durante el episodio del 18 y 19 de octubre, tanto en la Marina Alta como la Safor.",
      "fecha": "2026-11-13T04:50:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Pérez Llorca exige al Gobierno acelerar las obras contra inundaciones en la Comunidad Valenciana",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZGFZempsUTVsc0lqUjdYUFo0T09ZbDhkVVEyVzJuRlViT2VmMFNUemszdXlnNDBUd18wMndCcHRkYXpta2djMzRIOTRzNDEzVUhId1VCeFprM1BiaUZCRTVhZ1lCVXpPaTJFWjYyWWxaS29qd2RsQXhoVXVDNDVEY0VGenI2VEFSbURZRll6QXprUDB4Zm9IQTZPTDhvbWdBMm91MGxkQ3RIRkNKMDNTaVVjUW1IT3dYc0VHSE9KZW9KYWZ2SHBVbnFjSHdxdy1mS1dRTmF5a3doSC12dHZWdzUxLUVZV3pZamlUUDBn0gHzAUFVX3lxTE1vdE44anZ0WG43YURxSG5FRVBrdVBOeHI0T2tudXA2V044RXhWTEhjNFRhSmJUR0hUNmNOQUxweWkyY2dqdy1CZmlYdWY5UjFoSEk2ODlGSjJ5RXZGLVNuWDZjWVJyYlVuSHE1TW1kTEx3cmp6Z3RnM1ZGcUxaUGtzYnYweUJtaVhEMHhjdGVVSGIzaGFfRzd2SDNsLVRobk9EQURadVFaY1czRm5SUlVORzkzM1BpRDNuRC1jLXJlZUZyY2N2bUJpWDFVS3g5RDY0VEhRLXg4NVhPRHVBOXI0cXNaX09aaHM1U1NuS09mTG04NA?oc=5",
+     "fuente": "El Debate",
+     "resumen": "",
+     "fecha": "2026-11-12T11:42:24+01:00",
+     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -224,14 +224,6 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
-    {
-     "titulo": "Beam, exagente de la CIA: \"China puede utilizar sus paneles solares para provocar apagones en cadena en España\"",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXM3RlU2dGI4VlY5RXRfSG9HZjZaOXBrbHh2X3pWYWF5elJNQldLbXZyNVRNeGV2dDk4WXoyWjVqb01RR2Rwdjd6MFpNZ01kT3g4emtMN29lZVRZT241cjlsbVE1QVVpcGFQQmhqeFlrYVZRU3pxN1VPRnh6cG9qUDlVT2RKN3AzVWtXSDZhZ2tsOTZlM3NTcS1SZXlVcURrUmRCeDNmLXItS251VEgxZjBxaU5qSHFTNU1zcVNRZDNvX2E4OUUzdEJTOXlyNElnaFRlYzJUZVgxS0ZYMFMySHJn0gHnAUFVX3lxTFBmX0NrQjh4enFseW1BakNqQms4b1JfTFlDZ0M3ajRTUnVPbWFYY2FPZldHeEFxeXhlMC1IVTBsdUdCaHllYzl2VW0zWWxQN2RCbWp1RDlwTk5lNG40OXdYR05DTXNJSmpFQWJxdEIteTZOMG5LUTRHZ1hXMGNDRlprM0NnbVZubHlfYjBUYkd0OWdjeDJMOXMwQy1RZnBNSnNab1ptWmFtcXVvNzktcy1UdDNfSmZKbEF2QW82NG00WUxGZ0JOMUh6TkdyUXp0WUpJSl95U3h1Snk1ckd2eW05ai1TQ25lcw?oc=5",
-     "fuente": "El Español",
-     "resumen": "",
-     "fecha": "2026-11-15T05:00:00+01:00",
-     "fecha_txt": "15 nov"
-    },
     {
      "titulo": "A de apagón",
      "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
@@ -271,6 +263,14 @@
      "resumen": "",
      "fecha": "2026-11-12T12:27:00+01:00",
      "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "Ni Red Eléctrica confiaba en el éxito de la huelga general: su previsión era un consumo para un día laborable al 100%",
+     "url": "https://www.elespanol.com/invertia/empresas/energia/20261112/red-electrica-confiaba-exito-huelga-general-prevision-consumo-dia-laborable/1003744454537_0.html",
+     "fuente": "El Español",
+     "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
+     "fecha": "2026-11-11T21:00:00+01:00",
+     "fecha_txt": "11 nov"
     },
     {
      "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
