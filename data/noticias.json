@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-14T22:11:01+01:00",
+  "actualizado": "2026-11-15T01:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -25,14 +25,6 @@
      "fuente": "Revista Economía",
      "resumen": "",
      "fecha": "2026-11-13T22:55:39+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU9qRU82MGEwc3VPalpQRlVZZmhDVDJDalM1aEVEbGJhZkpzdmdGa09LTndfa29iX1dJdkRScjF6UlFDZmxGeFJ4VUdJMWZKTHM4cjJWR3R1UDF0b0dfSTRkaGNsVjFaZm5DTkh5a1lXM2J2dFdLMmpUM1NELXU3QVBzMmJwbUU?oc=5",
-     "fuente": "Pasquale Pillitteri",
-     "resumen": "",
-     "fecha": "2026-11-13T14:51:32+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-12T11:35:13+01:00",
      "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "¿Por qué se recomienda tener una mochila de emergencia y qué debe llevar? La verdad detrás del rumor del apagón mundial",
+     "url": "https://www.unotv.com/ciencia-y-tecnologia/por-que-se-recomienda-tener-una-mochila-de-emergencia-y-que-debe-llevar-la-verdad-detras-del-rumor-del-apagon-mundial/",
+     "fuente": "UnoTV",
+     "resumen": "Organismos gubernamentales han pedido a la población que tenga preparada una mochila de emergencia, ve su relación con el apagón mundial.",
+     "fecha": "2026-11-12T04:35:00+01:00",
+     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Una tasa de 5 céntimos a los carburantes para financiar la conservación de los bosques y prevenir incendios",
+     "url": "https://www.msn.com/es-es/noticias/otras/una-tasa-de-5-c%C3%A9ntimos-a-los-carburantes-para-financiar-la-conservaci%C3%B3n-de-los-bosques-y-prevenir-incendios/ar-AA2hrpY0",
+     "fuente": "elDiario.es on MSN",
+     "resumen": "El Colegio valenciano de Biólogos propone retribuir a los dueños de montes con 4.550 millones al año para salvar el medio rural, gravando con 22 euros la tonelada de CO₂ emitida para remunerar a los p ...",
+     "fecha": "2026-11-14T15:36:00+01:00",
+     "fecha_txt": "14 nov"
+    },
     {
      "titulo": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes",
      "url": "https://www.covertalavera.com/incendios-forestales-en-castilla-la-mancha-47-685-hectareas-afectadas-una-lucha-al-limite-y-decadas-para-recuperar-los-montes/",
@@ -115,6 +123,14 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlZaVm1wTWlCRmhlSTdWd3FMX2RWUzRPUmY2YmFWSFdYekxQdFMzcnI0OEkyWXk2anhYYXVqRVVyUFg4VzR1aVBaRXA0d3NLdXczN2ZjczVaMktBX3UwS2l6YmtKVzQwcFcwY2hrM1JBekczQzg3ZUUyZHRHeERjTjlRTF93c1FaNnhwZWlkNzB2ZUJpMDFsVkhTdU5tUXRJWEFwMjY2MzZ6aS1CUEwyREFtVG5ldHNwWUc2S1ZoSEp3T3M?oc=5",
+     "fuente": "somosCLM",
+     "resumen": "",
+     "fecha": "2026-11-13T13:25:59+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
@@ -129,22 +145,6 @@
      "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
      "fecha": "2026-11-13T02:40:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
-     "fuente": "Austerra Society",
-     "resumen": "",
-     "fecha": "2026-11-13T00:00:00+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
-     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
-     "fuente": "La Gaceta",
-     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
-     "fecha": "2026-11-08T08:46:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -168,14 +168,6 @@
      "resumen": "Ambos fenómenos representan más de la mitad (el 57,3%) de las indemnizaciones abonadas por el Consorcio de Compensación de Seguros en Canarias por acontecimientos extremos. Si se excluyen los daños de ...",
      "fecha": "2026-11-14T07:30:00+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
-     "fuente": "El Independiente",
-     "resumen": "",
-     "fecha": "2026-11-13T17:44:13+01:00",
-     "fecha_txt": "13 nov"
     },
     {
      "titulo": "Tormenta Charles España: vientos de 136 km/h, inundaciones y vuelos cancelados en el sur",
@@ -210,11 +202,19 @@
      "fecha_txt": "13 nov"
     },
     {
-     "titulo": "Pérez Llorca exige al Gobierno de España acelerar las obras contra las inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTV2aExGcTJUd01JbU00cURqM2lPZEdLWWVPTnhPaDlnSG1pOTdRU1ZCZXozVm1oanotSjN6SS13WHJDY3RNR1NBWkYwQXpjaTl0NFduU0pBN2tUdGtGT0VpMWlfS01ma3BxSGNzSmxYN2w3di1kVkhXN1dHMTNKNFhTYlJHYktCMnVXQ21mdEI1andvRkt3Y0EzSURWUks2ek1RSzBpMW82RHhjMnUxSUxn?oc=5",
-     "fuente": "Vegabajadigital",
+     "titulo": "Pérez Llorca exige al Gobierno acelerar las obras contra inundaciones en la Comunidad Valenciana",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZGFZempsUTVsc0lqUjdYUFo0T09ZbDhkVVEyVzJuRlViT2VmMFNUemszdXlnNDBUd18wMndCcHRkYXpta2djMzRIOTRzNDEzVUhId1VCeFprM1BiaUZCRTVhZ1lCVXpPaTJFWjYyWWxaS29qd2RsQXhoVXVDNDVEY0VGenI2VEFSbURZRll6QXprUDB4Zm9IQTZPTDhvbWdBMm91MGxkQ3RIRkNKMDNTaVVjUW1IT3dYc0VHSE9KZW9KYWZ2SHBVbnFjSHdxdy1mS1dRTmF5a3doSC12dHZWdzUxLUVZV3pZamlUUDBn0gHzAUFVX3lxTE1vdE44anZ0WG43YURxSG5FRVBrdVBOeHI0T2tudXA2V044RXhWTEhjNFRhSmJUR0hUNmNOQUxweWkyY2dqdy1CZmlYdWY5UjFoSEk2ODlGSjJ5RXZGLVNuWDZjWVJyYlVuSHE1TW1kTEx3cmp6Z3RnM1ZGcUxaUGtzYnYweUJtaVhEMHhjdGVVSGIzaGFfRzd2SDNsLVRobk9EQURadVFaY1czRm5SUlVORzkzM1BpRDNuRC1jLXJlZUZyY2N2bUJpWDFVS3g5RDY0VEhRLXg4NVhPRHVBOXI0cXNaX09aaHM1U1NuS09mTG04NA?oc=5",
+     "fuente": "El Debate",
      "resumen": "",
-     "fecha": "2026-11-12T15:01:05+01:00",
+     "fecha": "2026-11-12T11:42:24+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "Pérez Llorca ha urgido al Gobierno a acelerar las obras contra inundaciones en la Comunitat Valenciana",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjdfYTkxRHozem42WnZsandrUjBwR0U1RnFMUGRTOXRaeXE4NE0xRm5KZkVXR1M0bkFRcy1uMklmd29xYV9sTThLcFVPdllaZUF6Y2xqV21ZZjdCSlJMRWg1SkFHeGQ1UVgzU183bzZLNGlmWkU0SWR0TE1vSENyZ2tySkl3MDdOTnVPblZPNTdCOXFNWXJCN2lPV0JCcHRxclJzRmZqQ3ZxdnFTSXpWdFdjVGUzaHJYRVFEbEZBMV9adkJDeG9Ea0hzMFF6T1hqeTNmU2libzBUcDlLUF9tdmxRY0xLYWhQWHZ4Zw?oc=5",
+     "fuente": "Castelló Extra",
+     "resumen": "",
+     "fecha": "2026-11-12T11:30:17+01:00",
      "fecha_txt": "12 nov"
     }
    ]
@@ -226,10 +226,10 @@
    "items": [
     {
      "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
-     "url": "https://www.digitaldeleon.com/articulo/noticias-nacionales/apagon-mundial-17-noviembre-72-horas-luz-espana-que-cierto/20261114133000234243.html",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVphRE1OTWJoWG8tdGE0cW1xbDZvQlBVSjMxVTAwZFhGZEpoMmxZSEtJSjhGTEJwcWU3bTRPX0JmTzJsZnBzTUNHenI3QVJucXRlS3Y1VXJFLXExbXM3LVE4Y1ZFWEhzVnZiNDNpRGtyQUZwZkZhU0hDMmJMNUQyTFN3ZGJoOFNoZTdOSVVqLWs2a3d6WGNZNnVvakprQi1HREhQamF0azk1czFncDNzZHE3aVhCaWZUeENzS1drVUhtWkRwbXhMTWQwZThvSFB4MFM1MHl1MkxsX1XSAeABQVVfeXFMTzVxc2N3NXl2cjFPNmNTUXZHcnlyMEhUSWx1MHFjZXhVSU9wOU1qazRqSkg2LU9VS3dNUE9fZEI2eThiQTNxbk5RT002aWxEbm1aNVdPOWx4cVlQaW9EaXNUa0VQMHNycFNVZ2MyTS1ad3NnclNVYnpWRkszc0pTaWthMndPLWt4WWxUMTU0eHpoeE9TRTF6YmFZcGxidlc5UFRBZ2FSY1g0OWM2ekJ1NGVfTG9ObnYzWXZUUVM1bXhDV3BZYU9hRE56U0hCeXFBTTVfTnNIakhGbFhYR055ZzA?oc=5",
      "fuente": "Digital de León",
-     "resumen": "El próximo martes 17 de noviembre se ha convertido en una fecha de la que no se deja de hablar en redes sociales. Desde hace días circulan vídeos y mensajes que aseguran que podría producirse un apagó ...",
-     "fecha": "2026-11-14T06:30:00+01:00",
+     "resumen": "",
+     "fecha": "2026-11-14T13:30:00+01:00",
      "fecha_txt": "14 nov"
     },
     {
