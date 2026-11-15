@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T01:11:00+01:00",
+  "actualizado": "2026-11-15T04:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Esto es lo que realmente ocurrirá",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWk0QzV4aDA4LWZXMVpGOVk1OEwtMzRnUkpkcGhkdG1MNXpVZUJwWDA4Zlh5b05hem83SFJvS1o0Z2ZJaFh5Um9hMV9lZmsyS21mS3l2REhkc0ZLd1RSSXhnMHVFMXhGOWRzYm9KMUNiU2VYREtnMFh0ZXNxQXpOcXpULW9FWExEYjZNXzA3LXVEUFA2eTZ3UXMtVExlVXpaOEZuNDJYdkFFNjhmQmxfOUY3WWRQMkhsSFlUYzJR0gHDAUFVX3lxTE5BYTc4aHpyTm5pVFVNX0hVZFhhUTFyeExVR21mZTl6a3ladG1YQzNiWFJIOE00Q0FvYm1fTkpjVG1ldjdPUDl3ZG5SdGlHMFN6LVdFX1lmanUzNkk0M2w5TENjcXdNMlNFY0c1Sl9hN2xZeDBDQTNpUHZ2RUZDNi1sTzdmX2hXblFxRlBhMUJodFAzWkVfNVJUNzZmcFc3VjVvUG43WmZYSHY2bWkzWTlqM2pCNjVvaGlOYUt0eF8yWEUwNA?oc=5",
+     "fuente": "Página 7",
+     "resumen": "",
+     "fecha": "2026-11-15T00:00:00+01:00",
+     "fecha_txt": "15 nov"
+    },
     {
      "titulo": "¿Tres días sin luz ni internet? La verdad sobre el apagón mundial del 17 de noviembre y cómo prepararse",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0lfd09RTnMzWTVDRlZucnZtZGxHZHlTcndBNDNZM00xbm5zbGJiUWoxRWZZZmE0MUdnVHB4bHdEOWs1UGYyN3hfZEp2clZQSm5KQXloelpQVnRia1NZZ1lNajJMQWZEM3FXNWZkS3I0elBMb2NMZDhWcldVSHNfcjZyZXBtSmxuNkZmQXZmeDhuTU5fVDl1MUU2cWpJenFkYXNZRmhuc3pQcG8td001NnRJT0tKQjR3cUlWRVc4bFFwT0UyU1RTVA?oc=5",
@@ -65,14 +73,6 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-12T11:35:13+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Por qué se recomienda tener una mochila de emergencia y qué debe llevar? La verdad detrás del rumor del apagón mundial",
-     "url": "https://www.unotv.com/ciencia-y-tecnologia/por-que-se-recomienda-tener-una-mochila-de-emergencia-y-que-debe-llevar-la-verdad-detras-del-rumor-del-apagon-mundial/",
-     "fuente": "UnoTV",
-     "resumen": "Organismos gubernamentales han pedido a la población que tenga preparada una mochila de emergencia, ve su relación con el apagón mundial.",
-     "fecha": "2026-11-12T04:35:00+01:00",
      "fecha_txt": "12 nov"
     }
    ]
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "A de apagón",
+     "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
+     "fuente": "Público on MSN",
+     "resumen": "El mediodía del lunes 28 abril de 2025, España se sumía en la oscuridad. Sin luz, sin electricidad y sin comunicaciones. Un apagón histórico que dejaba durante horas sin suministro a toda la Península ...",
+     "fecha": "2026-11-14T14:05:00+01:00",
+     "fecha_txt": "14 nov"
+    },
+    {
      "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVphRE1OTWJoWG8tdGE0cW1xbDZvQlBVSjMxVTAwZFhGZEpoMmxZSEtJSjhGTEJwcWU3bTRPX0JmTzJsZnBzTUNHenI3QVJucXRlS3Y1VXJFLXExbXM3LVE4Y1ZFWEhzVnZiNDNpRGtyQUZwZkZhU0hDMmJMNUQyTFN3ZGJoOFNoZTdOSVVqLWs2a3d6WGNZNnVvakprQi1HREhQamF0azk1czFncDNzZHE3aVhCaWZUeENzS1drVUhtWkRwbXhMTWQwZThvSFB4MFM1MHl1MkxsX1XSAeABQVVfeXFMTzVxc2N3NXl2cjFPNmNTUXZHcnlyMEhUSWx1MHFjZXhVSU9wOU1qazRqSkg2LU9VS3dNUE9fZEI2eThiQTNxbk5RT002aWxEbm1aNVdPOWx4cVlQaW9EaXNUa0VQMHNycFNVZ2MyTS1ad3NnclNVYnpWRkszc0pTaWthMndPLWt4WWxUMTU0eHpoeE9TRTF6YmFZcGxidlc5UFRBZ2FSY1g0OWM2ekJ1NGVfTG9ObnYzWXZUUVM1bXhDV3BZYU9hRE56U0hCeXFBTTVfTnNIakhGbFhYR055ZzA?oc=5",
      "fuente": "Digital de León",
@@ -278,14 +286,6 @@
      "fuente": "Lancelot Digital",
      "resumen": "",
      "fecha": "2026-11-11T20:48:42+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-11T18:52:37+01:00",
      "fecha_txt": "11 nov"
     }
    ]
