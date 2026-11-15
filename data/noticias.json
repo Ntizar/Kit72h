@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T13:11:01+01:00",
+  "actualizado": "2026-11-15T16:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -154,20 +154,20 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "AEMET lo anticipa: siguen las lluvias en Madrid, Bilbao y el norte de España",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcS10MTM0c2otSlIyWE5kVUphX1BSc20xSEREb1gwWXVaM3Z3bEFZaWVrQUpOSzM2SGoxMEt2eFp1UGkxa2V6Q0FMX3RVcDRKb0s0QWxEY1ZRdTcwZWVxSXh2cEhsOVVhbWQxT0poeHU1OWhmcnVxbFJwb3NNZDBDaTdER05GcFhQUW5rM2FxR1c4NDJpRmdiQTRfLWl1ODd3bkszeFVRNkFSYjJYUHNZ0gG0AUFVX3lxTE90ZDFWZHliXzFFM2pQVGlGSDZneTE2NngxRC1VLVAyVkl4VXIxUU14ZksxTVVxRDdEamF3cDJndWNVZWFPZFNzMTZRUEl0VTZmRzdWVWhEcnpsVFhpaGdnYWZTLWpEdXdTazVfTFBzdVBza3VUNXJQaUJ0OGlmMTI4TlJWZVdXclN2QWxEV3A0ejVTeWtDUW5vZkQ2eDJwTEVkaFJRcGZCeWFTRE45ZEZCb21MWQ?oc=5",
+     "fuente": "Urgente24",
+     "resumen": "",
+     "fecha": "2026-11-15T15:03:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "Galicia activa la preemergencia por riesgo de inundaciones ante las fuertes lluvias",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2JOYW1EUzhFUkpYcG9RdmhVU2pEc1BuSWYtclVRYUN5YVRnN2RGVXV1MTFfRFRtc21sVTg2aDl6U1ptSGlMWFJGTjJpNi01V3paM0xjaVJ0TXotVFQ0czJZSnNNbGU2WlNWSXIwS1RMQU5xUnBsSWYyU2xtOFJRTjhEVTVpX3FQUmROaEIzTExpS3VoNlc0MU9fV0ZrOGFFc1FKTFM0OXU1aFd6YV84UXBITGRwMEJBc1HSAb8BQVVfeXFMTTFSa0o2eldCMnpDdW0zcnlJY2F0eXQ3bkpFODNhU3gyOUdEWmpvc0NCbm56V1BtQW1yYnNWRHNBUHRlaU1JZ3E2SXhybVRtemVlWldaQjh3d3hqTGZYNkVhaVgwSHBPTWN6YTZMaUhxdVhfNTluVFZGRzZQTUc1bWJ2QmFIaFFqZXV1OWplZXY0dTVVczNEdFJ5c1c3di1ycmE4NDRqZGZJYWprMmpGM2loOWRnOUhxOXc4aEVYeGM?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-15T10:50:40+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "El coste millonario de las compensaciones por inundaciones y viento extremo en Canarias: 363 millones en tres décadas",
-     "url": "https://www.msn.com/es-es/noticias/otras/el-coste-millonario-de-las-compensaciones-por-inundaciones-y-viento-extremo-en-canarias-363-millones-en-tres-d%C3%A9cadas/ar-AA2hsd6D",
-     "fuente": "elDiario.es on MSN",
-     "resumen": "Ambos fenómenos representan más de la mitad (el 57,3%) de las indemnizaciones abonadas por el Consorcio de Compensación de Seguros en Canarias por acontecimientos extremos. Si se excluyen los daños de ...",
-     "fecha": "2026-11-14T21:30:00+01:00",
-     "fecha_txt": "14 nov"
     },
     {
      "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
@@ -183,6 +183,14 @@
      "fuente": "El Independiente",
      "resumen": "",
      "fecha": "2026-11-13T17:44:13+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "La AEMET avisa del tiempo para este fin de semana en España: lluvias fuertes y temperaturas de más de 25 grados",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjc3a0xVSWxSTnhDRUpRX1VJVXIwYTJ5UU41bm02NTBwTk50QmUyY3dfYW1CYUdkSEpWT0dxUURZejVPLXBFU0dlNDZ0QWI3N0RsQVVfVHVjTDBmTi1OMFpoMWVvM2k4cWUxeGFYRTRqWTZEMlVXWmk0X3kwR0JyZnpMSHBmbTZiQVBJdXpVS295MFpNcHdaZmlMY3RZT3ZKRmxfRWZ2S1dnVUFGTVM5Z2FpZWhHbDI3dXh6MFNRdkd3SlRpT2pHRHV0R0s5eVRKenN0VEQ5bjlhTHRlaFVyQzhOLTVsLWlvckRR0gH_AUFVX3lxTE9ieHRNMC13WHNDWGFVTXpLeENRcWV6eWJ1YTRhMm5qbXJjR1VCS1YyLVhwaXU5a19OVXdwcUp5eWo3dGtsWHhncGQtR1BhUXlyQUI3SEhZdnp3VTVjOXdib0xPbEdpcHRKWmdZS2RVV1BMYlJoOXpYVmdLTzZHaUZYVGxFa01ubEt1c0h4bTdWNWtic3hUTlU0MWcyNTdNeDg3aGR1T3JMdW52bkMwczZYRDVZR1FkLUtScngzdDFGOFlNWWF5VFlKYUlxTEtOTGx4STR0Rk1LZlhuUUtHWFl6VlFvQXdid0tQM0RtQ3VMbV9EdlpIT3NxSkdiTThPZw?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-13T14:06:59+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "El mapa identifica las áreas afectadas por riada y los calados alcanzados por el agua durante el episodio del 18 y 19 de octubre, tanto en la Marina Alta como la Safor.",
      "fecha": "2026-11-13T04:50:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Pérez Llorca exige al Gobierno acelerar las obras contra inundaciones en la Comunidad Valenciana",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZGFZempsUTVsc0lqUjdYUFo0T09ZbDhkVVEyVzJuRlViT2VmMFNUemszdXlnNDBUd18wMndCcHRkYXpta2djMzRIOTRzNDEzVUhId1VCeFprM1BiaUZCRTVhZ1lCVXpPaTJFWjYyWWxaS29qd2RsQXhoVXVDNDVEY0VGenI2VEFSbURZRll6QXprUDB4Zm9IQTZPTDhvbWdBMm91MGxkQ3RIRkNKMDNTaVVjUW1IT3dYc0VHSE9KZW9KYWZ2SHBVbnFjSHdxdy1mS1dRTmF5a3doSC12dHZWdzUxLUVZV3pZamlUUDBn0gHzAUFVX3lxTE1vdE44anZ0WG43YURxSG5FRVBrdVBOeHI0T2tudXA2V044RXhWTEhjNFRhSmJUR0hUNmNOQUxweWkyY2dqdy1CZmlYdWY5UjFoSEk2ODlGSjJ5RXZGLVNuWDZjWVJyYlVuSHE1TW1kTEx3cmp6Z3RnM1ZGcUxaUGtzYnYweUJtaVhEMHhjdGVVSGIzaGFfRzd2SDNsLVRobk9EQURadVFaY1czRm5SUlVORzkzM1BpRDNuRC1jLXJlZUZyY2N2bUJpWDFVS3g5RDY0VEhRLXg4NVhPRHVBOXI0cXNaX09aaHM1U1NuS09mTG04NA?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-12T11:42:24+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -265,28 +265,28 @@
      "fecha_txt": "12 nov"
     },
     {
-     "titulo": "Ni Red Eléctrica confiaba en el éxito de la huelga general: su previsión era un consumo para un día laborable al 100%",
-     "url": "https://www.elespanol.com/invertia/empresas/energia/20261112/red-electrica-confiaba-exito-huelga-general-prevision-consumo-dia-laborable/1003744454537_0.html",
-     "fuente": "El Español",
-     "resumen": "La industria redujo su consumo eléctrico un 25,6% durante la mañana. La curva era muy similar a la de cualquier día de las últimas semanas. Más información: Fracasa la huelga general: el consumo eléct ...",
-     "fecha": "2026-11-11T21:00:00+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "¿Hay riesgo de nuevos apagones en Lanzarote?",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1ZMdWR2TFJFUEh4QlhKc2tYWnFTRjVUQllzOVRGY3ZNR0FyN0ZJOGhGb0JZaWNzUDdoMWxxOVpoNDY2VW4yZ3JmeE9mcWxaeldvYVcyOTd1TDNGV2FPc0lNYlB0bUlTdXlNQmd6UERqbTR0OG5tc3owNlZfUjF2ZE8xd19IaUs5ZVEzeg?oc=5",
-     "fuente": "Lancelot Digital",
-     "resumen": "",
-     "fecha": "2026-11-11T20:48:42+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
      "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-11T18:52:37+01:00",
      "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-10T17:55:17+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-10T10:22:37+01:00",
+     "fecha_txt": "10 nov"
     }
    ]
   }
