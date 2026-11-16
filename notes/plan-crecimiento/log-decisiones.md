@@ -60,3 +60,5 @@
 | 2026-11-14 | calentar-casa-sin-electricidad-invierno | guia | encolado | 6 métodos, 1259 palabras, 4 fuentes oficiales, estacional noviembre |
 | 2026-11-15 | calentar-casa-sin-electricidad-invierno | guia | encolado | Guía 6 métodos con tabla comparativa y fuentes oficiales |
 | 2026-11-15 | calentar-casa-sin-electricidad-invierno | publicacion | encolado | Se publica con el publicador (08:30/12:30) |
+| 2026-11-16 | cocinar-sin-electricidad-gas | guia | propuesto | Score 75.0. Invierno activo, búsqueda supervivencia activa. 5 métodos, tabla comparativa, AESAN+PC, 3+ internos, 3+ ntizar-21. |
+| 2026-11-16 | calentar-casa-sin-electricidad-invierno | guia | encolado | 11623 chars cuerpo, 6 métodos, 4 fuentes oficiales (AEMET, PC, IDAE, DG ECHO). Publicador 08:30/12:30. |
