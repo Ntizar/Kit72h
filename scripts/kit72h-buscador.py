@@ -33,6 +33,9 @@ DATOS = ("kits.json", "propuestas-fichas", "buscador-log", "precios.json",
 # todo lo que se regenera a partir de los datos (debe entrar en el mismo commit)
 GENERADO = ("data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json",
             "data/precios.json", "data/precios-historico.json",
+            # buscar-amazon.py los reescribe cada noche; sin declararlos aquí el
+            # árbol queda sucio y el runner salía rc=2 (falso "error" del cron).
+            "data/productos-pendientes.xlsx", "data/pendientes-catalogo.json",
             "index.html", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
             "kit", "blog", "fuentes", "zona", "noticias")  # noticias/: prerender la reescribe
 
