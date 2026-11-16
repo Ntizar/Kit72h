@@ -1,3 +1,11 @@
+# CTR log - actualizaciones de títulos/meta descriptions
+
+## 2026-11-16
+
+- Home title: «Kit72h — 21 kits de emergencia 72h: DANA, apagón, ...» → «Kit72h — 20 kits de emergencia 72h: DANA, apagón, coche (2026)»
+- Fuentes desc: «Todas las fuentes oficiales en las que se basan...» → «Todas las fuentes oficiales de donde se basan los kits: UE, ...»
+
+---
 ## 2026-10-30 — 1 mejora
 - Comparativa de arrancadores de batería portátiles: "Comparativa de arrancadores de batería portátiles ..." → "Comparativa de arrancadores de batería portátiles para coche..." (completado título incompleto)
 
