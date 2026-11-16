@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-16T04:11:00+01:00",
+  "actualizado": "2026-11-16T07:11:03+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -225,12 +225,28 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Autoridades estadounidenses descartan riesgo de apagón nacional",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWJXX2hWWlVOaTFtUHpzOGFadHdaRFc2ZXY3R0xJZF9ZSkdBWVZ2SHN3S2ZaVnEwYXE3d2RTcmZ4Wkpkem91SHdrejdvSlRRRkhMc3I5Q1ZhbUREcHVzWDVyX2NPeU53a3JmclJTdWZITE1Eb0d3emlXdlV3VERwSnhGNEpzSXRaUEtFOVoyZXhHb1U?oc=5",
+     "fuente": "Diario Avance",
+     "resumen": "",
+     "fecha": "2026-11-15T23:25:01+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "Repsol demanda ante la Justicia a Iberdrola, Endesa y Naturgy por el histórico apagón de abril de 2025",
+     "url": "https://www.elconfidencial.com/empresas/2026-11-16/repsol-demanda-iberdrola-endesa-naturgy-apagon_4464331/",
+     "fuente": "El Confidencial",
+     "resumen": "La petrolera, tras más de ocho meses de deliberación, reclama en los tribunales unos 120 millones a sus tres competidores por el cero eléctrico que afectó a sus plantas en España ...",
+     "fecha": "2026-11-15T22:00:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "\"Estamos siendo boicoteados\": Televisión Española sufre un apagón y Anne Igartiburu explica el retraso en directo",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRUhkbXh4cVNvZE5xamQxcE9YU1VxRTFPSm1xQ2tfRmpGYV9kZjNvRDZfd2xCd1VPLW9LR3J5NE9MVEZJRDh5VE9ScWNteF9KanhFVl9qOVJXaEM4TmdESHlQRXNyOWF6?oc=5",
      "fuente": "Qué.es",
      "resumen": "",
-     "fecha": "2026-11-16T02:42:33+01:00",
-     "fecha_txt": "16 nov"
+     "fecha": "2026-11-15T19:31:14+01:00",
+     "fecha_txt": "15 nov"
     },
     {
      "titulo": "¿Habrá apagón mundial por 72 horas? Esto se sabe sobre la alerta que circula en redes sociales",
@@ -241,20 +257,20 @@
      "fecha_txt": "15 nov"
     },
     {
+     "titulo": "La red eléctrica, infraestructura energética más dañada por los fenómenos naturales y más expuesta a los ciberataques",
+     "url": "https://www.elespanol.com/invertia/empresas/energia/20261116/red-electrica-infraestructura-energetica-danada-fenomenos-naturales-expuesta-ciberataques/1003744457039_0.html",
+     "fuente": "El Español",
+     "resumen": "La AIE lanza el Observatorio sobre la Resiliencia del Sector Energético. Sequía, inundaciones e incendios, principales peligros. Más información: Se disparan los ciberataques a las infraestructuras cr ...",
+     "fecha": "2026-11-15T17:00:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "Las superbaterías son el 'chaleco salvavidas' si España vuelve a sufrir un nuevo apagón energético: cómo son y quién las puede fabricar",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOemtOVUhjM0otOEtZTVgxMWJXOFp5M3NfOTl2MkpIZ1VCMHZFb21nTVRreVhReTJkUFl6NGJZa08tVEdqYXNkd1hIcVY3M090c3oyZThUTlZuLUVfeVJ0Nk5xaVF1MzRPZzhnYnduY2NvS19OaHU1Rm5zWTNHZnVsX2t6dVFNMHlZbUJoWVdqMllNd1Z4ZUNua1dOSlBXeFhBdGo2NmhWMjcybGtkVktTMktuV0ZMUnRkVGlSNnktVUxFcDFudFUtS3FZVFZScjJ1NHNQdlVYMG9lZ0lQeTA0YVZiR3FyajFrNEQwVTdHQmtFOG9YWG5RODRn0gH_AUFVX3lxTFA5X2ZieGRJRF96OHBmSUtTOUhZYU51Tm9ISzFBelhkeUxIZ1NZRDU0QXVURHJ5T2t3MTJveW1zVEdFN2dYdDdDajFSZGVMSk0xMlFFa0hQaWdCRHh5d1lyWnZDMGplTS1iQUtxUWl4WUttcVlVVnhfdm43MjY5bmRrQU9LRlAxWWYtTHdmODJhQWxuYld3SXk2clJhNm1aQUlmUWNzNHdGWTJzdlBQY2FFMDVpYmh1d3hKYlE1WmtSQ2RaelVpbzJ4d3lkY2FSUDJIbE1iN0RWVUhKeGdRVmI5TnBsUmp4dUp2Yl9LUVJ2OUJrMHVuRzh6U3Bmc25tOA?oc=5",
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-11-15T16:33:35+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "A de apagón",
-     "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
-     "fuente": "Público on MSN",
-     "resumen": "El mediodía del lunes 28 abril de 2025, España se sumía en la oscuridad. Sin luz, sin electricidad y sin comunicaciones. Un apagón histórico que dejaba durante horas sin suministro a toda la Península ...",
-     "fecha": "2026-11-14T14:05:00+01:00",
-     "fecha_txt": "14 nov"
     },
     {
      "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
@@ -271,22 +287,6 @@
      "resumen": "El operador detecta más de 300 \"puntos frontera\" donde las distribuidoras vierten energía reactiva que el sistema no necesita ...",
      "fecha": "2026-11-13T21:55:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Red Eléctrica saldará la deuda con las centrales que levantaron el apagón en diciembre de 2027, más de dos años y medio después",
-     "url": "https://www.elmundo.es/economia/empresas/2026/11/13/6ae2244fe9cf4ae95d8b4591.html",
-     "fuente": "EL MUNDO",
-     "resumen": "Red Eléctrica ha despejado al fin una de las incógnitas pendientes del gran apagón de 2025: cuándo terminará de pagar los casi 30 millones que adeuda a las centrales ...",
-     "fecha": "2026-11-12T18:08:00+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
-     "url": "https://www.telemadrid.es/noticias/sociedad/mayores-apagones-historia-mundo_1_2809838.html",
-     "fuente": "Telemadrid",
-     "resumen": "España también vivió uno de los episodios eléctricos más importantes de su historia reciente. El 28 de abril de 2025, a las 12:33 horas, un cero eléctrico dejó sin suministro a la España peninsular y ...",
-     "fecha": "2026-11-12T05:27:00+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   }
