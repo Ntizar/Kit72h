@@ -517,6 +517,71 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026) — https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/
+Sin luz, la temperatura baja 2 °C por hora. Guía con 6 métodos reales: aislamiento, estufas, mantas y power stations. Datos de AEMET y Protección Civil.
+Cuando se va la luz en pleno invierno, el primer problema no es la oscuridad ni el móvil sin batería: es el frío que entra en casa . Una vivienda sin calefacción puede perder entre 2 y 4 °C por hora en una noche de invierno español. En 6 horas, de 18 °C se pasa a 6 °C — una temperatura que ya representa riesgo de hipotermia para niños y personas mayores.
+ Este invierno (2026-2027), la Agencia Estatal de Meteorología ( AEMET ) prevé temperaturas por debajo de la media en la mayor parte de la península, con episodios de frío intenso y nieves aisladas. Protección Civil recomienda estar preparados: un apagón en invierno puede convertirse en una situación de riesgo en pocas horas.
+ Antes de comprar nada: 4 técnicas de aislamiento (0 €)
+ El método más barato y efectivo es evitar que el calor escape . Si tienes calefacción de gas, eléctrica o de pellets y funciona, estas técnicas multiplican su eficiencia. Si no tienes nada, son tu única línea de defensa:
+ 1. Cierra las habitaciones que no uses
+ Menos volumen = menos calor que mantener. Cierra puertas y, si una habitación tiene corrientes de aire por las ventanas, sella temporalmente con toallas enrolladas en el umbral. Según el IDAE (Instituto para la Diversificación y Ahorro de la Energía) , cerrar una habitación sin calefacción crea una cámara de aire que actúa como aislante adicional, reduciendo la pérdida de calor un 15-20 %.
+ 2. Aísla las ventanas
+ Las ventanas representan hasta un 25 % de las pérdidas de calor en una vivienda media española (datos IDAE). Si tienes persianas, ciérralas por la noche — el espacio de aire entre el cristal y la persiana es un aislante natural. Un truco extra: coloca cartón o periodales en el interior de la ventana fijados con celo temporal. No es bonito, pero sube la temperatura percibida 2-3 °C.
+ 3. Cubre el suelo
+ El suelo pierde entre un 10 % y un 15 % del calor. Alfombras gruesas, mantas viejas o incluso cajas de cartón bajo los pies actúan como barrera térmica. Si tienes moqueta, límpiala — el polvo reduce su capacidad aislante un 10-15 %.
+ 4. La regla de las tres capas
+ Tres camisetas finas retienen más calor que una sola gruesa: el aire atrapado entre capas es el aislante real. Los calcetines gruesos son esenciales — los pies fríos enfrían todo el cuerpo por la circulación. Los guantes en casa no son exageración: pierdes calor significativo por las manos.
+ Método 1: estufa de butano (la más práctica)
+ La estufa de butano (propano) es el método más extendido en España para la calefacción de emergencia. Una botella de 12 kg puede durar entre 2 y 3 días con uso intermitente a potencia media, y el coste por hora ronda los 0,09-0,11 € (a 0,38 €/kg).
+ Puntos fuertes: encendido inmediato, no necesita electricidad, costo reducido, amplia disponibilidad de botellas. Puntos débiles: produce humedad, requiere ventilación mínima y consumo de oxígeno.
+ Regla de seguridad: siempre con una rendija de ventana abierta (100 cm² de ventilación) y un detector de CO. Protección Civil lo deja claro: la ventilación no es opcional.
+ Ver estufas de butano portátiles en Amazon → 
+ Método 2: estufa catalítica (la más eficiente)
+ La tecnología catalítica genera calor sin llama visible mediante una reacción química sobre un panel de cerámica. El resultado: menor consumo (110-280 g/h frente a los 280-305 g/h de las estufas tradicionales), sin llama abierta (más segura con niños y mascotas) y calor más uniforme.
+ El panel catalítico es un consumible que dura aproximadamente dos inviernos; su sustitución cuesta unos 30-40 €. Para un uso de 4 horas diarias, una botella de 12 kg puede durar hasta dos semanas.
+ Ver estufa catalítica Orbegozo H 55 en Amazon → 
+ Método 3: chimenea o estufa de pellets
+ Si ya tienes una chimenea o estufa de pellets instalada, es el método más natural para calentar varias estancias. Las estufas de pellets modernas tienen un rendimiento superior al 85 % (el Instituto Nacional de Tecnología Industrial mide eficiencias entre 85-92 %).
+ Limitación: la mayoría necesitan electricidad para alimentar la tolva y el ventilador. En un apagón, funcionan solo si tienes un SAI o una power station conectada. Revisa el kit de apagón para ver qué power stations soportan este tipo de estufas.
+ Ver pellets de madera para estufa en Amazon → 
+ Método 4: cocina de gas para calentar (solo emergencias)
+ En un apuro, la cocina de gas (butano o natural) puede usarse para calentar una habitación. Advertencia: solo para emergencias breves (máximo 1-2 horas) y SIEMPRE con ventilación abundante. No es un método de calefacción — es un recurso de emergencia.
+ El horno de gas a 200 °C emite aproximadamente 2.000 W de calor. Dejar la puerta entreabierta (nunca cerrada, riesgo de acumulación de gas) puede calentar la cocina entre 2 y 4 °C.
+ El kit de apagón incluye todo lo necesario para cocinar sin luz 
+ Método 5: mantas térmicas y tiendas de campaña interiores
+ La manta térmica de emergencia (las doradas o plateadas de 2 €) refleja hasta un 90 % del calor corporal radiado . Funciona mejor envuelta por dentro de una manta normal — la manta protege del viento y la térmica refleja el calor.
+ Una tienda de campaña pequeña (de abrigo) dentro de casa crea un microclima que puede subir entre 5 y 8 °C la temperatura interna. Los montañeros lo llevan haciendo décadas: un espacio reducido, aislado del resto de la vivienda, se calienta con el calor corporal y las mantas. Ver el kit de montaña como referencia para entender la lógica de supervivencia.
+ Ver mantas térmicas de emergencia en Amazon → 
+ Método 6: power station + radiador eléctrico
+ Una power station de 1.000 Wh puede alimentar un radiador de aceite pequeño (1.000 W) durante aproximadamente 45-60 minutos . No es mucho, pero es suficiente para mantener una habitación a temperatura razonable durante una noche si se combina con las técnicas de aislamiento anteriores.
+ El truco es no usar la power station para calefacción continua: úsala como apoyo puntual (2-3 horas) mientras se optimiza el aislamiento. La power station del kit de apagón es un complemento, no un reemplazo.
+ Tabla resumen: qué método elegir
+ Método Coste/hora Seguridad Eficiencia Ideal para 
+ Estufa butano 0,09-0,11 € Media (ventilar) Alta Habitación individual 
+ Catalítica 0,07-0,09 € Alta (sin llama) Muy alta Habitación + economía 
+ Pellets 0,05-0,07 € Alta Alta (85 %+) Vivienda entera (con electricidad) 
+ Manta térmica 0 € Perfecta Baja (solo cuerpo) Complemento indispensable 
+ Power station 0,15-0,20 € Perfecta Media Apoyo puntual (2-3 h) 
+ Señales de alarma: cuándo llamar al 112
+ No es una cuestión de comodidad, es de seguridad. Si la temperatura interior baja de 10 °C y hay personas vulnerables (menores de 6 años, mayores de 65, personas con enfermedades respiratorias o cardiovasculares), hay que considerar el escenario como emergencia.
+ Los síntomas de hipotermia leve son: escalofríos incontrolables, dificultad para hablar, movimientos torpes. A temperaturas inferiores a 5 °C, el riesgo aumenta exponencialmente. La app 112 Especial de Protección Civil permite solicitar ayuda cuando la línea está saturada — tenla descargada antes de que llegue la crisis.
+ La lección del invierno español
+ Los últimos inviernos en España han demostrado que la preparación cuesta menos que el suffering . Una estufa de butano barata (60-80 €), mantas térmicas (2-5 €) y un detector de CO (15-25 €) suman menos de 120 € — menos de lo que cuesta un mes de calefacción eléctrica convencional.
+ Lo más importante no es el equipo: es decidir antes de que se vaya la luz qué habitación vas a habitar, cómo la vas a aislar y qué fuente de calor vas a usar. Una decisión tomada en pánico, a las 10 de la noche y con frío, casi siempre es una mala decisión.
+ El kit de frío/invierno tiene todo esto organizado por prioridad — estufa, mantas, aislantes, detector de CO — para que no tengas que decidir cuando el frío ya está dentro de casa.
+ Fuentes de esta guía
+ AEMET — Servicio meteorológico nacional y alertas de frío extremo 
+ Protección Civil — Recomendaciones ante olas de frío y apagones 
+ IDAE — Guías de eficiencia energética y pérdidas de calor en viviendas 
+ Comisión Europea (DG ECHO) — Preparación ante emergencias climáticas 
+ Sigue leyendo
+ Temperatura sin electricidad: cómo mantener el calor en un apagón 
+ Mejor estufa catalítica para casa (2026): 6 modelos comparados 
+ Mejor estufa de gas butano para apagón (2026) 
+ Kit de apagón — 15 artículos para sobrevivir sin luz 
+ Kit frío/invierno — 27 artículos para sobrevivir al frío 
+ Este sitio participa en el programa de Afiliados de Amazon. Los enlaces marcados con «→» son enlaces de afiliado: si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Los precios pueden variar. Para más información, consulta la política de privacidad .
+
 ### Mejor estufa catalítica para casa: 6 modelos comparados (2026) — https://kit72h.com/blog/mejor-estufa-catalitica-para-casa-2026/
 Comparativa de estufas catalíticas de butano para el hogar en invierno 2026: Orbegozo H 55 (#1 más vendido), Campingaz CR5000, Cecotec ReadyWarm... Con
 El invierno se acerca y la factura de la luz asusta. Las estufas catalíticas de butano son la alternativa más económica para calentar las habitaciones sin depender de la red eléctrica, pero elegir la correcta entre tantas marcas y modelos no es fácil. Hemos analizado las 6 estufas catalíticas más vendidas en Amazon España en 2026 para ayudarte a encontrar la que mejor se adapta a tu hogar, tu presupuesto y tus necesidades.

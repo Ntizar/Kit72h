@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026)](https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/): Sin luz, la temperatura baja 2 °C por hora. Guía con 6 métodos reales: aislamiento, estufas, mantas y power stations. Datos de AEMET y Protección Civil.
 - [Mejor estufa catalítica para casa: 6 modelos comparados (2026)](https://kit72h.com/blog/mejor-estufa-catalitica-para-casa-2026/): Comparativa de estufas catalíticas de butano para el hogar en invierno 2026: Orbegozo H 55 (#1 más vendido), Campingaz CR5000, Cecotec ReadyWarm... Con
 - [Mejor cocina portátil de gas para apagones (2026): 5 modelos comparados](https://kit72h.com/blog/mejor-cocina-portatil-gas-apagon/): Hornillo de camping a gas: cuál es el mejor para cocinar sin electricidad durante un apagón, cuánto consume y cuánto cuesta mantener a tu familia
 - [El kit que compraría C. Tangana para salvar la música española (2026)](https://kit72h.com/blog/kit-que-salva-la-musica-espanola/): Un apagón como el del 29-O no distingue entre un hospital y un estudio de grabación. Imaginamos, pieza a pieza y con enlaces reales, el equipo que
