@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-12",
-    "total": 91,
-    "png_total": 91
+    "ultima_generacion": "2026-11-16",
+    "total": 93,
+    "png_total": 93
   },
   "pins": [
     {
@@ -823,6 +823,24 @@
       "emoji": "📖",
       "pin": "pin-blog-kit-que-salva-la-musica-espanola.html",
       "png": "png/pin-blog-kit-que-salva-la-musica-espanola.png"
+    },
+    {
+      "slug": "pin-blog-mejor-estufa-catalitica-para-casa-2026",
+      "tipo": "blog",
+      "titulo": "Mejor estufa catalítica para casa: 6 modelos comparados (2026)",
+      "url": "https://kit72h.com/blog/mejor-estufa-catalitica-para-casa-2026/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-estufa-catalitica-para-casa-2026.html",
+      "png": "png/pin-blog-mejor-estufa-catalitica-para-casa-2026.png"
+    },
+    {
+      "slug": "pin-blog-mejor-cocina-portatil-gas-apagon",
+      "tipo": "blog",
+      "titulo": "Mejor cocina portátil de gas para apagones (2026): 5 modelos comparados",
+      "url": "https://kit72h.com/blog/mejor-cocina-portatil-gas-apagon/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-cocina-portatil-gas-apagon.html",
+      "png": "png/pin-blog-mejor-cocina-portatil-gas-apagon.png"
     }
   ]
 }
