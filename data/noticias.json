@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-16T10:11:00+01:00",
+  "actualizado": "2026-11-16T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,43 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Cómo preparar un kit de emergencia en casa: lista para 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTJRQzJFU0c4WEVQSWl0MFRPQTRUZDBDQU5uVC0zV0pYVkk4RU9lTTg0QnJyTTlWeXBSMFlDUWIza1JlMmxPaU5GNkY2U21GUF9IMkVhNUU0V3l5WmtlMnBsNXU1LXNMcUtpQ2MwaEk0bkgwVzBmRUZxbDJFcEN4bThTQ0FEUUMwY0JhTmx4WU04MGhPUG84?oc=5",
+     "fuente": "Diario de Sevilla",
+     "resumen": "",
+     "fecha": "2026-11-16T12:16:18+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "La UE lo hace oficial y recomienda a los tinerfeños estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1did1llZjFtd25VMGhFeE5ESndxYnMySUhpY21lMTllNkI1TDJzSjZ5QUN0N1gtbDBHaklXNlRKemx5cE9OZnZBUVBOWHFxZTZ4Sm9DSFFjWjlkZ0VfMlZFNFpoRk90SlB1YnVBTXVyY1dvSUp3dldDZTFJRUotZVdOUXduejdzWk1ETkxvMDNUdUZDalBBRkxIN3dCTzRNZmVOLU5fNnprUGJ1TENpNm1jV1ExV2Nh0gG-AUFVX3lxTFBsY3c2SjBlNmxBaEJUYWRLNEZ6WGZVOEVhSmY0aFFvX2tpMnpmdmRlb19JbWd0Ry1aR3BIcmU4SFdackhUeTY2blFZakNTRWtVY05DaUloY1RmU0VidmluM0tvMnlYdTBKS2ZkVVVpeDRrR1lySzlqNUpCUi1FUVUtZGFsTl8zbVRIenYtbS1qN3BoZ0w0dC0ycHFrTXc1YVdoamYwd0tRdDNUUWlXUl9LSGFHekYwVnNMQjFlN3c?oc=5",
+     "fuente": "Eldía",
+     "resumen": "",
+     "fecha": "2026-11-16T11:34:44+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
      "titulo": "El bulo del apagón del 17-N se cruza con el aviso de Bruselas: ¿qué hay en el kit de 72 horas y cómo resistiría Baleares?",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYmRzWGhFbHJ2SmE5T2dJQUhqZkRZcUFYYmZocF9jeEEyck5aWkExMkxYWlYtNEtjZkR0ZHdTVGRYdFFjOXBrcEoyb0wxNTh0dzJnckM4RDhYbjRKcjIwYXMxV0M1QjRZbkxHOS12QXZWQVV5NUVEdjdxMmVleFBsU2E3aGRxQ2pObm9Ma3NyS2x0UFpPSkNiYy1qR3BRQURIdno4djhnMWhGM0c0VFlTU0p2QXRISk5Qc1hDVnoxMGRVbldPZjVYNDM3N1VJUElfT21jUnZiNnI2Skt0MVp1c3p2cjk0aFFUeVNYMWdkaFVjYWlTWUNfU2t3?oc=5",
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-11-16T07:00:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Un kit de emergencia en casa",
+     "url": "https://www.diariodesevilla.es/sociedad/preparar-kit-emergencia-casa-lista_1_2008518354.html",
+     "fuente": "Diario de Sevilla",
+     "resumen": "Qué guardar, cómo organizarlo y qué conviene revisar para afrontar una interrupción de suministros o una evacuación sin improvisar. Un corte prolongado de electricidad, una avería de agua, un episodio ...",
+     "fecha": "2026-11-16T04:09:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Qué debe tener en casa para afrontar una crisis? Las nuevas recomendaciones de la UE",
+     "url": "https://es.euronews.com/2026/11/16/ue-guia-prepararse-72-horas-emergencia-crisis",
+     "fuente": "Euronews",
+     "resumen": "La UE ha publicado nuevas recomendaciones para que los ciudadanos puedan afrontar las primeras 72 horas de una emergencia ante el aumento de los ciberataques y las amenazas a las infraestructuras crít ...",
+     "fecha": "2026-11-16T01:56:00+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -42,38 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-15T00:00:00+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "¿Tres días sin luz ni internet? La verdad sobre el apagón mundial del 17 de noviembre y cómo prepararse",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0lfd09RTnMzWTVDRlZucnZtZGxHZHlTcndBNDNZM00xbm5zbGJiUWoxRWZZZmE0MUdnVHB4bHdEOWs1UGYyN3hfZEp2clZQSm5KQXloelpQVnRia1NZZ1lNajJMQWZEM3FXNWZkS3I0elBMb2NMZDhWcldVSHNfcjZyZXBtSmxuNkZmQXZmeDhuTU5fVDl1MUU2cWpJenFkYXNZRmhuc3pQcG8td001NnRJT0tKQjR3cUlWRVc4bFFwT0UyU1RTVA?oc=5",
-     "fuente": "El Observatodo",
-     "resumen": "",
-     "fecha": "2026-11-14T14:04:00+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo ...",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmJ3QmNVOWtPR0tMZkNucmpPTVREajkwUk94YzQxb0ctVGNGVXl4Ml9EVnZCMjBnQ0ZkcFRNdjZXemVlSlFWNHZrU1Y5T0ltTHl2MUh6YmZwVHM1Y1ZacS1wOWQ1SDk5cS1GMjJiWVVvN0dwWGp6cEVfZXh6LTdCSTJ4U2MyZUFYQVRSZU9vVG5IcE03eEJRSC1IY01YNGVNWklmbERMMVdrQ3pJY2ZSUjg1cHgxR0hwS2pHMzJTeml4N3hiZUh2TWJPRnNJdU3SAdQBQVVfeXFMTUZQY2psc0pockQxa2llRHVnV0taRko4NTRDNDZLR00xNmdMeDl2dWktMnZaUWZBc0lIQ1l4SjhyWDVaSVlpRUxfSE5UcHA3a3dQdDlUNGRselJDdzhOaThhdVhtY2pWYW9wTGRRQnBqWFRxUlg5bThVWEcySlFJUmQ3bHdQaUJVZ3N4aTE3ZndlVGVCUjQxbkM0UGNTbGZwU3B6cVZiMUNoTl92Vk10eHZnbnpfTEg5NE9kR2I2dUpuMlRmX3VYVFk4aG9iVW1PZ0V0SlU?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-13T08:30:47+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "La verdad sobre el «apagón mundial» del 17 de noviembre: por qué la Defensa Civil exigió kits de emergencia para 72 horas y el peligro real de El Niño",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNWdGREYtS3RVN1ljZW9EQVVUZ1VYMzl0dGVDazExSTQxdV83S1BablQwNUkxcmtGem9DVjJ1Y3RDbVBVblNnS0pYMlRVanVHWXdISVBHOVlrOXNnckU2QmFwbEh6OEFlSnZRTGJCU1pFSjJ2QnFLWDg5S2VLQlM5bjNwQWgwckJkSGpTQU0wZUFCTUdJcmR6QWVvVnJxX3F6WGRQRF9WZ3QzTUtTanhJbDVkV2lSRFA0bDlXWVJ0Q1ozSnpQaTV4RktoVGNfNmhSRVlvag?oc=5",
-     "fuente": "São Paulo Secreto",
-     "resumen": "",
-     "fecha": "2026-11-12T20:22:46+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
-     "fuente": "https://estapasando.cl/",
-     "resumen": "",
-     "fecha": "2026-11-12T16:08:23+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "William Levy regresa a España por ‘Bajo un fuego’: dos premieres y Almería en pie",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUGxxRnZyT0pPdHB1T0hhNDFuRXZVN29qZXphT3NyU2RNYzJzV1hQdTR2VWNjVFJXLVR1Ymdoc2lLTUYzcDdaOHVsN0N1UmU3TWVtRlM5U3M5SHJfbXdkQlVnY0JDMnJKT2xHRXVWYVdXM2pJV1ZzTQ?oc=5",
+     "fuente": "Cotilleo",
+     "resumen": "",
+     "fecha": "2026-11-15T05:04:09+01:00",
+     "fecha_txt": "15 nov"
+    },
     {
      "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
      "url": "https://www.europapress.es/temas/incendios-forestales/35/",
@@ -137,14 +145,6 @@
      "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
      "fecha": "2026-11-08T08:46:00+01:00",
      "fecha_txt": "8 nov"
-    },
-    {
-     "titulo": "La España en llamas: diez años de infierno forestal",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-espa%C3%B1a-en-llamas-diez-a%C3%B1os-de-infierno-forestal/ar-AA2gZ4Ci",
-     "fuente": "La Razón on MSN",
-     "resumen": "El fuego bate marcas históricas con 311 grandes incendios y casi un millón de hectáreas calcinadas ...",
-     "fecha": "2026-11-07T20:26:00+01:00",
-     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
+     "url": "https://unitel.bo/noticias/agencias/pese-a-incendios-e-inundaciones-el-clima-queda-fuera-del-debate-electoral-espanol-HM24827462",
+     "fuente": "unitel",
+     "resumen": "Paiporta, España, 16 Nov 2026 (AFP) - María Laura Bustamante apenas había terminado de amueblar el apartamento que acababa de comprar con su marido en la localidad española de Paiporta cuando las mort ...",
+     "fecha": "2026-11-16T02:13:00+01:00",
+     "fecha_txt": "16 nov"
+    },
     {
      "titulo": "Inundaciones y cortes de carretera en Galicia por las lluvias, sin daños personales",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3ZrWUEwVEFsN2xDRGNRU21kTnZiNURIU0Y2bVcybWFTaVY5dy05VjZxdGpZUnM5Tk52WHpOOEJGejRNQzlMN1d6WDA0aDRQc1RDOHAzdzlpcFlSWEU2R2RoNFdDY3U2ZmxzSlBxTGpWWllOUl90LXQyZWhsb3ZfZ1hnRG9DVG1XSV9tTVVkeXl1SjFyZmp0MmFnR0V0S0xPRXA4ZXhOeTdiQVpjUEdYakJBNGpjNmZRZVNxNnp1UEd3UDNVNnlMX1NVenp5dU3SAeoBQVVfeXFMTUdtTkVjeUN3dzR1VzNxQ3laY3hPN0NHMHdiOW5tYWlfVk4xNEJPd25wRWNMX0dsWVVkRmpkRUxTd200a1ZPZzZXZG9iLXdpTldQS2ZJbjJWWjFzd3NWZUNZMTl5NUxieFhaZU96VEZ2b2JiT0Nqa1QwckpIMFM0b3VHRC13RWtQVWdCdWlkckJRVHN5WjdrSmhidVJERWlwSUNHM2E5Qmw1bThKVkdUSGFyZmVNenBWOVFyRTVoZWZ3ZEFuMl9KZVZoODQxd3B1eEZnXzNNem1HX2poSkZ2WU1sZjBWM0xIVlRR?oc=5",
@@ -178,6 +186,14 @@
      "fecha_txt": "15 nov"
     },
     {
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-15T15:16:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "AEMET lo anticipa: siguen las lluvias en Madrid, Bilbao y el norte de España",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcS10MTM0c2otSlIyWE5kVUphX1BSc20xSEREb1gwWXVaM3Z3bEFZaWVrQUpOSzM2SGoxMEt2eFp1UGkxa2V6Q0FMX3RVcDRKb0s0QWxEY1ZRdTcwZWVxSXh2cEhsOVVhbWQxT0poeHU1OWhmcnVxbFJwb3NNZDBDaTdER05GcFhQUW5rM2FxR1c4NDJpRmdiQTRfLWl1ODd3bkszeFVRNkFSYjJYUHNZ0gG0AUFVX3lxTE90ZDFWZHliXzFFM2pQVGlGSDZneTE2NngxRC1VLVAyVkl4VXIxUU14ZksxTVVxRDdEamF3cDJndWNVZWFPZFNzMTZRUEl0VTZmRzdWVWhEcnpsVFhpaGdnYWZTLWpEdXdTazVfTFBzdVBza3VUNXJQaUJ0OGlmMTI4TlJWZVdXclN2QWxEV3A0ejVTeWtDUW5vZkQ2eDJwTEVkaFJRcGZCeWFTRE45ZEZCb21MWQ?oc=5",
      "fuente": "Urgente24",
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-14T17:01:36+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
-     "fuente": "El Independiente",
-     "resumen": "",
-     "fecha": "2026-11-13T17:44:13+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "La AEMET avisa del tiempo para este fin de semana en España: lluvias fuertes y temperaturas de más de 25 grados",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjc3a0xVSWxSTnhDRUpRX1VJVXIwYTJ5UU41bm02NTBwTk50QmUyY3dfYW1CYUdkSEpWT0dxUURZejVPLXBFU0dlNDZ0QWI3N0RsQVVfVHVjTDBmTi1OMFpoMWVvM2k4cWUxeGFYRTRqWTZEMlVXWmk0X3kwR0JyZnpMSHBmbTZiQVBJdXpVS295MFpNcHdaZmlMY3RZT3ZKRmxfRWZ2S1dnVUFGTVM5Z2FpZWhHbDI3dXh6MFNRdkd3SlRpT2pHRHV0R0s5eVRKenN0VEQ5bjlhTHRlaFVyQzhOLTVsLWlvckRR0gH_AUFVX3lxTE9ieHRNMC13WHNDWGFVTXpLeENRcWV6eWJ1YTRhMm5qbXJjR1VCS1YyLVhwaXU5a19OVXdwcUp5eWo3dGtsWHhncGQtR1BhUXlyQUI3SEhZdnp3VTVjOXdib0xPbEdpcHRKWmdZS2RVV1BMYlJoOXpYVmdLTzZHaUZYVGxFa01ubEt1c0h4bTdWNWtic3hUTlU0MWcyNTdNeDg3aGR1T3JMdW52bkMwczZYRDVZR1FkLUtScngzdDFGOFlNWWF5VFlKYUlxTEtOTGx4STR0Rk1LZlhuUUtHWFl6VlFvQXdid0tQM0RtQ3VMbV9EdlpIT3NxSkdiTThPZw?oc=5",
-     "fuente": "La Razón",
-     "resumen": "",
-     "fecha": "2026-11-13T14:06:59+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -224,6 +224,46 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Apagón mundial mañana 17 de noviembre en España: qué se sabe de la alerta de las 72 horas según los experto...",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGJGQTBmTmpoYTRzdjVmR2plbXljS2VqcVNlV05SQUFHTjRKQTRsN2w1VkpVQVdTd0x3Wlg4YWVVanB6dXhyZGsxUEZEbFFJYXoxN2hnU3g3MXNPV2lVMWU4VGZETnBYckxibFg4bGJfOVdWNDk4SF83RnpOZ2N5V2JidXVVQ1ljaG1hX09hNm5ORjBrZjh1c2xqV1N0X3hEY291enBrX25VT190WWtZX2p3bGtDS1EzMW9TVk5FTkxYZ9IBxwFBVV95cUxNTTloaTFtanNHaUxZeldoMGhWU05JTEx5MTM4ZnFnVGgtcTVGQlhMOENDdzVtb092bkZsMWZteTN5dXpmY2lxVVg0Sjh3ZmZBVFBtTFk0OUQ4cmw0Z0tVWFk2U2l6cUFrLXpEZkVkNnAwSlpHdzNrMzc1Vmd1d0g1NG13Y3VJZGFMd2ZQay04Zk1XNE5yUEFTSlMzNkxNM01DdkxIZTBWYzlIU2w1UklIczRmWTV5eUFJakcyb1BLSU04LXlDMzl3?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-16T12:56:49+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Va a haber un apagón el 17 de noviembre en España? El bulo originado en Estados Unidos que ni tiene que ver con la luz",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbm1kQS03UTJCWkljYjR4SEFLLWJhT0l3UGFjU2ZxX0RwOElRQnlwWi01UTRDUW5UcjRyLW0xX3V3VjlneTlxZ29nRDA3Sm5YcmRSNktJSEZiMkxDendkMnB5dlFPdzRyRjhTcmYxSmVQSVY3Wkd6eHdVODZmY0NGdUNGaHBybEdDWEl2SEFVdEpfQkFKQ1VzalVZbzhYdDl1ODd1NVhfcnhpX3FOdVlRcHJXQTV5RmtHcElTbHZ4d1J0dUV4N1ZVNGExRk90TGhCQ0hOZTcyallzUWVDcHJFbWhZRFZoQmZPaGYxbVAxajA1clgzRHA3UVRidXJnMnhjN1NqTUZzak5SbjRhNno40gH6AUFVX3lxTE5nYTJvX2VQMDhQWlQ2bG5scGxvUG5FYjlaS18tbUdwQWRCWDdUUkhzTHlwNHVDaU9XSFhmSm5iNTVhLVo5T1NaVzBWZDVPOEhLX20xa2VRQVQ2N09yU1BHd0FIU1hmb1o3ZDFYeVIyd21jeTdvQmVKVzdGTU9lWXN3WV9sVHZyY1owX282eWVFSEV3d0I4OFNsMTROQVdpOFBCdXJYYVJsT0hwODdfRDhVSXlIUWxaNTg4MUFHQkJiOXNjT01UNDFIMVh5dHJYTVphbk0zTGZfZEdQSTJCYUJXZks5a0hJbkY0dDFCSmwwUGt3TEJxSGJvelE?oc=5",
+     "fuente": "El Economista",
+     "resumen": "",
+     "fecha": "2026-11-16T12:33:51+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Habrá un apagón eléctrico en España el 17 de noviembre? Qué hay de cierto y cómo afectaría a Baleares",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRUFMc190OUpQazlxUTZsaDhjeTk5XzRtWThHX0FRRXNQTTFtUmYyRGZDMlJnZEY5WFYyNjhmSmQ3aWVtanVoaWtJdUduSTFTMzBmdDNIWHNRMmtwSHZ5eHFGQldvRVpUd2tSV054TG5TNjlXUlRfcDM2QnNwNTd3S2FyMFQtWmV6WkJPamVGMGwtbG5PbFM0RFpTa0Nwd2taeW9rRE1qN1dVX05LRzV5NGhkUE9RUVAxQjFhaENwVmVDWTF3VGozQ3Q3cXlLcjVsR0F0d3BCUzVhckJRZ2RiVzAzQTA?oc=5",
+     "fuente": "Crónica Balear",
+     "resumen": "",
+     "fecha": "2026-11-16T12:32:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Qué hacer ante un gran apagón como el sucedido en España? Medidas a tomar ante una situación insólita",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY3EtYlczUGxPUng4TGR1dXNuTVR0UUp4YzFuaDRER28yZGxQQnhLbTlfenUzQTlQNDNyM2ZhMGw1X2lTa1hfX2xoUy1JdmQxekNYamZER21nN25XOUo1REpmUWRwemoyOUI4Mk05LXZrMTlpbzZJYnFGT1JTanlzck9vNGtCTmFtMUMycXEtVUJDay0wd21iQ3lGSGVvWEd2Skc2NmJtdGRZamtpN0xPZWdMZk0?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-11-16T12:10:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Qué hacer en casa si hay otro apagón en España? El protocolo, paso a paso",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORy1uWkxHbENCQ1IxQlNiYWpKNkZsZllTVURuOWFzcEZEcnkzczF4MkZ5djMwNGVSS2cxanBiVHgtbUZnb0VfQVZkV192ZmVQRU5DZVp1Y2lqMjhzQTU0QndWRWF6VmNLNnBSbnZsUGhDejhmU29QRlVyLWdHWDNTZGl2UThSZ1RES3JWOXFnQ25Vdl9qRTZTYmdtVTRhTXh1YkdnclA5eG9tQlYwZUHSAa4BQVVfeXFMUG1oRXJIYVF3UjZ4SGl1cmRTMnhveUl2enl3VlVmRVlLM2daWHQ1YTNpaVVVd05paG1DMG1hMUJ0LUt2dFRUWUkxdEotaXM3Zm1MalFVanVUdHpGOUphSFQzLVZWeUJhTzlNS1lvQ1pVWGJQUEhEVEJQZ2ZFdDduX243QWFPVGU3Yjk4dktNZnF1RTJsZURTOUIyVXBlZkNGU2NiUGNUVkJtX3NhenZ3?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-11-16T12:00:00+01:00",
+     "fecha_txt": "16 nov"
+    },
     {
      "titulo": "El supuesto apagón mundial del 17 de noviembre preocupa en Madrid, pero no hay pruebas de que vaya a ocurrir",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1A1eFhzRUxPSFdNbEg1T0dSd3ZaOUE4Qk5mX3I2Y3dEQU1rdHFSVkJhM1E1UWlMMWtOWDdzbWU5NE4tYkNCNVc0OFRWQktyWFF0Z3BRbXZyZWZ2djYzMHFUcm5WVGhrM2gzYklIenZCQ0tmTzRqWjFGbTZ4czZ0VFJZVmdYV0pNSmNQa1RYZ3FzazZpOXhjLWp6a29WMVZhS3ZsWWNoc0x1U1ZMSmJYVjVfQjIzaHBIc0V2V0prRWktNDc5c2Y2eGMwV3B0Zw?oc=5",
@@ -241,52 +281,12 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Autoridades estadounidenses descartan riesgo de apagón nacional",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWJXX2hWWlVOaTFtUHpzOGFadHdaRFc2ZXY3R0xJZF9ZSkdBWVZ2SHN3S2ZaVnEwYXE3d2RTcmZ4Wkpkem91SHdrejdvSlRRRkhMc3I5Q1ZhbUREcHVzWDVyX2NPeU53a3JmclJTdWZITE1Eb0d3emlXdlV3VERwSnhGNEpzSXRaUEtFOVoyZXhHb1U?oc=5",
-     "fuente": "Diario Avance",
-     "resumen": "",
-     "fecha": "2026-11-15T23:25:01+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Repsol demanda ante la Justicia a Iberdrola, Endesa y Naturgy por el histórico apagón de abril de 2025",
-     "url": "https://www.elconfidencial.com/empresas/2026-11-16/repsol-demanda-iberdrola-endesa-naturgy-apagon_4464331/",
-     "fuente": "El Confidencial",
-     "resumen": "La petrolera, tras más de ocho meses de deliberación, reclama en los tribunales unos 120 millones a sus tres competidores por el cero eléctrico que afectó a sus plantas en España ...",
-     "fecha": "2026-11-15T22:00:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "¿Habrá apagón mundial por 72 horas? Esto se sabe sobre la alerta que circula en redes sociales",
-     "url": "https://mimorelia.com/mundo/habra-apagon-mundial-72-horas-esto-se-sabe-la-alerta-que-circula-redes-sociales-n5597408",
-     "fuente": "MiMorelia.com",
-     "resumen": "El rumor de un apagón mundial de 72 horas se ha extendido en redes sociales; documentos oficiales aclaran qué ocurrirá el 17 de noviembre ...",
-     "fecha": "2026-11-15T18:30:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "La red eléctrica, infraestructura energética más dañada por los fenómenos naturales y más expuesta a los ciberataques",
-     "url": "https://www.elespanol.com/invertia/empresas/energia/20261116/red-electrica-infraestructura-energetica-danada-fenomenos-naturales-expuesta-ciberataques/1003744457039_0.html",
-     "fuente": "El Español",
-     "resumen": "La AIE lanza el Observatorio sobre la Resiliencia del Sector Energético. Sequía, inundaciones e incendios, principales peligros. Más información: Se disparan los ciberataques a las infraestructuras cr ...",
-     "fecha": "2026-11-15T17:00:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Las superbaterías son el 'chaleco salvavidas' si España vuelve a sufrir un nuevo apagón energético: cómo son y quién las puede fabricar",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOemtOVUhjM0otOEtZTVgxMWJXOFp5M3NfOTl2MkpIZ1VCMHZFb21nTVRreVhReTJkUFl6NGJZa08tVEdqYXNkd1hIcVY3M090c3oyZThUTlZuLUVfeVJ0Nk5xaVF1MzRPZzhnYnduY2NvS19OaHU1Rm5zWTNHZnVsX2t6dVFNMHlZbUJoWVdqMllNd1Z4ZUNua1dOSlBXeFhBdGo2NmhWMjcybGtkVktTMktuV0ZMUnRkVGlSNnktVUxFcDFudFUtS3FZVFZScjJ1NHNQdlVYMG9lZ0lQeTA0YVZiR3FyajFrNEQwVTdHQmtFOG9YWG5RODRn0gH_AUFVX3lxTFA5X2ZieGRJRF96OHBmSUtTOUhZYU51Tm9ISzFBelhkeUxIZ1NZRDU0QXVURHJ5T2t3MTJveW1zVEdFN2dYdDdDajFSZGVMSk0xMlFFa0hQaWdCRHh5d1lyWnZDMGplTS1iQUtxUWl4WUttcVlVVnhfdm43MjY5bmRrQU9LRlAxWWYtTHdmODJhQWxuYld3SXk2clJhNm1aQUlmUWNzNHdGWTJzdlBQY2FFMDVpYmh1d3hKYlE1WmtSQ2RaelVpbzJ4d3lkY2FSUDJIbE1iN0RWVUhKeGdRVmI5TnBsUmp4dUp2Yl9LUVJ2OUJrMHVuRzh6U3Bmc25tOA?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-15T16:33:35+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOVphRE1OTWJoWG8tdGE0cW1xbDZvQlBVSjMxVTAwZFhGZEpoMmxZSEtJSjhGTEJwcWU3bTRPX0JmTzJsZnBzTUNHenI3QVJucXRlS3Y1VXJFLXExbXM3LVE4Y1ZFWEhzVnZiNDNpRGtyQUZwZkZhU0hDMmJMNUQyTFN3ZGJoOFNoZTdOSVVqLWs2a3d6WGNZNnVvakprQi1HREhQamF0azk1czFncDNzZHE3aVhCaWZUeENzS1drVUhtWkRwbXhMTWQwZThvSFB4MFM1MHl1MkxsX1XSAeABQVVfeXFMTzVxc2N3NXl2cjFPNmNTUXZHcnlyMEhUSWx1MHFjZXhVSU9wOU1qazRqSkg2LU9VS3dNUE9fZEI2eThiQTNxbk5RT002aWxEbm1aNVdPOWx4cVlQaW9EaXNUa0VQMHNycFNVZ2MyTS1ad3NnclNVYnpWRkszc0pTaWthMndPLWt4WWxUMTU0eHpoeE9TRTF6YmFZcGxidlc5UFRBZ2FSY1g0OWM2ekJ1NGVfTG9ObnYzWXZUUVM1bXhDV3BZYU9hRE56U0hCeXFBTTVfTnNIakhGbFhYR055ZzA?oc=5",
-     "fuente": "Digital de León",
-     "resumen": "",
-     "fecha": "2026-11-14T13:30:00+01:00",
-     "fecha_txt": "14 nov"
+     "titulo": "Repsol demanda a Iberdrola, Naturgy, Endesa y Red Eléctrica por el apagón eléctrico",
+     "url": "https://www.elperiodico.com/es/economia/20261116/repsol-demanda-iberdrola-naturgy-endesa-red-electrica-apagon-136491808",
+     "fuente": "El Periódico",
+     "resumen": "La petrolera reclama 120 millones de euros por los daños ocasionados en todos sus cinco refinerías el 28 de abril de 2025, así como un incidente previo en Cartagena ...",
+     "fecha": "2026-11-16T05:04:00+01:00",
+     "fecha_txt": "16 nov"
     }
    ]
   }
