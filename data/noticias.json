@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-16T01:11:01+01:00",
+  "actualizado": "2026-11-16T04:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,14 +17,6 @@
      "fuente": "Malagaes",
      "resumen": "",
      "fecha": "2026-11-15T23:05:43+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Mochila de emergencia también para el auto: lo que no puede faltar",
-     "url": "https://www.technocio.com/mochila-de-emergencia-tambien-para-el-auto-lo-que-no-puede-faltar/",
-     "fuente": "Technocio",
-     "resumen": "Kit de emergencia, Autoplanet, agua, alimentos, medicamentos, mochila de emergencia, elementos de seguridad, kit de carretera, autos, vehículos ...",
-     "fecha": "2026-11-15T11:25:00+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -52,14 +44,6 @@
      "fecha_txt": "14 nov"
     },
     {
-     "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWU9qRU82MGEwc3VPalpQRlVZZmhDVDJDalM1aEVEbGJhZkpzdmdGa09LTndfa29iX1dJdkRScjF6UlFDZmxGeFJ4VUdJMWZKTHM4cjJWR3R1UDF0b0dfSTRkaGNsVjFaZm5DTkh5a1lXM2J2dFdLMmpUM1NELXU3QVBzMmJwbUU?oc=5",
-     "fuente": "Pasquale Pillitteri",
-     "resumen": "",
-     "fecha": "2026-11-13T14:51:32+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo ...",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYmJ3QmNVOWtPR0tMZkNucmpPTVREajkwUk94YzQxb0ctVGNGVXl4Ml9EVnZCMjBnQ0ZkcFRNdjZXemVlSlFWNHZrU1Y5T0ltTHl2MUh6YmZwVHM1Y1ZacS1wOWQ1SDk5cS1GMjJiWVVvN0dwWGp6cEVfZXh6LTdCSTJ4U2MyZUFYQVRSZU9vVG5IcE03eEJRSC1IY01YNGVNWklmbERMMVdrQ3pJY2ZSUjg1cHgxR0hwS2pHMzJTeml4N3hiZUh2TWJPRnNJdU3SAdQBQVVfeXFMTUZQY2psc0pockQxa2llRHVnV0taRko4NTRDNDZLR00xNmdMeDl2dWktMnZaUWZBc0lIQ1l4SjhyWDVaSVlpRUxfSE5UcHA3a3dQdDlUNGRselJDdzhOaThhdVhtY2pWYW9wTGRRQnBqWFRxUlg5bThVWEcySlFJUmQ3bHdQaUJVZ3N4aTE3ZndlVGVCUjQxbkM0UGNTbGZwU3B6cVZiMUNoTl92Vk10eHZnbnpfTEg5NE9kR2I2dUpuMlRmX3VYVFk4aG9iVW1PZ0V0SlU?oc=5",
      "fuente": "OkDiario",
@@ -73,6 +57,22 @@
      "fuente": "São Paulo Secreto",
      "resumen": "",
      "fecha": "2026-11-12T20:22:46+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
+     "fuente": "https://estapasando.cl/",
+     "resumen": "",
+     "fecha": "2026-11-12T16:08:23+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
+     "titulo": "¿Un apagón de 72 horas el 17 de noviembre? Esto es lo que va a ocurrir",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkt1RU9HNjRwb2YtV3BDUTFxLWw3Z3VBNXVhc0M3czYwMDBfNGZjZ1RjSTFQeGZPUi1WSzdTU2p3SmZYU05lbWVJX2RvaWdKTnZGU2FPeWJNUW9xNWNjR3NiX1Y4d1R4LWVWZFdEa2txbGhfdkJ3NEE1NFlaUTFYYUxsT3VRcV9rTnBFNENCYlp5cW1QZFV2Rll0TDZpMDlBVTVaR0Rnd2F0bWg4cDAyd01xOGQ1enNrOVRlMEhyTTVSckYtREhLNdIB0wFBVV95cUxOcEZ3SThZa0hpQURkU2todXVvT1NSTEVxQzRISVFRa0h1bTJQQ1F5bHFUQjlVUVlXR19lR2I5Q00teE81UVdNVkQtVk5VcGRlZkxyeGI5WWdQUVBPMWpTdmtJdGZsMDNxbUhtQS1EX3NNLVllRzVic0ZfUDBwazJBMDEyRm5ZWjhnS2U5VFRHTmh4MTdvNTc0Q29TMVVpdVRBT1dXUDU4N3hCcGFzcWtNaUZoVldqZ3BMbkRkRkFHSU9aeEZ6a0g1bWtVb0NmZGx2Qnhj?oc=5",
+     "fuente": "Libertad Digital",
+     "resumen": "",
+     "fecha": "2026-11-12T13:48:33+01:00",
      "fecha_txt": "12 nov"
     }
    ]
@@ -229,7 +229,15 @@
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRUhkbXh4cVNvZE5xamQxcE9YU1VxRTFPSm1xQ2tfRmpGYV9kZjNvRDZfd2xCd1VPLW9LR3J5NE9MVEZJRDh5VE9ScWNteF9KanhFVl9qOVJXaEM4TmdESHlQRXNyOWF6?oc=5",
      "fuente": "Qué.es",
      "resumen": "",
-     "fecha": "2026-11-15T23:55:14+01:00",
+     "fecha": "2026-11-16T02:42:33+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Habrá apagón mundial por 72 horas? Esto se sabe sobre la alerta que circula en redes sociales",
+     "url": "https://mimorelia.com/mundo/habra-apagon-mundial-72-horas-esto-se-sabe-la-alerta-que-circula-redes-sociales-n5597408",
+     "fuente": "MiMorelia.com",
+     "resumen": "El rumor de un apagón mundial de 72 horas se ha extendido en redes sociales; documentos oficiales aclaran qué ocurrirá el 17 de noviembre ...",
+     "fecha": "2026-11-15T18:30:00+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -239,6 +247,14 @@
      "resumen": "",
      "fecha": "2026-11-15T16:33:35+01:00",
      "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "A de apagón",
+     "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
+     "fuente": "Público on MSN",
+     "resumen": "El mediodía del lunes 28 abril de 2025, España se sumía en la oscuridad. Sin luz, sin electricidad y sin comunicaciones. Un apagón histórico que dejaba durante horas sin suministro a toda la Península ...",
+     "fecha": "2026-11-14T14:05:00+01:00",
+     "fecha_txt": "14 nov"
     },
     {
      "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
@@ -271,22 +287,6 @@
      "resumen": "España también vivió uno de los episodios eléctricos más importantes de su historia reciente. El 28 de abril de 2025, a las 12:33 horas, un cero eléctrico dejó sin suministro a la España peninsular y ...",
      "fecha": "2026-11-12T05:27:00+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-11T18:52:37+01:00",
-     "fecha_txt": "11 nov"
-    },
-    {
-     "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
-     "fuente": "Cadena SER",
-     "resumen": "",
-     "fecha": "2026-11-11T16:14:57+01:00",
-     "fecha_txt": "11 nov"
     }
    ]
   }
