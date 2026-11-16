@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-15T22:11:01+01:00",
+  "actualizado": "2026-11-16T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,30 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Apagón 17 de noviembre: no hay aviso oficial y el kit de 72 horas es solo prevención",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjQ4Y0dDajB3NWF5LVI4VHhmNzVQRTVpTW5EU2FvaHJ2NFRTamZsbkRqbFFjWW1KTzhaaThrLUtSWUtGR05IRzRxc0JVcXdVOHo5Mk1tVTlCbVZyM2lRbC1MWGRNMG84TU9CZlY4NkNJaGh3dWI2WWNsdS1TNjliWlBoNnJ1elFVUnJwUXg3TVdTbTdWdkVuMlpkWlVCeC12QjBYN29tWjJrWld0M2c?oc=5",
+     "fuente": "Malagaes",
+     "resumen": "",
+     "fecha": "2026-11-15T23:05:43+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "Mochila de emergencia también para el auto: lo que no puede faltar",
+     "url": "https://www.technocio.com/mochila-de-emergencia-tambien-para-el-auto-lo-que-no-puede-faltar/",
+     "fuente": "Technocio",
+     "resumen": "Kit de emergencia, Autoplanet, agua, alimentos, medicamentos, mochila de emergencia, elementos de seguridad, kit de carretera, autos, vehículos ...",
+     "fecha": "2026-11-15T11:25:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "El kit de supervivencia que recomienda Cruz Roja: «Estar preparados debe formar parte de nuestra cultura»",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGNHTTVYcnNEOVgzNHdpeGFnMHFCZ3p1NExmdWpRWnVKUmh1UWVlbUpXUWVwQnY0V09paUtTUXlDb0Z2aWV1ZHFpMzZsNDFKYzE5TUVIZ0d3VEY3aFJwemg0RmtXN2piSVJMY1pSd05IZnJYczlZYTM4LXBpS2s0Y1pwTHdLR0M1NnRNTXZtWkxmajhvOXhocnIwN1BBb1ZqWHZQLWQ0VGxfbHdaQ2kyb2xVSTNNV1lfblF4d21zY9IBxAFBVV95cUxOR08tNGxRaGRJZC1uU1NPSkZad0Y0UzJMUjlEZUN3TC1KLVlzeGZNeW12WXVHcVJUTTVVblNJdnRsWUV1eU1QU2hWVzhVSzFzcGljZlpSMTA0MlF0MTd0V0NwaGZxVUtGUU5zcWQ5XzlhYVAyM1J5YzBPWjRqVVEzY1lta3JYUFJ4cGdzdkxHYXRoZmc1UmlWVmVFdmdwTjFzMXNKVk43R2lYWkEwWE9xTjdGVlQ3M1c2Q2R0U0VHNnlmbGN6?oc=5",
+     "fuente": "El Norte de Castilla",
+     "resumen": "",
+     "fecha": "2026-11-15T08:44:29+01:00",
+     "fecha_txt": "15 nov"
+    },
     {
      "titulo": "¿Habrá un apagón mundial de 72 horas el 17 de noviembre? Esto es lo que realmente ocurrirá",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWk0QzV4aDA4LWZXMVpGOVk1OEwtMzRnUkpkcGhkdG1MNXpVZUJwWDA4Zlh5b05hem83SFJvS1o0Z2ZJaFh5Um9hMV9lZmsyS21mS3l2REhkc0ZLd1RSSXhnMHVFMXhGOWRzYm9KMUNiU2VYREtnMFh0ZXNxQXpOcXpULW9FWExEYjZNXzA3LXVEUFA2eTZ3UXMtVExlVXpaOEZuNDJYdkFFNjhmQmxfOUY3WWRQMkhsSFlUYzJR0gHDAUFVX3lxTE5BYTc4aHpyTm5pVFVNX0hVZFhhUTFyeExVR21mZTl6a3ladG1YQzNiWFJIOE00Q0FvYm1fTkpjVG1ldjdPUDl3ZG5SdGlHMFN6LVdFX1lmanUzNkk0M2w5TENjcXdNMlNFY0c1Sl9hN2xZeDBDQTNpUHZ2RUZDNi1sTzdmX2hXblFxRlBhMUJodFAzWkVfNVJUNzZmcFc3VjVvUG43WmZYSHY2bWkzWTlqM2pCNjVvaGlOYUt0eF8yWEUwNA?oc=5",
@@ -26,14 +50,6 @@
      "resumen": "",
      "fecha": "2026-11-14T14:04:00+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Tumbes pierde casi el 70% del agua que produce y reservas cubrirían menos de medio día ante una emergencia",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1h2ZW9yemhwNjFteHdRa3VpSjlCMjFnNUVmblVXYkRra2xZeWVOVzVybVZZWGhxSzhtN1o1QlhCN0szdHh0OFBhR21uRElHQWhRNUNMT01pUkV4Qk9FTllGRmY5TU9HSDlJTGk4ZDA1M3dNWmhrTEpCZmpjNTZiMUQ2RVpZS2QyUXA1ZTdZemROcmx6RW9ZR1BNZHBkTWpTVzBfMmFkYUFaMGlyYlQ3WHRZd0s0RmtVRjFVU0NQVHdkblJQUlRXd2NyekdVdVBsbkJyYQ?oc=5",
-     "fuente": "Revista Economía",
-     "resumen": "",
-     "fecha": "2026-11-13T22:55:39+01:00",
-     "fecha_txt": "13 nov"
     },
     {
      "titulo": "El kit de emergencia de las 72 horas también vale para la vida digital",
@@ -57,22 +73,6 @@
      "fuente": "São Paulo Secreto",
      "resumen": "",
      "fecha": "2026-11-12T20:22:46+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Apagón mundial el 17 de noviembre? El origen del rumor de las 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeFpBVjlYUmlyRWdjUkNfaXUtNVRyUXhjRGZWT2N0dkhxZWZzbFRMMDFXeFJONkhYMlg1Z0F4YWdZdmFWcG5NS1llNU9uYWxEeGJjVVhuYzhSQ1RxS2lkcEd5QTNaQ1Fsdl96Y2RMdl8ydEcxSEl1T3JERGhIekFpdGhWRHBzVmNYME9JTUNscmMzRk1zaHF0al96ZFVaM18wQXpaQU92Q1FZS1U?oc=5",
-     "fuente": "https://estapasando.cl/",
-     "resumen": "",
-     "fecha": "2026-11-12T16:08:23+01:00",
-     "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Un apagón de 72 horas el 17 de noviembre? Esto es lo que va a ocurrir",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkt1RU9HNjRwb2YtV3BDUTFxLWw3Z3VBNXVhc0M3czYwMDBfNGZjZ1RjSTFQeGZPUi1WSzdTU2p3SmZYU05lbWVJX2RvaWdKTnZGU2FPeWJNUW9xNWNjR3NiX1Y4d1R4LWVWZFdEa2txbGhfdkJ3NEE1NFlaUTFYYUxsT3VRcV9rTnBFNENCYlp5cW1QZFV2Rll0TDZpMDlBVTVaR0Rnd2F0bWg4cDAyd01xOGQ1enNrOVRlMEhyTTVSckYtREhLNdIB0wFBVV95cUxOcEZ3SThZa0hpQURkU2todXVvT1NSTEVxQzRISVFRa0h1bTJQQ1F5bHFUQjlVUVlXR19lR2I5Q00teE81UVdNVkQtVk5VcGRlZkxyeGI5WWdQUVBPMWpTdmtJdGZsMDNxbUhtQS1EX3NNLVllRzVic0ZfUDBwazJBMDEyRm5ZWjhnS2U5VFRHTmh4MTdvNTc0Q29TMVVpdVRBT1dXUDU4N3hCcGFzcWtNaUZoVldqZ3BMbkRkRkFHSU9aeEZ6a0g1bWtVb0NmZGx2Qnhj?oc=5",
-     "fuente": "Libertad Digital",
-     "resumen": "",
-     "fecha": "2026-11-12T13:48:33+01:00",
      "fecha_txt": "12 nov"
     }
    ]
@@ -115,27 +115,19 @@
      "fecha_txt": "14 nov"
     },
     {
-     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
-     "fuente": "Lanza Digital",
-     "resumen": "",
-     "fecha": "2026-11-13T14:01:39+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
      "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmlkRUYtNU9tZ25KVTVBYzNVQjNyb0FsbmFXMHVxNW9VM2I4RFpCQXBUZlh0U0NrbHFHWFRodzhfOVgzSW9fQXd6M1c5OWVuVjJOS2JGTUpqVkMwMmR5MklSODFfYkFPV0l1ZHhMZm1IRy1TbjAzdjdsamNuRTNYak9TNEQxdElsaFVXcnB0a1pKVGJaMm0yVTF3OUlxWUxRTDdzUDFUem92QXQydFp1NF80VjNaZUU0Qkx2cDZrWTZuSXdCTUNHWl9Tak0zZDhQRDE1aUYyeDdsS0s4R0E?oc=5",
-     "fuente": "enTomelloso.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYlZaVm1wTWlCRmhlSTdWd3FMX2RWUzRPUmY2YmFWSFdYekxQdFMzcnI0OEkyWXk2anhYYXVqRVVyUFg4VzR1aVBaRXA0d3NLdXczN2ZjczVaMktBX3UwS2l6YmtKVzQwcFcwY2hrM1JBekczQzg3ZUUyZHRHeERjTjlRTF93c1FaNnhwZWlkNzB2ZUJpMDFsVkhTdU5tUXRJWEFwMjY2MzZ6aS1CUEwyREFtVG5ldHNwWUc2S1ZoSEp3T3M?oc=5",
+     "fuente": "somosCLM",
      "resumen": "",
      "fecha": "2026-11-13T13:25:59+01:00",
      "fecha_txt": "13 nov"
     },
     {
      "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
-     "url": "https://www.levante-emv.com/tendencias21/2026/11/13/incendios-forestales-2025-peninsula-iberica-136397893.html",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzE1VHhhVEJsY1B6LVBwc2RCUXBHV2ZScEZwLXZvRFo0RFVWYzZZSXAycldjMXpVOWVzSnIwa3FzaFJoQXlNbE1PNnVCV0VjSXZQWHktNXpQMWVWejZmWk1VMGd2MHhISkZ5UEFMUTJNbzA4QzNrYnF3SUJxSnFZVWJPdllhUjd5UEtvbjMwVWhTNWpiNkhEaVBLWGhTN1g5ZTFLLUN4Tm43V0x4Ujgw0gG0AUFVX3lxTE1yQW81ZnIxVkRqTjlzWjN6ekxGQ28zOWVwQTJWUVpGOURoTzZkN1hGa0d2cWRlTmZKb1NBUEtKbl83YlB4TkxPNkN3U1QwaXlvSWhFekhKb251UFhOMnFtNFlYWUljUU9od19oVEhRQlNVTlI0b3hBcXQ3YWpSazZ0dDRycm8tRVUtYjRXcXRZNU1oZkJQcWlTYVZJRmlCYXowNDlRT29LZzFicENiMTVpUkliNw?oc=5",
      "fuente": "Levante-EMV",
-     "resumen": "La combinación de lluvias primaverales, vegetación abundante, sequía y temperaturas extremas favoreció una temporada récord que anticipa los riesgos de un planeta más cálido ...",
-     "fecha": "2026-11-13T02:40:00+01:00",
+     "resumen": "",
+     "fecha": "2026-11-13T09:40:59+01:00",
      "fecha_txt": "13 nov"
     },
     {
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-13T00:00:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
+     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
+     "fuente": "La Gaceta",
+     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
+     "fecha": "2026-11-08T08:46:00+01:00",
+     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -202,19 +202,19 @@
      "fecha_txt": "14 nov"
     },
     {
+     "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
+     "fuente": "El Independiente",
+     "resumen": "",
+     "fecha": "2026-11-13T17:44:13+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "La AEMET avisa del tiempo para este fin de semana en España: lluvias fuertes y temperaturas de más de 25 grados",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjc3a0xVSWxSTnhDRUpRX1VJVXIwYTJ5UU41bm02NTBwTk50QmUyY3dfYW1CYUdkSEpWT0dxUURZejVPLXBFU0dlNDZ0QWI3N0RsQVVfVHVjTDBmTi1OMFpoMWVvM2k4cWUxeGFYRTRqWTZEMlVXWmk0X3kwR0JyZnpMSHBmbTZiQVBJdXpVS295MFpNcHdaZmlMY3RZT3ZKRmxfRWZ2S1dnVUFGTVM5Z2FpZWhHbDI3dXh6MFNRdkd3SlRpT2pHRHV0R0s5eVRKenN0VEQ5bjlhTHRlaFVyQzhOLTVsLWlvckRR0gH_AUFVX3lxTE9ieHRNMC13WHNDWGFVTXpLeENRcWV6eWJ1YTRhMm5qbXJjR1VCS1YyLVhwaXU5a19OVXdwcUp5eWo3dGtsWHhncGQtR1BhUXlyQUI3SEhZdnp3VTVjOXdib0xPbEdpcHRKWmdZS2RVV1BMYlJoOXpYVmdLTzZHaUZYVGxFa01ubEt1c0h4bTdWNWtic3hUTlU0MWcyNTdNeDg3aGR1T3JMdW52bkMwczZYRDVZR1FkLUtScngzdDFGOFlNWWF5VFlKYUlxTEtOTGx4STR0Rk1LZlhuUUtHWFl6VlFvQXdid0tQM0RtQ3VMbV9EdlpIT3NxSkdiTThPZw?oc=5",
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-13T14:06:59+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Tormenta Charles España: vientos de 136 km/h, inundaciones y vuelos cancelados en el sur",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnN4NzBONnlYTlNsT01KeTFNSzdneFJoanlSSlA1WWRmRmJ6ZGZTd0h0TVJJU0dTV2tJSlI2ZTRLMGtOTWw0R2lXTDJkcDZRZTJadXJPb2F3TXVXS0xUOGN6dl9pMzhYMDlBbUNjZTFIUzJJdzVfZDJ2OWRvSHAzMTZ4X0JDMDg?oc=5",
-     "fuente": "MONCLOA.COM",
-     "resumen": "",
-     "fecha": "2026-11-13T13:25:47+01:00",
      "fecha_txt": "13 nov"
     }
    ]
@@ -225,20 +225,20 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "\"Estamos siendo boicoteados\": Televisión Española sufre un apagón y Anne Igartiburu explica el retraso en directo",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRUhkbXh4cVNvZE5xamQxcE9YU1VxRTFPSm1xQ2tfRmpGYV9kZjNvRDZfd2xCd1VPLW9LR3J5NE9MVEZJRDh5VE9ScWNteF9KanhFVl9qOVJXaEM4TmdESHlQRXNyOWF6?oc=5",
+     "fuente": "Qué.es",
+     "resumen": "",
+     "fecha": "2026-11-15T23:55:14+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "Las superbaterías son el 'chaleco salvavidas' si España vuelve a sufrir un nuevo apagón energético: cómo son y quién las puede fabricar",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOemtOVUhjM0otOEtZTVgxMWJXOFp5M3NfOTl2MkpIZ1VCMHZFb21nTVRreVhReTJkUFl6NGJZa08tVEdqYXNkd1hIcVY3M090c3oyZThUTlZuLUVfeVJ0Nk5xaVF1MzRPZzhnYnduY2NvS19OaHU1Rm5zWTNHZnVsX2t6dVFNMHlZbUJoWVdqMllNd1Z4ZUNua1dOSlBXeFhBdGo2NmhWMjcybGtkVktTMktuV0ZMUnRkVGlSNnktVUxFcDFudFUtS3FZVFZScjJ1NHNQdlVYMG9lZ0lQeTA0YVZiR3FyajFrNEQwVTdHQmtFOG9YWG5RODRn0gH_AUFVX3lxTFA5X2ZieGRJRF96OHBmSUtTOUhZYU51Tm9ISzFBelhkeUxIZ1NZRDU0QXVURHJ5T2t3MTJveW1zVEdFN2dYdDdDajFSZGVMSk0xMlFFa0hQaWdCRHh5d1lyWnZDMGplTS1iQUtxUWl4WUttcVlVVnhfdm43MjY5bmRrQU9LRlAxWWYtTHdmODJhQWxuYld3SXk2clJhNm1aQUlmUWNzNHdGWTJzdlBQY2FFMDVpYmh1d3hKYlE1WmtSQ2RaelVpbzJ4d3lkY2FSUDJIbE1iN0RWVUhKeGdRVmI5TnBsUmp4dUp2Yl9LUVJ2OUJrMHVuRzh6U3Bmc25tOA?oc=5",
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-11-15T16:33:35+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "A de apagón",
-     "url": "https://www.msn.com/es-es/noticias/otras/a-de-apag%C3%B3n/ar-AA2hr5z2",
-     "fuente": "Público on MSN",
-     "resumen": "El mediodía del lunes 28 abril de 2025, España se sumía en la oscuridad. Sin luz, sin electricidad y sin comunicaciones. Un apagón histórico que dejaba durante horas sin suministro a toda la Península ...",
-     "fecha": "2026-11-14T14:05:00+01:00",
-     "fecha_txt": "14 nov"
     },
     {
      "titulo": "Apagón mundial el 17 de noviembre y 72 horas sin luz en España, qué hay de cierto",
@@ -265,6 +265,14 @@
      "fecha_txt": "12 nov"
     },
     {
+     "titulo": "Los apagones más grandes de la historia: de los 700 millones de afectados en India al cero eléctrico de España en 2025",
+     "url": "https://www.telemadrid.es/noticias/sociedad/mayores-apagones-historia-mundo_1_2809838.html",
+     "fuente": "Telemadrid",
+     "resumen": "España también vivió uno de los episodios eléctricos más importantes de su historia reciente. El 28 de abril de 2025, a las 12:33 horas, un cero eléctrico dejó sin suministro a la España peninsular y ...",
+     "fecha": "2026-11-12T05:27:00+01:00",
+     "fecha_txt": "12 nov"
+    },
+    {
      "titulo": "Canal Sur sufre un segundo apagón en plena emisión de «Andalucía directo» por la huelga general de los sindicatos",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjN4anRJcFkzaHV1Szl1MGQ0Rnh0M2I3M0xDRUZ4S1FwVFpPSzMtdjN3Rm9ycWQya3JSQjNoVEswMHhCZGVPc2tnVGFoOHhTS1AtbXhFejNyTi1TUDI1VW1rZVBXUEw1R3JGTGZYQmR6SFpNRktIZDdfRUxGdzIwR2szUnlDczVNX2RxNzhfdXdMMk1aUXdOUUJIR1FJWGxNN3BqN3FsNNIBrAFBVV95cUxOY0psNjQ3Q0lyM1F1Ym5KNS1vcmI2UDhxUkdNQ3JMeURHUW9rd2lfZFhfRlRzdS1vc0ZoSEQwRGtiME16aGhoSkNVcDBCdmNMeXotUWJrZmd5eENpaExoY0RBdjNpcDBLQ0RqX2ZBNS1IOXNneXFjc3BHUmxrcUoxTnFXUlpLYy03a25aNWhyTmRKLUd5M1JuVVY2d2xoUVMySTRxV2NpSW1DRXpa?oc=5",
      "fuente": "ABC",
@@ -273,20 +281,12 @@
      "fecha_txt": "11 nov"
     },
     {
-     "titulo": "Un apagón de más de tres horas sorprende a los vecinos del centro de Madrid: “Ha sido en calles enteras”",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeGRiQjdWYk83dUJVVkMwMGJpWERKcEVIekV3M1Fka3VQQXlCbEN5STktaFNzTVZNSVBBbmZyUWhobFQ1YUt3eWM0M3NmSEcxS3I3XzJPSWhRQ2ZsUkRtdDNXMzVrU3hqc0dZVzI4ZE5pUUE0SldJMVRMRWx4MkdxeHBBbWhLVTFtVUJDTHF4bjBxVXlHU1k0ZGpZby1wNmNqUDhPSTNtZ3I1Vkt3eEoxYTF3R0UzUGZTNi1aVTNPSXJkTjM4NEpnQlFIbVVlS1Bwb0Z3R3hCelI0cVp2ekw3Mm1TNGPSAfgBQVVfeXFMTVNTRVJSSEszbEpZSWdwOEx2dzNJRk1TZVFhckExbGpQQzJleUhmS1JmaElZM2ZodXh2LTQxOVZCUlJHell0Q28yYjA2SHdHbmY0NzJSZWdtbm9NcnZIbzJiLXp2S1hNYmNiWEY2cUswV0lwY0g1RVV2M2NTTkMxbG5iVC1rSjFqNDBva1NheER3di1xTExvbVVFOUJZajhNY3dNRUNiRXFUYWIwbzVXOFQ2U0NFUmd1TDdQbExaeHoxYXQ4eV9LUlF0V1VLdDRNVVhHcllrZ25hVExfUVlvM052a18yVDR4NFRiWG1nUDAwVWJiYUREd2U?oc=5",
-     "fuente": "EL PAÍS",
+     "titulo": "Zapata agiliza las baterías pioneras en España para reforzar la red eléctrica y reducir los apagones",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeGNoTmRpSXdNdkJNUEJSMGtBYVg2MXlEYUxIUlpUQ2xaaXFhZ2hTMmc1SkVpank1Sy11SC10OGpSdk1pYjR0OWxUNXpoZ2dOaGdMX0sxNlRIU29sbExDZkRicWVjdXlIcm9BcEZhOWNnLUF2RGlMQU5rQzBtNWNTb3RoVUc5NGRNbzJLR2twMmlVMFNyRDU0MGVxeHdsUUJSUHVNeU1vZjE0V3ByWXlhM0NtcFE3elJwTVZXV295bUFNek01YW9GNDlNRkd4SkxfLWdWRkx2bklMdm5EeUN5Z0FFcHhHWUluSzBPOWY5WdIBgwJBVV95cUxObTJmSzhSU1ptYXhFUkVYTXVPQ0MxcmVrR1l0NjhwYWFXYS14N2kzeXB4cldyZzZEZTFGUTU3dkJIU3FaZHltVVBuaWxHUnlsamY0d1FGT2V4SVdsSHp4czRvUlVNZEFBVi1ZRW9CeDBmUUJiNHJkLXdiZ2tOT0phc0JnYXVSakUzS0NmWHp4NXUxdTc0WkptM085RGtNYXZvM3daMjhwTzJZSDZJTHJHMERUNGoxa2tScFJSLUNpYUQ0a3VvVG1WRnA4MFp5Z2hEeVZvRUZ4b0pRWVVqWFhOQ3F6UGM0cFQ1TFhGWEk3WkxPZzdaMlRjbGF5clRqRUJ6TnJN?oc=5",
+     "fuente": "Cadena SER",
      "resumen": "",
-     "fecha": "2026-11-10T17:55:17+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Por qué hay que botar a Sánchez, quedan 19 días: el gran apagón que dejó a España a oscuras",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW1uME9kTnFidGVjWEdldG9oNW1GcmhGTjlTTGszbTZFNHA1Rml2Ui1mbUxCc2lIUk1TM2ozMHY0YXdvVlpCREw2eHlNbGNFOVJOXzFsUjNGVUFkeEgzcGFQR2FFNFFwTWhoVUVkTXh3clFFdDBScDJNRjdCN1l0clAyemlxRExQMXRqZDRhWnZEVnRUSGFQR2M1Y1hSRVl2eE5KdEpINzVITjJxSzFoSkVrRdIBuAFBVV95cUxQQVp2U2J0bFNET1ZtWXJNU0pQUmkzX1lTekZsamp4b2hUNXJxbjhEdTAxNTJ1Q2d0Y0pWY1RwMVZtcmtaalRzZXgxdDhrY0dzdlpxOTU0eXJyY3c4RE00ektnYkFwZXlsSl8xTEU4N28xcnZ1aUVrX3ZDcXlibFg3UmpoQnB6SzNPdTBXbkcxTzhNVmdweHI4NmhJOHBnN0Y4MW5wM3VYRG5CQ3ZaYzFKUm5BQ2VvcVJj?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-10T10:22:37+01:00",
-     "fecha_txt": "10 nov"
+     "fecha": "2026-11-11T16:14:57+01:00",
+     "fecha_txt": "11 nov"
     }
    ]
   }
