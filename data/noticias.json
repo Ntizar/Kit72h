@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-16T07:11:03+01:00",
+  "actualizado": "2026-11-16T10:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "El bulo del apagón del 17-N se cruza con el aviso de Bruselas: ¿qué hay en el kit de 72 horas y cómo resistiría Baleares?",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYmRzWGhFbHJ2SmE5T2dJQUhqZkRZcUFYYmZocF9jeEEyck5aWkExMkxYWlYtNEtjZkR0ZHdTVGRYdFFjOXBrcEoyb0wxNTh0dzJnckM4RDhYbjRKcjIwYXMxV0M1QjRZbkxHOS12QXZWQVV5NUVEdjdxMmVleFBsU2E3aGRxQ2pObm9Ma3NyS2x0UFpPSkNiYy1qR3BRQURIdno4djhnMWhGM0c0VFlTU0p2QXRISk5Qc1hDVnoxMGRVbldPZjVYNDM3N1VJUElfT21jUnZiNnI2Skt0MVp1c3p2cjk0aFFUeVNYMWdkaFVjYWlTWUNfU2t3?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-16T07:00:00+01:00",
+     "fecha_txt": "16 nov"
+    },
     {
      "titulo": "Apagón 17 de noviembre: no hay aviso oficial y el kit de 72 horas es solo prevención",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjQ4Y0dDajB3NWF5LVI4VHhmNzVQRTVpTW5EU2FvaHJ2NFRTamZsbkRqbFFjWW1KTzhaaThrLUtSWUtGR05IRzRxc0JVcXdVOHo5Mk1tVTlCbVZyM2lRbC1MWGRNMG84TU9CZlY4NkNJaGh3dWI2WWNsdS1TNjliWlBoNnJ1elFVUnJwUXg3TVdTbTdWdkVuMlpkWlVCeC12QjBYN29tWjJrWld0M2c?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-12T16:08:23+01:00",
      "fecha_txt": "12 nov"
-    },
-    {
-     "titulo": "¿Un apagón de 72 horas el 17 de noviembre? Esto es lo que va a ocurrir",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkt1RU9HNjRwb2YtV3BDUTFxLWw3Z3VBNXVhc0M3czYwMDBfNGZjZ1RjSTFQeGZPUi1WSzdTU2p3SmZYU05lbWVJX2RvaWdKTnZGU2FPeWJNUW9xNWNjR3NiX1Y4d1R4LWVWZFdEa2txbGhfdkJ3NEE1NFlaUTFYYUxsT3VRcV9rTnBFNENCYlp5cW1QZFV2Rll0TDZpMDlBVTVaR0Rnd2F0bWg4cDAyd01xOGQ1enNrOVRlMEhyTTVSckYtREhLNdIB0wFBVV95cUxOcEZ3SThZa0hpQURkU2todXVvT1NSTEVxQzRISVFRa0h1bTJQQ1F5bHFUQjlVUVlXR19lR2I5Q00teE81UVdNVkQtVk5VcGRlZkxyeGI5WWdQUVBPMWpTdmtJdGZsMDNxbUhtQS1EX3NNLVllRzVic0ZfUDBwazJBMDEyRm5ZWjhnS2U5VFRHTmh4MTdvNTc0Q29TMVVpdVRBT1dXUDU4N3hCcGFzcWtNaUZoVldqZ3BMbkRkRkFHSU9aeEZ6a0g1bWtVb0NmZGx2Qnhj?oc=5",
-     "fuente": "Libertad Digital",
-     "resumen": "",
-     "fecha": "2026-11-12T13:48:33+01:00",
-     "fecha_txt": "12 nov"
     }
    ]
   },
@@ -82,14 +82,6 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
-    {
-     "titulo": "William Levy regresa a España por ‘Bajo un fuego’: dos premieres y Almería en pie",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUGxxRnZyT0pPdHB1T0hhNDFuRXZVN29qZXphT3NyU2RNYzJzV1hQdTR2VWNjVFJXLVR1Ymdoc2lLTUYzcDdaOHVsN0N1UmU3TWVtRlM5U3M5SHJfbXdkQlVnY0JDMnJKT2xHRXVWYVdXM2pJV1ZzTQ?oc=5",
-     "fuente": "Cotilleo",
-     "resumen": "",
-     "fecha": "2026-11-15T05:04:09+01:00",
-     "fecha_txt": "15 nov"
-    },
     {
      "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
      "url": "https://www.europapress.es/temas/incendios-forestales/35/",
@@ -145,6 +137,14 @@
      "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
      "fecha": "2026-11-08T08:46:00+01:00",
      "fecha_txt": "8 nov"
+    },
+    {
+     "titulo": "La España en llamas: diez años de infierno forestal",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-espa%C3%B1a-en-llamas-diez-a%C3%B1os-de-infierno-forestal/ar-AA2gZ4Ci",
+     "fuente": "La Razón on MSN",
+     "resumen": "El fuego bate marcas históricas con 311 grandes incendios y casi un millón de hectáreas calcinadas ...",
+     "fecha": "2026-11-07T20:26:00+01:00",
+     "fecha_txt": "7 nov"
     }
    ]
   },
@@ -225,6 +225,22 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "El supuesto apagón mundial del 17 de noviembre preocupa en Madrid, pero no hay pruebas de que vaya a ocurrir",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV1A1eFhzRUxPSFdNbEg1T0dSd3ZaOUE4Qk5mX3I2Y3dEQU1rdHFSVkJhM1E1UWlMMWtOWDdzbWU5NE4tYkNCNVc0OFRWQktyWFF0Z3BRbXZyZWZ2djYzMHFUcm5WVGhrM2gzYklIenZCQ0tmTzRqWjFGbTZ4czZ0VFJZVmdYV0pNSmNQa1RYZ3FzazZpOXhjLWp6a29WMVZhS3ZsWWNoc0x1U1ZMSmJYVjVfQjIzaHBIc0V2V0prRWktNDc5c2Y2eGMwV3B0Zw?oc=5",
+     "fuente": "Madridinforma",
+     "resumen": "",
+     "fecha": "2026-11-16T10:02:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "El bulo del apagón del 17-N se cruza con el aviso de Bruselas: ¿qué hay en el kit de 72 horas y cómo resistiría Baleares?",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYmRzWGhFbHJ2SmE5T2dJQUhqZkRZcUFYYmZocF9jeEEyck5aWkExMkxYWlYtNEtjZkR0ZHdTVGRYdFFjOXBrcEoyb0wxNTh0dzJnckM4RDhYbjRKcjIwYXMxV0M1QjRZbkxHOS12QXZWQVV5NUVEdjdxMmVleFBsU2E3aGRxQ2pObm9Ma3NyS2x0UFpPSkNiYy1qR3BRQURIdno4djhnMWhGM0c0VFlTU0p2QXRISk5Qc1hDVnoxMGRVbldPZjVYNDM3N1VJUElfT21jUnZiNnI2Skt0MVp1c3p2cjk0aFFUeVNYMWdkaFVjYWlTWUNfU2t3?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-16T07:00:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
      "titulo": "Autoridades estadounidenses descartan riesgo de apagón nacional",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWJXX2hWWlVOaTFtUHpzOGFadHdaRFc2ZXY3R0xJZF9ZSkdBWVZ2SHN3S2ZaVnEwYXE3d2RTcmZ4Wkpkem91SHdrejdvSlRRRkhMc3I5Q1ZhbUREcHVzWDVyX2NPeU53a3JmclJTdWZITE1Eb0d3emlXdlV3VERwSnhGNEpzSXRaUEtFOVoyZXhHb1U?oc=5",
      "fuente": "Diario Avance",
@@ -238,14 +254,6 @@
      "fuente": "El Confidencial",
      "resumen": "La petrolera, tras más de ocho meses de deliberación, reclama en los tribunales unos 120 millones a sus tres competidores por el cero eléctrico que afectó a sus plantas en España ...",
      "fecha": "2026-11-15T22:00:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "\"Estamos siendo boicoteados\": Televisión Española sufre un apagón y Anne Igartiburu explica el retraso en directo",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GRUhkbXh4cVNvZE5xamQxcE9YU1VxRTFPSm1xQ2tfRmpGYV9kZjNvRDZfd2xCd1VPLW9LR3J5NE9MVEZJRDh5VE9ScWNteF9KanhFVl9qOVJXaEM4TmdESHlQRXNyOWF6?oc=5",
-     "fuente": "Qué.es",
-     "resumen": "",
-     "fecha": "2026-11-15T19:31:14+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-11-14T13:30:00+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Red Eléctrica apunta a Iberdrola, Endesa y Naturgy por trasladar problemas de tensión a la red de transporte",
-     "url": "https://www.economiadigital.es/empresas/red-electrica-apunta-iberdrola-endesa-naturgy-trasladar-problemas-tension-red-transporte.html",
-     "fuente": "Economía Digital",
-     "resumen": "El operador detecta más de 300 \"puntos frontera\" donde las distribuidoras vierten energía reactiva que el sistema no necesita ...",
-     "fecha": "2026-11-13T21:55:00+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   }
