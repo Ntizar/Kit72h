@@ -388,7 +388,23 @@ def traducir_kits(tr: Traductor, limite=None):
         kk["secciones"] = secciones
         salida["kits"][sl] = kk
 
-    tr.escribir(RAIZ / f"data/i18n/contenido/{tr.lang}.json", salida)
+    # El fichero de contenido es COMPARTIDO por modos (`kits`, `blog`, `ui`):
+    # escribir solo las claves propias y conservar el resto. Antes, un
+    # `traducir.py kits` suelto borraba los 73 posts traducidos (`blog`) y el
+    # sitio dejaba de hornear /de/blog/* sin avisar.
+    destino = RAIZ / f"data/i18n/contenido/{tr.lang}.json"
+    if destino.exists():
+        try:
+            previo = json.loads(destino.read_text(encoding="utf-8"))
+            if isinstance(previo, dict):
+                for clave, valor in previo.items():
+                    salida.setdefault(clave, valor)
+                if isinstance(previo.get("_meta"), dict):
+                    salida["_meta"] = {**previo["_meta"], **salida["_meta"]}
+        except json.JSONDecodeError:
+            print(f"  ! {destino.name} ilegible: se reescribe entero", flush=True)
+
+    tr.escribir(destino, salida)
 
 
 # ---------- Blog ----------

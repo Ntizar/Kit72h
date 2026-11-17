@@ -1,7 +1,7 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
- "generado": "2026-11-09",
- "total_productos": 232,
+ "generado": "2026-11-17",
+ "total_productos": 234,
  "compartidos": 60,
  "productos": {
   "8419436623": {
@@ -428,25 +428,25 @@
    "n_kits": 1,
    "precio_ref": "8-20 €"
   },
-  "B00RD0KTZQ": {
-   "nombre_canonico": "Mochila de agua a presión (16-20 L)",
-   "url": "https://www.amazon.es/dp/B00RD0KTZQ?tag=ntizar-21",
+  "B00UN4ROLQ": {
+   "nombre_canonico": "Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte)",
+   "url": "https://www.amazon.es/dp/B00UN4ROLQ?tag=ntizar-21",
    "categorias": [
-    "Defender la casa si aún hay tiempo"
+    "Documentos e identificación"
    ],
    "apariciones": [
     {
-     "kit": "kit-incendio",
-     "producto": "Mochila de agua a presión (16-20 L)",
-     "prioridad": "extra",
-     "precio_aprox": "25-50 €"
+     "kit": "kit-bebe",
+     "producto": "Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte)",
+     "prioridad": "esencial",
+     "precio_aprox": "10-18 €"
     }
    ],
    "kits": [
-    "kit-incendio"
+    "kit-bebe"
    ],
    "n_kits": 1,
-   "precio_ref": "25-50 €"
+   "precio_ref": "10-18 €"
   },
   "B00W5968T6": {
    "nombre_canonico": "Sales de rehidratación oral",
@@ -1606,7 +1606,8 @@
    "categorias": [
     "Luz y energía",
     "Luz, avisos y energía",
-    "Luz, aviso y rescate"
+    "Luz, aviso y rescate",
+    "Escuchar y avisar al exterior"
    ],
    "apariciones": [
     {
@@ -1626,14 +1627,21 @@
      "producto": "Pilas alcalinas surtidas (AA/AAA)",
      "prioridad": "esencial",
      "precio_aprox": "10-20 €"
+    },
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Pilas alcalinas AA/AAA (pack de 48)",
+     "prioridad": "extra",
+     "precio_aprox": "12-18 €"
     }
    ],
    "kits": [
     "kit-basico-72h",
+    "kit-comunicacion",
     "kit-frio",
     "kit-terremoto"
    ],
-   "n_kits": 3,
+   "n_kits": 4,
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
@@ -1793,28 +1801,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "20-45 €"
-  },
-  "B09MJ9QV7W": {
-   "nombre_canonico": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
-   "url": "https://www.amazon.es/dp/B09MJ9QV7W?tag=ntizar-21",
-   "categorias": [
-    "Documentos e identificación"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-bebe",
-     "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
-     "prioridad": "esencial",
-     "precio_aprox": "5-10 €"
-    }
-   ],
-   "kits": [
-    "kit-bebe"
-   ],
-   "n_kits": 1,
-   "precio_ref": "5-10 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
   },
   "B09NYL7FY4": {
    "nombre_canonico": "Toallitas limpiadoras",
@@ -2123,32 +2109,24 @@
    "verificado": "2026-09-28"
   },
   "B0BFBZR4KW": {
-   "nombre_canonico": "Messenger satelital (tipo Garmin inReach)",
+   "nombre_canonico": "Garmin inReach Messenger",
    "url": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21",
    "categorias": [
-    "Escuchar y avisar al exterior",
-    "Último recurso: messenger satelital"
+    "Escuchar y avisar al exterior"
    ],
    "apariciones": [
     {
      "kit": "kit-comunicacion",
-     "producto": "Messenger satelital (tipo Garmin inReach)",
+     "producto": "Garmin inReach Messenger",
      "prioridad": "recomendado",
      "precio_aprox": "250-400 € + 5-25 €/mes"
-    },
-    {
-     "kit": "kit-starlink",
-     "producto": "Messenger satelital (Garmin inReach Mini 3)",
-     "prioridad": "esencial",
-     "precio_aprox": "400 € · 10-40 €/mes"
     }
    ],
    "kits": [
-    "kit-comunicacion",
-    "kit-starlink"
+    "kit-comunicacion"
    ],
-   "n_kits": 2,
-   "precio_ref": "400 € · 10-40 €/mes"
+   "n_kits": 1,
+   "precio_ref": "250-400 € + 5-25 €/mes"
   },
   "B0BG8XYDPR": {
    "nombre_canonico": "Patés variados (45 unidades)",
@@ -2958,6 +2936,26 @@
    "n_kits": 1,
    "precio_ref": "5-12 €"
   },
+  "B0CX1RZQMN": {
+   "nombre_canonico": "Mochila pulverizadora de agua a presión (16 L)",
+   "url": "https://www.amazon.es/dp/B0CX1RZQMN?tag=ntizar-21",
+   "categorias": [
+    "Defender la casa si aún hay tiempo"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-incendio",
+     "producto": "Mochila pulverizadora de agua a presión (16 L)",
+     "prioridad": "extra",
+     "precio_aprox": "25-40 €"
+    }
+   ],
+   "kits": [
+    "kit-incendio"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-40 €"
+  },
   "B0CY8G31G4": {
    "nombre_canonico": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
    "url": "https://www.amazon.es/dp/B0CY8G31G4?tag=ntizar-21",
@@ -3245,6 +3243,46 @@
    "precio_ref": "0-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0DCP9M364": {
+   "nombre_canonico": "Acumuladores de frío congelables (pack de 4)",
+   "url": "https://www.amazon.es/dp/B0DCP9M364?tag=ntizar-21",
+   "categorias": [
+    "Conservación de alimentos sin red"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Acumuladores de frío congelables (pack de 4)",
+     "prioridad": null,
+     "precio_aprox": "10-16 €"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-16 €"
+  },
+  "B0DFLHLMH3": {
+   "nombre_canonico": "Radio FM/AM con dinamo y panel solar",
+   "url": "https://www.amazon.es/dp/B0DFLHLMH3?tag=ntizar-21",
+   "categorias": [
+    "Dinero y comunicación"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Radio FM/AM con dinamo y panel solar",
+     "prioridad": "esencial",
+     "precio_aprox": "25-35 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "25-35 €"
   },
   "B0DFLHZQ18": {
    "nombre_canonico": "Powerbank de 20.000 mAh + cables",
@@ -3598,26 +3636,6 @@
    "n_kits": 1,
    "precio_ref": "25-60 €"
   },
-  "B0DRWP2LV6": {
-   "nombre_canonico": "Terminal Starlink Gen 3 (residencial / móvil)",
-   "url": "https://www.amazon.es/dp/B0DRWP2LV6?tag=ntizar-21",
-   "categorias": [
-    "Starlink: internet desde cualquier lugar"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-starlink",
-     "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
-     "prioridad": "esencial",
-     "precio_aprox": "500-1.200 € · 45-60 €/mes"
-    }
-   ],
-   "kits": [
-    "kit-starlink"
-   ],
-   "n_kits": 1,
-   "precio_ref": "500-1.200 € · 45-60 €/mes"
-  },
   "B0DT6M79BB": {
    "nombre_canonico": "Empapadores absorbentes",
    "url": "https://www.amazon.es/dp/B0DT6M79BB?tag=ntizar-21",
@@ -3820,6 +3838,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0F6S2FNN4": {
+   "nombre_canonico": "Cargador de dinamo multiuso",
+   "url": "https://www.amazon.es/dp/B0F6S2FNN4?tag=ntizar-21",
+   "categorias": [
+    "Energía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Cargador de dinamo multiuso",
+     "prioridad": "extra",
+     "precio_aprox": "15-30 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "15-30 €"
+  },
   "B0F84D5PRT": {
    "nombre_canonico": "Powerbank 10.000-20.000 mAh para los aparatos",
    "url": "https://www.amazon.es/dp/B0F84D5PRT?tag=ntizar-21",
@@ -4018,26 +4056,6 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
-  "B0FGPYHJFZ": {
-   "nombre_canonico": "Radio FM/AM a pilas o dinamo",
-   "url": "https://www.amazon.es/dp/B0FGPYHJFZ?tag=ntizar-21",
-   "categorias": [
-    "Dinero y comunicación"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-apagon",
-     "producto": "Radio FM/AM a pilas o dinamo",
-     "prioridad": "esencial",
-     "precio_aprox": "15-35 €"
-    }
-   ],
-   "kits": [
-    "kit-apagon"
-   ],
-   "n_kits": 1,
-   "precio_ref": "15-35 €"
-  },
   "B0FHBDDBNT": {
    "nombre_canonico": "Baliza V-16 conectada homologada (sustituye a los triángulos)",
    "url": "https://www.amazon.es/dp/B0FHBDDBNT?tag=ntizar-21",
@@ -4205,28 +4223,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "5-10 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
-  },
-  "B0FP16NDYT": {
-   "nombre_canonico": "Apósitos hidrocoloides para ampollas",
-   "url": "https://www.amazon.es/dp/B0FP16NDYT?tag=ntizar-21",
-   "categorias": [
-    "Salud y reparación"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-montana",
-     "producto": "Apósitos hidrocoloides para ampollas",
-     "prioridad": "esencial",
-     "precio_aprox": "7-22 €"
-    }
-   ],
-   "kits": [
-    "kit-montana"
-   ],
-   "n_kits": 1,
-   "precio_ref": "7-22 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4584,6 +4580,34 @@
    "n_kits": 1,
    "precio_ref": "12-35 €"
   },
+  "B0G4RST8LV": {
+   "nombre_canonico": "Messenger satelital (Garmin inReach Mini 3)",
+   "url": "https://www.amazon.es/dp/B0G4RST8LV?tag=ntizar-21",
+   "categorias": [
+    "Último recurso: messenger satelital",
+    "Conectividad: Starlink y redundancia"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Messenger satelital (Garmin inReach Mini 3)",
+     "prioridad": "esencial",
+     "precio_aprox": "410 € · 10-40 €/mes"
+    },
+    {
+     "kit": "kit-kit-profesional",
+     "producto": "Messenger satelital (Garmin inReach Mini 3)",
+     "prioridad": "esencial",
+     "precio_aprox": "400 € · 10-40 €/mes"
+    }
+   ],
+   "kits": [
+    "kit-kit-profesional",
+    "kit-starlink"
+   ],
+   "n_kits": 2,
+   "precio_ref": "410 € · 10-40 €/mes"
+  },
   "B0G58B5ZL7": {
    "nombre_canonico": "Garrafa de 8 L con grifo dosificador",
    "url": "https://www.amazon.es/dp/B0G58B5ZL7?tag=ntizar-21",
@@ -4665,26 +4689,6 @@
    "precio_ref": "4-8 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
-  },
-  "B0GDTTG5JP": {
-   "nombre_canonico": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
-   "url": "https://www.amazon.es/dp/B0GDTTG5JP?tag=ntizar-21",
-   "categorias": [
-    "Escuchar y avisar al exterior"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-comunicacion",
-     "producto": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
-     "prioridad": "extra",
-     "precio_aprox": "8-18 €"
-    }
-   ],
-   "kits": [
-    "kit-comunicacion"
-   ],
-   "n_kits": 1,
-   "precio_ref": "8-18 €"
   },
   "B0GGY8TTR2": {
    "nombre_canonico": "Linterna LED a pilas o de dinamo",
@@ -4989,54 +4993,34 @@
      "kit": "kit-starlink",
      "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
      "prioridad": null,
-     "precio_aprox": "50-150 €"
+     "precio_aprox": "25-60 €"
     }
    ],
    "kits": [
     "kit-starlink"
    ],
    "n_kits": 1,
-   "precio_ref": "50-150 €"
+   "precio_ref": "25-60 €"
   },
-  "B0GWM8T485": {
-   "nombre_canonico": "Cable extensor para Starlink (30 m / 60 m)",
-   "url": "https://www.amazon.es/dp/B0GWM8T485?tag=ntizar-21",
+  "B0GWCMNKC9": {
+   "nombre_canonico": "Apósitos hidrocoloides para ampollas (24 uds)",
+   "url": "https://www.amazon.es/dp/B0GWCMNKC9?tag=ntizar-21",
    "categorias": [
-    "Starlink: internet desde cualquier lugar"
+    "Salud y reparación"
    ],
    "apariciones": [
     {
-     "kit": "kit-starlink",
-     "producto": "Cable extensor para Starlink (30 m / 60 m)",
-     "prioridad": null,
-     "precio_aprox": "75-150 €"
+     "kit": "kit-montana",
+     "producto": "Apósitos hidrocoloides para ampollas (24 uds)",
+     "prioridad": "esencial",
+     "precio_aprox": "7-12 €"
     }
    ],
    "kits": [
-    "kit-starlink"
+    "kit-montana"
    ],
    "n_kits": 1,
-   "precio_ref": "75-150 €"
-  },
-  "B0GX114ZX1": {
-   "nombre_canonico": "Acumuladores de frío congelables (pack de 6)",
-   "url": "https://www.amazon.es/dp/B0GX114ZX1?tag=ntizar-21",
-   "categorias": [
-    "Conservación de alimentos sin red"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Acumuladores de frío congelables (pack de 6)",
-     "prioridad": null,
-     "precio_aprox": "25-40 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "25-40 €"
+   "precio_ref": "7-12 €"
   },
   "B0GZ1Q49RH": {
    "nombre_canonico": "Manta térmica de supervivencia (pack)",
@@ -5189,6 +5173,26 @@
    "precio_ref": "10-20 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0H4DZH82Y": {
+   "nombre_canonico": "Cable extensor Ethernet para Starlink (30 m)",
+   "url": "https://www.amazon.es/dp/B0H4DZH82Y?tag=ntizar-21",
+   "categorias": [
+    "Starlink: internet desde cualquier lugar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Cable extensor Ethernet para Starlink (30 m)",
+     "prioridad": null,
+     "precio_aprox": "40-80 €"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "40-80 €"
   },
   "B0H4HS5YL7": {
    "nombre_canonico": "Estufa de gas butano (para casa)",
@@ -5502,6 +5506,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0H9BT9W4F": {
+   "nombre_canonico": "Kit Starlink Standard (antena + router Wi-Fi)",
+   "url": "https://www.amazon.es/dp/B0H9BT9W4F?tag=ntizar-21",
+   "categorias": [
+    "Starlink: internet desde cualquier lugar"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-starlink",
+     "producto": "Kit Starlink Standard (antena + router Wi-Fi)",
+     "prioridad": "esencial",
+     "precio_aprox": "450-550 € · 45-60 €/mes"
+    }
+   ],
+   "kits": [
+    "kit-starlink"
+   ],
+   "n_kits": 1,
+   "precio_ref": "450-550 € · 45-60 €/mes"
+  },
   "B0HBWJBK6D": {
    "nombre_canonico": "Batidos proteicos/enriquecidos (pack 8-12)",
    "url": "https://www.amazon.es/dp/B0HBWJBK6D?tag=ntizar-21",
@@ -5681,6 +5705,26 @@
    ],
    "n_kits": 4,
    "precio_ref": "3-8 €"
+  },
+  "B0HNWJG63R": {
+   "nombre_canonico": "Hornillo de camping a gas con bombonas",
+   "url": "https://www.amazon.es/dp/B0HNWJG63R?tag=ntizar-21",
+   "categorias": [
+    "Cocina sin electricidad"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-apagon",
+     "producto": "Hornillo de camping a gas con bombonas",
+     "prioridad": "esencial",
+     "precio_aprox": "20-45 €"
+    }
+   ],
+   "kits": [
+    "kit-apagon"
+   ],
+   "n_kits": 1,
+   "precio_ref": "20-45 €"
   },
   "B0HP9SSN9R": {
    "nombre_canonico": "Velas de emergencia de larga duración (9-12 h)",

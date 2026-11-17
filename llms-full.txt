@@ -105,7 +105,7 @@ Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la 
 - Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~17-30 €)
 **Dinero y comunicación**
 - Caja fuerte pequeña portátil para efectivo: Guarda el efectivo y documentos críticos en casa. (~20-45 €)
-- Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
+- Radio FM/AM con dinamo y panel solar: Única fuente de información si caen internet y la telefonía. Batería propia, dinamo y solar: no depende de pilas. (~25-35 €)
 - SAI / UPS pequeño (600-900 VA) para router y ONT: Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora. (~60-110 €)
 
 ### Kit Coche 2026: obligatorios y opcionales DGT — https://kit72h.com/kit/kit-coche/
@@ -174,7 +174,7 @@ Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo, agu
 **Salud y reparación**
 - Botiquín ligero de trekking: Vendajes, esparadrapo, ampollas, material de inmovilización básico. (~12-25 €)
 - Crema solar y labial con protección: SPF 50: la radiación en montaña es mucho mayor que en la playa. (~8-18 €)
-- Apósitos hidrocoloides para ampollas: El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar. (~7-22 €)
+- Apósitos hidrocoloides para ampollas (24 uds): El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar. (~7-12 €)
 - Navaja multiuso: Corta, sierra, abre latas y repara material. La navaja suiza del senderista. (~15-35 €)
 - Kit de costura de emergencia: Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta. (~3-8 €)
 - Frontal con pilas de repuesto: Manos libres para caminar de noche o reparar material. (~15-35 €)
@@ -283,7 +283,7 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Juguetes pequeños favoritos (2-3, en bolsa estanca): Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé. (~0-10 €)
 - Mantas/empapadores de tela de confianza: Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit. (~8-15 €)
 **Documentos e identificación**
-- Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé: Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~5-10 €)
+- Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte): Fotocopias + originales dentro de una bolsa impermeable. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~10-18 €)
 - Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
 - Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
 
@@ -449,7 +449,7 @@ Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, sal
 - Manguera reforzada larga (más un aspersor o pistola): Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente. (~25-60 €)
 - Extintor de polvo ABC de 6 kg (o varios de 2 kg): Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta. (~45-90 €)
 - Azada, rastrillo y desbrozadora manual: Quitar hierba seca y hojarasca en el perímetro es lo que evita que el fuego de suelo llegue a la fachada. (~15-35 €)
-- Mochila de agua a presión (16-20 L): Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona. (~25-50 €)
+- Mochila pulverizadora de agua a presión (16 L): Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona. (~25-40 €)
 **Animales y personas que no corren solos**
 - Transportín y correa a mano (mascotas): En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje. (~25-60 €)
 - Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
@@ -463,19 +463,19 @@ Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y mes
 **Escuchar y avisar al exterior**
 - Radio FM/AM a pilas o de dinamo (con linterna): Única fuente de información si caen internet y la telefonía. Con dinamo, sin pilas. (~15-35 €)
 - Powerbank 10.000-20.000 mAh para los aparatos: El walkie recargable y el móvil se mueren a la vez. Dos salidas los mantienen vivos varios días. (~20-40 €)
-- Messenger satelital (tipo Garmin inReach): Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual. (~250-400 € + 5-25 €/mes)
-- Pilas de repuesto (AA/AAA) fuera de los aparatos: Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase. (~8-18 €)
+- Garmin inReach Messenger: Mensajes y SOS por red satelital donde no hay cobertura móvil. Necesita cielo despejado y suscripción mensual activa. (~250-400 € + 5-25 €/mes)
+- Pilas alcalinas AA/AAA (pack de 48): Guardadas dentro de la radio se sulfatan: guárdalas aparte, en su envase. Pack mixto para radio, linterna y mando. (~12-18 €)
 
 ### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
-Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
+Kit Starlink: internet satelital con cielo despejado desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
 **Starlink: internet desde cualquier lugar**
-- Terminal Starlink Gen 3 (residencial / móvil): Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve. (~500-1.200 € · 45-60 €/mes)
-- Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
-- Cable extensor para Starlink (30 m / 60 m): Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3. (~75-150 €)
+- Kit Starlink Standard (antena + router Wi-Fi): Internet satelital donde no hay cobertura ni fibra, con la antena apuntando a cielo despejado. 50-200 Mbps reales. Antena y router Wi-Fi incluidos. La suscripción es imprescindible: sin ella el hardware no sirve. (~450-550 € · 45-60 €/mes)
+- Soporte de montaje para Starlink (tejado / pared / mástil): Fija la antena en tejado, pared o mástil y gana los grados de cielo que la instalación en balcón no da. Válido para Starlink Standard (Gen 3), V3, 4 y 4X. (~25-60 €)
+- Cable extensor Ethernet para Starlink (30 m): Alarga el cable de la antena hasta el punto con cielo despejado. Impermeable, para exterior. Compatible con Starlink Standard 4/4X/Gen 3/V4/V5. (~40-80 €)
 **Redundancia: router 4G/5G como respaldo**
 - Antena externa 4G/5G de alta ganancia: 12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router. (~50-150 €)
 **Último recurso: messenger satelital**
-- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional por satélite, hasta 350 h de autonomía. Exige cielo despejado y suscripción activa: bajo techo, en un barranco o con bosque cerrado no transmite el SOS. (~410 € · 10-40 €/mes)
 - Powerbank de 20.000 mAh + cables: Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C. (~25-50 €)
 
 ### Kit Electricidad: 10 artículos para tener luz sin red (2026) — https://kit72h.com/kit/kit-electricidad/
@@ -506,13 +506,13 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 **Generador: respaldo cuando no hay sol**
 - Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
 **Conservación de alimentos sin red**
-- Acumuladores de frío congelables (pack de 6): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~25-40 €)
+- Acumuladores de frío congelables (pack de 4): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~10-16 €)
 **Iluminación y seguridad perimetral**
 - Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~80-120 €)
 **Conectividad: Starlink y redundancia**
 - Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)
 - Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
-- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla. (~400 € · 10-40 €/mes)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional por satélite. Exige cielo despejado y suscripción: bajo techo no transmite. Último recurso cuando no hay red de ningún tipo. (~400 € · 10-40 €/mes)
 **Comunicación local: radio amateur y walkies**
 - Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
 
@@ -3473,7 +3473,7 @@ Casi todas las preguntas sobre Starlink que llegan a este blog empiezan igual: �
 
  Starlink Residencial 100 No hay cobertura móvil fiable y necesitas ancho de banda real 35 €/mes (+ kit) 
 
- Mensajería satelital y GPS Solo avisos y localización sin cobertura: poco tráfico, mucha autonomía Equipo + cuota anual 
+ Mensajería satelital y GPS Solo avisos y localización sin cobertura y con cielo despejado: poco tráfico, mucha autonomía Equipo + cuota anual 
 
  Walkie-talkies PMR446 ↗ Comunicación interna del grupo sin ninguna red disponible 40-80 € el par 
 
@@ -4956,7 +4956,7 @@ Cuando se corta la luz en una zona entera, lo primero que cae no es la nevera: e
 
  Móvil con cobertura y SIM de datos — si la torre local aguanta. El análisis de qué SIM de datos sobrevive mejor a un apagón y el de routers 4G de emergencia cubren esta capa.
 
- Mensajería satelital ligera — dispositivos tipo messenger satelital que envían posición y mensajes cortos sin cobertura móvil: la vía más fiable para decir «estoy bien» cuando nada más funciona.
+ Mensajería satelital ligera — dispositivos tipo messenger satelital que envían posición y mensajes cortos sin cobertura móvil, siempre con cielo despejado: la vía más fiable para decir «estoy bien» cuando nada más funciona.
 
  Starlink — ancho de banda completo, el último escalón y el más hambriento de energía.
 

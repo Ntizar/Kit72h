@@ -997,13 +997,13 @@
               "prioridad": "recomendado"
             },
             {
-              "producto": "Radio FM/AM a pilas o dinamo",
-              "afiliado": "https://www.amazon.es/dp/B0FGPYHJFZ?tag=ntizar-21",
-              "descripcion": "Única fuente de información si caen internet y la telefonía. Con dinamo mejor.",
-              "precio_aprox": "15-35 €",
+              "producto": "Radio FM/AM con dinamo y panel solar",
+              "afiliado": "https://www.amazon.es/dp/B0DFLHLMH3?tag=ntizar-21",
+              "descripcion": "Única fuente de información si caen internet y la telefonía. Batería propia, dinamo y solar: no depende de pilas.",
+              "precio_aprox": "25-35 €",
               "prioridad": "esencial",
               "es_busqueda": false,
-              "verificado_ficha": "2026-11-09"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
@@ -1567,13 +1567,13 @@
               "sustituye_a": "B09XRDG5HC"
             },
             {
-              "producto": "Apósitos hidrocoloides para ampollas",
-              "afiliado": "https://www.amazon.es/dp/B0FP16NDYT?tag=ntizar-21",
+              "producto": "Apósitos hidrocoloides para ampollas (24 uds)",
+              "afiliado": "https://www.amazon.es/dp/B0GWCMNKC9?tag=ntizar-21",
               "descripcion": "El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar.",
-              "precio_aprox": "7-22 €",
+              "precio_aprox": "7-12 €",
               "prioridad": "esencial",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-21"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Navaja multiuso",
@@ -2557,14 +2557,14 @@
           "intro": "El bebé no lleva DNI encima, no sabe decir su nombre y no tiene tarjeta sanitaria propia visible. Toda su identidad cabe en una funda estanca.",
           "items": [
             {
-              "producto": "Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé",
-              "afiliado": "https://www.amazon.es/dp/B09MJ9QV7W?tag=ntizar-21",
-              "descripcion": "Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.",
-              "precio_aprox": "5-10 €",
+              "producto": "Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte)",
+              "afiliado": "https://www.amazon.es/dp/B00UN4ROLQ?tag=ntizar-21",
+              "descripcion": "Fotocopias + originales dentro de una bolsa impermeable. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho.",
+              "precio_aprox": "10-18 €",
               "prioridad": "esencial",
-              "busqueda": "funda estanca con libro de salud, cartilla de vacunación y d",
+              "busqueda": "bolsa estanca impermeable documentos pasaporte A5",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-05"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
@@ -3996,13 +3996,13 @@
               "prioridad": "recomendado"
             },
             {
-              "producto": "Mochila de agua a presión (16-20 L)",
-              "afiliado": "https://www.amazon.es/dp/B00RD0KTZQ?tag=ntizar-21",
+              "producto": "Mochila pulverizadora de agua a presión (16 L)",
+              "afiliado": "https://www.amazon.es/dp/B0CX1RZQMN?tag=ntizar-21",
               "descripcion": "Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona.",
-              "precio_aprox": "25-50 €",
+              "precio_aprox": "25-40 €",
               "prioridad": "extra",
               "es_busqueda": false,
-              "verificado_ficha": "2026-10-03"
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
@@ -4125,22 +4125,22 @@
               "verificado_ficha": "2026-10-03"
             },
             {
-              "producto": "Messenger satelital (tipo Garmin inReach)",
+              "producto": "Garmin inReach Messenger",
               "afiliado": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21",
-              "descripcion": "Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual.",
+              "descripcion": "Mensajes y SOS por red satelital donde no hay cobertura móvil. Necesita cielo despejado y suscripción mensual activa.",
               "precio_aprox": "250-400 € + 5-25 €/mes",
               "prioridad": "recomendado",
               "es_busqueda": false,
-              "verificado_ficha": "2026-10-03"
+              "verificado_ficha": "2026-11-17"
             },
             {
-              "producto": "Pilas de repuesto (AA/AAA) fuera de los aparatos",
-              "afiliado": "https://www.amazon.es/dp/B0GDTTG5JP?tag=ntizar-21",
-              "descripcion": "Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase.",
-              "precio_aprox": "8-18 €",
+              "producto": "Pilas alcalinas AA/AAA (pack de 48)",
+              "afiliado": "https://www.amazon.es/dp/B094D3JGLT?tag=ntizar-21",
+              "descripcion": "Guardadas dentro de la radio se sulfatan: guárdalas aparte, en su envase. Pack mixto para radio, linterna y mando.",
+              "precio_aprox": "12-18 €",
               "prioridad": "extra",
               "es_busqueda": false,
-              "verificado_ficha": "2026-10-03"
+              "verificado_ficha": "2026-11-17"
             }
           ]
         }
@@ -4161,7 +4161,7 @@
       "titulo": "Kit Starlink: internet satelital para emergencias (2026)",
       "slug": "kit-starlink",
       "icono": "📡",
-      "resumen": "Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.",
+      "resumen": "Kit Starlink: internet satelital con cielo despejado desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.",
       "fuente": {
         "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -4201,33 +4201,33 @@
       "secciones": [
         {
           "titulo": "Starlink: internet desde cualquier lugar",
-          "intro": "Internet satelital cuando se cae todo: móviles, fibra, LTE. 50-200 Mbps reales sin infraestructura terrestre. Gen 3: menos consumo y mejor rendimiento en condiciones adversas.",
+          "intro": "Internet satelital cuando se cae todo: móviles, fibra, LTE. 50-200 Mbps reales sin infraestructura terrestre, siempre con cielo despejado: árboles, tejados y montañas cortan la señal.",
           "items": [
             {
-              "producto": "Terminal Starlink Gen 3 (residencial / móvil)",
-              "afiliado": "https://www.amazon.es/dp/B0DRWP2LV6?tag=ntizar-21",
+              "producto": "Kit Starlink Standard (antena + router Wi-Fi)",
+              "afiliado": "https://www.amazon.es/dp/B0H9BT9W4F?tag=ntizar-21",
               "es_busqueda": false,
               "prioridad": "esencial",
-              "descripcion": "Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve.",
-              "precio_aprox": "500-1.200 € · 45-60 €/mes",
-              "verificado_ficha": "2026-10-03"
+              "descripcion": "Internet satelital donde no hay cobertura ni fibra, con la antena apuntando a cielo despejado. 50-200 Mbps reales. Antena y router Wi-Fi incluidos. La suscripción es imprescindible: sin ella el hardware no sirve.",
+              "precio_aprox": "450-550 € · 45-60 €/mes",
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
               "afiliado": "https://www.amazon.es/dp/B0GT4D8M5K?tag=ntizar-21",
               "es_busqueda": false,
-              "descripcion": "Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3.",
-              "precio_aprox": "50-150 €",
-              "verificado_ficha": "2026-10-03",
+              "descripcion": "Fija la antena en tejado, pared o mástil y gana los grados de cielo que la instalación en balcón no da. Válido para Starlink Standard (Gen 3), V3, 4 y 4X.",
+              "precio_aprox": "25-60 €",
+              "verificado_ficha": "2026-11-17",
               "sustituye_a": "B0H2YWM29L"
             },
             {
-              "producto": "Cable extensor para Starlink (30 m / 60 m)",
-              "afiliado": "https://www.amazon.es/dp/B0GWM8T485?tag=ntizar-21",
+              "producto": "Cable extensor Ethernet para Starlink (30 m)",
+              "afiliado": "https://www.amazon.es/dp/B0H4DZH82Y?tag=ntizar-21",
               "es_busqueda": false,
-              "descripcion": "Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3.",
-              "precio_aprox": "75-150 €",
-              "verificado_ficha": "2026-10-15"
+              "descripcion": "Alarga el cable de la antena hasta el punto con cielo despejado. Impermeable, para exterior. Compatible con Starlink Standard 4/4X/Gen 3/V4/V5.",
+              "precio_aprox": "40-80 €",
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
@@ -4247,16 +4247,16 @@
         },
         {
           "titulo": "Último recurso: messenger satelital",
-          "intro": "Cuando no hay visibilidad de cielo ni cobertura celular, el messenger satelital es la única forma de pedir ayuda.",
+          "intro": "Sin cobertura móvil, el messenger satelital es la última red — pero también necesita cielo despejado: bajo techo o en un barranco no sale el SOS. Es el relevo del móvil, no del cielo.",
           "items": [
             {
               "producto": "Messenger satelital (Garmin inReach Mini 3)",
-              "afiliado": "https://www.amazon.es/dp/B0BFBZR4KW?tag=ntizar-21",
+              "afiliado": "https://www.amazon.es/dp/B0G4RST8LV?tag=ntizar-21",
               "es_busqueda": false,
               "prioridad": "esencial",
-              "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo.",
-              "precio_aprox": "400 € · 10-40 €/mes",
-              "verificado_ficha": "2026-10-10"
+              "descripcion": "SOS, geolocalización y mensajería bidireccional por satélite, hasta 350 h de autonomía. Exige cielo despejado y suscripción activa: bajo techo, en un barranco o con bosque cerrado no transmite el SOS.",
+              "precio_aprox": "410 € · 10-40 €/mes",
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Powerbank de 20.000 mAh + cables",
@@ -4547,12 +4547,12 @@
           "intro": "Sin electricidad, la nevera convencional es un armario cálido. Una nevera solar mantiene los alimentos frescos sin depender de la red.",
           "items": [
             {
-              "producto": "Acumuladores de frío congelables (pack de 6)",
-              "afiliado": "https://www.amazon.es/dp/B0GX114ZX1?tag=ntizar-21",
+              "producto": "Acumuladores de frío congelables (pack de 4)",
+              "afiliado": "https://www.amazon.es/dp/B0DCP9M364?tag=ntizar-21",
               "es_busqueda": false,
               "descripcion": "Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables.",
-              "precio_aprox": "25-40 €",
-              "verificado_ficha": "2026-10-11"
+              "precio_aprox": "10-16 €",
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
@@ -4594,12 +4594,12 @@
             },
             {
               "producto": "Messenger satelital (Garmin inReach Mini 3)",
-              "afiliado": "https://www.amazon.es/dp/B09RQZPQ1T?tag=ntizar-21",
-              "descripcion": "SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla.",
+              "afiliado": "https://www.amazon.es/dp/B0G4RST8LV?tag=ntizar-21",
+              "descripcion": "SOS, geolocalización y mensajería bidireccional por satélite. Exige cielo despejado y suscripción: bajo techo no transmite. Último recurso cuando no hay red de ningún tipo.",
               "precio_aprox": "400 € · 10-40 €/mes",
               "prioridad": "esencial",
               "es_busqueda": false,
-              "verificado_ficha": "2026-11-12"
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
