@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-17T16:11:01+01:00",
+  "actualizado": "2026-11-17T19:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "provisiones/google/preparación civil 72 horas hogares: HTTPError"
+  "aviso": ""
  },
  "temas": [
   {
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ah...",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSGRPMFdaelVGVXlkQWJxNmNra2ZxSlpkcGRhLV9fdEhQaENpVElZbC1xZnlYaWNkN1N2ZE11N1Z2N0RqUXBQU2VTZ0oxc1NvY18zSTY2YmdaTTQwV3lhUllqNUJpRWhwTmItRjE4T050ZmVuUDRob2VNbjRmUmJqN2wwekRJd1RILWRwRzBibTBTcEZTWkVWTTRXMFprS0JfRDE5SGVWSlBlcldpdURjbHMybHV5SVRzQWNWUDZMejFQRHRGMk9PdTZ0UFdKT2NBRXQxRmtEWFp6M1NIajdPbF9sT1dWekxiRE1VRnJGV2thYVlKYzYyb1pyandjYm9UZ2ZB0gGIAkFVX3lxTE01WlBPMm42dkE5MFdFMVdzeWZMQUhnV1NDOXRmeFd3WlFjeUoyVThPTk8yRTZ4VHlrU1M5bXRlUjN6Z05hSVhDYnNCd0FBaDlnX2ZRREV2cW1zRDc3OXhhUVloR2FIUVIwdWJvcC0xMjNqVV9FaDUycmZabXlXb2o0MEFZVnhXOEVUN19xYnZ4Nlh2eGNOZXh1UFY3eFRfQzBNNTNubHpueTRncFRGSUJram9PR2o2elRnbWFKRWY5Zl9sS3Nfa3BWXy0ySmNPaUpEREpWN21lSjJEU0l0SVFJdnVpblB5dDhrMXJzN1FiTFRxT05IWGlILU9lNVJabzlYM1ZGRDVYMw?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:00:27+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "Científicos descubren por qué pueden declararse incendios al mismo tiempo en España y otros países europeos: la clave está en la atmósfera",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlJSGUzRWIwbnp0ME41WEFUN3pPMG0xQXE3ajRwY2JZdUl0cmtHNnBGT0NwdXdfcHJkdEhCTksxQWhnNFFKRzJWb3hBQVJOUkNaTzlfcWtmSkdBMFYyTE1SZkRkUG5zS0t5TGVJNm51LW9FS2tmYlE4N3BoX1hpOE1pWWdtUFVjSTQ1aEVGSmIzQlYzc0htQ0E2by1ueWpRelpKYjlnaE5RdWVxWTR4RXdoclRyXzd2TXFVaWh4OFNJQ3FDV2ZnZ2lRdmtQUmxRdnJhUWp6UFNSa21uSXM0TW90cjNUYjhQajVsWjU0YWY5MDZH?oc=5",
      "fuente": "EcoInventos",
@@ -123,14 +131,6 @@
      "fecha_txt": "15 nov"
     },
     {
-     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
-     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
-     "fecha": "2026-11-14T00:00:00+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
      "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
      "fuente": "Lanza Digital",
@@ -154,20 +154,20 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Arrancan las obras en el cauce del río Girona tras la dana Adam en Alicante y Oliva",
+     "url": "https://actualidadvalencia.com/reparacion-cauce-rio-girona-dana-adam/",
+     "fuente": "actualidadvalencia",
+     "resumen": "Han comenzado las obras para reparar el cauce del río Girona tras la dana Adam en varios municipios de Alicante y en el entorno del puerto de Oliva, con actuaciones urgentes financiadas por el Real De ...",
+     "fecha": "2026-11-17T11:09:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "Arrancan las obras para reparar el cauce del río Girona tras la dana Adam",
      "url": "https://diariodealicante.net/reparacion-rio-girona-dana-adam-alicante/",
      "fuente": "Diario de Alicante",
      "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
      "fecha": "2026-11-17T05:59:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Arrancan las obras en el cauce del río Girona tras la dana Adam en Alicante y Oliva",
-     "url": "https://actualidadvalencia.com/reparacion-cauce-rio-girona-dana-adam/",
-     "fuente": "actualidadvalencia",
-     "resumen": "Han comenzado las obras para reparar el cauce del río Girona tras la dana Adam en varios municipios de Alicante y en el entorno del puerto de Oliva, con actuaciones urgentes financiadas por el Real De ...",
-     "fecha": "2026-11-16T21:08:00+01:00",
-     "fecha_txt": "16 nov"
     },
     {
      "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
@@ -225,6 +225,22 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:19:37+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "España: ¿estamos más cerca de otro apagón?",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRJNUZwaFR0QWFERTZ5RFVHc0V5MWJlOTR3c1FqY2tSN1dvb0lXdXNicmhrUk1TOGpNek1hVmhLcXFBckVwd3F6REVrQkdFVFR6Z2hncnBBZ1ZNVGtUVVlNOWQzWEg1VTdOMXFPdncydFpwM3pmTGZaY0pnMW1uOXJRY0ZtcFh3Ulk4a2NhNEJLVHNxeTVr0gGcAUFVX3lxTE1yVmRiV0l1ME1qeFF2MEt0azVzejRLRWNYOGlXRzQ0UXFNeHloUDZmZ3NrZ1NWS2VQb1h4VUFpdlp6ekJwWlZTYklrNEZ6Nkp0OGMzYkVONzdRT0k4czNKNVRDOTNvdFpoVmxvVFlIaExPQjZxQTlHMFY5SUdJTFBDNGlUWXhIS09mNFFsc0laN2x1V2hrdUtodHRVcQ?oc=5",
+     "fuente": "MUNDIARIO",
+     "resumen": "",
+     "fecha": "2026-11-17T16:32:35+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "¿Habrá un apagón eléctrico hoy, 17 de noviembre, en España? La verdad sobre el supuesto corte de luz mundial de 72 horas",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkNWUm5uTzhJUXlqUEJPYlU1djJhZUNJTkJKYWRrUnlHczc1NFFkcmxvUmNvQ1d5NkRiNmtIVS1ZWlZIZ0xXcjJVSEs1UFllaWRUSlJCSWdyeUJvcnNFaVVjNmFyR0JsWnlLcDZrNnZVQTFNaUdvS0V4OXpCTzJLNnh6V2lFSTZfeHlmYl82Y3IxRnAyMXBHNWhOcFF3Vm1xVGtFS1BkcWc1N1V0bmJFOUZLSUVaQzhvZ3dkU1p2dC1UOGpoaFVnSjljZGo5WTd3SWthSGNObEkwQ3kwMzN5Qw?oc=5",
      "fuente": "El Pespunte",
@@ -257,19 +273,11 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "El Clúster de la Energía de Extremadura aúna universidades y centros de investigación para impulsar la energía termosolar en España contra los apagones y por la soberanía energética",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVUIwZ0c4UmM2bnlON09qajkzWUt2YTV6M092YXRnamNTeXAtMjFvOVlCRUJRV3F1REZ4bDNNdUtrYlhvOUU1MDZEZERja1dFMmkwaWxXTW1xb2h4R2NTd1RsdzVkbWdmY2hsZVNtYW9LaEI4SGVGdkxlWU5UVExnWnlETUQ3MmhsNlJaZFllZW1VYWlBVW9zQ3M3VDZHS0pMeDhvSnFFWF9kTXBjMHRsWFdiSThjdGZuTUM4dXdWbkdrWnUwc0llYk82U0FmSy1YN1RiQVVfWGZEUEIza0xqR0hSY0JlaXVtclBqZ1RBaFJmLTdlU1dCR1lVQmFnS0xsVTJYTFZDdk0zbkFNeDh3aFA2SVNBUkhWS2FZRkdoTUNKdUk3NHNLMTM1aUVZQQ?oc=5",
-     "fuente": "Novaciencia",
-     "resumen": "",
-     "fecha": "2026-11-17T10:33:22+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "Las restricciones de red renovables cuestan 140 millones a Iberdrola, Endesa y Solaria desde el apagón",
      "url": "https://www.msn.com/es-es/noticias/otras/las-restricciones-de-red-renovables-cuestan-140-millones-a-iberdrola-endesa-y-solaria-desde-el-apag%C3%B3n/ar-AA2hCmRG",
      "fuente": "Merca2 on MSN",
      "resumen": "Las restricciones de red recortan 140 millones de ingresos a las renovables españolas, con Iberdrola, Endesa y Solaria expuestas a vertidos del 25% en Murcia. La entrada Las restricciones de red renov ...",
-     "fecha": "2026-11-17T07:13:35+01:00",
+     "fecha": "2026-11-17T08:13:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -278,14 +286,6 @@
      "fuente": "ADSLZone",
      "resumen": "",
      "fecha": "2026-11-17T07:04:52+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Está España preparada para otro apagón? Los protocolos y planes de emergencia que exige Bruselas",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzZxS1RPcy1wMDA4bXRiZmNLdmlrem9mWXE3eGJxbHdmaWNGUzliS3B0Q0YzNW5oMV9hVWoyRDNzVzlhSUNTMHlGU2k4bVZhS2N4aXZuM2haWDRHbUFxZEUweVF3Q0pUVHFQTlFodTJhZ3N6Q3pNdm41a3E5aUc0T2pVNU5GdVV3WEE4WjdRb0tOUmRESGkwTE8tX2owd25lUlRLWC1OZFZVdWJqMHRDU21obmNiNUZQVDRLZEg3b9IBvwFBVV95cUxOM25jYWMwcTdUaVV0LThISXJuQWhOY24wRWIwbDBuaGlfX05ReEI3NWlRbzZjY0diS0dxLWdBcWRJTGtWQy1GVlR4dU45V0NvakpoTFVKNkNRQ0lTUUl0VlllSlRURmJwRGdwOFVCakJ1b1dNZnFEbFpKYXpQWGhuOHBUem1abmVYd1VmOUlVY1A5QzFvOFJrZERhbW1MR0ZMV2hjbV92OTM0cFZjUk1sRzhaT1FLcXZ2bmdNRFA1aw?oc=5",
-     "fuente": "El Periódico",
-     "resumen": "",
-     "fecha": "2026-11-17T06:01:30+01:00",
      "fecha_txt": "17 nov"
     }
    ]
