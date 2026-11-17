@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-16T22:11:01+01:00",
+  "actualizado": "2026-11-17T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "provisiones/google/kit de emergencia 72 horas: HTTPError; provisiones/google/reservas de emergencia población: HTTPError; inundaciones/google/riada desbordamiento río: HTTPError; apagones/google/Red Eléctrica apagón riesgo: HTTPError"
+  "aviso": "provisiones/google/preparación civil 72 horas hogares: HTTPError"
  },
  "temas": [
   {
@@ -12,11 +12,51 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Mochila de emergencia: qué recomienda la Unión Europea para 72 horas",
-     "url": "https://www.laprensa.hn/fotogalerias/mundo/mochila-emergencia-union-europea-72-horas-supervivencia-apagon-mundial-DC32657620",
-     "fuente": "LA PRENSA",
-     "resumen": "Contar con agua, alimentos, medicinas y otros artículos básicos en casa permite estar preparado ante un apagón, una inundación u otra emergencia que pueda dejar a las familias sin servicios esenciales ...",
-     "fecha": "2026-11-16T12:40:00+01:00",
+     "titulo": "72 horas sin luz ni internet y la necesidad de una mochila de emergencia: ¿habrá un apagón mundial este 17 de noviembre?",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYlNpMVlpRVdwZXYtem1XdlJxMjlJOVFrWWNZSTZ0ZkxWRDc0blBCTU1JODNHQTR3QnZZWkhseDJBSEhjX3RrQVVGTlNmRm04amVyTm5TZmNNVjNIU2ZaajJjeWVKb1JQME5YOG1DczFpNTRLUVdYZ3ZYM1FkTUMxWUtpUE50cDNQTUUyTGMzdV9sX0pwUE0wQnNWWUFIMkdkMllJd19HOXBZUFl5S2pWSE5LamdYNHlsV0JrS1hhdVFBQUZKUExVc1RtRTNIXzFsX2l5am5IT2ZMM3RfVk5MVG5hOF81MXRCY2k4?oc=5",
+     "fuente": "InfoVeloz.com",
+     "resumen": "",
+     "fecha": "2026-11-16T19:59:18+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿72 horas a oscuras?: La verdades y mitos del supuesto apagón mundial del martes 17 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaTkxZGlsbXllc0paRzlpb2NLVk40bkdGNGpKeDZMdHZ4TDBLRzk3LXpFejliNVJsc2pQTS1WSW1jMmxhanZvUGVLZmZpbWlZREllOVFOOTdBLTlmQkdpLU1uVTJfcTZKU2NPUjN4ZHJBc3Z4UDM1RkZMM2U2NHVNb1RIWlBzTURIaERGWXpQbWFTaWc2MlFTY0pyMm96cldpRDJocFJLZ0Vod0hjYVhsVTktYlcxQV9mbENVVDJ6a0tyWHJTUlZIbFRzeE5QeWZYQXJtQ0hWZ1JBT3dRMnFkbU9GVdIB6AFBVV95cUxQMFE1M25Mdy1VTmtZV2MtUENnaFFtZnNFM1BrNnNIRGVXcjhjZXBtSG1IUWZ0Y0xTUDN1YmlKWUVHR1lTcmtwU1JTTTBkODE2LWZlMVYyQWlTRno1UlNuNU1yRTBzN2MzOE9pTU12MHZ6elk0WlpBZU53R3Q1Qnp2N2Z4ZmxzYXJkaVl6X3kycXN2SFdTdy1OWGtoM3cyeGtoX3RnbEJqcVh6WjZQN0N0SUNHRnEyV3FNWTdBZkg1SGVPM3RLRUExWXZDckVWM1JhMGp1b0MyOHVrM1Nma1JKdWl4dzBOYUJm?oc=5",
+     "fuente": "Meganoticias",
+     "resumen": "",
+     "fecha": "2026-11-16T18:14:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Presunto apagón mundial del 17 de noviembre: cómo se originó el rumor y por qué se afirmó que podría durar 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSllWamxKeWxmSUtPSkFXeV9FUHV4eHlNdzlLUEZPUzQxZFBON1pwYXd1U21aZ0N5a05NeGxremlnRHQtMkZscURXQVdfZ2NOdDlIT0J1eWpRTTc2dnR3LTY2cXAwMnRNMXFGcFdfa1l5Wjk5em5fUm1LNERnb1dmeWI5bGdObGV1LUI4MXczbk9DU0Q3VFo1d3YydjhpY1FieG1JMzJsMUpqV0xmU3piVTZjRlNKelNRWHVr?oc=5",
+     "fuente": "Teletrece",
+     "resumen": "",
+     "fecha": "2026-11-16T16:25:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Kit de emergencia para 72 horas: qué recomienda la Unión Europea y qué conviene tener en casa",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcl9ySVpLYzdNQnpYV2hIdWd4b0hVNXJmZHZobndJZnpGd1VTanZpSzJoSFhUSGFjbl9tN1gxZjRWWDVfSHlhSVZ2X2J2YklaWUNmemtEVGV3dWNIRktzTmQ2UzQtYVJTVC1OVmFqWmJFUFctOWNPU2s5Z0NNZUpCZDMzbW83LVVkU2o0c3J6NUJUdkRhTzhXNmJuLVBBakZmNWxScFZrMFdSUkZtVnJlQnctSGNBV05ZdVZYZ1JxRlhwWnItMlJUVkVwU1XSAcwBQVVfeXFMUDBJZHN5X0lOU3V0RTZNYmQxWktrc2FDZ3k5RWNscGxWTU1UZ2FDN01qRk9WS2FuRm9HYkpOT1FwNGR6dWJFMXVaenRJN1AyTWxwUFFCSjhKSFk5UVJwTkI1T040WmhxQkl5QUc3OGNOd0VJQlc3RVNsekh0azlicUZmNHk3OGdLbmYtUndGblZ3a0JOVVBiNTNpTUlzejQtbmtxV0ZhQ2pTUE9aMkNva1Q1cXFGTDhqWURoWVNoc1Y4RFdhRHZCNnF2cC04?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-11-16T13:58:26+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "¿Estás preparado para un sismo? Esto no puede faltar en tu mochila de emergencia",
+     "url": "https://www.reduno.com.bo/noticias/estas-preparado-para-un-sismo-esto-no-puede-faltar-en-tu-mochila-de-emergencia-2026111619270",
+     "fuente": "Red Uno de Bolivia",
+     "resumen": "El movimiento telúrico de magnitud 5.0 registrado este lunes en el norte paceño recuerda la importancia de contar con insumos básicos y calma ante cualquier contingencia.",
+     "fecha": "2026-11-16T12:52:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "El falso apagón global del 17 de noviembre desata el caos: el bulo iniciado en Estados Unidos trae de vuelta el ‘kit de emergencia’ y se confunde con las recomendaciones de la Unión Europea",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQYVJ3OXpPT2Z2RlNnR1FwRnBzVjZPanQwOHIxOVFMV1c5UWsyaUZ4cmQ2dU82LWVuUUlkOUxnWXhlR0RjN1M0VlI1dWducmdYemQ3MGlUQUU0MHBYbFhKOFdnSjMtSmptbnVaRlh2SEt3UGVSQmJfYlUxbzBtaUxDR19rU095VjAzZWJZUmMzQzM5LThBQnlhSWlSNEhfN2dvYWtpSzdJN0xnbi14aDZPSVlTcUIxakthOG9DSk10anFvZEd6UTN5UHRfMFN5aW50NkZVY1RqRmh3UG9nQUhTWXhlVTBhdmRycUE5U3N1dW5TM2c4eVVIM3h3RFhfWHozS2JmSVR6SmNqM2hUMXZ4aXVCTFFHNTFnZVR2Vy1SNWIxWUd1bFJRVGlNd2V3XzY2ZWVjVzQwSGRoZWszdEpLdEc0Zmo3bmM3WFB5edIB0gJBVV95cUxQV25OSE9WQ3VseWhtMTJDZjFPcy1pSG1hVWg0YUVDc3RobnI0SHBNM09RZEw2VFBPbE5aLWZoel85VGNQZDktQWNxd1dOcS1qQ0VSOGJhWmFJclFPU2p4NWFHdTBRblQwYzVFbDUzUGYzTmg2a1hmNnY3cHB3cXdiTVdtOU9ER20waGpvNWNSQm51QkpSOG9OOWZ4QTlpN0Zza3owMng5eTluOGd5NFk4d2VLeUpNZkxpWFluVDdONTk3cXAweGw1RDV0QUVfNkJHaUJPSk10aWpYcTdPbjJPX2MzdUlNV0tBUGJiQVdObDZ0ZXppLVhqOUdVOFRoU0tBMEJaUFI0Sld0VXMxOEExaGZVZmtvZGxqTHpldU9iXzlhZmZud2VsbDRPemdIN1VsMGNEaHhxeGRsdnRLWGJpeXBtSmJrZzNtR1RBR1h2UFFSdw?oc=5",
+     "fuente": "Vozpopuli",
+     "resumen": "",
+     "fecha": "2026-11-16T12:23:00+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -28,52 +68,12 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Kit de emergencia para 72 horas: qué recomienda la Unión Europea y qué conviene tener en casa",
-     "url": "https://www.elperiodico.com/es/vida-y-estilo/20261116/apagon-17-noviembre-kit-emergencia-72-horas-union-europea-simpson-dv-136495443",
-     "fuente": "El Periódico",
-     "resumen": "Un episodio de 'Los Simpson' vaticinando un apagón mundial, sumado a la incertidumbre geopolítica y la concatenación de múltiples conflictos, avivan la necesidad de prepararse ante situaciones de cris ...",
-     "fecha": "2026-11-16T06:58:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "El falso apagón global del 17 de noviembre desata el caos: el bulo iniciado en Estados Unidos trae de vuelta el ‘kit de emergencia’ y se confunde con las recomendaciones ...",
-     "url": "https://www.vozpopuli.com/actualidad/el-falso-apagon-global-del-17-de-noviembre-desata-el-caos-el-bulo-iniciado-en-estados-unidos-trae-de-vuelta-el-kit-de-emergencia-y-se-confunde-con-las-recomendaciones-de-la-union-europea.html",
-     "fuente": "Vozpópuli",
-     "resumen": "En tan solo unas horas EEUU llevará a cabo una prueba nacional de su Sistema de Alerta de Emergencias, algo que no debe confundirse con un apagón mundial ...",
-     "fecha": "2026-11-16T04:23:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Un kit de emergencia en casa",
-     "url": "https://www.diariodesevilla.es/sociedad/preparar-kit-emergencia-casa-lista_1_2008518354.html",
-     "fuente": "Diario de Sevilla",
-     "resumen": "Qué guardar, cómo organizarlo y qué conviene revisar para afrontar una interrupción de suministros o una evacuación sin improvisar. Un corte prolongado de electricidad, una avería de agua, un episodio ...",
-     "fecha": "2026-11-16T04:09:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
      "titulo": "La UE lo hace oficial y recomienda a los tinerfeños estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
-     "url": "https://www.eldia.es/tenerife/2026/11/16/ue-oficial-recomienda-tinerfenos-preparados-kit-emergencia-dv-136485311.html",
-     "fuente": "El Día",
-     "resumen": "La Unión Europea impulsa esta medida de preparación para garantizar la autosuficiencia de los hogares ante la posible interrupción de suministros básicos durante situaciones de emergencia grave ...",
-     "fecha": "2026-11-16T03:34:00+01:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1did1llZjFtd25VMGhFeE5ESndxYnMySUhpY21lMTllNkI1TDJzSjZ5QUN0N1gtbDBHaklXNlRKemx5cE9OZnZBUVBOWHFxZTZ4Sm9DSFFjWjlkZ0VfMlZFNFpoRk90SlB1YnVBTXVyY1dvSUp3dldDZTFJRUotZVdOUXduejdzWk1ETkxvMDNUdUZDalBBRkxIN3dCTzRNZmVOLU5fNnprUGJ1TENpNm1jV1ExV2Nh0gG-AUFVX3lxTFBsY3c2SjBlNmxBaEJUYWRLNEZ6WGZVOEVhSmY0aFFvX2tpMnpmdmRlb19JbWd0Ry1aR3BIcmU4SFdackhUeTY2blFZakNTRWtVY05DaUloY1RmU0VidmluM0tvMnlYdTBKS2ZkVVVpeDRrR1lySzlqNUpCUi1FUVUtZGFsTl8zbVRIenYtbS1qN3BoZ0w0dC0ycHFrTXc1YVdoamYwd0tRdDNUUWlXUl9LSGFHekYwVnNMQjFlN3c?oc=5",
+     "fuente": "Eldía",
+     "resumen": "",
+     "fecha": "2026-11-16T11:34:44+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "¿Qué debe tener en casa para afrontar una crisis? Las nuevas recomendaciones de la UE",
-     "url": "https://www.msn.com/es-mx/noticias/otras/qu%C3%A9-debe-tener-en-casa-para-afrontar-una-crisis-las-nuevas-recomendaciones-de-la-ue/ar-AA2hwafw",
-     "fuente": "Euronews on MSN",
-     "resumen": "La UE ha publicado nuevas recomendaciones para que los ciudadanos puedan afrontar las primeras 72 horas de una emergencia ante el aumento de los ciberataques y las amenazas a las infraestructuras crít ...",
-     "fecha": "2026-11-16T02:05:51+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "La UE recuerda de nuevo la importancia de tener un kit de emergencia en casa: qué debe llevar y por qué lo recomiendan",
-     "url": "https://okdiario.com/internacional/ue-recuerda-nuevo-importancia-tener-kit-emergencia-casa-que-debe-llevar-que-lo-recomiendan-20757241",
-     "fuente": "okdiario",
-     "resumen": "Un apagón que deje sin electricidad a miles de viviendas, problemas para pagar con tarjeta o una interrupción del suministro de agua son situaciones para las que la Unión Europea recomienda estar ...",
-     "fecha": "2026-11-13T01:29:00+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -186,11 +186,27 @@
      "fecha_txt": "15 nov"
     },
     {
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
+     "resumen": "",
+     "fecha": "2026-11-15T18:23:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
      "titulo": "El temporal golpea Galicia: un puente derrumbado, un pueblo incomunicado y trenes suspendidos por las lluvias",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJic1FfcDhNZ2VmSmRDbEZINXJ3aDMybTZnTzVRUXJSWGY1eWYzOE5Hdmw5TzBBWXhsdTFYY2c5eC10ai1IYnJRaWJ4WWdBNzRLZUVWWGY2OFU4WWdmU2JpZXdudXNsNlVGS0tFQ25IXzhtRC1BYUdaQzdEVEx0bVlSeUEyU3NTMElpclkyY1R5dTFsMW84dGx3a18tZC1lRkR0MldfN1BhZ24zUlZfRWFvRzZ0RkhfN2fSAb8BQVVfeXFMT3lWWENUa3VXamRXS0lYNUR0V3JDNGJsNnZwQkZyZmJCS013SzUwY2VFZ3Y5cEtzSDBOUEdXS2ZQUlZHLVBtYU00eERVNmFIMkhrVFRFc1RpRmc1VmVKaUpQUWw2SVhhNFY5SFBVYnJ5VzQ1YllmajdJRUhQWHdWVE5qOWdjY1F0cnpqMWdVRFpzdjhLZW04LTZIQ1k2c1VqMHNqbmQ2WjlNczRqeFgyS1REQS1EMHFwa3RsZF9WaUU?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-15T18:11:12+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "\"Las muertes se podrían haber evitado\": la investigación académica que señala los fallos en la riada de Letur (Albacete)",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTEZlSUoxVGF4QkRqcjF6bVgyR0pzY3ZLVTlrU1g3YjdPdUpaZ3c3UGRWWXJOcnVWN184d1c0RmJEQ29Yc1VNMlU5NlhHYk5wZGV5U3dWSEpZS2ZaTHphQUt0YklUaVNjckNvcmpFUWNkV2UtSGFnQlMtSEJabGhmdktiTk9Zdlk1c3JOQy1SakpUdTJuRzhJYWpySno3MWRLMFhzSmZHQ21vOXpPR1FVSnFXLW13RDZseG44XzZ4SllRSERBbFRKR2t1MUR5dVE1ZFlzQ05Jenp0azBRcHhYZDc1MGROZVk3SDJTVGtMM0g4MkE2RVJXT0dOdTRRQS1CV2M5bk1ObXhxZkNS0gGSAkFVX3lxTE96MlljRnpVTF9JYV80a1Eyb3REOGV0eE5FOTJmSmdlSUNOamRsdHF4WnJVaEU1TXJXSTZyQjd6b1BIYzNVTEJWWXVXTzBOVjBfNnB2eFZEbGg0YTByOUo2WHJWSmU3MmNIeVVxWS1HY3VxMEdNaUF2MTdlV2JpQ3Y5OGJZdGtBbndZZDRwRmk3UXUtZXJTdTRDdXJBX0E3d3k4NG1JV0I0QmV0ZEFoRG5fd25qckJaQzNsRzdtaGgzZHBqaUtMWkVoekhuR0ZUUllTMjB1MjE1cmN0cmtRSVh2Qjh6bjUwOWFuS1FBNjk5VzdzU2ZvWjl1cnFzY0pZRmtRMENoZGcxNE5Bb1M5Tkk2RUE?oc=5",
+     "fuente": "El Español",
+     "resumen": "",
+     "fecha": "2026-11-15T09:24:35+01:00",
      "fecha_txt": "15 nov"
     },
     {
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-14T17:01:36+01:00",
      "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "Piedralaves completa sin incidencias el realojo de sus vecinos tras las inundaciones en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX1ZqcWEyRDVUOWotU05uOUs5a0UwZm53X05xUk9ucGJXc3lwdDg0T2lKMTVYNDA1X1RVUEt4bVhiQ2R4c3JYYlFvRG1RZ2xINzAxSHdXM1lIbTVKelc1TnBsSG9RY0dwNDg2RndIdFJ0QlNPeTZvWm13b1pieHVZejdVRER1cThxclBrTjJqY1o3ang0Skx5RXZ4ZFR1QXAxRHV1M09HQk01dzUwd3RmMnVxS0dBUUhQQ3hYUWZlY1dZU0x4aWxJQTE2dW5zNnhVdHZ1OU1qeHZQMmxSMEI4bmEwX0t1dHRadUREclZRRTVUUdIB9wFBVV95cUxNeUhOTFBtY3JQRGdVRVZ0QWppV0J3eEh1WTJhZ1JxcW5IN2FnbS13bjBBSGVhZzc3MENMb1VGa3AyY3FCTzhUWnpJX1g0Z0xaTmExcjgzRWVEeHJ4aEJNTFJSdnJVS3J6M3hqQjFZTUZTa2FKUk1LZ0xkMXRwSC1FMkxzUm1VRlFnbzNLNDBIT0d1OVdiOEt2Yk5NYlh5UWtTVmx6eDVyeUFRVjR1NlpkRUVGajN0YkROVUt3RDlZT2Q5ZE5TeVg4NTFlYlpRUlhBYTFHRjV4YVBWQ2JCNnd2eEV5M2VjblpaMUgxUnd5YzlPcmhzcGtR?oc=5",
-     "fuente": "El Independiente",
-     "resumen": "",
-     "fecha": "2026-11-13T17:44:13+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Tormenta Charles España: vientos de 136 km/h, inundaciones y vuelos cancelados en el sur",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnN4NzBONnlYTlNsT01KeTFNSzdneFJoanlSSlA1WWRmRmJ6ZGZTd0h0TVJJU0dTV2tJSlI2ZTRLMGtOTWw0R2lXTDJkcDZRZTJadXJPb2F3TXVXS0xUOGN6dl9pMzhYMDlBbUNjZTFIUzJJdzVfZDJ2OWRvSHAzMTZ4X0JDMDg?oc=5",
-     "fuente": "MONCLOA.COM",
-     "resumen": "",
-     "fecha": "2026-11-13T13:25:47+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -225,19 +225,11 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "La verdad sobre el supuesto apagón mundial del 17 de noviembre: esto es lo que pasará en España a las 20.20 horas",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS1BXZzZSR3UtM3p1aUdtVkVDcVBlZUlpWGV3YVdiaFpZT2VBLWJiRl9EcTRocGR5UWdKVS1acjdTOXFlZWRCSDBCeTFha2VqMmZHNUl0U0Npb0VPZjlxMHVEZXpPdFFDekJvcG5OMGdFWXVkNlRSVkQ0dDU2QWFuWjZRdm5aaGhoSzRXYTJnbnY2VUc2N2dKQUxTVE9QdkpYQWZOcGtxb1ctUdIBrwFBVV95cUxOWnZEV3Y4cVl6QXpxZi1GM01qMndSTVhUcFBsRURaVGVfTl9FbUNvR2hTQWd0aU1fcHdCTThRamowMWF5VDhsdjA3UmxWakJ2TWlGRnhpeUZUNXg4ZmpzbmNQNE1lRUtTb1RJWXo1b0N2RHFmTkRySHM0SUpGNmVYX1VHMENicWRMRXprNW42d0FpdTBTbWFHaGdxVmE1NUZIekxQRlgzaGR6dkhMZV9J?oc=5",
-     "fuente": "Ideal",
+     "titulo": "Pedro Sánchez asegura haber \"reforzado las medidas\" para que no ocurra otro apagón: \"La nuclear no hubiera hecho nada para evitarlo\"",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmdJYnNsUi03YU95aDI1MDRNeUItV3kxazgyeUI3SnlXTkhrOVBGWUJYMldwMU9fdWZhLUpJMXlLeTFHcWREWHZlYjJaaUJOcFlCVGdUU21fdFRpX2Q0UEQxZGpqNk9YX2lXcVRPYUdibWxlSjRzYWhIR0NsdFh1bGJVMWU3VUhJVDVDQWVLOEFkdEZRVWlCNXRzeDVUZnJUenF4OWxjMHZIcUZJeXQ2N0RLS3BmVkhWYkNiS2VIb0lEQjZOQVprOHhldzh1ZzFPb3Zid3loRU1MY3NJQmNr?oc=5",
+     "fuente": "Telecinco",
      "resumen": "",
-     "fecha": "2026-11-16T19:54:15+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Apagón mundial del 17 de noviembre: qué pasará de verdad el martes a las 20:20, hora de España",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzBLeXplUWNRM3doZWRLQXMycW5FbnFYQ0JKNjFHSDlLeTRmZXc2d3pJRlNJOElVWXpUQXJvb0UtU0hfeU9Ra1VpSm42dHJfTEtaZ1RXaVp5RU1vaFRJaXpFbU1CRl96WUtueDZfM0VYMVJ2REJQa3RLUElVQVNVVFc5cDN2bUpS?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-16T18:35:42+01:00",
+     "fecha": "2026-11-16T23:35:55+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -246,14 +238,6 @@
      "fuente": "El Nuevo Diario",
      "resumen": "",
      "fecha": "2026-11-16T18:35:15+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "¿Por qué las redes 'alumbran' un teórico apagón que afectará a España y otros países este 17 de noviembre d...",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUFlrckwzb0huOFBPVmQtNi16UHhTVGNoSkhNazc2allyVDVnLXVScWhLSVFwcF96MjdCM1ZjM1Z2NzBTem9aWEhBNG5rMV85anVyNllUVTdpWmxqYnlnaWpFZHNzZ0YydjVUY05mMjRJNFNFUURnYkRzend1aUcxZ1RFWlZqZzhnNVptb09mNzBaTEppel9mLWR0WGViUkFYSHpvckJOc1c0WVhtY2lTMlM1RHRKV3NZNXdLbUwtN2FndzJiVXNzc1kyUkFzU1nSAdQBQVVfeXFMT3JKcDhycWw0UXkzS2l6ZjZGZ01HcmlvU1lWZHNqQ0RkZ3V6Z3MxYkllRU9tX3h3V3ozdVdNN19GZ0lFV0RlOXhGcEdLSkJ3cEtmUjh3dFcwS1VES21XUU16aE9PWWxuSWFDYnVPb3JzUzkwMTA1XzVLLWRQWVFfRUpjTXRFVW5NMFFxNXJGa19ScEdXOU9keExXOWdoRTBNMm5IcnVPY2c4dVhzeGt0Zl9GaUtkTlFlRG5CT3RZQXphTXdoY0RkRExQTnVBbzVSQmtjMkQ?oc=5",
-     "fuente": "Info Bierzo",
-     "resumen": "",
-     "fecha": "2026-11-16T17:27:23+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -273,6 +257,14 @@
      "fecha_txt": "16 nov"
     },
     {
+     "titulo": "Las renovables en España pierden 140 millones por las restricciones de red desde el apagón",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0oweFZfTE5EbVNnTk1DUnhjMVBsVUtveUV5RWV0MVF6VHlNWjMtZDlkS2xEOXZodXRnakhlV0hCQk5ZdWNOSm9nY1hWUFpNeVl2UlhnWE9ic3lTLUlVakQ2b2tpcHNINWEzRGp3SnFtNzZadmRtTEtzTVZFQlFlMlJ3Y210ekdld1BLYzFXSUo3aXVQLUp3aExZYnRLU2RuZ09ZUC1RVEZTeUk2dGZVZlNlNnhMeV9mVTFpb3A5ZFVGd2Iz?oc=5",
+     "fuente": "El Periódico de la Energía",
+     "resumen": "",
+     "fecha": "2026-11-16T15:37:12+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
      "titulo": "Las renovables en España dejan de ingresar 140 millones por límites de red desde el apagón, según un informe",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTDJIRmMxUkRoUVdrSG1fLTJQWFd0TE5ZS21COXhpMVRZUkJUU3dPdUYxclNvUGt1UFdCUGlDcXFMbTN0bDkwcGdtYlhieWVHN2IyZk9Cel9WUTFOcVRmUGZDbjZBc1oxRmtPdy1JUUhXUGJGYmpTU3k4UHZ1QjFROWkyZWlFMkNSdVJNaXZTWjZtNUZNcnVoVHJ0cXdNQkZqb0FTM1ZQUFk3WXltY3ZEZFQ3eVlLYkhOak5LM3BGa0lvSll2T1l4Yk96MnJjQnItaWpxZW1OeFkxd9IB3wFBVV95cUxPOXFqMzZMbzE4TzN0Y0J4cGV2Z04yS09yZnY0Tkpza25YQlJZTVBrWTNkNktZRThyMDdROS03RzJoZkR4WDY1al9VdzI0a2w3Y1pJdFhjMnRLOHNUMWcwNXBVSlYyYmQzNUFteXlVS0JyWGVNVnk5TE9uOURSS3ZQbGcxTGhWZWpJNGh1X1hmMG0yeDBvZlFzaERlOEJwWklRNzFtX3ItQXNKMmtkUHNtMTktODNjdW92eGhfeU5uRHVYVDVFcFVobHRYUlN1ZmN0Z3l3WW5fWWhVYmkwbXJ3?oc=5",
      "fuente": "Demócrata",
@@ -281,11 +273,19 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Las renovables en España pierden 140 millones por restricciones de red desde el apagón, según informe",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPekgtYlhhTUpTNm8zS3hESW1hdlhfVHQ3aVg2ZjUxQ25XVmhqSlBydFNnNmgySldPM1E4SUphallHeVBqQnNWUk5NVmpOWGJtZERGSGo5MGRNTzZyN3BpOFFxc2JmWkR2ejhsem8yblUzNk1HSmpXQTBrUDY3b1EwNnJTaVlqN3dsNGNHQVlsUWw5elFJX0lEVkhtaHpkcjBpQUk1czBjNDZJdG44ZzEzdF9qWUhRbURzMi1sOHZWUEJIUnBPbGxXeS1iMG1RZElXRjZiWTZqWG11c1VWUTF4aTlCVQ?oc=5",
-     "fuente": "Europa Press",
+     "titulo": "El falso apagón del 17 de noviembre en España nace de una prueba de alertas en EEUU",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXFrakhxQTI4akZNSk45d2dpTTZjR0Y0UXpnMTFwVG85a3NObkdsYnV1SFVSQnU2SG9wcl9HSHFXWUVmaTZ4QWxUN0tyNXd0ZS1kV1dSbzBEdlRuVlpuWU1hUm9ZSHF1R0Vncm1TM0xjX2l4Y19RUXlOczlIM0p0ZzJrV0tncHBveUtjbUp3X1FnSHNKSERFeDhpSDRzWW9UZFo1dUFyMVk4eFE4cEFaTEduSmF6ckky?oc=5",
+     "fuente": "La Gaceta de Cádiz",
      "resumen": "",
-     "fecha": "2026-11-16T15:19:56+01:00",
+     "fecha": "2026-11-16T14:44:11+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Endesa descubre 56.300 enganches ilegales en España que amenazan el suministro eléctrico",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVFPT29JWXRrWktoT0JLM3pEOXp4NHI3b3hFSmdpWFZNYmt6VEp6eWFzNFJTLVNyNGFoLUkzR1lZSWNROTZqSW1TQ3ZLa21uTVlVLTdkSGZaLUNEYndxTHNIRm0wY2c2cTI5LUJMdTdIU2ttU2dvUE1xU1BjWm81WkVZM1d6M2tSNV9iVFNlLUkzN3BUb1k1cHQ3YlVKTHZsaFB1aUxIRURneXdnZDU5TDR3V2N6WWtIQ1VLYUxUYXBad9IBxwFBVV95cUxPUzFMNGtmR0NTYXhCZzZzczU1Zks5WFNtVWYydWc0ay1nb1B4YzVJWFZXclFYYWRveGd6dzNyellna3dfbHp2d0dTVjMwSHY4Rzk0SFRKT2NUd0hsTXdnbmw1TllreGFNTjJMMmVPcUNCeGF4RkNLMHdCZHdoTGw1LVpZMW9ZM0Z2WkdKd1RzenFIMFl4WUVhcnVoWUdrVUFmRGxINDNRbk1KWEZmSk9uWGxpYWxVbVJjakR3NWJWdnNEdTdxV28w?oc=5",
+     "fuente": "Consumidor Global",
+     "resumen": "",
+     "fecha": "2026-11-16T13:26:34+01:00",
      "fecha_txt": "16 nov"
     }
    ]
