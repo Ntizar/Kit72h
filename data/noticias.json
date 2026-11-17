@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-17T04:11:01+01:00",
+  "actualizado": "2026-11-17T07:11:03+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "incendios/google/incendio forestal España: HTTPError; inundaciones/google/inundaciones España: HTTPError"
+  "aviso": "provisiones/google/provisiones emergencia gobierno: HTTPError; provisiones/google/preparación civil 72 horas hogares: HTTPError; provisiones/google/reservas de emergencia población: HTTPError; inundaciones/google/inundaciones España: HTTPError; inundaciones/google/riada desbordamiento río: HTTPError"
  },
  "temas": [
   {
@@ -16,7 +16,7 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcXY2VmoyMGVOQWt2M3hZTmh2cEJVQXZlb3NxeU5PVG5IX1NwU3oteDhSY3UyTGxyV2lERlJXeXVVYVFVQVNrZklvUTQzU1E2RGg3SWRpcXNUR1ZiZ09yN3pMaGoxMUJMdHRDaEd1N2RzYnh5MGppdXRBZ2xHTm45MHV0ZmU3WmRLNE5sc0UyUTc1SkNoOTQ0RUpacmNhSVRlOVV6X0t5WkhJUnJvRFFRZkFGYWJvdVJPdzhCUlFaX1dCNy1mQVpyV014VElRdw?oc=5",
      "fuente": "Correo del Sur",
      "resumen": "",
-     "fecha": "2026-11-17T03:37:25+01:00",
+     "fecha": "2026-11-17T04:08:23+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -99,12 +99,12 @@
      "fecha_txt": "15 nov"
     },
     {
-     "titulo": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes",
-     "url": "https://www.covertalavera.com/incendios-forestales-en-castilla-la-mancha-47-685-hectareas-afectadas-una-lucha-al-limite-y-decadas-para-recuperar-los-montes/",
-     "fuente": "Cover Talavera",
-     "resumen": "Incendios forestales en Castilla-La Mancha: 47.685 hectáreas afectadas, una lucha al límite y décadas para recuperar los montes.",
-     "fecha": "2026-11-14T02:00:00+01:00",
-     "fecha_txt": "14 nov"
+     "titulo": "William Levy regresa a España por ‘Bajo un fuego’: dos premieres y Almería en pie",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUGxxRnZyT0pPdHB1T0hhNDFuRXZVN29qZXphT3NyU2RNYzJzV1hQdTR2VWNjVFJXLVR1Ymdoc2lLTUYzcDdaOHVsN0N1UmU3TWVtRlM5U3M5SHJfbXdkQlVnY0JDMnJKT2xHRXVWYVdXM2pJV1ZzTQ?oc=5",
+     "fuente": "Cotilleo",
+     "resumen": "",
+     "fecha": "2026-11-15T05:04:09+01:00",
+     "fecha_txt": "15 nov"
     },
     {
      "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
@@ -131,20 +131,20 @@
      "fecha_txt": "13 nov"
     },
     {
+     "titulo": "Los incendios forestales de 2025 en la Península Ibérica fueron casi tres veces más devastadores por el cambio climático",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzE1VHhhVEJsY1B6LVBwc2RCUXBHV2ZScEZwLXZvRFo0RFVWYzZZSXAycldjMXpVOWVzSnIwa3FzaFJoQXlNbE1PNnVCV0VjSXZQWHktNXpQMWVWejZmWk1VMGd2MHhISkZ5UEFMUTJNbzA4QzNrYnF3SUJxSnFZVWJPdllhUjd5UEtvbjMwVWhTNWpiNkhEaVBLWGhTN1g5ZTFLLUN4Tm43V0x4Ujgw0gG0AUFVX3lxTE1yQW81ZnIxVkRqTjlzWjN6ekxGQ28zOWVwQTJWUVpGOURoTzZkN1hGa0d2cWRlTmZKb1NBUEtKbl83YlB4TkxPNkN3U1QwaXlvSWhFekhKb251UFhOMnFtNFlYWUljUU9od19oVEhRQlNVTlI0b3hBcXQ3YWpSazZ0dDRycm8tRVUtYjRXcXRZNU1oZkJQcWlTYVZJRmlCYXowNDlRT29LZzFicENiMTVpUkliNw?oc=5",
+     "fuente": "Levante-EMV",
+     "resumen": "",
+     "fecha": "2026-11-13T09:40:59+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
      "titulo": "Un total de 301.889 hectáreas arden en España hasta el 11 de noviembre, el 42,8% de la UE, según Copernicus",
      "url": "https://www.msn.com/es-es/noticias/otras/un-total-de-301889-hect%C3%A1reas-arden-en-espa%C3%B1a-hasta-el-11-de-noviembre-el-428-de-la-ue-seg%C3%BAn-copernicus/ar-AA2hmkyo",
      "fuente": "Europa Press on MSN",
      "resumen": "MADRID, 13 (EUROPA PRESS) España ha registrado un total de 301.889 hectáreas (ha) quemadas desde el 1 de enero hasta el 11 de noviembre de 2026, según el Sistema de Información de Incendios Forestales ...",
      "fecha": "2026-11-13T05:03:00+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
-     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
-     "fuente": "La Gaceta",
-     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
-     "fecha": "2026-11-08T08:46:00+01:00",
-     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -168,22 +168,6 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T18:23:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Más de 8.000 muertos por inundaciones en 2026, casi 35 veces los de la DANA de Valencia: el peor balance desde 2013 llega a la COP31",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkszUmU4eEtON0tXdEdoR09tNExTQ3ZYXzlONFBERGlvVWxDWVk1eGE1WHhKRkw0RnhUQ2FEQTBfQWNzX0hBczZHLTdMUERkeVRVUzZuc0g0T2ZGMFBQTkdTOFpZVWNhNmNfeXZINGJhckJQVVVrcFk4Y1Q4OGRSdHZBMkVkYXB6SVlVNXpnMWtuODJTcEtwU2Z3?oc=5",
-     "fuente": "Hoy Aragón",
-     "resumen": "",
-     "fecha": "2026-11-13T09:44:52+01:00",
-     "fecha_txt": "13 nov"
     },
     {
      "titulo": "La Generalitat publica la cartografía que muestra todo lo que inundó el desbordamiento del Girona en la dana Adam",
@@ -210,12 +194,28 @@
      "fecha_txt": "9 nov"
     },
     {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://www.20minutos.es/tecnologia/actualidad/espana-satelites-mapas-inundaciones-dos-horas-emergencias-dana_7058029_0.html",
-     "fuente": "20 minutos",
-     "resumen": "El sistema, desarrollado por Telespazio Ibérica con el apoyo de la ESA y la Agencia Espacial Española, combinará imágenes de satélites, datos meteorológicos e inteligencia artificial para localizar zo ...",
-     "fecha": "2026-11-06T05:54:00+01:00",
+     "titulo": "El Ayuntamiento de Oliva confía en que el Gobierno de España apruebe para la Dana Adam un paquete de ayudas igual al de 2024",
+     "url": "https://www.elperiodic.com/oliva/ayuntamiento-oliva-confia-gobierno-espana-apruebe-para-dana-adam-paquete-ayudas-igual-2024_1101312",
+     "fuente": "El Periódico de Alicante",
+     "resumen": "El Ayuntamiento de Oliva ha valorado positivamente la declaración de zona afectada gravemente por una emergencia de protección civil aprobada por el Gobierno de España después de las inundaciones prov ...",
+     "fecha": "2026-11-06T03:31:00+01:00",
      "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Oliva exige ayudas económicas del Gobierno para paliar los daños de la dana Adam",
+     "url": "https://www.lasprovincias.es/sociedad/oliva-exige-ayudas-economicas-gobierno-paliar-danos-20261106092335-nt.html",
+     "fuente": "Las Provincias",
+     "resumen": "Considera fundamental que las nuevas medidas garanticen fondos suficientes para las familias, comercios, empresas y ayuntamientos afectados ...",
+     "fecha": "2026-11-06T01:23:00+01:00",
+     "fecha_txt": "6 nov"
+    },
+    {
+     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-meteor%C3%B3logos-avisan-desde-2040-las-lluvias-torrenciales-aumentar%C3%A1n-el-riesgo-de-inundaciones-en-espa%C3%B1a/ar-AA2gSBlQ",
+     "fuente": "El Español on MSN",
+     "resumen": "Ni más días de lluvia ni menos inundaciones: los expertos advierten del cambio que afronta España en las próximas décadas. Más información: Sandra Moñino, nutricionista: \"La crema de calabaza más rica ...",
+     "fecha": "2026-11-05T23:30:00+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   },
@@ -224,6 +224,22 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "¿A qué hora sería el supuesto apagón mundial hoy en España? La verdad sobre lo que va a ocurrir",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVJnTEtMLUlPT3VST0Vpd3ppZVE4am9fVzdoaUsxR2IzcG0wS2ZpRzl5TGVRVjJESGJEMGI2VV9WenpybmxuTVR1RGdRZXkzYWlRNGN1U2RheXJnMmRlNmM2cGpMM2N3cWFKMDlPVVE3SkFxQlQtdWl0WXBRYU1VRXR0U2VLZw?oc=5",
+     "fuente": "ADSLZone",
+     "resumen": "",
+     "fecha": "2026-11-17T07:04:52+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Está España preparada para otro apagón? Los protocolos y planes de emergencia que exige Bruselas",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzZxS1RPcy1wMDA4bXRiZmNLdmlrem9mWXE3eGJxbHdmaWNGUzliS3B0Q0YzNW5oMV9hVWoyRDNzVzlhSUNTMHlGU2k4bVZhS2N4aXZuM2haWDRHbUFxZEUweVF3Q0pUVHFQTlFodTJhZ3N6Q3pNdm41a3E5aUc0T2pVNU5GdVV3WEE4WjdRb0tOUmRESGkwTE8tX2owd25lUlRLWC1OZFZVdWJqMHRDU21obmNiNUZQVDRLZEg3b9IBvwFBVV95cUxOM25jYWMwcTdUaVV0LThISXJuQWhOY24wRWIwbDBuaGlfX05ReEI3NWlRbzZjY0diS0dxLWdBcWRJTGtWQy1GVlR4dU45V0NvakpoTFVKNkNRQ0lTUUl0VlllSlRURmJwRGdwOFVCakJ1b1dNZnFEbFpKYXpQWGhuOHBUem1abmVYd1VmOUlVY1A5QzFvOFJrZERhbW1MR0ZMV2hjbV92OTM0cFZjUk1sRzhaT1FLcXZ2bmdNRFA1aw?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-11-17T06:01:30+01:00",
+     "fecha_txt": "17 nov"
+    },
     {
      "titulo": "Pedro Sánchez asegura haber \"reforzado las medidas\" para que no ocurra otro apagón: \"La nuclear no hubiera hecho nada para evitarlo\"",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmdJYnNsUi03YU95aDI1MDRNeUItV3kxazgyeUI3SnlXTkhrOVBGWUJYMldwMU9fdWZhLUpJMXlLeTFHcWREWHZlYjJaaUJOcFlCVGdUU21fdFRpX2Q0UEQxZGpqNk9YX2lXcVRPYUdibWxlSjRzYWhIR0NsdFh1bGJVMWU3VUhJVDVDQWVLOEFkdEZRVWlCNXRzeDVUZnJUenF4OWxjMHZIcUZJeXQ2N0RLS3BmVkhWYkNiS2VIb0lEQjZOQVprOHhldzh1ZzFPb3Zid3loRU1MY3NJQmNr?oc=5",
@@ -257,14 +273,6 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Las renovables en España pierden 140 millones por las restricciones de red desde el apagón",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM0oweFZfTE5EbVNnTk1DUnhjMVBsVUtveUV5RWV0MVF6VHlNWjMtZDlkS2xEOXZodXRnakhlV0hCQk5ZdWNOSm9nY1hWUFpNeVl2UlhnWE9ic3lTLUlVakQ2b2tpcHNINWEzRGp3SnFtNzZadmRtTEtzTVZFQlFlMlJ3Y210ekdld1BLYzFXSUo3aXVQLUp3aExZYnRLU2RuZ09ZUC1RVEZTeUk2dGZVZlNlNnhMeV9mVTFpb3A5ZFVGd2Iz?oc=5",
-     "fuente": "El Periódico de la Energía",
-     "resumen": "",
-     "fecha": "2026-11-16T15:37:12+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
      "titulo": "Las renovables en España dejan de ingresar 140 millones por límites de red desde el apagón, según un informe",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTDJIRmMxUkRoUVdrSG1fLTJQWFd0TE5ZS21COXhpMVRZUkJUU3dPdUYxclNvUGt1UFdCUGlDcXFMbTN0bDkwcGdtYlhieWVHN2IyZk9Cel9WUTFOcVRmUGZDbjZBc1oxRmtPdy1JUUhXUGJGYmpTU3k4UHZ1QjFROWkyZWlFMkNSdVJNaXZTWjZtNUZNcnVoVHJ0cXdNQkZqb0FTM1ZQUFk3WXltY3ZEZFQ3eVlLYkhOak5LM3BGa0lvSll2T1l4Yk96MnJjQnItaWpxZW1OeFkxd9IB3wFBVV95cUxPOXFqMzZMbzE4TzN0Y0J4cGV2Z04yS09yZnY0Tkpza25YQlJZTVBrWTNkNktZRThyMDdROS03RzJoZkR4WDY1al9VdzI0a2w3Y1pJdFhjMnRLOHNUMWcwNXBVSlYyYmQzNUFteXlVS0JyWGVNVnk5TE9uOURSS3ZQbGcxTGhWZWpJNGh1X1hmMG0yeDBvZlFzaERlOEJwWklRNzFtX3ItQXNKMmtkUHNtMTktODNjdW92eGhfeU5uRHVYVDVFcFVobHRYUlN1ZmN0Z3l3WW5fWWhVYmkwbXJ3?oc=5",
      "fuente": "Demócrata",
@@ -278,14 +286,6 @@
      "fuente": "Europa Press",
      "resumen": "",
      "fecha": "2026-11-16T15:19:56+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "El falso apagón del 17 de noviembre en España nace de una prueba de alertas en EEUU",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXFrakhxQTI4akZNSk45d2dpTTZjR0Y0UXpnMTFwVG85a3NObkdsYnV1SFVSQnU2SG9wcl9HSHFXWUVmaTZ4QWxUN0tyNXd0ZS1kV1dSbzBEdlRuVlpuWU1hUm9ZSHF1R0Vncm1TM0xjX2l4Y19RUXlOczlIM0p0ZzJrV0tncHBveUtjbUp3X1FnSHNKSERFeDhpSDRzWW9UZFo1dUFyMVk4eFE4cEFaTEduSmF6ckky?oc=5",
-     "fuente": "La Gaceta de Cádiz",
-     "resumen": "",
-     "fecha": "2026-11-16T14:44:11+01:00",
      "fecha_txt": "16 nov"
     }
    ]
