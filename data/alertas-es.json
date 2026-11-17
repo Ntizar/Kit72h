@@ -2,12 +2,12 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261116225001",
-  "actualizado": "2026-11-17T07:11:13+01:00",
+  "elaborado": "20261117082229",
+  "actualizado": "2026-11-17T10:11:11+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261116225001_penbal_20261117CET_1794895200.geojson"
+   "r_D+0_20261117082229_penbal_20261117CET_1794906000.geojson"
   ]
  },
  "resumen": {
@@ -15,7 +15,7 @@
   "naranja": 0,
   "amarillo": 8,
   "sin_aviso": 53,
-  "zonas_en_aviso": 14,
+  "zonas_en_aviso": 15,
   "provincias": 61
  },
  "provincias": [
@@ -34,7 +34,15 @@
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m.",
        "desde": "2026-11-17T13:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-17T21:59:59+01:00",
+       "probabilidad": "40%-70%"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T22:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -46,9 +54,17 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T19:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
+       "probabilidad": "40%-70%"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m a partir de la tarde del día 17.",
-       "desde": "2026-11-16T23:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "desde": "2026-11-17T08:00:00+01:00",
+       "hasta": "2026-11-17T18:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -60,9 +76,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -163,8 +179,16 @@
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m a partir de la tarde del día 17.",
-       "desde": "2026-11-16T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "desde": "2026-11-17T08:00:00+01:00",
+       "hasta": "2026-11-17T21:59:59+01:00",
+       "probabilidad": "40%-70%"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T22:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -242,9 +266,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -256,9 +280,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -916,6 +940,383 @@
    {
     "type": "Feature",
     "properties": {
+     "zona": "A Mariña",
+     "provincia": "",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": []
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -7.7491,
+        43.5572
+       ],
+       [
+        -7.738,
+        43.5798
+       ],
+       [
+        -7.7164,
+        43.5837
+       ],
+       [
+        -7.7233,
+        43.6133
+       ],
+       [
+        -7.7141,
+        43.6395
+       ],
+       [
+        -7.6928,
+        43.6489
+       ],
+       [
+        -7.691,
+        43.6589
+       ],
+       [
+        -7.708,
+        43.6749
+       ],
+       [
+        -7.7011,
+        43.6866
+       ],
+       [
+        -7.7048,
+        43.7086
+       ],
+       [
+        -7.6983,
+        43.7355
+       ],
+       [
+        -7.6797,
+        43.7308
+       ],
+       [
+        -7.6666,
+        43.7486
+       ],
+       [
+        -7.6482,
+        43.7443
+       ],
+       [
+        -7.6337,
+        43.7534
+       ],
+       [
+        -7.6298,
+        43.7292
+       ],
+       [
+        -7.6058,
+        43.6919
+       ],
+       [
+        -7.581,
+        43.689
+       ],
+       [
+        -7.5818,
+        43.7126
+       ],
+       [
+        -7.5584,
+        43.7108
+       ],
+       [
+        -7.544,
+        43.7325
+       ],
+       [
+        -7.5232,
+        43.7363
+       ],
+       [
+        -7.5023,
+        43.723
+       ],
+       [
+        -7.4793,
+        43.7238
+       ],
+       [
+        -7.4672,
+        43.7032
+       ],
+       [
+        -7.4376,
+        43.6987
+       ],
+       [
+        -7.3931,
+        43.6798
+       ],
+       [
+        -7.3558,
+        43.672
+       ],
+       [
+        -7.3536,
+        43.6567
+       ],
+       [
+        -7.3317,
+        43.6284
+       ],
+       [
+        -7.3089,
+        43.6175
+       ],
+       [
+        -7.2916,
+        43.5956
+       ],
+       [
+        -7.2217,
+        43.5639
+       ],
+       [
+        -7.1551,
+        43.554
+       ],
+       [
+        -7.1134,
+        43.5625
+       ],
+       [
+        -7.0744,
+        43.5538
+       ],
+       [
+        -7.0554,
+        43.5591
+       ],
+       [
+        -7.0347,
+        43.5455
+       ],
+       [
+        -7.0304,
+        43.5448
+       ],
+       [
+        -7.0461,
+        43.5076
+       ],
+       [
+        -7.0462,
+        43.4782
+       ],
+       [
+        -7.0545,
+        43.4727
+       ],
+       [
+        -7.0888,
+        43.4542
+       ],
+       [
+        -7.0956,
+        43.4332
+       ],
+       [
+        -7.128,
+        43.424
+       ],
+       [
+        -7.1605,
+        43.4323
+       ],
+       [
+        -7.1753,
+        43.4149
+       ],
+       [
+        -7.1788,
+        43.3965
+       ],
+       [
+        -7.1581,
+        43.375
+       ],
+       [
+        -7.1375,
+        43.3836
+       ],
+       [
+        -7.126,
+        43.3729
+       ],
+       [
+        -7.1313,
+        43.348
+       ],
+       [
+        -7.0995,
+        43.3041
+       ],
+       [
+        -7.0851,
+        43.3006
+       ],
+       [
+        -7.1167,
+        43.2862
+       ],
+       [
+        -7.1346,
+        43.2559
+       ],
+       [
+        -7.1585,
+        43.265
+       ],
+       [
+        -7.2028,
+        43.2565
+       ],
+       [
+        -7.2025,
+        43.2901
+       ],
+       [
+        -7.2218,
+        43.2869
+       ],
+       [
+        -7.2562,
+        43.2909
+       ],
+       [
+        -7.2513,
+        43.3049
+       ],
+       [
+        -7.2574,
+        43.3314
+       ],
+       [
+        -7.2473,
+        43.3426
+       ],
+       [
+        -7.2468,
+        43.3896
+       ],
+       [
+        -7.2882,
+        43.3931
+       ],
+       [
+        -7.3137,
+        43.3803
+       ],
+       [
+        -7.3761,
+        43.3827
+       ],
+       [
+        -7.3902,
+        43.392
+       ],
+       [
+        -7.4113,
+        43.3822
+       ],
+       [
+        -7.427,
+        43.3839
+       ],
+       [
+        -7.4479,
+        43.4208
+       ],
+       [
+        -7.4469,
+        43.4579
+       ],
+       [
+        -7.4757,
+        43.453
+       ],
+       [
+        -7.5195,
+        43.4515
+       ],
+       [
+        -7.5677,
+        43.4679
+       ],
+       [
+        -7.5704,
+        43.4808
+       ],
+       [
+        -7.5494,
+        43.4997
+       ],
+       [
+        -7.5425,
+        43.5203
+       ],
+       [
+        -7.5709,
+        43.5364
+       ],
+       [
+        -7.5895,
+        43.5406
+       ],
+       [
+        -7.6008,
+        43.5233
+       ],
+       [
+        -7.618,
+        43.5257
+       ],
+       [
+        -7.6262,
+        43.4977
+       ],
+       [
+        -7.653,
+        43.4945
+       ],
+       [
+        -7.658,
+        43.5237
+       ],
+       [
+        -7.6986,
+        43.524
+       ],
+       [
+        -7.7081,
+        43.5357
+       ],
+       [
+        -7.7458,
+        43.5487
+       ],
+       [
+        -7.7491,
+        43.5572
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
      "zona": "Oeste de A Coruña - Costa",
      "provincia": "A Coruña",
      "nivel": 3,
@@ -928,7 +1329,18 @@
        "severidad": "Amarillo",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m.",
        "desde": "2026-11-17T13:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-17T21:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T22:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -1341,8 +1753,19 @@
        "nivel": 3,
        "severidad": "Amarillo",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m a partir de la tarde del día 17.",
-       "desde": "2026-11-16T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "desde": "2026-11-17T08:00:00+01:00",
+       "hasta": "2026-11-17T21:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T22:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -2067,11 +2490,22 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 6 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-17T19:00:00+01:00",
+       "hasta": "2026-11-18T23:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      },
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
        "descripcion": "Viento del Suroeste de 50 a 61 km/h (fuerza 7). Mar combinada del Oeste o Noroeste aumentando a 4 a 5 m a partir de la tarde del día 17.",
-       "desde": "2026-11-16T23:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "desde": "2026-11-17T08:00:00+01:00",
+       "hasta": "2026-11-17T18:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -3068,9 +3502,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -3896,9 +4330,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -3993,9 +4427,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del Oeste o Suroeste de 4 a 5 metros.",
+       "descripcion": "Mar combinada del noroeste de 4 a 5 metros.",
        "desde": "2026-11-17T19:00:00+01:00",
-       "hasta": "2026-11-17T23:59:59+01:00",
+       "hasta": "2026-11-18T03:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
