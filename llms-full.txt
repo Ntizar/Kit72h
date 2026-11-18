@@ -13,7 +13,7 @@ La lista que el Estado suizo recomienda tener en casa, traducida y comprada en E
 **Comida para siete días (no para tres)**
 - Conservas variadas (15-20 latas): La base que se come sin cocinar y sin frío. Alterna pescado, legumbre y verdura para no comer siempre lo mismo. (~1-3 €/lata)
 - Arroz parboiled (pack de 2 kg): Aguanta años, llena y solo necesita agua y calor. Con el hornillo se cocina igual que en casa. (~~3 €/pack)
-- Pastas, arroz y legumbres en paquetes: Surtido de despensa para completar la semana sin depender de la nevera. (~10-20 €)
+- Legumbres secas en paquetes (garbanzos, 2 kg): Surtido de despensa para completar la semana sin depender de la nevera. (~5-10 €)
 - Abreconservas manual: El detalle que arruina una despensa perfecta: sin abrelatas, las latas no se abren. (~3-8 €)
 **Cocina sin red eléctrica**
 - Hornillo de camping a gas con bombonas: Café, arroz y conservas calientes sin luz. Con bombonas de repuesto y usado siempre ventilado. (~20-45 €)
@@ -79,7 +79,7 @@ Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada e
 - Cinta y plástico para sellar ventanas: Sellado de ventanas y grietas ante lluvias con viento. (~8-15 €)
 **Post-DANA**
 - Desinfectante de superficies: El agua de DANA deja lodo con aguas fecales: desinfecta todo. (~5-12 €)
-- Palas y cubos para retirar lodo: Retirar lodo y agua acumulada tras el paso del agua. (~10-25 €)
+- Pala ancha para retirar lodo o nieve: Retirar lodo y agua acumulada tras el paso del agua. (~15-30 €)
 - Desumidificador o sachets antihumedad: Evita moho y humedad estructural tras la inundación. (~15-40 €)
 **Comunicación y avisos: cuando cae la red**
 - Radio FM/AM a pilas o de manivela, con linterna integrada: La red móvil y la luz se van justo cuando más falta hace la información. Compra una radio de dial grande, apunta en la tapa la emisora autonómica y Radio Nacional, y pruébala una vez al mes: los avisos oficiales siguen saliendo por radio y por megafonía municipal. Lleva pilas de repuesto aparte, fuera del aparato. (~15-35 €)
@@ -256,7 +256,7 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
 - Pastillas potabilizadoras aptas para lactantes: Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo. (~8-15 €)
 - Calentador biberones sin gas ni electricidad (químico/autocalentante): Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo. (~6-12 €)
-- Termo pequeño de boca ancha (350-500 ml): Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara. (~10-20 €)
+- Termo de boca ancha (26 cl): Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara. (~10-20 €)
 - Botella térmica fría (500 ml): Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera. (~12-20 €)
 **Leche y comida de reserva**
 - Leche de fórmula de seguimiento (lata 400-800 g): Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina. (~10-16 €)
@@ -268,17 +268,17 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Pañales de reserva (talla actual, pack 20-25): 6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa. (~6-10 €)
 - Toallitas limpiadoras (pack 3-5): Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana. (~4-8 €)
 - Bolsas estancas para ropa sucia y pañales (pack): Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro. (~5-9 €)
-- Cambrador portátil plegable: Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas. (~8-14 €)
+- Cambiador portátil plegable e impermeable: Un sitio limpio y acolchado para cambiar al bebé cuando no hay casa: tejido Oxford lavable, se pliega en un bolsillo. En un albergue o un coche, marca la diferencia. (~10-25 €)
 - Crema barrera contra rozaduras: Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos. (~4-8 €)
 - Jabón neutro en pastilla + esponja: Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas. (~2-4 €)
 **Abrigo y sueño**
 - Saco/pijama de una pieza de abrigo (talla actual + una de repuesto): Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo. (~12-22 €)
 - Manta térmica de emergencia infantil (o manta polar pequeña): La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo. (~2-6 €)
-- Gorro y manoplas de bebé: Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro. (~5-10 €)
+- Gorro y manoplas de bebé: El gorro es para la calle y para una evacuación, no para dormir. El NHS pide la habitación entre 16 y 20 °C y nada de sobrecalentar al bebé: al entrar en casa, gorro fuera. Las manoplas, para llevar en brazos con frío. (~5-10 €)
 - Portabebés ergonómico (bandolera o Mei Tai): Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera. (~25-50 €)
 **Salud y calma**
 - Termómetro digital de bebé: El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda. (~6-12 €)
-- Suero de rehidratación oral y jeringuilla dosificadora: Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet. (~6-10 €)
+- Suero de rehidratación oral (8 sobres): Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. El suero del nebulizador (salino hipertónico) no se bebe; este es de rehidratación oral, con la composición de la OMS. Pauta de tu pediatra o enfermera, no de internet. (~6-12 €)
 - Aspirador nasal + suero fisiológico en monodosis: Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general. (~4-8 €)
 - Juguetes pequeños favoritos (2-3, en bolsa estanca): Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé. (~0-10 €)
 - Mantas/empapadores de tela de confianza: Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit. (~8-15 €)
@@ -291,7 +291,7 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 Kit mayores: 27 artículos para personas dependientes — medicación crónica, ayudas técnicas, anti-caídas y comida adaptada. Desde 60 €, sin contar receta.
 **Medicación y crónicos**
 - Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
-- Ficha médico-identificativa plastificada: Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera. (~0-5 €)
+- Ficha médico-identificativa: pulsera de alerta grabada: Nombre, alergias, medicación y contacto grabados en el metal, a la vista de cualquiera que te atienda. La tarjeta de papel se moja; esto no. (~8-20 €)
 - Nevera portátil pequeña con paquetes fríos reutilizables: Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita. (~12-25 €)
 - Termómetro de nevera (mínimo/máximo): 2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón. (~4-8 €)
 - Pastilla potabilizadora y vaso medidor para medicación: Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2. (~8-15 €)
@@ -301,7 +301,7 @@ Kit mayores: 27 artículos para personas dependientes — medicación crónica, 
 - Gafas de graduación de repuesto: Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online. (~10-30 €)
 - Caja de dentadura + pegamento y vaso con tapa: Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla. (~6-10 €)
 - Bastón plegable / andador de repuesto con luz: El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada. (~15-35 €)
-- Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo): La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran. (~0 €)
+- Pulsera de alerta: marcapasos o dispositivo implantado: Un sanitario necesita saberlo antes de un desfibrilador o una resonancia. Grabada y visible en la muñeca, funciona aunque no puedas hablar. (~6-20 €)
 - Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias): Con deterioro cognitivo o desorientación, en una evacuación lo primero que se pierde es la cartera con los papeles. Una pulsera o collar grabado con nombre, teléfono de un familiar y alergias se lee sin desbloquear nada ni abrir ningún bolsillo, y no caduca ni se queda sin batería. (~8-20 €)
 **Caídas, noche y seguridad en casa**
 - Balizas LED de noche con sensor (pack 2-3): Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable. (~10-20 €)
@@ -312,7 +312,7 @@ Kit mayores: 27 artículos para personas dependientes — medicación crónica, 
 - Radio a pilas FM con volumen alto y dial grande: La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido. (~12-25 €)
 - Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia): Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra. (~0 €)
 - Acuerdo de vecindad con llamada/golpe de aviso: Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha. (~0 €)
-- Juegos de naipes, libro de letra grande o rádio con altavoz: Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no. (~5-15 €)
+- Baraja española (40 cartas): Sin pantallas y sin batería: media hora de partida cambia el ánimo de una tarde larga. Letra grande para quien no ve de cerca. (~4-10 €)
 **Higiene, incontinencia y frío**
 - Empapadores y pañales de incontinencia (pack para 3-5 días): Si hay incontinencia, es lo primero que se acaba y lo último que se puede improvisar: sin lavadora, sin agua caliente y con el baño a oscuras, no hay recambio casero. Talla y absorción se ajustan con su enfermera o en la farmacia, no a ojo. (~15-30 €)
 - Cuña u orinal con asa: Con movilidad reducida o sin luz, el viaje nocturno al baño es la caída esperada. Una cuña con asa y una luz de noche bastan para que no tenga que levantarse a oscuras. Se vacía y se limpia con agua de limpieza, nunca con el agua de beber reservada. (~10-20 €)
@@ -458,7 +458,7 @@ Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, sal
 ### Kit Comunicación: walkies, radio y messenger satelital (2026) — https://kit72h.com/kit/kit-comunicacion/
 Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y messenger satelital. 6 artículos desde 80 € para no quedarte sin avisos.
 **Comunicación local: walkies PMR446**
-- Walkie-talkies PMR446 (pareja, recargables): Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común. (~40-80 €)
+- Walkie-talkies PMR446 recargables (16 canales): Par de PMR446 recargables con base de carga: 16 canales y 0,5 W, legales en España sin licencia y sin trámites. (~35-60 €)
 - Walkie-talkies PMR446 de gama media (alcance ampliado): Mejor antena y sensibilidad: hasta 5-10 km en campo abierto. (~60-120 €)
 **Escuchar y avisar al exterior**
 - Radio FM/AM a pilas o de dinamo (con linterna): Única fuente de información si caen internet y la telefonía. Con dinamo, sin pilas. (~15-35 €)
@@ -467,7 +467,7 @@ Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y mes
 - Pilas alcalinas AA/AAA (pack de 48): Guardadas dentro de la radio se sulfatan: guárdalas aparte, en su envase. Pack mixto para radio, linterna y mando. (~12-18 €)
 
 ### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
-Kit Starlink: internet satelital con cielo despejado desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
+Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
 **Starlink: internet desde cualquier lugar**
 - Kit Starlink Standard (antena + router Wi-Fi): Internet satelital donde no hay cobertura ni fibra, con la antena apuntando a cielo despejado. 50-200 Mbps reales. Antena y router Wi-Fi incluidos. La suscripción es imprescindible: sin ella el hardware no sirve. (~450-550 € · 45-60 €/mes)
 - Soporte de montaje para Starlink (tejado / pared / mástil): Fija la antena en tejado, pared o mástil y gana los grados de cielo que la instalación en balcón no da. Válido para Starlink Standard (Gen 3), V3, 4 y 4X. (~25-60 €)
@@ -504,7 +504,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - SAI (UPS) 3000VA-5000VA online doble conversión: Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente. (~500-800 €)
 - SAI 1500VA (900W line-interactive): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
 **Generador: respaldo cuando no hay sol**
-- Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
+- Bidón homologado para combustible (20 L): La autonomía la marcan los litros: 20 L en bidón homologado con cánula y franja de medición, fuera de la vivienda y rotando cada tres meses con estabilizador. La conexión a gas natural evita el repostaje, pero la hace un instalador autorizado: no es un producto de Amazon. (~15-30 €)
 **Conservación de alimentos sin red**
 - Acumuladores de frío congelables (pack de 4): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~10-16 €)
 **Iluminación y seguridad perimetral**
@@ -514,7 +514,7 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
 - Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional por satélite. Exige cielo despejado y suscripción: bajo techo no transmite. Último recurso cuando no hay red de ningún tipo. (~400 € · 10-40 €/mes)
 **Comunicación local: radio amateur y walkies**
-- Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
+- Walkie-talkies profesionales PMR446 (set de 4): Sin licencia en España con PMR446: 16 canales y 0,5 W de potencia máxima legal, antena fija. IP67, LCD, LED, VOX. 2-5 km en campo abierto. Ideal para coordinar una evacuación. (~100-200 € (pack 4))
 
 ## Blog
 ### Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026) — https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/
@@ -1403,7 +1403,7 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  Protección Civil Española recomienda llevar medios de comunicación alternativos al móvil para situaciones de emergencia (Plan Familiar 112). La PMR446 es la única radio que puedes usar sin licencia en toda la UE, y en una DANA o apagón de varias horas es tu única forma de coordinarte con la familia sin depender de baterías de teléfono.
  El 28 de abril de 2025 demostró lo que las guías de preparación llevan años repitiendo: cuando todas las redes móviles colapsan a la vez, quedas mudo. WhatsApp no funciona, las llamadas no se cortan — simplemente no existen. Y en una DANA o apagón prolongado, las antenas pueden quedarse sin electricidad durante días.
  ¿Qué es la PMR446 y por qué no necesitas licencia?
- PMR446 significa "Portable Mobile Radio" y opera en la frecuencia de 446 MHz con un máximo de 2 vatios de potencia. Es un estándar europeo armonizado: en cualquier país de la UE puedes usar un walkie PMR446 sin licencia, sin examenes, sin tasas. Solo hay que respetar las condiciones de uso: antena fija (no desmontable) y potencia máxima de 2 W.
+ PMR446 significa "Portable Mobile Radio" y opera en la frecuencia de 446 MHz con un máximo de 0,5 vatios (500 mW) de potencia. Es un estándar europeo armonizado: en cualquier país de la UE puedes usar un walkie PMR446 sin licencia, sin examenes, sin tasas. Solo hay que respetar las condiciones de uso: antena fija (no desmontable) y potencia máxima de 0,5 W.
  Esto es importante: la PMR446 no compite con la banda de radioaficionados (que requiere licencia) ni con las radios profesionales de bomberos. Es una herramienta para comunicaciones a corta distancia entre particulares, ideal para emergencias donde la infraestructura de telecomunicaciones ha colapsado.
  Los 3 mejores walkies PMR446 para emergencias
  He seleccionado estos tres modelos basándome en tres criterios para emergencias: alcance real (no el teórico de catálogo), duración de batería y resistencia a condiciones duras. El precio es orientativo y puede variar en Amazon.
@@ -1436,7 +1436,7 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  El veredicto
  Para la mayoría de familias españolas, el mejor walkie PMR446 para emergencias es el Motorola CP136 : es el más fiable, el más fácil de usar y tiene un precio razonable. Si tu presupuesto es ajustado, el Altel A-308 hace el trabajo a mitad de precio.
  Si el GPS te parece imprescindible para coordinar a la familia, el Midland G10 lo merece, pero prepárate para cargarlo cada 4-6 horas si lo usas con GPS activo.
- Importante: todos los modelos de esta comparativa son PMR446 certificados (antena fija, máximo 0,5-2 W). Radios como el Baofeng UV-5R o cualquier walkie de banda FRS (p. ej. Motorola T460) no son legales en España sin licencia de radioaficionado : superan la potencia permitida, llevan antena desmontable o usan frecuencias no armonizadas. No los metas en tu kit aunque los encuentres más baratos: te expones a una sanción de la Subsecretaría de Telecomunicaciones y a interferir con servicios de emergencia.
+ Importante: todos los modelos de esta comparativa son PMR446 certificados (antena fija, máximo 0,5 W). Radios como el Baofeng UV-5R o cualquier walkie de banda FRS (p. ej. Motorola T460) no son legales en España sin licencia de radioaficionado : superan la potencia permitida, llevan antena desmontable o usan frecuencias no armonizadas. No los metas en tu kit aunque los encuentres más baratos: te expones a una sanción de la Subsecretaría de Telecomunicaciones y a interferir con servicios de emergencia.
  Recuerda: un walkie sin pilas no es un walkie. Y un walkie que no has probado en una emergencia puede fallarte justo cuando lo necesitas. Compra los walkies, ponlos en tu kit de emergencia y pruébalos cada pocos meses.
  Si aún no tienes tu kit de emergencia básico, te recomiendo empezar por nuestro kit básico de 72 horas — los walkies van justo después del agua y la comida en importancia. Y si te interesa la radiocomunicación en general, aquí tienes la guía completa de la banda PMR446 .
 
@@ -2688,7 +2688,7 @@ Qué es un generador inverter y por qué no es lo mismo que uno barato
  Lo que de verdad mata: el monóxido de carbono
 
 
- Un grupo electrógeno emite monóxido de carbono, que es inodoro, incoloro y mata sin avisar. Nunca dentro de casa. Nunca en el garaje, ni con la puerta abierta: el gas se acumula en el interior y sube. Nunca en un balcón cerrado ni en un tendedero interior. El equipo va al exterior, sobre superficie firme, con el escape apuntando lejos de puertas y ventanas y a varios metros de ellas.
+ Un grupo electrógeno emite monóxido de carbono, que es inodoro, incoloro y mata sin avisar. Nunca dentro de casa. Nunca en el garaje, ni con la puerta abierta: el gas se acumula en el interior y sube. Nunca en un balcón cerrado ni en un tendedero interior. El equipo va al exterior, sobre superficie firme, con el escape apuntando lejos de puertas y ventanas y a más de 6 metros de ellas (20 pies, referencia del CDC).
 
 
  Y en casa, un detector de monóxido en la planta donde duermes. No es un extra: es la diferencia entre un susto y una desgracia. Lo contamos con más detalle en la comparativa de detectores de CO .
