@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T13:11:05+01:00",
+  "actualizado": "2026-11-18T16:11:06+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,19 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-18T10:51:15+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "url": "https://www.msn.com/es-mx/noticias/otras/c%C3%B3mo-prepararse-para-una-emergencia-de-72-horas-seg%C3%BAn-las-nuevas-recomendaciones-de-la-ue/ar-AA2hGh35",
+     "fuente": "Euronews on MSN",
+     "resumen": "La Comisión Europea recomienda que los hogares estén preparados para cubrir sus necesidades básicas durante al menos 72 horas en caso de que una crisis interrumpa los servicios esenciales. Descubre la ...",
+     "fecha": "2026-11-18T02:51:15+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T11:28:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Habrá apagón mundial de 72 horas?; esto se sabe del rumor viral",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmZXS3JDa3RwWUplbVBLTGY0aEVSTy03cHBpRzduVG1wQTVrbnJmODA3ekxBQU93Nk9vNFJFNzBvVERwUUp1dlJMOU1leTlUaGtWSkpsa3NwaFNDNVByWG1lcVM2XzRyOWZMZldDUkVFQWhnaG9fZl9pdC04QTBDWVVxMGYweXByUjR6YkVfeTJqTjlLN05jU1R4dUZqbjFYQUw3bFN0bXE?oc=5",
-     "fuente": "El Diario - Bolivia",
-     "resumen": "",
-     "fecha": "2026-11-17T11:03:16+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -83,12 +83,12 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Científicos descubren por qué pueden declararse incendios al mismo tiempo en España y otros países europeos: la clave está en la atmósfera",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlJSGUzRWIwbnp0ME41WEFUN3pPMG0xQXE3ajRwY2JZdUl0cmtHNnBGT0NwdXdfcHJkdEhCTksxQWhnNFFKRzJWb3hBQVJOUkNaTzlfcWtmSkdBMFYyTE1SZkRkUG5zS0t5TGVJNm51LW9FS2tmYlE4N3BoX1hpOE1pWWdtUFVjSTQ1aEVGSmIzQlYzc0htQ0E2by1ueWpRelpKYjlnaE5RdWVxWTR4RXdoclRyXzd2TXFVaWh4OFNJQ3FDV2ZnZ2lRdmtQUmxRdnJhUWp6UFNSa21uSXM0TW90cjNUYjhQajVsWjU0YWY5MDZH?oc=5",
-     "fuente": "EcoInventos",
+     "titulo": "España se convierte en uno de los países más afectados del mundo por incendios forestales y fenómenos climáticos extremos",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNXLWd6M3RKSnY2cFpBeE1lUkp6aW5uS01YRGI1aUw5cGtQOF9MMWZ0MVkyY0tXeUdXcER0X1poZGZQcWFiOGMtUTR1ZlBmRVdhYkNfZkYwbnotM1hQM1VmNldzYWRxWWhlNE9tQ09oSU9xSWFwbFB5c1Q5T3JZVnJaWTBOdEItOEwybktxOWlFRHNFSHoya0h1ZkpRbDZrUkkzREtmcUd3RXpoNGt5RGZKSm55VDduQUd0a2h6cjdLM1FjUnV4NkhEUlpWT01TLTdlZ1A0VWZwQWZWRDFPZVZwTU82eTc4ME5fUUpNb1F0cGM5dm12dnVB?oc=5",
+     "fuente": "Servicios Emergencia",
      "resumen": "",
-     "fecha": "2026-11-17T14:12:21+01:00",
-     "fecha_txt": "17 nov"
+     "fecha": "2026-11-18T14:28:00+01:00",
+     "fecha_txt": "18 nov"
     },
     {
      "titulo": "Temporada récord de incendios forestales devora más de seis millones de hectáreas.",
@@ -96,14 +96,6 @@
      "fuente": "Diario del Sur",
      "resumen": "Olas de calor extremas alimentaron megaincendios simultáneos en Canadá, Estados Unidos, España, Francia y Grecia durante el verano boreal.",
      "fecha": "2026-11-17T13:31:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "La temporada de incendios de 2025 dejó más de un millón de hectáreas quemadas en Europa: la península registró un récord",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-temporada-de-incendios-de-2025-dej%C3%B3-m%C3%A1s-de-un-mill%C3%B3n-de-hect%C3%A1reas-quemadas-en-europa-la-pen%C3%ADnsula-registr%C3%B3-un-r%C3%A9cord/ar-AA2hEjcM",
-     "fuente": "20 minutos on MSN",
-     "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
-     "fecha": "2026-11-17T10:08:28+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -145,6 +137,14 @@
      "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
      "fecha": "2026-11-14T00:00:00+01:00",
      "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "Ante una nueva temporada de incendios forestales: Seminario reunirá a expertos de Chile y España para abordar estrategias de prevención",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVXlrbjFGbmNSX1BZdVRZVFFGa1FYVmt2YjhFZjBZQWNPUFF6anp5bElVMk5XdFV4RU1mXzlUcUtnLW5pU0p0Uzk1TUY5eE9STTQ1Q1pLcFpZOEpYSGxwd25TcFUxUnRyckpobi04LUw3RlotaGxFN3VLWHhCQUt6RWd3VXRTbENhYUVIYXpfY0JrdUJNdGhzdTVKRmdrelF4VEVhTFJIcFFXbkE?oc=5",
+     "fuente": "Austerra Society",
+     "resumen": "",
+     "fecha": "2026-11-13T00:00:00+01:00",
+     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
+     "fuente": "España Exterior",
+     "resumen": "",
+     "fecha": "2026-11-18T14:07:14+01:00",
+     "fecha_txt": "18 nov"
+    },
     {
      "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
@@ -207,14 +215,6 @@
      "fuente": "Meteored España",
      "resumen": "",
      "fecha": "2026-11-15T19:00:07+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T18:23:00+01:00",
      "fecha_txt": "15 nov"
     }
    ]
