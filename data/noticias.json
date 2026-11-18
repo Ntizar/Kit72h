@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T01:11:01+01:00",
+  "actualizado": "2026-11-18T04:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Europa registra en 2025 su peor temporada de incendios forestales en 18 años",
+     "url": "https://www.diariodelsur.com.co/noticias/europa-registra-en-2025-su-peor-temporada-de-incendios-forestales-en-18-anos",
+     "fuente": "Diario del Sur",
+     "resumen": "Europa registró en 2025 más de un millón de hectáreas quemadas; la península ibérica concentró el 63 % del total de la UE, un récord histórico sin precedentes.",
+     "fecha": "2026-11-17T18:30:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ah...",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSGRPMFdaelVGVXlkQWJxNmNra2ZxSlpkcGRhLV9fdEhQaENpVElZbC1xZnlYaWNkN1N2ZE11N1Z2N0RqUXBQU2VTZ0oxc1NvY18zSTY2YmdaTTQwV3lhUllqNUJpRWhwTmItRjE4T050ZmVuUDRob2VNbjRmUmJqN2wwekRJd1RILWRwRzBibTBTcEZTWkVWTTRXMFprS0JfRDE5SGVWSlBlcldpdURjbHMybHV5SVRzQWNWUDZMejFQRHRGMk9PdTZ0UFdKT2NBRXQxRmtEWFp6M1NIajdPbF9sT1dWekxiRE1VRnJGV2thYVlKYzYyb1pyandjYm9UZ2ZB0gGIAkFVX3lxTE01WlBPMm42dkE5MFdFMVdzeWZMQUhnV1NDOXRmeFd3WlFjeUoyVThPTk8yRTZ4VHlrU1M5bXRlUjN6Z05hSVhDYnNCd0FBaDlnX2ZRREV2cW1zRDc3OXhhUVloR2FIUVIwdWJvcC0xMjNqVV9FaDUycmZabXlXb2o0MEFZVnhXOEVUN19xYnZ4Nlh2eGNOZXh1UFY3eFRfQzBNNTNubHpueTRncFRGSUJram9PR2o2elRnbWFKRWY5Zl9sS3Nfa3BWXy0ySmNPaUpEREpWN21lSjJEU0l0SVFJdnVpblB5dDhrMXJzN1FiTFRxT05IWGlILU9lNVJabzlYM1ZGRDVYMw?oc=5",
      "fuente": "OkDiario",
@@ -91,11 +99,27 @@
      "fecha_txt": "17 nov"
     },
     {
+     "titulo": "Científicos descubren por qué pueden declararse incendios al mismo tiempo en España y otros países europeos: la clave está en la atmósfera",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlJSGUzRWIwbnp0ME41WEFUN3pPMG0xQXE3ajRwY2JZdUl0cmtHNnBGT0NwdXdfcHJkdEhCTksxQWhnNFFKRzJWb3hBQVJOUkNaTzlfcWtmSkdBMFYyTE1SZkRkUG5zS0t5TGVJNm51LW9FS2tmYlE4N3BoX1hpOE1pWWdtUFVjSTQ1aEVGSmIzQlYzc0htQ0E2by1ueWpRelpKYjlnaE5RdWVxWTR4RXdoclRyXzd2TXFVaWh4OFNJQ3FDV2ZnZ2lRdmtQUmxRdnJhUWp6UFNSa21uSXM0TW90cjNUYjhQajVsWjU0YWY5MDZH?oc=5",
+     "fuente": "EcoInventos",
+     "resumen": "",
+     "fecha": "2026-11-17T14:12:21+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "Temporada récord de incendios forestales devora más de seis millones de hectáreas.",
      "url": "https://www.diariodelsur.com.co/noticias/temporada-record-de-incendios-forestales-devora-mas-de-seis-millones-de-hectareas",
      "fuente": "Diario del Sur",
      "resumen": "Olas de calor extremas alimentaron megaincendios simultáneos en Canadá, Estados Unidos, España, Francia y Grecia durante el verano boreal.",
      "fecha": "2026-11-17T13:31:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "La temporada de incendios de 2025 dejó más de un millón de hectáreas quemadas en Europa: la península registró un récord",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-temporada-de-incendios-de-2025-dej%C3%B3-m%C3%A1s-de-un-mill%C3%B3n-de-hect%C3%A1reas-quemadas-en-europa-la-pen%C3%ADnsula-registr%C3%B3-un-r%C3%A9cord/ar-AA2hEjcM",
+     "fuente": "20 minutos on MSN",
+     "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
+     "fecha": "2026-11-17T10:08:28+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -121,30 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-15T05:04:09+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
-     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
-     "fecha": "2026-11-14T00:00:00+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
-     "fuente": "Lanza Digital",
-     "resumen": "",
-     "fecha": "2026-11-13T14:01:39+01:00",
-     "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmlkRUYtNU9tZ25KVTVBYzNVQjNyb0FsbmFXMHVxNW9VM2I4RFpCQXBUZlh0U0NrbHFHWFRodzhfOVgzSW9fQXd6M1c5OWVuVjJOS2JGTUpqVkMwMmR5MklSODFfYkFPV0l1ZHhMZm1IRy1TbjAzdjdsamNuRTNYak9TNEQxdElsaFVXcnB0a1pKVGJaMm0yVTF3OUlxWUxRTDdzUDFUem92QXQydFp1NF80VjNaZUU0Qkx2cDZrWTZuSXdCTUNHWl9Tak0zZDhQRDE1aUYyeDdsS0s4R0E?oc=5",
-     "fuente": "enTomelloso.com",
-     "resumen": "",
-     "fecha": "2026-11-13T13:25:59+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
