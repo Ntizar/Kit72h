@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-17T22:11:01+01:00",
+  "actualizado": "2026-11-18T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -25,6 +25,14 @@
      "fuente": "Diario El País Honduras",
      "resumen": "",
      "fecha": "2026-11-17T14:15:19+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Apagón mundial? La teoría que anuncia 72 horas sin luz ni internet y genera alarma en las redes",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUhEcEZlU3pSZ1pfODduNG5HeGczeEhYLXozaTQ2Z3F2VG1ZQi1SRVJNUDRveXRybWdSaFMxWFlZaTVTSVZCbURhbE1YNTZnUThkd2RQdE1MeVo3RXpMVnJOS1U1eW01XzVEaDIxVmRrSmpvMVFVS2g3M25qUXRIaHFiUTlTbW4yeHdYcEEzZS0zeUNHYmJzTERGeTRNeFVmQlB0NDVaZnJCcnZHeDFuODA4WjBnV0tadGJOeGpiaUJvUmo0S3lZQUdKTEctT01NcDZsSm90d3ZWZnc2N2s2Tk5QU1AzcmFWZ0dj?oc=5",
+     "fuente": "Los Primeros TV",
+     "resumen": "",
+     "fecha": "2026-11-17T13:53:15+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T03:31:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Presunto apagón mundial del 17 de noviembre: cómo se originó el rumor y por qué se afirmó que podría durar 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSllWamxKeWxmSUtPSkFXeV9FUHV4eHlNdzlLUEZPUzQxZFBON1pwYXd1U21aZ0N5a05NeGxremlnRHQtMkZscURXQVdfZ2NOdDlIT0J1eWpRTTc2dnR3LTY2cXAwMnRNMXFGcFdfa1l5Wjk5em5fUm1LNERnb1dmeWI5bGdObGV1LUI4MXczbk9DU0Q3VFo1d3YydjhpY1FieG1JMzJsMUpqV0xmU3piVTZjRlNKelNRWHVr?oc=5",
-     "fuente": "Teletrece",
-     "resumen": "",
-     "fecha": "2026-11-16T16:25:00+01:00",
-     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -96,22 +96,6 @@
      "fuente": "Diario del Sur",
      "resumen": "Olas de calor extremas alimentaron megaincendios simultáneos en Canadá, Estados Unidos, España, Francia y Grecia durante el verano boreal.",
      "fecha": "2026-11-17T13:31:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "La temporada de incendios de 2025 dejó más de un millón de hectáreas quemadas en Europa: la península registró un récord",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-temporada-de-incendios-de-2025-dej%C3%B3-m%C3%A1s-de-un-mill%C3%B3n-de-hect%C3%A1reas-quemadas-en-europa-la-pen%C3%ADnsula-registr%C3%B3-un-r%C3%A9cord/ar-AA2hEjcM",
-     "fuente": "20 minutos on MSN",
-     "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
-     "fecha": "2026-11-17T10:08:28+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "España lleva años esperando sus nuevos bombarderos para apagar incendios. Galicia se ha cansado y ha fichado un helicóptero militar Black Hawk",
-     "url": "https://www.motorpasion.com/seguridad/espana-lleva-anos-esperando-sus-nuevos-bombarderos-para-apagar-incendios-galicia-se-ha-cansado-ha-fichado-helicoptero-militar-black-hawk",
-     "fuente": "Motorpasión",
-     "resumen": "España, y también media Europa, lleva años esperando a que se reanude la producción y se entreguen los bombarderos de agua ‘Canadair’ que han ...",
-     "fecha": "2026-11-17T04:01:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -145,6 +129,22 @@
      "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
      "fecha": "2026-11-14T00:00:00+01:00",
      "fecha_txt": "14 nov"
+    },
+    {
+     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
+     "fuente": "Lanza Digital",
+     "resumen": "",
+     "fecha": "2026-11-13T14:01:39+01:00",
+     "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmlkRUYtNU9tZ25KVTVBYzNVQjNyb0FsbmFXMHVxNW9VM2I4RFpCQXBUZlh0U0NrbHFHWFRodzhfOVgzSW9fQXd6M1c5OWVuVjJOS2JGTUpqVkMwMmR5MklSODFfYkFPV0l1ZHhMZm1IRy1TbjAzdjdsamNuRTNYak9TNEQxdElsaFVXcnB0a1pKVGJaMm0yVTF3OUlxWUxRTDdzUDFUem92QXQydFp1NF80VjNaZUU0Qkx2cDZrWTZuSXdCTUNHWl9Tak0zZDhQRDE1aUYyeDdsS0s4R0E?oc=5",
+     "fuente": "enTomelloso.com",
+     "resumen": "",
+     "fecha": "2026-11-13T13:25:59+01:00",
+     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -265,14 +265,6 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "Apagón mundial del 17 de noviembre: qué pasó con la alerta en Estados Unidos y qué decía el mensaje oficial",
-     "url": "https://www.elnueve.com/mundo/apagon-mundial-del-17-de-noviembre-que-paso-con-la-alerta-en-estados-unidos-y-que-decia-el-mensaje-oficial_20261117/",
-     "fuente": "ElNueve.com - Canal 9 Televida Mendoza",
-     "resumen": "Una prueba nacional del sistema de emergencias interrumpió las transmisiones de radio y televisión en Estados Unidos. El operativo fue vinculado en redes sociales con una supuesta desconexión mundial ...",
-     "fecha": "2026-11-17T13:52:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "¿Apagón de 72 horas en España? Desmontamos el bulo que anuncia un colapso eléctrico mundial para el 17 de noviembre",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQlo1aGFTR0xqcGJNRkp2NjBLLVZoVWhYclBJdXZoU3ZWV3Fwd01uVV9JUkM4Qi1kTDFJV0tQOGw0ZHlvRU1UVjZrSFdzSkg4QjdCR09vY3Fuc1VFN25MZDI2ZXRMRk9ERy1JdEY0VDBUT1pLYS1Vb20wbFVqYzl3UERvTDZmV1lEc21WYWdKU3pNc09JZTVSNk5BYmV3aERrR21BUUczczViR3FKTlJ3SFV3eHBMVGhZeXlYZTFWanhSX0Q0S0lrcEd2WG9VMkhZMVpscHA2bjlSVGNpR2U4SnJBNE1yTUktR3c?oc=5",
      "fuente": "elciudadano.com",
@@ -286,6 +278,14 @@
      "fuente": "La Opinión de Murcia",
      "resumen": "",
      "fecha": "2026-11-17T11:35:23+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Apagón mundial de hoy a las 20:20: cómo comprobar en directo que la luz sigue en España",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWlVTjFHVTJYSXU1YXdEXy1jOTMyU01MNldhRHVOZXBGMnpYWTUzQ3pVOUttcU9fNFZKbkRSMlZxR0w1Ml9HYUstUFh2X0dqWXJ6MXo2VzAydHhVY041b1EwVWlyOVpZckZUaG9mOW5JTTdqQjRCeURzQ0NEQ3BDaQ?oc=5",
+     "fuente": "TarifaLuzHora",
+     "resumen": "",
+     "fecha": "2026-11-17T10:46:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
