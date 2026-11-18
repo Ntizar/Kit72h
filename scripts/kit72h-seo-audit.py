@@ -131,7 +131,7 @@ def autorreparar():
     if c.returncode != 0:
         print(f"[auto-fix] commit falló: {(c.stderr or '').strip()[:200]}")
         return False
-    git("pull", "--rebase", "-q", "origin", "main")
+    git("pull", "--rebase", "--autostash", "-q", "origin", "main")
     p = git("push", "-q", "origin", "main")
     if p.returncode != 0:
         print(f"[auto-fix] push falló: {(p.stderr or '').strip()[:200]}")

@@ -252,7 +252,7 @@ def main():
         return
     git("add", "data/pins-generados.json", "pintout/")
     git(*IDENT, "commit", "-q", "-m", "feat: generar pins Pinterest para atraer tráfico")
-    git("pull", "--rebase", "-q", "origin", "main")
+    git("pull", "--rebase", "--autostash", "-q", "origin", "main")
     p = git("push", "-q", "origin", "main")
     if p.returncode == 0:
         print("  ✓ Push completado")
