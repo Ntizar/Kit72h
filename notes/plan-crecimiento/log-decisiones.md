@@ -62,3 +62,5 @@
 | 2026-11-15 | calentar-casa-sin-electricidad-invierno | publicacion | encolado | Se publica con el publicador (08:30/12:30) |
 | 2026-11-16 | cocinar-sin-electricidad-gas | guia | propuesto | Score 75.0. Invierno activo, búsqueda supervivencia activa. 5 métodos, tabla comparativa, AESAN+PC, 3+ internos, 3+ ntizar-21. |
 | 2026-11-16 | calentar-casa-sin-electricidad-invierno | guia | encolado | 11623 chars cuerpo, 6 métodos, 4 fuentes oficiales (AEMET, PC, IDAE, DG ECHO). Publicador 08:30/12:30. |
+| 2026-11-18 | cocinar-sin-electricidad-gas | guia | encolado | Guía 1694 palabras, 6 métodos, 3 fuentes oficiales (Sanidad/PC/IDAE), 8 internos, 5 ASIN verificados. Publicador 08:30/12:30. |
+| 2026-11-18 | como calentar la casa sin electricidad | guia | propuesto | Score 101.2 (top) pero ya publicado 2026-11-16 como calentar-casa-sin-electricidad-invierno; no se repite. |
