@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T04:11:01+01:00",
+  "actualizado": "2026-11-18T07:11:03+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,14 +83,6 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Europa registra en 2025 su peor temporada de incendios forestales en 18 años",
-     "url": "https://www.diariodelsur.com.co/noticias/europa-registra-en-2025-su-peor-temporada-de-incendios-forestales-en-18-anos",
-     "fuente": "Diario del Sur",
-     "resumen": "Europa registró en 2025 más de un millón de hectáreas quemadas; la península ibérica concentró el 63 % del total de la UE, un récord histórico sin precedentes.",
-     "fecha": "2026-11-17T18:30:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ah...",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSGRPMFdaelVGVXlkQWJxNmNra2ZxSlpkcGRhLV9fdEhQaENpVElZbC1xZnlYaWNkN1N2ZE11N1Z2N0RqUXBQU2VTZ0oxc1NvY18zSTY2YmdaTTQwV3lhUllqNUJpRWhwTmItRjE4T050ZmVuUDRob2VNbjRmUmJqN2wwekRJd1RILWRwRzBibTBTcEZTWkVWTTRXMFprS0JfRDE5SGVWSlBlcldpdURjbHMybHV5SVRzQWNWUDZMejFQRHRGMk9PdTZ0UFdKT2NBRXQxRmtEWFp6M1NIajdPbF9sT1dWekxiRE1VRnJGV2thYVlKYzYyb1pyandjYm9UZ2ZB0gGIAkFVX3lxTE01WlBPMm42dkE5MFdFMVdzeWZMQUhnV1NDOXRmeFd3WlFjeUoyVThPTk8yRTZ4VHlrU1M5bXRlUjN6Z05hSVhDYnNCd0FBaDlnX2ZRREV2cW1zRDc3OXhhUVloR2FIUVIwdWJvcC0xMjNqVV9FaDUycmZabXlXb2o0MEFZVnhXOEVUN19xYnZ4Nlh2eGNOZXh1UFY3eFRfQzBNNTNubHpueTRncFRGSUJram9PR2o2elRnbWFKRWY5Zl9sS3Nfa3BWXy0ySmNPaUpEREpWN21lSjJEU0l0SVFJdnVpblB5dDhrMXJzN1FiTFRxT05IWGlILU9lNVJabzlYM1ZGRDVYMw?oc=5",
      "fuente": "OkDiario",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-15T05:04:09+01:00",
      "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
+     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
+     "fuente": "El Periódico Extremadura",
+     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
+     "fecha": "2026-11-14T00:00:00+01:00",
+     "fecha_txt": "14 nov"
     }
    ]
   },
@@ -249,6 +249,14 @@
      "fecha_txt": "17 nov"
     },
     {
+     "titulo": "Borja, ingeniero: “Con una batería de menos de 500 € me puedo desconectar de la red eléctrica”",
+     "url": "https://www.clarin.com/internacional/borja-ingeniero-bateria-500-puedo-desconectar-red-electrica_0_4ttsCbdN9U.html",
+     "fuente": "Clarín",
+     "resumen": "Un especialista en energía mostró cómo funciona un dispositivo portátil capaz de suministrar electricidad a electrodomésticos esenciales durante un apagón.El equipo también admite recarga mediante pan ...",
+     "fecha": "2026-11-17T17:00:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "España: ¿estamos más cerca de otro apagón?",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRJNUZwaFR0QWFERTZ5RFVHc0V5MWJlOTR3c1FqY2tSN1dvb0lXdXNicmhrUk1TOGpNek1hVmhLcXFBckVwd3F6REVrQkdFVFR6Z2hncnBBZ1ZNVGtUVVlNOWQzWEg1VTdOMXFPdncydFpwM3pmTGZaY0pnMW1uOXJRY0ZtcFh3Ulk4a2NhNEJLVHNxeTVr0gGcAUFVX3lxTE1yVmRiV0l1ME1qeFF2MEt0azVzejRLRWNYOGlXRzQ0UXFNeHloUDZmZ3NrZ1NWS2VQb1h4VUFpdlp6ekJwWlZTYklrNEZ6Nkp0OGMzYkVONzdRT0k4czNKNVRDOTNvdFpoVmxvVFlIaExPQjZxQTlHMFY5SUdJTFBDNGlUWXhIS09mNFFsc0laN2x1V2hrdUtodHRVcQ?oc=5",
      "fuente": "MUNDIARIO",
@@ -278,14 +286,6 @@
      "fuente": "La Opinión de Murcia",
      "resumen": "",
      "fecha": "2026-11-17T11:35:23+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Apagón mundial de hoy a las 20:20: cómo comprobar en directo que la luz sigue en España",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWlVTjFHVTJYSXU1YXdEXy1jOTMyU01MNldhRHVOZXBGMnpYWTUzQ3pVOUttcU9fNFZKbkRSMlZxR0w1Ml9HYUstUFh2X0dqWXJ6MXo2VzAydHhVY041b1EwVWlyOVpZckZUaG9mOW5JTTdqQjRCeURzQ0NEQ3BDaQ?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-17T10:46:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
