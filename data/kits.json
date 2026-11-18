@@ -260,12 +260,13 @@
               "es_busqueda": false
             },
             {
-              "producto": "Pastas, arroz y legumbres en paquetes",
+              "producto": "Legumbres secas en paquetes (garbanzos, 2 kg)",
               "descripcion": "Surtido de despensa para completar la semana sin depender de la nevera.",
-              "precio_aprox": "10-20 €",
+              "precio_aprox": "5-10 €",
               "prioridad": "esencial",
               "afiliado": "https://www.amazon.es/dp/B0H3WC3R53?tag=ntizar-21",
-              "es_busqueda": false
+              "es_busqueda": false,
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Abreconservas manual",
@@ -774,11 +775,12 @@
               "prioridad": "esencial"
             },
             {
-              "producto": "Palas y cubos para retirar lodo",
+              "producto": "Pala ancha para retirar lodo o nieve",
               "afiliado": "https://www.amazon.es/dp/B012D3650K?tag=ntizar-21",
               "descripcion": "Retirar lodo y agua acumulada tras el paso del agua.",
-              "precio_aprox": "10-25 €",
-              "prioridad": "recomendado"
+              "precio_aprox": "15-30 €",
+              "prioridad": "recomendado",
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Desumidificador o sachets antihumedad",
@@ -2304,14 +2306,14 @@
               "verificado_ficha": "2026-09-02"
             },
             {
-              "producto": "Termo pequeño de boca ancha (350-500 ml)",
+              "producto": "Termo de boca ancha (26 cl)",
               "afiliado": "https://www.amazon.es/dp/B0BWJYXNK3?tag=ntizar-21",
               "descripcion": "Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara.",
               "precio_aprox": "10-20 €",
               "prioridad": "recomendado",
               "busqueda": "termo pequeño de boca ancha",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-07"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Botella térmica fría (500 ml)",
@@ -2416,14 +2418,14 @@
               "verificado_ficha": "2026-09-15"
             },
             {
-              "producto": "Cambrador portátil plegable",
-              "afiliado": "https://www.amazon.es/dp/B0BZS918ZG?tag=ntizar-21",
-              "descripcion": "Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas.",
-              "precio_aprox": "8-14 €",
+              "producto": "Cambiador portátil plegable e impermeable",
+              "afiliado": "https://www.amazon.es/dp/B0GL8WWVNN?tag=ntizar-21",
+              "descripcion": "Un sitio limpio y acolchado para cambiar al bebé cuando no hay casa: tejido Oxford lavable, se pliega en un bolsillo. En un albergue o un coche, marca la diferencia.",
+              "precio_aprox": "10-25 €",
               "prioridad": "extra",
-              "busqueda": "cambrador portátil plegable",
+              "busqueda": "cambiador portatil plegable bebe impermeable",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-15"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Crema barrera contra rozaduras",
@@ -2474,12 +2476,12 @@
             {
               "producto": "Gorro y manoplas de bebé",
               "afiliado": "https://www.amazon.es/dp/B0FNCWC3SM?tag=ntizar-21",
-              "descripcion": "Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro.",
+              "descripcion": "El gorro es para la calle y para una evacuación, no para dormir. El NHS pide la habitación entre 16 y 20 °C y nada de sobrecalentar al bebé: al entrar en casa, gorro fuera. Las manoplas, para llevar en brazos con frío.",
               "precio_aprox": "5-10 €",
               "prioridad": "recomendado",
               "busqueda": "gorro y manoplas de bebé",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-05"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
@@ -2509,14 +2511,14 @@
               "verificado_ficha": "2026-09-05"
             },
             {
-              "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
-              "afiliado": "https://www.amazon.es/dp/B0F5X5TN4T?tag=ntizar-21",
-              "descripcion": "Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet.",
-              "precio_aprox": "6-10 €",
+              "producto": "Suero de rehidratación oral (8 sobres)",
+              "afiliado": "https://www.amazon.es/dp/B00MBBKYUC?tag=ntizar-21",
+              "descripcion": "Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. El suero del nebulizador (salino hipertónico) no se bebe; este es de rehidratación oral, con la composición de la OMS. Pauta de tu pediatra o enfermera, no de internet.",
+              "precio_aprox": "6-12 €",
               "prioridad": "esencial",
-              "busqueda": "suero de rehidratación oral y jeringuilla dosificadora",
+              "busqueda": "hidro suero oral casen sobres rehidratacion",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-05"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Aspirador nasal + suero fisiológico en monodosis",
@@ -2653,14 +2655,14 @@
               "verificado_ficha": "2026-09-06"
             },
             {
-              "producto": "Ficha médico-identificativa plastificada",
-              "afiliado": "https://www.amazon.es/dp/B0DNZ8DG6H?tag=ntizar-21",
-              "descripcion": "Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera.",
-              "precio_aprox": "0-5 €",
+              "producto": "Ficha médico-identificativa: pulsera de alerta grabada",
+              "afiliado": "https://www.amazon.es/dp/B0FS91XDJB?tag=ntizar-21",
+              "descripcion": "Nombre, alergias, medicación y contacto grabados en el metal, a la vista de cualquiera que te atienda. La tarjeta de papel se moja; esto no.",
+              "precio_aprox": "8-20 €",
               "prioridad": "esencial",
               "busqueda": "ficha médico-identificativa plastificada",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-06"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
@@ -2749,14 +2751,14 @@
               "verificado_ficha": "2026-09-04"
             },
             {
-              "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
-              "afiliado": "https://www.amazon.es/dp/B00AMHKB28?tag=ntizar-21",
-              "descripcion": "La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran.",
-              "precio_aprox": "0 €",
+              "producto": "Pulsera de alerta: marcapasos o dispositivo implantado",
+              "afiliado": "https://www.amazon.es/dp/B0F1FJXX25?tag=ntizar-21",
+              "descripcion": "Un sanitario necesita saberlo antes de un desfibrilador o una resonancia. Grabada y visible en la muñeca, funciona aunque no puedas hablar.",
+              "precio_aprox": "6-20 €",
               "prioridad": "esencial",
               "busqueda": "imán o bolsa de seguridad para marcapasos",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-16"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
@@ -2850,14 +2852,14 @@
               "sin_enlace": true
             },
             {
-              "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
-              "afiliado": "https://www.amazon.es/dp/B09XJ947XJ?tag=ntizar-21",
-              "descripcion": "Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no.",
-              "precio_aprox": "5-15 €",
+              "producto": "Baraja española (40 cartas)",
+              "afiliado": "https://www.amazon.es/dp/B0020K2J5C?tag=ntizar-21",
+              "descripcion": "Sin pantallas y sin batería: media hora de partida cambia el ánimo de una tarde larga. Letra grande para quien no ve de cerca.",
+              "precio_aprox": "4-10 €",
               "prioridad": "extra",
               "busqueda": "juegos de naipes, libro de letra grande o rádio con altavoz",
               "es_busqueda": false,
-              "verificado_ficha": "2026-09-15"
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
@@ -4082,13 +4084,13 @@
           "intro": "Sin licencia, sin cobertura y sin internet. Los PMR446 son legales en España desde 1998 y permiten hablar emisora a emisora cuando no hay red.",
           "items": [
             {
-              "producto": "Walkie-talkies PMR446 (pareja, recargables)",
-              "afiliado": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21",
-              "descripcion": "Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común.",
-              "precio_aprox": "40-80 €",
+              "producto": "Walkie-talkies PMR446 recargables (16 canales)",
+              "afiliado": "https://www.amazon.es/dp/B087NL82BH?tag=ntizar-21",
+              "descripcion": "Par de PMR446 recargables con base de carga: 16 canales y 0,5 W, legales en España sin licencia y sin trámites.",
+              "precio_aprox": "35-60 €",
               "prioridad": "esencial",
               "es_busqueda": false,
-              "verificado_ficha": "2026-10-03"
+              "verificado_ficha": "2026-11-17"
             },
             {
               "producto": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
@@ -4161,7 +4163,7 @@
       "titulo": "Kit Starlink: internet satelital para emergencias (2026)",
       "slug": "kit-starlink",
       "icono": "📡",
-      "resumen": "Kit Starlink: internet satelital con cielo despejado desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.",
+      "resumen": "Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.",
       "fuente": {
         "nombre": "Comisión Europea — Estrategia de la Unión de la Preparación",
         "url": "https://commission.europa.eu/topics/preparedness_es",
@@ -4446,7 +4448,7 @@
           "Calcula tu consumo diario: kWh/mes ÷ 30 = kWh/día. El kit debe cubrir el 70-80% de ese consumo.",
           "Identifica dónde instalar paneles: tejado orientado al sur, tejado plano o terreno adyacente. Mínimo 4 m² por cada 400W.",
           "Prepara el espacio de baterías: zona ventilada, 10-25 °C, lejos de materiales inflamables.",
-          "Localiza el sitio del generador: exterior, ventilado, a 3+ metros de ventanas, con acceso para repostar.",
+          "Localiza el sitio del generador: exterior, suelo firme y a más de 6 metros de ventanas, puertas y respiraderos (el CDC marca 20 pies), con acceso para repostar.",
           "Si no sabes instalar: presupuesto de electricista + instalador solar certificado. No es brujería, pero hay que hacerlo bien."
         ],
         "durante": [
@@ -4468,7 +4470,7 @@
         "Comprar paneles sin inversor ni baterías. Los paneles solo generan con sol: sin almacenamiento no tienes nada de noche. Primero baterías e inversor, luego paneles.",
         "Instalar baterías de plomo-ácido en 2026. El litio LFP cuesta 3-4× más pero dura 5× más (3.000+ ciclos vs 500-1.000): sale más barato por ciclo.",
         "Poner el Starlink con visión obstruida. Necesita ~100° de cielo despejado; árboles, tejados o montañas cortan la señal. Tejado o terraza con vista abierta.",
-        "Meter el generador dentro de casa. El CO es invisible e inodoro y mata en minutos: siempre en exterior, ventilado, a 3+ metros de ventanas y puertas.",
+        "Meter el generador dentro de casa. El CO es invisible e inodoro y mata en minutos: siempre en exterior, a más de 6 metros de ventanas, puertas y respiraderos, y nunca en casa ni en el garaje aunque las puertas estén abiertas.",
         "No profesionalizar la instalación. Paneles mal anclados se vuelan, baterías mal conectadas se incendian, cables sin protección se funden. 200-500 € de instalación certificada valen cada euro."
       ],
       "secciones": [
@@ -4533,12 +4535,12 @@
           "intro": "Respaldo cuando no hay sol. Generadores inverter: corriente limpia, más silenciosos y eficientes que los tradicionales.",
           "items": [
             {
-              "producto": "Depósito ampliado o conexión a gas natural",
-              "afiliado": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21",
+              "producto": "Bidón homologado para combustible (20 L)",
+              "afiliado": "https://www.amazon.es/dp/B09WZ7MDT1?tag=ntizar-21",
               "es_busqueda": false,
-              "descripcion": "Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional.",
-              "precio_aprox": "200-600 €",
-              "verificado_ficha": "2026-10-17"
+              "descripcion": "La autonomía la marcan los litros: 20 L en bidón homologado con cánula y franja de medición, fuera de la vivienda y rotando cada tres meses con estabilizador. La conexión a gas natural evita el repostaje, pero la hace un instalador autorizado: no es un producto de Amazon.",
+              "precio_aprox": "15-30 €",
+              "verificado_ficha": "2026-11-17"
             }
           ]
         },
@@ -4610,9 +4612,9 @@
             {
               "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
               "afiliado": "https://www.amazon.es/dp/B077XTVFHQ?tag=ntizar-21",
-              "descripcion": "Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación.",
+              "descripcion": "Sin licencia en España con PMR446: 16 canales y 0,5 W de potencia máxima legal, antena fija. IP67, LCD, LED, VOX. 2-5 km en campo abierto. Ideal para coordinar una evacuación.",
               "precio_aprox": "100-200 € (pack 4)",
-              "verificado_ficha": "2026-10-04"
+              "verificado_ficha": "2026-11-17"
             }
           ]
         }
