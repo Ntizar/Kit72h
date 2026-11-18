@@ -211,6 +211,30 @@ def cabeza(texto: str) -> str | None:
     return None
 
 
+
+# Clases de producto que NO pueden colarse en una tarjeta: si el título de
+# Amazon es de otra familia y la tarjeta no la menciona, es otro producto.
+# Así se detectó el carburador de desbrozadora en el cambiador de bebé y el
+# salino hipertónico de nebulizador en el suero de rehidratación oral.
+TIPOS_INCOMPATIBLES = [
+    # Familias que jamás pertenecen a un kit de emergencia. Lista CORTA a
+    # propósito: los títulos las mencionan de pasada («apto lavavajillas»,
+    # «para frigorífico») y una lista larga llena el gate de falsos positivos.
+    "carburador", "desbrozadora", "motosierra", "cortacesped", "nebulizador",
+    "calentador de agua", "caldera de gas", "ambientador", "semillas de cesped",
+    "videojuego", "consola de juegos",
+]
+
+
+def tipo_incompatible(nombre: str, titulo: str) -> str | None:
+    """Un tipo de producto que el título declara y la tarjeta no pide."""
+    n = sin_acentos(nombre).lower()
+    t = sin_acentos(titulo).lower()
+    for tipo in TIPOS_INCOMPATIBLES:
+        if tipo in t and tipo not in n:
+            return tipo
+    return None
+
 def comparar(nombre: str, titulo: str) -> tuple[str, str, float]:
     """Devuelve (estado, motivo, cobertura). Solo acusa ausencias."""
     if not titulo:
@@ -227,6 +251,11 @@ def comparar(nombre: str, titulo: str) -> tuple[str, str, float]:
     if cab and not aparece(cab, tt, tnorm):
         return ("mismatch",
                 f"el título no menciona «{cab}»: se anuncia otra cosa", 0.0)
+
+    # 1b. El título vende otra FAMILIA de producto (carburador, nebulizador…).
+    tipo = tipo_incompatible(nombre, titulo)
+    if tipo:
+        return ("mismatch", f"el título es de otra familia de producto («{tipo}»)", 0.0)
 
     # 2. Modelo declarado y ausente ⇒ otra versión del mismo producto.
     mod_n, mod_t = modelos(nombre), modelos(titulo)

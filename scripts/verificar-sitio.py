@@ -650,6 +650,59 @@ def _frases(t: str) -> list[str]:
     return [f.strip() for f in re.split(r"(?<=[.;:!?])\s+|\n+", t or "") if f.strip()]
 
 
+def _potencias(texto: str) -> list[float]:
+    """Cifras en vatios de un texto, incluidas las de rango («0,5-2 W»)."""
+    vals: list[float] = []
+    for m in re.finditer(r"(\d+(?:[.,]\d+)?)(?:\s*-\s*(\d+(?:[.,]\d+)?))?\s*"
+                         r"(?:w\b|vatios|watios)", texto, re.I):
+        for g in (m.group(1), m.group(2)):
+            if g:
+                vals.append(float(g.replace(",", ".")))
+    return vals
+
+
+def _reglas_seguridad(frase: str, contexto: str | None = None) -> list[str]:
+    """Claims de seguridad con cifra: se comprueban contra la fuente oficial.
+
+    Cada regla nació de un error real publicado. `contexto` es la frase con la
+    anterior, porque el tema (PMR446, generador) puede venir de antes.
+    """
+    ctx = contexto or frase
+    fallos: list[str] = []
+
+    # PMR446 sin licencia = 0,5 W (500 mW). «Hasta 2 W» es una emisora que
+    # exige licencia de radioaficionado.
+    # La frase que habla de radioafición CON licencia (HF/VHF/UHF, 10-100 W) no
+    # es un claim PMR446: el contexto la menciona, pero el sujeto es otro
+    # servicio. Ya se equivocó una vez acusando un artículo correcto.
+    if (re.search(r"\bpmr\s?446\b|446\s?mhz|walkie", ctx, re.I)
+            and not re.search(r"radioafici|radio\s?amateur", frase, re.I)):
+        for v in _potencias(frase):
+            if v > 0.5:
+                fallos.append(f"PMR446 con {v:g} W: el máximo legal sin licencia "
+                              f"es 0,5 W, no 2 W")
+                break
+
+    # Generador: nunca dentro y a más de 6 m (CDC, 20 pies) de huecos.
+    if re.search(r"generador|grupo\s+electr[oó]geno", ctx, re.I):
+        for m in re.finditer(r"(\d+(?:[.,]\d+)?)\s*\+?\s*(?:m\b|metros)", frase, re.I):
+            if float(m.group(1).replace(",", ".")) < 6:
+                fallos.append(f"generador a «{m.group(0).strip()}»: el CDC pide más "
+                              f"de 6 m (20 pies) de ventanas, puertas y respiraderos")
+                break
+
+    # Bebé: habitación 16-20 °C y gorro fuera al entrar en casa (NHS).
+    if (re.search(r"beb[eé]|ni[nñ]o", frase, re.I)
+            and re.search(r"gorro|gorra", frase, re.I)
+            and re.search(r"duerme|dormir|dormir[aá]", frase, re.I)
+            and not re.search(r"no\s+para\s+dormir|sin\s+gorro|gorro\s+fuera|"
+                              r"quita[r]?\s+el\s+gorro", frase, re.I)):
+        fallos.append("bebé durmiendo con gorro dentro de casa: el NHS pide 16-20 °C "
+                      "y quitar el gorro al entrar")
+
+    return fallos
+
+
 def validar_claims_satelite(raiz: Path) -> None:
     def textos(nodo, ruta: str):
         if isinstance(nodo, dict):
@@ -672,6 +725,8 @@ def validar_claims_satelite(raiz: Path) -> None:
         for texto, donde in textos(json.loads(ruta.read_text(encoding="utf-8")), fichero):
             frases = _frases(texto)
             for i, frase in enumerate(frases):
+                for fallo in _reglas_seguridad(frase, " ".join(frases[max(0, i - 1):i + 2])):
+                    err(f"{donde}: {fallo} — «{frase[:110]}»")
                 if not patron.search(frase):
                     continue
                 # el matiz de cielo puede ir en la frase siguiente del mismo campo
@@ -682,6 +737,8 @@ def validar_claims_satelite(raiz: Path) -> None:
                 elif PROMESA_SAT.search(frase) and not re.search(r"cielo|despejad", ventana, re.I):
                     err(f"{donde}: cobertura satelital sin la condición de cielo despejado: "
                         f"«{frase[:110]}»")
+                for fallo in _reglas_seguridad(frase, " ".join(frases[max(0, i - 1):i + 2])):
+                    err(f"{donde}: {fallo} — «{frase[:110]}»")
 
 
 # ──────── 14. Overlays de idioma completos (no se pierden al traducir) ────────
