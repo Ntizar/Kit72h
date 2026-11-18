@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T10:11:01+01:00",
+  "actualizado": "2026-11-18T13:11:05+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-18T10:51:15+01:00",
+     "fecha_txt": "18 nov"
+    },
     {
      "titulo": "Apagón mundial: qué hay detrás de la teoría de las 72 horas sin luz ni internet",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTdVX2h6RVExQXZvN3BndnlSRFNteU5Bb2lVVHNtR3ZGYV9zNEVoTHg5VUhDT3R0RjVaaGdod0ZENzhMdzR5ZmRHNVhlbS1ZSHFIdllGSXQ5LVlMcmJxSUk1TVRsdWx0QklhMmY5UzY5MFV4d2RaSTdpVzh0RTl4T2JMYkgyZDNBTTNJM3pkRXRwMDZMaUdFeXJYeGE0UWdaemdXVksyQUplU2VtN3Z6SmY2ekFCSXlYRHJXZ1hWdlZsT1pEN1Z0NDhyc23SAc8BQVVfeXFMTks1cl81cFVXblJHUWNmOXRmV3I4TmRTYkZhN013SXFZS1hmaDlyNEIzZEdFTloxYjRpcXY1b2h2MmNRNDFwQTVSZlFIOUdWMGVITWV4NEdXeXM0dF83WG5aZHdhQ0hXOUhoRU5TZWstdk1PMERWUnp2c21BNVR6d3g0VmFPZnlUUFJaNnp5MXdvNmRETzhCZWdWM0xPS1lKZWZMa25PUE1oVHVtSnR3M0JLb19vWmxJR2NrM0V0MGpOWGhXOXJLMDY1TXozZGNN?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T11:03:16+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "La UE recomienda prepararse para afrontar 72 horas de emergencia: qué tener en casa",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlBBYnNhNjE2V2lDWVU4YkwyNDBFMVdqYVpNQlFjQlhmRmg1WDFRVWtmSVRkMjFHNWtHdUtYNThiSnVVakpueFhRYkhNT0xuNWR4SlZqZVp2a2kxZEVsXzZ0MV9TM3lBOFJrZGNRMXdBQnlETzNjRHlaemZ3a3k2eVhvbHlDc2lmSnliTWxB?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-17T10:53:59+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -82,14 +82,6 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
-    {
-     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ah...",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSGRPMFdaelVGVXlkQWJxNmNra2ZxSlpkcGRhLV9fdEhQaENpVElZbC1xZnlYaWNkN1N2ZE11N1Z2N0RqUXBQU2VTZ0oxc1NvY18zSTY2YmdaTTQwV3lhUllqNUJpRWhwTmItRjE4T050ZmVuUDRob2VNbjRmUmJqN2wwekRJd1RILWRwRzBibTBTcEZTWkVWTTRXMFprS0JfRDE5SGVWSlBlcldpdURjbHMybHV5SVRzQWNWUDZMejFQRHRGMk9PdTZ0UFdKT2NBRXQxRmtEWFp6M1NIajdPbF9sT1dWekxiRE1VRnJGV2thYVlKYzYyb1pyandjYm9UZ2ZB0gGIAkFVX3lxTE01WlBPMm42dkE5MFdFMVdzeWZMQUhnV1NDOXRmeFd3WlFjeUoyVThPTk8yRTZ4VHlrU1M5bXRlUjN6Z05hSVhDYnNCd0FBaDlnX2ZRREV2cW1zRDc3OXhhUVloR2FIUVIwdWJvcC0xMjNqVV9FaDUycmZabXlXb2o0MEFZVnhXOEVUN19xYnZ4Nlh2eGNOZXh1UFY3eFRfQzBNNTNubHpueTRncFRGSUJram9PR2o2elRnbWFKRWY5Zl9sS3Nfa3BWXy0ySmNPaUpEREpWN21lSjJEU0l0SVFJdnVpblB5dDhrMXJzN1FiTFRxT05IWGlILU9lNVJabzlYM1ZGRDVYMw?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:00:27+01:00",
-     "fecha_txt": "17 nov"
-    },
     {
      "titulo": "Científicos descubren por qué pueden declararse incendios al mismo tiempo en España y otros países europeos: la clave está en la atmósfera",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlJSGUzRWIwbnp0ME41WEFUN3pPMG0xQXE3ajRwY2JZdUl0cmtHNnBGT0NwdXdfcHJkdEhCTksxQWhnNFFKRzJWb3hBQVJOUkNaTzlfcWtmSkdBMFYyTE1SZkRkUG5zS0t5TGVJNm51LW9FS2tmYlE4N3BoX1hpOE1pWWdtUFVjSTQ1aEVGSmIzQlYzc0htQ0E2by1ueWpRelpKYjlnaE5RdWVxWTR4RXdoclRyXzd2TXFVaWh4OFNJQ3FDV2ZnZ2lRdmtQUmxRdnJhUWp6UFNSa21uSXM0TW90cjNUYjhQajVsWjU0YWY5MDZH?oc=5",
@@ -112,6 +104,14 @@
      "fuente": "20 minutos on MSN",
      "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
      "fecha": "2026-11-17T10:08:28+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
+     "url": "https://okdiario.com/naturaleza/febrero-2020-ganadero-asturiano-provoco-incendio-forestal-25-hectareas-quemar-pastos-ahora-enfrenta-multa-4080-3-anos-3-meses-carcel-20974021",
+     "fuente": "Okdiario",
+     "resumen": "En Asturias, la Justicia confirma tres años y tres meses de cárcel a un ganadero por un incendio forestal. Pagará 4080 euros.",
+     "fecha": "2026-11-17T10:00:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-18T12:28:51+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
      "titulo": "Arrancan las obras en el cauce del río Girona tras la dana Adam en Alicante y Oliva",
      "url": "https://actualidadvalencia.com/reparacion-cauce-rio-girona-dana-adam/",
      "fuente": "actualidadvalencia",
@@ -175,6 +183,14 @@
      "fuente": "RFI",
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -200,22 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-15T18:23:00+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "El temporal golpea Galicia: un puente derrumbado, un pueblo incomunicado y trenes suspendidos por las lluvias",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnJic1FfcDhNZ2VmSmRDbEZINXJ3aDMybTZnTzVRUXJSWGY1eWYzOE5Hdmw5TzBBWXhsdTFYY2c5eC10ai1IYnJRaWJ4WWdBNzRLZUVWWGY2OFU4WWdmU2JpZXdudXNsNlVGS0tFQ25IXzhtRC1BYUdaQzdEVEx0bVlSeUEyU3NTMElpclkyY1R5dTFsMW84dGx3a18tZC1lRkR0MldfN1BhZ24zUlZfRWFvRzZ0RkhfN2fSAb8BQVVfeXFMT3lWWENUa3VXamRXS0lYNUR0V3JDNGJsNnZwQkZyZmJCS013SzUwY2VFZ3Y5cEtzSDBOUEdXS2ZQUlZHLVBtYU00eERVNmFIMkhrVFRFc1RpRmc1VmVKaUpQUWw2SVhhNFY5SFBVYnJ5VzQ1YllmajdJRUhQWHdWVE5qOWdjY1F0cnpqMWdVRFpzdjhLZW04LTZIQ1k2c1VqMHNqbmQ2WjlNczRqeFgyS1REQS1EMHFwa3RsZF9WaUU?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-15T18:11:12+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlZxV2ttTVJBeE5ySEE5QlRXblZjZ1ZvY2hKZ2xaZ2tJUlRhUHdoMnRPUGNjNWNSVF9FMXUwNTNlSXVsMlo0S25JampmRHRtLXlJV25laXkxNmpJQ2NvbXFJS1A2ZWowQzFDRGxqNlJzZHJReWp4SkJUY1JIY2RBc0ZYeTl4Wi1pT1dpUFhrcFo2MURSbmlqUWNzYmNjYmpIOEw1X29lU25sQnExbkNYdmRzaWRFWk90RzVCUWVMejdhT1p6U1lxa0V5dGhOYmV3bVYyTGIwWFNsamRkNkZ6Zy0yQndaR1N1UHlObElFVTJEdk9rMldGMElQN0RLMHBWbUdUa011c01TS1psVC14UkNnVkVxNUNuR3UySURkbUpPUTFIQnYwZlUwazNLUmdPMmxFNGtpYkJGZW5MN0Rz?oc=5",
-     "fuente": "Bichos de Campo",
-     "resumen": "",
-     "fecha": "2026-11-14T17:01:36+01:00",
-     "fecha_txt": "14 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
+     "fuente": "TarifaLuzHora",
+     "resumen": "",
+     "fecha": "2026-11-18T10:28:15+01:00",
+     "fecha_txt": "18 nov"
+    },
     {
      "titulo": "La Asociación Española de Consumidores exige planes preventivos ante posibles apagones digitales",
      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ19seHJPdFJVMkI0WC1ZZzF4US0ySF9CbUFjMWpzLUJqcDlWV0Vhc3ZMY3BUcW1JcEM2Mks1cGE2c1R3TFRxYjJucXZ3UW5iRE9aTmh6QlBMU3EwYTYxTVZlNE9Ka0VpRlZRNnZ2RW1uVDZESEZBU0RkbGRUQlhWVmFqS3JSMmJrakM5ejYyenhKTTdJMjRqWVJ1OTJsbXZ0MmlIU1dwaG15NmhhdUpzU3lvMTdNXzRrQnNZVjdCRnFmZHh1cElKQ1JnbV9jRHZIRmNHXzVwOHVjQTVNckotNTExTmVWTEx5MWNaUkVXMzdMXzZWUHfSAfsBQVVfeXFMT1oxUUUzR0MyM3hRZkVRdmVXbTFUYXNmLWNmZmo2NUpHV3d4UW12X0FoOGphcldGaWtmMjd6N2ZXLWEwa29sTV96dnFjYW5qS0F3Q1hfdDdXNVpycklDZm5Fc3dpdHcycE9jWGQzaUx5Y0xjNmY0MHlLVXp2dHBsZGI4My1WQmxmZDhJSHRRM1pUX1pzVlZLMEVUNERyV054VVV6enJnTmlPVkkyU2xiQXFSSkc1UTRkbGVtczNpczBVV25jcmI2RFpheHk4M1lDM2J6QzU1QW1RYnl1bFJsbW52cHVoc0IxTUtJMnhqM1lvWkRwUFY0OW1nVms?oc=5",
@@ -278,14 +286,6 @@
      "fuente": "elciudadano.com",
      "resumen": "",
      "fecha": "2026-11-17T12:20:37+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Un apagón mundial de 72 horas este 17 de noviembre? La alerta que circula en Murcia, la predicción de 'Los Simpson' y lo que ocurrirá a las 20.20 horas",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZuYl8wcGZjOGlwcldLTk1VZDhlU1FwVUR4NEFCSWRMeDM1N1ZGN1ZET2dsMEdTSjhwdVBWVVFSeWhCRU1KN1B5RDExUzhLRlZEcVduU1dYOWtUQ2dXcXBWWUV0dnZJX3VCVkpjRGdzd01kNldyY2xMVnpObUNrQzJFQlRhM0toLVlvV3d0SWNkUlBKbWtlMmZOa1J2eGtoWXo2U3ZCYWdpSmFYOWR5M2lPR3dkd9IBuwFBVV95cUxOdVdrUjdFOWVtcTd1U3VRM19RNlo5cFkxaWFqbWJOd0YwVUN3cFhjUmZwcGZRYjY2ZVBodHB5WnRHeEhiRnZIRWRzMmpfN0lBWWh0MWdRaTNIY0Z2dzc5SWhIZkN2WDlxbkdNbkk1STRiQWNEOFpEalJTbnNvWXp4Wk1RM2RIeEFDeklSMXpFZk5hT1NJMk45YmdZdWZpeUJzckFGOHRvRFhHTU5zY3ZTVDhDZnVkMmRDS2c0?oc=5",
-     "fuente": "La Opinión de Murcia",
-     "resumen": "",
-     "fecha": "2026-11-17T11:35:23+01:00",
      "fecha_txt": "17 nov"
     }
    ]
