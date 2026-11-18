@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T16:11:06+01:00",
+  "actualizado": "2026-11-18T19:11:07+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Por qué Europa pide a sus ciudadanos armar kit de emergencia para sobrevivir 72 horas sin luz ni agua",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTUo3eElzWVBVcDJkbEh1OWtwajloaDNmSHpmRkk4aEtnaUt6ODBNWnAyYzVObU9Jc0ZObEwxZlF6azlod08xaWRKWW5XWW03bWxhSkpuVWF4dEFTQWQ3LWprdWNkZlQ2cC0temZGc0JIQkUwX3NMZlRudF9jUC1DeTJsUlh1VWwwbEhxMmhwU3VKSDNQNWpyMGtRRjR1ODdzRTZ3Z09Ya3NfZUZtc0gxYU9DdXQ1eEVmRGpBcWNvU283SHE1V0pjUVdHVlVfRGhPUHZfY1d1NDhJSmRFb0pfNlN5cGotS0NCUTZOeUdWNXB2QzZMV1RhaVFxODlGbFM1OGZYV1dTYw?oc=5",
+     "fuente": "BioBioChile",
+     "resumen": "",
+     "fecha": "2026-11-18T16:58:10+01:00",
+     "fecha_txt": "18 nov"
+    },
     {
      "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
@@ -32,7 +40,7 @@
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTdVX2h6RVExQXZvN3BndnlSRFNteU5Bb2lVVHNtR3ZGYV9zNEVoTHg5VUhDT3R0RjVaaGdod0ZENzhMdzR5ZmRHNVhlbS1ZSHFIdllGSXQ5LVlMcmJxSUk1TVRsdWx0QklhMmY5UzY5MFV4d2RaSTdpVzh0RTl4T2JMYkgyZDNBTTNJM3pkRXRwMDZMaUdFeXJYeGE0UWdaemdXVksyQUplU2VtN3Z6SmY2ekFCSXlYRHJXZ1hWdlZsT1pEN1Z0NDhyc23SAc8BQVVfeXFMTks1cl81cFVXblJHUWNmOXRmV3I4TmRTYkZhN013SXFZS1hmaDlyNEIzZEdFTloxYjRpcXY1b2h2MmNRNDFwQTVSZlFIOUdWMGVITWV4NEdXeXM0dF83WG5aZHdhQ0hXOUhoRU5TZWstdk1PMERWUnp2c21BNVR6d3g0VmFPZnlUUFJaNnp5MXdvNmRETzhCZWdWM0xPS1lKZWZMa25PUE1oVHVtSnR3M0JLb19vWmxJR2NrM0V0MGpOWGhXOXJLMDY1TXozZGNN?oc=5",
      "fuente": "Radio Sudamericana",
      "resumen": "",
-     "fecha": "2026-11-17T21:37:30+01:00",
+     "fecha": "2026-11-17T21:47:52+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T11:28:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "La UE recomienda un kit de emergencia para 72 horas ante apagones y crisis",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzNsZ1ZhY3B3YW5xWFd0U2R6eDI4eUpVMXBRc1czZGdIbktUVXd5akgxQ2tBclRWRDVjUTE3WEp0bUxHVnJUV3Q5ZW81SjZodXl6XzNKUGxzbkxJWHNYZlFyUDhXSDRiWWR0ZW1yR084MDluQTBZbkNEcjN2UzdIZi01NHZWTjhm?oc=5",
-     "fuente": "Columna Digital",
-     "resumen": "",
-     "fecha": "2026-11-17T11:28:00+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -89,14 +89,6 @@
      "resumen": "",
      "fecha": "2026-11-18T14:28:00+01:00",
      "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Temporada récord de incendios forestales devora más de seis millones de hectáreas.",
-     "url": "https://www.diariodelsur.com.co/noticias/temporada-record-de-incendios-forestales-devora-mas-de-seis-millones-de-hectareas",
-     "fuente": "Diario del Sur",
-     "resumen": "Olas de calor extremas alimentaron megaincendios simultáneos en Canadá, Estados Unidos, España, Francia y Grecia durante el verano boreal.",
-     "fecha": "2026-11-17T13:31:00+01:00",
-     "fecha_txt": "17 nov"
     },
     {
      "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-13T00:00:00+01:00",
      "fecha_txt": "13 nov"
+    },
+    {
+     "titulo": "Los incendios arrasan casi 300.000 hectáreas en España, el 44% de toda la superficie quemada en la Unión Europea",
+     "url": "https://gaceta.es/espana/los-incendios-arrasan-casi-300-000-hectareas-en-espana-el-44-de-toda-la-superficie-quemada-en-la-union-europea-20261108-1645/",
+     "fuente": "La Gaceta",
+     "resumen": "Los incendios forestales han arrasado 299.000 hectáreas en España hasta el final de septiembre, lo que representa el 44% de toda la superficie calcinada en la Unión Europea (UE), según un informe de Z ...",
+     "fecha": "2026-11-08T08:46:00+01:00",
+     "fecha_txt": "8 nov"
     }
    ]
   },
@@ -167,6 +167,14 @@
      "fuente": "ECOticias.com - El Periódico Verde",
      "resumen": "",
      "fecha": "2026-11-18T12:28:51+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Seguro coche inundación: cuándo cubre tu póliza los daños por DANA, granizo o viento y cuándo responde el Consorcio",
+     "url": "https://www.motor16.com/las-ultimas-noticias/seguro-coche-inundacion-consorcio-danos/",
+     "fuente": "Motor16",
+     "resumen": "El granizo y el viento solo se cubren con daños propios; la inundación la paga el Consorcio. Claves para revisar tu póliza antes de renovar.",
+     "fecha": "2026-11-18T09:50:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -207,14 +215,6 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-15T20:02:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
-     "fuente": "Meteored España",
-     "resumen": "",
-     "fecha": "2026-11-15T19:00:07+01:00",
      "fecha_txt": "15 nov"
     }
    ]
@@ -257,14 +257,6 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "Borja, ingeniero: “Con una batería de menos de 500 € me puedo desconectar de la red eléctrica”",
-     "url": "https://www.clarin.com/internacional/borja-ingeniero-bateria-500-puedo-desconectar-red-electrica_0_4ttsCbdN9U.html",
-     "fuente": "Clarín",
-     "resumen": "Un especialista en energía mostró cómo funciona un dispositivo portátil capaz de suministrar electricidad a electrodomésticos esenciales durante un apagón.El equipo también admite recarga mediante pan ...",
-     "fecha": "2026-11-17T17:00:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "España: ¿estamos más cerca de otro apagón?",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRJNUZwaFR0QWFERTZ5RFVHc0V5MWJlOTR3c1FqY2tSN1dvb0lXdXNicmhrUk1TOGpNek1hVmhLcXFBckVwd3F6REVrQkdFVFR6Z2hncnBBZ1ZNVGtUVVlNOWQzWEg1VTdOMXFPdncydFpwM3pmTGZaY0pnMW1uOXJRY0ZtcFh3Ulk4a2NhNEJLVHNxeTVr0gGcAUFVX3lxTE1yVmRiV0l1ME1qeFF2MEt0azVzejRLRWNYOGlXRzQ0UXFNeHloUDZmZ3NrZ1NWS2VQb1h4VUFpdlp6ekJwWlZTYklrNEZ6Nkp0OGMzYkVONzdRT0k4czNKNVRDOTNvdFpoVmxvVFlIaExPQjZxQTlHMFY5SUdJTFBDNGlUWXhIS09mNFFsc0laN2x1V2hrdUtodHRVcQ?oc=5",
      "fuente": "MUNDIARIO",
@@ -286,6 +278,14 @@
      "fuente": "elciudadano.com",
      "resumen": "",
      "fecha": "2026-11-17T12:20:37+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Un apagón mundial de 72 horas este 17 de noviembre? La alerta que circula en Murcia, la predicción de 'Los Simpson' y lo que ocurrirá a las 20.20 horas",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZuYl8wcGZjOGlwcldLTk1VZDhlU1FwVUR4NEFCSWRMeDM1N1ZGN1ZET2dsMEdTSjhwdVBWVVFSeWhCRU1KN1B5RDExUzhLRlZEcVduU1dYOWtUQ2dXcXBWWUV0dnZJX3VCVkpjRGdzd01kNldyY2xMVnpObUNrQzJFQlRhM0toLVlvV3d0SWNkUlBKbWtlMmZOa1J2eGtoWXo2U3ZCYWdpSmFYOWR5M2lPR3dkd9IBuwFBVV95cUxOdVdrUjdFOWVtcTd1U3VRM19RNlo5cFkxaWFqbWJOd0YwVUN3cFhjUmZwcGZRYjY2ZVBodHB5WnRHeEhiRnZIRWRzMmpfN0lBWWh0MWdRaTNIY0Z2dzc5SWhIZkN2WDlxbkdNbkk1STRiQWNEOFpEalJTbnNvWXp4Wk1RM2RIeEFDeklSMXpFZk5hT1NJMk45YmdZdWZpeUJzckFGOHRvRFhHTU5zY3ZTVDhDZnVkMmRDS2c0?oc=5",
+     "fuente": "La Opinión de Murcia",
+     "resumen": "",
+     "fecha": "2026-11-17T11:35:23+01:00",
      "fecha_txt": "17 nov"
     }
    ]
