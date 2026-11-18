@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-16",
-    "total": 93,
-    "png_total": 93
+    "ultima_generacion": "2026-11-18",
+    "total": 94,
+    "png_total": 94
   },
   "pins": [
     {
@@ -841,6 +841,15 @@
       "emoji": "📖",
       "pin": "pin-blog-mejor-cocina-portatil-gas-apagon.html",
       "png": "png/pin-blog-mejor-cocina-portatil-gas-apagon.png"
+    },
+    {
+      "slug": "pin-blog-calentar-casa-sin-electricidad-invierno",
+      "tipo": "blog",
+      "titulo": "Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026)",
+      "url": "https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/",
+      "emoji": "📖",
+      "pin": "pin-blog-calentar-casa-sin-electricidad-invierno.html",
+      "png": "png/pin-blog-calentar-casa-sin-electricidad-invierno.png"
     }
   ]
 }
