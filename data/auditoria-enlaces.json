@@ -1,8 +1,8 @@
 {
- "generado": "2026-11-17T12:49:03Z",
+ "generado": "2026-11-18T06:03:14Z",
  "resumen": {
-  "ok": 157,
-  "dudoso": 77,
+  "ok": 162,
+  "dudoso": 72,
   "mismatch": 0,
   "sin_datos": 0,
   "duplicado": 0
@@ -112,19 +112,6 @@
    "estado": "dudoso",
    "motivo": "coincidencia 1/5 (falta: calentador, gas, ni, electricidad)",
    "cobertura": 0.2,
-   "kits_con_el_asin": [
-    "kit-bebe"
-   ]
-  },
-  {
-   "asin": "B0BZS918ZG",
-   "kit": "kit-bebe",
-   "seccion": "Higiene y pañales",
-   "producto": "Cambrador portátil plegable",
-   "titulo_amazon": "AMZSKU Carburador para desbrozadora 52 CC 49 CC 43 CC Carbu Set con Junta, Manguera, bujía y Filtro de Gasolina",
-   "estado": "dudoso",
-   "motivo": "coincidencia 0/3 (falta: cambrador, portatil, plegable)",
-   "cobertura": 0.0,
    "kits_con_el_asin": [
     "kit-bebe"
    ]
@@ -278,19 +265,6 @@
    ]
   },
   {
-   "asin": "B0F5X5TN4T",
-   "kit": "kit-bebe",
-   "seccion": "Salud y calma",
-   "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
-   "titulo_amazon": "JARAMI - Suero Hipertónico para Nebulizador - Solucion Salina Hipertonica 3% de Larga Duración - Uso Rapido y Facil en Nebulizador para Bebe.",
-   "estado": "dudoso",
-   "motivo": "coincidencia 1/5 (falta: rehidratacion, oral, jeringuilla, dosificadora)",
-   "cobertura": 0.2,
-   "kits_con_el_asin": [
-    "kit-bebe"
-   ]
-  },
-  {
    "asin": "B0CY8G31G4",
    "kit": "kit-bebe",
    "seccion": "Documentos e identificación",
@@ -307,11 +281,11 @@
    "asin": "B0BWJYXNK3",
    "kit": "kit-bebe",
    "seccion": "Agua y alimentación sin electricidad",
-   "producto": "Termo pequeño de boca ancha (350-500 ml)",
+   "producto": "Termo de boca ancha (26 cl)",
    "titulo_amazon": "Quid Cocco Termo Acero Inoxidable 26cl Acero Inox No Apto Microondas Térmico Frío Calor 12 Horas",
    "estado": "dudoso",
-   "motivo": "coincidencia 1/4 (falta: pequeno, boca, ancha)",
-   "cobertura": 0.25,
+   "motivo": "coincidencia 1/3 (falta: boca, ancha)",
+   "cobertura": 0.33,
    "kits_con_el_asin": [
     "kit-bebe",
     "kit-frio"
@@ -404,11 +378,11 @@
    "asin": "B012D3650K",
    "kit": "kit-dana",
    "seccion": "Post-DANA",
-   "producto": "Palas y cubos para retirar lodo",
+   "producto": "Pala ancha para retirar lodo o nieve",
    "titulo_amazon": "Fiskars Solid Pala de nieve para el coche, Longitud: 63 cm | Plástico reforzado con fibra de vidrio, negro, sólido, 1019354",
    "estado": "dudoso",
-   "motivo": "coincidencia 1/4 (falta: cubo, retirar, lodo)",
-   "cobertura": 0.25,
+   "motivo": "coincidencia 2/5 (falta: ancha, retirar, lodo)",
+   "cobertura": 0.4,
    "kits_con_el_asin": [
     "kit-dana"
    ]
@@ -633,19 +607,6 @@
    ]
   },
   {
-   "asin": "B0CS2X1RR8",
-   "kit": "kit-kit-profesional",
-   "seccion": "Generador: respaldo cuando no hay sol",
-   "producto": "Depósito ampliado o conexión a gas natural",
-   "titulo_amazon": "CAMPLUX 11 L Calentador de Agua a Gas, Bajo NOx, 20 mbar, BD300NG | Gas Natural, 22 kW, Encendido por batería 3 V, Para Instalación de Balcón",
-   "estado": "dudoso",
-   "motivo": "coincidencia 2/5 (falta: deposito, ampliado, conexion)",
-   "cobertura": 0.4,
-   "kits_con_el_asin": [
-    "kit-kit-profesional"
-   ]
-  },
-  {
    "asin": "B0DGK3NZXR",
    "kit": "kit-kit-profesional",
    "seccion": "Energía solar: el sol es tu generador",
@@ -776,14 +737,14 @@
    ]
   },
   {
-   "asin": "B0DNZ8DG6H",
+   "asin": "B0FS91XDJB",
    "kit": "kit-mayores",
    "seccion": "Medicación y crónicos",
-   "producto": "Ficha médico-identificativa plastificada",
-   "titulo_amazon": "QWORK® Set de 50 Etiquetas Verticales Transparente 130 * 85mm para Tarjetas y Cordones Azules con Gancho Giratorio para Escuela, Eventos y Más",
+   "producto": "Ficha médico-identificativa: pulsera de alerta grabada",
+   "titulo_amazon": "Pulsera de alerta médica personalizada, placa de identificación de acero inoxidable grabada a medida con correa elástica extensible, pulsera médica de concienciación de emergencia para diabetes",
    "estado": "dudoso",
-   "motivo": "coincidencia 0/4 (falta: ficha, medico, identificativa, plastificada)",
-   "cobertura": 0.0,
+   "motivo": "coincidencia 3/6 (falta: ficha, medico, identificativa)",
+   "cobertura": 0.5,
    "kits_con_el_asin": [
     "kit-mayores"
    ]
@@ -797,32 +758,6 @@
    "estado": "dudoso",
    "motivo": "coincidencia 1/3 (falta: graduacion, repuesto)",
    "cobertura": 0.33,
-   "kits_con_el_asin": [
-    "kit-mayores"
-   ]
-  },
-  {
-   "asin": "B00AMHKB28",
-   "kit": "kit-mayores",
-   "seccion": "Sentidos y ayudas técnicas",
-   "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
-   "titulo_amazon": "BOJ Porta útiles magnético - Pinza magnética de camarero para descapsuladores y sacacorchos - Especial hostelería",
-   "estado": "dudoso",
-   "motivo": "coincidencia 0/4 (falta: iman, bolsa, seguridad, marcapaso)",
-   "cobertura": 0.0,
-   "kits_con_el_asin": [
-    "kit-mayores"
-   ]
-  },
-  {
-   "asin": "B09XJ947XJ",
-   "kit": "kit-mayores",
-   "seccion": "Comunicación y compañía",
-   "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
-   "titulo_amazon": "Devir - Walkie Talkie, juego de cartas, juego de mesas, Devir Pocket (BGWALKIE)",
-   "estado": "dudoso",
-   "motivo": "coincidencia 2/7 (falta: naip, libro, letra, grande)",
-   "cobertura": 0.29,
    "kits_con_el_asin": [
     "kit-mayores"
    ]
@@ -1001,6 +936,20 @@
    ]
   },
   {
+   "asin": "B0H3WC3R53",
+   "kit": "kit-suiza",
+   "seccion": "Comida para siete días (no para tres)",
+   "producto": "Legumbres secas en paquetes (garbanzos, 2 kg)",
+   "titulo_amazon": "Lote de 2 Bolsas de Garbanzo Pedrosillano Seco, Categoría Extra, Pack de 2 Bolsas de 1 kg. Total 2 kg de garbanzos",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: legumbr, seca, paquet)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-suiza"
+   ]
+  },
+  {
    "asin": "B0C3B4H4Z5",
    "kit": "kit-suiza",
    "seccion": "Luz y avisos oficiales",
@@ -1011,20 +960,6 @@
    "cobertura": 0.5,
    "kits_con_el_asin": [
     "kit-dana",
-    "kit-suiza"
-   ]
-  },
-  {
-   "asin": "B0H3WC3R53",
-   "kit": "kit-suiza",
-   "seccion": "Comida para siete días (no para tres)",
-   "producto": "Pastas, arroz y legumbres en paquetes",
-   "titulo_amazon": "Lote de 2 Bolsas de Garbanzo Pedrosillano Seco, Categoría Extra, Pack de 2 Bolsas de 1 kg. Total 2 kg de garbanzos",
-   "estado": "dudoso",
-   "motivo": "coincidencia 0/4 (falta: pasta, arroz, legumbr, paquet)",
-   "cobertura": 0.0,
-   "kits_con_el_asin": [
-    "kit-hogar",
     "kit-suiza"
    ]
   },
@@ -1673,6 +1608,19 @@
    ]
   },
   {
+   "asin": "B0GL8WWVNN",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Cambiador portátil plegable e impermeable",
+   "titulo_amazon": "Cambiador Bebe Portatil Plegable Impermeable Acolchado Valbabycare | Tejido Oxford lavable, almohada integrada y cierre con velcro. Ideal para carrito, bolso o viaje.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
    "asin": "B0B6J97R41",
    "kit": "kit-bebe",
    "seccion": "Leche y comida de reserva",
@@ -1720,6 +1668,19 @@
    "estado": "ok",
    "motivo": "",
    "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B00MBBKYUC",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Suero de rehidratación oral (8 sobres)",
+   "titulo_amazon": "CASEN RECORDATI - HIDRO SUERO ORAL 8 SOBRES",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
    "kits_con_el_asin": [
     "kit-bebe"
    ]
@@ -1910,19 +1871,6 @@
    ]
   },
   {
-   "asin": "B09TJJ88LX",
-   "kit": "kit-comunicacion",
-   "seccion": "Comunicación local: walkies PMR446",
-   "producto": "Walkie-talkies PMR446 (pareja, recargables)",
-   "titulo_amazon": "Baofeng Walkie Talkie Profesional PMR Radiocomunicación USB Recargable 16 Canales de Larga Distancia Portátil Walkie Talkies con Auriculares y Luz LED (Negro, 1 Pare)",
-   "estado": "ok",
-   "motivo": "",
-   "cobertura": 0.67,
-   "kits_con_el_asin": [
-    "kit-comunicacion"
-   ]
-  },
-  {
    "asin": "B08J9YCB8M",
    "kit": "kit-comunicacion",
    "seccion": "Comunicación local: walkies PMR446",
@@ -1931,6 +1879,19 @@
    "estado": "ok",
    "motivo": "",
    "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-comunicacion"
+   ]
+  },
+  {
+   "asin": "B087NL82BH",
+   "kit": "kit-comunicacion",
+   "seccion": "Comunicación local: walkies PMR446",
+   "producto": "Walkie-talkies PMR446 recargables (16 canales)",
+   "titulo_amazon": "Walkie Talkie Recargable, 16 Canales PMR446 Walky Talky, Profecionales CTCSS DCS 3KM Radiocomunicación, con Auricular Incorporado Antorcha de LED, 2 Pares",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
    "kits_con_el_asin": [
     "kit-comunicacion"
    ]
@@ -2525,6 +2486,19 @@
    ]
   },
   {
+   "asin": "B09WZ7MDT1",
+   "kit": "kit-kit-profesional",
+   "seccion": "Generador: respaldo cuando no hay sol",
+   "producto": "Bidón homologado para combustible (20 L)",
+   "titulo_amazon": "Tayg Bidón 20 Litros homologado con cánula y franja de medición, Negro, 603075",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
    "asin": "B0H8P2WXHV",
    "kit": "kit-kit-profesional",
    "seccion": "Iluminación y seguridad perimetral",
@@ -2694,6 +2668,19 @@
    ]
   },
   {
+   "asin": "B0020K2J5C",
+   "kit": "kit-mayores",
+   "seccion": "Comunicación y compañía",
+   "producto": "Baraja española (40 cartas)",
+   "titulo_amazon": "Baraja española Nº 1 (40 cartas)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
    "asin": "B0DB8GRTPL",
    "kit": "kit-mayores",
    "seccion": "Sentidos y ayudas técnicas",
@@ -2796,6 +2783,19 @@
    "estado": "ok",
    "motivo": "",
    "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0F1FJXX25",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Pulsera de alerta: marcapasos o dispositivo implantado",
+   "titulo_amazon": "Tobestu Pulseras de Alerta Médica de Acero Inoxidable Pulsera de Alerta Médica para Marcapasos YS5833",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
    "kits_con_el_asin": [
     "kit-mayores"
    ]

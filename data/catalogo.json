@@ -1,6 +1,6 @@
 {
  "_nota": "Índice de productos DERIVADO de data/kits.json (la web lee kits.json). Un producto = un ASIN = un sitio donde arreglarlo. Regenerar con `python scripts/catalogo.py build` tras tocar los kits.",
- "generado": "2026-11-17",
+ "generado": "2026-11-18",
  "total_productos": 234,
  "compartidos": 60,
  "productos": {
@@ -126,6 +126,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0020K2J5C": {
+   "nombre_canonico": "Baraja española (40 cartas)",
+   "url": "https://www.amazon.es/dp/B0020K2J5C?tag=ntizar-21",
+   "categorias": [
+    "Comunicación y compañía"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Baraja española (40 cartas)",
+     "prioridad": "extra",
+     "precio_aprox": "4-10 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "4-10 €"
+  },
   "B003URR2RY": {
    "nombre_canonico": "Aspirador nasal + suero fisiológico en monodosis",
    "url": "https://www.amazon.es/dp/B003URR2RY?tag=ntizar-21",
@@ -245,28 +265,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "10-20 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
-  },
-  "B00AMHKB28": {
-   "nombre_canonico": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
-   "url": "https://www.amazon.es/dp/B00AMHKB28?tag=ntizar-21",
-   "categorias": [
-    "Sentidos y ayudas técnicas"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-mayores",
-     "producto": "Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo)",
-     "prioridad": "esencial",
-     "precio_aprox": "0 €"
-    }
-   ],
-   "kits": [
-    "kit-mayores"
-   ],
-   "n_kits": 1,
-   "precio_ref": "0 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -428,6 +426,26 @@
    "n_kits": 1,
    "precio_ref": "8-20 €"
   },
+  "B00MBBKYUC": {
+   "nombre_canonico": "Suero de rehidratación oral (8 sobres)",
+   "url": "https://www.amazon.es/dp/B00MBBKYUC?tag=ntizar-21",
+   "categorias": [
+    "Salud y calma"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Suero de rehidratación oral (8 sobres)",
+     "prioridad": "esencial",
+     "precio_aprox": "6-12 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-12 €"
+  },
   "B00UN4ROLQ": {
    "nombre_canonico": "Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte)",
    "url": "https://www.amazon.es/dp/B00UN4ROLQ?tag=ntizar-21",
@@ -521,7 +539,7 @@
    "verificado": "2026-09-28"
   },
   "B012D3650K": {
-   "nombre_canonico": "Palas y cubos para retirar lodo",
+   "nombre_canonico": "Pala ancha para retirar lodo o nieve",
    "url": "https://www.amazon.es/dp/B012D3650K?tag=ntizar-21",
    "categorias": [
     "Post-DANA"
@@ -529,16 +547,16 @@
    "apariciones": [
     {
      "kit": "kit-dana",
-     "producto": "Palas y cubos para retirar lodo",
+     "producto": "Pala ancha para retirar lodo o nieve",
      "prioridad": "recomendado",
-     "precio_aprox": "10-25 €"
+     "precio_aprox": "15-30 €"
     }
    ],
    "kits": [
     "kit-dana"
    ],
    "n_kits": 1,
-   "precio_ref": "10-25 €",
+   "precio_ref": "15-30 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -1308,6 +1326,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B087NL82BH": {
+   "nombre_canonico": "Walkie-talkies PMR446 recargables (16 canales)",
+   "url": "https://www.amazon.es/dp/B087NL82BH?tag=ntizar-21",
+   "categorias": [
+    "Comunicación local: walkies PMR446"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-comunicacion",
+     "producto": "Walkie-talkies PMR446 recargables (16 canales)",
+     "prioridad": "esencial",
+     "precio_aprox": "35-60 €"
+    }
+   ],
+   "kits": [
+    "kit-comunicacion"
+   ],
+   "n_kits": 1,
+   "precio_ref": "35-60 €"
+  },
   "B088KG7XML": {
    "nombre_canonico": "Cadena de remolque o correa de tiro",
    "url": "https://www.amazon.es/dp/B088KG7XML?tag=ntizar-21",
@@ -1906,47 +1944,25 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
-  "B09TJJ88LX": {
-   "nombre_canonico": "Walkie-talkies PMR446 (pareja, recargables)",
-   "url": "https://www.amazon.es/dp/B09TJJ88LX?tag=ntizar-21",
+  "B09WZ7MDT1": {
+   "nombre_canonico": "Bidón homologado para combustible (20 L)",
+   "url": "https://www.amazon.es/dp/B09WZ7MDT1?tag=ntizar-21",
    "categorias": [
-    "Comunicación local: walkies PMR446"
+    "Generador: respaldo cuando no hay sol"
    ],
    "apariciones": [
     {
-     "kit": "kit-comunicacion",
-     "producto": "Walkie-talkies PMR446 (pareja, recargables)",
-     "prioridad": "esencial",
-     "precio_aprox": "40-80 €"
+     "kit": "kit-kit-profesional",
+     "producto": "Bidón homologado para combustible (20 L)",
+     "prioridad": null,
+     "precio_aprox": "15-30 €"
     }
    ],
    "kits": [
-    "kit-comunicacion"
+    "kit-kit-profesional"
    ],
    "n_kits": 1,
-   "precio_ref": "40-80 €"
-  },
-  "B09XJ947XJ": {
-   "nombre_canonico": "Juegos de naipes, libro de letra grande o rádio con altavoz",
-   "url": "https://www.amazon.es/dp/B09XJ947XJ?tag=ntizar-21",
-   "categorias": [
-    "Comunicación y compañía"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-mayores",
-     "producto": "Juegos de naipes, libro de letra grande o rádio con altavoz",
-     "prioridad": "extra",
-     "precio_aprox": "5-15 €"
-    }
-   ],
-   "kits": [
-    "kit-mayores"
-   ],
-   "n_kits": 1,
-   "precio_ref": "5-15 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
+   "precio_ref": "15-30 €"
   },
   "B09ZVDXWXR": {
    "nombre_canonico": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
@@ -2257,7 +2273,7 @@
    "precio_ref": "25-60 €"
   },
   "B0BWJYXNK3": {
-   "nombre_canonico": "Termo pequeño de boca ancha (350-500 ml)",
+   "nombre_canonico": "Termo de boca ancha (26 cl)",
    "url": "https://www.amazon.es/dp/B0BWJYXNK3?tag=ntizar-21",
    "categorias": [
     "Agua y alimentación sin electricidad",
@@ -2266,7 +2282,7 @@
    "apariciones": [
     {
      "kit": "kit-bebe",
-     "producto": "Termo pequeño de boca ancha (350-500 ml)",
+     "producto": "Termo de boca ancha (26 cl)",
      "prioridad": "recomendado",
      "precio_aprox": "10-20 €"
     },
@@ -2333,28 +2349,6 @@
    ],
    "n_kits": 2,
    "precio_ref": "12-30 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
-  },
-  "B0BZS918ZG": {
-   "nombre_canonico": "Cambrador portátil plegable",
-   "url": "https://www.amazon.es/dp/B0BZS918ZG?tag=ntizar-21",
-   "categorias": [
-    "Higiene y pañales"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-bebe",
-     "producto": "Cambrador portátil plegable",
-     "prioridad": "extra",
-     "precio_aprox": "8-14 €"
-    }
-   ],
-   "kits": [
-    "kit-bebe"
-   ],
-   "n_kits": 1,
-   "precio_ref": "8-14 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -2793,26 +2787,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "15-35 €"
-  },
-  "B0CS2X1RR8": {
-   "nombre_canonico": "Depósito ampliado o conexión a gas natural",
-   "url": "https://www.amazon.es/dp/B0CS2X1RR8?tag=ntizar-21",
-   "categorias": [
-    "Generador: respaldo cuando no hay sol"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-kit-profesional",
-     "producto": "Depósito ampliado o conexión a gas natural",
-     "prioridad": null,
-     "precio_aprox": "200-600 €"
-    }
-   ],
-   "kits": [
-    "kit-kit-profesional"
-   ],
-   "n_kits": 1,
-   "precio_ref": "200-600 €"
   },
   "B0CSDX8LR8": {
    "nombre_canonico": "Cadenas para nieve o calcetines textiles",
@@ -3530,28 +3504,6 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
-  "B0DNZ8DG6H": {
-   "nombre_canonico": "Ficha médico-identificativa plastificada",
-   "url": "https://www.amazon.es/dp/B0DNZ8DG6H?tag=ntizar-21",
-   "categorias": [
-    "Medicación y crónicos"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-mayores",
-     "producto": "Ficha médico-identificativa plastificada",
-     "prioridad": "esencial",
-     "precio_aprox": "0-5 €"
-    }
-   ],
-   "kits": [
-    "kit-mayores"
-   ],
-   "n_kits": 1,
-   "precio_ref": "0-5 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
-  },
   "B0DP4Y4S7K": {
    "nombre_canonico": "Lejía y desinfectante de superficies",
    "url": "https://www.amazon.es/dp/B0DP4Y4S7K?tag=ntizar-21",
@@ -3708,6 +3660,26 @@
    "n_kits": 1,
    "precio_ref": "15-25 €"
   },
+  "B0F1FJXX25": {
+   "nombre_canonico": "Pulsera de alerta: marcapasos o dispositivo implantado",
+   "url": "https://www.amazon.es/dp/B0F1FJXX25?tag=ntizar-21",
+   "categorias": [
+    "Sentidos y ayudas técnicas"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Pulsera de alerta: marcapasos o dispositivo implantado",
+     "prioridad": "esencial",
+     "precio_aprox": "6-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "6-20 €"
+  },
   "B0F1KH2MR7": {
    "nombre_canonico": "Batería LiFePO4 100 Ah",
    "url": "https://www.amazon.es/dp/B0F1KH2MR7?tag=ntizar-21",
@@ -3813,28 +3785,6 @@
    ],
    "n_kits": 1,
    "precio_ref": "10-30 €",
-   "estado": "vivo",
-   "verificado": "2026-09-28"
-  },
-  "B0F5X5TN4T": {
-   "nombre_canonico": "Suero de rehidratación oral y jeringuilla dosificadora",
-   "url": "https://www.amazon.es/dp/B0F5X5TN4T?tag=ntizar-21",
-   "categorias": [
-    "Salud y calma"
-   ],
-   "apariciones": [
-    {
-     "kit": "kit-bebe",
-     "producto": "Suero de rehidratación oral y jeringuilla dosificadora",
-     "prioridad": "esencial",
-     "precio_aprox": "6-10 €"
-    }
-   ],
-   "kits": [
-    "kit-bebe"
-   ],
-   "n_kits": 1,
-   "precio_ref": "6-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
@@ -4285,6 +4235,26 @@
    "precio_ref": "12-18 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
+  },
+  "B0FS91XDJB": {
+   "nombre_canonico": "Ficha médico-identificativa: pulsera de alerta grabada",
+   "url": "https://www.amazon.es/dp/B0FS91XDJB?tag=ntizar-21",
+   "categorias": [
+    "Medicación y crónicos"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-mayores",
+     "producto": "Ficha médico-identificativa: pulsera de alerta grabada",
+     "prioridad": "esencial",
+     "precio_aprox": "8-20 €"
+    }
+   ],
+   "kits": [
+    "kit-mayores"
+   ],
+   "n_kits": 1,
+   "precio_ref": "8-20 €"
   },
   "B0FWRW5F67": {
    "nombre_canonico": "Correa y arnés de repuesto",
@@ -4796,6 +4766,26 @@
    "estado": "vivo",
    "verificado": "2026-09-28"
   },
+  "B0GL8WWVNN": {
+   "nombre_canonico": "Cambiador portátil plegable e impermeable",
+   "url": "https://www.amazon.es/dp/B0GL8WWVNN?tag=ntizar-21",
+   "categorias": [
+    "Higiene y pañales"
+   ],
+   "apariciones": [
+    {
+     "kit": "kit-bebe",
+     "producto": "Cambiador portátil plegable e impermeable",
+     "prioridad": "extra",
+     "precio_aprox": "10-25 €"
+    }
+   ],
+   "kits": [
+    "kit-bebe"
+   ],
+   "n_kits": 1,
+   "precio_ref": "10-25 €"
+  },
   "B0GLQGTKQD": {
    "nombre_canonico": "Juegos de mesa o cartas",
    "url": "https://www.amazon.es/dp/B0GLQGTKQD?tag=ntizar-21",
@@ -5154,9 +5144,9 @@
    "apariciones": [
     {
      "kit": "kit-suiza",
-     "producto": "Pastas, arroz y legumbres en paquetes",
+     "producto": "Legumbres secas en paquetes (garbanzos, 2 kg)",
      "prioridad": "esencial",
-     "precio_aprox": "10-20 €"
+     "precio_aprox": "5-10 €"
     },
     {
      "kit": "kit-hogar",
@@ -5170,7 +5160,7 @@
     "kit-suiza"
    ],
    "n_kits": 2,
-   "precio_ref": "10-20 €",
+   "precio_ref": "5-10 €",
    "estado": "vivo",
    "verificado": "2026-09-28"
   },

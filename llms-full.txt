@@ -467,7 +467,7 @@ Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y mes
 - Pilas alcalinas AA/AAA (pack de 48): Guardadas dentro de la radio se sulfatan: guárdalas aparte, en su envase. Pack mixto para radio, linterna y mando. (~12-18 €)
 
 ### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
-Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
+Kit Starlink: internet satelital con cielo despejado desde casi cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
 **Starlink: internet desde cualquier lugar**
 - Kit Starlink Standard (antena + router Wi-Fi): Internet satelital donde no hay cobertura ni fibra, con la antena apuntando a cielo despejado. 50-200 Mbps reales. Antena y router Wi-Fi incluidos. La suscripción es imprescindible: sin ella el hardware no sirve. (~450-550 € · 45-60 €/mes)
 - Soporte de montaje para Starlink (tejado / pared / mástil): Fija la antena en tejado, pared o mástil y gana los grados de cielo que la instalación en balcón no da. Válido para Starlink Standard (Gen 3), V3, 4 y 4X. (~25-60 €)
@@ -6028,7 +6028,7 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  
 
- Especificaciones: 16 canales, 0,5-2W de potencia, IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.
+ Especificaciones: 16 canales, 0,5 W de potencia (el máximo legal en PMR446 sin licencia), IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.
 
 
  Buscar walkies PMR446 ↗ 
