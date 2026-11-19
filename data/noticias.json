@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T01:11:02+01:00",
+  "actualizado": "2026-11-19T04:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,14 +17,6 @@
      "fuente": "BioBioChile",
      "resumen": "",
      "fecha": "2026-11-18T16:58:10+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Borja, electricista: \"La UE recomienda tener 72 horas de suministros esenciales, una batería de 1 kWh es suficiente\"",
-     "url": "https://www.elespanol.com/omicrono/20261118/borja-electricista-ue-recomienda-tener-horas-suministros-esenciales-bateria-kwh-suficiente/1003744461600_0.html",
-     "fuente": "El Español",
-     "resumen": "El experto Borja Pérez explica qué batería portátil necesitas para cumplir la recomendación de la UE de aguantar 72 horas. Más información: Javier Dasí, ingeniero: \"Si hay un apagón de 3 días, puedes ...",
-     "fecha": "2026-11-18T12:38:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-17T12:59:09+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3EyaXNOeWI0NmluOVNoV0xzY0FsYlZILU9tSTRrYTRDMW5mcUFfSHNtUThUUVlRTjBGalNZQXphWXpkVmduRDNhbFlZREdrUHpDdm9XbXhMc3I5Q2ZqR2xRUUxLazVQSUJwUFEyRjAxaXBmZ2lUNnVMNjZDb1h4VllYWW9jTTJCMDAyOGdfU1I1SmM2T0NBOEJ6OEJTS0lvaTNXX01rRTN1d0hGeUx4TVozUUVBcDdlRkdNZm9EcUFPWHVnWkhaNQ?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-17T11:28:00+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "España dispara la superficie quemada por incendios en 2025",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVVXN1ZQMkRPYTVVNTVmM1dMWXNBNzVVbWdiRHZXbzFNYzU1VGQxTEtxeU0xbllvQXJETi14UmItSFdfdmRQbHVObDk4WnVOWmY4MWh4Ml9hU21FazFtS3FZem5XTmdrS2lPMXFLaS0tSXY3eWFKSkNIZmtvMFpHZ3pNUjV0dUktckpiWUFnOFNEWl9USlE?oc=5",
+     "fuente": "Agrodigital",
+     "resumen": "",
+     "fecha": "2026-11-19T04:03:21+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "España se convierte en uno de los países más afectados del mundo por incendios forestales y fenómenos climáticos extremos",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNXLWd6M3RKSnY2cFpBeE1lUkp6aW5uS01YRGI1aUw5cGtQOF9MMWZ0MVkyY0tXeUdXcER0X1poZGZQcWFiOGMtUTR1ZlBmRVdhYkNfZkYwbnotM1hQM1VmNldzYWRxWWhlNE9tQ09oSU9xSWFwbFB5c1Q5T3JZVnJaWTBOdEItOEwybktxOWlFRHNFSHoya0h1ZkpRbDZrUkkzREtmcUd3RXpoNGt5RGZKSm55VDduQUd0a2h6cjdLM1FjUnV4NkhEUlpWT01TLTdlZ1A0VWZwQWZWRDFPZVZwTU82eTc4ME5fUUpNb1F0cGM5dm12dnVB?oc=5",
@@ -123,28 +131,20 @@
      "fecha_txt": "16 nov"
     },
     {
+     "titulo": "Los meteorólogos avisan: en 2100 las condiciones que favorecen los incendios aumentarán un 30% en España",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-meteor%C3%B3logos-avisan-en-2100-las-condiciones-que-favorecen-los-incendios-aumentar%C3%A1n-un-30-en-espa%C3%B1a/ar-AA2hyZYK",
+     "fuente": "El Español on MSN",
+     "resumen": "La AEMET puso en marcha en mayo de 2026 un nuevo Índice de Peligro de Incendios Forestales que incorpora información sobre la vegetación y la humedad del suelo. Más información: Pepita, 107 años: \"Me ...",
+     "fecha": "2026-11-16T10:59:37+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
      "titulo": "William Levy regresa a España por ‘Bajo un fuego’: dos premieres y Almería en pie",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUGxxRnZyT0pPdHB1T0hhNDFuRXZVN29qZXphT3NyU2RNYzJzV1hQdTR2VWNjVFJXLVR1Ymdoc2lLTUYzcDdaOHVsN0N1UmU3TWVtRlM5U3M5SHJfbXdkQlVnY0JDMnJKT2xHRXVWYVdXM2pJV1ZzTQ?oc=5",
      "fuente": "Cotilleo",
      "resumen": "",
      "fecha": "2026-11-15T05:04:09+01:00",
      "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Del olivar a la gandería: España y Portugal estudian en Cáceres crear un sello para las actividades que ayudan a prevenir grandes incendios",
-     "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/11/14/olivar-ganderia-espana-portugal-estudian-136421133.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Expertos de ambos países se reúnen en Cáceres para analizar un distintivo que reconozca el papel de la agricultura, la ganadería y el aprovechamiento forestal en la reducción del riesgo de incendios ...",
-     "fecha": "2026-11-14T00:00:00+01:00",
-     "fecha_txt": "14 nov"
-    },
-    {
-     "titulo": "España concentra el 42,8% de la superficie quemada en la UE: casi 302.000 hectáreas arrasadas por el fuego",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTlhsbzNBMkNIZ2owaDM3R25YODJMWnpyNk4zQ1RId2pLc3lJZFpQa2FQcDc1WFZNZjliTFFpa3hnLXJIZnZ0MGJweHJMdl9yaTJPRl9MR0cxUWJoUkxHZ2s4REJUTzE0UWx5VXlnODlmTjdfUnY5Wmk5RXRncS1LVzRrb3FnSlB4dlNWYU1XeUIzYUpUU2dSQkdUVkFIcHJZd3JQcmN6aWlqRUlZOVVVdHEycU9jdzg2dFh1dldndXNWNWFkZk4zYnlXb3ZBR3hIVE12bzh5Z1c4UdIB3wFBVV95cUxPa3AyTUxoaE5jUk56Y1dTN05mTEZUSnV3dWs3NW9ma1FpYVU2cGhqQUNkLW9IVk5XOW9mc0Jjb3BjMkZhcUNuYU1TSmVSbkFsRDE0MWl0cVVKSEkxZEhtSnVSZEhYQmJTQVF4SGYzaTZJU2dIYXJkUUwyUFI4M25nVm1CUzBXRTR2QkV2dmhKVVJ1d1hEWUxmeDM3d2hxVVdmNjFTTHk4bXBZQUNwSHMyOUljQnZORTFwUlBtM2J5YUh6R0toMVRtT084a1NqeWMtYzhFc3RDbl9VTWl2cVZF?oc=5",
-     "fuente": "Lanza Digital",
-     "resumen": "",
-     "fecha": "2026-11-13T14:01:39+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -167,6 +167,14 @@
      "fuente": "España Exterior",
      "resumen": "",
      "fecha": "2026-11-18T14:07:14+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Una escultura nacida de una inundación gana el Premio Internacional Obra Abierta 2026 en Extremadura: \"El suelo dejó de ser un suelo y pasó a ser arte\"",
+     "url": "https://www.elperiodicoextremadura.com/extremadura/2026/11/18/escultura-nacida-inundacion-gana-premio-136593384.html",
+     "fuente": "El Periódico Extremadura",
+     "resumen": "Una inundación en su vivienda obligó a Clara Sánchez Sala a reparar el parqué con sus propias manos. Seis años después, aquella experiencia doméstica se convierte en una escultura premiada con 10.000 ...",
+     "fecha": "2026-11-18T12:53:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
-     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
-     "fecha": "2026-11-16T05:15:00+01:00",
-     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -241,11 +241,11 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHU4SHZic3hFWGdiSWJ4ZU12cmZLRTY0RHJwYlJKTWctaFBFNUU1dnI5TVFLQjJld2lxSzhuQmhfNi1lSm1sN3ZzeEdJN194U1pnMkZ6bVZmaUV1b1IxWUNCOWpqcDhISUlCWVotZUt3RVM5S0JjSkRXN0NTcE5kZ3FGdWlXa0ZFYkxYaVdtbHNIRzF3amhTS0VqUWo4clBRLUNjSG5jR19HelBYLTVIZHQtUUFvMFFkRXVoam9WbXNuZFZkaXhFMG5nUEUtNkpEZkpkdmJGdEJ6MEZHVjd5N1RB?oc=5",
+     "titulo": "¿Se ha ido la luz finalmente en España? La verdad sobre el apagón mundial anunciado para hoy 17 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2o2WThYT2hvYUs4N1lFeUJoam1Kcmw5MExVTDVoX3lvSlpBaWhwTWF4MmNHemFyT2FIbnZOclFXRjJrYUJKaG8ySWpGRTNtSFptM0txSENZU216YkR4SVZ1bDdMb1FNTTBZZDFOV1JfZmNHekxaUXJNYVV5ZHRJTmVJX2tueFVtZTE0TVNUNWdNNU1iSjlvR3AxQXlJOU1vVEtuUE9GZzM1YWIwNWVFWVdQSVE5R2RpQ09EMV9MelhoT29aQTZBM2ZfVzVHTUxVMXVUUlpTSnRuTjQ2SWc?oc=5",
      "fuente": "El Pespunte",
      "resumen": "",
-     "fecha": "2026-11-17T20:42:06+01:00",
+     "fecha": "2026-11-17T20:42:39+01:00",
      "fecha_txt": "17 nov"
     },
     {
