@@ -32,6 +32,7 @@ import html as htmlmod
 import json
 import re
 import sys
+import time
 import urllib.request
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qs
@@ -271,16 +272,26 @@ def auditar_repo(registro):
     return hallazgos, len(objetivo)
 
 
-def _get(url, timeout=45):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": "Mozilla/5.0 (compatible; Kit72hAudit/2.0; +https://kit72h.com)",
-        "Accept-Encoding": "gzip"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        data = r.read()
-        if r.headers.get("Content-Encoding") == "gzip":
-            import gzip
-            data = gzip.decompress(data)
-        return data.decode("utf-8", "ignore")
+def _get(url, timeout=45, intentos=3):
+    """Descarga con reintentos. Un 503 o un corte de conexión de GitHub Pages no
+    es un tag roto, y un gate que se pone rojo al azar deja de mirarse."""
+    ultimo = None
+    for i in range(intentos):
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; Kit72hAudit/2.0; +https://kit72h.com)",
+                "Accept-Encoding": "gzip"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                data = r.read()
+                if r.headers.get("Content-Encoding") == "gzip":
+                    import gzip
+                    data = gzip.decompress(data)
+                return data.decode("utf-8", "ignore")
+        except Exception as e:                        # noqa: BLE001
+            ultimo = e
+            if i < intentos - 1:
+                time.sleep(2 * (i + 1))
+    raise ultimo
 
 
 def auditar_vivo(registro, limite=None):
@@ -299,7 +310,7 @@ def auditar_vivo(registro, limite=None):
             return u, "\0ERROR:" + str(e)
 
     hallazgos = []
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    with ThreadPoolExecutor(max_workers=6) as ex:
         for url, texto in ex.map(una, paginas):
             if texto.startswith("\0ERROR:"):
                 hallazgos.append({"nivel": "ERROR", "codigo": "E0", "origen": url,
