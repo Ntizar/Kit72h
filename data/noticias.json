@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T13:11:01+01:00",
+  "actualizado": "2026-11-19T16:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": ""
+  "aviso": "provisiones/google/provisiones emergencia gobierno: HTTPError"
  },
  "temas": [
   {
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-19T11:00:06+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T13:53:15+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Qué hay detrás de la teoría del apagón mundial de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjJENzZiWmsyV2puM2JldjRYRTEyQjhiNUNlVk1XZUtZYUFBMm54by1jVVI4Wk1OZElBUEp2eXJDYVkzM1ZNTGhjN2JjTGE2SnhzU3lFWkV3MkYxbXRST19ha1FkQ05YcHpBUHRDUUhMZkw4SFdPdXJZQTIxdHhQXzkwQzVoUGM?oc=5",
-     "fuente": "Ecos Diarios Necochea",
-     "resumen": "",
-     "fecha": "2026-11-17T12:59:09+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -99,27 +99,19 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
      "resumen": "",
      "fecha": "2026-11-19T08:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España dispara la superficie quemada por incendios en 2025",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVVXN1ZQMkRPYTVVNTVmM1dMWXNBNzVVbWdiRHZXbzFNYzU1VGQxTEtxeU0xbllvQXJETi14UmItSFdfdmRQbHVObDk4WnVOWmY4MWh4Ml9hU21FazFtS3FZem5XTmdrS2lPMXFLaS0tSXY3eWFKSkNIZmtvMFpHZ3pNUjV0dUktckpiWUFnOFNEWl9USlE?oc=5",
-     "fuente": "Agrodigital",
-     "resumen": "",
-     "fecha": "2026-11-19T04:03:21+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
-     "fuente": "MADRID ACTUAL",
-     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
-     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -139,12 +131,20 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "La temporada de incendios de 2025 dejó más de un millón de hectáreas quemadas en Europa: la península registró un récord",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-temporada-de-incendios-de-2025-dej%C3%B3-m%C3%A1s-de-un-mill%C3%B3n-de-hect%C3%A1reas-quemadas-en-europa-la-pen%C3%ADnsula-registr%C3%B3-un-r%C3%A9cord/ar-AA2hEjcM",
-     "fuente": "20 minutos on MSN",
-     "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
-     "fecha": "2026-11-17T10:08:28+01:00",
+     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
+     "url": "https://okdiario.com/naturaleza/febrero-2020-ganadero-asturiano-provoco-incendio-forestal-25-hectareas-quemar-pastos-ahora-enfrenta-multa-4080-3-anos-3-meses-carcel-20974021",
+     "fuente": "Okdiario",
+     "resumen": "En Asturias, la Justicia confirma tres años y tres meses de cárcel a un ganadero por un incendio forestal. Pagará 4080 euros.",
+     "fecha": "2026-11-17T10:00:00+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
+     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
+     "fuente": "Europa Press",
+     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
+     "fecha": "2026-11-16T17:00:00+01:00",
+     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -153,6 +153,14 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
+    {
+     "titulo": "Buxadé denuncia en Murcia 21 años de abandono frente a las inundaciones y exige acabar con la impunidad de los delincuentes",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWJrc2hiem1ZT01EVFZRWjliZHR6VmJDemdScWpoV1J2bFdtRzlycHIwQ0tSWlR3c3lJVTJWckM0Qkwyc1N3MWlUUXdfNHNWa2FXemJWMTZvcW9mNC0ta1RMcHRjYi1NZ08tREhhcUdZVjBxUnFxNlpUY3hnMXpBazJUV0lvNnA1VmRMMFA2RzZ1WF9LY0RWWXpqWGJldmJ1SURpZExfMjhCMEVMYWdxa0V1YUVCY203RS1PV3dtcEoxOE83R2llYVJCQnZsc0hZU1d0VWQxM0lGQktaVnc?oc=5",
+     "fuente": "La Bandera",
+     "resumen": "",
+     "fecha": "2026-11-19T15:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "La secuencia de la brutal riada en Els Poblets: la repentina lengua de agua y la destrucción (vídeo)",
      "url": "https://www.levante-emv.com/videos/la-marina/2026/11/18/secuencia-brutal-riada-els-poblets-dana-dana-adam-inundaciones-136596090.html",
@@ -208,14 +216,6 @@
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
-     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
-     "fecha": "2026-11-16T05:15:00+01:00",
-     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -230,14 +230,6 @@
      "fuente": "TarifaLuzHora",
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "La Asociación Española de Consumidores exige planes preventivos ante posibles apagones digitales",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ19seHJPdFJVMkI0WC1ZZzF4US0ySF9CbUFjMWpzLUJqcDlWV0Vhc3ZMY3BUcW1JcEM2Mks1cGE2c1R3TFRxYjJucXZ3UW5iRE9aTmh6QlBMU3EwYTYxTVZlNE9Ka0VpRlZRNnZ2RW1uVDZESEZBU0RkbGRUQlhWVmFqS3JSMmJrakM5ejYyenhKTTdJMjRqWVJ1OTJsbXZ0MmlIU1dwaG15NmhhdUpzU3lvMTdNXzRrQnNZVjdCRnFmZHh1cElKQ1JnbV9jRHZIRmNHXzVwOHVjQTVNckotNTExTmVWTEx5MWNaUkVXMzdMXzZWUHfSAfsBQVVfeXFMT1oxUUUzR0MyM3hRZkVRdmVXbTFUYXNmLWNmZmo2NUpHV3d4UW12X0FoOGphcldGaWtmMjd6N2ZXLWEwa29sTV96dnFjYW5qS0F3Q1hfdDdXNVpycklDZm5Fc3dpdHcycE9jWGQzaUx5Y0xjNmY0MHlLVXp2dHBsZGI4My1WQmxmZDhJSHRRM1pUX1pzVlZLMEVUNERyV054VVV6enJnTmlPVkkyU2xiQXFSSkc1UTRkbGVtczNpczBVV25jcmI2RFpheHk4M1lDM2J6QzU1QW1RYnl1bFJsbW52cHVoc0IxTUtJMnhqM1lvWkRwUFY0OW1nVms?oc=5",
-     "fuente": "Zamora News",
-     "resumen": "",
-     "fecha": "2026-11-18T08:38:04+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -286,6 +278,14 @@
      "fuente": "La Opinión de Murcia",
      "resumen": "",
      "fecha": "2026-11-17T11:35:23+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Apagón mundial de hoy a las 20:20: cómo comprobar en directo que la luz sigue en España",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWlVTjFHVTJYSXU1YXdEXy1jOTMyU01MNldhRHVOZXBGMnpYWTUzQ3pVOUttcU9fNFZKbkRSMlZxR0w1Ml9HYUstUFh2X0dqWXJ6MXo2VzAydHhVY041b1EwVWlyOVpZckZUaG9mOW5JTTdqQjRCeURzQ0NEQ3BDaQ?oc=5",
+     "fuente": "TarifaLuzHora",
+     "resumen": "",
+     "fecha": "2026-11-17T10:46:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
