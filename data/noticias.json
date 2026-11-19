@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-18T22:11:02+01:00",
+  "actualizado": "2026-11-19T01:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,11 +28,19 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-18T10:51:15+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "url": "https://www.msn.com/es-mx/noticias/otras/c%C3%B3mo-prepararse-para-una-emergencia-de-72-horas-seg%C3%BAn-las-nuevas-recomendaciones-de-la-ue/ar-AA2hGh35",
+     "fuente": "Euronews on MSN",
+     "resumen": "La Comisión Europea recomienda que los hogares estén preparados para cubrir sus necesidades básicas durante al menos 72 horas en caso de que una crisis interrumpa los servicios esenciales. Descubre la ...",
+     "fecha": "2026-11-18T02:51:15+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T12:59:09+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3EyaXNOeWI0NmluOVNoV0xzY0FsYlZILU9tSTRrYTRDMW5mcUFfSHNtUThUUVlRTjBGalNZQXphWXpkVmduRDNhbFlZREdrUHpDdm9XbXhMc3I5Q2ZqR2xRUUxLazVQSUJwUFEyRjAxaXBmZ2lUNnVMNjZDb1h4VllYWW9jTTJCMDAyOGdfU1I1SmM2T0NBOEJ6OEJTS0lvaTNXX01rRTN1d0hGeUx4TVozUUVBcDdlRkdNZm9EcUFPWHVnWkhaNQ?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-11-17T11:28:00+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -91,6 +91,22 @@
      "fecha_txt": "18 nov"
     },
     {
+     "titulo": "Castilla-La Mancha apuesta por reforzar la prevención y gestión forestal frente a grandes incendios",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-apuesta-reforzar-prevencion-gestion-forestal-20261118221718-nt.html",
+     "fuente": "ABC",
+     "resumen": "La consejera de Desarrollo Sostenible, Mercedes Gómez, ha destacado la importancia de una gestión forestal activa para fortalecer la resiliencia de los ecosistemas, el desarrollo del sector y el equil ...",
+     "fecha": "2026-11-18T14:17:00+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "La temporada de incendios de 2025 dejó más de un millón de hectáreas quemadas en Europa: la península registró un récord",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-temporada-de-incendios-de-2025-dej%C3%B3-m%C3%A1s-de-un-mill%C3%B3n-de-hect%C3%A1reas-quemadas-en-europa-la-pen%C3%ADnsula-registr%C3%B3-un-r%C3%A9cord/ar-AA2hEjcM",
+     "fuente": "20 minutos on MSN",
+     "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
+     "fecha": "2026-11-17T10:08:28+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
      "url": "https://okdiario.com/naturaleza/febrero-2020-ganadero-asturiano-provoco-incendio-forestal-25-hectareas-quemar-pastos-ahora-enfrenta-multa-4080-3-anos-3-meses-carcel-20974021",
      "fuente": "Okdiario",
@@ -104,14 +120,6 @@
      "fuente": "Europa Press",
      "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
      "fecha": "2026-11-16T17:00:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Los meteorólogos avisan: en 2100 las condiciones que favorecen los incendios aumentarán un 30% en España",
-     "url": "https://www.msn.com/es-es/noticias/otras/los-meteor%C3%B3logos-avisan-en-2100-las-condiciones-que-favorecen-los-incendios-aumentar%C3%A1n-un-30-en-espa%C3%B1a/ar-AA2hyZYK",
-     "fuente": "El Español on MSN",
-     "resumen": "La AEMET puso en marcha en mayo de 2026 un nuevo Índice de Peligro de Incendios Forestales que incorpora información sobre la vegetación y la humedad del suelo. Más información: Pepita, 107 años: \"Me ...",
-     "fecha": "2026-11-16T10:59:37+01:00",
      "fecha_txt": "16 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-13T14:01:39+01:00",
      "fecha_txt": "13 nov"
-    },
-    {
-     "titulo": "España concentra el 43 % de la superficie quemada por incendios en la Unión Europea en 2026",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmlkRUYtNU9tZ25KVTVBYzNVQjNyb0FsbmFXMHVxNW9VM2I4RFpCQXBUZlh0U0NrbHFHWFRodzhfOVgzSW9fQXd6M1c5OWVuVjJOS2JGTUpqVkMwMmR5MklSODFfYkFPV0l1ZHhMZm1IRy1TbjAzdjdsamNuRTNYak9TNEQxdElsaFVXcnB0a1pKVGJaMm0yVTF3OUlxWUxRTDdzUDFUem92QXQydFp1NF80VjNaZUU0Qkx2cDZrWTZuSXdCTUNHWl9Tak0zZDhQRDE1aUYyeDdsS0s4R0E?oc=5",
-     "fuente": "enTomelloso.com",
-     "resumen": "",
-     "fecha": "2026-11-13T13:25:59+01:00",
-     "fecha_txt": "13 nov"
     }
    ]
   },
@@ -154,19 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "La secuencia de la brutal riada en Els Poblets: la repentina lengua de agua y la destrucción (vídeo)",
+     "url": "https://www.levante-emv.com/videos/la-marina/2026/11/18/secuencia-brutal-riada-els-poblets-dana-dana-adam-inundaciones-136596090.html",
+     "fuente": "Levante-EMV",
+     "resumen": "La riada fue repentina y brutal. A las 5 horas de aquella madrugada de la dana Adam, el río Girona, a su paso por Els Poblets, casi no llevaba agua. A las 5.55 entró la brutal lengua de agua y cañas.",
+     "fecha": "2026-11-18T14:23:00+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
      "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
      "fuente": "España Exterior",
      "resumen": "",
      "fecha": "2026-11-18T14:07:14+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Una escultura nacida de una inundación gana el Premio Internacional Obra Abierta 2026 en Extremadura: \"El suelo dejó de ser un suelo y pasó a ser arte\"",
-     "url": "https://www.elperiodicoextremadura.com/extremadura/2026/11/18/escultura-nacida-inundacion-gana-premio-136593384.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Una inundación en su vivienda obligó a Clara Sánchez Sala a reparar el parqué con sus propias manos. Seis años después, aquella experiencia doméstica se convierte en una escultura premiada con 10.000 ...",
-     "fecha": "2026-11-18T12:53:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -183,14 +183,6 @@
      "fuente": "Motor16",
      "resumen": "El granizo y el viento solo se cubren con daños propios; la inundación la paga el Consorcio. Claves para revisar tu póliza antes de renovar.",
      "fecha": "2026-11-18T09:50:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "La secuencia de la brutal riada en Els Poblets: la repentina lengua de agua y la destrucción (vídeo)",
-     "url": "https://www.levante-emv.com/videos/la-marina/2026/11/18/secuencia-brutal-riada-els-poblets-dana-dana-adam-inundaciones-136596090.html",
-     "fuente": "Levante-EMV",
-     "resumen": "La riada fue repentina y brutal. A las 5 horas de aquella madrugada de la dana Adam, el río Girona, a su paso por Els Poblets, casi no llevaba agua. A las 5.55 entró la brutal lengua de agua y cañas.",
-     "fecha": "2026-11-18T00:23:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -215,6 +207,14 @@
      "fuente": "RFI",
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
     }
    ]
