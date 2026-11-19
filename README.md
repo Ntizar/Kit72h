@@ -97,6 +97,7 @@ kit72h/
 | `prerender.py` | Hornea cada ruta a HTML con Chrome headless. Siempre después de `generar-seo.py`. |
 | `generar-seo.py` | `sitemap.xml` con URLs reales, `feed.xml`, `llms.txt`, `llms-full.txt`, ItemList en el shell. |
 | `catalogo.py` | Catálogo central de productos: `build`, `donde <ASIN>`, `compartidos`, `huecos`, `sustituir VIEJO NUEVO`, `verificar`. **Un producto = un sitio.** |
+| `auditar-enlaces.py` | **¿El ASIN es el producto anunciado?** Cruza cada item `/dp/` con el título real de la Creators API y escribe `data/auditoria-enlaces.json` (mismatch / dudoso / sin datos / duplicado). Exit 2 si hay algo que arreglar. El gate lo consume. |
 | `verificar-fichas.py` · `verificar-asins.py` | ¿Se puede comprar de verdad? Fichas vivas frente a muertas (caducidad 7 días). |
 | `comprobar-urls.py` | Regenera `data/estado.json` con `ok` / `posible_rotura` por enlace. |
 | `buscar-amazon.py` | Buscador de fichas reales para cubrir huecos del catálogo. |

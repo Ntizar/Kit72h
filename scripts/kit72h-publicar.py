@@ -189,7 +189,7 @@ def publicar_cambios(mensaje: str, extra: tuple[str, ...] = ()) -> tuple[int, st
     push = git("push", "-q", "origin", "HEAD:main")
     if push.returncode != 0:
         # Un cron hermano puede haber empujado mientras horneábamos.
-        if git("pull", "--rebase", "-q", "origin", "main").returncode != 0:
+        if git("pull", "--rebase", "--autostash", "-q", "origin", "main").returncode != 0:
             print("❌ rebase falló (conflicto): commit local conservado, revisar a mano")
             return 1, sha
         push = git("push", "-q", "origin", "HEAD:main")

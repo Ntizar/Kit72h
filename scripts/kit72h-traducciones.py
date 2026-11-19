@@ -71,6 +71,12 @@ def main():
         total_antes[lang] = len(p)
     print(f"pendientes: {total_antes}", flush=True)
 
+    # Nada nuevo que traducir: salir sin rehornear 700 páginas (el cron corre
+    # dos veces al día y, sin esta guarda, la segunda pasada costaba ~40 min).
+    if not any(total_antes.values()) and not a.solo_traducir:
+        print("nada pendiente: no se regenera ni se publica")
+        return 0
+
     for lang in IDIOMAS:
         if lang not in total_antes or not total_antes[lang]:
             continue
@@ -80,7 +86,7 @@ def main():
                   flush=True)
             continue
         cmd = [sys.executable, "scripts/traducir.py", "blog", "--langs", lang,
-               "--pendientes", "--hilos", "4"]
+               "--pendientes", "--hilos", "2"]
         if a.entradas:
             cmd += ["--limite", str(a.entradas)]
         corre(cmd, timeout=int(restante) + 60)

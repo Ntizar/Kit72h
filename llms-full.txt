@@ -13,7 +13,7 @@ La lista que el Estado suizo recomienda tener en casa, traducida y comprada en E
 **Comida para siete días (no para tres)**
 - Conservas variadas (15-20 latas): La base que se come sin cocinar y sin frío. Alterna pescado, legumbre y verdura para no comer siempre lo mismo. (~1-3 €/lata)
 - Arroz parboiled (pack de 2 kg): Aguanta años, llena y solo necesita agua y calor. Con el hornillo se cocina igual que en casa. (~~3 €/pack)
-- Pastas, arroz y legumbres en paquetes: Surtido de despensa para completar la semana sin depender de la nevera. (~10-20 €)
+- Legumbres secas en paquetes (garbanzos, 2 kg): Surtido de despensa para completar la semana sin depender de la nevera. (~5-10 €)
 - Abreconservas manual: El detalle que arruina una despensa perfecta: sin abrelatas, las latas no se abren. (~3-8 €)
 **Cocina sin red eléctrica**
 - Hornillo de camping a gas con bombonas: Café, arroz y conservas calientes sin luz. Con bombonas de repuesto y usado siempre ventilado. (~20-45 €)
@@ -79,7 +79,7 @@ Kit DANA: 14 artículos para proteger tu hogar ante inundaciones. Guía basada e
 - Cinta y plástico para sellar ventanas: Sellado de ventanas y grietas ante lluvias con viento. (~8-15 €)
 **Post-DANA**
 - Desinfectante de superficies: El agua de DANA deja lodo con aguas fecales: desinfecta todo. (~5-12 €)
-- Palas y cubos para retirar lodo: Retirar lodo y agua acumulada tras el paso del agua. (~10-25 €)
+- Pala ancha para retirar lodo o nieve: Retirar lodo y agua acumulada tras el paso del agua. (~15-30 €)
 - Desumidificador o sachets antihumedad: Evita moho y humedad estructural tras la inundación. (~15-40 €)
 **Comunicación y avisos: cuando cae la red**
 - Radio FM/AM a pilas o de manivela, con linterna integrada: La red móvil y la luz se van justo cuando más falta hace la información. Compra una radio de dial grande, apunta en la tapa la emisora autonómica y Radio Nacional, y pruébala una vez al mes: los avisos oficiales siguen saliendo por radio y por megafonía municipal. Lleva pilas de repuesto aparte, fuera del aparato. (~15-35 €)
@@ -105,7 +105,7 @@ Kit Apagón: 15 artículos para sobrevivir sin electricidad. Guía basada en la 
 - Detector de monóxido de carbono (CO) a pilas con alarma: El CO no se huele, no se ve y no irrita: da sueño, dolor de cabeza y, si sigues en la habitación, mata mientras duermes. En un apagón se encienden velas, hornillos y braseros, y ahí es donde aparece. Ponlo a la altura de la cabeza, fuera del baño y cerca de la zona donde cocinas, y dale al botón de test cada cambio de hora. Regla que no se negocia: braseros, barbacoas, generadores y hornillos nunca en una habitación cerrada ni en el garaje. (~17-30 €)
 **Dinero y comunicación**
 - Caja fuerte pequeña portátil para efectivo: Guarda el efectivo y documentos críticos en casa. (~20-45 €)
-- Radio FM/AM a pilas o dinamo: Única fuente de información si caen internet y la telefonía. Con dinamo mejor. (~15-35 €)
+- Radio FM/AM con dinamo y panel solar: Única fuente de información si caen internet y la telefonía. Batería propia, dinamo y solar: no depende de pilas. (~25-35 €)
 - SAI / UPS pequeño (600-900 VA) para router y ONT: Un SAI de 600-900 VA mantiene en pie el router y la ONT el rato que aguante su batería (normalmente minutos, no horas) y, de regalo, protege el equipo de la sobretensión cuando vuelve la luz. Conecta solo el router: si le cuelgas también el ordenador o la tele, la batería se agota enseguida. No es un generador: no alimenta nevera, calefacción ni lavadora. (~60-110 €)
 
 ### Kit Coche 2026: obligatorios y opcionales DGT — https://kit72h.com/kit/kit-coche/
@@ -174,7 +174,7 @@ Kit montaña: 15 esenciales para supervivencia outdoor. Navegación, abrigo, agu
 **Salud y reparación**
 - Botiquín ligero de trekking: Vendajes, esparadrapo, ampollas, material de inmovilización básico. (~12-25 €)
 - Crema solar y labial con protección: SPF 50: la radiación en montaña es mucho mayor que en la playa. (~8-18 €)
-- Apósitos hidrocoloides para ampollas: El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar. (~7-22 €)
+- Apósitos hidrocoloides para ampollas (24 uds): El 64% de las consultas médicas de caminantes son por ampollas. Ponlos al primer signo de rozamiento, antes de que aparezca la ampolla. Compeed o similar. (~7-12 €)
 - Navaja multiuso: Corta, sierra, abre latas y repara material. La navaja suiza del senderista. (~15-35 €)
 - Kit de costura de emergencia: Agujas, hilo y mini tijeras en un estuche compacto. Para arreglar mochila, ropa o el chubasquero roto en medio de la ruta. (~3-8 €)
 - Frontal con pilas de repuesto: Manos libres para caminar de noche o reparar material. (~15-35 €)
@@ -256,7 +256,7 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Agua baja en sodio para lactancia (pack 6 × 1,5 L): Para preparar biberones sin potabilizar: busca mineralización débil (sodio <20 mg/L), es la que recomiendan para lactantes. (~4-7 €)
 - Pastillas potabilizadoras aptas para lactantes: Plan B para agua de grifo o lluvia cuando se acaba la embotellada. Úsalas solo con agua clara y deja el tiempo de reposo. (~8-15 €)
 - Calentador biberones sin gas ni electricidad (químico/autocalentante): Bolsas que calientan un biberón en minutos sin fuego. Para papilla templada y agua a temperatura en un coche o un polideportivo. (~6-12 €)
-- Termo pequeño de boca ancha (350-500 ml): Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara. (~10-20 €)
+- Termo de boca ancha (26 cl): Mantiene agua caliente para mezclar papilla o templar el biberón durante horas. Boca ancha: se limpia fácil y se llena con cuchara. (~10-20 €)
 - Botella térmica fría (500 ml): Agua fría segura para el bebé en ola de calor, y para conservar la leche extraída unas horas si no hay nevera. (~12-20 €)
 **Leche y comida de reserva**
 - Leche de fórmula de seguimiento (lata 400-800 g): Reserva de 2-3 días aunque des el pecho. Revisa caducidad cada 6 meses y róatala usándola en papillas o cocina. (~10-16 €)
@@ -268,22 +268,22 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 - Pañales de reserva (talla actual, pack 20-25): 6-8 al día: 20 pañales son 3 días. Pon la talla y la fecha en la bolsa; el bebé cambia de talla antes que de casa. (~6-10 €)
 - Toallitas limpiadoras (pack 3-5): Duos: pañal y cara sin agua. En emergencia se usan más de lo que crees: cierra bien el pack o se secan en una semana. (~4-8 €)
 - Bolsas estancas para ropa sucia y pañales (pack): Una para sucios, otra para ropa limpia. Sin lavadora y con niño, separar limpio de sucio vale oro. (~5-9 €)
-- Cambrador portátil plegable: Una esterilla de espuma fina: se limpia, se seca y en el suelo del polideportivo o del coche te evita media docena de peleas. (~8-14 €)
+- Cambiador portátil plegable e impermeable: Un sitio limpio y acolchado para cambiar al bebé cuando no hay casa: tejido Oxford lavable, se pliega en un bolsillo. En un albergue o un coche, marca la diferencia. (~10-25 €)
 - Crema barrera contra rozaduras: Con pañal todo el día y agua justa, las rozaduras aparecen en 48 h y duermen mal a todos. (~4-8 €)
 - Jabón neutro en pastilla + esponja: Rinde más que el líquido con poca agua y sirve para lavar también biberones y manitas. (~2-4 €)
 **Abrigo y sueño**
 - Saco/pijama de una pieza de abrigo (talla actual + una de repuesto): Mejor que mantas sueltas: no se descubre dormido y deja manos libres para el porteo. (~12-22 €)
 - Manta térmica de emergencia infantil (o manta polar pequeña): La térmica plateada no la dejes suelta cerca de la cara: úsala bajo la manta normal o como barrera contra el viento en el capazo. (~2-6 €)
-- Gorro y manoplas de bebé: Por la cabeza pierden el calor que no compensan. En casa sin calefacción a 16 grados, el bebé duerme con gorro. (~5-10 €)
+- Gorro y manoplas de bebé: El gorro es para la calle y para una evacuación, no para dormir. El NHS pide la habitación entre 16 y 20 °C y nada de sobrecalentar al bebé: al entrar en casa, gorro fuera. Las manoplas, para llevar en brazos con frío. (~5-10 €)
 - Portabebés ergonómico (bandolera o Mei Tai): Manos libres para la linterna, la mochila y la puerta. En evacuación, un portabebés vale más que un carro: no hay ascensor ni acera. (~25-50 €)
 **Salud y calma**
 - Termómetro digital de bebé: El tuyo vale, pero dedicado: sin luz y con susto, poder medir temperatura en 10 segundos evita una noche de duda. (~6-12 €)
-- Suero de rehidratación oral y jeringuilla dosificadora: Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. Pauta de tu pediatra o enfermera, no de internet. (~6-10 €)
+- Suero de rehidratación oral (8 sobres): Ante vómitos o diarrea por agua mala, la deshidratación del bebé va rápido: hidratación temprana y al pediatra. El suero del nebulizador (salino hipertónico) no se bebe; este es de rehidratación oral, con la composición de la OMS. Pauta de tu pediatra o enfermera, no de internet. (~6-12 €)
 - Aspirador nasal + suero fisiológico en monodosis: Los bebés no se suenan solos: con el moco no comen ni duermen. Y el suero sirve para ojos, heridas y limpiar en general. (~4-8 €)
 - Juguetes pequeños favoritos (2-3, en bolsa estanca): Los de siempre, no nuevos: en un sitio raro con luces raras, lo conocido es el ansiolítico del bebé. (~0-10 €)
 - Mantas/empapadores de tela de confianza: Esa mantita que huele a casa. Si se pierde en una evacuación es un drama de tres horas: guarda otra igual en el kit. (~8-15 €)
 **Documentos e identificación**
-- Funda estanca con libro de salud, cartilla de vacunación y DNI/pasaporte del bebé: Fotocopias + originales si los hay. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~5-10 €)
+- Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte): Fotocopias + originales dentro de una bolsa impermeable. Con un niño pequeño y sin red, un papel con su fecha de nacimiento y alergias resuelve mucho. (~10-18 €)
 - Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos): Una ficha plastificada en la mochila y foto reciente del niño impresa. Si se separa de vosotros en una evacuación, es lo que le identifica. (~0-5 €)
 - Fotos recientes del bebé y de la familia en papel: Suena antiguo y funciona: en un centro de acogida una foto en la cartera vale más que un móvil sin batería. (~0 €)
 
@@ -291,7 +291,7 @@ Kit bebé: 32 artículos para emergencias — alimentación sin luz, higiene, ab
 Kit mayores: 27 artículos para personas dependientes — medicación crónica, ayudas técnicas, anti-caídas y comida adaptada. Desde 60 €, sin contar receta.
 **Medicación y crónicos**
 - Organizador de pastillas semanal (pastillero) con copia de pautas: Relleno con la reserva del kit. Si otra persona tiene que administrar la medicación, el pastillero + la ficha evitan errores. (~6-14 €)
-- Ficha médico-identificativa plastificada: Enfermedades, tratamiento con dosis, alergias, grupo sanguíneo, médico, contactos. Una copia en la cartera, otra en la mochila, otra en la nevera. (~0-5 €)
+- Ficha médico-identificativa: pulsera de alerta grabada: Nombre, alergias, medicación y contacto grabados en el metal, a la vista de cualquiera que te atienda. La tarjeta de papel se moja; esto no. (~8-20 €)
 - Nevera portátil pequeña con paquetes fríos reutilizables: Para insulina y medicación que exige frío: con paquetes congelados de recambio aguanta 24-36 h. Comprueba con tu farmacéutico qué medicación lo necesita. (~12-25 €)
 - Termómetro de nevera (mínimo/máximo): 2-4 grados o a la basura. Un termómetro de 4 € te dice si la insulina sigue siendo válida tras el apagón. (~4-8 €)
 - Pastilla potabilizadora y vaso medidor para medicación: Para tomar comprimidos con agua segura y medida. Detalle tonto que se agradece el día 2. (~8-15 €)
@@ -301,7 +301,7 @@ Kit mayores: 27 artículos para personas dependientes — medicación crónica, 
 - Gafas de graduación de repuesto: Una gafa vieja en buen estado o la graduación apuntada para encargar otra. Se caen y se rompen justo entonces; con el graduado en el cajón, media hora de óptica online. (~10-30 €)
 - Caja de dentadura + pegamento y vaso con tapa: Si usa prótesis: sin pegamento de repuesto y sin vaso donde guardarla de noche, no come. Detalle que nadie contempla. (~6-10 €)
 - Bastón plegable / andador de repuesto con luz: El bastón se queda en la otra habitación cuando lo necesitas. Uno ligero en el pasillo con luz de noche integrada. (~15-35 €)
-- Imán o bolsa de seguridad para marcapasos (información y tarjeta del dispositivo): La tarjeta del marcapasos con modelo, centro y teléfono va en la ficha de documentos. En resonancias, TAC y rescates, preguntan por ella y no la encuentran. (~0 €)
+- Pulsera de alerta: marcapasos o dispositivo implantado: Un sanitario necesita saberlo antes de un desfibrilador o una resonancia. Grabada y visible en la muñeca, funciona aunque no puedas hablar. (~6-20 €)
 - Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias): Con deterioro cognitivo o desorientación, en una evacuación lo primero que se pierde es la cartera con los papeles. Una pulsera o collar grabado con nombre, teléfono de un familiar y alergias se lee sin desbloquear nada ni abrir ningún bolsillo, y no caduca ni se queda sin batería. (~8-20 €)
 **Caídas, noche y seguridad en casa**
 - Balizas LED de noche con sensor (pack 2-3): Se clavan en el enchufe del pasillo y del baño y funcionan con batería interna: sin luz, alumbran sin pulsar nada. La caída nocturna es EL accidente evitable. (~10-20 €)
@@ -312,7 +312,7 @@ Kit mayores: 27 artículos para personas dependientes — medicación crónica, 
 - Radio a pilas FM con volumen alto y dial grande: La información oficial sin depender del móvil. Se ensaya a usarla una vez al mes para que no sea un objeto desconocido. (~12-25 €)
 - Hoja de contactos en papel con letra grande (112, familia, médico, vecino, farmacia): Pegada en la nevera y en la mesilla. El móvil con números marcados no sirve si no sabe desbloquearlo o no lo encuentra. (~0 €)
 - Acuerdo de vecindad con llamada/golpe de aviso: Un vecino designado llama o pasa cada mañana en crisis. No es un objeto, es la medida más eficaz de toda la lista: cuéntalo por escrito en la ficha. (~0 €)
-- Juegos de naipes, libro de letra grande o rádio con altavoz: Tres días de encierro sin compañía se llevan con algo. Y la moral también es salud: se nota en quién come y quién no. (~5-15 €)
+- Baraja española (40 cartas): Sin pantallas y sin batería: media hora de partida cambia el ánimo de una tarde larga. Letra grande para quien no ve de cerca. (~4-10 €)
 **Higiene, incontinencia y frío**
 - Empapadores y pañales de incontinencia (pack para 3-5 días): Si hay incontinencia, es lo primero que se acaba y lo último que se puede improvisar: sin lavadora, sin agua caliente y con el baño a oscuras, no hay recambio casero. Talla y absorción se ajustan con su enfermera o en la farmacia, no a ojo. (~15-30 €)
 - Cuña u orinal con asa: Con movilidad reducida o sin luz, el viaje nocturno al baño es la caída esperada. Una cuña con asa y una luz de noche bastan para que no tenga que levantarse a oscuras. Se vacía y se limpia con agua de limpieza, nunca con el agua de beber reservada. (~10-20 €)
@@ -449,7 +449,7 @@ Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, sal
 - Manguera reforzada larga (más un aspersor o pistola): Para remojar el perímetro, la fachada y las zonas de matorral cercanas. Lo más eficaz antes de que llegue el frente. (~25-60 €)
 - Extintor de polvo ABC de 6 kg (o varios de 2 kg): Para fuegos que llegan a la casa: tejado, leña apilada o un vehículo. El extintor de coche no basta. (~45-90 €)
 - Azada, rastrillo y desbrozadora manual: Quitar hierba seca y hojarasca en el perímetro es lo que evita que el fuego de suelo llegue a la fachada. (~15-35 €)
-- Mochila de agua a presión (16-20 L): Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona. (~25-50 €)
+- Mochila pulverizadora de agua a presión (16 L): Sirve para apagar conatos y remojar puntos calientes sin manguera ni corriente. Muy útil cuando se va la luz y la bomba no funciona. (~25-40 €)
 **Animales y personas que no corren solos**
 - Transportín y correa a mano (mascotas): En una evacuación por humo, un animal suelto se esconde o huye al monte. Con transportín sale contigo en el primer viaje. (~25-60 €)
 - Medicación crónica y lista de tratamientos (personas mayores o dependientes): Anticoagulantes, insulina, inhaladores, tratamientos psiquiátricos. Van en la mochila con copia de recetas, no en el armario del baño. (~15-60 €)
@@ -458,24 +458,24 @@ Kit incendio: 21 artículos para un incendio forestal — respirar sin humo, sal
 ### Kit Comunicación: walkies, radio y messenger satelital (2026) — https://kit72h.com/kit/kit-comunicacion/
 Kit comunicación sin red: walkies PMR446 sin licencia, radio con manivela y messenger satelital. 6 artículos desde 80 € para no quedarte sin avisos.
 **Comunicación local: walkies PMR446**
-- Walkie-talkies PMR446 (pareja, recargables): Par de walkies PMR446 recargables. Banda 446 MHz sin licencia, canales de uso común. (~40-80 €)
+- Walkie-talkies PMR446 recargables (16 canales): Par de PMR446 recargables con base de carga: 16 canales y 0,5 W, legales en España sin licencia y sin trámites. (~35-60 €)
 - Walkie-talkies PMR446 de gama media (alcance ampliado): Mejor antena y sensibilidad: hasta 5-10 km en campo abierto. (~60-120 €)
 **Escuchar y avisar al exterior**
 - Radio FM/AM a pilas o de dinamo (con linterna): Única fuente de información si caen internet y la telefonía. Con dinamo, sin pilas. (~15-35 €)
 - Powerbank 10.000-20.000 mAh para los aparatos: El walkie recargable y el móvil se mueren a la vez. Dos salidas los mantienen vivos varios días. (~20-40 €)
-- Messenger satelital (tipo Garmin inReach): Mensajes y SOS por red satelital donde no hay cobertura móvil. Requiere suscripción mensual. (~250-400 € + 5-25 €/mes)
-- Pilas de repuesto (AA/AAA) fuera de los aparatos: Guardadas dentro de la radio se sulfatan. Guárdalas aparte, en su envase. (~8-18 €)
+- Garmin inReach Messenger: Mensajes y SOS por red satelital donde no hay cobertura móvil. Necesita cielo despejado y suscripción mensual activa. (~250-400 € + 5-25 €/mes)
+- Pilas alcalinas AA/AAA (pack de 48): Guardadas dentro de la radio se sulfatan: guárdalas aparte, en su envase. Pack mixto para radio, linterna y mando. (~12-18 €)
 
 ### Kit Starlink: internet satelital para emergencias (2026) — https://kit72h.com/kit/kit-starlink/
-Kit Starlink: internet satelital desde cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
+Kit Starlink: internet satelital con cielo despejado desde casi cualquier punto (400-600 € + 50-60 €/mes), router 4G de respaldo y messenger satelital de último recurso.
 **Starlink: internet desde cualquier lugar**
-- Terminal Starlink Gen 3 (residencial / móvil): Internet satelital donde no hay cobertura ni fibra. 50-200 Mbps reales. Gen 3: 75-150 W, Wi-Fi integrado. Plan «Móvil en tránsito» 45 €/mes. La suscripción es imprescindible: sin ella el hardware no sirve. (~500-1.200 € · 45-60 €/mes)
-- Soporte de montaje para Starlink (tejado / pared / mástil): Soporte robusto para fijar la terminal en tejado, pared o mástil y mantener la visibilidad del cielo. Compatible con Gen 2 y Gen 3. (~50-150 €)
-- Cable extensor para Starlink (30 m / 60 m): Extiende el cable hasta la ubicación ideal. Blindado, resistente a UV, agua y roedores. Compatible con Gen 2 y Gen 3. (~75-150 €)
+- Kit Starlink Standard (antena + router Wi-Fi): Internet satelital donde no hay cobertura ni fibra, con la antena apuntando a cielo despejado. 50-200 Mbps reales. Antena y router Wi-Fi incluidos. La suscripción es imprescindible: sin ella el hardware no sirve. (~450-550 € · 45-60 €/mes)
+- Soporte de montaje para Starlink (tejado / pared / mástil): Fija la antena en tejado, pared o mástil y gana los grados de cielo que la instalación en balcón no da. Válido para Starlink Standard (Gen 3), V3, 4 y 4X. (~25-60 €)
+- Cable extensor Ethernet para Starlink (30 m): Alarga el cable de la antena hasta el punto con cielo despejado. Impermeable, para exterior. Compatible con Starlink Standard 4/4X/Gen 3/V4/V5. (~40-80 €)
 **Redundancia: router 4G/5G como respaldo**
 - Antena externa 4G/5G de alta ganancia: 12-16 dBi: amplifica la señal cuando la cobertura es débil. Instalación en tejado con cable hasta el router. (~50-150 €)
 **Último recurso: messenger satelital**
-- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura. 90 h de batería en modo normal, 35 h en activo. (~400 € · 10-40 €/mes)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional por satélite, hasta 350 h de autonomía. Exige cielo despejado y suscripción activa: bajo techo, en un barranco o con bosque cerrado no transmite el SOS. (~410 € · 10-40 €/mes)
 - Powerbank de 20.000 mAh + cables: Mantiene el inReach y el móvil cargados cuando no hay red eléctrica. Carga por USB-C. (~25-50 €)
 
 ### Kit Electricidad: 10 artículos para tener luz sin red (2026) — https://kit72h.com/kit/kit-electricidad/
@@ -504,19 +504,408 @@ Kit profesional: 800 W de placas, baterías LFP de 19,2 kWh, SAI y Starlink para
 - SAI (UPS) 3000VA-5000VA online doble conversión: Online doble conversión: siempre alimenta desde baterías, la red solo carga. Protección total contra microcortes, picos y ruido eléctrico. Ideal para PC, servidor, router, Starlink y nevera inteligente. (~500-800 €)
 - SAI 1500VA (900W line-interactive): Protección específica para router, módem y equipo de comunicación. Más asequible, garantiza conectividad. (~200-350 €)
 **Generador: respaldo cuando no hay sol**
-- Depósito ampliado o conexión a gas natural: Amplía la autonomía con depósito extra de 100+ litros o conexión a gas natural (autonomía ilimitada). Requiere instalación profesional. (~200-600 €)
+- Bidón homologado para combustible (20 L): La autonomía la marcan los litros: 20 L en bidón homologado con cánula y franja de medición, fuera de la vivienda y rotando cada tres meses con estabilizador. La conexión a gas natural evita el repostaje, pero la hace un instalador autorizado: no es un producto de Amazon. (~15-30 €)
 **Conservación de alimentos sin red**
-- Acumuladores de frío congelables (pack de 6): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~25-40 €)
+- Acumuladores de frío congelables (pack de 4): Gel congelable que mantiene la temperatura 24-48 h sin electricidad. Se congelan cuando hay sol y enfrían cuando no. Reutilizables. (~10-16 €)
 **Iluminación y seguridad perimetral**
 - Cámara de seguridad solar 4G con batería: Cámara 4G con panel solar y batería: vigilancia remota sin internet fijo. Se activa con movimiento y avisa al móvil. (~80-120 €)
 **Conectividad: Starlink y redundancia**
 - Router 4G/5G industrial con dual SIM y antenas externas: Celular redundante con dos operadoras (p. ej. Movistar + Orange). WAN/LAN, VPN, PoE para tejado, antenas de alta ganancia. Alternativa si el satélite no es viable. (~300-800 €)
 - Extensor WiFi de largo alcance + antena direccional: Extiende el WiFi a granja, jardín o garaje. Antena direccional para captar señal de otro edificio o torre. Ubiquiti NanoStation o Tenda W311MI. (~30-200 €)
-- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional donde no hay cobertura de ningún tipo. 90 h de batería. Último recurso cuando todo lo demás falla. (~400 € · 10-40 €/mes)
+- Messenger satelital (Garmin inReach Mini 3): SOS, geolocalización y mensajería bidireccional por satélite. Exige cielo despejado y suscripción: bajo techo no transmite. Último recurso cuando no hay red de ningún tipo. (~400 € · 10-40 €/mes)
 **Comunicación local: radio amateur y walkies**
-- Walkie-talkies profesionales PMR446 (set de 4): Sin licencia (PMR446: 16 canales, 0,5-2W, ~2-5 km en campo abierto). IP67, LCD, LED, VOX. Motorola Talkabout o similar. Ideal para coordinar evacuación. (~100-200 € (pack 4))
+- Walkie-talkies profesionales PMR446 (set de 4): Sin licencia en España con PMR446: 16 canales y 0,5 W de potencia máxima legal, antena fija. IP67, LCD, LED, VOX. 2-5 km en campo abierto. Ideal para coordinar una evacuación. (~100-200 € (pack 4))
 
 ## Blog
+### Mejor saco de dormir para dormir sin calefacción (2026) — https://kit72h.com/blog/mejor-saco-de-dormir-sin-calefaccion/
+Cómo elegir saco de dormir para una casa sin calefacción: confort vs límite, tres modelos comprobados y la rutina de la noche.
+Cuando la calefacción no está —apagón, caldera averiada, una ola de frío que corta el suministro o una noche fuera de casa— bajar la temperatura del dormitorio de 21 a 12 ºC no es una incomodidad: es un riesgo real. Y la solución más barata no es un aparato que consuma, sino un saco de dormir decente. Aquí tienes cómo elegirlo sin equivocarte, tres modelos que se venden de verdad en España y cómo encajarlo en tu kit de emergencia.
+
+
+ Por qué un saco de dormir y no cuatro mantas
+
+
+ Una manta calienta lo que tapa; un saco calienta un volumen cerrado . Al mantener el aire caliente pegado al cuerpo y cubrir también hombros y cabeza, un saco de dormir bien elegido rinde como tres o cuatro capas de ropa de cama. Además hay dos ventajas prácticas que en una emergencia cuentan mucho:
+
+
+ 
+ Se traslada. Un saco ocupa poco, pesa poco y no depende de una cama: sirve en el salón, en el coche, en un refugio o en el suelo de casa de un familiar.
+
+ Se comparte el calor. Dos personas en el mismo espacio pequeño (una habitación, no necesariamente el mismo saco) suben varios grados la temperatura del aire que respiran, sin gastar nada.
+
+ 
+
+ Eso no significa que un saco sustituya a la calefacción: significa que cubre el escenario en el que la calefacción falla. Es la pieza que evita que un apagón de dos días se convierta en una noche de hospital.
+
+
+ Cómo se lee la etiqueta de un saco (y por qué casi todo el mundo la lee mal)
+
+
+ Los sacos de dormir de marcas serias declaran tres temperaturas siguiendo la norma europea EN 13537 , hoy ISO 23537 . Son tres cifras distintas y no significan lo mismo:
+
+
+ 
+ Temperatura de confort: la temperatura a la que una mujer adulta de complexión media duerme cómoda. Es la cifra que debes mirar si vas a dormir de verdad.
+
+ Temperatura límite: la temperatura a la que un hombre adulto duerme sin pasar frío, pero sin margen. Es la que las webs destacan porque es más baja y vende mejor.
+
+ Temperatura extrema: supervivencia, no descanso. Nadie duerme bien ahí; sirve para saber cuándo el saco deja de proteger.
+
+ 
+
+ El error más común es comprar por la cifra de límite. Un saco anunciado «para -5 ºC» puede tener un confort real de +3 ºC, y en un dormitorio a 10 ºC eso se traduce en una noche de tiritar. Regla práctica: para dormir en casa sin calefacción, elige un saco cuyo confort esté por debajo de la temperatura mínima que esperas en la habitación, con 5 ºC de margen.
+
+
+ Tabla comparativa: tres sacos que se venden de verdad en España
+
+
+ 
+ 
+ Modelo Forma Rango declarado Relleno Para quién 
+
+ 
+ 
+ QEZER invierno 0 ºC Rectangular amplio De -28 ºC a +8 ºC (según versión) Plumón, versiones de 1 kg y 1,5 kg Uso doméstico y coche: se abre como manta y se comparte 
+
+ QEZER invierno -20 ºC Rectangular/momia convertible Hasta -20 ºC declarados Plumón 620 FP Familias en casas frías y quien duerme a menudo fuera 
+
+ Forceatt momia Momia De 0 ºC a +20 ºC Fibra sintética compacta Mochila, coche y emergencia: ligero y comprimible 
+
+ 
+ 
+
+ Ojo con los rangos: son declaraciones del fabricante , no medidas independientes. En los modelos económicos suelen ser optimistas, así que el margen de 5 ºC que recomendábamos arriba no es un lujo, es lo que separa dormir de no dormir.
+
+
+ 1. QEZER invierno 0 ºC — el todoterreno doméstico
+
+
+ Es el tipo de saco que resuelve el 80 % de los casos: rectangular, amplio, con relleno de plumón y varias versiones de peso para ajustar el calor. Su forma permite abrirlo del todo como manta , algo que se agradece en un salón con varias personas o cuando la noche no es tan fría.
+
+
+ Sus puntos fuertes son el confort (no aprieta, se puede dormir de lado) y la versatilidad: en casa, en el coche, en casa de un familiar sin calefacción. Su punto débil es el volumen: ocupa más que una momia y no es la mejor opción si tienes que cargarlo en una mochila pequeña.
+
+
+ Ver el QEZER de invierno en Amazon → 
+
+
+ 2. QEZER invierno -20 ºC — para casas que se quedan heladas
+
+
+ Si vives en una zona de inviernos duros (meseta, montaña, pueblos con casas de piedra) o tu plan de emergencia contempla varios días sin calefacción, este es el escalón siguiente: plumón de 620 FP, más relleno y un rango declarado mucho más bajo. Es el saco que se compra una vez y dura años .
+
+
+ Contra: pesa y abulta más, y en una habitación a 18 ºC te vas a pasar de calor. No es un saco para el salón de casa en noviembre; es el que quieres tener el día que la cosa se pone seria.
+
+
+ Ver el QEZER de -20 ºC en Amazon → 
+
+
+ 3. Forceatt momia — el de la mochila y el coche
+
+
+ La forma momia existe por una razón física: menos aire que calentar alrededor del cuerpo. Este modelo es de fibra sintética, se comprime bien y aguanta la humedad mejor que el plumón, algo que importa si el saco va a vivir en el maletero o en una mochila de evacuación. Su rango declarado (0 ºC a +20 ºC) lo sitúa como saco de entretiempo, no de pleno invierno en una casa sin calefacción.
+
+
+ Es la elección lógica para el kit del coche y para el kit de evacuación: ligero, barato y suficiente para una noche en un pabellón deportivo o en el coche con el motor apagado.
+
+
+ Ver el saco momia Forceatt en Amazon → 
+
+
+ Lo que importa más que el saco: el suelo y la cabeza
+
+
+ Dormir con frío tiene dos enemigos que no se ven en la etiqueta del saco:
+
+
+ 
+ El suelo. Un saco comprimido bajo el cuerpo pierde casi todo su aislamiento en la zona de contacto. Sin una esterilla o una manta doblada debajo, el frío sube por el suelo y el saco no puede hacer nada. Es la causa número uno de noches malas con un saco correcto.
+
+ La cabeza y el cuello. Son la vía por la que se escapa más calor. Un gorro de lana y una braga o bufanda fina hacen más por la noche que subir un grado la calefacción.
+
+ 
+
+ Y una regla que casi nadie cumple: nunca duermas con la ropa del día si está húmeda . La humedad enfría muchísimo más rápido que el aire seco. Si te has mojado, cámbiale la capa interior aunque haga pereza.
+
+
+ Seguridad: frío, monóxido de carbono y ventilación
+
+
+ Cuando el frío aprieta, la tentación es meter cualquier fuente de calor en el dormitorio y cerrar la puerta. Ahí es donde se producen los accidentes que de verdad matan: el monóxido de carbono de braseros, estufas de gas y generadores no se ve, no huele y mata mientras duermes.
+
+
+ Reglas que no se negocian:
+
+
+ 
+ Nunca un generador dentro de casa, ni en el garaje, ni en el balcón cerrado, ni siquiera con las ventanas abiertas. Va fuera y lejos de ventanas y rejillas de ventilación.
+
+ Nunca una estufa de gas o un brasero encendidos en una habitación cerrada mientras duermes. Si la usas, es con ventilación y con la habitación vigilada, nunca para dormir.
+
+ Si tienes caldera o aparatos de combustión, un detector de CO es más importante que cualquier otro accesorio de esta lista.
+
+ Revisa los avisos oficiales de AEMET antes de que llegue la ola de frío: la previsión te da horas de margen para preparar la casa.
+
+ 
+
+ En caso de emergencia, el teléfono es el 112 . Y si en casa hay un bebé, la referencia que usa el sistema sanitario público británico (NHS) es mantener la habitación entre 16 y 20 ºC y retirar el gorro al entrar en casa: el gorro es para la calle, no para dormir.
+
+
+ Dormir sin calefacción: la rutina de la noche
+
+
+ 
+ Calienta la cama, no la casa. Una bolsa de agua caliente o una manta eléctrica (si hay luz) diez minutos antes de entrar. El saco conserva el calor; no lo genera.
+
+ Capas dentro del saco. Camiseta térmica y calcetines secos. Si tienes frío, añade una capa fina dentro del saco antes que otra manta encima.
+
+ Aísla el suelo con esterilla, manta doblada o cartón grueso.
+
+ Come algo antes de dormir. El cuerpo genera calor digiriendo; una cena caliente y no muy tarde ayuda más de lo que parece.
+
+ Ventila, pero no enfríes. Renueva el aire unos minutos antes de acostarte y cierra después; una habitación sin oxígeno también es un peligro.
+
+ 
+
+ Si en casa hay mayores, bebés o personas con movilidad reducida, el plan cambia: ellos pierden calor más rápido y no siempre lo notan. En ese caso, la prioridad es mantener una única habitación caliente para todos y no repartir el calor por toda la casa. Tienes el detalle en temperatura segura en casa sin electricidad y en vestirse por capas .
+
+
+ Nuestra elección, con el enlace comprobado
+
+
+ Para una casa española que quiere cubrir el escenario «dos noches sin calefacción», la apuesta equilibrada es el QEZER de invierno : se abre como manta, sirve para toda la familia y no obliga a comprar un saco técnico de montaña. Si vives en zona de frío serio, sube al modelo de -20 ºC. Y si lo que quieres es completar el kit del coche, la momia Forceatt es la pieza que ocupa menos y resuelve más.
+
+
+ Los tres enlaces de esta página llevan a la ficha del producto en Amazon con nuestro identificador de afiliado. Los precios cambian a diario: compruébalos en la ficha antes de decidir, y no te fíes de una cifra copiada de un artículo.
+
+
+ Dónde encaja en tu kit de emergencia
+
+
+ Un saco de dormir no es un extra: en invierno es la pieza que evita que el plan se rompa. Así lo repartimos en Kit72h:
+
+
+ 
+ Kit frío — el saco o pijama de abrigo, la manta térmica y las cortinas térmicas, pensados para mantener una habitación habitable.
+
+ Kit básico 72 horas — las mantas térmicas reutilizables van aquí, porque el 90 % de los apagones se resuelven en casa.
+
+ Kit montaña — si el plan incluye salir o dormir fuera, el saco momia sustituye a la manta.
+
+ 
+
+ Y si quieres el plan completo —qué hacer la primera hora, cómo repartir tareas en familia y qué tener preparado antes de que llegue el aviso— empieza por cómo calentar la casa sin electricidad y por el plan familiar de emergencia .
+
+
+ Fuentes
+
+
+ 
+ AEMET — Avisos meteorológicos oficiales 
+
+ Protección Civil — Recomendaciones ante olas de frío 
+
+ Comisión Europea (DG ECHO) — Red de conocimiento de protección civil
+
+### Cómo cocinar sin electricidad ni gas: 6 métodos que sí funcionan (2026) — https://kit72h.com/blog/cocinar-sin-electricidad-gas/
+Seis formas reales de cocinar sin luz ni gas de red, con la regla de ventilación que evita el monóxido y qué comer para gastar menos combustible.
+Cuando se va la luz, lo primero que se cae no es el frigorífico: es el desayuno. Sin vitrocerámica, sin microondas y sin horno, mucha gente se queda mirando la cocina como si fuera un decorado. Y no, no hace falta un generador de gasolina para calentar un plato de lentejas. Hay al menos seis formas de cocinar sin electricidad ni gas de red, y todas caben en un piso, con dos reglas que no se negocian: ventilación y nada de combustión en espacios cerrados .
+
+
+ Lo primero: qué NO hacer (y por qué)
+
+ Antes de los métodos, el error que mata. Un hornillo de gas, una estufa de butano, una parrilla de carbón o un hornillo de alcohol nunca se usan dentro de casa, en el garaje ni en una habitación con la ventana entreabierta «para que corra el aire». La combustión genera monóxido de carbono (CO), un gas sin olor ni color que mata a decenas de personas cada año en España y que no avisa: los síntomas (dolor de cabeza, mareo, náuseas) aparecen cuando ya estás desorientado. El Ministerio de Sanidad lo documenta en su informe de intoxicaciones agudas en el hogar , y la regla es sencilla: si hay llama y no hay chimenea, esa llama va fuera . Un detector de CO en casa cuesta poco y avisa antes de que tú notes nada; lo tienes explicado en cómo elegir un detector de monóxido .
+
+ Con eso claro, la escalera de opciones va de la que no requiere nada a la que requiere preparación previa.
+
+
+ 1. Termo y agua caliente del día anterior
+
+ El método más barato y el que menos gente usa. Un termo de boca ancha lleno de agua hirviendo a las 22:00 sigue a más de 70 ºC a las 08:00. Con eso hidratas un café liofilizado, una sopa de sobre, unas gachas de avena o un puré: no es «cocinar» en sentido estricto, pero resuelve dos de las tres comidas del día sin abrir un solo mechero. Si tienes un termo de un litro, el cálculo es simple: un litro de agua a ebullición da para tres raciones de desayuno. En los kits aparece como «termo de boca ancha» porque lo importante es el diámetro: por una boca estrecha no entra una cuchara.
+
+ Termo de acero de boca ancha (26 cl) — el formato pequeño sirve para bebidas; para comer, busca uno de 750 ml o un litro.
+
+
+ 2. Hornillo de gas portátil, siempre fuera
+
+ Es la opción de verdad para comer caliente durante varios días. Un hornillo de cartucho (los de camping) o de bombona pequeña se monta en un minuto y hierve medio litro en cuatro o cinco. La regla de uso: en el balcón, en la terraza, en el patio o en el alféizar exterior , nunca en la cocina. Si vives en un piso interior sin exterior, esta opción no es para ti y pasas a la número 3.
+
+ Consumo real: un cartucho de 220 g da aproximadamente una hora de llama alta, o sea unos 25-30 minutos de ebullición efectiva. Para una familia de cuatro comiendo caliente tres días, cuenta dos cartuchos por día. No compres un hornillo sin probarlo antes en el balcón con agua: hay modelos que llegan con el regulador mal y dan llama amarilla (combustión sucia, más CO).
+
+ 
+ Hornillo de camping con adaptador de bombona + 4 cartuchos — la opción más completa, sirve para bombona grande y cartucho.
+
+ Hornillo 2 en 1 (bombona grande o cartucho) — formato compacto, el más barato de los dos.
+
+ 
+
+ 3. Cocina solar: gratis, lenta y solo con sol
+
+ Una cocina solar de embudo o de caja concentra la radiación y llega a 120-150 ºC en un día despejado: suficiente para guisos, arroz y legumbres (con paciencia: el doble o el triple de tiempo). No genera CO, no consume nada y funciona aunque no haya luz eléctrica. Sus límites son honestos: cielo cubierto, sombra o invierno a las 17:00 y no cocinas. Si vives en el norte con nubes en noviembre, no es tu plan A.
+
+ El truco que sí funciona en un piso: una olla negra mate, una bolsa de asar transparente y una ventana orientada al sur. No sustituye a una cocina solar, pero un plato de legumbres ya cocidas se calienta en dos horas dentro de esa bolsa al sol. Es el «horno de ventana» de toda la vida.
+
+
+ 4. Combustible sólido (pastillas y hornillos de alcohol)
+
+ Las pastillas de combustible sólido (hexamina o similar) arden sin humo visible y sin llama grande; sirven para calentar una ración pequeña o para encender otra cosa. Son la reserva de fondo: no cocinas una olla familiar, pero sí un vaso de caldo. Los hornillos de alcohol funcionan parecido y permiten regular la llama. En ambos casos, mismo aviso: fuera o junto a una ventana abierta de par en par con ventilación cruzada, y nunca mientras duermes.
+
+ Para encender cualquier cosa, cerillas largas mejor que mechero: alcanzan una hornilla sin quemarte los dedos y funcionan mojadas si están enceradas.
+
+ Cerillas largas de seguridad XXL (17 cm) — cuatro cajas, duran años en un cajón seco.
+
+
+ 5. Olla térmica / cocina pasiva (el método que usa la mitad del mundo)
+
+ Se llama cocina pasiva o «heat retention cooking»: llevas el guiso a ebullición cinco minutos en el hornillo, tapas y metes la olla en un recipiente aislado (una olla térmica de las de llevar comida, o una caja con mantas y cojines alrededor). El calor residual termina de cocer las legumbres en dos o tres horas sin gastar más combustible. Es la forma de cocinar un cocido de garbanzos gastando lo mismo que en calentar agua. Ahorra más de la mitad de gas y es la razón por la que en las casas de pueblo la olla se dejaba en el sereno envuelta en una manta.
+
+
+ 6. Barbacoa y fuego exterior (solo si tienes dónde)
+
+ Si vives en casa con patio, jardín o terraza grande y el ayuntamiento no ha prohibido encender fuego (mira la normativa municipal y el nivel de riesgo de incendio de tu comunidad; en verano se prohíbe casi en todas partes), una barbacoa de carbón resuelve comidas completas. Fuera de temporada de riesgo, con viento flojo y nunca bajo un toldo o en un porche cerrado. La ceniza se apaga con agua, no se deja enfriando sola.
+
+
+ Qué comer cuando el objetivo es no gastar combustible
+
+ La cocina de emergencia se gana antes de la emergencia, en la compra. Los alimentos que no piden fuego: conservas (legumbres, atún, verduras), embutido curado, frutos secos, pan de larga duración, quesos curados, leche UHT en brick pequeño, fruta que aguanta (manzana, naranja), mantequilla de cacahuete. Los que piden muy poco: pasta fina, cuscús (se hidrata con agua caliente, sin fuego), copos de avena, sopas de sobre, café soluble. Los que no: arroz integral, legumbre seca sin remojo previo, carne congelada.
+
+ El cuscús merece un apartado propio: se cubre con agua hirviendo, se tapa cinco minutos y está listo. Cero fuego tras el hervor. Si tienes que elegir un alimento de emergencia por kilo y por litro de gas ahorrado, ese es.
+
+ Tienes dos artículos que completan esto: menús de tres días sin cocina (con lista de la compra) y cómo conservar la comida sin nevera , que es el otro problema del apagón: cocinar es fácil, que no se estropee lo del frigorífico es la carrera contra el reloj.
+
+
+ Tabla: qué método para qué situación
+
+ 
+ Método Calor Necesita Cuándo usarlo 
+ 
+ 
+ Termo Bajo (hidratar, infusiones) Agua caliente previa Desayunos y cenas ligeras 
+
+ Hornillo de gas Alto (hervir, guisar) Exterior o balcón Comida caliente varios días 
+
+ Cocina solar Medio (120-150 ºC) Sol directo, 2-4 h Días despejados, sin prisa 
+
+ Combustible sólido Bajo (calentar ración) Ventilación, exterior Reserva de fondo 
+
+ Olla térmica Alto con poco gas 5 min de hornillo Guisos y legumbres 
+
+ Barbacoa exterior Alto Casa con patio, sin prohibición Comidas familiares 
+
+ 
+ 
+
+ El detalle que se olvida: el agua
+
+ Sin agua no hay cocina. Un apagón largo suele venir con problemas de suministro, y aunque el agua del grifo siga saliendo, en una alerta puede llegar turbia o con aviso de no consumo. Ten reserva calculada (tres litros por persona y día es el mínimo de bebida y cocina; los kits oficiales suben a nueve litros para siete días en el caso suizo) y una forma de potabilizar. En cuánta agua necesitas y cómo tratarla está el cálculo completo.
+
+
+ Qué tener montado antes de que pase
+
+ La lista corta, la que cabe en una caja de zapatos y no caduca:
+
+ 
+ Un hornillo con dos cartuchos de repuesto (probado, con llama azul).
+
+ Un mechero y cerillas largas en bolsa estanca.
+
+ Dos ollas: una pequeña para agua y otra mediana con tapa (la tapa ahorra un 30 % de gas).
+
+ Un cazo o cacerola pequeña para calentar conservas: cazo de 1,7 litros .
+
+ Termo de boca ancha de un litro.
+
+ Detector de CO si en casa hay cualquier aparato de combustión.
+
+ Tres días de comida que no pida fuego.
+
+ 
+ Casi todo eso ya está en el Kit Hogar , y la parte de luz y energía en el Kit Apagón . Si empiezas de cero, el Kit 72h Básico tiene los 21 esenciales que recomienda la UE, hornillo incluido.
+
+
+ Si además hace frío
+
+ Cocinar y calentarse comparten hornillo y comparten riesgo. Todo lo que has leído sobre ventilación se aplica igual a la estufa, y una estufa de butano en una habitación cerrada es la forma más rápida de acabar en urgencias por CO. Para eso está la guía de calentar la casa sin electricidad , donde la manta, la ropa por capas y el «una habitación caliente y el resto cerrado» hacen más que cualquier aparato.
+
+
+ Fuentes
+
+ 
+ Ministerio de Sanidad — Intoxicaciones agudas en el hogar (monóxido de carbono) .
+
+ Dirección General de Protección Civil y Emergencias — Autoprotección y recomendaciones ante emergencias .
+
+ IDAE — consumo energético de los aparatos y etiquetado .
+
+ 
+ Los precios y la disponibilidad cambian: en la ficha de cada kit ves el precio de hoy. Los enlaces de Amazon son de afiliado y no encarecen tu compra.
+
+### Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026) — https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/
+Sin luz, la temperatura baja 2 °C por hora. Guía con 6 métodos reales: aislamiento, estufas, mantas y power stations. Datos de AEMET y Protección Civil.
+Cuando se va la luz en pleno invierno, el primer problema no es la oscuridad ni el móvil sin batería: es el frío que entra en casa . Una vivienda sin calefacción puede perder entre 2 y 4 °C por hora en una noche de invierno español. En 6 horas, de 18 °C se pasa a 6 °C — una temperatura que ya representa riesgo de hipotermia para niños y personas mayores.
+ Este invierno (2026-2027), la Agencia Estatal de Meteorología ( AEMET ) prevé temperaturas por debajo de la media en la mayor parte de la península, con episodios de frío intenso y nieves aisladas. Protección Civil recomienda estar preparados: un apagón en invierno puede convertirse en una situación de riesgo en pocas horas.
+ Antes de comprar nada: 4 técnicas de aislamiento (0 €)
+ El método más barato y efectivo es evitar que el calor escape . Si tienes calefacción de gas, eléctrica o de pellets y funciona, estas técnicas multiplican su eficiencia. Si no tienes nada, son tu única línea de defensa:
+ 1. Cierra las habitaciones que no uses
+ Menos volumen = menos calor que mantener. Cierra puertas y, si una habitación tiene corrientes de aire por las ventanas, sella temporalmente con toallas enrolladas en el umbral. Según el IDAE (Instituto para la Diversificación y Ahorro de la Energía) , cerrar una habitación sin calefacción crea una cámara de aire que actúa como aislante adicional, reduciendo la pérdida de calor un 15-20 %.
+ 2. Aísla las ventanas
+ Las ventanas representan hasta un 25 % de las pérdidas de calor en una vivienda media española (datos IDAE). Si tienes persianas, ciérralas por la noche — el espacio de aire entre el cristal y la persiana es un aislante natural. Un truco extra: coloca cartón o periodales en el interior de la ventana fijados con celo temporal. No es bonito, pero sube la temperatura percibida 2-3 °C.
+ 3. Cubre el suelo
+ El suelo pierde entre un 10 % y un 15 % del calor. Alfombras gruesas, mantas viejas o incluso cajas de cartón bajo los pies actúan como barrera térmica. Si tienes moqueta, límpiala — el polvo reduce su capacidad aislante un 10-15 %.
+ 4. La regla de las tres capas
+ Tres camisetas finas retienen más calor que una sola gruesa: el aire atrapado entre capas es el aislante real. Los calcetines gruesos son esenciales — los pies fríos enfrían todo el cuerpo por la circulación. Los guantes en casa no son exageración: pierdes calor significativo por las manos.
+ Método 1: estufa de butano (la más práctica)
+ La estufa de butano (propano) es el método más extendido en España para la calefacción de emergencia. Una botella de 12 kg puede durar entre 2 y 3 días con uso intermitente a potencia media, y el coste por hora ronda los 0,09-0,11 € (a 0,38 €/kg).
+ Puntos fuertes: encendido inmediato, no necesita electricidad, costo reducido, amplia disponibilidad de botellas. Puntos débiles: produce humedad, requiere ventilación mínima y consumo de oxígeno.
+ Regla de seguridad: siempre con una rendija de ventana abierta (100 cm² de ventilación) y un detector de CO. Protección Civil lo deja claro: la ventilación no es opcional.
+ Ver estufas de butano portátiles en Amazon → 
+ Método 2: estufa catalítica (la más eficiente)
+ La tecnología catalítica genera calor sin llama visible mediante una reacción química sobre un panel de cerámica. El resultado: menor consumo (110-280 g/h frente a los 280-305 g/h de las estufas tradicionales), sin llama abierta (más segura con niños y mascotas) y calor más uniforme.
+ El panel catalítico es un consumible que dura aproximadamente dos inviernos; su sustitución cuesta unos 30-40 €. Para un uso de 4 horas diarias, una botella de 12 kg puede durar hasta dos semanas.
+ Ver estufa catalítica Orbegozo H 55 en Amazon → 
+ Método 3: chimenea o estufa de pellets
+ Si ya tienes una chimenea o estufa de pellets instalada, es el método más natural para calentar varias estancias. Las estufas de pellets modernas tienen un rendimiento superior al 85 % (el Instituto Nacional de Tecnología Industrial mide eficiencias entre 85-92 %).
+ Limitación: la mayoría necesitan electricidad para alimentar la tolva y el ventilador. En un apagón, funcionan solo si tienes un SAI o una power station conectada. Revisa el kit de apagón para ver qué power stations soportan este tipo de estufas.
+ Ver pellets de madera para estufa en Amazon → 
+ Método 4: cocina de gas para calentar (solo emergencias)
+ En un apuro, la cocina de gas (butano o natural) puede usarse para calentar una habitación. Advertencia: solo para emergencias breves (máximo 1-2 horas) y SIEMPRE con ventilación abundante. No es un método de calefacción — es un recurso de emergencia.
+ El horno de gas a 200 °C emite aproximadamente 2.000 W de calor. Dejar la puerta entreabierta (nunca cerrada, riesgo de acumulación de gas) puede calentar la cocina entre 2 y 4 °C.
+ El kit de apagón incluye todo lo necesario para cocinar sin luz 
+ Método 5: mantas térmicas y tiendas de campaña interiores
+ La manta térmica de emergencia (las doradas o plateadas de 2 €) refleja hasta un 90 % del calor corporal radiado . Funciona mejor envuelta por dentro de una manta normal — la manta protege del viento y la térmica refleja el calor.
+ Una tienda de campaña pequeña (de abrigo) dentro de casa crea un microclima que puede subir entre 5 y 8 °C la temperatura interna. Los montañeros lo llevan haciendo décadas: un espacio reducido, aislado del resto de la vivienda, se calienta con el calor corporal y las mantas. Ver el kit de montaña como referencia para entender la lógica de supervivencia.
+ Ver mantas térmicas de emergencia en Amazon → 
+ Método 6: power station + radiador eléctrico
+ Una power station de 1.000 Wh puede alimentar un radiador de aceite pequeño (1.000 W) durante aproximadamente 45-60 minutos . No es mucho, pero es suficiente para mantener una habitación a temperatura razonable durante una noche si se combina con las técnicas de aislamiento anteriores.
+ El truco es no usar la power station para calefacción continua: úsala como apoyo puntual (2-3 horas) mientras se optimiza el aislamiento. La power station del kit de apagón es un complemento, no un reemplazo.
+ Tabla resumen: qué método elegir
+ Método Coste/hora Seguridad Eficiencia Ideal para 
+ Estufa butano 0,09-0,11 € Media (ventilar) Alta Habitación individual 
+ Catalítica 0,07-0,09 € Alta (sin llama) Muy alta Habitación + economía 
+ Pellets 0,05-0,07 € Alta Alta (85 %+) Vivienda entera (con electricidad) 
+ Manta térmica 0 € Perfecta Baja (solo cuerpo) Complemento indispensable 
+ Power station 0,15-0,20 € Perfecta Media Apoyo puntual (2-3 h) 
+ Señales de alarma: cuándo llamar al 112
+ No es una cuestión de comodidad, es de seguridad. Si la temperatura interior baja de 10 °C y hay personas vulnerables (menores de 6 años, mayores de 65, personas con enfermedades respiratorias o cardiovasculares), hay que considerar el escenario como emergencia.
+ Los síntomas de hipotermia leve son: escalofríos incontrolables, dificultad para hablar, movimientos torpes. A temperaturas inferiores a 5 °C, el riesgo aumenta exponencialmente. La app 112 Especial de Protección Civil permite solicitar ayuda cuando la línea está saturada — tenla descargada antes de que llegue la crisis.
+ La lección del invierno español
+ Los últimos inviernos en España han demostrado que la preparación cuesta menos que el suffering . Una estufa de butano barata (60-80 €), mantas térmicas (2-5 €) y un detector de CO (15-25 €) suman menos de 120 € — menos de lo que cuesta un mes de calefacción eléctrica convencional.
+ Lo más importante no es el equipo: es decidir antes de que se vaya la luz qué habitación vas a habitar, cómo la vas a aislar y qué fuente de calor vas a usar. Una decisión tomada en pánico, a las 10 de la noche y con frío, casi siempre es una mala decisión.
+ El kit de frío/invierno tiene todo esto organizado por prioridad — estufa, mantas, aislantes, detector de CO — para que no tengas que decidir cuando el frío ya está dentro de casa.
+ Fuentes de esta guía
+ AEMET — Servicio meteorológico nacional y alertas de frío extremo 
+ Protección Civil — Recomendaciones ante olas de frío y apagones 
+ IDAE — Guías de eficiencia energética y pérdidas de calor en viviendas 
+ Comisión Europea (DG ECHO) — Preparación ante emergencias climáticas 
+ Sigue leyendo
+ Temperatura sin electricidad: cómo mantener el calor en un apagón 
+ Mejor estufa catalítica para casa (2026): 6 modelos comparados 
+ Mejor estufa de gas butano para apagón (2026) 
+ Kit de apagón — 15 artículos para sobrevivir sin luz 
+ Kit frío/invierno — 27 artículos para sobrevivir al frío 
+ Este sitio participa en el programa de Afiliados de Amazon. Los enlaces marcados con «→» son enlaces de afiliado: si compras a través de ellos, recibimos una pequeña comisión sin coste adicional para ti. Los precios pueden variar. Para más información, consulta la política de privacidad .
+
 ### Mejor estufa catalítica para casa: 6 modelos comparados (2026) — https://kit72h.com/blog/mejor-estufa-catalitica-para-casa-2026/
 Comparativa de estufas catalíticas de butano para el hogar en invierno 2026: Orbegozo H 55 (#1 más vendido), Campingaz CR5000, Cecotec ReadyWarm... Con
 El invierno se acerca y la factura de la luz asusta. Las estufas catalíticas de butano son la alternativa más económica para calentar las habitaciones sin depender de la red eléctrica, pero elegir la correcta entre tantas marcas y modelos no es fácil. Hemos analizado las 6 estufas catalíticas más vendidas en Amazon España en 2026 para ayudarte a encontrar la que mejor se adapta a tu hogar, tu presupuesto y tus necesidades.
@@ -1338,7 +1727,7 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  Protección Civil Española recomienda llevar medios de comunicación alternativos al móvil para situaciones de emergencia (Plan Familiar 112). La PMR446 es la única radio que puedes usar sin licencia en toda la UE, y en una DANA o apagón de varias horas es tu única forma de coordinarte con la familia sin depender de baterías de teléfono.
  El 28 de abril de 2025 demostró lo que las guías de preparación llevan años repitiendo: cuando todas las redes móviles colapsan a la vez, quedas mudo. WhatsApp no funciona, las llamadas no se cortan — simplemente no existen. Y en una DANA o apagón prolongado, las antenas pueden quedarse sin electricidad durante días.
  ¿Qué es la PMR446 y por qué no necesitas licencia?
- PMR446 significa "Portable Mobile Radio" y opera en la frecuencia de 446 MHz con un máximo de 2 vatios de potencia. Es un estándar europeo armonizado: en cualquier país de la UE puedes usar un walkie PMR446 sin licencia, sin examenes, sin tasas. Solo hay que respetar las condiciones de uso: antena fija (no desmontable) y potencia máxima de 2 W.
+ PMR446 significa "Portable Mobile Radio" y opera en la frecuencia de 446 MHz con un máximo de 0,5 vatios (500 mW) de potencia. Es un estándar europeo armonizado: en cualquier país de la UE puedes usar un walkie PMR446 sin licencia, sin examenes, sin tasas. Solo hay que respetar las condiciones de uso: antena fija (no desmontable) y potencia máxima de 0,5 W.
  Esto es importante: la PMR446 no compite con la banda de radioaficionados (que requiere licencia) ni con las radios profesionales de bomberos. Es una herramienta para comunicaciones a corta distancia entre particulares, ideal para emergencias donde la infraestructura de telecomunicaciones ha colapsado.
  Los 3 mejores walkies PMR446 para emergencias
  He seleccionado estos tres modelos basándome en tres criterios para emergencias: alcance real (no el teórico de catálogo), duración de batería y resistencia a condiciones duras. El precio es orientativo y puede variar en Amazon.
@@ -1371,7 +1760,7 @@ Mejor walkie talkie PMR446 para emergencias (2026): comparativa
  El veredicto
  Para la mayoría de familias españolas, el mejor walkie PMR446 para emergencias es el Motorola CP136 : es el más fiable, el más fácil de usar y tiene un precio razonable. Si tu presupuesto es ajustado, el Altel A-308 hace el trabajo a mitad de precio.
  Si el GPS te parece imprescindible para coordinar a la familia, el Midland G10 lo merece, pero prepárate para cargarlo cada 4-6 horas si lo usas con GPS activo.
- Importante: todos los modelos de esta comparativa son PMR446 certificados (antena fija, máximo 0,5-2 W). Radios como el Baofeng UV-5R o cualquier walkie de banda FRS (p. ej. Motorola T460) no son legales en España sin licencia de radioaficionado : superan la potencia permitida, llevan antena desmontable o usan frecuencias no armonizadas. No los metas en tu kit aunque los encuentres más baratos: te expones a una sanción de la Subsecretaría de Telecomunicaciones y a interferir con servicios de emergencia.
+ Importante: todos los modelos de esta comparativa son PMR446 certificados (antena fija, máximo 0,5 W). Radios como el Baofeng UV-5R o cualquier walkie de banda FRS (p. ej. Motorola T460) no son legales en España sin licencia de radioaficionado : superan la potencia permitida, llevan antena desmontable o usan frecuencias no armonizadas. No los metas en tu kit aunque los encuentres más baratos: te expones a una sanción de la Subsecretaría de Telecomunicaciones y a interferir con servicios de emergencia.
  Recuerda: un walkie sin pilas no es un walkie. Y un walkie que no has probado en una emergencia puede fallarte justo cuando lo necesitas. Compra los walkies, ponlos en tu kit de emergencia y pruébalos cada pocos meses.
  Si aún no tienes tu kit de emergencia básico, te recomiendo empezar por nuestro kit básico de 72 horas — los walkies van justo después del agua y la comida en importancia. Y si te interesa la radiocomunicación en general, aquí tienes la guía completa de la banda PMR446 .
 
@@ -2623,7 +3012,7 @@ Qué es un generador inverter y por qué no es lo mismo que uno barato
  Lo que de verdad mata: el monóxido de carbono
 
 
- Un grupo electrógeno emite monóxido de carbono, que es inodoro, incoloro y mata sin avisar. Nunca dentro de casa. Nunca en el garaje, ni con la puerta abierta: el gas se acumula en el interior y sube. Nunca en un balcón cerrado ni en un tendedero interior. El equipo va al exterior, sobre superficie firme, con el escape apuntando lejos de puertas y ventanas y a varios metros de ellas.
+ Un grupo electrógeno emite monóxido de carbono, que es inodoro, incoloro y mata sin avisar. Nunca dentro de casa. Nunca en el garaje, ni con la puerta abierta: el gas se acumula en el interior y sube. Nunca en un balcón cerrado ni en un tendedero interior. El equipo va al exterior, sobre superficie firme, con el escape apuntando lejos de puertas y ventanas y a más de 6 metros de ellas (20 pies, referencia del CDC).
 
 
  Y en casa, un detector de monóxido en la planta donde duermes. No es un extra: es la diferencia entre un susto y una desgracia. Lo contamos con más detalle en la comparativa de detectores de CO .
@@ -3408,7 +3797,7 @@ Casi todas las preguntas sobre Starlink que llegan a este blog empiezan igual: �
 
  Starlink Residencial 100 No hay cobertura móvil fiable y necesitas ancho de banda real 35 €/mes (+ kit) 
 
- Mensajería satelital y GPS Solo avisos y localización sin cobertura: poco tráfico, mucha autonomía Equipo + cuota anual 
+ Mensajería satelital y GPS Solo avisos y localización sin cobertura y con cielo despejado: poco tráfico, mucha autonomía Equipo + cuota anual 
 
  Walkie-talkies PMR446 ↗ Comunicación interna del grupo sin ninguna red disponible 40-80 € el par 
 
@@ -4891,7 +5280,7 @@ Cuando se corta la luz en una zona entera, lo primero que cae no es la nevera: e
 
  Móvil con cobertura y SIM de datos — si la torre local aguanta. El análisis de qué SIM de datos sobrevive mejor a un apagón y el de routers 4G de emergencia cubren esta capa.
 
- Mensajería satelital ligera — dispositivos tipo messenger satelital que envían posición y mensajes cortos sin cobertura móvil: la vía más fiable para decir «estoy bien» cuando nada más funciona.
+ Mensajería satelital ligera — dispositivos tipo messenger satelital que envían posición y mensajes cortos sin cobertura móvil, siempre con cielo despejado: la vía más fiable para decir «estoy bien» cuando nada más funciona.
 
  Starlink — ancho de banda completo, el último escalón y el más hambriento de energía.
 
@@ -5963,7 +6352,7 @@ Cuando se cae la red eléctrica, lo primero que se va es el internet. Después, 
 
  
 
- Especificaciones: 16 canales, 0,5-2W de potencia, IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.
+ Especificaciones: 16 canales, 0,5 W de potencia (el máximo legal en PMR446 sin licencia), IP67 (resistentes al agua), LCD, VOX (manos libres), luces LED.
 
 
  Buscar walkies PMR446 ↗ 

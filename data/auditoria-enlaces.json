@@ -1,0 +1,3156 @@
+{
+ "generado": "2026-11-18T06:03:14Z",
+ "resumen": {
+  "ok": 162,
+  "dudoso": 72,
+  "mismatch": 0,
+  "sin_datos": 0,
+  "duplicado": 0
+ },
+ "total": 234,
+ "items": [
+  {
+   "asin": "B0DM2728ZS",
+   "kit": "kit-apagon",
+   "seccion": "Cocina sin electricidad",
+   "producto": "Nevera portátil de conservas",
+   "titulo_amazon": "Igloo IE24 DC - Nevera Eléctrica - 24 L - 12 V - Gris - Para Coche | Enfría hasta 20 °C por debajo del ambiente - 30 latas - Guardacables - Asa-soporte - Aislamiento eficaz de espuma PU",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: portatil, conserva)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B08RZS5YBH",
+   "kit": "kit-apagon",
+   "seccion": "Dinero y comunicación",
+   "producto": "SAI / UPS pequeño (600-900 VA) para router y ONT",
+   "titulo_amazon": "Green Cell SAI 600VA 360W Line-Interactive 230V con AVR y Pantalla LCD | Alimentación Ininterrumpida con Onda Sinusoidal Modificada, Protección contra Sobretensiones, USB/RJ11 y 2 Tomas Schuko",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/5 (falta: ups, pequeno, router)",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0B7NHB4QG",
+   "kit": "kit-basico-72h",
+   "seccion": "Información y comunicación",
+   "producto": "Radio FM/AM con dinamo, solar y USB (2.000 mAh)",
+   "titulo_amazon": "Radio Solar portátil de 10000 mAh, Radio de Emergencia Am/FM con batería Recargable de 10000 mAh, Linterna LED de 3 Modos, lámpara de Lectura LED, Alarma SOS, Dinamo de manivela y Puerto USB para",
+   "estado": "dudoso",
+   "motivo": "capacidad distinta: nombre 2000mah · título 10000mah",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-evacuacion",
+    "kit-frio",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0CLLSK9BC",
+   "kit": "kit-basico-72h",
+   "seccion": "Documentación y dinero",
+   "producto": "Riñonera interior oculta para efectivo",
+   "titulo_amazon": "FuninCrea Cinturones de Dinero Ocultos, Riñonera de Seguridad Antirrobo Riñoneras Interiores con 2 Bolsillos y Hebilla Ajustable, Riñonera de Viaje Riñoneras Deportiva de Seguridad Antirrobo (Caqui)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: oculta, efectivo)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B011OEOZE2",
+   "kit": "kit-bebe",
+   "seccion": "Agua y alimentación sin electricidad",
+   "producto": "Agua baja en sodio para lactancia (pack 6 × 1,5 L)",
+   "titulo_amazon": "San benedetto - Acqua baby naturale 24 bottiglie da lt. 0.25 (1000033564)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/4 (falta: agua, baja, sodio, lactancia)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B003URR2RY",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Aspirador nasal + suero fisiológico en monodosis",
+   "titulo_amazon": "Suavinex Aspirador Nasal Bebé, Saca Mocos, +0 Meses, con Forma de Pera, Alivia la Mucosidad, Facilita el Sueño y la Toma, Lavado Nasal Seguro y Cómodo",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/5 (falta: suero, fisiologico, monodosi)",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0F1TQD4C4",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Bolsas estancas para ropa sucia y pañales (pack)",
+   "titulo_amazon": "KASESSS 3 Piezas Pañaleras para Bebes, Bolsa Impermeable Bebe, Bolsa Bebe, Bolsas Pañales Impermeables, Reutilizable Organizador de Pañales para Nadar Fitness Acampar Viajar Playa Lindos Animalitos",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/5 (falta: estanca, ropa, sucia)",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0GSVHHD6R",
+   "kit": "kit-bebe",
+   "seccion": "Agua y alimentación sin electricidad",
+   "producto": "Calentador biberones sin gas ni electricidad (químico/autocalentante)",
+   "titulo_amazon": "Guyisile 4-en-1 Calientabiberones, Esterilizador, Vapor & LCD, sin BPA | Calientabiberones para leche & alimentos, doble biberón, temporizador, descongelación – ideal para viajes y noches",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/5 (falta: calentador, gas, ni, electricidad)",
+   "cobertura": 0.2,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0G65QTD2Y",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Crema barrera contra rozaduras",
+   "titulo_amazon": "SLOAN Crema Anti Rozaduras 75 ml – Protector Antifricción con 8% de Óxido de Zinc, Caléndula y Manzanilla – Ayuda a Prevenir Rozaduras e Irritación",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: barrera, contra)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B07X8H7KR2",
+   "kit": "kit-bebe",
+   "seccion": "Documentos e identificación",
+   "producto": "Fotos recientes del bebé y de la familia en papel",
+   "titulo_amazon": "Mr. Wonderful Postal - Bebé se ha unido al grupo Familia",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/5 (falta: foto, recient, papel)",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0DCC4KNZN",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Juguetes pequeños favoritos (2-3, en bolsa estanca)",
+   "titulo_amazon": "150 Piezas Juguetes de Fiesta a Granel, Relleno Piñata Cumpleaños Infantil, Bolsas de Regalo de Fiestas, Cajas de premios a Salón de Clases, Cajas de Regalo de Cumpleaños para Niños y Niñas",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: pequeno, favorito)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0H29XL26R",
+   "kit": "kit-bebe",
+   "seccion": "Leche y comida de reserva",
+   "producto": "Leche de fórmula de seguimiento (lata 400-800 g)",
+   "titulo_amazon": "Blemil 1 Optimum Evolution | 800g | Leche de Inicio en polvo para Bebé desde el Primer Día",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: formula, seguimiento)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0FXGTD54C",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Mantas/empapadores de tela de confianza",
+   "titulo_amazon": "KIRZAX 2 Empapadores Lavables, 50x70cm Empapador Reutilizable, Ultra Absorbente Antideslizante, para Entrenamiento/Suelo/Coche/Cama, Tela Suave 4-Capas impermeable",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: manta, confianza)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0F99LGY3V",
+   "kit": "kit-bebe",
+   "seccion": "Agua y alimentación sin electricidad",
+   "producto": "Pastillas potabilizadoras aptas para lactantes",
+   "titulo_amazon": "Genérico Pastillas para potabilizar Agua 50 Unidades",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/4 (falta: potabilizadora, apta, lactant)",
+   "cobertura": 0.25,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B07YQD4FVL",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Pañales de reserva (talla actual, pack 20-25)",
+   "titulo_amazon": "Chelino Fashion & Love Pañales infantiles Talla 4 (9-15 kg), 34 unidades",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: reserva)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B089SFNVG3",
+   "kit": "kit-bebe",
+   "seccion": "Abrigo y sueño",
+   "producto": "Portabebés ergonómico (bandolera o Mei Tai)",
+   "titulo_amazon": "Bandolera Minimonkey Portabebé Ergonómica Transpirable Mochila Portabebé hasta 15kg Green",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: ergonomico)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0C1GPNPK9",
+   "kit": "kit-bebe",
+   "seccion": "Leche y comida de reserva",
+   "producto": "Potitos de fruta y verdura (pack 6-8)",
+   "titulo_amazon": "Hero Solo Tarritos Frutas Variadas Bebé Desde 4 Meses, 12 x 190 g | Merienda de fruta natural, Perfecto para el destete, Baby, Sin aceite de palma, Sin sal añadida, Ingredientes naturales",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: potito, verdura)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B08DBMQSVN",
+   "kit": "kit-bebe",
+   "seccion": "Leche y comida de reserva",
+   "producto": "Sacaleches manual",
+   "titulo_amazon": "Medela Harmony extractor de leche manual, diseño suizo, compacto, con embudos PersonalFit Flex y tecnología 2-Phase Expression de Medela",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: sacalech)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0H37438Y1",
+   "kit": "kit-bebe",
+   "seccion": "Abrigo y sueño",
+   "producto": "Saco/pijama de una pieza de abrigo (talla actual + una de repuesto)",
+   "titulo_amazon": "FIEMOL Saco De Dormir Bebe Con Piernas Tog 1.5 Saco Dormir Bebe 3-4 Años | Saco de dormir bebé todo el año con zapatillas plegables, suave y transpirable, cremallera doble sentido, caja regalo 2 pieza",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: pijama, abrigo)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0CY8G31G4",
+   "kit": "kit-bebe",
+   "seccion": "Documentos e identificación",
+   "producto": "Tarjeta de identificación del menor (nombre, fecha nac., grupo sanguíneo, alergias, contactos)",
+   "titulo_amazon": "Porta credenciales oficial Hidden Disabilities con llavero de girasol y monedero para personas de menor estatura (llavero de 70 cm)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: tarjeta, identificacion)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0BWJYXNK3",
+   "kit": "kit-bebe",
+   "seccion": "Agua y alimentación sin electricidad",
+   "producto": "Termo de boca ancha (26 cl)",
+   "titulo_amazon": "Quid Cocco Termo Acero Inoxidable 26cl Acero Inox No Apto Microondas Térmico Frío Calor 12 Horas",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: boca, ancha)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B09NYL7FY4",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Toallitas limpiadoras (pack 3-5)",
+   "titulo_amazon": "BOSTIK - Toallitas Limpieza - Bote 80 Toallitas | Alta Capacidad de Limpieza - Testado Dermatológicamente por Laboratorios Certificados - Limpieza de Manos - Piel",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: limpiadora)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-bebe",
+    "kit-incendio",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0FHBDDBNT",
+   "kit": "kit-coche",
+   "seccion": "Obligatorio en España (DGT)",
+   "producto": "Baliza V-16 conectada homologada (único medio legal desde el 1/1/2026)",
+   "titulo_amazon": "help flash IoT+, Luz de Emergencia V16 con Geolocalización y más de 290 candelas de potencia, Exigible a partir de 2026, Conectada con DGT 3.0, Señal V-16 para Coches, plan de datos incluido",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: baliza, homologada)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-coche",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B088KG7XML",
+   "kit": "kit-coche",
+   "seccion": "Emergencia y supervivencia",
+   "producto": "Cadena de remolque o correa de tiro",
+   "titulo_amazon": "Eslinga Cuerda de Remolque UIHOL, Resistencia 9 Ton 5M Longitud, Material Sólido, Correa para Remolcar Vehículos para Remolque Resistente, con 2 grilletes y Guantes Antideslizantes para Coche",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: cadena, tiro)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B0F84D5PRT",
+   "kit": "kit-comunicacion",
+   "seccion": "Escuchar y avisar al exterior",
+   "producto": "Powerbank 10.000-20.000 mAh para los aparatos",
+   "titulo_amazon": "Power Bank 22.5W 20000mAh Bateria Externa Carga Rapida, Bateria Portatil PD3.0 QC4.0, Powerbank USB C Input & Output con Pantalla LCD Compatible con Smartphones, smartwatches, etc (black01)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: aparato)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-comunicacion"
+   ]
+  },
+  {
+   "asin": "B07PDRY2T2",
+   "kit": "kit-dana",
+   "seccion": "Protección de la vivienda",
+   "producto": "Cinta y plástico para sellar ventanas",
+   "titulo_amazon": "XFasten Cinta adhesiva transparente para puertas y ventanas, aislamiento de ventana, 5 cm x 27,4 m, para invierno, kit de sellado de ventana, no ensucia, protege de corrientes de aire frío",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: plastico, sellar)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-dana",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0B4HRDFVY",
+   "kit": "kit-dana",
+   "seccion": "Post-DANA",
+   "producto": "Desumidificador o sachets antihumedad",
+   "titulo_amazon": "Airalia AIR-DRYBAG - 10 Pack | Deshumidificador Armarios, Bolsas Antihumedad Armario, Absorbe Humedad, Anti Moho y Condensación | Para Ropa, Habitación, Baño, Trastero,Cocina y Hogar en General",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: desumidificador, sachet)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-dana",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B012D3650K",
+   "kit": "kit-dana",
+   "seccion": "Post-DANA",
+   "producto": "Pala ancha para retirar lodo o nieve",
+   "titulo_amazon": "Fiskars Solid Pala de nieve para el coche, Longitud: 63 cm | Plástico reforzado con fibra de vidrio, negro, sólido, 1019354",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/5 (falta: ancha, retirar, lodo)",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B0H99C1WWZ",
+   "kit": "kit-dana",
+   "seccion": "Seguridad eléctrica",
+   "producto": "Tiracables con interruptor diferencial portátil",
+   "titulo_amazon": "SAFEMORE PRCD Enchufe con Diferencial Portátil, Adaptador Fugas 16A 30mA | Diferencial Tipo A IP54 4000W, Función Test y Reset con Luz Indicadora, Tiempo de Respuesta 0.1s, Certificado HD 639 S1 y CE",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: tiracabl, interruptor)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-dana",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0H8SDLQVQ",
+   "kit": "kit-electricidad",
+   "seccion": "Energía: baterías y paneles",
+   "producto": "Generador solar portátil con panel incluido (300-500 Wh)",
+   "titulo_amazon": "OUKITEL P800 Estación de Energía Portátil 800 W con 100 W Panel Solar, Generador Solar con Batería Lifepo4 512 Wh, Generador con Salidas USB A Y C, Potencia Máxima de 1600 W, Ideal Para Acampadas",
+   "estado": "dudoso",
+   "motivo": "capacidad distinta: nombre 300wh/500wh · título 512wh",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0FDWQPRYC",
+   "kit": "kit-electricidad",
+   "seccion": "Energía: baterías y paneles",
+   "producto": "Powerbank 20.000-27.000 mAh (con salida AC o PD de 65 W)",
+   "titulo_amazon": "Power Bank 27000mAh, 22,5W PD20W Batería Externa Carga Rápida | Powerbank Portátil, con Pantalla LED, para Teléfonos",
+   "estado": "dudoso",
+   "motivo": "capacidad distinta: nombre 65w · título 225w",
+   "cobertura": 0.4,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0GK6PV1M4",
+   "kit": "kit-evacuacion",
+   "seccion": "Utilidad",
+   "producto": "Botiquín de bolsillo",
+   "titulo_amazon": "REVOLRACE Kit de Primeros Auxilios para Coche 90 Piezas – Botiquín de Emergencia Compacto e Impermeable – Estuche Portátil de Nylon para Carretera, Viaje y Vehículo",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: bolsillo)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-mascotas",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0CP72S66P",
+   "kit": "kit-evacuacion",
+   "seccion": "Documentación esencial",
+   "producto": "Carpeta o funda estanca para documentos (DNI, escrituras, pólizas, recetas)",
+   "titulo_amazon": "Carpeta archivadora ignífuga A4, carpeta de escritura resistente al fuego con cremallera y etiquetas, caja de documentos con 24 compartimentos y varios para documentos A4",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: funda, estanca)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-incendio",
+    "kit-mascotas",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B07SYB38Q8",
+   "kit": "kit-evacuacion",
+   "seccion": "Documentación esencial",
+   "producto": "Copia digital en USB cifrado",
+   "titulo_amazon": "Unidad flash SanDisk Ultra Luxe 128 GB USB 3.2, hasta 400 MB/s, Plateado | Protección por contraseña, diseño metálico, USB tipo A, RescuePRO Deluxe",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/4 (falta: copia, digital, cifrado)",
+   "cobertura": 0.25,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-mascotas",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B097Y3R3QY",
+   "kit": "kit-evacuacion",
+   "seccion": "Supervivencia 24-72 h",
+   "producto": "Mochila de 30-40 L resistente al agua",
+   "titulo_amazon": "A AM SeaBlue 40L Mochila de Senderismo Mochila de Viaje Impermeable de Gran Capacidad Mochila de Trekking con Funda para Lluvia para Hombres Mujeres, Negro",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: resistente, agua)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0H8J5NTW9",
+   "kit": "kit-frio",
+   "seccion": "Que el frío no entre: la casa",
+   "producto": "Cortinas térmicas o manta de lana para tapar la ventana",
+   "titulo_amazon": "Neuytiky Aislante Térmico Ventanas 120x160 cm, Cortina Térmica Aislante Frío y Calor 3 Capas, Película Aislant e Térmico Ventanas con Velcro, Cortinas Aislant es Térmicas Ajustables para (120*160CM)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 3/6 (falta: manta, lana, tapar)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0G1MQ28GS",
+   "kit": "kit-frio",
+   "seccion": "Calor corporal: la capa que salva",
+   "producto": "Guantes de abrigo (y unos finos para tareas)",
+   "titulo_amazon": "BDGYCK Guantes de Invierno para Mujer, con Pantalla Táctil Mujer, Gamuza Suave Guantes Abrigadores con Forro Polar, de invierno para clima frío, para Montar Correr",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: abrigo)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0CR1MB99P",
+   "kit": "kit-frio",
+   "seccion": "En la calle y en el coche: la nieve",
+   "producto": "Pala de nieve y sales de deshielo (o arena)",
+   "titulo_amazon": "FlashPrix 25kg Sal para Nieve y Hielo, Deshielo de Caminos, Carrretas y Calzadas Heladas y con Nieve (1)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: pala, sale)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0H8X7LJTM",
+   "kit": "kit-hogar",
+   "seccion": "Higiene y limpieza",
+   "producto": "Bolsas de residuos negras (50+ unidades)",
+   "titulo_amazon": "KOMABLEN 60 Bolsas de Basura con Asas 50L 4 Rollos 62x86cm | Negro Prueba de Fugas, Robusto, Bolsa de Basura para Sala de Estar, Cocina, Baño, Oficina",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: residuo, negra)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0DP4Y4S7K",
+   "kit": "kit-hogar",
+   "seccion": "Higiene y limpieza",
+   "producto": "Lejía y desinfectante de superficies",
+   "titulo_amazon": "Sanytol - Recarga Multiusos Eucaliptus 750ml (Paquete de 4)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: lejia, desinfectante, superfici)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "8498381495",
+   "kit": "kit-hogar",
+   "seccion": "Moral",
+   "producto": "Libros de bolsillo",
+   "titulo_amazon": "El Principito (edición original con las acuarelas del autor)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/2 (falta: libro, bolsillo)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0BYP13RZQ",
+   "kit": "kit-hogar",
+   "seccion": "Ventilación y calidad del aire",
+   "producto": "Ventilador USB de repisa o pies",
+   "titulo_amazon": "Mini Ventilador Portatil Pequeño De Mano, Ventilador USB Recargable A Pilas con Power Bank y 4 Velocidades Silencioso, Ventilador Personal Plegable para Interior Oficina Viajes",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: repisa, pies)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-calor",
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B083T9VV8X",
+   "kit": "kit-incendio",
+   "seccion": "Ropa que no arde pegada a la piel",
+   "producto": "Calzado cerrado y resistente (bota o zapatilla dura)",
+   "titulo_amazon": "DIAN 1805-LM Blanco Talla 38, Zapato de Trabajo Unisex Certificado CE EN ISO 20347 Marca",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: calzado, cerrado, resistente)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B09ZVDXWXR",
+   "kit": "kit-incendio",
+   "seccion": "Ropa que no arde pegada a la piel",
+   "producto": "Gorro o pañuelo de algodón para cubrir cabeza y nuca",
+   "titulo_amazon": "3 Piezas Sombreros CorrerGorras Pañuelos Cabeza Bandana Hombre Deportivas Transpirables SudorGorras CiclismoSombreros Pañuelo Piratas Absorben HumedadGorras SkullForros CascosGorras Algodón",
+   "estado": "dudoso",
+   "motivo": "coincidencia 3/6 (falta: gorro, cubrir, nuca)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0DGK3NZXR",
+   "kit": "kit-kit-profesional",
+   "seccion": "Energía solar: el sol es tu generador",
+   "producto": "Inversor híbrido 3000W-5000W",
+   "titulo_amazon": "ETREPOW 3000W Inversor 12V 220V/230V Onda sinusoidal Pura con 2× LCD | Convertidor con Mando a Distancia, 2 Tomas UE, 2 USB y USB-C para Electrodomésticos, Caravanas y Conversor Camping",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: hibrido, 5000w)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B08K3K3VBG",
+   "kit": "kit-mascotas",
+   "seccion": "Llevártelo contigo",
+   "producto": "Bolsa de transporte acolchada (para animales pequeños)",
+   "titulo_amazon": "HMF Maletín Fotográfico Exterior, Estuche de Transporte con Espuma Troquelada | 27 x 24,5 x 13 cm",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: bolsa, acolchada)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0FWRW5F67",
+   "kit": "kit-mascotas",
+   "seccion": "Llevártelo contigo",
+   "producto": "Correa y arnés de repuesto",
+   "titulo_amazon": "OSDUE Cinturón de Seguridad Coche para Perros, 70cm-90cm Arnés de Seguridad Ajustable y Elástico para Mascotas Doble Enganche para Perros y Gatos, para Modelos de Coches Familiares",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: correa, repuesto)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0D13383WR",
+   "kit": "kit-mascotas",
+   "seccion": "Identificación y calma",
+   "producto": "Placa de identificación con tu teléfono grabado",
+   "titulo_amazon": "Tagorus TAG H - Etiqueta Velcro - Chapa Perro Grabada De Tela - Chapa Identificativa Perro - Chapas Para Perros - Placa Perro personalizada - Etiqueta Collar Perro Personalizado Con Telefono",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: identificacion, grabado)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0BT4WZT3J",
+   "kit": "kit-mascotas",
+   "seccion": "Llevártelo contigo",
+   "producto": "Transportín rígido o jaula de transporte",
+   "titulo_amazon": "MP Bergamo Transportin Bracco Iata 2",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/4 (falta: rigido, jaula, transporte)",
+   "cobertura": 0.25,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0G2LY256T",
+   "kit": "kit-mayores",
+   "seccion": "Caídas, noche y seguridad en casa",
+   "producto": "Balizas LED de noche con sensor (pack 2-3)",
+   "titulo_amazon": "HOTUT Luces con sensor de movimiento para interiores, 2 Piezas Luz Nocturna Infantil USB-C LED Recargable (automático/encendido/apagado), Luz LED Adhesiva para Escaleras, Pasillo",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: baliza, noche)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0HBWJBK6D",
+   "kit": "kit-mayores",
+   "seccion": "Comida adaptada e hidratación",
+   "producto": "Batidos proteicos/enriquecidos (pack 8-12)",
+   "titulo_amazon": "yfood Smooth Vanilla - Batido Sustitutivo de Comida, Bebida Proteica Lista para Beber, 30 g de Proteína, 26 Vitaminas y Minerales, Sin Lactosa y Sin Gluten, 6x500ml",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: proteico, enriquecido)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B07MDVYFVF",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Caja de dentadura + pegamento y vaso con tapa",
+   "titulo_amazon": "Y-Kelin Kit de limpieza de dentaduras postizas con cepillo de dientes postizos de dos cabezas (Azul)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/5 (falta: caja, pegamento, vaso, tapa)",
+   "cobertura": 0.2,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0BHDMZMSW",
+   "kit": "kit-mayores",
+   "seccion": "Comida adaptada e hidratación",
+   "producto": "Comida blanda lista (purés, potitos de adulto, cremas en tarrina)",
+   "titulo_amazon": "Guillermo | Lenteja verde BIO - Bolsa 2kg. | 100% ecológico | Alto contenido en proteínas | Ideales tanto para ensaladas como para platos de cuchara",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: comida, blanda, lista)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0150HY1PW",
+   "kit": "kit-mayores",
+   "seccion": "Comida adaptada e hidratación",
+   "producto": "Espesantes para líquidos (si hay disfagia diagnosticada)",
+   "titulo_amazon": "Nestle Resource Espesante 227 Gr 250 g",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: liquido)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0FS91XDJB",
+   "kit": "kit-mayores",
+   "seccion": "Medicación y crónicos",
+   "producto": "Ficha médico-identificativa: pulsera de alerta grabada",
+   "titulo_amazon": "Pulsera de alerta médica personalizada, placa de identificación de acero inoxidable grabada a medida con correa elástica extensible, pulsera médica de concienciación de emergencia para diabetes",
+   "estado": "dudoso",
+   "motivo": "coincidencia 3/6 (falta: ficha, medico, identificativa)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0F4X8M5MZ",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Gafas de graduación de repuesto",
+   "titulo_amazon": "ZEHEXA Gafas de Lectura Redondas para Mujer Hombre, Pack de 3 | Características con filtro de luz azul, protección UV y lentes antirreflejos. Ideales para lectura y uso de pantallas.",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: graduacion, repuesto)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0DHGGGK1Q",
+   "kit": "kit-montana",
+   "seccion": "Salud y reparación",
+   "producto": "Botiquín ligero de trekking",
+   "titulo_amazon": "RHINO RESCUE Kit Médico Portátil Mediano, Resistente al Agua | 17,5 x 10 x 3cm, Botiquín de Primeros Auxilios para Senderismo, Mochilero, Ciclismo, Coche, Viaje",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: ligero, trekking)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0FX9NXD18",
+   "kit": "kit-montana",
+   "seccion": "Refugio y abrigo",
+   "producto": "Casquete o gorro de abrigo",
+   "titulo_amazon": "Gorro de Invierno para Hombre y Mujer con Forro Polar y Orejeras, Gorro de Lana Abrigado para Frío Intenso, Negro",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: casquete, abrigo)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-frio",
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B08QDYLRQ1",
+   "kit": "kit-montana",
+   "seccion": "Agua e hidratación",
+   "producto": "Depósito de agua plegable 3 L (HydraPak Seeker)",
+   "titulo_amazon": "Depósito de hidratación SEEKER 3L",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: agua, plegable)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B08CXZBGPB",
+   "kit": "kit-montana",
+   "seccion": "Salud y reparación",
+   "producto": "Frontal con pilas de repuesto",
+   "titulo_amazon": "Gritin Linterna Frontal LED, [2 Pack] Linterna Cabeza COB Super Brillante | con 3 Modos, Ligera y Impermeable para Correr, Acampar, Pescar, Ciclismo",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: pila, repuesto)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-frio",
+    "kit-montana",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B086X75P34",
+   "kit": "kit-montana",
+   "seccion": "Orientación y comunicación",
+   "producto": "Mapa y brújula físicos de la zona",
+   "titulo_amazon": "Topiky Brújula Multifuncional con Lupa, Espejo y Regla 4 en 1 para Acampar/Lectura de mapas/Pesca/Senderismo/Senderismo Actividades al Aire",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: fisico, zona)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0H4DZH82Y",
+   "kit": "kit-starlink",
+   "seccion": "Starlink: internet desde cualquier lugar",
+   "producto": "Cable extensor Ethernet para Starlink (30 m)",
+   "titulo_amazon": "VENTION Cable Starlink 30m para Starlink Standard 4/4X/Gen 3/V4/V5",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: extensor, ethernet)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-starlink"
+   ]
+  },
+  {
+   "asin": "B00B2N8IFS",
+   "kit": "kit-suiza",
+   "seccion": "Comida para siete días (no para tres)",
+   "producto": "Abreconservas manual",
+   "titulo_amazon": "3Claveles 500 - Abrelatas explorador pavonado, Acero, Gris",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/2 (falta: abreconserva, manual)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0H8FLP332",
+   "kit": "kit-suiza",
+   "seccion": "Agua: 9 litros por persona que no dependen del grifo",
+   "producto": "Agua embotellada para rotar cada 6 meses",
+   "titulo_amazon": "Agua Mineral Natural - Pack de 12 Botellas de 1,5 L (Total 18 Litros) - Agua de Manantial de Pureza Original - Formato Ahorro Familiar - NEXU",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: rotar, mese)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-coche",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0CG9R782W",
+   "kit": "kit-suiza",
+   "seccion": "Comida para siete días (no para tres)",
+   "producto": "Arroz parboiled (pack de 2 kg)",
+   "titulo_amazon": "by Amazon Parboiled Long Grain Rice, 1kg",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/2 (falta: arroz)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-30-dias",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0FP5RJ53N",
+   "kit": "kit-suiza",
+   "seccion": "Lo que Suiza apunta y casi nadie copia",
+   "producto": "Comida extra para la mascota",
+   "titulo_amazon": "by Amazon Alimento Completo para Perros Adultos, Selección de Carnes en gelatina, 1,2 kg (12 Bolsa de 100g)",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: comida, extra, mascota)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-mascotas",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B09TBGX1MK",
+   "kit": "kit-suiza",
+   "seccion": "Comida para siete días (no para tres)",
+   "producto": "Conservas variadas (15-20 latas)",
+   "titulo_amazon": "Massó Sardinas en aceite de oliva, 1 pack de 5 latas de 120gr, en catalán.",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/2 (falta: conserva, variada)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-hogar",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0FZTLMXW9",
+   "kit": "kit-suiza",
+   "seccion": "Cocina sin red eléctrica",
+   "producto": "Encendedores y cerillas largas",
+   "titulo_amazon": "4 Cajas Cerillas Largo Super XXL, Fósforos de Seguridad, 17cm, para Cocinas, Chimeneas, Estufas y Barbacoas.",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: encendedor, larga)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-frio",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0H3WC3R53",
+   "kit": "kit-suiza",
+   "seccion": "Comida para siete días (no para tres)",
+   "producto": "Legumbres secas en paquetes (garbanzos, 2 kg)",
+   "titulo_amazon": "Lote de 2 Bolsas de Garbanzo Pedrosillano Seco, Categoría Extra, Pack de 2 Bolsas de 1 kg. Total 2 kg de garbanzos",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/3 (falta: legumbr, seca, paquet)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0C3B4H4Z5",
+   "kit": "kit-suiza",
+   "seccion": "Luz y avisos oficiales",
+   "producto": "Linterna LED con pilas de repuesto",
+   "titulo_amazon": "Blukar Linterna LED Recargable, Super Brillante Linternas de Aluminio, 2uds | 5 Modos de Luz, Altos lúmenes Flashlight de Mano Impermeable, Enfoque Ajustable para Camping, Senderismo, Emergencia, DIY",
+   "estado": "dudoso",
+   "motivo": "coincidencia 2/4 (falta: pila, repuesto)",
+   "cobertura": 0.5,
+   "kits_con_el_asin": [
+    "kit-dana",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0D9QGJRGC",
+   "kit": "kit-terremoto",
+   "seccion": "Cabeza y pies: lo que se rompe primero",
+   "producto": "Calzado cerrado y resistente junto a la cama",
+   "titulo_amazon": "HOTUT Zapatillas ortoApédicas para diabéticos, Zapatos Diabéticos para Hombre, Ajustable Zapatos Turgente Pies Pantufla, para Diabéticos, para Pies con Edema y Artritis, Tallas 40-41",
+   "estado": "dudoso",
+   "motivo": "coincidencia 0/5 (falta: calzado, cerrado, resistente, junto)",
+   "cobertura": 0.0,
+   "kits_con_el_asin": [
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B01LYHK84D",
+   "kit": "kit-terremoto",
+   "seccion": "Cabeza y pies: lo que se rompe primero",
+   "producto": "Guantes de trabajo reforzados",
+   "titulo_amazon": "DeWalt DPG213L - Guantes de Protección",
+   "estado": "dudoso",
+   "motivo": "coincidencia 1/3 (falta: trabajo, reforzado)",
+   "cobertura": 0.33,
+   "kits_con_el_asin": [
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0CVLH49QD",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Para empezar a sembrar",
+   "producto": "Bandejas de germinacion (pack 5, 112 alveolos)",
+   "titulo_amazon": "GROWMANIA Pack 5 Bandejas de Germinación 112 Alveolos | Semillero 100% Material Reciclable | Propagador de Semillas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "8419436623",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Subir de nivel",
+   "producto": "Huerto urbano (Larousse)",
+   "titulo_amazon": "Huerto urbano (LAROUSSE - Libros Ilustrados/ Prácticos - Ocio y naturaleza - Jardinería)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B00F2NGYAU",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Equipo y herramientas",
+   "producto": "Kit de herramientas de jardin (Bellota, 3 piezas)",
+   "titulo_amazon": "Bellota 2994 - Kit de jardinería y huerto que incluye: rastrillo, transplantador y azuela, herramienta pequeña de jardín, Color Estándar",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia",
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B07BGSTHD2",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Para empezar a sembrar",
+   "producto": "Kit de semillas ecologicas (10 variedades de huerto)",
+   "titulo_amazon": "Semillas ECOLÓGICAS huerto lote 10 sobres (Tomate, Pimiento italiano, Pimiento rojo, Berenjena, Calabacin, Cebolla, Pepino, Melón, Sandía, Puerro)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B096TLBGVS",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Subir de nivel",
+   "producto": "Manual del huerto urbano y ecologico para principiantes",
+   "titulo_amazon": "Manual del huerto urbano y ecológico para principiantes: Convierte tu terraza o jardín en una huerta sostenible y de proximidad",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B0D3583RGC",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Subir de nivel",
+   "producto": "Mini invernadero de 3 niveles (59x39x127 cm)",
+   "titulo_amazon": "Outsunny Invernadero de Jardín de 3 Niveles 59x39x127 cm Transparente | Invernadero Terraza, 3 Estantes, Puerta con Cremallera, Marco de Acero, Cubierta PVC, Cultivo Plantas Flores",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B0FZC1F9NH",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Equipo y herramientas",
+   "producto": "Regadera 6 L con cabezal desmontable",
+   "titulo_amazon": "Cofan Regadera Gris de 6 litros con Cabezal Desmontable, HDPE Resistente, Asa de Transporte, Regadera para Interior y Exterior",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B0C2HQ82L1",
+   "kit": "huerto-autosuficiencia",
+   "seccion": "Para empezar a sembrar",
+   "producto": "Sustrato universal 80 L (Batlle)",
+   "titulo_amazon": "Sustrato Universal 80L para Plantas de Interior y Exterior - Batlle",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "huerto-autosuficiencia"
+   ]
+  },
+  {
+   "asin": "B0BJW6W2GM",
+   "kit": "kit-30-dias",
+   "seccion": "Comida no perecedera (proteína y platos listos)",
+   "producto": "Atún claro al natural (pack 6 latas)",
+   "titulo_amazon": "Calvo Atún claro al Natural Pack 6 unidades x 56gr",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B06WGS9J3D",
+   "kit": "kit-30-dias",
+   "seccion": "Comida no perecedera (proteína y platos listos)",
+   "producto": "Cocido madrileño Litoral (pack 6)",
+   "titulo_amazon": "Litoral Cocido Madrileño pack 6x425g | Cocido madrileño plato preparado listo para comer con receta tradicional de cuchara",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B0CYT5X5PY",
+   "kit": "kit-30-dias",
+   "seccion": "Comida no perecedera (proteína y platos listos)",
+   "producto": "Conservas gallegas variadas (12 latas gourmet)",
+   "titulo_amazon": "MARISKITO | Caja Regalo Gourmet con 12 Conservas Gallegas – Mejillones, Chipirones, Sardinillas, Ventresca de Bonito, Zamburiñas y Navajas – Pack Delicatessen para Navidad y Celebraciones",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B07PV3KL1H",
+   "kit": "kit-30-dias",
+   "seccion": "Higiene y salud",
+   "producto": "Espirulina + chlorella ecológica (500 comprimidos)",
+   "titulo_amazon": "Espirulina y Chlorella Ecológicas 4.800mg - 500 comprimidos para 125 días - Producto con certificado ecológico - Vegano y probado en laboratorio en Alemania",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B0G45JL8F3",
+   "kit": "kit-30-dias",
+   "seccion": "Cocinar y calentar sin electricidad",
+   "producto": "Hornillo de camping 2 en 1 (bombona grande o cartucho)",
+   "titulo_amazon": "Hornillo Camping Gas, Campin Gas, 2 en 1, Adaptador para Bombona Grande o para Cartuchos, Ideal para Camping Emergecias, Maletín incluido, Cocina de gas portatil. NO INCLUYE CARTUCHOS DE GAS.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B00XA5FJ9E",
+   "kit": "kit-30-dias",
+   "seccion": "Base de despensa (carbohidrato y leche)",
+   "producto": "Leche en polvo entera 1 kg (Asturiana)",
+   "titulo_amazon": "Central Lechera Asturiana Leche en Polvo Entera, Bolsa 1kg",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B01MSTVEZN",
+   "kit": "kit-30-dias",
+   "seccion": "Comida no perecedera (proteína y platos listos)",
+   "producto": "Lentejas a la riojana Litoral (pack 6)",
+   "titulo_amazon": "Litoral Lentejas a la Riojana pack 6x425g | Lentejas a la riojana plato preparado listo para comer con receta tradicional",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B075RCPZ3P",
+   "kit": "kit-30-dias",
+   "seccion": "Higiene y salud",
+   "producto": "Multivitaminas 450 comprimidos",
+   "titulo_amazon": "Multivitaminas y Minerales - 450 Comprimidos (Paquete XL) - Todas las Vitaminas A,B,C,D3,E, Calcio, Zinc, Selenio – Multivitaminico Activo Completo para Hombre y Mujer, Perfecto para compartir",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B07L3DG8DK",
+   "kit": "kit-30-dias",
+   "seccion": "Higiene y salud",
+   "producto": "Papel higiénico 96 rollos (Scottex)",
+   "titulo_amazon": "Scottex Original Papel higiénico, 96 rollos, 6 packs de 16 rollos dos capas que proporcionan el equilibro adecuado en suavidad y resistencia",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B0BG8XYDPR",
+   "kit": "kit-30-dias",
+   "seccion": "Comida no perecedera (proteína y platos listos)",
+   "producto": "Patés variados (45 unidades)",
+   "titulo_amazon": "Variado de patés y cremas 45 unidades de 25 gr de Deliex e Indalitos, para tostadas, bocadillos, tapas y picoteo, 15 sabores diferentes de quesos, carnicos y vegetales.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B0BH48615L",
+   "kit": "kit-30-dias",
+   "seccion": "Cocinar y calentar sin electricidad",
+   "producto": "Tienda de campaña de emergencia 2 personas",
+   "titulo_amazon": "LYN Instant Tienda de Campaña Impermeable y Ligera para Emergencia y Supervivencia 1-2 Personas con Paracord",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias"
+   ]
+  },
+  {
+   "asin": "B0FMDRF8H3",
+   "kit": "kit-apagon",
+   "seccion": "Cocina sin electricidad",
+   "producto": "Acumuladores de frío (bloques de gel congelables) para nevera y congelador",
+   "titulo_amazon": "CHEFZOCO Acumulador de Frio, Bloques de Hielo para Neveras portatiles, Placas Hielo Nevera, Tamaño de la Placa 20 x 2.5 x 10.5 cm, Plástico, Incluye Pack de 2 Bloques de 500 Gramos Cada uno",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B00CIZVHXE",
+   "kit": "kit-apagon",
+   "seccion": "Dinero y comunicación",
+   "producto": "Caja fuerte pequeña portátil para efectivo",
+   "titulo_amazon": "ARREGUI Elegant C9245 Caja Caudales con Llave para Contar y Transportar Dinero | Caja de Seguridad de acero con bandeja interior | Caja fuerte portatil 30 cm de ancho | Color Azul",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-apagon",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0F6S2FNN4",
+   "kit": "kit-apagon",
+   "seccion": "Energía",
+   "producto": "Cargador de dinamo multiuso",
+   "titulo_amazon": "Radio Solar de Emergencia, Radios con Manivela Dinamo, Am/FM/NOAA, Cargador de Móvil 2000mAh, 3 Modos de Carga, Radio Portátil Supervivencia, Alarma SOS, Rojo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B09GKDQD8Y",
+   "kit": "kit-apagon",
+   "seccion": "Seguridad durante el corte",
+   "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "titulo_amazon": "Smartwares Detector de CO, Sensor de 10 Años, Pilas Reemplazables, Pantalla | Alarma acústica 85 dB, Cobertura 20 a 40 m², Indicador LED, Material para montaje incluido, FGA-13041",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0HNWJG63R",
+   "kit": "kit-apagon",
+   "seccion": "Cocina sin electricidad",
+   "producto": "Hornillo de camping a gas con bombonas",
+   "titulo_amazon": "CAHERSA Pack Campingaz Camp’Bistro 3 + 4 Cartuchos CP250, Hornillo de Gas Portátil 2,2 kW con Encendido Piezoeléctrico y Maletín, Cocina para Camping, Picnic y Exterior",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0BY6SFKCS",
+   "kit": "kit-apagon",
+   "seccion": "Luz",
+   "producto": "Linterna frontal (manos libres)",
+   "titulo_amazon": "WOLFPACK LINEA PROFESIONAL Linterna Led Frontal Cabeza Ajustable 120 Lumenes, 3 Modos, Cinta Ajustable, 3 Baterias AAA Incluidas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0B9ZTKYW5",
+   "kit": "kit-apagon",
+   "seccion": "Luz",
+   "producto": "Lámparas LED recargables con imán (para nevera/despensa)",
+   "titulo_amazon": "Flintronic Linterna Camping Recargable, LED Lámpara Camping con Base Iman & Gancho, USB Luz SOS Portátil con 3 Modos, IP43 Impermeable para Emergencia, Acampar al Aire Libre",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0D9JMS8H2",
+   "kit": "kit-apagon",
+   "seccion": "Energía",
+   "producto": "Panel solar portátil 20-40 W",
+   "titulo_amazon": "40W Cargador Solar ETFE, Panel Solar Plegable con Puerto 18V CC y QC3.0 USB-A y PD30W Tipo-C, Cargador Solar Portátil con IP68 Resistente al Agua Compatible con Smarthone, Estación de Energía",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0DFLHLMH3",
+   "kit": "kit-apagon",
+   "seccion": "Dinero y comunicación",
+   "producto": "Radio FM/AM con dinamo y panel solar",
+   "titulo_amazon": "Radio de Emergencia Portátil, FM/Am Emergency Radio con Solar Recargable Radios de Dinamo con Manivela con Linterna LED y Luz de Lectura 2000mAh Powerbank SOS Alarma USB de Camping al Aire Libre",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0BJPVQXP6",
+   "kit": "kit-apagon",
+   "seccion": "Luz",
+   "producto": "Velas de emergencia (solo como refuerzo, con portavelas seguro)",
+   "titulo_amazon": "Vela de Supervivencia, 36 Horas de Emergencia Velas de Hogar con 3 Mechas, Velas de Larga Duración Vela Candelita Portátil para Apagones Casa Aire Libre Camping Senderismo Picnic",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon"
+   ]
+  },
+  {
+   "asin": "B0DHH7TMGF",
+   "kit": "kit-basico-72h",
+   "seccion": "Alimentación",
+   "producto": "Barritas de fruta y frutos secos (18 × 35 g)",
+   "titulo_amazon": "Nākd. Pack Multisabores | Barritas Raw de Fruta y Frutos Secos | 18 x 35g | Vegano | Sin Gluten | 100% Ingredientes Naturales | Sin Azúcar Añadido | 630g",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B096V89H69",
+   "kit": "kit-basico-72h",
+   "seccion": "Documentación y dinero",
+   "producto": "Bolsa estanca para documentos (3 piezas)",
+   "titulo_amazon": "YUMQUA Bolsas Estancas Impermeables para Cámara, Teléfono móvil, Documento y Mapa, fit Canottaggio, Campeggio, Kayak, Canoa, Senderismo, 3 Piezas (Negro)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B08L1Y7M8J",
+   "kit": "kit-basico-72h",
+   "seccion": "Higiene y salud",
+   "producto": "Botiquín completo Lewis-Plast (309 piezas, norma europea)",
+   "titulo_amazon": "Lewis-Plast Kit Completo De Primeros Auxilios 309 Piezas De Primeros Auxilios Al Aire Libre - Kit Que Cumple Con Las Normas Europeas Para Interiores Y Actividades Al Aire Libre",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B0FQ5TJY9K",
+   "kit": "kit-basico-72h",
+   "seccion": "Higiene y salud",
+   "producto": "Gel hidroalcohólico 70% (6 × 250 ml)",
+   "titulo_amazon": "SYS Gel Hidroalcohólico Natural - Pack 6 x 250 ml - Aloe Vera y Pantenol | Limpieza de Manos Sin Agua - Higienizante Total 70% Alcohol - Hidratante y Suave - Uso Diario (Total 1,5 L)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B0F1F5DFSG",
+   "kit": "kit-basico-72h",
+   "seccion": "Luz y energía",
+   "producto": "Linterna frontal a pilas AAA (1300 lux)",
+   "titulo_amazon": "Lepro Linterna Cabeza LED 1300lux, Linterna Frontal LED Alta Potencia 1Pcs | Luz Frontal Cabeza 6 Modos Luz con Luz Rojo, Impermeable IPX4 para Correr,Camping,Excursión,Pesca (Pilas No incluido), Negro",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B0HF4GTKH3",
+   "kit": "kit-basico-72h",
+   "seccion": "Abrigo y refugio",
+   "producto": "Mantas térmicas reutilizables 210×160 cm (5 uds)",
+   "titulo_amazon": "10 Mantas térmicas de Emergencia XL (210 × 160 cm), Impermeables y Reutilizables. Retienen hasta el 90% del Calor Corporal, Ideales para Coche, Senderismo, Supervivencia y situaciones de catástrofes.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-coche",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "8449811031",
+   "kit": "kit-basico-72h",
+   "seccion": "Información y comunicación",
+   "producto": "Mapa Oficial de Carreteras 2026 (papel)",
+   "titulo_amazon": "MAPA OFICIAL DE CARRETERAS. ESPAÑA 2026",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B000IAZDE0",
+   "kit": "kit-basico-72h",
+   "seccion": "Herramientas",
+   "producto": "Navaja multiuso Victorinox Spartan",
+   "titulo_amazon": "Victorinox Navaja Suiza Spartan, Multiuso con 12 Funciones, Hoja Grande | Navaja de bolsillo para camping y uso diario con sacacorchos, abrelatas y pelacables de 91 mm. Hecha en Suiza.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-montana",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B00GOPHOSQ",
+   "kit": "kit-basico-72h",
+   "seccion": "Agua e hidratación",
+   "producto": "Pastillas potabilizadoras Aquatabs (50 uds, 1 L/ud)",
+   "titulo_amazon": "Aquatabs 8,5 mg | 50 Pastillas Potabilizadoras de Agua | Pastillas potabilizadoras de agua para consumo humano",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h"
+   ]
+  },
+  {
+   "asin": "B094D3JGLT",
+   "kit": "kit-basico-72h",
+   "seccion": "Luz y energía",
+   "producto": "Pilas alcalinas AA y AAA (24 + 24, 10 años)",
+   "titulo_amazon": "Amazon Basics - Paquete de 48 pilas alcalinas AA y AAA de alto rendimiento, 24 pilas AA y 24 pilas AAA, 1,5 voltios, vida útil de 10 años",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-comunicacion",
+    "kit-frio",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B07539S9G3",
+   "kit": "kit-basico-72h",
+   "seccion": "Abrigo y refugio",
+   "producto": "Poncho impermeable unisex con capucha (talla única)",
+   "titulo_amazon": "ANYOO Poncho de Lluvia Reusable de Ripstop transpirante Ligero a Prueba de Agua Multiuso Impermeable con Capucha de Lona de Tienda de Campaña Ideal para el Aire Libre Campamento Excursionismo y Pesca",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-dana",
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0DFLHZQ18",
+   "kit": "kit-basico-72h",
+   "seccion": "Luz y energía",
+   "producto": "Powerbank INIU 20.000 mAh (22,5 W, USB-C)",
+   "titulo_amazon": "INIU Power Bank, Mini 22,5W PD 20000mAh Bateria Externa Carga Rapida, USB C Input & Output Bateria Portatil para iPhone Samsung iPad Airpods, Mochila Viaje Essentials Apto para Hombres y Mujeres, Rojo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-apagon",
+    "kit-basico-72h",
+    "kit-starlink",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B006G5N4XS",
+   "kit": "kit-basico-72h",
+   "seccion": "Alimentación",
+   "producto": "Ración deshidratada Trek'n Eat (515 kcal)",
+   "titulo_amazon": "TREK'N EAT BEEF STROGANOFF WITH RICE",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-evacuacion",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0HKNSR71Y",
+   "kit": "kit-basico-72h",
+   "seccion": "Información y comunicación",
+   "producto": "Silbatos de aluminio de emergencia (5 uds)",
+   "titulo_amazon": "10 uds Silbato Emergencia Aleación de Aluminio para Supervivencia (Gold) | Silbato de barco de alta frecuencia de doble tubo, llavero de seguridad para seguridad personal, camping, senderismo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-incendio",
+    "kit-mayores",
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B00UN4ROLQ",
+   "kit": "kit-bebe",
+   "seccion": "Documentos e identificación",
+   "producto": "Bolsa estanca para los documentos del bebé (DNI, cartilla, pasaporte)",
+   "titulo_amazon": "YUMQUA Bolsas Estancas Impermeables para Cámara, Teléfono móvil, Documento y Mapa, fit Canottaggio, Campeggio, Kayak, Canoa, Senderismo, 3 Piezas (Amarillo)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0DZXDTZ6B",
+   "kit": "kit-bebe",
+   "seccion": "Leche y comida de reserva",
+   "producto": "Bolsas de almacenamiento de leche materna (pack 30-50)",
+   "titulo_amazon": "Oderra Bolsas para Leche Materna, 250 ml, 50 Unidades | Doble cierre, boquilla integrada y zona para escribir la fecha de conservación",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0DQGR1KDL",
+   "kit": "kit-bebe",
+   "seccion": "Agua y alimentación sin electricidad",
+   "producto": "Botella térmica fría (500 ml)",
+   "titulo_amazon": "Grsta Botella Agua Acero Inoxidable 1 litro, Botella Agua, A Prueba de Fugas, Botella Termica, sin BPA, Termo Acero Inoxidable, Mantiene 24H Frio/12H Calor, para la Deportes, Cámping, Senderismo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0GL8WWVNN",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Cambiador portátil plegable e impermeable",
+   "titulo_amazon": "Cambiador Bebe Portatil Plegable Impermeable Acolchado Valbabycare | Tejido Oxford lavable, almohada integrada y cierre con velcro. Ideal para carrito, bolso o viaje.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0B6J97R41",
+   "kit": "kit-bebe",
+   "seccion": "Leche y comida de reserva",
+   "producto": "Cereales/papilla instantánea (2 cajas)",
+   "titulo_amazon": "Nutribén Papilla 8 Cereales Miel y Galletas María, Cereales Bebé +6m, 1000g | Sabor delicioso a miel y galleta maría; con 11 vitaminas y 2 minerales",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0FNCWC3SM",
+   "kit": "kit-bebe",
+   "seccion": "Abrigo y sueño",
+   "producto": "Gorro y manoplas de bebé",
+   "titulo_amazon": "Tokaneit Sombreros y Guantes de Bebé Aplicable de 0 a 6 Meses 3 Juegos Gorros Beanie para Bebé Recién Nacidos,Gorro de Algodón Suave,Gorros y Guantes para Recién Nacidos,Gorro y Guantes",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B09LJZM4ZB",
+   "kit": "kit-bebe",
+   "seccion": "Higiene y pañales",
+   "producto": "Jabón neutro en pastilla + esponja",
+   "titulo_amazon": "Jabón Neutro Natural en Pastilla sin Perfume 120g - Santa Gadea | Jabón artesanal con leche de cabra y aceite de oliva. PH neutro, sin químicos. Piel sensible, seca, atópica, bebés y niños.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B004GENVLG",
+   "kit": "kit-bebe",
+   "seccion": "Abrigo y sueño",
+   "producto": "Manta térmica de emergencia infantil (o manta polar pequeña)",
+   "titulo_amazon": "Manta TÉRMICA DE Emergencia Oro/Plata 10 UDS",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B00MBBKYUC",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Suero de rehidratación oral (8 sobres)",
+   "titulo_amazon": "CASEN RECORDATI - HIDRO SUERO ORAL 8 SOBRES",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0FKT561SK",
+   "kit": "kit-bebe",
+   "seccion": "Salud y calma",
+   "producto": "Termómetro digital de bebé",
+   "titulo_amazon": "Termómetro Infrarrojo Sin Contacto para Bebé/Adulto - Medición Frontal Instantánea con Alerta de Fiebre & Pantalla LCD - Conversión Digital ℃/℉ para Casa/Hospital",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-bebe"
+   ]
+  },
+  {
+   "asin": "B0FKMJ7HSZ",
+   "kit": "kit-calor",
+   "seccion": "Hidratación",
+   "producto": "Botella isotérmica de acero (mantiene frío 12-24 h)",
+   "titulo_amazon": "Cocholate | Botella térmica agua acero inoxidable personalizada láser | Sin BPA | Mantiene 24H Frío / 12H Calor | Isotérmica y Hermética - Doble Pared al Vacío a Prueba de Fugas | 500ml (Rosa Claro)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-calor"
+   ]
+  },
+  {
+   "asin": "B0FY2W5B8T",
+   "kit": "kit-calor",
+   "seccion": "Protección solar",
+   "producto": "Gafas de sol categoría 3-4",
+   "titulo_amazon": "KANASTAL Gafas de Sol Hombre Deportivas Polarizadas Mujer Negras UV400 | Montura de TR90, Categoría 3, Ideales para Running, Senderismo, Ciclismo, Pesca, Viajes y Actividades al Aire Libre",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-calor",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B07B9KD2JF",
+   "kit": "kit-calor",
+   "seccion": "Protección solar",
+   "producto": "Protector solar SPF 50",
+   "titulo_amazon": "ISDIN Fotoprotector Facial Fusion Water MAGIC Medium SPF50 - 50ml | Protector Solar Ultraligero Con Color, Crema Solar Que Unifica El Tono Y Protege Con Tecnología Full Spectrum, En 3 Tonos",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-calor"
+   ]
+  },
+  {
+   "asin": "B0GSL52NKJ",
+   "kit": "kit-calor",
+   "seccion": "Frescura",
+   "producto": "Pulverizador de agua",
+   "titulo_amazon": "PORTENTUM Bote spray pulverizador agua 300 ml – Atomizador recargable de niebla fina con pulverización continua – Diseño ergonómico – Para cabello, plancha, plantas y limpieza",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-calor"
+   ]
+  },
+  {
+   "asin": "B00W5968T6",
+   "kit": "kit-calor",
+   "seccion": "Hidratación",
+   "producto": "Sales de rehidratación oral",
+   "titulo_amazon": "NEO PEQUES Suero + | Suero Infantil de Rehidratación Oral | Formato Sachet | 5 Unidades | Indicado en Caso de Vómitos o Diarrea | A Base de Glucosa y Sales Minerales | Sabor a Frutas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-calor",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B07D5GJ9L9",
+   "kit": "kit-calor",
+   "seccion": "Frescura",
+   "producto": "Toalla de enfriamiento instantáneo",
+   "titulo_amazon": "Fit-Flip Toalla de enfriamiento Toallas frías de Microfibra | Azul oscuro, 100 × 30 cm, Airflip cooling towel para fitness, gimnasio, deporte, viajes y yoga",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-calor"
+   ]
+  },
+  {
+   "asin": "B0F4RBK2W3",
+   "kit": "kit-coche",
+   "seccion": "Emergencia y supervivencia",
+   "producto": "Botiquín de coche",
+   "titulo_amazon": "| NUVEXIA® | Botiquin De Primeros Auxilios PREMIUM 300 Piezas I kit De Supervivencia para Coche, Viaje, Hogar o Montaña I First Aid Kit I Ideal Para Emergencias y Senderismo.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B0CSDX8LR8",
+   "kit": "kit-coche",
+   "seccion": "Emergencia y supervivencia",
+   "producto": "Cadenas para nieve o calcetines textiles",
+   "titulo_amazon": "SNOWGO - Juego de 2 cadenas textiles para nieve - Talla XS a XXL - Homologado 16662-1 Europa - Adecuado para vehículos 4x4, vehículos eléctricos, furgonetas y vehículos comerciales <3,5T. (XL)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-coche",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0CWDNN3MY",
+   "kit": "kit-coche",
+   "seccion": "Obligatorio en España (DGT)",
+   "producto": "Chaleco reflectante de alta visibilidad (dotación obligatoria en moto)",
+   "titulo_amazon": "4x chalecos de alta visibilidad coche 2027 y 2027: chaleco de seguridad ISO20471 amarillo neón - coches y camiones - chalecos reflectantes contra pinchazos y accidentes - accesorios para el coche",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B006RHPKF0",
+   "kit": "kit-coche",
+   "seccion": "Obligatorio en España (DGT)",
+   "producto": "Dos triángulos de emergencia homologados",
+   "titulo_amazon": "S SUMEX 2707125 Kit de 2 Triángulos de Emergencia y 2 Chalecos Reflectantes Homologados EN471 Triángulos de Señalización Chalecos Reflectantes Alta Visibilidad Set Seguridad Vial Obligatorio con Bolsa",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B086GGP7K5",
+   "kit": "kit-coche",
+   "seccion": "Emergencia y supervivencia",
+   "producto": "Linterna LED con imán",
+   "titulo_amazon": "WOLFPACK LINEA PROFESIONAL Linterna Led Recargable Con Iman y Gancho 500 Lumenes Recargable/Powerbank",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B0H4KNVJ99",
+   "kit": "kit-coche",
+   "seccion": "Energía y confort",
+   "producto": "Powerbank de coche 12V",
+   "titulo_amazon": "Arrancador de Batería de Coche 10000A, para Gas 8.0L/Diésel 6.0L, 12V Arrancador de Coche Portátil con Carga Rápida USB y Pinzas para Batería, Funciona en Frío Extremo, para Auto, Moto, Bote, Camping",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-coche"
+   ]
+  },
+  {
+   "asin": "B0BFBZR4KW",
+   "kit": "kit-comunicacion",
+   "seccion": "Escuchar y avisar al exterior",
+   "producto": "Garmin inReach Messenger",
+   "titulo_amazon": "Garmin Comunicador satelital portátil inReach® Messenger, mensajería bidireccional Global",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-comunicacion"
+   ]
+  },
+  {
+   "asin": "B08J9YCB8M",
+   "kit": "kit-comunicacion",
+   "seccion": "Comunicación local: walkies PMR446",
+   "producto": "Walkie-talkies PMR446 de gama media (alcance ampliado)",
+   "titulo_amazon": "Retevis RT668 Walkie Talkie con Auricular, PMR446 Licencia Libre, Walkie Talkie Profesional con Cargador de 6 Vías, VOX, Walkie Talkies Portátiles para Industria, Lagerhaus(Negro, 6 Pcs)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-comunicacion"
+   ]
+  },
+  {
+   "asin": "B087NL82BH",
+   "kit": "kit-comunicacion",
+   "seccion": "Comunicación local: walkies PMR446",
+   "producto": "Walkie-talkies PMR446 recargables (16 canales)",
+   "titulo_amazon": "Walkie Talkie Recargable, 16 Canales PMR446 Walky Talky, Profecionales CTCSS DCS 3KM Radiocomunicación, con Auricular Incorporado Antorcha de LED, 2 Pares",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-comunicacion"
+   ]
+  },
+  {
+   "asin": "B0FKBJRT1G",
+   "kit": "kit-dana",
+   "seccion": "Comunicación y avisos: cuando cae la red",
+   "producto": "Batería externa (power bank) 10.000-20.000 mAh, dos salidas",
+   "titulo_amazon": "VEGER 20000mAh Batería Externa Power Bank, Carga Rápida 22.5W QC3.0, | USB-C Entrada y Salida, Batería Portátil para iPhone, Android, Tablets y Más",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B015Y8BY02",
+   "kit": "kit-dana",
+   "seccion": "Protección personal frente al agua",
+   "producto": "Botas de agua",
+   "titulo_amazon": "DUNLOP Pricemastor. Botas de agua clásicas impermeables, Negro, Talla 35 | Botas de caucho impermeables para mujer y hombre. Resistentes a productos químicos, ligeras y certificadas CE.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B0CJDWWGNG",
+   "kit": "kit-dana",
+   "seccion": "Protección personal frente al agua",
+   "producto": "Guantes impermeables",
+   "titulo_amazon": "KAYGO guantes de trabajo impermeables para hombres y mujeres, recubrimiento de látex doble, súper agarre antideslizante, para jardinería, lavado de coches, pesca (Negro, L, talla 9, 1 par)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B08XQN1DVL",
+   "kit": "kit-dana",
+   "seccion": "Comunicación y avisos: cuando cae la red",
+   "producto": "Mascarilla FFP2 (pack) y gafas de protección para la limpieza",
+   "titulo_amazon": "Grafoplas I Pack de 25 Mascarillas FFP2 Blancas: Protección Premium, Confort y Seguridad Garantizados I Radex",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B0H36VZ96Z",
+   "kit": "kit-dana",
+   "seccion": "Comunicación y avisos: cuando cae la red",
+   "producto": "Radio FM/AM a pilas o de manivela, con linterna integrada",
+   "titulo_amazon": "Energy Sistem Radio Emergencia Solar y Manivela AM/FM/onda corta (SW) | Radio , Linterna LED 3W / Power Bank USB / Carga Dinamo y Solar / Resistente al Agua / Kit Supervivencia",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.71,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B0FF4KS8T1",
+   "kit": "kit-dana",
+   "seccion": "Protección de la vivienda",
+   "producto": "Sacos de arena vacíos o barreras de inundación",
+   "titulo_amazon": "QWORK® 2 Pack 150CM Sacos de Arena, barreras de inundación Reutilizables y sin Arena, Sacos Arena contra inundaciones, para hogar, Garage y sótano",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.8,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B071NWGL29",
+   "kit": "kit-dana",
+   "seccion": "Comunicación y avisos: cuando cae la red",
+   "producto": "Walkie-talkies PMR446 (pareja con cargador)",
+   "titulo_amazon": "Retevis RT24 Walkie Talkie, Walkies Profesionales, PMR446 sin Licencia 16 Canales CTCSS/DCS VOX, Walkie Talkie Recargable con Cargador Europeo y Auriculares (Negro, 2 Pares)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-dana"
+   ]
+  },
+  {
+   "asin": "B0F1KH2MR7",
+   "kit": "kit-electricidad",
+   "seccion": "Energía: baterías y paneles",
+   "producto": "Batería LiFePO4 100 Ah",
+   "titulo_amazon": "EverExceed 12V 100 Ah Bateria Lifepo4 con BMS Integrado de 100A, Bateria Litio 1280 Wh con Protección Contra Bajas Temperaturas, Ideal para Yates, Embarcaciones, Barcos",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B094D3K2W9",
+   "kit": "kit-electricidad",
+   "seccion": "Control y seguridad eléctrica",
+   "producto": "Baterías AA y AAA alcalinas (paquete grande)",
+   "titulo_amazon": "Amazon Basics - Paquete de 24 pilas alcalinas AA y AAA de alto rendimiento, 12 pilas AA y 12 pilas AAA, 1,5 voltios, vida útil de 10 años",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0C1SB8J2C",
+   "kit": "kit-electricidad",
+   "seccion": "Luz: iluminación eficiente",
+   "producto": "Frontal LED con pilas AAA (2 unidades)",
+   "titulo_amazon": "Vinabo Linterna Frontal,ultra Potente de 6 Modos, 500 LM, Linterna LED Ajustable en 30°, para Lectura, Ciclismo, Correr, 3 Pilas AAA Incluidas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0CKMM8GX6",
+   "kit": "kit-electricidad",
+   "seccion": "Luz: iluminación eficiente",
+   "producto": "Lámpara LED recargable de área (lanterna camping)",
+   "titulo_amazon": "Tolesum Linterna LED Recargable con Imán, Micro USB - 2 Piezas | Linterna Taller COB con Base Magnética,5 Modos, Luz Roja de Emergencia, para Garaje, Camping, Emergencia",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0F8NNTM8V",
+   "kit": "kit-electricidad",
+   "seccion": "Control y seguridad eléctrica",
+   "producto": "Multímetro digital básico",
+   "titulo_amazon": "Multímetro Digital Profesional, Polimetro Digital con Pantalla Retroiluminada, Voltimetro Portátil y Resistente, Multifunción para Hogar y Taller, Manual en Español",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0H35BWBZX",
+   "kit": "kit-electricidad",
+   "seccion": "Energía: baterías y paneles",
+   "producto": "Panel solar plegable 60-100 W",
+   "titulo_amazon": "Panel solar de 60 W con pantalla digital, cargador solar y carga rápida | Panel solar plegable con múltiples interfaces de salida, compatible con estaciones de energía, alimentación de emergencia.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B00EVMWKPQ",
+   "kit": "kit-electricidad",
+   "seccion": "Control y seguridad eléctrica",
+   "producto": "Regleta con protección sobretensiones (interruptor)",
+   "titulo_amazon": "Brennenstuhl Eco-Line regleta de enchufes con 3 Tomas de Corriente y protección contra sobretensiones (Cable de 1,5m, Interruptor Iluminado, protección sobretensión hasta 13.500A) Antracita",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0HP9SSN9R",
+   "kit": "kit-electricidad",
+   "seccion": "Luz: iluminación eficiente",
+   "producto": "Velas de emergencia de larga duración (9-12 h)",
+   "titulo_amazon": "Velas de emergencia de larga duración, resistentes al , 10 unidades | Velas sin perfume de 26-30 horas para acampar, senderismo, pesca, tienda de campaña, hogar interior",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-electricidad"
+   ]
+  },
+  {
+   "asin": "B0DHJR3V44",
+   "kit": "kit-evacuacion",
+   "seccion": "Documentación esencial",
+   "producto": "Copia de llaves de casa",
+   "titulo_amazon": "GRIFEMA GA1003-2 Caja de Seguridad para Llaves, Caja de Cerradura, Armarios de Llaves con Gancho, para Casa, Oficina, Gris",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-evacuacion"
+   ]
+  },
+  {
+   "asin": "B0H6BL141L",
+   "kit": "kit-evacuacion",
+   "seccion": "Utilidad",
+   "producto": "Elemento luminoso o reflectante para caminar de noche (obligatorio para peatones)",
+   "titulo_amazon": "URAQT Luz Running, 750LM Linterna LED para Correr de Noche con Correas Dobles Reflectantes 360°,Impermeable IPX5 Luces Pecho para Caminar/Ciclismo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B01M19HAEB",
+   "kit": "kit-evacuacion",
+   "seccion": "Supervivencia 24-72 h",
+   "producto": "Manta térmica + poncho",
+   "titulo_amazon": "Bramble 10 Mantas Térmicas de Supervivencia de Emergencia - Mantas de Aluminio en Dorado y Plateado - 210 x 160cm",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-evacuacion"
+   ]
+  },
+  {
+   "asin": "B08ZM2KC49",
+   "kit": "kit-evacuacion",
+   "seccion": "Utilidad",
+   "producto": "Navaja multiusos",
+   "titulo_amazon": "16en1 Herramienta Multiuso Camping Accesorios Regalos para Hombres | Multiherramienta con Hacha Supervivencia Kit Navaja Multiusos Regalo Padre Regalo Cumpleanos",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-evacuacion"
+   ]
+  },
+  {
+   "asin": "B0CT3BWC5P",
+   "kit": "kit-evacuacion",
+   "seccion": "Utilidad",
+   "producto": "Silbato de emergencia",
+   "titulo_amazon": "ZOKJSW 2 unidades de silbato de emergencia, silbatos de seguridad, silbato de señal hasta 4000 Hz con correa reflectante ajustable para kayak, navegación en bote, natación, supervivencia en el agua",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B09QSNTH9D",
+   "kit": "kit-frio",
+   "seccion": "En la calle y en el coche: la nieve",
+   "producto": "Cables de arranque y anticongelante con protección hasta -25",
+   "titulo_amazon": "MAMIZO 12 V/24 V, Cable de Arranque, 30 MM², 1500 A, Arranque Rápido, con Guantes de Protección, para Coches, Camiones, Cables de Arranque de Cobre (6 M)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0H8R9PC6P",
+   "kit": "kit-frio",
+   "seccion": "Calor corporal: la capa que salva",
+   "producto": "Calcetines de lana (3-4 pares)",
+   "titulo_amazon": "Vinuwu 3 pares de calcetines de lana merino esponjosos térmicos gruesos | Calcetines de cachemira tipo welly acogedores para mujer para caminar y senderismo, calcetín de caña media con acolchado",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0D66LK5NP",
+   "kit": "kit-frio",
+   "seccion": "Seguridad: el enemigo silencioso es el CO",
+   "producto": "Detector de monóxido de carbono (CO) a pilas con alarma",
+   "titulo_amazon": "X-Sense Detector de Monóxido de Carbono, Alarma de CO con Batería Reemplazable y Pantalla Digital, Alarma de Monóxido de Carbono Portátil para el Hogar con Memoria de Valor Máximo de CO, XC0C-SR",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B0CH1MDJVX",
+   "kit": "kit-frio",
+   "seccion": "Seguridad: el enemigo silencioso es el CO",
+   "producto": "Extintor de polvo ABC de 1-2 kg con soporte",
+   "titulo_amazon": "Extintor Polvo ABC 1kg con soporte, homologado CE y AENOR. Ideal para coche, casa, caravana, camper, autocaravana. Alta eficacia. Portátil, compacto. Fabricado en España. Seguridad total.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B075SFXVQ1",
+   "kit": "kit-frio",
+   "seccion": "Calor corporal: la capa que salva",
+   "producto": "Forro polar o jersey de lana",
+   "titulo_amazon": "JACK PYKE Camiseta de Forro Polar para Hombre, 250 g/m², suéter de Forro Polar con diseño Bordado de faisán, puños elásticos y Espalda extendida, Jersey de Campo para otoño e Invierno, Verde, XL",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B00KSGFXBW",
+   "kit": "kit-frio",
+   "seccion": "En la calle y en el coche: la nieve",
+   "producto": "Rasqueta y cepillo de hielo para el coche",
+   "titulo_amazon": "Raspador Rasqueta de Hielo para Parabrisas de Coche de HDPE + PS Goodyear",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B07WK2MC6B",
+   "kit": "kit-frio",
+   "seccion": "Calor corporal: la capa que salva",
+   "producto": "Ropa térmica interior (camiseta y legging, 2 juegos)",
+   "titulo_amazon": "Ropa Interior Térmica Hombre Interior Funcional Conjuntos Térmicos Nergo | Conjuntos térmicos para Hombres Camiseta Térmica Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio"
+   ]
+  },
+  {
+   "asin": "B07FXSF4PV",
+   "kit": "kit-hogar",
+   "seccion": "Cocina sin electricidad",
+   "producto": "Cocoteira o cazo resistente (para calentar conservas)",
+   "titulo_amazon": "Fackelmann Geneva Pote Alto 14 cms, Capacidad 1,7 Litros, Cazo de Leche de Acero Inoxidable con Núcleo de Aluminio, Resistente a Corrosión y Fácil de Limpiar, Distribución Uniforme del Calor",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0CKWGSX22",
+   "kit": "kit-hogar",
+   "seccion": "Cocina sin electricidad",
+   "producto": "Detector de monóxido de carbono a pilas",
+   "titulo_amazon": "FireAngel FA6813 - Alarma y detector de monóxido de carbono - Sensor de 10 años de vida útil para el hogar con pilas AA - Detector de monóxido de carbono portátil de viaje - Monitor detector de CO con",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B08KHN552L",
+   "kit": "kit-hogar",
+   "seccion": "Higiene y limpieza",
+   "producto": "Gel hidroalcohólico y jabón",
+   "titulo_amazon": "Tahe Dermoprotect Gel Hidroalcohólico Higienizante De Manos con Extracto original de Limón y Glicerina (Caja de 1000 sobres de 2 ml)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0GLQGTKQD",
+   "kit": "kit-hogar",
+   "seccion": "Moral",
+   "producto": "Juegos de mesa o cartas",
+   "titulo_amazon": "Asmodee dnup, Juego de Cartas, Modifica tu Mano y Dale un Giro a la Partida | CREA Nuevos Combos y sé el Primero en Deshacerte de Tus Cartas para Ganar, A Partir de 8 Años, De 2 a 5 Jugadores, Español",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0GGY8TTR2",
+   "kit": "kit-hogar",
+   "seccion": "Luz, energía y comunicación",
+   "producto": "Linterna LED a pilas o de dinamo",
+   "titulo_amazon": "HENGBIRD Linterna Dinamo con Manivela – Set de 4 Linterna Autorecargable LED sin Pilas, Linterna Emergencia Portátil para Camping, Senderismo y Kit de Supervivencia",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0CGX22CR8",
+   "kit": "kit-hogar",
+   "seccion": "Ventilación y calidad del aire",
+   "producto": "Medidor de CO2 o calidad del aire portátil",
+   "titulo_amazon": "Temtop C1 Monitor de CO2, Monitor de Calidad del Aire Interior Medidor Portátil de CO2 Temperatura Humedad Hogar Oficina o Escuela",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B07NMGQW67",
+   "kit": "kit-hogar",
+   "seccion": "Higiene y limpieza",
+   "producto": "Papel higiénico y toallitas",
+   "titulo_amazon": "by Amazon Papel Higiénico Supersuave de 3 Capas, 36 Rollos (4 Paquetes de 9), 200 Hojas por Rollo, Con Certificación FSC",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0F9KQS9PL",
+   "kit": "kit-hogar",
+   "seccion": "Luz, energía y comunicación",
+   "producto": "Radio FM/AM a pilas o de dinamo",
+   "titulo_amazon": "Radio Solar De Emergencia con Manivela, Am/FM Radio Portatil Pequeña Pilas, Radios Solar Dinamo Y Recargable, Linterna Dinamo Outdoor Radios De Bolsillo A Portátil para Viajes Camping Ciclismo (Negro)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-comunicacion",
+    "kit-hogar"
+   ]
+  },
+  {
+   "asin": "B0GJD9K1DM",
+   "kit": "kit-hogar",
+   "seccion": "Salud",
+   "producto": "Termómetro digital",
+   "titulo_amazon": "Viproud Termometro digital para fiebre para bebés, niños y adultos, Termometro bebe infrarrojo sin contacto para la Termómetro frente,con mediciones precisas instantáneas,alarma de fiebre(blanco)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-hogar",
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0DJPSJTPY",
+   "kit": "kit-incendio",
+   "seccion": "Defender la casa si aún hay tiempo",
+   "producto": "Extintor de polvo ABC de 6 kg (o varios de 2 kg)",
+   "titulo_amazon": "FERRETELIX® Extintor 6 kg Polvo ABC Alta Eficacia 34A 233B + Soporte de Pared – Fabricado en 2026 – Seguridad Profesional contra Incendios",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B07F82JW46",
+   "kit": "kit-incendio",
+   "seccion": "Respirar: el humo mata antes que el fuego",
+   "producto": "Gafas de protección ajustadas (o de sol cerradas)",
+   "titulo_amazon": "SAFEYEAR Gafas de seguridad antivaho [EN166] SG002 - Gafas de seguridad antiarañazos con cordón para el cuello para adultos para hombres y mujeres, protección UV para bricolaje, protección ocular de",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0GHVYZR58",
+   "kit": "kit-incendio",
+   "seccion": "Ropa que no arde pegada a la piel",
+   "producto": "Guantes de trabajo de cuero o resistentes al calor",
+   "titulo_amazon": "Guantes de Barbacoa de Cuero, Resistentes al Calor, Guantes de Barbacoa de Cuero Ignífugo, para Ignífugos, Soldadura, Chimenea, Horno, Cocina, Estufa, Estante de Olla",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.8,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0001IWLMG",
+   "kit": "kit-incendio",
+   "seccion": "Defender la casa si aún hay tiempo",
+   "producto": "Manguera reforzada larga (más un aspersor o pistola)",
+   "titulo_amazon": "Manguera reforzada Faithfull de 30 m (98 pies) y 12,7 mm (1/2 pulgada) de diámetro, de PVC",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B01LX6Q7XS",
+   "kit": "kit-incendio",
+   "seccion": "Salir en 10 minutos",
+   "producto": "Mapa físico de tu zona (carreteras, salidas alternativas)",
+   "titulo_amazon": "Grupo Erik Poster Mapa España fisico politico en Español - Laminas decorativas 61x91,5cm a todo color | Posters para pared ideal decoración habitación",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0CX1RZQMN",
+   "kit": "kit-incendio",
+   "seccion": "Defender la casa si aún hay tiempo",
+   "producto": "Mochila pulverizadora de agua a presión (16 L)",
+   "titulo_amazon": "Mobiclinic®, Mochila Pulverizadora, 16 L, Jardinería, Presión con Bomba, 4 Boquillas Ajustables, Peso Ligero 2 kg, Sulfatadora, Riego, Control de plagas, Cuidado Plantas, Fumibug",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B09LTFV4VR",
+   "kit": "kit-incendio",
+   "seccion": "Ropa que no arde pegada a la piel",
+   "producto": "Ropa de algodón o lana de manga larga (no sintética)",
+   "titulo_amazon": "Pinuccio Venegoni Juego de 2 camisetas de manga larga de lana de algodón 100 % interior; fabricadas en Italia; camiseta interior térmica para hombre, camiseta térmica para hombre, Color blanco., XL",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.8,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0DRP2F54D",
+   "kit": "kit-incendio",
+   "seccion": "Animales y personas que no corren solos",
+   "producto": "Transportín y correa a mano (mascotas)",
+   "titulo_amazon": "Morpilot Transportín Perro Gato, Bolsa Transporte Transpirable para Mascotas, Portador de Viaje con Correa de Hombro Ajustable, Transporte de Gato con Colchón Suave+Tazón (Negro 40 x 26 x 28 cm)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-incendio"
+   ]
+  },
+  {
+   "asin": "B0DCP9M364",
+   "kit": "kit-kit-profesional",
+   "seccion": "Conservación de alimentos sin red",
+   "producto": "Acumuladores de frío congelables (pack de 4)",
+   "titulo_amazon": "VonBueren 2-24 acumuladores de frío para Bolsa isotérmica, Placa Hielo (4) | Aprox. 200 g y 8,1 x 15,2 x 2,2 cm por acumulador de frío, enfriamiento prolongado, también para nevera",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B09WZ7MDT1",
+   "kit": "kit-kit-profesional",
+   "seccion": "Generador: respaldo cuando no hay sol",
+   "producto": "Bidón homologado para combustible (20 L)",
+   "titulo_amazon": "Tayg Bidón 20 Litros homologado con cánula y franja de medición, Negro, 603075",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0H8P2WXHV",
+   "kit": "kit-kit-profesional",
+   "seccion": "Iluminación y seguridad perimetral",
+   "producto": "Cámara de seguridad solar 4G con batería",
+   "titulo_amazon": "Cámara de seguridad 4G LTE para exteriores, inalámbrica, con tarjeta SIM, AOV 24/7, 4K, doble lente, cámara solar exterior con panel, batería 15000 mAh, visión nocturna, PTZ 360°",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0H8418D5H",
+   "kit": "kit-kit-profesional",
+   "seccion": "Conectividad: Starlink y redundancia",
+   "producto": "Extensor WiFi de largo alcance + antena direccional",
+   "titulo_amazon": "Repetidor WiFi Potente con 6 Antenas, Amplificador Señal WiFi Largo Alcance, Extensor WiFi Soporta 64 Dispositivos, Modos (Repetidor, Ap), Cobertura hasta 300 m², para Casa y Oficina",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.83,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0FY65FTYM",
+   "kit": "kit-kit-profesional",
+   "seccion": "Energía solar: el sol es tu generador",
+   "producto": "Panel solar 400W monocristalino (×2 unidades)",
+   "titulo_amazon": "Panel Solar Portátil 400W, Cargador Portátil Con Soporte Plegable | Fuente De Alimentación Mc4 De 40 V Y Múltiples Salidas Para Generadores Solares, Paneles Solares Para Rv, Camping",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0CF2LJMPP",
+   "kit": "kit-kit-profesional",
+   "seccion": "Energía solar: el sol es tu generador",
+   "producto": "Regulador de carga MPPT 60A",
+   "titulo_amazon": "BuyWeek Regulador de carga solar MPPT 60A 12V/24V/36V/48V Controlador de Carga Solar con LCD Identificación automática voltaje Entrada máxima de 180V DC, for baterías de plomo-ácido y litio",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0HDSSWZDX",
+   "kit": "kit-kit-profesional",
+   "seccion": "Conectividad: Starlink y redundancia",
+   "producto": "Router 4G/5G industrial con dual SIM y antenas externas",
+   "titulo_amazon": "Router móvil 5G con 6 antenas y ranura para tarjetas SIM, portátil, WiFi | Velocidad de transferencia de datos: 1 Gbps (clase 1000Mbps), Doble banda: 2,4 GHz 5,8 GHz, conectividad de modo dual para",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.62,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B071HT7BQ1",
+   "kit": "kit-kit-profesional",
+   "seccion": "SAI (UPS): conmutación instantánea",
+   "producto": "SAI (UPS) 3000VA-5000VA online doble conversión",
+   "titulo_amazon": "Salicru SLC 3000 Twin PRO2 – Sistema de Alimentación Ininterrumpida (SAI/UPS) de 3000 VA On-Line Doble conversión",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.83,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B07NS2VK7J",
+   "kit": "kit-kit-profesional",
+   "seccion": "SAI (UPS): conmutación instantánea",
+   "producto": "SAI 1500VA (900W line-interactive)",
+   "titulo_amazon": "Green Cell SAI UPS 1500VA 900W 230V Line Interactive con Pantalla LCD | AVR, Onda Sinusoidal Modificada, USB/RJ45, 4 Enchufes Schuko, Tomas IEC y Fuente de Alimentación Continua",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B077XTVFHQ",
+   "kit": "kit-kit-profesional",
+   "seccion": "Comunicación local: radio amateur y walkies",
+   "producto": "Walkie-talkies profesionales PMR446 (set de 4)",
+   "titulo_amazon": "Motorola Talkabout T82 Extreme PMR446 - Radio Walkie Talkie de 2 vías, Paquete cuádruple, Color Amarillo y Negro",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-kit-profesional"
+   ]
+  },
+  {
+   "asin": "B0DQSPGGDF",
+   "kit": "kit-mascotas",
+   "seccion": "Higiene y descanso",
+   "producto": "Bandeja y arena para gato (o empapadores)",
+   "titulo_amazon": "Arenero Gato Acero Inoxidable, Caja de Arena para Gatos, Gatitos y Conejos, Arenero Alto para Gatos, Antiadherente, sin olores y fácil de Limpiar, 40 x 30 x 10cm",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B01KI70USQ",
+   "kit": "kit-mascotas",
+   "seccion": "Llevártelo contigo",
+   "producto": "Bozal (si es obligatorio o si está nervioso con desconocidos)",
+   "titulo_amazon": "Zeus Bozal Alpha, Talla 3",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0FDMJZ25Y",
+   "kit": "kit-mascotas",
+   "seccion": "Agua y comida para 72 horas",
+   "producto": "Comedero y bebedero plegables de viaje",
+   "titulo_amazon": "Lunabear Cuenco Plegable para Perros y Gatos, Comedero y Bebedero de Viaje | Portátil de Silicona Alimentaria, sin BPA, Apto para Lavavajillas, con Mosquetón (Marfil)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0CTMWQG4T",
+   "kit": "kit-mascotas",
+   "seccion": "Agua y comida para 72 horas",
+   "producto": "Comida húmeda en lata (aporta agua y la come estresado)",
+   "titulo_amazon": "Nature's Variety Bocaditos en Salsa Comida Húmeda para Gatos Cajita Multisabor 12 x 85g",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mascotas"
+   ]
+  },
+  {
+   "asin": "B0D472M3ML",
+   "kit": "kit-mayores",
+   "seccion": "Caídas, noche y seguridad en casa",
+   "producto": "Alfombrilla antideslizante de baño y tirante de apoyo",
+   "titulo_amazon": "HITSLAM Alfombra Ducha Antideslizante 53x53cm, Cuadrada Alfombrilla Ducha Antideslizante con Ventosas, Lavables a máquina Alfombrilla Baño Libre de BPA Resistente al Moho, Transparente",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0020K2J5C",
+   "kit": "kit-mayores",
+   "seccion": "Comunicación y compañía",
+   "producto": "Baraja española (40 cartas)",
+   "titulo_amazon": "Baraja española Nº 1 (40 cartas)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0DB8GRTPL",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Bastón plegable / andador de repuesto con luz",
+   "titulo_amazon": "ALFFREUDE Bastón Plegable con Luz LED, Bastones para Mayores, Bastones Plegables para Hombres y Mujeres con Base Antideslizante, Alturas Ajustables, Caña de Caminar de Aluminio",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-incendio",
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0B9C9B8JT",
+   "kit": "kit-mayores",
+   "seccion": "Comida adaptada e hidratación",
+   "producto": "Botella con asa y boquilla fácil + vaso con tapa",
+   "titulo_amazon": "Nuby Incredible Gulp Botella Infantil, Pack de 2, 360 ml, +18 Meses, Dino | Vaso antiderrame con asa, tapa One-Click y boquilla de silicona suave, apto para lavavajillas, ayuda a beber solo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.83,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0DBJBN5ZN",
+   "kit": "kit-mayores",
+   "seccion": "Higiene, incontinencia y frío",
+   "producto": "Cuña u orinal con asa",
+   "titulo_amazon": "Orinal Mujer Adulto 2,5L con Asa | Cuña Orinal Femenina para Cama | Colector de Orina para Mujeres Encamadas, Mayores o con Movilidad Reducida | Cuña Sanitaria Resistente y Fácil de Limpiar",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0DT6M79BB",
+   "kit": "kit-mayores",
+   "seccion": "Higiene, incontinencia y frío",
+   "producto": "Empapadores y pañales de incontinencia (pack para 3-5 días)",
+   "titulo_amazon": "ARNOMED Empapadores Cama para Incontinencia 60x90cm, Cambiador Desechable 5 Capas - 240 Unidades",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mascotas",
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0GZ1Q49RH",
+   "kit": "kit-mayores",
+   "seccion": "Higiene, incontinencia y frío",
+   "producto": "Manta térmica de emergencia aluminizada (pack de 2)",
+   "titulo_amazon": "DLPRK Manta Térmica de Emergencia Pack 3 (160x200cm) Doble Cara Oro/Plata. Aluminizada, ultraligera, prevención hipotermia. Ideal Supervivencia, Primeros Auxilios y Outdoor.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B08QD2ZXFT",
+   "kit": "kit-mayores",
+   "seccion": "Medicación y crónicos",
+   "producto": "Nevera portátil pequeña con paquetes fríos reutilizables",
+   "titulo_amazon": "b.box Bolsa de Gel Frío Reutilizable | Enfriador para Nevera Portátil, Caja de Almuerzo y Bolsa Térmica para Alimentos | Bolsa de Frío para Niños | Gel de Grado Alimentario| Lote de 2 Unidades",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0F31WSL3G",
+   "kit": "kit-mayores",
+   "seccion": "Medicación y crónicos",
+   "producto": "Organizador de pastillas semanal (pastillero) con copia de pautas",
+   "titulo_amazon": "Pastillero Semanal Español 2 Tomas,GeekerChip Pastillero Diario 7 Dias,con 14 Compartimentos,Organizador de Pastillas para Viaje,para Vitaminas, Suplementos y Medicamentos(Multicolor)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0C4Y5MWC8",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Pilas de repuesto para audífonos (blíster × 3, con fecha)",
+   "titulo_amazon": "VARTA Pilas para aparatos auditivos tipo 312 marrón, paquete de 60, Power on Demand, batería de audífono, pilas de botón para audífonos, Made in Germany",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0F1FJXX25",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Pulsera de alerta: marcapasos o dispositivo implantado",
+   "titulo_amazon": "Tobestu Pulseras de Alerta Médica de Acero Inoxidable Pulsera de Alerta Médica para Marcapasos YS5833",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.6,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0HK8CP55X",
+   "kit": "kit-mayores",
+   "seccion": "Sentidos y ayudas técnicas",
+   "producto": "Pulsera o collar de identificación médica grabado (nombre, teléfono, alergias)",
+   "titulo_amazon": "Pulsera Médica Personalizada, Elástica Ajustable SOS ID con Grabado Mujer | Identificación SOS personalizada con nombre, epilepsia, alergias, medicación y número de teléfono para emergencias médicas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.8,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0G3YCY2FS",
+   "kit": "kit-mayores",
+   "seccion": "Medicación y crónicos",
+   "producto": "Tensiómetro de brazo a pilas con memoria",
+   "titulo_amazon": "COMPASJ - Tensiómetro de brazo Monitor de Presión Arterial Digital Detección de Arritmia, Medición Precisa, Memoria hasta 99 lecturas, Brazalete Ajustable 22-42cm, para Mayores Familias. Incluye Pilas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0DNMRNRF2",
+   "kit": "kit-mayores",
+   "seccion": "Medicación y crónicos",
+   "producto": "Termómetro de nevera (mínimo/máximo)",
+   "titulo_amazon": "TempPro TP110 Termómetro Frigorífico Digital, IPX6 Impermeable, 1 pieza | Termómetro Nevera y Congelador con Retroiluminada, Registro MAX/MIN 24h, Termómetro Refrigerador (Anteriormente ThermoPro)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-mayores"
+   ]
+  },
+  {
+   "asin": "B0GWCMNKC9",
+   "kit": "kit-montana",
+   "seccion": "Salud y reparación",
+   "producto": "Apósitos hidrocoloides para ampollas (24 uds)",
+   "titulo_amazon": "24 Tiritas para Ampollas y Rozaduras, Apósitos Hidrocoloides de Gel Transparente, 4 Formas para Talón, Dedos y Pies, Parches de Segunda Piel Impermeables para Senderismo y Tacones",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B005ESSBWC",
+   "kit": "kit-montana",
+   "seccion": "Salud y reparación",
+   "producto": "Crema solar y labial con protección",
+   "titulo_amazon": "Piz Buin Mountain Sun Cream + Lipstick 30 SPF (20 ml), producto 2 en 1 con protección solar para deportes de alta montaña, protector solar y protector labial 30 FPS",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0CKW3F157",
+   "kit": "kit-montana",
+   "seccion": "Orientación y comunicación",
+   "producto": "Cuerda de paracord 550 (30m)",
+   "titulo_amazon": "Romon Paracord 550 30 Metros, Cuerda Paracord 4mm,Cordino 7 Hebras, Cuerda para Toldo Exterior, Rope Camping, SOGA Tendedero",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-montana",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0DK3LBNFM",
+   "kit": "kit-montana",
+   "seccion": "Salud y reparación",
+   "producto": "Kit de costura de emergencia",
+   "titulo_amazon": "Kit Costura,Kit de Costura,Costurero Accesorios Costura Kit de Accesorios para el Viajes y Principiantes y emergencias, de Ropa con Agujas de Hilo, Tijeras, Botones de,Costureros Completos",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0GR9993T2",
+   "kit": "kit-montana",
+   "seccion": "Refugio y abrigo",
+   "producto": "Manta térmica de supervivencia",
+   "titulo_amazon": "MUNZE Manta Térmica Supervivencia, 2 Piezas Tamaño Extragrande 210X160Cm, Doble Cara Dorada Y Plateada Para Emergencia Rescate Maratón Senderismo Primeros Auxilios",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0C9CJKCH3",
+   "kit": "kit-montana",
+   "seccion": "Orientación y comunicación",
+   "producto": "Powerbank ligero + cable USB",
+   "titulo_amazon": "Anker Nano Power bank 10.000 mAh 30 W con cable USB C integrado | 1 USB C y USB A. Compatible con iPhone serie 18 pro max/17/16/15/14, MacBook, Galaxy, iPad y AirPods",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-montana"
+   ]
+  },
+  {
+   "asin": "B0H864HPJ7",
+   "kit": "kit-starlink",
+   "seccion": "Redundancia: router 4G/5G como respaldo",
+   "producto": "Antena externa 4G/5G de alta ganancia",
+   "titulo_amazon": "Antena de refuerzo externa Omni de banda ancha para exteriores 4G LTE 5G de | con cable de 5 m para T-Mobile Home Internet, Verizon, AT&T 4G/5G Gateway Router Wireless Modem Eifagur",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.8,
+   "kits_con_el_asin": [
+    "kit-starlink"
+   ]
+  },
+  {
+   "asin": "B0H9BT9W4F",
+   "kit": "kit-starlink",
+   "seccion": "Starlink: internet desde cualquier lugar",
+   "producto": "Kit Starlink Standard (antena + router Wi-Fi)",
+   "titulo_amazon": "Starlink Kit Antena Standard V4X con Router Blanca | Alta Velocidad, Red Satelital, Fácil Instalación, Kit Completo, Conectividad Estable",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-starlink"
+   ]
+  },
+  {
+   "asin": "B0G4RST8LV",
+   "kit": "kit-starlink",
+   "seccion": "Último recurso: messenger satelital",
+   "producto": "Messenger satelital (Garmin inReach Mini 3)",
+   "titulo_amazon": "Garmin inReach Mini 3, comunicación por satélite con SOS | Sistema compacto de comunicación por satélite con SOS, fotos y mensajes de voz, hasta 350 horas de autonomía",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-kit-profesional",
+    "kit-starlink"
+   ]
+  },
+  {
+   "asin": "B0GT4D8M5K",
+   "kit": "kit-starlink",
+   "seccion": "Starlink: internet desde cualquier lugar",
+   "producto": "Soporte de montaje para Starlink (tejado / pared / mástil)",
+   "titulo_amazon": "RFIVER Starlink - Soporte para antena estándar Starlink Gen 3/V3/4/4X | Starlink - Soporte de pared con adaptador de tubo Starlink Gen 3, conjunto de montaje en pared/techo con mástil Starlink",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-starlink"
+   ]
+  },
+  {
+   "asin": "B0D9M3CWMW",
+   "kit": "kit-suiza",
+   "seccion": "Higiene y salud: las 50 mascarillas y la medicación",
+   "producto": "Botiquín completo (222 piezas)",
+   "titulo_amazon": "HONYAO Botiquín de Primeros Auxilios 222 Piezas, Kit Primeros Auxilios Completo, Botiquin para Casa Coche Trabajo Deporte Viaje Cámping, Rojo",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0CNTLKPLS",
+   "kit": "kit-suiza",
+   "seccion": "Higiene y salud: las 50 mascarillas y la medicación",
+   "producto": "Desinfectante de superficies",
+   "titulo_amazon": "BACTERISAN Germosan-Nor BP 11 Desinfectante de Superficies, 750 ml | Limpiador de Rápida Evaporación, Desinfectante de Materiales",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-dana",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0H4HS5YL7",
+   "kit": "kit-suiza",
+   "seccion": "Cocina sin red eléctrica",
+   "producto": "Estufa de gas butano (para casa)",
+   "titulo_amazon": "Estufa de Gas Butano Plegable [4200W] | Estufa Butano 3 Potencias con Sensor ODS y Antivuelco | Estufa Gas Interior con Ruedas 360°",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-30-dias",
+    "kit-frio",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0G58B5ZL7",
+   "kit": "kit-suiza",
+   "seccion": "Agua: 9 litros por persona que no dependen del grifo",
+   "producto": "Garrafas de agua de 8 litros (dos por persona)",
+   "titulo_amazon": "Bezoya - Agua mineral - Agua de mineralización muy débil - Garrafa 5 L (Paquete de 2)",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.67,
+   "kits_con_el_asin": [
+    "kit-30-dias",
+    "kit-basico-72h",
+    "kit-hogar",
+    "kit-incendio",
+    "kit-mascotas",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0FHWMCNWK",
+   "kit": "kit-suiza",
+   "seccion": "Cocina sin red eléctrica",
+   "producto": "Hornillo de camping a gas con bombonas",
+   "titulo_amazon": "Camping Gas Portatil con adaptador de Bombona + 4 Cartuchos, Pack Hornillo + 4 Cartuchos, Hornillo Camping Gas Portátil, Cocinal, Infernillo, Fogareiro",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio",
+    "kit-hogar",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0FB3WSWJ1",
+   "kit": "kit-suiza",
+   "seccion": "Luz y avisos oficiales",
+   "producto": "Linterna frontal",
+   "titulo_amazon": "Lámpara de Lectura con Pinza, 61 LED Luz Recargable para Cama Escritorio | 3 Modos y 10 Niveles de Brillo, Puerto USB-C, Cuello Flexible 40cm, Portátil para Cama, Flexo Mesa, Estudio y Camping",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-incendio",
+    "kit-mayores",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0GM1QQW1C",
+   "kit": "kit-suiza",
+   "seccion": "Higiene y salud: las 50 mascarillas y la medicación",
+   "producto": "Mascarillas FFP2 (pack)",
+   "titulo_amazon": "ADESTE – 50 Mascarillas FFP2 NR D Negras con Certificado CE, cadena controlada, elásticos cómodos, hipoalergénicos y regulables. Seguras: potencia de filtrado BFE >99,5%. Sobres individuales sellados",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-basico-72h",
+    "kit-hogar",
+    "kit-incendio",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0GMXX2G9S",
+   "kit": "kit-suiza",
+   "seccion": "Agua: 9 litros por persona que no dependen del grifo",
+   "producto": "Pastillas potabilizadoras de agua",
+   "titulo_amazon": "AWAKING Pastillas Potabilizadoras de Agua 48 uds | Tratamiento hasta 9600 Litros | 200L por Pastilla | Ideal para Depósitos, Bidones, Caravanas y Emergencias.",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-evacuacion",
+    "kit-montana",
+    "kit-suiza",
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0HC4PGSVV",
+   "kit": "kit-suiza",
+   "seccion": "Lo que Suiza apunta y casi nadie copia",
+   "producto": "Powerbank de 10.000-20.000 mAh",
+   "titulo_amazon": "Inalámbrico Power Bank, Magnético Batería Externa 10000mAh, 20W Carga Rapida Slimmest Bateria Portátil Powerbank USB C Input & Output, Cargador Inalámbrico para iPhone 17 16 15 14 13 12 Series Galaxy",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-frio",
+    "kit-hogar",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B06XWZ41RT",
+   "kit": "kit-suiza",
+   "seccion": "Luz y avisos oficiales",
+   "producto": "Radio FM/AM a pilas (avisos oficiales)",
+   "titulo_amazon": "Panasonic RF-2400DEG-K - Radio Portátil FM/Am, (770mW, Iluminación LED, FM/Am, Fácil y Simple de Usar, Sintonizador Digital, Altavoz Amplio Rango 10 cm, Asa para Transportar) Color Negro",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-incendio",
+    "kit-mayores",
+    "kit-suiza"
+   ]
+  },
+  {
+   "asin": "B0G476FZLP",
+   "kit": "kit-terremoto",
+   "seccion": "Cabeza y pies: lo que se rompe primero",
+   "producto": "Casco de protección",
+   "titulo_amazon": "GREEN DEVIL Voltek Vent Air Casco de protección | Certificación EN 397:2025 Tipo 2 & EN 12492 Doble Certificación | Casco industrial ABS -30°C Baja temperatura | Protección integral contra impactos",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 1.0,
+   "kits_con_el_asin": [
+    "kit-terremoto"
+   ]
+  },
+  {
+   "asin": "B0DJYBFPKV",
+   "kit": "kit-terremoto",
+   "seccion": "Cortar gas, agua y luz",
+   "producto": "Llave de corte para gas y agua (llave de cuadradillo o universal)",
+   "titulo_amazon": "Llave de Medidor de Agua - Plegable para Medidor de Agua en T de Acero Herramienta de Cierre con Llave Utilidad Multifuncional de 4 Vías para Reparación Válvulas de Electricidad,Caja de Medidor,Gas",
+   "estado": "ok",
+   "motivo": "",
+   "cobertura": 0.75,
+   "kits_con_el_asin": [
+    "kit-terremoto"
+   ]
+  }
+ ]
+}

@@ -115,7 +115,10 @@ def main() -> int:
         print(f"❌ commit falló: {(commit.stdout + commit.stderr).strip()[:300]}")
         return 1
 
-    pull = run("git", "pull", "--rebase", "-q", "origin", "main")
+    # --autostash: si otra sesión dejó cambios sin commitear, el rebase los
+    # aparta y los devuelve en vez de abortar (2026-11-18: un árbol sucio dejó
+    # el commit de precios sin empujar y el cron en rojo).
+    pull = run("git", "pull", "--rebase", "--autostash", "-q", "origin", "main")
     if pull.returncode != 0:
         print(f"❌ pull --rebase falló: {(pull.stderr or '').strip()[:300]}")
         return 1

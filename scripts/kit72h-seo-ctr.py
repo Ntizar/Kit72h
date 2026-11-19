@@ -431,7 +431,7 @@ def main():
     # 3. Añadir HTML regenerados y push (todo junto: JSON fuente + HTML final)
     git("add", "-A")
     git(*IDENT, "commit", "--amend", "-q", "--no-edit")
-    git("pull", "--rebase", "-q", "origin", "main")
+    git("pull", "--rebase", "--autostash", "-q", "origin", "main")
     p = git("push", "-q", "origin", "main")
     if p.returncode == 0:
         print("  ✓ Push completado")

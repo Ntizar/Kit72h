@@ -97,7 +97,7 @@
 | mejor estufa catalítica para casa | media (estacional) | compra | blog pendiente | ✅ hecha (2026-11-13) | P1 |
 | cómo cocinar sin electricidad ni gas | media (estacional) | info | blog pendiente | pendiente | P1 |
 | mejor cocina portátil de gas para apagones | media | compra | /blog/mejor-cocina-portatil-gas-apagon/ | ✅ hecha (2026-11-12) | P1 |
-| mejor saco de dormir para dormir sin calefacción | media (estacional) | compra | blog pendiente | pendiente | P2 |
+| mejor saco de dormir para dormir sin calefacción | media (estacional) | compra | blog pendiente | ✅ hecha (2026-11-19) | P2 |
 | qué llevar en el coche si nieva | media (estacional) | info | blog pendiente | pendiente | P2 |
 | mejor manta térmica de emergencia | baja (estacional) | compra | blog pendiente | pendiente | P3 |
 

@@ -29,6 +29,12 @@ QUÉ VALIDA (ERROR = bloquea el commit/deploy; AVISO = informa)
  8. Enlaces internos /kit/<slug>/ de la home (index.html + ui.js) existen.
  9. blog.json: ninguna entrada sin `cuerpo` (evita el `<div>undefined</div>`).
 10. Guardia de privacidad: ningún término vetado en el sitio publicable.
+12. Auditoría de enlaces: el ASIN de cada item es el producto anunciado
+    (consume data/auditoria-enlaces.json de scripts/auditar-enlaces.py).
+13. Cielo despejado: ninguna promesa de cobertura satelital en el escenario
+    «sin visión de cielo» (el SOS del inReach exige cielo despejado).
+14. Overlays de idioma: cada `data/i18n/contenido/<lang>.json` conserva `kits`
+    y `blog`, y los items traducidos cuadran con kits.json.
 
 Uso:
   python scripts/verificar-sitio.py            # informe + exit 1 si hay ERROR
@@ -41,6 +47,7 @@ import argparse
 import json
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
@@ -292,6 +299,25 @@ def validar_ficha_generada(raiz: Path, slug: str, kit: dict) -> None:
     # La ficha debe conservar la estructura envolvente.
     for mini in ("site-header", "site-footer", 'id="app"'):
         falta(mini in h, f"falta '{mini}' (estructura rota)")
+
+    # Los ASIN que la web enseña son los de kits.json: si la ficha es de un
+    # horneado anterior, producción sirve el enlace viejo con el dato nuevo
+    # (así convivieron la terminal Starlink y su soporte). Es señal de que
+    # falta `prerender.py`, no de que el dato esté mal.
+    asins_json = {m.group(1) for it in items_k
+                  for m in [re.search(r"/dp/([A-Z0-9]{10})", it.get("afiliado") or "")] if m}
+    asins_html = set(re.findall(r'data-asin="([A-Z0-9]{10})"', h))
+    if asins_json and asins_html and asins_json != asins_html:
+        faltan = sorted(asins_json - asins_html)
+        sobran = sorted(asins_html - asins_json)
+        detalle = []
+        if faltan:
+            detalle.append(f"faltan en la ficha {', '.join(faltan[:4])}")
+        if sobran:
+            detalle.append(f"sobran (horneado viejo) {', '.join(sobran[:4])}")
+        err(f"kit/{slug}: los ASIN de la ficha no coinciden con kits.json — "
+            f"{' · '.join(detalle)} → vuelve a hornear (scripts/prerender.py)")
+
 
 
 # ──────────────── 5-6. Estructura común y versión CSS/JS ────────────────
@@ -556,6 +582,201 @@ def validar_mercados(raiz: Path) -> None:
             f"comisionan): {', '.join(pendientes)}")
 
 
+# ──────── 12. Auditoría de enlaces: el ASIN es el producto anunciado ────────
+
+def validar_auditoria_enlaces(raiz: Path, kits: list[dict]) -> None:
+    """Un enlace con `tag=` y HTTP 200 puede llevar al producto equivocado: pasó
+    el 2026-11-17 con el soporte XXSSTUDIO en la tarjeta de la terminal Starlink
+    y con un Messenger en la del inReach Mini 3. Ese fallo no se ve sin abrir
+    Amazon, así que el gate consume la auditoría hecha por
+    scripts/auditar-enlaces.py y bloquea si algún ASIN sigue en mismatch."""
+    ruta = raiz / "data" / "auditoria-enlaces.json"
+    if not ruta.exists():
+        avi("sin data/auditoria-enlaces.json: nadie ha comprobado que cada ASIN "
+            "sea el producto anunciado (python scripts/auditar-enlaces.py)")
+        return
+    try:
+        doc = json.loads(ruta.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        err("data/auditoria-enlaces.json ilegible")
+        return
+
+    auditados = {i["asin"]: i for i in doc.get("items", [])}
+    generado = doc.get("generado", "")
+    if generado:
+        try:
+            dias = (datetime.now(timezone.utc) - datetime.strptime(
+                generado, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)).days
+            if dias > 30:
+                avi(f"auditoría de enlaces de hace {dias} días: los ASIN cambian "
+                    f"(python scripts/auditar-enlaces.py)")
+        except ValueError:
+            pass
+
+    for kit in kits:
+        for sec in kit.get("secciones", []):
+            for it in sec.get("items", []):
+                m = re.search(r"/dp/([A-Z0-9]{10})", it.get("afiliado") or "")
+                if not m:
+                    continue
+                a = auditados.get(m.group(1))
+                if not a:
+                    avi(f"{kit['slug']}: {m.group(1)} sin auditar — vuelve a lanzar "
+                        f"scripts/auditar-enlaces.py")
+                    continue
+                if a.get("estado") in ("mismatch", "duplicado", "sin_datos"):
+                    err(f"{kit['slug']}: «{it.get('producto')}» enlaza {a['asin']}, que en "
+                        f"Amazon es «{(a.get('titulo_amazon') or 'SIN DATOS')[:70]}» — "
+                        f"{a.get('motivo')}")
+
+
+# ──────── 13. Cielo despejado: no prometas satélite donde no hay cielo ────────
+
+# El SOS del inReach exige vista despejada del cielo (manual de Garmin: «Ensure
+# you have a clear view of the sky»). Prometer cobertura satelital «sin visión
+# de cielo» es una promesa de seguridad falsa en una web de emergencias.
+PROMESA_SAT = re.compile(
+    r"(sin\s+cobertura|donde\s+no\s+hay\s+cobertura|sin\s+red|cualquier\s+lugar|"
+    r"cualquier\s+punto|unica\s+forma|única\s+forma)", re.I)
+SIN_CIELO = re.compile(r"(sin\s+(visi[oó]n|visibilidad)|no\s+hay\s+(visi[oó]n|visibilidad))"
+                       r"[^.]{0,40}cielo", re.I)
+SATELITE = re.compile(r"(messenger|inreach|sat[eé]lit|\bsos\b)", re.I)
+# En el blog solo se persigue el SOS: hablar de «internet satelital sin cobertura»
+# es correcto para Starlink y daría falso positivo en cada artículo.
+SATELITE_SOS = re.compile(r"(messenger|inreach|\bsos\b|mensajer[ií]a\s+satelital)", re.I)
+
+
+def _frases(t: str) -> list[str]:
+    return [f.strip() for f in re.split(r"(?<=[.;:!?])\s+|\n+", t or "") if f.strip()]
+
+
+def _potencias(texto: str) -> list[float]:
+    """Cifras en vatios de un texto, incluidas las de rango («0,5-2 W»)."""
+    vals: list[float] = []
+    for m in re.finditer(r"(\d+(?:[.,]\d+)?)(?:\s*-\s*(\d+(?:[.,]\d+)?))?\s*"
+                         r"(?:w\b|vatios|watios)", texto, re.I):
+        for g in (m.group(1), m.group(2)):
+            if g:
+                vals.append(float(g.replace(",", ".")))
+    return vals
+
+
+def _reglas_seguridad(frase: str, contexto: str | None = None) -> list[str]:
+    """Claims de seguridad con cifra: se comprueban contra la fuente oficial.
+
+    Cada regla nació de un error real publicado. `contexto` es la frase con la
+    anterior, porque el tema (PMR446, generador) puede venir de antes.
+    """
+    ctx = contexto or frase
+    fallos: list[str] = []
+
+    # PMR446 sin licencia = 0,5 W (500 mW). «Hasta 2 W» es una emisora que
+    # exige licencia de radioaficionado.
+    # La frase que habla de radioafición CON licencia (HF/VHF/UHF, 10-100 W) no
+    # es un claim PMR446: el contexto la menciona, pero el sujeto es otro
+    # servicio. Ya se equivocó una vez acusando un artículo correcto.
+    if (re.search(r"\bpmr\s?446\b|446\s?mhz|walkie", ctx, re.I)
+            and not re.search(r"radioafici|radio\s?amateur", frase, re.I)):
+        for v in _potencias(frase):
+            if v > 0.5:
+                fallos.append(f"PMR446 con {v:g} W: el máximo legal sin licencia "
+                              f"es 0,5 W, no 2 W")
+                break
+
+    # Generador: nunca dentro y a más de 6 m (CDC, 20 pies) de huecos.
+    if re.search(r"generador|grupo\s+electr[oó]geno", ctx, re.I):
+        for m in re.finditer(r"(\d+(?:[.,]\d+)?)\s*\+?\s*(?:m\b|metros)", frase, re.I):
+            if float(m.group(1).replace(",", ".")) < 6:
+                fallos.append(f"generador a «{m.group(0).strip()}»: el CDC pide más "
+                              f"de 6 m (20 pies) de ventanas, puertas y respiraderos")
+                break
+
+    # Bebé: habitación 16-20 °C y gorro fuera al entrar en casa (NHS).
+    if (re.search(r"beb[eé]|ni[nñ]o", frase, re.I)
+            and re.search(r"gorro|gorra", frase, re.I)
+            and re.search(r"duerme|dormir|dormir[aá]", frase, re.I)
+            and not re.search(r"no\s+para\s+dormir|sin\s+gorro|gorro\s+fuera|"
+                              r"quita[r]?\s+el\s+gorro", frase, re.I)):
+        fallos.append("bebé durmiendo con gorro dentro de casa: el NHS pide 16-20 °C "
+                      "y quitar el gorro al entrar")
+
+    return fallos
+
+
+def validar_claims_satelite(raiz: Path) -> None:
+    def textos(nodo, ruta: str):
+        if isinstance(nodo, dict):
+            for k, v in nodo.items():
+                yield from textos(v, f"{ruta}.{k}")
+        elif isinstance(nodo, list):
+            for i, v in enumerate(nodo):
+                yield from textos(v, f"{ruta}[{i}]")
+        elif isinstance(nodo, str):
+            yield nodo, ruta
+
+    fuentes = [
+        ("data/kits.json", SATELITE),        # catálogo: cualquier promesa satelital
+        ("data/blog.json", SATELITE_SOS),    # blog: solo el SOS del messenger
+    ]
+    for fichero, patron in fuentes:
+        ruta = raiz / fichero
+        if not ruta.exists():
+            continue
+        for texto, donde in textos(json.loads(ruta.read_text(encoding="utf-8")), fichero):
+            frases = _frases(texto)
+            for i, frase in enumerate(frases):
+                for fallo in _reglas_seguridad(frase, " ".join(frases[max(0, i - 1):i + 2])):
+                    err(f"{donde}: {fallo} — «{frase[:110]}»")
+                if not patron.search(frase):
+                    continue
+                # el matiz de cielo puede ir en la frase siguiente del mismo campo
+                ventana = " ".join(frases[i:i + 2])
+                if SIN_CIELO.search(frase) and not re.search(r"pero|aun\s+as[ií]|aunque", frase, re.I):
+                    err(f"{donde}: promete satélite «sin visión de cielo» — el SOS del "
+                        f"inReach exige cielo despejado: «{frase[:110]}»")
+                elif PROMESA_SAT.search(frase) and not re.search(r"cielo|despejad", ventana, re.I):
+                    err(f"{donde}: cobertura satelital sin la condición de cielo despejado: "
+                        f"«{frase[:110]}»")
+                for fallo in _reglas_seguridad(frase, " ".join(frases[max(0, i - 1):i + 2])):
+                    err(f"{donde}: {fallo} — «{frase[:110]}»")
+
+
+# ──────── 14. Overlays de idioma completos (no se pierden al traducir) ────────
+
+def validar_overlays_idioma(raiz: Path, kits: list[dict]) -> None:
+    """`traducir.py kits` reescribía el overlay entero y borraba `blog`: el
+    mercado dejaba de hornear 73 posts y el gasto de traducción se perdía en
+    silencio. Aquí se vigila que cada idioma conserve sus dos bloques y que el
+    número de items por kit cuadre con kits.json (si no, la ficha se descuadra)."""
+    carpeta = raiz / "data" / "i18n" / "contenido"
+    if not carpeta.is_dir():
+        return
+    slugs = {k["slug"]: k for k in kits}
+    for f in sorted(carpeta.glob("*.json")):
+        lang = f.stem
+        try:
+            ov = json.loads(leer(f))
+        except json.JSONDecodeError:
+            err(f"overlay {lang}.json no parsea")
+            continue
+        if "kits" not in ov:
+            err(f"overlay {lang}.json sin bloque 'kits' (traducción perdida)")
+        else:
+            for slug, k in slugs.items():
+                t = ov["kits"].get(slug)
+                if not t:
+                    avi(f"overlay {lang}: falta el kit {slug}")
+                    continue
+                n_es = sum(len(s.get("items") or []) for s in k.get("secciones") or [])
+                n_tr = sum(len(s.get("items") or []) for s in t.get("secciones") or [])
+                if n_es != n_tr:
+                    err(f"overlay {lang}: {slug} tiene {n_tr} items traducidos y "
+                        f"kits.json {n_es} → ficha descuadrada, vuelve a traducir")
+        if "blog" not in ov:
+            err(f"overlay {lang}.json sin bloque 'blog' — se han perdido los posts "
+                f"traducidos (¿traducir.py kits suelto?)")
+
+
 # ─────────────────────────────── main ───────────────────────────────
 
 def main() -> int:
@@ -582,6 +803,10 @@ def main() -> int:
         validar_privacidad(RAIZ)
         validar_mercados(RAIZ)
         validar_tags_por_seccion(RAIZ)
+
+    validar_auditoria_enlaces(RAIZ, kits)
+    validar_claims_satelite(RAIZ)
+    validar_overlays_idioma(RAIZ, kits)
 
     for k in kits:
         validar_ficha_generada(RAIZ, k["slug"], k)

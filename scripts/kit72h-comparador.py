@@ -383,7 +383,7 @@ def main():
     # Commit + push
     git("add", "blog", "data/comparativas.json")
     git(*IDENT, "commit", "-q", "-m", "feat(blog): agregar comparativas de productos de emergencia")
-    git("pull", "--rebase", "-q", "origin", "main")
+    git("pull", "--rebase", "--autostash", "-q", "origin", "main")
     p = git("push", "-q", "origin", "main")
     if p.returncode == 0:
         print("  ✓ Push completado")
