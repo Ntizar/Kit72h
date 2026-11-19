@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T04:11:01+01:00",
+  "actualizado": "2026-11-19T07:11:11+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
+     "fuente": "Computer Hoy",
+     "resumen": "",
+     "fecha": "2026-11-19T05:15:00+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "Por qué Europa pide a sus ciudadanos armar kit de emergencia para sobrevivir 72 horas sin luz ni agua",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTUo3eElzWVBVcDJkbEh1OWtwajloaDNmSHpmRkk4aEtnaUt6ODBNWnAyYzVObU9Jc0ZObEwxZlF6azlod08xaWRKWW5XWW03bWxhSkpuVWF4dEFTQWQ3LWprdWNkZlQ2cC0temZGc0JIQkUwX3NMZlRudF9jUC1DeTJsUlh1VWwwbEhxMmhwU3VKSDNQNWpyMGtRRjR1ODdzRTZ3Z09Ya3NfZUZtc0gxYU9DdXQ1eEVmRGpBcWNvU283SHE1V0pjUVdHVlVfRGhPUHZfY1d1NDhJSmRFb0pfNlN5cGotS0NCUTZOeUdWNXB2QzZMV1RhaVFxODlGbFM1OGZYV1dTYw?oc=5",
@@ -65,14 +73,6 @@
      "fuente": "Ecos Diarios Necochea",
      "resumen": "",
      "fecha": "2026-11-17T12:59:09+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3EyaXNOeWI0NmluOVNoV0xzY0FsYlZILU9tSTRrYTRDMW5mcUFfSHNtUThUUVlRTjBGalNZQXphWXpkVmduRDNhbFlZREdrUHpDdm9XbXhMc3I5Q2ZqR2xRUUxLazVQSUJwUFEyRjAxaXBmZ2lUNnVMNjZDb1h4VllYWW9jTTJCMDAyOGdfU1I1SmM2T0NBOEJ6OEJTS0lvaTNXX01rRTN1d0hGeUx4TVozUUVBcDdlRkdNZm9EcUFPWHVnWkhaNQ?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-11-17T11:28:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
@@ -170,14 +170,6 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Una escultura nacida de una inundación gana el Premio Internacional Obra Abierta 2026 en Extremadura: \"El suelo dejó de ser un suelo y pasó a ser arte\"",
-     "url": "https://www.elperiodicoextremadura.com/extremadura/2026/11/18/escultura-nacida-inundacion-gana-premio-136593384.html",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "Una inundación en su vivienda obligó a Clara Sánchez Sala a reparar el parqué con sus propias manos. Seis años después, aquella experiencia doméstica se convierte en una escultura premiada con 10.000 ...",
-     "fecha": "2026-11-18T12:53:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
      "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
@@ -216,6 +208,14 @@
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
      "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-16T05:15:00+01:00",
+     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "La sigilosa destitución en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWtEbHMwOG1wSEZRMjZLV3lqOXRENlFQNkhjd2paZ0puLTh5Z3dqZktJTDhzRTFsb0N0TUwxZXNkZE9URkxiSG5BTzNVSDFaZEVjbE82c2ZWeHU4X05YbnpMcGhLb0YwZVRVMHpXdWtUdUVhUFhZZ2ZRd3FTZVNHQlB5U3kyZm9tUDUxZi1NSQ?oc=5",
+     "fuente": "The Objective",
+     "resumen": "",
+     "fecha": "2026-11-19T05:25:00+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
@@ -254,14 +262,6 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Borja, ingeniero: “Con una batería de menos de 500 € me puedo desconectar de la red eléctrica”",
-     "url": "https://www.clarin.com/internacional/borja-ingeniero-bateria-500-puedo-desconectar-red-electrica_0_4ttsCbdN9U.html",
-     "fuente": "Clarín",
-     "resumen": "Un especialista en energía mostró cómo funciona un dispositivo portátil capaz de suministrar electricidad a electrodomésticos esenciales durante un apagón.El equipo también admite recarga mediante pan ...",
-     "fecha": "2026-11-17T17:00:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
