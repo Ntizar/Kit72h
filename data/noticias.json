@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T19:11:01+01:00",
+  "actualizado": "2026-11-19T22:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,6 +17,14 @@
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-19T11:00:06+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
+     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
+     "fuente": "Portugal Resident",
+     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
+     "fecha": "2026-11-19T09:34:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T14:15:19+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Apagón mundial? La teoría que anuncia 72 horas sin luz ni internet y genera alarma en las redes",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUhEcEZlU3pSZ1pfODduNG5HeGczeEhYLXozaTQ2Z3F2VG1ZQi1SRVJNUDRveXRybWdSaFMxWFlZaTVTSVZCbURhbE1YNTZnUThkd2RQdE1MeVo3RXpMVnJOS1U1eW01XzVEaDIxVmRrSmpvMVFVS2g3M25qUXRIaHFiUTlTbW4yeHdYcEEzZS0zeUNHYmJzTERGeTRNeFVmQlB0NDVaZnJCcnZHeDFuODA4WjBnV0tadGJOeGpiaUJvUmo0S3lZQUdKTEctT01NcDZsSm90d3ZWZnc2N2s2Tk5QU1AzcmFWZ0dj?oc=5",
-     "fuente": "Los Primeros TV",
-     "resumen": "",
-     "fecha": "2026-11-17T13:53:15+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -107,14 +107,6 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
-     "fuente": "Madrid Actual",
-     "resumen": "",
-     "fecha": "2026-11-19T11:03:01+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
@@ -128,6 +120,14 @@
      "fuente": "larazon",
      "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
      "fecha": "2026-11-19T04:42:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
+     "fuente": "MADRID ACTUAL",
+     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
+     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
