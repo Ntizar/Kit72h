@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T16:11:01+01:00",
+  "actualizado": "2026-11-19T19:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "provisiones/google/provisiones emergencia gobierno: HTTPError"
+  "aviso": ""
  },
  "temas": [
   {
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Estabilizado el incendio forestal de Cala Morell (Menorca)",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHpLY0ZoUjFvS2NXM0ZIN0dabENFS2hXVFJQa3k2aS05RnJEUFJURXZSQVRvN1VFdHdpMkZaY2wybjhiekh6Um5OZzBNa2VHdzkxSnBCUHp1MXNTRkp0bnZmNWZrZlFWNDF6Z1g1NTZnSjJrdEl2bFZnSUZzQXo0Z0pxR1RKbTBpaWpoRFlJeFdPdjlVeC1BQlRmR0l2RTN2bmh6RHQtQjM2UQ?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-19T16:27:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "España acumula 301.889 ha quemadas hasta el 18 de noviembre y no registra ningún incendio la última semana",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcXREM0VaTHZwUkF5bk9fWGVkSUF6V25ueHZLdlJZSmZWZTRia0QxR01McThWak1fRVgtZ0V4ODBEQUJUdDlqWk5PaWtTNUxzU3hUaExubGxqVFYzMVpPcHAzc25nLWYtVS1ueGxsRlZETFNENnhneGRPSjN0Rm5QRS03Q042YWdiVTJ2ZEFtcjhQZXI1OHlMSTNDMURheFJzX29WeVlOYUpXbzFpVVloV2FwZnFkelc0b2o0YkNmUlB2ZlhQQmxsWDdjTTJtdEo5TDB4Qlk1VVR0SS11akczRFRyRlhNMXM3M1Mw0gHwAUFVX3lxTFBIdzBRLWZwTE5TdmVpRndwd0pWZE9XRUdjaENrTGxKUlNFbTF4WHByZzRnc1Z2clgweTRZaDNsYklxQ1ZkOHlaMVNkeHZ3SFZ0MEVSS3RJWEtSVkwtVlZ5R24wN1V5aV9FUDZZWmZhLXQtc3ozQmNWSGQ4c1dhRk95bnFQY2xaaHBUb0NIeTdSdVdrS29nQ0dXOXdpTU1fVW5XQWNDOUpPaFlaWHZnRU1ZZFByZ214YXR2eUNOUGQxRGtZZlYzUjMzZlQ3ZDFZbnBkQ2FJQkh5Wmxlc1RSYUFZaGxyQlFtMlB4MElVcVZIZA?oc=5",
      "fuente": "Lanza Digital",
@@ -115,36 +123,28 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "Europa registra en 2025 la mayor superficie quemada por incendios forestales de su historia",
-     "url": "https://agrodigital.info/2026/11/19/incendios-forestales-espana-superficie-quemada-2025/",
-     "fuente": "agrodigital.info",
-     "resumen": "España registró 354.747 hectáreas forestales quemadas en 2025, un 236% más que la media de la última década, según el informe del JRC.",
-     "fecha": "2026-11-18T17:01:00+01:00",
-     "fecha_txt": "18 nov"
+     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
+     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
+     "fuente": "larazon",
+     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
+     "fecha": "2026-11-19T04:42:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
-     "titulo": "España se convierte en uno de los países más afectados del mundo por incendios forestales y fenómenos climáticos extremos",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNXLWd6M3RKSnY2cFpBeE1lUkp6aW5uS01YRGI1aUw5cGtQOF9MMWZ0MVkyY0tXeUdXcER0X1poZGZQcWFiOGMtUTR1ZlBmRVdhYkNfZkYwbnotM1hQM1VmNldzYWRxWWhlNE9tQ09oSU9xSWFwbFB5c1Q5T3JZVnJaWTBOdEItOEwybktxOWlFRHNFSHoya0h1ZkpRbDZrUkkzREtmcUd3RXpoNGt5RGZKSm55VDduQUd0a2h6cjdLM1FjUnV4NkhEUlpWT01TLTdlZ1A0VWZwQWZWRDFPZVZwTU82eTc4ME5fUUpNb1F0cGM5dm12dnVB?oc=5",
-     "fuente": "Servicios Emergencia",
-     "resumen": "",
-     "fecha": "2026-11-18T14:28:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
-     "url": "https://okdiario.com/naturaleza/febrero-2020-ganadero-asturiano-provoco-incendio-forestal-25-hectareas-quemar-pastos-ahora-enfrenta-multa-4080-3-anos-3-meses-carcel-20974021",
-     "fuente": "Okdiario",
-     "resumen": "En Asturias, la Justicia confirma tres años y tres meses de cárcel a un ganadero por un incendio forestal. Pagará 4080 euros.",
-     "fecha": "2026-11-17T10:00:00+01:00",
-     "fecha_txt": "17 nov"
+     "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
+     "url": "https://www.msn.com/es-es/noticias/otras/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
+     "fuente": "Diario de León on MSN",
+     "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
+     "fecha": "2026-11-19T03:36:59+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
      "url": "https://www.europapress.es/temas/incendios-forestales/35/",
      "fuente": "Europa Press",
      "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
-     "fecha": "2026-11-16T17:00:00+01:00",
-     "fecha_txt": "16 nov"
+     "fecha": "2026-11-18T17:01:00+01:00",
+     "fecha_txt": "18 nov"
     }
    ]
   },
@@ -159,6 +159,14 @@
      "fuente": "La Bandera",
      "resumen": "",
      "fecha": "2026-11-19T15:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "La Xunta y Sada (A Coruña) invertirán 7 millones para reducir el riesgo de inundaciones en el rego Maior",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-xunta-y-sada-a-coru%C3%B1a-invertir%C3%A1n-7-millones-para-reducir-el-riesgo-de-inundaciones-en-el-rego-maior/ar-AA2hN3HR",
+     "fuente": "El Español on MSN",
+     "resumen": "La actuación permitirá abrir tramos actualmente canalizados, mejorar el drenaje en la desembocadura y crear nuevos espacios verdes y de movilidad en el entorno Puede interesarte: Sada (A Coruña) renat ...",
+     "fecha": "2026-11-19T08:21:35+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -208,14 +216,6 @@
      "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
      "fecha": "2026-11-17T05:59:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0dlcTBjeFg3WWRuWTE2NEVDUjNEWTg3bkQzT0lFSUlBeEJzT1FiZjllZkRJZ19BMFJXNmM0YnZCN1NOQzY1N2tnUXUzU1QtREFONWZPUjhBUXBzY2w0d2x6cVZpenRXa3Riemhfc2hjWnhSX2I0NWtYSGJNazNQQklYVjJoRUk5NVBkc1VnSWc1Rzh5T01kM1pyd2pjOFJOUXVxa19INjFDRTJuZXZLczhOXzc1ZkNRVXJkbEl3QkxCOXNER0RDWjR3bEFCQlVC?oc=5",
-     "fuente": "RFI",
-     "resumen": "",
-     "fecha": "2026-11-16T13:57:46+01:00",
-     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
@@ -249,6 +257,14 @@
      "fecha_txt": "17 nov"
     },
     {
+     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:19:37+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "España: ¿estamos más cerca de otro apagón?",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRJNUZwaFR0QWFERTZ5RFVHc0V5MWJlOTR3c1FqY2tSN1dvb0lXdXNicmhrUk1TOGpNek1hVmhLcXFBckVwd3F6REVrQkdFVFR6Z2hncnBBZ1ZNVGtUVVlNOWQzWEg1VTdOMXFPdncydFpwM3pmTGZaY0pnMW1uOXJRY0ZtcFh3Ulk4a2NhNEJLVHNxeTVr0gGcAUFVX3lxTE1yVmRiV0l1ME1qeFF2MEt0azVzejRLRWNYOGlXRzQ0UXFNeHloUDZmZ3NrZ1NWS2VQb1h4VUFpdlp6ekJwWlZTYklrNEZ6Nkp0OGMzYkVONzdRT0k4czNKNVRDOTNvdFpoVmxvVFlIaExPQjZxQTlHMFY5SUdJTFBDNGlUWXhIS09mNFFsc0laN2x1V2hrdUtodHRVcQ?oc=5",
      "fuente": "MUNDIARIO",
@@ -270,22 +286,6 @@
      "fuente": "elciudadano.com",
      "resumen": "",
      "fecha": "2026-11-17T12:20:37+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Un apagón mundial de 72 horas este 17 de noviembre? La alerta que circula en Murcia, la predicción de 'Los Simpson' y lo que ocurrirá a las 20.20 horas",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZuYl8wcGZjOGlwcldLTk1VZDhlU1FwVUR4NEFCSWRMeDM1N1ZGN1ZET2dsMEdTSjhwdVBWVVFSeWhCRU1KN1B5RDExUzhLRlZEcVduU1dYOWtUQ2dXcXBWWUV0dnZJX3VCVkpjRGdzd01kNldyY2xMVnpObUNrQzJFQlRhM0toLVlvV3d0SWNkUlBKbWtlMmZOa1J2eGtoWXo2U3ZCYWdpSmFYOWR5M2lPR3dkd9IBuwFBVV95cUxOdVdrUjdFOWVtcTd1U3VRM19RNlo5cFkxaWFqbWJOd0YwVUN3cFhjUmZwcGZRYjY2ZVBodHB5WnRHeEhiRnZIRWRzMmpfN0lBWWh0MWdRaTNIY0Z2dzc5SWhIZkN2WDlxbkdNbkk1STRiQWNEOFpEalJTbnNvWXp4Wk1RM2RIeEFDeklSMXpFZk5hT1NJMk45YmdZdWZpeUJzckFGOHRvRFhHTU5zY3ZTVDhDZnVkMmRDS2c0?oc=5",
-     "fuente": "La Opinión de Murcia",
-     "resumen": "",
-     "fecha": "2026-11-17T11:35:23+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Apagón mundial de hoy a las 20:20: cómo comprobar en directo que la luz sigue en España",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaWlVTjFHVTJYSXU1YXdEXy1jOTMyU01MNldhRHVOZXBGMnpYWTUzQ3pVOUttcU9fNFZKbkRSMlZxR0w1Ml9HYUstUFh2X0dqWXJ6MXo2VzAydHhVY041b1EwVWlyOVpZckZUaG9mOW5JTTdqQjRCeURzQ0NEQ3BDaQ?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-17T10:46:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
