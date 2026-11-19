@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T10:11:01+01:00",
+  "actualizado": "2026-11-19T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,11 +28,19 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-18T10:51:15+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
+     "url": "https://www.msn.com/es-mx/noticias/otras/c%C3%B3mo-prepararse-para-una-emergencia-de-72-horas-seg%C3%BAn-las-nuevas-recomendaciones-de-la-ue/ar-AA2hGh35",
+     "fuente": "Euronews on MSN",
+     "resumen": "La Comisión Europea recomienda que los hogares estén preparados para cubrir sus necesidades básicas durante al menos 72 horas en caso de que una crisis interrumpa los servicios esenciales. Descubre la ...",
+     "fecha": "2026-11-18T02:51:15+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-17T12:59:09+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3EyaXNOeWI0NmluOVNoV0xzY0FsYlZILU9tSTRrYTRDMW5mcUFfSHNtUThUUVlRTjBGalNZQXphWXpkVmduRDNhbFlZREdrUHpDdm9XbXhMc3I5Q2ZqR2xRUUxLazVQSUJwUFEyRjAxaXBmZ2lUNnVMNjZDb1h4VllYWW9jTTJCMDAyOGdfU1I1SmM2T0NBOEJ6OEJTS0lvaTNXX01rRTN1d0hGeUx4TVozUUVBcDdlRkdNZm9EcUFPWHVnWkhaNQ?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-11-17T11:28:00+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -82,6 +82,22 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "España acumula 301.889 ha quemadas hasta el 18 de noviembre y no registra ningún incendio la última semana",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcXREM0VaTHZwUkF5bk9fWGVkSUF6V25ueHZLdlJZSmZWZTRia0QxR01McThWak1fRVgtZ0V4ODBEQUJUdDlqWk5PaWtTNUxzU3hUaExubGxqVFYzMVpPcHAzc25nLWYtVS1ueGxsRlZETFNENnhneGRPSjN0Rm5QRS03Q042YWdiVTJ2ZEFtcjhQZXI1OHlMSTNDMURheFJzX29WeVlOYUpXbzFpVVloV2FwZnFkelc0b2o0YkNmUlB2ZlhQQmxsWDdjTTJtdEo5TDB4Qlk1VVR0SS11akczRFRyRlhNMXM3M1Mw0gHwAUFVX3lxTFBIdzBRLWZwTE5TdmVpRndwd0pWZE9XRUdjaENrTGxKUlNFbTF4WHByZzRnc1Z2clgweTRZaDNsYklxQ1ZkOHlaMVNkeHZ3SFZ0MEVSS3RJWEtSVkwtVlZ5R24wN1V5aV9FUDZZWmZhLXQtc3ozQmNWSGQ4c1dhRk95bnFQY2xaaHBUb0NIeTdSdVdrS29nQ0dXOXdpTU1fVW5XQWNDOUpPaFlaWHZnRU1ZZFByZ214YXR2eUNOUGQxRGtZZlYzUjMzZlQ3ZDFZbnBkQ2FJQkh5Wmxlc1RSYUFZaGxyQlFtMlB4MElVcVZIZA?oc=5",
+     "fuente": "Lanza Digital",
+     "resumen": "",
+     "fecha": "2026-11-19T12:06:05+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb01BZ1J4V0c2OFhCRG8wb1JSY180ajBZRWEzT0E5LVhwMWFKdTlremJDOG81aTdmd1NON3V0Qnd3Q2Nucm03OGlVTEk1OGtWeXNocmZXdjU3aGlwVnVzZXRUVlF0UU1udG5NT1FINXdldXlVanoyc2Z1LWloWnZyUUI5WHBoY0xEdEl2ajRwd01HeXljZDlPNkVha1ZKOEphU1kzdXhpa24xSk11V1YydUtuRC00VXg5T2U1UWRPdl9PQWl4bTcxc25yb1h2Tmo4QV93Ykttc1BpdGtHY0hNT1FGdnVoQXZlT2ZxazhvdmhTb0luNkVnVWp1RdIBgAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E?oc=5",
+     "fuente": "Andalucía Información",
+     "resumen": "",
+     "fecha": "2026-11-19T11:04:29+01:00",
+     "fecha_txt": "19 nov"
+    },
     {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
@@ -96,6 +112,14 @@
      "fuente": "Agrodigital",
      "resumen": "",
      "fecha": "2026-11-19T04:03:21+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
+     "fuente": "MADRID ACTUAL",
+     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
+     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -121,30 +145,6 @@
      "resumen": "La temporada de incendios forestales dejó en el año 2025 más de un millón de hectáreas quemadas en territorio europeo, más del doble de la media anual de los últimos 18 años y una cifra récord que se ...",
      "fecha": "2026-11-17T10:08:28+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "En febrero de 2020 un ganadero asturiano provocó un incendio forestal de 2,5 hectáreas al quemar pastos: ahora se enfrenta a una multa de 4080 € y 3 años y 3 meses de cárcel",
-     "url": "https://okdiario.com/naturaleza/febrero-2020-ganadero-asturiano-provoco-incendio-forestal-25-hectareas-quemar-pastos-ahora-enfrenta-multa-4080-3-anos-3-meses-carcel-20974021",
-     "fuente": "Okdiario",
-     "resumen": "En Asturias, la Justicia confirma tres años y tres meses de cárcel a un ganadero por un incendio forestal. Pagará 4080 euros.",
-     "fecha": "2026-11-17T10:00:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
-     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
-     "fuente": "Europa Press",
-     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
-     "fecha": "2026-11-16T17:00:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Los meteorólogos avisan: en 2100 las condiciones que favorecen los incendios aumentarán un 30% en España",
-     "url": "https://www.msn.com/es-es/noticias/otras/los-meteor%C3%B3logos-avisan-en-2100-las-condiciones-que-favorecen-los-incendios-aumentar%C3%A1n-un-30-en-espa%C3%B1a/ar-AA2hyZYK",
-     "fuente": "El Español on MSN",
-     "resumen": "La AEMET puso en marcha en mayo de 2026 un nuevo Índice de Peligro de Incendios Forestales que incorpora información sobre la vegetación y la humedad del suelo. Más información: Pepita, 107 años: \"Me ...",
-     "fecha": "2026-11-16T10:59:37+01:00",
-     "fecha_txt": "16 nov"
     }
    ]
   },
@@ -241,11 +241,11 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "¿Se ha ido la luz finalmente en España? La verdad sobre el apagón mundial anunciado para hoy 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2o2WThYT2hvYUs4N1lFeUJoam1Kcmw5MExVTDVoX3lvSlpBaWhwTWF4MmNHemFyT2FIbnZOclFXRjJrYUJKaG8ySWpGRTNtSFptM0txSENZU216YkR4SVZ1bDdMb1FNTTBZZDFOV1JfZmNHekxaUXJNYVV5ZHRJTmVJX2tueFVtZTE0TVNUNWdNNU1iSjlvR3AxQXlJOU1vVEtuUE9GZzM1YWIwNWVFWVdQSVE5R2RpQ09EMV9MelhoT29aQTZBM2ZfVzVHTUxVMXVUUlpTSnRuTjQ2SWc?oc=5",
+     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHU4SHZic3hFWGdiSWJ4ZU12cmZLRTY0RHJwYlJKTWctaFBFNUU1dnI5TVFLQjJld2lxSzhuQmhfNi1lSm1sN3ZzeEdJN194U1pnMkZ6bVZmaUV1b1IxWUNCOWpqcDhISUlCWVotZUt3RVM5S0JjSkRXN0NTcE5kZ3FGdWlXa0ZFYkxYaVdtbHNIRzF3amhTS0VqUWo4clBRLUNjSG5jR19HelBYLTVIZHQtUUFvMFFkRXVoam9WbXNuZFZkaXhFMG5nUEUtNkpEZkpkdmJGdEJ6MEZHVjd5N1RB?oc=5",
      "fuente": "El Pespunte",
      "resumen": "",
-     "fecha": "2026-11-17T20:42:39+01:00",
+     "fecha": "2026-11-17T20:42:06+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -273,19 +273,19 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
-     "fuente": "El Pespunte",
-     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
-     "fecha": "2026-11-17T13:42:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "¿Apagón de 72 horas en España? Desmontamos el bulo que anuncia un colapso eléctrico mundial para el 17 de noviembre",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQlo1aGFTR0xqcGJNRkp2NjBLLVZoVWhYclBJdXZoU3ZWV3Fwd01uVV9JUkM4Qi1kTDFJV0tQOGw0ZHlvRU1UVjZrSFdzSkg4QjdCR09vY3Fuc1VFN25MZDI2ZXRMRk9ERy1JdEY0VDBUT1pLYS1Vb20wbFVqYzl3UERvTDZmV1lEc21WYWdKU3pNc09JZTVSNk5BYmV3aERrR21BUUczczViR3FKTlJ3SFV3eHBMVGhZeXlYZTFWanhSX0Q0S0lrcEd2WG9VMkhZMVpscHA2bjlSVGNpR2U4SnJBNE1yTUktR3c?oc=5",
      "fuente": "elciudadano.com",
      "resumen": "",
      "fecha": "2026-11-17T12:20:37+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Un apagón mundial de 72 horas este 17 de noviembre? La alerta que circula en Murcia, la predicción de 'Los Simpson' y lo que ocurrirá a las 20.20 horas",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzZuYl8wcGZjOGlwcldLTk1VZDhlU1FwVUR4NEFCSWRMeDM1N1ZGN1ZET2dsMEdTSjhwdVBWVVFSeWhCRU1KN1B5RDExUzhLRlZEcVduU1dYOWtUQ2dXcXBWWUV0dnZJX3VCVkpjRGdzd01kNldyY2xMVnpObUNrQzJFQlRhM0toLVlvV3d0SWNkUlBKbWtlMmZOa1J2eGtoWXo2U3ZCYWdpSmFYOWR5M2lPR3dkd9IBuwFBVV95cUxOdVdrUjdFOWVtcTd1U3VRM19RNlo5cFkxaWFqbWJOd0YwVUN3cFhjUmZwcGZRYjY2ZVBodHB5WnRHeEhiRnZIRWRzMmpfN0lBWWh0MWdRaTNIY0Z2dzc5SWhIZkN2WDlxbkdNbkk1STRiQWNEOFpEalJTbnNvWXp4Wk1RM2RIeEFDeklSMXpFZk5hT1NJMk45YmdZdWZpeUJzckFGOHRvRFhHTU5zY3ZTVDhDZnVkMmRDS2c0?oc=5",
+     "fuente": "La Opinión de Murcia",
+     "resumen": "",
+     "fecha": "2026-11-17T11:35:23+01:00",
      "fecha_txt": "17 nov"
     }
    ]

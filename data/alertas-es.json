@@ -2,21 +2,21 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261119065005",
-  "actualizado": "2026-11-19T10:11:11+01:00",
+  "elaborado": "20261119102552",
+  "actualizado": "2026-11-19T13:11:11+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261119065005_penbal_20261119CET_1795078800.geojson"
+   "r_D+0_20261119102552_penbal_20261119CET_1795089600.geojson"
   ]
  },
  "resumen": {
   "rojo": 0,
   "naranja": 7,
-  "amarillo": 9,
-  "sin_aviso": 46,
-  "zonas_en_aviso": 28,
-  "provincias": 62
+  "amarillo": 5,
+  "sin_aviso": 48,
+  "zonas_en_aviso": 18,
+  "provincias": 60
  },
  "provincias": [
   {
@@ -58,42 +58,6 @@
        "desde": "2026-11-19T00:00:00+01:00",
        "hasta": "2026-11-19T16:59:59+01:00",
        "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "nombre": "Girona",
-   "ccaa": "Cataluña",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Litoral sur de Girona - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Ampurdán - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Noroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
-       "desde": "2026-11-19T05:00:00+01:00",
-       "hasta": "2026-11-19T11:59:59+01:00",
-       "probabilidad": "mayor 70%"
       }
      ]
     }
@@ -144,64 +108,6 @@
    ]
   },
   {
-   "nombre": "Mallorca",
-   "ccaa": "",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Norte y nordeste de Mallorca - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Sierra Tramontana - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "nombre": "Menorca",
-   "ccaa": "",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Menorca - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "nombre": "Tarragona",
    "ccaa": "Cataluña",
    "nivel": 3,
@@ -238,42 +144,6 @@
    ]
   },
   {
-   "nombre": "València/Valencia",
-   "ccaa": "Comunitat Valenciana",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Litoral norte de Valencia - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) con rachas fuertes.",
-       "desde": "2026-11-19T08:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Litoral sur de Valencia - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) con rachas fuertes.",
-       "desde": "2026-11-19T08:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "nombre": "A Coruña",
    "ccaa": "Galicia",
    "nivel": 2,
@@ -286,23 +156,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Suroeste de A Coruña - Costa",
-     "nivel": 2,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -314,9 +170,23 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    },
+    {
+     "nombre": "Suroeste de A Coruña - Costa",
+     "nivel": 2,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -330,29 +200,29 @@
    "nivel_txt": "Naranja",
    "zonas": [
     {
-     "nombre": "Litoral oriental asturiano - Costa",
-     "nivel": 2,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) por la noche.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
      "nombre": "Litoral occidental asturiano - Costa",
      "nivel": 2,
      "avisos": [
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) por la noche.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
+       "probabilidad": "40%-70%"
+      }
+     ]
+    },
+    {
+     "nombre": "Litoral oriental asturiano - Costa",
+     "nivel": 2,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -372,9 +242,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -394,9 +264,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -416,9 +286,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -438,9 +308,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -460,9 +330,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T08:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -474,9 +344,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T08:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -563,6 +433,13 @@
   {
    "nombre": "Córdoba",
    "ccaa": "Andalucía",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Girona",
+   "ccaa": "Cataluña",
    "nivel": 0,
    "nivel_txt": "Sin aviso",
    "zonas": []
@@ -785,6 +662,13 @@
    "zonas": []
   },
   {
+   "nombre": "València/Valencia",
+   "ccaa": "Comunitat Valenciana",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
    "nombre": "Zamora",
    "ccaa": "Castilla y León",
    "nivel": 0,
@@ -812,334 +696,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral sur de Girona - Costa",
-     "provincia": "Girona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del Suroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        3.0821,
-        41.8248
-       ],
-       [
-        3.3682,
-        41.6654
-       ],
-       [
-        3.4618,
-        41.612
-       ],
-       [
-        3.4572,
-        41.6084
-       ],
-       [
-        3.2204,
-        41.4604
-       ],
-       [
-        3.1353,
-        41.4185
-       ],
-       [
-        3.0917,
-        41.4019
-       ],
-       [
-        2.8673,
-        41.5799
-       ],
-       [
-        2.7795,
-        41.6491
-       ],
-       [
-        2.7941,
-        41.6739
-       ],
-       [
-        2.8179,
-        41.6868
-       ],
-       [
-        2.8544,
-        41.7001
-       ],
-       [
-        2.8883,
-        41.7015
-       ],
-       [
-        2.9133,
-        41.7081
-       ],
-       [
-        2.9548,
-        41.7313
-       ],
-       [
-        2.9726,
-        41.7535
-       ],
-       [
-        3.0305,
-        41.7798
-       ],
-       [
-        3.0665,
-        41.8005
-       ],
-       [
-        3.0821,
-        41.8248
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "A Mariña - Costa",
-     "provincia": "Lugo",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -7.0304,
-        43.5448
-       ],
-       [
-        -7.0347,
-        43.5455
-       ],
-       [
-        -7.0554,
-        43.5591
-       ],
-       [
-        -7.0744,
-        43.5538
-       ],
-       [
-        -7.1134,
-        43.5625
-       ],
-       [
-        -7.1551,
-        43.554
-       ],
-       [
-        -7.2217,
-        43.5639
-       ],
-       [
-        -7.2916,
-        43.5956
-       ],
-       [
-        -7.3089,
-        43.6175
-       ],
-       [
-        -7.3317,
-        43.6284
-       ],
-       [
-        -7.3536,
-        43.6567
-       ],
-       [
-        -7.3558,
-        43.672
-       ],
-       [
-        -7.3931,
-        43.6798
-       ],
-       [
-        -7.4376,
-        43.6987
-       ],
-       [
-        -7.4672,
-        43.7032
-       ],
-       [
-        -7.4793,
-        43.7238
-       ],
-       [
-        -7.5023,
-        43.723
-       ],
-       [
-        -7.5232,
-        43.7363
-       ],
-       [
-        -7.544,
-        43.7325
-       ],
-       [
-        -7.5584,
-        43.7108
-       ],
-       [
-        -7.5818,
-        43.7126
-       ],
-       [
-        -7.581,
-        43.689
-       ],
-       [
-        -7.6058,
-        43.6919
-       ],
-       [
-        -7.6298,
-        43.7292
-       ],
-       [
-        -7.6337,
-        43.7534
-       ],
-       [
-        -7.6482,
-        43.7443
-       ],
-       [
-        -7.6666,
-        43.7486
-       ],
-       [
-        -7.6797,
-        43.7308
-       ],
-       [
-        -7.6983,
-        43.7355
-       ],
-       [
-        -7.6815,
-        43.7393
-       ],
-       [
-        -7.6748,
-        43.7527
-       ],
-       [
-        -7.6474,
-        43.7676
-       ],
-       [
-        -7.6131,
-        43.8273
-       ],
-       [
-        -7.6068,
-        43.9246
-       ],
-       [
-        -7.6005,
-        44.1169
-       ],
-       [
-        -7.5197,
-        44.1007
-       ],
-       [
-        -7.4383,
-        44.0709
-       ],
-       [
-        -7.4189,
-        44.0599
-       ],
-       [
-        -7.3563,
-        44.0509
-       ],
-       [
-        -7.2471,
-        44.0206
-       ],
-       [
-        -7.1696,
-        43.9886
-       ],
-       [
-        -7.1022,
-        43.9465
-       ],
-       [
-        -7.0473,
-        43.8957
-       ],
-       [
-        -7.0379,
-        43.8822
-       ],
-       [
-        -7.0142,
-        43.8824
-       ],
-       [
-        -7.0165,
-        43.8227
-       ],
-       [
-        -7.0298,
-        43.607
-       ],
-       [
-        -7.0304,
-        43.5448
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral sur de Tarragona - Costa",
-     "provincia": "Tarragona",
+     "zona": "Litoral de Barcelona - Costa",
+     "provincia": "Barcelona",
      "nivel": 3,
      "nivel_txt": "Amarillo",
      "avisos": [
@@ -1149,562 +707,8 @@
        "nivel": 3,
        "severidad": "Amarillo",
        "descripcion": "Viento del suroeste de 50 a 60 km/h (fuerza 7), girando a oeste por la mañana, y olas de 2 a 3 m.",
-       "desde": "2026-11-18T22:00:00+01:00",
-       "hasta": "2026-11-19T13:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        0.7344,
-        40.6403
-       ],
-       [
-        0.7367,
-        40.6408
-       ],
-       [
-        0.7471,
-        40.6365
-       ],
-       [
-        0.7125,
-        40.5925
-       ],
-       [
-        0.6736,
-        40.5937
-       ],
-       [
-        0.6513,
-        40.5858
-       ],
-       [
-        0.599,
-        40.5748
-       ],
-       [
-        0.6102,
-        40.5594
-       ],
-       [
-        0.651,
-        40.5555
-       ],
-       [
-        0.6813,
-        40.5646
-       ],
-       [
-        0.7092,
-        40.5852
-       ],
-       [
-        0.7512,
-        40.6354
-       ],
-       [
-        0.7692,
-        40.6482
-       ],
-       [
-        0.8426,
-        40.6761
-       ],
-       [
-        0.8777,
-        40.7017
-       ],
-       [
-        0.8887,
-        40.7197
-       ],
-       [
-        0.8753,
-        40.7344
-       ],
-       [
-        0.8648,
-        40.7218
-       ],
-       [
-        0.829,
-        40.736
-       ],
-       [
-        0.7821,
-        40.775
-       ],
-       [
-        0.7637,
-        40.7622
-       ],
-       [
-        0.7298,
-        40.7706
-       ],
-       [
-        0.7105,
-        40.7863
-       ],
-       [
-        0.7008,
-        40.8042
-       ],
-       [
-        0.73,
-        40.8182
-       ],
-       [
-        0.7531,
-        40.8465
-       ],
-       [
-        0.7935,
-        40.867
-       ],
-       [
-        0.8589,
-        40.935
-       ],
-       [
-        0.9185,
-        40.9884
-       ],
-       [
-        0.9676,
-        41.0288
-       ],
-       [
-        0.9904,
-        41.0419
-       ],
-       [
-        1.005,
-        41.0434
-       ],
-       [
-        1.0519,
-        41.0648
-       ],
-       [
-        1.0853,
-        41.064
-       ],
-       [
-        1.1189,
-        41.0742
-       ],
-       [
-        1.3322,
-        40.7648
-       ],
-       [
-        1.3107,
-        40.7514
-       ],
-       [
-        1.3151,
-        40.6878
-       ],
-       [
-        1.3034,
-        40.6247
-       ],
-       [
-        1.2762,
-        40.5645
-       ],
-       [
-        1.2346,
-        40.5092
-       ],
-       [
-        1.18,
-        40.4611
-       ],
-       [
-        1.1145,
-        40.4216
-       ],
-       [
-        1.0712,
-        40.4003
-       ],
-       [
-        1.0424,
-        40.3712
-       ],
-       [
-        1.0105,
-        40.3457
-       ],
-       [
-        0.9103,
-        40.3832
-       ],
-       [
-        0.5504,
-        40.5159
-       ],
-       [
-        0.5163,
-        40.5233
-       ],
-       [
-        0.5394,
-        40.5678
-       ],
-       [
-        0.6038,
-        40.6224
-       ],
-       [
-        0.6644,
-        40.6269
-       ],
-       [
-        0.7048,
-        40.639
-       ],
-       [
-        0.7344,
-        40.6403
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Interior de Alicante",
-     "provincia": "",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": []
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -1.0832,
-        38.3466
-       ],
-       [
-        -1.0869,
-        38.4028
-       ],
-       [
-        -1.0809,
-        38.4415
-       ],
-       [
-        -1.0337,
-        38.4749
-       ],
-       [
-        -1.0127,
-        38.4975
-       ],
-       [
-        -1.0249,
-        38.5232
-       ],
-       [
-        -1.0147,
-        38.5375
-       ],
-       [
-        -1.0004,
-        38.5731
-       ],
-       [
-        -1.0108,
-        38.6065
-       ],
-       [
-        -1.0147,
-        38.6355
-       ],
-       [
-        -1.0257,
-        38.6559
-       ],
-       [
-        -0.9613,
-        38.6573
-       ],
-       [
-        -0.9313,
-        38.6779
-       ],
-       [
-        -0.9146,
-        38.6964
-       ],
-       [
-        -0.9447,
-        38.7371
-       ],
-       [
-        -0.9602,
-        38.7752
-       ],
-       [
-        -0.9277,
-        38.7842
-       ],
-       [
-        -0.9137,
-        38.7818
-       ],
-       [
-        -0.9038,
-        38.7675
-       ],
-       [
-        -0.8605,
-        38.7713
-       ],
-       [
-        -0.8345,
-        38.7416
-       ],
-       [
-        -0.7915,
-        38.7396
-       ],
-       [
-        -0.7864,
-        38.7469
-       ],
-       [
-        -0.7509,
-        38.7558
-       ],
-       [
-        -0.721,
-        38.7541
-       ],
-       [
-        -0.706,
-        38.7342
-       ],
-       [
-        -0.6876,
-        38.7417
-       ],
-       [
-        -0.6699,
-        38.732
-       ],
-       [
-        -0.6422,
-        38.7282
-       ],
-       [
-        -0.6413,
-        38.7045
-       ],
-       [
-        -0.6169,
-        38.6871
-       ],
-       [
-        -0.583,
-        38.709
-       ],
-       [
-        -0.55,
-        38.7175
-       ],
-       [
-        -0.5337,
-        38.7334
-       ],
-       [
-        -0.5059,
-        38.7434
-       ],
-       [
-        -0.4637,
-        38.7161
-       ],
-       [
-        -0.4494,
-        38.7142
-       ],
-       [
-        -0.4352,
-        38.6885
-       ],
-       [
-        -0.3906,
-        38.6907
-       ],
-       [
-        -0.3583,
-        38.7045
-       ],
-       [
-        -0.3423,
-        38.6732
-       ],
-       [
-        -0.3532,
-        38.6617
-       ],
-       [
-        -0.3264,
-        38.6469
-       ],
-       [
-        -0.3319,
-        38.6221
-       ],
-       [
-        -0.3429,
-        38.6181
-       ],
-       [
-        -0.3749,
-        38.5914
-       ],
-       [
-        -0.4077,
-        38.5741
-       ],
-       [
-        -0.3941,
-        38.5611
-       ],
-       [
-        -0.3987,
-        38.5411
-       ],
-       [
-        -0.4302,
-        38.5341
-       ],
-       [
-        -0.4319,
-        38.5176
-       ],
-       [
-        -0.4512,
-        38.4945
-       ],
-       [
-        -0.5035,
-        38.4756
-       ],
-       [
-        -0.5124,
-        38.4807
-       ],
-       [
-        -0.5366,
-        38.4721
-       ],
-       [
-        -0.5609,
-        38.4813
-       ],
-       [
-        -0.5939,
-        38.4745
-       ],
-       [
-        -0.6136,
-        38.4767
-       ],
-       [
-        -0.6343,
-        38.4984
-       ],
-       [
-        -0.6521,
-        38.4862
-       ],
-       [
-        -0.6673,
-        38.4662
-       ],
-       [
-        -0.7327,
-        38.4429
-       ],
-       [
-        -0.8053,
-        38.4342
-       ],
-       [
-        -0.8073,
-        38.4252
-       ],
-       [
-        -0.8312,
-        38.4009
-       ],
-       [
-        -0.8646,
-        38.3891
-       ],
-       [
-        -0.8393,
-        38.3618
-       ],
-       [
-        -0.9244,
-        38.3298
-       ],
-       [
-        -0.9703,
-        38.33
-       ],
-       [
-        -0.9878,
-        38.321
-       ],
-       [
-        -1.0272,
-        38.339
-       ],
-       [
-        -1.0574,
-        38.346
-       ],
-       [
-        -1.0832,
-        38.3466
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Menorca - Costa",
-     "provincia": "Menorca",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
        "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
+       "hasta": "2026-11-19T16:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -1715,346 +719,156 @@
      "coordinates": [
       [
        [
-        3.4531,
-        40.2185
+        1.6464,
+        41.1959
        ],
        [
-        3.4624,
-        40.2327
+        1.6741,
+        41.1985
        ],
        [
-        3.5176,
-        40.2859
+        1.6955,
+        41.2074
        ],
        [
-        3.5859,
-        40.3294
+        1.7794,
+        41.2241
        ],
        [
-        3.6644,
-        40.3613
+        1.8164,
+        41.2364
        ],
        [
-        3.7498,
-        40.3802
+        1.8548,
+        41.2347
        ],
        [
-        3.9203,
-        40.4036
+        1.8705,
+        41.2432
        ],
        [
-        3.9891,
-        40.4202
+        1.9229,
+        41.2603
        ],
        [
-        4.0774,
-        40.427
+        1.9455,
+        41.2641
        ],
        [
-        4.1656,
-        40.4199
+        2.0214,
+        41.2663
        ],
        [
-        4.2644,
-        40.3951
+        2.0756,
+        41.2776
        ],
        [
-        4.2909,
-        40.384
+        2.1206,
+        41.2924
        ],
        [
-        4.3702,
-        40.3572
+        2.152,
+        41.3221
        ],
        [
-        4.4409,
-        40.3188
+        2.1611,
+        41.3469
        ],
        [
-        4.4839,
-        40.2836
+        2.177,
+        41.3675
        ],
        [
-        4.5155,
-        40.2703
+        2.2249,
+        41.4088
        ],
        [
-        4.5824,
-        40.2267
+        2.2538,
+        41.4483
        ],
        [
-        4.6363,
-        40.1736
+        2.2975,
+        41.4726
        ],
        [
-        4.6751,
-        40.1133
+        2.3771,
+        41.4945
        ],
        [
-        4.7329,
-        39.9939
+        2.4038,
+        41.5065
        ],
        [
-        4.7541,
-        39.9329
+        2.462,
+        41.5427
        ],
        [
-        4.7599,
-        39.8698
+        2.496,
+        41.553
        ],
        [
-        4.7501,
-        39.8071
+        2.5565,
+        41.5796
        ],
        [
-        4.7251,
-        39.747
+        2.5639,
+        41.5796
        ],
        [
-        4.6819,
-        39.6563
+        2.6332,
+        41.6042
        ],
        [
-        4.639,
-        39.6015
+        2.7186,
+        41.6288
        ],
        [
-        4.5834,
-        39.5541
+        2.752,
+        41.6445
        ],
        [
-        4.5171,
-        39.5157
+        2.7795,
+        41.6491
        ],
        [
-        4.4427,
-        39.4879
+        2.8673,
+        41.5799
        ],
        [
-        4.3627,
-        39.4717
+        3.0917,
+        41.4019
        ],
        [
-        4.2724,
-        39.4677
+        2.5689,
+        41.2021
        ],
        [
-        4.1839,
-        39.4771
+        2.4679,
+        41.0948
        ],
        [
-        4.091,
-        39.5024
+        2.4024,
+        41.0394
        ],
        [
-        4.018,
-        39.5297
+        2.3223,
+        40.9962
        ],
        [
-        3.8839,
-        39.5924
+        2.2316,
+        40.9676
        ],
        [
-        3.8812,
-        39.5923
+        1.8661,
+        40.8862
        ],
        [
-        3.7992,
-        39.6752
+        1.805,
+        40.9682
        ],
        [
-        3.6667,
-        39.8306
-       ],
-       [
-        3.5304,
-        39.9885
-       ],
-       [
-        3.4862,
-        40.1023
-       ],
-       [
-        3.4531,
-        40.2185
-       ]
-      ],
-      [
-       [
-        3.8314,
-        39.9715
-       ],
-       [
-        3.8219,
-        39.926
-       ],
-       [
-        3.8553,
-        39.9218
-       ],
-       [
-        3.9129,
-        39.9257
-       ],
-       [
-        3.9379,
-        39.9386
-       ],
-       [
-        4.0197,
-        39.9226
-       ],
-       [
-        4.0792,
-        39.8966
-       ],
-       [
-        4.0987,
-        39.8791
-       ],
-       [
-        4.144,
-        39.8622
-       ],
-       [
-        4.1759,
-        39.8434
-       ],
-       [
-        4.2326,
-        39.8194
-       ],
-       [
-        4.2704,
-        39.8093
-       ],
-       [
-        4.2887,
-        39.8151
-       ],
-       [
-        4.3008,
-        39.8334
-       ],
-       [
-        4.313,
-        39.8857
-       ],
-       [
-        4.2754,
-        39.9338
-       ],
-       [
-        4.2795,
-        39.946
-       ],
-       [
-        4.2627,
-        39.9651
-       ],
-       [
-        4.2566,
-        39.9997
-       ],
-       [
-        4.2258,
-        39.9985
-       ],
-       [
-        4.1943,
-        40.024
-       ],
-       [
-        4.1696,
-        40.0277
-       ],
-       [
-        4.1657,
-        40.0581
-       ],
-       [
-        4.1566,
-        40.0682
-       ],
-       [
-        4.1373,
-        40.0673
-       ],
-       [
-        4.1419,
-        40.0357
-       ],
-       [
-        4.1211,
-        40.0361
-       ],
-       [
-        4.1314,
-        40.0556
-       ],
-       [
-        4.102,
-        40.0549
-       ],
-       [
-        4.0855,
-        40.0753
-       ],
-       [
-        4.078,
-        40.0606
-       ],
-       [
-        4.0494,
-        40.053
-       ],
-       [
-        4.0332,
-        40.0659
-       ],
-       [
-        4.0228,
-        40.0599
-       ],
-       [
-        3.9795,
-        40.0514
-       ],
-       [
-        3.9596,
-        40.0618
-       ],
-       [
-        3.9424,
-        40.0569
-       ],
-       [
-        3.8831,
-        40.0585
-       ],
-       [
-        3.8227,
-        40.0505
-       ],
-       [
-        3.8199,
-        40.0403
-       ],
-       [
-        3.7936,
-        40.0205
-       ],
-       [
-        3.7959,
-        40.0005
-       ],
-       [
-        3.8264,
-        39.9965
-       ],
-       [
-        3.8314,
-        39.9715
+        1.6464,
+        41.1959
        ]
       ]
      ]
@@ -2063,8 +877,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral oriental asturiano - Costa",
-     "provincia": "Asturias",
+     "zona": "Litoral cántabro - Costa",
+     "provincia": "Cantabria",
      "nivel": 2,
      "nivel_txt": "Naranja",
      "avisos": [
@@ -2073,9 +887,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) por la noche.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -2086,284 +900,332 @@
      "coordinates": [
       [
        [
-        -4.5237,
-        43.7289
+        -3.152,
+        43.3535
        ],
        [
-        -4.5089,
-        43.5121
+        -3.1915,
+        43.3641
+       ],
+       [
+        -3.2129,
+        43.3779
+       ],
+       [
+        -3.2195,
+        43.3938
+       ],
+       [
+        -3.256,
+        43.4036
+       ],
+       [
+        -3.2756,
+        43.4027
+       ],
+       [
+        -3.3012,
+        43.4098
+       ],
+       [
+        -3.3205,
+        43.4039
+       ],
+       [
+        -3.3252,
+        43.4163
+       ],
+       [
+        -3.3571,
+        43.4125
+       ],
+       [
+        -3.3809,
+        43.4157
+       ],
+       [
+        -3.4253,
+        43.4139
+       ],
+       [
+        -3.4449,
+        43.4334
+       ],
+       [
+        -3.4245,
+        43.4442
+       ],
+       [
+        -3.4341,
+        43.4651
+       ],
+       [
+        -3.4946,
+        43.4718
+       ],
+       [
+        -3.5287,
+        43.4909
+       ],
+       [
+        -3.5487,
+        43.5093
+       ],
+       [
+        -3.5771,
+        43.5068
+       ],
+       [
+        -3.5955,
+        43.5132
+       ],
+       [
+        -3.6104,
+        43.4988
+       ],
+       [
+        -3.6434,
+        43.4988
+       ],
+       [
+        -3.6862,
+        43.4756
+       ],
+       [
+        -3.7044,
+        43.4799
+       ],
+       [
+        -3.7238,
+        43.4629
+       ],
+       [
+        -3.7679,
+        43.4493
+       ],
+       [
+        -3.7782,
+        43.4246
+       ],
+       [
+        -3.8052,
+        43.413
+       ],
+       [
+        -3.8131,
+        43.4024
+       ],
+       [
+        -3.808,
+        43.4219
+       ],
+       [
+        -3.834,
+        43.4423
+       ],
+       [
+        -3.8131,
+        43.4496
+       ],
+       [
+        -3.8017,
+        43.4612
+       ],
+       [
+        -3.7809,
+        43.4634
+       ],
+       [
+        -3.7887,
+        43.4914
+       ],
+       [
+        -3.8107,
+        43.4954
+       ],
+       [
+        -3.8346,
+        43.4802
+       ],
+       [
+        -3.8915,
+        43.4774
+       ],
+       [
+        -3.9427,
+        43.4704
+       ],
+       [
+        -3.9572,
+        43.4546
+       ],
+       [
+        -3.9807,
+        43.4415
+       ],
+       [
+        -3.9977,
+        43.4398
+       ],
+       [
+        -4.0124,
+        43.4481
+       ],
+       [
+        -4.0513,
+        43.437
+       ],
+       [
+        -4.0536,
+        43.4341
+       ],
+       [
+        -4.093,
+        43.4277
+       ],
+       [
+        -4.1145,
+        43.4177
+       ],
+       [
+        -4.1502,
+        43.412
+       ],
+       [
+        -4.2177,
+        43.3957
+       ],
+       [
+        -4.2319,
+        43.4008
+       ],
+       [
+        -4.2706,
+        43.3937
+       ],
+       [
+        -4.2796,
+        43.3875
+       ],
+       [
+        -4.3062,
+        43.3929
+       ],
+       [
+        -4.3319,
+        43.3924
+       ],
+       [
+        -4.3395,
+        43.4064
+       ],
+       [
+        -4.3684,
+        43.3926
+       ],
+       [
+        -4.4141,
+        43.3985
+       ],
+       [
+        -4.4578,
+        43.3942
+       ],
+       [
+        -4.4726,
+        43.3892
+       ],
+       [
+        -4.4991,
+        43.3963
        ],
        [
         -4.5109,
         43.3935
        ],
        [
-        -4.5331,
-        43.4009
-       ],
-       [
-        -4.576,
-        43.3936
-       ],
-       [
-        -4.6517,
-        43.4017
-       ],
-       [
-        -4.6768,
-        43.4101
-       ],
-       [
-        -4.7101,
-        43.4099
-       ],
-       [
-        -4.743,
-        43.4166
-       ],
-       [
-        -4.7682,
-        43.4307
-       ],
-       [
-        -4.8232,
-        43.4363
-       ],
-       [
-        -4.9446,
-        43.4617
-       ],
-       [
-        -5.0127,
-        43.4586
-       ],
-       [
-        -5.0429,
-        43.4617
-       ],
-       [
-        -5.0851,
-        43.4765
-       ],
-       [
-        -5.1143,
-        43.4772
-       ],
-       [
-        -5.121,
-        43.485
-       ],
-       [
-        -5.1698,
-        43.4752
-       ],
-       [
-        -5.2135,
-        43.4741
-       ],
-       [
-        -5.2632,
-        43.5179
-       ],
-       [
-        -5.2943,
-        43.5366
-       ],
-       [
-        -5.3523,
-        43.5327
-       ],
-       [
-        -5.3704,
-        43.5406
-       ],
-       [
-        -5.382,
-        43.5356
-       ],
-       [
-        -5.4074,
-        43.5565
-       ],
-       [
-        -5.4303,
-        43.5518
-       ],
-       [
-        -5.4661,
-        43.5532
-       ],
-       [
-        -5.4931,
-        43.5452
-       ],
-       [
-        -5.5155,
-        43.5535
-       ],
-       [
-        -5.5301,
-        43.5465
-       ],
-       [
-        -5.5467,
-        43.5506
-       ],
-       [
-        -5.6079,
-        43.55
-       ],
-       [
-        -5.6151,
-        43.5575
-       ],
-       [
-        -5.6479,
-        43.5428
-       ],
-       [
-        -5.68,
-        43.5428
-       ],
-       [
-        -5.6957,
-        43.5506
-       ],
-       [
-        -5.6997,
-        43.5693
-       ],
-       [
-        -5.7336,
-        43.5741
-       ],
-       [
-        -5.7588,
-        43.5878
-       ],
-       [
-        -5.7801,
-        43.6111
-       ],
-       [
-        -5.7797,
-        43.6288
-       ],
-       [
-        -5.7963,
-        43.6367
-       ],
-       [
-        -5.8249,
-        43.6398
-       ],
-       [
-        -5.8514,
-        43.659
-       ],
-       [
-        -5.8579,
-        43.6361
-       ],
-       [
-        -5.8875,
-        43.623
-       ],
-       [
-        -5.8992,
-        43.6282
-       ],
-       [
-        -5.9015,
-        43.6242
-       ],
-       [
-        -5.9114,
-        43.6086
-       ],
-       [
-        -5.9376,
-        43.5947
-       ],
-       [
-        -5.9512,
-        43.5958
-       ],
-       [
-        -5.9708,
-        43.9874
-       ],
-       [
-        -5.8956,
-        43.997
-       ],
-       [
-        -5.8028,
-        43.9952
-       ],
-       [
-        -5.7147,
-        43.9829
-       ],
-       [
-        -5.6328,
-        43.96
-       ],
-       [
-        -5.5584,
-        43.9264
-       ],
-       [
-        -5.4993,
-        43.8864
-       ],
-       [
-        -5.4354,
-        43.8893
-       ],
-       [
-        -5.3452,
-        43.8868
-       ],
-       [
-        -5.2575,
-        43.8717
-       ],
-       [
-        -5.1756,
-        43.8444
-       ],
-       [
-        -5.0533,
-        43.7924
-       ],
-       [
-        -4.874,
-        43.7698
-       ],
-       [
-        -4.8212,
-        43.7744
-       ],
-       [
-        -4.7334,
-        43.7699
-       ],
-       [
-        -4.6676,
-        43.7598
-       ],
-       [
-        -4.5843,
-        43.7393
-       ],
-       [
-        -4.561,
-        43.7297
+        -4.5089,
+        43.5121
        ],
        [
         -4.5237,
         43.7289
+       ],
+       [
+        -4.4571,
+        43.7285
+       ],
+       [
+        -4.2964,
+        43.7322
+       ],
+       [
+        -4.2087,
+        43.7587
+       ],
+       [
+        -4.0661,
+        43.7888
+       ],
+       [
+        -4.0338,
+        43.7981
+       ],
+       [
+        -3.9997,
+        43.8028
+       ],
+       [
+        -3.938,
+        43.8158
+       ],
+       [
+        -3.8514,
+        43.8275
+       ],
+       [
+        -3.7632,
+        43.8271
+       ],
+       [
+        -3.7453,
+        43.8244
+       ],
+       [
+        -3.6557,
+        43.8423
+       ],
+       [
+        -3.5606,
+        43.8465
+       ],
+       [
+        -3.4664,
+        43.8364
+       ],
+       [
+        -3.3772,
+        43.8124
+       ],
+       [
+        -3.222,
+        43.7567
+       ],
+       [
+        -3.187,
+        43.741
+       ],
+       [
+        -3.1737,
+        43.6303
+       ],
+       [
+        -3.1521,
+        43.3946
+       ],
+       [
+        -3.152,
+        43.3535
        ]
       ]
      ]
@@ -2382,9 +1244,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -2681,2102 +1543,6 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Ibiza y Formentera - Costa",
-     "provincia": "Ibiza y Formentera",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
-       "desde": "2026-11-19T07:00:00+01:00",
-       "hasta": "2026-11-19T17:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        0.7333,
-        38.9939
-       ],
-       [
-        0.7449,
-        39.0592
-       ],
-       [
-        0.7728,
-        39.1214
-       ],
-       [
-        0.816,
-        39.1781
-       ],
-       [
-        0.8727,
-        39.2271
-       ],
-       [
-        0.9439,
-        39.2678
-       ],
-       [
-        1.0229,
-        39.2965
-       ],
-       [
-        1.0473,
-        39.3023
-       ],
-       [
-        1.1051,
-        39.3422
-       ],
-       [
-        1.1712,
-        39.3734
-       ],
-       [
-        1.2435,
-        39.3948
-       ],
-       [
-        1.2705,
-        39.3987
-       ],
-       [
-        1.3089,
-        39.4139
-       ],
-       [
-        1.391,
-        39.4319
-       ],
-       [
-        1.4762,
-        39.4368
-       ],
-       [
-        1.5609,
-        39.4285
-       ],
-       [
-        1.5818,
-        39.423
-       ],
-       [
-        1.6556,
-        39.4222
-       ],
-       [
-        1.7421,
-        39.407
-       ],
-       [
-        1.8227,
-        39.3783
-       ],
-       [
-        1.8939,
-        39.3373
-       ],
-       [
-        1.9527,
-        39.2858
-       ],
-       [
-        1.9804,
-        39.2481
-       ],
-       [
-        2.0028,
-        39.2265
-       ],
-       [
-        2.0402,
-        39.1727
-       ],
-       [
-        2.067,
-        39.1053
-       ],
-       [
-        2.0771,
-        39.0397
-       ],
-       [
-        2.0705,
-        38.9739
-       ],
-       [
-        2.0474,
-        38.9104
-       ],
-       [
-        2.0088,
-        38.8517
-       ],
-       [
-        1.9662,
-        38.8099
-       ],
-       [
-        1.9738,
-        38.7995
-       ],
-       [
-        2.0006,
-        38.7358
-       ],
-       [
-        2.0105,
-        38.6692
-       ],
-       [
-        2.0032,
-        38.6024
-       ],
-       [
-        1.9791,
-        38.5381
-       ],
-       [
-        1.9391,
-        38.4789
-       ],
-       [
-        1.8849,
-        38.4271
-       ],
-       [
-        1.8187,
-        38.3849
-       ],
-       [
-        1.7431,
-        38.3539
-       ],
-       [
-        1.6613,
-        38.3355
-       ],
-       [
-        1.5764,
-        38.3302
-       ],
-       [
-        1.5422,
-        38.3335
-       ],
-       [
-        1.5049,
-        38.3218
-       ],
-       [
-        1.4252,
-        38.3099
-       ],
-       [
-        1.3441,
-        38.3102
-       ],
-       [
-        1.2645,
-        38.3226
-       ],
-       [
-        1.1893,
-        38.3467
-       ],
-       [
-        1.1213,
-        38.3817
-       ],
-       [
-        1.063,
-        38.4262
-       ],
-       [
-        1.0164,
-        38.4786
-       ],
-       [
-        0.9834,
-        38.537
-       ],
-       [
-        0.9711,
-        38.5789
-       ],
-       [
-        0.9378,
-        38.5943
-       ],
-       [
-        0.8747,
-        38.6387
-       ],
-       [
-        0.8241,
-        38.692
-       ],
-       [
-        0.7878,
-        38.7522
-       ],
-       [
-        0.7675,
-        38.8167
-       ],
-       [
-        0.7655,
-        38.8555
-       ],
-       [
-        0.7599,
-        38.8644
-       ],
-       [
-        0.7384,
-        38.9281
-       ],
-       [
-        0.7333,
-        38.9939
-       ]
-      ],
-      [
-       [
-        1.3035,
-        38.9699
-       ],
-       [
-        1.2849,
-        38.9747
-       ],
-       [
-        1.2689,
-        38.967
-       ],
-       [
-        1.2333,
-        38.9691
-       ],
-       [
-        1.2162,
-        38.9591
-       ],
-       [
-        1.2371,
-        38.936
-       ],
-       [
-        1.2152,
-        38.9052
-       ],
-       [
-        1.2232,
-        38.8797
-       ],
-       [
-        1.2445,
-        38.8669
-       ],
-       [
-        1.2675,
-        38.8777
-       ],
-       [
-        1.2985,
-        38.8769
-       ],
-       [
-        1.3228,
-        38.8638
-       ],
-       [
-        1.3439,
-        38.8715
-       ],
-       [
-        1.362,
-        38.8613
-       ],
-       [
-        1.3717,
-        38.8445
-       ],
-       [
-        1.4075,
-        38.8322
-       ],
-       [
-        1.4033,
-        38.8496
-       ],
-       [
-        1.4113,
-        38.8913
-       ],
-       [
-        1.4247,
-        38.9055
-       ],
-       [
-        1.4399,
-        38.9029
-       ],
-       [
-        1.4586,
-        38.9185
-       ],
-       [
-        1.4703,
-        38.9132
-       ],
-       [
-        1.5064,
-        38.9336
-       ],
-       [
-        1.5113,
-        38.9471
-       ],
-       [
-        1.5292,
-        38.9457
-       ],
-       [
-        1.5321,
-        38.98
-       ],
-       [
-        1.553,
-        38.993
-       ],
-       [
-        1.5825,
-        38.9897
-       ],
-       [
-        1.5862,
-        39.016
-       ],
-       [
-        1.6042,
-        39.0247
-       ],
-       [
-        1.6067,
-        39.0451
-       ],
-       [
-        1.5891,
-        39.0641
-       ],
-       [
-        1.6018,
-        39.0926
-       ],
-       [
-        1.5804,
-        39.0988
-       ],
-       [
-        1.5579,
-        39.0939
-       ],
-       [
-        1.5342,
-        39.1188
-       ],
-       [
-        1.4973,
-        39.099
-       ],
-       [
-        1.476,
-        39.1058
-       ],
-       [
-        1.418,
-        39.0777
-       ],
-       [
-        1.3654,
-        39.074
-       ],
-       [
-        1.3428,
-        39.0536
-       ],
-       [
-        1.3269,
-        39.053
-       ],
-       [
-        1.2951,
-        39.032
-       ],
-       [
-        1.2961,
-        39.0062
-       ],
-       [
-        1.2847,
-        38.9995
-       ],
-       [
-        1.3035,
-        38.9699
-       ]
-      ],
-      [
-       [
-        1.4135,
-        38.7217
-       ],
-       [
-        1.3974,
-        38.7313
-       ],
-       [
-        1.3879,
-        38.7222
-       ],
-       [
-        1.3914,
-        38.6999
-       ],
-       [
-        1.3815,
-        38.693
-       ],
-       [
-        1.3883,
-        38.6684
-       ],
-       [
-        1.3849,
-        38.6461
-       ],
-       [
-        1.3951,
-        38.6417
-       ],
-       [
-        1.443,
-        38.6842
-       ],
-       [
-        1.4777,
-        38.6824
-       ],
-       [
-        1.5172,
-        38.6621
-       ],
-       [
-        1.5253,
-        38.6535
-       ],
-       [
-        1.5698,
-        38.6509
-       ],
-       [
-        1.5857,
-        38.6633
-       ],
-       [
-        1.5787,
-        38.6847
-       ],
-       [
-        1.5615,
-        38.6912
-       ],
-       [
-        1.5314,
-        38.673
-       ],
-       [
-        1.5133,
-        38.6799
-       ],
-       [
-        1.4788,
-        38.7029
-       ],
-       [
-        1.4719,
-        38.7213
-       ],
-       [
-        1.456,
-        38.7267
-       ],
-       [
-        1.4412,
-        38.7444
-       ],
-       [
-        1.4135,
-        38.7217
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral norte de Valencia - Costa",
-     "provincia": "València/Valencia",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) con rachas fuertes.",
-       "desde": "2026-11-19T08:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -0.2713,
-        39.2792
-       ],
-       [
-        -0.274,
-        39.2799
-       ],
-       [
-        -0.3146,
-        39.3605
-       ],
-       [
-        -0.3325,
-        39.4242
-       ],
-       [
-        -0.3306,
-        39.4438
-       ],
-       [
-        -0.3201,
-        39.4581
-       ],
-       [
-        -0.3223,
-        39.485
-       ],
-       [
-        -0.3178,
-        39.5149
-       ],
-       [
-        -0.3096,
-        39.5308
-       ],
-       [
-        -0.2728,
-        39.5782
-       ],
-       [
-        -0.2577,
-        39.6153
-       ],
-       [
-        -0.237,
-        39.6361
-       ],
-       [
-        -0.2166,
-        39.6485
-       ],
-       [
-        -0.2024,
-        39.6721
-       ],
-       [
-        -0.1873,
-        39.7223
-       ],
-       [
-        0.1248,
-        39.6185
-       ],
-       [
-        0.2413,
-        39.5791
-       ],
-       [
-        0.1267,
-        39.3982
-       ],
-       [
-        0.184,
-        39.2544
-       ],
-       [
-        0.0797,
-        39.2604
-       ],
-       [
-        -0.2713,
-        39.2792
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Costa granadina - Costa",
-     "provincia": "Granada",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T17:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -3.113,
-        36.4201
-       ],
-       [
-        -3.1635,
-        36.4205
-       ],
-       [
-        -3.252,
-        36.3891
-       ],
-       [
-        -3.3298,
-        36.3685
-       ],
-       [
-        -3.411,
-        36.3607
-       ],
-       [
-        -3.4926,
-        36.366
-       ],
-       [
-        -3.7626,
-        36.405
-       ],
-       [
-        -3.7678,
-        36.4885
-       ],
-       [
-        -3.7777,
-        36.6973
-       ],
-       [
-        -3.7762,
-        36.7384
-       ],
-       [
-        -3.7532,
-        36.7391
-       ],
-       [
-        -3.7343,
-        36.7283
-       ],
-       [
-        -3.7034,
-        36.7343
-       ],
-       [
-        -3.6768,
-        36.7304
-       ],
-       [
-        -3.6566,
-        36.7469
-       ],
-       [
-        -3.6202,
-        36.7417
-       ],
-       [
-        -3.6008,
-        36.745
-       ],
-       [
-        -3.5789,
-        36.724
-       ],
-       [
-        -3.5493,
-        36.7151
-       ],
-       [
-        -3.5259,
-        36.7252
-       ],
-       [
-        -3.5142,
-        36.7222
-       ],
-       [
-        -3.4791,
-        36.6973
-       ],
-       [
-        -3.4191,
-        36.6946
-       ],
-       [
-        -3.3872,
-        36.7094
-       ],
-       [
-        -3.3872,
-        36.7117
-       ],
-       [
-        -3.3717,
-        36.7125
-       ],
-       [
-        -3.3371,
-        36.7389
-       ],
-       [
-        -3.3036,
-        36.7384
-       ],
-       [
-        -3.2486,
-        36.7552
-       ],
-       [
-        -3.2109,
-        36.7457
-       ],
-       [
-        -3.2015,
-        36.7505
-       ],
-       [
-        -3.1439,
-        36.7452
-       ],
-       [
-        -3.1274,
-        36.7514
-       ],
-       [
-        -3.1255,
-        36.7248
-       ],
-       [
-        -3.1194,
-        36.5017
-       ],
-       [
-        -3.113,
-        36.4201
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Norte y nordeste de Mallorca - Costa",
-     "provincia": "Mallorca",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        2.7365,
-        40.1969
-       ],
-       [
-        3.037,
-        40.2769
-       ],
-       [
-        3.1213,
-        40.2921
-       ],
-       [
-        3.2078,
-        40.2942
-       ],
-       [
-        3.293,
-        40.2831
-       ],
-       [
-        3.3737,
-        40.2592
-       ],
-       [
-        3.4531,
-        40.2185
-       ],
-       [
-        3.4862,
-        40.1023
-       ],
-       [
-        3.5304,
-        39.9885
-       ],
-       [
-        3.6667,
-        39.8306
-       ],
-       [
-        3.7992,
-        39.6752
-       ],
-       [
-        3.8812,
-        39.5923
-       ],
-       [
-        3.7766,
-        39.4433
-       ],
-       [
-        3.4375,
-        39.6348
-       ],
-       [
-        3.4365,
-        39.6373
-       ],
-       [
-        3.4444,
-        39.6579
-       ],
-       [
-        3.4556,
-        39.655
-       ],
-       [
-        3.4535,
-        39.723
-       ],
-       [
-        3.4584,
-        39.7445
-       ],
-       [
-        3.4333,
-        39.7454
-       ],
-       [
-        3.4051,
-        39.7643
-       ],
-       [
-        3.3863,
-        39.7641
-       ],
-       [
-        3.349,
-        39.7897
-       ],
-       [
-        3.3362,
-        39.7842
-       ],
-       [
-        3.332,
-        39.7617
-       ],
-       [
-        3.308,
-        39.7545
-       ],
-       [
-        3.2867,
-        39.7403
-       ],
-       [
-        3.2555,
-        39.73
-       ],
-       [
-        3.2378,
-        39.7325
-       ],
-       [
-        3.1542,
-        39.7681
-       ],
-       [
-        3.1268,
-        39.7939
-       ],
-       [
-        3.118,
-        39.816
-       ],
-       [
-        3.1285,
-        39.8402
-       ],
-       [
-        3.1445,
-        39.8348
-       ],
-       [
-        3.1798,
-        39.8411
-       ],
-       [
-        3.1959,
-        39.8576
-       ],
-       [
-        3.1714,
-        39.8764
-       ],
-       [
-        3.1423,
-        39.865
-       ],
-       [
-        3.1332,
-        39.8698
-       ],
-       [
-        3.1067,
-        39.8579
-       ],
-       [
-        3.088,
-        39.8713
-       ],
-       [
-        3.0795,
-        39.8891
-       ],
-       [
-        3.0912,
-        39.9115
-       ],
-       [
-        3.1098,
-        39.9086
-       ],
-       [
-        3.1384,
-        39.9285
-       ],
-       [
-        3.1554,
-        39.9235
-       ],
-       [
-        3.1794,
-        39.9377
-       ],
-       [
-        3.2034,
-        39.9442
-       ],
-       [
-        3.2072,
-        39.9579
-       ],
-       [
-        3.1679,
-        39.9604
-       ],
-       [
-        3.1482,
-        39.9545
-       ],
-       [
-        3.1217,
-        39.9318
-       ],
-       [
-        3.097,
-        39.9364
-       ],
-       [
-        3.0818,
-        39.9253
-       ],
-       [
-        3.0559,
-        39.9224
-       ],
-       [
-        3.0291,
-        39.9353
-       ],
-       [
-        3.0024,
-        39.9242
-       ],
-       [
-        2.988,
-        39.9097
-       ],
-       [
-        2.9669,
-        39.9106
-       ],
-       [
-        2.9514,
-        39.9206
-       ],
-       [
-        2.9259,
-        39.9006
-       ],
-       [
-        2.7365,
-        40.1969
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Suroeste de A Coruña - Costa",
-     "provincia": "A Coruña",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -9.1124,
-        42.7614
-       ],
-       [
-        -9.0766,
-        42.7394
-       ],
-       [
-        -9.0743,
-        42.7579
-       ],
-       [
-        -9.0564,
-        42.76
-       ],
-       [
-        -9.0571,
-        42.7858
-       ],
-       [
-        -9.0409,
-        42.7877
-       ],
-       [
-        -9.0187,
-        42.801
-       ],
-       [
-        -9.0133,
-        42.7841
-       ],
-       [
-        -8.9797,
-        42.7788
-       ],
-       [
-        -8.9495,
-        42.783
-       ],
-       [
-        -8.944,
-        42.7984
-       ],
-       [
-        -8.9141,
-        42.7981
-       ],
-       [
-        -8.9392,
-        42.7742
-       ],
-       [
-        -8.9562,
-        42.7461
-       ],
-       [
-        -8.99,
-        42.7404
-       ],
-       [
-        -9.0069,
-        42.7276
-       ],
-       [
-        -9.0093,
-        42.7109
-       ],
-       [
-        -9.0279,
-        42.702
-       ],
-       [
-        -9.0283,
-        42.6805
-       ],
-       [
-        -9.0398,
-        42.6706
-       ],
-       [
-        -9.0368,
-        42.6421
-       ],
-       [
-        -9.0682,
-        42.5988
-       ],
-       [
-        -9.0767,
-        42.599
-       ],
-       [
-        -9.0802,
-        42.5786
-       ],
-       [
-        -9.0898,
-        42.5786
-       ],
-       [
-        -9.048,
-        42.5739
-       ],
-       [
-        -9.0322,
-        42.5587
-       ],
-       [
-        -9.029,
-        42.5453
-       ],
-       [
-        -9.0433,
-        42.5244
-       ],
-       [
-        -9.0241,
-        42.5199
-       ],
-       [
-        -8.9971,
-        42.5294
-       ],
-       [
-        -8.9814,
-        42.5458
-       ],
-       [
-        -8.9905,
-        42.5605
-       ],
-       [
-        -8.9672,
-        42.5699
-       ],
-       [
-        -8.9547,
-        42.5837
-       ],
-       [
-        -8.9192,
-        42.587
-       ],
-       [
-        -8.9361,
-        42.6084
-       ],
-       [
-        -8.8888,
-        42.6412
-       ],
-       [
-        -8.8865,
-        42.6212
-       ],
-       [
-        -8.874,
-        42.6139
-       ],
-       [
-        -8.8663,
-        42.6085
-       ],
-       [
-        -8.8546,
-        42.6301
-       ],
-       [
-        -8.8558,
-        42.6478
-       ],
-       [
-        -8.8403,
-        42.6663
-       ],
-       [
-        -8.8131,
-        42.6642
-       ],
-       [
-        -8.8159,
-        42.6462
-       ],
-       [
-        -8.794,
-        42.6367
-       ],
-       [
-        -8.7615,
-        42.6521
-       ],
-       [
-        -8.7476,
-        42.652
-       ],
-       [
-        -8.7287,
-        42.6737
-       ],
-       [
-        -8.7253,
-        42.6886
-       ],
-       [
-        -8.7275,
-        42.6671
-       ],
-       [
-        -8.7373,
-        42.6614
-       ],
-       [
-        -8.7398,
-        42.65
-       ],
-       [
-        -8.7772,
-        42.6334
-       ],
-       [
-        -8.8247,
-        42.6056
-       ],
-       [
-        -8.8678,
-        42.5872
-       ],
-       [
-        -8.9073,
-        42.5744
-       ],
-       [
-        -8.9643,
-        42.4843
-       ],
-       [
-        -8.9799,
-        42.4651
-       ],
-       [
-        -9.035,
-        42.4447
-       ],
-       [
-        -9.1935,
-        42.4132
-       ],
-       [
-        -9.4561,
-        42.3719
-       ],
-       [
-        -9.4764,
-        42.4092
-       ],
-       [
-        -9.5172,
-        42.4757
-       ],
-       [
-        -9.5375,
-        42.5472
-       ],
-       [
-        -9.5367,
-        42.5956
-       ],
-       [
-        -9.417,
-        42.6435
-       ],
-       [
-        -9.1124,
-        42.7614
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Ampurdán - Costa",
-     "provincia": "Girona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del Noroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
-       "desde": "2026-11-19T05:00:00+01:00",
-       "hasta": "2026-11-19T11:59:59+01:00",
-       "probabilidad": "mayor 70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        3.0821,
-        41.8248
-       ],
-       [
-        3.0863,
-        41.8263
-       ],
-       [
-        3.098,
-        41.8427
-       ],
-       [
-        3.1155,
-        41.8493
-       ],
-       [
-        3.146,
-        41.8499
-       ],
-       [
-        3.1467,
-        41.8589
-       ],
-       [
-        3.1734,
-        41.8641
-       ],
-       [
-        3.1846,
-        41.8883
-       ],
-       [
-        3.2041,
-        41.892
-       ],
-       [
-        3.2084,
-        41.9175
-       ],
-       [
-        3.2198,
-        41.9428
-       ],
-       [
-        3.2343,
-        41.9502
-       ],
-       [
-        3.2325,
-        41.9698
-       ],
-       [
-        3.2147,
-        41.9746
-       ],
-       [
-        3.2009,
-        41.9954
-       ],
-       [
-        3.196,
-        42.0287
-       ],
-       [
-        3.1991,
-        42.0486
-       ],
-       [
-        3.2148,
-        42.0616
-       ],
-       [
-        3.1847,
-        42.104
-       ],
-       [
-        3.1379,
-        42.1268
-       ],
-       [
-        3.1252,
-        42.1283
-       ],
-       [
-        3.1132,
-        42.1728
-       ],
-       [
-        3.1126,
-        42.2042
-       ],
-       [
-        3.1183,
-        42.2228
-       ],
-       [
-        3.1397,
-        42.251
-       ],
-       [
-        3.1628,
-        42.2642
-       ],
-       [
-        3.1823,
-        42.2576
-       ],
-       [
-        3.2201,
-        42.2326
-       ],
-       [
-        3.2321,
-        42.2454
-       ],
-       [
-        3.2824,
-        42.2542
-       ],
-       [
-        3.2887,
-        42.2655
-       ],
-       [
-        3.292,
-        42.3075
-       ],
-       [
-        3.3037,
-        42.3083
-       ],
-       [
-        3.309,
-        42.3271
-       ],
-       [
-        3.2688,
-        42.3407
-       ],
-       [
-        3.2424,
-        42.3378
-       ],
-       [
-        3.2394,
-        42.3493
-       ],
-       [
-        3.216,
-        42.3496
-       ],
-       [
-        3.1991,
-        42.3351
-       ],
-       [
-        3.1893,
-        42.3522
-       ],
-       [
-        3.164,
-        42.3608
-       ],
-       [
-        3.1562,
-        42.3791
-       ],
-       [
-        3.172,
-        42.416
-       ],
-       [
-        3.1758,
-        42.4357
-       ],
-       [
-        3.2481,
-        42.433
-       ],
-       [
-        3.7122,
-        42.4402
-       ],
-       [
-        3.7543,
-        42.4109
-       ],
-       [
-        3.7696,
-        42.3486
-       ],
-       [
-        3.7687,
-        42.2853
-       ],
-       [
-        3.7516,
-        42.2233
-       ],
-       [
-        3.7191,
-        42.1648
-       ],
-       [
-        3.6684,
-        42.0934
-       ],
-       [
-        3.6771,
-        42.0057
-       ],
-       [
-        3.6798,
-        41.9425
-       ],
-       [
-        3.6665,
-        41.8802
-       ],
-       [
-        3.6376,
-        41.8208
-       ],
-       [
-        3.5753,
-        41.7224
-       ],
-       [
-        3.5246,
-        41.6606
-       ],
-       [
-        3.4618,
-        41.612
-       ],
-       [
-        3.3682,
-        41.6654
-       ],
-       [
-        3.0821,
-        41.8248
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral de Barcelona - Costa",
-     "provincia": "Barcelona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del suroeste de 50 a 60 km/h (fuerza 7), girando a oeste por la mañana, y olas de 2 a 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T16:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        1.6464,
-        41.1959
-       ],
-       [
-        1.6741,
-        41.1985
-       ],
-       [
-        1.6955,
-        41.2074
-       ],
-       [
-        1.7794,
-        41.2241
-       ],
-       [
-        1.8164,
-        41.2364
-       ],
-       [
-        1.8548,
-        41.2347
-       ],
-       [
-        1.8705,
-        41.2432
-       ],
-       [
-        1.9229,
-        41.2603
-       ],
-       [
-        1.9455,
-        41.2641
-       ],
-       [
-        2.0214,
-        41.2663
-       ],
-       [
-        2.0756,
-        41.2776
-       ],
-       [
-        2.1206,
-        41.2924
-       ],
-       [
-        2.152,
-        41.3221
-       ],
-       [
-        2.1611,
-        41.3469
-       ],
-       [
-        2.177,
-        41.3675
-       ],
-       [
-        2.2249,
-        41.4088
-       ],
-       [
-        2.2538,
-        41.4483
-       ],
-       [
-        2.2975,
-        41.4726
-       ],
-       [
-        2.3771,
-        41.4945
-       ],
-       [
-        2.4038,
-        41.5065
-       ],
-       [
-        2.462,
-        41.5427
-       ],
-       [
-        2.496,
-        41.553
-       ],
-       [
-        2.5565,
-        41.5796
-       ],
-       [
-        2.5639,
-        41.5796
-       ],
-       [
-        2.6332,
-        41.6042
-       ],
-       [
-        2.7186,
-        41.6288
-       ],
-       [
-        2.752,
-        41.6445
-       ],
-       [
-        2.7795,
-        41.6491
-       ],
-       [
-        2.8673,
-        41.5799
-       ],
-       [
-        3.0917,
-        41.4019
-       ],
-       [
-        2.5689,
-        41.2021
-       ],
-       [
-        2.4679,
-        41.0948
-       ],
-       [
-        2.4024,
-        41.0394
-       ],
-       [
-        2.3223,
-        40.9962
-       ],
-       [
-        2.2316,
-        40.9676
-       ],
-       [
-        1.8661,
-        40.8862
-       ],
-       [
-        1.805,
-        40.9682
-       ],
-       [
-        1.6464,
-        41.1959
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Poniente y Almería Capital - Costa",
-     "provincia": "Almería",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T17:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -3.113,
-        36.4201
-       ],
-       [
-        -3.1194,
-        36.5017
-       ],
-       [
-        -3.1255,
-        36.7248
-       ],
-       [
-        -3.1274,
-        36.7514
-       ],
-       [
-        -3.1079,
-        36.7509
-       ],
-       [
-        -3.0697,
-        36.7461
-       ],
-       [
-        -3.0207,
-        36.7479
-       ],
-       [
-        -2.9758,
-        36.7386
-       ],
-       [
-        -2.9431,
-        36.7501
-       ],
-       [
-        -2.9187,
-        36.7509
-       ],
-       [
-        -2.8946,
-        36.7368
-       ],
-       [
-        -2.8564,
-        36.699
-       ],
-       [
-        -2.8437,
-        36.6961
-       ],
-       [
-        -2.818,
-        36.7066
-       ],
-       [
-        -2.798,
-        36.7018
-       ],
-       [
-        -2.7712,
-        36.6816
-       ],
-       [
-        -2.7232,
-        36.6856
-       ],
-       [
-        -2.6994,
-        36.6832
-       ],
-       [
-        -2.645,
-        36.7031
-       ],
-       [
-        -2.618,
-        36.7282
-       ],
-       [
-        -2.6029,
-        36.7563
-       ],
-       [
-        -2.5981,
-        36.7759
-       ],
-       [
-        -2.5608,
-        36.8171
-       ],
-       [
-        -2.501,
-        36.8252
-       ],
-       [
-        -2.4722,
-        36.8374
-       ],
-       [
-        -2.4274,
-        36.8109
-       ],
-       [
-        -2.4025,
-        36.827
-       ],
-       [
-        -2.3669,
-        36.8419
-       ],
-       [
-        -2.3186,
-        36.8347
-       ],
-       [
-        -2.29,
-        36.8199
-       ],
-       [
-        -2.2582,
-        36.7944
-       ],
-       [
-        -2.2325,
-        36.7682
-       ],
-       [
-        -2.2011,
-        36.7309
-       ],
-       [
-        -2.1466,
-        36.391
-       ],
-       [
-        -2.1867,
-        36.3877
-       ],
-       [
-        -2.2608,
-        36.3923
-       ],
-       [
-        -2.3327,
-        36.4076
-       ],
-       [
-        -2.4001,
-        36.433
-       ],
-       [
-        -2.4161,
-        36.4421
-       ],
-       [
-        -2.4427,
-        36.4213
-       ],
-       [
-        -2.5146,
-        36.3844
-       ],
-       [
-        -2.5944,
-        36.3602
-       ],
-       [
-        -2.6785,
-        36.3497
-       ],
-       [
-        -2.7636,
-        36.3533
-       ],
-       [
-        -2.8459,
-        36.3709
-       ],
-       [
-        -3.0039,
-        36.4191
-       ],
-       [
-        -3.113,
-        36.4201
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
      "zona": "Gipuzkoa litoral - Costa",
      "provincia": "Gipuzkoa",
      "nivel": 2,
@@ -4787,9 +1553,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -4962,113 +1728,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral norte de Tarragona - Costa",
-     "provincia": "Tarragona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del suroeste de 50 a 60 km/h (fuerza 7), girando a oeste por la mañana, y olas de 2 a 3 m.",
-       "desde": "2026-11-18T22:00:00+01:00",
-       "hasta": "2026-11-19T13:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        1.6464,
-        41.1959
-       ],
-       [
-        1.805,
-        40.9682
-       ],
-       [
-        1.8661,
-        40.8862
-       ],
-       [
-        1.3322,
-        40.7648
-       ],
-       [
-        1.1189,
-        41.0742
-       ],
-       [
-        1.1404,
-        41.0737
-       ],
-       [
-        1.1618,
-        41.0562
-       ],
-       [
-        1.1814,
-        41.0625
-       ],
-       [
-        1.1839,
-        41.076
-       ],
-       [
-        1.1989,
-        41.0932
-       ],
-       [
-        1.2193,
-        41.1058
-       ],
-       [
-        1.2514,
-        41.109
-       ],
-       [
-        1.3009,
-        41.1284
-       ],
-       [
-        1.358,
-        41.1283
-       ],
-       [
-        1.4085,
-        41.1413
-       ],
-       [
-        1.4605,
-        41.1637
-       ],
-       [
-        1.5278,
-        41.1811
-       ],
-       [
-        1.618,
-        41.191
-       ],
-       [
-        1.6464,
-        41.1959
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral occidental asturiano - Costa",
-     "provincia": "Asturias",
+     "zona": "A Mariña - Costa",
+     "provincia": "Lugo",
      "nivel": 2,
      "nivel_txt": "Naranja",
      "avisos": [
@@ -5077,9 +1738,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) por la noche.",
-       "desde": "2026-11-18T10:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -5090,445 +1751,196 @@
      "coordinates": [
       [
        [
-        -5.9376,
-        43.5947
-       ],
-       [
-        -5.9399,
-        43.5946
-       ],
-       [
-        -5.9589,
-        43.5788
-       ],
-       [
-        -5.9967,
-        43.5786
-       ],
-       [
-        -6.0276,
-        43.5865
-       ],
-       [
-        -6.0632,
-        43.5658
-       ],
-       [
-        -6.1154,
-        43.5555
-       ],
-       [
-        -6.134,
-        43.5647
-       ],
-       [
-        -6.1687,
-        43.5699
-       ],
-       [
-        -6.1828,
-        43.563
-       ],
-       [
-        -6.2014,
-        43.5728
-       ],
-       [
-        -6.2075,
-        43.5854
-       ],
-       [
-        -6.24,
-        43.5924
-       ],
-       [
-        -6.3026,
-        43.5633
-       ],
-       [
-        -6.3306,
-        43.5616
-       ],
-       [
-        -6.3529,
-        43.5513
-       ],
-       [
-        -6.3951,
-        43.5604
-       ],
-       [
-        -6.4286,
-        43.5532
-       ],
-       [
-        -6.4683,
-        43.5709
-       ],
-       [
-        -6.4753,
-        43.5501
-       ],
-       [
-        -6.5002,
-        43.552
-       ],
-       [
-        -6.5383,
-        43.5478
-       ],
-       [
-        -6.5608,
-        43.5567
-       ],
-       [
-        -6.5969,
-        43.5542
-       ],
-       [
-        -6.6248,
-        43.5724
-       ],
-       [
-        -6.6654,
-        43.5656
-       ],
-       [
-        -6.6836,
-        43.5588
-       ],
-       [
-        -6.709,
-        43.5637
-       ],
-       [
-        -6.7196,
-        43.5568
-       ],
-       [
-        -6.757,
-        43.5617
-       ],
-       [
-        -6.773,
-        43.5686
-       ],
-       [
-        -6.7823,
-        43.5567
-       ],
-       [
-        -6.8076,
-        43.555
-       ],
-       [
-        -6.8293,
-        43.5672
-       ],
-       [
-        -6.8727,
-        43.5631
-       ],
-       [
-        -6.9127,
-        43.5731
-       ],
-       [
-        -6.9467,
-        43.5678
-       ],
-       [
-        -6.9955,
-        43.5547
-       ],
-       [
-        -7.0219,
-        43.5572
-       ],
-       [
         -7.0304,
         43.5448
        ],
        [
-        -7.0298,
-        43.607
+        -7.0347,
+        43.5455
        ],
        [
-        -7.0165,
-        43.8227
+        -7.0554,
+        43.5591
+       ],
+       [
+        -7.0744,
+        43.5538
+       ],
+       [
+        -7.1134,
+        43.5625
+       ],
+       [
+        -7.1551,
+        43.554
+       ],
+       [
+        -7.2217,
+        43.5639
+       ],
+       [
+        -7.2916,
+        43.5956
+       ],
+       [
+        -7.3089,
+        43.6175
+       ],
+       [
+        -7.3317,
+        43.6284
+       ],
+       [
+        -7.3536,
+        43.6567
+       ],
+       [
+        -7.3558,
+        43.672
+       ],
+       [
+        -7.3931,
+        43.6798
+       ],
+       [
+        -7.4376,
+        43.6987
+       ],
+       [
+        -7.4672,
+        43.7032
+       ],
+       [
+        -7.4793,
+        43.7238
+       ],
+       [
+        -7.5023,
+        43.723
+       ],
+       [
+        -7.5232,
+        43.7363
+       ],
+       [
+        -7.544,
+        43.7325
+       ],
+       [
+        -7.5584,
+        43.7108
+       ],
+       [
+        -7.5818,
+        43.7126
+       ],
+       [
+        -7.581,
+        43.689
+       ],
+       [
+        -7.6058,
+        43.6919
+       ],
+       [
+        -7.6298,
+        43.7292
+       ],
+       [
+        -7.6337,
+        43.7534
+       ],
+       [
+        -7.6482,
+        43.7443
+       ],
+       [
+        -7.6666,
+        43.7486
+       ],
+       [
+        -7.6797,
+        43.7308
+       ],
+       [
+        -7.6983,
+        43.7355
+       ],
+       [
+        -7.6815,
+        43.7393
+       ],
+       [
+        -7.6748,
+        43.7527
+       ],
+       [
+        -7.6474,
+        43.7676
+       ],
+       [
+        -7.6131,
+        43.8273
+       ],
+       [
+        -7.6068,
+        43.9246
+       ],
+       [
+        -7.6005,
+        44.1169
+       ],
+       [
+        -7.5197,
+        44.1007
+       ],
+       [
+        -7.4383,
+        44.0709
+       ],
+       [
+        -7.4189,
+        44.0599
+       ],
+       [
+        -7.3563,
+        44.0509
+       ],
+       [
+        -7.2471,
+        44.0206
+       ],
+       [
+        -7.1696,
+        43.9886
+       ],
+       [
+        -7.1022,
+        43.9465
+       ],
+       [
+        -7.0473,
+        43.8957
+       ],
+       [
+        -7.0379,
+        43.8822
        ],
        [
         -7.0142,
         43.8824
        ],
        [
-        -6.4716,
-        43.8844
+        -7.0165,
+        43.8227
        ],
        [
-        -6.3885,
-        43.9115
+        -7.0298,
+        43.607
        ],
        [
-        -6.308,
-        43.9254
-       ],
-       [
-        -6.2254,
-        43.9286
-       ],
-       [
-        -6.1549,
-        43.9221
-       ],
-       [
-        -6.0762,
-        43.9596
-       ],
-       [
-        -5.987,
-        43.9854
-       ],
-       [
-        -5.9708,
-        43.9874
-       ],
-       [
-        -5.9512,
-        43.5958
-       ],
-       [
-        -5.9376,
-        43.5947
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Bizkaia litoral - Costa",
-     "provincia": "Bizkaia",
-     "nivel": 2,
-     "nivel_txt": "Naranja",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        -2.4946,
-        43.3653
-       ],
-       [
-        -2.5083,
-        43.3779
-       ],
-       [
-        -2.5423,
-        43.3735
-       ],
-       [
-        -2.5614,
-        43.3912
-       ],
-       [
-        -2.5806,
-        43.3864
-       ],
-       [
-        -2.6002,
-        43.3948
-       ],
-       [
-        -2.6175,
-        43.3921
-       ],
-       [
-        -2.6368,
-        43.4035
-       ],
-       [
-        -2.6444,
-        43.4162
-       ],
-       [
-        -2.6772,
-        43.4125
-       ],
-       [
-        -2.7171,
-        43.4188
-       ],
-       [
-        -2.7171,
-        43.4202
-       ],
-       [
-        -2.7366,
-        43.4295
-       ],
-       [
-        -2.7523,
-        43.4575
-       ],
-       [
-        -2.7946,
-        43.4398
-       ],
-       [
-        -2.8056,
-        43.431
-       ],
-       [
-        -2.8496,
-        43.4303
-       ],
-       [
-        -2.9173,
-        43.4392
-       ],
-       [
-        -2.9441,
-        43.4359
-       ],
-       [
-        -2.9589,
-        43.4163
-       ],
-       [
-        -2.9896,
-        43.3919
-       ],
-       [
-        -3.0335,
-        43.3693
-       ],
-       [
-        -3.018,
-        43.3586
-       ],
-       [
-        -3.0092,
-        43.3381
-       ],
-       [
-        -3.0232,
-        43.3272
-       ],
-       [
-        -3.0328,
-        43.3379
-       ],
-       [
-        -3.0684,
-        43.3473
-       ],
-       [
-        -3.0922,
-        43.3632
-       ],
-       [
-        -3.1121,
-        43.3591
-       ],
-       [
-        -3.1121,
-        43.3521
-       ],
-       [
-        -3.152,
-        43.3535
-       ],
-       [
-        -3.1521,
-        43.3946
-       ],
-       [
-        -3.1737,
-        43.6303
-       ],
-       [
-        -3.187,
-        43.741
-       ],
-       [
-        -3.1604,
-        43.729
-       ],
-       [
-        -3.0976,
-        43.7502
-       ],
-       [
-        -3.0148,
-        43.7654
-       ],
-       [
-        -2.822,
-        43.7871
-       ],
-       [
-        -2.7212,
-        43.7902
-       ],
-       [
-        -2.622,
-        43.7773
-       ],
-       [
-        -2.5291,
-        43.7489
-       ],
-       [
-        -2.3949,
-        43.6944
-       ],
-       [
-        -2.386,
-        43.6929
-       ],
-       [
-        -2.4062,
-        43.3867
-       ],
-       [
-        -2.4115,
-        43.3214
-       ],
-       [
-        -2.4198,
-        43.3293
-       ],
-       [
-        -2.4313,
-        43.3339
-       ],
-       [
-        -2.4627,
-        43.339
-       ],
-       [
-        -2.469,
-        43.3505
-       ],
-       [
-        -2.4946,
-        43.3653
+        -7.0304,
+        43.5448
        ]
       ]
      ]
@@ -5836,8 +2248,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Sierra Tramontana - Costa",
-     "provincia": "Mallorca",
+     "zona": "Litoral sur de Tarragona - Costa",
+     "provincia": "Tarragona",
      "nivel": 3,
      "nivel_txt": "Amarillo",
      "avisos": [
@@ -5846,9 +2258,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) y olas de 3 m.",
-       "desde": "2026-11-19T00:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
+       "descripcion": "Viento del suroeste de 50 a 60 km/h (fuerza 7), girando a oeste por la mañana, y olas de 2 a 3 m.",
+       "desde": "2026-11-18T22:00:00+01:00",
+       "hasta": "2026-11-19T13:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -5859,112 +2271,220 @@
      "coordinates": [
       [
        [
-        2.7365,
-        40.1969
+        0.7344,
+        40.6403
        ],
        [
-        2.9259,
-        39.9006
+        0.7367,
+        40.6408
        ],
        [
-        2.9213,
-        39.9025
+        0.7471,
+        40.6365
        ],
        [
-        2.9185,
-        39.8971
+        0.7125,
+        40.5925
        ],
        [
-        2.8882,
-        39.8872
+        0.6736,
+        40.5937
        ],
        [
-        2.8549,
-        39.8752
+        0.6513,
+        40.5858
        ],
        [
-        2.8262,
-        39.8571
+        0.599,
+        40.5748
        ],
        [
-        2.7798,
-        39.8561
+        0.6102,
+        40.5594
        ],
        [
-        2.7636,
-        39.8329
+        0.651,
+        40.5555
        ],
        [
-        2.7427,
-        39.8328
+        0.6813,
+        40.5646
        ],
        [
-        2.7155,
-        39.8184
+        0.7092,
+        40.5852
        ],
        [
-        2.693,
-        39.7988
+        0.7512,
+        40.6354
        ],
        [
-        2.67,
-        39.7926
+        0.7692,
+        40.6482
        ],
        [
-        2.6667,
-        39.7758
+        0.8426,
+        40.6761
        ],
        [
-        2.6004,
-        39.7332
+        0.8777,
+        40.7017
        ],
        [
-        2.5883,
-        39.7176
+        0.8887,
+        40.7197
        ],
        [
-        2.5568,
-        39.7007
+        0.8753,
+        40.7344
        ],
        [
-        2.5285,
-        39.7017
+        0.8648,
+        40.7218
        ],
        [
-        2.4991,
-        39.685
+        0.829,
+        40.736
        ],
        [
-        2.463,
-        39.6524
+        0.7821,
+        40.775
        ],
        [
-        2.4378,
-        39.6437
+        0.7637,
+        40.7622
        ],
        [
-        2.2556,
-        39.8633
+        0.7298,
+        40.7706
        ],
        [
-        2.1965,
-        39.9308
+        0.7105,
+        40.7863
        ],
        [
-        2.5171,
-        40.1205
+        0.7008,
+        40.8042
        ],
        [
-        2.5744,
-        40.1489
+        0.73,
+        40.8182
        ],
        [
-        2.6368,
-        40.1701
+        0.7531,
+        40.8465
        ],
        [
-        2.7365,
-        40.1969
+        0.7935,
+        40.867
+       ],
+       [
+        0.8589,
+        40.935
+       ],
+       [
+        0.9185,
+        40.9884
+       ],
+       [
+        0.9676,
+        41.0288
+       ],
+       [
+        0.9904,
+        41.0419
+       ],
+       [
+        1.005,
+        41.0434
+       ],
+       [
+        1.0519,
+        41.0648
+       ],
+       [
+        1.0853,
+        41.064
+       ],
+       [
+        1.1189,
+        41.0742
+       ],
+       [
+        1.3322,
+        40.7648
+       ],
+       [
+        1.3107,
+        40.7514
+       ],
+       [
+        1.3151,
+        40.6878
+       ],
+       [
+        1.3034,
+        40.6247
+       ],
+       [
+        1.2762,
+        40.5645
+       ],
+       [
+        1.2346,
+        40.5092
+       ],
+       [
+        1.18,
+        40.4611
+       ],
+       [
+        1.1145,
+        40.4216
+       ],
+       [
+        1.0712,
+        40.4003
+       ],
+       [
+        1.0424,
+        40.3712
+       ],
+       [
+        1.0105,
+        40.3457
+       ],
+       [
+        0.9103,
+        40.3832
+       ],
+       [
+        0.5504,
+        40.5159
+       ],
+       [
+        0.5163,
+        40.5233
+       ],
+       [
+        0.5394,
+        40.5678
+       ],
+       [
+        0.6038,
+        40.6224
+       ],
+       [
+        0.6644,
+        40.6269
+       ],
+       [
+        0.7048,
+        40.639
+       ],
+       [
+        0.7344,
+        40.6403
        ]
       ]
      ]
@@ -5983,9 +2503,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -6582,6 +3102,736 @@
    {
     "type": "Feature",
     "properties": {
+     "zona": "Costa granadina - Costa",
+     "provincia": "Granada",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
+       "desde": "2026-11-18T10:00:00+01:00",
+       "hasta": "2026-11-19T17:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -3.113,
+        36.4201
+       ],
+       [
+        -3.1635,
+        36.4205
+       ],
+       [
+        -3.252,
+        36.3891
+       ],
+       [
+        -3.3298,
+        36.3685
+       ],
+       [
+        -3.411,
+        36.3607
+       ],
+       [
+        -3.4926,
+        36.366
+       ],
+       [
+        -3.7626,
+        36.405
+       ],
+       [
+        -3.7678,
+        36.4885
+       ],
+       [
+        -3.7777,
+        36.6973
+       ],
+       [
+        -3.7762,
+        36.7384
+       ],
+       [
+        -3.7532,
+        36.7391
+       ],
+       [
+        -3.7343,
+        36.7283
+       ],
+       [
+        -3.7034,
+        36.7343
+       ],
+       [
+        -3.6768,
+        36.7304
+       ],
+       [
+        -3.6566,
+        36.7469
+       ],
+       [
+        -3.6202,
+        36.7417
+       ],
+       [
+        -3.6008,
+        36.745
+       ],
+       [
+        -3.5789,
+        36.724
+       ],
+       [
+        -3.5493,
+        36.7151
+       ],
+       [
+        -3.5259,
+        36.7252
+       ],
+       [
+        -3.5142,
+        36.7222
+       ],
+       [
+        -3.4791,
+        36.6973
+       ],
+       [
+        -3.4191,
+        36.6946
+       ],
+       [
+        -3.3872,
+        36.7094
+       ],
+       [
+        -3.3872,
+        36.7117
+       ],
+       [
+        -3.3717,
+        36.7125
+       ],
+       [
+        -3.3371,
+        36.7389
+       ],
+       [
+        -3.3036,
+        36.7384
+       ],
+       [
+        -3.2486,
+        36.7552
+       ],
+       [
+        -3.2109,
+        36.7457
+       ],
+       [
+        -3.2015,
+        36.7505
+       ],
+       [
+        -3.1439,
+        36.7452
+       ],
+       [
+        -3.1274,
+        36.7514
+       ],
+       [
+        -3.1255,
+        36.7248
+       ],
+       [
+        -3.1194,
+        36.5017
+       ],
+       [
+        -3.113,
+        36.4201
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Ibiza y Formentera - Costa",
+     "provincia": "Ibiza y Formentera",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
+       "desde": "2026-11-19T07:00:00+01:00",
+       "hasta": "2026-11-19T17:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        0.7333,
+        38.9939
+       ],
+       [
+        0.7449,
+        39.0592
+       ],
+       [
+        0.7728,
+        39.1214
+       ],
+       [
+        0.816,
+        39.1781
+       ],
+       [
+        0.8727,
+        39.2271
+       ],
+       [
+        0.9439,
+        39.2678
+       ],
+       [
+        1.0229,
+        39.2965
+       ],
+       [
+        1.0473,
+        39.3023
+       ],
+       [
+        1.1051,
+        39.3422
+       ],
+       [
+        1.1712,
+        39.3734
+       ],
+       [
+        1.2435,
+        39.3948
+       ],
+       [
+        1.2705,
+        39.3987
+       ],
+       [
+        1.3089,
+        39.4139
+       ],
+       [
+        1.391,
+        39.4319
+       ],
+       [
+        1.4762,
+        39.4368
+       ],
+       [
+        1.5609,
+        39.4285
+       ],
+       [
+        1.5818,
+        39.423
+       ],
+       [
+        1.6556,
+        39.4222
+       ],
+       [
+        1.7421,
+        39.407
+       ],
+       [
+        1.8227,
+        39.3783
+       ],
+       [
+        1.8939,
+        39.3373
+       ],
+       [
+        1.9527,
+        39.2858
+       ],
+       [
+        1.9804,
+        39.2481
+       ],
+       [
+        2.0028,
+        39.2265
+       ],
+       [
+        2.0402,
+        39.1727
+       ],
+       [
+        2.067,
+        39.1053
+       ],
+       [
+        2.0771,
+        39.0397
+       ],
+       [
+        2.0705,
+        38.9739
+       ],
+       [
+        2.0474,
+        38.9104
+       ],
+       [
+        2.0088,
+        38.8517
+       ],
+       [
+        1.9662,
+        38.8099
+       ],
+       [
+        1.9738,
+        38.7995
+       ],
+       [
+        2.0006,
+        38.7358
+       ],
+       [
+        2.0105,
+        38.6692
+       ],
+       [
+        2.0032,
+        38.6024
+       ],
+       [
+        1.9791,
+        38.5381
+       ],
+       [
+        1.9391,
+        38.4789
+       ],
+       [
+        1.8849,
+        38.4271
+       ],
+       [
+        1.8187,
+        38.3849
+       ],
+       [
+        1.7431,
+        38.3539
+       ],
+       [
+        1.6613,
+        38.3355
+       ],
+       [
+        1.5764,
+        38.3302
+       ],
+       [
+        1.5422,
+        38.3335
+       ],
+       [
+        1.5049,
+        38.3218
+       ],
+       [
+        1.4252,
+        38.3099
+       ],
+       [
+        1.3441,
+        38.3102
+       ],
+       [
+        1.2645,
+        38.3226
+       ],
+       [
+        1.1893,
+        38.3467
+       ],
+       [
+        1.1213,
+        38.3817
+       ],
+       [
+        1.063,
+        38.4262
+       ],
+       [
+        1.0164,
+        38.4786
+       ],
+       [
+        0.9834,
+        38.537
+       ],
+       [
+        0.9711,
+        38.5789
+       ],
+       [
+        0.9378,
+        38.5943
+       ],
+       [
+        0.8747,
+        38.6387
+       ],
+       [
+        0.8241,
+        38.692
+       ],
+       [
+        0.7878,
+        38.7522
+       ],
+       [
+        0.7675,
+        38.8167
+       ],
+       [
+        0.7655,
+        38.8555
+       ],
+       [
+        0.7599,
+        38.8644
+       ],
+       [
+        0.7384,
+        38.9281
+       ],
+       [
+        0.7333,
+        38.9939
+       ]
+      ],
+      [
+       [
+        1.3035,
+        38.9699
+       ],
+       [
+        1.2849,
+        38.9747
+       ],
+       [
+        1.2689,
+        38.967
+       ],
+       [
+        1.2333,
+        38.9691
+       ],
+       [
+        1.2162,
+        38.9591
+       ],
+       [
+        1.2371,
+        38.936
+       ],
+       [
+        1.2152,
+        38.9052
+       ],
+       [
+        1.2232,
+        38.8797
+       ],
+       [
+        1.2445,
+        38.8669
+       ],
+       [
+        1.2675,
+        38.8777
+       ],
+       [
+        1.2985,
+        38.8769
+       ],
+       [
+        1.3228,
+        38.8638
+       ],
+       [
+        1.3439,
+        38.8715
+       ],
+       [
+        1.362,
+        38.8613
+       ],
+       [
+        1.3717,
+        38.8445
+       ],
+       [
+        1.4075,
+        38.8322
+       ],
+       [
+        1.4033,
+        38.8496
+       ],
+       [
+        1.4113,
+        38.8913
+       ],
+       [
+        1.4247,
+        38.9055
+       ],
+       [
+        1.4399,
+        38.9029
+       ],
+       [
+        1.4586,
+        38.9185
+       ],
+       [
+        1.4703,
+        38.9132
+       ],
+       [
+        1.5064,
+        38.9336
+       ],
+       [
+        1.5113,
+        38.9471
+       ],
+       [
+        1.5292,
+        38.9457
+       ],
+       [
+        1.5321,
+        38.98
+       ],
+       [
+        1.553,
+        38.993
+       ],
+       [
+        1.5825,
+        38.9897
+       ],
+       [
+        1.5862,
+        39.016
+       ],
+       [
+        1.6042,
+        39.0247
+       ],
+       [
+        1.6067,
+        39.0451
+       ],
+       [
+        1.5891,
+        39.0641
+       ],
+       [
+        1.6018,
+        39.0926
+       ],
+       [
+        1.5804,
+        39.0988
+       ],
+       [
+        1.5579,
+        39.0939
+       ],
+       [
+        1.5342,
+        39.1188
+       ],
+       [
+        1.4973,
+        39.099
+       ],
+       [
+        1.476,
+        39.1058
+       ],
+       [
+        1.418,
+        39.0777
+       ],
+       [
+        1.3654,
+        39.074
+       ],
+       [
+        1.3428,
+        39.0536
+       ],
+       [
+        1.3269,
+        39.053
+       ],
+       [
+        1.2951,
+        39.032
+       ],
+       [
+        1.2961,
+        39.0062
+       ],
+       [
+        1.2847,
+        38.9995
+       ],
+       [
+        1.3035,
+        38.9699
+       ]
+      ],
+      [
+       [
+        1.4135,
+        38.7217
+       ],
+       [
+        1.3974,
+        38.7313
+       ],
+       [
+        1.3879,
+        38.7222
+       ],
+       [
+        1.3914,
+        38.6999
+       ],
+       [
+        1.3815,
+        38.693
+       ],
+       [
+        1.3883,
+        38.6684
+       ],
+       [
+        1.3849,
+        38.6461
+       ],
+       [
+        1.3951,
+        38.6417
+       ],
+       [
+        1.443,
+        38.6842
+       ],
+       [
+        1.4777,
+        38.6824
+       ],
+       [
+        1.5172,
+        38.6621
+       ],
+       [
+        1.5253,
+        38.6535
+       ],
+       [
+        1.5698,
+        38.6509
+       ],
+       [
+        1.5857,
+        38.6633
+       ],
+       [
+        1.5787,
+        38.6847
+       ],
+       [
+        1.5615,
+        38.6912
+       ],
+       [
+        1.5314,
+        38.673
+       ],
+       [
+        1.5133,
+        38.6799
+       ],
+       [
+        1.4788,
+        38.7029
+       ],
+       [
+        1.4719,
+        38.7213
+       ],
+       [
+        1.456,
+        38.7267
+       ],
+       [
+        1.4412,
+        38.7444
+       ],
+       [
+        1.4135,
+        38.7217
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
      "zona": "Rias Baixas - Costa",
      "provincia": "Pontevedra",
      "nivel": 2,
@@ -6592,9 +3842,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T08:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -7081,9 +4331,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 6 a 8 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7), temporalmente 62 a 74 km/h (fuerza 8) por la noche al norte de Cabo Vilán.",
-       "desde": "2026-11-18T18:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T08:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -7168,8 +4418,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral sur de Valencia - Costa",
-     "provincia": "València/Valencia",
+     "zona": "Poniente y Almería Capital - Costa",
+     "provincia": "Almería",
      "nivel": 3,
      "nivel_txt": "Amarillo",
      "avisos": [
@@ -7178,9 +4428,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del oeste de 50 a 60 km/h (fuerza 7) con rachas fuertes.",
-       "desde": "2026-11-19T08:00:00+01:00",
-       "hasta": "2026-11-19T12:59:59+01:00",
+       "descripcion": "Viento del oeste y suroeste de 50 a 60 km/h (fuerza 7) con olas de 2 a 3 m.",
+       "desde": "2026-11-18T10:00:00+01:00",
+       "hasta": "2026-11-19T17:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -7191,92 +4441,192 @@
      "coordinates": [
       [
        [
-        -0.2712,
-        39.2792
+        -3.113,
+        36.4201
        ],
        [
-        -0.2713,
-        39.2792
+        -3.1194,
+        36.5017
        ],
        [
-        0.0797,
-        39.2604
+        -3.1255,
+        36.7248
        ],
        [
-        0.184,
-        39.2544
+        -3.1274,
+        36.7514
        ],
        [
-        0.2194,
-        39.1655
+        -3.1079,
+        36.7509
        ],
        [
-        0.2334,
-        39.1539
+        -3.0697,
+        36.7461
        ],
        [
-        0.3605,
-        39.1133
+        -3.0207,
+        36.7479
        ],
        [
-        0.4383,
-        39.0806
+        -2.9758,
+        36.7386
        ],
        [
-        0.5057,
-        39.0362
+        -2.9431,
+        36.7501
        ],
        [
-        0.5599,
-        38.9819
+        -2.9187,
+        36.7509
        ],
        [
-        0.6127,
-        38.9029
+        -2.8946,
+        36.7368
        ],
        [
-        -0.0365,
-        38.8868
+        -2.8564,
+        36.699
        ],
        [
-        -0.0688,
-        38.9107
+        -2.8437,
+        36.6961
        ],
        [
-        -0.1348,
-        38.9714
+        -2.818,
+        36.7066
        ],
        [
-        -0.18,
-        39.0312
+        -2.798,
+        36.7018
        ],
        [
-        -0.1983,
-        39.0589
+        -2.7712,
+        36.6816
        ],
        [
-        -0.2349,
-        39.1368
+        -2.7232,
+        36.6856
        ],
        [
-        -0.24,
-        39.1644
+        -2.6994,
+        36.6832
        ],
        [
-        -0.2358,
-        39.1787
+        -2.645,
+        36.7031
        ],
        [
-        -0.221,
-        39.1891
+        -2.618,
+        36.7282
        ],
        [
-        -0.2731,
-        39.2793
+        -2.6029,
+        36.7563
        ],
        [
-        -0.2712,
-        39.2792
+        -2.5981,
+        36.7759
+       ],
+       [
+        -2.5608,
+        36.8171
+       ],
+       [
+        -2.501,
+        36.8252
+       ],
+       [
+        -2.4722,
+        36.8374
+       ],
+       [
+        -2.4274,
+        36.8109
+       ],
+       [
+        -2.4025,
+        36.827
+       ],
+       [
+        -2.3669,
+        36.8419
+       ],
+       [
+        -2.3186,
+        36.8347
+       ],
+       [
+        -2.29,
+        36.8199
+       ],
+       [
+        -2.2582,
+        36.7944
+       ],
+       [
+        -2.2325,
+        36.7682
+       ],
+       [
+        -2.2011,
+        36.7309
+       ],
+       [
+        -2.1466,
+        36.391
+       ],
+       [
+        -2.1867,
+        36.3877
+       ],
+       [
+        -2.2608,
+        36.3923
+       ],
+       [
+        -2.3327,
+        36.4076
+       ],
+       [
+        -2.4001,
+        36.433
+       ],
+       [
+        -2.4161,
+        36.4421
+       ],
+       [
+        -2.4427,
+        36.4213
+       ],
+       [
+        -2.5146,
+        36.3844
+       ],
+       [
+        -2.5944,
+        36.3602
+       ],
+       [
+        -2.6785,
+        36.3497
+       ],
+       [
+        -2.7636,
+        36.3533
+       ],
+       [
+        -2.8459,
+        36.3709
+       ],
+       [
+        -3.0039,
+        36.4191
+       ],
+       [
+        -3.113,
+        36.4201
        ]
       ]
      ]
@@ -7285,8 +4635,8 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral cántabro - Costa",
-     "provincia": "Cantabria",
+     "zona": "Suroeste de A Coruña - Costa",
+     "provincia": "A Coruña",
      "nivel": 2,
      "nivel_txt": "Naranja",
      "avisos": [
@@ -7295,9 +4645,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Viento de Componente Oeste de 50 a 61 km/h (fuerza 7), temporalmente de 62 a 74 km/h (fuerza 8) durante la madrugada. Mar combinada del Noroeste de 5 a 7 m.",
-       "desde": "2026-11-18T12:00:00+01:00",
-       "hasta": "2026-11-19T23:59:59+01:00",
+       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -7308,332 +4658,280 @@
      "coordinates": [
       [
        [
-        -3.152,
-        43.3535
+        -9.1124,
+        42.7614
        ],
        [
-        -3.1915,
-        43.3641
+        -9.0766,
+        42.7394
        ],
        [
-        -3.2129,
-        43.3779
+        -9.0743,
+        42.7579
        ],
        [
-        -3.2195,
-        43.3938
+        -9.0564,
+        42.76
        ],
        [
-        -3.256,
-        43.4036
+        -9.0571,
+        42.7858
        ],
        [
-        -3.2756,
-        43.4027
+        -9.0409,
+        42.7877
        ],
        [
-        -3.3012,
-        43.4098
+        -9.0187,
+        42.801
        ],
        [
-        -3.3205,
-        43.4039
+        -9.0133,
+        42.7841
        ],
        [
-        -3.3252,
-        43.4163
+        -8.9797,
+        42.7788
        ],
        [
-        -3.3571,
-        43.4125
+        -8.9495,
+        42.783
        ],
        [
-        -3.3809,
-        43.4157
+        -8.944,
+        42.7984
        ],
        [
-        -3.4253,
-        43.4139
+        -8.9141,
+        42.7981
        ],
        [
-        -3.4449,
-        43.4334
+        -8.9392,
+        42.7742
        ],
        [
-        -3.4245,
-        43.4442
+        -8.9562,
+        42.7461
        ],
        [
-        -3.4341,
-        43.4651
+        -8.99,
+        42.7404
        ],
        [
-        -3.4946,
-        43.4718
+        -9.0069,
+        42.7276
        ],
        [
-        -3.5287,
-        43.4909
+        -9.0093,
+        42.7109
        ],
        [
-        -3.5487,
-        43.5093
+        -9.0279,
+        42.702
        ],
        [
-        -3.5771,
-        43.5068
+        -9.0283,
+        42.6805
        ],
        [
-        -3.5955,
-        43.5132
+        -9.0398,
+        42.6706
        ],
        [
-        -3.6104,
-        43.4988
+        -9.0368,
+        42.6421
        ],
        [
-        -3.6434,
-        43.4988
+        -9.0682,
+        42.5988
        ],
        [
-        -3.6862,
-        43.4756
+        -9.0767,
+        42.599
        ],
        [
-        -3.7044,
-        43.4799
+        -9.0802,
+        42.5786
        ],
        [
-        -3.7238,
-        43.4629
+        -9.0898,
+        42.5786
        ],
        [
-        -3.7679,
-        43.4493
+        -9.048,
+        42.5739
        ],
        [
-        -3.7782,
-        43.4246
+        -9.0322,
+        42.5587
        ],
        [
-        -3.8052,
-        43.413
+        -9.029,
+        42.5453
        ],
        [
-        -3.8131,
-        43.4024
+        -9.0433,
+        42.5244
        ],
        [
-        -3.808,
-        43.4219
+        -9.0241,
+        42.5199
        ],
        [
-        -3.834,
-        43.4423
+        -8.9971,
+        42.5294
        ],
        [
-        -3.8131,
-        43.4496
+        -8.9814,
+        42.5458
        ],
        [
-        -3.8017,
-        43.4612
+        -8.9905,
+        42.5605
        ],
        [
-        -3.7809,
-        43.4634
+        -8.9672,
+        42.5699
        ],
        [
-        -3.7887,
-        43.4914
+        -8.9547,
+        42.5837
        ],
        [
-        -3.8107,
-        43.4954
+        -8.9192,
+        42.587
        ],
        [
-        -3.8346,
-        43.4802
+        -8.9361,
+        42.6084
        ],
        [
-        -3.8915,
-        43.4774
+        -8.8888,
+        42.6412
        ],
        [
-        -3.9427,
-        43.4704
+        -8.8865,
+        42.6212
        ],
        [
-        -3.9572,
-        43.4546
+        -8.874,
+        42.6139
        ],
        [
-        -3.9807,
-        43.4415
+        -8.8663,
+        42.6085
        ],
        [
-        -3.9977,
-        43.4398
+        -8.8546,
+        42.6301
        ],
        [
-        -4.0124,
-        43.4481
+        -8.8558,
+        42.6478
        ],
        [
-        -4.0513,
-        43.437
+        -8.8403,
+        42.6663
        ],
        [
-        -4.0536,
-        43.4341
+        -8.8131,
+        42.6642
        ],
        [
-        -4.093,
-        43.4277
+        -8.8159,
+        42.6462
        ],
        [
-        -4.1145,
-        43.4177
+        -8.794,
+        42.6367
        ],
        [
-        -4.1502,
-        43.412
+        -8.7615,
+        42.6521
        ],
        [
-        -4.2177,
-        43.3957
+        -8.7476,
+        42.652
        ],
        [
-        -4.2319,
-        43.4008
+        -8.7287,
+        42.6737
        ],
        [
-        -4.2706,
-        43.3937
+        -8.7253,
+        42.6886
        ],
        [
-        -4.2796,
-        43.3875
+        -8.7275,
+        42.6671
        ],
        [
-        -4.3062,
-        43.3929
+        -8.7373,
+        42.6614
        ],
        [
-        -4.3319,
-        43.3924
+        -8.7398,
+        42.65
        ],
        [
-        -4.3395,
-        43.4064
+        -8.7772,
+        42.6334
        ],
        [
-        -4.3684,
-        43.3926
+        -8.8247,
+        42.6056
        ],
        [
-        -4.4141,
-        43.3985
+        -8.8678,
+        42.5872
        ],
        [
-        -4.4578,
-        43.3942
+        -8.9073,
+        42.5744
        ],
        [
-        -4.4726,
-        43.3892
+        -8.9643,
+        42.4843
        ],
        [
-        -4.4991,
-        43.3963
+        -8.9799,
+        42.4651
        ],
        [
-        -4.5109,
-        43.3935
+        -9.035,
+        42.4447
        ],
        [
-        -4.5089,
-        43.5121
+        -9.1935,
+        42.4132
        ],
        [
-        -4.5237,
-        43.7289
+        -9.4561,
+        42.3719
        ],
        [
-        -4.4571,
-        43.7285
+        -9.4764,
+        42.4092
        ],
        [
-        -4.2964,
-        43.7322
+        -9.5172,
+        42.4757
        ],
        [
-        -4.2087,
-        43.7587
+        -9.5375,
+        42.5472
        ],
        [
-        -4.0661,
-        43.7888
+        -9.5367,
+        42.5956
        ],
        [
-        -4.0338,
-        43.7981
+        -9.417,
+        42.6435
        ],
        [
-        -3.9997,
-        43.8028
-       ],
-       [
-        -3.938,
-        43.8158
-       ],
-       [
-        -3.8514,
-        43.8275
-       ],
-       [
-        -3.7632,
-        43.8271
-       ],
-       [
-        -3.7453,
-        43.8244
-       ],
-       [
-        -3.6557,
-        43.8423
-       ],
-       [
-        -3.5606,
-        43.8465
-       ],
-       [
-        -3.4664,
-        43.8364
-       ],
-       [
-        -3.3772,
-        43.8124
-       ],
-       [
-        -3.222,
-        43.7567
-       ],
-       [
-        -3.187,
-        43.741
-       ],
-       [
-        -3.1737,
-        43.6303
-       ],
-       [
-        -3.1521,
-        43.3946
-       ],
-       [
-        -3.152,
-        43.3535
+        -9.1124,
+        42.7614
        ]
       ]
      ]
@@ -7642,187 +4940,103 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Altiplano de Murcia",
-     "provincia": "",
+     "zona": "Litoral norte de Tarragona - Costa",
+     "provincia": "Tarragona",
      "nivel": 3,
      "nivel_txt": "Amarillo",
-     "avisos": []
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Viento del suroeste de 50 a 60 km/h (fuerza 7), girando a oeste por la mañana, y olas de 2 a 3 m.",
+       "desde": "2026-11-18T22:00:00+01:00",
+       "hasta": "2026-11-19T13:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
     },
     "geometry": {
      "type": "Polygon",
      "coordinates": [
       [
        [
-        -1.0257,
-        38.6559
+        1.6464,
+        41.1959
        ],
        [
-        -1.0147,
-        38.6355
+        1.805,
+        40.9682
        ],
        [
-        -1.0108,
-        38.6065
+        1.8661,
+        40.8862
        ],
        [
-        -1.0004,
-        38.5731
+        1.3322,
+        40.7648
        ],
        [
-        -1.0147,
-        38.5375
+        1.1189,
+        41.0742
        ],
        [
-        -1.0249,
-        38.5232
+        1.1404,
+        41.0737
        ],
        [
-        -1.0127,
-        38.4975
+        1.1618,
+        41.0562
        ],
        [
-        -1.0337,
-        38.4749
+        1.1814,
+        41.0625
        ],
        [
-        -1.0809,
-        38.4415
+        1.1839,
+        41.076
        ],
        [
-        -1.0869,
-        38.4028
+        1.1989,
+        41.0932
        ],
        [
-        -1.0832,
-        38.3466
+        1.2193,
+        41.1058
        ],
        [
-        -1.1174,
-        38.3227
+        1.2514,
+        41.109
        ],
        [
-        -1.14,
-        38.3166
+        1.3009,
+        41.1284
        ],
        [
-        -1.1963,
-        38.2905
+        1.358,
+        41.1283
        ],
        [
-        -1.2181,
-        38.3057
+        1.4085,
+        41.1413
        ],
        [
-        -1.2353,
-        38.3079
+        1.4605,
+        41.1637
        ],
        [
-        -1.2511,
-        38.3205
+        1.5278,
+        41.1811
        ],
        [
-        -1.2818,
-        38.3199
+        1.618,
+        41.191
        ],
        [
-        -1.3177,
-        38.3139
-       ],
-       [
-        -1.3526,
-        38.3351
-       ],
-       [
-        -1.387,
-        38.3447
-       ],
-       [
-        -1.4493,
-        38.3726
-       ],
-       [
-        -1.4773,
-        38.3768
-       ],
-       [
-        -1.4743,
-        38.3988
-       ],
-       [
-        -1.4753,
-        38.4476
-       ],
-       [
-        -1.4872,
-        38.5152
-       ],
-       [
-        -1.4975,
-        38.5325
-       ],
-       [
-        -1.4865,
-        38.5637
-       ],
-       [
-        -1.4508,
-        38.5819
-       ],
-       [
-        -1.4421,
-        38.6373
-       ],
-       [
-        -1.4465,
-        38.6499
-       ],
-       [
-        -1.4204,
-        38.6774
-       ],
-       [
-        -1.401,
-        38.6912
-       ],
-       [
-        -1.3654,
-        38.7044
-       ],
-       [
-        -1.3431,
-        38.6775
-       ],
-       [
-        -1.2854,
-        38.7059
-       ],
-       [
-        -1.2616,
-        38.7306
-       ],
-       [
-        -1.2264,
-        38.7461
-       ],
-       [
-        -1.1824,
-        38.7555
-       ],
-       [
-        -1.1185,
-        38.7381
-       ],
-       [
-        -1.1144,
-        38.7118
-       ],
-       [
-        -1.0432,
-        38.6626
-       ],
-       [
-        -1.0257,
-        38.6559
+        1.6464,
+        41.1959
        ]
       ]
      ]
@@ -7831,357 +5045,777 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Vega del Segura",
-     "provincia": "",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": []
+     "zona": "Litoral occidental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 2,
+     "nivel_txt": "Naranja",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
     },
     "geometry": {
-     "type": "MultiPolygon",
+     "type": "Polygon",
      "coordinates": [
       [
        [
-        [
-         -1.7319,
-         37.9496
-        ],
-        [
-         -1.7011,
-         37.9746
-        ],
-        [
-         -1.6708,
-         37.9883
-        ],
-        [
-         -1.614,
-         38.0568
-        ],
-        [
-         -1.6245,
-         38.0901
-        ],
-        [
-         -1.6314,
-         38.1639
-        ],
-        [
-         -1.5882,
-         38.1904
-        ],
-        [
-         -1.5778,
-         38.2224
-        ],
-        [
-         -1.5828,
-         38.2749
-        ],
-        [
-         -1.5938,
-         38.3055
-        ],
-        [
-         -1.5883,
-         38.3104
-        ],
-        [
-         -1.557,
-         38.3256
-        ],
-        [
-         -1.5399,
-         38.3439
-        ],
-        [
-         -1.5047,
-         38.3597
-        ],
-        [
-         -1.4773,
-         38.3768
-        ],
-        [
-         -1.4493,
-         38.3726
-        ],
-        [
-         -1.387,
-         38.3447
-        ],
-        [
-         -1.3526,
-         38.3351
-        ],
-        [
-         -1.3177,
-         38.3139
-        ],
-        [
-         -1.2818,
-         38.3199
-        ],
-        [
-         -1.2511,
-         38.3205
-        ],
-        [
-         -1.2353,
-         38.3079
-        ],
-        [
-         -1.2181,
-         38.3057
-        ],
-        [
-         -1.1963,
-         38.2905
-        ],
-        [
-         -1.14,
-         38.3166
-        ],
-        [
-         -1.1174,
-         38.3227
-        ],
-        [
-         -1.0832,
-         38.3466
-        ],
-        [
-         -1.0574,
-         38.346
-        ],
-        [
-         -1.0272,
-         38.339
-        ],
-        [
-         -0.9878,
-         38.321
-        ],
-        [
-         -0.9703,
-         38.2905
-        ],
-        [
-         -0.9674,
-         38.2562
-        ],
-        [
-         -0.9766,
-         38.2387
-        ],
-        [
-         -0.9873,
-         38.1999
-        ],
-        [
-         -1.0076,
-         38.1673
-        ],
-        [
-         -1.0356,
-         38.1381
-        ],
-        [
-         -1.0291,
-         38.0975
-        ],
-        [
-         -1.0214,
-         38.0761
-        ],
-        [
-         -0.9648,
-         38.0131
-        ],
-        [
-         -0.933,
-         37.9693
-        ],
-        [
-         -0.9212,
-         37.9469
-        ],
-        [
-         -0.899,
-         37.9236
-        ],
-        [
-         -0.8501,
-         37.8822
-        ],
-        [
-         -0.8641,
-         37.8647
-        ],
-        [
-         -0.9357,
-         37.8309
-        ],
-        [
-         -0.981,
-         37.8235
-        ],
-        [
-         -1.0004,
-         37.8497
-        ],
-        [
-         -1.0197,
-         37.8353
-        ],
-        [
-         -1.0337,
-         37.8123
-        ],
-        [
-         -1.0745,
-         37.7863
-        ],
-        [
-         -1.0792,
-         37.7736
-        ],
-        [
-         -1.0996,
-         37.7741
-        ],
-        [
-         -1.1409,
-         37.7521
-        ],
-        [
-         -1.1639,
-         37.7751
-        ],
-        [
-         -1.159,
-         37.7899
-        ],
-        [
-         -1.1863,
-         37.8126
-        ],
-        [
-         -1.2096,
-         37.8005
-        ],
-        [
-         -1.2311,
-         37.8283
-        ],
-        [
-         -1.2475,
-         37.8328
-        ],
-        [
-         -1.2675,
-         37.8487
-        ],
-        [
-         -1.2812,
-         37.9051
-        ],
-        [
-         -1.3053,
-         37.89
-        ],
-        [
-         -1.3157,
-         37.8756
-        ],
-        [
-         -1.331,
-         37.8744
-        ],
-        [
-         -1.346,
-         37.8625
-        ],
-        [
-         -1.3612,
-         37.8809
-        ],
-        [
-         -1.3883,
-         37.8898
-        ],
-        [
-         -1.4094,
-         37.9064
-        ],
-        [
-         -1.4643,
-         37.8997
-        ],
-        [
-         -1.5019,
-         37.8877
-        ],
-        [
-         -1.5637,
-         37.8875
-        ],
-        [
-         -1.5955,
-         37.8952
-        ],
-        [
-         -1.6191,
-         37.8843
-        ],
-        [
-         -1.6525,
-         37.8607
-        ],
-        [
-         -1.6784,
-         37.8811
-        ],
-        [
-         -1.6738,
-         37.8989
-        ],
-        [
-         -1.6899,
-         37.9095
-        ],
-        [
-         -1.704,
-         37.9288
-        ],
-        [
-         -1.7319,
-         37.9496
-        ]
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9399,
+        43.5946
+       ],
+       [
+        -5.9589,
+        43.5788
+       ],
+       [
+        -5.9967,
+        43.5786
+       ],
+       [
+        -6.0276,
+        43.5865
+       ],
+       [
+        -6.0632,
+        43.5658
+       ],
+       [
+        -6.1154,
+        43.5555
+       ],
+       [
+        -6.134,
+        43.5647
+       ],
+       [
+        -6.1687,
+        43.5699
+       ],
+       [
+        -6.1828,
+        43.563
+       ],
+       [
+        -6.2014,
+        43.5728
+       ],
+       [
+        -6.2075,
+        43.5854
+       ],
+       [
+        -6.24,
+        43.5924
+       ],
+       [
+        -6.3026,
+        43.5633
+       ],
+       [
+        -6.3306,
+        43.5616
+       ],
+       [
+        -6.3529,
+        43.5513
+       ],
+       [
+        -6.3951,
+        43.5604
+       ],
+       [
+        -6.4286,
+        43.5532
+       ],
+       [
+        -6.4683,
+        43.5709
+       ],
+       [
+        -6.4753,
+        43.5501
+       ],
+       [
+        -6.5002,
+        43.552
+       ],
+       [
+        -6.5383,
+        43.5478
+       ],
+       [
+        -6.5608,
+        43.5567
+       ],
+       [
+        -6.5969,
+        43.5542
+       ],
+       [
+        -6.6248,
+        43.5724
+       ],
+       [
+        -6.6654,
+        43.5656
+       ],
+       [
+        -6.6836,
+        43.5588
+       ],
+       [
+        -6.709,
+        43.5637
+       ],
+       [
+        -6.7196,
+        43.5568
+       ],
+       [
+        -6.757,
+        43.5617
+       ],
+       [
+        -6.773,
+        43.5686
+       ],
+       [
+        -6.7823,
+        43.5567
+       ],
+       [
+        -6.8076,
+        43.555
+       ],
+       [
+        -6.8293,
+        43.5672
+       ],
+       [
+        -6.8727,
+        43.5631
+       ],
+       [
+        -6.9127,
+        43.5731
+       ],
+       [
+        -6.9467,
+        43.5678
+       ],
+       [
+        -6.9955,
+        43.5547
+       ],
+       [
+        -7.0219,
+        43.5572
+       ],
+       [
+        -7.0304,
+        43.5448
+       ],
+       [
+        -7.0298,
+        43.607
+       ],
+       [
+        -7.0165,
+        43.8227
+       ],
+       [
+        -7.0142,
+        43.8824
+       ],
+       [
+        -6.4716,
+        43.8844
+       ],
+       [
+        -6.3885,
+        43.9115
+       ],
+       [
+        -6.308,
+        43.9254
+       ],
+       [
+        -6.2254,
+        43.9286
+       ],
+       [
+        -6.1549,
+        43.9221
+       ],
+       [
+        -6.0762,
+        43.9596
+       ],
+       [
+        -5.987,
+        43.9854
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9376,
+        43.5947
        ]
-      ],
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Bizkaia litoral - Costa",
+     "provincia": "Bizkaia",
+     "nivel": 2,
+     "nivel_txt": "Naranja",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T14:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
       [
        [
-        [
-         -1.0621,
-         37.7605
-        ],
-        [
-         -1.0496,
-         37.724
-        ],
-        [
-         -1.0834,
-         37.7164
-        ],
-        [
-         -1.0954,
-         37.7412
-        ],
-        [
-         -1.0621,
-         37.7605
-        ]
+        -2.4946,
+        43.3653
+       ],
+       [
+        -2.5083,
+        43.3779
+       ],
+       [
+        -2.5423,
+        43.3735
+       ],
+       [
+        -2.5614,
+        43.3912
+       ],
+       [
+        -2.5806,
+        43.3864
+       ],
+       [
+        -2.6002,
+        43.3948
+       ],
+       [
+        -2.6175,
+        43.3921
+       ],
+       [
+        -2.6368,
+        43.4035
+       ],
+       [
+        -2.6444,
+        43.4162
+       ],
+       [
+        -2.6772,
+        43.4125
+       ],
+       [
+        -2.7171,
+        43.4188
+       ],
+       [
+        -2.7171,
+        43.4202
+       ],
+       [
+        -2.7366,
+        43.4295
+       ],
+       [
+        -2.7523,
+        43.4575
+       ],
+       [
+        -2.7946,
+        43.4398
+       ],
+       [
+        -2.8056,
+        43.431
+       ],
+       [
+        -2.8496,
+        43.4303
+       ],
+       [
+        -2.9173,
+        43.4392
+       ],
+       [
+        -2.9441,
+        43.4359
+       ],
+       [
+        -2.9589,
+        43.4163
+       ],
+       [
+        -2.9896,
+        43.3919
+       ],
+       [
+        -3.0335,
+        43.3693
+       ],
+       [
+        -3.018,
+        43.3586
+       ],
+       [
+        -3.0092,
+        43.3381
+       ],
+       [
+        -3.0232,
+        43.3272
+       ],
+       [
+        -3.0328,
+        43.3379
+       ],
+       [
+        -3.0684,
+        43.3473
+       ],
+       [
+        -3.0922,
+        43.3632
+       ],
+       [
+        -3.1121,
+        43.3591
+       ],
+       [
+        -3.1121,
+        43.3521
+       ],
+       [
+        -3.152,
+        43.3535
+       ],
+       [
+        -3.1521,
+        43.3946
+       ],
+       [
+        -3.1737,
+        43.6303
+       ],
+       [
+        -3.187,
+        43.741
+       ],
+       [
+        -3.1604,
+        43.729
+       ],
+       [
+        -3.0976,
+        43.7502
+       ],
+       [
+        -3.0148,
+        43.7654
+       ],
+       [
+        -2.822,
+        43.7871
+       ],
+       [
+        -2.7212,
+        43.7902
+       ],
+       [
+        -2.622,
+        43.7773
+       ],
+       [
+        -2.5291,
+        43.7489
+       ],
+       [
+        -2.3949,
+        43.6944
+       ],
+       [
+        -2.386,
+        43.6929
+       ],
+       [
+        -2.4062,
+        43.3867
+       ],
+       [
+        -2.4115,
+        43.3214
+       ],
+       [
+        -2.4198,
+        43.3293
+       ],
+       [
+        -2.4313,
+        43.3339
+       ],
+       [
+        -2.4627,
+        43.339
+       ],
+       [
+        -2.469,
+        43.3505
+       ],
+       [
+        -2.4946,
+        43.3653
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
+     "zona": "Litoral oriental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 2,
+     "nivel_txt": "Naranja",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
+       "desde": "2026-11-19T10:00:00+01:00",
+       "hasta": "2026-11-20T11:59:59+01:00",
+       "probabilidad": "40%-70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -4.5237,
+        43.7289
+       ],
+       [
+        -4.5089,
+        43.5121
+       ],
+       [
+        -4.5109,
+        43.3935
+       ],
+       [
+        -4.5331,
+        43.4009
+       ],
+       [
+        -4.576,
+        43.3936
+       ],
+       [
+        -4.6517,
+        43.4017
+       ],
+       [
+        -4.6768,
+        43.4101
+       ],
+       [
+        -4.7101,
+        43.4099
+       ],
+       [
+        -4.743,
+        43.4166
+       ],
+       [
+        -4.7682,
+        43.4307
+       ],
+       [
+        -4.8232,
+        43.4363
+       ],
+       [
+        -4.9446,
+        43.4617
+       ],
+       [
+        -5.0127,
+        43.4586
+       ],
+       [
+        -5.0429,
+        43.4617
+       ],
+       [
+        -5.0851,
+        43.4765
+       ],
+       [
+        -5.1143,
+        43.4772
+       ],
+       [
+        -5.121,
+        43.485
+       ],
+       [
+        -5.1698,
+        43.4752
+       ],
+       [
+        -5.2135,
+        43.4741
+       ],
+       [
+        -5.2632,
+        43.5179
+       ],
+       [
+        -5.2943,
+        43.5366
+       ],
+       [
+        -5.3523,
+        43.5327
+       ],
+       [
+        -5.3704,
+        43.5406
+       ],
+       [
+        -5.382,
+        43.5356
+       ],
+       [
+        -5.4074,
+        43.5565
+       ],
+       [
+        -5.4303,
+        43.5518
+       ],
+       [
+        -5.4661,
+        43.5532
+       ],
+       [
+        -5.4931,
+        43.5452
+       ],
+       [
+        -5.5155,
+        43.5535
+       ],
+       [
+        -5.5301,
+        43.5465
+       ],
+       [
+        -5.5467,
+        43.5506
+       ],
+       [
+        -5.6079,
+        43.55
+       ],
+       [
+        -5.6151,
+        43.5575
+       ],
+       [
+        -5.6479,
+        43.5428
+       ],
+       [
+        -5.68,
+        43.5428
+       ],
+       [
+        -5.6957,
+        43.5506
+       ],
+       [
+        -5.6997,
+        43.5693
+       ],
+       [
+        -5.7336,
+        43.5741
+       ],
+       [
+        -5.7588,
+        43.5878
+       ],
+       [
+        -5.7801,
+        43.6111
+       ],
+       [
+        -5.7797,
+        43.6288
+       ],
+       [
+        -5.7963,
+        43.6367
+       ],
+       [
+        -5.8249,
+        43.6398
+       ],
+       [
+        -5.8514,
+        43.659
+       ],
+       [
+        -5.8579,
+        43.6361
+       ],
+       [
+        -5.8875,
+        43.623
+       ],
+       [
+        -5.8992,
+        43.6282
+       ],
+       [
+        -5.9015,
+        43.6242
+       ],
+       [
+        -5.9114,
+        43.6086
+       ],
+       [
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.8956,
+        43.997
+       ],
+       [
+        -5.8028,
+        43.9952
+       ],
+       [
+        -5.7147,
+        43.9829
+       ],
+       [
+        -5.6328,
+        43.96
+       ],
+       [
+        -5.5584,
+        43.9264
+       ],
+       [
+        -5.4993,
+        43.8864
+       ],
+       [
+        -5.4354,
+        43.8893
+       ],
+       [
+        -5.3452,
+        43.8868
+       ],
+       [
+        -5.2575,
+        43.8717
+       ],
+       [
+        -5.1756,
+        43.8444
+       ],
+       [
+        -5.0533,
+        43.7924
+       ],
+       [
+        -4.874,
+        43.7698
+       ],
+       [
+        -4.8212,
+        43.7744
+       ],
+       [
+        -4.7334,
+        43.7699
+       ],
+       [
+        -4.6676,
+        43.7598
+       ],
+       [
+        -4.5843,
+        43.7393
+       ],
+       [
+        -4.561,
+        43.7297
+       ],
+       [
+        -4.5237,
+        43.7289
        ]
       ]
      ]
