@@ -64,3 +64,4 @@
 | 2026-11-16 | calentar-casa-sin-electricidad-invierno | guia | encolado | 11623 chars cuerpo, 6 métodos, 4 fuentes oficiales (AEMET, PC, IDAE, DG ECHO). Publicador 08:30/12:30. |
 | 2026-11-18 | cocinar-sin-electricidad-gas | guia | encolado | Guía 1694 palabras, 6 métodos, 3 fuentes oficiales (Sanidad/PC/IDAE), 8 internos, 5 ASIN verificados. Publicador 08:30/12:30. |
 | 2026-11-18 | como calentar la casa sin electricidad | guia | propuesto | Score 101.2 (top) pero ya publicado 2026-11-16 como calentar-casa-sin-electricidad-invierno; no se repite. |
+| 2026-11-19 | mejor saco de dormir para dormir sin calefacción | comparativa | encolado | Comparativa saco de dormir para casa sin calefacción; 2 top ya publicados esta semana, se baja al #3 ejecutable |
