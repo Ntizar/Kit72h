@@ -163,28 +163,45 @@ const i18n = {
     return 'home';
   },
 
-  /* Tracking ID del mercado para una sección. Si el mercado no tiene tag de esa
-     sección, cae al tag base; si tampoco, al de España (Amazon lo ignora en otra
-     tienda, pero el enlace no queda sin tag). */
+  /* Tracking ID del mercado para una sección.
+     REGLA DURA: el tag de un marketplace NUNCA se aplica a la tienda de otro
+     (Amazon lo ignora en silencio y la venta se pierde). Si el mercado no tiene
+     tag propio se devuelve '' y el enlace se construye SIN tag; los mercados
+     pendientes los lista data/tags-afiliado.json y los audita
+     scripts/auditar-tags.py. */
   tag(seccion) {
     const a = this.amazon || {};
     const tags = a.tags || {};
-    return tags[seccion || this.seccion()] || a.tag || 'ntizar-21';
+    return tags[seccion || this.seccion()] || a.tag || '';
+  },
+
+  /* Añade `tag=` a una URL de Amazon solo si hay tag y la URL es de SU tienda. */
+  conTag(url) {
+    const t = this.tag();
+    if (!t || !url) return url;
+    const dom = (this.amazon && this.amazon.dominio) || '';
+    if (dom && url.indexOf(dom) === -1) return url;   // otra tienda: sin tag, nunca cruzado
+    return url + (url.indexOf('?') === -1 ? '?' : '&') + 'tag=' + t;
   },
 
   /* Reescribe el tag de los enlaces de Amazon que vienen ya escritos en el HTML
      (los cuerpos del blog traen ?tag=ntizar-21 de fábrica). Solo cambia el valor
-     del parámetro: dominio, ASIN y ruta se quedan como están. */
+     del parámetro y SOLO en enlaces de la tienda del mercado activo: dominio,
+     ASIN y ruta no se tocan nunca. */
   retag(html) {
     const t = this.tag();
     const s = String(html == null ? '' : html);
-    if (!t || s.indexOf('amazon.') === -1) return s;
-    return s.replace(/(https?:\/\/[^"'\s]*?amazon\.[a-z.]+\/[^"'\s]*?[?&](?:amp;)?)tag=[\w-]+/g,
-      (m, base) => `${base}tag=${t}`);
+    if (!s || s.indexOf('amazon.') === -1) return s;
+    const dom = ((this.amazon && this.amazon.dominio) || '').replace(/^www\./, '');
+    return s.replace(/(https?:\/\/[^"'\s]*?amazon\.[a-z.]+[^"'\s]*?[?&](?:amp;)?)tag=[\w-]+/g,
+      (m, base) => {
+        if (!dom || base.indexOf(dom) === -1) return m;   // otra tienda: se queda su tag
+        return t ? `${base}tag=${t}` : m;
+      });
   },
 
   amazonBusqueda(q) {
-    return `https://${this.amazon.dominio}/s?k=${encodeURIComponent(q)}&tag=${this.tag()}`;
+    return this.conTag(`https://${this.amazon.dominio}/s?k=${encodeURIComponent(q)}`);
   },
 
   /* Enlace de compra de un producto.
@@ -199,7 +216,7 @@ const i18n = {
       return item.afiliado;
     }
     if (item.asin_local) {
-      return `https://${this.amazon.dominio}/dp/${item.asin_local}?tag=${this.tag()}`;
+      return this.conTag(`https://${this.amazon.dominio}/dp/${item.asin_local}`);
     }
     const q = item.producto || (kit && kit.titulo) || '';
     return q ? this.amazonBusqueda(q) : null;
@@ -207,7 +224,7 @@ const i18n = {
 
   cesta(asins) {
     const params = asins.map((a, i) => `ASIN.${i + 1}=${a}&Quantity.${i + 1}=1`).join('&');
-    return `https://${this.amazon.dominio}/gp/aws/cart/add.html?${params}&tag=${this.tag()}`;
+    return this.conTag(`https://${this.amazon.dominio}/gp/aws/cart/add.html?${params}`);
   },
 
   /* --- Precios: los textos de las fichas están en euros --- */

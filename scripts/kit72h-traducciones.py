@@ -98,6 +98,9 @@ def main():
     if corre([sys.executable, "scripts/verificar-sitio.py"]) != 0:
         print("gate de calidad en rojo: NO se publica")
         return 1
+    if corre([sys.executable, "scripts/auditar-tags.py"]) != 0:
+        print("Tracking IDs de Amazon en rojo: NO se publica")
+        return 1
     if a.sin_push:
         print("sin-push: cambios en disco, sin commitear")
         return 0

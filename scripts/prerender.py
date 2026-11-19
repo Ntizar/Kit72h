@@ -24,6 +24,7 @@ metadatos -> fichero en la ruta real. Determinista y re-ejecutable.
 """
 import json
 import http.server
+import os
 import re
 import shutil
 import socketserver
@@ -87,6 +88,13 @@ class H(http.server.SimpleHTTPRequestHandler):
     def log_message(self, *a):
         pass
 
+    def end_headers(self):
+        # SIN CACHÉ. El horneado tiene que leer SIEMPRE el fichero de disco: con
+        # caché de perfil, un data/mercados.json viejo se cuela en el HTML (visto
+        # el 2026-11-19: /de/ horneado con los tags de la configuración anterior).
+        self.send_header("Cache-Control", "no-store, max-age=0")
+        super().end_headers()
+
     def do_GET(self):
         ruta = self.path.split("?")[0].split("#")[0]
         # Siempre el shell en rutas de sección: así la cabecera/nav prerendeada
@@ -114,12 +122,14 @@ def dump(chrome, url, marca_esperada):
     """Vuelca el DOM de una ruta. Chrome headless a veces devuelve el shell
     vacío (los JS no llegan a ejecutarse dentro del virtual-time-budget): el
     fallo es intermitente, así que se reintenta hasta 3 veces."""
-    perfil = Path(tempfile.gettempdir()) / f"prerender-{abs(hash(url)) % 99999}"
+    # Perfil ÚNICO por ejecución (pid) y por URL: nunca se reutiliza el perfil de
+    # un horneado anterior, que traería su caché HTTP. Y además sin caché de disco.
+    perfil = Path(tempfile.gettempdir()) / f"prerender-{os.getpid()}-{abs(hash(url)) % 99999}"
     html = ""
     for _ in range(3):
         r = subprocess.run(
             [chrome, "--headless=new", "--disable-gpu", "--no-sandbox",
-             f"--user-data-dir={perfil}", "--hide-scrollbars",
+             f"--user-data-dir={perfil}", "--hide-scrollbars", "--disk-cache-size=1",
              "--virtual-time-budget=12000", "--dump-dom", url],
             capture_output=True, timeout=90)
         html = r.stdout.decode("utf-8", "ignore")
@@ -191,6 +201,10 @@ def inyectar(html, *, titulo, desc, canonical, ld=None, reemplazar_desc=True,
 # ─────────────────────────── main ───────────────────────────
 def main():
     chrome = encontrar_chrome()
+    # Perfiles huérfanos de horneados interrumpidos: fuera. Traen caché HTTP y
+    # hornean el HTML con datos viejos (data/mercados.json de la ejecución previa).
+    for viejo in Path(tempfile.gettempdir()).glob("prerender-*"):
+        shutil.rmtree(viejo, ignore_errors=True)
     datos = contenido_mercados()
     mercados = [d["mercado"] for d in datos.values()]
     # --solo es,de  → hornea solo esos mercados (desarrollo y pruebas)
@@ -361,7 +375,8 @@ def main():
                     dest.parent.mkdir(parents=True, exist_ok=True)
                     # Tag de afiliado por sección: portada, cada ficha y cada guía
                     # con tracking ID distinto. Amazon solo reporta por tag.
-                    html = reescribir_tags(html, tag_de(m, seccion_de(clave)))
+                    html = reescribir_tags(html, tag_de(m, seccion_de(clave)),
+                                           (m.get("amazon") or {}).get("dominio", ""))
                     html = re.sub(
                         r'(?:<!-- GENERADO por scripts/prerender\.py — no editar a mano -->\s*)+',
                         '', html)

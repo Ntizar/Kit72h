@@ -7,9 +7,22 @@
 # Instalación (una vez por clon):
 #   git config core.hooksPath .githooks
 # Bypass de emergencia:  git commit --no-verify
-python scripts/verificar-sitio.py || {
+PY=$(command -v python3 || command -v python)
+
+"$PY" scripts/verificar-sitio.py || {
   echo ""
   echo "❌ Commit bloqueado por el gate de calidad de kit72h."
   echo "   Arregla los ERRORES de arriba (o usa 'git commit --no-verify' con criterio)."
+  exit 1
+}
+
+# Guardián de Tracking IDs de Amazon: un tag de otro marketplace tira la
+# comisión sin dar ningún error visible. Solo bloquea con ERRORES; los mercados
+# pendientes de Tracking ID salen como aviso y no frenan el commit.
+"$PY" scripts/auditar-tags.py --quiet > /dev/null 2>&1 || {
+  echo ""
+  echo "❌ Commit bloqueado: hay enlaces de Amazon con Tracking ID incorrecto."
+  echo "   Detalle: python3 scripts/auditar-tags.py"
+  echo "   Registro de tags válidos: data/tags-afiliado.json"
   exit 1
 }

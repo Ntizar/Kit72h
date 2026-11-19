@@ -150,10 +150,27 @@
   }
 
   // Clic en un enlace de afiliado de Amazon = intención de compra.
+  // NO se filtra por un Tracking ID concreto: cualquier enlace a una tienda
+  // Amazon cuenta, y el tag viaja en el evento para poder cruzar con el panel de
+  // Associates. Filtrar por «tag=ntizar-21» dejó el embudo a cero el 14-nov,
+  // cuando cada sección pasó a tener su propio tracking ID.
+  var TAG_RE = /[?&](?:amp;)?tag=([A-Za-z0-9_-]+)/;
+
+  function tagDe(href) {
+    var m = TAG_RE.exec(href || "");
+    return m ? m[1] : "";
+  }
+
+  function tiendaDe(href) {
+    var m = /^https?:\/\/([^\/?#]+)/.exec(href || "");
+    return m ? m[1].toLowerCase() : "";
+  }
+
   function esAfiliado(a) {
     if (!a || !a.href) { return false; }
     if (a.href.indexOf("amazon.") === -1) { return false; }
-    return a.href.indexOf("tag=ntizar-21") !== -1;
+    if (/\/gp\/(help|customer|legal)\//.test(a.href)) { return false; }
+    return true;
   }
 
   function initClics() {
@@ -161,12 +178,13 @@
       var a = ev.target;
       while (a && a.nodeName !== "A") { a = a.parentNode; }
       if (!esAfiliado(a)) { return; }
-      var enlaces = document.querySelectorAll('a[href*="amazon."][href*="tag=ntizar-21"]');
+      var enlaces = document.querySelectorAll('a[href*="amazon."]');
       var posicion = 0;
       for (var i = 0; i < enlaces.length; i++) {
         if (enlaces[i] === a) { posicion = i + 1; break; }
       }
-      evento("clic-amazon", { pagina: ruta(), posicion: posicion });
+      evento("clic-amazon", { pagina: ruta(), posicion: posicion,
+                              tag: tagDe(a.href), tienda: tiendaDe(a.href) });
     }, true);
   }
 

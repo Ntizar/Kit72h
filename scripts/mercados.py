@@ -185,11 +185,22 @@ def tag_de(mercado, seccion="home"):
     return (a.get("tags") or {}).get(seccion) or a.get("tag") or ""
 
 
-def reescribir_tags(html, tag):
+def reescribir_tags(html, tag, dominio=""):
     """Cambia SOLO el valor de tag= en los enlaces de Amazon del HTML.
     El contenido trae los enlaces con el tag de fábrica; dominio, ASIN y ruta no
-    se tocan nunca."""
+    se tocan nunca.
+
+    `dominio` es la tienda del mercado: si se pasa, SOLO se reescriben los
+    enlaces de ESA tienda. Un tag de amazon.es aplicado a amazon.de no comisiona
+    (Amazon lo ignora en silencio), así que el cruce se corta aquí."""
     if not tag:
         return html
+    dom = (dominio or "").replace("www.", "")
+
+    def _r(m):
+        if dom and dom not in m.group(0):
+            return m.group(0)                     # otra tienda: conserva su tag
+        return m.group(1) + "tag=" + tag
+
     return re.sub(r"""(https?://[^"'\s]*?amazon\.[a-z.]+/[^"'\s]*?[?&](?:amp;)?)tag=[\w-]+""",
-                  lambda m: m.group(1) + "tag=" + tag, html)
+                  _r, html)

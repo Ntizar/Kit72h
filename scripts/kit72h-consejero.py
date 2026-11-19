@@ -487,6 +487,14 @@ def publicar(ruta_json, reemplazo=False):
         return 1
     print("ok: gate verificar-sitio.py ✅")
 
+    tags = run("python3", "scripts/auditar-tags.py", timeout=300)
+    if tags.returncode != 0:
+        cola = (tags.stdout or tags.stderr or "").strip().splitlines()[-8:]
+        print("FALLIDO en guardián de Tracking IDs (rc=%d):\n%s" % (tags.returncode, "\n".join(cola)))
+        _rollback(slug, dir_es_nuevo)
+        return 1
+    print("ok: guardián de Tracking IDs ✅")
+
     _marcar_keyword_hecha(entrada.get("_keyword") or "")
     print("PUBLICADO: /blog/%s/ (listo para commit+push)" % slug)
     return 0

@@ -28,6 +28,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Gate de calidad (bloquea el deploy si falla)
         run: python3 scripts/verificar-sitio.py
+      # Un Tracking ID de otro marketplace, un typo o un enlace sin tag tiran la
+      # comisión sin dar ningún error visible. El registro vive en
+      # data/tags-afiliado.json y este gate lo compara con TODO enlace publicado.
+      - name: Guardián de Tracking IDs de Amazon (bloquea el deploy si falla)
+        run: python3 scripts/auditar-tags.py
 
   deploy:
     needs: verificar
@@ -66,3 +71,15 @@ jobs:
           path: /tmp/_site
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  # Recibo del sitio VIVO: el push ES el deploy, así que la prueba final es la
+  # web publicada. Si algún tag sale mal en producción, el workflow se pone rojo.
+  auditar-vivo:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Guardián de Tracking IDs sobre kit72h.com
+        run: |
+          sleep 60
+          python3 scripts/auditar-tags.py --vivo

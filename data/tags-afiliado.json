@@ -1,0 +1,33 @@
+{
+  "_leeme": "Fuente ÚNICA de verdad de los Tracking IDs de Amazon Associates. Si un tag no está aquí, scripts/auditar-tags.py lo marca como ERROR. Ningún tag se escribe a mano en el HTML, el JS ni los datos: se leen de aquí (o de data/mercados.json, que este fichero valida).",
+  "actualizado": "2026-11-19",
+  "cuenta": "Amazon Associates — David Antizar (Ntizar)",
+  "tags": {
+    "ntizar-21": {
+      "mercado": "es",
+      "dominio": "www.amazon.es",
+      "roles": ["home"],
+      "nota": "Tag histórico de la portada del sitio en español."
+    },
+    "kit72h-21": {
+      "mercado": "es",
+      "dominio": "www.amazon.es",
+      "roles": ["kits"],
+      "nota": "Fichas de kit (portada de cada kit, /kit/...)."
+    },
+    "kit72h-blog-21": {
+      "mercado": "es",
+      "dominio": "www.amazon.es",
+      "roles": ["blog"],
+      "nota": "Guías del blog en español."
+    },
+    "onamzntizar-21": {
+      "mercado": "intl",
+      "dominios": ["www.amazon.com", "www.amazon.co.uk", "www.amazon.de", "www.amazon.fr", "www.amazon.it", "www.amazon.nl"],
+      "roles": ["home", "kits", "blog"],
+      "nota": "Tracking ID OneLink/internacional: es el que enruta al marketplace del visitante y acredita en la cuenta base. Vale en CUALQUIER tienda menos amazon.es, que tiene su programa propio (ntizar-21 / kit72h-21 / kit72h-blog-21)."
+    }
+  },
+  "mercadospendientes": [],
+  "_pendientes": "Vacío a propósito: los 7 mercados publicados tienen Tracking ID propio. Un mercado nuevo sin tag se añade AQUÍ hasta que exista su ID en Associates, y el auditor lo marca como aviso (W1) en vez de dejar el enlace sin tag."
+}

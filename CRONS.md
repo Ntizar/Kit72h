@@ -83,3 +83,42 @@ Script puro + la API de modelos (`scripts/traducir.py`), orquestado por
 - **Un lote fallido no se cachea** (si se cachea el original queda «traducido» para siempre).
 - Una entrada de blog **no se hornea en otros idiomas hasta que su traducción existe**.
 - Medición: 21 kits × 5 idiomas = 1.400 cadenas en ~9 min con 4 hilos (deepseek-v4-flash).
+
+---
+
+## `kit72h-tags` — los Tracking IDs de Amazon, vigilados
+
+Un tag equivocado no da ningún error: la página carga, el usuario compra y la
+comisión se va a la basura. No hay cron propio: el guardián se cuelga de **los
+sitios por donde el sitio se publica**, así no depende de que nadie se acuerde de
+lanzarlo.
+
+| Cuándo | Qué | Dónde |
+|---|---|---|
+| al commitear | `auditar-tags.py` en el hook `pre-commit` | `.githooks/pre-commit` |
+| antes de publicar (crons) | gate en traducciones y en el consejero | `kit72h-traducciones.py`, `kit72h-consejero.py` |
+| antes del deploy | gate de CI (bloquea el push a producción) | `.github/workflows/pages.yml` |
+| después del deploy | `auditar-tags.py --vivo` sobre `kit72h.com` | `pages.yml`, job `auditar-vivo` |
+
+```bash
+python3 scripts/auditar-tags.py            # repo local (HTML horneado + fuentes)
+python3 scripts/auditar-tags.py --vivo     # sitio publicado, vía sitemap
+python3 scripts/test-auditar-tags.py       # 15 casos: el auditor TIENE que ponerse rojo
+```
+
+**La regla que no se negocia:** el tag de un marketplace nunca se aplica a la
+tienda de otro. `ntizar-21` es de `amazon.es`; en `amazon.de` Amazon lo ignora y
+la venta se pierde sin aviso. Si un mercado no tiene tag propio, el enlace se
+construye **sin tag** y el auditor lo marca como pendiente (`W1`), nunca con el
+tag del vecino.
+
+- Fuente única: `data/tags-afiliado.json` (qué tag existe y de qué mercado es).
+  `data/mercados.json` solo dice qué tag usa cada mercado y sección; si se
+  contradicen, el auditor falla con `E6`.
+- Añadir un mercado nuevo con tag = crear el Tracking ID en Associates **primero**
+  y añadirlo a los dos ficheros en el mismo commit. Añadirlo solo a
+  `mercados.json` rompe el gate a propósito.
+- Códigos: `E1` tag desconocido · `E2` tag de otro mercado · `E3` sin tag
+  habiendo tag · `E4` tag vacío o duplicado · `E5` dominio sin mapear · `E6`
+  registro incoherente. `W1` mercado pendiente · `W2` tag de otra sección ·
+  `W3` enlace corto (`amzn.to`) · `W4` tag registrado que nadie usa.

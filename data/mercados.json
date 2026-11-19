@@ -54,15 +54,16 @@
       "bandera": "🇬🇧",
       "amazon": {
         "dominio": "www.amazon.co.uk",
-        "tag": "",
+        "tag": "onamzntizar-21",
         "moneda": "GBP",
         "simbolo": "£",
-        "tagPendiente": true,
+        "tagPendiente": false,
         "tags": {
-          "home": "",
-          "kits": "",
-          "blog": ""
-        }
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        },
+        "nota": "Tracking ID OneLink/internacional: Amazon enruta al marketplace del visitante y acredita en la cuenta base."
       },
       "emergencias": {
         "numero": "999",
@@ -88,15 +89,16 @@
       "bandera": "🇩🇪",
       "amazon": {
         "dominio": "www.amazon.de",
-        "tag": "",
+        "tag": "onamzntizar-21",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true,
+        "tagPendiente": false,
         "tags": {
-          "home": "",
-          "kits": "",
-          "blog": ""
-        }
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        },
+        "nota": "Tracking ID OneLink/internacional: Amazon enruta al marketplace del visitante y acredita en la cuenta base."
       },
       "emergencias": {
         "numero": "112",
@@ -124,15 +126,16 @@
       "bandera": "🇫🇷",
       "amazon": {
         "dominio": "www.amazon.fr",
-        "tag": "",
+        "tag": "onamzntizar-21",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true,
+        "tagPendiente": false,
         "tags": {
-          "home": "",
-          "kits": "",
-          "blog": ""
-        }
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        },
+        "nota": "Tracking ID OneLink/internacional: Amazon enruta al marketplace del visitante y acredita en la cuenta base."
       },
       "emergencias": {
         "numero": "112",
@@ -160,15 +163,16 @@
       "bandera": "🇮🇹",
       "amazon": {
         "dominio": "www.amazon.it",
-        "tag": "",
+        "tag": "onamzntizar-21",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true,
+        "tagPendiente": false,
         "tags": {
-          "home": "",
-          "kits": "",
-          "blog": ""
-        }
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        },
+        "nota": "Tracking ID OneLink/internacional: Amazon enruta al marketplace del visitante y acredita en la cuenta base."
       },
       "emergencias": {
         "numero": "112",
@@ -195,15 +199,16 @@
       "bandera": "🇳🇱",
       "amazon": {
         "dominio": "www.amazon.nl",
-        "tag": "",
+        "tag": "onamzntizar-21",
         "moneda": "EUR",
         "simbolo": "€",
-        "tagPendiente": true,
+        "tagPendiente": false,
         "tags": {
-          "home": "",
-          "kits": "",
-          "blog": ""
-        }
+          "home": "onamzntizar-21",
+          "kits": "onamzntizar-21",
+          "blog": "onamzntizar-21"
+        },
+        "nota": "Tracking ID OneLink/internacional: Amazon enruta al marketplace del visitante y acredita en la cuenta base."
       },
       "emergencias": {
         "numero": "112",
