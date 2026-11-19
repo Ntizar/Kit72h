@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T07:11:11+01:00",
+  "actualizado": "2026-11-19T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,19 +28,11 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
+     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-18T10:51:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
-     "url": "https://www.msn.com/es-mx/noticias/otras/c%C3%B3mo-prepararse-para-una-emergencia-de-72-horas-seg%C3%BAn-las-nuevas-recomendaciones-de-la-ue/ar-AA2hGh35",
-     "fuente": "Euronews on MSN",
-     "resumen": "La Comisión Europea recomienda que los hogares estén preparados para cubrir sus necesidades básicas durante al menos 72 horas en caso de que una crisis interrumpa los servicios esenciales. Descubre la ...",
-     "fecha": "2026-11-18T02:51:15+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-17T12:59:09+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Kit de emergencia para 72 horas para un apagón: qué recomienda la Unión Europea tener en casa",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3EyaXNOeWI0NmluOVNoV0xzY0FsYlZILU9tSTRrYTRDMW5mcUFfSHNtUThUUVlRTjBGalNZQXphWXpkVmduRDNhbFlZREdrUHpDdm9XbXhMc3I5Q2ZqR2xRUUxLazVQSUJwUFEyRjAxaXBmZ2lUNnVMNjZDb1h4VllYWW9jTTJCMDAyOGdfU1I1SmM2T0NBOEJ6OEJTS0lvaTNXX01rRTN1d0hGeUx4TVozUUVBcDdlRkdNZm9EcUFPWHVnWkhaNQ?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-17T11:28:00+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-19T08:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "España dispara la superficie quemada por incendios en 2025",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVVXN1ZQMkRPYTVVNTVmM1dMWXNBNzVVbWdiRHZXbzFNYzU1VGQxTEtxeU0xbllvQXJETi14UmItSFdfdmRQbHVObDk4WnVOWmY4MWh4Ml9hU21FazFtS3FZem5XTmdrS2lPMXFLaS0tSXY3eWFKSkNIZmtvMFpHZ3pNUjV0dUktckpiWUFnOFNEWl9USlE?oc=5",
      "fuente": "Agrodigital",
@@ -91,19 +99,19 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "Europa registra en 2025 la mayor superficie quemada por incendios forestales de su historia",
+     "url": "https://agrodigital.info/2026/11/19/incendios-forestales-espana-superficie-quemada-2025/",
+     "fuente": "agrodigital.info",
+     "resumen": "España registró 354.747 hectáreas forestales quemadas en 2025, un 236% más que la media de la última década, según el informe del JRC.",
+     "fecha": "2026-11-18T17:01:00+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
      "titulo": "España se convierte en uno de los países más afectados del mundo por incendios forestales y fenómenos climáticos extremos",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTXNXLWd6M3RKSnY2cFpBeE1lUkp6aW5uS01YRGI1aUw5cGtQOF9MMWZ0MVkyY0tXeUdXcER0X1poZGZQcWFiOGMtUTR1ZlBmRVdhYkNfZkYwbnotM1hQM1VmNldzYWRxWWhlNE9tQ09oSU9xSWFwbFB5c1Q5T3JZVnJaWTBOdEItOEwybktxOWlFRHNFSHoya0h1ZkpRbDZrUkkzREtmcUd3RXpoNGt5RGZKSm55VDduQUd0a2h6cjdLM1FjUnV4NkhEUlpWT01TLTdlZ1A0VWZwQWZWRDFPZVZwTU82eTc4ME5fUUpNb1F0cGM5dm12dnVB?oc=5",
      "fuente": "Servicios Emergencia",
      "resumen": "",
      "fecha": "2026-11-18T14:28:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Castilla-La Mancha apuesta por reforzar la prevención y gestión forestal frente a grandes incendios",
-     "url": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-apuesta-reforzar-prevencion-gestion-forestal-20261118221718-nt.html",
-     "fuente": "ABC",
-     "resumen": "La consejera de Desarrollo Sostenible, Mercedes Gómez, ha destacado la importancia de una gestión forestal activa para fortalecer la resiliencia de los ecosistemas, el desarrollo del sector y el equil ...",
-     "fecha": "2026-11-18T14:17:00+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "La AEMET puso en marcha en mayo de 2026 un nuevo Índice de Peligro de Incendios Forestales que incorpora información sobre la vegetación y la humedad del suelo. Más información: Pepita, 107 años: \"Me ...",
      "fecha": "2026-11-16T10:59:37+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "William Levy regresa a España por ‘Bajo un fuego’: dos premieres y Almería en pie",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EUGxxRnZyT0pPdHB1T0hhNDFuRXZVN29qZXphT3NyU2RNYzJzV1hQdTR2VWNjVFJXLVR1Ymdoc2lLTUYzcDdaOHVsN0N1UmU3TWVtRlM5U3M5SHJfbXdkQlVnY0JDMnJKT2xHRXVWYVdXM2pJV1ZzTQ?oc=5",
-     "fuente": "Cotilleo",
-     "resumen": "",
-     "fecha": "2026-11-15T05:04:09+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -225,14 +225,6 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "La sigilosa destitución en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWtEbHMwOG1wSEZRMjZLV3lqOXRENlFQNkhjd2paZ0puLTh5Z3dqZktJTDhzRTFsb0N0TUwxZXNkZE9URkxiSG5BTzNVSDFaZEVjbE82c2ZWeHU4X05YbnpMcGhLb0YwZVRVMHpXdWtUdUVhUFhZZ2ZRd3FTZVNHQlB5U3kyZm9tUDUxZi1NSQ?oc=5",
-     "fuente": "The Objective",
-     "resumen": "",
-     "fecha": "2026-11-19T05:25:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
@@ -278,6 +270,14 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T15:26:40+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
+     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
+     "fuente": "El Pespunte",
+     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
+     "fecha": "2026-11-17T13:42:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
