@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-20T01:11:01+01:00",
+  "actualizado": "2026-11-20T04:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
+     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
+     "fuente": "Europa Press",
+     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
+     "fecha": "2026-11-19T17:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Estabilizado el incendio forestal de Cala Morell (Menorca)",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHpLY0ZoUjFvS2NXM0ZIN0dabENFS2hXVFJQa3k2aS05RnJEUFJURXZSQVRvN1VFdHdpMkZaY2wybjhiekh6Um5OZzBNa2VHdzkxSnBCUHp1MXNTRkp0bnZmNWZrZlFWNDF6Z1g1NTZnSjJrdEl2bFZnSUZzQXo0Z0pxR1RKbTBpaWpoRFlJeFdPdjlVeC1BQlRmR0l2RTN2bmh6RHQtQjM2UQ?oc=5",
      "fuente": "El Confidencial",
@@ -107,14 +115,6 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
-     "fuente": "Madrid Actual",
-     "resumen": "",
-     "fecha": "2026-11-19T11:03:01+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
@@ -131,20 +131,20 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
+     "fuente": "MADRID ACTUAL",
+     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
+     "fecha": "2026-11-19T04:03:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
      "url": "https://www.msn.com/es-es/noticias/other/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
      "fuente": "Diario de León on MSN",
      "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
      "fecha": "2026-11-19T03:36:59+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
-     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
-     "fuente": "Europa Press",
-     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
-     "fecha": "2026-11-18T17:01:00+01:00",
-     "fecha_txt": "18 nov"
     }
    ]
   },
