@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-20T16:11:01+01:00",
+  "actualizado": "2026-11-20T19:11:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "incendios/google/incendio activo evacuados: HTTPError"
+  "aviso": ""
  },
  "temas": [
   {
@@ -36,14 +36,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRIQjM4MzJKMVpwdVNUTldCVFNLR1IxdVVuOVdmWDV5djBIMVRURU92cnYwbV9oZXUwMUZsLXoxeHkzQTRFaU5PcnBkNVh3SGg3cDViM2tkSFZwR25SR2ZqbGtJZkIxWllXZUNoVWczd0ZiMzJZYkNhVFRoNUxCNVVuU1FVSjlVSVcyNUx0RVNLNlduUm1CY0J3?oc=5",
-     "fuente": "Portugal Resident",
-     "resumen": "",
-     "fecha": "2026-11-19T17:34:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
      "fuente": "Euronews.com",
@@ -52,12 +44,20 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
+     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
+     "fuente": "Portugal Resident",
+     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
+     "fecha": "2026-11-19T09:34:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://www.msn.com/es-es/noticias/other/la-uni%C3%B3n-europea-pide-a-sus-ciudadanos-tener-listo-este-kit-de-emergencia-para-poder-sobrevivir-de-forma-aut%C3%B3noma-durante-72-horas/ar-AA2hKkbH",
-     "fuente": "Computer Hoy on MSN",
-     "resumen": "Bruselas pide a los ciudadanos europeos preparar un kit básico con agua, comida, efectivo y medicinas para sobrevivir durante 3 días completos sin ayuda ante una crisis, Te preguntarás, ¿por qué 72 ho ...",
-     "fecha": "2026-11-18T21:15:00+01:00",
-     "fecha_txt": "18 nov"
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
+     "fuente": "Computer Hoy",
+     "resumen": "",
+     "fecha": "2026-11-19T05:15:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "Por qué Europa pide a sus ciudadanos armar kit de emergencia para sobrevivir 72 horas sin luz ni agua",
@@ -99,14 +99,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "C-LM apuesta por la industrialización de su sector forestal tras el incendio de La Mierla",
-     "url": "https://www.msn.com/es-es/noticias/otras/c-lm-apuesta-por-la-industrializaci%C3%B3n-de-su-sector-forestal-tras-el-incendio-de-la-mierla/ar-AA2hRxf5",
-     "fuente": "Europa Press on MSN",
-     "resumen": "GUADALAJARA, 20 (EUROPA PRESS) El vicepresidente primero de Castilla-La Mancha, José Luis Martínez Guijarro, ha afirmado este viernes que, una vez iniciados las labores de restauración forestal de la ...",
-     "fecha": "2026-11-20T07:29:56+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "Incendios de marzo a octubre: el cambio climático ampliará la temporada de riesgo de fuego en la península Ibérica",
      "url": "https://www.infobae.com/espana/2026/11/20/incendios-de-marzo-a-octubre-el-cambio-climatico-ampliara-la-temporada-de-riesgo-de-fuego-en-la-peninsula-iberica/",
      "fuente": "Infobae",
@@ -145,6 +137,14 @@
      "resumen": "",
      "fecha": "2026-11-19T08:00:00+01:00",
      "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
+     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
+     "fuente": "larazon",
+     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
+     "fecha": "2026-11-19T04:42:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -170,11 +170,11 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "La secuencia de la brutal riada en Els Poblets: la repentina lengua de agua y la destrucción (vídeo)",
-     "url": "https://www.levante-emv.com/videos/la-marina/2026/11/18/secuencia-brutal-riada-els-poblets-dana-dana-adam-inundaciones-136596090.html",
-     "fuente": "Levante-EMV",
-     "resumen": "La riada fue repentina y brutal. A las 5 horas de aquella madrugada de la dana Adam, el río Girona, a su paso por Els Poblets, casi no llevaba agua. A las 5.55 entró la brutal lengua de agua y cañas.",
-     "fecha": "2026-11-18T14:23:00+01:00",
+     "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
+     "fuente": "España Exterior",
+     "resumen": "",
+     "fecha": "2026-11-18T14:07:14+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -249,19 +249,19 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Competencia rebaja la responsabilidad de Iberdrola y otras generadoras en la primera sanción por el apagón",
+     "url": "https://elpais.com/economia/2026-11-20/competencia-rebaja-la-responsabilidad-de-iberdrola-y-otras-generadoras-en-la-primera-sancion-por-el-apagon.html",
+     "fuente": "EL PAÍS",
+     "resumen": "La CNMC reduce la sanción por infracción de grave a leve al sistema eléctrico de Huéneja (Granada), que fue de los primeros en saltar antes de la desconexión masiva del 28 de abril de 2025 ...",
+     "fecha": "2026-11-19T21:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Gran apagón mundial: cómo comprobar si te corresponde un descuento por un corte de luz en España",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dHQmZQUUI1czFadTUxMTBCaHVQaGs0cDU1TEtkNUZTOGNTY3VORmVUZ3U2Ql9hSTM3WjVWbDRsN0ZsLWdsTHA4djJvYkdodkhYSVhOT25IbTR4bnZoc0VBa1NLRWNmcnRpN3c0dm9KOXgtZW1JbG1SbGFMRFRtRg?oc=5",
-     "fuente": "Hassan KOHEN",
-     "resumen": "",
-     "fecha": "2026-11-18T03:00:46+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -273,19 +273,19 @@
      "fecha_txt": "17 nov"
     },
     {
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
+     "fuente": "El Pespunte",
+     "resumen": "",
+     "fecha": "2026-11-17T20:05:30+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-17T17:19:37+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://www.elpespunte.es/entretenimiento/ira-luz-hoy-espana-verdad-supuesto-apagon-mundial/20261117200530162932.html",
-     "fuente": "El Pespunte",
-     "resumen": "¿Habrá apagón en España hoy 17 de noviembre? Descubre qué ocurrirá a las 20:20, el origen del rumor de las 72 horas y qué dicen las fuentes oficiales.",
-     "fecha": "2026-11-17T13:05:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
