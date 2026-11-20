@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-20T07:11:10+01:00",
+  "actualizado": "2026-11-20T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,19 +83,11 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Caballos de Przewalski, bisontes y tauros en España: el importante papel que puede tener la recuperación de grandes herbívoros para ayudar a prevenir incendios forestales",
-     "url": "https://www.infobae.com/espana/2026/11/20/caballos-de-przewalski-bisontes-y-tauros-en-espana-el-importante-papel-que-puede-tener-la-recuperacion-de-grandes-herbivoros-para-ayudar-a-prevenir-incendios-forestales/",
-     "fuente": "Infobae",
-     "resumen": "Ante la homogeneización de los paisajes y la acumulación de biomasa combustible, cada vez más proyectos buscan introducir estas especies para recuperar los ecosistemas perdidos ...",
+     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
+     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
+     "fuente": "Europa Press",
+     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
      "fecha": "2026-11-19T17:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Estabilizado el incendio forestal de Cala Morell (Menorca)",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHpLY0ZoUjFvS2NXM0ZIN0dabENFS2hXVFJQa3k2aS05RnJEUFJURXZSQVRvN1VFdHdpMkZaY2wybjhiekh6Um5OZzBNa2VHdzkxSnBCUHp1MXNTRkp0bnZmNWZrZlFWNDF6Z1g1NTZnSjJrdEl2bFZnSUZzQXo0Z0pxR1RKbTBpaWpoRFlJeFdPdjlVeC1BQlRmR0l2RTN2bmh6RHQtQjM2UQ?oc=5",
-     "fuente": "El Confidencial",
-     "resumen": "",
-     "fecha": "2026-11-19T16:27:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -145,6 +137,14 @@
      "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
      "fecha": "2026-11-19T03:36:59+01:00",
      "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Europa registra en 2025 la mayor superficie quemada por incendios forestales de su historia",
+     "url": "https://agrodigital.info/2026/11/19/incendios-forestales-espana-superficie-quemada-2025/",
+     "fuente": "agrodigital.info",
+     "resumen": "España registró 354.747 hectáreas forestales quemadas en 2025, un 236% más que la media de la última década, según el informe del JRC.",
+     "fecha": "2026-11-18T17:01:00+01:00",
+     "fecha_txt": "18 nov"
     }
    ]
   },
@@ -154,12 +154,12 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Buxadé denuncia en Murcia 21 años de abandono frente a las inundaciones y exige acabar con la impunidad de los delincuentes",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWJrc2hiem1ZT01EVFZRWjliZHR6VmJDemdScWpoV1J2bFdtRzlycHIwQ0tSWlR3c3lJVTJWckM0Qkwyc1N3MWlUUXdfNHNWa2FXemJWMTZvcW9mNC0ta1RMcHRjYi1NZ08tREhhcUdZVjBxUnFxNlpUY3hnMXpBazJUV0lvNnA1VmRMMFA2RzZ1WF9LY0RWWXpqWGJldmJ1SURpZExfMjhCMEVMYWdxa0V1YUVCY203RS1PV3dtcEoxOE83R2llYVJCQnZsc0hZU1d0VWQxM0lGQktaVnc?oc=5",
-     "fuente": "La Bandera",
+     "titulo": "Simulacro de inundaciones en la presa de Valmayor: esta es la capacidad de respuesta de Madrid",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcTBtZlNJNlEydWVBRG4tbTV5Zm9heTJaZzVwTEtsRVNYcWlodmwxODh2MEhnS19FUm1LZ3BxY2hQaE53Y3VtTFl4bTM3aVZ3QmRqRy1tb2hwZ2MyZTBDVmdxY18wV1hGV21GVjBfY3hQRVdJZkgwYmRuT0cxdUV0NEw3QXNLdFFUSGZHcC1VV1JVc25tUWtLNTRmMkxISlF1YVVEbjVlc0xCdWd4QndCR21FV1dnUmFTRFNsdUV1YS1MMUFOZTRPYkhGTGZyVFZ1dk9v0gHnAUFVX3lxTE5WUUVYcE9uZjV2cmdZbVczeTBQLUVlckFIb053aFJrUmNfR2xvVjhabGh0elE2bHQxTHFYalY1WEZ0Wk9VZlRJNlhpWGhaWGtTWEFzR0FsMkNRc2g3MnZWUlRJYmhrcFB3endUNXNjc2hTYnZWTXZ3aE1SdjZBMnZlVjBsMGdSSkI5dmFnWjVmMU1mMVJtLTJHMmZYMFgyRlFqTHJPYlBGUkpDTzZnd21hcnhkT3U5UTVZRGhjXzJvNDBsakRBZE4tUmw3elhkdTRHZmo3ejk2a2pPTENLRi16bGtMMU9tQQ?oc=5",
+     "fuente": "La Razón",
      "resumen": "",
-     "fecha": "2026-11-19T15:30:00+01:00",
-     "fecha_txt": "19 nov"
+     "fecha": "2026-11-20T08:35:33+01:00",
+     "fecha_txt": "20 nov"
     },
     {
      "titulo": "La secuencia de la brutal riada en Els Poblets: la repentina lengua de agua y la destrucción (vídeo)",
@@ -167,22 +167,6 @@
      "fuente": "Levante-EMV",
      "resumen": "La riada fue repentina y brutal. A las 5 horas de aquella madrugada de la dana Adam, el río Girona, a su paso por Els Poblets, casi no llevaba agua. A las 5.55 entró la brutal lengua de agua y cañas.",
      "fecha": "2026-11-18T14:23:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
-     "fuente": "España Exterior",
-     "resumen": "",
-     "fecha": "2026-11-18T14:07:14+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
-     "resumen": "",
-     "fecha": "2026-11-18T12:28:51+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -194,28 +178,44 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Arrancan las obras en el cauce del río Girona tras la dana Adam en Alicante y Oliva",
-     "url": "https://actualidadvalencia.com/reparacion-cauce-rio-girona-dana-adam/",
-     "fuente": "actualidadvalencia",
-     "resumen": "Han comenzado las obras para reparar el cauce del río Girona tras la dana Adam en varios municipios de Alicante y en el entorno del puerto de Oliva, con actuaciones urgentes financiadas por el Real De ...",
-     "fecha": "2026-11-17T11:09:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Arrancan las obras para reparar el cauce del río Girona tras la dana Adam",
-     "url": "https://diariodealicante.net/reparacion-rio-girona-dana-adam-alicante/",
-     "fuente": "Diario de Alicante",
-     "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
-     "fecha": "2026-11-17T05:59:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0dlcTBjeFg3WWRuWTE2NEVDUjNEWTg3bkQzT0lFSUlBeEJzT1FiZjllZkRJZ19BMFJXNmM0YnZCN1NOQzY1N2tnUXUzU1QtREFONWZPUjhBUXBzY2w0d2x6cVZpenRXa3Riemhfc2hjWnhSX2I0NWtYSGJNazNQQklYVjJoRUk5NVBkc1VnSWc1Rzh5T01kM1pyd2pjOFJOUXVxa19INjFDRTJuZXZLczhOXzc1ZkNRVXJkbEl3QkxCOXNER0RDWjR3bEFCQlVC?oc=5",
      "fuente": "RFI",
      "resumen": "",
      "fecha": "2026-11-16T13:57:46+01:00",
      "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-16T05:15:00+01:00",
+     "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-15T19:00:07+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
+     "resumen": "",
+     "fecha": "2026-11-15T18:23:00+01:00",
+     "fecha_txt": "15 nov"
+    },
+    {
+     "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlZxV2ttTVJBeE5ySEE5QlRXblZjZ1ZvY2hKZ2xaZ2tJUlRhUHdoMnRPUGNjNWNSVF9FMXUwNTNlSXVsMlo0S25JampmRHRtLXlJV25laXkxNmpJQ2NvbXFJS1A2ZWowQzFDRGxqNlJzZHJReWp4SkJUY1JIY2RBc0ZYeTl4Wi1pT1dpUFhrcFo2MURSbmlqUWNzYmNjYmpIOEw1X29lU25sQnExbkNYdmRzaWRFWk90RzVCUWVMejdhT1p6U1lxa0V5dGhOYmV3bVYyTGIwWFNsamRkNkZ6Zy0yQndaR1N1UHlObElFVTJEdk9rMldGMElQN0RLMHBWbUdUa011c01TS1psVC14UkNnVkVxNUNuR3UySURkbUpPUTFIQnYwZlUwazNLUmdPMmxFNGtpYkJGZW5MN0Rz?oc=5",
+     "fuente": "Bichos de Campo",
+     "resumen": "",
+     "fecha": "2026-11-14T17:01:36+01:00",
+     "fecha_txt": "14 nov"
     }
    ]
   },
@@ -226,11 +226,27 @@
    "items": [
     {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WdIBqgFBVV95cUxQM0pXbi1uakVodHF5Y3hBdjZXQXlxVndrdHZMWFdNMm1qaVZqSFpyblI1UkNrZFpYV2VJOW5Jb2xlcVNoSXNjSXViT24yMmJpQWE5dF9KZW5vRV9FVGxXaHpmUHJETWpkb1pVV0R0aEM2M3A0YXoxdHVBYWl1ZEdDODNReThyTVRydURsVXA3UTY1VEJ3WXdTU1BIS2tPRnJJN2xtYXRUQUotZw?oc=5",
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "Competencia rebaja la responsabilidad de Iberdrola y otras generadoras en la primera sanción por el apagón",
+     "url": "https://elpais.com/economia/2026-11-20/competencia-rebaja-la-responsabilidad-de-iberdrola-y-otras-generadoras-en-la-primera-sancion-por-el-apagon.html",
+     "fuente": "EL PAÍS",
+     "resumen": "La CNMC reduce la sanción por infracción de grave a leve al sistema eléctrico de Huéneja (Granada), que fue de los primeros en saltar antes de la desconexión masiva del 28 de abril de 2025 ...",
+     "fecha": "2026-11-19T17:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
@@ -239,22 +255,6 @@
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
      "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHU4SHZic3hFWGdiSWJ4ZU12cmZLRTY0RHJwYlJKTWctaFBFNUU1dnI5TVFLQjJld2lxSzhuQmhfNi1lSm1sN3ZzeEdJN194U1pnMkZ6bVZmaUV1b1IxWUNCOWpqcDhISUlCWVotZUt3RVM5S0JjSkRXN0NTcE5kZ3FGdWlXa0ZFYkxYaVdtbHNIRzF3amhTS0VqUWo4clBRLUNjSG5jR19HelBYLTVIZHQtUUFvMFFkRXVoam9WbXNuZFZkaXhFMG5nUEUtNkpEZkpkdmJGdEJ6MEZHVjd5N1RB?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T20:42:06+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
     },
     {
      "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
@@ -273,19 +273,19 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "¿Habrá un apagón eléctrico hoy, 17 de noviembre, en España? La verdad sobre el supuesto corte de luz mundial de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkNWUm5uTzhJUXlqUEJPYlU1djJhZUNJTkJKYWRrUnlHczc1NFFkcmxvUmNvQ1d5NkRiNmtIVS1ZWlZIZ0xXcjJVSEs1UFllaWRUSlJCSWdyeUJvcnNFaVVjNmFyR0JsWnlLcDZrNnZVQTFNaUdvS0V4OXpCTzJLNnh6V2lFSTZfeHlmYl82Y3IxRnAyMXBHNWhOcFF3Vm1xVGtFS1BkcWc1N1V0bmJFOUZLSUVaQzhvZ3dkU1p2dC1UOGpoaFVnSjljZGo5WTd3SWthSGNObEkwQ3kwMzN5Qw?oc=5",
+     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
+     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
      "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T15:26:40+01:00",
+     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
+     "fecha": "2026-11-17T13:42:00+01:00",
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "¿Apagón de 72 horas en España? Desmontamos el bulo que anuncia un colapso eléctrico mundial para el 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQlo1aGFTR0xqcGJNRkp2NjBLLVZoVWhYclBJdXZoU3ZWV3Fwd01uVV9JUkM4Qi1kTDFJV0tQOGw0ZHlvRU1UVjZrSFdzSkg4QjdCR09vY3Fuc1VFN25MZDI2ZXRMRk9ERy1JdEY0VDBUT1pLYS1Vb20wbFVqYzl3UERvTDZmV1lEc21WYWdKU3pNc09JZTVSNk5BYmV3aERrR21BUUczczViR3FKTlJ3SFV3eHBMVGhZeXlYZTFWanhSX0Q0S0lrcEd2WG9VMkhZMVpscHA2bjlSVGNpR2U4SnJBNE1yTUktR3c?oc=5",
-     "fuente": "elciudadano.com",
-     "resumen": "",
-     "fecha": "2026-11-17T12:20:37+01:00",
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://www.elpespunte.es/entretenimiento/ira-luz-hoy-espana-verdad-supuesto-apagon-mundial/20261117200530162932.html",
+     "fuente": "El Pespunte",
+     "resumen": "¿Habrá apagón en España hoy 17 de noviembre? Descubre qué ocurrirá a las 20:20, el origen del rumor de las 72 horas y qué dicen las fuentes oficiales.",
+     "fecha": "2026-11-17T13:05:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
