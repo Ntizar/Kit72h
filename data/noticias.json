@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-19T22:11:01+01:00",
+  "actualizado": "2026-11-20T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -107,6 +107,14 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
@@ -123,16 +131,8 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
-     "fuente": "MADRID ACTUAL",
-     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
-     "fecha": "2026-11-19T04:03:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
-     "url": "https://www.msn.com/es-es/noticias/otras/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
+     "url": "https://www.msn.com/es-es/noticias/other/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
      "fuente": "Diario de León on MSN",
      "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
      "fecha": "2026-11-19T03:36:59+01:00",
@@ -159,14 +159,6 @@
      "fuente": "La Bandera",
      "resumen": "",
      "fecha": "2026-11-19T15:30:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Xunta y Sada (A Coruña) invertirán 7 millones para reducir el riesgo de inundaciones en el rego Maior",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-xunta-y-sada-a-coru%C3%B1a-invertir%C3%A1n-7-millones-para-reducir-el-riesgo-de-inundaciones-en-el-rego-maior/ar-AA2hN3HR",
-     "fuente": "El Español on MSN",
-     "resumen": "La actuación permitirá abrir tramos actualmente canalizados, mejorar el drenaje en la desembocadura y crear nuevos espacios verdes y de movilidad en el entorno Puede interesarte: Sada (A Coruña) renat ...",
-     "fecha": "2026-11-19T08:21:35+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
      "fecha": "2026-11-17T05:59:00+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0dlcTBjeFg3WWRuWTE2NEVDUjNEWTg3bkQzT0lFSUlBeEJzT1FiZjllZkRJZ19BMFJXNmM0YnZCN1NOQzY1N2tnUXUzU1QtREFONWZPUjhBUXBzY2w0d2x6cVZpenRXa3Riemhfc2hjWnhSX2I0NWtYSGJNazNQQklYVjJoRUk5NVBkc1VnSWc1Rzh5T01kM1pyd2pjOFJOUXVxa19INjFDRTJuZXZLczhOXzc1ZkNRVXJkbEl3QkxCOXNER0RDWjR3bEFCQlVC?oc=5",
+     "fuente": "RFI",
+     "resumen": "",
+     "fecha": "2026-11-16T13:57:46+01:00",
+     "fecha_txt": "16 nov"
     }
    ]
   },
