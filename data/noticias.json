@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-20T04:11:01+01:00",
+  "actualizado": "2026-11-20T07:11:10+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -44,14 +44,6 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Cómo prepararse para una emergencia de 72 horas, según la UE",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYllZcXZnU1EyalowbHFHaDROUXhpV2V1SWtYaWFuckFWQ2IxSkVrTTdHbHFfZEhVRVdIdzM3WFhUa2tsVW1MRWJyQlBKNy1YMTlrc0ZJX3VHb2M0UjJ1azA5dWZsUjJ0WHNMbTNveEtSTUk0SVZwVEdGODBrUWVoTmFIMzNmQQ?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-18T10:51:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
      "titulo": "Cómo prepararse para una emergencia de 72 horas según las nuevas recomendaciones de la UE",
      "url": "https://www.msn.com/es-mx/noticias/otras/c%C3%B3mo-prepararse-para-una-emergencia-de-72-horas-seg%C3%BAn-las-nuevas-recomendaciones-de-la-ue/ar-AA2hGh35",
      "fuente": "Euronews on MSN",
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-17T14:15:19+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Apagón mundial? La teoría que anuncia 72 horas sin luz ni internet y genera alarma en las redes",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUhEcEZlU3pSZ1pfODduNG5HeGczeEhYLXozaTQ2Z3F2VG1ZQi1SRVJNUDRveXRybWdSaFMxWFlZaTVTSVZCbURhbE1YNTZnUThkd2RQdE1MeVo3RXpMVnJOS1U1eW01XzVEaDIxVmRrSmpvMVFVS2g3M25qUXRIaHFiUTlTbW4yeHdYcEEzZS0zeUNHYmJzTERGeTRNeFVmQlB0NDVaZnJCcnZHeDFuODA4WjBnV0tadGJOeGpiaUJvUmo0S3lZQUdKTEctT01NcDZsSm90d3ZWZnc2N2s2Tk5QU1AzcmFWZ0dj?oc=5",
+     "fuente": "Los Primeros TV",
+     "resumen": "",
+     "fecha": "2026-11-17T13:53:15+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -83,10 +83,10 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Incendios forestales activos hoy en España: incendio de hoy",
-     "url": "https://www.europapress.es/temas/incendios-forestales/35/",
-     "fuente": "Europa Press",
-     "resumen": "Toda la actualidad y últimas noticias sobre incendios forestales hoy en España. No te pierdas ninguna noticia relevante sobre incendios suscribiéndote a nuestro boletín informativo diario.",
+     "titulo": "Caballos de Przewalski, bisontes y tauros en España: el importante papel que puede tener la recuperación de grandes herbívoros para ayudar a prevenir incendios forestales",
+     "url": "https://www.infobae.com/espana/2026/11/20/caballos-de-przewalski-bisontes-y-tauros-en-espana-el-importante-papel-que-puede-tener-la-recuperacion-de-grandes-herbivoros-para-ayudar-a-prevenir-incendios-forestales/",
+     "fuente": "Infobae",
+     "resumen": "Ante la homogeneización de los paisajes y la acumulación de biomasa combustible, cada vez más proyectos buscan introducir estas especies para recuperar los ecosistemas perdidos ...",
      "fecha": "2026-11-19T17:00:00+01:00",
      "fecha_txt": "19 nov"
     },
@@ -115,6 +115,14 @@
      "fecha_txt": "19 nov"
     },
     {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
      "fuente": "ECOticias.com - El Periódico Verde",
@@ -131,16 +139,8 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
-     "fuente": "MADRID ACTUAL",
-     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
-     "fecha": "2026-11-19T04:03:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
-     "url": "https://www.msn.com/es-es/noticias/other/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
+     "url": "https://www.msn.com/es-es/noticias/otras/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
      "fuente": "Diario de León on MSN",
      "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
      "fecha": "2026-11-19T03:36:59+01:00",
@@ -225,12 +225,12 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
-     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
-     "fuente": "Híbridos y Eléctricos",
-     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
-     "fecha": "2026-11-19T06:30:00+01:00",
-     "fecha_txt": "19 nov"
+     "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WQ?oc=5",
+     "fuente": "Faro de Vigo",
+     "resumen": "",
+     "fecha": "2026-11-20T06:10:14+01:00",
+     "fecha_txt": "20 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
