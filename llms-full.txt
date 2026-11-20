@@ -7727,20 +7727,140 @@ En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En
  Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.
  El material está en las guías de ola de calor y hogar ; la estufa y la tienda, en el kit de 30 días .
 
-### Los 7 recursos oficiales para guardar en el móvil y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
-En una emergencia, la información correcta vale más que cualquier mochila: los canales oficiales españoles que funcionan cuando todo lo demás falla.
-En una crisis, la diferencia entre actuar bien y actuar tarde es tener la fuente correcta a mano. Y desconfiar de todo lo demás: en el apagón de 2025 circularon decenas de bulos. Guarda estos siete canales ahora — en favoritos del móvil y, mejor aún, anotados en papel en tu carpeta de emergencia.
- Los 7 imprescindibles
- 112 : emergencias en toda la UE, gratis, sin saldo y funciona aunque tu operadora no tenga cobertura. Guárdalo, pero también saberte el número de memoria.
- AlertCops (app oficial del Ministerio del Interior): alertas de seguridad ciudadana y emergencias geolocalizadas en tu zona. Descárgala ahora; en plena crisis las tiendas de apps también fallan.
- AEMET (aemet.es y su app): avisos meteorológicos por provincias. En una DANA, el aviso rojo de la AEMET llega horas antes que el agua.
- Protección Civil (proteccioncivil.es): guías de autoperparación por riesgo y, en crisis, las recomendaciones de conducta. Es la fuente de la que nacen las listas de esta web.
- Tráfico DGT (app y Twitter/X oficial): estado de carreteras, cortes y desvíos en tiempo real — imprescindible si hay que moverse o evacuar.
- Boletín y radio FM : la radio a pilas sintonizando las cadenas nacionales y autonómicas es el único medio que sobrevive a un colapso total de redes.
- Ayuntamiento y comunidad autónoma : cada municipio tiene su plan de emergencia y sus canales (112 autonómico, avisos municipales). Localízalos ahora, no cuando suene la sirena.
- En papel, porque el móvil muere
- Anota en tu carpeta: 112, teléfono de Protección Civil de tu municipio, de tu centro de salud, de dos contactos fuera de tu zona, y el número de póliza de tu seguro de hogar. Media página escrita a mano que funciona con el móvil al 0%.
- Esta web solo enlaza fuentes oficiales; puedes verlas todas en la página de Fuentes oficiales , y las listas de compra que derivan de ellas, en los kits .
+### Los 7 recursos oficiales que hay que guardar en el móvil y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
+Los canales oficiales que siguen funcionando cuando cae la red: 112, AEMET, DGT, AlertCops y la radio, con la lista en papel y el checklist de 10 minutos.
+Cuando se va la luz, lo primero que se cae no es el suministro: es la información. En el apagón del 28 de abril de 2025 media España se quedó a oscuras y, en cuestión de minutos, los grupos de WhatsApp se llenaron de capturas de pantalla sin fecha, audios imposibles y mensajes reenviados de 2019. La información oficial existía, pero casi nadie la tenía a mano. Este artículo no va de comprar cosas: va de tener siete canales guardados antes de necesitarlos, en el móvil y en papel.
+
+
+ Por qué el móvil es la primera víctima
+
+ No es pesimismo, es cómo funciona la red. Una antena de telefonía aguanta lo que aguanta su batería de respaldo —unas horas— y, cuando el resto de la ciudad también se queda sin luz, todo el mundo marca a la vez y la red se satura. En un corte prolongado el móvil puede seguir encendido pero sin datos, sin llamadas o con ambas cosas a ratos. A eso se suma lo obvio: batería. Un terminal con el 100 % y uso intensivo (linterna, mapas, cámara) se queda seco en menos de un día.
+
+ Por eso la preparación no consiste en tener más apps, sino en tener los canales correctos localizados, el número de emergencia memorizado y una copia en papel de lo imprescindible. Si quieres el contexto completo de cómo se comportó el sistema en el apagón de 2025, lo contamos en las lecciones del 28-A .
+
+
+ Los siete canales oficiales que hay que guardar
+
+ Estos son los canales que emiten información de fuentes públicas, no de un grupo de mensajería. Guárdalos en favoritos y en la pantalla de inicio, y descarga las apps ahora: en plena crisis las tiendas de aplicaciones también fallan o van lentísimas.
+
+ 
+ Canal Para qué sirve Dónde 
+ 
+ 
+ 112 Emergencias en toda la UE. Gratis, sin saldo, sin datos. Funciona por voz aunque tu operadora esté saturada de tráfico de datos. Marcación directa 
+
+ AEMET Avisos meteorológicos por provincia y zona. Un aviso rojo se publica horas antes del fenómeno. aemet.es y su app 
+
+ Protección Civil Guías de autoprotección por riesgo y recomendaciones de conducta en crisis. proteccioncivil.es 
+
+ DGT Estado de carreteras, cortes, nieve y desvíos en tiempo real. dgt.es y su app 
+
+ AlertCops Canal de alerta del Ministerio del Interior, con geolocalización y chat con el 112. App oficial 
+
+ Radio FM/AM El único medio que sobrevive a un colapso total de redes y de electricidad. Radio a pilas o dinamo 
+
+ Tu ayuntamiento y tu comunidad Plan municipal de emergencia, avisos locales, 112 autonómico, megafonía. Web municipal 
+
+ 
+ 
+
+ El número que hay que saber de memoria: 112
+
+ El 112 es el número único de emergencias europeo y en España atiende todas las comunidades. Tres cosas que casi nadie sabe y que conviene practicar en frío:
+
+ 
+ No hace falta cobertura de datos ni saldo : es una llamada de voz que el terminal cursa por cualquier red disponible, incluida la de otra operadora si la tuya está caída.
+
+ Se puede llamar desde un móvil sin tarjeta SIM , siempre que tenga batería y haya alguna red que lo admita.
+
+ Hay que decir dónde estás primero : municipio, calle y número, o un punto de referencia. El operador no siempre puede geolocalizarte, y en una crisis con cientos de llamadas simultáneas cada segundo cuenta.
+
+ 
+ Y una advertencia práctica: en un apagón masivo el 112 se satura. Si tu llamada no entra, no es que el servicio esté caído: es que hay cola. Reserva la llamada para riesgo real para la vida y busca el resto de información por la radio.
+
+
+ Lo que se guarda en papel (media página, toda la razón)
+
+ El móvil se queda sin batería. El papel no. Anota a mano, con letra legible, en una hoja dentro de la carpeta de documentos de emergencia:
+
+ 
+ 112 y el teléfono de Protección Civil de tu municipio.
+
+ El centro de salud y el hospital de referencia más cercanos, con dirección.
+
+ Dos contactos fuera de tu zona : si hay un corte local, la persona que está a 300 km es la que mejor puede ayudar coordinando.
+
+ Número de póliza del seguro de hogar y teléfono de la aseguradora.
+
+ Medicación de cada miembro de la familia, dosis y teléfono del médico.
+
+ Una persona de confianza de tu edificio o de tu calle (vecinos mayores, personas con movilidad reducida).
+
+ 
+ Los documentos originales van en una bolsa impermeable; en papel basta con una copia reducida. Tenemos la lista completa de qué guardar en la guía de qué llevar en un kit de 72 horas .
+
+
+ El canal local: el que casi nadie prepara
+
+ En una emergencia real, la información que más te afecta no viene del Estado: viene de tu ayuntamiento. Es quien decide si se cierra una calle, si se corta el agua, dónde se instala un punto de avituallamiento o si hay que evacuar un barrio. Y lo hace por canales modestos: la web municipal, el bando, la megafonía, la radio local y, cada vez más, un canal de Telegram o una lista de difusión.
+
+ Dedica diez minutos hoy a localizar la web de tu ayuntamiento y la de tu comunidad autónoma, y apunta el teléfono de la Policía Local. En la página Tu zona puedes cruzar tu municipio con los recursos y avisos que ya tenemos geolocalizados.
+
+
+ Cómo saber qué está pasando sin fiarte de WhatsApp
+
+ La regla es simple y cuesta poco: si la información no tiene fecha, fuente y lugar, no es información . En crisis circulan tres patrones clásicos: capturas de pantalla sin fecha que se reenvían durante años, audios de alguien «que trabaja en no sé dónde» y vídeos de otros países presentados como propios. Antes de reenviar, comprueba dos cosas: si el organismo citado lo ha publicado en su canal oficial y si el texto tiene una fecha concreta.
+
+ Un bulo en una emergencia no es una molestia: consume recursos, provoca desplazamientos innecesarios y puede llevar a gente a tomar decisiones peligrosas. Si dudas, no difundas: escucha la radio y consulta el canal oficial. Sobre qué medios siguen funcionando cuando cae la red, tienes el detalle en comunicar sin red .
+
+
+ Qué hacer en las dos primeras horas
+
+ 
+ Minuto 0-5 : confirma que no hay riesgo inmediato en tu casa (humo, agua, cables) y avisa a tu gente de que estás bien con un mensaje corto, no con diez llamadas.
+
+ Minuto 5-20 : enciende la radio y busca la emisora nacional o autonómica. Es la fuente más fiable y la que menos batería gasta.
+
+ Minuto 20-60 : pon el móvil en modo ahorro, baja el brillo y no lo uses de linterna. La linterna del móvil es el mayor ladrón de batería que existe.
+
+ Hora 1-2 : llena garrafas y la bañera si el suministro de agua puede irse detrás de la luz, y comprueba la nevera: no la abras más de lo necesario.
+
+ 
+ Si el corte va a durar días —no horas— el planteamiento cambia por completo. Lo explicamos en kit de 72 horas o kit de 30 días .
+
+
+ El respaldo físico mínimo
+
+ Los canales oficiales solo sirven si tienes con qué escucharlos. Con dos cosas cubres el 90 % de los casos: una radio que funcione sin enchufe y una batería externa para el móvil.
+
+ 
+ Una radio FM/AM a pilas o de dinamo y panel solar : no necesita red, no necesita enchufe y no necesita cuenta en ninguna plataforma. Ver radios de dinamo y panel solar .
+
+ Una batería externa de 20.000 mAh : da para varios días de uso moderado del móvil, no para ver vídeos. Ver baterías externas de 20.000 mAh .
+
+ Unas pilas de repuesto para la radio y la linterna. Guarda el paquete cerrado y revisa la fecha de caducidad una vez al año.
+
+ 
+ Ninguno de estos tres productos es caro ni exótico, y todos sirven también un martes cualquiera. Ese es justo el criterio: si solo lo usas en la catástrofe, no lo vas a tener cuando llegue. Puedes ver el conjunto en la página de fuentes oficiales , de donde salen todas las recomendaciones de esta web.
+
+
+ Checklist de diez minutos, hoy
+
+ 
+ Marca el 112 en favoritos y dilo en voz alta una vez hasta saberlo de memoria.
+
+ Descarga AEMET, DGT y AlertCops, y activa sus notificaciones.
+
+ Guarda en favoritos la web de tu ayuntamiento y de tu comunidad autónoma.
+
+ Escribe en papel los seis datos de la lista de arriba.
+
+ Comprueba que tu radio enciende y que tiene pilas.
+
+ Carga el móvil y la batería externa esta noche.
+
+ 
+ Nada de esto requiere comprar un kit caro: requiere una hora hoy. Esta web solo enlaza fuentes oficiales y productos que puedes verificar; los enlaces de compra llevan nuestro identificador de afiliado y no cambian el precio que pagas.
 
 ### Kit de montaña para emergencias: 15 artículos que de verdad importan (2026) — https://kit72h.com/blog/montana-kit-salvavidas/
 Qué llevar y qué no prometer: una lista realista para senderismo y montaña, con botiquín, comunicación, agua y las señales de que hay que pedir ayuda.
