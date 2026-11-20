@@ -2,12 +2,12 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261120080138",
-  "actualizado": "2026-11-20T10:11:11+01:00",
+  "elaborado": "20261120103114",
+  "actualizado": "2026-11-20T13:11:12+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261120080138_penbal_20261120CET_1795165200.geojson"
+   "r_D+0_20261120103114_penbal_20261120CET_1795176000.geojson"
   ]
  },
  "resumen": {
@@ -32,18 +32,10 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
       }
      ]
     },
@@ -54,17 +46,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T17:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%"
       }
      ]
@@ -76,16 +60,8 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%"
       }
@@ -106,17 +82,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
        "probabilidad": "mayor 70%"
       }
      ]
@@ -128,18 +96,10 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
        "probabilidad": "mayor 70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
       }
      ]
     }
@@ -158,17 +118,17 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
        "hasta": "2026-11-20T23:59:59+01:00",
        "probabilidad": "mayor 70%"
       },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -188,18 +148,18 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
-       "probabilidad": "40%-70%"
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
+       "probabilidad": "mayor 70%"
       },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
-       "probabilidad": "mayor 70%"
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
+       "probabilidad": "40%-70%"
       }
      ]
     }
@@ -218,17 +178,17 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
        "hasta": "2026-11-20T23:59:59+01:00",
        "probabilidad": "mayor 70%"
       },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -248,18 +208,10 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%"
       }
      ]
     }
@@ -278,8 +230,8 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T09:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%"
       }
@@ -292,8 +244,8 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T09:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%"
       }
@@ -1041,23 +993,23 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
-       "probabilidad": "40%-70%",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
+       "probabilidad": "mayor 70%",
        "certainty": "previsto"
       },
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
-       "probabilidad": "mayor 70%",
+       "nivel": 2,
+       "severidad": "Naranja",
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
+       "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
      ]
@@ -1411,21 +1363,10 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
      ]
@@ -1729,22 +1670,11 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T17:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
       }
@@ -3025,21 +2955,10 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
      ]
@@ -3257,8 +3176,8 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T09:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
@@ -3744,21 +3663,10 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Oeste o Noroeste de 5 a 7 m. Viento del Suroeste de 50 a 61 km/h (fuerza 7) hasta la madrugada.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T17:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
@@ -4623,8 +4531,8 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
        "hasta": "2026-11-20T23:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
@@ -4634,9 +4542,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -7643,8 +7551,8 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T09:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
        "hasta": "2026-11-20T15:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
@@ -7738,22 +7646,11 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
       }
@@ -7992,8 +7889,8 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T15:00:00+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T14:00:00+01:00",
        "hasta": "2026-11-20T23:59:59+01:00",
        "probabilidad": "mayor 70%",
        "certainty": "previsto"
@@ -8003,9 +7900,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 2,
        "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste de 50 a 61 km/h (fuerza 7), localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T14:59:59+01:00",
+       "descripcion": "Mar combinado del Noroeste de 5 a 6 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T13:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -8232,21 +8129,10 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Mar combinada del NW de 4 a 5 m.",
-       "desde": "2026-11-20T12:00:00+01:00",
-       "hasta": "2026-11-20T20:59:59+01:00",
+       "descripcion": "Mar combinado del NW de 4 a 5 m.",
+       "desde": "2026-11-20T11:00:00+01:00",
+       "hasta": "2026-11-20T19:59:59+01:00",
        "probabilidad": "mayor 70%",
-       "certainty": "previsto"
-      },
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 2,
-       "severidad": "Naranja",
-       "descripcion": "Mar combinada del Noroeste de 5 a 7 m. Hasta la mañana: Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7) y localmente de 62 a 74 km/h (fuerza 8) mar adentro.",
-       "desde": "2026-11-19T10:00:00+01:00",
-       "hasta": "2026-11-20T11:59:59+01:00",
-       "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
      ]
