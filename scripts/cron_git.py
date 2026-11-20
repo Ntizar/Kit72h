@@ -33,6 +33,19 @@ PATHS_POR_SCRIPT: dict[str, tuple[str, ...]] = {
     ),
     "catalogo.py": ("data/kits.json", "data/catalogo.json"),
     "comprobar-urls.py": ("data/urls-estado.json",),
+    # Scripts que YA commitean solos (ofertas/buscador): sus salidas se declaran
+    # igual para que el runner no dependa de que TODO el árbol esté limpio. Un
+    # horneado concurrente (i18n a las 07:00) deja HTML sucio y antes eso
+    # convertía un ofertas perfecto en rc=2 (falso «error»). 2026-11-20.
+    "kit72h-ofertas.py": ("data/precios.json", "data/precios-historico.json"),
+    "precios-amazon.py": ("data/precios.json", "data/precios-historico.json"),
+    "kit72h-buscador.py": (
+        "data/kits.json", "data/propuestas-fichas.json", "data/buscador-log.json",
+        "data/precios.json", "data/precios-historico.json",
+        "data/productos-pendientes.xlsx", "data/pendientes-catalogo.json",
+        "index.html", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
+        "kit", "blog", "fuentes", "zona", "noticias",
+    ),
 }
 
 
