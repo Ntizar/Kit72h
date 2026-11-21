@@ -67,3 +67,4 @@
 | 2026-11-19 | mejor saco de dormir para dormir sin calefacción | comparativa | encolado | Comparativa saco de dormir para casa sin calefacción; 2 top ya publicados esta semana, se baja al #3 ejecutable |
 | 2026-11-20 | recursos-oficiales-emergencia | revamp | encolado | Revamp 319->1460 palabras del artículo de canales oficiales; 5 fuentes, 6 internos, 2 ASIN catálogo |
 | 2026-11-20 | como calentar la casa sin electricidad | revamp | propuesto | Score 101.2 pero ya publicado 2026-11-16 como calentar-casa-sin-electricidad-invierno; se descarta repetir |
+| 2026-11-21 | apagon-lecciones-28a | revamp | encolado | Revamp 327->1364 palabras del artículo del 28-A; 3 fuentes oficiales, 14 internos, 3 ASIN verificados |
