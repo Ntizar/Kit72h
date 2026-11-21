@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-21T04:11:00+01:00",
+  "actualizado": "2026-11-21T07:11:03+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,14 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "El cambio climático triplica el riesgo de incendios extremos en la península ibérica",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2syNUwyb21JWllaeFY4RjdQdEd2WUM4d0xyYXdYT0JWTzJjdlZWNFczWjl1aUF4Tlp4UFNtT0dmQklzMzNUV1ZXOVhfR3F2aFVtRjZyaTVLSHhfc04tY09fbEU5TnRkakwxOEppV3ZWd0lKOXR5X2haUkpqMjVBUnFmRmZMSVZkWUZPOC05Qk5Ndw?oc=5",
+     "fuente": "GNDiario",
+     "resumen": "",
+     "fecha": "2026-11-20T17:30:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
      "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVExHVHNIRzdPQ1BnZ1l3MDQtMnhPT3ZuU0tyX0daVkcxNXE0alFLZWFfRmctRUxIbmNXUkwtUFZmWTlRc1ZrQkRHNWNocDg2enZzWWxBTV9sZXVhRlpDc21xMGNXZ2s5NGExVzlURzc2VEhTdkpBMkZvNm1lWVBibVBtY2h1S0VWUWl3MzBwWHA0OW1FcFBLOGszWFhfNktyRUNubUNMYUhzYXVSQWZXQ0ZyMWRrYjN0MjZjSHpSNA?oc=5",
      "fuente": "National Geographic España",
@@ -108,18 +116,10 @@
     },
     {
      "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb01BZ1J4V0c2OFhCRG8wb1JSY180ajBZRWEzT0E5LVhwMWFKdTlremJDOG81aTdmd1NON3V0Qnd3Q2Nucm03OGlVTEk1OGtWeXNocmZXdjU3aGlwVnVzZXRUVlF0UU1udG5NT1FINXdldXlVanoyc2Z1LWloWnZyUUI5WHBoY0xEdEl2ajRwd01HeXljZDlPNkVha1ZKOEphU1kzdXhpa24xSk11V1YydUtuRC00VXg5T2U1UWRPdl9PQWl4bTcxc25yb1h2Tmo4QV93Ykttc1BpdGtHY0hNT1FGdnVoQXZlT2ZxazhvdmhTb0luNkVnVWp1RdIBgAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E0gGAAkFVX3lxTFA0VmRxQzdJTDc4eWxmRmZsYnhhLUt4cUVBVUFkc2RCTkU2TE9IV283SktWMi1qcWlkSWwwQUZfa1JEWG5WVjFOVk9zZm9laGRfMUVOdmx0bjNUZ2FJbThGWU9OMnUwS1g1U3ZTQWxVakpDUWZCQWRxQVJpNHR1eXdubnRHSVdSTEJvWW9tV3dQTUlSLTRMbVRwakhPb05uUnBNWnNlTkREcGJvcFpFMTl5VFZPbDAwRy1qNElpb1dNVUViNnhEYy0yYTlsb0lmbVdDQ0VYSDFsMFJuSGlvbHhfMS16OXVmWW5BUEJrT25YYlhCTDBVUWNMcFI0XzZuLUQ?oc=5",
      "fuente": "Andalucía Información",
      "resumen": "",
      "fecha": "2026-11-19T11:04:29+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
-     "fuente": "Madrid Actual",
-     "resumen": "",
-     "fecha": "2026-11-19T11:03:01+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -139,11 +139,11 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
-     "url": "https://www.msn.com/es-es/noticias/otras/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
-     "fuente": "Diario de León on MSN",
-     "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
-     "fecha": "2026-11-19T03:36:59+01:00",
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
+     "fuente": "MADRID ACTUAL",
+     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
+     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     }
    ]
@@ -186,19 +186,11 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Arrancan las obras en el cauce del río Girona tras la dana Adam en Alicante y Oliva",
-     "url": "https://actualidadvalencia.com/reparacion-cauce-rio-girona-dana-adam/",
-     "fuente": "actualidadvalencia",
-     "resumen": "Han comenzado las obras para reparar el cauce del río Girona tras la dana Adam en varios municipios de Alicante y en el entorno del puerto de Oliva, con actuaciones urgentes financiadas por el Real De ...",
-     "fecha": "2026-11-17T11:09:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Arrancan las obras para reparar el cauce del río Girona tras la dana Adam",
-     "url": "https://diariodealicante.net/reparacion-rio-girona-dana-adam-alicante/",
-     "fuente": "Diario de Alicante",
-     "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
-     "fecha": "2026-11-17T05:59:00+01:00",
+     "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-17T05:30:01+01:00",
      "fecha_txt": "17 nov"
     },
     {
@@ -216,6 +208,14 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
+     "resumen": "",
+     "fecha": "2026-11-15T18:23:00+01:00",
+     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: \"Adif sacó los suyos al día siguiente del accidente\"",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk0?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-21T05:45:39+01:00",
+     "fecha_txt": "21 nov"
+    },
     {
      "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkxqa3FLT0xucGk3Qm9yZTVMQnIyZF9CVGszMFpySlM1ZXV1aEZEOVB3RTNEdm9jREZPb1BJMk5Zal9DSllnNVdYcUpEaUZySTdKZk5XenNKTUZSRktSWmgxRHp6c1gzVWVUZTZKVlRXQkpuYUNsWXU1a1VJN3dFSWZpTGNOZmx6VWhJMzlYamJOeXdpQ1dkeFJjVUF3TDVIQVdpMElSS3JqNVRIVmdzdWdXS0lMd1NXemltcFZGNlBHZ2Jf?oc=5",
@@ -246,14 +254,6 @@
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
-     "url": "https://www.elperiodico.com/es/sociedad/20261120/acsm-adjudica-inspeccion-cableado-submarino-136657202",
-     "fuente": "El Periódico",
-     "resumen": "La compañía logra por más de 730.000 euros un contrato financiado entre Red Eléctrica y el operador marroquí ONEE para revisar los dos enlaces del estrecho de Gibraltar, que se encuentran a profundida ...",
-     "fecha": "2026-11-20T05:00:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
