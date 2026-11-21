@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-21T13:11:01+01:00",
+  "actualizado": "2026-11-21T16:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -52,14 +52,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRIQjM4MzJKMVpwdVNUTldCVFNLR1IxdVVuOVdmWDV5djBIMVRURU92cnYwbV9oZXUwMUZsLXoxeHkzQTRFaU5PcnBkNVh3SGg3cDViM2tkSFZwR25SR2ZqbGtJZkIxWllXZUNoVWczd0ZiMzJZYkNhVFRoNUxCNVVuU1FVSjlVSVcyNUx0RVNLNlduUm1CY0J3?oc=5",
-     "fuente": "Portugal Resident",
-     "resumen": "",
-     "fecha": "2026-11-19T17:34:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
      "fuente": "Euronews.com",
@@ -68,12 +60,20 @@
      "fecha_txt": "19 nov"
     },
     {
-     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://www.msn.com/es-es/noticias/other/la-uni%C3%B3n-europea-pide-a-sus-ciudadanos-tener-listo-este-kit-de-emergencia-para-poder-sobrevivir-de-forma-aut%C3%B3noma-durante-72-horas/ar-AA2hKkbH",
-     "fuente": "Computer Hoy on MSN",
-     "resumen": "Bruselas pide a los ciudadanos europeos preparar un kit básico con agua, comida, efectivo y medicinas para sobrevivir durante 3 días completos sin ayuda ante una crisis, Te preguntarás, ¿por qué 72 ho ...",
-     "fecha": "2026-11-18T21:15:00+01:00",
-     "fecha_txt": "18 nov"
+     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
+     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
+     "fuente": "Portugal Resident",
+     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
+     "fecha": "2026-11-19T09:34:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Kit de emergencia 72h recomendado por la UE: Todo lo que necesitas saber",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zbEJqTk5PM2VXbUdFQjVwQmtBMXVEeGlDeGxHU1pEc1ZDbUVOZmtOZlIwLVk1a1dGcXZ2dkJsQ2dYTTl3TFRFcTlrSG9QR21QbEZSa045Zy04UVJ6OWRURjhEendTbks4QklRR0RIU1V6NUVLSEtv?oc=5",
+     "fuente": "PcComponentes",
+     "resumen": "",
+     "fecha": "2026-11-19T09:00:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "Comienzan las declaraciones por el segundo mayor incendio en la historia de España",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmJ5SzJTaXlUZEV1cEFRcFBhNTdYZkhVM3RpZy1RbWRTS0JIQWFhRjNGSGU5U051b2IwZGE4X3UtdW4tWUMxT2tBY2lUZkl3emdBU1JFUUhaTjRLTVBRajhDZ0ppbktjRDdjWEszOVZoM1NOY2VGb2kxNjdTdlhDTXZqMXhlQlVEcUpCOFN6UGV0T1dUVzBBMlJ1dlhoeWZmTVhJMGotNTllYmhVTTMw?oc=5",
+     "fuente": "EFE - Agencia de noticias",
+     "resumen": "",
+     "fecha": "2026-11-21T13:48:17+01:00",
+     "fecha_txt": "21 nov"
+    },
     {
      "titulo": "Asturias plantará 14.245 pinos en el monte de Piloña que ardió en 2023 y desbrozará 4,2 km de fajas contra nuevos incendios",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVl9sSjIxcXVIcmM5STJ6NVpISWhqUXIzTlhGaDBJemQ5dmp1YVpnWHdBVU5jRDV5SkFmYUV6MHVXdHhQOThwSnAzeVdqNXhiWEJaeER6ODVFRFNvYTB2WVh4U0VnX2FuS0tWdjgzUV8xd2QyNk1ZMllvRG9HNGc4a2N2bTRKcWlEYWUwc1NR?oc=5",
@@ -137,14 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-19T11:03:01+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
-     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
-     "fuente": "larazon",
-     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
-     "fecha": "2026-11-19T04:42:00+01:00",
-     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -168,14 +168,6 @@
      "resumen": "",
      "fecha": "2026-11-19T15:30:00+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
-     "fuente": "España Exterior",
-     "resumen": "",
-     "fecha": "2026-11-18T14:07:14+01:00",
-     "fecha_txt": "18 nov"
     },
     {
      "titulo": "Seguro coche inundación: cuándo cubre tu póliza los daños por DANA, granizo o viento y cuándo responde el Consorcio",
@@ -216,6 +208,14 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
+     "resumen": "",
+     "fecha": "2026-11-15T18:23:00+01:00",
+     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -257,6 +257,22 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
@@ -265,28 +281,12 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
-     "fuente": "El Pespunte",
+     "titulo": "Gran apagón mundial: cómo comprobar si te corresponde un descuento por un corte de luz en España",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dHQmZQUUI1czFadTUxMTBCaHVQaGs0cDU1TEtkNUZTOGNTY3VORmVUZ3U2Ql9hSTM3WjVWbDRsN0ZsLWdsTHA4djJvYkdodkhYSVhOT25IbTR4bnZoc0VBa1NLRWNmcnRpN3c0dm9KOXgtZW1JbG1SbGFMRFRtRg?oc=5",
+     "fuente": "Hassan KOHEN",
      "resumen": "",
-     "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "España: ¿estamos más cerca de otro apagón?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRJNUZwaFR0QWFERTZ5RFVHc0V5MWJlOTR3c1FqY2tSN1dvb0lXdXNicmhrUk1TOGpNek1hVmhLcXFBckVwd3F6REVrQkdFVFR6Z2hncnBBZ1ZNVGtUVVlNOWQzWEg1VTdOMXFPdncydFpwM3pmTGZaY0pnMW1uOXJRY0ZtcFh3Ulk4a2NhNEJLVHNxeTVr0gGcAUFVX3lxTE1yVmRiV0l1ME1qeFF2MEt0azVzejRLRWNYOGlXRzQ0UXFNeHloUDZmZ3NrZ1NWS2VQb1h4VUFpdlp6ekJwWlZTYklrNEZ6Nkp0OGMzYkVONzdRT0k4czNKNVRDOTNvdFpoVmxvVFlIaExPQjZxQTlHMFY5SUdJTFBDNGlUWXhIS09mNFFsc0laN2x1V2hrdUtodHRVcQ?oc=5",
-     "fuente": "MUNDIARIO",
-     "resumen": "",
-     "fecha": "2026-11-17T16:32:35+01:00",
-     "fecha_txt": "17 nov"
+     "fecha": "2026-11-18T03:00:46+01:00",
+     "fecha_txt": "18 nov"
     }
    ]
   }
