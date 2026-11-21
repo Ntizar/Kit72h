@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-21T01:11:01+01:00",
+  "actualizado": "2026-11-21T04:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,14 +17,6 @@
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-11-20T19:10:18+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Apocalipsis digital: crecen las compras de generadores y alimentos para emergencias",
-     "url": "https://elargentinodiario.com.ar/zona-destacada/20/11/2026/apocalipsis-digital-crecen-las-compras-de-generadores-y-alimentos-para-emergencias/",
-     "fuente": "El Argentino Diario",
-     "resumen": "Las interrupciones de Microsoft, la suspensión de vuelos y los problemas en bancos y organismos oficiales impulsaron la demanda de artículos de supervivencia. Costco agotó buena parte de sus generador ...",
-     "fecha": "2026-11-20T12:43:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-19T05:15:00+01:00",
      "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Por qué Europa pide a sus ciudadanos armar kit de emergencia para sobrevivir 72 horas sin luz ni agua",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTUo3eElzWVBVcDJkbEh1OWtwajloaDNmSHpmRkk4aEtnaUt6ODBNWnAyYzVObU9Jc0ZObEwxZlF6azlod08xaWRKWW5XWW03bWxhSkpuVWF4dEFTQWQ3LWprdWNkZlQ2cC0temZGc0JIQkUwX3NMZlRudF9jUC1DeTJsUlh1VWwwbEhxMmhwU3VKSDNQNWpyMGtRRjR1ODdzRTZ3Z09Ya3NfZUZtc0gxYU9DdXQ1eEVmRGpBcWNvU283SHE1V0pjUVdHVlVfRGhPUHZfY1d1NDhJSmRFb0pfNlN5cGotS0NCUTZOeUdWNXB2QzZMV1RhaVFxODlGbFM1OGZYV1dTYw?oc=5",
+     "fuente": "BioBioChile",
+     "resumen": "",
+     "fecha": "2026-11-18T16:58:10+01:00",
+     "fecha_txt": "18 nov"
     }
    ]
   },
@@ -82,14 +82,6 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
-    {
-     "titulo": "El cambio climático adelantará hasta dos meses la temporada de peligro de incendios en la península ibérica",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORHVBQ2M5dWZaQ3hQRjRWWnFRSDYxTHEwb2lWUVJsUUhQTVZFTDF5cGdVVmtEbXJxN1pUcW45QW05c3dZOEtrVlZyRXg4R1cxZ1N5TnRyTGVZSlhsTnlFMXNsQkpZcUgtbm9zN0tlQnFGWlNwM2pjalVRa0dFenR5Rzc2V2hQQ2VMN3NSa25sVUN1Rjk2dS11aWhWeF9wSF8zMUd6YTQ0Rm1UdkdBRlhsdHo1eklIbElVa0h2SDI1RjlsVWkxZU1OMDlXdzBTN0FkN1NnX1RLWmlSbGPSAeABQVVfeXFMTUgwU19UWTZqWTh4U09oREJVMk53V09vSXV2QnBRTGNSTkFMZnJwRG9qVzdnaElYaUhjdGE1SVotNHk2dk91NmRBdnZxd1EyTjk1c3hqdFBfRGNNNTVjbHZmNEV0dVVwNV96b3Fac1E3ZmlEMnp5dDdyYm5TdFV1SFNMaE1UQ2l4SVhPcURRZVZHMV85dlRhSFNZN25ERmhGVXk0YnJVNklNM3NtWFlvZjY5TnBPWnh4NzFpcEI5UGMwV1F0LWx2YWlndWx1U1dUdkRGZnI3dm4wVUxNMTBkeGM?oc=5",
-     "fuente": "Diario Red",
-     "resumen": "",
-     "fecha": "2026-11-20T21:06:56+01:00",
-     "fecha_txt": "20 nov"
-    },
     {
      "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVExHVHNIRzdPQ1BnZ1l3MDQtMnhPT3ZuU0tyX0daVkcxNXE0alFLZWFfRmctRUxIbmNXUkwtUFZmWTlRc1ZrQkRHNWNocDg2enZzWWxBTV9sZXVhRlpDc21xMGNXZ2s5NGExVzlURzc2VEhTdkpBMkZvNm1lWVBibVBtY2h1S0VWUWl3MzBwWHA0OW1FcFBLOGszWFhfNktyRUNubUNMYUhzYXVSQWZXQ0ZyMWRrYjN0MjZjSHpSNA?oc=5",
@@ -107,14 +99,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Caballos de Przewalski, bisontes y tauros en España: el importante papel que puede tener la recuperación de grandes herbívoros para ayudar a prevenir incendios forestales",
-     "url": "https://www.infobae.com/espana/2026/11/20/caballos-de-przewalski-bisontes-y-tauros-en-espana-el-importante-papel-que-puede-tener-la-recuperacion-de-grandes-herbivoros-para-ayudar-a-prevenir-incendios-forestales/",
-     "fuente": "Infobae",
-     "resumen": "Ante la homogeneización de los paisajes y la acumulación de biomasa combustible, cada vez más proyectos buscan introducir estas especies para recuperar los ecosistemas perdidos ...",
-     "fecha": "2026-11-19T17:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "España acumula 301.889 ha quemadas hasta el 18 de noviembre y no registra ningún incendio la últ",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUduZmpHRzVDckdkMm5yOG9WdXo5UDFjcXN1ZUF2VFhYVUs2bFBWS3NEbjk3TmJpb2RLTHpGYnpjRm9TUzFMMXhrMUdQNy0ybEszNTdHNzZ0cFpRQl9tRHVfU1IzNlFKTDkyM1IxSVR4eEVjMHA0SnJodnlyVE0xYjBVQkJmak5hbmMzU3JHSURKOWFvaExwVUpSQ3lib1dlUnZsV0FjSdIBrAFBVV95cUxObHd4SWhvQmt5OVI4c0g2d3F6NlRWZC1ldXUwdDI5ajZnRDlKMHoxMS1ITVNIY09WLTUtemp4WjcxbDh6amlBbXduVi1fZnRsMXEzMkozLWk2NVZ0WDVCbHJlZFJ1TEIwc3k5VEhEdHFpbEtSZlh0T1RQbklxMGpUSjBMUF9jR042TFRwQjVJQ2Z3ekJmNkVmZng1QmVuLW5YYk1Pc0VNcFg1a0xR?oc=5",
      "fuente": "LaCerca.com",
@@ -124,10 +108,18 @@
     },
     {
      "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E0gGAAkFVX3lxTFA0VmRxQzdJTDc4eWxmRmZsYnhhLUt4cUVBVUFkc2RCTkU2TE9IV283SktWMi1qcWlkSWwwQUZfa1JEWG5WVjFOVk9zZm9laGRfMUVOdmx0bjNUZ2FJbThGWU9OMnUwS1g1U3ZTQWxVakpDUWZCQWRxQVJpNHR1eXdubnRHSVdSTEJvWW9tV3dQTUlSLTRMbVRwakhPb05uUnBNWnNlTkREcGJvcFpFMTl5VFZPbDAwRy1qNElpb1dNVUViNnhEYy0yYTlsb0lmbVdDQ0VYSDFsMFJuSGlvbHhfMS16OXVmWW5BUEJrT25YYlhCTDBVUWNMcFI0XzZuLUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb01BZ1J4V0c2OFhCRG8wb1JSY180ajBZRWEzT0E5LVhwMWFKdTlremJDOG81aTdmd1NON3V0Qnd3Q2Nucm03OGlVTEk1OGtWeXNocmZXdjU3aGlwVnVzZXRUVlF0UU1udG5NT1FINXdldXlVanoyc2Z1LWloWnZyUUI5WHBoY0xEdEl2ajRwd01HeXljZDlPNkVha1ZKOEphU1kzdXhpa24xSk11V1YydUtuRC00VXg5T2U1UWRPdl9PQWl4bTcxc25yb1h2Tmo4QV93Ykttc1BpdGtHY0hNT1FGdnVoQXZlT2ZxazhvdmhTb0luNkVnVWp1RdIBgAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E?oc=5",
      "fuente": "Andalucía Información",
      "resumen": "",
      "fecha": "2026-11-19T11:04:29+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -145,6 +137,14 @@
      "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
      "fecha": "2026-11-19T04:42:00+01:00",
      "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Expertos de España y Portugal buscan nuevas respuestas frente a los incendios forestales del Bierzo",
+     "url": "https://www.msn.com/es-es/noticias/otras/expertos-de-espa%C3%B1a-y-portugal-buscan-nuevas-respuestas-frente-a-los-incendios-forestales-del-bierzo/ar-AA2hMzm4",
+     "fuente": "Diario de León on MSN",
+     "resumen": "Las jornadas abordarán la prevención, la vulnerabilidad de las poblaciones y la recuperación de los territorios afectados por el fuego, con una visita técnica al escenario del incendio de Yeres ...",
+     "fecha": "2026-11-19T03:36:59+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "España aprueba medidas urgentes tras las inundaciones de octubre",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaERfWjdzckx6V0tsRUVsQmJTRVpYdDZlZi1fcVJpSllhWldRMnd3bGd0c2VVZ290YzJaeUdlMEFSemdUVEdScGZZWmJ6dUJyWDN1QVM1UVZTbnFWMnJpcy1ob0dJelVyejhoT3g4U1FCdE5uQWhVdlNTLTUwOUhDSFBTeUdyQWM?oc=5",
+     "fuente": "Columna Digital",
+     "resumen": "",
+     "fecha": "2026-11-20T07:50:19+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
      "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZnRl93b0Rzb2xzblg2QVlEWlF6RTNQeHFxWkRFQzRKTWNoTDU2TUFEcEN1SmplSU5Va3NTWmMzWkNIS2tlMlM4Sktocnc1SFVURU5mWDJDYk5BOVdNUlZaZ0xLSFo1OTU4ZG5seDEzd3AyS0hVcWpTZnNRQ3hlVkg3akNUNW9vZEFwcFRnQVQzSXFCWV90Z2NHdTVQSUV1M3hnQXgtdw?oc=5",
      "fuente": "España Exterior",
      "resumen": "",
      "fecha": "2026-11-18T14:07:14+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-18T12:28:51+01:00",
      "fecha_txt": "18 nov"
     },
     {
@@ -200,22 +216,6 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
-     "fuente": "Meteored España",
-     "resumen": "",
-     "fecha": "2026-11-15T19:00:07+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T18:23:00+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -226,10 +226,10 @@
    "items": [
     {
      "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
-     "fuente": "Diario Área",
-     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
-     "fecha": "2026-11-20T12:55:00+01:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkxqa3FLT0xucGk3Qm9yZTVMQnIyZF9CVGszMFpySlM1ZXV1aEZEOVB3RTNEdm9jREZPb1BJMk5Zal9DSllnNVdYcUpEaUZySTdKZk5XenNKTUZSRktSWmgxRHp6c1gzVWVUZTZKVlRXQkpuYUNsWXU1a1VJN3dFSWZpTGNOZmx6VWhJMzlYamJOeXdpQ1dkeFJjVUF3TDVIQVdpMElSS3JqNVRIVmdzdWdXS0lMd1NXemltcFZGNlBHZ2Jf?oc=5",
+     "fuente": "Diario Área Campo de Gibraltar",
+     "resumen": "",
+     "fecha": "2026-11-20T20:55:59+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -246,6 +246,14 @@
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
+     "url": "https://www.elperiodico.com/es/sociedad/20261120/acsm-adjudica-inspeccion-cableado-submarino-136657202",
+     "fuente": "El Periódico",
+     "resumen": "La compañía logra por más de 730.000 euros un contrato financiado entre Red Eléctrica y el operador marroquí ONEE para revisar los dos enlaces del estrecho de Gibraltar, que se encuentran a profundida ...",
+     "fecha": "2026-11-20T05:00:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -278,14 +286,6 @@
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-17T17:19:37+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Habrá un apagón eléctrico hoy, 17 de noviembre, en España? La verdad sobre el supuesto corte de luz mundial de 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkNWUm5uTzhJUXlqUEJPYlU1djJhZUNJTkJKYWRrUnlHczc1NFFkcmxvUmNvQ1d5NkRiNmtIVS1ZWlZIZ0xXcjJVSEs1UFllaWRUSlJCSWdyeUJvcnNFaVVjNmFyR0JsWnlLcDZrNnZVQTFNaUdvS0V4OXpCTzJLNnh6V2lFSTZfeHlmYl82Y3IxRnAyMXBHNWhOcFF3Vm1xVGtFS1BkcWc1N1V0bmJFOUZLSUVaQzhvZ3dkU1p2dC1UOGpoaFVnSjljZGo5WTd3SWthSGNObEkwQ3kwMzN5Qw?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T15:26:40+01:00",
      "fecha_txt": "17 nov"
     }
    ]
