@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-21T07:11:03+01:00",
+  "actualizado": "2026-11-21T10:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,11 +12,27 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "La UE lo hace oficial y recomienda a los canarios estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNk1XNHp5Z2dfX2hEeTdEbWFCLWpCclNMZ2VCWnRmdzdTcXFmT0lJVTVwNnh3WldzQzlfSV9GMUc2dUg3MlJGZTBRVndjeHpTUzdsTGxUSE0wX3BGZU5Cc2tQVzI2Y2pOQkJZVkZRb2VybGJzb0Q1MlhnUTkxWFp3MzJDQVdHUUMxeWdpaUhXX0JaLThTdm9GOWxwd1dXY1pUMjUyNjVSbUNpeDZQbkJkV2p3SmdaVDV1U3dwY1hn0gHDAUFVX3lxTE80ckc3bUZLTFljSWR1bWFKbHFCVzliRjFodGJQU1pjXzZIUjdiZTdaRWU1elZPcmhvczZkMEZjVU9CNGpZSmwzQTlGaXRwWHFRVlF3ZmZtbkQyUUR4NU5lNHo3anpyN3laMDRiUjBpVDd2SThiRDl1WEZjY1czQ3g3NzQyUk1PdldwWFlFYi1rMEQ0YjdpZ0N0SmJ5cjh0NTh6aXVQdGJaVDFWdzRFWVJMRFVrUlFGamhld2dTTng0cFZIaw?oc=5",
+     "fuente": "La Provincia",
+     "resumen": "",
+     "fecha": "2026-11-21T09:30:42+01:00",
+     "fecha_txt": "21 nov"
+    },
+    {
      "titulo": "Carlos Vico, experto en supervivencia: \"Un kit para 72 horas debe incluir unos 100 euros por persona, una power bank para recargar el teléfono móvil, una radio FM a pilas y un hornillo de gas pequeño\"",
      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTno0SGo3LWtFc09aZXRNQVBWcmR0cFJaUGVCRW04RnFjZTJ2OVJDRlJzZFZnbVpRbDJ3Mi1BZFZvV3puZFNuZnlRcFNEY3ROemxEcnJpUWVsS2hENmNFOWotMEJTWGpRSmFqR1plNmV4RXZkSFh4YWZrUVhLWkxVN1FWTEd5cFRSZHhBWExZVEI1c19TTDM2SEdrcTI1VkNUNXRMRnhKNlFyVnJMZkgtMFJTR3BWYmFTejFpcUlqVWdiMXY2dGlwbTl5UnJmRUZ5WlZfX3VCX0NtWUlUeVkxd1BmS21aZlpfVlNjb1NER0hTSUtBV1I4US16SzQ1Qjg1RVdxd2lHYjhiMkdsaXNXYVJtc3NMWGp6dUFQcDI4ZFIzX253cHFOZGl1alNsdWd5dGZLbkMwc1lkd0dQVXItQVpVVlA3RHlEMENz0gHQAkFVX3lxTE0xa0xrNndtYjkwSm94TUNOOWtWY1dGd3lqRTktd0t1YV96YS1mUW9hZkgwNjBsVFBXNnY3d0tkSmdKNEJVVHlBYkFITHUydzJuQ2lLSl9Vd21LdTl1dmFfSEczYUJScVdsVDFROUYtUElacTgydjh1em5RYmsyX2NCeWVoNTBNdXYxV3lHajZlaklXX25TSFFpTUJ6Mi1PMkltWnFXeE42U0ZHQ3NkZ2REemVRVS1NQjNwZnRYN0syTDhrZVNLU3lEUzA1MG8wdlVkQkNxU0ZWRThEbDR6TTd0Tk4zU25HemNKQzdaaHVscm1GVmJHWUFqVjFBMWdIQUtlSkV0WmFMWGRvZ1JjanNMX3dSRjVJNmVWcG9oWnhkSkdBN0NMa1VjSUZlYzNNOHA5aWJyWTVKR21SVDhHelBzSV9YeTNJZ2FGR0MtTWdjVw?oc=5",
      "fuente": "COPE",
      "resumen": "",
      "fecha": "2026-11-20T19:10:18+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
+     "url": "https://elcomercio.pe/respuestas/que/que-debe-incluir-tu-mochila-de-emergencia-indeci-brinda-recomendaciones-tras-el-sismo-en-junin-tdpe-noticia/",
+     "fuente": "El Comercio",
+     "resumen": "Agua, alimentos, botiquín y una radio a pilas forman parte de los suministros indispensables para afrontar una emergencia. Pero la preparación no termina allí: Indeci recomienda una caja de reserva pa ...",
+     "fecha": "2026-11-20T16:57:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -58,22 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-19T09:00:00+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
-     "fuente": "Computer Hoy",
-     "resumen": "",
-     "fecha": "2026-11-19T05:15:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Por qué Europa pide a sus ciudadanos armar kit de emergencia para sobrevivir 72 horas sin luz ni agua",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTUo3eElzWVBVcDJkbEh1OWtwajloaDNmSHpmRkk4aEtnaUt6ODBNWnAyYzVObU9Jc0ZObEwxZlF6azlod08xaWRKWW5XWW03bWxhSkpuVWF4dEFTQWQ3LWprdWNkZlQ2cC0temZGc0JIQkUwX3NMZlRudF9jUC1DeTJsUlh1VWwwbEhxMmhwU3VKSDNQNWpyMGtRRjR1ODdzRTZ3Z09Ya3NfZUZtc0gxYU9DdXQ1eEVmRGpBcWNvU283SHE1V0pjUVdHVlVfRGhPUHZfY1d1NDhJSmRFb0pfNlN5cGotS0NCUTZOeUdWNXB2QzZMV1RhaVFxODlGbFM1OGZYV1dTYw?oc=5",
-     "fuente": "BioBioChile",
-     "resumen": "",
-     "fecha": "2026-11-18T16:58:10+01:00",
-     "fecha_txt": "18 nov"
     }
    ]
   },
@@ -82,6 +82,14 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "El cambio climático adelantará hasta dos meses la temporada de peligro de incendios en la península ibérica",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORHVBQ2M5dWZaQ3hQRjRWWnFRSDYxTHEwb2lWUVJsUUhQTVZFTDF5cGdVVmtEbXJxN1pUcW45QW05c3dZOEtrVlZyRXg4R1cxZ1N5TnRyTGVZSlhsTnlFMXNsQkpZcUgtbm9zN0tlQnFGWlNwM2pjalVRa0dFenR5Rzc2V2hQQ2VMN3NSa25sVUN1Rjk2dS11aWhWeF9wSF8zMUd6YTQ0Rm1UdkdBRlhsdHo1eklIbElVa0h2SDI1RjlsVWkxZU1OMDlXdzBTN0FkN1NnX1RLWmlSbGPSAeABQVVfeXFMTUgwU19UWTZqWTh4U09oREJVMk53V09vSXV2QnBRTGNSTkFMZnJwRG9qVzdnaElYaUhjdGE1SVotNHk2dk91NmRBdnZxd1EyTjk1c3hqdFBfRGNNNTVjbHZmNEV0dVVwNV96b3Fac1E3ZmlEMnp5dDdyYm5TdFV1SFNMaE1UQ2l4SVhPcURRZVZHMV85dlRhSFNZN25ERmhGVXk0YnJVNklNM3NtWFlvZjY5TnBPWnh4NzFpcEI5UGMwV1F0LWx2YWlndWx1U1dUdkRGZnI3dm4wVUxNMTBkeGM?oc=5",
+     "fuente": "Diario Red",
+     "resumen": "",
+     "fecha": "2026-11-20T21:11:54+01:00",
+     "fecha_txt": "20 nov"
+    },
     {
      "titulo": "El cambio climático triplica el riesgo de incendios extremos en la península ibérica",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2syNUwyb21JWllaeFY4RjdQdEd2WUM4d0xyYXdYT0JWTzJjdlZWNFczWjl1aUF4Tlp4UFNtT0dmQklzMzNUV1ZXOVhfR3F2aFVtRjZyaTVLSHhfc04tY09fbEU5TnRkakwxOEppV3ZWd0lKOXR5X2haUkpqMjVBUnFmRmZMSVZkWUZPOC05Qk5Ndw?oc=5",
@@ -116,10 +124,18 @@
     },
     {
      "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E0gGAAkFVX3lxTFA0VmRxQzdJTDc4eWxmRmZsYnhhLUt4cUVBVUFkc2RCTkU2TE9IV283SktWMi1qcWlkSWwwQUZfa1JEWG5WVjFOVk9zZm9laGRfMUVOdmx0bjNUZ2FJbThGWU9OMnUwS1g1U3ZTQWxVakpDUWZCQWRxQVJpNHR1eXdubnRHSVdSTEJvWW9tV3dQTUlSLTRMbVRwakhPb05uUnBNWnNlTkREcGJvcFpFMTl5VFZPbDAwRy1qNElpb1dNVUViNnhEYy0yYTlsb0lmbVdDQ0VYSDFsMFJuSGlvbHhfMS16OXVmWW5BUEJrT25YYlhCTDBVUWNMcFI0XzZuLUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb01BZ1J4V0c2OFhCRG8wb1JSY180ajBZRWEzT0E5LVhwMWFKdTlremJDOG81aTdmd1NON3V0Qnd3Q2Nucm03OGlVTEk1OGtWeXNocmZXdjU3aGlwVnVzZXRUVlF0UU1udG5NT1FINXdldXlVanoyc2Z1LWloWnZyUUI5WHBoY0xEdEl2ajRwd01HeXljZDlPNkVha1ZKOEphU1kzdXhpa24xSk11V1YydUtuRC00VXg5T2U1UWRPdl9PQWl4bTcxc25yb1h2Tmo4QV93Ykttc1BpdGtHY0hNT1FGdnVoQXZlT2ZxazhvdmhTb0luNkVnVWp1RdIBgAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E?oc=5",
      "fuente": "Andalucía Información",
      "resumen": "",
      "fecha": "2026-11-19T11:04:29+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -128,22 +144,6 @@
      "fuente": "ECOticias.com - El Periódico Verde",
      "resumen": "",
      "fecha": "2026-11-19T08:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
-     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
-     "fuente": "larazon",
-     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
-     "fecha": "2026-11-19T04:42:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://www.madridactual.es/nacional/espana-acumula-301-889-quemadas-noviembre-regiones-afectadas-20261119-8129555.html",
-     "fuente": "MADRID ACTUAL",
-     "resumen": "Noticias de España en Madrid Actual: política nacional, Gobierno de España, PP, Podemos y ERC, Casa Real y tribunales.",
-     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     }
    ]
@@ -160,6 +160,14 @@
      "resumen": "",
      "fecha": "2026-11-20T07:50:19+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "Buxadé denuncia en Murcia 21 años de abandono frente a las inundaciones y exige acabar con la impunidad de los delincuentes",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWJrc2hiem1ZT01EVFZRWjliZHR6VmJDemdScWpoV1J2bFdtRzlycHIwQ0tSWlR3c3lJVTJWckM0Qkwyc1N3MWlUUXdfNHNWa2FXemJWMTZvcW9mNC0ta1RMcHRjYi1NZ08tREhhcUdZVjBxUnFxNlpUY3hnMXpBazJUV0lvNnA1VmRMMFA2RzZ1WF9LY0RWWXpqWGJldmJ1SURpZExfMjhCMEVMYWdxa0V1YUVCY203RS1PV3dtcEoxOE83R2llYVJCQnZsc0hZU1d0VWQxM0lGQktaVnc?oc=5",
+     "fuente": "La Bandera",
+     "resumen": "",
+     "fecha": "2026-11-19T15:30:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "Mañueco supervisó el operativo especial por las fuertes lluvias en Ávila",
@@ -208,14 +216,6 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T18:23:00+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -225,8 +225,8 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: \"Adif sacó los suyos al día siguiente del accidente\"",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk0?oc=5",
+     "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk3SAYQCQVVfeXFMTlk0R20tS0tHVTdaMlIyNURrNG40Y2dIMDAta3F0NVVXem5HY0tPb2d1WnNOdGRXdkJxbG9zQ21GaVZVVDJIR1BBR0dVWHc2UE5tbFoxeEZVMy1WS1NTY0tBSEc2b0RPTzVsOU1qSElBeFVMQ1Z0LTJLMDloaUlzb0VlX2FWdnp1ZUFkVWl3SUd1ZWtGV2lmeU5ncXZEWVJwME1DVlhJS05nMDZPZXpidFk4RElVSHJDQ3djaC00bWE0blVnOEhGdW1xbThrUGpPQmxOUjJzV0dGT3NBT0pSUXhLM1ktVVhSTFNkRS10LUtLMzJOZ0tpazBaLU5aWXdNSURRci0?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-21T05:45:39+01:00",
@@ -257,6 +257,22 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
+     "url": "https://www.elperiodico.com/es/sociedad/20261120/acsm-adjudica-inspeccion-cableado-submarino-136657202",
+     "fuente": "El Periódico",
+     "resumen": "La compañía logra por más de 730.000 euros un contrato financiado entre Red Eléctrica y el operador marroquí ONEE para revisar los dos enlaces del estrecho de Gibraltar, que se encuentran a profundida",
+     "fecha": "2026-11-20T05:00:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
@@ -265,27 +281,11 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHU4SHZic3hFWGdiSWJ4ZU12cmZLRTY0RHJwYlJKTWctaFBFNUU1dnI5TVFLQjJld2lxSzhuQmhfNi1lSm1sN3ZzeEdJN194U1pnMkZ6bVZmaUV1b1IxWUNCOWpqcDhISUlCWVotZUt3RVM5S0JjSkRXN0NTcE5kZ3FGdWlXa0ZFYkxYaVdtbHNIRzF3amhTS0VqUWo4clBRLUNjSG5jR19HelBYLTVIZHQtUUFvMFFkRXVoam9WbXNuZFZkaXhFMG5nUEUtNkpEZkpkdmJGdEJ6MEZHVjd5N1RB?oc=5",
+     "titulo": "¿Se ha ido la luz finalmente en España? La verdad sobre el apagón mundial anunciado para hoy 17 de noviembre",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2o2WThYT2hvYUs4N1lFeUJoam1Kcmw5MExVTDVoX3lvSlpBaWhwTWF4MmNHemFyT2FIbnZOclFXRjJrYUJKaG8ySWpGRTNtSFptM0txSENZU216YkR4SVZ1bDdMb1FNTTBZZDFOV1JfZmNHekxaUXJNYVV5ZHRJTmVJX2tueFVtZTE0TVNUNWdNNU1iSjlvR3AxQXlJOU1vVEtuUE9GZzM1YWIwNWVFWVdQSVE5R2RpQ09EMV9MelhoT29aQTZBM2ZfVzVHTUxVMXVUUlpTSnRuTjQ2SWc?oc=5",
      "fuente": "El Pespunte",
      "resumen": "",
-     "fecha": "2026-11-17T20:42:06+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
+     "fecha": "2026-11-17T20:42:39+01:00",
      "fecha_txt": "17 nov"
     }
    ]
