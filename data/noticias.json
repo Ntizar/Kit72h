@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-21T19:11:01+01:00",
+  "actualizado": "2026-11-21T22:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -52,19 +52,19 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRIQjM4MzJKMVpwdVNUTldCVFNLR1IxdVVuOVdmWDV5djBIMVRURU92cnYwbV9oZXUwMUZsLXoxeHkzQTRFaU5PcnBkNVh3SGg3cDViM2tkSFZwR25SR2ZqbGtJZkIxWllXZUNoVWczd0ZiMzJZYkNhVFRoNUxCNVVuU1FVSjlVSVcyNUx0RVNLNlduUm1CY0J3?oc=5",
+     "fuente": "Portugal Resident",
+     "resumen": "",
+     "fecha": "2026-11-19T17:34:06+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-19T11:00:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
-     "fuente": "Portugal Resident",
-     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
-     "fecha": "2026-11-19T09:34:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -99,14 +99,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Incendios: dramática situación en España y Francia",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
-     "fuente": "DW.com",
-     "resumen": "",
-     "fecha": "2026-11-20T18:54:19+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "El cambio climático triplica el riesgo de incendios extremos en la península ibérica",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2syNUwyb21JWllaeFY4RjdQdEd2WUM4d0xyYXdYT0JWTzJjdlZWNFczWjl1aUF4Tlp4UFNtT0dmQklzMzNUV1ZXOVhfR3F2aFVtRjZyaTVLSHhfc04tY09fbEU5TnRkakwxOEppV3ZWd0lKOXR5X2haUkpqMjVBUnFmRmZMSVZkWUZPOC05Qk5Ndw?oc=5",
      "fuente": "GNDiario",
@@ -131,19 +123,27 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Cómo ver el mapa de los incendios activos en España desde Google Maps",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nd0ZacU9hMjdWcVluVmljak94dkZUcGRtXzVaX3B1YmR4YnI2VzM0eEsyckd1NnRZdmVPWkE5WGRVbnVzd2I5ZkdCUG5yNlpJVzBmNmNCZ3VpYXdNOVo2MTA5cFpHX3JBYm0zc3lFb0I4ZjRz?oc=5",
-     "fuente": "Blogthinkbig.com",
-     "resumen": "",
-     "fecha": "2026-11-20T11:09:12+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "España acumula 301.889 ha quemadas hasta el 18 de noviembre y no registra ningún incendio la últ",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUduZmpHRzVDckdkMm5yOG9WdXo5UDFjcXN1ZUF2VFhYVUs2bFBWS3NEbjk3TmJpb2RLTHpGYnpjRm9TUzFMMXhrMUdQNy0ybEszNTdHNzZ0cFpRQl9tRHVfU1IzNlFKTDkyM1IxSVR4eEVjMHA0SnJodnlyVE0xYjBVQkJmak5hbmMzU3JHSURKOWFvaExwVUpSQ3lib1dlUnZsV0FjSdIBrAFBVV95cUxObHd4SWhvQmt5OVI4c0g2d3F6NlRWZC1ldXUwdDI5ajZnRDlKMHoxMS1ITVNIY09WLTUtemp4WjcxbDh6amlBbXduVi1fZnRsMXEzMkozLWk2NVZ0WDVCbHJlZFJ1TEIwc3k5VEhEdHFpbEtSZlh0T1RQbklxMGpUSjBMUF9jR042TFRwQjVJQ2Z3ekJmNkVmZng1QmVuLW5YYk1Pc0VNcFg1a0xR?oc=5",
      "fuente": "LaCerca.com",
      "resumen": "",
      "fecha": "2026-11-19T12:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
+     "fuente": "Madrid Actual",
+     "resumen": "",
+     "fecha": "2026-11-19T11:03:01+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-19T08:00:00+01:00",
      "fecha_txt": "19 nov"
     }
    ]
@@ -154,12 +154,44 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Las dos alertas de Galicia en 15 días: de la sequía al aviso por inundaciones",
+     "url": "https://www.elconfidencial.com/espana/galicia/2026-11-21/de-la-sequia-a-la-inundacion_4468629/",
+     "fuente": "El Confidencial",
+     "resumen": "De la amenaza de los cortes de agua a la prealerta por precipitaciones en solo dos semanas. Las lluvias intensas han dado la vuelta a la sequía, pero los niveles aún son bajos en el norte gallego ...",
+     "fecha": "2026-11-21T12:39:00+01:00",
+     "fecha_txt": "21 nov"
+    },
+    {
      "titulo": "PSOE destaca inversión de más de tres millones del Gobierno para proteger Adra frente a inundaciones",
-     "url": "https://www.msn.com/es-es/noticias/other/psoe-destaca-inversi%C3%B3n-de-m%C3%A1s-de-tres-millones-del-gobierno-para-proteger-adra-frente-a-inundaciones/ar-AA2hUJEv",
+     "url": "https://www.msn.com/es-es/noticias/otras/psoe-destaca-inversi%C3%B3n-de-m%C3%A1s-de-tres-millones-del-gobierno-para-proteger-adra-frente-a-inundaciones/ar-AA2hUJEv",
      "fuente": "Europa Press on MSN",
      "resumen": "ALMERÍA, 21 (EUROPA PRESS) El secretario general del PSOE de Almería y cabeza de lista al Senado por la provincia, José María Martín, ha puesto en valor este sábado \"la inversión de 3,15 millones de e ...",
      "fecha": "2026-11-21T07:07:11+01:00",
      "fecha_txt": "21 nov"
+    },
+    {
+     "titulo": "España aprueba medidas urgentes tras las inundaciones de octubre",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaERfWjdzckx6V0tsRUVsQmJTRVpYdDZlZi1fcVJpSllhWldRMnd3bGd0c2VVZ290YzJaeUdlMEFSemdUVEdScGZZWmJ6dUJyWDN1QVM1UVZTbnFWMnJpcy1ob0dJelVyejhoT3g4U1FCdE5uQWhVdlNTLTUwOUhDSFBTeUdyQWM?oc=5",
+     "fuente": "Columna Digital",
+     "resumen": "",
+     "fecha": "2026-11-20T07:50:19+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "Buxadé denuncia en Murcia 21 años de abandono frente a las inundaciones y exige acabar con la impunidad de los delincuentes",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWJrc2hiem1ZT01EVFZRWjliZHR6VmJDemdScWpoV1J2bFdtRzlycHIwQ0tSWlR3c3lJVTJWckM0Qkwyc1N3MWlUUXdfNHNWa2FXemJWMTZvcW9mNC0ta1RMcHRjYi1NZ08tREhhcUdZVjBxUnFxNlpUY3hnMXpBazJUV0lvNnA1VmRMMFA2RzZ1WF9LY0RWWXpqWGJldmJ1SURpZExfMjhCMEVMYWdxa0V1YUVCY203RS1PV3dtcEoxOE83R2llYVJCQnZsc0hZU1d0VWQxM0lGQktaVnc?oc=5",
+     "fuente": "La Bandera",
+     "resumen": "",
+     "fecha": "2026-11-19T15:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmMxNmxGSV9nUkpBbWExQmpMNWw1VHV4QTA3U3dha1VXUlE3Tzk4QlhsdWhaMnlrQUdBNDJCUkN3ZXoxSzBLQjZJV1dIRHgwQ0dkdVZPYzJ4dndEclBoTlBQeEZwcXVaZ19SOUZsTnhfNzhRa3RvMGZzeFIxaVRrVg?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-18T12:28:51+01:00",
+     "fecha_txt": "18 nov"
     },
     {
      "titulo": "Seguro coche inundación: cuándo cubre tu póliza los daños por DANA, granizo o viento y cuándo responde el Consorcio",
@@ -184,38 +216,6 @@
      "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
      "fecha": "2026-11-17T02:15:00+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM0dlcTBjeFg3WWRuWTE2NEVDUjNEWTg3bkQzT0lFSUlBeEJzT1FiZjllZkRJZ19BMFJXNmM0YnZCN1NOQzY1N2tnUXUzU1QtREFONWZPUjhBUXBzY2w0d2x6cVZpenRXa3Riemhfc2hjWnhSX2I0NWtYSGJNazNQQklYVjJoRUk5NVBkc1VnSWc1Rzh5T01kM1pyd2pjOFJOUXVxa19INjFDRTJuZXZLczhOXzc1ZkNRVXJkbEl3QkxCOXNER0RDWjR3bEFCQlVC?oc=5",
-     "fuente": "RFI",
-     "resumen": "",
-     "fecha": "2026-11-16T13:57:46+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Galicia registra más de 130 incidencias por las lluvias: un puente derrumbado, inundaciones y carreteras cortadas",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1p3d2duV2YtMUp6a2FaSGFTcGpheDZtLTJRT201Um9UWDc3SU02NE9VTkNfY2NDWHhMcjBUNFB3XzZkaTZLenctaGVXM2JLanVETVJOWFBReUJ6bk1FODgzVFJnZVY4NGNNUk12cGpFaEdKZVdwWXg4Z0pJOVoxcV9RcHk3VWI4ZnFpMlFzZ3RCYkJHSzloUExCRjZ1YnJBVWJpM0xZT25HNkYxNVZqenVoUHZldHFaWEdiMTlLR1dJeVpoOXl1VE5EaVl1STVNb1JHS1JUOXBXQU9Udk15WmhmaVd1aDDSAewBQVVfeXFMTkhXVVVlcGRMM1g2dFg1TEEtX1N3OVpVUmRNUkhNd3R0b1BpREpHWWtaMndORUhxZk5Nejk2VURYNFdtVTlTX1JYRVFvRFhsdUpRVW9ZSnJnZnFfbWFJM0RZZm11ZF95Tnh5M05mZ2pCVV9kUVFuaFBVN3F2aDgyeUxNYzNJaVlSQ2h1VVQtUk5VU3FfSGprbFFxQmpoUjBCdC1NWm10X0xlUGtSWTR4akVLMHlHbmtHVEJqN1hVWHgwMXZlLUJ1Rzc2UnBQRlZqZ3J0UjU5akR4OXVrRHhaRmhSclE3YUNENUllVWc?oc=5",
-     "fuente": "El Debate",
-     "resumen": "",
-     "fecha": "2026-11-16T09:07:15+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
-     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
-     "fecha": "2026-11-16T05:15:00+01:00",
-     "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Inundaciones en Ourense por las fuertes lluvias: varios pueblos quedan incomunicados por desbordamientos de ríos",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3pRVl9RLVhvN3ZoODZ3enVETHE5MWdXVy1CS3VmZ01WTXNKWUVjSzB6c1V6THlCTUJRQnpxcmg2OUstZGNVc0F0SDJReXgxV0pGUkZUZ19xZ3NSeTdndGdmVFNMQmYxei1VdHlLekVOcm96azhNT0JKZ25TNlA5YV9UWDZ2eTlPRmNRVElxN3ZjNTJ2Yl93ZTNBMWZqbXlrdk5DbUFQMmdMbTJBR3o3NmlOT25ZTUh0ckRNMmdXUFl6QnEyWWpHcGJUSUNnakg4YlVHTTB1TGJyTV9lYjlKN0hQQQ?oc=5",
-     "fuente": "Telecinco",
-     "resumen": "",
-     "fecha": "2026-11-15T20:27:13+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -257,6 +257,14 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
@@ -278,14 +286,6 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
