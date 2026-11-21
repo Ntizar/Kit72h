@@ -2,20 +2,20 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261121074537",
-  "actualizado": "2026-11-21T10:11:10+01:00",
+  "elaborado": "20261121103633",
+  "actualizado": "2026-11-21T13:11:11+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261121074537_penbal_20261121CET_1795251600.geojson"
+   "r_D+0_20261121103633_penbal_20261121CET_1795262400.geojson"
   ]
  },
  "resumen": {
   "rojo": 0,
   "naranja": 0,
-  "amarillo": 2,
-  "sin_aviso": 57,
-  "zonas_en_aviso": 24,
+  "amarillo": 3,
+  "sin_aviso": 56,
+  "zonas_en_aviso": 26,
   "provincias": 59
  },
  "provincias": [
@@ -32,9 +32,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7) hasta la madrugada. Mar combinado del Oeste de 4 a 5 m desde la noche.",
+       "desde": "2026-11-21T18:00:00+01:00",
+       "hasta": "2026-11-22T11:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -46,10 +46,46 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7). Mar combinado del Oeste de 4 a 5 m desde medianoche.",
+       "desde": "2026-11-21T18:00:00+01:00",
+       "hasta": "2026-11-22T15:59:59+01:00",
        "probabilidad": "40%-70%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nombre": "Asturias",
+   "ccaa": "Principado de Asturias",
+   "nivel": 3,
+   "nivel_txt": "Amarillo",
+   "zonas": [
+    {
+     "nombre": "Litoral oriental asturiano - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-21T22:00:00+01:00",
+       "hasta": "2026-11-21T23:59:59+01:00",
+       "probabilidad": "mayor 70%"
+      }
+     ]
+    },
+    {
+     "nombre": "Litoral occidental asturiano - Costa",
+     "nivel": 3,
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-21T22:00:00+01:00",
+       "hasta": "2026-11-21T23:59:59+01:00",
+       "probabilidad": "mayor 70%"
       }
      ]
     }
@@ -68,9 +104,9 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7) hasta mediodía. Mar combinado del Oeste de 4 a 5 m mar adentro desde la noche.",
        "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "hasta": "2026-11-22T14:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -101,13 +137,6 @@
   {
    "nombre": "Araba/Álava",
    "ccaa": "País Vasco",
-   "nivel": 0,
-   "nivel_txt": "Sin aviso",
-   "zonas": []
-  },
-  {
-   "nombre": "Asturias",
-   "ccaa": "Principado de Asturias",
    "nivel": 0,
    "nivel_txt": "Sin aviso",
    "zonas": []
@@ -493,9 +522,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7) hasta mediodía. Mar combinado del Oeste de 4 a 5 m mar adentro desde la noche.",
        "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "hasta": "2026-11-22T14:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -2125,6 +2154,315 @@
    {
     "type": "Feature",
     "properties": {
+     "zona": "Litoral oriental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-21T22:00:00+01:00",
+       "hasta": "2026-11-21T23:59:59+01:00",
+       "probabilidad": "mayor 70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -4.5237,
+        43.7289
+       ],
+       [
+        -4.5089,
+        43.5121
+       ],
+       [
+        -4.5109,
+        43.3935
+       ],
+       [
+        -4.5331,
+        43.4009
+       ],
+       [
+        -4.576,
+        43.3936
+       ],
+       [
+        -4.6517,
+        43.4017
+       ],
+       [
+        -4.6768,
+        43.4101
+       ],
+       [
+        -4.7101,
+        43.4099
+       ],
+       [
+        -4.743,
+        43.4166
+       ],
+       [
+        -4.7682,
+        43.4307
+       ],
+       [
+        -4.8232,
+        43.4363
+       ],
+       [
+        -4.9446,
+        43.4617
+       ],
+       [
+        -5.0127,
+        43.4586
+       ],
+       [
+        -5.0429,
+        43.4617
+       ],
+       [
+        -5.0851,
+        43.4765
+       ],
+       [
+        -5.1143,
+        43.4772
+       ],
+       [
+        -5.121,
+        43.485
+       ],
+       [
+        -5.1698,
+        43.4752
+       ],
+       [
+        -5.2135,
+        43.4741
+       ],
+       [
+        -5.2632,
+        43.5179
+       ],
+       [
+        -5.2943,
+        43.5366
+       ],
+       [
+        -5.3523,
+        43.5327
+       ],
+       [
+        -5.3704,
+        43.5406
+       ],
+       [
+        -5.382,
+        43.5356
+       ],
+       [
+        -5.4074,
+        43.5565
+       ],
+       [
+        -5.4303,
+        43.5518
+       ],
+       [
+        -5.4661,
+        43.5532
+       ],
+       [
+        -5.4931,
+        43.5452
+       ],
+       [
+        -5.5155,
+        43.5535
+       ],
+       [
+        -5.5301,
+        43.5465
+       ],
+       [
+        -5.5467,
+        43.5506
+       ],
+       [
+        -5.6079,
+        43.55
+       ],
+       [
+        -5.6151,
+        43.5575
+       ],
+       [
+        -5.6479,
+        43.5428
+       ],
+       [
+        -5.68,
+        43.5428
+       ],
+       [
+        -5.6957,
+        43.5506
+       ],
+       [
+        -5.6997,
+        43.5693
+       ],
+       [
+        -5.7336,
+        43.5741
+       ],
+       [
+        -5.7588,
+        43.5878
+       ],
+       [
+        -5.7801,
+        43.6111
+       ],
+       [
+        -5.7797,
+        43.6288
+       ],
+       [
+        -5.7963,
+        43.6367
+       ],
+       [
+        -5.8249,
+        43.6398
+       ],
+       [
+        -5.8514,
+        43.659
+       ],
+       [
+        -5.8579,
+        43.6361
+       ],
+       [
+        -5.8875,
+        43.623
+       ],
+       [
+        -5.8992,
+        43.6282
+       ],
+       [
+        -5.9015,
+        43.6242
+       ],
+       [
+        -5.9114,
+        43.6086
+       ],
+       [
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.8956,
+        43.997
+       ],
+       [
+        -5.8028,
+        43.9952
+       ],
+       [
+        -5.7147,
+        43.9829
+       ],
+       [
+        -5.6328,
+        43.96
+       ],
+       [
+        -5.5584,
+        43.9264
+       ],
+       [
+        -5.4993,
+        43.8864
+       ],
+       [
+        -5.4354,
+        43.8893
+       ],
+       [
+        -5.3452,
+        43.8868
+       ],
+       [
+        -5.2575,
+        43.8717
+       ],
+       [
+        -5.1756,
+        43.8444
+       ],
+       [
+        -5.0533,
+        43.7924
+       ],
+       [
+        -4.874,
+        43.7698
+       ],
+       [
+        -4.8212,
+        43.7744
+       ],
+       [
+        -4.7334,
+        43.7699
+       ],
+       [
+        -4.6676,
+        43.7598
+       ],
+       [
+        -4.5843,
+        43.7393
+       ],
+       [
+        -4.561,
+        43.7297
+       ],
+       [
+        -4.5237,
+        43.7289
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
      "zona": "Suroeste de A Coruña",
      "provincia": "",
      "nivel": 3,
@@ -2496,9 +2834,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7) hasta la madrugada. Mar combinado del Oeste de 4 a 5 m desde la noche.",
+       "desde": "2026-11-21T18:00:00+01:00",
+       "hasta": "2026-11-22T11:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
@@ -6509,6 +6847,247 @@
    {
     "type": "Feature",
     "properties": {
+     "zona": "Litoral occidental asturiano - Costa",
+     "provincia": "Asturias",
+     "nivel": 3,
+     "nivel_txt": "Amarillo",
+     "avisos": [
+      {
+       "fenomeno": "CO",
+       "fenomeno_txt": "Fenómenos costeros",
+       "nivel": 3,
+       "severidad": "Amarillo",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7).",
+       "desde": "2026-11-21T22:00:00+01:00",
+       "hasta": "2026-11-21T23:59:59+01:00",
+       "probabilidad": "mayor 70%",
+       "certainty": "previsto"
+      }
+     ]
+    },
+    "geometry": {
+     "type": "Polygon",
+     "coordinates": [
+      [
+       [
+        -5.9376,
+        43.5947
+       ],
+       [
+        -5.9399,
+        43.5946
+       ],
+       [
+        -5.9589,
+        43.5788
+       ],
+       [
+        -5.9967,
+        43.5786
+       ],
+       [
+        -6.0276,
+        43.5865
+       ],
+       [
+        -6.0632,
+        43.5658
+       ],
+       [
+        -6.1154,
+        43.5555
+       ],
+       [
+        -6.134,
+        43.5647
+       ],
+       [
+        -6.1687,
+        43.5699
+       ],
+       [
+        -6.1828,
+        43.563
+       ],
+       [
+        -6.2014,
+        43.5728
+       ],
+       [
+        -6.2075,
+        43.5854
+       ],
+       [
+        -6.24,
+        43.5924
+       ],
+       [
+        -6.3026,
+        43.5633
+       ],
+       [
+        -6.3306,
+        43.5616
+       ],
+       [
+        -6.3529,
+        43.5513
+       ],
+       [
+        -6.3951,
+        43.5604
+       ],
+       [
+        -6.4286,
+        43.5532
+       ],
+       [
+        -6.4683,
+        43.5709
+       ],
+       [
+        -6.4753,
+        43.5501
+       ],
+       [
+        -6.5002,
+        43.552
+       ],
+       [
+        -6.5383,
+        43.5478
+       ],
+       [
+        -6.5608,
+        43.5567
+       ],
+       [
+        -6.5969,
+        43.5542
+       ],
+       [
+        -6.6248,
+        43.5724
+       ],
+       [
+        -6.6654,
+        43.5656
+       ],
+       [
+        -6.6836,
+        43.5588
+       ],
+       [
+        -6.709,
+        43.5637
+       ],
+       [
+        -6.7196,
+        43.5568
+       ],
+       [
+        -6.757,
+        43.5617
+       ],
+       [
+        -6.773,
+        43.5686
+       ],
+       [
+        -6.7823,
+        43.5567
+       ],
+       [
+        -6.8076,
+        43.555
+       ],
+       [
+        -6.8293,
+        43.5672
+       ],
+       [
+        -6.8727,
+        43.5631
+       ],
+       [
+        -6.9127,
+        43.5731
+       ],
+       [
+        -6.9467,
+        43.5678
+       ],
+       [
+        -6.9955,
+        43.5547
+       ],
+       [
+        -7.0219,
+        43.5572
+       ],
+       [
+        -7.0304,
+        43.5448
+       ],
+       [
+        -7.0298,
+        43.607
+       ],
+       [
+        -7.0165,
+        43.8227
+       ],
+       [
+        -7.0142,
+        43.8824
+       ],
+       [
+        -6.4716,
+        43.8844
+       ],
+       [
+        -6.3885,
+        43.9115
+       ],
+       [
+        -6.308,
+        43.9254
+       ],
+       [
+        -6.2254,
+        43.9286
+       ],
+       [
+        -6.1549,
+        43.9221
+       ],
+       [
+        -6.0762,
+        43.9596
+       ],
+       [
+        -5.987,
+        43.9854
+       ],
+       [
+        -5.9708,
+        43.9874
+       ],
+       [
+        -5.9512,
+        43.5958
+       ],
+       [
+        -5.9376,
+        43.5947
+       ]
+      ]
+     ]
+    }
+   },
+   {
+    "type": "Feature",
+    "properties": {
      "zona": "Meseta de Zamora",
      "provincia": "",
      "nivel": 3,
@@ -9139,9 +9718,9 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del Oeste o Suroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-21T20:00:00+01:00",
-       "hasta": "2026-11-21T23:59:59+01:00",
+       "descripcion": "Viento del Oeste de 50 a 61 km/h (fuerza 7). Mar combinado del Oeste de 4 a 5 m desde medianoche.",
+       "desde": "2026-11-21T18:00:00+01:00",
+       "hasta": "2026-11-22T15:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
       }
