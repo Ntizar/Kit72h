@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-22T16:11:01+01:00",
+  "actualizado": "2026-11-22T19:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -28,6 +28,14 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
+     "url": "https://elcomercio.pe/respuestas/que/que-debe-incluir-tu-mochila-de-emergencia-indeci-brinda-recomendaciones-tras-el-sismo-en-junin-tdpe-noticia/",
+     "fuente": "El Comercio",
+     "resumen": "Agua, alimentos, botiquín y una radio a pilas forman parte de los suministros indispensables para afrontar una emergencia. Pero la preparación no termina allí: Indeci recomienda una caja de reserva pa ...",
+     "fecha": "2026-11-20T16:57:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
      "titulo": "Kit de emergencia para 72 horas: qué conviene tener en casa y qué recomienda la Unión Europea",
      "url": "https://www.elperiodico.com/es/vida-y-estilo/20261120/apagon-17-noviembre-kit-emergencia-72-horas-union-europea-simpson-dv-136495443",
      "fuente": "El Periódico",
@@ -49,14 +57,6 @@
      "fuente": "Euronews.com",
      "resumen": "",
      "fecha": "2026-11-19T11:00:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
-     "fuente": "Portugal Resident",
-     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
-     "fecha": "2026-11-19T09:34:00+01:00",
      "fecha_txt": "19 nov"
     },
     {
@@ -82,6 +82,22 @@
    "titulo": "Incendios",
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
+    {
+     "titulo": "El incendio de un edificio en Manresa (Barcelona) deja 12 heridos y una cuarentena de evacuados",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamxVdzlJOGw0MnJqVGljTDd2RmFoVnFkSFhQcXJzejlKUGU2S0pRc25ac25iRUh5VWZXU1VDQ3dvZkI2RS1uYlpzRnN1Um9nb21OdTkzejhsNTVsRjNFTGMxMEplME1oWFcyRGlFaWRfQUZqUmpTb1Q0czhxOFktUjZFNG9Edk4xQTBENl96TUhucEYxb1lLSlpqbEx3MjZaOHZ3?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-22T17:41:00+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Evacuan a unos 40 vecinos por un incendio en Manresa",
+     "url": "https://www.catalunyapress.es/articulo/sucesos-cataluna/2026-11-22/6104000-evacuan-unos-40-vecinos-incendio-manresa",
+     "fuente": "CatalunyaPress",
+     "resumen": "Un incendio en un edificio de la calle Viladordis de Manresa (Barcelona), ya controlado, obligó este domingo a evacuar a una cuarentena de vecinos. Según los Bombers de la Generalitat, el av ...",
+     "fecha": "2026-11-22T08:17:00+01:00",
+     "fecha_txt": "22 nov"
+    },
     {
      "titulo": "Comienzan las declaraciones por el segundo mayor incendio en la historia de España",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmJ5SzJTaXlUZEV1cEFRcFBhNTdYZkhVM3RpZy1RbWRTS0JIQWFhRjNGSGU5U051b2IwZGE4X3UtdW4tWUMxT2tBY2lUZkl3emdBU1JFUUhaTjRLTVBRajhDZ0ppbktjRDdjWEszOVZoM1NOY2VGb2kxNjdTdlhDTXZqMXhlQlVEcUpCOFN6UGV0T1dUVzBBMlJ1dlhoeWZmTVhJMGotNTllYmhVTTMw?oc=5",
@@ -129,22 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-19T08:00:00+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
-     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
-     "fuente": "larazon",
-     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
-     "fecha": "2026-11-19T04:42:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
-     "url": "https://www.andaluciainformacion.es/sociedad/incendios-espana-acumula-301889-ha-quemadas-18-noviembre-registra-ningun-incendio-ultima-semana/202611191104293541800.html",
-     "fuente": "Andalucía Información",
-     "resumen": "El registro de EFFIS contabiliza 476 incendios en España, en comparación con los 701 de Italia y los 389 de Francia. Durante la última semana, no se han detectado nuevos fuegos en estos dos países ...",
-     "fecha": "2026-11-19T04:03:00+01:00",
-     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -154,19 +154,19 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Una nueva rotura de tubería causa inundaciones en Los Rosales, en Tocina (Sevilla)",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hyY0VONktjdE5RRFJRaUprVkRMRW1KQU5Mc0NnMmlpeFp6QWNaMnExLWZvR0I5M0RoZjVpV2xJblVPemRhQ0ljcWppZzByRlN2WW1pN2FweUk1VklxakI3NFBFMVlxU2FYck14Smp4MHFPNlJkNkR5SU54YjcxU2hWQ2xYQjRYYjJhX1R4Vk53NGh5ZUpGSVlBVm5EYllqemRTZUNB0gGrAUFVX3lxTE9tVEhnaGF4MFJHQnpMUlQxRGlOZWJsanRza21Da2FVaUhrMEVIczdBMkgwUVhXNkxfOElJY1RWM082Mm1fdnMxSnVBUkFkN2g5aFdRbmFjSXowLUt2dXduQ2tyQVJnd0tIVDBoNEVibl9TRmtpTkZSNHhEdjJyaFBVYzhraEZBTzdsdzRnUjJVeW92SzhhWk9PY0RHc3NvYVBzX1d0UG5ja25pTQ?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-22T17:24:38+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
      "titulo": "Una nueva rotura de tubería del Consorcio de Aguas causa inundaciones en Tocina (Sevilla)",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOVFYRDEzM05vVmttc2FIc0J0d2FqLXdUbjlSa2VPT2NsMmFFTnZmTHJyNjYzVzZNSXJ0LWtTanRLOXZDSTNKSFFzTjRBcUZ0N25zQWpOV1JzZHNTU3AzY3poX3hFZlUzRWpLblBVeExON0FTaER2eUNGbVc4RW9PYkV1b2RXVVFPRndyX1VUb3R4V0l3RzdfbWJlbDlqWmJpUjY4R21nX21KNlJLUmpyZHpOZkNFMXk4VnlRU1hrM0RWc1ZON2stMWZhdU5PeXVkZmhzR3ln0gHwAUFVX3lxTE1vRndSSmp5ejd6emMzWWNBS0I3NFRXUHloX1VSYUY3TFpqV0lVenJsd3V3alJPNnRHVEZWaDlZVk1kVWVJOUdJVUotc0pnTHltcTJPLXVqa3E2NllDT1VlZk0zRFc4M1lqeDVISHdmNUpIajZWRFRGN29LZzA5NjdfZlI3ckc1NXBwa3A5SC1QYk1vbmdSNTRJM1EyRzVwczVCbWpzUVlOcGZUcFhmVVpzQUJCcURiaDlXM1BIdk1qLS1kdDZXQXRRQzBzd0s5cUdOdnVNaUVlcW1nLXdJTWNqdTh6TEtKejB2d1pXLTVTcw?oc=5",
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-22T14:02:00+01:00",
-     "fecha_txt": "22 nov"
-    },
-    {
-     "titulo": "La rotura de una tubería provoca inundaciones en varias calles de Tocina y Los Rosales, en Sevilla: \"Es la tercera vez que pasa\"",
-     "url": "https://www.msn.com/es-es/noticias/otras/la-rotura-de-una-tuber%C3%ADa-provoca-inundaciones-en-varias-calles-de-tocina-y-los-rosales-en-sevilla-es-la-tercera-vez-que-pasa/ar-AA2hYspG",
-     "fuente": "El Correo de Andalucía on MSN",
-     "resumen": "El Consorcio de Aguas de Huesna trabaja en la zona para restablecer el servicio y limpiar la zona ...",
-     "fecha": "2026-11-22T04:27:19+01:00",
      "fecha_txt": "22 nov"
     },
     {
@@ -202,20 +202,20 @@
      "fecha_txt": "18 nov"
     },
     {
-     "titulo": "Seguro coche inundación: cuándo cubre tu póliza los daños por DANA, granizo o viento y cuándo responde el Consorcio",
-     "url": "https://www.motor16.com/las-ultimas-noticias/seguro-coche-inundacion-consorcio-danos/",
-     "fuente": "Motor16",
-     "resumen": "El granizo y el viento solo se cubren con daños propios; la inundación la paga el Consorcio. Claves para revisar tu póliza antes de renovar.",
-     "fecha": "2026-11-18T09:50:00+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-17T05:30:01+01:00",
      "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Inundaciones en Ourense por las fuertes lluvias: varios pueblos quedan incomunicados por desbordamientos de ríos",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3pRVl9RLVhvN3ZoODZ3enVETHE5MWdXVy1CS3VmZ01WTXNKWUVjSzB6c1V6THlCTUJRQnpxcmg2OUstZGNVc0F0SDJReXgxV0pGUkZUZ19xZ3NSeTdndGdmVFNMQmYxei1VdHlLekVOcm96azhNT0JKZ25TNlA5YV9UWDZ2eTlPRmNRVElxN3ZjNTJ2Yl93ZTNBMWZqbXlrdk5DbUFQMmdMbTJBR3o3NmlOT25ZTUh0ckRNMmdXUFl6QnEyWWpHcGJUSUNnakg4YlVHTTB1TGJyTV9lYjlKN0hQQQ?oc=5",
+     "fuente": "Telecinco",
+     "resumen": "",
+     "fecha": "2026-11-15T20:27:13+01:00",
+     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -233,6 +233,14 @@
      "fecha_txt": "22 nov"
     },
     {
+     "titulo": "La CNMC recorta un 84% los incentivos a Red Eléctrica por su gestión en el año del apagón",
+     "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Una resolución reciente de la Comisión Nacional de los Mercados y la Competencia (CNMC) ha reducido un 84% los incentivos a la retribución del operador ...",
+     "fecha": "2026-11-21T22:25:00+01:00",
+     "fecha_txt": "21 nov"
+    },
+    {
      "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk3SAYQCQVVfeXFMTlk0R20tS0tHVTdaMlIyNURrNG40Y2dIMDAta3F0NVVXem5HY0tPb2d1WnNOdGRXdkJxbG9zQ21GaVZVVDJIR1BBR0dVWHc2UE5tbFoxeEZVMy1WS1NTY0tBSEc2b0RPTzVsOU1qSElBeFVMQ1Z0LTJLMDloaUlzb0VlX2FWdnp1ZUFkVWl3SUd1ZWtGV2lmeU5ncXZEWVJwME1DVlhJS05nMDZPZXpidFk4RElVSHJDQ3djaC00bWE0blVnOEhGdW1xbThrUGpPQmxOUjJzV0dGT3NBT0pSUXhLM1ktVVhSTFNkRS10LUtLMzJOZ0tpazBaLU5aWXdNSURRci0?oc=5",
      "fuente": "OkDiario",
@@ -241,20 +249,20 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
-     "fuente": "Diario Área",
-     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
-     "fecha": "2026-11-20T12:55:00+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WdIBqgFBVV95cUxQM0pXbi1uakVodHF5Y3hBdjZXQXlxVndrdHZMWFdNMm1qaVZqSFpyblI1UkNrZFpYV2VJOW5Jb2xlcVNoSXNjSXViT24yMmJpQWE5dF9KZW5vRV9FVGxXaHpmUHJETWpkb1pVV0R0aEM2M3A0YXoxdHVBYWl1ZEdDODNReThyTVRydURsVXA3UTY1VEJ3WXdTU1BIS2tPRnJJN2xtYXRUQUotZw?oc=5",
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
@@ -278,14 +286,6 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
