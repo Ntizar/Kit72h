@@ -40,7 +40,10 @@ IDENT = ["-c", "user.name=Mastermind", "-c", "user.email=bot@kit72h.local"]
 # SOLO estos paths: nunca `git add -A` (arrastraría cambios ajenos del árbol).
 PATHS = ["data/blog.json", "blog", "kit", "fuentes", "zona", "index.html",
          "noticias", "sitemap.xml", "feed.xml", "llms.txt", "llms-full.txt",
-         "notes/mapa-keywords.md"]
+         "notes/mapa-keywords.md",
+         # mercados i18n: el horneado reescribe blog/kit de cada idioma y, si no
+         # entran aquí, quedan sucios y bloquean el pull --rebase de la cadena.
+         "de", "en-gb", "en-us", "fr", "it", "nl"]
 
 
 def git(*args, timeout=300):
