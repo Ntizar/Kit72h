@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-22T04:11:00+01:00",
+  "actualizado": "2026-11-22T07:11:11+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -99,11 +99,11 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Incendios: dramática situación en España y Francia",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFU4OUhfWUZtYmhEa3c3dTJ3WFhIeG1MblRacEVWRnlfS3hoTktGVEpOb2ktYkM2VWpYcU1VVTZTX0paR3ZjcHU1OFN0dFB3b2J2M2Y5TmNmLUt4YkY3WEg3aDJhX2Nqa2g5T2FUM0JqY3hoTmt6ZTZrY3BPQ1hoYjNpeWk3amlBVHdkRFNxc2pLMDdaV2Vuc3JISkluZU5NTGdIbnl2M2ZuVjgx?oc=5",
-     "fuente": "DW.com",
+     "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVExHVHNIRzdPQ1BnZ1l3MDQtMnhPT3ZuU0tyX0daVkcxNXE0alFLZWFfRmctRUxIbmNXUkwtUFZmWTlRc1ZrQkRHNWNocDg2enZzWWxBTV9sZXVhRlpDc21xMGNXZ2s5NGExVzlURzc2VEhTdkpBMkZvNm1lWVBibVBtY2h1S0VWUWl3MzBwWHA0OW1FcFBLOGszWFhfNktyRUNubUNMYUhzYXVSQWZXQ0ZyMWRrYjN0MjZjSHpSNA?oc=5",
+     "fuente": "National Geographic España",
      "resumen": "",
-     "fecha": "2026-11-20T18:54:19+01:00",
+     "fecha": "2026-11-20T16:00:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -112,22 +112,6 @@
      "fuente": "Cadena SER",
      "resumen": "",
      "fecha": "2026-11-20T13:03:40+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Cómo ver el mapa de los incendios activos en España desde Google Maps",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nd0ZacU9hMjdWcVluVmljak94dkZUcGRtXzVaX3B1YmR4YnI2VzM0eEsyckd1NnRZdmVPWkE5WGRVbnVzd2I5ZkdCUG5yNlpJVzBmNmNCZ3VpYXdNOVo2MTA5cFpHX3JBYm0zc3lFb0I4ZjRz?oc=5",
-     "fuente": "Blogthinkbig.com",
-     "resumen": "",
-     "fecha": "2026-11-20T11:09:12+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
-     "url": "https://www.nationalgeographic.com.es/medio-ambiente/por-que-espana-tiene-incendios-cada-vez-mas-dificiles-extinguir_29715",
-     "fuente": "National Geographic España",
-     "resumen": "Los últimos veranos han batido récords de superficie quemada. Hay menos cantidad que hace veinte años, pero los que escapan al primer ataque son más rápidos, intensos y difíciles de detener. Claves pa ...",
-     "fecha": "2026-11-20T07:59:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -145,6 +129,22 @@
      "resumen": "",
      "fecha": "2026-11-19T11:03:01+01:00",
      "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
+     "fuente": "ECOticias.com - El Periódico Verde",
+     "resumen": "",
+     "fecha": "2026-11-19T08:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
+     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
+     "fuente": "larazon",
+     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
+     "fecha": "2026-11-19T04:42:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -154,28 +154,20 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Sevilla y la prevención de las riadas",
+     "url": "https://www.diariodesevilla.es/sevilla/sevilla-prevencion-riadas_0_2008534231.html",
+     "fuente": "Diario de Sevilla",
+     "resumen": "El cierre de la esclusa del Puerto contribuye a proteger las instalaciones portuarias y el entorno urbano frente a las oscilaciones del nivel del río y sus grandes avenidas ...",
+     "fecha": "2026-11-21T16:59:00+01:00",
+     "fecha_txt": "21 nov"
+    },
+    {
      "titulo": "Las dos alertas de Galicia en 15 días: de la sequía al aviso por inundaciones",
      "url": "https://www.elconfidencial.com/espana/galicia/2026-11-21/de-la-sequia-a-la-inundacion_4468629/",
      "fuente": "El Confidencial",
      "resumen": "De la amenaza de los cortes de agua a la prealerta por precipitaciones en solo dos semanas. Las lluvias intensas han dado la vuelta a la sequía, pero los niveles aún son bajos en el norte gallego ...",
      "fecha": "2026-11-21T12:39:00+01:00",
      "fecha_txt": "21 nov"
-    },
-    {
-     "titulo": "España aprueba medidas urgentes tras las inundaciones de octubre",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaERfWjdzckx6V0tsRUVsQmJTRVpYdDZlZi1fcVJpSllhWldRMnd3bGd0c2VVZ290YzJaeUdlMEFSemdUVEdScGZZWmJ6dUJyWDN1QVM1UVZTbnFWMnJpcy1ob0dJelVyejhoT3g4U1FCdE5uQWhVdlNTLTUwOUhDSFBTeUdyQWM?oc=5",
-     "fuente": "Columna Digital",
-     "resumen": "",
-     "fecha": "2026-11-20T07:50:19+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Buxadé denuncia en Murcia 21 años de abandono frente a las inundaciones y exige acabar con la impunidad de los delincuentes",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWJrc2hiem1ZT01EVFZRWjliZHR6VmJDemdScWpoV1J2bFdtRzlycHIwQ0tSWlR3c3lJVTJWckM0Qkwyc1N3MWlUUXdfNHNWa2FXemJWMTZvcW9mNC0ta1RMcHRjYi1NZ08tREhhcUdZVjBxUnFxNlpUY3hnMXpBazJUV0lvNnA1VmRMMFA2RzZ1WF9LY0RWWXpqWGJldmJ1SURpZExfMjhCMEVMYWdxa0V1YUVCY203RS1PV3dtcEoxOE83R2llYVJCQnZsc0hZU1d0VWQxM0lGQktaVnc?oc=5",
-     "fuente": "La Bandera",
-     "resumen": "",
-     "fecha": "2026-11-19T15:30:00+01:00",
-     "fecha_txt": "19 nov"
     },
     {
      "titulo": "España aprueba su programa de adaptación climática hasta 2030: refugios contra el calor y prevención de inundaciones",
@@ -192,6 +184,14 @@
      "resumen": "El granizo y el viento solo se cubren con daños propios; la inundación la paga el Consorcio. Claves para revisar tu póliza antes de renovar.",
      "fecha": "2026-11-18T09:50:00+01:00",
      "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Arrancan las obras para reparar el cauce del río Girona tras la dana Adam",
+     "url": "https://diariodealicante.net/reparacion-rio-girona-dana-adam-alicante/",
+     "fuente": "Diario de Alicante",
+     "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
+     "fecha": "2026-11-17T05:59:00+01:00",
+     "fecha_txt": "17 nov"
     },
     {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
@@ -225,12 +225,12 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Laura vive en una masía de más de 1.000 años sin conexión a la red eléctrica: “Hubo aquel apagón enorme y yo no tuve ningún problema”",
-     "url": "https://www.huffingtonpost.es/sociedad/laura-viveia-mas-1000nos-conexion-redectrica-hubo-apagon-enorme-tuve-ningun-problema-f202611.html",
-     "fuente": "El HuffPost",
-     "resumen": "La catalana explica cómo abastece de energía su vivienda y detalla por qué el gran apagón de la península ibérica apenas alteró su rutina.",
-     "fecha": "2026-11-21T12:02:00+01:00",
-     "fecha_txt": "21 nov"
+     "titulo": "Sánchez se olvida en su programa de Maricarmen, Ceuta, los ‘nietos’ y el apagón",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW50Um1GZEg1ZVF6VmY2eTRWcUNYUldVY2JvVU1RcGlqZXFIbzhfY2VUMFE2RlEzajhxQlZvR1pnUWdlaUt2UGdGNWJiQjdVRWRxLXRkMTVTdVRjTjVYU1dYNl81Y1hiQjBWRWQ4eEFZVmZGX2lOM05WaE05WGxNREFn0gGHAUFVX3lxTFA5NURYWVF5cmw2cHFka3pzRUhkNkRjeXMxNGJOR09xZnR2bExQblpPM0hYSFpCeXMyWnVjaUFmRlRHQU1OVXZCTTctQ1NHb19iZHVwZVBXcXJlVW1neDRIS2cxWTNURFl4TXhNaVJyenVqZzFrazNUd24xZWc5UjZBeUtNOTI3cw?oc=5",
+     "fuente": "The Objective",
+     "resumen": "",
+     "fecha": "2026-11-22T05:25:00+01:00",
+     "fecha_txt": "22 nov"
     },
     {
      "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
@@ -242,10 +242,10 @@
     },
     {
      "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkxqa3FLT0xucGk3Qm9yZTVMQnIyZF9CVGszMFpySlM1ZXV1aEZEOVB3RTNEdm9jREZPb1BJMk5Zal9DSllnNVdYcUpEaUZySTdKZk5XenNKTUZSRktSWmgxRHp6c1gzVWVUZTZKVlRXQkpuYUNsWXU1a1VJN3dFSWZpTGNOZmx6VWhJMzlYamJOeXdpQ1dkeFJjVUF3TDVIQVdpMElSS3JqNVRIVmdzdWdXS0lMd1NXemltcFZGNlBHZ2Jf?oc=5",
-     "fuente": "Diario Área Campo de Gibraltar",
-     "resumen": "",
-     "fecha": "2026-11-20T20:55:59+01:00",
+     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
+     "fuente": "Diario Área",
+     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
+     "fecha": "2026-11-20T12:55:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -255,22 +255,6 @@
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
-     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
-     "fuente": "Híbridos y Eléctricos",
-     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
-     "fecha": "2026-11-19T06:30:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
-     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
-     "fuente": "THE OBJECTIVE",
-     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
-     "fecha": "2026-11-19T02:26:00+01:00",
-     "fecha_txt": "19 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
@@ -286,6 +270,22 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:42:06+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
+     "fuente": "El Pespunte",
+     "resumen": "",
+     "fecha": "2026-11-17T20:05:30+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:19:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
