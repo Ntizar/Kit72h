@@ -9275,22 +9275,111 @@ El botiquín de emergencia no es el que tiene más cosas
 
  Si te ha resultado útil este artículo, compártelo con quien tenga niños o mayores en casa. La preparación es una forma de cuidar a los que más quieres.
 
-### Apagón: lecciones del 28 de abril de 2025 en España (2026) — https://kit72h.com/blog/apagon-lecciones-28a/
-El mayor apagón de la historia de España dejó imágenes de colas interminables y móviles muertos. Lo que aprendimos, en una lista práctica.
-El lunes 28 de abril de 2025, a las 12:33, se fue la luz en toda la península. En pocos minutos se pararon metros, semáforos, cajeros y datáfonos; las redes móviles colapsaron en horas. Para muchos fue la primera vez que vieron en primera persona por qué se recomienda un kit de emergencia. Estas son las lecciones.
+### Apagón del 28 de abril de 2025: las 8 lecciones que sí sirven en 2026 — https://kit72h.com/blog/apagon-lecciones-28a/
+Qué falló en el apagón peninsular del 28-A y qué cuatro cosas baratas te sacan del apuro la próxima vez.
+El lunes 28 de abril de 2025, a las 12:33, se fue la luz en casi toda la península. En pocos segundos se pararon trenes y metros, los semáforos se apagaron, los datáfonos dejaron de responder y las redes móviles se saturaron en cuanto millones de personas intentaron llamar a la vez. No fue una película: fue el ensayo general de un escenario que muchos teníamos en teoría y pocos en casa.
+
+ Un año después, lo útil no es recordar el susto, sino quedarse con lo que falló y con lo que funcionó. Esto es lo que aprendimos, con datos y con las fuentes oficiales a mano.
+
+
+ Qué pasó, en corto y sin adornos
+
+ El sistema eléctrico peninsular perdió de golpe una cantidad enorme de generación y la frecuencia se desplomó; las protecciones automáticas fueron desconectando el resto para evitar un daño mayor. Red Eléctrica (REE) y la red portuguesa (REN) reconstruyeron el sistema por bloques durante la tarde, y la mayoría de las zonas recuperaron el suministro en horas, aunque hubo puntos que aguantaron sin luz hasta bien entrada la noche. La investigación técnica sigue abierta, y eso también es una lección: la causa exacta puede tardar meses en publicarse , así que la preparación no puede esperar al informe.
+
+ Lo que sí sabemos es lo que se cayó en cadena: transporte, comunicaciones, comercio y tráfico. Y que un apagón de esta escala es raro, pero no imposible de repetir .
+
+
  1. La información es lo primero que falta
- Sin móvil ni televisión, la única fuente fiable fue la radio a pilas o de dinamo . Quien tenía una supo qué pasaba; quien no, se fió de rumores. Si solo compras una cosa después de leer esto, que sea la radio.
+
+ Sin móvil, sin televisión y con la radio del coche apagada, la única fuente fiable fue la radio a pilas o de dinamo . Quien tenía una supo qué pasaba y qué hacer; quien no, se pasó la tarde con rumores y con el grupo de vecinos del portal.
+
+ La radio no es un objeto de nostálgico: es el canal que sigue funcionando cuando todo lo demás depende de la red. Una radio FM/AM sencilla, con pilas de repuesto guardadas fuera del aparato (las pilas dentro se sulfatan y el día que la necesitas no arranca), resuelve la papeleta. Radio FM/AM a pilas para avisos oficiales .
+
+ Y una costumbre que cuesta cero: saber cuál es tu emisora de radio pública y sintonizarla de vez en cuando, para no descubrirla el día del apagón.
+
+
  2. El efectivo volvió a ser el rey
- Sin datáfonos, solo funcionaron los comercios con caja manual y dinero. Quien llevaba billetes pequeños compró; quien no, esperó. Ten en casa billetes de 10-20 € para 2-3 días.
- 3. La luz de móvil no basta
- Encender la linterna del móvil durante horas se come la batería que necesitas para emergencias. Linterna o frontal dedicado, con pilas de repuesto. Las velas solo con cuidado extremo — son la causa típica de incendios en apagones.
- 4. El ascensor no es un juego
- Hubo personas atrapadas durante horas. Si vives en un piso alto, asume que en un apagón las escaleras son el camino; si tienes movilidad reducida, ten un plan acordado con vecinos.
- 5. Los semáforos no funcionan: la vía es del que peor conduce
- Las ciudades se convirtieron en un caos de cruces sin señalización. Si conduces durante un apagón, trátalo como un cruce con prioridad a la derecha y extrema la atención.
- 6. La espera fue larga
- En muchas zonas la luz volvió en horas, pero en otras tardó toda la noche. Un kit pensado para 72 horas cubre con holgura un apagón nacional; el kit de 30 días cubre el caso extremo de que algo así se alargue.
- La lista completa para este escenario está en el kit de apagón : radio, luz, energía, cocina sin electricidad y efectivo, en cinco secciones.
+
+ Sin datáfonos ni cajeros, solo se pudo pagar donde había caja manual y cambio. Quien llevaba billetes pequeños compró agua y pan; quien dependía de la tarjeta, esperó. Ten en casa billetes pequeños equivalentes a dos o tres días de compra normal, en un sitio seco y discreto. No es una apuesta financiera: es autonomía básica.
+
+
+ 3. La linterna del móvil no es una linterna
+
+ Encender el flash del teléfono durante horas se come justo la batería que luego necesitas para llamar. La solución es aburrida y funciona: un frontal o una linterna dedicada y pilas de repuesto. El frontal además te deja las manos libres, que es la diferencia entre bajar escaleras con seguridad o a tientas.
+
+ Linterna frontal a pilas AAA y una batería externa para el móvil cubren las dos necesidades reales de esa tarde.
+
+ Las velas, con cuidado extremo: son una de las causas típicas de incendio en apagones. Si las usas, que sea con portavelas estable, lejos de cortinas y nunca para moverte por la casa. Y ojo con la otra cara: en un apagón largo, la calefacción y el agua caliente también se caen, así que conviene tener pensado cómo mantener el calor (lo contamos en cómo calentar la casa sin electricidad ).
+
+
+ 4. El ascensor no es un juego (y la accesibilidad tampoco)
+
+ Hubo personas atrapadas en ascensores durante horas. Si vives en un edificio alto, asume que en un apagón las escaleras son el único camino . Si tú o alguien de tu casa tiene movilidad reducida, el plan no es «ya veremos»: es un acuerdo concreto con un vecino, con llave y con un teléfono apuntado en papel. En papel, porque el móvil puede estar sin batería.
+
+
+ 5. Sin semáforos, la calle se vuelve un examen
+
+ Las ciudades se llenaron de cruces sin señalizar. Si tienes que conducir durante un apagón, trátalo como un cruce con prioridad a la derecha, reduce la velocidad y desconfía del que viene por la izquierda. Y si el apagón te pilla con el coche en un túnel o en un parking subterráneo, sal a pie y no te quedes dentro esperando instrucciones que no van a llegar.
+
+ Para el coche, lo mínimo está en el kit para el coche : linterna, manta, agua y un botiquín pequeño. No hace falta más para un corte de horas.
+
+
+ 6. La nevera aguanta más de lo que crees (si no la abres)
+
+ Un frigorífico cerrado mantiene el frío varias horas; un congelador lleno, bastante más. Cada vez que abres la puerta para «ver qué hay», tiras parte de ese margen. Regla sencilla para un apagón de horas: no abras, come de la despensa y deja la nevera para cuando vuelva la luz. Lo desarrollamos en conservar comida sin nevera ni frío .
+
+ Y si el corte se alarga, cocinar sin electricidad ni gas tiene sus trucos: hornillo de gas portátil bien ventilado, cocina de alcohol, o directamente comida que no requiera calor. Lo tienes en cómo cocinar sin electricidad ni gas .
+
+
+ 7. El generador no se mete en casa. Nunca.
+
+ Cada apagón deja intoxicaciones por monóxido de carbono. Un generador de gasolina o gas funciona al aire libre, fuera de casa, del garaje y de cualquier ventana, puerta o respiradero . No es una recomendación prudente: es la diferencia entre tener luz y tener una emergencia médica. Si necesitas energía en interiores, la vía segura es una batería (power station) cargada, no un motor de combustión.
+
+ Para eso está el kit de apagón , que agrupa radio, luz, energía, cocina y efectivo en cinco secciones, y el kit de electricidad si quieres ir un paso más allá con respaldo en casa.
+
+
+ 8. Las redes móviles se saturan: ten un plan B de comunicación
+
+ En cuanto se fue la luz, millones de personas intentaron llamar a la vez. Eso no es un fallo de cobertura: es física de la red. Los mensajes de texto suelen pasar mejor que las llamadas, y un walkie PMR446 de uso libre te da comunicación local cuando el móvil no da línea. Si vives en zona con poca cobertura, hay trucos que sí funcionan, como se explica en comunicar sin red cuando se cae el móvil .
+
+
+ Qué tener a mano: la lista corta de esa tarde
+
+ 
+ Necesidad Qué resuelve Dónde está 
+
+ Información Radio FM/AM a pilas y pilas de repuesto Kit apagón 
+
+ Luz Frontal o linterna con pilas, no el móvil Comparativa de linternas 
+
+ Energía del móvil Batería externa cargada + cable Guía de powerbanks 
+
+ Pago Billetes pequeños en casa — 
+
+ Comida y agua Reserva de 72 h que no necesite cocina Kit básico 72 h 
+
+ Calor Manta, ropa por capas, plan para la nevera Kit de calor 
+
+ 
+
+ Lo que no hay que hacer
+
+ 
+ No uses velas para moverte por la casa a oscuras: es la causa número uno de incendio en apagones.
+
+ No metas el generador dentro ni en el garaje, aunque esté abierto.
+
+ No abras la nevera cada diez minutos para comprobar si sigue fría.
+
+ No esperes al informe oficial para tener una radio y una linterna: son dos compras de una tarde y valen para cualquier corte, no solo para uno histórico.
+
+ 
+
+ El resumen que cabe en una frase
+
+ Un apagón de esta escala no se combate con heroicidades: se combate con cuatro cosas baratas que ya deberían estar en casa —radio, luz, batería y efectivo— y con un plan de dos minutos para la nevera, el ascensor y la nevera de la abuela. El 28 de abril de 2025 no nos pilló por falta de información: nos pilló por falta de costumbre. Eso sí se puede arreglar hoy.
+
+ Si quieres el escenario completo montado, empieza por el kit de apagón y por el plan familiar de emergencia : con eso cubres el 90 % de lo que pasó esa tarde.
 
 ### Cómo almacenar agua y comida en casa sin que se estropee (2026) — https://kit72h.com/blog/almacenar-agua-comida-casa/
 Una despensa de emergencia mal guardada es dinero tirado: dónde, cómo y en qué orden rotar cada alimento para que aguante hasta el día que lo necesites.
