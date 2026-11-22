@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-22T10:11:00+01:00",
+  "actualizado": "2026-11-22T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -52,14 +52,6 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRIQjM4MzJKMVpwdVNUTldCVFNLR1IxdVVuOVdmWDV5djBIMVRURU92cnYwbV9oZXUwMUZsLXoxeHkzQTRFaU5PcnBkNVh3SGg3cDViM2tkSFZwR25SR2ZqbGtJZkIxWllXZUNoVWczd0ZiMzJZYkNhVFRoNUxCNVVuU1FVSjlVSVcyNUx0RVNLNlduUm1CY0J3?oc=5",
-     "fuente": "Portugal Resident",
-     "resumen": "",
-     "fecha": "2026-11-19T17:34:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
      "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
      "fuente": "Euronews.com",
@@ -73,6 +65,14 @@
      "fuente": "PcComponentes",
      "resumen": "",
      "fecha": "2026-11-19T09:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
+     "fuente": "Computer Hoy",
+     "resumen": "",
+     "fecha": "2026-11-19T05:15:00+01:00",
      "fecha_txt": "19 nov"
     }
    ]
@@ -91,14 +91,6 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "El cambio climático adelantará hasta dos meses la temporada de peligro de incendios en la península ibérica",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORHVBQ2M5dWZaQ3hQRjRWWnFRSDYxTHEwb2lWUVJsUUhQTVZFTDF5cGdVVmtEbXJxN1pUcW45QW05c3dZOEtrVlZyRXg4R1cxZ1N5TnRyTGVZSlhsTnlFMXNsQkpZcUgtbm9zN0tlQnFGWlNwM2pjalVRa0dFenR5Rzc2V2hQQ2VMN3NSa25sVUN1Rjk2dS11aWhWeF9wSF8zMUd6YTQ0Rm1UdkdBRlhsdHo1eklIbElVa0h2SDI1RjlsVWkxZU1OMDlXdzBTN0FkN1NnX1RLWmlSbGPSAeABQVVfeXFMTUgwU19UWTZqWTh4U09oREJVMk53V09vSXV2QnBRTGNSTkFMZnJwRG9qVzdnaElYaUhjdGE1SVotNHk2dk91NmRBdnZxd1EyTjk1c3hqdFBfRGNNNTVjbHZmNEV0dVVwNV96b3Fac1E3ZmlEMnp5dDdyYm5TdFV1SFNMaE1UQ2l4SVhPcURRZVZHMV85dlRhSFNZN25ERmhGVXk0YnJVNklNM3NtWFlvZjY5TnBPWnh4NzFpcEI5UGMwV1F0LWx2YWlndWx1U1dUdkRGZnI3dm4wVUxNMTBkeGM?oc=5",
-     "fuente": "Diario Red",
-     "resumen": "",
-     "fecha": "2026-11-20T21:11:54+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVExHVHNIRzdPQ1BnZ1l3MDQtMnhPT3ZuU0tyX0daVkcxNXE0alFLZWFfRmctRUxIbmNXUkwtUFZmWTlRc1ZrQkRHNWNocDg2enZzWWxBTV9sZXVhRlpDc21xMGNXZ2s5NGExVzlURzc2VEhTdkpBMkZvNm1lWVBibVBtY2h1S0VWUWl3MzBwWHA0OW1FcFBLOGszWFhfNktyRUNubUNMYUhzYXVSQWZXQ0ZyMWRrYjN0MjZjSHpSNA?oc=5",
      "fuente": "National Geographic España",
@@ -112,14 +104,6 @@
      "fuente": "Cadena SER",
      "resumen": "",
      "fecha": "2026-11-20T13:03:40+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Incendios de marzo a octubre: el cambio climático ampliará la temporada de riesgo de fuego en la península Ibérica",
-     "url": "https://www.infobae.com/espana/2026/11/20/incendios-de-marzo-a-octubre-el-cambio-climatico-ampliara-la-temporada-de-riesgo-de-fuego-en-la-peninsula-iberica/",
-     "fuente": "Infobae",
-     "resumen": "Históricamente, la temporada de mayor riesgo de incendios forestales se extendía de junio a septiembre. Sin embargo, las proyecciones del estudio apuntan a que las condiciones meteorológicas ...",
-     "fecha": "2026-11-20T03:05:00+01:00",
      "fecha_txt": "20 nov"
     },
     {
@@ -141,9 +125,25 @@
     {
      "titulo": "Europa se quema y España está en el epicentro de los incendios: el dato que pone los pelos de punta",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wM2tjb2VyNmtobzNndTVzWktjRFh5WHQ1V3lCMThSTmFYeGdXYjFnaTB2Y0NMd05MazNQTjF5LTd4X3pBT1pyc1NJaktHSzNZTS0tNnExZnNHNjI5MnFwZS1XN2NKcUR0ODVRcEdWeUpVVGFmd2V4aklkR3poQQ?oc=5",
-     "fuente": "ECOticias.com - El Periódico Verde",
+     "fuente": "ECOticias.com - El periódico verde",
      "resumen": "",
      "fecha": "2026-11-19T08:00:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Santa Cruz: Incendio sigue activo y consume una importadora",
+     "url": "https://larazon.bo/ciudades/2026/11/19/santa-cruz-incendio-sigue-activo-y-consume-una-importadora/",
+     "fuente": "larazon",
+     "resumen": "Las fuertes ráfagas de viento estarían favoreciendo la propagación del incendio. Se reportó al menos un herido ...",
+     "fecha": "2026-11-19T04:42:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
+     "url": "https://www.andaluciainformacion.es/sociedad/incendios-espana-acumula-301889-ha-quemadas-18-noviembre-registra-ningun-incendio-ultima-semana/202611191104293541800.html",
+     "fuente": "Andalucía Información",
+     "resumen": "El registro de EFFIS contabiliza 476 incendios en España, en comparación con los 701 de Italia y los 389 de Francia. Durante la última semana, no se han detectado nuevos fuegos en estos dos países ...",
+     "fecha": "2026-11-19T04:03:00+01:00",
      "fecha_txt": "19 nov"
     }
    ]
@@ -225,14 +225,6 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
-     "titulo": "Sánchez se olvida en su programa de Maricarmen, Ceuta, los ‘nietos’ y el apagón",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW50Um1GZEg1ZVF6VmY2eTRWcUNYUldVY2JvVU1RcGlqZXFIbzhfY2VUMFE2RlEzajhxQlZvR1pnUWdlaUt2UGdGNWJiQjdVRWRxLXRkMTVTdVRjTjVYU1dYNl81Y1hiQjBWRWQ4eEFZVmZGX2lOM05WaE05WGxNREFn0gGHAUFVX3lxTFA5NURYWVF5cmw2cHFka3pzRUhkNkRjeXMxNGJOR09xZnR2bExQblpPM0hYSFpCeXMyWnVjaUFmRlRHQU1OVXZCTTctQ1NHb19iZHVwZVBXcXJlVW1neDRIS2cxWTNURFl4TXhNaVJyenVqZzFrazNUd24xZWc5UjZBeUtNOTI3cw?oc=5",
-     "fuente": "The Objective",
-     "resumen": "",
-     "fecha": "2026-11-22T05:25:00+01:00",
-     "fecha_txt": "22 nov"
-    },
-    {
      "titulo": "La CNMC recorta un 84% los incentivos a Red Eléctrica por su gestión en el año del apagón",
      "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
      "fuente": "THE OBJECTIVE",
@@ -247,14 +239,6 @@
      "resumen": "",
      "fecha": "2026-11-21T05:45:39+01:00",
      "fecha_txt": "21 nov"
-    },
-    {
-     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
-     "fuente": "Diario Área",
-     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
-     "fecha": "2026-11-20T12:55:00+01:00",
-     "fecha_txt": "20 nov"
     },
     {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
@@ -286,6 +270,22 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:42:06+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
+     "fuente": "El Pespunte",
+     "resumen": "",
+     "fecha": "2026-11-17T20:05:30+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:19:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
