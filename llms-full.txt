@@ -4816,49 +4816,121 @@ El apagón del 28 de abril de 2025 dejó a medio país sin luz y con el móvil a
 
  Un powerbank de 20.000 mAh con USB-C y doble salida es el estándar del kit 72h: 4 cargas de móvil, 74 Wh (vuela sin papeleo) y 25-50 € bien gastados. Si tienes pareja o hijos, añade un segundo de 10.000-20.000 mAh — la redundancia barata que convierte un susto en un detalle. Y recuerda la única regla que importa: sale del cajón cargado al 100% y se rota cada 3-6 meses . La lista completa del kit, con la energía ya resuelta, está en el kit básico de 72 horas .
 
-### La mejor radio de emergencia con manivela y panel solar (2026) — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
-Radios de emergencia con manivela y panel solar comparadas: autonomía sin pilas, alcance, cargador móvil y cuál elegir para 72 horas.
-Cuando se cae la red eléctrica, se caen los móviles sin cobertura y se acaba el WiFi. La radio es el ÚNICO dispositivo que puede seguir recibiendo información oficial de tu zona durante un apagón prolongado. No lo subestimes: es tu vínculo con el exterior cuando todo lo demás falla.
+### Mejor radio de emergencia con manivela y panel solar: cuál elegir en 2026 — https://kit72h.com/blog/mejor-radio-emergencia-manivela-solar/
+Radios de emergencia con manivela y panel solar comparadas: qué mirar, qué bandas no sirven en España y cuál elegir para casa, mochila o para una persona mayor.
+Un apagón no empieza con un estruendo: empieza con el router apagado, el móvil bajando de batería y el WhatsApp que se queda en «conectando». A la hora, la red móvil empieza a fallar en serio y a las seis horas hay barrios donde no queda ni cobertura ni batería. En ese escenario hay un aparato que sigue funcionando cuando todo lo demás ha caído: una radio a pilas o de manivela. No es nostalgia, es la única forma de seguir escuchando el aviso oficial de tu provincia sin depender de internet, de la luz ni de una antena que necesita electricidad para repetir señal.
 
 
- ¿Por qué una radio de manivela?
+ Por qué la radio sigue siendo la última que falla
 
- Un móvil con un powerbank tiene autonomía de horas (tal vez un día). Una radio de manivela tiene autonomía INFINITA: la giras 3 minutos y tienes 15-30 minutos de emisión. El panel solar es el complemento perfecto: la dejas al sol y se va cargando sola.
+ La red móvil y el WiFi dependen de la misma cadena: electricidad en la antena, electricidad en el nodo, electricidad en el router de casa. Cuando esa cadena se rompe, el aviso oficial tiene que llegar por otra vía. La radio pública emite desde centros que cuentan con grupos electrógenos y, en una emergencia, las emisoras generalistas se convierten en el canal por el que las autoridades comunican cortes de carreteras, avisos de confinamiento o puntos de reparto de agua. Es el canal que la propia Protección Civil y la campaña europea de preparación siguen recomendando como respaldo: un receptor de pilas, una lista de frecuencias y un sitio donde esté siempre.
 
 
- Cualidades no negociables
+ La diferencia con el móvil es de naturaleza, no de cantidad. Tu móvil tiene un powerbank y aguanta uno o dos días; la radio de manivela no tiene fecha de caducidad mientras tu brazo funcione. Y si además lleva placa solar, la dejas en la ventana y se recarga sola sin que tengas que pensar en ella.
 
- 
- FM + AM + SV : Las emisoras oficiales usan diferentes bandas. No puedes elegir. Una radio de emergencia debe recibir TODAS.
 
- Portátil y ligera (<400g) : Si tienes que llevarla contigo en una evacuación, no puede pesar como un ladrillo.
-
- USB de carga : Además de manivela y solar, debe poder cargar con cable USB. Es el sistema principal de carga.
-
- LED de linterna : Una radio sin linterna integrada es una radio incompleta.
-
- USB para cargar el móvil : Funciona como powerbank. Tu móvil es tu herramienta de comunicación principal, la radio lo sostiene.
+ Qué mirar antes de comprar (lista corta y sin trampa)
 
  
+ AM y FM de verdad, con dial o sintonizador digital legible . La FM es la que te va a servir para las emisoras generalistas de tu zona; la AM (onda media) es el respaldo cuando la FM se satura de repetidores caídos. Si el dial no se lee sin gafas ni con luz baja, no es una radio de emergencia.
 
- Las mejores opciones para un kit 72h
+ Manivela que aguante, no manivela de juguete . Una manivela decente da varios minutos de escucha por cada minuto de giro a ritmo constante (la cifra exacta la declara cada fabricante, y casi ninguna la cumple al pie de la letra). Una mala se rompe a la tercera sesión. Si puedes, gírala en la tienda antes de pagar.
 
- Las radios de emergencia con manivela y panel solar que cumplen TODOS los requisitos anteriores son:
+ Panel solar grande respecto al cuerpo . Los paneles de 2×3 cm son decorativos: en un día de sol te dan minutos de escucha, no una carga. No compres el modelo por el panel, cómpralo por la batería.
+
+ Batería con cifra clara y salida USB . Que diga los mAh y que tenga un puerto USB para cargar el móvil. Una radio que además es powerbank justifica su hueco en la mochila; una que solo recibe, no.
+
+ Linterna integrada con al menos dos modos (luz fija y SOS). Es la función que más vas a usar en las primeras seis horas.
+
+ Peso y tamaño honestos . Para la mochila de evacuación, por debajo de 400 g. Para la estantería de casa, el peso da igual y conviene un altavoz grande.
+
+ 
+
+ DAB+ y banda ciudadana: lo que NO necesitas pagar
+
+ Muchas fichas venden «radio de emergencia con DAB+» como si fuera imprescindible. En España la radio digital terrestre apenas tiene despliegue útil, así que en un apagón no vas a encontrar tu emisora local en DAB+: vas a encontrarla en FM. Lo mismo con los canales meteorológicos NOAA, que son estadounidenses y aquí no emiten. Paga por FM/AM buena, batería y manivela; no pagues por una lista de bandas que no existen en tu dial.
 
 
- RADIO CON MANIVELA Y PANEL SOLAR 2 en 1
+ Las opciones que sí hemos comprobado (fichas verificadas)
 
- Recibe FM, AM, SV y NOAA (si la tienes a mano). Incluye linterna LED, luz de emergencia SOS y powerbank para el móvil. Resistente al agua IPX4 (soporta lluvia ligera). Peso: ~380g. Autonomía: 30 min con manivela completa, 4h en modo bajo con batería.
-
-
- RADIO DE EMERGENCIA CON MANIVELA
-
- Más sencilla pero más ligera (~300g). Funciona con manivela, solar o pilas AA. Perfecta si solo necesitas lo básico sin complicaciones. Incluye linterna y modo SOS.
+ Estas cuatro fichas están revisadas una a una en los kits de la web, no son una lista copiada de un buscador. Las características son las que anuncia el fabricante en la propia ficha de Amazon: no inventamos autonomías ni vatios.
 
 
- El veredicto
+ 
+ Modelo Qué es Batería Manivela / solar Para quién 
+ 
+ 
+ Radio solar de emergencia AM/FM de 10.000 mAh Radio de emergencia con linterna de 3 modos, lámpara de lectura, alarma SOS y salida USB 10.000 mAh Sí / sí La más completa: casa y mochila 
 
- La radio de emergencia es el objeto más infravalorado de un kit 72h. Invierte ~25-35€ en una que reciba FM+AM y tenga manivela+panel solar. Cuando llegue el apagón, vas a agradecer cada euro.
+ Radio de emergencia 2.000 mAh con dinamo AM/FM, linterna LED, luz de lectura, powerbank y SOS 2.000 mAh Sí / sí Presupuesto ajustado, segunda radio 
+
+ Radio de bolsillo solar con manivela AM/FM pequeña, funciona también con pilas Pequeña, no declara cifra alta Sí / sí Mochila, guantera, viaje 
+
+ Panasonic RF-2400: radio FM/AM de sobremesa Sintonizador digital, altavoz de 10 cm, 770 mW, iluminación LED del dial Pilas (no manivela) No / no La de casa: mejor sonido, sin manivela 
+
+ 
+ 
+
+ Fíjate en la última fila: una radio de sobremesa a pilas no tiene manivela y aun así merece un sitio. Suena mucho mejor, sintoniza con precisión y con cuatro pilas buenas aguanta semanas de escucha a ratos. La combinación que mejor funciona en casa es una de estas para escuchar y una de manivela guardada como respaldo cuando las pilas se acaben.
+
+
+ Cuál elegir según tu caso
+
+ Si preparas la mochila de evacuación
+
+ Necesitas peso bajo y autonomía sin pilas: la de bolsillo con manivela y solar, o la de 10.000 mAh si aceptas algo más de volumen y quieres además cargar el móvil. Guárdala con dos juegos de pilas alcalinas fuera del aparato. El detalle completo de qué más va en esa mochila está en el kit de evacuación .
+
+ Si preparas la casa para un apagón largo
+
+ La radio de sobremesa a pilas para escuchar cómodo, más una de manivela de respaldo y un powerbank grande para el móvil. Todo el esquema de energía y avisos está en el kit para apagones , y la parte de escuchar y avisar al exterior en el kit de comunicación .
+
+ Si es para una persona mayor
+
+ Aquí manda el dial grande y el volumen, no la manivela: una radio simple de FM con botones grandes que se pueda manejar a oscuras y sin gafas. La manivela de una radio de emergencia pequeña es dura para manos con artrosis, y si no puede girarla, no le sirve.
+
+
+ Cómo probarla de verdad (una vez al mes, cinco minutos)
+
+ 
+ Gira la manivela un minuto completo y comprueba que enciende solo con eso. Si necesita pilas para arrancar, la manivela no está cargando nada.
+
+ Sintoniza tu emisora generalista local y una nacional. Apunta las dos frecuencias en una etiqueta pegada detrás del aparato: en plena emergencia nadie quiere buscar el dial a tientas.
+
+ Conecta el móvil al USB y comprueba que carga de verdad durante dos minutos.
+
+ Revisa las pilas guardadas aparte: que no estén sulfatadas ni caducadas.
+
+ Si tiene placa solar, déjala una tarde en la ventana y verifica que el indicador sube.
+
+ 
+
+ Los cuatro errores que se repiten
+
+ Comprar por número de funciones. Una radio con siete bandas, brújula y cargador de emergencia que no sintoniza bien la FM es un pisapapeles caro. La función que salva es escuchar.
+
+ Confiar en el panel solar del propio aparato. Carga lenta y depende del sol. Sirve para mantener, no para recuperar. La carga de verdad es la manivela y, en casa, el USB.
+
+ No saber tu frecuencia. Tener la radio y no saber en qué dial está tu emisora local es tener media radio. Apúntala hoy, no el día del apagón.
+
+ Guardarla con pilas dentro. Las pilas se sulfatan y matan el aparato. Fuera, en una bolsa, junto a la radio.
+
+
+ Cómo encaja con el resto de tu equipo
+
+ La radio escucha; no habla. Para hablar con tu gente a corta distancia sin red móvil están los walkie PMR446, con sus límites legales bien explicados en esta guía . Y para saber qué está pasando sin depender de nadie, qué funciona cuando se cae el móvil ordena las opciones de más a menos fiable. La radio es la base de esa escalera: llega gratis, no gasta datos y no necesita que nadie esté emitiendo desde un repetidor con luz.
+
+
+ Si solo vas a hacer una cosa hoy, que sea esta: comprar (o desempolvar) una radio de pilas, apuntar las dos frecuencias de tu zona detrás del aparato y meterla en el kit básico de 72 horas . Es el objeto más barato del kit y el único que te va a decir qué está pasando cuando el móvil ya no diga nada.
+
+
+ Fuentes
+
+ 
+ Protección Civil (Dirección General de Protección Civil y Emergencias) — recomendaciones de autoprotección y canales de aviso: proteccioncivil.es 
+
+ Comisión Europea — Mecanismo de Protección Civil de la UE y campaña de preparación ciudadana: civil-protection-humanitarian-aid.ec.europa.eu 
+
+ AEMET — avisos meteorológicos oficiales por provincia: aemet.es
 
 ### Las 7 mejores linternas para un kit de emergencia 72h (2026) — https://kit72h.com/blog/mejor-linterna-emergencia-72h/
 7 linternas de emergencia comparadas por autonomía real (lúmenes y horas), precio y resistencia: cuál merece hueco en tu kit de 72 horas.
