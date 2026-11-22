@@ -213,7 +213,11 @@ const i18n = {
     if (!item) return null;
     const esTiendaES = this.amazon.dominio === 'www.amazon.es';
     if (esTiendaES && this.mercado && this.mercado.id === 'es' && item.afiliado) {
-      return item.afiliado;
+      // El catálogo trae el tag de fábrica (ntizar-21): se reescribe al de la
+      // sección que se está viendo (fichas → kit72h-21). Sin esto el HTML
+      // horneado dice una cosa y el navegador sirve otra: el panel de Amazon
+      // solo veía ventas en ntizar-21 y los demás tags parecían muertos.
+      return this.retag(item.afiliado);
     }
     if (item.asin_local) {
       return this.conTag(`https://${this.amazon.dominio}/dp/${item.asin_local}`);
