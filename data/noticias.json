@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-22T22:11:01+01:00",
+  "actualizado": "2026-11-23T01:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,22 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "Un incendio en la península de Formentor (Mallorca) obliga a desplegar 30 dispositivos de emergencias",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEttS1l6YUUzQkxEWHd3TTFDUTR5YXdJZjFwclJpTXdLTFdjbkFVZlYxaGh4bFNZMS00MkJXSUxsT3ozbXd0bHpQQXUxQW5Ga0w3Vm5nd0luN0dVTTFrUElXNkJhbUloVWRNbnpoM0xRN0t6aU9Xc0IwZ2REdFBQVzE4V1lkMUh3SEZQYi1qbS1qaTVtVXJ4VXhIRGdVRjVGN2R0Q1VweTJ0TkVNQ3VGaXNKYXpfbWpfVXY1WGxsTVEtRGlDdDU00gHMAUFVX3lxTE40ZW5PWTYyTDZCeGl1bUlyYmlxWmpVWnVwTHhQYVlDbzFNZkctc1Y1MW8tT1phekV1OHpDTHJHNjQyUkdDR2FVTUxaX2NtSmNVaWdEUXBtVklKNGV0cTdNN01YLU5QVm1VSkhkbjFQS3NHTnkxVUp3MHB3eTRjSU9ya2lOMzJTMHhxU2o4eTQ4UENpWWdodWxkVF9XZHdFMXFSWTRlRU80dUF1Q09WRG1iZFZLMUQxR3locGpmSXVFc0pQM0ZyaExkSWZHcA?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-22T23:20:43+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Alarma en Mallorca por un incendio forestal en la península de Formentor",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkRWanRTLVNNcEJIVjJyR3VLd1RaSDR0cTI0anNnZFdxcmw0NGlWbjlBZ21XZnhkYzA3QmtMLUt6RVhoYWRvQ2hDbV9EcTN4SkRJRGI5VHpRb2ZvNDQ4U1BMb19PaGdCNmNzSW5hc3ZqV2xPS2xYU0lOSHA4OTZKZzNzdVlYTi1JZ3RKX3NfeTBtbjBrYnNQcFNmQU1MZ9IBowFBVV95cUxNaElFTDFqeFJQTkFHYm1tcS1acFg0OHgwZGx0QUdhdlZSdGRlS1hTTmFYSUs2ZXlybktKSUFKUlloczV6cXBRUTVaTDlWODRKSmhVR05Vcm0zMTlQZnZYWFg2NFVIN0syQ3p6Q2VvRDd2UUNXbzBuTFNkSVh0WVBLTTVmZ0JsczNIeDNzdFhfamQ4TEt0Q1h3NHNlNkNMZUdNd1RV?oc=5",
+     "fuente": "La Nueva España",
+     "resumen": "",
+     "fecha": "2026-11-22T22:46:31+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
      "titulo": "Declarado un incendio forestal en Añón de Moncayo (Zaragoza): los bomberos ya están desplegados en la zona",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRW1iT0RlV0ljamxubFNGR1doNTdGQk9aVGF6Zkx5dmp2V2IzbkdFa3Q2Y3pvMGhuOHY4b1pjcWphX215ODRMQnBuNWZIRUxQT0dpb1R5Z3haZkdmSDZ6eDNSR1VRTDJsUkg4bHZtVlJFaFRJeXVLVjI3UWxsbmE5VC00RkduVmhxOTBqY01OV0ZhQ0xTd3h5bTl3VVgwakhnNGlPdU5oT3FPYUUtSk12RHJmbVNtSjZwZVVxVzNXVlIzV0NETldqaFZMNVJVUWxFR2R0MjRYX0J3LTZCRnFR0gHkAUFVX3lxTE1kOXFPMHJjanpHZndOLXlLaktDWkUzTWFFSGZqeDNOM2hZdjkwQ2NyYjlsRzNmbENDVnZiOFctZmNkbnR3eUpfaGZfdlctMm1ZS0JYQUFrWW1pdU9zN2xSWkZJRnJKVU84bGlRajNzcHBVd3o1M1hyS2FJMmdKRW9TLTM5MkhyZFU1V2pvMnc5NVctVXhuTDkwN0JGaUYzYWZWdlNLVFNQeGZYSXdhZnFZSzdCa0FFMV9uNmVFOF96VjVaTUFoQ1Vsdk5KUUNycHpZRFlYQ2JLZTdkZHVCZ00tcWNuTQ?oc=5",
      "fuente": "El Español",
@@ -108,43 +124,27 @@
     },
     {
      "titulo": "Comienzan las declaraciones por el segundo mayor incendio en la historia de España",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmJ5SzJTaXlUZEV1cEFRcFBhNTdYZkhVM3RpZy1RbWRTS0JIQWFhRjNGSGU5U051b2IwZGE4X3UtdW4tWUMxT2tBY2lUZkl3emdBU1JFUUhaTjRLTVBRajhDZ0ppbktjRDdjWEszOVZoM1NOY2VGb2kxNjdTdlhDTXZqMXhlQlVEcUpCOFN6UGV0T1dUVzBBMlJ1dlhoeWZmTVhJMGotNTllYmhVTTMw?oc=5",
-     "fuente": "EFE - Agencia de noticias",
-     "resumen": "",
-     "fecha": "2026-11-21T13:48:17+01:00",
+     "url": "https://efe.com/castilla-y-leon/2026-11-21/comienzan-las-declaraciones-por-incendio-forestal-del-sur-de-avila/",
+     "fuente": "Agencia EFE",
+     "resumen": "Esta semana han comenzado las declaraciones de los testigos en la causa abierta por el incendio forestal del sur de Ávila el pasado verano ...",
+     "fecha": "2026-11-21T05:47:00+01:00",
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "Los incendios en España, bajo la lupa: por qué tenemos fuegos cada vez más difíciles de extinguir",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVExHVHNIRzdPQ1BnZ1l3MDQtMnhPT3ZuU0tyX0daVkcxNXE0alFLZWFfRmctRUxIbmNXUkwtUFZmWTlRc1ZrQkRHNWNocDg2enZzWWxBTV9sZXVhRlpDc21xMGNXZ2s5NGExVzlURzc2VEhTdkpBMkZvNm1lWVBibVBtY2h1S0VWUWl3MzBwWHA0OW1FcFBLOGszWFhfNktyRUNubUNMYUhzYXVSQWZXQ0ZyMWRrYjN0MjZjSHpSNA?oc=5",
-     "fuente": "National Geographic España",
+     "titulo": "El cambio climático adelantará hasta dos meses la temporada de peligro de incendios en la península ibérica",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORHVBQ2M5dWZaQ3hQRjRWWnFRSDYxTHEwb2lWUVJsUUhQTVZFTDF5cGdVVmtEbXJxN1pUcW45QW05c3dZOEtrVlZyRXg4R1cxZ1N5TnRyTGVZSlhsTnlFMXNsQkpZcUgtbm9zN0tlQnFGWlNwM2pjalVRa0dFenR5Rzc2V2hQQ2VMN3NSa25sVUN1Rjk2dS11aWhWeF9wSF8zMUd6YTQ0Rm1UdkdBRlhsdHo1eklIbElVa0h2SDI1RjlsVWkxZU1OMDlXdzBTN0FkN1NnX1RLWmlSbGPSAeABQVVfeXFMTUgwU19UWTZqWTh4U09oREJVMk53V09vSXV2QnBRTGNSTkFMZnJwRG9qVzdnaElYaUhjdGE1SVotNHk2dk91NmRBdnZxd1EyTjk1c3hqdFBfRGNNNTVjbHZmNEV0dVVwNV96b3Fac1E3ZmlEMnp5dDdyYm5TdFV1SFNMaE1UQ2l4SVhPcURRZVZHMV85dlRhSFNZN25ERmhGVXk0YnJVNklNM3NtWFlvZjY5TnBPWnh4NzFpcEI5UGMwV1F0LWx2YWlndWx1U1dUdkRGZnI3dm4wVUxNMTBkeGM?oc=5",
+     "fuente": "Diario Red",
      "resumen": "",
-     "fecha": "2026-11-20T16:00:00+01:00",
+     "fecha": "2026-11-20T21:11:54+01:00",
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "España suma 301.889 ha quemadas y no registra incendios esta última semana",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb01BZ1J4V0c2OFhCRG8wb1JSY180ajBZRWEzT0E5LVhwMWFKdTlremJDOG81aTdmd1NON3V0Qnd3Q2Nucm03OGlVTEk1OGtWeXNocmZXdjU3aGlwVnVzZXRUVlF0UU1udG5NT1FINXdldXlVanoyc2Z1LWloWnZyUUI5WHBoY0xEdEl2ajRwd01HeXljZDlPNkVha1ZKOEphU1kzdXhpa24xSk11V1YydUtuRC00VXg5T2U1UWRPdl9PQWl4bTcxc25yb1h2Tmo4QV93Ykttc1BpdGtHY0hNT1FGdnVoQXZlT2ZxazhvdmhTb0luNkVnVWp1RdIBgAJBVV95cUxQNFZkcUM3SUw3OHlsZkZmbGJ4YS1LeHFFQVVBZHNkQk5FNkxPSFdvN0pLVjItanFpZElsMEFGX2tSRFhuVlYxTlZPc2ZvZWhkXzFFTnZsdG4zVGdhSW04RllPTjJ1MEtYNVN2U0FsVWpKQ1FmQkFkcUFSaTR0dXl3bm50R0lXUkxCb1lvbVd3UE1JUi00TG1UcGpIT29OblJwTVpzZU5ERHBib3BaRTE5eVRWT2wwMEctajRJaW9XTVVFYjZ4RGMtMmE5bG9JZm1XQ0NFWEgxbDBSbkhpb2x4XzEtejl1ZlluQVBCa09uWGJYQkwwVVFjTHBSNF82bi1E?oc=5",
-     "fuente": "Andalucía Información",
+     "titulo": "El cambio climático triplica el riesgo de incendios extremos en la península ibérica",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2syNUwyb21JWllaeFY4RjdQdEd2WUM4d0xyYXdYT0JWTzJjdlZWNFczWjl1aUF4Tlp4UFNtT0dmQklzMzNUV1ZXOVhfR3F2aFVtRjZyaTVLSHhfc04tY09fbEU5TnRkakwxOEppV3ZWd0lKOXR5X2haUkpqMjVBUnFmRmZMSVZkWUZPOC05Qk5Ndw?oc=5",
+     "fuente": "GNDiario",
      "resumen": "",
-     "fecha": "2026-11-19T11:04:29+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España suma 301.889 hectáreas quemadas en 2026",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMDR6bHFRazF3NjhUMm9aY19RVW5KM3FGbjhDRHBJV0c1Y0JrR3l4UUVhanoyLWs4UlpMM29vNWVtMmdzQmlsYmJBZ0drOXMteUNhUE0zUF9mOHRmTldHSHM5REVZcy1GcDdHMFN1N3F2TDNUc2hoNEx0TzZZYVBHZFprSDVobUpYcjB4X1JuUDRXOG5TZ1VEMzlrTlp3YVV3MDZ1RFBRQ3ZRdFprX3BNS2RJV053RTJxNm1N?oc=5",
-     "fuente": "Madrid Actual",
-     "resumen": "",
-     "fecha": "2026-11-19T11:03:01+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "España acumula 301.889 ha quemadas hasta el 18 de noviembre y no registra ningún incendio la última semana",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd0x1OG1kWEk4Vkk1OU9GSURHNjVmcXRrV3dfYzNtVG5ZTktldG1mMEhCZkVHQ2lfZ1I4V3RhRXR5RVk4VHBDTWVNQ1hjb1dzaE5xSExoQzUtX29PMnVZbTRxWDQzZEp5UWp6RHNFOWVXVmdQN0pnaFFILWxDZldQZzZOT0pqTXBhcDlXbUg1aFRha1lNdGtRajFHRnJubW1qQ2stTUVwMmsxaTM3SjlCWXRmWlRnalVkN1Q5UnVidjFvODExWDRVSmlpcFl0OVlJcFJJbzJWa0JHUmVRYm42RjZOaw?oc=5",
-     "fuente": "Europa Press",
-     "resumen": "",
-     "fecha": "2026-11-19T10:57:33+01:00",
-     "fecha_txt": "19 nov"
+     "fecha": "2026-11-20T17:30:00+01:00",
+     "fecha_txt": "20 nov"
     }
    ]
   },
@@ -167,6 +167,14 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-22T14:02:00+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Mireya Esther Bueno cubana sobreviviente a la Dana en España: «El miedo va a estar siempre»",
+     "url": "https://www.cubanoticias360.com/mireya-esther-bueno-cubana-sobreviviente-a-la-dana-en-espana-el-miedo-va-a-estar-siempre/",
+     "fuente": "Cuba Noticias 360",
+     "resumen": "Mireya Esther Bueno llegó a España el 9 de abril de 2022 desde Cuba y en 2024 sobrevivió a la Dana en su piso en Valencia.",
+     "fecha": "2026-11-22T10:23:00+01:00",
      "fecha_txt": "22 nov"
     },
     {
@@ -194,28 +202,20 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Seguro coche inundación: cuándo cubre tu póliza los daños por DANA, granizo o viento y cuándo responde el Consorcio",
+     "url": "https://www.motor16.com/las-ultimas-noticias/seguro-coche-inundacion-consorcio-danos/",
+     "fuente": "Motor16",
+     "resumen": "El granizo y el viento solo se cubren con daños propios; la inundación la paga el Consorcio. Claves para revisar tu póliza antes de renovar.",
+     "fecha": "2026-11-18T09:50:00+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-17T05:30:01+01:00",
      "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
-     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
-     "fuente": "Cambio16",
-     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
-     "fecha": "2026-11-17T02:15:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Inundaciones en Ourense por las fuertes lluvias: varios pueblos quedan incomunicados por desbordamientos de ríos",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ3pRVl9RLVhvN3ZoODZ3enVETHE5MWdXVy1CS3VmZ01WTXNKWUVjSzB6c1V6THlCTUJRQnpxcmg2OUstZGNVc0F0SDJReXgxV0pGUkZUZ19xZ3NSeTdndGdmVFNMQmYxei1VdHlLekVOcm96azhNT0JKZ25TNlA5YV9UWDZ2eTlPRmNRVElxN3ZjNTJ2Yl93ZTNBMWZqbXlrdk5DbUFQMmdMbTJBR3o3NmlOT25ZTUh0ckRNMmdXUFl6QnEyWWpHcGJUSUNnakg4YlVHTTB1TGJyTV9lYjlKN0hQQQ?oc=5",
-     "fuente": "Telecinco",
-     "resumen": "",
-     "fecha": "2026-11-15T20:27:13+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -257,19 +257,19 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Gran apagón mundial: cómo comprobar si te corresponde un descuento por un corte de luz en España",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dHQmZQUUI1czFadTUxMTBCaHVQaGs0cDU1TEtkNUZTOGNTY3VORmVUZ3U2Ql9hSTM3WjVWbDRsN0ZsLWdsTHA4djJvYkdodkhYSVhOT25IbTR4bnZoc0VBa1NLRWNmcnRpN3c0dm9KOXgtZW1JbG1SbGFMRFRtRg?oc=5",
-     "fuente": "Hassan KOHEN",
-     "resumen": "",
-     "fecha": "2026-11-18T03:00:46+01:00",
      "fecha_txt": "18 nov"
     },
     {
