@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-19",
-    "total": 94,
-    "png_total": 94
+    "ultima_generacion": "2026-11-23",
+    "total": 96,
+    "png_total": 96
   },
   "pins": [
     {
@@ -850,6 +850,24 @@
       "emoji": "📖",
       "pin": "pin-blog-calentar-casa-sin-electricidad-invierno.html",
       "png": "png/pin-blog-calentar-casa-sin-electricidad-invierno.png"
+    },
+    {
+      "slug": "pin-blog-mejor-saco-de-dormir-sin-calefaccion",
+      "tipo": "blog",
+      "titulo": "Mejor saco de dormir para dormir sin calefacción (2026)",
+      "url": "https://kit72h.com/blog/mejor-saco-de-dormir-sin-calefaccion/",
+      "emoji": "📖",
+      "pin": "pin-blog-mejor-saco-de-dormir-sin-calefaccion.html",
+      "png": "png/pin-blog-mejor-saco-de-dormir-sin-calefaccion.png"
+    },
+    {
+      "slug": "pin-blog-cocinar-sin-electricidad-gas",
+      "tipo": "blog",
+      "titulo": "Cómo cocinar sin electricidad ni gas: 6 métodos que sí funcionan (2026)",
+      "url": "https://kit72h.com/blog/cocinar-sin-electricidad-gas/",
+      "emoji": "📖",
+      "pin": "pin-blog-cocinar-sin-electricidad-gas.html",
+      "png": "png/pin-blog-cocinar-sin-electricidad-gas.png"
     }
   ]
 }
