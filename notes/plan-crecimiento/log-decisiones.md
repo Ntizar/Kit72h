@@ -69,3 +69,5 @@
 | 2026-11-20 | como calentar la casa sin electricidad | revamp | propuesto | Score 101.2 pero ya publicado 2026-11-16 como calentar-casa-sin-electricidad-invierno; se descarta repetir |
 | 2026-11-21 | apagon-lecciones-28a | revamp | encolado | Revamp 327->1364 palabras del artículo del 28-A; 3 fuentes oficiales, 14 internos, 3 ASIN verificados |
 | 2026-11-22 | mejor-radio-emergencia-manivela-solar | revamp | encolado | Revamp 343->1442 palabras: 4 fichas verificadas, tabla comparativa, DAB+/NOAA fuera, 3 fuentes oficiales, 6 internos |
+| 2026-11-23 | kit-72h-vs-30-dias | revamp | encolado | Revamp 333->1444 palabras: tabla 72h vs 30 dias, 3 fuentes oficiales, 10 internos, 3 ASIN verificados |
+| 2026-11-23 | fichas pendientes (12 items sin dp) | asins | propuesto | Deuda de catalogo: 12 items sin ficha /dp/; requiere revision humana del buscador |
