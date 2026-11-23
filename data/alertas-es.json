@@ -3,19 +3,19 @@
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
   "elaborado": "20261122225001",
-  "actualizado": "2026-11-23T04:11:09+01:00",
+  "actualizado": "2026-11-23T07:11:12+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261122225001_penbal_20261123CET_1795402800.geojson"
+   "r_D+0_20261122225001_penbal_20261123CET_1795413600.geojson"
   ]
  },
  "resumen": {
   "rojo": 0,
   "naranja": 0,
-  "amarillo": 2,
-  "sin_aviso": 57,
-  "zonas_en_aviso": 5,
+  "amarillo": 1,
+  "sin_aviso": 58,
+  "zonas_en_aviso": 3,
   "provincias": 59
  },
  "provincias": [
@@ -35,42 +35,6 @@
        "descripcion": "En el extremo norte: viento del noroeste de 50 a 60 km/h (fuerza 7) y olas de 2 a 3 m.",
        "desde": "2026-11-22T18:00:00+01:00",
        "hasta": "2026-11-23T11:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "nombre": "Tarragona",
-   "ccaa": "Cataluña",
-   "nivel": 3,
-   "nivel_txt": "Amarillo",
-   "zonas": [
-    {
-     "nombre": "Litoral sur de Tarragona - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y noroeste de 50 a 60 km/h (fuerza 7).",
-       "desde": "2026-11-22T18:00:00+01:00",
-       "hasta": "2026-11-23T06:59:59+01:00",
-       "probabilidad": "40%-70%"
-      }
-     ]
-    },
-    {
-     "nombre": "Litoral norte de Tarragona - Costa",
-     "nivel": 3,
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del oeste y noroeste de 50 a 60 km/h (fuerza 7).",
-       "desde": "2026-11-22T18:00:00+01:00",
-       "hasta": "2026-11-23T06:59:59+01:00",
        "probabilidad": "40%-70%"
       }
      ]
@@ -423,6 +387,13 @@
   {
    "nombre": "Soria",
    "ccaa": "Castilla y León",
+   "nivel": 0,
+   "nivel_txt": "Sin aviso",
+   "zonas": []
+  },
+  {
+   "nombre": "Tarragona",
+   "ccaa": "Cataluña",
    "nivel": 0,
    "nivel_txt": "Sin aviso",
    "zonas": []
@@ -1013,251 +984,6 @@
    {
     "type": "Feature",
     "properties": {
-     "zona": "Litoral sur de Tarragona - Costa",
-     "provincia": "Tarragona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y noroeste de 50 a 60 km/h (fuerza 7).",
-       "desde": "2026-11-22T18:00:00+01:00",
-       "hasta": "2026-11-23T06:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        0.7344,
-        40.6403
-       ],
-       [
-        0.7367,
-        40.6408
-       ],
-       [
-        0.7471,
-        40.6365
-       ],
-       [
-        0.7125,
-        40.5925
-       ],
-       [
-        0.6736,
-        40.5937
-       ],
-       [
-        0.6513,
-        40.5858
-       ],
-       [
-        0.599,
-        40.5748
-       ],
-       [
-        0.6102,
-        40.5594
-       ],
-       [
-        0.651,
-        40.5555
-       ],
-       [
-        0.6813,
-        40.5646
-       ],
-       [
-        0.7092,
-        40.5852
-       ],
-       [
-        0.7512,
-        40.6354
-       ],
-       [
-        0.7692,
-        40.6482
-       ],
-       [
-        0.8426,
-        40.6761
-       ],
-       [
-        0.8777,
-        40.7017
-       ],
-       [
-        0.8887,
-        40.7197
-       ],
-       [
-        0.8753,
-        40.7344
-       ],
-       [
-        0.8648,
-        40.7218
-       ],
-       [
-        0.829,
-        40.736
-       ],
-       [
-        0.7821,
-        40.775
-       ],
-       [
-        0.7637,
-        40.7622
-       ],
-       [
-        0.7298,
-        40.7706
-       ],
-       [
-        0.7105,
-        40.7863
-       ],
-       [
-        0.7008,
-        40.8042
-       ],
-       [
-        0.73,
-        40.8182
-       ],
-       [
-        0.7531,
-        40.8465
-       ],
-       [
-        0.7935,
-        40.867
-       ],
-       [
-        0.8589,
-        40.935
-       ],
-       [
-        0.9185,
-        40.9884
-       ],
-       [
-        0.9676,
-        41.0288
-       ],
-       [
-        0.9904,
-        41.0419
-       ],
-       [
-        1.005,
-        41.0434
-       ],
-       [
-        1.0519,
-        41.0648
-       ],
-       [
-        1.0853,
-        41.064
-       ],
-       [
-        1.1189,
-        41.0742
-       ],
-       [
-        1.3322,
-        40.7648
-       ],
-       [
-        1.3107,
-        40.7514
-       ],
-       [
-        1.3151,
-        40.6878
-       ],
-       [
-        1.3034,
-        40.6247
-       ],
-       [
-        1.2762,
-        40.5645
-       ],
-       [
-        1.2346,
-        40.5092
-       ],
-       [
-        1.18,
-        40.4611
-       ],
-       [
-        1.1145,
-        40.4216
-       ],
-       [
-        1.0712,
-        40.4003
-       ],
-       [
-        1.0424,
-        40.3712
-       ],
-       [
-        1.0105,
-        40.3457
-       ],
-       [
-        0.9103,
-        40.3832
-       ],
-       [
-        0.5504,
-        40.5159
-       ],
-       [
-        0.5163,
-        40.5233
-       ],
-       [
-        0.5394,
-        40.5678
-       ],
-       [
-        0.6038,
-        40.6224
-       ],
-       [
-        0.6644,
-        40.6269
-       ],
-       [
-        0.7048,
-        40.639
-       ],
-       [
-        0.7344,
-        40.6403
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
      "zona": "Litoral sur de Tarragona",
      "provincia": "",
      "nivel": 3,
@@ -1627,111 +1353,6 @@
        [
         1.0387,
         41.1756
-       ]
-      ]
-     ]
-    }
-   },
-   {
-    "type": "Feature",
-    "properties": {
-     "zona": "Litoral norte de Tarragona - Costa",
-     "provincia": "Tarragona",
-     "nivel": 3,
-     "nivel_txt": "Amarillo",
-     "avisos": [
-      {
-       "fenomeno": "CO",
-       "fenomeno_txt": "Fenómenos costeros",
-       "nivel": 3,
-       "severidad": "Amarillo",
-       "descripcion": "Viento del oeste y noroeste de 50 a 60 km/h (fuerza 7).",
-       "desde": "2026-11-22T18:00:00+01:00",
-       "hasta": "2026-11-23T06:59:59+01:00",
-       "probabilidad": "40%-70%",
-       "certainty": "previsto"
-      }
-     ]
-    },
-    "geometry": {
-     "type": "Polygon",
-     "coordinates": [
-      [
-       [
-        1.6464,
-        41.1959
-       ],
-       [
-        1.805,
-        40.9682
-       ],
-       [
-        1.8661,
-        40.8862
-       ],
-       [
-        1.3322,
-        40.7648
-       ],
-       [
-        1.1189,
-        41.0742
-       ],
-       [
-        1.1404,
-        41.0737
-       ],
-       [
-        1.1618,
-        41.0562
-       ],
-       [
-        1.1814,
-        41.0625
-       ],
-       [
-        1.1839,
-        41.076
-       ],
-       [
-        1.1989,
-        41.0932
-       ],
-       [
-        1.2193,
-        41.1058
-       ],
-       [
-        1.2514,
-        41.109
-       ],
-       [
-        1.3009,
-        41.1284
-       ],
-       [
-        1.358,
-        41.1283
-       ],
-       [
-        1.4085,
-        41.1413
-       ],
-       [
-        1.4605,
-        41.1637
-       ],
-       [
-        1.5278,
-        41.1811
-       ],
-       [
-        1.618,
-        41.191
-       ],
-       [
-        1.6464,
-        41.1959
        ]
       ]
      ]
