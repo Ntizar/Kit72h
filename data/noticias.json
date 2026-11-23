@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-23T01:11:01+01:00",
+  "actualizado": "2026-11-23T04:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,14 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Kit de emergencia para 72 horas: guía para sobrevivir a una urgencia",
+     "url": "https://www.msn.com/es-mx/noticias/otras/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
+     "fuente": "Debate on MSN",
+     "resumen": "Contar con un kit de emergencia para 72 horas puede marcar la diferencia ante desastres naturales o situaciones de riesgo. Saber qué incluir y cómo organizarlo es clave para proteger a tu familia.",
+     "fecha": "2026-11-22T17:23:00+01:00",
+     "fecha_txt": "22 nov"
+    },
     {
      "titulo": "La UE lo hace oficial y recomienda a los canarios estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
      "url": "https://www.laprovincia.es/canarias/2026/11/21/ue-oficial-recomienda-canarios-preparados-kit-emergencia-dv-136680241.html",
@@ -66,14 +74,6 @@
      "resumen": "",
      "fecha": "2026-11-19T09:00:00+01:00",
      "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
-     "fuente": "Computer Hoy",
-     "resumen": "",
-     "fecha": "2026-11-19T05:15:00+01:00",
-     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -99,7 +99,7 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "Declarado un incendio forestal en Añón de Moncayo (Zaragoza): los bomberos ya están desplegados en la zona",
+     "titulo": "Los bomberos controlan el incendio forestal declarado en Añón del Moncayo (Zaragoza) pegado al parque natural",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRW1iT0RlV0ljamxubFNGR1doNTdGQk9aVGF6Zkx5dmp2V2IzbkdFa3Q2Y3pvMGhuOHY4b1pjcWphX215ODRMQnBuNWZIRUxQT0dpb1R5Z3haZkdmSDZ6eDNSR1VRTDJsUkg4bHZtVlJFaFRJeXVLVjI3UWxsbmE5VC00RkduVmhxOTBqY01OV0ZhQ0xTd3h5bTl3VVgwakhnNGlPdU5oT3FPYUUtSk12RHJmbVNtSjZwZVVxVzNXVlIzV0NETldqaFZMNVJVUWxFR2R0MjRYX0J3LTZCRnFR0gHkAUFVX3lxTE1kOXFPMHJjanpHZndOLXlLaktDWkUzTWFFSGZqeDNOM2hZdjkwQ2NyYjlsRzNmbENDVnZiOFctZmNkbnR3eUpfaGZfdlctMm1ZS0JYQUFrWW1pdU9zN2xSWkZJRnJKVU84bGlRajNzcHBVd3o1M1hyS2FJMmdKRW9TLTM5MkhyZFU1V2pvMnc5NVctVXhuTDkwN0JGaUYzYWZWdlNLVFNQeGZYSXdhZnFZSzdCa0FFMV9uNmVFOF96VjVaTUFoQ1Vsdk5KUUNycHpZRFlYQ2JLZTdkZHVCZ00tcWNuTQ?oc=5",
      "fuente": "El Español",
      "resumen": "",
