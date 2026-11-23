@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-23T10:11:01+01:00",
+  "actualizado": "2026-11-23T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,30 +11,6 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
-    {
-     "titulo": "La Unión Europea insta a los países a ayudar a la población a prepararse para las primeras 72 horas de una crisis",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2x5YmlGMkF3SXliMFFCTDNQbDlLdmZOZGR6TFRCdWsxMlNVanB1OFZja2JVMldoeldETThaM2F5dldRZXloRjhPMU95UmV0ZlEzMDdsOThJdDN4aXNmdk5oNmdlSWd6MXdPVFJmVFZ0Z2lKbktpU0docVhPYVFnZTAtWGgyWTBmSmw2d2ZDeEE2Y01YSHV4WWdrd0xCSWhMd0trd2xrUldFdmNxM1JDRjJjMEdGXzRCTG1BQU1yR0ZFRkJhWkxvMmYwY2pZZGl3bnBoUkFLTXB0NVVtSGUwSzdRUmhYZERYTGZocFJ6V3B2YWMtb3ZLNDFERVN2TWFaMGZydEE3UQ?oc=5",
-     "fuente": "The Portugal News",
-     "resumen": "",
-     "fecha": "2026-11-23T00:48:45+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "Por qué tantos países están advirtiendo repentinamente a sus ciudadanos que se preparen para una emergencia y almacenen suministros esenciales de supervivencia",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVEzbnhleEpmMHkyY0Vtal9JUkhPQVU2cUhwM0NsWEc5Ni1vTWp0SnY3M2s5VmVUVnJObTFmc3FHOHFhNjV2U3lQWU5WZTdmTWVsMTRMTlN2TDdrbU5sMGxJR3Vvczg0RnFGUS1wcC04VnVUdUxqcWRNRmdFTlFLdDJUR25qQQ?oc=5",
-     "fuente": "Bitfinanzas",
-     "resumen": "",
-     "fecha": "2026-11-22T21:57:07+01:00",
-     "fecha_txt": "22 nov"
-    },
-    {
-     "titulo": "Kit de emergencia para 72 horas: guía para sobrevivir a una urgencia",
-     "url": "https://www.msn.com/es-mx/noticias/other/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
-     "fuente": "Debate on MSN",
-     "resumen": "Contar con un kit de emergencia para 72 horas puede marcar la diferencia ante desastres naturales o situaciones de riesgo. Saber qué incluir y cómo organizarlo es clave para proteger a tu familia.",
-     "fecha": "2026-11-22T17:23:00+01:00",
-     "fecha_txt": "22 nov"
-    },
     {
      "titulo": "La UE lo hace oficial y recomienda a los canarios estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNk1XNHp5Z2dfX2hEeTdEbWFCLWpCclNMZ2VCWnRmdzdTcXFmT0lJVTVwNnh3WldzQzlfSV9GMUc2dUg3MlJGZTBRVndjeHpTUzdsTGxUSE0wX3BGZU5Cc2tQVzI2Y2pOQkJZVkZRb2VybGJzb0Q1MlhnUTkxWFp3MzJDQVdHUUMxeWdpaUhXX0JaLThTdm9GOWxwd1dXY1pUMjUyNjVSbUNpeDZQbkJkV2p3SmdaVDV1U3dwY1hn0gHDAUFVX3lxTE80ckc3bUZLTFljSWR1bWFKbHFCVzliRjFodGJQU1pjXzZIUjdiZTdaRWU1elZPcmhvczZkMEZjVU9CNGpZSmwzQTlGaXRwWHFRVlF3ZmZtbkQyUUR4NU5lNHo3anpyN3laMDRiUjBpVDd2SThiRDl1WEZjY1czQ3g3NzQyUk1PdldwWFlFYi1rMEQ0YjdpZ0N0SmJ5cjh0NTh6aXVQdGJaVDFWdzRFWVJMRFVrUlFGamhld2dTTng0cFZIaw?oc=5",
@@ -74,6 +50,30 @@
      "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
      "fecha": "2026-11-20T02:30:00+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-19T11:00:06+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
+     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
+     "fuente": "Portugal Resident",
+     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
+     "fecha": "2026-11-19T09:34:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
+     "titulo": "Kit de emergencia 72h recomendado por la UE: Todo lo que necesitas saber",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zbEJqTk5PM2VXbUdFQjVwQmtBMXVEeGlDeGxHU1pEc1ZDbUVOZmtOZlIwLVk1a1dGcXZ2dkJsQ2dYTTl3TFRFcTlrSG9QR21QbEZSa045Zy04UVJ6OWRURjhEendTbks4QklRR0RIU1V6NUVLSEtv?oc=5",
+     "fuente": "PcComponentes",
+     "resumen": "",
+     "fecha": "2026-11-19T09:00:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -83,11 +83,11 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Declarado un incendio en la península de Formentor, al noreste de Mallorca",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalExV0JNN24wUXhDV1NpdlVvNUw5T05ET1lZRWxOVUJhRFZvSV9UTWM1NzNuUkZMVUdGTVFnVHVnbkxhMVJUWGhQM2JHZGxDT0tJQ2pSSGNqWkNja1JUV1lLS0RTNENFM2dsTEJhTVJfb3NHVWVDX0QwamNYMFUzRml4c1BKRFY4M3ZTczliNGhxNVF1VjZrVGxjOWhyZWRFUFM1VkNQVlFvTEVmSUxadGFObUZrRS1ySF9fXzg3dXVYVlnSAd4BQVVfeXFMUGNnTk42MmdnTllWNE5faXRYbm5JQW1NMEVpTUR5SEF5UGFTSFVHaDhuRm1XcTNHa2xJdDhkX3ljUktQOVFCNDhRWVlJMWtTckM0WkRYRlZINm5YSm5oOEpMR0ptbEdMV1NiX09SZHA5OTR6NHcySUxIYjZ4Um4tSEdUblJLOFZmdzdHS0s4RlRXZ1FqYW91RTlyemdwWC1VQktONnk5NWYtR04ya0F4cmRCZHhKckRyMVRFWkd0cFRST2hQQjRDQ3M2cGx1M0lVZnFrd3JZMGswMlZTVGl3?oc=5",
+     "titulo": "El incendio forestal activo en Formentor (Mallorca) supera las 200 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmlmQ1Vzd19tUmkwVzJ5R2JHLWNaNU53MjdNM0FNQk5MUk1ESmltRmt0X25WWWg4VGFWTlVHNEs2WlE1aFdsZW8wU0lrc0tWbjFRQWZaVmxXRENaZng4Z1hwZVR5WW1LZTltUHpoYUJCaGtuRjNQU21UNHRGaVN1Zk5sN2pEX1ZjbXNGRlBFR3RGTkw1dVV6eXF1YlZsM1EyYVdrWGs1NHYyQ3JHQmRwcXBPTXNBYWxTNDRzeEN3aExCb1Z60gHfAUFVX3lxTE5jTm90ZGR2OFpYT25PeWYyZVUxenBMSDlIdFA2V0xFYkl2TEZPUHFialhPUmM1UVpyeGUtaHpZX3hDYkxTejdsaEVuNVRxN0d3T09OWXpsMFRIdWtDUFgwZ21FdC1Rby1ENUNXRl9lcldsbE9wbHpOUEdnQXhjOWUyNDZhblJta2I3d1dHMXR3RkFMdEs2b2ZIWFVrY1Q1TmhPOG9Ud1JHOGt2a0JtZ0pRdi11eHg0LW5Xb1RvTHdNbXhFZzUwdjZRMXdMa3g3Mm50ZDlWRlNKa2lGYk1RR2c?oc=5",
      "fuente": "Infobae",
      "resumen": "",
-     "fecha": "2026-11-23T07:16:00+01:00",
+     "fecha": "2026-11-23T12:33:00+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -97,14 +97,6 @@
      "resumen": "La península de Formentor, al noreste de Mallorca, sufre desde anoche un incendio forestal que continúa activo a primera hora de este lunes, cuando al amanecer se sumarán ...",
      "fecha": "2026-11-23T00:53:00+01:00",
      "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "Un incendio en la península de Formentor (Mallorca) obliga a desplegar 30 dispositivos de emergencias",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEttS1l6YUUzQkxEWHd3TTFDUTR5YXdJZjFwclJpTXdLTFdjbkFVZlYxaGh4bFNZMS00MkJXSUxsT3ozbXd0bHpQQXUxQW5Ga0w3Vm5nd0luN0dVTTFrUElXNkJhbUloVWRNbnpoM0xRN0t6aU9Xc0IwZ2REdFBQVzE4V1lkMUh3SEZQYi1qbS1qaTVtVXJ4VXhIRGdVRjVGN2R0Q1VweTJ0TkVNQ3VGaXNKYXpfbWpfVXY1WGxsTVEtRGlDdDU00gHMAUFVX3lxTE40ZW5PWTYyTDZCeGl1bUlyYmlxWmpVWnVwTHhQYVlDbzFNZkctc1Y1MW8tT1phekV1OHpDTHJHNjQyUkdDR2FVTUxaX2NtSmNVaWdEUXBtVklKNGV0cTdNN01YLU5QVm1VSkhkbjFQS3NHTnkxVUp3MHB3eTRjSU9ya2lOMzJTMHhxU2o4eTQ4UENpWWdodWxkVF9XZHdFMXFSWTRlRU80dUF1Q09WRG1iZFZLMUQxR3locGpmSXVFc0pQM0ZyaExkSWZHcA?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-22T23:20:43+01:00",
-     "fecha_txt": "22 nov"
     },
     {
      "titulo": "Alarma en Mallorca por un incendio forestal en la península de Formentor",
@@ -131,11 +123,19 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "Declarado un incendio forestal en Formentor, Mallorca, que permanece impulsado por fuertes rachas de viento: \"Eviten acercarse a la zona\"",
-     "url": "https://www.telecinco.es/noticias/sociedad/20261123/incendio-forestal-formentor-mallorca_18_020783407.html",
-     "fuente": "Telecinco",
-     "resumen": "La península de Formentor , al noreste de Mallorca , sufre desde anoche un incendio forestal que continúa activo y se está complicando por las condi ...",
-     "fecha": "2026-11-22T17:00:00+01:00",
+     "titulo": "Un incendio en la península de Formentor (Mallorca) obliga a desplegar 30 dispositivos de emergencias",
+     "url": "https://www.abc.es/espana/baleares/incendio-peninsula-formentor-obliga-desplegar-dispositivos-emergencias-20261122232043-nt.html",
+     "fuente": "ABC",
+     "resumen": "El fuerte viento está ayudando a propagar las llamas y dificulta las labores de la treintena de dispositivos desplazados ...",
+     "fecha": "2026-11-22T15:20:00+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Al menos 41 heridos en el incendio de un edificio en Manresa",
+     "url": "https://www.lasexta.com/noticias/sociedad/menos-12-heridos-incendio-edificio-manresa_202611226b031af3f6da642efef81a55.html",
+     "fuente": "laSexta",
+     "resumen": "El incendio de un edificio en Manresa (Barcelona), que ya ha sido controlado, ha dejado a 12 personas heridas, una de ellas en estado grave, seis en estado menos grave y cinco en estado leve. Además, ...",
+     "fecha": "2026-11-22T09:40:00+01:00",
      "fecha_txt": "22 nov"
     },
     {
@@ -225,12 +225,28 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
+     "fuente": "teleSUR",
+     "resumen": "",
+     "fecha": "2026-11-23T11:41:56+01:00",
+     "fecha_txt": "23 nov"
+    },
+    {
      "titulo": "Sánchez se olvida en su programa de Maricarmen, Ceuta, los ‘nietos’ y el apagón",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORW50Um1GZEg1ZVF6VmY2eTRWcUNYUldVY2JvVU1RcGlqZXFIbzhfY2VUMFE2RlEzajhxQlZvR1pnUWdlaUt2UGdGNWJiQjdVRWRxLXRkMTVTdVRjTjVYU1dYNl81Y1hiQjBWRWQ4eEFZVmZGX2lOM05WaE05WGxNREFn0gGHAUFVX3lxTFA5NURYWVF5cmw2cHFka3pzRUhkNkRjeXMxNGJOR09xZnR2bExQblpPM0hYSFpCeXMyWnVjaUFmRlRHQU1OVXZCTTctQ1NHb19iZHVwZVBXcXJlVW1neDRIS2cxWTNURFl4TXhNaVJyenVqZzFrazNUd24xZWc5UjZBeUtNOTI3cw?oc=5",
      "fuente": "The Objective",
      "resumen": "",
      "fecha": "2026-11-22T05:25:00+01:00",
      "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "La CNMC recorta un 84% los incentivos a Red Eléctrica por su gestión en el año del apagón",
+     "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Una resolución reciente de la Comisión Nacional de los Mercados y la Competencia (CNMC) ha reducido un 84% los incentivos a la retribución del operador ...",
+     "fecha": "2026-11-21T22:25:00+01:00",
+     "fecha_txt": "21 nov"
     },
     {
      "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
@@ -241,20 +257,20 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
-     "fuente": "Diario Área",
-     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
-     "fecha": "2026-11-20T12:55:00+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WdIBqgFBVV95cUxQM0pXbi1uakVodHF5Y3hBdjZXQXlxVndrdHZMWFdNMm1qaVZqSFpyblI1UkNrZFpYV2VJOW5Jb2xlcVNoSXNjSXViT24yMmJpQWE5dF9KZW5vRV9FVGxXaHpmUHJETWpkb1pVV0R0aEM2M3A0YXoxdHVBYWl1ZEdDODNReThyTVRydURsVXA3UTY1VEJ3WXdTU1BIS2tPRnJJN2xtYXRUQUotZw?oc=5",
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
@@ -270,22 +286,6 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:42:06+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaDFRM2VxdkhETi1maVJ6a2dmYmNGWGNEUmRKWjJ0b2JmdXZieUdQcVFzck9uR2FhSXFPVFhyd2M0ODlpbUVZNzl2d1pYQmZkMVN4czFpNThBaUQyTHozbU9JR1BoTE1QRkpQMTF4MlNwS1IyQklrdXpiSzA4a2RCMXNQbW1pdnY4ZlAtamZHUU9hOFA3MHI3OVdLME5sMzBKTGRvZW1vT2JjWS1ESXJPeG9FcDB3QUdI?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T20:05:30+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
      "fecha_txt": "17 nov"
     }
    ]
