@@ -1,7 +1,7 @@
 {
   "_leeme": "Fuente ÚNICA de verdad de los Tracking IDs de Amazon Associates. Si un tag no está aquí, scripts/auditar-tags.py lo marca como ERROR. Ningún tag se escribe a mano en el HTML, el JS ni los datos: se leen de aquí (o de data/mercados.json, que este fichero valida).",
   "actualizado": "2026-11-23",
-  "cuenta": "Amazon Associates — David Antizar (Ntizar)",
+  "cuenta": "Amazon Associates — Kit72h",
   "tags": {
     "ntizar-21": {
       "mercado": "es",
