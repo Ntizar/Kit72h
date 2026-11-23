@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-23T19:11:02+01:00",
+  "actualizado": "2026-11-23T22:11:00+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": "incendios/google/incendio activo evacuados: HTTPError"
+  "aviso": ""
  },
  "temas": [
   {
@@ -12,12 +12,44 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "La Unión Europea insta a los países a ayudar a la población a prepararse para las primeras 72 horas de una crisis",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2x5YmlGMkF3SXliMFFCTDNQbDlLdmZOZGR6TFRCdWsxMlNVanB1OFZja2JVMldoeldETThaM2F5dldRZXloRjhPMU95UmV0ZlEzMDdsOThJdDN4aXNmdk5oNmdlSWd6MXdPVFJmVFZ0Z2lKbktpU0docVhPYVFnZTAtWGgyWTBmSmw2d2ZDeEE2Y01YSHV4WWdrd0xCSWhMd0trd2xrUldFdmNxM1JDRjJjMEdGXzRCTG1BQU1yR0ZFRkJhWkxvMmYwY2pZZGl3bnBoUkFLTXB0NVVtSGUwSzdRUmhYZERYTGZocFJ6V3B2YWMtb3ZLNDFERVN2TWFaMGZydEE3UQ?oc=5",
+     "fuente": "The Portugal News",
+     "resumen": "",
+     "fecha": "2026-11-23T00:48:45+01:00",
+     "fecha_txt": "23 nov"
+    },
+    {
+     "titulo": "Por qué tantos países están advirtiendo repentinamente a sus ciudadanos que se preparen para una emergencia y almacenen suministros esenciales de supervivencia",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVEzbnhleEpmMHkyY0Vtal9JUkhPQVU2cUhwM0NsWEc5Ni1vTWp0SnY3M2s5VmVUVnJObTFmc3FHOHFhNjV2U3lQWU5WZTdmTWVsMTRMTlN2TDdrbU5sMGxJR3Vvczg0RnFGUS1wcC04VnVUdUxqcWRNRmdFTlFLdDJUR25qQQ?oc=5",
+     "fuente": "Bitfinanzas",
+     "resumen": "",
+     "fecha": "2026-11-22T21:57:07+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Kit de emergencia para 72 horas: guía para sobrevivir a una urgencia",
+     "url": "https://www.msn.com/es-mx/noticias/other/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
+     "fuente": "Debate on MSN",
+     "resumen": "Contar con un kit de emergencia para 72 horas puede marcar la diferencia ante desastres naturales o situaciones de riesgo. Saber qué incluir y cómo organizarlo es clave para proteger a tu familia.",
+     "fecha": "2026-11-22T17:23:00+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
      "titulo": "La UE lo hace oficial y recomienda a los canarios estar preparados para 72 horas: esto es lo que debe llevar el kit de emergencia",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNk1XNHp5Z2dfX2hEeTdEbWFCLWpCclNMZ2VCWnRmdzdTcXFmT0lJVTVwNnh3WldzQzlfSV9GMUc2dUg3MlJGZTBRVndjeHpTUzdsTGxUSE0wX3BGZU5Cc2tQVzI2Y2pOQkJZVkZRb2VybGJzb0Q1MlhnUTkxWFp3MzJDQVdHUUMxeWdpaUhXX0JaLThTdm9GOWxwd1dXY1pUMjUyNjVSbUNpeDZQbkJkV2p3SmdaVDV1U3dwY1hn0gHDAUFVX3lxTE80ckc3bUZLTFljSWR1bWFKbHFCVzliRjFodGJQU1pjXzZIUjdiZTdaRWU1elZPcmhvczZkMEZjVU9CNGpZSmwzQTlGaXRwWHFRVlF3ZmZtbkQyUUR4NU5lNHo3anpyN3laMDRiUjBpVDd2SThiRDl1WEZjY1czQ3g3NzQyUk1PdldwWFlFYi1rMEQ0YjdpZ0N0SmJ5cjh0NTh6aXVQdGJaVDFWdzRFWVJMRFVrUlFGamhld2dTTng0cFZIaw?oc=5",
      "fuente": "La Provincia",
      "resumen": "",
      "fecha": "2026-11-21T09:30:42+01:00",
      "fecha_txt": "21 nov"
+    },
+    {
+     "titulo": "Carlos Vico, experto en supervivencia: \"Un kit para 72 horas debe incluir unos 100 euros por persona, una power bank para recargar el teléfono móvil, una radio FM a pilas y un hornillo de gas pequeño\"",
+     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTno0SGo3LWtFc09aZXRNQVBWcmR0cFJaUGVCRW04RnFjZTJ2OVJDRlJzZFZnbVpRbDJ3Mi1BZFZvV3puZFNuZnlRcFNEY3ROemxEcnJpUWVsS2hENmNFOWotMEJTWGpRSmFqR1plNmV4RXZkSFh4YWZrUVhLWkxVN1FWTEd5cFRSZHhBWExZVEI1c19TTDM2SEdrcTI1VkNUNXRMRnhKNlFyVnJMZkgtMFJTR3BWYmFTejFpcUlqVWdiMXY2dGlwbTl5UnJmRUZ5WlZfX3VCX0NtWUlUeVkxd1BmS21aZlpfVlNjb1NER0hTSUtBV1I4US16SzQ1Qjg1RVdxd2lHYjhiMkdsaXNXYVJtc3NMWGp6dUFQcDI4ZFIzX253cHFOZGl1alNsdWd5dGZLbkMwc1lkd0dQVXItQVpVVlA3RHlEMENz0gHQAkFVX3lxTE0xa0xrNndtYjkwSm94TUNOOWtWY1dGd3lqRTktd0t1YV96YS1mUW9hZkgwNjBsVFBXNnY3d0tkSmdKNEJVVHlBYkFITHUydzJuQ2lLSl9Vd21LdTl1dmFfSEczYUJScVdsVDFROUYtUElacTgydjh1em5RYmsyX2NCeWVoNTBNdXYxV3lHajZlaklXX25TSFFpTUJ6Mi1PMkltWnFXeE42U0ZHQ3NkZ2REemVRVS1NQjNwZnRYN0syTDhrZVNLU3lEUzA1MG8wdlVkQkNxU0ZWRThEbDR6TTd0Tk4zU25HemNKQzdaaHVscm1GVmJHWUFqVjFBMWdIQUtlSkV0WmFMWGRvZ1JjanNMX3dSRjVJNmVWcG9oWnhkSkdBN0NMa1VjSUZlYzNNOHA5aWJyWTVKR21SVDhHelBzSV9YeTNJZ2FGR0MtTWdjVw?oc=5",
+     "fuente": "COPE",
+     "resumen": "",
+     "fecha": "2026-11-20T19:10:18+01:00",
+     "fecha_txt": "20 nov"
     },
     {
      "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
@@ -36,44 +68,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Carlos Vico, experto en supervivencia: \"Un kit para 72 horas debe incluir unos 100 euros por persona, una power bank para recargar el teléfono móvil, una radio FM a pilas y ...",
-     "url": "https://www.cope.es/programas/poniendo-las-calles/audios/carlos-vico-experto-supervivencia-kit-72-horas-debe-incluir-100-euros-persona-power-bank-recargar-telefono-movil-radio-fm-pilas-hornillo-gas-pequeno-20261120_3479484.html",
-     "fuente": "COPE",
-     "resumen": "El especialista detalla en 'Poniendo las Calles' los elementos imprescindibles para afrontar imprevistos y recuerda la importancia de ...",
-     "fecha": "2026-11-20T12:06:00+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
      "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
      "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
      "fuente": "EL PAÍS",
      "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
      "fecha": "2026-11-20T02:30:00+01:00",
      "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://www.portugalresident.com/es/La-Cruz-Roja-portuguesa-lanza-un-nuevo-kit-de-emergencia./",
-     "fuente": "Portugal Resident",
-     "resumen": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia: todo lo esencial para las primeras 72 horas de una catástrofe u otra emergencia.",
-     "fecha": "2026-11-19T09:34:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Kit de emergencia 72h recomendado por la UE: Todo lo que necesitas saber",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zbEJqTk5PM2VXbUdFQjVwQmtBMXVEeGlDeGxHU1pEc1ZDbUVOZmtOZlIwLVk1a1dGcXZ2dkJsQ2dYTTl3TFRFcTlrSG9QR21QbEZSa045Zy04UVJ6OWRURjhEendTbks4QklRR0RIU1V6NUVLSEtv?oc=5",
-     "fuente": "PcComponentes",
-     "resumen": "",
-     "fecha": "2026-11-19T09:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://www.msn.com/es-es/noticias/other/la-uni%C3%B3n-europea-pide-a-sus-ciudadanos-tener-listo-este-kit-de-emergencia-para-poder-sobrevivir-de-forma-aut%C3%B3noma-durante-72-horas/ar-AA2hKkbH",
-     "fuente": "Computer Hoy on MSN",
-     "resumen": "Bruselas pide a los ciudadanos europeos preparar un kit básico con agua, comida, efectivo y medicinas para sobrevivir durante 3 días completos sin ayuda ante una crisis, Te preguntarás, ¿por qué 72 ho ...",
-     "fecha": "2026-11-18T21:15:00+01:00",
-     "fecha_txt": "18 nov"
     }
    ]
   },
@@ -123,11 +123,19 @@
      "fecha_txt": "23 nov"
     },
     {
-     "titulo": "El incendio de Formentor ha quemado ya más de 200 hectáreas mientras se refuerzan las labores áreas de extinción",
+     "titulo": "El incendio de Formentor ha quemado ya más de 250 hectáreas mientras se refuerzan las labores áreas de extinción",
      "url": "https://www.elmundo.es/baleares/2026/11/23/6b0439a0e9cf4ac8208b459a.html",
      "fuente": "EL MUNDO",
      "resumen": "El incendio forestal declarado este domingo en la península de Formentor quema ya más de 200 hectáreas, principalmente de carrizo, según han confirmado este lunes desde ...",
      "fecha": "2026-11-23T07:05:00+01:00",
+     "fecha_txt": "23 nov"
+    },
+    {
+     "titulo": "El incendio forestal en Formentor afecta a más de 280 hectáreas, aunque su evolución es favorable",
+     "url": "https://www.rtve.es/noticias/20261123/incendio-forestal-formentor-evolucion-favorable-noche-complicada-viento/17326130.shtml",
+     "fuente": "RTVE",
+     "resumen": "Un incendio forestal sigue activo desde la noche del domingo en la península de Formentor, en la isla de Mallorca. Su evolución se ha declarado favorable y de gravedad potencial 1, según ha informado ...",
+     "fecha": "2026-11-23T04:44:00+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -137,14 +145,6 @@
      "resumen": "Palma (EFE).- El incendio forestal declarado anoche en la península de Formentor, al noreste de Mallorca, continúa activo y ha afectado a una superficie estimada de más de 200 hectáreas, aunque la ...",
      "fecha": "2026-11-23T04:26:00+01:00",
      "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "El incendio de Formentor quema ya más de 200 hectáreas",
-     "url": "https://www.msn.com/es-es/noticias/other/el-incendio-de-formentor-quema-ya-m%C3%A1s-de-200-hect%C3%A1reas/ar-AA2i1DdZ",
-     "fuente": "Europa Press on MSN",
-     "resumen": "PALMA, 23 (EUROPA PRESS) El incendio forestal declarado este domingo en la península de Formentor quema ya más de 200 hectáreas, según han confirmado este lunes desde el punto de mando avanzado la pre ...",
-     "fecha": "2026-11-23T04:15:00+01:00",
-     "fecha_txt": "23 nov"
     }
    ]
   },
@@ -153,14 +153,6 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
-    {
-     "titulo": "Casi 100 millones del Gobierno para reparar caminos y daños de las inundaciones en 110 pueblos de Extremadura",
-     "url": "https://www.eldiario.es/extremadura/sociedad/100-millones-gobierno-reparar-caminos-danos-inundaciones-110-pueblos-extremadura_1_13686029.html",
-     "fuente": "elDiario.es",
-     "resumen": "La secretaria de Estado Begoña García Bernal detalla que 105 municipios ya tienen listas las memorias valoradas, pero 412 permisos pendientes frenan parte de las obras, mientras los alcaldes de Alconc ...",
-     "fecha": "2026-11-23T05:35:00+01:00",
-     "fecha_txt": "23 nov"
-    },
     {
      "titulo": "Una nueva rotura de tubería causa inundaciones en Los Rosales, en Tocina (Sevilla)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hyY0VONktjdE5RRFJRaUprVkRMRW1KQU5Mc0NnMmlpeFp6QWNaMnExLWZvR0I5M0RoZjVpV2xJblVPemRhQ0ljcWppZzByRlN2WW1pN2FweUk1VklxakI3NFBFMVlxU2FYck14Smp4MHFPNlJkNkR5SU54YjcxU2hWQ2xYQjRYYjJhX1R4Vk53NGh5ZUpGSVlBVm5EYllqemRTZUNB0gGrAUFVX3lxTE9tVEhnaGF4MFJHQnpMUlQxRGlOZWJsanRza21Da2FVaUhrMEVIczdBMkgwUVhXNkxfOElJY1RWM082Mm1fdnMxSnVBUkFkN2g5aFdRbmFjSXowLUt2dXduQ2tyQVJnd0tIVDBoNEVibl9TRmtpTkZSNHhEdjJyaFBVYzhraEZBTzdsdzRnUjJVeW92SzhhWk9PY0RHc3NvYVBzX1d0UG5ja25pTQ?oc=5",
@@ -194,14 +186,6 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "Las dos alertas de Galicia en 15 días: de la sequía al aviso por inundaciones",
-     "url": "https://www.elconfidencial.com/espana/galicia/2026-11-21/de-la-sequia-a-la-inundacion_4468629/",
-     "fuente": "El Confidencial",
-     "resumen": "De la amenaza de los cortes de agua a la prealerta por precipitaciones en solo dos semanas. Las lluvias intensas han dado la vuelta a la sequía, pero los niveles aún son bajos en el norte gallego ...",
-     "fecha": "2026-11-21T12:39:00+01:00",
-     "fecha_txt": "21 nov"
-    },
-    {
      "titulo": "España aprueba medidas urgentes tras las inundaciones de octubre",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaERfWjdzckx6V0tsRUVsQmJTRVpYdDZlZi1fcVJpSllhWldRMnd3bGd0c2VVZ290YzJaeUdlMEFSemdUVEdScGZZWmJ6dUJyWDN1QVM1UVZTbnFWMnJpcy1ob0dJelVyejhoT3g4U1FCdE5uQWhVdlNTLTUwOUhDSFBTeUdyQWM?oc=5",
      "fuente": "Columna Digital",
@@ -210,11 +194,27 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Arrancan las obras para reparar el cauce del río Girona tras la dana Adam",
+     "url": "https://diariodealicante.net/reparacion-rio-girona-dana-adam-alicante/",
+     "fuente": "Diario de Alicante",
+     "resumen": "La Confederación ha comenzado a limpiar y asegurar el cauce del río Girona en varios municipios de Alicante y Valencia tras la dana Adam, con obras de emergencia previstas por 3 millones de euros.",
+     "fecha": "2026-11-17T05:59:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-17T05:30:01+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
+     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
+     "fuente": "Cambio16",
+     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
+     "fecha": "2026-11-17T02:15:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
@@ -241,14 +241,6 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "La CNMC recorta un 84% los incentivos a Red Eléctrica por su gestión en el año del apagón",
-     "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
-     "fuente": "THE OBJECTIVE",
-     "resumen": "Una resolución reciente de la Comisión Nacional de los Mercados y la Competencia (CNMC) ha reducido un 84% los incentivos a la retribución del operador ...",
-     "fecha": "2026-11-21T22:25:00+01:00",
-     "fecha_txt": "21 nov"
-    },
-    {
      "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk3SAYQCQVVfeXFMTlk0R20tS0tHVTdaMlIyNURrNG40Y2dIMDAta3F0NVVXem5HY0tPb2d1WnNOdGRXdkJxbG9zQ21GaVZVVDJIR1BBR0dVWHc2UE5tbFoxeEZVMy1WS1NTY0tBSEc2b0RPTzVsOU1qSElBeFVMQ1Z0LTJLMDloaUlzb0VlX2FWdnp1ZUFkVWl3SUd1ZWtGV2lmeU5ncXZEWVJwME1DVlhJS05nMDZPZXpidFk4RElVSHJDQ3djaC00bWE0blVnOEhGdW1xbThrUGpPQmxOUjJzV0dGT3NBT0pSUXhLM1ktVVhSTFNkRS10LUtLMzJOZ0tpazBaLU5aWXdNSURRci0?oc=5",
      "fuente": "OkDiario",
@@ -257,20 +249,20 @@
      "fecha_txt": "21 nov"
     },
     {
+     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
+     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
+     "fuente": "Diario Área",
+     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
+     "fecha": "2026-11-20T12:55:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeklXNXpRTHZReFVlX1hSNzNWZ1NfUHpJU3ZVZFgycW83Z3JGTGJ1RU5udkFCQlo1a3YxSGg3LWJFbVdCWUswMHR4WGNHZEttNmhtSTM4QmFnazFGWlAxYlNnR2I1ajhEVVpHa3p0QV81X0NVb1RQZjBTTDFvcGdPUTlsSG0wQXNXWUxxeWxialBSb0NDQ0JUWkdSendhVkVHcXc3WdIBqgFBVV95cUxQM0pXbi1uakVodHF5Y3hBdjZXQXlxVndrdHZMWFdNMm1qaVZqSFpyblI1UkNrZFpYV2VJOW5Jb2xlcVNoSXNjSXViT24yMmJpQWE5dF9KZW5vRV9FVGxXaHpmUHJETWpkb1pVV0R0aEM2M3A0YXoxdHVBYWl1ZEdDODNReThyTVRydURsVXA3UTY1VEJ3WXdTU1BIS2tPRnJJN2xtYXRUQUotZw?oc=5",
      "fuente": "Faro de Vigo",
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
-     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
-     "fuente": "THE OBJECTIVE",
-     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
-     "fecha": "2026-11-19T02:26:00+01:00",
-     "fecha_txt": "19 nov"
     },
     {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
@@ -286,6 +278,14 @@
      "fuente": "El Pespunte",
      "resumen": "",
      "fecha": "2026-11-17T20:42:06+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://www.elpespunte.es/entretenimiento/ira-luz-hoy-espana-verdad-supuesto-apagon-mundial/20261117200530162932.html",
+     "fuente": "El Pespunte",
+     "resumen": "¿Habrá apagón en España hoy 17 de noviembre? Descubre qué ocurrirá a las 20:20, el origen del rumor de las 72 horas y qué dicen las fuentes oficiales.",
+     "fecha": "2026-11-17T13:05:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
