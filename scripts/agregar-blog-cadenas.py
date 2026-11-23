@@ -42,11 +42,11 @@ CUERPO = """
 <table>
 <thead><tr><th>Tipo</th><th>Cuándo compensa</th><th>Límite</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/s?k=cadenas+nieve+coche&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Cadenas metálicas de eslabón ↗</a></td><td>La referencia: válidas en cualquier tramo con señal, duran años</td><td>30 km/h</td><td>30-80 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=cadenas+nieve+enganche+rapido&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Cadenas con sujeción rápida (tensor) ↗</a></td><td>Se ponen en la mitad de tiempo y con las manos frías: mismas normas, montaje más cómodo</td><td>30 km/h</td><td>50-130 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=calcetines+nieve+coche&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Calcetines textiles ↗</a></td><td>Se ponen en un minuto y sin mancharse; valen donde la vía admite dispositivos textiles</td><td>50 km/h</td><td>20-55 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=neumatico+invierno+3pmsf&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Neumáticos de invierno 3PMSF ↗</a></td><td>Zona nevada o salidas de fin de semana cada semana: sustituyen a las cadenas donde la señal lo exige</td><td>Según neumático</td><td>60-120 € por rueda</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=neumatico+all+season&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Neumáticos todo tiempo (all-season) ↗</a></td><td>Sin cambio de temporada; en nieve repetida rinden menos que un invierno de verdad</td><td>Según neumático</td><td>70-140 € por rueda</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=cadenas+nieve+coche&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Cadenas metálicas de eslabón ↗</a></td><td>La referencia: válidas en cualquier tramo con señal, duran años</td><td>30 km/h</td><td>30-80 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=cadenas+nieve+enganche+rapido&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Cadenas con sujeción rápida (tensor) ↗</a></td><td>Se ponen en la mitad de tiempo y con las manos frías: mismas normas, montaje más cómodo</td><td>30 km/h</td><td>50-130 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=calcetines+nieve+coche&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Calcetines textiles ↗</a></td><td>Se ponen en un minuto y sin mancharse; valen donde la vía admite dispositivos textiles</td><td>50 km/h</td><td>20-55 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=neumatico+invierno+3pmsf&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Neumáticos de invierno 3PMSF ↗</a></td><td>Zona nevada o salidas de fin de semana cada semana: sustituyen a las cadenas donde la señal lo exige</td><td>Según neumático</td><td>60-120 € por rueda</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=neumatico+all+season&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Neumáticos todo tiempo (all-season) ↗</a></td><td>Sin cambio de temporada; en nieve repetida rinden menos que un invierno de verdad</td><td>Según neumático</td><td>70-140 € por rueda</td></tr>
 </tbody>
 </table>
 
@@ -116,9 +116,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 assert 'rel="sponsored nofollow noopener"' in cuerpo, "sin rel sponsored"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"

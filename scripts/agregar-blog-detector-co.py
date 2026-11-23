@@ -47,23 +47,23 @@ CUERPO = """
 <table>
 <thead><tr><th>Tipo</th><th>Cuándo compensa</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/s?k=detector+de+monoxido+de+carbono+pilas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Básico a pilas con alarma acústica ↗</a></td><td>Primera compra, vivienda alquilada, dormitorio</td><td>20-30 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=detector+co+con+pantalla&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Con pantalla de concentración (ppm) ↗</a></td><td>Casa con estufa, leña, chimenea o butano</td><td>30-45 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+bateria+10+anos&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Batería sellada de 10 años ↗</a></td><td>Dormitorio y pasillo: se coloca y se olvida</td><td>30-50 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=detector+humo+y+monoxido+carbono&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Combinado humo + CO ↗</a></td><td>Un solo aparato para los dos riesgos del apagón</td><td>40-70 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+alarma+sonora+fuerte&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Con aviso al móvil o interconectado ↗</a></td><td>Casa grande, varios pisos, ausencias</td><td>50-90 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+caravana+autocaravana&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Para autocaravana, caravana o velero ↗</a></td><td>Uso en movimiento, pilas y rango de temperatura amplio</td><td>30-60 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+de+monoxido+de+carbono+pilas&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Básico a pilas con alarma acústica ↗</a></td><td>Primera compra, vivienda alquilada, dormitorio</td><td>20-30 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+co+con+pantalla&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Con pantalla de concentración (ppm) ↗</a></td><td>Casa con estufa, leña, chimenea o butano</td><td>30-45 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+bateria+10+anos&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Batería sellada de 10 años ↗</a></td><td>Dormitorio y pasillo: se coloca y se olvida</td><td>30-50 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+humo+y+monoxido+carbono&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Combinado humo + CO ↗</a></td><td>Un solo aparato para los dos riesgos del apagón</td><td>40-70 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+alarma+sonora+fuerte&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Con aviso al móvil o interconectado ↗</a></td><td>Casa grande, varios pisos, ausencias</td><td>50-90 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=detector+monoxido+carbono+caravana+autocaravana&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Para autocaravana, caravana o velero ↗</a></td><td>Uso en movimiento, pilas y rango de temperatura amplio</td><td>30-60 €</td></tr>
 </tbody>
 </table>
 
 <h2>3. Ganadores por categoría</h2>
 
 <ul>
-<li><strong>Mejor relación calidad-precio:</strong> el básico a pilas con sensor electroquímico. Si solo compras uno, es este: <a href="https://www.amazon.es/s?k=detector+de+monoxido+de+carbono+pilas&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver detectores de CO a pilas ↗</a>.</li>
-<li><strong>Mejor para el dormitorio:</strong> batería sellada de 10 años, sin cambios de pila y con piloto de fin de vida: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+bateria+10+anos&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver modelos con batería de larga duración ↗</a>.</li>
-<li><strong>Mejor con estufa o leña:</strong> con pantalla de ppm, para ver si la concentración sube antes de que suene: <a href="https://www.amazon.es/s?k=detector+co+con+pantalla&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver detectores con pantalla ↗</a>.</li>
-<li><strong>Mejor casa con apagón previsto:</strong> combinado humo + CO: en un apagón conviven velas, estufas y generador, y el humo y el CO llegan juntos: <a href="https://www.amazon.es/s?k=detector+humo+y+monoxido+carbono&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver detectores combinados ↗</a>. Cuidado con la confusión de siempre: <strong>un detector de humo no detecta monóxido ni al revés</strong>.</li>
-<li><strong>Mejor autocaravana o furgón:</strong> modelo específico para vehículos, con alimentación a pilas: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+caravana+autocaravana&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver detectores para caravana ↗</a>.</li>
+<li><strong>Mejor relación calidad-precio:</strong> el básico a pilas con sensor electroquímico. Si solo compras uno, es este: <a href="https://www.amazon.es/s?k=detector+de+monoxido+de+carbono+pilas&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver detectores de CO a pilas ↗</a>.</li>
+<li><strong>Mejor para el dormitorio:</strong> batería sellada de 10 años, sin cambios de pila y con piloto de fin de vida: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+bateria+10+anos&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver modelos con batería de larga duración ↗</a>.</li>
+<li><strong>Mejor con estufa o leña:</strong> con pantalla de ppm, para ver si la concentración sube antes de que suene: <a href="https://www.amazon.es/s?k=detector+co+con+pantalla&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver detectores con pantalla ↗</a>.</li>
+<li><strong>Mejor casa con apagón previsto:</strong> combinado humo + CO: en un apagón conviven velas, estufas y generador, y el humo y el CO llegan juntos: <a href="https://www.amazon.es/s?k=detector+humo+y+monoxido+carbono&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver detectores combinados ↗</a>. Cuidado con la confusión de siempre: <strong>un detector de humo no detecta monóxido ni al revés</strong>.</li>
+<li><strong>Mejor autocaravana o furgón:</strong> modelo específico para vehículos, con alimentación a pilas: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+caravana+autocaravana&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver detectores para caravana ↗</a>.</li>
 </ul>
 
 <p>Si el presupuesto es muy justo, la prioridad no es el detector: es <strong>ventilar y no calentar con combustión dentro de casa</strong>. Con eso y una linterna bien elegida ya vas cubierto — la selección está en <a href="/blog/mejor-estufa-sin-luz-apagon/">mejor estufa sin luz</a> y en <a href="/blog/temperatura-sin-electricidad/">mantener la temperatura sin electricidad</a>.</p>
@@ -132,9 +132,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"
 for m in internos:

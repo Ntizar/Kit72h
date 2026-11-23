@@ -50,7 +50,7 @@ NO_AFILIADO = (
 )
 DOMINIO_RE = re.compile(r"(?:^|\.)amazon\.[a-z]{2,3}(?:\.[a-z]{2})?$|amzn\.(?:to|eu)$|a\.co$", re.I)
 
-# formato de Tracking ID de Associates (p.ej. kit72h-blog-21, onamzntizar-21)
+# formato de Tracking ID de Associates (p.ej. kit72h-21, onamzntizar-21)
 TAG_RE = re.compile(r"^[a-z0-9][a-z0-9\-_]{2,29}-\d{2}$")
 
 # carpetas que no son sitio publicado ni fuentes del sitio
@@ -88,7 +88,7 @@ def cargar_registro():
 
 def tag_vale_en(meta, host):
     """¿Este Tracking ID acredita en esta tienda?
-    - Tag de marketplace: solo en SU dominio (ntizar-21 en amazon.es).
+    - Tag de marketplace: solo en SU dominio (kit72h-21 en amazon.es).
     - Tag internacional/OneLink: en los dominios que declare (onamz… en .com/.de/.fr…),
       nunca en amazon.es, que tiene programa propio."""
     doms = meta.get("dominios")
@@ -247,6 +247,8 @@ def auditar_registro(registro):
         if not amz.get("tagPendiente") and not asignados:
             add("E6", f"mercado {m.get('id')}: sin tag y no está marcado como pendiente")
     for t in registro["tags"]:
+        if (registro["tags"][t] or {}).get("retirado"):
+            continue          # ID retirado a propósito: sigue existiendo en Amazon, no en el sitio
         if not vistos[t]:
             hallazgos.append({"nivel": "AVISO", "codigo": "W4", "origen": "data/mercados.json",
                               "zona": "registro", "url": "data/tags-afiliado.json",

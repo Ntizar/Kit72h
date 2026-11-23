@@ -43,12 +43,12 @@ CUERPO = """
 <table>
 <thead><tr><th>Tipo</th><th>Cuándo compensa</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/s?k=mini+ups+dc+router+ont&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mini-UPS de CC para router y ONT ↗</a></td><td>Solo comunicación: lo más barato y lo que más horas da</td><td>30-60 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=sai+ups+650va+line+interactive&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">SAI offline de 400-650 VA ↗</a></td><td>Primer PC de sobremesa o tele + router</td><td>45-80 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=sai+ups+1500va+line+interactive+avr&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Line-interactive de 1.000-1.500 VA con AVR ↗</a></td><td>Ordenador de trabajo con monitor y periféricos</td><td>70-140 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=sai+online+doble+conversion+1500va&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Online de doble conversión ↗</a></td><td>Equipo que no puede permitirse ni una microinterrupción</td><td>200-500 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=sai+ups+con+bateria+externa&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">SAI con baterías externas ampliables ↗</a></td><td>Quieres horas, no minutos: autonomía ampliable a mano</td><td>150-400 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=sai+ups+3000va+casa+completa&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">SAI de 2.000-3.000 VA ↗</a></td><td>Varios equipos a la vez y cuadro eléctrico pequeño</td><td>180-350 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mini+ups+dc+router+ont&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mini-UPS de CC para router y ONT ↗</a></td><td>Solo comunicación: lo más barato y lo que más horas da</td><td>30-60 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=sai+ups+650va+line+interactive&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">SAI offline de 400-650 VA ↗</a></td><td>Primer PC de sobremesa o tele + router</td><td>45-80 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=sai+ups+1500va+line+interactive+avr&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Line-interactive de 1.000-1.500 VA con AVR ↗</a></td><td>Ordenador de trabajo con monitor y periféricos</td><td>70-140 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=sai+online+doble+conversion+1500va&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Online de doble conversión ↗</a></td><td>Equipo que no puede permitirse ni una microinterrupción</td><td>200-500 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=sai+ups+con+bateria+externa&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">SAI con baterías externas ampliables ↗</a></td><td>Quieres horas, no minutos: autonomía ampliable a mano</td><td>150-400 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=sai+ups+3000va+casa+completa&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">SAI de 2.000-3.000 VA ↗</a></td><td>Varios equipos a la vez y cuadro eléctrico pequeño</td><td>180-350 €</td></tr>
 </tbody>
 </table>
 
@@ -74,11 +74,11 @@ CUERPO = """
 <h2>4. Ganadores por caso</h2>
 
 <ul>
-<li><strong>Router y ONT, lo primero de todo:</strong> mini-UPS de CC, el que más horas da por el precio. Si prefieres SAI convencional, el de <a href="https://www.amazon.es/dp/B07DPWBBDP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">600-900 VA para router y ONT ↗</a> es el punto dulce: aguanta el rato que hace falta y protege además contra el pico de retorno.</li>
-<li><strong>Teletrabajo con portátil:</strong> line-interactive de 1.000-1.500 VA con AVR: <a href="https://www.amazon.es/s?k=sai+ups+1500va+line+interactive+avr&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver SAIs line-interactive ↗</a>. El AVR mantiene la tensión sin gastar batería en los bajones de la tarde.</li>
+<li><strong>Router y ONT, lo primero de todo:</strong> mini-UPS de CC, el que más horas da por el precio. Si prefieres SAI convencional, el de <a href="https://www.amazon.es/dp/B07DPWBBDP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">600-900 VA para router y ONT ↗</a> es el punto dulce: aguanta el rato que hace falta y protege además contra el pico de retorno.</li>
+<li><strong>Teletrabajo con portátil:</strong> line-interactive de 1.000-1.500 VA con AVR: <a href="https://www.amazon.es/s?k=sai+ups+1500va+line+interactive+avr&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver SAIs line-interactive ↗</a>. El AVR mantiene la tensión sin gastar batería en los bajones de la tarde.</li>
 <li><strong>PC de sobremesa que no puede reiniciarse:</strong> online de doble conversión, que alimenta siempre desde baterías: el del <a href="/kit/kit-electricidad/">kit de electricidad</a>.</li>
-<li><strong>Casa donde ya se han ido las luces varias veces:</strong> SAI con baterías externas ampliables: <a href="https://www.amazon.es/s?k=sai+ups+con+bateria+externa&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver modelos ampliables ↗</a>. La única vía para pasar de minutos a horas.</li>
-<li><strong>Si el objetivo es la casa entera:</strong> no es un SAI, es una <a href="https://www.amazon.es/s?k=estacion+de+energia+portatil&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">estación de energía portátil ↗</a> con <a href="/blog/panel-solar-portatil-72h-emergencia/">panel solar</a>: compara antes en <a href="/blog/generador-vs-power-station-comparativa/">generador frente a power station</a>.</li>
+<li><strong>Casa donde ya se han ido las luces varias veces:</strong> SAI con baterías externas ampliables: <a href="https://www.amazon.es/s?k=sai+ups+con+bateria+externa&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver modelos ampliables ↗</a>. La única vía para pasar de minutos a horas.</li>
+<li><strong>Si el objetivo es la casa entera:</strong> no es un SAI, es una <a href="https://www.amazon.es/s?k=estacion+de+energia+portatil&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">estación de energía portátil ↗</a> con <a href="/blog/panel-solar-portatil-72h-emergencia/">panel solar</a>: compara antes en <a href="/blog/generador-vs-power-station-comparativa/">generador frente a power station</a>.</li>
 </ul>
 
 <h2>5. Los cinco errores que más se repiten</h2>
@@ -133,9 +133,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
     assert "rel=\"sponsored nofollow noopener\"" in cuerpo, "sin rel sponsored"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)

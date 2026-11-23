@@ -50,10 +50,10 @@ CUERPO = """
 <h2>Ganador por categoría</h2>
 
 <ul>
-<li><strong>Mejor para un apagón real: la estufa de butano con corte de oxígeno.</strong> No depende de nadie, calienta en minutos y una bombona aguanta varias noches: <a href="https://www.amazon.es/dp/B01M1NCHK8?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">4.200 W con corte automático por falta de oxígeno</a> (unos 84 €). El corte evita que la estufa se apague y siga quemando en una habitación cerrada.</li>
+<li><strong>Mejor para un apagón real: la estufa de butano con corte de oxígeno.</strong> No depende de nadie, calienta en minutos y una bombona aguanta varias noches: <a href="https://www.amazon.es/dp/B01M1NCHK8?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">4.200 W con corte automático por falta de oxígeno</a> (unos 84 €). El corte evita que la estufa se apague y siga quemando en una habitación cerrada.</li>
 <li><strong>Mejor para una casa entera: pellets</strong>, si ya tienes la estufa y el palé. Calienta una planta entera y sale barato por hora, pero casi todas necesitan <strong>enchufe</strong> para el agitador, el ventilador y el encendido: sin luz, no arrancan.</li>
-<li><strong>Mejor combo cocina + calor: el <a href="https://www.amazon.es/dp/B0CRN5KNCT?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">hornillo de butano portátil</a></strong> (20-45 €). No es una estufa, pero calienta agua y comida sin encender la cocina de casa: en tres días de corte amortiza su precio con la primera olla.</li>
-<li><strong>Mejor presupuesto: la opción sin estufa.</strong> Una <a href="https://www.amazon.es/dp/B0CYDF32J3?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">manta térmica de supervivencia</a> (3-8 €), un <a href="https://www.amazon.es/s?k=peto+electrico+reutilizable&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">peto eléctrico reutilizable</a> cuando vuelva la luz y un saco de abrigo aguantan la noche: menos que una bombona, y no puede fallar.</li>
+<li><strong>Mejor combo cocina + calor: el <a href="https://www.amazon.es/dp/B0CRN5KNCT?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">hornillo de butano portátil</a></strong> (20-45 €). No es una estufa, pero calienta agua y comida sin encender la cocina de casa: en tres días de corte amortiza su precio con la primera olla.</li>
+<li><strong>Mejor presupuesto: la opción sin estufa.</strong> Una <a href="https://www.amazon.es/dp/B0CYDF32J3?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">manta térmica de supervivencia</a> (3-8 €), un <a href="https://www.amazon.es/s?k=peto+electrico+reutilizable&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">peto eléctrico reutilizable</a> cuando vuelva la luz y un saco de abrigo aguantan la noche: menos que una bombona, y no puede fallar.</li>
 </ul>
 
 <p>¿Y la <strong>estufa catalítica</strong>? Es la versión más limpia del butano: quema sin llama visible y da un calor más suave, más agradable en una habitación pequeña. Vale la pena si quien pasa el día allí es una persona mayor o un niño; para un kit económico, el dinero está mejor en butano y detector de CO.</p>
@@ -72,7 +72,7 @@ CUERPO = """
 <li><strong>Ventilar dos veces al día, 15 minutos cada vez</strong>, aunque haga frío. Es la indicación literal del Plan de frío del Ministerio de Sanidad.</li>
 <li><strong>Apagar las estufas eléctricas y de gas durante la noche.</strong> También del Plan de frío: dormir con la estufa encendida es la decisión que más se lamenta.</li>
 <li><strong>No usar hornillos de camping, barbacoas, braseros ni el horno de la cocina</strong> dentro de la vivienda, y <strong>no tapar las rejillas</strong> de ventilación. Es la recomendación de los servicios 112 y de Protección Civil.</li>
-<li><strong>Detector de monóxido a pilas en la pared</strong>, a un metro de la cama y lejos del techo. Cuesta entre 15 y 35 €: <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver detectores de CO</a>. Ninguna estufa de este artículo está completa sin él.</li>
+<li><strong>Detector de monóxido a pilas en la pared</strong>, a un metro de la cama y lejos del techo. Cuesta entre 15 y 35 €: <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver detectores de CO</a>. Ninguna estufa de este artículo está completa sin él.</li>
 </ul>
 
 <h2>Checklist antes del primer frío</h2>
@@ -80,8 +80,8 @@ CUERPO = """
 <ul>
 <li>Estufa de butano con corte de oxígeno y <strong>dos bombonas de repuesto</strong>: la segunda se acaba siempre la primera noche.</li>
 <li>Detector de CO con pilas nuevas y fecha de sustitución anotada.</li>
-<li><a href="https://www.amazon.es/dp/B07PDRY2T2?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Cinta y plástico para sellar ventanas</a>: una habitación mal sellada pide el doble de potencia.</li>
-<li>Mantas, <a href="https://www.amazon.es/dp/B0H37438Y1?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">saco de abrigo</a> y ropa térmica; <a href="https://www.amazon.es/dp/B0FZTLMXW9?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">encendedores y cerillas largas</a> fuera del alcance de los niños.</li>
+<li><a href="https://www.amazon.es/dp/B07PDRY2T2?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Cinta y plástico para sellar ventanas</a>: una habitación mal sellada pide el doble de potencia.</li>
+<li>Mantas, <a href="https://www.amazon.es/dp/B0H37438Y1?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">saco de abrigo</a> y ropa térmica; <a href="https://www.amazon.es/dp/B0FZTLMXW9?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">encendedores y cerillas largas</a> fuera del alcance de los niños.</li>
 <li>Comida y agua que no necesiten fuego: <a href="/blog/comer-sin-luz-menus-3-dias/">menús de tres días sin cocina</a>.</li>
 </ul>
 

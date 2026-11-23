@@ -152,8 +152,9 @@
   // Clic en un enlace de afiliado de Amazon = intención de compra.
   // NO se filtra por un Tracking ID concreto: cualquier enlace a una tienda
   // Amazon cuenta, y el tag viaja en el evento para poder cruzar con el panel de
-  // Associates. Filtrar por «tag=ntizar-21» dejó el embudo a cero el 14-nov,
-  // cuando cada sección pasó a tener su propio tracking ID.
+  // Associates. Filtrar por un Tracking ID concreto dejó el embudo a cero el
+  // 14-nov, cuando cada sección pasó a tener el suyo. Ahora el sitio usa uno
+  // solo (kit72h-21) en amazon.es, pero el filtro sigue sin mirar el tag.
   var TAG_RE = /[?&](?:amp;)?tag=([A-Za-z0-9_-]+)/;
 
   function tagDe(href) {

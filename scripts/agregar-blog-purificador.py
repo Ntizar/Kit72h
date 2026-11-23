@@ -20,7 +20,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 RUTA = RAIZ / "data" / "blog.json"
 HOY = "2026-10-09"
 SLUG = "mejor-purificador-agua-emergencia"
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 
 
 def dp(asin):

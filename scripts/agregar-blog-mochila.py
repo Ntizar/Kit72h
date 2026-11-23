@@ -41,23 +41,23 @@ CUERPO = """
 <table>
 <thead><tr><th>Tipo</th><th>Litros</th><th>Cuándo compensa</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+trekking+45l&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila de trekking de 40-50 L ↗</a></td><td>40-50</td><td>El adulto que va a andar: la mejor capacidad por kilo, cinturón de cadera de serie</td><td>35-90 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+tactica+40l&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila táctica MOLLE de 35-45 L ↗</a></td><td>35-45</td><td>Kit fijo y organizado: anclas externas para fundas, botiquín o frontales</td><td>30-75 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+evacuacion+emergencia+72h&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila de evacuación ya montada ↗</a></td><td>30-40</td><td>Llega montada, pero controlas menos el contenido: hay que revisarla igual</td><td>50-120 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+25l+impermeable&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila de día de 18-25 L ↗</a></td><td>18-25</td><td>24 horas, oficina, coche y ruta corta: lo más barata y lo que más se usa también a diario</td><td>18-45 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+infantil+emergencia&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila infantil de 15-20 L ↗</a></td><td>15-20</td><td>Cada niño la suya, con su ropa y su juego: cargar a los mayores solo con lo suyo ya es bastante</td><td>15-35 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=mochila+con+ruedas+capota&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Mochila con ruedas o carrito ↗</a></td><td>40-80</td><td>Personas mayores, movilidad reducida o carga pesada (agua, garrafas): se rueda, no se carga</td><td>40-110 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+trekking+45l&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila de trekking de 40-50 L ↗</a></td><td>40-50</td><td>El adulto que va a andar: la mejor capacidad por kilo, cinturón de cadera de serie</td><td>35-90 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+tactica+40l&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila táctica MOLLE de 35-45 L ↗</a></td><td>35-45</td><td>Kit fijo y organizado: anclas externas para fundas, botiquín o frontales</td><td>30-75 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+evacuacion+emergencia+72h&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila de evacuación ya montada ↗</a></td><td>30-40</td><td>Llega montada, pero controlas menos el contenido: hay que revisarla igual</td><td>50-120 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+25l+impermeable&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila de día de 18-25 L ↗</a></td><td>18-25</td><td>24 horas, oficina, coche y ruta corta: lo más barata y lo que más se usa también a diario</td><td>18-45 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+infantil+emergencia&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila infantil de 15-20 L ↗</a></td><td>15-20</td><td>Cada niño la suya, con su ropa y su juego: cargar a los mayores solo con lo suyo ya es bastante</td><td>15-35 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=mochila+con+ruedas+capota&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Mochila con ruedas o carrito ↗</a></td><td>40-80</td><td>Personas mayores, movilidad reducida o carga pesada (agua, garrafas): se rueda, no se carga</td><td>40-110 €</td></tr>
 </tbody>
 </table>
 
 <h2>3. Ganadores por caso</h2>
 
 <ul>
-<li><strong>Evacuación andando a pie (DANA, incendio, orden de salir):</strong> trekking de 40-50 L con cinturón de cadera. Es la que aguanta el peso sin castigarte: <a href="https://www.amazon.es/s?k=mochila+trekking+45l&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">mochilas de trekking de 45 L ↗</a>.</li>
-<li><strong>Kit preparado para coger y marchar:</strong> táctica de 35-45 L con anclas externas, si te organizas por bolsillos: <a href="https://www.amazon.es/s?k=mochila+tactica+40l&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">mochilas tácticas MOLLE ↗</a>. Útil sobre todo si la guardas ya montada en el armario de la entrada.</li>
+<li><strong>Evacuación andando a pie (DANA, incendio, orden de salir):</strong> trekking de 40-50 L con cinturón de cadera. Es la que aguanta el peso sin castigarte: <a href="https://www.amazon.es/s?k=mochila+trekking+45l&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">mochilas de trekking de 45 L ↗</a>.</li>
+<li><strong>Kit preparado para coger y marchar:</strong> táctica de 35-45 L con anclas externas, si te organizas por bolsillos: <a href="https://www.amazon.es/s?k=mochila+tactica+40l&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">mochilas tácticas MOLLE ↗</a>. Útil sobre todo si la guardas ya montada en el armario de la entrada.</li>
 <li><strong>Casa con mayores o problemas de espalda:</strong> la de ruedas, sin discusión. Mejor empujar que arrastrar a una persona con una mochila de 12 kg.</li>
 <li><strong>Familia con niños:</strong> una mochila grande de adultos <strong>más</strong> una pequeña por niño. <a href="/blog/bebes-ninos-emergencia-checklist-edades/">Bebés y niños en una emergencia</a> marca qué lleva cada edad.</li>
-<li><strong>Oficina, coche y ruta de un día:</strong> la de 18-25 L, la única que vas a usar de verdad el resto del año: <a href="https://www.amazon.es/s?k=mochila+25l+impermeable&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">mochilas de día impermeables ↗</a>.</li>
+<li><strong>Oficina, coche y ruta de un día:</strong> la de 18-25 L, la única que vas a usar de verdad el resto del año: <a href="https://www.amazon.es/s?k=mochila+25l+impermeable&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">mochilas de día impermeables ↗</a>.</li>
 <li><strong>Si llevas mascotas:</strong> la de la familia más una bolsa aparte con agua, correa, documentación veterinaria y pienso: <a href="/blog/mascotas-plan-emergencia/">plan de emergencia con perros y gatos</a>.</li>
 </ul>
 
@@ -124,9 +124,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 assert 'rel="sponsored nofollow noopener"' in cuerpo, "sin rel sponsored"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"

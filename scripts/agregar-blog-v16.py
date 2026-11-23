@@ -18,7 +18,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 RUTA = RAIZ / "data" / "blog.json"
 HOY = "2026-10-11"
 SLUG = "baliza-v16-obligatoria-2026"
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 
 
 def dp(asin):

@@ -54,9 +54,9 @@ CUERPO = """
 <h2>Ganador por categoría</h2>
 
 <ul>
-<li><strong>Piso o apartamento en ciudad</strong> → <strong>power station</strong>. No quema combustible, no hace ruido y no emite monóxido. Con una estación de 1.000-1.500 Wh y un panel plegable se cubren nevera pequeña, luces y móviles: <a href="https://www.amazon.es/s?k=power+station+portatil+1000w&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver power stations portátiles</a> y <a href="https://www.amazon.es/dp/B0D9JMS8H2?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">panel solar plegable de 20-40 W</a>, el mínimo para no bajar la carga de móviles y linternas.</li>
-<li><strong>Casa con trastero, garaje ventilado o jardín</strong> → <strong>generador inverter</strong>. Es la única vía para hervir, calentar o mover una nevera grande durante días: <a href="https://www.amazon.es/s?k=generador+inverter+silencioso&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver generadores inverter</a>.</li>
-<li><strong>Router y ordenador (lo primero que se salva)</strong> → <strong>SAI/UPS</strong>. Barato, silencioso e instantáneo: <a href="https://www.amazon.es/dp/B07DPWBBDP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">SAI de 600-900 VA</a>. No sustituye a los dos anteriores: compra los primeros minutos mientras decides.</li>
+<li><strong>Piso o apartamento en ciudad</strong> → <strong>power station</strong>. No quema combustible, no hace ruido y no emite monóxido. Con una estación de 1.000-1.500 Wh y un panel plegable se cubren nevera pequeña, luces y móviles: <a href="https://www.amazon.es/s?k=power+station+portatil+1000w&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver power stations portátiles</a> y <a href="https://www.amazon.es/dp/B0D9JMS8H2?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">panel solar plegable de 20-40 W</a>, el mínimo para no bajar la carga de móviles y linternas.</li>
+<li><strong>Casa con trastero, garaje ventilado o jardín</strong> → <strong>generador inverter</strong>. Es la única vía para hervir, calentar o mover una nevera grande durante días: <a href="https://www.amazon.es/s?k=generador+inverter+silencioso&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver generadores inverter</a>.</li>
+<li><strong>Router y ordenador (lo primero que se salva)</strong> → <strong>SAI/UPS</strong>. Barato, silencioso e instantáneo: <a href="https://www.amazon.es/dp/B07DPWBBDP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">SAI de 600-900 VA</a>. No sustituye a los dos anteriores: compra los primeros minutos mientras decides.</li>
 <li><strong>Escenario largo (varios días)</strong> → <strong>los dos</strong>: estación para el día a día y generador para los grandes consumos, con el panel como red de seguridad.</li>
 </ul>
 
@@ -68,7 +68,7 @@ CUERPO = """
 
 <h2>El monóxido: el argumento que cierra la discusión</h2>
 
-<p>La regla es corta y no admite excepciones: <strong>un generador nunca se usa dentro de casa, ni en el garaje, ni en el portal, ni pegado a una ventana</strong>. El motor emite monóxido de carbono inodoro, y las intoxicaciones graves en apagones suelen ocurrir exactamente así, con alguien intentando pasar la noche más caliente o cargar el móvil en el trastero. <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil</a> y el <a href="https://commission.europa.eu/topics/preparedness_es" target="_blank" rel="noopener">plan de preparación de la Comisión Europea</a> coinciden en lo mismo: distancia, ventilación y un <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">detector de monóxido a pilas</a> en la pared, a un metro de la cama y lejos del techo.</p>
+<p>La regla es corta y no admite excepciones: <strong>un generador nunca se usa dentro de casa, ni en el garaje, ni en el portal, ni pegado a una ventana</strong>. El motor emite monóxido de carbono inodoro, y las intoxicaciones graves en apagones suelen ocurrir exactamente así, con alguien intentando pasar la noche más caliente o cargar el móvil en el trastero. <a href="https://www.proteccioncivil.es/gestion-riesgos/recomendaciones" target="_blank" rel="noopener">Protección Civil</a> y el <a href="https://commission.europa.eu/topics/preparedness_es" target="_blank" rel="noopener">plan de preparación de la Comisión Europea</a> coinciden en lo mismo: distancia, ventilación y un <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">detector de monóxido a pilas</a> en la pared, a un metro de la cama y lejos del techo.</p>
 
 <p>Si la casa es de piso, esa línea ni se plantea: el generador queda fuera de la ecuación y la power station gana por incomparecencia.</p>
 
@@ -118,9 +118,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 for m in re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo):
     ruta = RAIZ / (m.strip("/") + "/index.html")
     assert ruta.exists(), f"enlace interno roto: {m}"

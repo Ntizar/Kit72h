@@ -82,12 +82,12 @@ CUERPO = """
 <h2>6. Cómo usarlo sin dormir con la sanción encima</h2>
 
 <ul>
-<li><strong>Nunca dentro, ni en el garaje, ni en el trastero del portal.</strong> El monóxido mata antes que la multa; un <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">detector de CO a pilas</a> por planta es la medida más barata del kit.</li>
+<li><strong>Nunca dentro, ni en el garaje, ni en el trastero del portal.</strong> El monóxido mata antes que la multa; un <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">detector de CO a pilas</a> por planta es la medida más barata del kit.</li>
 <li><strong>Alejar y orientar.</strong> Los 6 dB por distancia doblada trabajan a tu favor; orienta el escape hacia fuera y nunca contra un muro que refleje el sonido.</li>
-<li><strong>Base antivibración.</strong> Una alfombrilla de goma corta el camino de vibración hacia la estructura —lo exige la ordenanza de Sevilla—: <a href="https://www.amazon.es/s?k=alfombrillas+antivibracion+generador&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">alfombrillas antivibración</a>.</li>
+<li><strong>Base antivibración.</strong> Una alfombrilla de goma corta el camino de vibración hacia la estructura —lo exige la ordenanza de Sevilla—: <a href="https://www.amazon.es/s?k=alfombrillas+antivibracion+generador&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">alfombrillas antivibración</a>.</li>
 <li><strong>Horario.</strong> De 23:00 a 7:00 el objetivo baja de 65 a 55 dB: es cuando la misma molestia se convierte en expediente.</li>
-<li><strong>Modo eco y carga real.</strong> Las fichas declaran el ruido a cuarto de carga; con el equipo al tope de vatios sube. Para luces y cargadores, un <a href="https://www.amazon.es/s?k=generador+inverter+silencioso&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">generador inverter silencioso</a> rinde igual con la mitad de ruido.</li>
-<li><strong>Si vives en piso, no compres motor.</strong> Una <a href="https://www.amazon.es/s?k=power+station+portatil&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">power station</a> da corriente sin ruido, sin humo y sin discusión con la comunidad.</li>
+<li><strong>Modo eco y carga real.</strong> Las fichas declaran el ruido a cuarto de carga; con el equipo al tope de vatios sube. Para luces y cargadores, un <a href="https://www.amazon.es/s?k=generador+inverter+silencioso&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">generador inverter silencioso</a> rinde igual con la mitad de ruido.</li>
+<li><strong>Si vives en piso, no compres motor.</strong> Una <a href="https://www.amazon.es/s?k=power+station+portatil&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">power station</a> da corriente sin ruido, sin humo y sin discusión con la comunidad.</li>
 </ul>
 
 <h2>7. Los errores que más salen caros</h2>
@@ -146,9 +146,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"
 for m in internos:

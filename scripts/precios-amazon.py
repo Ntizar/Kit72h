@@ -229,7 +229,7 @@ def _volcar(productos, historico, con_precio, sin_datos, sin_oferta, ahora, asin
             "ahorro_pct": pct,
             "kit": d.get("kit", ""),
             "kit_titulo": d.get("kit_titulo", ""),
-            "url": d.get("url") or f"https://www.amazon.es/dp/{asin}?tag=ntizar-21",
+            "url": d.get("url") or f"https://www.amazon.es/dp/{asin}?tag=kit72h-21",
             "fecha": hoy,
             "punt": pct * factor,
         })
@@ -242,7 +242,7 @@ def _volcar(productos, historico, con_precio, sin_datos, sin_oferta, ahora, asin
             "actualizado": ahora.isoformat(timespec="seconds"),
             "fuente": "Amazon Creators API",
             "marketplace": "www.amazon.es",
-            "tag": "ntizar-21",
+            "tag": "kit72h-21",
             "aviso": ("Precios consultados hoy en Amazon.es. Pueden cambiar en cualquier momento: "
                       "el precio válido es el de la ficha en el momento de la compra."),
             "criterio_oferta": ("Selección de hoy: combina rebaja real, stock disponible y precio "

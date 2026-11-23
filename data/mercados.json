@@ -25,10 +25,11 @@
         "simbolo": "€",
         "tagPendiente": false,
         "tags": {
-          "home": "ntizar-21",
+          "home": "kit72h-21",
           "kits": "kit72h-21",
-          "blog": "kit72h-blog-21"
-        }
+          "blog": "kit72h-21"
+        },
+        "nota": "Un solo Tracking ID para todo el sitio en español (portada, fichas y blog): kit72h-21."
       },
       "emergencias": {
         "numero": "112",

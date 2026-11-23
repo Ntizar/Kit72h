@@ -32,8 +32,8 @@ CUERPO = """
 
 <ul>
 <li><strong>Un generador jamás dentro de casa</strong>, ni en el garaje, ni en el portal, ni pegado a una ventana. Por qué, en la <a href="/blog/generador-vs-power-station-comparativa/">comparativa de generador frente a power station</a>: en un piso, la power station es la única opción.</li>
-<li><strong>Estufa de gas o de combustión: solo con la habitación ventilada</strong> y nunca mientras duermes. Una <a href="https://www.amazon.es/dp/B01M1NCHK8?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">estufa de gas butano</a> resuelve un salón, no una casa cerrada toda la noche.</li>
-<li><strong>Detector de monóxido a pilas en cada planta y cerca de los dormitorios.</strong> Cuesta menos que una cena y es lo único que te avisa antes de que sea tarde: <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">detector de CO a pilas</a>.</li>
+<li><strong>Estufa de gas o de combustión: solo con la habitación ventilada</strong> y nunca mientras duermes. Una <a href="https://www.amazon.es/dp/B01M1NCHK8?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">estufa de gas butano</a> resuelve un salón, no una casa cerrada toda la noche.</li>
+<li><strong>Detector de monóxido a pilas en cada planta y cerca de los dormitorios.</strong> Cuesta menos que una cena y es lo único que te avisa antes de que sea tarde: <a href="https://www.amazon.es/dp/B0D66LK5NP?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">detector de CO a pilas</a>.</li>
 <li><strong>Abrigar la casa, no solo a la gente:</strong> tapar la ventana por la noche con una cortina o manta, cerrar las habitaciones que no se usen y vestir por capas en casa. El detalle está en <a href="/blog/temperatura-sin-electricidad/">mantener la temperatura corporal sin electricidad</a> y en <a href="/blog/vestirse-por-capas-ropa-emergencia-frio/">vestirse por capas</a>.</li>
 </ul>
 
@@ -52,12 +52,12 @@ CUERPO = """
 <table>
 <thead><tr><th>Objeto</th><th>Para qué sirve de verdad</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/dp/B0FB3WSWJ1?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Linterna frontal con pilas</a></td><td>Manos libres para subir al desván, bajar al trastero o ayudar al vecino</td><td>8-15 €</td></tr>
-<tr><td><a href="https://www.amazon.es/dp/B094D3JGLT?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Surtido de pilas AA/AAA</a></td><td>Linternas, radios y detectores; con fecha de caducidad anotada</td><td>10-20 €</td></tr>
-<tr><td><a href="https://www.amazon.es/dp/B0GWN9FJC7?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Radio a pilas o de dinamo</a></td><td>Información oficial sin red ni batería: la radio es la primera fuente cuando cae la luz</td><td>15-35 €</td></tr>
-<tr><td><a href="https://www.amazon.es/dp/B0DFLHZQ18?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Powerbank de 20.000 mAh</a></td><td>Tres o cuatro recargas de móvil: avisar y recibir avisos</td><td>25-50 €</td></tr>
-<tr><td><a href="https://www.amazon.es/dp/B0D9JMS8H2?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Panel solar plegable</a></td><td>Alargar la batería varios días; con cielo cubierto produce poco, no lo cuentes como red principal</td><td>40-80 €</td></tr>
-<tr><td><a href="https://www.amazon.es/dp/B0BJPVQXP6?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Velas con portavelas estable</a></td><td>Refuerzo puntual, siempre sobre superficie resistente y lejos de cortinas</td><td>5-12 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B0FB3WSWJ1?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Linterna frontal con pilas</a></td><td>Manos libres para subir al desván, bajar al trastero o ayudar al vecino</td><td>8-15 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B094D3JGLT?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Surtido de pilas AA/AAA</a></td><td>Linternas, radios y detectores; con fecha de caducidad anotada</td><td>10-20 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B0GWN9FJC7?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Radio a pilas o de dinamo</a></td><td>Información oficial sin red ni batería: la radio es la primera fuente cuando cae la luz</td><td>15-35 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B0DFLHZQ18?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Powerbank de 20.000 mAh</a></td><td>Tres o cuatro recargas de móvil: avisar y recibir avisos</td><td>25-50 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B0D9JMS8H2?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Panel solar plegable</a></td><td>Alargar la batería varios días; con cielo cubierto produce poco, no lo cuentes como red principal</td><td>40-80 €</td></tr>
+<tr><td><a href="https://www.amazon.es/dp/B0BJPVQXP6?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Velas con portavelas estable</a></td><td>Refuerzo puntual, siempre sobre superficie resistente y lejos de cortinas</td><td>5-12 €</td></tr>
 </tbody>
 </table>
 
@@ -67,7 +67,7 @@ CUERPO = """
 
 <p>La DGT lo repite cada invierno: llevar <strong>cadenas o neumáticos de invierno o de todo tiempo</strong> si vas a circular por zonas con aviso de nevada, consultar la vialidad antes de salir y dejar libre el carril izquierdo para los quitanieves. Si te cogió la nieve en la carretera: no abandones el vehículo, reduce la marcha y avisa al 112.</p>
 
-<p>El material va en el maletero <strong>antes</strong> de que anuncien el temporal: <a href="https://www.amazon.es/dp/B0CSDX8LR8?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">cadenas para nieve</a>, un <a href="https://www.amazon.es/dp/B0CJDWWGNG?tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">par de guantes impermeables</a> (montar cadenas con las manos heladas es imposible) y una manta térmica. La lista entera del vehículo está en el <a href="/kit/kit-coche/">kit de coche</a>.</p>
+<p>El material va en el maletero <strong>antes</strong> de que anuncien el temporal: <a href="https://www.amazon.es/dp/B0CSDX8LR8?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">cadenas para nieve</a>, un <a href="https://www.amazon.es/dp/B0CJDWWGNG?tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">par de guantes impermeables</a> (montar cadenas con las manos heladas es imposible) y una manta térmica. La lista entera del vehículo está en el <a href="/kit/kit-coche/">kit de coche</a>.</p>
 
 <h2>6. Vecinos, mayores y quien vive solo</h2>
 
@@ -122,9 +122,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"
 for m in internos:

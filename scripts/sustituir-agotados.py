@@ -34,7 +34,7 @@ RAIZ = Path(__file__).resolve().parents[1]
 KITS = RAIZ / "data" / "kits.json"
 PRECIOS = RAIZ / "data" / "precios.json"
 SALIDA = RAIZ / "data" / "sustituciones.json"
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 
 STOP = {"de", "del", "la", "el", "los", "las", "un", "una", "unos", "unas", "para", "por",
         "con", "sin", "y", "o", "e", "a", "en", "al", "mas", "pack", "dos", "tres", "cuatro",

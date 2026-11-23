@@ -31,7 +31,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 
 <p><strong>Puntos fuertes:</strong> precio competitivo (35-45 €), construcción coreana de calidad, ignición piezoeléctrica fiable, pantalla de seguridad contra vuelco. <strong>Punto débil:</strong> no lleva termostato integrado — tendrás que usar un termómetro de habitación aparte.</p>
 
-<p>Si buscas la referencia concreta, puedes verla en <a href="https://www.amazon.es/s?k=Kovea+TK-1401+estufa+gas+butano&tag=ntizar-21" rel="nofollow noopener" target="_blank">Amazon.es</a>.</p>
+<p>Si buscas la referencia concreta, puedes verla en <a href="https://www.amazon.es/s?k=Kovea+TK-1401+estufa+gas+butano&tag=kit72h-21" rel="nofollow noopener" target="_blank">Amazon.es</a>.</p>
 
 <h3>2. Campingaz Regal Plus — Mejor calentador de interior</h3>
 
@@ -39,7 +39,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 
 <p><strong>Puntos fuertes:</strong> seguridad avanzada, termostato ajustable, diseño compacto, 3 kW reales de potencia. <strong>Punto débil:</strong> precio más alto (80-100 €), y 3,6 kg que la hacen menos portátil.</p>
 
-<p>Referencia directa: <a href="https://www.amazon.es/s?k=Campingaz+Regal+Plus+estufa+gas+butano&tag=ntizar-21" rel="nofollow noopener" target="_blank">Campingaz Regal Plus en Amazon.es</a>.</p>
+<p>Referencia directa: <a href="https://www.amazon.es/s?k=Campingaz+Regal+Plus+estufa+gas+butano&tag=kit72h-21" rel="nofollow noopener" target="_blank">Campingaz Regal Plus en Amazon.es</a>.</p>
 
 <h3>3. Campingaz Vapor Plus — Mejor difusión de calor</h3>
 
@@ -47,7 +47,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 
 <p><strong>Puntos fuertes:</strong> difusión cerámica, bajo consumo (230 g/h), pantalla de protección térmica. <strong>Punto débil:</strong> el difusor cerámico puede fracturarse con golpes fuertes.</p>
 
-<p>Disponble en: <a href="https://www.amazon.es/s?k=Campingaz+Vapor+Plus+calentador+gas&tag=ntizar-21" rel="nofollow noopener" target="_blank">Campingaz Vapor Plus — Amazon.es</a>.</p>
+<p>Disponble en: <a href="https://www.amazon.es/s?k=Campingaz+Vapor+Plus+calentador+gas&tag=kit72h-21" rel="nofollow noopener" target="_blank">Campingaz Vapor Plus — Amazon.es</a>.</p>
 
 <h3>4. Kovea Spica KB-1805 — Más potencia, mayor consumo</h3>
 
@@ -55,7 +55,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 
 <p><strong>Puntos fuertes:</strong> calor rápido y potente, ruedas integradas, buen diseño. <strong>Punto débil:</strong> mayor consumo de gas (300 g/h), más pesada (5,5 kg) y más cara (120-140 €). Conviene si tienes mucho espacio, pero no es la opción más económica.</p>
 
-<p>La puedes ver en: <a href="https://www.amazon.es/s?k=Kovea+Spica+KB-1805+estufa+gas&tag=ntizar-21" rel="nofollow noopener" target="_blank">Kovea Spica KB-1805 — Amazon.es</a>.</p>
+<p>La puedes ver en: <a href="https://www.amazon.es/s?k=Kovea+Spica+KB-1805+estufa+gas&tag=kit72h-21" rel="nofollow noopener" target="_blank">Kovea Spica KB-1805 — Amazon.es</a>.</p>
 
 <h3>5. Brennenstuhl Comfort 3000 — Mejor opción económica</h3>
 
@@ -63,7 +63,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 
 <p><strong>Puntos fuertes:</strong> precio, sencillez de uso, seguridad básica incluida. <strong>Punto débil:</strong> sin termostato, sin indicador de gas restante. Para uso puntual en un apagón basta, pero no es la más duradera.</p>
 
-<p>Referencia: <a href="https://www.amazon.es/s?k=Brennenstuhl+Comfort+3000+estufa+gas&tag=ntizar-21" rel="nofollow noopener" target="_blank">Brennenstuhl Comfort 3000 — Amazon.es</a>.</p>
+<p>Referencia: <a href="https://www.amazon.es/s?k=Brennenstuhl+Comfort+3000+estufa+gas&tag=kit72h-21" rel="nofollow noopener" target="_blank">Brennenstuhl Comfort 3000 — Amazon.es</a>.</p>
 
 <h2>Comparativa rápida: las cinco estufas en una tabla</h2>
 
@@ -78,7 +78,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 </tbody>
 </table>
 
-<p>Nota: los precios pueden variar según la tienda y la época del año. En invierno suelen subir entre un 10 y un 20 %. Consulta siempre el precio actual en <a href="https://www.amazon.es/s?k=estufa+gas+butano&tag=ntizar-21" rel="nofollow noopener" target="_blank">Amazon.es</a> con el tag de afiliado para ver la oferta real del día.</p>
+<p>Nota: los precios pueden variar según la tienda y la época del año. En invierno suelen subir entre un 10 y un 20 %. Consulta siempre el precio actual en <a href="https://www.amazon.es/s?k=estufa+gas+butano&tag=kit72h-21" rel="nofollow noopener" target="_blank">Amazon.es</a> con el tag de afiliado para ver la oferta real del día.</p>
 
 <h2>Cómo elegir la tuya: las cuatro preguntas clave</h2>
 
@@ -99,7 +99,7 @@ CUERPO = """<p>Hace frío y se va la luz. La estufa eléctrica que tenías no fu
 <ol>
 <li><strong>Abrir una ventana siempre.</strong> No hace falta abrirla del todo: un hueco de 5 cm es suficiente para mantener el intercambio de aire. Si la estufa tiene sistema O₂, úsalo y confía en él — pero NO lo des por sustituto de la ventilación.</li>
 <li><strong>Nunca dormir con la estufa encendida sin sistema de apagado automático.</strong> Si la estufa no tiene termostato ni sensor O₂, apágala antes de acostarte. Enciéndela 30 minutos antes de levantarte para entrar en la habitación a un temperatura agradable.</li>
-<li><strong>Detector de CO obligatorio.</strong> Un detector de monóxido de carbono cuesta 20-30 € y puede salvarte la vida. En un apagón de invierno, es tan imprescindible como la linterna. Lo tienes con los enlaces de afiliado: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+estufa+gas&tag=ntizar-21" rel="nofollow noopener" target="_blank">detectores de CO en Amazon.es</a>.</li>
+<li><strong>Detector de CO obligatorio.</strong> Un detector de monóxido de carbono cuesta 20-30 € y puede salvarte la vida. En un apagón de invierno, es tan imprescindible como la linterna. Lo tienes con los enlaces de afiliado: <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+estufa+gas&tag=kit72h-21" rel="nofollow noopener" target="_blank">detectores de CO en Amazon.es</a>.</li>
 </ol>
 
 <p>La Protección Civil española tiene recomendaciones específicas para el uso de sistemas de calefacción alternativos en invierno <a href="https://www.proteccioncivil.es/prevencion/riesgo-invernal" rel="nofollow noopener" target="_blank">en su web oficial</a>. Tómala como guía: la ventilación no es negociable.</p>

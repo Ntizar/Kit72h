@@ -29,7 +29,7 @@ PLAN_DIR = RAIZ / "notes" / "plan-crecimiento"
 LOG = PLAN_DIR / "log-decisiones.md"
 MAPA = RAIZ / "notes" / "mapa-keywords.md"
 HOY = date.today().isoformat()
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 # paths que genera el publicador (para el rollback de una publicación fallida)
 PATHS_REVERT = ["data/blog.json", "blog", "index.html", "sitemap.xml", "feed.xml",
                 "llms.txt", "llms-full.txt", "notes/mapa-keywords.md"]

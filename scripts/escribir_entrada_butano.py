@@ -74,7 +74,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <p>En términos de seguridad, lleva doble protección: corte por inclinación y corte por falta de oxígeno (sonda alfa). Si la estufa se vuelca o la concentración de O₂ baja del 19 %, se apaga automáticamente en menos de tres segundos. Es fundamental, sin embargo, ventilar la habitación al menos dos minutos al día para renovar el aire (abrir una ventana entreabierta durante un par de minutos es suficiente).</p>
 
-<p><a href="https://www.amazon.es/s?k=Bondhuys+4S+estufa+butano&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver Bondhuys 4S en Amazon</a></p>
+<p><a href="https://www.amazon.es/s?k=Bondhuys+4S+estufa+butano&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver Bondhuys 4S en Amazon</a></p>
 
 <h2>2. Fiamma Sirocco 4000: la opción italiana de fiabilidad</h2>
 
@@ -84,7 +84,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <p>El único punto a favor del Bondhuys frente al Fiamma es el precio: el Fiamma suele costar unos 10-15 € más. Pero si la precisión del termostato y la calidad de la combustión son prioritarios, el Sirocco vale la pena.</p>
 
-<p><a href="https://www.amazon.es/s?k=Fiamma+Sirocco+4000+butano&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver Fiamma Sirocco 4000 en Amazon</a></p>
+<p><a href="https://www.amazon.es/s?k=Fiamma+Sirocco+4000+butano&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver Fiamma Sirocco 4000 en Amazon</a></p>
 
 <h2>3. Cosmos 4000: la económica con fuerza</h2>
 
@@ -92,7 +92,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <p>No obstante, para un apagón de emergencia, es más que suficiente. Su termostato cortaviento funciona bien incluso en habitaciones con corrientes de aire (puertas entreabiertas, ventanas mal aisladas), y el encendido electrónico es fiable. El peso (4,5 kg) lo hace un poco menos portátil que el Bondhuys, pero para una estufa fija en una sala de estar no es un problema.</p>
 
-<p><a href="https://www.amazon.es/s?k=Cosmos+4000+estufa+butano&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver Cosmos 4000 en Amazon</a></p>
+<p><a href="https://www.amazon.es/s?k=Cosmos+4000+estufa+butano&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver Cosmos 4000 en Amazon</a></p>
 
 <h2>4. Falco 3000 Comfort: potencia moderada, bajo consumo</h2>
 
@@ -100,7 +100,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <p>La función Comfort incluye un modo nocturno que reduce automáticamente la potencia un 30 % durante las horas de menor actividad, alargando la duración de la botella. El termostato es digital y fácil de programar. Es la mejor opción si tu prioridad es la eficiencia y la estufa va a estar encendida muchas horas (apagones prolongados).</p>
 
-<p><a href="https://www.amazon.es/s?k=Falco+3000+Comfort+butano&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver Falco 3000 Comfort en Amazon</a></p>
+<p><a href="https://www.amazon.es/s?k=Falco+3000+Comfort+butano&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver Falco 3000 Comfort en Amazon</a></p>
 
 <h2>5. Comet 2200 Classic: la estufa de sobremesa</h2>
 
@@ -108,7 +108,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <p>El Comet brilla en portabilidad: cabe en una mochila, se lleva a cualquier parte y consume muy poco (160 g/h a máxima potencia). Una botella de 12 kg puede durar más de 40 horas a potencia media. Para un apagón donde la prioridad es mantener calientes a los niños en su habitación mientras se calienta el resto de la casa con otra estufa más potente, es una herramienta excelente.</p>
 
-<p><a href="https://www.amazon.es/s?k=Comet+2200+estufa+butano+mesilla&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver Comet 2200 en Amazon</a></p>
+<p><a href="https://www.amazon.es/s?k=Comet+2200+estufa+butano+mesilla&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver Comet 2200 en Amazon</a></p>
 
 <h2>¿Cuál elegir según tu situación?</h2>
 
@@ -146,7 +146,7 @@ cuerpo = r'''<!DOCTYPE html>
 
 <ul>
 <li><strong>Ventilación mínima:</strong> abre una ventana entreabierta al menos 5 minutos al día para renovar el aire. La combustión consume oxígeno y produce dióxido de carbono; una concentración alta produce somnolencia y, en el peor de los casos, asfixia.</li>
-<li><strong>Detector de CO:</strong> un detector de monóxido de carbono en la misma habitación o en la contigua. Aunque las estufas modernas tienen sonda alfa, el CO puede acumularse por fugas en la tubería o por mala combustión. El detector no es un extra: es obligatorio. <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+butano+estufa&amp;tag=ntizar-21" rel="nofollow sponsored" target="_blank">Ver detectores de CO en Amazon</a>.</li>
+<li><strong>Detector de CO:</strong> un detector de monóxido de carbono en la misma habitación o en la contigua. Aunque las estufas modernas tienen sonda alfa, el CO puede acumularse por fugas en la tubería o por mala combustión. El detector no es un extra: es obligatorio. <a href="https://www.amazon.es/s?k=detector+monoxido+carbono+butano+estufa&amp;tag=kit72h-21" rel="nofollow sponsored" target="_blank">Ver detectores de CO en Amazon</a>.</li>
 <li><strong>Nunca uses una estufa de butano en un espacio sellado:</strong> sin ventilación, la concentración de CO₂ sube y los efectos de somnolencia aparecen antes de que te des cuenta.</li>
 <li><strong>Mantén la estufa a más de un metro de cualquier superficie inflamable:</strong> cortinas, ropa de cama, muebles de tela. El tubo de escape puede alcanzar los 80-100 °C.</li>
 <li><strong>No dejes la estufa encendida sin supervisión:</strong> especialmente si hay niños o mascotas. Aunque tenga corte por inclinación, un accidente puede ocurrir.</li>

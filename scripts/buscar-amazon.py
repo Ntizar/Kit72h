@@ -43,7 +43,7 @@ D_LOG = RAIZ / "data" / "buscador-log.json"
 # muestra productos con ficha real verificada. Lo pendiente vive aquí.
 D_PEND = RAIZ / "data" / "pendientes-catalogo.json"
 D_DESCART = RAIZ / "data" / "propuestas-descartadas.json"
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 
 # Productos que no son de compra online: nunca se buscan
 EXCLUIR = re.compile(r"efectivo|paracetamol|ibuprofeno|renueva|recarga gratis|"

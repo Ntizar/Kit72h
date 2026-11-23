@@ -34,7 +34,7 @@ const i18n = {
       this.mercado = this.mercado || {
         id: 'es', ruta: '/', locale: 'es-ES', lang: 'es', contenido: 'es',
         paisLocal: 'España', bandera: '🇪🇸',
-        amazon: { dominio: 'www.amazon.es', tag: 'ntizar-21', moneda: 'EUR', simbolo: '€' },
+        amazon: { dominio: 'www.amazon.es', tag: 'kit72h-21', moneda: 'EUR', simbolo: '€' },
         emergencias: { numero: '112', nombre: '112' }
       };
       this.ui = this.base || {};
@@ -144,7 +144,7 @@ const i18n = {
      comisión y sin nada a cambio. */
   amazonEfectivo() {
     const propio = (this.mercado && this.mercado.amazon)
-      || { dominio: 'www.amazon.es', tag: 'ntizar-21', moneda: 'EUR', simbolo: '€' };
+      || { dominio: 'www.amazon.es', tag: 'kit72h-21', moneda: 'EUR', simbolo: '€' };
     const sugerido = this.mercadoSugerido();
     if (sugerido && sugerido.id !== (this.mercado && this.mercado.id)
         && sugerido.amazon && sugerido.amazon.tag) {
@@ -185,7 +185,7 @@ const i18n = {
   },
 
   /* Reescribe el tag de los enlaces de Amazon que vienen ya escritos en el HTML
-     (los cuerpos del blog traen ?tag=ntizar-21 de fábrica). Solo cambia el valor
+     (los cuerpos del blog traen ?tag=kit72h-21 de fábrica). Solo cambia el valor
      del parámetro y SOLO en enlaces de la tienda del mercado activo: dominio,
      ASIN y ruta no se tocan nunca. */
   retag(html) {
@@ -213,10 +213,10 @@ const i18n = {
     if (!item) return null;
     const esTiendaES = this.amazon.dominio === 'www.amazon.es';
     if (esTiendaES && this.mercado && this.mercado.id === 'es' && item.afiliado) {
-      // El catálogo trae el tag de fábrica (ntizar-21): se reescribe al de la
-      // sección que se está viendo (fichas → kit72h-21). Sin esto el HTML
-      // horneado dice una cosa y el navegador sirve otra: el panel de Amazon
-      // solo veía ventas en ntizar-21 y los demás tags parecían muertos.
+      // El catálogo trae el tag de fábrica (kit72h-21): se reescribe al del
+      // mercado activo. Sin este paso el HTML horneado y lo que sirve el
+      // navegador podrían discrepar, y el panel de Amazon solo vería parte de
+      // las ventas (pasó con los tags por sección: el 89 % de los enlaces .es caía en ntizar-21).
       return this.retag(item.afiliado);
     }
     if (item.asin_local) {

@@ -51,7 +51,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
-TAG = "ntizar-21"
+TAG = "kit72h-21"
 BASE = "https://kit72h.com"
 
 # Rutas publicables (espejo de .github/workflows/pages.yml, paso allowlist).

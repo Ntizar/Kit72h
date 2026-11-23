@@ -7,7 +7,7 @@ POR QUÉ EXISTE
 El 2026-11-17 la ficha de Starlink anunciaba dos productos y enlazaba otros dos:
 la tarjeta de la «Terminal Starlink Gen 3» llevaba a un soporte de techo de
 XXSSTUDIO (49,99 €) y la del «Garmin inReach Mini 3» a un inReach Messenger.
-Ningún gate lo veía: el enlace tenía `tag=ntizar-21` y respondía 200, así que
+Ningún gate lo veía: el enlace tenía `tag=kit72h-21` y respondía 200, así que
 era «válido». Un enlace válido al producto equivocado es peor que un 404.
 
 QUÉ HACE

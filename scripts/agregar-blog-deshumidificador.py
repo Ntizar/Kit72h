@@ -38,11 +38,11 @@ CUERPO = """<p>La humedad oculta es la que más destruye después de una inundac
 
 <h2>Ganador por categoría</h2>
 
-<p><strong>Mayor capacidad:</strong> el compresor de 30-50 L/día. Ideal para un sótano inundado o un piso tras la DANA. Marcas como De'Longhi, Pro Breeze o Mila ofrecen modelos de 20-30 L/día a precio razonable. <a href="https://www.amazon.es/s?k=deshumidificador+compresor+30l&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores compresor en Amazon</a>.</p>
+<p><strong>Mayor capacidad:</strong> el compresor de 30-50 L/día. Ideal para un sótano inundado o un piso tras la DANA. Marcas como De'Longhi, Pro Breeze o Mila ofrecen modelos de 20-30 L/día a precio razonable. <a href="https://www.amazon.es/s?k=deshumidificador+compresor+30l&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores compresor en Amazon</a>.</p>
 
-<p><strong>Mejor para frío:</strong> el desecante de sal. A 5 °C sigue sacando 10 L/día mientras el compresor baja a 3-4 L. Si vives en zonas de montaña o inviernos duros, es la opción más fiable cuando no hay calefacción. <a href="https://www.amazon.es/s?k=deshumidificador+desecante+sal&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores desecantes en Amazon</a>.</p>
+<p><strong>Mejor para frío:</strong> el desecante de sal. A 5 °C sigue sacando 10 L/día mientras el compresor baja a 3-4 L. Si vives en zonas de montaña o inviernos duros, es la opción más fiable cuando no hay calefacción. <a href="https://www.amazon.es/s?k=deshumidificador+desecante+sal&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores desecantes en Amazon</a>.</p>
 
-<p><strong>Mejor relación tamaño/rendimiento:</strong> el peltier de 3-5 L para armarios o cuartos pequeños. No sirve para un salón inundado, pero es suficiente para evitar que el armario se llenen de moho tras una temporada de lluvia intensa. <a href="https://www.amazon.es/s?k=deshumidificador+electrico+pequeno&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores pequeños en Amazon</a>.</p>
+<p><strong>Mejor relación tamaño/rendimiento:</strong> el peltier de 3-5 L para armarios o cuartos pequeños. No sirve para un salón inundado, pero es suficiente para evitar que el armario se llenen de moho tras una temporada de lluvia intensa. <a href="https://www.amazon.es/s?k=deshumidificador+electrico+pequeno&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver deshumidificadores pequeños en Amazon</a>.</p>
 
 <p><strong>Gratis:</strong> la ventilación cruzada con bórax (cristato de bórax, no bórax puro). Un saquito de bórax en cada armario absorbe 1-2 L/día de forma pasiva. No es un deshumidificador, pero en un apagón es la opción que no necesita enchufe. El bórax se compra en ferreterías por 2-5 € el kilo y no caduca.</p>
 
@@ -69,11 +69,11 @@ CUERPO = """<p>La humedad oculta es la que más destruye después de una inundac
 <h2>Kit de deshumedecimiento básico</h2>
 
 <ul>
-<li><strong>Deshumidificador de compresor 20 L/día:</strong> <a href="https://www.amazon.es/s?k=deshumidificador+compresor+20l+recogida+agua&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver modelos en Amazon</a> — el caballo de batalla, para un piso normal de 70-90 m².</li>
-<li><strong>Sacos de bórax o sílice:</strong> para armarios y zonas pequeñas donde no llega el compresor. <a href="https://www.amazon.es/s?k=saquitos+deshumidificantes+armario&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver sacos deshumidificantes en Amazon</a>.</li>
-<li><strong>Higrómetro digital:</strong> para medir la humedad real, no adivinarla. Unos 8-12 € y se cuelga en la pared. <a href="https://www.amazon.es/s?k=higrometro+digital+pare&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver higrómetros digitales en Amazon</a>.</li>
-<li><strong>Lejía concentrada:</strong> para limpiar moho visible antes de secar. 1 parte de lejía por 10 de agua. <a href="https://www.amazon.es/s?k=lejia+concentrada+limpieza&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver lejía concentrada en Amazon</a>.</li>
-<li><strong>Plástico de burbujas o film industrial:</strong> para sellar puertas y ventanas durante el secado. <a href="https://www.amazon.es/s?k=plastico+burbujas+gran+formato&tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Ver plástico de burbujas en Amazon</a>.</li>
+<li><strong>Deshumidificador de compresor 20 L/día:</strong> <a href="https://www.amazon.es/s?k=deshumidificador+compresor+20l+recogida+agua&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver modelos en Amazon</a> — el caballo de batalla, para un piso normal de 70-90 m².</li>
+<li><strong>Sacos de bórax o sílice:</strong> para armarios y zonas pequeñas donde no llega el compresor. <a href="https://www.amazon.es/s?k=saquitos+deshumidificantes+armario&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver sacos deshumidificantes en Amazon</a>.</li>
+<li><strong>Higrómetro digital:</strong> para medir la humedad real, no adivinarla. Unos 8-12 € y se cuelga en la pared. <a href="https://www.amazon.es/s?k=higrometro+digital+pare&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver higrómetros digitales en Amazon</a>.</li>
+<li><strong>Lejía concentrada:</strong> para limpiar moho visible antes de secar. 1 parte de lejía por 10 de agua. <a href="https://www.amazon.es/s?k=lejia+concentrada+limpieza&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver lejía concentrada en Amazon</a>.</li>
+<li><strong>Plástico de burbujas o film industrial:</strong> para sellar puertas y ventanas durante el secado. <a href="https://www.amazon.es/s?k=plastico+burbujas+gran+formato&tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Ver plástico de burbujas en Amazon</a>.</li>
 </ul>
 
 <p>La humedad es la razón número uno por la que los seguros rechazan claims post-inundación: si el moho lleva más de 30 días creciendo, se considera «deterioro progresivo» y no «daño repentino». Por eso, actuar en las primeras 72 horas no es una sugerencia, es una obligación contractual.</p>

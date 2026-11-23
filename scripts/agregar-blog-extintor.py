@@ -48,23 +48,23 @@ CUERPO = """
 <table>
 <thead><tr><th>Tipo</th><th>Cuándo compensa</th><th>Precio orientativo</th></tr></thead>
 <tbody>
-<tr><td><a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+2+kg&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Polvo ABC de 1-2 kg ↗</a></td><td>Primera compra: mochila, recibidor, despensa</td><td>20-35 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+6+kg&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Polvo ABC de 6 kg ↗</a></td><td>Casa completa, garaje o comunidad</td><td>40-70 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=extintor+co2+2+kg&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">CO₂ de 2 kg ↗</a></td><td>Cuadro eléctrico o taller: no deja residuo</td><td>40-65 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=extintor+de+espuma+clase+f+cocina&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Espuma clase F (6 L) ↗</a></td><td>Cocina: el único para aceite caliente</td><td>35-60 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=extintor+acuoso+domestico&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Agua con aditivo / acuoso ↗</a></td><td>Cocina y salón: eficaz y poco sucio</td><td>30-55 €</td></tr>
-<tr><td><a href="https://www.amazon.es/s?k=manta+antifuego+extintor+aerosol&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">Manta antifuego o aerosol ↗</a></td><td>Sobre la vitro y en el coche: corta el fuego pronto</td><td>10-25 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+2+kg&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Polvo ABC de 1-2 kg ↗</a></td><td>Primera compra: mochila, recibidor, despensa</td><td>20-35 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+6+kg&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Polvo ABC de 6 kg ↗</a></td><td>Casa completa, garaje o comunidad</td><td>40-70 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=extintor+co2+2+kg&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">CO₂ de 2 kg ↗</a></td><td>Cuadro eléctrico o taller: no deja residuo</td><td>40-65 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=extintor+de+espuma+clase+f+cocina&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Espuma clase F (6 L) ↗</a></td><td>Cocina: el único para aceite caliente</td><td>35-60 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=extintor+acuoso+domestico&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Agua con aditivo / acuoso ↗</a></td><td>Cocina y salón: eficaz y poco sucio</td><td>30-55 €</td></tr>
+<tr><td><a href="https://www.amazon.es/s?k=manta+antifuego+extintor+aerosol&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">Manta antifuego o aerosol ↗</a></td><td>Sobre la vitro y en el coche: corta el fuego pronto</td><td>10-25 €</td></tr>
 </tbody>
 </table>
 
 <h2>3. Ganadores por caso</h2>
 
 <ul>
-<li><strong>Un solo aparato para un piso:</strong> polvo ABC de 6 kg, el mismo que cuelga en las escaleras; si el presupuesto aprieta, el de 2 kg ya cubre el fuego incipiente: <a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+2+kg&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de polvo ABC ↗</a>.</li>
-<li><strong>Cocina con frecuencia:</strong> espuma clase F junto a la puerta, nunca encima de la vitro, más manta antifuego en el cajón de debajo: <a href="https://www.amazon.es/s?k=extintor+de+espuma+clase+f+cocina&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de clase F ↗</a>.</li>
-<li><strong>Cuadro eléctrico o trastero:</strong> CO₂ de 2 kg, que deja el aparato y los cables utilizables después: <a href="https://www.amazon.es/s?k=extintor+co2+2+kg&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de CO₂ ↗</a>.</li>
-<li><strong>Garaje o taller con combustible:</strong> polvo ABC de 6 kg en su soporte de pared y visible desde la entrada: <a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+6+kg+soporte+pared&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de 6 kg ↗</a>.</li>
-<li><strong>Maletero y caravana:</strong> manta antifuego o pequeño extintor, porque en una furgoneta lo que arde antes es la nevera y la ropa — el resto va en <a href="/kit/kit-coche/">kit de coche</a>: <a href="https://www.amazon.es/s?k=manta+antifuego+coche&amp;tag=ntizar-21" target="_blank" rel="sponsored nofollow noopener">ver mantas antifuego ↗</a>.</li>
+<li><strong>Un solo aparato para un piso:</strong> polvo ABC de 6 kg, el mismo que cuelga en las escaleras; si el presupuesto aprieta, el de 2 kg ya cubre el fuego incipiente: <a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+2+kg&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de polvo ABC ↗</a>.</li>
+<li><strong>Cocina con frecuencia:</strong> espuma clase F junto a la puerta, nunca encima de la vitro, más manta antifuego en el cajón de debajo: <a href="https://www.amazon.es/s?k=extintor+de+espuma+clase+f+cocina&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de clase F ↗</a>.</li>
+<li><strong>Cuadro eléctrico o trastero:</strong> CO₂ de 2 kg, que deja el aparato y los cables utilizables después: <a href="https://www.amazon.es/s?k=extintor+co2+2+kg&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de CO₂ ↗</a>.</li>
+<li><strong>Garaje o taller con combustible:</strong> polvo ABC de 6 kg en su soporte de pared y visible desde la entrada: <a href="https://www.amazon.es/s?k=extintor+de+polvo+abc+6+kg+soporte+pared&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver extintores de 6 kg ↗</a>.</li>
+<li><strong>Maletero y caravana:</strong> manta antifuego o pequeño extintor, porque en una furgoneta lo que arde antes es la nevera y la ropa — el resto va en <a href="/kit/kit-coche/">kit de coche</a>: <a href="https://www.amazon.es/s?k=manta+antifuego+coche&amp;tag=kit72h-21" target="_blank" rel="sponsored nofollow noopener">ver mantas antifuego ↗</a>.</li>
 </ul>
 
 <p>Aviso honesto: un extintor de 2 kg se vacía en <strong>unos 10-15 segundos</strong> de chorro. Sirve para el fuego que acaba de empezar, no para una habitación en llamas. Si en dos pasadas no lo has cortado, es momento de salir.</p>
@@ -134,9 +134,9 @@ palabras = len(re.sub(r"<[^>]+>", " ", cuerpo).split())
 assert 700 <= palabras <= 1200, f"cuerpo con {palabras} palabras (fuera de 700-1200)"
 assert "<p>" in cuerpo and "<h2>" in cuerpo, "cuerpo sin estructura"
 assert len(ENTRADA["resumen"]) < 160, f"resumen con {len(ENTRADA['resumen'])} car."
-assert "amazon.es" not in cuerpo or "tag=ntizar-21" in cuerpo, "Amazon sin tag"
+assert "amazon.es" not in cuerpo or "tag=kit72h-21" in cuerpo, "Amazon sin tag"
 for m in re.findall(r'href="(https://www\.amazon\.es/[^"]+)"', cuerpo):
-    assert "tag=ntizar-21" in m, f"enlace sin tag: {m}"
+    assert "tag=kit72h-21" in m, f"enlace sin tag: {m}"
 internos = re.findall(r'href="(/(?:blog|kit)/[^"]+)"', cuerpo)
 assert len(internos) >= 3, "menos de 3 enlaces internos"
 for m in internos:
