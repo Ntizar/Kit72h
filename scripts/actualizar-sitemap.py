@@ -18,6 +18,8 @@ for m in re.finditer(r'<loc>(.*?)</loc>', sitemap):
 today = '2026-10-01'
 new_entries = []
 for d in sorted(os.listdir(BLOG)):
+    if not os.path.isdir(os.path.join(BLOG, d)):
+        continue          # blog/index.html no es un artículo: generaba /blog/index.html/ (404)
     slug = d.lower()
     url = f'https://kit72h.com/blog/{slug}/'
     if url not in existing:
