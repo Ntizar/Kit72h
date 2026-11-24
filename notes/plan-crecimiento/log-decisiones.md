@@ -71,3 +71,5 @@
 | 2026-11-22 | mejor-radio-emergencia-manivela-solar | revamp | encolado | Revamp 343->1442 palabras: 4 fichas verificadas, tabla comparativa, DAB+/NOAA fuera, 3 fuentes oficiales, 6 internos |
 | 2026-11-23 | kit-72h-vs-30-dias | revamp | encolado | Revamp 333->1444 palabras: tabla 72h vs 30 dias, 3 fuentes oficiales, 10 internos, 3 ASIN verificados |
 | 2026-11-23 | fichas pendientes (12 items sin dp) | asins | propuesto | Deuda de catalogo: 12 items sin ficha /dp/; requiere revision humana del buscador |
+| 2026-11-24 | como calentar la casa sin electricidad | guia | propuesto | Score 101.2 (top) pero duplicado del post publicado 2026-11-16 (calentar-casa-sin-electricidad-invierno, 1470 palabras); se descarta repetir |
+| 2026-11-24 | comunicar-sin-red-movil | revamp | encolado | Revamp 351->1639 palabras: tabla por escenario, PMR446 legal (0,5 W/antena fija), SOS satelite con cielo despejado, 4 fuentes oficiales, 7 internos, 3 ASIN |
