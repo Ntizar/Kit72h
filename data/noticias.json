@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-24T04:11:00+01:00",
+  "actualizado": "2026-11-24T07:11:11+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "La Unión Europea insta a los países a ayudar a la población a prepararse para las primeras 72 horas de una crisis",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2x5YmlGMkF3SXliMFFCTDNQbDlLdmZOZGR6TFRCdWsxMlNVanB1OFZja2JVMldoeldETThaM2F5dldRZXloRjhPMU95UmV0ZlEzMDdsOThJdDN4aXNmdk5oNmdlSWd6MXdPVFJmVFZ0Z2lKbktpU0docVhPYVFnZTAtWGgyWTBmSmw2d2ZDeEE2Y01YSHV4WWdrd0xCSWhMd0trd2xrUldFdmNxM1JDRjJjMEdGXzRCTG1BQU1yR0ZFRkJhWkxvMmYwY2pZZGl3bnBoUkFLTXB0NVVtSGUwSzdRUmhYZERYTGZocFJ6V3B2YWMtb3ZLNDFERVN2TWFaMGZydEE3UQ?oc=5",
+     "fuente": "The Portugal News",
+     "resumen": "",
+     "fecha": "2026-11-23T00:48:45+01:00",
+     "fecha_txt": "23 nov"
+    },
+    {
+     "titulo": "Por qué tantos países están advirtiendo repentinamente a sus ciudadanos que se preparen para una emergencia y almacenen suministros esenciales de supervivencia",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVEzbnhleEpmMHkyY0Vtal9JUkhPQVU2cUhwM0NsWEc5Ni1vTWp0SnY3M2s5VmVUVnJObTFmc3FHOHFhNjV2U3lQWU5WZTdmTWVsMTRMTlN2TDdrbU5sMGxJR3Vvczg0RnFGUS1wcC04VnVUdUxqcWRNRmdFTlFLdDJUR25qQQ?oc=5",
+     "fuente": "Bitfinanzas",
+     "resumen": "",
+     "fecha": "2026-11-22T21:57:07+01:00",
+     "fecha_txt": "22 nov"
+    },
     {
      "titulo": "Kit de emergencia para 72 horas: guía para sobrevivir a una urgencia",
      "url": "https://www.msn.com/es-mx/noticias/other/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
@@ -36,6 +52,14 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
+     "url": "https://elcomercio.pe/respuestas/que/que-debe-incluir-tu-mochila-de-emergencia-indeci-brinda-recomendaciones-tras-el-sismo-en-junin-tdpe-noticia/",
+     "fuente": "El Comercio",
+     "resumen": "Agua, alimentos, botiquín y una radio a pilas forman parte de los suministros indispensables para afrontar una emergencia. Pero la preparación no termina allí: Indeci recomienda una caja de reserva pa ...",
+     "fecha": "2026-11-20T16:57:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
      "titulo": "Kit de emergencia para 72 horas: qué conviene tener en casa y qué recomienda la Unión Europea",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGdFMTlBU2U0a051VkREOU1yRGNWcDN6NFE4d2d6RjlrX3MxbXR1LXVJNGxSMy1xbjVjR1VuOGowaHB5TmpKbVZEUDlmNVdFbUVOX1dOQ20yLTZqLUtnNEtVLWhZWm9YVDZmTkxmSFJoV2N0TWt4U2lRRHNpSFlHb28xb2l0U1Jzamg3bDNjUzg3MnQtSTdDZGcxV2R3R2kwMnlCTmZ4djYxeXpfZGVQMU9XN05CQUtSY1NYYzJMOHVWQU1UZ1I0T2xNTlPSAcwBQVVfeXFMTXF6dnowWmxoX2dRazZ3TlViVmdqOVFOTUZpcDA2aUgtX3d0NXBBa2ttZUNJbmVxLTVDODN2aXNZTDhpUVNvRklPcWhsb0JSNmpURzdDVmVLVVJRUjk4dVlaUjVqQ2dHeHQ3cnM3R0k3RkJ2emFpLUNWSmoyX2V4N3hNUE9aRE1jNlg2b2RWTlEtYkxSWEJKeHV6M0xKV2NKbGlfTGtyMm42TEo5NVA2R3AwVG5DZFRDX2R1MWtUd3p5RllJYnliSGF5UHZE?oc=5",
      "fuente": "El Periódico",
@@ -50,30 +74,6 @@
      "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
      "fecha": "2026-11-20T02:30:00+01:00",
      "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "Nuevas guías de crisis de la UE para las primeras 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGYtSGZOWlI2c1NzT1dZdjUwV04wdEZFbndiRWI5TU5IZGJzbWVNdmtBS185NUFTM2hYamZVWmVIa0NqVFhQMHVocVlqTUdMcUtfSXVyeFk2S19GM0pZYmllYnpoc0xWY3JkTVQwUmdpYzAyZWpfa0djTDBUdjZJbnpRVWljaDdxVzJvSnFkWlZwSG1wMjBRaEZNZy1ZcnloZ1NJYjZkazZ4UGRIcXQtc0VXWEx2ekcyNkJib1pXdzEwUWM?oc=5",
-     "fuente": "Euronews.com",
-     "resumen": "",
-     "fecha": "2026-11-19T11:00:06+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "Kit de emergencia 72h recomendado por la UE: Todo lo que necesitas saber",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zbEJqTk5PM2VXbUdFQjVwQmtBMXVEeGlDeGxHU1pEc1ZDbUVOZmtOZlIwLVk1a1dGcXZ2dkJsQ2dYTTl3TFRFcTlrSG9QR21QbEZSa045Zy04UVJ6OWRURjhEendTbks4QklRR0RIU1V6NUVLSEtv?oc=5",
-     "fuente": "PcComponentes",
-     "resumen": "",
-     "fecha": "2026-11-19T09:00:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRGRaMHBNYlRYSkRIZXlzdU41Q0hxQmY0NHQzVlhoaUpVQ0MyMzVsMXZwNVdkdUlWdndwbkNwOGQ4NWxPS2lSSkFsZ3hUWkNORzBEVG5TeXVoNTFWcGp4UGJIQ1V0UzhVNENyYVc1U2F0elFmZTgzcjNzSnRUVTZaVHE3a0V2SFMtVWRRTXZObjJGUWhsLWJKVkVQZkpFRHZjcjBtc3MxeDdyWEg1WXF1bG9SMzl4cmpoU0hGTUpfTmJpYVhBOWR6S202Y2lqaXpBQ2NjTmYtRGQ2S0JZcktiZFBzMkU4Z3MxM0RGOE5rTi1DLW84QWIyclF2b0ZBMGdwY3dCWDFkbjk2Zw?oc=5",
-     "fuente": "Computer Hoy",
-     "resumen": "",
-     "fecha": "2026-11-19T05:15:00+01:00",
-     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -233,6 +233,14 @@
      "fecha_txt": "23 nov"
     },
     {
+     "titulo": "Qué dicen los programas electorales sobre energía, cambio climático y medio ambiente",
+     "url": "https://www.telecinco.es/noticias/espana/20261124/elecciones-generales-2026-programas-electorales-energia-cambio-climatico-medio-ambiente_18_020584598.html",
+     "fuente": "Telecinco",
+     "resumen": "El 28 de abril de 2025, España se quedó a oscuras. Según el informe que presentó después el Gobierno, el apagón tuvo “un origen multifactorial”, dad ...",
+     "fecha": "2026-11-23T17:00:00+01:00",
+     "fecha_txt": "23 nov"
+    },
+    {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
      "fuente": "teleSUR",
@@ -249,20 +257,20 @@
      "fecha_txt": "22 nov"
     },
     {
+     "titulo": "La CNMC recorta un 84% los incentivos a Red Eléctrica por su gestión en el año del apagón",
+     "url": "https://theobjective.com/economia/energia/2026-11-22/cnmc-recorta-incentivos-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Una resolución reciente de la Comisión Nacional de los Mercados y la Competencia (CNMC) ha reducido un 84% los incentivos a la retribución del operador ...",
+     "fecha": "2026-11-21T22:25:00+01:00",
+     "fecha_txt": "21 nov"
+    },
+    {
      "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk3SAYQCQVVfeXFMTlk0R20tS0tHVTdaMlIyNURrNG40Y2dIMDAta3F0NVVXem5HY0tPb2d1WnNOdGRXdkJxbG9zQ21GaVZVVDJIR1BBR0dVWHc2UE5tbFoxeEZVMy1WS1NTY0tBSEc2b0RPTzVsOU1qSElBeFVMQ1Z0LTJLMDloaUlzb0VlX2FWdnp1ZUFkVWl3SUd1ZWtGV2lmeU5ncXZEWVJwME1DVlhJS05nMDZPZXpidFk4RElVSHJDQ3djaC00bWE0blVnOEhGdW1xbThrUGpPQmxOUjJzV0dGT3NBT0pSUXhLM1ktVVhSTFNkRS10LUtLMzJOZ0tpazBaLU5aWXdNSURRci0?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-21T05:45:39+01:00",
      "fecha_txt": "21 nov"
-    },
-    {
-     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
-     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
-     "fuente": "Diario Área",
-     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
-     "fecha": "2026-11-20T12:55:00+01:00",
-     "fecha_txt": "20 nov"
     },
     {
      "titulo": "La viguesa ACSM se adjudica la inspección del cableado submarino entre España y Marruecos, clave para recuperar la luz en la península tras el apagón",
@@ -273,20 +281,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHU4SHZic3hFWGdiSWJ4ZU12cmZLRTY0RHJwYlJKTWctaFBFNUU1dnI5TVFLQjJld2lxSzhuQmhfNi1lSm1sN3ZzeEdJN194U1pnMkZ6bVZmaUV1b1IxWUNCOWpqcDhISUlCWVotZUt3RVM5S0JjSkRXN0NTcE5kZ3FGdWlXa0ZFYkxYaVdtbHNIRzF3amhTS0VqUWo4clBRLUNjSG5jR19HelBYLTVIZHQtUUFvMFFkRXVoam9WbXNuZFZkaXhFMG5nUEUtNkpEZkpkdmJGdEJ6MEZHVjd5N1RB?oc=5",
-     "fuente": "El Pespunte",
-     "resumen": "",
-     "fecha": "2026-11-17T20:42:06+01:00",
-     "fecha_txt": "17 nov"
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   }
