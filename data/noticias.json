@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-24T19:10:06+01:00",
+  "actualizado": "2026-11-24T22:10:06+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -99,11 +99,27 @@
      "fecha_txt": "24 nov"
     },
     {
+     "titulo": "Estabilizado el incendio forestal de Formentor tras quemar 280 hectáreas",
+     "url": "https://www.msn.com/es-es/noticias/otras/estabilizado-el-incendio-forestal-de-formentor-tras-quemar-280-hect%C3%A1reas/ar-AA2i6SvS",
+     "fuente": "20 minutos on MSN",
+     "resumen": "El incendio forestal declarado el pasado domingo en la península de Formentor, al noreste de Mallorca, ha quedado estabilizado a las 9.00 horas de este martes tras calcinar unas 280 hectáreas de pinar ...",
+     "fecha": "2026-11-24T12:11:29+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
      "titulo": "Estabilizado el incendio forestal de Formentor (Mallorca)",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmhOd2hKTVN0b0Z6b2Z5WGpncFJrVHF0aGEwVjdkb3VmSHpSLXdzM0NMMF9NcWlOVFplOVpORS1IU3R3RW5lY0Z4RXl3R0pueTM4dGNCZkN0WnJZX1VocVFOb3UwMUdvRmRsdHktYUticzFTMVVnRlRNSHlzTkQyMFBGcGV4cUJLX2Jrbi03anRKSEV3azdWY1VWMERyTkFnbi1wWmZXSkpYZVHSAcYBQVVfeXFMTmJOWXozTlI1WVRONUFkQWN1Qm84T3lXVjlCUEdMRzR1VGV2VVNBdE5wWGpjZVdiUTVDa1YtcXU2T0MxS0kyQUVlcHAyblRrWWRNMms3bjVXZnN0cE5jTEpwLUZyRE5qYVl6dlhDY3RBbFo5dEtYOUhxbnU1NVpMMENSLWxObzJVMlhxRFdhZ0pJM1UybUw3VnRBVFJJRVg1Qm50M19RSVdZT3NhcXctbzZfUVNsYi1wM2ROeUdWcWxYUTBpSE5n?oc=5",
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-24T09:47:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "El incendio de Formentor (Mallorca) está estable tras quemar 268 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclhaR2lKTVZxajRCdEFacngweUx3TkJFTmEwdlpTeWx1T2JseTFIMk4xZjlIejdHanFOUVVMUTlHYU1tZXI0ekJFcW5mUVljMVZxbGRtcGlobmZVTVdfTTlVUnpic0NGY19oNGF4ZXJLTjRHdUxxTFhMMkFRT2tZWnZ2RlYxMFhiajBHRk1PSUhiZ0hhUDlLVUNwa3RZVmc2?oc=5",
+     "fuente": "El Confidencial",
+     "resumen": "",
+     "fecha": "2026-11-24T09:30:00+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -129,22 +145,6 @@
      "resumen": "",
      "fecha": "2026-11-23T14:30:36+01:00",
      "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "El incendio de Mallorca podría superar las 200 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUFmQk9MR25qeGoyQ1NMR3BhaHNlWTJKaXZZblpXa05VdTVnaC1GQ3BOTDlrMU0teVd3UjFPNkpIS1RfQ1VPNFItOXd1UVZnNE5FRGFyU0dWbjdSQXY1bmpKc251d0RJYlFHc2RGbS1rUkY1ckpDWG9oQjF4alZjSnVSZnpuODZ3QkJUUzlIMjlwOFRQNWduUEVlVS16S2I4TjlGanYzRHRkdE9UdVVwVlZIY9IBuAFBVV95cUxNeWdSUmI1VVZreWhpLTNJZjVRRThyMTJ0cHFRSE9IdHdSTURjdmM5NnE5QUk4RE52OENLOVRucjRNRXh0S0E0eXAzazNSX1pFYTFSeXBHMnY3WTRHUVRjZ1RvYmxIbm9ZODJ0NE45LVBGeXk4c3F5a3dDZ3JWRUJDc3ZSLUV1eUxhY3RmQ1N4TWQzTlhfaUhlVlhiQnNlbEFRcmRvaHRMUWoxYU5zdWtDaTBEWUZLMjNs?oc=5",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "",
-     "fecha": "2026-11-23T13:39:15+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "¿Qué sabemos del incendio de Formentor que sigue activo en Mallorca?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUpQTi1NZ2U3WGV3cExyMXh1dHBSTHd0LW1VdTNmUzZLX3ZXdTU5SlhjcVFZcnVobW83MlRtYWc2TDBTMTFOQVd2Y1lnNFB5YUt5UHA1dUJHbUZOdHBjSjNkcXpNZU10TEpoRVppWW5SYTRxQXNLVGhsNldtNnRfMFlfQXFUMUhuNUlBTlJB0gGTAUFVX3lxTE5COE1STC1yRTAtWmZFZ1dtVWVnMkYyQWNoVGxWQTdFdTFWRkNhLVE2dGxqV3VGcHhfajB1QnpGYUV1RklydlJsQ1VPOXFLWlg4azdIbEFvX0JoallRbjg1QWdINFVIaHVzVUl4Z3h0eDVpVmp3dUtrcDk4eU8teDljR2NhMU9mZjBacjZBcDhsX19iZw?oc=5",
-     "fuente": "Diario Público",
-     "resumen": "",
-     "fecha": "2026-11-23T12:01:02+01:00",
-     "fecha_txt": "23 nov"
     }
    ]
   },
@@ -153,14 +153,6 @@
    "titulo": "Inundaciones",
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
-    {
-     "titulo": "Las lluvias provocan inundaciones en el taller de un concesionario de coches de A Coruña",
-     "url": "https://www.msn.com/es-es/noticias/otras/las-lluvias-provocan-inundaciones-en-el-taller-de-un-concesionario-de-coches-de-a-coru%C3%B1a/ar-AA2i8kPL",
-     "fuente": "El Español on MSN",
-     "resumen": "La empresa asegura que los problemas se debieron a un atasco en las canalizaciones por el temporal y que ya han sido solucionados. Trabajadores denuncian que llevan tiempo soportando unas condiciones ...",
-     "fecha": "2026-11-24T08:37:09+01:00",
-     "fecha_txt": "24 nov"
-    },
     {
      "titulo": "Una nueva rotura de tubería causa inundaciones en Los Rosales, en Tocina (Sevilla)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hyY0VONktjdE5RRFJRaUprVkRMRW1KQU5Mc0NnMmlpeFp6QWNaMnExLWZvR0I5M0RoZjVpV2xJblVPemRhQ0ljcWppZzByRlN2WW1pN2FweUk1VklxakI3NFBFMVlxU2FYck14Smp4MHFPNlJkNkR5SU54YjcxU2hWQ2xYQjRYYjJhX1R4Vk53NGh5ZUpGSVlBVm5EYllqemRTZUNB0gGrAUFVX3lxTE9tVEhnaGF4MFJHQnpMUlQxRGlOZWJsanRza21Da2FVaUhrMEVIczdBMkgwUVhXNkxfOElJY1RWM082Mm1fdnMxSnVBUkFkN2g5aFdRbmFjSXowLUt2dXduQ2tyQVJnd0tIVDBoNEVibl9TRmtpTkZSNHhEdjJyaFBVYzhraEZBTzdsdzRnUjJVeW92SzhhWk9PY0RHc3NvYVBzX1d0UG5ja25pTQ?oc=5",
@@ -194,14 +186,6 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
-     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
-     "fuente": "Cambio16",
-     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
-     "fecha": "2026-11-17T02:15:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
      "fuente": "EL PAÍS",
@@ -216,6 +200,22 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
+    },
+    {
+     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
+     "url": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/borrascas-bruna-charles-ponen-alerta-espana-lluvias-torrenciales-fuertes-vientos-riesgo-inundaciones_202611106af34c8e9a31a65adcd747a4.html",
+     "fuente": "laSexta",
+     "resumen": "Este miércoles día 11 será uno de los días más complicados, pero la situación podría empezar a mejorar a partir del jueves.",
+     "fecha": "2026-11-10T09:55:00+01:00",
+     "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
+     "url": "https://www.elespanol.com/ciencia/20261106/meteorologos-avisan-lluvias-torrenciales-aumentaran-riesgo-inundaciones-espana/1003744435488_0.html",
+     "fuente": "ESPAÑOL",
+     "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
+     "fecha": "2026-11-05T22:29:00+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   },
@@ -257,14 +257,6 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "El sector energético denuncia que Red Eléctrica impide la publicación de 8.000 audios del apagón: «Adif sac...",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTFiOFFpbE92NWpkWVU2bEZ0X3dzNjNraFk1UEV0REJSbjBPOFl3YVZRRUx0NVpoXzNtbklGSC16azJLazl6ei1GX0htNHFob2dfYXZ3TW1CakZrUDUxX2FhdlhpQ25NYWtLWU1pNGx2dk84WXBOY1ozOFk3NUx4ZHhBQjY0NFhjRkpBVXowMnhYUDZKdklVdzI5ZzVyb0JBclp0aUY0a0hGOV9sTnFoUE0taUhPdWdnczEtbDhPUERsUTFZUWhhRkxKYkt6LUoweWVfblJaRkZEZG4tYWxWV3ZSNWo3SGU1dDRwcVdKMEFTdlkybUZEUEhwaUVORk3SAYQCQVVfeXFMTlk0R20tS0tHVTdaMlIyNURrNG40Y2dIMDAta3F0NVVXem5HY0tPb2d1WnNOdGRXdkJxbG9zQ21GaVZVVDJIR1BBR0dVWHc2UE5tbFoxeEZVMy1WS1NTY0tBSEc2b0RPTzVsOU1qSElBeFVMQ1Z0LTJLMDloaUlzb0VlX2FWdnp1ZUFkVWl3SUd1ZWtGV2lmeU5ncXZEWVJwME1DVlhJS05nMDZPZXpidFk4RElVSHJDQ3djaC00bWE0blVnOEhGdW1xbThrUGpPQmxOUjJzV0dGT3NBT0pSUXhLM1ktVVhSTFNkRS10LUtLMzJOZ0tpazBaLU5aWXdNSURRci0?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-21T05:45:39+01:00",
-     "fecha_txt": "21 nov"
-    },
-    {
      "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
      "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
      "fuente": "Diario Área",
@@ -287,6 +279,14 @@
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
      "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
+     "fuente": "OkDiario",
+     "resumen": "",
+     "fecha": "2026-11-17T17:19:37+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   }
