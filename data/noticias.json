@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-24T13:11:01+01:00",
+  "actualizado": "2026-11-24T19:10:06+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -17,14 +17,6 @@
      "fuente": "Donostitik",
      "resumen": "Descubre por qué la UE recomienda tener un kit de emergencia para 72 horas, qué debe incluir y cómo preparar tu hogar ante apagones y otras emergencias ...",
      "fecha": "2026-11-24T04:28:00+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "Esto debe incluir el kit de emergencia ante peligros como un gran apagón y otras crisis",
-     "url": "https://www.msn.com/es-pe/noticias/otras/esto-debe-incluir-el-kit-de-emergencia-ante-peligros-como-un-gran-apag%C3%B3n-y-otras-crisis/ar-AA2i6WqI",
-     "fuente": "Euronews on MSN",
-     "resumen": "Tras el apagón masivo la Península Ibérica consulta como sobrevivir a futuras crisis. Este es el kit de supervivencia que propone la UE. View on euronews ...",
-     "fecha": "2026-11-24T02:48:38+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -68,11 +60,19 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
-     "url": "https://elcomercio.pe/respuestas/que/que-debe-incluir-tu-mochila-de-emergencia-indeci-brinda-recomendaciones-tras-el-sismo-en-junin-tdpe-noticia/",
-     "fuente": "El Comercio",
-     "resumen": "Agua, alimentos, botiquín y una radio a pilas forman parte de los suministros indispensables para afrontar una emergencia. Pero la preparación no termina allí: Indeci recomienda una caja de reserva pa ...",
-     "fecha": "2026-11-20T16:57:00+01:00",
+     "titulo": "Kit de emergencia para 72 horas: qué conviene tener en casa y qué recomienda la Unión Europea",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGdFMTlBU2U0a051VkREOU1yRGNWcDN6NFE4d2d6RjlrX3MxbXR1LXVJNGxSMy1xbjVjR1VuOGowaHB5TmpKbVZEUDlmNVdFbUVOX1dOQ20yLTZqLUtnNEtVLWhZWm9YVDZmTkxmSFJoV2N0TWt4U2lRRHNpSFlHb28xb2l0U1Jzamg3bDNjUzg3MnQtSTdDZGcxV2R3R2kwMnlCTmZ4djYxeXpfZGVQMU9XN05CQUtSY1NYYzJMOHVWQU1UZ1I0T2xNTlPSAcwBQVVfeXFMTXF6dnowWmxoX2dRazZ3TlViVmdqOVFOTUZpcDA2aUgtX3d0NXBBa2ttZUNJbmVxLTVDODN2aXNZTDhpUVNvRklPcWhsb0JSNmpURzdDVmVLVVJRUjk4dVlaUjVqQ2dHeHQ3cnM3R0k3RkJ2emFpLUNWSmoyX2V4N3hNUE9aRE1jNlg2b2RWTlEtYkxSWEJKeHV6M0xKV2NKbGlfTGtyMm42TEo5NVA2R3AwVG5DZFRDX2R1MWtUd3p5RllJYnliSGF5UHZE?oc=5",
+     "fuente": "El Periódico",
+     "resumen": "",
+     "fecha": "2026-11-20T13:06:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
+     "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
+     "fuente": "EL PAÍS",
+     "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
+     "fecha": "2026-11-20T02:30:00+01:00",
      "fecha_txt": "20 nov"
     }
    ]
@@ -83,27 +83,27 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "WWF planta cara a la devastación forestal: voluntarios recuperan la naturaleza tras los incendios en España",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVNudlFtTlREOTRPNHBYLUhESldlVWExTWgzd0pBUC0zeHdFeGJidmtSRlFzX1dyUlV4NDk5UUpHZ1J0UkxLRm5DN2Q0NmRyQVozLTJSelVxRXVzX2MxcWl1MGlQcXZrajZIUktnWjFCWWUtaWdxbGRENlktTlR3ek44aEF5ZFk?oc=5",
+     "fuente": "ECOticias.com - El periódico verde",
+     "resumen": "",
+     "fecha": "2026-11-24T15:18:39+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "\"Crueldad máxima\": Matan a más de 300 ciervos y jabalíes sobrevivientes del mayor incendio de España",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ29OZFRzYzZrNGM2bHFLTl91R1RKUzRxYzk2Y2w5ekoxUWRFVHpyTUhJdmdNLUVXeW93NW15RmN4Tl9DOE4zaWh4X2hQMk9BWXFCVXpvdjJZcHgwUlEyS3NxRVpNNVFLdFEwQ1JpbndKM1hLRzlsX3ZkZnZraThGcE1aRGdPMmlRQW5ra1NmcVVFa3FZbUQyZ0piMDdkeEFkbGVfc1h6aFJsWi10Y2hnUWp2SE56ZGw3MVAyUGEzdUF0ZjZGYTJMUGdKTVBmOTk1djNPTDMzMlNJRUk3emlxcTlBTTkxcnNSdUJMbkdIaThBNHBoNjVKLQ?oc=5",
+     "fuente": "BioBioChile",
+     "resumen": "",
+     "fecha": "2026-11-24T15:05:02+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
      "titulo": "Estabilizado el incendio forestal de Formentor (Mallorca)",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmhOd2hKTVN0b0Z6b2Z5WGpncFJrVHF0aGEwVjdkb3VmSHpSLXdzM0NMMF9NcWlOVFplOVpORS1IU3R3RW5lY0Z4RXl3R0pueTM4dGNCZkN0WnJZX1VocVFOb3UwMUdvRmRsdHktYUticzFTMVVnRlRNSHlzTkQyMFBGcGV4cUJLX2Jrbi03anRKSEV3azdWY1VWMERyTkFnbi1wWmZXSkpYZVHSAcYBQVVfeXFMTmJOWXozTlI1WVRONUFkQWN1Qm84T3lXVjlCUEdMRzR1VGV2VVNBdE5wWGpjZVdiUTVDa1YtcXU2T0MxS0kyQUVlcHAyblRrWWRNMms3bjVXZnN0cE5jTEpwLUZyRE5qYVl6dlhDY3RBbFo5dEtYOUhxbnU1NVpMMENSLWxObzJVMlhxRFdhZ0pJM1UybUw3VnRBVFJJRVg1Qm50M19RSVdZT3NhcXctbzZfUVNsYi1wM2ROeUdWcWxYUTBpSE5n?oc=5",
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-24T09:47:00+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "Estabilizado el incendio forestal de Formentor tras quemar 280 hectáreas",
-     "url": "https://www.msn.com/es-es/noticias/otras/estabilizado-el-incendio-forestal-de-formentor-tras-quemar-280-hect%C3%A1reas/ar-AA2i6SvS",
-     "fuente": "20 minutos on MSN",
-     "resumen": "El incendio forestal declarado el pasado domingo en la península de Formentor, al noreste de Mallorca, ha quedado estabilizado a las 9.00 horas de este martes tras calcinar unas 280 hectáreas de pinar ...",
-     "fecha": "2026-11-24T01:49:59+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "Medios aéreos trabajan ya en el incendio de Mallorca, activo tras quemar 280 hectáreas",
-     "url": "https://www.msn.com/es-es/noticias/otras/medios-a%C3%A9reos-trabajan-ya-en-el-incendio-de-mallorca-activo-tras-quemar-280-hect%C3%A1reas/ar-AA2i6DVl",
-     "fuente": "Agencia EFE on MSN",
-     "resumen": "INCENDIOS FORESTALES ...",
-     "fecha": "2026-11-24T01:24:00+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Las lluvias provocan inundaciones en el taller de un concesionario de coches de A Coruña",
+     "url": "https://www.msn.com/es-es/noticias/otras/las-lluvias-provocan-inundaciones-en-el-taller-de-un-concesionario-de-coches-de-a-coru%C3%B1a/ar-AA2i8kPL",
+     "fuente": "El Español on MSN",
+     "resumen": "La empresa asegura que los problemas se debieron a un atasco en las canalizaciones por el temporal y que ya han sido solucionados. Trabajadores denuncian que llevan tiempo soportando unas condiciones ...",
+     "fecha": "2026-11-24T08:37:09+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
      "titulo": "Una nueva rotura de tubería causa inundaciones en Los Rosales, en Tocina (Sevilla)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hyY0VONktjdE5RRFJRaUprVkRMRW1KQU5Mc0NnMmlpeFp6QWNaMnExLWZvR0I5M0RoZjVpV2xJblVPemRhQ0ljcWppZzByRlN2WW1pN2FweUk1VklxakI3NFBFMVlxU2FYck14Smp4MHFPNlJkNkR5SU54YjcxU2hWQ2xYQjRYYjJhX1R4Vk53NGh5ZUpGSVlBVm5EYllqemRTZUNB0gGrAUFVX3lxTE9tVEhnaGF4MFJHQnpMUlQxRGlOZWJsanRza21Da2FVaUhrMEVIczdBMkgwUVhXNkxfOElJY1RWM082Mm1fdnMxSnVBUkFkN2g5aFdRbmFjSXowLUt2dXduQ2tyQVJnd0tIVDBoNEVibl9TRmtpTkZSNHhEdjJyaFBVYzhraEZBTzdsdzRnUjJVeW92SzhhWk9PY0RHc3NvYVBzX1d0UG5ja25pTQ?oc=5",
      "fuente": "ABC",
@@ -186,20 +194,20 @@
      "fecha_txt": "21 nov"
     },
     {
-     "titulo": "España aprueba medidas urgentes tras las inundaciones de octubre",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaERfWjdzckx6V0tsRUVsQmJTRVpYdDZlZi1fcVJpSllhWldRMnd3bGd0c2VVZ290YzJaeUdlMEFSemdUVEdScGZZWmJ6dUJyWDN1QVM1UVZTbnFWMnJpcy1ob0dJelVyejhoT3g4U1FCdE5uQWhVdlNTLTUwOUhDSFBTeUdyQWM?oc=5",
-     "fuente": "Columna Digital",
-     "resumen": "",
-     "fecha": "2026-11-20T07:50:19+01:00",
-     "fecha_txt": "20 nov"
+     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
+     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
+     "fuente": "Cambio16",
+     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
+     "fecha": "2026-11-17T02:15:00+01:00",
+     "fecha_txt": "17 nov"
     },
     {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdy1QVHFyS0tibkVSeFpmanpKRDE3RjNTV0NmM3N6c2tBQXZCSzlUVlBTQXBfeHRGTzNyMGVRajkxMkZoRnI4a2F0bXdkSG1pNGhtUWFvTXVoOUdPOVhvWFp3eElGSWtaMDliYldEUllHUnRnYVF1Sm9hRTNmSDRaR2M4ZnM2djJidDJEWFY1c0dRQktieWp1NnJPUVhDWFA1NHZibVhlQUtIUlVNYmdmdldHZnpHdXFiblI3UkZhR1NaNkhnU0c3amZ0UzVkTnRxNzF4Q0pWcXlWYkNxSFRRc3Zva0x4NldfSzdobmNxYmtCUWUyQmIya3drTV9FOVBLbDBUUTVn0gGaAkFVX3lxTFBFQTNxdnUwN01aT0FHa212enlXT3JsQmw0Sy1yWFlMaEFGOWVEZTlwWXBLYzBMWTZaR1hfSnNaNW1mSEg4UmoyTXBNc0NpZEhvaDQ3MnRxWWNxRUItTERtR0M3Ny1VQ3NyQWJkOHUxUWNyb3o0bWVTZWxJSTRVb0lueG9BWWNMemdZY1l3UWpkMU02ME8yNHNxTVdnOG5JRF9QNWxGaWZObUZBMWYxRmNpZU5qcl81eEhsVndfZzhLSExtQXFMNElrZDRyU3B1YV9LYWIySlBIejJKUTNyRVlNOVczU2FFUS1uVThpa1lDVFlPOXBHbUR0dnBWRFZBVGNQRGR6emI3c25pTklWczAzMHNCeDgxTlc0QQ?oc=5",
      "fuente": "EL PAÍS",
      "resumen": "",
-     "fecha": "2026-11-17T05:30:01+01:00",
-     "fecha_txt": "17 nov"
+     "fecha": "2026-11-16T09:00:00+01:00",
+     "fecha_txt": "16 nov"
     },
     {
      "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
@@ -208,14 +216,6 @@
      "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
      "fecha": "2026-11-16T05:15:00+01:00",
      "fecha_txt": "16 nov"
-    },
-    {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T09:00:00+01:00",
-     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -225,6 +225,14 @@
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
     {
+     "titulo": "Elecciones España: Pedro Sánchez remonta antes del apagón y roza el empate con el PP",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeElEZ1hHMGhCZ0NnVlFrNV9zYTVVbzZwT05GR2FUamNwdE40dVJVbEtKX2w1bmR4d2ZWV3NJRm5jeG9MYThHcmgxc1ZrQlY4VmxraWY0WERndHNfaEZkTmRZNjlZV19zbkJxZ3QwQXI5SHQ0Ul9DdTA3OU9qaktMN3hlelVpb1R0VldPWm1uWk9nbV9sc1JJZkZvXzJjNUNGUTJLSmRJOVNNbGlCUTBnaGE1QWE5QdIBuwFBVV95cUxPMUg4a2FyTjQ4Y2NNZFZLTWVEUjBid0hWQ0JFRloxQWZWYTRMUUtFRzZJbFlkUVUtdzljV2VZN0ZsVHhGZnNpXzNucVVxSDY4TjUtYnB1d3R1UVB5MEdMM1Q5b1hKSnlOTVc4Ty1IX1VZZ3lQUUNYWUdoQ1ljNDNINWItblVkRnlMZTFPM2RSVXd1dFZNdmd5UXctNV93S3MzaWNiaHJpM1hRZEZ5UXNZelZabXN6SWtjTnk4?oc=5",
+     "fuente": "Urgente24",
+     "resumen": "",
+     "fecha": "2026-11-24T16:09:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
      "titulo": "Llega el apagón de encuestas: ¿Qué dice el promedio con las últimas? | Elecciones generales | España",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTh0blpGZGJ5LUtRTVp6cTU5elVlQmRWTkNsRGh4ZDExMV9ROHJnaUk5bDlFRk9SajU2Mkc0MGIxT0Q1a1U1YTRZUUk4dmpCNzJIcGtwUjFUQXZKa2N4dmxIN3p3NWlOanRYSTN6REQyTkJKaXRPX2pTZ3lnS2R2d2ZvUlozQmZ4OXVlaFBraWdvbDBicU51ZmN1dmE2Z29iLXJ5M2tVYnBTYk04d1VyemN0OTA4NUlQZmxieF9nbWtBeVJQUXlUSWJ4U28zUms?oc=5",
      "fuente": "EL PAÍS",
@@ -233,27 +241,11 @@
      "fecha_txt": "24 nov"
     },
     {
-     "titulo": "El 'kit de supervivencia' diario del español medio: 47 euros en la cartera y el efectivo como refugio antiapagones",
-     "url": "https://www.abc.es/economia/cuentas-corrientes/kit-supervivencia-diario-espanol-medio-euros-cartera-20261124020329-nt.html",
-     "fuente": "ABC",
-     "resumen": "Un informe del Banco de España destaca que sigue siendo el principal método de pago entre los españoles, aunque los digitales ganan terreno ...",
-     "fecha": "2026-11-23T17:00:00+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "Qué dicen los programas electorales sobre energía, cambio climático y medio ambiente",
-     "url": "https://www.telecinco.es/noticias/espana/20261124/elecciones-generales-2026-programas-electorales-energia-cambio-climatico-medio-ambiente_18_020584598.html",
-     "fuente": "Telecinco",
-     "resumen": "El 28 de abril de 2025, España se quedó a oscuras. Según el informe que presentó después el Gobierno, el apagón tuvo “un origen multifactorial”, dad ...",
-     "fecha": "2026-11-23T17:00:00+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
-     "fuente": "teleSUR",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmplQ2M0NHlxVDc1YXV0NlFTZHdIcVF6ZVUtREF2TVN2a1dEQzVBRGg2ZDRkMHQ0UjhnQTRlN1RHYVlLbUpvWXJ3eklrcXZSQTVqdzd0R216WU42d2FIMzZSNGU0LWhWbTZ2WHpCYklGaExaZ1JWVm5zNXU3d2N6TFFR?oc=5",
+     "fuente": "La iguana TV",
      "resumen": "",
-     "fecha": "2026-11-23T11:41:56+01:00",
+     "fecha": "2026-11-23T15:58:22+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -287,6 +279,14 @@
      "resumen": "",
      "fecha": "2026-11-20T06:10:14+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
+     "fuente": "TarifaLuzHora",
+     "resumen": "",
+     "fecha": "2026-11-18T10:28:15+01:00",
+     "fecha_txt": "18 nov"
     }
    ]
   }
