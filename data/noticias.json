@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-24T10:11:01+01:00",
+  "actualizado": "2026-11-24T13:11:01+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -11,6 +11,22 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
+    {
+     "titulo": "Kit de emergencia para 72 horas: por qué la Unión Europea recomienda tener uno en casa",
+     "url": "https://www.donostitik.com/kit-de-emergencia-para-72-horas-por-que-la-union-europea-recomienda-tener-uno-en-casa/",
+     "fuente": "Donostitik",
+     "resumen": "Descubre por qué la UE recomienda tener un kit de emergencia para 72 horas, qué debe incluir y cómo preparar tu hogar ante apagones y otras emergencias ...",
+     "fecha": "2026-11-24T04:28:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "Esto debe incluir el kit de emergencia ante peligros como un gran apagón y otras crisis",
+     "url": "https://www.msn.com/es-pe/noticias/otras/esto-debe-incluir-el-kit-de-emergencia-ante-peligros-como-un-gran-apag%C3%B3n-y-otras-crisis/ar-AA2i6WqI",
+     "fuente": "Euronews on MSN",
+     "resumen": "Tras el apagón masivo la Península Ibérica consulta como sobrevivir a futuras crisis. Este es el kit de supervivencia que propone la UE. View on euronews ...",
+     "fecha": "2026-11-24T02:48:38+01:00",
+     "fecha_txt": "24 nov"
+    },
     {
      "titulo": "La Unión Europea insta a los países a ayudar a la población a prepararse para las primeras 72 horas de una crisis",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2x5YmlGMkF3SXliMFFCTDNQbDlLdmZOZGR6TFRCdWsxMlNVanB1OFZja2JVMldoeldETThaM2F5dldRZXloRjhPMU95UmV0ZlEzMDdsOThJdDN4aXNmdk5oNmdlSWd6MXdPVFJmVFZ0Z2lKbktpU0docVhPYVFnZTAtWGgyWTBmSmw2d2ZDeEE2Y01YSHV4WWdrd0xCSWhMd0trd2xrUldFdmNxM1JDRjJjMEdGXzRCTG1BQU1yR0ZFRkJhWkxvMmYwY2pZZGl3bnBoUkFLTXB0NVVtSGUwSzdRUmhYZERYTGZocFJ6V3B2YWMtb3ZLNDFERVN2TWFaMGZydEE3UQ?oc=5",
@@ -52,28 +68,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "Kit de emergencia para 72 horas: qué conviene tener en casa y qué recomienda la Unión Europea",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGdFMTlBU2U0a051VkREOU1yRGNWcDN6NFE4d2d6RjlrX3MxbXR1LXVJNGxSMy1xbjVjR1VuOGowaHB5TmpKbVZEUDlmNVdFbUVOX1dOQ20yLTZqLUtnNEtVLWhZWm9YVDZmTkxmSFJoV2N0TWt4U2lRRHNpSFlHb28xb2l0U1Jzamg3bDNjUzg3MnQtSTdDZGcxV2R3R2kwMnlCTmZ4djYxeXpfZGVQMU9XN05CQUtSY1NYYzJMOHVWQU1UZ1I0T2xNTlPSAcwBQVVfeXFMTXF6dnowWmxoX2dRazZ3TlViVmdqOVFOTUZpcDA2aUgtX3d0NXBBa2ttZUNJbmVxLTVDODN2aXNZTDhpUVNvRklPcWhsb0JSNmpURzdDVmVLVVJRUjk4dVlaUjVqQ2dHeHQ3cnM3R0k3RkJ2emFpLUNWSmoyX2V4N3hNUE9aRE1jNlg2b2RWTlEtYkxSWEJKeHV6M0xKV2NKbGlfTGtyMm42TEo5NVA2R3AwVG5DZFRDX2R1MWtUd3p5RllJYnliSGF5UHZE?oc=5",
-     "fuente": "El Periódico",
-     "resumen": "",
-     "fecha": "2026-11-20T13:06:00+01:00",
+     "titulo": "¿Qué debe incluir tu mochila de emergencia? Indeci brinda recomendaciones tras el sismo en Junín",
+     "url": "https://elcomercio.pe/respuestas/que/que-debe-incluir-tu-mochila-de-emergencia-indeci-brinda-recomendaciones-tras-el-sismo-en-junin-tdpe-noticia/",
+     "fuente": "El Comercio",
+     "resumen": "Agua, alimentos, botiquín y una radio a pilas forman parte de los suministros indispensables para afrontar una emergencia. Pero la preparación no termina allí: Indeci recomienda una caja de reserva pa ...",
+     "fecha": "2026-11-20T16:57:00+01:00",
      "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
-     "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
-     "fuente": "EL PAÍS",
-     "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
-     "fecha": "2026-11-20T02:30:00+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "La Cruz Roja Portuguesa lanza un nuevo kit de emergencia.",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYXRIQjM4MzJKMVpwdVNUTldCVFNLR1IxdVVuOVdmWDV5djBIMVRURU92cnYwbV9oZXUwMUZsLXoxeHkzQTRFaU5PcnBkNVh3SGg3cDViM2tkSFZwR25SR2ZqbGtJZkIxWllXZUNoVWczd0ZiMzJZYkNhVFRoNUxCNVVuU1FVSjlVSVcyNUx0RVNLNlduUm1CY0J3?oc=5",
-     "fuente": "Portugal Resident",
-     "resumen": "",
-     "fecha": "2026-11-19T17:34:06+01:00",
-     "fecha_txt": "19 nov"
     }
    ]
   },
@@ -88,6 +88,14 @@
      "fuente": "Infobae",
      "resumen": "",
      "fecha": "2026-11-24T09:47:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "Estabilizado el incendio forestal de Formentor tras quemar 280 hectáreas",
+     "url": "https://www.msn.com/es-es/noticias/otras/estabilizado-el-incendio-forestal-de-formentor-tras-quemar-280-hect%C3%A1reas/ar-AA2i6SvS",
+     "fuente": "20 minutos on MSN",
+     "resumen": "El incendio forestal declarado el pasado domingo en la península de Formentor, al noreste de Mallorca, ha quedado estabilizado a las 9.00 horas de este martes tras calcinar unas 280 hectáreas de pinar ...",
+     "fecha": "2026-11-24T01:49:59+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -115,35 +123,27 @@
      "fecha_txt": "23 nov"
     },
     {
-     "titulo": "El incendio forestal activo en Formentor (Mallorca) supera las 200 hectáreas",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmlmQ1Vzd19tUmkwVzJ5R2JHLWNaNU53MjdNM0FNQk5MUk1ESmltRmt0X25WWWg4VGFWTlVHNEs2WlE1aFdsZW8wU0lrc0tWbjFRQWZaVmxXRENaZng4Z1hwZVR5WW1LZTltUHpoYUJCaGtuRjNQU21UNHRGaVN1Zk5sN2pEX1ZjbXNGRlBFR3RGTkw1dVV6eXF1YlZsM1EyYVdrWGs1NHYyQ3JHQmRwcXBPTXNBYWxTNDRzeEN3aExCb1Z60gHfAUFVX3lxTE5jTm90ZGR2OFpYT25PeWYyZVUxenBMSDlIdFA2V0xFYkl2TEZPUHFialhPUmM1UVpyeGUtaHpZX3hDYkxTejdsaEVuNVRxN0d3T09OWXpsMFRIdWtDUFgwZ21FdC1Rby1ENUNXRl9lcldsbE9wbHpOUEdnQXhjOWUyNDZhblJta2I3d1dHMXR3RkFMdEs2b2ZIWFVrY1Q1TmhPOG9Ud1JHOGt2a0JtZ0pRdi11eHg0LW5Xb1RvTHdNbXhFZzUwdjZRMXdMa3g3Mm50ZDlWRlNKa2lGYk1RR2c?oc=5",
-     "fuente": "Infobae",
+     "titulo": "Más de 200 hectáreas calcinadas en un incendio forestal activo en Formentor, en Mallorca",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzVmSmoyQkNZMzdEWDZSZFNHRXByT0taX1c3ZEhrUEk1X2owcEppUDFpWU91ZXFHMWYzcVBSZ1hEdm9QSnRaOVhEZUlsTGU1WWd1RmNPTG1aY3hGeG1LY1Q3SHZRbkJIbXdVTDFNSHFmdEdGNkdPU3ZsTkp5Q09sS2pBTW5GVV9FLUozNHFRcW5sM25zdXE0S1RGWUdDN0NnaVB1a2JlMk9Sa0tTcVc1N3ZOaExudWZ5SS1qQk5n?oc=5",
+     "fuente": "Aragón Play",
      "resumen": "",
-     "fecha": "2026-11-23T12:33:00+01:00",
+     "fecha": "2026-11-23T14:30:36+01:00",
      "fecha_txt": "23 nov"
     },
     {
-     "titulo": "Declarado un incendio en la península de Formentor, al noreste de Mallorca",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalExV0JNN24wUXhDV1NpdlVvNUw5T05ET1lZRWxOVUJhRFZvSV9UTWM1NzNuUkZMVUdGTVFnVHVnbkxhMVJUWGhQM2JHZGxDT0tJQ2pSSGNqWkNja1JUV1lLS0RTNENFM2dsTEJhTVJfb3NHVWVDX0QwamNYMFUzRml4c1BKRFY4M3ZTczliNGhxNVF1VjZrVGxjOWhyZWRFUFM1VkNQVlFvTEVmSUxadGFObUZrRS1ySF9fXzg3dXVYVlnSAd4BQVVfeXFMUGNnTk42MmdnTllWNE5faXRYbm5JQW1NMEVpTUR5SEF5UGFTSFVHaDhuRm1XcTNHa2xJdDhkX3ljUktQOVFCNDhRWVlJMWtTckM0WkRYRlZINm5YSm5oOEpMR0ptbEdMV1NiX09SZHA5OTR6NHcySUxIYjZ4Um4tSEdUblJLOFZmdzdHS0s4RlRXZ1FqYW91RTlyemdwWC1VQktONnk5NWYtR04ya0F4cmRCZHhKckRyMVRFWkd0cFRST2hQQjRDQ3M2cGx1M0lVZnFrd3JZMGswMlZTVGl3?oc=5",
-     "fuente": "Infobae",
+     "titulo": "El incendio de Mallorca podría superar las 200 hectáreas",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUFmQk9MR25qeGoyQ1NMR3BhaHNlWTJKaXZZblpXa05VdTVnaC1GQ3BOTDlrMU0teVd3UjFPNkpIS1RfQ1VPNFItOXd1UVZnNE5FRGFyU0dWbjdSQXY1bmpKc251d0RJYlFHc2RGbS1rUkY1ckpDWG9oQjF4alZjSnVSZnpuODZ3QkJUUzlIMjlwOFRQNWduUEVlVS16S2I4TjlGanYzRHRkdE9UdVVwVlZIY9IBuAFBVV95cUxNeWdSUmI1VVZreWhpLTNJZjVRRThyMTJ0cHFRSE9IdHdSTURjdmM5NnE5QUk4RE52OENLOVRucjRNRXh0S0E0eXAzazNSX1pFYTFSeXBHMnY3WTRHUVRjZ1RvYmxIbm9ZODJ0NE45LVBGeXk4c3F5a3dDZ3JWRUJDc3ZSLUV1eUxhY3RmQ1N4TWQzTlhfaUhlVlhiQnNlbEFRcmRvaHRMUWoxYU5zdWtDaTBEWUZLMjNs?oc=5",
+     "fuente": "El Periódico Extremadura",
      "resumen": "",
-     "fecha": "2026-11-23T07:16:00+01:00",
+     "fecha": "2026-11-23T13:39:15+01:00",
      "fecha_txt": "23 nov"
     },
     {
-     "titulo": "El incendio de Formentor ha quemado ya más de 250 hectáreas mientras se refuerzan las labores áreas de extinción",
-     "url": "https://www.elmundo.es/baleares/2026/11/23/6b0439a0e9cf4ac8208b459a.html",
-     "fuente": "EL MUNDO",
-     "resumen": "El incendio forestal declarado este domingo en la península de Formentor quema ya más de 200 hectáreas, principalmente de carrizo, según han confirmado este lunes desde ...",
-     "fecha": "2026-11-23T07:05:00+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
-     "titulo": "Los cazadores de Huelva y Sevilla matan cientos de ciervos en fincas contiguas al mayor incendio de la historia",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWENZcGpHRHA1bHNTTXNIVjNnMGZLRHUxM0M2Y253TVFDOEhFOXNIQUFjRV9kUVBmYlNLV1BqYVpmZ3FOUzFkUHJ5VkpyVGhzamxxbE9KMHhCTmdRT3ZHMDh3RDBqSFdaT3JMVldsamwtZkJlb0JXOGdYZ195a3J1blFob2Q3VkpPV01iVjU1c3VoY2pGbmtaQ3hBdHlvcE5fcUQtUE0wOVBETGcwRmF5WVpJWUQ4TW5NZjAyZ0tMVVZCNC1xanNWbTR0VFdHYjFEXzZOT09STmJmTWZSQy1MRk5WNURKMTJ40gH8AUFVX3lxTE04V09oSDZqcGRmOWUxRGtkb2NZcEp3UVBEZlpicG00LU1LeklxeHpkS2VnbUNTNXNNeWphVmR2MmlTT2pmQzFLbUpYUmdLZWlVdk9sR3BzR054czhxdVJkRmo4VTdFV0RuLTM1X2s1TG9lSW8tbm9RanJJUlRqc2x4YjlHRmxMRVFvUE1GbWx3Slh6TW5nblFMREZ5azVXVFJtOU5jNTZMMGRoT3V3dGg0cFlBVzdjZGNVRXZhSklLOVpORGNnMWd6N3FZYTVQdENHTmJmRUxvM1ZkN3J4NTRJbjdKYTNHMmpFbk1LMDNpb1AwLWtFRzlmMlVwSQ?oc=5",
-     "fuente": "EL PAÍS",
+     "titulo": "¿Qué sabemos del incendio de Formentor que sigue activo en Mallorca?",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUpQTi1NZ2U3WGV3cExyMXh1dHBSTHd0LW1VdTNmUzZLX3ZXdTU5SlhjcVFZcnVobW83MlRtYWc2TDBTMTFOQVd2Y1lnNFB5YUt5UHA1dUJHbUZOdHBjSjNkcXpNZU10TEpoRVppWW5SYTRxQXNLVGhsNldtNnRfMFlfQXFUMUhuNUlBTlJB0gGTAUFVX3lxTE5COE1STC1yRTAtWmZFZ1dtVWVnMkYyQWNoVGxWQTdFdTFWRkNhLVE2dGxqV3VGcHhfajB1QnpGYUV1RklydlJsQ1VPOXFLWlg4azdIbEFvX0JoallRbjg1QWdINFVIaHVzVUl4Z3h0eDVpVmp3dUtrcDk4eU8teDljR2NhMU9mZjBacjZBcDhsX19iZw?oc=5",
+     "fuente": "Diario Público",
      "resumen": "",
-     "fecha": "2026-11-23T05:30:01+01:00",
+     "fecha": "2026-11-23T12:01:02+01:00",
      "fecha_txt": "23 nov"
     }
    ]
@@ -170,19 +170,19 @@
      "fecha_txt": "22 nov"
     },
     {
+     "titulo": "Mireya Esther Bueno cubana sobreviviente a la Dana en España: «El miedo va a estar siempre»",
+     "url": "https://www.cubanoticias360.com/mireya-esther-bueno-cubana-sobreviviente-a-la-dana-en-espana-el-miedo-va-a-estar-siempre/",
+     "fuente": "Cuba Noticias 360",
+     "resumen": "Mireya Esther Bueno llegó a España el 9 de abril de 2022 desde Cuba y en 2024 sobrevivió a la Dana en su piso en Valencia.",
+     "fecha": "2026-11-22T10:23:00+01:00",
+     "fecha_txt": "22 nov"
+    },
+    {
      "titulo": "Sevilla y la prevención de las riadas",
      "url": "https://www.diariodesevilla.es/sevilla/sevilla-prevencion-riadas_0_2008534231.html",
      "fuente": "Diario de Sevilla",
      "resumen": "El cierre de la esclusa del Puerto contribuye a proteger las instalaciones portuarias y el entorno urbano frente a las oscilaciones del nivel del río y sus grandes avenidas ...",
      "fecha": "2026-11-21T16:59:00+01:00",
-     "fecha_txt": "21 nov"
-    },
-    {
-     "titulo": "Las dos alertas de Galicia en 15 días: de la sequía al aviso por inundaciones",
-     "url": "https://www.elconfidencial.com/espana/galicia/2026-11-21/de-la-sequia-a-la-inundacion_4468629/",
-     "fuente": "El Confidencial",
-     "resumen": "De la amenaza de los cortes de agua a la prealerta por precipitaciones en solo dos semanas. Las lluvias intensas han dado la vuelta a la sequía, pero los niveles aún son bajos en el norte gallego ...",
-     "fecha": "2026-11-21T12:39:00+01:00",
      "fecha_txt": "21 nov"
     },
     {
@@ -202,20 +202,20 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
-     "url": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/borrascas-bruna-charles-ponen-alerta-espana-lluvias-torrenciales-fuertes-vientos-riesgo-inundaciones_202611106af34c8e9a31a65adcd747a4.html",
-     "fuente": "laSexta",
-     "resumen": "Este miércoles día 11 será uno de los días más complicados, pero la situación podría empezar a mejorar a partir del jueves.",
-     "fecha": "2026-11-10T09:55:00+01:00",
-     "fecha_txt": "10 nov"
+     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
+     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
+     "fuente": "Confidencial Digital",
+     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
+     "fecha": "2026-11-16T05:15:00+01:00",
+     "fecha_txt": "16 nov"
     },
     {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
-     "fuente": "20 Minutos",
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
      "resumen": "",
-     "fecha": "2026-11-06T09:00:00+01:00",
-     "fecha_txt": "6 nov"
+     "fecha": "2026-11-15T09:00:00+01:00",
+     "fecha_txt": "15 nov"
     }
    ]
   },
