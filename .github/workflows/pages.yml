@@ -78,6 +78,13 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: /tmp/_site
+      # El artefacto tarda en ser visible para la API de Actions: justo después de
+      # subirlo, deploy-pages recibe «Found 0 artifact(s)» y revienta; un minuto
+      # después ya está (comprobado por API: el artefacto existe aunque el run esté
+      # rojo). Por eso se espera antes del primer intento; los 3 intentos son la red
+      # para el resto de fallos intermitentes de Pages («try again later»).
+      - name: Esperar a que Pages vea el artefacto
+        run: sleep 60
       - name: Desplegar en Pages (intento 1)
         id: d1
         uses: actions/deploy-pages@v5
