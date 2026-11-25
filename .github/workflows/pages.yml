@@ -25,7 +25,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Gate de calidad (bloquea el deploy si falla)
         run: python3 scripts/verificar-sitio.py
       # Un Tracking ID de otro marketplace, un typo o un enlace sin tag tiran la
@@ -41,8 +41,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
+      - uses: actions/checkout@v5
+      - uses: actions/configure-pages@v6
 
       # El sitio publicable se recorta con allowlist: nunca `path: '.'`.
       # Fuera del artefacto quedan README/SPEC/CRONS, notes/, sketches/,
@@ -66,10 +66,13 @@ jobs:
           ! grep -r -I -l -E "david[ ._-]?antizar|d_a[n]t|mastermind\.local|C:[/\\]Users[/\\]d_a[n]t" /tmp/_site \
             || { echo "FUGA: contenido vetado dentro del sitio"; exit 1; }
 
-      - uses: actions/upload-pages-artifact@v3
+      # v3/v4 (2026-11) fallaban con «Found 0 artifact(s)» aunque el artefacto se subía:
+      # 8 de 10 deploys en rojo desde el 24/11 y el sitio sirviendo una instantánea de horas
+      # antes. v5/v5 es la pareja vigente.
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: /tmp/_site
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
         id: deployment
 
   # Recibo del sitio VIVO: el push ES el deploy, así que la prueba final es la
@@ -78,7 +81,7 @@ jobs:
     needs: deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Guardián de Tracking IDs sobre kit72h.com
         run: |
           sleep 60
