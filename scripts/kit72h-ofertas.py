@@ -49,28 +49,36 @@ def huella(datos: dict) -> str:
 
 
 def verificar_publicacion(actualizado: str | None, asin: str | None,
-                          espera: int = 240) -> bool:
-    """GitHub Pages tarda; no damos por bueno el push sin leer la URL pública."""
+                          espera: int = 240) -> str:
+    """GitHub Pages tarda; no damos por bueno el push sin leer la URL pública.
+
+    Devuelve "" si la URL ya sirve la instantánea nueva; si no, el diagnóstico en
+    una línea (qué sello sirve la web) para no dejar un «no sirve aún» a secas:
+    el 24-11 eso era el deploy de Pages roto, no la caché.
+    """
     if not actualizado:
-        return False
+        return "sin sello `meta.actualizado` en el JSON generado"
     url = f"https://kit72h.com/data/precios.json?v={int(time.time())}"
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 kit72h-verificador",
         "Cache-Control": "no-cache",
     })
     limite = time.time() + espera
+    servido = None  # si la URL no responde ni una vez, el diagnóstico lo dice
     while time.time() < limite:
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
                 publicado = json.loads(r.read().decode("utf-8"))
-            if publicado.get("meta", {}).get("actualizado") == actualizado:
+            servido = publicado.get("meta", {}).get("actualizado")
+            if servido == actualizado:
                 oferta = publicado.get("oferta_dia") or {}
                 if not asin or oferta.get("asin") == asin:
-                    return True
+                    return ""
         except Exception:
             pass
         time.sleep(15)
-    return False
+    return (f"la web sigue sirviendo {servido or 'nada'} y el repo tiene {actualizado} "
+            f"— mira el workflow «Deploy GitHub Pages», no la caché")
 
 
 def main() -> int:
@@ -128,8 +136,9 @@ def main() -> int:
         return 1
 
     asin = od.get("asin")
-    if not verificar_publicacion(nuevo.get("meta", {}).get("actualizado"), asin):
-        print("❌ push OK, pero la URL pública no sirve aún la instantánea nueva")
+    fallo = verificar_publicacion(nuevo.get("meta", {}).get("actualizado"), asin)
+    if fallo:
+        print(f"❌ push OK, pero la URL pública no sirve aún la instantánea nueva · {fallo}")
         return 1
     print(f"✅ precios y oferta publicados y verificados · {resumen}")
     return 0
