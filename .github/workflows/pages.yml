@@ -9,6 +9,10 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  # deploy-pages lista los artefactos del run por API antes de desplegar; sin
+  # `actions: read` esa consulta vuelve vacía y el deploy muere con «Found 0
+  # artifact(s)» aunque el artefacto sí está subido (comprobado por API).
+  actions: read
 
 concurrency:
   group: "pages"
