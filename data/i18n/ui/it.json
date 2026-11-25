@@ -202,5 +202,15 @@
   "oferta.v1": "Selezione di oggi: {pct} % in meno rispetto al prezzo consigliato pubblicato da Amazon, {ahorro} di risparmio. Non è necessariamente la percentuale più alta del giorno: valutiamo sconto, disponibilità e prezzo finale. È nel {kit}.",
   "oferta.v2": "Tra i {n} prodotti con prezzo verificato oggi, mettiamo in evidenza questo per lo sconto e il prezzo finale: {pct} % in meno e {ahorro} di risparmio. Fa parte del {kit}.",
   "oferta.v3": "Ogni mattina consultiamo i prezzi dei kit e scegliamo un acquisto sensato in base a sconto e prezzo finale, non solo alla percentuale. Oggi: {pct} % in meno, {ahorro} di risparmio, all'interno del {kit}.",
-  "nav.menu": "Menu"
+  "nav.menu": "Menu",
+  "phaenyx.label": "Partnership · Un regalo di Kit72h",
+  "phaenyx.t1": "Il tuo kit ti prepara.",
+  "phaenyx.t2": "L'app ti avvisa.",
+  "phaenyx.lead": "Ogni ordine che arriva da Kit72h regala un anno di Phaenyx Alert Familia (valore 19 US$): il telefono ti avvisa appena un'allerta ufficiale riguarda casa tua, la casa al mare o la scuola dei bambini. E tutta la famiglia può dire «Sto bene» con un tocco.",
+  "phaenyx.b1": "Allerte ufficiali per i tuoi luoghi, non voci dei social.",
+  "phaenyx.b2": "Pulsante «Sto bene» per tutta la famiglia, senza telefonate.",
+  "phaenyx.b3": "Un anno gratis con il codice KT72H: senza carta, senza vincoli.",
+  "phaenyx.cardLbl": "Codice di attivazione",
+  "phaenyx.cta": "Attiva il mio anno gratis →",
+  "phaenyx.nota": "Gratis 1 anno · valore 19 US$ · per ora l'app è in inglese e francese."
 }

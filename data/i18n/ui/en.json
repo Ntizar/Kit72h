@@ -202,5 +202,15 @@
   "oferta.v1": "Today's pick: {pct} % off the recommended price published by Amazon, {ahorro} in savings. It is not necessarily the biggest percentage of the day: we look at discount, stock and final price. It is in {kit}.",
   "oferta.v2": "Among the {n} products with a price verified today, we highlight this one for its discount and final price: {pct} % off and {ahorro} in savings. It is part of {kit}.",
   "oferta.v3": "Every morning we check kit prices and choose a sensible purchase based on discount and final price, not just percentage. Today: {pct} % off, {ahorro} in savings, as part of {kit}.",
-  "nav.menu": "Menu"
+  "nav.menu": "Menu",
+  "phaenyx.label": "Partnership · A gift from Kit72h",
+  "phaenyx.t1": "Your kit gets you ready.",
+  "phaenyx.t2": "The app tells you when.",
+  "phaenyx.lead": "Every order that comes from Kit72h gifts a full year of Phaenyx Alert Familia (worth US$19): your phone buzzes the moment an official alert touches your home, your holiday house or your kids' school. And the whole family can say “I'm safe” with one tap.",
+  "phaenyx.b1": "Official alerts for your own places — not social-media rumours.",
+  "phaenyx.b2": "One-tap “I'm safe” for the whole family, no phone calls.",
+  "phaenyx.b3": "One free year with code KT72H: no card, no strings.",
+  "phaenyx.cardLbl": "Activation code",
+  "phaenyx.cta": "Activate my free year →",
+  "phaenyx.nota": "Free for 1 year · worth US$19 · the app is in English and French for now."
 }

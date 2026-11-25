@@ -36,6 +36,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 
 ## Blog
 
+- [Phaenyx Alert: tu kit 72h ahora avisa antes que la tormenta](https://kit72h.com/blog/phaenyx-alert-avisos-oficiales/): Qué es Phaenyx Alert, qué cambia para quien compra desde Kit72h y cómo activar un año gratis del plan Familia con el código KT72H.
 - [Mejor saco de dormir para dormir sin calefacción (2026)](https://kit72h.com/blog/mejor-saco-de-dormir-sin-calefaccion/): Cómo elegir saco de dormir para una casa sin calefacción: confort vs límite, tres modelos comprobados y la rutina de la noche.
 - [Cómo cocinar sin electricidad ni gas: 6 métodos que sí funcionan (2026)](https://kit72h.com/blog/cocinar-sin-electricidad-gas/): Seis formas reales de cocinar sin luz ni gas de red, con la regla de ventilación que evita el monóxido y qué comer para gastar menos combustible.
 - [Cómo calentar la casa sin electricidad en invierno: 6 métodos que funcionan (2026)](https://kit72h.com/blog/calentar-casa-sin-electricidad-invierno/): Sin luz, la temperatura baja 2 °C por hora. Guía con 6 métodos reales: aislamiento, estufas, mantas y power stations. Datos de AEMET y Protección Civil.

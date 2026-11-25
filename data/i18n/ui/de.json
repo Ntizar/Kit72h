@@ -202,5 +202,15 @@
   "oferta.v1": "Auswahl von heute: {pct} % weniger als der von Amazon veröffentlichte empfohlene Preis, {ahorro} Ersparnis. Es ist nicht unbedingt der höchste Prozentsatz des Tages: Wir achten auf Rabatt, Lagerbestand und Endpreis. Es ist im {kit} enthalten.",
   "oferta.v2": "Unter den {n} Produkten mit heute geprüftem Preis heben wir dieses wegen seines Rabatts und seines Endpreises hervor: {pct} % weniger und {ahorro} Ersparnis. Es ist Teil des {kit}.",
   "oferta.v3": "Jeden Morgen fragen wir die Preise der Kits ab und wählen einen sinnvollen Kauf nach Rabatt und Endpreis aus, nicht nur nach dem Prozentsatz. Heute: {pct} % weniger, {ahorro} Ersparnis, im {kit}.",
-  "nav.menu": "Menü"
+  "nav.menu": "Menü",
+  "phaenyx.label": "Partnerschaft · Ein Geschenk von Kit72h",
+  "phaenyx.t1": "Dein Kit macht dich bereit.",
+  "phaenyx.t2": "Die App sagt dir, wann.",
+  "phaenyx.lead": "Jede Bestellung über Kit72h schenkt ein Jahr Phaenyx Alert Familia gratis (Wert 19 US$): Dein Handy meldet sich, sobald eine offizielle Warnung dein Zuhause, dein Ferienhaus oder die Schule deiner Kinder betrifft. Und die ganze Familie kann mit einem Tippen „Mir geht es gut“ sagen.",
+  "phaenyx.b1": "Offizielle Warnungen für deine Orte – keine Gerüchte aus sozialen Netzen.",
+  "phaenyx.b2": "„Mir geht es gut“ mit einem Tippen, ohne Telefonate.",
+  "phaenyx.b3": "Ein Jahr gratis mit dem Code KT72H: keine Karte, keine Verpflichtung.",
+  "phaenyx.cardLbl": "Aktivierungscode",
+  "phaenyx.cta": "Mein Gratisjahr aktivieren →",
+  "phaenyx.nota": "1 Jahr gratis · Wert 19 US$ · die App gibt es derzeit auf Englisch und Französisch."
 }

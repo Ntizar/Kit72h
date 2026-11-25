@@ -202,5 +202,15 @@
   "oferta.v1": "Selectie van vandaag: {pct} % minder dan de door Amazon gepubliceerde aanbevolen prijs, met {ahorro} besparing. Het is niet per se het hoogste percentage van de dag: we letten op korting, voorraad en eindprijs. Zit in het {kit}.",
   "oferta.v2": "Van de {n} producten met een vandaag gecontroleerde prijs, lichten we dit eruit vanwege zijn korting en eindprijs: {pct} % minder en een besparing van {ahorro}. Het is onderdeel van het {kit}.",
   "oferta.v3": "Elke ochtend controleren we de prijzen van de noodpakketten en kiezen we een zinvolle aankoop op basis van korting en eindprijs, niet alleen op basis van het percentage. Vandaag: {pct} % minder, met {ahorro} besparing, binnen het {kit}.",
-  "nav.menu": "Menu"
+  "nav.menu": "Menu",
+  "phaenyx.label": "Partnerschap · Een cadeau van Kit72h",
+  "phaenyx.t1": "Je kit maakt je klaar.",
+  "phaenyx.t2": "De app waarschuwt je.",
+  "phaenyx.lead": "Elke bestelling via Kit72h geeft een jaar Phaenyx Alert Familia cadeau (waarde US$ 19): je telefoon meldt zich zodra een officiële waarschuwing je huis, je vakantiehuis of de school van de kinderen raakt. En het hele gezin kan met één tik zeggen: ‘Het gaat goed’.",
+  "phaenyx.b1": "Officiële waarschuwingen voor jouw plekken, geen geruchten van social media.",
+  "phaenyx.b2": "Eén knop ‘Het gaat goed’ voor het hele gezin, zonder bellen.",
+  "phaenyx.b3": "Een jaar gratis met code KT72H: geen kaart, geen verplichtingen.",
+  "phaenyx.cardLbl": "Activeringscode",
+  "phaenyx.cta": "Mijn gratis jaar activeren →",
+  "phaenyx.nota": "1 jaar gratis · waarde US$ 19 · de app is voorlopig in het Engels en Frans."
 }

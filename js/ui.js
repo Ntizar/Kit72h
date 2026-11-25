@@ -279,6 +279,28 @@ const ui = {
         </div>
       </div>
       <div class="ticker" aria-hidden="true"><div class="ticker-track">${this.marquee(T('ticker'))}</div></div>
+      <section class="sec phaenyx" id="phaenyx">
+        <div class="container">
+          <div class="phaenyx-banner">
+            <div class="phaenyx-txt">
+              <span class="phaenyx-lbl">${T('phaenyx.label')}</span>
+              <h2>${T('phaenyx.t1')}<br><span class="ph-acento">${T('phaenyx.t2')}</span></h2>
+              <p class="phaenyx-lead">${T('phaenyx.lead')}</p>
+              <ul class="phaenyx-lista">
+                <li>${T('phaenyx.b1')}</li>
+                <li>${T('phaenyx.b2')}</li>
+                <li>${T('phaenyx.b3')}</li>
+              </ul>
+            </div>
+            <div class="phaenyx-card">
+              <span class="phaenyx-card-lbl">${T('phaenyx.cardLbl')}</span>
+              <span class="phaenyx-code">KT72H</span>
+              <a class="btn phaenyx-btn" href="https://app.phaenyx.com/?code=KT72H" target="_blank" rel="noopener">${T('phaenyx.cta')}</a>
+              <span class="phaenyx-nota">${T('phaenyx.nota')}</span>
+            </div>
+          </div>
+        </div>
+      </section>
       ${this.htmlOfertaDia()}
       <section class="sec clara" id="plan">
         <div class="container">

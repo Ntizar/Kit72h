@@ -10,6 +10,37 @@
   },
   "entradas": [
     {
+      "slug": "phaenyx-alert-avisos-oficiales",
+      "titulo": "Phaenyx Alert: tu kit 72h ahora avisa antes que la tormenta",
+      "resumen": "Qué es Phaenyx Alert, qué cambia para quien compra desde Kit72h y cómo activar un año gratis del plan Familia con el código KT72H.",
+      "cuerpo": "<p>Un kit de emergencia es una promesa logística: agua, luz, radio y papeles listos el día que hagan falta. Pero hay una pieza que ningún kit puede meter en la mochila: <strong>saber qué está pasando y si te afecta</strong>. Ahí entra Phaenyx Alert, la app de alertas con la que Kit72h acaba de firmar alianza como una de las tres tiendas asociadas de su región.</p>\n<p>La idea es sencilla: tú sigues comprando el equipo donde siempre, y cada pedido que llega desde Kit72h regala un año completo del plan Familia (valor 19 US$) con el código <strong>KT72H</strong>. Sin tarjeta, sin letra pequeña y sin cambiar tus hábitos.</p>\n<h2>Qué es Phaenyx Alert, en dos frases</h2>\n<p>Es una app de avisos que cruza las <strong>alertas oficiales</strong> con los lugares que te importan: tu casa, la del pueblo, el colegio de los niños o la residencia de un familiar. Cuando una alerta oficial toca uno de esos puntos, el móvil suena. No es un grupo de mensajes ni un mapa del tiempo más: filtra el ruido y te deja solo el aviso que sí te concierne.</p>\n<p>El plan Familia añade a tres personas y el botón <strong>«Estoy bien»</strong>, que avisa a toda la familia con un solo toque. Para quien tiene hijos en el colegio, padres mayores a dos calles o una casa de vacaciones a 300 kilómetros, ese botón vale más que cualquier grupo de WhatsApp.</p>\n<h2>El kit resuelve la logística; la app, la información</h2>\n<p>La <a href=\"https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/preparedness_en\">Estrategia de Preparación de la Unión Europea</a> recomienda a los hogares tener provisiones para al menos 72 horas, y Protección Civil insiste en lo mismo: autonomía básica, documentos a mano y un plan familiar hablado antes de que llegue la urgencia. El kit cubre el «mientras tanto». La app cubre el «¿qué está pasando?», que es la pregunta que se hace todo el mundo a la vez y en la que se pierden los primeros minutos de cualquier emergencia.</p>\n<h2>Las ventajas de llegar desde Kit72h</h2>\n<ul>\n<li><strong>Un año gratis, no una prueba de siete días.</strong> El plan Familia completo durante doce meses, sin renovación automática ni sorpresas en la factura.</li>\n<li><strong>Sin coste para el lector.</strong> El regalo lo pone Phaenyx; el código solo identifica que llegas desde esta tienda.</li>\n<li><strong>El kit y el aviso en el mismo sitio.</strong> La guía te dice qué llevar; la app te dice cuándo usarlo.</li>\n<li><strong>Tu tienda sigue siendo tu tienda.</strong> No pedimos datos de pago ni hay compra cruzada: el enlace te devuelve a Kit72h cuando quieras.</li>\n<li><strong>Una alianza con pocas plazas.</strong> Phaenyx acepta tres tiendas por región y Kit72h es una de ellas, así que el regalo se mantiene exclusivo para nuestros lectores.</li>\n</ul>\n<h2>«Estoy bien»: la llamada que ya no hace falta</h2>\n<p>Durante un apagón o una evacuación la red móvil se satura justo cuando más gente intenta llamar. Un toque en el botón «Estoy bien» avisa a toda la familia sin ocupar la línea, y cada persona puede confirmar su estado por separado. Es la diferencia entre pasar dos horas llamando a un número que no contesta y saber, en diez segundos, que los tuyos están bien.</p>\n<h2>Cómo activarlo, paso a paso</h2>\n<ol>\n<li>Descarga Phaenyx Alert desde tu tienda de aplicaciones o abre <a href=\"https://app.phaenyx.com/?code=KT72H\">app.phaenyx.com</a>.</li>\n<li>Introduce el código <strong>KT72H</strong> cuando te lo pida.</li>\n<li>Acepta el plan Familia: un año gratis, valor 19 US$.</li>\n<li>Marca tus lugares (casa, pueblo, colegio) y añade hasta dos personas más.</li>\n<li>Deja las notificaciones activas. Es lo único que la app necesita para funcionar.</li>\n</ol>\n<h2>Lo que no hace (y conviene saberlo)</h2>\n<ul>\n<li>No sustituye al 112 ni a los servicios de emergencia: es un aviso, no un botón de rescate.</li>\n<li>No predice terremotos: trabaja con alertas oficiales ya publicadas.</li>\n<li>Por ahora la app está en inglés y francés; el español está en camino y lo anunciaremos aquí.</li>\n<li>No vende ni comparte tus datos sin consentimiento expreso: la tienda solo ve el número total de activaciones, nunca quién eres.</li>\n</ul>\n<h2>Cuentas claras</h2>\n<p>Kit72h no cobra nada por esta alianza y tú no pagas nada por el año de regalo. Si algo cambia —precio, idiomas disponibles o condiciones—, se dirá en esta misma guía y en el banner de la portada. Y si prefieres no activarlo, no pasa nada: tu kit funciona igual de bien sin la app.</p>\n<h2>Vale la pena si…</h2>\n<p>…tienes familia repartida entre varias direcciones, si vives en zona de tormentas o apagones, o si simplemente quieres que alguien te avise sin tener que mirar el móvil cada diez minutos. Si tu kit ya está montado, este es el complemento que le faltaba. Si aún no lo tienes, empieza por <a href=\"/blog/como-montar-tu-kit-72h/\">la guía para montar tu kit 72h</a> y activa la app cuando hagas el pedido.</p>\n<p><em>Transparencia: Kit72h es tienda asociada de Phaenyx Alert. El año de regalo no tiene coste para el lector y esta guía no cambia su contenido por la alianza.</em></p>",
+      "fuente": [
+        {
+          "nombre": "DG ECHO — Protección Civil y Ayuda Humanitaria (Comisión Europea)",
+          "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/preparedness_en"
+        },
+        {
+          "nombre": "Protección Civil — Dirección General de Protección Civil y Emergencias (España)",
+          "url": "https://www.proteccioncivil.es/"
+        }
+      ],
+      "kits_relacionados": [
+        "kit-basico-72h",
+        "kit-apagon"
+      ],
+      "etiquetas": [
+        "alertas",
+        "app",
+        "familia",
+        "emergencias",
+        "Phaenyx"
+      ],
+      "_keyword": "phaenyx alert app alertas emergencia gratis",
+      "fecha": "2026-11-25",
+      "lectura": "7 min",
+      "autor": "Redacción Kit72h"
+    },
+    {
       "slug": "mejor-saco-de-dormir-sin-calefaccion",
       "titulo": "Mejor saco de dormir para dormir sin calefacción (2026)",
       "resumen": "Cómo elegir saco de dormir para una casa sin calefacción: confort vs límite, tres modelos comprobados y la rutina de la noche.",
