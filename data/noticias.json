@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-25T07:10:08+01:00",
+  "actualizado": "2026-11-25T10:10:06+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -84,19 +84,11 @@
    "items": [
     {
      "titulo": "La España rural busca su oportunidad frente a la despoblación y los incendios",
-     "url": "https://www.informacion.es/nacional/2026/11/25/espana-rural-busca-oportunidad-despoblacion-incendios-136818814.html",
-     "fuente": "INFORMACION",
-     "resumen": "Cinco expertos analizan las consecuencias del declive demográfico y los grandes incendios en España y reclaman más oportunidades de empleo, mejores servicios públicos y una gestión forestal que permit ...",
-     "fecha": "2026-11-24T23:01:00+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "WWF planta cara a la devastación forestal: voluntarios recuperan la naturaleza tras los incendios en España",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVNudlFtTlREOTRPNHBYLUhESldlVWExTWgzd0pBUC0zeHdFeGJidmtSRlFzX1dyUlV4NDk5UUpHZ1J0UkxLRm5DN2Q0NmRyQVozLTJSelVxRXVzX2MxcWl1MGlQcXZrajZIUktnWjFCWWUtaWdxbGRENlktTlR3ek44aEF5ZFk?oc=5",
-     "fuente": "ECOticias.com - El periódico verde",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnY3U1ZWdGE4QXZpWjJyX3RjNjBTbHdNMnZuc3dFa1pzOEEtWjYyUkhlQkdNUlRLZE1NRlVtemYxVmtwQlBOLV9XRFZKVmI0SWhHUnFILVM5a2lOSzQwakFDN2tpcWp6MlF5MFgwbG9udWFfdzdPeTJqRmM1c05McXNGVDh3T3UwMS1HbmNUVnIxTUloMVo5QnJjOUxQTjUwRDJ3OHRPeWhwMFFheTVxTDVRc0pVQzRKRldoSDVmbkF0YUHSAcgBQVVfeXFMTTA2b05UZGxGcWVGR1hOWmhPU3IxdUt0VmtlLWRtVHduTklMaTBwU3Y2ekdwM1NtT2RTVm8yVVhEMERLWmt5Q1dlVGFkZ2hHczNIdFJCY0JrVEFlRFFCSlJwSVB4ejBWdWN4UzJiclBnRUE1QWRJckRNcnhKZFJmYWlNVmhPTTY3dmFGLVdRVnB0UDR1RE1WLTJ1OTdhd3Z1NVBTc3gzaTVvYVFscU5la2FGVGhDd3gyRGVjRGhtcDcySHlRcXRxZVQ?oc=5",
+     "fuente": "El Periódico Extremadura",
      "resumen": "",
-     "fecha": "2026-11-24T15:18:39+01:00",
-     "fecha_txt": "24 nov"
+     "fecha": "2026-11-25T06:01:21+01:00",
+     "fecha_txt": "25 nov"
     },
     {
      "titulo": "\"Crueldad máxima\": Matan a más de 300 ciervos y jabalíes sobrevivientes del mayor incendio de España",
@@ -120,6 +112,14 @@
      "fuente": "El Confidencial",
      "resumen": "",
      "fecha": "2026-11-24T09:30:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "WWF planta cara a la devastación forestal: voluntarios recuperan la naturaleza tras los incendios en España",
+     "url": "https://www.ecoticias.com/naturaleza/wwf-restauracion-ecologica-incendios-espana",
+     "fuente": "Ecoticias",
+     "resumen": "WWF impulsa la restauración ecológica en 8 provincias españolas con 370 voluntarios para recuperar la biodiversidad y combatir la crisis climática.",
+     "fecha": "2026-11-24T07:18:00+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -178,12 +178,12 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "Sevilla y la prevención de las riadas",
-     "url": "https://www.diariodesevilla.es/sevilla/sevilla-prevencion-riadas_0_2008534231.html",
-     "fuente": "Diario de Sevilla",
-     "resumen": "El cierre de la esclusa del Puerto contribuye a proteger las instalaciones portuarias y el entorno urbano frente a las oscilaciones del nivel del río y sus grandes avenidas ...",
-     "fecha": "2026-11-21T16:59:00+01:00",
-     "fecha_txt": "21 nov"
+     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
+     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
+     "fuente": "Cambio16",
+     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
+     "fecha": "2026-11-17T02:15:00+01:00",
+     "fecha_txt": "17 nov"
     },
     {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
@@ -194,28 +194,28 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Los nuevos mapas de Valencia descubren un 61% más de superficie con riesgo de inundación",
-     "url": "https://www.elconfidencialdigital.com/vivir/nuevos-mapas-valencia-descubren-61-mas-superficie-riesgo-inundacion/202611161215441502576.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "La directora de desarrollo de producto de CYPE identifica dos áreas especialmente expuestas a las inundaciones: la Vega Baja del Segura, en Alicante, y determinadas zonas de l'Horta Sud, en Valencia.",
-     "fecha": "2026-11-16T05:15:00+01:00",
+     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
+     "url": "https://www.france24.com/es/minuto-a-minuto/20261116-pese-a-incendios-e-inundaciones-el-clima-queda-fuera-del-debate-electoral-espa%C3%B1ol",
+     "fuente": "France 24",
+     "resumen": "María Laura Bustamante apenas había terminado de amueblar el apartamento que acababa de comprar con su marido en la localidad española de Paiporta cuando las mortíferas inundaciones de octubre de 2024 ...",
+     "fecha": "2026-11-16T07:03:00+01:00",
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
-     "url": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/borrascas-bruna-charles-ponen-alerta-espana-lluvias-torrenciales-fuertes-vientos-riesgo-inundaciones_202611106af34c8e9a31a65adcd747a4.html",
-     "fuente": "laSexta",
-     "resumen": "Este miércoles día 11 será uno de los días más complicados, pero la situación podría empezar a mejorar a partir del jueves.",
-     "fecha": "2026-11-10T09:55:00+01:00",
-     "fecha_txt": "10 nov"
+     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
+     "fuente": "Meteored España",
+     "resumen": "",
+     "fecha": "2026-11-15T19:00:07+01:00",
+     "fecha_txt": "15 nov"
     },
     {
-     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
-     "url": "https://www.elespanol.com/ciencia/20261106/meteorologos-avisan-lluvias-torrenciales-aumentaran-riesgo-inundaciones-espana/1003744435488_0.html",
-     "fuente": "ESPAÑOL",
-     "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
-     "fecha": "2026-11-05T22:29:00+01:00",
-     "fecha_txt": "5 nov"
+     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
+     "fuente": "La Región",
+     "resumen": "",
+     "fecha": "2026-11-15T09:00:00+01:00",
+     "fecha_txt": "15 nov"
     }
    ]
   },
@@ -250,10 +250,10 @@
     },
     {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
-     "fuente": "teleSUR",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmplQ2M0NHlxVDc1YXV0NlFTZHdIcVF6ZVUtREF2TVN2a1dEQzVBRGg2ZDRkMHQ0UjhnQTRlN1RHYVlLbUpvWXJ3eklrcXZSQTVqdzd0R216WU42d2FIMzZSNGU0LWhWbTZ2WHpCYklGaExaZ1JWVm5zNXU3d2N6TFFR?oc=5",
+     "fuente": "La iguana TV",
      "resumen": "",
-     "fecha": "2026-11-23T11:41:56+01:00",
+     "fecha": "2026-11-23T15:58:22+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -273,19 +273,19 @@
      "fecha_txt": "20 nov"
     },
     {
+     "titulo": "Más de 2 años y medio después, REE pagará los 30.000.000 € que les supuso a las centrales eléctricas reponer el suministro tras el apagón",
+     "url": "https://www.hibridosyelectricos.com/energia/mas-2-anos-medio-despues-ree-pagara-30000000-supuso-centrales-electricas-reponer-suministro-apagon-28-abril-2025_90652_102.html",
+     "fuente": "Híbridos y Eléctricos",
+     "resumen": "El apagón que sufrió España todavía tiene consecuencias: hay una cantidad pendiente de pago de 29.154.723,71 euros.",
+     "fecha": "2026-11-19T06:30:00+01:00",
+     "fecha_txt": "19 nov"
+    },
+    {
      "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
      "fuente": "TarifaLuzHora",
      "resumen": "",
      "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Gran apagón mundial: cómo comprobar si te corresponde un descuento por un corte de luz en España",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3dHQmZQUUI1czFadTUxMTBCaHVQaGs0cDU1TEtkNUZTOGNTY3VORmVUZ3U2Ql9hSTM3WjVWbDRsN0ZsLWdsTHA4djJvYkdodkhYSVhOT25IbTR4bnZoc0VBa1NLRWNmcnRpN3c0dm9KOXgtZW1JbG1SbGFMRFRtRg?oc=5",
-     "fuente": "Hassan KOHEN",
-     "resumen": "",
-     "fecha": "2026-11-18T03:00:46+01:00",
      "fecha_txt": "18 nov"
     }
    ]
