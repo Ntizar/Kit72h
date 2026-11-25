@@ -42,7 +42,7 @@ jobs:
     needs: verificar
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.d3.outputs.page_url || steps.d2.outputs.page_url || steps.d1.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -70,14 +70,27 @@ jobs:
           ! grep -r -I -l -E "david[ ._-]?antizar|d_a[n]t|mastermind\.local|C:[/\\]Users[/\\]d_a[n]t" /tmp/_site \
             || { echo "FUGA: contenido vetado dentro del sitio"; exit 1; }
 
-      # v3/v4 (2026-11) fallaban con «Found 0 artifact(s)» aunque el artefacto se subía:
-      # 8 de 10 deploys en rojo desde el 24/11 y el sitio sirviendo una instantánea de horas
-      # antes. v5/v5 es la pareja vigente.
+      # El 23-25/11 el deploy de Pages fallaba de forma INTERMITENTE con «Deployment
+      # failed, try again later» (estado: waiting → queued → in_progress → failure, sin
+      # descripción): el artefacto se sube bien y es la API de Pages la que rechaza el
+      # deployment. Un reintento inmediato pasa casi siempre, así que se intenta 3 veces;
+      # si los tres fallan, el run queda rojo de verdad.
       - uses: actions/upload-pages-artifact@v5
         with:
           path: /tmp/_site
-      - uses: actions/deploy-pages@v5
-        id: deployment
+      - name: Desplegar en Pages (intento 1)
+        id: d1
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - name: Desplegar en Pages (intento 2)
+        id: d2
+        if: steps.d1.outcome == 'failure'
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - name: Desplegar en Pages (intento 3)
+        id: d3
+        if: steps.d1.outcome == 'failure' && steps.d2.outcome == 'failure'
+        uses: actions/deploy-pages@v5
 
   # Recibo del sitio VIVO: el push ES el deploy, así que la prueba final es la
   # web publicada. Si algún tag sale mal en producción, el workflow se pone rojo.
