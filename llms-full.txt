@@ -9661,24 +9661,143 @@ El lunes 28 de abril de 2025, a las 12:33, se fue la luz en casi toda la peníns
 
  Si quieres el escenario completo montado, empieza por el kit de apagón y por el plan familiar de emergencia : con eso cubres el 90 % de lo que pasó esa tarde.
 
-### Cómo almacenar agua y comida en casa sin que se estropee (2026) — https://kit72h.com/blog/almacenar-agua-comida-casa/
-Una despensa de emergencia mal guardada es dinero tirado: dónde, cómo y en qué orden rotar cada alimento para que aguante hasta el día que lo necesites.
-Comprar el kit es la parte fácil. Guardarlo bien, para que siga sirviendo el día que lo necesitas (a veces años después), es la parte que casi todo el mundo hace mal. Reglas que se aplican igual a un paquete de arroz que a una radio:
- Los tres enemigos: calor, luz y humedad
- El sitio ideal es fresco, oscuro y seco : un armario interior de pasillo suele ser mejor que el típico trastero junto a la caldera o la terraza. Nunca directamente sobre el suelo (humedad, plagas) ni junto a productos de limpieza (los vapores contaminan incluso envases cerrados).
+### Cómo almacenar agua y comida en casa sin que se estropee (guía 2026) — https://kit72h.com/blog/almacenar-agua-comida-casa/
+Dónde guardar la reserva, cómo rotularla y rotarla, cuánto aguanta cada alimento y cuándo hay que tirar sin dudar.
+Comprar el kit es la parte fácil. Lo que casi nadie hace bien es guardarlo : que un paquete de arroz comprado hoy siga sirviendo dentro de tres años, que el agua no sepa a plástico y que la lata no se haya abombado sin que te enteres. Esta guía es de logística de almacenamiento, no de cantidades: si lo que buscas es cuánto guardar por persona, eso está en las cantidades de reserva .
+
+
+ Los cuatro enemigos: calor, luz, humedad y plagas
+
+ El sitio bueno es fresco, oscuro y seco , y esa frase se queda corta si no sabes medirlo. Un armario interior de pasillo suele ser mejor que el trastero junto a la caldera, la terraza acristalada o el garaje: en un piso de Madrid un trastero puede pasar de 8 a 35 grados en el mismo año, y cada salto de temperatura acelera el envejecimiento del aceite, la grasa de las conservas y el plástico del agua.
+
+ Lo que de verdad mueve la aguja:
+
+ 
+ Temperatura estable : por debajo de 21-24 °C y, sobre todo, sin oscilaciones. La estabilidad importa más que el número absoluto.
+
+ Humedad baja : la pasta y el arroz absorben humedad del aire, se apelmazan y crián moho. Un higrómetro de los de ferretería (5-10 €) te dice en dos minutos si ese armario sirve. Por encima del 60 % de humedad relativa, busca otro sitio.
+
+ Oscuridad total : la luz degrada las vitaminas y las grasas. Armario cerrado, cajas opacas, nunca estantería junto a la ventana.
+
+ Sin plagas : nada de reserva en el suelo, aunque sea un momento. Ratones y cucarachas entran por huecos que no ves y el cartón es su casa.
+
+ 
+
+ Primero el mapa, después la compra
+
+ Antes de llenar la despensa de emergencia, elige el sitio y mide: temperatura, humedad y accesibilidad. Si la reserva está detrás de tres cajas de zapatos, no la vas a rotar y acabará caducada. El sitio ideal cumple tres condiciones: se ve, se alcanza y no molesta .
+
+ Regla de separación que no se negocia: la reserva de comida y agua nunca comparte armario con productos de limpieza, lejía, disolventes, gasolina del grupo electrógeno o pinturas. Los vapores atraviesan el plástico y el cartón, y el agua embotellada es especialmente buena absorbiendo olores. Si solo tienes un armario, separa con balda física y bolsas cerradas, o cambia de sitio.
+
+
  Agua: el calendario manda
- Envases comerciales cerrados: renovar cada 6-12 meses . No es que el agua caduque: el envase degrada y el cloro residual se evapora.
- Guárdala lejos del sol y de olores fuertes; el plástico absorbe gasolina, lejía o detergentes.
- Si hay aviso previo (temporal, corte de agua), llena bañera, cubos y ollas: es agua de uso no potable, perfecta para cisterna e higiene.
- Para almacenar agua propia a largo plazo, usa solo envases alimentarios nuevos con tapa hermética.
- Comida: primero en entrar, primero en salir
- Escribe la fecha de compra en cada pack con rotulador. Sin fecha, en seis meses ya no sabrás qué es viejo.
- Rotación real: consume de la despensa de emergencia en tu día a día y repon al hacer la compra. La reserva que nunca se come se tira; la que se rota, nunca caduca.
- Vida útil orientativa de lo bien almacenado: latas y frascos 3-5 años (o más), arroz y pasta 2-3 años , comida deshidratada/militar 2-5 años , leche en polvo 2-3 años cerrada. Barritas y frutos secos: mucho menos, al año.
- Descarta latas abombadas, oxidadas en costuras o con golpes profundos: botulismo, sin negociación.
- Inventario cada 6 meses
- El mismo recordatorio que el agua: revisa caducidades, estado de envases, pilas de la radio y linterna, y que la carpeta de documentos siga completa. Media hora dos veces al año mantiene tu kit vivo; sin ello, en dos años tienes un trastero de cosas caducadas.
- Las cantidades por persona y periodo están calculadas en el kit 72h y en el kit de 30 días , con precios reales de Amazon para cada pack.
+
+ El agua no caduca; caduca el envase. Por eso la reserva de agua se rotula y se rota:
+
+ 
+ Botellas comerciales cerradas : renovar cada 6-12 meses. Se va el cloro residual, el plástico se degrada y aparecen sabores. Si no quieres tirarla, úsala para cisterna, limpieza o riego y repón.
+
+ Depósitos reutilizables : un depósito plegable de 3 L tipo HydraPak Seeker sirve para cargar agua en una fuente o en casa de un vecino; no es para almacenar años, es para mover agua cuando la red falla.
+
+ Envases propios : solo garrafas alimentarias nuevas, nunca garrafas de detergente recicladas aunque las laves diez veces.
+
+ Si hay aviso previo (temporal, corte programado), llena bañera, cubos y ollas: es agua para cisterna e higiene, no para beber sin tratar.
+
+ Si el agua es de procedencia dudosa , potabiliza: hervir a borbotón un minuto (tres en altura) o pastillas de cloro de uso alimentario, como las pastillas potabilizadoras . Sigue siempre la dosis del fabricante: más pastilla no es más seguro.
+
+ 
+ Un truco que ahorra sustos: escribe en cada botella el mes en que la compraste con rotulador. Cuando revises, se ve de un vistazo qué toca sacar.
+
+
+ Comida seca: el trasvase bien hecho
+
+ Arroz, pasta, legumbres, harina y azúcar son la base de cualquier reserva y también lo primero que se estropea por humedad o gorgojo. Tres decisiones:
+
+ 
+ Mantén el envase original si es cerrado y grueso : trae la fecha de consumo preferente impresa. Si lo trasvasas, copia la fecha en el nuevo envase con rotulador permanente y guárdala también dentro de un papel.
+
+ Trasvasa solo a cajas herméticas rígidas (tipo fiambrera grande o táper de cierre de clip), nunca a bolsas de basura o bolsas de congelación abiertas: no son barrera contra humedad ni contra insectos.
+
+ No mezcles lotes : cuando llegue la compra nueva, la vieja va delante y la nueva detrás. Es la regla FIFO (primero en entrar, primero en salir) y es lo único que garantiza que nada caduque en el fondo.
+
+ 
+ Contra los gorgojos, lo que funciona es el envase hermético y la revisión, no los remedios caseros. Si abres un paquete y ves insectos, tira el contenido: no se «lava» ni se cuela, y el foco sigue ahí.
+
+
+ Latas, tarros y conservas: la vida útil más larga del armario
+
+ Las conservas son la pieza más rentable de una despensa de emergencia: aguantan años y muchas se comen frías, sin cocinar. Una selección de conservas variadas y atún al natural te cubre proteína durante días sin gastar gas ni luz.
+
+ Normas de manejo, que es donde se falla:
+
+ 
+ No apiles peso encima de las latas: un bollo deforma la costura y abre la puerta a la contaminación.
+
+ No congeles latas ni las dejes en un sitio que baje de 0 °C: el agua interior expande y revienta la costura.
+
+ Ordena por fecha , igual que la comida seca: las más antiguas delante, a la altura de los ojos.
+
+ Al abrir, si el contenido huele mal, hace espuma o sale con gas, se tira entero , sin probar y sin «aprovechar lo de arriba».
+
+ 
+
+ Cuándo tirar sin dudar
+
+ Hay cuatro señales que no admiten interpretación: lata abombada (tapa o fondo convexo), óxido en la costura, golpe profundo que deforma el cierre, y olor o gas al abrir. El botulismo no se ve, no huele y no se sabe: la única defensa es descartar el envase dañado, también en conservas caseras.
+
+ Para el resto, la fecha de consumo preferente orienta, no condena: un paquete de pasta seca bien guardado aguanta años después de la fecha; una lata sin golpes, también. Lo que no se alarga nunca es un alimento que ha estado mal almacenado.
+
+
+ Vida útil orientativa, bien almacenado
+
+ 
+ Alimento Orientativo Qué lo acorta 
+
+ Latas y tarros cerrados 3-5 años o más Golpes, calor, congelación 
+
+ Arroz, pasta, legumbres secas 2-3 años Humedad, insectos 
+
+ Comida deshidratada / liofilizada 2-5 años Envase abierto 
+
+ Leche en polvo cerrada 2-3 años Calor, humedad 
+
+ Frutos secos y barritas 6-12 meses Grasas que se enrancian 
+
+ Agua embotellada 6-12 meses Envase y cloro residual 
+
+ 
+ Son cifras de referencia, no una garantía: manda siempre la fecha del fabricante y el estado del envase.
+
+
+ La revisión de media hora, dos veces al año
+
+ Marca dos fechas fijas en el calendario (por ejemplo, al cambiar la hora en marzo y en octubre) y haz siempre la misma pasada:
+
+ 
+ Revisa fechas y saca lo que caduca antes del verano siguiente: se consume en el día a día y se repone.
+
+ Comprueba envases: latas golpeadas, paquetes hinchados, botellas abolladas.
+
+ Pilas de la radio y la linterna: fuera si han sulfatado, nuevas si toca.
+
+ Documentos y copias: que la carpeta siga completa y legible.
+
+ Anota en una hoja qué falta. Comprar sin lista es cómo acabas con siete paquetes de arroz y cero pilas.
+
+ 
+
+ En un piso pequeño: dónde meter la reserva
+
+ No necesitas un trastero. Una caja hermética bajo la cama, dos baldas altas del armario del pasillo y el hueco muerto del armario de la limpieza (separado con una balda) cubren de sobra una reserva de semanas. Lo que sí necesitas es que no estorbe : una reserva incómoda no se rota y una reserva que no se rota es dinero tirado y comida caducada.
+
+ Si vives en un cuarto piso sin ascensor, prioriza peso: agua y latas pesan, y en una evacuación a pie no te las vas a llevar. La reserva de casa es para quedarte; la mochila es otra cosa y va aparte. Para eso está el kit de evacuación , que no debe confundirse con la despensa.
+
+
+ El kit ya comprado, ahora bien guardado
+
+ Si ya tienes el kit básico de 72 horas , la mitad del trabajo está hecho: falta rotular, ordenar y poner recordatorios. Si apuntas a una autonomía más larga, el kit de 30 días añade la base seca y las conservas que aquí hemos ordenado. Y si lo que te preocupa es un apagón largo con nevera y congelador, la guía de conservar comida sin nevera es la continuación natural de esta.
+
+ Las cantidades por persona y periodo, calculadas con referencias oficiales, están en esta guía ; las conservas que mejor aguantan, en la comparativa de conservas .
 
 ### Agua para emergencias: cuánto almacenar, cómo guardarla y potabilizarla — https://kit72h.com/blog/agua-cuanta-y-como/
 3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.

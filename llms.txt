@@ -109,7 +109,7 @@ Herramientas: sitemap.xml (todas las rutas), feed.xml (RSS del blog), llms-full.
 - [Carpeta de emergencia en casa: documentos, dinero y copias listos para evacuar (2026)](https://kit72h.com/blog/carpeta-de-emergencia-documentos/): Qué lleva la carpeta de emergencia, cómo copiarla en papel y en la nube, cuánto efectivo hace falta y qué revisar cada seis meses.
 - [Botiquín de emergencia: qué llevar de verdad (y qué sobra) (2026)](https://kit72h.com/blog/botiquin-emergencia-que-llevar/): La lista de lo que tu familia necesita realmente en una emergencia sanitaria, sin innecesarios. Cuánto de cada cosa, caducidad y dónde comprarlo todo con
 - [Apagón del 28 de abril de 2025: las 8 lecciones que sí sirven en 2026](https://kit72h.com/blog/apagon-lecciones-28a/): Qué falló en el apagón peninsular del 28-A y qué cuatro cosas baratas te sacan del apuro la próxima vez.
-- [Cómo almacenar agua y comida en casa sin que se estropee (2026)](https://kit72h.com/blog/almacenar-agua-comida-casa/): Una despensa de emergencia mal guardada es dinero tirado: dónde, cómo y en qué orden rotar cada alimento para que aguante hasta el día que lo necesites.
+- [Cómo almacenar agua y comida en casa sin que se estropee (guía 2026)](https://kit72h.com/blog/almacenar-agua-comida-casa/): Dónde guardar la reserva, cómo rotularla y rotarla, cuánto aguanta cada alimento y cuándo hay que tirar sin dudar.
 - [Agua para emergencias: cuánto almacenar, cómo guardarla y potabilizarla](https://kit72h.com/blog/agua-cuanta-y-como/): 3 litros por persona y día: 9 L en 72 h y 36 L para una familia de 4. Garrafas, bidones, pastillas o filtro: cuánta, dónde y cada cuánto renovarla.
 
 ## Fuentes oficiales
