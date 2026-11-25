@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-25T04:10:06+01:00",
+  "actualizado": "2026-11-25T07:10:08+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,19 +83,27 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "La España rural busca su oportunidad frente a la despoblación y los incendios",
+     "url": "https://www.informacion.es/nacional/2026/11/25/espana-rural-busca-oportunidad-despoblacion-incendios-136818814.html",
+     "fuente": "INFORMACION",
+     "resumen": "Cinco expertos analizan las consecuencias del declive demográfico y los grandes incendios en España y reclaman más oportunidades de empleo, mejores servicios públicos y una gestión forestal que permit ...",
+     "fecha": "2026-11-24T23:01:00+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
+     "titulo": "WWF planta cara a la devastación forestal: voluntarios recuperan la naturaleza tras los incendios en España",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVNudlFtTlREOTRPNHBYLUhESldlVWExTWgzd0pBUC0zeHdFeGJidmtSRlFzX1dyUlV4NDk5UUpHZ1J0UkxLRm5DN2Q0NmRyQVozLTJSelVxRXVzX2MxcWl1MGlQcXZrajZIUktnWjFCWWUtaWdxbGRENlktTlR3ek44aEF5ZFk?oc=5",
+     "fuente": "ECOticias.com - El periódico verde",
+     "resumen": "",
+     "fecha": "2026-11-24T15:18:39+01:00",
+     "fecha_txt": "24 nov"
+    },
+    {
      "titulo": "\"Crueldad máxima\": Matan a más de 300 ciervos y jabalíes sobrevivientes del mayor incendio de España",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZ29OZFRzYzZrNGM2bHFLTl91R1RKUzRxYzk2Y2w5ekoxUWRFVHpyTUhJdmdNLUVXeW93NW15RmN4Tl9DOE4zaWh4X2hQMk9BWXFCVXpvdjJZcHgwUlEyS3NxRVpNNVFLdFEwQ1JpbndKM1hLRzlsX3ZkZnZraThGcE1aRGdPMmlRQW5ra1NmcVVFa3FZbUQyZ0piMDdkeEFkbGVfc1h6aFJsWi10Y2hnUWp2SE56ZGw3MVAyUGEzdUF0ZjZGYTJMUGdKTVBmOTk1djNPTDMzMlNJRUk3emlxcTlBTTkxcnNSdUJMbkdIaThBNHBoNjVKLQ?oc=5",
      "fuente": "BioBioChile",
      "resumen": "",
      "fecha": "2026-11-24T15:05:02+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "Estabilizado el incendio forestal de Formentor tras quemar 280 hectáreas",
-     "url": "https://www.msn.com/es-es/noticias/otras/estabilizado-el-incendio-forestal-de-formentor-tras-quemar-280-hect%C3%A1reas/ar-AA2i6SvS",
-     "fuente": "20 minutos on MSN",
-     "resumen": "El incendio forestal declarado el pasado domingo en la península de Formentor, al noreste de Mallorca, ha quedado estabilizado a las 9.00 horas de este martes tras calcinar unas 280 hectáreas de pinar ...",
-     "fecha": "2026-11-24T12:11:29+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -112,14 +120,6 @@
      "fuente": "El Confidencial",
      "resumen": "",
      "fecha": "2026-11-24T09:30:00+01:00",
-     "fecha_txt": "24 nov"
-    },
-    {
-     "titulo": "WWF planta cara a la devastación forestal: voluntarios recuperan la naturaleza tras los incendios en España",
-     "url": "https://www.ecoticias.com/naturaleza/wwf-restauracion-ecologica-incendios-espana",
-     "fuente": "Ecoticias",
-     "resumen": "WWF impulsa la restauración ecológica en 8 provincias españolas con 370 voluntarios para recuperar la biodiversidad y combatir la crisis climática.",
-     "fecha": "2026-11-24T07:18:00+01:00",
      "fecha_txt": "24 nov"
     },
     {
@@ -178,12 +178,12 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
-     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
-     "fuente": "Cambio16",
-     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
-     "fecha": "2026-11-17T02:15:00+01:00",
-     "fecha_txt": "17 nov"
+     "titulo": "Sevilla y la prevención de las riadas",
+     "url": "https://www.diariodesevilla.es/sevilla/sevilla-prevencion-riadas_0_2008534231.html",
+     "fuente": "Diario de Sevilla",
+     "resumen": "El cierre de la esclusa del Puerto contribuye a proteger las instalaciones portuarias y el entorno urbano frente a las oscilaciones del nivel del río y sus grandes avenidas ...",
+     "fecha": "2026-11-21T16:59:00+01:00",
+     "fecha_txt": "21 nov"
     },
     {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
@@ -210,12 +210,12 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
-     "fuente": "20 Minutos",
-     "resumen": "",
-     "fecha": "2026-11-06T09:00:00+01:00",
-     "fecha_txt": "6 nov"
+     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
+     "url": "https://www.elespanol.com/ciencia/20261106/meteorologos-avisan-lluvias-torrenciales-aumentaran-riesgo-inundaciones-espana/1003744435488_0.html",
+     "fuente": "ESPAÑOL",
+     "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
+     "fecha": "2026-11-05T22:29:00+01:00",
+     "fecha_txt": "5 nov"
     }
    ]
   },
@@ -224,6 +224,14 @@
    "titulo": "Apagones y red eléctrica",
    "claim": "Cortes de luz, tensión en la red y lo que dice Red Eléctrica.",
    "items": [
+    {
+     "titulo": "La CNMC impide a Red Eléctrica cobrarle al sistema su defensa legal por el apagón",
+     "url": "https://www.msn.com/es-es/noticias/otras/la-cnmc-impide-a-red-el%C3%A9ctrica-cobrarle-al-sistema-su-defensa-legal-por-el-apag%C3%B3n/ar-AA2iaGhv",
+     "fuente": "elEconomista.es on MSN",
+     "resumen": "La Comisión Nacional de los Mercados y la Competencia (CNMC) propone incrementar la retribución de Red Eléctrica por sus funciones como operador del sistema. El organismo ha sometido a consulta públic ...",
+     "fecha": "2026-11-24T23:00:00+01:00",
+     "fecha_txt": "24 nov"
+    },
     {
      "titulo": "Elecciones España: Pedro Sánchez remonta antes del apagón y roza el empate con el PP",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeElEZ1hHMGhCZ0NnVlFrNV9zYTVVbzZwT05GR2FUamNwdE40dVJVbEtKX2w1bmR4d2ZWV3NJRm5jeG9MYThHcmgxc1ZrQlY4VmxraWY0WERndHNfaEZkTmRZNjlZV19zbkJxZ3QwQXI5SHQ0Ul9DdTA3OU9qaktMN3hlelVpb1R0VldPWm1uWk9nbV9sc1JJZkZvXzJjNUNGUTJLSmRJOVNNbGlCUTBnaGE1QWE5QdIBuwFBVV95cUxPMUg4a2FyTjQ4Y2NNZFZLTWVEUjBid0hWQ0JFRloxQWZWYTRMUUtFRzZJbFlkUVUtdzljV2VZN0ZsVHhGZnNpXzNucVVxSDY4TjUtYnB1d3R1UVB5MEdMM1Q5b1hKSnlOTVc4Ty1IX1VZZ3lQUUNYWUdoQ1ljNDNINWItblVkRnlMZTFPM2RSVXd1dFZNdmd5UXctNV93S3MzaWNiaHJpM1hRZEZ5UXNZelZabXN6SWtjTnk4?oc=5",
@@ -242,10 +250,10 @@
     },
     {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmplQ2M0NHlxVDc1YXV0NlFTZHdIcVF6ZVUtREF2TVN2a1dEQzVBRGg2ZDRkMHQ0UjhnQTRlN1RHYVlLbUpvWXJ3eklrcXZSQTVqdzd0R216WU42d2FIMzZSNGU0LWhWbTZ2WHpCYklGaExaZ1JWVm5zNXU3d2N6TFFR?oc=5",
-     "fuente": "La iguana TV",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
+     "fuente": "teleSUR",
      "resumen": "",
-     "fecha": "2026-11-23T15:58:22+01:00",
+     "fecha": "2026-11-23T11:41:56+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -279,14 +287,6 @@
      "resumen": "",
      "fecha": "2026-11-18T03:00:46+01:00",
      "fecha_txt": "18 nov"
-    },
-    {
-     "titulo": "Todo lo que se sabe del apagón mundial de hoy, 17 de noviembre, que podría afectar a España: la Unión Europ...",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV2ZwTlR4RUF3ci1CWWVVSlQ0TWw2ckJJa1NySXhkQVAydTlSQVpIaEhZZlRDNzZNQU5TOGZYWDBRM0duSzdrM3dBQ0dLWDFLSmZQNkFqV3VPMjlTOW85OWZRTU40VWZ2Q3hZSm5nX2ZzVk1KZVEzVGZVVE5hbW1TUlJTZFp4Z3E1VVdDUXlqa3JvWFlERWVOSnA5UDhObEREMGpIS2ZUeV96S0JTZEMzdjMzMXZFdU96aEN0SS04S08zcEF3N0s0dnRadEo4cGhsM0hlZDcxNDBpUk3SAeABQVVfeXFMUFBSVTlCNWtiWmhKdW9rWFZzYXVUeDUtQ3I1TG5EbW8yMXdJYUdveG05RUxMT0ZOQmJuaUdnOUtuTngtSmR2S3FIY1B5VUJTX0hMWElpV2hheVJsMWZ6UEdSa2pnQ0Z0UmxOSW52MVNMWjNfTmdiVkdYcTZITDNCOHA2WGtIZkxpSk52TFZGOFNjY2hxQkNwUy1ock1DUVcwTWN5MTMtNjZOZXVvUlllLWxMeWI3Q1J5MTctQy0tdGZ6YzZTZ18xMHBXdFpsbHB4UllVQXhOcU1TLUhjb1BMMjM?oc=5",
-     "fuente": "OkDiario",
-     "resumen": "",
-     "fecha": "2026-11-17T17:19:37+01:00",
-     "fecha_txt": "17 nov"
     }
    ]
   }
