@@ -2,12 +2,12 @@
  "meta": {
   "fuente": "AEMET — Meteoalerta (avisos oficiales por zona)",
   "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos",
-  "elaborado": "20261125225001",
-  "actualizado": "2026-11-26T07:10:25+01:00",
+  "elaborado": "20261126071529",
+  "actualizado": "2026-11-26T10:11:11+01:00",
   "caducidad": "Los avisos se refrescan cada hora; AEMET los valida hasta 72 h.",
   "licencia": "© AEMET. Reproducción autorizada citando a AEMET como autora.",
   "ficheros": [
-   "r_D+0_20261125225001_penbal_20261126CET_1795672800.geojson"
+   "r_D+0_20261126071529_penbal_20261126CET_1795683600.geojson"
   ]
  },
  "resumen": {
@@ -54,8 +54,8 @@
       {
        "fenomeno": "CO",
        "fenomeno_txt": "Fenómenos costeros",
-       "descripcion": "Viento del Noroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-26T00:00:00+01:00",
+       "descripcion": "Viento del Noroeste de 50 a 61 km/h (fuerza 7). Mar combinada de 2 a 3 m.",
+       "desde": "2026-11-26T08:00:00+01:00",
        "hasta": "2026-11-26T23:59:59+01:00",
        "probabilidad": "40%-70%"
       }
@@ -1282,8 +1282,8 @@
        "fenomeno_txt": "Fenómenos costeros",
        "nivel": 3,
        "severidad": "Amarillo",
-       "descripcion": "Viento del Noroeste de 50 a 61 km/h (fuerza 7).",
-       "desde": "2026-11-26T00:00:00+01:00",
+       "descripcion": "Viento del Noroeste de 50 a 61 km/h (fuerza 7). Mar combinada de 2 a 3 m.",
+       "desde": "2026-11-26T08:00:00+01:00",
        "hasta": "2026-11-26T23:59:59+01:00",
        "probabilidad": "40%-70%",
        "certainty": "previsto"
