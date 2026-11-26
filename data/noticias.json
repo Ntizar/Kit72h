@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-26T10:11:00+01:00",
+  "actualizado": "2026-11-26T13:10:05+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -25,14 +25,6 @@
      "fuente": "EL PAÍS",
      "resumen": "",
      "fecha": "2026-11-25T09:11:07+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "Alertan sobre importancia de prepararse para las primeras 72 horas de un desastre",
-     "url": "https://www.hoytamaulipas.net/notas/633919/Alertan-sobre-importancia-de-prepararse-para-las-primeras-72-horas-de-un-desastre.html",
-     "fuente": "Hoy Tamaulipas",
-     "resumen": "Marina y Cenapred promueven un manual con medidas de autoprotección y recomendaciones para actuar ante emergencias y desastres ...",
-     "fecha": "2026-11-25T08:10:00+01:00",
      "fecha_txt": "25 nov"
     },
     {
@@ -74,6 +66,14 @@
      "resumen": "",
      "fecha": "2026-11-20T19:10:18+01:00",
      "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
+     "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
+     "fuente": "EL PAÍS",
+     "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
+     "fecha": "2026-11-20T02:30:00+01:00",
+     "fecha_txt": "20 nov"
     }
    ]
   },
@@ -83,6 +83,30 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "La Junta propone al Estado revisar la respuesta ante los incendios de emergencia nacional",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVh2ckhUa1o0TkRDMk80V0NZRjV3cXlsREl3WEdNTnJMVFBpdnoxV1VmQXhiRmdiTlFDNzQ5d2g5WGR6d3hXcU9rSTMzNW1DS0tUOGxqNE1RcE5nRUtUMW85ZUc5TWlMMjNFNmlXcUxYV0lkV3M5TTg2M3NYV3dmekcwNWVLTTdhemh5SUdrVmR3RTNmejE4TXBFM3R5Wllnd0RwejdfMmJJakl2dkhrTG4xdHVNWkZtVzVzVmNB0gHDAUFVX3lxTE81OTdrSlpDU1FFalpYbmttNnhpYk91S0tsWHh3UDN5R0dmOHlSRXJNaG90VlJhWm9zeGtTTG12YW9RNEFaYVg4d1RXQ3JvWE85QVZpN0RjYWlCSV85Qk5Ya3N4LU5TMDViYmFCUlBuTFV0VlhOeXpUemJ3cW42MHpJVEF4WDFjMEJYY2RBRHZrTVdHV1JHbnZYNjBtZFZialpXZkFBbkZfLXRaMFUtc0dpV0loQkFuRXUxVlBLY3hVRk4yMA?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-26T10:37:39+01:00",
+     "fecha_txt": "26 nov"
+    },
+    {
+     "titulo": "Guadalajara evalúa la campaña de incendios forestales 2026 para optimizar el dispositivo INFOCAM",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQndHMEcyQlAwS25NOEpfWUI5YnFhSkc3QlIxUFNMMFpnaDA1NDRkVUphdzd4QWp5MmZQYXFhcWRHRlZPLTJrOGt3V1Q0dkdxYnEzWG9PZ2RWV194T1NLZ1VqRHBvZ21UR3ZSeW1FUThyc3YtNHJreUxnenp1ZUZTQjFkY3hXa09sUWdGUktLbmk1QmlWbmxUbWowb3J4SHJwVHpYaGdicEJHcngxcW9qcGJLT1J0cDRiNXpNYTlB?oc=5",
+     "fuente": "www.elcomentariodigital.com",
+     "resumen": "",
+     "fecha": "2026-11-25T18:55:46+01:00",
+     "fecha_txt": "25 nov"
+    },
+    {
+     "titulo": "Incendio de pastizales generó alta congestión en avenida España en dirección a Viña del Mar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY09tQzRlZnU5cFdLMno3SFlMRUNnd0VOeGJnSXUxeEVHVlVISTNTYUc2OGNyT1FHR2ZONWpzS3ZHMUxpTDJhdGpNVXhyYmxoX3lyajcwZFNIOVdtSjA1b2w1cDh3NnBZNnd4YzB0RTZrSExMbjE4djZvblQ1aWZRbDRQQ0k1VU5IT2Z6MzREQ0JnTklRVHREODczeTNzQlRLVGQ4VzRkdm9EXzkwTG4zdzR6NXlCNEttX0RraGhiMFRIT0k2?oc=5",
+     "fuente": "La Región Hoy",
+     "resumen": "",
+     "fecha": "2026-11-25T14:57:08+01:00",
+     "fecha_txt": "25 nov"
+    },
+    {
      "titulo": "El 84% de las poblaciones de España linda con zonas forestales y los expertos piden frenar construcciones en zonas de riesgo extremo",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVVhOU5LQWJ6dG05SzBXU2N6eWloUFlGOGFpM0dKWm1PbnRaYzhhUzBDRHJ3ak54YXJSb1RsNW9fT2JWckVURFdMX3ZKTDVMTlh2anRpdV9mNk9sclRaWGx3V3NndEprNE5BeWRmVjBOTUotMjJ3UjZRRHQ4QVVwbk5WVnZsNXFPYmtFRUxXZTZDNnRvY09xZ0k3MVBBeUNSRzk3c2Y2bS1uS051ckVMbFE4MXdKQ21q0gG4AUFVX3lxTE5NV3BCMTFGVldBUW52V3FkY1RzUWxBX0I5eWpxa1oweXUwTmVadFBZd2x2MFZQUGpEd3dUQmFOTjBud3lxVTUxeXp3QTNHYlRhZ3hJdmVnY2M4d0xEV1lKSmhaYzJucERSal8wRWRCX3hVaGZ5Nk5ibEV6MW5CeFA2OTFSR0t6MTI4aXA2d01RQkl2TTB4SE1NYy1Td3BPNzUzM084d1lzMDBlUjI2bENjZk84bnZMRGo?oc=5",
      "fuente": "El Periódico",
@@ -91,11 +115,11 @@
      "fecha_txt": "25 nov"
     },
     {
-     "titulo": "Declarado un incendio forestal en el paraje Limera-Murtal de Turre que moviliza un medio aéreo",
-     "url": "https://www.elconfidencial.com/espana/andalucia/2026-11-25/incendio-forestal-turre-almeria-1tna-1tps_4472607/",
-     "fuente": "El Confidencial",
-     "resumen": "Las llamas afectan al paraje recreativo Limera-Murtal, mientras se desconoce la superficie dañada y el origen del fuego ...",
-     "fecha": "2026-11-25T10:05:00+01:00",
+     "titulo": "Los incendios forestales disparan a 10 millones de euros el coste de las catástrofes naturales en Galicia en 2025",
+     "url": "https://www.msn.com/es-es/noticias/otras/los-incendios-forestales-disparan-a-10-millones-de-euros-el-coste-de-las-cat%C3%A1strofes-naturales-en-galicia-en-2025/ar-AA2idzba",
+     "fuente": "Moncloa on MSN",
+     "resumen": "Galicia registró en 2025 unos diez millones de euros en daños materiales por catástrofes naturales, con Lugo como la provincia más castigada. La entrada Los incendios forestales disparan a 10 millones ...",
+     "fecha": "2026-11-25T09:17:34+01:00",
      "fecha_txt": "25 nov"
     },
     {
@@ -120,30 +144,6 @@
      "fuente": "EFEverde",
      "resumen": "El 84,5 % de los núcleos de población en España linda con zonas boscosas, algo que incrementa la exposición de viviendas, negocios y personas frente a fuegos ...",
      "fecha": "2026-11-25T06:30:00+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "El 43 Grupo del Ejército del Aire cierra la campaña de incendios de 2026 con 5.200 descargas de agua y 1.923 horas de vuelo",
-     "url": "https://www.infodefensa.com/texto-diario/mostrar/6108172/43-grupo-ejercito-aire-cierra-campana-incendios-2026-5200-descargas-agua-1923-horas-vuelo",
-     "fuente": "Infodefensa",
-     "resumen": "Entre las primeras actuaciones de la temporada destacaron las realizadas en Los Garres, en la Región de Murcia, y en los municipios onubenses de Alosno y Villanueva de los Castillejos.Interv ...",
-     "fecha": "2026-11-25T06:25:00+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "La España rural busca su oportunidad frente a la despoblación y los incendios",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnY3U1ZWdGE4QXZpWjJyX3RjNjBTbHdNMnZuc3dFa1pzOEEtWjYyUkhlQkdNUlRLZE1NRlVtemYxVmtwQlBOLV9XRFZKVmI0SWhHUnFILVM5a2lOSzQwakFDN2tpcWp6MlF5MFgwbG9udWFfdzdPeTJqRmM1c05McXNGVDh3T3UwMS1HbmNUVnIxTUloMVo5QnJjOUxQTjUwRDJ3OHRPeWhwMFFheTVxTDVRc0pVQzRKRldoSDVmbkF0YUHSAcgBQVVfeXFMTTA2b05UZGxGcWVGR1hOWmhPU3IxdUt0VmtlLWRtVHduTklMaTBwU3Y2ekdwM1NtT2RTVm8yVVhEMERLWmt5Q1dlVGFkZ2hHczNIdFJCY0JrVEFlRFFCSlJwSVB4ejBWdWN4UzJiclBnRUE1QWRJckRNcnhKZFJmYWlNVmhPTTY3dmFGLVdRVnB0UDR1RE1WLTJ1OTdhd3Z1NVBTc3gzaTVvYVFscU5la2FGVGhDd3gyRGVjRGhtcDcySHlRcXRxZVQ?oc=5",
-     "fuente": "El Periódico Extremadura",
-     "resumen": "",
-     "fecha": "2026-11-25T06:01:21+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "Las aseguradoras calculan que van a pagar 83 millones de euros en indemnizaciones por los incendios forestales de 2026",
-     "url": "https://www.elconfidencialdigital.com/dinero/aseguradoras-van-pagar-83-millones-euros-indemnizaciones-incendios-forestales-2026/202611251202571505542.html",
-     "fuente": "Confidencial Digital",
-     "resumen": "Los daños en viviendas concentran tres cuartas partes de la factura del sector asegurador. Las compañías han contabilizado más de 6.400 siniestros, entre ...",
-     "fecha": "2026-11-25T06:00:00+01:00",
      "fecha_txt": "25 nov"
     }
    ]
@@ -186,36 +186,36 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
-     "fuente": "Meteored España",
-     "resumen": "",
-     "fecha": "2026-11-15T09:00:00+01:00",
-     "fecha_txt": "15 nov"
+     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
+     "url": "https://www.france24.com/es/minuto-a-minuto/20261116-pese-a-incendios-e-inundaciones-el-clima-queda-fuera-del-debate-electoral-espa%C3%B1ol",
+     "fuente": "France 24",
+     "resumen": "María Laura Bustamante apenas había terminado de amueblar el apartamento que acababa de comprar con su marido en la localidad española de Paiporta cuando las mortíferas inundaciones de octubre de 2024 ...",
+     "fecha": "2026-11-16T07:03:00+01:00",
+     "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
-     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlZxV2ttTVJBeE5ySEE5QlRXblZjZ1ZvY2hKZ2xaZ2tJUlRhUHdoMnRPUGNjNWNSVF9FMXUwNTNlSXVsMlo0S25JampmRHRtLXlJV25laXkxNmpJQ2NvbXFJS1A2ZWowQzFDRGxqNlJzZHJReWp4SkJUY1JIY2RBc0ZYeTl4Wi1pT1dpUFhrcFo2MURSbmlqUWNzYmNjYmpIOEw1X29lU25sQnExbkNYdmRzaWRFWk90RzVCUWVMejdhT1p6U1lxa0V5dGhOYmV3bVYyTGIwWFNsamRkNkZ6Zy0yQndaR1N1UHlObElFVTJEdk9rMldGMElQN0RLMHBWbUdUa011c01TS1psVC14UkNnVkVxNUNuR3UySURkbUpPUTFIQnYwZlUwazNLUmdPMmxFNGtpYkJGZW5MN0Rz?oc=5",
-     "fuente": "Bichos de Campo",
-     "resumen": "",
-     "fecha": "2026-11-14T09:00:00+01:00",
-     "fecha_txt": "14 nov"
+     "titulo": "Aviso especial de la AEMET por la borrasca Bruna: cinco días de lluvias muy fuertes, tormentas y riesgo de inundaciones en España",
+     "url": "https://www.msn.com/es-es/noticias/otras/aviso-especial-de-la-aemet-por-la-borrasca-bruna-cinco-d%C3%ADas-de-lluvias-muy-fuertes-tormentas-y-riesgo-de-inundaciones-en-espa%C3%B1a/ar-AA2gS740",
+     "fuente": "La Razón on MSN",
+     "resumen": "La AEMET advierte de un episodio de precipitaciones intensas y persistentes, con rachas de viento muy fuertes hasta el martes. Galicia y Andalucía occidental también sufrirán un importante temporal ma ...",
+     "fecha": "2026-11-06T01:31:00+01:00",
+     "fecha_txt": "6 nov"
     },
     {
-     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-12T09:00:00+01:00",
-     "fecha_txt": "12 nov"
+     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
+     "url": "https://www.elespanol.com/ciencia/20261106/meteorologos-avisan-lluvias-torrenciales-aumentaran-riesgo-inundaciones-espana/1003744435488_0.html",
+     "fuente": "ESPAÑOL",
+     "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
+     "fecha": "2026-11-05T22:29:00+01:00",
+     "fecha_txt": "5 nov"
     },
     {
-     "titulo": "La borrasca Charles azota España con lluvias intensas y vientos huracanados: ES-Alert en Andalucía, carreteras cortadas y clases suspendidas",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemFQYkFfOVlQSi14SU5OSzExd0ZSREZGTG5tV2tFU08xV1FVOWltTjJwdnhHYVQ0anZZeko3TTJoT04tdmZ2bU40eUdRU29EYnRVN1pKd2R4Qm16Qmh4elRSNHA1akhfYlJTMmZ6MnJydFJxT3A5N2NpLWJtc2d3dm5pSnNucjBLY0N2X19NZTdkUmhUTTlIaE85SXdjcFl1ekp4QjdnTFJmd0U1M3FLZFNTTHFlSjl1RGlkTWMwREQ2cmU1bW5LcHdUNV9UR1ZLQlQ1UEJGeUFIVU9XZDNacDVoYlptVGV1RkEyMG50a2ZObmxNU1FJU2VKNWx4SVN2dldOV3U5RjlLdmFOV19ZUEpKeHpxUdIBlgJBVV95cUxNelZZSmE2Z0VsOG9TMkZjalJRajdGc1lBVmNxa0VUY2FhcWlkNEdXT2tfc2JBWFR1WHFZYk5yQzd3ZFB4cGgybjJjaU5leXNqdGFHdnI3Zl9wT1RweVNlajdKLVVzUkk4dXN3VHE4ZjFtazhWVDVzcUd5a2VjNko2Z0hSRVFrVktxbEpqempBMkdfQzhjT3FkdVNhRGNNR3lLLWdVTVlicTRiX05pcUk3aWZXeUpUeUtyOUJucjdXR3F3ZUtaUW15MklXWWlDUjRDS3h3RE1hd2h6cWR5UUkwY0EzbDJXRDhNeUVBdVZlNjk5Z21NWUZrX0pTZnBRcHJlQjdiU3ZQYTliaHNRc3RUSEZoSUdQZw?oc=5",
-     "fuente": "LaSexta",
-     "resumen": "",
-     "fecha": "2026-11-11T09:00:00+01:00",
-     "fecha_txt": "11 nov"
+     "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
+     "url": "https://www.elespanol.com/ciencia/20261031/meteorologos-avisan-espanoles-vive-zonas-urbanas-amenazadas-calor-extremo-inundaciones/1003744430592_0.html",
+     "fuente": "El Español",
+     "resumen": "Ni solo calor ni sequía: el 88% de los españoles vive en zonas urbanas que afrontan dos grandes riesgos climáticos. Más información: La psicología dice que los adultos nacidos entre 1972 y 2004 con ca ...",
+     "fecha": "2026-10-31T12:56:00+01:00",
+     "fecha_txt": "31 oct"
     }
    ]
   },
@@ -258,27 +258,19 @@
     },
     {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmplQ2M0NHlxVDc1YXV0NlFTZHdIcVF6ZVUtREF2TVN2a1dEQzVBRGg2ZDRkMHQ0UjhnQTRlN1RHYVlLbUpvWXJ3eklrcXZSQTVqdzd0R216WU42d2FIMzZSNGU0LWhWbTZ2WHpCYklGaExaZ1JWVm5zNXU3d2N6TFFR?oc=5",
-     "fuente": "La iguana TV",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
+     "fuente": "teleSUR",
      "resumen": "",
-     "fecha": "2026-11-23T15:58:22+01:00",
+     "fecha": "2026-11-23T11:41:56+01:00",
      "fecha_txt": "23 nov"
     },
     {
-     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
-     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
-     "fuente": "THE OBJECTIVE",
-     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
-     "fecha": "2026-11-19T02:26:00+01:00",
-     "fecha_txt": "19 nov"
-    },
-    {
-     "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-18T10:28:15+01:00",
-     "fecha_txt": "18 nov"
+     "titulo": "ClaraRed, una web con sello linense que utiliza la inteligencia artificial para estimar el riesgo de apagones en España",
+     "url": "https://www.diarioarea.com/la-linea/clarared-web-sello-linense-utiliza-inteligencia-artificial-estimar-riesgo-apagones-espana/",
+     "fuente": "Diario Área",
+     "resumen": "¿Se puede saber qué probabilidades hay de quedarse sin luz durante las próximas 24 horas? Esa es una de las preguntas a las que intenta dar respuesta ...",
+     "fecha": "2026-11-20T12:55:00+01:00",
+     "fecha_txt": "20 nov"
     },
     {
      "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
@@ -286,6 +278,14 @@
      "fuente": "El Pespunte",
      "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
      "fecha": "2026-11-17T13:42:00+01:00",
+     "fecha_txt": "17 nov"
+    },
+    {
+     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
+     "url": "https://www.elpespunte.es/entretenimiento/ira-luz-hoy-espana-verdad-supuesto-apagon-mundial/20261117200530162932.html",
+     "fuente": "El Pespunte",
+     "resumen": "¿Habrá apagón en España hoy 17 de noviembre? Descubre qué ocurrirá a las 20:20, el origen del rumor de las 72 horas y qué dicen las fuentes oficiales.",
+     "fecha": "2026-11-17T13:05:00+01:00",
      "fecha_txt": "17 nov"
     }
    ]
