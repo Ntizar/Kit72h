@@ -74,3 +74,4 @@
 | 2026-11-24 | como calentar la casa sin electricidad | guia | propuesto | Score 101.2 (top) pero duplicado del post publicado 2026-11-16 (calentar-casa-sin-electricidad-invierno, 1470 palabras); se descarta repetir |
 | 2026-11-24 | comunicar-sin-red-movil | revamp | encolado | Revamp 351->1639 palabras: tabla por escenario, PMR446 legal (0,5 W/antena fija), SOS satelite con cielo despejado, 4 fuentes oficiales, 7 internos, 3 ASIN |
 | 2026-11-25 | almacenar-agua-comida-casa | revamp | encolado | Revamp 355->1440 palabras: sitio, humedad, rotación de agua, FIFO, latas, tabla de vida útil, revisión semestral; 3 fuentes oficiales, 3 internos blog + 4 kits, |
+| 2026-11-26 | botiquin-emergencia-lista-completa | revamp | encolado | Revamp 423->1512 palabras: 15 objetos en tabla, 5 imprescindibles, rotacion de caducidades, bloques coche/bebe/mayores, 4 fuentes, 8 internos |
