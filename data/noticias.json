@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-26T13:10:05+01:00",
+  "actualizado": "2026-11-26T16:10:39+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,6 +83,22 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
+     "titulo": "España acumula 302.074 hectáreas quemadas hasta el 25 de noviembre, el 42,8% de la UE, según Copernicus",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd1Z0ck1pWXpIRmV6eDFhclJaekRGVG1YV1BzUExBVThhMmJxYzFJRHZxSGZWZ2NOMWdiWU9KWHUtTFNubXRuRHZ2VFc2ZHJSWjlSaHBMbUctMzBDZTk5WlNEQ1N0SmRSTnVVTGluUnlXWDNKZm1KTTBnZUJhOXBJMUtXSDhwemo2UW1WanBBQkFQdlVRbnEzNDI0RG5NajMzYnAzaDJRd0JHenF6S25IZHY0SXF0Y3h5ZXJWUUF2R1MtWjZCZ19NZTRCX1VIcDdO?oc=5",
+     "fuente": "Europa Press",
+     "resumen": "",
+     "fecha": "2026-11-26T14:38:16+01:00",
+     "fecha_txt": "26 nov"
+    },
+    {
+     "titulo": "Dos investigados por un incendio forestal originado durante unos trabajos de reparación en Bembibre (León)",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0NfLWIxTXlucXFjWXNJUGZfNjNkeEYzSlNwbTc4OVVrNjNQMXBDaENnbUhNYXJkV3hjeXFrMTVnUW43T0RHdzdZaTJ6akF4SDFDYlB3UXlDbE1lLVdrTC1FVlotTHlTZjczaXVWWEIxYVdwV0ZsQ1Npc245UHVkTWhqWm5wWjZFd0h2aE5ISUZYT0xJQUllRFhmVjdFVlZ2TFNsY01xTy1idjhCMkN4WWp6Rl9BZEZuaV9zSnVfU2dWRFM0d3fSAcsBQVVfeXFMT25MY0FLME13TmVIVmlJczgweDRBbGRfel8tUkNDYlB4ckFmNFA0eFE5WVBsejJIVHZXU0JCaXFvZ3M5cExuTmZpaTJLMWRzNmo3UGFZa3NRZjljeEJWblJjWEZYdnZwZjdWcGFSRWRCWWliUlg2dTVoZWdNYVBra3dhTFVfVUtBYnBxWUNBUTRGWks5blRBMTRPLWl0VUpPVDhWMGo4bjZMUUVidFRZRjh6Tkd0c2ZQb1VReUtEUnhRMzlBN2VHSWlhWUU?oc=5",
+     "fuente": "ABC",
+     "resumen": "",
+     "fecha": "2026-11-26T13:41:28+01:00",
+     "fecha_txt": "26 nov"
+    },
+    {
      "titulo": "La Junta propone al Estado revisar la respuesta ante los incendios de emergencia nacional",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVh2ckhUa1o0TkRDMk80V0NZRjV3cXlsREl3WEdNTnJMVFBpdnoxV1VmQXhiRmdiTlFDNzQ5d2g5WGR6d3hXcU9rSTMzNW1DS0tUOGxqNE1RcE5nRUtUMW85ZUc5TWlMMjNFNmlXcUxYV0lkV3M5TTg2M3NYV3dmekcwNWVLTTdhemh5SUdrVmR3RTNmejE4TXBFM3R5Wllnd0RwejdfMmJJakl2dkhrTG4xdHVNWkZtVzVzVmNB0gHDAUFVX3lxTE81OTdrSlpDU1FFalpYbmttNnhpYk91S0tsWHh3UDN5R0dmOHlSRXJNaG90VlJhWm9zeGtTTG12YW9RNEFaYVg4d1RXQ3JvWE85QVZpN0RjYWlCSV85Qk5Ya3N4LU5TMDViYmFCUlBuTFV0VlhOeXpUemJ3cW42MHpJVEF4WDFjMEJYY2RBRHZrTVdHV1JHbnZYNjBtZFZialpXZkFBbkZfLXRaMFUtc0dpV0loQkFuRXUxVlBLY3hVRk4yMA?oc=5",
      "fuente": "ABC",
@@ -91,20 +107,12 @@
      "fecha_txt": "26 nov"
     },
     {
-     "titulo": "Guadalajara evalúa la campaña de incendios forestales 2026 para optimizar el dispositivo INFOCAM",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQndHMEcyQlAwS25NOEpfWUI5YnFhSkc3QlIxUFNMMFpnaDA1NDRkVUphdzd4QWp5MmZQYXFhcWRHRlZPLTJrOGt3V1Q0dkdxYnEzWG9PZ2RWV194T1NLZ1VqRHBvZ21UR3ZSeW1FUThyc3YtNHJreUxnenp1ZUZTQjFkY3hXa09sUWdGUktLbmk1QmlWbmxUbWowb3J4SHJwVHpYaGdicEJHcngxcW9qcGJLT1J0cDRiNXpNYTlB?oc=5",
-     "fuente": "www.elcomentariodigital.com",
-     "resumen": "",
-     "fecha": "2026-11-25T18:55:46+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "Incendio de pastizales generó alta congestión en avenida España en dirección a Viña del Mar",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY09tQzRlZnU5cFdLMno3SFlMRUNnd0VOeGJnSXUxeEVHVlVISTNTYUc2OGNyT1FHR2ZONWpzS3ZHMUxpTDJhdGpNVXhyYmxoX3lyajcwZFNIOVdtSjA1b2w1cDh3NnBZNnd4YzB0RTZrSExMbjE4djZvblQ1aWZRbDRQQ0k1VU5IT2Z6MzREQ0JnTklRVHREODczeTNzQlRLVGQ4VzRkdm9EXzkwTG4zdzR6NXlCNEttX0RraGhiMFRIT0k2?oc=5",
-     "fuente": "La Región Hoy",
-     "resumen": "",
-     "fecha": "2026-11-25T14:57:08+01:00",
-     "fecha_txt": "25 nov"
+     "titulo": "El 43 Grupo suma casi 2000 horas extinguiendo incendios en 2026",
+     "url": "https://fly-news.es/aviacion-comercial/trabajos-aereos/extincion-de-incendios-trabajos-aereos/el-43-grupo-2000-horas-incendios-forestales-2026/",
+     "fuente": "Fly News",
+     "resumen": "Durante los cinco meses de la campaña de lucha contra incendios forestales de 2026, el 43 Grupo ha participado en 539 incendios en España y Portugal.",
+     "fecha": "2026-11-26T05:14:00+01:00",
+     "fecha_txt": "26 nov"
     },
     {
      "titulo": "El 84% de las poblaciones de España linda con zonas forestales y los expertos piden frenar construcciones en zonas de riesgo extremo",
@@ -137,14 +145,6 @@
      "resumen": "Los seguros privados han asumido 83 millones de euros en daños por incendios en 2026 ...",
      "fecha": "2026-11-25T07:55:00+01:00",
      "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "Más del 80 % de núcleos de población en España están expuestos a incendios forestales",
-     "url": "https://efeverde.com/nucleos-poblacion-espana-expuestos-a-incendios-forestales/",
-     "fuente": "EFEverde",
-     "resumen": "El 84,5 % de los núcleos de población en España linda con zonas boscosas, algo que incrementa la exposición de viviendas, negocios y personas frente a fuegos ...",
-     "fecha": "2026-11-25T06:30:00+01:00",
-     "fecha_txt": "25 nov"
     }
    ]
   },
@@ -154,28 +154,20 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Adjudicada por 196.208 euros la nueva pista del Palacio de los Deportes, que sustituirá a la dañada por la inundación",
+     "url": "https://www.lne.es/oviedo/2026/11/25/adjudicada-196-208-euros-nueva-136850140.html",
+     "fuente": "La Nueva España",
+     "resumen": "En la instalación de Ventanielles se colocó hace más de dos meses parqué provisional para recuperar la actividad deportiva ...",
+     "fecha": "2026-11-25T13:30:00+01:00",
+     "fecha_txt": "25 nov"
+    },
+    {
      "titulo": "Una nueva rotura de tubería causa inundaciones en Los Rosales, en Tocina (Sevilla)",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2hyY0VONktjdE5RRFJRaUprVkRMRW1KQU5Mc0NnMmlpeFp6QWNaMnExLWZvR0I5M0RoZjVpV2xJblVPemRhQ0ljcWppZzByRlN2WW1pN2FweUk1VklxakI3NFBFMVlxU2FYck14Smp4MHFPNlJkNkR5SU54YjcxU2hWQ2xYQjRYYjJhX1R4Vk53NGh5ZUpGSVlBVm5EYllqemRTZUNB0gGrAUFVX3lxTE9tVEhnaGF4MFJHQnpMUlQxRGlOZWJsanRza21Da2FVaUhrMEVIczdBMkgwUVhXNkxfOElJY1RWM082Mm1fdnMxSnVBUkFkN2g5aFdRbmFjSXowLUt2dXduQ2tyQVJnd0tIVDBoNEVibl9TRmtpTkZSNHhEdjJyaFBVYzhraEZBTzdsdzRnUjJVeW92SzhhWk9PY0RHc3NvYVBzX1d0UG5ja25pTQ?oc=5",
      "fuente": "ABC",
      "resumen": "",
      "fecha": "2026-11-22T17:24:38+01:00",
      "fecha_txt": "22 nov"
-    },
-    {
-     "titulo": "Mireya Esther Bueno cubana sobreviviente a la Dana en España: «El miedo va a estar siempre»",
-     "url": "https://www.cubanoticias360.com/mireya-esther-bueno-cubana-sobreviviente-a-la-dana-en-espana-el-miedo-va-a-estar-siempre/",
-     "fuente": "Cuba Noticias 360",
-     "resumen": "Mireya Esther Bueno llegó a España el 9 de abril de 2022 desde Cuba y en 2024 sobrevivió a la Dana en su piso en Valencia.",
-     "fecha": "2026-11-22T10:23:00+01:00",
-     "fecha_txt": "22 nov"
-    },
-    {
-     "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
-     "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
-     "fuente": "Cambio16",
-     "resumen": "Hoy España trabaja en una respuesta distinta. El sistema satelital RESEMS, impulsado por Telespazio Ibérica con el respaldo de la Agencia Espacial Europea y la Agencia Espacial Española, aspira a ...",
-     "fecha": "2026-11-17T02:15:00+01:00",
-     "fecha_txt": "17 nov"
     },
     {
      "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
@@ -186,19 +178,19 @@
      "fecha_txt": "16 nov"
     },
     {
-     "titulo": "Pese a incendios e inundaciones, el clima queda fuera del debate electoral español",
-     "url": "https://www.france24.com/es/minuto-a-minuto/20261116-pese-a-incendios-e-inundaciones-el-clima-queda-fuera-del-debate-electoral-espa%C3%B1ol",
-     "fuente": "France 24",
-     "resumen": "María Laura Bustamante apenas había terminado de amueblar el apartamento que acababa de comprar con su marido en la localidad española de Paiporta cuando las mortíferas inundaciones de octubre de 2024 ...",
-     "fecha": "2026-11-16T07:03:00+01:00",
-     "fecha_txt": "16 nov"
+     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
+     "url": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/borrascas-bruna-charles-ponen-alerta-espana-lluvias-torrenciales-fuertes-vientos-riesgo-inundaciones_202611106af34c8e9a31a65adcd747a4.html",
+     "fuente": "laSexta",
+     "resumen": "Este miércoles día 11 será uno de los días más complicados, pero la situación podría empezar a mejorar a partir del jueves.",
+     "fecha": "2026-11-10T09:55:00+01:00",
+     "fecha_txt": "10 nov"
     },
     {
-     "titulo": "Aviso especial de la AEMET por la borrasca Bruna: cinco días de lluvias muy fuertes, tormentas y riesgo de inundaciones en España",
-     "url": "https://www.msn.com/es-es/noticias/otras/aviso-especial-de-la-aemet-por-la-borrasca-bruna-cinco-d%C3%ADas-de-lluvias-muy-fuertes-tormentas-y-riesgo-de-inundaciones-en-espa%C3%B1a/ar-AA2gS740",
-     "fuente": "La Razón on MSN",
-     "resumen": "La AEMET advierte de un episodio de precipitaciones intensas y persistentes, con rachas de viento muy fuertes hasta el martes. Galicia y Andalucía occidental también sufrirán un importante temporal ma ...",
-     "fecha": "2026-11-06T01:31:00+01:00",
+     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
+     "fuente": "20 Minutos",
+     "resumen": "",
+     "fecha": "2026-11-06T09:00:00+01:00",
      "fecha_txt": "6 nov"
     },
     {
@@ -210,12 +202,12 @@
      "fecha_txt": "5 nov"
     },
     {
-     "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
-     "url": "https://www.elespanol.com/ciencia/20261031/meteorologos-avisan-espanoles-vive-zonas-urbanas-amenazadas-calor-extremo-inundaciones/1003744430592_0.html",
-     "fuente": "El Español",
-     "resumen": "Ni solo calor ni sequía: el 88% de los españoles vive en zonas urbanas que afrontan dos grandes riesgos climáticos. Más información: La psicología dice que los adultos nacidos entre 1972 y 2004 con ca ...",
-     "fecha": "2026-10-31T12:56:00+01:00",
-     "fecha_txt": "31 oct"
+     "titulo": "Una normalidad rara en la \"calle de los coches\", símbolo de la dana, dos años después: \"La gente está muy tocada\"",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVhyalJOM1lmMTBEeXBmUlVWeVRNTnJxLW1RTlJvS0VrTHBsSV9lR2pUalZ1bzJQR3hoZEVyWjFWM3lfQlpYT2l6dGc2WGRCamc1T2dObW1YUktIbXR6N3pzVnM1WTFVaWQ5NEROUktkSkU4YUNkTGJCSzF4dmpGbXhqLWx6NGotdzN6aFhyOUZrWlZwYklDeWVrQQ?oc=5",
+     "fuente": "RTVE.es",
+     "resumen": "",
+     "fecha": "2026-10-28T08:00:00+01:00",
+     "fecha_txt": "28 oct"
     }
    ]
   },
@@ -230,6 +222,14 @@
      "fuente": "La Razón",
      "resumen": "",
      "fecha": "2026-11-26T09:31:06+01:00",
+     "fecha_txt": "26 nov"
+    },
+    {
+     "titulo": "Un apagón eléctrico paraliza cuatro líneas del Metro de Madrid y deja semáforos sin servicio",
+     "url": "https://www.esdiario.com/nacional/261126/204062/apagon-electrico-paraliza-cuatro-lineas-metro-madrid-deja-semaforos-servicio.html",
+     "fuente": "ESdiario",
+     "resumen": "El corte afectó durante trece minutos a las líneas 1, 4, 6 y 9, mientras Goya registraba problemas de suministro y telefonía. Iberdrola tiene adjudicado el contrato eléctrico del suburbano ...",
+     "fecha": "2026-11-26T06:57:00+01:00",
      "fecha_txt": "26 nov"
     },
     {
@@ -258,10 +258,10 @@
     },
     {
      "titulo": "España entrará en el «apagón demoscópico» previo a las elecciones generales",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc2xNN0dVQVliRktveDZmVzFjLUVFcGxxTmhhbms4bDRydlBTQW1JMWo1RkctTWxGVy1tWmR5U0M1dzZjaTRacllFV1p4Q3RXNlpDV1ZlX1VtM2d1YXM1QUpXVjVIUFYyejcyNFF3MmI1MnczNHUzd0RNd1hTLUduM190aFVUS2FrQmtXWnk5S00yM2F5S0pKU09qOWtDWEZnRmc?oc=5",
-     "fuente": "teleSUR",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmplQ2M0NHlxVDc1YXV0NlFTZHdIcVF6ZVUtREF2TVN2a1dEQzVBRGg2ZDRkMHQ0UjhnQTRlN1RHYVlLbUpvWXJ3eklrcXZSQTVqdzd0R216WU42d2FIMzZSNGU0LWhWbTZ2WHpCYklGaExaZ1JWVm5zNXU3d2N6TFFR?oc=5",
+     "fuente": "La iguana TV",
      "resumen": "",
-     "fecha": "2026-11-23T11:41:56+01:00",
+     "fecha": "2026-11-23T15:58:22+01:00",
      "fecha_txt": "23 nov"
     },
     {
@@ -273,20 +273,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
-     "fuente": "El Pespunte",
-     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
-     "fecha": "2026-11-17T13:42:00+01:00",
-     "fecha_txt": "17 nov"
-    },
-    {
-     "titulo": "¿Se irá la luz hoy en España? La verdad sobre el supuesto apagón mundial",
-     "url": "https://www.elpespunte.es/entretenimiento/ira-luz-hoy-espana-verdad-supuesto-apagon-mundial/20261117200530162932.html",
-     "fuente": "El Pespunte",
-     "resumen": "¿Habrá apagón en España hoy 17 de noviembre? Descubre qué ocurrirá a las 20:20, el origen del rumor de las 72 horas y qué dicen las fuentes oficiales.",
-     "fecha": "2026-11-17T13:05:00+01:00",
-     "fecha_txt": "17 nov"
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   }
