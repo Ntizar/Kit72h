@@ -1,8 +1,8 @@
 {
   "meta": {
-    "ultima_generacion": "2026-11-25",
-    "total": 96,
-    "png_total": 96
+    "ultima_generacion": "2026-11-26",
+    "total": 97,
+    "png_total": 97
   },
   "pins": [
     {
@@ -868,6 +868,15 @@
       "emoji": "📖",
       "pin": "pin-blog-cocinar-sin-electricidad-gas.html",
       "png": "png/pin-blog-cocinar-sin-electricidad-gas.png"
+    },
+    {
+      "slug": "pin-blog-phaenyx-alert-avisos-oficiales",
+      "tipo": "blog",
+      "titulo": "Phaenyx Alert: tu kit 72h ahora avisa antes que la tormenta",
+      "url": "https://kit72h.com/blog/phaenyx-alert-avisos-oficiales/",
+      "emoji": "📖",
+      "pin": "pin-blog-phaenyx-alert-avisos-oficiales.html",
+      "png": "png/pin-blog-phaenyx-alert-avisos-oficiales.png"
     }
   ]
 }
