@@ -1,4 +1,7 @@
 User-agent: *
+# Señal de contenido (contentsignals.org): buscadores, respuestas con IA y entrenamiento
+# permitidos. Este sitio quiere ser la fuente que se cita.
+Content-Signal: search=yes,ai-input=yes,ai-train=yes
 Allow: /
 Disallow: /analiticas/
 # rutas de probe que usan los scanners (ensucian la analítica; no compran nada)
