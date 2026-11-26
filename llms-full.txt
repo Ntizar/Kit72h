@@ -5081,61 +5081,155 @@ Un kit 72h sin luz es como una mochila sin fondo: bonito pero inútil. La linter
 
  Para un kit 72h básico: una linterna LED USB recargable + un pack de 2 linternas pequeñas como reserva. Inversión total: ~25€. Te pone a salvo durante las primeras 72 horas oscuras.
 
-### Botiquín de emergencia completo: 15 objetos que no pueden faltar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
-Qué lleva un botiquín de emergencia y qué sobra: lista por bloques para todo hogar, revisión de caducidades y 8 errores que lo dejan inútil.
-La salud es el segundo bloque del kit 72h (después del agua) y el que más variaciones tiene según tu familia. Aquí tienes la lista base universal y las adaptaciones para casos especiales.
+### Botiquín de emergencia completo: los 15 objetos que no pueden faltar (2026) — https://kit72h.com/blog/botiquin-emergencia-lista-completa/
+Los 15 objetos del botiquín de emergencia, los 5 que casi nadie lleva, tabla de caducidades y qué sobra en la caja.
+Un botiquín de emergencia no es la caja de tiritas del cuarto de baño. Es el estuche que te resuelve las dos primeras horas de un apagón largo, de una nevada que cierra la farmacia del barrio o de una evacuación a las tres de la mañana con los niños en brazos. Y no se compra hecho: se monta por capas, con fecha de caducidad en cada caja y con lo que de verdad se usa en casa.
 
 
- El botiquín base: 15 objetos no negociables
+ Esta guía rehace la lista clásica de 15 objetos con un criterio más útil: qué necesitas para parar una hemorragia, qué para una quemadura de cocina, qué para un corte de medicación crónica y qué para tres días sin agua corriente ni farmacia abierta. Al final tienes una tabla de rotación para no descubrir en el peor momento que el antiséptico caducó en 2021.
+
+
+ Qué pide la autoridad (y qué se queda corto)
+
+
+ Las recomendaciones oficiales coinciden en lo básico: gasas, antiséptico, vendas, tiritas, guantes, analgésicos y una lista de teléfonos de emergencia. La Dirección General de Protección Civil lo enmarca dentro del kit de 72 horas; el Centro de Coordinación de Respuesta a Emergencias de la UE (DG ECHO) añade los medicamentos de uso habitual de cada persona, y el Ministerio de Sanidad insiste en algo que casi nadie cumple: guardar el prospecto y la caja original de lo que tomas a diario.
+
+
+ Lo que ninguna lista oficial te dice es cómo se organiza. La respuesta práctica es la misma de siempre: capas. Un estuche pequeño para el coche, una caja mediana para el salón y una bolsa con asa para llevar si toca evacuar. Si todo está en un solo sitio y ese sitio es el baño, en una evacuación te quedas sin nada.
+
+
+ Los 15 objetos que no pueden faltar
+
 
  
- Gasas estériles (paquete de 4) : Para cubrir heridas sin que entren fibras.
+ Objeto Para qué sirve de verdad Mínimo razonable 
+ 
+ 
+ Gasas estériles Limpiar y tapar heridas; la base de todo 2 sobres de 10 
 
- Vendas elásticas (3 unidades, 8cm) : Para inmovilizar o sujetar gasas.
+ Vendas elásticas Compresión tras un golpe o una torcedura 2, de 8 y 10 cm 
 
- Curitas (talla variada, 20 unidades) : Para heridas pequeñas y rasguños.
+ Esparadrapo hipoalergénico Sujetar gasas y fijar apósitos 1 rollo de 2,5 cm 
 
- Antiséptico en monodosis (10 unidades) : Clorhexidina o povidona yodada. Sin alcohol.
+ Antiséptico (clorhexidina) Desinfectar cortes; no escuece y no mancha 1 frasco de 250 ml 
 
- Tijeras de punta roma : Para cortar vendas o ropa si es necesario.
+ Suero fisiológico monodosis Lavar ojos y heridas con suciedad o polvo 10-20 ampollas 
 
- Pinzas : Para sacar astillas o escombros de una herida.
+ Guantes de nitrilo Atender a alguien sin contacto con sangre 4 pares 
 
- Paracetamol (500mg y 1g) : Dolor y fiebre. Sigue siempre el prospecto y no lo combines con otros medicamentos sin revisar su ficha técnica.
+ Tijeras de punta roma y pinzas Cortar vendas, sacar astillas 1 de cada 
 
- Antiinflamatorio (ibuprofeno 400mg) : Inflamación y dolor. No es apto para todo el mundo: alergias, problemas de estómago, riñón o corazón lo contraindican. Revisa su ficha técnica (AEMPS) y confírmalo con un profesional sanitario.
+ Termómetro digital La fiebre en niños decide si hay que ir al médico 1 
 
- Antihistamínico (loratadina o cetirizina) : Reacciones alérgicas. Importante si vives en zona con muchas plantas o abejas.
+ Analgésico y antitérmico Paracetamol o ibuprofeno, el que toleres 1 caja por adulto 
 
- Antidiarreico (oralit + loperamida) : La diarrea en una emergencia es mucho más peligrosa que en casa (deshidratación).
+ Antihistamínico Picaduras, alergias, reacción leve 1 caja 
 
- Antitermos (paracetamol infantil) : Si hay niños en casa.
+ Sobres de rehidratación oral Gastroenteritis o calor sin nevera 4 sobres 
 
- Guantes de nitrilo (par) : Para protegerte al atender a alguien.
+ Manta térmica de aluminio Evitar hipotermia en un coche parado 2 
 
- Manta térmica de emergencia : Previene la hipotermia. Pesa 20g y puede salvarte la vida.
+ Bolsa de agua caliente y gel frío Golpes, torceduras, y calentar una cama sin luz 1 de cada 
 
- Crema para quemaduras : Gel de aloe vera o crema específica. Las quemaduras son comunes en emergencias con cocina improvisada.
+ Pilas de repuesto y linterna pequeña Buscar la caja a oscuras sin el móvil Juego completo 
 
- Lista médica de la familia : Nombre de medicamentos habituales, alergias, grupo sanguíneo, teléfonos de emergencia.
+ Lista de medicación y teléfonos Lo que un sanitario necesita en 10 segundos En papel y plastificada 
+
+ 
+ 
+
+ Ese último punto es el que más se olvida y el que más se agradece. Una tarjeta con tu medicación, alergias, grupo sanguíneo si lo sabes y dos contactos familiares vale más que medio botiquín cuando llegas a urgencias sin poder hablar. Si en casa hay alguien con tratamiento crónico, esto encaja con lo que contamos en medicación crónica sin farmacia : de dos a cuatro semanas de margen, siempre.
+
+
+ Los cinco que casi nadie lleva y salvan la partida
+
+
+ Si ya tienes la lista base, la diferencia entre un botiquín de manual y uno que funciona son estos cinco. Todos ocupan poco y ninguno es caro.
+
+
+ 
+ Torniquete de banda ancha. No es para una tirita: es para un corte arterial por cristal en una evacuación. Aprende a usarlo antes, no el día del accidente.
+
+ Pomada para quemaduras. La causa número uno de urgencias domésticas en un apagón es cocinar con velas o con una estufa de butano. Una quemadura de aceite se trata con agua templada quince minutos, nunca con hielo.
+
+ Apósito graso o sulfadiazina argéntica. Para que una quemadura de segundo grado no se pegue a la gasa. Se consigue en farmacia sin receta.
+
+ Tabletas de glucosa. Una hipoglucemia en una persona diabética no espera a que vuelva la luz. Unos segundos de diferencia son una ambulancia o nada.
+
+ Linterna frontal, no de mano. Atender una herida con una mano ocupada en la linterna es el error más tonto y más repetido. Las hay de pocos euros en Amazon , y conviene una de repuesto de pilas por si falla la batería.
 
  
 
- Importante: esta lista es orientativa, no un consejo médico. Antes de tomar cualquier medicamento, lee el prospecto y su ficha técnica (disponible en la web de la AEMPS) y, si tienes dudas —embarazo, niños, enfermedades crónicas u otros medicamentos—, consulta a un profesional sanitario o farmacéutico. 
+ Rotación: el calendario que nadie hace
 
 
- Adaptaciones por situación
-
- Con bebés: añadir suero oral pediátrico, termómetro digital, chupones extra (si están acostados a ellos), pañales de reserva.
-
- Con mayores: Medicación crónica para 5 días de más (diabetes, hipertensión, tiroides, corazón). Incluir tensiómetro manual.
-
- Con mascotas: Antiparasitario externo, collar veterinario (para que no se lamen heridas), medicamentos si son crónicos.
+ Un botiquín que no se revisa no es un botiquín: es una caja de envases caducados. La regla que funciona es una sola: revisar en el cambio de hora, dos veces al año, y anotar la fecha en la tapa con rotulador. Lo que caduque se sustituye esa misma semana, no «en la siguiente compra».
 
 
- El veredicto
+ 
+ Qué Vida útil típica Señal de que toca cambiar 
+ 
+ 
+ Antiséptico líquido 2-3 años desde la apertura Se enturbia o cambia de color 
 
- Un botiquín de emergencia básico cuesta entre 30-50€ si lo compras todo nuevo. Pero la parte más valiosa no es el botiquín en sí: es la medicación crónica de tu familia. Si alguien en casa toma medicación diaria, esos 5-7 días de reserva SON el botiquín de emergencia.
+ Gasas y vendas estériles 5 años si el sobre está intacto Sobre húmedo o roto 
+
+ Analgésicos y antihistamínicos La fecha de la caja Caducados no son peligrosos, pero pierden efecto 
+
+ Suero monodosis La fecha del envase Ampolla con sedimento 
+
+ Pomadas 6-12 meses tras abrir Se separa la base o huele raro 
+
+ Pilas 5 años almacenadas Se sulfatan y manchan el compartimento 
+
+ 
+ 
+
+ Un truco de casa: si la caja tiene cuarenta tiritas del mismo tamaño, tienes un problema de surtido, no de cantidad. Lo que se gasta en la vida real son gasas, esparadrapo, suero y el analgésico de siempre. Compra eso de más y deja de acumular tiritas de dibujos.
+
+
+ El botiquín del coche es otro botiquín
+
+
+ Aquí se comete el error más caro: trasladar la caja del baño al maletero y darla por resuelta. Un botiquín de coche vive a temperaturas de sesenta grados en verano y bajo cero en enero, así que muchos líquidos y pomadas se estropean. Lo que aguanta bien es lo sólido: gasas, vendas, esparadrapo, guantes, manta térmica y tijeras. Lo que no, el antiséptico líquido y cualquier crema.
+
+
+ En 2026 conviene además recordar lo que ya es obligatorio en el vehículo y lo que solo es recomendable. Lo tienes desglosado en coche y emergencias en 2026 , junto con la baliza V16 y sus plazos. Y si vas a montar el estuche del maletero desde cero, la lista del kit de coche está pensada para no ocupar media bandeja.
+
+
+ Familias y casos concretos
+
+
+ Si en casa hay bebés, el botiquín cambia de forma: suero fisiológico monodosis en cantidad, pañales de la talla siguiente, antitérmico infantil con dosificador y un termómetro que funcione con pilas corrientes. Lo detallamos en kit de emergencia para bebé y en el kit de familia , porque un botiquín de adultos no sirve para un bebé de ocho meses.
+
+
+ En hogares con personas mayores el peso se mueve a la medicación crónica, las pilas del audífono y una copia de las recetas. Si la persona vive sola, añade una tarjeta con nombre, dirección, medicación y un contacto, y déjala visible en la nevera: los servicios de emergencia la buscan ahí. El kit de mayores ya incluye esa tarjeta.
+
+
+ Qué sobra (y quita espacio)
+
+
+ 
+ Alcohol de 96 grados para heridas: duele, daña el tejido y no es mejor antiséptico. Para las manos, gel hidroalcohólico aparte.
+
+ Jeringuillas y agujas sin formación: no las vas a usar y son un riesgo de pinchazo.
+
+ Medicamentos de otra persona o de una receta vieja: en una urgencia no sabes qué es y no lo vas a tomar.
+
+ Un maletín enorme y vacío: ocupa medio armario y no cabe en la mochila cuando hay que salir.
+
+ 
+
+ La prueba de que un botiquín está bien montado es sencilla: coge la caja a oscuras, sin encender la luz, e intenta sacar una gasa, el esparadrapo y el analgésico en menos de treinta segundos. Si no puedes, está desordenado. Ordénalo por bloques con bolsas de congelación pequeñas y etiquetas grandes: heridas, dolor, medicación, herramientas.
+
+
+ Por dónde empezar hoy
+
+
+ No hace falta comprar nada nuevo para empezar: revisa la caja del baño, tira lo caducado y separa lo que sirve en tres bolsas. Con lo que ya tienes montas la mayor parte de un botiquín decente. La compra real son las cuatro cosas que faltan siempre: gasas, esparadrapo, suero monodosis y una manta térmica. Ese pack, en un estuche rígido que quepa en la mochila, cuesta menos que una cena y se localiza fácil buscando «botiquín primeros auxilios completo» en Amazon .
+
+
+ Y el paso siguiente, el que de verdad cierra el círculo, es meter el botiquín dentro del kit de 72 horas completo, con agua, comida y documentos. Lo tienes paso a paso en cómo montar tu kit de 72 horas y en el kit básico 72h . Un botiquín sin el resto del kit es media solución; el resto del kit sin botiquín, tampoco.
 
 ### Alimentos para emergencias: qué comer, cuánto guardar y cómo rotar sin tirar nada — https://kit72h.com/blog/alimentos-emergencia-caducidad-rotacion/
 Qué alimentos aguantan años y cuáles caducan pronto: rotación por fecha, orden de consumo y cómo montar una despensa que no se tira.
