@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-27T16:10:36+01:00",
+  "actualizado": "2026-11-27T19:10:38+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -12,12 +12,28 @@
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
     {
+     "titulo": "Ante desastres naturales: ¿Qué debería tener nuestro kit de emergencia?",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1REbnNXS0dISnZRcy1vb0JHdE1xQzBSTTVjM1BBZkxwNHVLTmNhWkF4WWRtSmFCUnNyQnNuS2NfSW5kRWw2eG1SWm5kUXlZaXhPM1NsNkx4S0tTVExPNGxqTFU3S2ZYdHhKZmxNbEFqaVNEQkpsaldXQTFteEJYOG50TzhVRGZYUU5mT1AyU1oxVTNNbGhXODF0T3lGRk5aU3VPSQ?oc=5",
+     "fuente": "Universidad de Chile",
+     "resumen": "",
+     "fecha": "2026-11-27T16:11:15+01:00",
+     "fecha_txt": "27 nov"
+    },
+    {
      "titulo": "La última tendencia en Europa: un kit de emergencia",
      "url": "https://www.nytimes.com/es/2026/11/27/espanol/mundo/preparacionismo-europa-kit-emergencia.html",
      "fuente": "The New York Times",
      "resumen": "Cada vez más gobiernos europeos piden a sus ciudadanos que se preparen para desastres y otras contingencias. Tras varios incidentes inesperados, muchos están haciendo caso.",
      "fecha": "2026-11-26T17:00:00+01:00",
      "fecha_txt": "26 nov"
+    },
+    {
+     "titulo": "EE UU analiza los posibles daños tras la detonación de todas sus reservas de un compuesto explosivo en Iowa",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS09sQnhwVTVadDBjU0hQZzctWW1VMk9LV3l3b0xpYW1ERldBQ09NRVZZQTdZZW5XMmIwVEFvbFJvdk92Mmk0eS1xOUkyZy1xS3ZvSEJiaHRaeVFOb28zMUcwcDJPOVhKcnpSanhBRWp2N0hmcGtncEE0Ui1hQThJX2xEdEFWWFhJMXgwb3JxbkVrSzA4eWktamZ5TWlvSmRIWGV6VXZpVzRrcUtOcUxONXFSb3REYkY4WVNySTJETllyUnJ1YnFaV3lvdnZiOTVmY3NkZNIB6AFBVV95cUxQMXdnaS16TUZQdXNyb2Z4OS1GZlFNWng1LW9lYWt1TklQbUtLWWN3d0JmeFoyZjBHZGVaSG1MaDA1TW45QkFGZGw5Z0d5WkE1TDVWcTNHbGJSdEQzeExVS0U2dzdUaThSVVJzYS10eVgzMWUxeHR5THJCSnptcFZsMVAyY3VKX1ZjT09WbDRCbDhTbTVxLTRUY1JwT3V0RnhpRy01a2JLSDhzTXdBNlF4a2hUYm96emF2aHEzRnJ3cUc2NHRrNE9ZQ1ByRXBsaEd1eVREWlpwVVFHNFk2TXNGTG1uNHdtNk5V?oc=5",
+     "fuente": "EL PAÍS",
+     "resumen": "",
+     "fecha": "2026-11-25T21:20:53+01:00",
+     "fecha_txt": "25 nov"
     },
     {
      "titulo": "Kit para 72 horas sin luz: lo básico que recomienda la Comisión Europea y cuánto aguanta cada aparato",
@@ -58,22 +74,6 @@
      "resumen": "Contar con un kit de emergencia para 72 horas puede marcar la diferencia ante desastres naturales o situaciones de riesgo. Saber qué incluir y cómo organizarlo es clave para proteger a tu familia.",
      "fecha": "2026-11-22T17:23:00+01:00",
      "fecha_txt": "22 nov"
-    },
-    {
-     "titulo": "Carlos Vico, experto en supervivencia: \"Un kit para 72 horas debe incluir unos 100 euros por persona, una power bank para recargar el teléfono móvil, una radio FM a pilas y un hornillo de gas pequeño\"",
-     "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTno0SGo3LWtFc09aZXRNQVBWcmR0cFJaUGVCRW04RnFjZTJ2OVJDRlJzZFZnbVpRbDJ3Mi1BZFZvV3puZFNuZnlRcFNEY3ROemxEcnJpUWVsS2hENmNFOWotMEJTWGpRSmFqR1plNmV4RXZkSFh4YWZrUVhLWkxVN1FWTEd5cFRSZHhBWExZVEI1c19TTDM2SEdrcTI1VkNUNXRMRnhKNlFyVnJMZkgtMFJTR3BWYmFTejFpcUlqVWdiMXY2dGlwbTl5UnJmRUZ5WlZfX3VCX0NtWUlUeVkxd1BmS21aZlpfVlNjb1NER0hTSUtBV1I4US16SzQ1Qjg1RVdxd2lHYjhiMkdsaXNXYVJtc3NMWGp6dUFQcDI4ZFIzX253cHFOZGl1alNsdWd5dGZLbkMwc1lkd0dQVXItQVpVVlA3RHlEMENz0gHQAkFVX3lxTE0xa0xrNndtYjkwSm94TUNOOWtWY1dGd3lqRTktd0t1YV96YS1mUW9hZkgwNjBsVFBXNnY3d0tkSmdKNEJVVHlBYkFITHUydzJuQ2lLSl9Vd21LdTl1dmFfSEczYUJScVdsVDFROUYtUElacTgydjh1em5RYmsyX2NCeWVoNTBNdXYxV3lHajZlaklXX25TSFFpTUJ6Mi1PMkltWnFXeE42U0ZHQ3NkZ2REemVRVS1NQjNwZnRYN0syTDhrZVNLU3lEUzA1MG8wdlVkQkNxU0ZWRThEbDR6TTd0Tk4zU25HemNKQzdaaHVscm1GVmJHWUFqVjFBMWdIQUtlSkV0WmFMWGRvZ1JjanNMX3dSRjVJNmVWcG9oWnhkSkdBN0NMa1VjSUZlYzNNOHA5aWJyWTVKR21SVDhHelBzSV9YeTNJZ2FGR0MtTWdjVw?oc=5",
-     "fuente": "COPE",
-     "resumen": "",
-     "fecha": "2026-11-20T19:10:18+01:00",
-     "fecha_txt": "20 nov"
-    },
-    {
-     "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
-     "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
-     "fuente": "EL PAÍS",
-     "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
-     "fecha": "2026-11-20T02:30:00+01:00",
-     "fecha_txt": "20 nov"
     }
    ]
   },
@@ -107,14 +107,6 @@
      "fecha_txt": "26 nov"
     },
     {
-     "titulo": "Dos investigados por un incendio forestal originado durante unos trabajos de reparación en Bembibre (León)",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0NfLWIxTXlucXFjWXNJUGZfNjNkeEYzSlNwbTc4OVVrNjNQMXBDaENnbUhNYXJkV3hjeXFrMTVnUW43T0RHdzdZaTJ6akF4SDFDYlB3UXlDbE1lLVdrTC1FVlotTHlTZjczaXVWWEIxYVdwV0ZsQ1Npc245UHVkTWhqWm5wWjZFd0h2aE5ISUZYT0xJQUllRFhmVjdFVlZ2TFNsY01xTy1idjhCMkN4WWp6Rl9BZEZuaV9zSnVfU2dWRFM0d3fSAcsBQVVfeXFMT25MY0FLME13TmVIVmlJczgweDRBbGRfel8tUkNDYlB4ckFmNFA0eFE5WVBsejJIVHZXU0JCaXFvZ3M5cExuTmZpaTJLMWRzNmo3UGFZa3NRZjljeEJWblJjWEZYdnZwZjdWcGFSRWRCWWliUlg2dTVoZWdNYVBra3dhTFVfVUtBYnBxWUNBUTRGWks5blRBMTRPLWl0VUpPVDhWMGo4bjZMUUVidFRZRjh6Tkd0c2ZQb1VReUtEUnhRMzlBN2VHSWlhWUU?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-26T13:41:28+01:00",
-     "fecha_txt": "26 nov"
-    },
-    {
      "titulo": "El 84% de las poblaciones de España linda con zonas forestales y los expertos piden frenar construcciones en zonas de riesgo extremo",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVVhOU5LQWJ6dG05SzBXU2N6eWloUFlGOGFpM0dKWm1PbnRaYzhhUzBDRHJ3ak54YXJSb1RsNW9fT2JWckVURFdMX3ZKTDVMTlh2anRpdV9mNk9sclRaWGx3V3NndEprNE5BeWRmVjBOTUotMjJ3UjZRRHQ4QVVwbk5WVnZsNXFPYmtFRUxXZTZDNnRvY09xZ0k3MVBBeUNSRzk3c2Y2bS1uS051ckVMbFE4MXdKQ21q0gG4AUFVX3lxTE5NV3BCMTFGVldBUW52V3FkY1RzUWxBX0I5eWpxa1oweXUwTmVadFBZd2x2MFZQUGpEd3dUQmFOTjBud3lxVTUxeXp3QTNHYlRhZ3hJdmVnY2M4d0xEV1lKSmhaYzJucERSal8wRWRCX3hVaGZ5Nk5ibEV6MW5CeFA2OTFSR0t6MTI4aXA2d01RQkl2TTB4SE1NYy1Td3BPNzUzM084d1lzMDBlUjI2bENjZk84bnZMRGo?oc=5",
      "fuente": "El Periódico",
@@ -145,6 +137,14 @@
      "resumen": "Los seguros privados han asumido 83 millones de euros en daños por incendios en 2026 ...",
      "fecha": "2026-11-25T07:55:00+01:00",
      "fecha_txt": "25 nov"
+    },
+    {
+     "titulo": "Más del 80 % de núcleos de población en España están expuestos a incendios forestales",
+     "url": "https://efeverde.com/nucleos-poblacion-espana-expuestos-a-incendios-forestales/",
+     "fuente": "EFEverde",
+     "resumen": "El 84,5 % de los núcleos de población en España linda con zonas boscosas, algo que incrementa la exposición de viviendas, negocios y personas frente a fuegos ...",
+     "fecha": "2026-11-25T06:30:00+01:00",
+     "fecha_txt": "25 nov"
     }
    ]
   },
@@ -170,14 +170,6 @@
      "fecha_txt": "10 nov"
     },
     {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
-     "fuente": "20 Minutos",
-     "resumen": "",
-     "fecha": "2026-11-06T09:00:00+01:00",
-     "fecha_txt": "6 nov"
-    },
-    {
      "titulo": "Aviso especial de la AEMET por la borrasca Bruna: cinco días de lluvias muy fuertes, tormentas y riesgo de inundaciones en España",
      "url": "https://www.msn.com/es-es/noticias/otras/aviso-especial-de-la-aemet-por-la-borrasca-bruna-cinco-d%C3%ADas-de-lluvias-muy-fuertes-tormentas-y-riesgo-de-inundaciones-en-espa%C3%B1a/ar-AA2gS740",
      "fuente": "La Razón on MSN",
@@ -192,22 +184,6 @@
      "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
      "fecha": "2026-11-05T22:29:00+01:00",
      "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXBOTkM0VnoyQUdSeGtNazFDbkRaX2gwVmxjcGIxN0N5SDRIV2pybE9wUTlsOGcyNFZncTJiSmg4dDNsM1pFMlNEcUhTeVZjazFGb2JyU19tRTVvMExOMlVzLUVtYkxiR1RyU2p4MDdkb2tRdk0tTjljZmtmWHktOFFhdHN6N3RvRFNZWkctTW5lellxXzNOYmswY1hQeWpzbjVsdWkyZFc0OXc4b3IzaFVHanhIblU5amFPSmpyRnNSWThYZlZNcU1tWGZKUE90VlVjWWlvYU12VnpvaW5DVVNKSTZRQ1E?oc=5",
-     "fuente": "Valencia Plaza",
-     "resumen": "",
-     "fecha": "2026-11-03T09:00:00+01:00",
-     "fecha_txt": "3 nov"
-    },
-    {
-     "titulo": "Confirman 32 colombianos desaparecidos y un fallecido en la tragedia de Dana, en Valencia, España",
-     "url": "https://www.noticiasrcn.com/internacional/32-colombianos-desaparecidos-y-un-muerto-en-la-tragedia-de-dana-en-valencia-espana-768208",
-     "fuente": "Noticias RCN",
-     "resumen": "El último reporte entregado por las autoridades españolas reseña, hasta ahora, un total de 32 colombianos desaparecidos tras más de 72 horas de haberse producido este fenómeno natural que arrasó con ...",
-     "fecha": "2026-10-31T18:00:00+01:00",
-     "fecha_txt": "31 oct"
     },
     {
      "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
@@ -281,12 +257,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
-     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
-     "fuente": "El Pespunte",
-     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
-     "fecha": "2026-11-17T13:42:00+01:00",
-     "fecha_txt": "17 nov"
+     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
+     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
+     "fuente": "THE OBJECTIVE",
+     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
+     "fecha": "2026-11-19T02:26:00+01:00",
+     "fecha_txt": "19 nov"
     }
    ]
   }
