@@ -75,3 +75,5 @@
 | 2026-11-24 | comunicar-sin-red-movil | revamp | encolado | Revamp 351->1639 palabras: tabla por escenario, PMR446 legal (0,5 W/antena fija), SOS satelite con cielo despejado, 4 fuentes oficiales, 7 internos, 3 ASIN |
 | 2026-11-25 | almacenar-agua-comida-casa | revamp | encolado | Revamp 355->1440 palabras: sitio, humedad, rotación de agua, FIFO, latas, tabla de vida útil, revisión semestral; 3 fuentes oficiales, 3 internos blog + 4 kits, |
 | 2026-11-26 | botiquin-emergencia-lista-completa | revamp | encolado | Revamp 423->1512 palabras: 15 objetos en tabla, 5 imprescindibles, rotacion de caducidades, bloques coche/bebe/mayores, 4 fuentes, 8 internos |
+| 2026-11-27 | temperatura-sin-electricidad | revamp | encolado | Revamp 328->1466 palabras: tabla de temperatura por estancia, plan 72h, 3 fuentes verificadas, 6 internos, 3 kit |
+| 2026-11-27 | que-llevar-en-el-coche-si-nieva | guia | propuesto | Play del dia: escenario nieve del mes; top score 101,2 duplicado del 16-nov |
