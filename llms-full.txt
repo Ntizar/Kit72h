@@ -7944,24 +7944,80 @@ La Estrategia de Preparación de la Unión Europea habla de hogares con 72 horas
  Antes de dar el plan por bueno, haz la cuenta con la puerta cerrada: ¿sales de tu casa con dos niños, mochilas y carpeta en menos de diez minutos sin volver a por nada? Si la respuesta es no, quita cosas del kit, no añadas reflejos. La carpeta y las mochilas, juntas y en el camino de la puerta , no en el armario del fondo.
  La mochila para bebé del sitio trae la lista cerrada de la franja 0-3, y la mochila de evacuación explica cómo repartir el peso entre adultos y niños. Cuando los peques ya comen solos, se suma el kit básico 72h para toda la familia.
 
-### Frío y calor sin electricidad: temperatura segura en casa (2026) — https://kit72h.com/blog/temperatura-sin-electricidad/
-La hipotermia y el golpe de calor matan dentro de casa más de lo que crees. Técnicas de aislamiento y refrigeración que funcionan sin un solo vatio.
-En un apagón de enero, el enemigo no es la oscuridad: es el frío acumulado. En una ola de calor sin aire acondicionado, es la deshidratación. Ambos problemas tienen solución con material barato y un poco de física.
- Conservar el calor
- Elige una habitación y ciérrala: menos volumen que calentar (o que conservar). Las estancias interiores y pequeñas se mantienen mejor.
- Aísla por debajo : el suelo roba más calor del que piensas. Alfombras, mantas o cartón bajo los pies.
- Vestirse en capas funciona mejor que una prenda gruesa: el aire atrapado entre capas es el aislante real.
- La manta térmica de emergencia (las doradas de 2 €) refleja el calor corporal; funciona mejor por dentro de una manta normal, no sola.
- Tienda de campaña dentro de casa : suena absurdo, pero una tienda pequeña en el salón crea un microclima que sube varios grados. Los montañeros lo hacen desde siempre.
- Si usas estufa de butano o brasas , ventila: el monóxido de carbono mata sin oler a nada. Nunca en dormitorio cerrado.
- Bajar el calor
- Corriente cruzada al amanecer y de noche ; ventanas cerradas y persianas bajadas durante el día. La regla de oro: abre cuando hace más fresco fuera que dentro, cierra cuando no.
- Humedece y mueve aire : una sábana húmeda ante la ventana o un pulverizador con cualquier brisa baja la temperatura percibida varios grados.
- Refresca los puntos clave : muñecas, nuca, cuello y tobillos. Agua fría en esos pulsos enfría la sangre más rápido que remojarse entero.
- Bebe antes de tener sed y evita alcohol y comidas pesadas; el cuerpo calienta al digerir.
- Señales de alarma
- Temblores incontrolables, confusión o somnolencia (hipotermia); piel caliente y seca sin sudor, dolor de cabeza intenso o vómitos (golpe de calor): son emergencias médicas. Llama al 112 en cuanto sea posible.
- El material está en las guías de ola de calor y hogar ; la estufa y la tienda, en el kit de 30 días .
+### Frío y calor sin electricidad: temperatura segura en casa — https://kit72h.com/blog/temperatura-sin-electricidad/
+Qué temperatura es segura en cada estancia sin calefacción, cómo encerrar el calor que ya tienes y un plan de 72 horas con capas, humedad y fuentes de calor seguras.
+Cuando se va la luz en enero, la casa no se enfría de golpe: pierde calor despacio, y ese margen es justo lo que separa pasar una noche incómoda de pasar tres días con frío dentro. Este artículo no va de inventar calor, va de no perder el que ya tienes, de calentar una habitación en lugar de una casa entera y de saber qué temperatura es segura para dormir, para un bebé y para una persona mayor.
+
+ Qué temperatura es segura en casa sin calefacción
+
+ La referencia práctica que se repite en las guías de salud pública europeas es sencilla: una vivienda por debajo de 18 °C ya no es una vivienda confortable, y por debajo de 16 °C mantenidos empieza a haber riesgo real para personas vulnerables. No hace falta que el salón esté a 21 °C: hace falta que ninguna estancia baje del umbral donde el cuerpo deja de defenderse solo.
+
+ Estancia Rango razonable sin calefacción Quién no debería bajar de ahí 
+ Salón / zona de estar 18–21 °C Personas mayores, quien esté sentado y quieto 
+ Dormitorio 16–19 °C Bebés y niños pequeños 
+ Cocina y baño 17–20 °C — 
+ Pasillo y zonas de paso 15–18 °C Se puede cerrar y no calentar 
+ 
+ Un termómetro de interior con higrómetro cuesta poco y cambia por completo la conversación: sin dato, la sensación manda y la sensación engaña. Con dato, sabes si lo que tienes es un problema de temperatura o un problema de humedad. Un termómetro-higrómetro de pared es de las compras más rentables de un kit de invierno.
+
+ Paso uno: encerrar el calor que ya hay
+
+ Antes de pensar en fuentes de calor, tapa las fugas. En una casa española sin calefacción, la mayor parte de la pérdida se va por tres sitios: rendijas de ventanas y puertas, la caja de la persiana y el hueco de la campana extractora cuando no tiene clapeta. Con cinta de carrocero o burlete adhesivo en los marcos, un rulo de tela o una manta vieja al pie de la puerta y la persiana bajada al anochecer, se ganan uno o dos grados sin gastar nada.
+
+ Segundo gesto: concentra la vida. Cierra las habitaciones que no uses, deja una sola estancia caliente y vive en ella. Si el baño está frío, calienta solo el baño antes de usarlo. Una casa de 90 m² a 19 °C es un objetivo carísimo; una sala de 20 m² a 20 °C, con las puertas cerradas, es un objetivo perfectamente alcanzable con medios modestos.
+
+ Y el orden importa: si el sol entra por la mañana, abre persianas y cortinas de las ventanas al sur y vuelve a cerrarlas en cuanto caiga. El efecto invernadero doméstico funciona; solo hay que no dejarlo escapar por la noche, cuando la ventana sin cortina es un radiador al revés.
+
+ Calentar una habitación, no la casa
+
+ Las fuentes de calor admitidas en interior sin instalación son pocas y hay que tratarlas con respeto. Una estufa de gas butano o propano con detector de CO y ventilación es la opción clásica, pero consume oxígeno y hay que respetar la ventilación mínima del fabricante sin excepciones. Las estufas de parafina y las de gel no son para dormir. El brasero de brasas y cualquier combustión en una habitación cerrada son un riesgo de intoxicación, no una solución.
+
+ Lo que sí es seguro y no gasta es el calor de proximidad: manta sobre las rodillas, saco de dormir abierto sobre el sofá, bolsa de agua caliente en la cama media hora antes de acostarte (nunca con agua hirviendo, y nunca con un bebé o una persona que no pueda retirarla sola). Una bolsa de agua caliente de dos litros calienta una cama durante horas por el precio de hervir agua. Si tienes hornillo de gas o de alcohol, ese agua caliente es tu mejor batería térmica.
+
+ Una advertencia que se repite cada invierno: la vela no calienta. Una vela emite del orden de decenas de vatios y los emite hacia arriba; como fuente de calor es irrelevante y como fuente de incendio es la primera causa de fuego doméstico en episodios de apagón. Si necesitas luz, luz LED a pilas; si necesitas calor, capas.
+
+ Ropa, cama y el error de la ropa de calle
+
+ Dormir con el abrigo puesto es un error frecuente: comprime el aislante, suda y acabas más frío a las tres de la mañana. Lo que funciona es el sistema de capas de toda la vida: una capa interior que no retenga humedad, una intermedia que aísle y una exterior que corte el aire. Lo explicamos con detalle en la guía de vestir por capas , que es la lectura obligada antes de improvisar con lo que hay en el armario.
+
+ En la cama, la combinación que mejor rinde sin calefacción es: sábana o funda térmica, dos mantas finas mejor que una gruesa (el aire atrapado entre capas aísla) y gorro de lana. Gran parte del calor que pierdes durmiendo se va por la cabeza y el cuello. Un saco de dormir de tres estaciones abierto encima del edredón convierte una cama fría en una cama de montaña. Para los más pequeños, saco de dormir infantil en lugar de manta suelta: menos riesgo de que se destapen y menos riesgo de asfixia.
+
+ Si tienes que elegir una sola compra para el invierno sin luz, es una manta térmica de emergencia de aluminio: fina, barata, no ocupa nada y refleja el calor del cuerpo. No sustituye a una manta, pero dentro de un saco o debajo del abrigo multiplica lo que ya tienes.
+
+ Humedad: el enemigo silencioso del frío
+
+ Una casa fría y húmeda se siente mucho más fría de lo que marca el termómetro y, además, cría moho en las esquinas en menos de una semana. Sin calefacción, el truco es ventilar en corto y a media mañana, no toda la mañana: diez minutos con corriente cruzada cambian el aire sin enfriar los muros. Cocinar tapado, tender fuera si se puede y no secar ropa dentro de la habitación donde duermes evitan la mayor parte del problema. Si la humedad relativa pasa del 70 % de forma sostenida, ese es el dato que hay que atacar antes que la temperatura.
+
+ Plan de 72 horas, hora a hora
+
+ Momento Qué hacer 
+ Primeras 2 horas Cerrar fugas, bajar persianas, elegir la habitación caliente, sacar mantas y sacos, comprobar termómetro 
+ Primera noche Cama con capas + bolsa de agua caliente, gorro, móvil cargado, linterna a mano 
+ Día 1 Revisar temperatura por estancias, ventilar 10 minutos a mediodía, comer caliente, mover el cuerpo cada hora 
+ Día 2 Comprobar despensa y agua: en un apagón largo lo que se estropea antes es la comida, no el ánimo ( guía para conservar comida sin nevera ) 
+ Día 3 Rotación de ropa húmeda, revisar a vecinos mayores, decidir si hay que moverse a casa de alguien con calefacción 
+ 
+ Ese último punto es el que más cuesta aceptar y el que más vidas salva: si en casa no se puede mantener el dormitorio por encima de 16 °C durante varios días, la decisión correcta es dormir en otro sitio. El orgullo no calienta.
+
+ Qué tener preparado antes de que haga falta
+
+ Un kit de calor sensato ocupa una caja de zapatos: termómetro-higrómetro, mantas térmicas, dos mantas de lana, gorros, bolsa de agua caliente, burletes y cinta, linterna frontal a pilas o de manivela, y un detector de CO si en casa hay cualquier aparato de combustión. Añade una radio a pilas y el cargador portátil cargado: la información (avisos de AEMET, cortes previstos) es parte del kit térmico.
+
+ Si el escenario que te preocupa es un apagón de varios días, la lista cambia un poco y conviene tenerla cerrada por escrito: kit de apagón y la guía de calentar la casa sin electricidad en invierno se leen juntas y no se pisan. Y si estás decidiendo cuánto material acumular, 72 horas o 30 días te ahorra comprar de más.
+
+ Lo que no debes hacer nunca
+
+ Dormir con una estufa de gas, parafina o gel encendida en la habitación.
+ Usar el horno o los fuegos de la cocina como calefacción: no está diseñado para eso y el monóxido no se ve.
+ Tapar la rejilla de ventilación de una estufa catalítica «para que no entre frío».
+ Meter brasas de barbacoa dentro de casa. Ni un cubo, ni un barreño, ni «solo un rato».
+ Dejar a un bebé con bolsa de agua caliente o manta eléctrica enchufada a un grupo electrógeno mal ventilado.
+ 
+ Fuentes
+
+ Dirección General de Protección Civil y Emergencias — recomendaciones ante olas de frío y nevadas: dsn.gob.es 
+ IDAE — guías de eficiencia energética y confort en vivienda: idae.es 
+ Comisión Europea, DG ECHO — preparación ante emergencias y temperaturas extremas: civil-protection-humanitarian-aid.ec.europa.eu
 
 ### Los 7 recursos oficiales que hay que guardar en el móvil y en papel (2026) — https://kit72h.com/blog/recursos-oficiales-emergencia/
 Los canales oficiales que siguen funcionando cuando cae la red: 112, AEMET, DGT, AlertCops y la radio, con la lista en papel y el checklist de 10 minutos.
