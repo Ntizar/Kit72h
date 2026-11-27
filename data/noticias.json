@@ -1,6 +1,6 @@
 {
  "meta": {
-  "actualizado": "2026-11-27T13:10:38+01:00",
+  "actualizado": "2026-11-27T16:10:36+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
   "aviso": ""
@@ -83,11 +83,11 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "Un incendio de madrugada en una empresa de Navarra obliga a evacuar a 15 trabajadores",
-     "url": "https://navarra.okdiario.com/navarra/sucesos/incendio-madrugada-empresa-navarra-obliga-evacuar-15-trabajadores/20261127090347669125.html",
-     "fuente": "Navarra.com",
-     "resumen": "El fuego se ha declarado poco antes de las dos de la madrugada y ha movilizado a efectivos de Bomberos y Guardia Civil, que han intervenido sin registrar ...",
-     "fecha": "2026-11-27T02:04:00+01:00",
+     "titulo": "Un 77% del sector forestal cántabro ve insuficiente la gestión preventiva de incendios, según UGT",
+     "url": "https://www.msn.com/es-es/noticias/otras/un-77-del-sector-forestal-c%C3%A1ntabro-ve-insuficiente-la-gesti%C3%B3n-preventiva-de-incendios-seg%C3%BAn-ugt/ar-AA2imSxB",
+     "fuente": "Europa Press on MSN",
+     "resumen": "El sindicato clausura en Puente Viesgo una jornada dedicada a la gestión forestal preventiva y social y su incidencia en los incendios SANTANDER, 27 (EUROPA PRESS) Un estudio y una encuesta elaborados ...",
+     "fecha": "2026-11-27T07:29:36+01:00",
      "fecha_txt": "27 nov"
     },
     {
@@ -154,22 +154,6 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
-     "titulo": "Sánchez, sobre la dana: «La gente bajó a sacar el coche al garaje. Hay cosas que no se pueden hacer»",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlo0aHlhb3ZrVGN6cTJSMmMzMWpqMERrbFpiMU9sWjBydW1GRkdBd2lXdWZpWlhzTlFwRjdubkRiaGU3VEJkSVZLc3ZyZjg0ZUh1YndfNjlfX1p0WWE2S2hlUU9zSXJyekFtQ3VKTS0zaHVMUzBkcllPdWFQUFpZbHNyUmpoakhZeF96R0Z1SWN3Ymd0b3VrVGFwZTFyallxX282c0NOV0NfTVpEN0JJNdIBtgFBVV95cUxNcDlkaWFIQnRpTk5xUmpWc0x2eVVUUHphS3VnMEEwVzdjY0d3djRyOW1DQUIwanBjeC0wdjloRXY0NGZiZUVGZ3Y2Rmp4TTVWNmpMUnhmSGxjVXdzSlVCN0pmRTJyNEUyS0FJQ1NBbXBmRGlCNXVGNFEtRnFDeEhOSHVubFlLVDhnbDYwQWJaWFlha3JETUZucG9FaDh0R2NudGRyNzM1VUZaS1JuRktsbU56dnlVUQ?oc=5",
-     "fuente": "ABC",
-     "resumen": "",
-     "fecha": "2026-11-26T16:16:32+01:00",
-     "fecha_txt": "26 nov"
-    },
-    {
-     "titulo": "Adjudicada por 196.208 euros la nueva pista del Palacio de los Deportes, que sustituirá a la dañada por la inundación",
-     "url": "https://www.lne.es/oviedo/2026/11/25/adjudicada-196-208-euros-nueva-136850140.html",
-     "fuente": "La Nueva España",
-     "resumen": "En la instalación de Ventanielles se colocó hace más de dos meses parqué provisional para recuperar la actividad deportiva ...",
-     "fecha": "2026-11-25T13:30:00+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
      "titulo": "Sistema Satelital acelera la respuesta ante inundaciones",
      "url": "https://www.cambio16.com/nuevo-sistema-satelital-espanol-acelera-la-respuesta-ante-inundaciones/",
      "fuente": "Cambio16",
@@ -178,20 +162,20 @@
      "fecha_txt": "17 nov"
     },
     {
-     "titulo": "Ourense registra inundaciones en viviendas, calles y bajos por las intensas lluvias",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSGxxQnB3d1BoajNNR3FkdzRmWkpOaEdWcW5SbGNaR2RwMDdWc0UwNjV5WU03QkFMUXZTTlhYZ19lTHlvZUIxR0ZNQUctbk1pb1Z1OWZNU2ZtX2ZLd3dTU0ZJTjQ3WnBkem1nZFN3ZFZNaVdYcTUyX0pGRzQyQWstQ2lpaEMwNVl2S3lMOVVwNmxFMmQ5SGxwM2Q2djBVYllHYmRnMmhmakhvaWp5ckppVnNZN19zWS12Q20wSGEzMkZZNlFHdHQxNVBRUDc?oc=5",
-     "fuente": "La Región",
-     "resumen": "",
-     "fecha": "2026-11-15T09:00:00+01:00",
-     "fecha_txt": "15 nov"
-    },
-    {
      "titulo": "Aviso especial de la AEMET para varias comunidades de España: peligro de inundaciones del martes 10 al juev...",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWF9SSDlSd2dyMDkyRS1ib3ktMlNWNmw5RExFZU96bjNpSlF2MnU3SGZXcU9qOWNKTlI4Qy1xaEd4V1NiUlRxLTNiazZsWERNZ2NjTXBaaVRja1JXNm9naUN0UGRIN0EyVzd6YXhqYkMyTl9hV1dKMTFGcDl6cjZGRzJ4SmZ2anowRnVLOWYyU2Y4TXoxcVBpQWVLbmNfbDJqZUJQQ2VIUlA3eERGY2VBUjNwVnBDeEdiM04wUEh4MFJFV19MaGotbXR30gHPAUFVX3lxTFAxa3BITEpxNW45MXVYdDJmZ0lsLU43Y2NGNzFmZFBOQTBjZ3VSUHRTUWVJT1dZcG9qc053eGwtMlhmTzMta04tM0kwVkRQYkoyWkdVdXpmdUEtTkNCSm1sckZqUnloM012VkhhY1pvMW9NRHd5U09YNjNGME1aamZ5ejdDZTFtU2cydEtYbHRkNTBNTmNSNVdlaTVfckVTVlY0SDdHMnNkSExVMEEtc1VmWXVPLS1kcjdfczk1UWRyRzJIUXJGY1NBYmc3QkNkbw?oc=5",
      "fuente": "OkDiario",
      "resumen": "",
      "fecha": "2026-11-10T09:00:00+01:00",
      "fecha_txt": "10 nov"
+    },
+    {
+     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
+     "fuente": "20 Minutos",
+     "resumen": "",
+     "fecha": "2026-11-06T09:00:00+01:00",
+     "fecha_txt": "6 nov"
     },
     {
      "titulo": "Aviso especial de la AEMET por la borrasca Bruna: cinco días de lluvias muy fuertes, tormentas y riesgo de inundaciones en España",
@@ -208,6 +192,22 @@
      "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
      "fecha": "2026-11-05T22:29:00+01:00",
      "fecha_txt": "5 nov"
+    },
+    {
+     "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXBOTkM0VnoyQUdSeGtNazFDbkRaX2gwVmxjcGIxN0N5SDRIV2pybE9wUTlsOGcyNFZncTJiSmg4dDNsM1pFMlNEcUhTeVZjazFGb2JyU19tRTVvMExOMlVzLUVtYkxiR1RyU2p4MDdkb2tRdk0tTjljZmtmWHktOFFhdHN6N3RvRFNZWkctTW5lellxXzNOYmswY1hQeWpzbjVsdWkyZFc0OXc4b3IzaFVHanhIblU5amFPSmpyRnNSWThYZlZNcU1tWGZKUE90VlVjWWlvYU12VnpvaW5DVVNKSTZRQ1E?oc=5",
+     "fuente": "Valencia Plaza",
+     "resumen": "",
+     "fecha": "2026-11-03T09:00:00+01:00",
+     "fecha_txt": "3 nov"
+    },
+    {
+     "titulo": "Confirman 32 colombianos desaparecidos y un fallecido en la tragedia de Dana, en Valencia, España",
+     "url": "https://www.noticiasrcn.com/internacional/32-colombianos-desaparecidos-y-un-muerto-en-la-tragedia-de-dana-en-valencia-espana-768208",
+     "fuente": "Noticias RCN",
+     "resumen": "El último reporte entregado por las autoridades españolas reseña, hasta ahora, un total de 32 colombianos desaparecidos tras más de 72 horas de haberse producido este fenómeno natural que arrasó con ...",
+     "fecha": "2026-10-31T18:00:00+01:00",
+     "fecha_txt": "31 oct"
     },
     {
      "titulo": "Los meteorólogos avisan: el 88% de los españoles vive en zonas urbanas amenazadas por calor extremo e inundaciones",
@@ -281,12 +281,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "El bulo del apagón mundial a las 20:20: qué ocurrió en España mientras se cortaba la tele en EEUU",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRkxsUDhVbHBFZzhtNGxtcjZfM2JaYm9RTTVsN2NsUFlwVzlGMUhJMlFiZ1ZUdDNRcHJXNXhSRDJqT1RnLTAxNlZDZ3pxT0ttQjJqaC1uYkh0dHctTlY4aDkyUnBVbktNTWJyNGh5VWwyUk5HNkxqZGRrXzMxRl9FaTlEY0lxTTVxSV9v?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-18T09:00:00+01:00",
-     "fecha_txt": "18 nov"
+     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
+     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
+     "fuente": "El Pespunte",
+     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
+     "fecha": "2026-11-17T13:42:00+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   }
