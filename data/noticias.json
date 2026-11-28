@@ -1,9 +1,9 @@
 {
  "meta": {
-  "actualizado": "2026-11-28T04:10:36+01:00",
+  "actualizado": "2026-11-28T10:06:02+01:00",
   "fuente": "Bing News + Google News RSS (edición España)",
   "ventana_dias": 30,
-  "aviso": ""
+  "aviso": "provisiones/google/provisiones emergencia gobierno: HTTPError; provisiones/google/kit de emergencia 72 horas: HTTPError"
  },
  "temas": [
   {
@@ -11,14 +11,6 @@
    "titulo": "Países que piden provisiones",
    "claim": "Gobiernos diciendo a sus ciudadanos que tengan casa, agua y comida para tres días.",
    "items": [
-    {
-     "titulo": "Ante desastres socionaturales: ¿Qué debería tener nuestro kit de emergencia?",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1REbnNXS0dISnZRcy1vb0JHdE1xQzBSTTVjM1BBZkxwNHVLTmNhWkF4WWRtSmFCUnNyQnNuS2NfSW5kRWw2eG1SWm5kUXlZaXhPM1NsNkx4S0tTVExPNGxqTFU3S2ZYdHhKZmxNbEFqaVNEQkpsaldXQTFteEJYOG50TzhVRGZYUU5mT1AyU1oxVTNNbGhXODF0T3lGRk5aU3VPSQ?oc=5",
-     "fuente": "Universidad de Chile",
-     "resumen": "",
-     "fecha": "2026-11-27T16:24:50+01:00",
-     "fecha_txt": "27 nov"
-    },
     {
      "titulo": "La última tendencia en Europa: un kit de emergencia",
      "url": "https://www.nytimes.com/es/2026/11/27/espanol/mundo/preparacionismo-europa-kit-emergencia.html",
@@ -28,27 +20,11 @@
      "fecha_txt": "26 nov"
     },
     {
-     "titulo": "EE UU analiza los posibles daños tras la detonación de todas sus reservas de un compuesto explosivo en Iowa",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS09sQnhwVTVadDBjU0hQZzctWW1VMk9LV3l3b0xpYW1ERldBQ09NRVZZQTdZZW5XMmIwVEFvbFJvdk92Mmk0eS1xOUkyZy1xS3ZvSEJiaHRaeVFOb28zMUcwcDJPOVhKcnpSanhBRWp2N0hmcGtncEE0Ui1hQThJX2xEdEFWWFhJMXgwb3JxbkVrSzA4eWktamZ5TWlvSmRIWGV6VXZpVzRrcUtOcUxONXFSb3REYkY4WVNySTJETllyUnJ1YnFaV3lvdnZiOTVmY3NkZNIB6AFBVV95cUxQMXdnaS16TUZQdXNyb2Z4OS1GZlFNWng1LW9lYWt1TklQbUtLWWN3d0JmeFoyZjBHZGVaSG1MaDA1TW45QkFGZGw5Z0d5WkE1TDVWcTNHbGJSdEQzeExVS0U2dzdUaThSVVJzYS10eVgzMWUxeHR5THJCSnptcFZsMVAyY3VKX1ZjT09WbDRCbDhTbTVxLTRUY1JwT3V0RnhpRy01a2JLSDhzTXdBNlF4a2hUYm96emF2aHEzRnJ3cUc2NHRrNE9ZQ1ByRXBsaEd1eVREWlpwVVFHNFk2TXNGTG1uNHdtNk5V?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-25T21:20:53+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
      "titulo": "Kit para 72 horas sin luz: lo básico que recomienda la Comisión Europea y cuánto aguanta cada aparato",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQclBVZnJrSS1RWkJPckJxR1JiNDQwTWttbFA1X0c2YUdfXzFwVDRwT1VEVlpGdTZqYjZHaFNES19sbG41a0JUTHZCbWJfT3JGc2M0M05MSzBad215XzVvTng3c19HQmJTT085bFNyaHJpdUxrRUNHNUxuTmNtRUxzLUxwREZYLTBl?oc=5",
-     "fuente": "TarifaLuzHora",
-     "resumen": "",
-     "fecha": "2026-11-25T14:29:11+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "Así es como debes preparar tu kit de supervivencia ante una posible crisis como aconseja la UE",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NY09Wb1VtQkpFMWxDeDlfdFlVdm1WNVFFQnV3bzFnSkJNeFhxQU1PVDZXdkl6czlPYU5qX0duaWhMcjg5X2lOQWQwWXRSNFdSYnBMaDduV3huRWthajZ6ZmFJRVR0TUhQWTJRcHRURll6THN1S3Q0Ti1n0gGOAUFVX3lxTE1vSTVVUHF3NVp6T21sWkxoUU1xb0hJekZsWEpZd1MwUU5Qc3VTVGtVYXFhU0IyZ04zRXgzNU4tc3VLR0RWZVZNX0U1elRGNFFwMjVwbUNMS2NkYUNKVXI1RmdCdUJ5d1g1Um5qTlhoMWVrQzF6M0JRaGEwS0lrTjNHaVVrQW1HMXhjajJpcGc?oc=5",
-     "fuente": "EL PAÍS",
-     "resumen": "",
-     "fecha": "2026-11-25T09:11:07+01:00",
+     "url": "https://tarifaluzhora.es/noticias/kit-apagon-2026-72-horas-comision-europea-coste",
+     "fuente": "tarifaluzhora",
+     "resumen": "Las directrices europeas, las listas de Protección Civil y cuántas cargas de móvil y horas de luz da una batería externa de 10.000 mAh.",
+     "fecha": "2026-11-25T06:29:00+01:00",
      "fecha_txt": "25 nov"
     },
     {
@@ -60,20 +36,44 @@
      "fecha_txt": "24 nov"
     },
     {
-     "titulo": "La Unión Europea insta a los países a ayudar a la población a prepararse para las primeras 72 horas de una crisis",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2x5YmlGMkF3SXliMFFCTDNQbDlLdmZOZGR6TFRCdWsxMlNVanB1OFZja2JVMldoeldETThaM2F5dldRZXloRjhPMU95UmV0ZlEzMDdsOThJdDN4aXNmdk5oNmdlSWd6MXdPVFJmVFZ0Z2lKbktpU0docVhPYVFnZTAtWGgyWTBmSmw2d2ZDeEE2Y01YSHV4WWdrd0xCSWhMd0trd2xrUldFdmNxM1JDRjJjMEdGXzRCTG1BQU1yR0ZFRkJhWkxvMmYwY2pZZGl3bnBoUkFLTXB0NVVtSGUwSzdRUmhYZERYTGZocFJ6V3B2YWMtb3ZLNDFERVN2TWFaMGZydEE3UQ?oc=5",
-     "fuente": "The Portugal News",
-     "resumen": "",
-     "fecha": "2026-11-23T00:48:45+01:00",
-     "fecha_txt": "23 nov"
-    },
-    {
      "titulo": "Kit de emergencia para 72 horas: guía para sobrevivir a una urgencia",
-     "url": "https://www.msn.com/es-mx/noticias/otras/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
+     "url": "https://www.msn.com/es-mx/noticias/other/kit-de-emergencia-para-72-horas-gu%C3%ADa-para-sobrevivir-a-una-urgencia/ar-AA2hZlLg",
      "fuente": "Debate on MSN",
      "resumen": "Contar con un kit de emergencia para 72 horas puede marcar la diferencia ante desastres naturales o situaciones de riesgo. Saber qué incluir y cómo organizarlo es clave para proteger a tu familia.",
      "fecha": "2026-11-22T17:23:00+01:00",
      "fecha_txt": "22 nov"
+    },
+    {
+     "titulo": "Carlos Vico, experto en supervivencia: \"Un kit para 72 horas debe incluir unos 100 euros por persona, una power bank para recargar el teléfono móvil, una radio FM a pilas y ...",
+     "url": "https://www.cope.es/programas/poniendo-las-calles/audios/carlos-vico-experto-supervivencia-kit-72-horas-debe-incluir-100-euros-persona-power-bank-recargar-telefono-movil-radio-fm-pilas-hornillo-gas-pequeno-20261120_3479484.html",
+     "fuente": "COPE",
+     "resumen": "El especialista detalla en 'Poniendo las Calles' los elementos imprescindibles para afrontar imprevistos y recuerda la importancia de ...",
+     "fecha": "2026-11-20T12:06:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "“Preocupaciones apocalípticas”: la cadena de fallas tecnológicas desata la compra de provisiones en Estados Unidos",
+     "url": "https://elpais.com/us/2026-11-20/preocupaciones-apocalipticas-la-cadena-de-fallas-tecnologicas-desata-la-compra-de-provisiones-en-estados-unidos.html",
+     "fuente": "EL PAÍS",
+     "resumen": "Grandes cadenas minoristas como Costco y Walmart registran un aumento en la venta de generadores eléctricos y comida en conserva ...",
+     "fecha": "2026-11-20T02:30:00+01:00",
+     "fecha_txt": "20 nov"
+    },
+    {
+     "titulo": "La Unión Europea pide a sus ciudadanos tener listo este kit de emergencia para poder sobrevivir de forma autónoma durante 72 horas",
+     "url": "https://www.msn.com/es-es/noticias/other/la-uni%C3%B3n-europea-pide-a-sus-ciudadanos-tener-listo-este-kit-de-emergencia-para-poder-sobrevivir-de-forma-aut%C3%B3noma-durante-72-horas/ar-AA2hKkbH",
+     "fuente": "Computer Hoy on MSN",
+     "resumen": "Bruselas pide a los ciudadanos europeos preparar un kit básico con agua, comida, efectivo y medicinas para sobrevivir durante 3 días completos sin ayuda ante una crisis, Te preguntarás, ¿por qué 72 ho ...",
+     "fecha": "2026-11-18T21:15:00+01:00",
+     "fecha_txt": "18 nov"
+    },
+    {
+     "titulo": "La UE recomienda prepararse para afrontar 72 horas de emergencia: qué tener en casa",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMlBBYnNhNjE2V2lDWVU4YkwyNDBFMVdqYVpNQlFjQlhmRmg1WDFRVWtmSVRkMjFHNWtHdUtYNThiSnVVakpueFhRYkhNT0xuNWR4SlZqZVp2a2kxZEVsXzZ0MV9TM3lBOFJrZGNRMXdBQnlETzNjRHlaemZ3a3k2eVhvbHlDc2lmSnliTWxB?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-17T09:00:00+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   },
@@ -83,28 +83,44 @@
    "claim": "Fuegos activos, evacuaciones y superficie quemada en España.",
    "items": [
     {
-     "titulo": "España acumula 302.074 hectáreas quemadas hasta el 25 de noviembre, el 42,8% de la UE, según Copernicus",
-     "url": "https://www.europapress.es/sociedad/noticia-espana-acumula-302074-hectareas-quemadas-25-noviembre-428-ue-copernicus-20261126143816.html",
-     "fuente": "Europa Press",
-     "resumen": "España ha registrado un total de 302.074 hectáreas (ha) quemadas desde el 1 de enero hasta el 25 de noviembre, según el Sistema de Información de Incendios Forestales de la Comisión Europea (EFFIS) de ...",
-     "fecha": "2026-11-26T07:38:00+01:00",
+     "titulo": "Un 77% del sector forestal cántabro ve insuficiente la gestión preventiva de incendios, según UGT",
+     "url": "https://www.msn.com/es-es/noticias/otras/un-77-del-sector-forestal-c%C3%A1ntabro-ve-insuficiente-la-gesti%C3%B3n-preventiva-de-incendios-seg%C3%BAn-ugt/ar-AA2imSxB",
+     "fuente": "Europa Press on MSN",
+     "resumen": "El sindicato clausura en Puente Viesgo una jornada dedicada a la gestión forestal preventiva y social y su incidencia en los incendios SANTANDER, 27 (EUROPA PRESS) Un estudio y una encuesta elaborados ...",
+     "fecha": "2026-11-27T07:29:36+01:00",
+     "fecha_txt": "27 nov"
+    },
+    {
+     "titulo": "Un incendio de madrugada en una empresa de Navarra obliga a evacuar a 15 trabajadores",
+     "url": "https://navarra.okdiario.com/navarra/sucesos/incendio-madrugada-empresa-navarra-obliga-evacuar-15-trabajadores/20261127090347669125.html",
+     "fuente": "Navarra.com",
+     "resumen": "El fuego se ha declarado poco antes de las dos de la madrugada y ha movilizado a efectivos de Bomberos y Guardia Civil, que han intervenido sin registrar ...",
+     "fecha": "2026-11-27T02:04:00+01:00",
+     "fecha_txt": "27 nov"
+    },
+    {
+     "titulo": "España registra 302.074 hectáreas quemadas hasta el 25 de noviembre, el 42,8% en la UE según Copernicus",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd1hFaEJWRE9YR0ZKc0ZYV0dZcWlxRXVBeTNGTjBxVzJEdU1md0dDZmlkZlBEZEJWR1NpbDJRRWF3NmhybERfaWswTVJjU285MVVZWkxHTzZtTnk5QTI4TVA3WDdIa2tKR3ROdmlvYnFERENBZlVaRElFcEU4aE1SOHE0NzBDQWJkQWZYQ09KRlhicW0tTC0yQmpmYnN4ckpCT2tBQ2IxWWNkc1BFeTlZNEgybHpKTU1CNHczLXFaQjZzVldBTzNPQ2ZWRDkzelFwLTQzYlpHYzktaUtDYzZqcdIB5gFBVV95cUxQTFNlcTE1WFlzMjY3ZWliVjRUajZBU21sSm9mRk40SkZDNmFhRzE2TElGREZ6b0picjU2SnFQNFhTNHp6UzFoMWdCVFhMcDBWU3oxX2pJZV9rQ1JDNUlGVm9VbDNxd0VBN3JxTFBGdlhaTW1JLW9JZjFraXVFdFVKNDBFekFtUEphVjhneXpleTh5UjZjd25LWGFIOFNjU0pXZlJCRklidlROZExURHJGZUJZaHpoM0txZTVwWDlBa1pHMDB2eFBNQ3c5NEhwdW9XOW1KSE1abXpQODM2dWZFMDlUYXJpUQ?oc=5",
+     "fuente": "Diario en Positivo",
+     "resumen": "",
+     "fecha": "2026-11-26T15:00:58+01:00",
      "fecha_txt": "26 nov"
     },
     {
-     "titulo": "El 84% de las poblaciones de España linda con zonas forestales y los expertos piden frenar construcciones en zonas de riesgo extremo",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVVhOU5LQWJ6dG05SzBXU2N6eWloUFlGOGFpM0dKWm1PbnRaYzhhUzBDRHJ3ak54YXJSb1RsNW9fT2JWckVURFdMX3ZKTDVMTlh2anRpdV9mNk9sclRaWGx3V3NndEprNE5BeWRmVjBOTUotMjJ3UjZRRHQ4QVVwbk5WVnZsNXFPYmtFRUxXZTZDNnRvY09xZ0k3MVBBeUNSRzk3c2Y2bS1uS051ckVMbFE4MXdKQ21q0gG4AUFVX3lxTE5NV3BCMTFGVldBUW52V3FkY1RzUWxBX0I5eWpxa1oweXUwTmVadFBZd2x2MFZQUGpEd3dUQmFOTjBud3lxVTUxeXp3QTNHYlRhZ3hJdmVnY2M4d0xEV1lKSmhaYzJucERSal8wRWRCX3hVaGZ5Nk5ibEV6MW5CeFA2OTFSR0t6MTI4aXA2d01RQkl2TTB4SE1NYy1Td3BPNzUzM084d1lzMDBlUjI2bENjZk84bnZMRGo?oc=5",
-     "fuente": "El Periódico",
+     "titulo": "España acumula 302.074 hectáreas quemadas hasta el 25 de noviembre, el 42,8% de la UE, según Copernicus",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd1Z0ck1pWXpIRmV6eDFhclJaekRGVG1YV1BzUExBVThhMmJxYzFJRHZxSGZWZ2NOMWdiWU9KWHUtTFNubXRuRHZ2VFc2ZHJSWjlSaHBMbUctMzBDZTk5WlNEQ1N0SmRSTnVVTGluUnlXWDNKZm1KTTBnZUJhOXBJMUtXSDhwemo2UW1WanBBQkFQdlVRbnEzNDI0RG5NajMzYnAzaDJRd0JHenF6S25IZHY0SXF0Y3h5ZXJWUUF2R1MtWjZCZ19NZTRCX1VIcDdO?oc=5",
+     "fuente": "Europa Press",
      "resumen": "",
-     "fecha": "2026-11-25T13:00:34+01:00",
-     "fecha_txt": "25 nov"
+     "fecha": "2026-11-26T14:38:16+01:00",
+     "fecha_txt": "26 nov"
     },
     {
-     "titulo": "Los incendios forestales disparan a 10 millones de euros el coste de las catástrofes naturales en Galicia en 2025",
-     "url": "https://www.msn.com/es-es/noticias/otras/los-incendios-forestales-disparan-a-10-millones-de-euros-el-coste-de-las-cat%C3%A1strofes-naturales-en-galicia-en-2025/ar-AA2idzba",
-     "fuente": "Moncloa on MSN",
-     "resumen": "Galicia registró en 2025 unos diez millones de euros en daños materiales por catástrofes naturales, con Lugo como la provincia más castigada. La entrada Los incendios forestales disparan a 10 millones ...",
-     "fecha": "2026-11-25T09:17:34+01:00",
-     "fecha_txt": "25 nov"
+     "titulo": "Dos investigados por un incendio forestal originado durante unos trabajos de reparación en Bembibre (León)",
+     "url": "https://www.abc.es/espana/castilla-leon/dos-investigados-incendio-forestal-originado-trabajos-reparacion-20261126134128-nt.html",
+     "fuente": "ABC",
+     "resumen": "El fuego se habría iniciado por las chispas generadas durante el uso de una radial en unos trabajos de mantenimiento de un puente situado en la N-VI ...",
+     "fecha": "2026-11-26T05:40:00+01:00",
+     "fecha_txt": "26 nov"
     },
     {
      "titulo": "La campaña contra incendios finaliza sin el kit apagafuegos del A400M que Sánchez anunció como medida estrella",
@@ -129,22 +145,6 @@
      "resumen": "El 84,5 % de los núcleos de población en España linda con zonas boscosas, algo que incrementa la exposición de viviendas, negocios y personas frente a fuegos ...",
      "fecha": "2026-11-25T06:30:00+01:00",
      "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "El 43 Grupo del Ejército del Aire cierra la campaña de incendios de 2026 con 5.200 descargas de agua y 1.923 horas de vuelo",
-     "url": "https://www.infodefensa.com/texto-diario/mostrar/6108172/43-grupo-ejercito-aire-cierra-campana-incendios-2026-5200-descargas-agua-1923-horas-vuelo",
-     "fuente": "Infodefensa",
-     "resumen": "Entre las primeras actuaciones de la temporada destacaron las realizadas en Los Garres, en la Región de Murcia, y en los municipios onubenses de Alosno y Villanueva de los Castillejos.Interv ...",
-     "fecha": "2026-11-25T06:25:00+01:00",
-     "fecha_txt": "25 nov"
-    },
-    {
-     "titulo": "La España rural busca su oportunidad frente a la despoblación y los incendios",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV1d5ZTc2SGRNdUQzSnd0OUR4MG1IS2U5WVJyTkNHNF9SajYyeVpTVl9lZHpIZVdGUlAxTzFkRUI4NXVPQ1ppc2haUkR0R21sLV9kNUp0R21TeVVSbTlDV1FtZlJzcXUzZE50YlVqV2RscEt2Ukc3ODh0V2pUUWQ2OGxDdjdGaVBKdkowVU9iaUFjMGFhcEhNU0NXTG5EUk02SHozRzZPRi3SAa4BQVVfeXFMTjRCcEliY1RGcEx4MjhuQ0trQVdBRHAzOXRGdkZkTDNqZndtVHlZNi1kdnluY0w1VVZadm82RF83S1BSVHotaWU1dnJFQ3lXRkU3N2R3bnpSSjBPU05aSTREMFpacE9naGQ2b0Z2cVE1TDNlaG11TW9BenRhUUliWnFRcjJhYnIxSmc5UE9jYUZ3dE1fd1pRb2hmM3gyaEowTmltZWp5ZjJkY0NTbllB?oc=5",
-     "fuente": "La Nueva España",
-     "resumen": "",
-     "fecha": "2026-11-25T06:01:21+01:00",
-     "fecha_txt": "25 nov"
     }
    ]
   },
@@ -154,6 +154,14 @@
    "claim": "DANA, riadas, desbordamientos y avisos por lluvia.",
    "items": [
     {
+     "titulo": "Así serán las viviendas preparadas para fenómenos extremos",
+     "url": "https://www.msn.com/es-es/noticias/otras/as%C3%AD-ser%C3%A1n-las-viviendas-preparadas-para-fen%C3%B3menos-extremos/ar-AA2il4Sn",
+     "fuente": "Arquitectura y Diseño on MSN",
+     "resumen": "Los veranos con noches tropicales, las DANAS que convierten las calles en ríos y los incendios que alcanzan urbanizaciones enteras han dejado de ser, desgraciadamente, excepciones en España. Y la vivi ...",
+     "fecha": "2026-11-27T00:30:00+01:00",
+     "fecha_txt": "27 nov"
+    },
+    {
      "titulo": "Mireya Esther Bueno cubana sobreviviente a la Dana en España: «El miedo va a estar siempre»",
      "url": "https://www.cubanoticias360.com/mireya-esther-bueno-cubana-sobreviviente-a-la-dana-en-espana-el-miedo-va-a-estar-siempre/",
      "fuente": "Cuba Noticias 360",
@@ -162,60 +170,52 @@
      "fecha_txt": "22 nov"
     },
     {
-     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España: lluvias torrenciales, fuertes vientos y riesgo de inundaciones",
-     "url": "https://www.lasexta.com/tecnologia-tecnoxplora/ciencia/borrascas-bruna-charles-ponen-alerta-espana-lluvias-torrenciales-fuertes-vientos-riesgo-inundaciones_202611106af34c8e9a31a65adcd747a4.html",
-     "fuente": "laSexta",
-     "resumen": "Este miércoles día 11 será uno de los días más complicados, pero la situación podría empezar a mejorar a partir del jueves.",
-     "fecha": "2026-11-10T09:55:00+01:00",
-     "fecha_txt": "10 nov"
-    },
-    {
-     "titulo": "Aviso especial de la AEMET para varias comunidades de España: peligro de inundaciones del martes 10 al juev...",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWF9SSDlSd2dyMDkyRS1ib3ktMlNWNmw5RExFZU96bjNpSlF2MnU3SGZXcU9qOWNKTlI4Qy1xaEd4V1NiUlRxLTNiazZsWERNZ2NjTXBaaVRja1JXNm9naUN0UGRIN0EyVzd6YXhqYkMyTl9hV1dKMTFGcDl6cjZGRzJ4SmZ2anowRnVLOWYyU2Y4TXoxcVBpQWVLbmNfbDJqZUJQQ2VIUlA3eERGY2VBUjNwVnBDeEdiM04wUEh4MFJFV19MaGotbXR30gHPAUFVX3lxTFAxa3BITEpxNW45MXVYdDJmZ0lsLU43Y2NGNzFmZFBOQTBjZ3VSUHRTUWVJT1dZcG9qc053eGwtMlhmTzMta04tM0kwVkRQYkoyWkdVdXpmdUEtTkNCSm1sckZqUnloM012VkhhY1pvMW9NRHd5U09YNjNGME1aamZ5ejdDZTFtU2cydEtYbHRkNTBNTmNSNVdlaTVfckVTVlY0SDdHMnNkSExVMEEtc1VmWXVPLS1kcjdfczk1UWRyRzJIUXJGY1NBYmc3QkNkbw?oc=5",
-     "fuente": "OkDiario",
+     "titulo": "La Agencia Espacial Europea y la española (ESA) trabajan en un sistema para elaborar mapas de inundaciones en 2 horas",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOOHB1czVmVlN6aktucHN2NHF3dmM2ZmtKYXRQYnloenRYWmQ1T1VQOHdpZDdTQktmS3g2NUFyLUZDTlNEV2xhZnJaWmZpRHJxVi1vMmpuck90XzNVcTRIWExGbjB2eGNLZ2ZKcjA3MDRabk52NW9IOFpXdG5tbTFKWXlaOE9ycDhhTW5rbHFfcVVoNDJWQ19aUzdMVGhQWFQ0OEt4M0NwTWhjMWRDNWpJanE0UGd5WnhRY1J0MkZqY3Nmb09NVVAwaTF0S1NxMzY0NHdZaGZtWmJHMUxCckFZTlJ5Vkx3dUpmZlpWdlA0dlhZdUZGY0E?oc=5",
+     "fuente": "Meteored España",
      "resumen": "",
-     "fecha": "2026-11-10T09:00:00+01:00",
-     "fecha_txt": "10 nov"
+     "fecha": "2026-11-15T09:00:00+01:00",
+     "fecha_txt": "15 nov"
     },
     {
-     "titulo": "España prepara un sistema espacial para crear mapas de inundaciones en menos de 2 horas ante emergencias como la dana",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWZ4N3dkYmQxeTRvNThZR1pUZmJIMWpmR0t2X0RZemotaHJWTGpGVmRUclZ5cjRkOUNDT05RZTBFT2hhX3lvT3FPSmxZRzREeWZvTEdna0VyM2h6bnlndkxYVG5Xa1oxNkc1dm5UN0Y3djV1S2tlMk9KbVRHVDZrUjhMcjVOaERXN3lSVGx4dXM4eFZwVWNIYUpqZXl4Rk5tbEo5aHA2YVFlZlRkSjN4YWtCaW45SWxpYUdQaDB2SmxGZw?oc=5",
-     "fuente": "20 Minutos",
+     "titulo": "Qué distintos somos: Ante las inundaciones, España destina 85 millones de euros para sus caminos rurales, 15 veces el presupuesto de Milei para atender las emergencias agropecuarias en todo 2027",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxONlZxV2ttTVJBeE5ySEE5QlRXblZjZ1ZvY2hKZ2xaZ2tJUlRhUHdoMnRPUGNjNWNSVF9FMXUwNTNlSXVsMlo0S25JampmRHRtLXlJV25laXkxNmpJQ2NvbXFJS1A2ZWowQzFDRGxqNlJzZHJReWp4SkJUY1JIY2RBc0ZYeTl4Wi1pT1dpUFhrcFo2MURSbmlqUWNzYmNjYmpIOEw1X29lU25sQnExbkNYdmRzaWRFWk90RzVCUWVMejdhT1p6U1lxa0V5dGhOYmV3bVYyTGIwWFNsamRkNkZ6Zy0yQndaR1N1UHlObElFVTJEdk9rMldGMElQN0RLMHBWbUdUa011c01TS1psVC14UkNnVkVxNUNuR3UySURkbUpPUTFIQnYwZlUwazNLUmdPMmxFNGtpYkJGZW5MN0Rz?oc=5",
+     "fuente": "Bichos de Campo",
      "resumen": "",
-     "fecha": "2026-11-06T09:00:00+01:00",
-     "fecha_txt": "6 nov"
+     "fecha": "2026-11-14T09:00:00+01:00",
+     "fecha_txt": "14 nov"
     },
     {
-     "titulo": "Los meteorólogos avisan: desde 2040 las lluvias torrenciales aumentarán el riesgo de inundaciones en España",
-     "url": "https://www.elespanol.com/ciencia/20261106/meteorologos-avisan-lluvias-torrenciales-aumentaran-riesgo-inundaciones-espana/1003744435488_0.html",
-     "fuente": "ESPAÑOL",
-     "resumen": "España puede recibir menos lluvia a lo largo del año y, al mismo tiempo, sufrir episodios mucho más violentos cuando finalmente llueva. Puede parecer contradictorio, pero es precisamente uno de los ...",
-     "fecha": "2026-11-05T22:29:00+01:00",
-     "fecha_txt": "5 nov"
-    },
-    {
-     "titulo": "¿Y si la Dana de 2024 hubiera desbordado el Carraixet? Así afectaría la inundación a l'Horta Nord",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcXBOTkM0VnoyQUdSeGtNazFDbkRaX2gwVmxjcGIxN0N5SDRIV2pybE9wUTlsOGcyNFZncTJiSmg4dDNsM1pFMlNEcUhTeVZjazFGb2JyU19tRTVvMExOMlVzLUVtYkxiR1RyU2p4MDdkb2tRdk0tTjljZmtmWHktOFFhdHN6N3RvRFNZWkctTW5lellxXzNOYmswY1hQeWpzbjVsdWkyZFc0OXc4b3IzaFVHanhIblU5amFPSmpyRnNSWThYZlZNcU1tWGZKUE90VlVjWWlvYU12VnpvaW5DVVNKSTZRQ1E?oc=5",
-     "fuente": "Valencia Plaza",
+     "titulo": "La Aemet avisa a España de fuertes lluvias y tormentas por la llegada de la borrasca Charles: estas son las zonas más afectadas",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUhyWkVjazdQSDlZUlNMMnd3dlhmVUJaek5WQW5aY3REQlFqWTdvcjJfMWczejR3V3pUaVNPS2NQMmJxMUtBWFpPSHVBa2JsYVdCQjdJNGhhX1c3MDQ3ZlVBRUNBUDdTV1Jub2U1NjVQWEJBQTI3bFg2Si1ZMFhRMnpzUkEyNDhuOUlIbFlpbU56UWVDQXNUTGRfSm45Z2RWU1RGbEo1UWlQWXBUUXprNXBKVkV0TmJ1Mm13V9IBwgFBVV95cUxPajNQQXF6bUszNGo1X1htOVBSR19nTjhvd0tUMVlZcFpIUXRaYWYwYnJ1RUNicXpnR1loMXNyVXBjX29pTXBKeHoxVGFmSE1jUHdlV3dJR0NNMzhTbDc4YlYyeHl6XzFWb3dZWjJZWmQ4a293YkJxcFBTakhBczdfOVVIaGU0Q2c5dkdoTlV4OVhfaG91enZjUVdkMktrWi1sVUpocThZT2RzT3hjTVpQY2RNUklaTTBnbFdNbF94YmRtUQ?oc=5",
+     "fuente": "ABC",
      "resumen": "",
-     "fecha": "2026-11-03T09:00:00+01:00",
-     "fecha_txt": "3 nov"
+     "fecha": "2026-11-12T09:00:00+01:00",
+     "fecha_txt": "12 nov"
     },
     {
-     "titulo": "Confirman 32 colombianos desaparecidos y un fallecido en la tragedia de Dana, en Valencia, España",
-     "url": "https://www.noticiasrcn.com/internacional/32-colombianos-desaparecidos-y-un-muerto-en-la-tragedia-de-dana-en-valencia-espana-768208",
-     "fuente": "Noticias RCN",
-     "resumen": "El último reporte entregado por las autoridades españolas reseña, hasta ahora, un total de 32 colombianos desaparecidos tras más de 72 horas de haberse producido este fenómeno natural que arrasó con ...",
-     "fecha": "2026-10-31T18:00:00+01:00",
-     "fecha_txt": "31 oct"
-    },
-    {
-     "titulo": "El paso de la DANA Adam deja víctimas mortales y graves inundaciones en el este de España",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tbGJjNXFLWHNzNUZERUFRRVRXNG9OUzVaV05fSlNoRGlScHNyV1VIUVNfTEJ4T0VhV1Y0MFVFYnMwcFNoU29aS1FVLWtpXzNZRDJRN1VXQmU4MkpRUkMyVnlnRWJYb0E?oc=5",
-     "fuente": "CGTN",
+     "titulo": "La borrasca Charles azota España con lluvias intensas y vientos huracanados: ES-Alert en Andalucía, carreteras cortadas y clases suspendidas",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPemFQYkFfOVlQSi14SU5OSzExd0ZSREZGTG5tV2tFU08xV1FVOWltTjJwdnhHYVQ0anZZeko3TTJoT04tdmZ2bU40eUdRU29EYnRVN1pKd2R4Qm16Qmh4elRSNHA1akhfYlJTMmZ6MnJydFJxT3A5N2NpLWJtc2d3dm5pSnNucjBLY0N2X19NZTdkUmhUTTlIaE85SXdjcFl1ekp4QjdnTFJmd0U1M3FLZFNTTHFlSjl1RGlkTWMwREQ2cmU1bW5LcHdUNV9UR1ZLQlQ1UEJGeUFIVU9XZDNacDVoYlptVGV1RkEyMG50a2ZObmxNU1FJU2VKNWx4SVN2dldOV3U5RjlLdmFOV19ZUEpKeHpxUdIBlgJBVV95cUxNelZZSmE2Z0VsOG9TMkZjalJRajdGc1lBVmNxa0VUY2FhcWlkNEdXT2tfc2JBWFR1WHFZYk5yQzd3ZFB4cGgybjJjaU5leXNqdGFHdnI3Zl9wT1RweVNlajdKLVVzUkk4dXN3VHE4ZjFtazhWVDVzcUd5a2VjNko2Z0hSRVFrVktxbEpqempBMkdfQzhjT3FkdVNhRGNNR3lLLWdVTVlicTRiX05pcUk3aWZXeUpUeUtyOUJucjdXR3F3ZUtaUW15MklXWWlDUjRDS3h3RE1hd2h6cWR5UUkwY0EzbDJXRDhNeUVBdVZlNjk5Z21NWUZrX0pTZnBRcHJlQjdiU3ZQYTliaHNRc3RUSEZoSUdQZw?oc=5",
+     "fuente": "LaSexta",
      "resumen": "",
-     "fecha": "2026-10-31T04:01:00+01:00",
-     "fecha_txt": "31 oct"
+     "fecha": "2026-11-11T09:00:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Las borrascas Charles y Bruna azotan España con lluvias y vientos",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVRiNEE4X1hjbk0tbmtBWUlBcUUtbnVRSEpFUFI0U0lrX3ZyMTNuNERyRlFBYklBMkcwd0kybVdlTlhEWkwwWFUxTlVmSFFyZXNiWWhFd0lIa0tHRHVhUnZQTmVCb2JhcXZUZjRhWE9NVU5IcllCRHRiQUVyTzkzRllZa0ZzY0ly?oc=5",
+     "fuente": "Euronews.com",
+     "resumen": "",
+     "fecha": "2026-11-11T09:00:00+01:00",
+     "fecha_txt": "11 nov"
+    },
+    {
+     "titulo": "Las borrascas Bruna y Charles ponen en alerta a España en plena huelga general: la AEMET activa avisos rojos por lluvias y viento",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNc3F2dDhtMzdfTXluNUdTR2NGM280UVplNk11QW9ZNEhFd1hneUFocmtZZnR1WnBPVU9SUDZqdExOREhOMGl0VUd3a0xsdHlLMGp1ODdnZWc5LWkxUUYxLW0xbEZKUEJvU3M4RWkzczhtLVk4dEE4UVZYNzkxQzF2QlVjQ05yT19JOUl0RlR3R09XTHNBY3RubGNOODh6UXlqWVIwS01QNWp5ampXVW9GV3VJMEFubHZGM3BfUGQtbHktY3Bsd1Z3UUwtV1liZEt0b3ZPV3FNRTM5cl93Q3hqeDhYWi1sVUk3X0YyVzU3YldMU0x4SFczNENWTTZkRllqU2RRMUFEY9IBmwJBVV95cUxOQ1A3UW4tYUs2VmtCbndzSmhVTE81Nm1kMjRWdFRlTFdlSjNiWVVyeHR1WjMxcHNHVGVGbEJOeVRLclJBSlZnZy1LMHJ5NWdiV1NNVDZTbnpTdEhPOE5XbVJ4d3pyRTYtcThFR2MySHU4OFIwS1BQSlM2TlpXTDRKS09iaXJxR01SS2MtN09XdlNxYkpleFJ3ZDFMVTB2b0x0bFJpQWtxM1JVMWI4blFyWFF3MmhGcjc1UF9IRUtDd0kzcllyUTJJLXBPbjN4b3J1RmEzNVBlUDdGeUkzYnUwMkpDMkNqcGJzYkJ0Z2xKazJ6QXgtNTFyMG56eXRVWHU5Sm8xUndYN2xsSWdMWVhUUVE3Zm01YVdmanJn?oc=5",
+     "fuente": "La Razón",
+     "resumen": "",
+     "fecha": "2026-11-11T09:00:00+01:00",
+     "fecha_txt": "11 nov"
     }
    ]
   },
@@ -281,12 +281,12 @@
      "fecha_txt": "20 nov"
     },
     {
-     "titulo": "La sigilosa salida en Red Eléctrica tras el apagón: cae su jefe de programación de energía",
-     "url": "https://theobjective.com/economia/energia/2026-11-19/destitucion-red-electrica-apagon/",
-     "fuente": "THE OBJECTIVE",
-     "resumen": "Red Eléctrica destituyó en junio a su director de Programación de la Operación, Tomás Domínguez, para nombrar al ingeniero Eduardo Prieto, que venía de ...",
-     "fecha": "2026-11-19T02:26:00+01:00",
-     "fecha_txt": "19 nov"
+     "titulo": "¿Ha habido finalmente un apagón en España? Qué ha pasado con la luz tras la hora anunciada del 17 de noviembre",
+     "url": "https://www.elpespunte.es/entretenimiento/ha-habido-finalmente-apagon-espana-que-ha-pasado-luz-hora-anunciada-17-noviembre/20261117204206162945.html",
+     "fuente": "El Pespunte",
+     "resumen": "La hora de las 20:20 ha llegado rodeada de rumores sobre un supuesto apagón mundial de 72 horas. Miles de personas se preguntan si finalmente se ha cortado ...",
+     "fecha": "2026-11-17T13:42:00+01:00",
+     "fecha_txt": "17 nov"
     }
    ]
   }
