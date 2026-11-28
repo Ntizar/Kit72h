@@ -77,3 +77,5 @@
 | 2026-11-26 | botiquin-emergencia-lista-completa | revamp | encolado | Revamp 423->1512 palabras: 15 objetos en tabla, 5 imprescindibles, rotacion de caducidades, bloques coche/bebe/mayores, 4 fuentes, 8 internos |
 | 2026-11-27 | temperatura-sin-electricidad | revamp | encolado | Revamp 328->1466 palabras: tabla de temperatura por estancia, plan 72h, 3 fuentes verificadas, 6 internos, 3 kit |
 | 2026-11-27 | que-llevar-en-el-coche-si-nieva | guia | propuesto | Play del dia: escenario nieve del mes; top score 101,2 duplicado del 16-nov |
+| 2026-11-28 | como calentar la casa sin electricidad | guia | propuesto | Top score 101,2 pero duplicado de calentar-casa-sin-electricidad-invierno (16-nov); propuesta: revamp de esa URL en proxima tanda |
+| 2026-11-28 | mejor linterna emergencia 72h | revamp | encolado | Revamp 700->1543 palabras: 2 tablas, 7 ASIN catalogo, 3 blog + 3 kit, 3 fuentes oficiales; score 50,4 <55 pero unico ejecutable no duplicado |
